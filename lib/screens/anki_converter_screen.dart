@@ -1332,7 +1332,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                   backgroundColor: Colors.cyan.shade900,
                   foregroundColor: Colors.white,
                 ),
-                child: const Text('Unzip 83 Quran Translations'),
+                child: const Text('Unzip 84 Quran Translations'),
               ),
               Tooltip(
                 message: 'One translation so Split vtt cues works',
@@ -1366,7 +1366,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                 child: const Text('Split vtt cues'),
               ),
               Tooltip(
-                message: 'Automatically splits vtt cues for 83 translations for the\n '
+                message: 'Automatically splits vtt cues for 84 translations for the\n '
                     'current Quran verse by verse audiobook, may overwrite existing vtt',
                 waitDuration: const Duration(milliseconds: 400),
                 preferBelow: false,
