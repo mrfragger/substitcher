@@ -6,6 +6,7 @@ APP_NAME="substitcher"
 APP_VERSION="26.11.09"
 BUILD_DIR="build/linux/x64/release/bundle"
 APPDIR="AppDir"
+APP_ID="io.github.mrfragger.substitcher"
 
 echo "Creating AppDir structure..."
 rm -rf $APPDIR
@@ -71,7 +72,7 @@ else
 fi
 
 echo "Creating desktop file..."
-cat > $APPDIR/$APP_NAME.desktop << EOF
+cat > $APPDIR/$APP_ID.desktop << EOF
 [Desktop Entry]
 Name=SubStitcher
 Exec=substitcher
@@ -82,7 +83,7 @@ Comment=Audiobook player with subtitle support
 Terminal=false
 EOF
 
-cp $APPDIR/$APP_NAME.desktop $APPDIR/usr/share/applications/
+cp $APPDIR/$APP_ID.desktop $APPDIR/usr/share/applications/
 
 echo "Creating icon..."
 ICON_SRC="assets/icon.png"
@@ -105,10 +106,10 @@ cp $APPDIR/substitcher.png $APPDIR/usr/share/icons/hicolor/256x256/apps/
 
 echo "Creating AppStream metadata..."
 mkdir -p $APPDIR/usr/share/metainfo
-cat > $APPDIR/usr/share/metainfo/$APP_NAME.appdata.xml << EOF
+cat > $APPDIR/usr/share/metainfo/$APP_ID.appdata.xml << EOF
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop-application">
-  <id>$APP_NAME</id>
+  <id>$APP_ID</id>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>MIT</project_license>
   <name>SubStitcher</name>
@@ -119,7 +120,7 @@ cat > $APPDIR/usr/share/metainfo/$APP_NAME.appdata.xml << EOF
   <description>
     <p>SubStitcher is an audiobook encoder and player with subtitle support, bundling FFmpeg, Whisper transcription and DeepFilter noise reduction.</p>
   </description>
-  <launchable type="desktop-id">$APP_NAME.desktop</launchable>
+  <launchable type="desktop-id">$APP_ID.desktop</launchable>
   <url type="homepage">https://github.com/mrfragger/substitcher</url>
   <url type="bugtracker">https://github.com/mrfragger/substitcher/issues</url>
   <content_rating type="oars-1.1"/>

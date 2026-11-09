@@ -21,15 +21,15 @@ EOF
 
     cd "$srcdir"
     chmod +x substitcher-x64.AppImage
-    ./substitcher-x64.AppImage --appimage-extract usr/share/applications/substitcher.desktop 2>/dev/null || true
+    ./substitcher-x64.AppImage --appimage-extract usr/share/applications/io.github.mrfragger.substitcher.desktop 2>/dev/null || true
     ./substitcher-x64.AppImage --appimage-extract substitcher.png 2>/dev/null || true
 
-    if [ -f squashfs-root/usr/share/applications/substitcher.desktop ]; then
-        install -Dm644 squashfs-root/usr/share/applications/substitcher.desktop "$pkgdir/usr/share/applications/substitcher.desktop"
-        sed -i 's|Exec=substitcher|Exec=/usr/bin/substitcher|g' "$pkgdir/usr/share/applications/substitcher.desktop"
+    if [ -f squashfs-root/usr/share/applications/io.github.mrfragger.substitcher.desktop ]; then
+        install -Dm644 squashfs-root/usr/share/applications/io.github.mrfragger.substitcher.desktop "$pkgdir/usr/share/applications/io.github.mrfragger.substitcher.desktop"
+        sed -i 's|Exec=substitcher|Exec=/usr/bin/substitcher|g' "$pkgdir/usr/share/applications/io.github.mrfragger.substitcher.desktop"
     fi
 
     if [ -f squashfs-root/substitcher.png ]; then
         install -Dm644 squashfs-root/substitcher.png "$pkgdir/usr/share/icons/hicolor/256x256/apps/substitcher.png"
-    fi
+    fi    fi
 }
