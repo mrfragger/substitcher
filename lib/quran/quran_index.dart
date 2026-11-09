@@ -548,7 +548,7 @@ const List<String> availableQuranIndexLanguages = [
   'Cebuano',
   'Chichewa',
   'Chinese',
-  'ChineseTrad *',
+  'ChineseTrad',
   'Circassian *',
   'Croatian',
   'Czech *',
@@ -560,7 +560,7 @@ const List<String> availableQuranIndexLanguages = [
   'Finnish *',
   'French',
   'Fulani',
-  'Georgian *',
+  'Georgian',
   'German',
   'Greek',
   'Gujarati',
@@ -684,7 +684,7 @@ String getQuranIndexRaw(String language) {
       return quranIndexFrenchRaw;
     case 'Fulani':
       return quranIndexFulaniRaw;
-    case 'Georgian *':
+    case 'Georgian':
       return quranIndexGeorgianRaw;
     case 'German':
       return quranIndexGermanRaw;

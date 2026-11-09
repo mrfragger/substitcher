@@ -6,6 +6,7 @@ import 'translation_various_croatian.dart';
 import 'translation_various_dagbani.dart';
 import 'translation_various_dari.dart';
 import 'translation_various_dutch.dart';
+import 'translation_various_georgian.dart';
 import 'translation_various_greek.dart';
 import 'translation_various_gujarati.dart';
 import 'translation_various_hebrew.dart';
@@ -40,6 +41,7 @@ const List<String> variousTranslationLanguages = [
   'Dagbani',
   'Dari',
   'Dutch',
+  'Georgian',
   'Greek',
   'Gujarati',
   'Hebrew',
@@ -76,6 +78,7 @@ String? getVariousTranslation(String language, int surah, int ayah) {
     case 'Dagbani':      return getVariousTranslationDagbani(surah, ayah);
     case 'Dari':         return getVariousTranslationDari(surah, ayah);
     case 'Dutch':        return getVariousTranslationDutch(surah, ayah);
+    case 'Georgian':     return getVariousTranslationGeorgian(surah, ayah);
     case 'Greek':        return getVariousTranslationGreek(surah, ayah);
     case 'Gujarati':     return getVariousTranslationGujarati(surah, ayah);
     case 'Hebrew':       return getVariousTranslationHebrew(surah, ayah);

@@ -24,7 +24,7 @@ const Map<String, List<SurahEntry>> _surahsByLanguage = {
   'Burmese *': _Burmese,
   'Cebuano': _Cebuano,
   'Chinese': _Chinese,
-  'ChineseTrad *': _ChineseTrad,
+  'ChineseTrad': _ChineseTrad,
   'Circassian *': _Circassian,
   'Croatian': _Croatian,
   'Czech *': _Czech,
