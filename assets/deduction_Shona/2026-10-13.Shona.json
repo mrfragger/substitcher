@@ -1,0 +1,61 @@
+{
+  "title": "Muvengi Ane Moto",
+  "intro": "Mumazuva ekutanga ekuzarurwa, mumwe munhu akabuda semuvengi akasindimara wechokwadi. Akomborerwa nepfuma nechinzvimbo, mweya uyu wakasarudza kuzvikudza pane kutungamirirwa, uye nyaya yavo yakava yambiro yakasimba mundima dzekupedzisira dzesurah.",
+  "clues": [
+    "Ndaigara muguta rimwe chete neMuporofita, uye ndaiva pakati pehama dzake dzepedyo, asi kuzvikudza kwangu kwakandiita kuti ndisave nechokwadi.",
+    "Ndaiva nepfuma yakawanda uye pfuma yakawanda, uye ndaifunga kuti pfuma yangu yaizogara ichindidzivirira.",
+    "Shoko parakazoburitswa pachena, ndakariseka pachena ndikabva ndafuratira, ndichizviti ndiri mukuru kupfuura vatendi.",
+    "Ruvengo rwangu rwaive rwakakurumbira zvekuti surah yeKorani yakataura neni zvakananga, ichindidana nezita randaizivikanwa nevamwe.",
+    "Ndakanyeverwa kuti pfuma yangu nemari yangu zvaisazondibatsira, uye ndaizokandwa mumoto unopfuta.",
+    "Ndinozivikanwa sababa vemurazvo, uye mudzimai wangu anotakura huni netambo yeshinda yemuchindwe yakakomberedza mutsipa wake."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Akaramba Islam uye akapikisa Muporofita pachena",
+        "Vakaronga kuuraya Muporofita",
+        "Vakatungamira kuratidzira kusawirirana pakati pevaMuslim",
+        "Vakarwa muHondo yeBadr",
+        "Akatambudzwa Bilal ibn Rabah"
+      ],
+      "answer": "Akaramba Islam uye akapikisa Muporofita pachena"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Tambo yeshinda yemuchindwe",
+        "Munondo wakapinza",
+        "Cheni inorema",
+        "Tsvimbo yehuni",
+        "Chikwapuro chedehwe"
+      ],
+      "answer": "Tambo yeshinda yemuchindwe"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Ichatsva mumoto unopfuta",
+        "Akapfidza ndokuva shamwari",
+        "Akarasikirwa nepfuma yake asi akafa achiremekedzwa",
+        "Akatizira kuAbyssinia",
+        "Kunyura mugungwa"
+      ],
+      "answer": "Ichatsva mumoto unopfuta"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

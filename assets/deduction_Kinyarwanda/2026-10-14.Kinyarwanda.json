@@ -1,0 +1,61 @@
+{
+  "title": "Abishe amasezerano bari mu bunyage",
+  "intro": "Mu minsi ya mbere y’umuryango mushya, ubwoko bwabaga mu mazu akomeye, buyobowe n’amasezerano. Ubwo ayo masezerano yagambanirwaga, ingaruka zagaragaye mu mpapuro za Korowani. Abo bantu bari bande, kandi se ni iki cyabaye ku mazu yabo n’imirima yabo?",
+  "clues": [
+    "Twatuye mu birindiro bikomeye byaduhaga kumva dufite umutekano mu buryo butari bwo.",
+    "Twari abantu b'Ibyanditswe Byera, nyamara twishe isezerano ryacu.",
+    "Twateguye umugambi wo kurwanya intumwa nyuma yuko ije aho turi, ariko umugambi wacu warananiranye.",
+    "Ibiti byacu by'imikindo byaciwe ku itegeko rya Allah, ikimenyetso cy'imbaraga ze.",
+    "Twirukanywe mu ngo zacu, ntituzongera kugaruka, nk'igihano cyo kwigomeka kwacu.",
+    "Korowani iratuvuga mu gice cy'inama, kandi inkuru yacu ni umuburo ku bica amasezerano."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Banu Nadir",
+        "Banu Qurayza",
+        "Banu Qaynuqa",
+        "Abantu bo muri Madyan",
+        "Abantu bo muri Thamud"
+      ],
+      "answer": "Banu Nadir"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Gutegwa no kwirukanwa mu ngo zabo",
+        "Kurohama mu nyanja",
+        "Kumirwa n'isi",
+        "Isenywa n'inkubi y'umuyaga",
+        "Guhindurwamo inkende"
+      ],
+      "answer": "Gutegwa no kwirukanwa mu ngo zabo"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Ibiti by'imikindo byaciwe",
+        "Abakozi",
+        "Inkuge",
+        "Iriba ry'amazi",
+        "Ubuvumo"
+      ],
+      "answer": "Ibiti by'imikindo byaciwe"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Bajyanywe mu bunyage n'imitungo yabo yafashwe",
+        "Yagarutse atsinze",
+        "Nababariwe kandi bagumaho",
+        "Yinjiye muri paradizo ako kanya",
+        "Bakubiswe n'icyorezo"
+      ],
+      "answer": "Bajyanywe mu bunyage n'imitungo yabo yafashwe"
+    }
+  },
+  "verseRef": "59:5",
+  "arabic": "مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَـٰسِقِينَ",
+  "verse": "Whatever you have cut down of [their] palm trees or left standing on their trunks - it was by permission of Allāh and so He would disgrace the defiantly disobedient. (59:5)"
+}

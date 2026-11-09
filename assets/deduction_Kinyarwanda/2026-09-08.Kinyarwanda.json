@@ -1,0 +1,61 @@
+{
+  "title": "Igeragezwa ry'Umuriro Mutagatifu",
+  "intro": "Mu gihugu cya kera aho kwiyegurira amabuye akozwe mu mabuye byari byarashinze imizi muri buri rugo, umuntu umwe yari atandukanye n’abandi. Binyuze mu kwemera gukomeye no kurindwa n’Imana, bahuye n’urupfu rwagombaga kuba nta kabuza - maze baragenda nta cyo babaye. Ese ushobora kumenya uwo uyu muntu utangaje ari we?",
+  "clues": [
+    "Nakuriye mu bantu bapfukamiraga ibigirwamana bari bacukuye n'amaboko yabo, bizera ko ibyo bintu bifite imbaraga z'Imana.",
+    "Ubwo nashidikanyaga ku myizerere yabo, babanje kunyirengagiza, ariko sinashoboraga guceceka ku kuri nari nzi.",
+    "Umunsi umwe ubwo bateraniraga kure, nashenye ibigirwamana byabo, nsiga kimwe kinini gusa nta cyo cyakozeho.",
+    "Bagarutse babonye ibyo nakoze, abayobozi babo bategetse ko hubakwa umuriro munini, bashaka kunjugunya mu muriro.",
+    "Banjugunye mu muriro ugurumana, ariko Umwami w'isi yategetse ko uhinduka ukonje kandi utekanye kuri njye.",
+    "Navuye mu muriro nta cyo nabaye rwose, mu gihe abangiriye inama yo kungirira nabi bari mu kaga gakomeye."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Intumwa Ibrahimu",
+        "Umuhanuzi Musa",
+        "Umuhanuzi Nuh",
+        "Umuhanuzi Isa",
+        "Intumwa y'Imana Yusufu"
+      ],
+      "answer": "Intumwa Ibrahimu"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Gutabwa mu muriro ugurumana",
+        "Kumirwa n'ifi nini",
+        "Kurokoka umwuzure ukomeye",
+        "Gutabwa mu iriba rinini",
+        "Guhangana n'abapfumu b'umwami"
+      ],
+      "answer": "Gutabwa mu muriro ugurumana"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Inkwi nyinshi zirimo umuriro",
+        "Inkuge nziza y'ibiti",
+        "Igishushanyo cy'inyana ya zahabu",
+        "Igitebo kiri ku mazi ku ruzi",
+        "Intebe y'ubwami ihebuje"
+      ],
+      "answer": "Inkwi nyinshi zirimo umuriro"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Allah yatumye umuriro ukonja kandi utekanye",
+        "Ubwato bwahagaze neza ku musozi",
+        "Ikigirwamana cya zahabu cyashongeshejwe imbere yabo",
+        "Umugome n'ingabo ze barohamye mu nyanja",
+        "Umuntu wari impumyi yahumutse"
+      ],
+      "answer": "Allah yatumye umuriro ukonja kandi utekanye"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

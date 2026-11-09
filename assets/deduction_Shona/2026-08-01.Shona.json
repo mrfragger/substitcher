@@ -1,0 +1,61 @@
+{
+  "title": "Mukundi Ari Pakati Pemafungiro Maviri",
+  "intro": "Munhoroondo yenhungamiro yaMwari, mumwe munhu anomira akasiyana semutongi ane simba uye muranda waAllah anozvininipisa. Munhu uyu akafamba kusvika kure kure kwenyika, achiona zuva richibuda pavanhu vasina kujairika ndokunyura muchitubu chakasviba chine rima. Chinoshamisa ndechekuti, muranda uyu akapihwa basa rekuvaka rusvingo runoshamisa kubva kurudzi rwezvakaipa zvikuru. Unogona here kuziva munhu uyu wengano kubva muKorani?",
+  "clues": [
+    "Ndakapiwa simba nepesvedzero panyika naIye Ane Ngoni Zvikuru",
+    "Ndakaenda kunzvimbo inobuda zuva uye kwarinonyura",
+    "Ndakasvika kuvanhu vaisagona kunzwisisa shoko",
+    "Ndakarayirwa kuvaka rusvingo rukuru ndichishandisa simbi",
+    "Ndakavhara nzvimbo iri pakati pemakomo maviri akadzika nesimbi yakanyungudutswa",
+    "Ndakanga ndisiri ngirozi kana muporofita, asi muranda akapihwa nyasha naAllah"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Dhu al-Qarnayn (Uyo Ane Nyanga Mbiri)",
+        "Mambo Suleiman (Soromoni)",
+        "Muporofita Dhul-Kifl",
+        "Dhu al-Nun (Shamwari yehove)",
+        "Ngirozi yeChipingamupinyi"
+      ],
+      "answer": "Dhu al-Qarnayn (Uyo Ane Nyanga Mbiri)"
+    },
+    "trial": {
+      "label": "Basa Guru",
+      "options": [
+        "Kuvaka shongwe kuenda kudenga",
+        "Kuvaka chidziviriro chikuru chesimbi kubva kuna Yajuj naMajuj",
+        "Kugadzira chigaro cheumambo chegoridhe chekutonga",
+        "Kuchera tsime rakadzika revakarurama",
+        "Kugadzira ngarava panguva yemafashamo makuru"
+      ],
+      "answer": "Kuvaka chidziviriro chikuru chesimbi kubva kuna Yajuj naMajuj"
+    },
+    "location": {
+      "label": "Nzvimbo",
+      "options": [
+        "Nyika yeUzair iri pakati penzizi mbiri",
+        "Nzvimbo yekubuda kwezuva nechitubu chine matope matema",
+        "Mupata mutsvene weMakkah",
+        "Renje reMadyan",
+        "Chitsuwa cheKupro"
+      ],
+      "answer": "Nzvimbo yekubuda kwezuva nechitubu chine matope matema"
+    },
+    "outcome": {
+      "label": "Chipikirwa chaMwari",
+      "options": [
+        "Paradhiso isingaperi inopihwa ipapo ipapo",
+        "Rudzi rwakaparadzwa nemhepo inopisa",
+        "Chipingamupinyi ichi chicharamba chiripo kusvika Zuva reKutongwa",
+        "Rusununguko kubva murufu kune vatendi vose",
+        "Umambo husingaperi husina magumo"
+      ],
+      "answer": "Chipingamupinyi ichi chicharamba chiripo kusvika Zuva reKutongwa"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

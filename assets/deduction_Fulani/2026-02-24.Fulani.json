@@ -1,0 +1,61 @@
+{
+  "title": "Ekoo fenaande",
+  "intro": "Jokkondiral leñol jarribaama e ɓeydagol njiimaandi. Feere sirlu ƴettaa, ina jokki e ƴellitde jokkere enɗam, jogornde yuɓɓinde duuɓi, taƴde diƴƴe mawɗe. Golle ndee fedde ngaddi seertude e sunaare mawnde, kono daartol ngol joofnaani ɗoon. Ko haala fenaande, nimsa, e udditgol timmungol peeje Alla. Mbele aɗa waawi ƴellitde sifaa ɓeeɗoo yimɓe ɓe cuɓagol mum en ƴellitii e nder yontaaji ?",
+  "clues": [
+    "Min ñaamii e kaaɗdi sabu giɗli kolliraaɗi gooto e men.",
+    "E nder majjere amen, min mbaɗdi feere, min mberli banndiiko amen e nder niɓɓere ɓunndu.",
+    "Ngam suuɗde golle amen, min ndokki baaba amen comci, ɓuuɓɗi ƴiiƴam fenaande.",
+    "Duuɓi seeɗa caggal ɗuum, heege mawnde addani en yahde Ejipt ngam ɗaɓɓude nguura.",
+    "Ko ɗoon min ngari e yeeso guwerneer doole, mo min nganndaa, ko kanko woni banndiraaɓe min tooñnoo.",
+    "Test amen cakkitiiɗo ko addude miñi amen tokooso, Binyamin, ko ɗum addani min feeñde e ko ɓenni e baaba amen ko Annabi Ya'qub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol enen?",
+      "options": [
+        "Ɓiɓɓe Aadama (qabil & habil)",
+        "Almuuɓe Annabi Isa",
+        "Banndiraaɓe Annabi Yuusuf",
+        "Yimɓe Madyanaaɓe",
+        "Majjiyankooɓe Firaawna"
+      ],
+      "answer": "Banndiraaɓe Annabi Yuusuf"
+    },
+    "trial": {
+      "label": "Hol ko wonnoo bonannde men adannde?",
+      "options": [
+        "Mahde nagge kaŋŋe ngam dewal",
+        "Ɗaɓɓude yiyde Alla no feewi",
+        "Jaleeɗe annabi ngam mahde laana",
+        "Fooɗtude baaba men e woppude miñi men",
+        "Taƴde ñalngu siwtorde e liggaade"
+      ],
+      "answer": "Fooɗtude baaba men e woppude miñi men"
+    },
+    "location": {
+      "label": "Hol huunde wonnoo hakkunde fenaande men?",
+      "options": [
+        "Seto alluuje binndaaɗe",
+        "Simiyoŋ ɓuuɓɗo e ƴiiƴam fenaande",
+        "Nagge kaŋŋe",
+        "Birniwol belngol (Hoopoe)",
+        "Sawru ndu wayliri mboddi"
+      ],
+      "answer": "Simiyoŋ ɓuuɓɗo e ƴiiƴam fenaande"
+    },
+    "outcome": {
+      "label": "Hol ko woni darnde daartol men ngol?",
+      "options": [
+        "Min halkii e ilam mawɗam",
+        "Min mbaɗtaa ko apes",
+        "Leydi moɗi min",
+        "Min njaafaama, min kawriti e galle amen",
+        "Min njippiima e maayo"
+      ],
+      "answer": "Min njaafaama, min kawriti e galle amen"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

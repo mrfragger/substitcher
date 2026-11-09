@@ -1,0 +1,61 @@
+{
+  "title": "Abanyakuri bo muri Makka .",
+  "intro": "Mu misi ya mbere y’ivyahishuriwe, igihe ubutumwa bw’ukuri bwarwanywa cane, ubugingo bumwebumwe bwahagaze budahungabana mu kwemera kwabwo. Abo bemera barahuye n’ububisha butagira uko bungana buva ku barondera kuzimya umuco w’ukwizera. Imibabaro yabo yari ikaze cane, imibabaro yabo yari myinshi cane—ariko indimi zabo ntizahagarika kwamamaza Ubumwe bwa Allah. Mbere n’igihe batererwa mu binogo vy’ukwihebura, uburinzi bw’Imana bwarabakikuje, buhindura ikigeragezo cabo kikaba igihe c’ukwizera c’ibihe bidahera. Reka dusuzume urugendo rw’izo mitima zidasanzwe.",
+  "clues": [
+    "Twarageragejwe n’igihano gikomeye kubera kwanka guheba ukwizera kwacu Imana imwe rudende .",
+    "Abantu bacu ntibashobora guca ku ciyumviro cacu, naho ububisha bwabo bwoba bwacitse ubuhinga bwo kurema gute .",
+    "Twaramanitswe kw’iriba ku murango, yamara imfashanyo y’Imana yama iri hafi .",
+    "Ugushikama kwacu kwatangaje mbere n’ababonye ukwihangana kwacu .",
+    "Benshi i Makka bararondeye kuduhatira gusubira inyuma, mugabo twagumye twiyemeje .",
+    "Igihe vyose vyasa n’ibitakaye, umwidegemvyo wacu warashitse biciye ku gitangaro c’Imana ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Bilali Habashi",
+        "Amari mwene Yasiri",
+        "Miqadadi mwene Aswadi",
+        "Khababu mwene Al-Arati",
+        "Salmani al-Farisi"
+      ],
+      "answer": "Bilali Habashi"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Intambara yo kurwanya Umuhanuzi .",
+        "Gutotezwa kubera banse gusenga ibigirwamana .",
+        "Ikigeragezo c'ukwizera ku bijanye n'ivyabaye vy'umuriro",
+        "Igerageza ry'urugendo rw'ijoro ry'ugucapura",
+        "Igerageza ry'ugusambura kw'itongo"
+      ],
+      "answer": "Gutotezwa kubera banse gusenga ibigirwamana ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Umusozi wa Uhudi .",
+        "Ico kibanza ceranda ca Kabah .",
+        "Iriba rya Abu Sufyani .",
+        "Ingoro y'aba Qurayshi .",
+        "Igisagara ca Madina ."
+      ],
+      "answer": "Iriba rya Abu Sufyani ."
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Intsinzi mu ntambara ikomeye .",
+        "Ukwidegemvya biciye mu gufashwa n'Imana",
+        "Ugupfa mu nzira ya Allah",
+        "Kwemererwa kwinjira muri paradizo ataco uhinduye",
+        "Kwimukira mu gihugu gihezagiwe ."
+      ],
+      "answer": "Ukwidegemvya biciye mu gufashwa n'Imana"
+    }
+  },
+  "verseRef": "85:4-6",
+  "arabic": "",
+  "verse": "85:4-6"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Mucheri weGoridhe Murenje",
+  "intro": "Fungidzira musasa mukuru wegwenga munguva yekumirira uye kusava nechokwadi. Mutungamiriri mukuru aenda kumusangano naMwari, achisiya nharaunda ichida chimwe chinhu chinobatika chekubata. Mukumbomira ikoko kusina kugadzikana, munhu anonyengetedza anofamba mberi ane zvipikirwa zvinopenya uye chisikwa chakangwara chinoita sechipenyu.",
+  "clues": [
+    "Ndakanga ndiri mumwe weavo vakabva kuIjipiti naMusa, tichiona gungwa richiparadzaniswa kuti titize.",
+    "Ndakatarisa apo mutungamiri wedu akaenda kugomo kwehusiku makumi mana kuti awane gwara.",
+    "Ndakaunganidza zvishongo kubva kuvanhu ndikazviumba nemaoko angu.",
+    "Ndakagadzira mhuru yairira, uye ndakashevedza vanhu kuti vauye kwairi.",
+    "Ndakatora guruva shoma kubva munzira yemutumwa ndikarikandira mune zvandaigadzira.",
+    "Ndakatarisana naMusa ndikanzi nditi 'musandibate' togara takaparadzana, ndichivimbisana kuti tichatongwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "As-Samiri",
+        "Abu Lahab",
+        "Namrud",
+        "Hamani",
+        "Qarun"
+      ],
+      "answer": "As-Samiri"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Akakumbira kunamatwa saishe mukuru muIjipita",
+        "Akavaka areka kuti apone mafashamo makuru",
+        "Akarayira moto mukuru kuti upise Ibrahim",
+        "Akagadzira mhuru yendarama yakatsausa vaIsraeri",
+        "Vakaronga kuuraya Muhammad panguva yekutama"
+      ],
+      "answer": "Akagadzira mhuru yendarama yakatsausa vaIsraeri"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Mahwendefa ematombo eTorah",
+        "Guruva rakabva munzira yemutumwa",
+        "Moto unotonhorera wakagadzirirwa Ibrahim",
+        "Chigaro cheumambo chine simba chakaunza kupenya",
+        "Areka yematanda yakavakwa nemapuranga nezvipikiri"
+      ],
+      "answer": "Guruva rakabva munzira yemutumwa"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Yakamedzwa nenyika nepfuma",
+        "Yakaparadzwa nekuputika kukuru kubva kudenga",
+        "Akachinjwa kuita tsoko nekuda kwekutyora Sabata",
+        "Kunyura mugungwa nemauto ari kutevera",
+        "Anopomerwa mhosva yekutaura kuti 'usandibate' ari ega achimirira kutongwa"
+      ],
+      "answer": "Anopomerwa mhosva yekutaura kuti 'usandibate' ari ega achimirira kutongwa"
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

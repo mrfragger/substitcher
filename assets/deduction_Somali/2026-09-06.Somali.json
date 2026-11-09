@@ -1,0 +1,61 @@
+{
+  "title": "Dhalayga Dahabka ah ee la ceyriyay",
+  "intro": "Qof lagu sheegay Qur'aanka ayaa dad badan u horseeday inay leexdaan intii uu maqnaa nebi sharaf leh. Wax laga sameeyay dahab ayaa qabsaday quluubta ummad dhan - laakiin sheekada qofkan waxay ku dhammaatay kalinimo iyo habaar qariib ah. Yaa noqon kara qofkan la eryey?",
+  "clues": [
+    "Waxaan soo baxay intii uu maqnaa nebi weyn oo kor u kacay si uu u helo hanuun rabbaani ah.",
+    "Waxaan dad badan ku khalday wax aan gacantayda ku sameeyay.",
+    "Abuurkii dahabka ahaa ee aan soo saaray wuxuu u muuqday inuu leeyahay nolol, isagoo soo saaraya dhawaaqyo soo jiidanaya kuwa raacay.",
+    "Waxaan sheegtay inaan arkay wax aysan dadka kale arki karin - aragti ku saabsan waxa aan la arki karin.",
+    "Wax ayaan ka soo qaatay raadkii rasuulka rabbaaniga ah, waxaana ku tuuray bir dhalaalaysa.",
+    "Waxaa la igu xukumay inaan keligay wareego, iyadoo la igu habaaray habaar aan cidina taaban karin maqaarkayga ama aanan taaban karin kooda."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Samiri",
+        "Haamaan",
+        "Fircoon (Fir'auna)",
+        "Abuu Lahab",
+        "Nabi Saalix"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Wuxuu sameeyay weyl dahab ah oo loogu talagalay cibaadada",
+        "Munaarad samada gaadhaysa ayaa dhistay",
+        "Sixiroolayaasha Masar oo la canaantay",
+        "Wuxuu hoggaaminayay ciidan bahallo duulaya wata",
+        "Dayaxa u kala qaybi sidii caddayn nabinimo"
+      ],
+      "answer": "Wuxuu sameeyay weyl dahab ah oo loogu talagalay cibaadada"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Dibigii dahabka ahaa",
+        "Ul abeeso noqotay",
+        "Geed gubanaya oo buur saaran",
+        "Doon dul fadhida meel sare",
+        "God uu ka buuxay dab ololaya"
+      ],
+      "answer": "Dibigii dahabka ahaa"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Masaafurin, mamnuuc in la taabto ama la taabto dadka kale",
+        "Waxaa badda ku qaraqmay ciidan",
+        "Waa la gubay isagoo nool diidmada iimaanka awgeed",
+        "Waxaa ku dhacay dabayl xoog leh oo ciyeysan",
+        "La cafiyay oo loo qaaday boos sare"
+      ],
+      "answer": "Masaafurin, mamnuuc in la taabto ama la taabto dadka kale"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

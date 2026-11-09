@@ -1,0 +1,61 @@
+{
+  "title": "Sharafta Quustay",
+  "intro": "Bal tan sawir: naf ku dahaadhan dhar qurxoon oo ay ku hareeraysan yihiin khasnado aan la qiyaasi karin. Qofkani wuxuu aaminsanaa in hantidooda lagu kasbaday hibaddooda, isagoo aan waligiis qiran isha sahayda dhabta ah. Isagoo dhex socda raacayaasha nebi xooggan, qofkani wuxuu diiday baaq kasta oo is-hoosaysiin ah. Maanta, waxaan ogaanaynaa aqoonsiga shakhsi nasiibkiisu uu noqday meeshii ugu dambaysay ee ay ku nastaan.",
+  "clues": [
+    "Waxaan noolaa xilligii nebigii runta ugu yeerayay ummad madax adag.",
+    "Waxaan qayb ka ahaa bulsho la doortay, haddana qalbigaygu wuu ka jeestay fariinta.",
+    "Dahabka iyo lacagta ayaa i soo jiitay in ka badan amar kasta oo rabbaani ah.",
+    "Khasnadahaygii khasnadaha ayaa aad u weynaa oo koox xooggan oo rag ah ayaa si dhib yar u qaadi kartay furayaasha.",
+    "Waxaan ku faanay in maalkayga la i siiyay aqoontayda awgeed.",
+    "Ugu dambeyntii, aniga iyo gurigaygii oo dhan waxaa dhulka liqay digniin ahaan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Qaaruun",
+        "Haamaan",
+        "Samiri",
+        "Bilqis",
+        "Talut (Saul)"
+      ],
+      "answer": "Qaaruun"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Kibir badan oo ku saabsan hantida iyo diidmada samafalka",
+        "Samaynta sanam dahab ah oo laga sameeyay dahab dhalaalay",
+        "Ku dhawaaqista ilaahnimada boqortooyo awood badan leh",
+        "Silcinta mu'miniintii hore ee Makka",
+        "Hogaaminta olole lagu burburinayo Guriga Barakaysan"
+      ],
+      "answer": "Kibir badan oo ku saabsan hantida iyo diidmada samafalka"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Khasnado ay fureyaashoodu culays ku hayeen rag badan oo xoog leh",
+        "Wuush dahab ah oo soo saaray cod",
+        "Carshi sharaf leh oo ka yimid dhul fog",
+        "God uu ka buuxay dab ololaya",
+        "Ciidan xooggan oo maroodi dagaal ah"
+      ],
+      "answer": "Khasnado ay fureyaashoodu culays ku hayeen rag badan oo xoog leh"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Dhulku wuu liqay oo hoygiisana wuu liqay",
+        "Ciidan ayaa badda ku qaraqmay",
+        "Ku gubay nolol god dab ah",
+        "Waxaa burburiyay dabayl ciyeysan oo kulul",
+        "Waxaa ku dhacay qarax xooggan oo hal mar dhacay"
+      ],
+      "answer": "Dhulku wuu liqay oo hoygiisana wuu liqay"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

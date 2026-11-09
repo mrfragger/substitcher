@@ -1,0 +1,61 @@
+{
+  "title": "Nea Wɔapaw no a Ɔka Nsɛm no",
+  "intro": "Wɔ bepɔw bi a ɔsoro nsɛm sian sian so sunsuma mu no, nkurɔfo bi gyidi wosow wɔ sika kɔkɔɔ a ɛhyerɛn ase. Ɔkra biako a wɔama no kasa mu nimdeɛ akyɛde no gyinaa hɔ sɛ mmoa ma asɛmpatrɛw kɛse bi, nanso ohyiaa sɔhwɛ a emu dɔ bere tiaa bi. Bere a ɔbɔfo a wɔapaw no no foro kɔɔ beae kronkron bi a wɔpaw no no, saa onipa yi kɔɔ so srɛɛ ɔman bi a na wɔn ho adwo no. Hena ne ɔkra a ogyina pintinn a ne nne sɔree tiaa abosonsom yi?",
+  "clues": [
+    "Allah na ɔpaw me sɛ menyɛ nkɔmhyɛni, ɛwom sɛ wɔtaa ka m’asɛm no ka ɔfoforo ho de.",
+    "Wɔde me kɔɔ sodifo otirimɔdenfo bi nkyɛn, nanso na m’adwuma ne sɛ mɛboa, na ɛnyɛ sɛ mɛdi anim.",
+    "Ná wɔama me kasa mu nimdeɛ akyɛde, na na me nsɛm no atirimpɔw ne sɛ ɛbɛdwo koma.",
+    "Bere a me hokafo no fii hɔ kɔyɛɛ nhyehyɛe kronkron bi no, wogyaw me sɛ menkyerɛ nnipa a wɔn ho nyɛ den kwan.",
+    "Wɔ wɔn abotare a wonni mu no, wɔde wɔn agude no yɛɛ ohoni bi, na mesrɛɛ wɔn sɛ wɔntena hɔ mma Allah.",
+    "Me hokafo no san bae bɛkyeree me, nanso mekyerɛkyerɛɛ mu sɛ nkurɔfo no dii me so nkonim na ɛkaa kakraa bi na wokum me; Ná menka abɔnefo no ho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Musa",
+        "Odiyifo Harun",
+        "Odiyifo Yes",
+        "Ɔkɔmhyɛni Yahya",
+        "Ɔkɔmhyɛni Zakariya"
+      ],
+      "answer": "Odiyifo Harun"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Wɔtow no gu ogya mu",
+        "Wɔtow wɔn gu abura mu",
+        "Sikakɔkɔɔ nantwi ba asɛm a esii no anim",
+        "Ɔyare a emu yɛ den ho sɔhwɛ",
+        "Ahonyade ne mmofra a wɔbɛhwere ho sɔhwɛ"
+      ],
+      "answer": "Sikakɔkɔɔ nantwi ba asɛm a esii no anim"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Sikakɔkɔɔ nantwi ba no",
+        "Adwumayɛfo no",
+        "Apam Adaka no",
+        "Abopon no",
+        "Kwae a ɛrehyew no"
+      ],
+      "answer": "Sikakɔkɔɔ nantwi ba no"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wɔtwee wɔn aso denneennen",
+        "Wɔde bɔne akyɛ no na wɔabu no bem",
+        "Ɔyɛɛ ɔhene",
+        "Wɔde no kɔɔ soro",
+        "Wɔama no kyerɛwsɛm foforo"
+      ],
+      "answer": "Wɔde bɔne akyɛ no na wɔabu no bem"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

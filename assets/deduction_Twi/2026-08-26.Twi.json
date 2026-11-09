@@ -1,0 +1,61 @@
+{
+  "title": "Ahoɔyaw a Ɛsɛee no",
+  "intro": "Anansesɛm a akyɛ sen ahenni anaa kyerɛwsɛm biara—adesamma awerɛhosɛm a edi kan a ahoɔyaw woo no. Ɔkra biako, a na ɔyɛ mma baanu a awofo a wodi kan no woo wɔn mu panyin, de abufuw hwɛɛ sɛnea onua kumaa bi nyaa adom a wɔpowee no. Nea edii akyi bae no yɛ nea wɔpaw no mu nea ɛyɛ sum sen biara, na ɛmaa mogya a edi kan a wohwie gui wɔ asase so pɛn no. So wubetumi ada onipa ko a ɔyɛ, sɔhwɛ no, ne ahonu a ɛyɛ yaw no adi?",
+  "clues": [
+    "Nnipa baanu a wodii kan nantew asase so na wɔwoo me.",
+    "Bere bi meyɛɛ afɔrebɔde maa Allah, nanso wɔannye antom amfi me hɔ.",
+    "Wogyee me nua afɔrebɔde no toom, bere a wɔpoo me de no—biribi a na mintumi nnyina ano.",
+    "Mede ɔsɛe hunahunaa m’ankasa me nuabarima.",
+    "Mebɛyɛɛ obi a odi kan a odii awu wɔ asase yi so, gyee m’ankasa me nua nkwa.",
+    "Allah somaa asaase so abɔdeɛ bi — anomaa tuntum bi a ɔretutu fam — sɛ ɔmmɛkyerɛ me sɛdeɛ mede dee mayɛ besie, na wɔannya biribiara gye sɛ mennuu me ho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Qabil (Kain) .",
+        "Habil (Habil) .",
+        "Ɔkɔmhyɛni Yaqub",
+        "Ɔkɔmhyɛni Musa",
+        "Odiyifo Adam"
+      ],
+      "answer": "Qabil (Kain) ."
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Afɔrebɔ a Allah po",
+        "Wɔatow agu ogya kɛse bi mu",
+        "Wogyaw no hɔ sɛ akokoaa wɔ asubɔnten bi mu",
+        "Wɔde ahenni kɛse bi sɔɔ hwɛe",
+        "Wɔhyɛɛ sɛ obi mfa ne ba mmɔ afɔre"
+      ],
+      "answer": "Afɔrebɔ a Allah po"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Ɔkraman a Allah somaa no",
+        "Sikakɔkɔɔ nantwi ba no",
+        "Adaka a ɛwɔ bepɔw no so no",
+        "Kwae a ɛrehyew no",
+        "Yoma ba a wɔadi adwini afi ɔbotan mu"
+      ],
+      "answer": "Ɔkraman a Allah somaa no"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Ɔbɛyɛɛ nea ahonu ahyɛ no ma na ɔkaa wɔn a wɔhweree no ho",
+        "Wɔmenee wɔ asase mu a ademude ka ho",
+        "Ɔbɛyɛɛ Allah somafoɔ a ɔdi mu",
+        "Ɔnam ɔsoro mmɔborohunu so kɔɔ Paradise",
+        "Odii ahenni bi a ɛso bi nni so"
+      ],
+      "answer": "Ɔbɛyɛɛ nea ahonu ahyɛ no ma na ɔkaa wɔn a wɔhweree no ho"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Maalinta Bandhigga Ugu Dambeeya",
+  "intro": "Markii loogu yeeray bandhig awoodeed oo weyn, koox farshaxanleyaal xirfad leh ayaa is arkay iyagoo wajahaya xaqiiqo lama filaan ah oo beddeli doonta noloshooda weligeed.",
+  "clues": [
+    "Waxaan caan ku ahayn farsamadayada, sayidyada khayaaliga iyo khiyaanada.",
+    "Waxaa naloo yeeray taliye si aan ula dagaallanno qof caqabad ku ah oo haysta ul fudud.",
+    "Markii aan runta aragnay, ayaan sujuudnay, annagoo ku dhawaaqayna rumaynta Rabbiga Caalamka.",
+    "Kaligii-taliyihii wuxuu nagu hanjabay ciqaab daran, laakiin ma aanan quusan.",
+    "Waxaan ka mid ahayn kuwii ugu horreeyay ee rumaystay farriinta ka dib markii aan aragnay calaamadda cad.",
+    "Waxaan u shahiiday iimaankeenna awgiis, laakiin waxaan noqon doonnaa kuwa ugu horreeya ee Jannada la gala kuwa xaqa ah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Yaan nahay?",
+      "options": [
+        "Sixiroolayaashii Fircoon",
+        "Reer binu Israa'iil",
+        "Reer Thamuud",
+        "Xertii Ciise",
+        "Ciidanka Abraha"
+      ],
+      "answer": "Sixiroolayaashii Fircoon"
+    },
+    "trial": {
+      "label": "Tijaabo / Dhacdo",
+      "options": [
+        "Tartanka Nabi Muuse",
+        "Dhismaha Munaaradda",
+        "Daadkii Weynaa",
+        "Cudurka Ayaxa",
+        "Badda Kala Qaybsan"
+      ],
+      "answer": "Tartanka Nabi Muuse"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Maalinta Ciida",
+        "Dooxada Tuwa",
+        "Magaalada Iiraam",
+        "Beerta Waarta",
+        "Bannaanka Carafaat"
+      ],
+      "answer": "Maalinta Ciida"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Waxaa lagu qodbay iskutallaabta meel fagaare ah",
+        "Waxay ku qarqeen badda",
+        "Waxaa laga dhigay kuwa raaca nebiga",
+        "Waxaa loo diray masaafuris",
+        "Dab baa ku baaba'ay"
+      ],
+      "answer": "Waxaa lagu qodbay iskutallaabta meel fagaare ah"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

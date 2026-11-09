@@ -1,0 +1,61 @@
+{
+  "title": "Vateereri Vakavanzika Vakatenda",
+  "intro": "Murunyararo rwemusangano mutsvene, gungano rinoshamisa rakasvika richibva kunyika isingaonekwe. Vachikwezvwa nekuzevezera kwechimwe chinhu chinoshamisa, vakateerera kudzokororwa kwaizosimbisa mugumo wavo nekusingaperi. Uchapupu hwavo hunoramba huri humwe hwehunhu hwakasiyana mumagwaro matsvene.",
+  "clues": [
+    "Tiri zvisikwa zvinobva munzvimbo isingaonekwi nevakawanda, uye takauya seboka.",
+    "Takaenda kumusangano kuti tinzwe chimwe chinhu chinoshamisa.",
+    "Patakasvika, takateerera kuverengwa kwenyaya yacho kwakatishamisa.",
+    "Takabvuma pachena kuti vamwe vedu vakarurama uye vamwe havasi.",
+    "Taiziva kuti hatingagoni kutiza murairo waMwari panyika, kana kutizira mudenga.",
+    "Patakanzwa gwara, takaritenda; ani naani anotenda munaShe wake haazotyi kurasikirwa kana mutoro."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Boka remaJinn",
+        "Vanhu veIram",
+        "Vanhu veTubba'",
+        "Umambo hweRoma",
+        "Dzinza reQuraysh"
+      ],
+      "answer": "Boka remaJinn"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kuteerera kuverengwa kutsvene",
+        "Kuvaka mbiru refu muguta redu",
+        "Kuvhima ngamera hono inoyevedza",
+        "Kuparadzwa nekuda kwekuuraya vaprofita vedu",
+        "Kuwedzera pfuma kupfuura mwero"
+      ],
+      "answer": "Kuteerera kuverengwa kutsvene"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Musangano wekuverenga magwaro matsvene",
+        "Guta rembiru refu (Irami)",
+        "Tsime riri murenje",
+        "Imba huru yeumambo yegoridhe",
+        "Bako dzvene mumakomo"
+      ],
+      "answer": "Musangano wekuverenga magwaro matsvene"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Takatenda uye takanyevera vanhu vedu",
+        "Yakaparadzwa nekuputika kukuru kubva kudenga",
+        "Kurangwa nemhepo inopisa, inoparadza",
+        "Akapihwa pfuma huru nesimba",
+        "Akaramba akasimba mukusatenda"
+      ],
+      "answer": "Takatenda uye takanyevera vanhu vedu"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

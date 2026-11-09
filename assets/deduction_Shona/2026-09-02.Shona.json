@@ -1,0 +1,61 @@
+{
+  "title": "Kurara Pasina Nguva",
+  "intro": "Fungidzira nguva apo chokwadi chakanyaradzwa uye vatendi vachivhimwa. Boka diki rakasarudza kudzokera shure pane kuzvipira, richiwana nzvimbo yekupotera munzvimbo dzisingatarisirwi - nzvimbo yaizova nzvimbo yavo yekuzorora kwemazana emakore asingaverengeki. Pavakazomuka, nyika yakanga yashanduka yakavapoteredza. Ndivanaani mweya iyi yakarara?",
+  "clues": [
+    "Taiva vechidiki vaigara muguta rekare.",
+    "Nharaunda yedu yakati tiite kunamata pamwe chete navo, asi takaramba.",
+    "Takabva muguta tichitsvaka nzvimbo yekupotera kune avo vaipikisa zvitendero zvedu.",
+    "Shamwari yakatendeka ine makumbo mana yakaramba iri pamusuwo wenzvimbo yedu yekuhwanda.",
+    "Mwari vakatiita kuti tirare kwemakore mazana matatu nemapfumbamwe.",
+    "Patakazomuka, guta redu raimbotambudzwa rakanga ragamuchira kutenda."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tiri vanaani?",
+      "options": [
+        "Ashab al-Kahf (Vanhu veBako)",
+        "Ashab al-Fil (Hondo yeNzou)",
+        "Ashab al-Ukhdud (Vashanyi veMugero)",
+        "The Hawariyyun (Vadzidzi vaIsa)",
+        "Yajuj waMajuj (Gogi naMagogi)"
+      ],
+      "answer": "Ashab al-Kahf (Vanhu veBako)"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Takadzokera mubako ndokurara kwemazana emakore",
+        "Takaponeswa kubva mumoto unopfuta",
+        "Takamedzwa nehove huru",
+        "Takaedzwa nengamera hadzi inoshamisa",
+        "Takapihwa zviratidzo zvipfumbamwe zvakajeka"
+      ],
+      "answer": "Takadzokera mubako ndokurara kwemazana emakore"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Bako rakadzika mumakomo",
+        "Chikepe pagungwa rakazaruka",
+        "Chivako chirefu chinosvika kumatenga",
+        "Bindu rakakamurwa pakati pevakwikwidzi vaviri",
+        "Chidziviriro chesimbi nemhangura"
+      ],
+      "answer": "Bako rakadzika mumakomo"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Takamuka ndokuwana guta redu rava kutenda",
+        "Moto waipfuta wakava unotonhorera uye wakanyarara",
+        "Hondo yemuvengi yakanyura mugungwa",
+        "Shiri dzaitakura matombo dzakaparadza muvengi",
+        "Hove huru yakatisunungura pamhenderekedzo"
+      ],
+      "answer": "Takamuka ndokuwana guta redu rava kutenda"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Umutima wa mbere wo guhagarara",
+  "intro": "Kera cane imbere y’uko intumwa iyo ari yo yose igenda kw’isi, imbere y’uko icanditswe ico ari co cose gihishurirwa, hari ikiremwa kidasa n’ikindi cose cabayeho. Uwo mutima warabumbwe n’ibiganza vy’Imana, uhabwa ikibanza c’ubwiza butagira uko bungana, kandi ugeragezwa mu buryo bwosubiramwo muri kahise kose k’abantu. Ivyakurikiyeho ni inkuru y’ubugoyagoye, ukwihana ata buryarya, n’iherezo ryohindura inzira y’irema ubuziraherezo. Woba ushobora gukeka uwo ari nde?",
+  "clues": [
+    "Nabumbwe n'ibiganza vy'Umunyakigongwe nkuye mu mukungugu w'isi .",
+    "Nahawe inzu y’ubwiza butagira uko bungana, aho ata nzara canke urushe vyari gushobora kunkorako .",
+    "Nategetswe kutigera ngegera igiti na kimwe, kuko cari kibujijwe .",
+    "Jewe na mugenzi wanje twarahevye maze twegera igiti cari kibujijwe, tudahuye n’itegeko ry’Umukama wacu .",
+    "Twaragarukiye Umukama wacu twihana bivuye ku mutima, turababarirwa ibicumuro vyacu .",
+    "Muri twebwe, ni ho abantu bose bakomoka; Ni jewe wambere kugenda kw'isi ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umuhanuzi Adamu",
+        "Umuhanuzi Musa",
+        "Umuhanuzi Nuh",
+        "Umuhanuzi Yusufu",
+        "Umuhanuzi Yesaya"
+      ],
+      "answer": "Umuhanuzi Adamu"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Igerageza ry'igiti kibujijwe",
+        "Guhangana na Farawoni",
+        "Ukwubaka ubwato buhambaye",
+        "Ikimazi c'umwana akundwa .",
+        "Kujugunywa mu muriro mwinshi ."
+      ],
+      "answer": "Igerageza ry'igiti kibujijwe"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Igiti cabujijwe",
+        "Igisaka kigurumana",
+        "Inkoni y'inzahabu",
+        "Ubwato Bunini",
+        "Inyana y'inzahabu"
+      ],
+      "answer": "Igiti cabujijwe"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Yarungitswe kw’isi nk’umuntu wa mbere yitwararika abantu .",
+        "Farawo n'ingabo ziwe bararohama mu kiyaga .",
+        "Umwuzure ukomeye waratikije ababisha .",
+        "Umuriro warakonje kandi ugira amahoro .",
+        "Yarahawe ububasha ku bwami bwa Misiri ."
+      ],
+      "answer": "Yarungitswe kw’isi nk’umuntu wa mbere yitwararika abantu ."
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

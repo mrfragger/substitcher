@@ -1,0 +1,61 @@
+{
+  "title": "Murazvo uri mukati memuzinda wekuzvikudza",
+  "intro": "Seri kwemasvingo makuru emuzinda une simba kupfuura mimwe yose yenyika yekare kwaigara munhu aiva nemoyo waiva nechakavanzika chisingagone kunyaradzwa nemutemo weumambo. Paaiva akapoterera vamwari venhema, mweya uyu wairamba uine kutenda kwakanyarara mukati. Mutongi wenyika iyoyo aitenda kuti ndiye Mwari, asi munhu uyu akasarudza chokwadi pane kunyaradzwa, uye kuzvipira pane kuchengetedzeka. Nhasi, basa rako nderekuona kuti mweya uyu wakashinga ndiani, ane nyaya yake ichiri mumwe wemienzaniso yakasimba yekutenda kusingazununguki.",
+  "clues": [
+    "Ndaigara munzvimbo ine pfuma yakawanda uye ine hukuru husingaenzaniswi, umo mutongi wenyika aiva nesimba guru pamusoro pezvose.",
+    "Apo avo vakanga vakandipoteredza vainamata vamwari venhema, ndakachengeta chiedza chekutenda chakanyarara mukati memoyo wangu.",
+    "Ndakawana mwana akaunzwa kwandiri nenzira isingawanzoitiki - kwete nekuzvarwa, asi kuburikidza nemvura yerwizi rukuru.",
+    "Ndakanyengetera kuna Ishe wangu, ndichikumbira musha uri pedyo naye muParadhiso uye ruponeso kubva muhudzvinyiriri hwakanga hwakandikomberedza.",
+    "Mwana wandakarera akakura achipikisa mutongi chaiye aitonga magumo angu, uye ndakaramba ndakasimba mukutenda kwangu kunyangwe pandaityisidzirwa.",
+    "Ndini uyo ane zita rinokudzwa muQuran semuenzaniso wekutenda, uye ndaigara mumuzinda waFarao pachake."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Asiya, mudzimai waFarao",
+        "Mariamu, amai vaIsa",
+        "Bilqis, Mambokadzi weShebha",
+        "Mudzimai waMuporofita Lut",
+        "Mudzimai waImran"
+      ],
+      "answer": "Asiya, mudzimai waFarao"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kuwana nekurera mwana mucheche akasiyiwa uyo akazova muporofita mukuru",
+        "Kukandwa mumoto mukuru nemuvengi ane hutsinye",
+        "Kuona mafashamo makuru akaparadza vanhu",
+        "Kuona date chalk shake uye kupa chikafu",
+        "Kubata pamuviri wemwanakomana pasinei nekukwegura"
+      ],
+      "answer": "Kuwana nekurera mwana mucheche akasiyiwa uyo akazova muporofita mukuru"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Imba yamambo ine kubwinya kusingaenzaniswi",
+        "Ngarava huru yakavakwa kuti itsungirire mafashamo",
+        "Bako rakadzika rakavanzwa mumakomo",
+        "Moto unopfuta wakavakirwa pamusoro pegomo",
+        "Bindu rakakomberedzwa nemadziro"
+      ],
+      "answer": "Imba yamambo ine kubwinya kusingaenzaniswi"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Musha wakapihwa muParadhiso nekuda kwaAllah",
+        "Mafashamo makuru akaparadza vasingatendi verudzi rwekare",
+        "Umambo hwesimba guru nechiremera hwakapihwa munyika ino",
+        "Hondo ine simba yakapararira neshiri dzaibhururuka",
+        "Mudzvinyiriri aiti ndiMwari akanyudzwa mugungwa"
+      ],
+      "answer": "Musha wakapihwa muParadhiso nekuda kwaAllah"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Biyo-xidheenkii Jabiyay Boqortooyada",
+  "intro": "Dhul ay ka buuxaan webiyo socda, laba beerood oo cagaar ah, iyo barwaaqo aan la barbar dhigi karin - laakiin dadkii degganaa way ka digtoonaadeen kii barakeeyey. Markii xasuusintu soo noqotay, way ka jeesteen. Waxa xigay ciqaab weli u eg digniin. Yaa ahaa bulshadan qadiimiga ah?",
+  "clues": [
+    "Waxaan ku noolayn dhul aad u barakeysan oo gurigeennu ku yaalay laba beerood oo cagaar ah.",
+    "Waxaan ku raaxaysanay webiyada oo dhex mara dhulkeenna iyo goosashada badan ee guryaheenna buuxisay.",
+    "Haddana markii naloogu yeeray mahadnaq iyo addeecid Rabbigeen, waan iska jeesannay annagoo kibirsan.",
+    "Hantideenna iyo raaxadayadu waxay naga dhigeen inaan illowno Kii wax walba siiyay.",
+    "Dabadeed waxaa yimid daad degdeg ah oo ka soo gudbay caqabaddii weynayd ee aan ku tiirsanayn.",
+    "Waxaan nahay dadka Saba', oo dhulkooda loo yaqaanay Biyo-xireenka weyn ee Ma'rib."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Yaan nahay?",
+      "options": [
+        "Dadka Saba",
+        "Dadka Dooxada",
+        "Asxaabta Ceelka",
+        "Dadka Tubba'",
+        "Dadka reer Midyaan"
+      ],
+      "answer": "Dadka Saba"
+    },
+    "trial": {
+      "label": "Hoos u dhaceenna",
+      "options": [
+        "Daadad ka dhashay biyo-xireen qarxaya",
+        "Dabaylo xoog leh oo cirka ka timid",
+        "Ku gubanaya god dab ah",
+        "Dhulgariir weyn",
+        "Ku qaraqmay daad weyn"
+      ],
+      "answer": "Daadad ka dhashay biyo-xireen qarxaya"
+    },
+    "location": {
+      "label": "Goobta Muhiimka ah",
+      "options": [
+        "Biyo-xireenka Ma'rib",
+        "Buur Siinay",
+        "Godka Toddobada Hurdo",
+        "Geedka Gubanaya",
+        "Kala Qaybsanaanta Badda"
+      ],
+      "answer": "Biyo-xireenka Ma'rib"
+    },
+    "outcome": {
+      "label": "Qaddarkeenna",
+      "options": [
+        "Laba beerood oo qadhaadh ayaa beddelay kuwii naga wanaagsanaa",
+        "Beeraheenu way sii barwaaqoobeen",
+        "Dhulku wuxuu ku degay badda hoosteeda",
+        "Waxaa nalagu aasay dambas foolkaaneed",
+        "Qarankeennu wuxuu u qaybsamay laba iyo toban qabiil"
+      ],
+      "answer": "Laba beerood oo qadhaadh ayaa beddelay kuwii naga wanaagsanaa"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

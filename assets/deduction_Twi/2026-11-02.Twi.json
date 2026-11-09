@@ -1,0 +1,61 @@
+{
+  "title": "Ɔyɔnkofo a Onhinhim wɔ Sikakɔkɔɔ Sɔhwɛ Mu",
+  "intro": "Wɔ odiyifo kɛse bi sunsuma mu no, wɔpaw ɔkra a ɔka kasa yiye na ɔwɔ gyidi sɛ ɔmmoa wɔ asɛmpatrɛw adwuma kɛse bi mu. Saa akontaabu yi gyinaa pintinn bere a nnipadɔm no wosow wɔn ho, na wɔkaa asɛm no tiaa mmarato bi a ɛda adi pefee a ɛde onyame biako som titiriw no too asiane mu no. Bere a odiyifo no san bae sɛ ɔrebɛhwɛ sɛnea nkurɔfo no adi mfomso no, na saa onipa yi ayi ne ho ano nyɛ afobu na mmom asɛyɛde ne mpaapaemu ho suro. Hena ne Allah akoa a wahyira ne ho yi?",
+  "clues": [
+    "Allah na ɔpaw me maa asɛdeɛ kronkron bi a ɛka ɔfoforo ho, na na me dwumadie yɛ mmoa ne mpaemuka.",
+    "Wɔmaa me kasa mu pefee, na me ne ɔbɔfo bi kɔhyiaa nhyɛsofo bi a ɔwɔ tumi.",
+    "Wɔ akwantu bi a emu yɛ den mu no, ɔbɔfo no nkutoo foroo bepɔw bi, na ogyaw me sɛ menhwɛ nkurɔfo no.",
+    "Bere a na wonni hɔ no, nkurɔfo no yɛɛ sika ohoni, na mesrɛɛ wɔn sɛ wɔnkɔ so nni nokware, nanso wɔpow m’afotu no.",
+    "Bere a ɔbɔfo no san bae a abufuw ne awerɛhow ahyɛ no ma no, wɔkyeree me, nanso mekyerɛkyerɛɛ mu sɛ wɔadi me so nkonim na misuro sɛ mede akasakasa bɛba wɔn ntam.",
+    "Mene nkɔmhyɛni a megyinaa Musa, me nua no nkyɛn, na mekyɛ n’adesoa na mekɔɔ so pintinn tiaa abosonsom."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Odiyifo Harun",
+        "Ɔkɔmhyɛni Musa",
+        "Odiyifo Yes",
+        "Ɔkɔmhyɛni Dawud",
+        "Ɔkɔmhyɛni Zakariyya"
+      ],
+      "answer": "Odiyifo Harun"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Ná nkurɔfo som sika nantwi ba ɛmfa ho kɔkɔbɔ ahorow no",
+        "Nkurɔfo tow me guu ogya a ɛredɛw mu",
+        "Apataa kɛse bi menee me",
+        "Wɔde me too afiase wɔ atoro sobo ahorow ho",
+        "Wɔpam me fii me kurom esiane asɛnka nti"
+      ],
+      "answer": "Ná nkurɔfo som sika nantwi ba ɛmfa ho kɔkɔbɔ ahorow no"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Sika Nantwi Ba no",
+        "Kwae a Ɛrehyew no",
+        "Poma a ɛdanee ɔwɔ no",
+        "Apam no Abopon no",
+        "Apam Adaka no"
+      ],
+      "answer": "Sika Nantwi Ba no"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wobuu me bem na metoaa me nkɔmhyɛ asɛmpatrɛw adwuma no so",
+        "Wɔtwee m’aso wɔ nkurɔfo no bɔne ho",
+        "Wɔmaa me ɔman foforo sɛ menkyerɛ me kwan",
+        "Wɔde me kɔɔ soro a na mete ase",
+        "Wɔyɛɛ me ahenni bi sodifo"
+      ],
+      "answer": "Wobuu me bem na metoaa me nkɔmhyɛ asɛmpatrɛw adwuma no so"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

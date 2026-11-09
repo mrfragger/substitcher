@@ -1,0 +1,60 @@
+{
+  "title": "Oorun Àkókò",
+  "intro": "O fẹ́rẹ̀ bẹ̀rẹ̀ ìrìn àjò kan láàárín àkókò, kí o sì rí ohun ìjìnlẹ̀ ìgbàgbọ́ àti agbára Ọlọ́run. Fojú inú wo àwùjọ àwọn ènìyàn kan tí wọ́n tako ìlànà àwùjọ wọn, tí wọ́n di ìgbàgbọ́ Ọlọ́run kan ṣoṣo mú nínú ayé ìjọ́sìn ọlọ́run kan. Ìtàn wọn jẹ́ ẹ̀rí agbára Ọlọ́run láti dáàbò bo àwọn ìránṣẹ́ rẹ̀ olódodo ní ọ̀nà àrà ọ̀tọ̀. Ṣé o lè tú àṣírí ìdámọ̀ àwọn ènìyàn pàtàkì wọ̀nyí?",
+  "clues": [
+    "Àwa jẹ́ ẹgbẹ́ kékeré àwọn ọ̀dọ́mọkùnrin tí wọ́n gbàgbọ́ nínú Ọlọ́run kan ṣoṣo, láìka ìjọ́sìn ọlọ́run tí ó gbilẹ̀ láàrin àwọn ènìyàn wa.",
+    "A sá kúrò lọ́wọ́ alákòóso oníwà ipá kan tí ó halẹ̀ mọ́ wa nítorí ìgbàgbọ́ wa, nítorí ìbẹ̀rù inúnibíni àti ikú.",
+    "A wá ibi ìsádi sí ibi ìdákẹ́jẹ́ẹ́ kan, a ń retí àánú àti ààbò Ọlọ́run kúrò lọ́wọ́ àwọn aninilára wa.",
+    "Olúwa wa mú kí a sùn fọnfọn, oorun ìyanu kan tí ó ń tako àkókò.",
+    "Nígbà tí a jí, a gbàgbọ́ pé ọjọ́ kan tàbí apá kan ọjọ́ ni a fi sinmi, láìmọ̀ nípa àkókò ńlá tí ó ti kọjá ní tòótọ́.",
+    "Al-Quran mẹ́nu ba pé a dúró ní ipò wa fún ọgọ́rùn-ún mẹ́ta ọdún, a sì kọjá mẹ́sàn-án, èyí sì di àmì fún aráyé."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Àwọn Ènìyàn Inú Kòtò",
+        "Àwọn ará Thamuud",
+        "Àwọn Ènìyàn Ihò Àpáta",
+        "Àwọn ènìyàn Madyan",
+        "Àwọn alábàákẹ́gbẹ́ ti Erin"
+      ],
+      "answer": "Àwọn Ènìyàn Ihò Àpáta"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Kíkojú ìkún omi ńlá kan",
+        "Ilẹ̀ gbé mì",
+        "Oorun iṣẹ́ ìyanu gígùn náà",
+        "Ìparun ìlú wọn",
+        "Pípín òkun"
+      ],
+      "answer": "Oorun iṣẹ́ ìyanu gígùn náà"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Igbó kan tó ń jó",
+        "Òkè ńlá kan",
+        "Ọkọ̀ ojú omi kan",
+        "Ihò àpáta kan",
+        "Kànga kan"
+      ],
+      "answer": "Ihò àpáta kan"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Wọ́n fún wọn ní ọrọ̀ àti agbára ńláǹlà",
+        "Wọ́n yí wọn padà sí ọ̀bọ àti ẹlẹ́dẹ̀",
+        "A jí wọn dìde láti oorun gẹ́gẹ́ bí àmì tó jinlẹ̀",
+        "Wọ́n rì sínú ìkún omi ńlá kan",
+        "Wọ́n kọ́ ìjọba ńlá kan"
+      ],
+      "answer": "A jí wọn dìde láti oorun gẹ́gẹ́ bí àmì tó jinlẹ̀"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

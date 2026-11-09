@@ -1,0 +1,61 @@
+{
+  "title": "Ikigeragezo c'urutare rw'ingumba",
+  "intro": "Umuryango, w’abahinga kandi w’ubwibone, warabajije iragi ryawo mu misozi nyene. Ariko igihe barungikirwa ikimenyetso gitomoye, ikigeragezo c’ukwizera n’ukwifata, ubwibone bwabo bwabajana mu nzira y’ukutagaruka. Woba ushobora kumenya uwo mugwi be n’ingaruka z’ukuntu bateye akagere?",
+  "clues": [
+    "Twari abahinga mu vy’amabuye, tukabaza amazu y’uburaro meza cane ata guca ku ruhande rw’imisozi.",
+    "Intumwa ivuye mu bantu b’iwacu bwite yaraje iwacu, iduhamagara ngo dusenge Imana imwe y’ukuri.",
+    "Twarasavye ikimenyetso co kwemeza amajambo yiwe, maze haza ikiremwa kidasanzwe ngo kitugerageze.",
+    "Twarahawe itegeko ryoroshe: gusangira n’ico gikoko isoko y’amazi yacu, tukareka kinywa ku musi waco washinzwe.",
+    "Mu bwibone bwacu, bake muri twebwe baragira umugambi mubi maze turarenga ku ngabisho, dukubita ikiremwa cari gitegekanijwe kuba ikimenyetso cacu.",
+    "Twarahawe imisi itatu imbere y’uko dupfa, hanyuma igisasu gikomeye kiradufata mu mihana yacu, kidusiga ata buzima dufise kandi turatembagazwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Twebwe Turi Bande?",
+      "options": [
+        "Abantu bo muri 'Ad",
+        "Abantu b'i Madyan",
+        "Abantu b'i Tamudi",
+        "Abantu ba Saba",
+        "Abantu ba Luti ."
+      ],
+      "answer": "Abantu b'i Tamudi"
+    },
+    "trial": {
+      "label": "Ikigeragezo cacu ca mbere cari ikihe?",
+      "options": [
+        "Kubaka ubwato kugira ngo umuntu ashobore kurokoka umwuzure",
+        "Kunanira icipfuzo co kuroba kw’Isabato .",
+        "Guheba ubucuruzi bw'ubuhendanyi",
+        "Gukingira ingamiya y’ingore y’igitangaza",
+        "Kwihanganira inzara y’imyaka indwi ."
+      ],
+      "answer": "Gukingira ingamiya y’ingore y’igitangaza"
+    },
+    "location": {
+      "label": "Ni igiki cari ikintu nyamukuru co mu nkuru yacu?",
+      "options": [
+        "Inyana y'inzahabu",
+        "Ingamiya y'ingore",
+        "Inkoni y'Umuhanuzi Musa",
+        "Urugomero runini rwa Ma'rib",
+        "Imeza Yakwiragiye ivuye mw'Ijuru"
+      ],
+      "answer": "Ingamiya y'ingore"
+    },
+    "outcome": {
+      "label": "None Iherezo ryacu ryari rite?",
+      "options": [
+        "Yarohamye mu mwuzure munini .",
+        "Yahindutse inkende n'ingurube",
+        "Yarengewe n'umuyaga w'uburake",
+        "Gusanzazwa n'uguturika kw'urugomero",
+        "Yasambuwe n'igisasu gikomeye/umutingito"
+      ],
+      "answer": "Yasambuwe n'igisasu gikomeye/umutingito"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

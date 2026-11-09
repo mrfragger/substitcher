@@ -1,0 +1,61 @@
+{
+  "title": "Ìpè Àìgbọ́ràn ní Ilẹ̀ Ìgbéraga",
+  "intro": "O dúró ní àwókù ìlú ìbílẹ̀ tó ti gbilẹ̀ tẹ́lẹ̀, níbi tí agbára àti ìgbéraga kò mọ ààlà. Ońṣẹ́ kan rìn láàárín wọn, ó ń pè sí òtítọ́, ṣùgbọ́n ọkàn wọn le. Ìkìlọ̀ náà kò gba, ojú ọ̀run fúnra rẹ̀ sì di ohun èlò ìbínú. Ta ni ońṣẹ́ yìí, kí ló sì ṣẹlẹ̀ sí àwọn tó kọ̀ ìpè náà?",
+  "clues": [
+    "Wọ́n rán mi sí àwọn ènìyàn tí agbára wọn kò láfiwé, tí wọ́n sì kọ́ ibi ìrántí sí gbogbo ibi gíga.",
+    "Àwọn ènìyàn mi ka ara wọn sí ẹni tí a kò lè ṣẹ́gun, wọ́n sì wí pé, ‘Ta ló lágbára ju wa lọ ní agbára?’",
+    "Mo pe wọn lati sin Allah nikan, ṣugbọn wọn fi ẹsun aṣiwère ati irọ parọ kan mi.",
+    "Wọ́n pè mí níjà láti mú ìyà tí mo ṣèlérí wá tí mo bá jẹ́ olóòótọ́.",
+    "Allah rán afẹ́fẹ́ afẹ́fẹ́ kan sí wọn tí kò sì jẹ́ kí ohunkóhun dẹ́kun rẹ̀.",
+    "Èmi àti àwọn tí wọ́n gbàgbọ́ pẹ̀lú mi ni a gbà là nípasẹ̀ àánú Allāhu, nígbà tí àwọn aláìgbàgbọ́ parun pátápátá."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Húdì",
+        "Wòlíì Sálíh",
+        "Ànábì Súáíbù",
+        "Wòlíì Lọ́ọ̀tì",
+        "Wòlíì Nóà"
+      ],
+      "answer": "Wòlíì Húdì"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Afẹ́fẹ́ apanirun pa àwọn aláìgbàgbọ́ run",
+        "Ìkún omi ńlá bo àwọn aláìgbàgbọ́ mọ́lẹ̀",
+        "Òjò òkúta rọ̀ sílẹ̀",
+        "Igbe nla kan gbá àwọn aláìgbàgbọ́ mú.",
+        "Ilẹ̀ ilẹ̀ ríri kan kọlu àwọn aláìgbàgbọ́"
+      ],
+      "answer": "Afẹ́fẹ́ apanirun pa àwọn aláìgbàgbọ́ run"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Afẹ́fẹ́ tí kò dáwọ́ dúró",
+        "Àpótí onígi",
+        "Abo ràkúnmí kan",
+        "Òjò àwọn òkúta amọ̀",
+        "Iná tó ń jó"
+      ],
+      "answer": "Afẹ́fẹ́ tí kò dáwọ́ dúró"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Wọ́n gbà Húdù àti àwọn onígbàgbọ́ là, àwọn aláìgbàgbọ́ sì parun.",
+        "Wọ́n gbé Hud sókè sí ipò gíga kan",
+        "Àwọn ènìyàn rẹ̀ pa Hud",
+        "Àwọn ènìyàn Hud ronú pìwà dà, a sì dá wọn sí",
+        "Hud fi àwọn ènìyàn rẹ̀ sílẹ̀ kí ìyà tó dé bá wọn"
+      ],
+      "answer": "Wọ́n gbà Húdù àti àwọn onígbàgbọ́ là, àwọn aláìgbàgbọ́ sì parun."
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

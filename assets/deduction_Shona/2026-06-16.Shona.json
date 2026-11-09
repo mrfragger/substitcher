@@ -1,0 +1,61 @@
+{
+  "title": "Inzwi Rakadana Kukururama",
+  "intro": "Munyika yekare yeMidhiani, uko kutengeserana kwaibudirira uye mapoka evafambi aifamba nemumarenje makuru, muporofita waAllah akasimuka pakati pevanhu vakanga vatsauka munzira yeruramisiro. Muranda waAllah uyu akatumwa nebasa raMwari raizoedza kutenda kwenharaunda yese. Kuburikidza nemiedzo yekutsungirira nekutsungirira, mweya uyu wakamira wakasimba mukupa yambiro yaizodzokorora nhoroondo. Unogona here kutsanangura chakavanzika chemutumwa uyu akasimba?",
+  "clues": [
+    "Ndakasarudzwa naAllah kuti nditungamirire vanhu vakanga vakanganwa misimboti yekururamisira nekuvimbika mumabasa avo.",
+    "Ndakapa meseji ndichikurudzira nharaunda yangu kuti inamate Allah chete uye kuti itaure chokwadi pazvinhu zvese.",
+    "Ndakanyevera zvakananga nezvetsika yehuori yekushandisa pfuma nenzira dzisiri pamutemo uye ndakasimbisa kukosha kwezviyero nezviyero zvakarurama.",
+    "Vanhu vangu vakapindura yambiro dzangu vachindiseka, vachindityisidzira kuti vaizondidzinga munyika yavo kana ndikaramba ndichiparidza.",
+    "Ndakaramba ndakashinga mubasa rangu pasinei neruvengo rwavo, ndichiti mubairo wangu uri kuna Allah chete.",
+    "Vanhu vangu vakabatwa nechirango chinoparadza asi ini ndakaponeswa netsitsi dzaIshe wangu, basa rangu parakanga razadziswa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muporofita Shu'aib",
+        "Muporofita Hud",
+        "Muprofita Salih",
+        "Muporofita Lut",
+        "Muporofita Muhammad ﷺ"
+      ],
+      "answer": "Muporofita Shu'aib"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kutarisana nevanhu vakaramba chokwadi uye vakatyisidzira kurangwa nekuda kwekutaura shoko raAllah",
+        "Kuona Mafashamo Makuru akaparadza vasingatendi verudzi",
+        "Kugamuchira zvakazarurwa pavaifamba nemumupata we笃",
+        "Kuedzwa kwekutenda apo mutongi anodzvinyirira akaedza kudzikamisa kudanwa kwekutenda muna Mwari mumwe chete",
+        "Rudzi rwuchikumbira mvura panguva yekusanaya kwemvura mushure memakore akawanda ekusateerera"
+      ],
+      "answer": "Kutarisana nevanhu vakaramba chokwadi uye vakatyisidzira kurangwa nekuda kwekutaura shoko raAllah"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Nyika yeMidhiani, uko vanhu vangu vaiita kutengeserana kwavo",
+        "Chiteshi chengarava huru chakaponesa vatendi kubva mumafashamo ane njodzi",
+        "Bako riri mugomo rine matombo uko majaya manomwe akapotera kubva mukutambudzwa",
+        "Guta dzvene reJerusarema kwandakaendeswa rwendo rwehusiku",
+        "Imba yamambo muShebha uko umambo hukuru hwakagadzirira kupupurira chiratidzo chaMwari"
+      ],
+      "answer": "Nyika yeMidhiani, uko vanhu vangu vaiita kutengeserana kwavo"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Vanhu vangu vakabatwa nechirango chinotyisa ini ndichiponeswa, nekuti ndakanga ndazadzisa basa rangu kuna Allah",
+        "Vasingatendi vakaitwa tsoko pavakaputsa miganhu mitsvene yaAllah",
+        "Vavengi vangu vakagamuchira kutenda mushure mekuona shanduko inoshamisa",
+        "Nyika yakakomborerwa nemvura yakawanda uye kubudirira mushure mekunge vanhu vatendeuka",
+        "Ndakaurayiwa nevanhu vangu nekuda kwekuramba kusiya basa rangu rekuparidza"
+      ],
+      "answer": "Vanhu vangu vakabatwa nechirango chinotyisa ini ndichiponeswa, nekuti ndakanga ndazadzisa basa rangu kuna Allah"
+    }
+  },
+  "verseRef": "26:177",
+  "arabic": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ",
+  "verse": "When Shuʿayb said to them, \"Will you not fear Allāh? (26:177)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Scout a Ɔwɔ Nhama",
+  "intro": "Wɔ ahenni bi a obi a wɔama no tumi wɔ mframa, abɔde a wonhu, ne wim abɔde so di so mu no, ɔmannifo ketewaa biako a ɔyɛ ntɛmntɛm yera fii kuw no mu — na ɔsan bae de adiyisɛm ahorow a ɛbɛsan asiesie ɔman bi a ɛwɔ akyirikyiri nkrabea. Saa amanneɛbɔfo a n’ani da hɔ yi de nokware baa hann mu wɔ baabi a na nimdeɛ a wonni agye ntini no. Meyɛ Henanom?",
+  "clues": [
+    "Mesom wɔ asɛnnibea bi a nnipa, abɔde a wonhu wɔn, ne wim abɔde bua sodifo nyansafo biako pɛ a ɔhyɛ mframa ankasa.",
+    "Na minni m’adwuma no mu bere bi, na wɔhyɛɛ sodifo no abufuw bɔ sɛ sɛ mantumi amfa ntease a ɛma abotɔyam amma a.",
+    "Meyɛ abɔdeɛ ketewa bi a ɔtu, a wonim me sɛ mehu ade nnam, na wɔde din a wɔbɔɔ tẽẽ wɔ adiyisɛm nkratafa mu hyɛɛ me su no anuonyam.",
+    "Bere a mesan bae no, mede asase bi a ɛwɔ akyirikyiri a nkurɔfo no kotow owia, a wɔn ani afura wɔ Nea ɔbɔɔ ɔsoro ne asase no ho amanneɛbɔ bae.",
+    "Mihuu ɔbea bi a odi ahenni kɛse bi so, na ɔte ahengua a ɛyɛ nwonwa so, a onnim nokware no da.",
+    "Me ne deɛ mehunuu Saba’ ahemman no na mekuraa nsato krataa a ɛfiri odiyifoɔ-hene bi a wɔmaa no mframa so tumi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Hoopoe (Hudhud) no .",
+        "Nwansena a ofi Sulaiman Bon mu",
+        "Asif ibn Barkhiya na ɔkyerɛwee",
+        "Ifrit na Jinn no",
+        "Ahengua no so Ɔbɔfo"
+      ],
+      "answer": "Hoopoe (Hudhud) no ."
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Akwantuo a wɔde kɔɔ Saba’ (Sheba) Ahemman no mu .",
+        "Akasakasa a wɔne Farao nkonyaayifo dii no",
+        "Nsuyiri a Ɔkɔmhyɛni Nuh",
+        "'Ad. Nkurofoɔ no sɛe",
+        "Po Kɔkɔɔ no mu mpaapaemu"
+      ],
+      "answer": "Akwantuo a wɔde kɔɔ Saba’ (Sheba) Ahemman no mu ."
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Saba' (Sheba) Asase no .",
+        "Bepɔw Sinai",
+        "Ɔkɔmhyɛni Nuh Adaka no",
+        "Ashab al-Kahf Ɔbodan no mu",
+        "Farao Ahemfie"
+      ],
+      "answer": "Saba' (Sheba) Asase no ."
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Bilqis baa Sulaiman asennibea a ɔde ne ho hyɛɛ mu",
+        "Farao ne n’asraafo no memee wɔ po no mu",
+        "Mframa a ano yɛ den sɛee Ad Nkurofoɔ no",
+        "Farao nkonyaayifoɔ no gyee Ɔkɔmhyɛni Musa dii",
+        "Nsuyiri kɛse bi sɛee atiafo no"
+      ],
+      "answer": "Bilqis baa Sulaiman asennibea a ɔde ne ho hyɛɛ mu"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

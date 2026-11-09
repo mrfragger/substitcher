@@ -1,0 +1,61 @@
+{
+  "title": "Raadinta Starlit ee Hubanti",
+  "intro": "Sawir adigoo taagan cirka weyn ee habeenkii, daawanaya nalalka dhalaalaya oo soo baxaya ka dibna libdhaya iyagoo raadinaya waxa runtii u qalma cibaadada. Agagaarkaaga, sawirro la xardhay oo aamusan ayaa helaya ammaan iyo qurbaanno, laakiin sabab cad ayaa su'aal gelinaysa awooddooda. Cod aan cabsi lahayn ayaa ku dhow inuu caqabad ku noqdo dhaqanka dhaxalka ah oo uu u jeediyo Abuuraha cirka iyo dhulka.",
+  "clues": [
+    "Waxaan eegay xiddigaha, dayaxa, iyo qorraxda, waxaana is idhi ma noqon karaan Rabbigeyga sababtoo ah way dhacaan oo way baaba'aan.",
+    "Waxaan si cad u beeniyay waxa ay dadkaygu caabudaan marka laga reebo Alle, waxaana ugu yeeray inay caabudaan Abuuraha oo keliya.",
+    "Waxaan ka dooday taliye faan badan oo sheegtay inuu nolol iyo geeri bixiyo, waxaana ku jawaabay anigoo xusaya Alle qorraxda ka keenaya bari.",
+    "Sanamyadii waan garaacay oo waan burburiyey, anigoo ka tagay kuwa ugu waaweyn oo keliya si dadku ugu soo noqdaan.",
+    "Waxaa i qabtay oo i cambaareeyay dadkaygii, oo igu yidhi dhis dhismo oo igu tuur dabka ololaya.",
+    "Waan badbaaday markii Alle amray in dabku ii noqdo qabow iyo badbaado."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Ibraahim (Ibraahiim)",
+        "Nabi Yaxya (Yooxanaa)",
+        "Nabi Al-Yasa (Eliisha)",
+        "Samiirka",
+        "Namrud (Nimrod)"
+      ],
+      "answer": "Nabi Ibraahim (Ibraahiim)"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Waxay la kulmeen caabudidda sanamyada waxayna ka doodeen macnaha jidhka samada ku jira",
+        "Kalluun weyn ayaa liqay ka dib markii uu caro darteed u baxay",
+        "Ku hoggaamiyay raacayaashii badda oo uu Alle kala qaybiyay",
+        "Isaga oo nool ayaa samada loo sara kiciyey isagoon dhimasho dhadhamin",
+        "Sannado badan ayaan god kula seexday asxaabteyda"
+      ],
+      "answer": "Waxay la kulmeen caabudidda sanamyada waxayna ka doodeen macnaha jidhka samada ku jira"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Dab ololaya oo uu Alle ka dhigay mid qabow oo ammaan ah",
+        "Doontii qaaday dadkii mu'miniinta ahaa ee daadka soo maray",
+        "Ushii abeeso noqotay",
+        "Miisku wuxuu ka soo baxay samada",
+        "Hashii ayaa calaamad ahaan loo diray"
+      ],
+      "answer": "Dab ololaya oo uu Alle ka dhigay mid qabow oo ammaan ah"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Naarta laga ilaaliyay oo la siiyay farac wanaagsan",
+        "Daad weyn oo ay ku qarqiyeen dad beeninaya",
+        "Waxaa loo beddelay jebinta Sabtida",
+        "Waxaa burburiyay shimbiro sita dhagaxyo dhoobo ah",
+        "Dhulku wuxuu liqay khasnado"
+      ],
+      "answer": "Naarta laga ilaaliyay oo la siiyay farac wanaagsan"
+    }
+  },
+  "verseRef": "6:75",
+  "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+  "verse": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]. (6:75)"
+}

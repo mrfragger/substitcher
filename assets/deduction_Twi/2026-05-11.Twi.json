@@ -1,0 +1,61 @@
+{
+  "title": "Adansefo a Wogyina Pii",
+  "intro": "Susuw bere bi a wɔde ogya sɔɔ gyidi hwɛe, na gyidi a enhinhim bɛyɛɛ asɔretia a etwa to no ho hwɛ. Wɔde ahyɛ wo nsa sɛ wobɛda kuw bi a wɔaka wɔn asɛm wɔ Kur’aan mu, gyidi a emu dɔ ho asɛm a ɛko tia atirimɔdensɛm a ɛboro so ho asɛm. Bue nsɛnkyerɛnne no mu na woahu nnipa ko a na saa akra yi yɛ, ne tebea soronko a wohyiae.",
+  "clues": [
+    "Yegyinaa pintinn wɔ yɛn gyidi mu, ɛmfa ho nhyɛso kɛse a yɛde bɛpow yɛn gyidi no.",
+    "Sodifo bi a ɔwɔ tumi a ɔhwehwɛɛ sɛ obedum onyame biako som kanea no de n’ani sii yɛn so.",
+    "Yehuu nsɛnkyerɛnne akɛse ne anwonwade ahorow, nanso yɛn nhyɛsofo no kɔɔ so yɛɛ anibiannaso.",
+    "Yegyinaa ɔtaa kwan a ɛyɛ hu a wɔayɛ sɛ wɔde bɛbɔ afoforo hu ma wɔabrɛ wɔn ho ase no ano.",
+    "Wɔtoo yɛn guu ogyaframa a ɛredɛw mu, nanso yɛn pintinnyɛ no maa yenyaa gyinabea a ɛkorɔn wɔ Allah nkyɛn.",
+    "Wɔaka yɛn asɛm no wɔ Surah bi a wɔde ɔsoro nsoromma akuw din ato so mu, na ɛbɔ wɔn a wɔtaa agyidifo no nkrabea ho kɔkɔ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Yɛn Yɛ Henanom?",
+      "options": [
+        "Nnipa a wɔwɔ Thamud",
+        "Nnipa a wɔwɔ ‘Ad",
+        "Nnipa a Wɔte Asubɔnten no Mu",
+        "Nnipa a Wɔte Midian",
+        "Nnipa a Wɔyɛ Asono"
+      ],
+      "answer": "Nnipa a Wɔte Asubɔnten no Mu"
+    },
+    "trial": {
+      "label": "Yɛn Ɔtaa",
+      "options": [
+        "Nsuyiri a ɛremene no",
+        "Mframa a ano yɛ den a ɛrehyew no",
+        "Wɔtow no gu amena a ogya wom mu",
+        "Asase a ɛremene wɔn",
+        "Sɛ wɔdan no akraman"
+      ],
+      "answer": "Wɔtow no gu amena a ogya wom mu"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Nsuyiri kɛse bi",
+        "Asasewosow kɛse bi",
+        "Amena a emu dɔ a ɛrehyew",
+        "Abosom a tumi wom",
+        "Ɔpɛ a ɛsɛee ade kɛse"
+      ],
+      "answer": "Amena a emu dɔ a ɛrehyew"
+    },
+    "outcome": {
+      "label": "Yɛn Nkrabea a Etwa To",
+      "options": [
+        "Wɔmaa wɔn ahenni wɔ asase so.",
+        "Wɔnam anwonwa kwan so guankɔbea so gyee wɔn nkwa.",
+        "Wonyaa mogya dansefo ne daa akatua.",
+        "Wɔdanee wɔn ma wɔbɛyɛɛ mmoa foforo.",
+        "Wɔmaa wɔn ahonyade ne yiyedi a ɛdɔɔso."
+      ],
+      "answer": "Wonyaa mogya dansefo ne daa akatua."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

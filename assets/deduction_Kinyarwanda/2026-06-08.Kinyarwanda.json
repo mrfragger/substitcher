@@ -1,0 +1,61 @@
+{
+  "title": "Uwinginga w'Ubuturo Butagatifu",
+  "intro": "Mu masaha y'ituze yo mu ijoro, roho y'indahemuka yahamagaye Nyir'impuhwe nyinshi mu nkuta zera z'ahantu hatagatifu. Imyaka y'ukwizera gukomeye n'ukwihangana yari hafi kugororerwa igitangaza cyari kuzana ibyishimo n'umurage w'ubuhanuzi.",
+  "clues": [
+    "Namaze iminsi n'amajoro yanjye mu bwitange mu buturo bwera, nsenga iteka ku Mwami wanjye.",
+    "Narashaje, umugore wanjye yari ingumba, nyamara sinigeze ntakaza icyizere cy'imbabazi za Allah.",
+    "Nahawe umwana w'umuhungu, witwa Yahya, wabaye umuhanuzi n'urumuri rw'ubutungane.",
+    "Nanjye nari umuhanuzi, natumwe kuyobora Abana ba Isirayeli.",
+    "Nari uwo mu muryango w'Intumwa Harun kandi nakoreraga nk'umutambyi mu Rusengero.",
+    "Nahawe inshingano yo kwita kuri Mariyamu, nyina wa Isa, kandi niboneye ibitangaza bye."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Intumwa Zakariya",
+        "Intumwa Yahya",
+        "Intumwa Ilyas",
+        "Intumwa Ishaq",
+        "Intumwa Ya'qub"
+      ],
+      "answer": "Intumwa Zakariya"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Yahawe umwana w'umuhungu mu zabukuru",
+        "Narokowe mu muriro ugurumana",
+        "Yarokowe mu nda y'ifi",
+        "Yarokotse umwuzure ukomeye",
+        "Yakize indwara ikomeye"
+      ],
+      "answer": "Yahawe umwana w'umuhungu mu zabukuru"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Mihrab (ahantu ho gusenga)",
+        "Kaaba",
+        "Igihuru Gitwika",
+        "Isanduku y'Isezerano",
+        "Ubuvumo bw'Abasinzira Barindwi"
+      ],
+      "answer": "Mihrab (ahantu ho gusenga)"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Yahawe umwana w'umukiranutsi wabaye umuhanuzi",
+        "Yasenywe n'inkubi y'umuyaga ikomeye",
+        "Yarohamye mu nyanja",
+        "Yarokotse gutwikwa",
+        "Bagarutse mu bantu babo nyuma yo kurokorwa mu ifi"
+      ],
+      "answer": "Yahawe umwana w'umukiranutsi wabaye umuhanuzi"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

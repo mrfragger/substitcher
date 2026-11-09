@@ -1,0 +1,61 @@
+{
+  "title": "Wɔn a Wɔkyekye Abantenten",
+  "intro": "Wɔ bere bi a atwam mu no, anibuei a ɛyɛ den sɔree, a ɛda nsow wɔ adansi mu nnwuma a ɛyɛ nwonwa ne ahoɔden a ɛyɛ hu no ho. Wɔmaa saa kuw a wɔaboaboa wɔn ho ano yi ahonyade ne honam fam ahoɔden pii, nanso wɔpaw ɔkwan a wɔbɛfa so atia ɔsoro nkrasɛm a wɔde kɔmaa wɔn sɛ wɔmfa nkyerɛ wɔn kwan no. Wɔn asɛm no yɛ asuade a emu dɔ wɔ abakɔsɛm mu abakɔsɛm mu, na ɛyɛ nea efi nokware a wɔpow mu ba no ho adanse.",
+  "clues": [
+    "Wɔmaa yɛn honam fam ahoɔden ne kɛseyɛ kɛse, a na ɛnte sɛ nnipa foforo biara a na wɔwɔ yɛn bere so.",
+    "Ná wonim yɛn sɛ yesisi adan akɛse ne adum a ɛkorɔn wɔ mmeae a ɛkorɔn biara, a na yesusuw sɛ yɛbɛtra ase daa.",
+    "Wɔsomaa ɔbɔfoɔ bi a ɔfiri yɛn mu sɛ ɔmmɛbɔ yɛn kɔkɔ, ɔfrɛɛ yɛn sɛ yɛnsom Allah nko ara na yɛnnyae yɛn abosom.",
+    "Yɛde ahantan bisabisaa yɛn somafo no nsɛm, bisae sɛ ebia wɔbaa yɛn nkyɛn sɛ wɔbɛma yɛasom Allah na yɛagyae dee yɛn nananom som no nko ara anaa.",
+    "Wɔde turo, nsuten, ne mfuw a ɛsow aba hyiraa yɛn asase no so, nanso yɛkae sɛ yɛn ankasa tumi na ɛma yedi yiye, na ɛnyɛ yɛn Bɔfo no.",
+    "Esiane sɛ yɛankɔ so annye nni ne yɛn fɛwdi nti, awiei koraa no, mframa a ɛyɛ hu na ɛyɛ hu a ɛbɔe awia ne anadwo pii sɛee yɛn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Nnipa a wɔwɔ Thamud",
+        "Nnipa a wofi Fir'aun",
+        "Nnipa a wɔwɔ Nuh",
+        "Nnipa a wɔwɔ Madyanfo",
+        "Nnipa a wɔwɔ ‘Ad"
+      ],
+      "answer": "Nnipa a wɔwɔ ‘Ad"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Sɛ wɔbɛka akyerɛ wɔn sɛ wɔmfa yoma pɔtee bi mmɔ afɔre",
+        "Wɔretwa wɔn mpoa sɛ wɔnyɛ surah du te sɛ Kur’aan",
+        "Wɔrekyerɛ po no mu mpaapaemu",
+        "Sɛ́ odiyifo bi rebɔ wɔn kɔkɔ wɔ nsuyiri a ɛreba no ho",
+        "Odiyifo bi a ɔbɔɔ kɔkɔ sɛ ɛnsɛ sɛ wosi adan dodo na wɔsom abosom a wɔpow"
+      ],
+      "answer": "Odiyifo bi a ɔbɔɔ kɔkɔ sɛ ɛnsɛ sɛ wosi adan dodo na wɔsom abosom a wɔpow"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Adaka no",
+        "Adwumayɛfo no",
+        "Ogya no",
+        "Sodom Kuropɔn no",
+        "Adum a ɛkorɔn ne atrae a ɛyɛ den"
+      ],
+      "answer": "Adum a ɛkorɔn ne atrae a ɛyɛ den"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Nsuyiri kɛse bi amee no",
+        "Asase amene no",
+        "Wɔdanee no yɛɛ no ​​akraman ne mprako",
+        "Wɔde aprannaa a ɛpaee sɛee no",
+        "Mframa a ano yɛ den na ɛsɛe ade sɛee no"
+      ],
+      "answer": "Mframa a ano yɛ den na ɛsɛe ade sɛee no"
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

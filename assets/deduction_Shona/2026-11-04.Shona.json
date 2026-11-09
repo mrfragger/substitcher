@@ -1,0 +1,61 @@
+{
+  "title": "Pfuma Yakanyura Pasi Pekuzvikudza",
+  "intro": "Fungidzira uchimira pamberi pemirwi yepfuma yakakura zvekuti kungotakura makiyi chete kwaizonetesa boka revanhu vane simba. Manzwi akakupoteredza anokurudzira kuzvininipisa nekurangarira, asi kudada kunowedzera simba kupfuura kutenda. Chii chinoitika kana zvipo zvikava muedzo uye kuzvikudza kuchisimbisa mhedzisiro?",
+  "clues": [
+    "Ndaiva pakati pevanhu vaMusa, asi ndakavatadzira.",
+    "Ndakapiwa pfuma yakakura zvekuti makiyi ayo aitoremedza boka revanhu vane simba.",
+    "Vanhu vangu vakandipa zano rekuti ndisafare uye nditsvage hupenyu hweramangwana ndisingakanganwe mugove wangu wenyika ino.",
+    "Ndakati zvandaive nazvo ndakazvipiwa nekuda kweruzivo rwandaive narwo chete.",
+    "Ndakafamba pamberi pevanhu vangu ndakapfeka zvishongo, uye avo vaida hupenyu hwepanyika vaida zvakafanana nezvandaive nazvo.",
+    "Ndakamedzwa nenyika pamwe chete neimba yangu, uye hapana akagona kundibatsira kana kundibatsira."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Qarun",
+        "Namrud",
+        "Jalut",
+        "Azar",
+        "Qabil"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Aizvikudza nepfuma uye akaramba nyasha dzaAllah pasinei nekurairwa",
+        "Akabvunza Ibrahim nezvekupa hupenyu nerufu",
+        "Akatungamira hondo kurwisa Talut naDawud",
+        "Zvifananidzo zvakavezwa kuti vanhu vanamate",
+        "Akauraya hama yake nekuda kwegodo pamusoro pechibayiro"
+      ],
+      "answer": "Aizvikudza nepfuma uye akaramba nyasha dzaAllah pasinei nekurairwa"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Makiyi epfuma huru",
+        "Areka yeSungano",
+        "Mhuru yegoridhe yezvishongo",
+        "Dhamu riri pakati pemakomo maviri",
+        "Nyeredzi gumi nerimwe muchiroto"
+      ],
+      "answer": "Makiyi epfuma huru"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Yakamedzwa nenyika nekugara nepfuma",
+        "Akanyura mugungwa achitevera Musa",
+        "Akarohwa nedombo rakabva pachipfuramabwe chaDawud",
+        "Akaparadzwa nekuputika kukuru nekuda kwekurova ngamera hadzi",
+        "Akachinjwa kuita tsoko nekuda kwekutyora Sabata"
+      ],
+      "answer": "Yakamedzwa nenyika nekugara nepfuma"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

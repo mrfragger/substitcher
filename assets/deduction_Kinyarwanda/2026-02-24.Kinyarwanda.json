@@ -1,0 +1,61 @@
+{
+  "title": "Ishusho y'uburiganya",
+  "intro": "Isano y'ubucuti yageragejwe n'ishyari ryinshi. Hateguwe umugambi w'ibanga, utangira urukurikirane rw'ibintu byagiye bimara imyaka myinshi kandi bikarenga intera ndende. Ibikorwa by'iri tsinda byatumye habaho gutandukana gukomeye n'agahinda, ariko inkuru ntiyarangiriye aho. Ni inkuru y'uburiganya, kwicuza, no gusohora burundu umugambi w'Imana. Ese ushobora guhishura abo bantu amahitamo yabo yagarutse mu bisekuruza bitandukanye?",
+  "clues": [
+    "Twari dufite ishyari kubera urukundo twagaragarijwe umwe mu bacu.",
+    "Mu ishyari ryacu, twafatanyije umugambi maze tujugunya umuvandimwe wacu mu mwijima w'iriba.",
+    "Kugira ngo duhishe igikorwa cyacu, twahaye data umwenda, wandujwe n'amaraso y'ibinyoma.",
+    "Nyuma y'imyaka myinshi, inzara ikomeye yatumye tujya mu Misiri gushaka ibyo kurya.",
+    "Tugezeyo, twageze imbere y'umutware ukomeye, uwo twari twakoreye icyaha tutazi, akaba ari we muvandimwe wacu.",
+    "Ikigeragezo cya nyuma cyari ukuzana murumuna wacu muto, Binyamin, byatumye amateka yacu ahishurwa kandi data akaba Intumwa Ya'qub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Turi bande?",
+      "options": [
+        "Abana ba Adamu (Qabil na Habil)",
+        "Abigishwa b'Intumwa Isa",
+        "Abavandimwe b'Intumwa Yusufu",
+        "Abaturage ba Madyan",
+        "Abapfumu ba Firauni"
+      ],
+      "answer": "Abavandimwe b'Intumwa Yusufu"
+    },
+    "trial": {
+      "label": "Ni ikihe cyaha cy'ingenzi twakoze?",
+      "options": [
+        "Kubaka inyana ya zahabu yo gusengeramo",
+        "Gusaba kubona Imana mu buryo butaziguye",
+        "Gushinyagurira umuhanuzi amuziza kubaka inkuge",
+        "Gushuka data no guta umuvandimwe wacu",
+        "Kurenga ku Isabato uroba amafi"
+      ],
+      "answer": "Gushuka data no guta umuvandimwe wacu"
+    },
+    "location": {
+      "label": "Ni iki cyari ingenzi mu bushukanyi bwacu?",
+      "options": [
+        "Itsinda ry'ibisate byanditseho",
+        "Ishati yandujwe n'amaraso y'ibinyoma",
+        "Inyana ya zahabu",
+        "Inyoni nziza cyane (Hoopoe)",
+        "Inkoni yahindutse inzoka"
+      ],
+      "answer": "Ishati yandujwe n'amaraso y'ibinyoma"
+    },
+    "outcome": {
+      "label": "Ingaruka nyamukuru y'inkuru yacu yabaye iyihe?",
+      "options": [
+        "Twarimbuwe n'umwuzure ukomeye",
+        "Twahinduwe nk'inkende",
+        "Twamizwe n'isi",
+        "Twababariwe twongera guhura n'umuryango wacu",
+        "Twarohamye mu nyanja"
+      ],
+      "answer": "Twababariwe twongera guhura n'umuryango wacu"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

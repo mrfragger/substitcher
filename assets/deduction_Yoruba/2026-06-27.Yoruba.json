@@ -1,0 +1,61 @@
+{
+  "title": "Àìsí Mímọ́",
+  "intro": "Lẹ́yìn àwọn òkìtì ayé, ìtàn kan wà nípa ìfọkànsìn tí kò ṣeé yẹ̀ sílẹ̀ àti ìgbẹ́kẹ̀lé tí ó wúwo tó bẹ́ẹ̀ tí ọkàn tí ó gbé e lè ti fọ́. Ní àkókò kan tí àwọn ènìyàn yíjú sí ìwà òmùgọ̀ àti wúrà, ẹni kan dúró ṣinṣin—ó pè wọ́n padà, ó bẹ̀bẹ̀ fún sùúrù, ó sì ru ẹrù ìlérí mímọ́ kan. Ìtàn ẹni tí a yàn gẹ́gẹ́ bí olùrànlọ́wọ́, olùtọ́jú, àti olùtọ́jú ìgbàgbọ́ nígbà tí kò sí ní mímọ́ ni èyí. Ṣé o lè ṣàwárí ẹni tí ọkàn tí ó dúró ṣinṣin yìí jẹ́?",
+  "clues": [
+    "Mo pin ẹ̀jẹ̀ wòlíì ńlá kan tí a yàn láti bá Allah sọ̀rọ̀ tààrà lórí òkè mímọ́ kan.",
+    "Ẹ̀gbọ́n mi kan bẹ Allah nígbà kan rí fún ìrànlọ́wọ́ láti bá a sọ̀rọ̀ ní kedere sí ẹni tí ó ni ín lára ​​gidigidi.",
+    "Allah yan mi lati duro lẹgbẹ arakunrin mi gẹgẹbi oluranlọwọ ati oluṣọna.",
+    "A jọ dojúkọ alákòóso oníwà ipá kan tí ó béèrè pé kí a pè òun ní ẹni tí ó ga jùlọ nínú àwọn ọlọ́run.",
+    "Nígbà tí ẹ̀gbọ́n mi ọkùnrin ń bá Allah sọ̀rọ̀ lórí òkè náà, àwọn ènìyàn wa ṣe ère fún ara wọn láti inú wúrà wọn.",
+    "Èmi ni arákùnrin Mósè, tí Allah yàn gẹ́gẹ́ bí olùtọ́jú rẹ̀, tí a sì dárúkọ rẹ̀ nínú Al-Quran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Hárún (Áárọ́nì)",
+        "Wòlíì Mósà",
+        "Wòlíì Dáfídì",
+        "Wòlíì Jákọ́bù",
+        "Wòlíì Íṣákì"
+      ],
+      "answer": "Wòlíì Hárún (Áárọ́nì)"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ìṣòro Ìjọsìn Ọmọ Màlúù",
+        "Ìkún Omi Ńlá Nóà",
+        "Ogun Badr",
+        "Ìparun Támúdì",
+        "Ìparun Sódómù"
+      ],
+      "answer": "Ìṣòro Ìjọsìn Ọmọ Màlúù"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ọmọ màlúù wúrà náà",
+        "Ọkọ̀ Nóà",
+        "Igbó Tí Ń jóná",
+        "Ihò Hira",
+        "Ìtẹ́ Ṣébà"
+      ],
+      "answer": "Ọmọ màlúù wúrà náà"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Àìlẹ́ṣẹ̀ tí Allah fi ìdí rẹ̀ múlẹ̀",
+        "Bí Farao ṣe rì sínú omi",
+        "Ilé Kaaba",
+        "Kọjá Òkun láìléwu",
+        "Ìgòkè lọ sí Ọ̀run"
+      ],
+      "answer": "Àìlẹ́ṣẹ̀ tí Allah fi ìdí rẹ̀ múlẹ̀"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

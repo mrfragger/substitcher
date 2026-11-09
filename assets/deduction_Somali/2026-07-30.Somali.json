@@ -1,0 +1,61 @@
+{
+  "title": "Booqdayaasha Yaabka Leh ee Magaalo Deyr leh",
+  "intro": "Koox ayaa timid irdaha magaalo oo dadkeedu aysan waligood runta aqoon. Waxay keeneen farriin, laakiin dadkii deganaa waxay noqdeen kuwo cadow ah oo ku hanjabay rabshado. Haddana, meel aan la filayn, hal cod ayaa kor u kacay si uu u difaaco shisheeyaha, isagoo u diyaariyay masraxa isbeddel weyn oo dhacdooyin ah.",
+  "clues": [
+    "Waxaan galnay magaalo dadkiisu ay ku dhex milmeen gaalnimo.",
+    "Way na eegeen iyagoo shaki qaba oo waxay yidhaahdeen, 'Waxaad tihiin noole caadi ah oo nala mid ah.'",
+    "Waan u digaynay, laakiin dhagaxyo ayay nagu soo tuureen.",
+    "Nin ayaa ka soo orday meesha ugu fog magaalada si uu u xaqiijiyo runtayada.",
+    "Wuxuu dadkiisii ​​ku dhawaaqay, 'Maxaan u caabudi waayay Kan i abuuray?'",
+    "Dafiridda magaaladu waxay ku dhammaatay hal qarax, aamusnaantuna waxay ka jirtay meeshii ay markii hore ku jeesjeesayeen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Yaan nahay?",
+      "options": [
+        "Rasuulladii Ya-Sin",
+        "Xertii Ciise",
+        "Dadka Dooxada",
+        "Sixiroolayaashii Fircoon",
+        "Mu'miniinta Ya-Sin"
+      ],
+      "answer": "Rasuulladii Ya-Sin"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Diidmo iyo hanjabaad dhagax lagu dili karo",
+        "In lagu tuuro dab kulul",
+        "Tijaabo dulqaad ah oo lala sameeyo ilmo lumay",
+        "Beer burburtay",
+        "Safar badda dhex mara"
+      ],
+      "answer": "Diidmo iyo hanjabaad dhagax lagu dili karo"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Dhamaadka ugu fog ee magaalada",
+        "Badda Cas",
+        "Godka dabka",
+        "Godka magangalyada",
+        "Xabsiga Masar"
+      ],
+      "answer": "Dhamaadka ugu fog ee magaalada"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Magaalada waxaa lagu burburiyay hal qaylo",
+        "Badda ayaa kala qaybisay oo ciidankii ku qarqisay",
+        "Dabku wuxuu noqday mid qabow oo ammaan ah",
+        "Beertii waxaa gubay dab jannada ku jira",
+        "Nibirigii ayaa qofkii ku celiyay xeebta"
+      ],
+      "answer": "Magaalada waxaa lagu burburiyay hal qaylo"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

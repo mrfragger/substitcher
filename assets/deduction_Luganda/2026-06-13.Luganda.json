@@ -1,0 +1,61 @@
+{
+  "title": "Aba Makkah Abatuufu",
+  "intro": "Mu nnaku ezaasooka ez’okubikkulirwa, obubaka obw’amazima bwe bwayolekagana n’okuziyizibwa okw’amaanyi, emyoyo egimu gyayimirira nga tegiwuguka mu kukkiriza kwabwe. Abakkiriza bano baayolekagana n’obukambwe obutalowoozebwako okuva eri abo abaali banoonya okuzikiza ekitangaala ky’okukkiriza. Okubonaabona kwabwe kwali kwa maanyi, okubonaabona kwabwe kwali kwa maanyi nnyo — naye ennimi zaabwe tezaalekera awo kulangirira Bumu bwa Allah. Ne bwe basuulibwa mu buziba obw’okuggwaamu essuubi, obukuumi obw’obwakatonda bwabazingiza, ne bukyusa okugezesebwa kwabwe ne bufuuka endagaano ey’okukkiriza ey’olubeerera. Ka twekenneenye olugendo lw’emyoyo gino egy’ekitalo.",
+  "clues": [
+    "Twagezesebwa n’ekibonerezo eky’amaanyi olw’okugaana okuleka okukkiriza kwaffe mu Katonda Omu",
+    "Abantu baffe tebaasobola kumenya bumalirivu bwaffe, ne bwe bwafuuka obuyiiya butya obukambwe bwabwe",
+    "Twayimirizibwanga ku luzzi emisana, naye obuyambi okuva eri Katonda bulijjo bwali kumpi",
+    "Obunywevu bwaffe bwawuniikiriza n’abo abaalaba nga tugumiikiriza",
+    "Bangi mu Makkah baagezaako okutukaka okwerekereza, naye twasigala nga tuli bamalirivu",
+    "Byonna bwe byalabika ng’ebibuze, eddembe lyaffe lyatuuka nga tuyita mu kuyingirira Katonda mu ngeri ey’ekyamagero"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Bilal al-Habashi, omuwandiisi w’ebitabo",
+        "Ammar ibn Yasir",
+        "Miqdad ibn al-Aswad, omuwandiisi w’ebitabo",
+        "Khabbab ibn al-Aratt, omuwandiisi w’ebitabo",
+        "Salman al-Farsi, omuwandiisi w’ebitabo"
+      ],
+      "answer": "Bilal al-Habashi, omuwandiisi w’ebitabo"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Olutalo ne Nabbi",
+        "Okuyigganyizibwa olw’okugaana okusinza ebifaananyi",
+        "Okugezesa okukkiriza ku bikwata ku muliro ogwagwa",
+        "Okugezesebwa kw'olugendo lw'ekiro olwawuddwamu",
+        "Okugezesa okuzikirizibwa kw'olusuku"
+      ],
+      "answer": "Okuyigganyizibwa olw’okugaana okusinza ebifaananyi"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Olusozi Ukudi",
+        "Ekifo ekitukuvu ekya Kabah",
+        "Oluzzi lwa Abu Sufyan",
+        "Olubiri lwa ba Quraysh",
+        "Ekibuga Madina"
+      ],
+      "answer": "Oluzzi lwa Abu Sufyan"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Obuwanguzi mu lutalo olunene",
+        "Okusumululwa nga tuyita mu kuyingirira Katonda",
+        "Obujulizi mu kkubo lya Allah",
+        "Okukkirizibwa mu jjana butereevu",
+        "Okusenguka okugenda mu nsi ey’omukisa"
+      ],
+      "answer": "Okusumululwa nga tuyita mu kuyingirira Katonda"
+    }
+  },
+  "verseRef": "85:4-6",
+  "arabic": "",
+  "verse": "85:4-6"
+}

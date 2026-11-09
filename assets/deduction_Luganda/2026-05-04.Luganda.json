@@ -1,0 +1,61 @@
+{
+  "title": "Omukubi w’ebifaananyi ow’amalala",
+  "intro": "Mu nsi ey’edda eyali efugibwa obuyinza obujeemera, omuntu omukulu yalina ekifo eky’obuyinza. Omwoyo guno gwayamba nnyo mu nteekateeka ennene ez’omufuzi, ne guyamba mu bufuzi bwabwe obw’okunyigiriza era nga gusomooza obubaka obw’obwakatonda. Omusika gwabwe gukwatagana n’okunoonya amaanyi g’ensi n’okwegaana amazima.",
+  "clues": [
+    "Naweereza omufuzi ow’entiisa eyanyigiriza abantu okumala emirembe.",
+    "Erinnya lyange lyogerwako nnyo mu Kitabo eky’Obwakatonda ku mabbali g’omukulembeze ono ow’amaanyi.",
+    "Nnaweebwa omulimu omunene ogw’okuzimba, ekizimbe ekiwanvu ekyali kigendereddwamu okutuuka mu ggulu.",
+    "Nawa mukama wange amagezi okutta abaana b’Abayisirayiri n’okusonyiwa abawala baabwe.",
+    "Nali mu lukwe n’enkwe ku mubaka wa Allah ow’amaanyi.",
+    "Enkomerero yange, awamu ne mukama wange n’eggye lye, yajja mu mazzi g’ennyanja ennene ennyo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Nimuloodi",
+        "Ibulaya",
+        "Goliyaasi",
+        "Ibis",
+        "Kamani"
+      ],
+      "answer": "Kamani"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okugezesebwa n’obugagga obw’ekitalo",
+        "Okukulembera eggye okulwanyisa ennyumba entukuvu",
+        "Okuzimba omunaala okutuuka ku Katonda",
+        "Okusuulibwa mu muliro olw’okukkiriza kwabwe",
+        "Okusuulibwa mu luzzi baganda be"
+      ],
+      "answer": "Okuzimba omunaala okutuuka ku Katonda"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Essanduuko",
+        "Abakozi",
+        "Olusozi",
+        "Omunaala",
+        "Ennyonyi eyitibwa Whale"
+      ],
+      "answer": "Omunaala"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Okuweebwa amagezi agasukkiridde",
+        "Okufuuka nnabbi",
+        "Okumira ensi",
+        "Okuweebwa obwakabaka",
+        "Okubbira mu nnyanja"
+      ],
+      "answer": "Okubbira mu nnyanja"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

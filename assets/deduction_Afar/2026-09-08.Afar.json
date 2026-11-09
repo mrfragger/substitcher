@@ -1,0 +1,61 @@
+{
+  "title": "diini girah gibbatu",
+  "intro": "dumaahi baaxol xaahi diini kulli buxal ramid beeh suge, inki num baxsa luk sooleh suge. Inkih tan giclo kee diini kalalu, fooca fanah fooca fanah gexaanam faxximta — kee giclo sinnim gexen. Atu tama assakat le roocih mamaxxaga baxxaqissam duuddaa?",
+  "clues": [
+    "Anu sinni gabat bicsen sanamitteh qununeh yan marih fanat yenbeeh, tama duyye yallih caylat taniimil yaamineenih.",
+    "Anu ken mablah bood abe way, oson qimbol yoo diiriyeenih, takkay immay anu aaxigeh an nummat tibba axcem maduuda.",
+    "oson iroh gaaboowe ayro, anu ken sanamitte finqiseh, dubuk kaxxa tiya xaggiime kal cabe.",
+    "Oson uduurra heenih, anu abeh an taama yubleenih, ken miraaciini kaxxa laqna xisaanam amrisen, laqna yoo qidoonuh niyat luk sugeenim.",
+    "oson girah addat yoo qideenih, takkay immay baad degelti xamca yoh amaanah akah yallennah amrise.",
+    "Anu girah addak inki gabuuk biyaakite kal ewqeh, too yoo saduh bicsen mari foocal finqite."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Anu miyyaay?",
+      "options": [
+        "Nabi ibraahim",
+        "Nabi Muusa",
+        "Nuuc farmoyti",
+        "Nabi qiisa",
+        "Yuusuf farmoyta"
+      ],
+      "answer": "Nabi ibraahim"
+    },
+    "trial": {
+      "label": "Gibbatu/Tekkooka",
+      "options": [
+        "Girah addat qidaanam",
+        "kaxxa kullumti yanxuqeh",
+        "Kaxxa weeqak cattiimaanama",
+        "Adda xer qeeli addat qidaanam",
+        "amoyti baab abeynit foocal"
+      ],
+      "answer": "Girah addat qidaanam"
+    },
+    "location": {
+      "label": "Lafa le liyyitte",
+      "options": [
+        "kaxxa cararow le coox",
+        "kaxxa coox doonik",
+        "dahab rugah waydal",
+        "Daqar amol leeh amoh gexa girib",
+        "Qaxmeqe qarkayto"
+      ],
+      "answer": "kaxxa cararow le coox"
+    },
+    "outcome": {
+      "label": "Xalu",
+      "options": [
+        "Yalli gira xamcisaah amaanah bicse.",
+        "Doonik qalel salaamah radde",
+        "dahab sanam ken intih foocal diyaaye",
+        "Garqa kee kay qande baddi addat culte.",
+        "inti maleela numih mabla tuduureh"
+      ],
+      "answer": "Yalli gira xamcisaah amaanah bicse."
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

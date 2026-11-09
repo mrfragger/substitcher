@@ -1,0 +1,61 @@
+{
+  "title": "Nidarkii Uurka Dhalay",
+  "intro": "Naf daacad ah ayaa ballan barakeysan sameysay ka hor inta uusan ilmo imaan. Sheekada qofkan waxay ka muuqataa gudaha derbiyada meel lagu nasto, halkaas oo cibaadadu ay la kulanto aqbalaad rabbaani ah. Waa kuma addoonkan Alle?",
+  "clues": [
+    "Waxaan ka tirsanaa qoys lagu sharfay Qur'aanka.",
+    "Waxaan sameeyay nidar weyn oo ah inaan ilmahayga uurka ku jira u hibeeyo adeegga Alle.",
+    "Markii aan dhalay, waan la yaabay markii aan ogaaday inay gabadh tahay, inkastoo aan filayay wiil.",
+    "Waxaan u bixiyay ilmahayga Maryam, magac ka tarjumaya daacadnimo iyo adeeg.",
+    "Waxaan Alle ka baryay inuu ilmahayga iyo faraceeda ka ilaaliyo Shaydaanka la nacladay.",
+    "Ilmahayga waxaa aqbalay Rabbi, waxaana la hoos geeyay Nebi Zakariya oo ku jira meesha quduuska ah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Xaaska Cimraan (Hooyadii Maryam)",
+        "Aasiya, xaaskii Fircoon",
+        "Maryam, hooyadii Ciise",
+        "Hooyadii Nabi Muuse",
+        "Boqoradda Sheba"
+      ],
+      "answer": "Xaaska Cimraan (Hooyadii Maryam)"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Iyadoo ku dhaaratay inay ilmaheeda u hibeyn doonto macbudka",
+        "In lagu tuuro dab",
+        "Badda oo laga gudbayo dhul qalalan",
+        "Dhisidda doon weyn",
+        "Kalluun weyn oo liqay"
+      ],
+      "answer": "Iyadoo ku dhaaratay inay ilmaheeda u hibeyn doonto macbudka"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Meesha quduuska ah (mihrab) oo ilmaheeda la dhigay",
+        "Sanduuqa axdiga",
+        "Dibigii dahabka ahaa",
+        "Ushii isu beddeshay abeeso",
+        "Timirtii ay ku hoos nastay"
+      ],
+      "answer": "Meesha quduuska ah (mihrab) oo ilmaheeda la dhigay"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Ilmaheedii waa la aqbalay oo waxaa la hoos geeyay daryeelka Nebi Zakariya.",
+        "Waxaa laga badbaadiyay ciqaab kali-taliyihii ah.",
+        "Waxaa la siiyay wiil la yiraahdo Yaxya",
+        "Dadkeedii waxaa burburiyay duufaan",
+        "Waxay boqorad ka noqotay boqortooyo weyn"
+      ],
+      "answer": "Ilmaheedii waa la aqbalay oo waxaa la hoos geeyay daryeelka Nebi Zakariya."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

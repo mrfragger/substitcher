@@ -1,0 +1,61 @@
+{
+  "title": "Ruuxa la aamini karo ee Muujintii",
+  "intro": "Meelaha aan la arki karin, noole iftiin saafi ah ayaa si sax ah u socda, isagoo fulinaya amar kasta isagoon ka labalabeyn. Shaygani wuxuu la hadlay addoommo la doortay, wuxuu keenay ereyo hagitaan ah, wuxuuna markhaati ka ahaa faafinta amarrada rabbaaniga ah ee qarniyo badan. Waa kuma ruuxan sharafta leh?",
+  "clues": [
+    "Waxaan ahay qof ka mid ah iftiinka saafiga ah, oo laga abuuray iftiinka, mana aanan weligay caasiyin hal amar oo Eebbe ii soo diray.",
+    "Waxaan u dhex socdaa cirka iyo dhulka, anigoo hoos u degaya amarka Raxmaanka ah.",
+    "Waxaa la ii diray gabadh bikro ah oo sharaf leh oo ku jirta meesha quduuska ah, iyadoo u sheegtay wiil daahir ah.",
+    "Anigu waxaan ahay ruuxa quduusnimada, waxaana taageeray nebi la siiyay calaamado cadcad iyo Injiil.",
+    "Waxaan imid god buur ku yaal si aan u gudbiyo ereyadii ugu horreeyay ee akhrinta oo weligeed la ilaalin doono.",
+    "Waxaan ahay ruuxa la aamini karo, waana aniga kii Qur'aanka ku soo dejiyay qalbiga rasuulkii ugu dambeeyay."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Jibriil (Jibriil)",
+        "Mikail (Michael)",
+        "Malaa'igtii Dhimashada",
+        "Malik (Kartiye Jahannamo)",
+        "Harut (mid ka mid ah labada malaa'ig ee Baabil)"
+      ],
+      "answer": "Jibriil (Jibriil)"
+    },
+    "trial": {
+      "label": "Hawlgalka Muhiimka ah/Doorka",
+      "options": [
+        "Bixinta waxyiga nebiyada",
+        "Buunkii oo la afuufo maalinta qiyaamaha",
+        "Ilaali albaabada Jahannamo",
+        "Diiwaan gelinta falalka aadanaha",
+        "Sababaysa in roobku da'o"
+      ],
+      "answer": "Bixinta waxyiga nebiyada"
+    },
+    "location": {
+      "label": "Sifada Muhiimka ah ama Cinwaanka",
+      "options": [
+        "Ruuxa Quduuska ah (Ruh al-Qudus)",
+        "Ruuxa Awoodda",
+        "Ruuxa Naxariista",
+        "Ruuxa Hagitaanka",
+        "Ruuxa Runta ah"
+      ],
+      "answer": "Ruuxa Quduuska ah (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Natiijada Hawlgalka",
+      "options": [
+        "Qur'aanka waxaa lagu soo dejiyay Nabi Muxamed",
+        "Buunkii ayaa la afuufay maalinta qiyaamaha.",
+        "Jahannamo waa la ilaalinayay, albaabbadeediina waa la xiray",
+        "Kitaabka Camalka waxaa loo soo bandhigay Alle.",
+        "Roobkii ayaa dhulka lagu soo daadiyay"
+      ],
+      "answer": "Qur'aanka waxaa lagu soo dejiyay Nabi Muxamed"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ɛnne a Ɛyɛ Komm a Ɛwɔ Pia no Mu",
+  "intro": "Mpaebɔ bi gyegyeegye wɔ dan kronkron bi mu kommyɛ mu bere tenten a atwam ni, na ɛsɔre fii ɔkra a ne mfe akɔ anim a na n’ani bere nea wiase no aka sɛ entumi nyɛ yiye no mu. Saa onipa yi a na wanyin mfe pii na daakye ho dadwen ayɛ no adesoa no de n’ankasa nkotɔsrɛ dan kɔɔ wɔn Awurade nkyɛn. Nea edii akyi bae ne ɔsoro mmuae a ɛtia abɔde mu akwanhwɛ biara —Nea obua ɔfrɛ a ɛyɛ basaa no mmɔborohunu ho adanse.",
+  "clues": [
+    "Mefrɛɛ m’Awurade wɔ kokoam, na metwee me ho kɔɔ dan bi a mede me ho hyɛɛ mu maa Ne som.",
+    "Megye toom kyerɛɛ m’Awurade sɛ mesuro ma wɔn a wɔbɛba m’akyi, a na mehaw me ho wɔ me nkurɔfoɔ akwankyerɛ ho berɛ a mafiri hɔ no.",
+    "Ná mpanyinyɛ atwa me —na me nnompe ayɛ mmerɛw na na ti nhwi fitaa atrɛw wɔ me ti so.",
+    "Ná me hokafo ayɛ obonin n’asetra nyinaa, nanso na meda so ara srɛ m’Awurade sɛ ɔmma me ɔdedifo mfi N’ankasa anim.",
+    "Mesrɛɛ sɛnkyerɛnne, na m’Awurade buae denam kwan a osiw me kwan sɛ menkasa nkyerɛ obiara anadwo abiɛsa, bere a mekɔɔ so yɛɛ honam fam ahoɔden no so.",
+    "Wɔhyɛɛ me bɔ sɛ ɔbɛma me ɔbabarima a ne din bɛyɛ Yahya, edin a m’Awurade paee mu kae sɛ wɔmfaa mmaa obiara da."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Zakariya",
+        "Ɔkɔmhyɛni Nuh",
+        "Ɔkɔmhyɛni Musa",
+        "Ɔkɔmhyɛni Yusuf",
+        "Ɔkɔmhyɛni Dawud"
+      ],
+      "answer": "Ɔkɔmhyɛni Zakariya"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Mpae a wɔbɔ de hwehwɛ ɔdedifo wɔ onyin mu ne ɔhokafo a ɔyɛ obonin",
+        "Wɔtow no gu ogya a ɛredɛw mu",
+        "Mpataa kɛse bi a ɔmene no wɔ sum mu",
+        "Abusua, ahonyade, ne akwahosan a wɔhwere no a wobegyina ano",
+        "Wɔhyɛɛ no ​​sɛ wɔnyɛ adaka kɛse bi"
+      ],
+      "answer": "Mpae a wɔbɔ de hwehwɛ ɔdedifo wɔ onyin mu ne ɔhokafo a ɔyɛ obonin"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Mpaebɔ dan (mihrab) .",
+        "Poma a ɛdanee ɔwɔ",
+        "Nnua adaka kɛse bi",
+        "Turo a ahohuru bere soronko bi wom",
+        "Bepɔw a nnomaa hyiam wɔ so"
+      ],
+      "answer": "Mpaebɔ dan (mihrab) ."
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wɔmaa ɔbabarima a wɔbɔɔ din anwonwakwan so ɛmfa ho sɛ na onyin dodo no",
+        "Wɔnam ɔsoro ahyɛde so gyee no fii ogya a ɛredɛw mu",
+        "Nsuyiri kɛse bi sɛee atiafo no",
+        "Wɔsan de no ba abusua, ahonyade, ne akwahosan mu wɔ boasetɔ akyi",
+        "Farao ne n’asraafo no memee wɔ po no mu"
+      ],
+      "answer": "Wɔmaa ɔbabarima a wɔbɔɔ din anwonwakwan so ɛmfa ho sɛ na onyin dodo no"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

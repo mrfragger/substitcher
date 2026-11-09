@@ -1,0 +1,61 @@
+{
+  "title": "Outcast e Nagge kaŋŋe",
+  "intro": "Limre siftinaande e nder Quraan ardii jamaanu mawngu e nder majjere e sahaa nde annabi tedduɗo alaa. Huunde peewniraande kaŋŋe nanngi ɓerɗe leñol fof — kono daartol oo neɗɗo ina joofna e solitude e kuddi haawniindi. Hol ooɗoo ƴaañoowo potɗo wonde?",
+  "clues": [
+    "Mi ummiima e sahaa mo annabi mawɗo umminoo ngam heɓde ardorde Alla.",
+    "Mi majjinii yimɓe heewɓe e huunde nde mbaɗmi e juuɗe am.",
+    "Tagɗo kaŋŋe mo peewnu-mi oo wayi ko no ina jogii nguurndam, ina yaltina daande ɓuuɓnde rewooɓe ɗum ɓee.",
+    "Miɗo wiya mi yi’i ko woɗɓe mbaawaa faamde — ƴeewndo e nder ko yi’aaka.",
+    "Mi ƴetti huunde e laabi nulaaɗo diine oo, mi werlii ɗum e njamndi mboɗeeri.",
+    "Mi ñaawaama ƴaañde miin tan, e kuddi keeriindi ndi hay gooto waawaa meemde ɓalndu am, miin mi meeɗaa meemde ɓalndu maɓɓe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol ko ngonmi?",
+      "options": [
+        "Samiri",
+        "Haman",
+        "Firawna (Firaawna) .",
+        "Abuu Lahab",
+        "Annabi Saalihu"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "Tagii nagge kaŋŋe ngam dewal",
+        "Mahii tooweeki haa yettii asamaan",
+        "Luulndiima siñooɓe Misra",
+        "Ardii konu e daabaaji diwooji",
+        "Feccere lewru ko seede annabaagal"
+      ],
+      "answer": "Tagii nagge kaŋŋe ngam dewal"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Nagge kaŋŋe",
+        "Sawru ndu wayliri mboddi",
+        "Buubi ɓuuɓɗi e dow tulde",
+        "Laana ina fooftoo e dow tulde",
+        "Koɗorɗe keewɗe yiite ngulnge"
+      ],
+      "answer": "Nagge kaŋŋe"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "Egguɓe, haɗaaɓe meemde walla meemde woɗɓe",
+        "Njokkii e maayo wondude e konu",
+        "Burned e nguurndam ngam salaade iimanaagal",
+        "Henndu ɓuuɓndu, ɓuuɓndu fiyi ɗum",
+        "Yaafaama, umminaama e darnde toownde"
+      ],
+      "answer": "Egguɓe, haɗaaɓe meemde walla meemde woɗɓe"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

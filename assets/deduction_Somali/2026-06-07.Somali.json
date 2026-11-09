@@ -1,0 +1,61 @@
+{
+  "title": "Naftii la dhibay ee webiga Niil",
+  "intro": "Xilligii dulmiga weynaa, markii kaligii-taliye uu dalka ku xukumayay naxariis darro buuxda, hal naf ayaa dooratay waddada iimaanka halkii ay ka dooran lahayd raaxada boqortooyada. Shakhsigan wuxuu ku noolaa qalbiga awoodda haddana wuxuu ka helay run farriinta nebi is-hoosaysiiya. Safarkoodu wuxuu noqon lahaa cashar aan dhammaad lahayn oo ku saabsan dulqaadka, allabaryada, iyo kalsoonida aan kala go'a lahayn. Ma aqoonsan kartaa qofkan cajiibka ah ee ka doorbiday raaxada rabbaaniga ah heerka adduunka?",
+  "clues": [
+    "Waxaan ku noolaa qasri awood weyn leh, haddana qalbigaygu wuxuu ka helay run farriin hoose.",
+    "Waxaan doortay inaan raaco tilmaamaha Muuse, anigoo og cawaaqibka aan la kulmi doono.",
+    "Waxaan guursaday kaligii-taliyihii ugu awoodda badnaa waqtigayga, haddana waan diiday ilaahyadiisa beenta ah.",
+    "Dhibaatadaydu aad bay u xumayd, maadaama la i ciqaabay aaminsanaanteydii ku saabsanayd Ilaaha keliya.",
+    "Weligay iimaankayga kuma liqin, xitaa marka aan la kulmayo cadaabkii ugu adkaa.",
+    "Rabbigay wuu ku farxay dulqaadkayga wuxuuna ii doortay meel sharaf leh oo Jannada ah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Hooyadii Nabi Muuse",
+        "Xaaskii Fircoon",
+        "Walaashii Nabi Muuse",
+        "Boqorad Masar hore",
+        "Addoon reer binu Israa'iil ah"
+      ],
+      "answer": "Xaaskii Fircoon"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Dagaal Alle dartiis ah oo ciidan la galayo.",
+        "Hor istaagga Fircoon iyo ku dhawaaqista iimaanka",
+        "Dhisidda goobo cibaado oo Masar ka dhacay",
+        "Musa oo la safraya badda",
+        "Helitaanka waxyiga Alle"
+      ],
+      "answer": "Hor istaagga Fircoon iyo ku dhawaaqista iimaanka"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Saxaraha Midyaan",
+        "Qasriga boqortooyada Masar",
+        "Xeebaha Webiga Niil",
+        "Buurta Siinay",
+        "Dhulka Kancaan"
+      ],
+      "answer": "Qasriga boqortooyada Masar"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Nebi noqday sannado badan ka dib",
+        "Wuxuu reer binu Israa'iil ka soo saaray Masar",
+        "Waxaa la siiyay madaxbannaani Masar",
+        "Allaha ku shahiiday oo sharfay",
+        "Ku noolaa nolol raaxo leh ilaa da' weyn"
+      ],
+      "answer": "Allaha ku shahiiday oo sharfay"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ukwiyorosha gukomeye kw’Umukama",
+  "intro": "Usanga uri mu gihugu c’ibitangaza vya kera n’ivy’uguhishurirwa bikomeye. Umutware umwe w’inkomezi, yari afise ubutumire atari yiteze, yaratanguye urugendo rwohindura inzira y’aho azoja be n’ukwizera kw’abantu biwe. Woba ushobora guhishura akaranga k’uwo muntu w’agaciro?",
+  "clues": [
+    "Natwaye ubwami buteye imbere, busharije ubutunzi bwinshi cane be n’intebe y’ubwami nziza cane.",
+    "Jewe n’abantu banje twasenga ikintu co mw’ijuru, twizera ko ari umukama wacu, naho nari mfise amakenga mu mutima wanje.",
+    "Intumwa idasanzwe, inyoni, yaranshikirije ikete, impamagaye jewe n’abantu banje kuyobokera Imana imwe rudende.",
+    "Narabajije abajanama banje, bari bafise inkomezi nyinshi, ku bijanye n’ingene novyifatamwo muri ubwo butumwa butagira uko bungana.",
+    "Naciye mfata ingingo yo kohereza ingabirano y’agaciro uwo yarungikiye iryo kete, nizigiye ko nzopima ububasha afise n’imigambi yiwe.",
+    "Nashitseyo, naratangajwe n’ikirimba gifise hasi hakozwe mu kiyo, kigaragara nk’ikidengeri c’amazi, ni ho natangaza ko nshobora kuyobokera Umukama w’ibiremwa vyose."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Farawoni",
+        "Umwamikazi wa Sheba",
+        "Dhu al-Karnayn",
+        "Lukimani",
+        "Umuhanuzi Yusufu"
+      ],
+      "answer": "Umwamikazi wa Sheba"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Uguca ibice kw'ikiyaga",
+        "Umwuzure munini .",
+        "Urugendo rwo guhura n'Umuhanuzi Sulaymani .",
+        "Ugutikizwa kw’abantu ba Luti .",
+        "Uguturirwa kw'umuhanuzi Ibrahimu ."
+      ],
+      "answer": "Urugendo rwo guhura n'Umuhanuzi Sulaymani ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Ubwato",
+        "Abakozi",
+        "Intebe y'ubwami",
+        "Umusozi",
+        "Umuriro"
+      ],
+      "answer": "Intebe y'ubwami"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Yabaye umuhanuzi .",
+        "Yarimbuwe na Allah",
+        "Yakiriye ubuyisilamu",
+        "Yarongoye abantu biwe mu ntambara .",
+        "Yubatse urusengero runini"
+      ],
+      "answer": "Yakiriye ubuyisilamu"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

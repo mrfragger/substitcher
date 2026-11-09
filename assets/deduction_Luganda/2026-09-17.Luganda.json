@@ -1,0 +1,61 @@
+{
+  "title": "Wansi w'ekisiikirize ky'enkindu",
+  "intro": "Enfumo egenda kulaga emmeeme eyawulwamu nga tennazaalibwa, eyakuzibwa mu bbugwe omutukuvu, era eyalondebwa okubeera n’akabonero ensi ke yali telabako. Okulumiriza bwe kwava mu buli ludda, eddoboozi lyava mu bifo ebisinga obutasuubirwa okusirisa okubuusabuusa kwonna. Osobola okuzuula eyatambulira wansi w’ekisiikirize ky’enkindu?",
+  "clues": [
+    "Nnali neewaayo okuweereza Omuyinza w’Ebintu Byonna nga sinnassa mukka gwange ogusooka, obweyamo obwali bwakolebwa oyo eyansitula.",
+    "Nnakulira wansi w’okulabirirwa okutunula okw’omukuumi omutuukirivu mu bisenge ebitukuvu eby’ekifo eky’okusinzizaamu.",
+    "Buli omukuumi wange lwe yajjanga mu kisenge kyange, yasanganga n’emmere okuva mu sizoni ezitasaanidde kubaawo.",
+    "Nnaweebwa amawulire ag’essanyu ag’omwana ow’obulenzi, wadde ng’embeera zange tezireka kifo kyonna ku ebyo ebyasuubizibwa.",
+    "Navaayo ne nzira mu kifo eky’ewala, era eyo omuti gw’enkima ne gumpa ekisiikirize ate wansi ne gukulukuta omugga.",
+    "Okulumiriza bwe kwajja era ebibuuzo ne binneetoolodde, nnasonga ku mwana wange eyaakazaalibwa — era n’ayogera ng’asinziira ku kitanda okusirisa buli kubuusabuusa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Maryam",
+        "Sarah",
+        "Hawwa",
+        "Umm Musa",
+        "Mukyala wa Nuh"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Okugezesebwa / Omukolo",
+      "options": [
+        "Okuzaala omwana ow’obulenzi ow’ekyamagero mu kweyawula",
+        "Okusuulibwa mu muliro oguyaka ennyo abasinza ebifaananyi",
+        "Okuwona amataba amanene n’abatono abalonde",
+        "Okwawuddwa ku mwana omuwere eyasuulibwa mu mugga",
+        "Nga boolekedde omufuzi ow’amaanyi ow’e Misiri"
+      ],
+      "answer": "Okuzaala omwana ow’obulenzi ow’ekyamagero mu kweyawula"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Enkindu y’ensukusa n’omugga ogukulukuta wansi waagwo",
+        "Eryato ery’amaanyi ku mayengo amawanvu",
+        "Omuggo ogwayawulamu ennyanja ennene mu bibiri",
+        "Omuliro ogwayaka ennyo gwali gutegeeza okwokya emmeeme omwesigwa",
+        "Entebe ya zaabu eyayooyootebwa n’amayinja ag’omuwendo"
+      ],
+      "answer": "Enkindu y’ensukusa n’omugga ogukulukuta wansi waagwo"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Aweebwa ekitiibwa ng’asinga ekitiibwa mu bakazi bonna",
+        "Okuddamu okukwatagana n’omwana omwagalwa oluvannyuma lw’okwawukana okumala ebbanga",
+        "Yakulembera eggwanga lyonna okuva mu buddu bw’omutyobooli",
+        "Yalabudde abantu abaabuze mu mpisa ez’obugwenyufu",
+        "Yaweebwa obufuzi ku majiini, abantu, n’empewo"
+      ],
+      "answer": "Aweebwa ekitiibwa ng’asinga ekitiibwa mu bakazi bonna"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

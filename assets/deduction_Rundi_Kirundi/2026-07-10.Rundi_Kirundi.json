@@ -1,0 +1,61 @@
+{
+  "title": "Uwufise Ibimenyetso Icenda",
+  "intro": "Igishushanyo caradutse kivuye mu ntango ziciye bugufi cane, gifise iherezo ryanditswe mu bugombe bw’Imana. Uwo mutima wari uhishijwe kure mu bwana, ukakurira mu bihome vy’uwo mutware nyene yariko arondera gutikiza abantu babo, amaherezo uwo mutima warahamagariwe igikorwa gikomeye. Nta kindi bari bafise atari ukwizera be n’inkoni y’umwungere yicishije bugufi, bahagarara imbere y’umutware w’ububasha kuruta abandi bose bo muri ico gihe, basaba umwidegemvyo ku bari mu buja. Isi ubwayo yasa n’iyigendagenda ku itegeko ryabo — amazi aratandukana, ijuru riravuga, ubwami buragwa.",
+  "clues": [
+    "Imisi yanje ya mbere yari yuzuye ubwoba — abana b’inzoya nkanje barahigwa bavutse n’umutware atagira imbabazi atinya kazoza.",
+    "Narokowe n’amazi, ndakurirwa mu ngoro y’uwo mutware nyene yariko arondera kuntikiza.",
+    "Nahunze igihugu cacu c’amavukiro inyuma y’ikintu cabaye giturumbuka, nca mba umwungere yicisha bugufi mu gihugu ca kure.",
+    "Narasubiye guhangana n’uwo mutware w’ububasha afise inkoni yoroshe n’ubutumwa butomoye, nsaba umwidegemvyo w’abantu banje.",
+    "Naciye ntanga amazi menshi cane ku bari bankurikiye, nca mbona ingene ayo mazi yamira umwansi wanje wese.",
+    "Naraduze umusozi mweranda kugira ngo ndonke ubuyobozi bw’Imana buva kuri Allah, kandi nahawe ibimenyetso icenda bitomoye nk’ikimenyamenya c’ukuri."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umuhanuzi Musa",
+        "Umuhanuzi Nuh",
+        "Umuhanuzi Ibrahimu",
+        "Umuhanuzi Yusufu",
+        "Umuhanuzi Luti"
+      ],
+      "answer": "Umuhanuzi Musa"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Guhangana na Farawoni ku ngoma yiwe .",
+        "Kubaka Ubwato kugira ngo umuntu ashobore kurokoka umwuzure mwinshi .",
+        "Kujugunywa mu muriro ururumba n’abahingura ibigirwamana .",
+        "Kumanurwa mw'iriba rirerire na benewacu .",
+        "Kugerageza guhagarika abantu banje mu ngeso mbi ."
+      ],
+      "answer": "Guhangana na Farawoni ku ngoma yiwe ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Inkoni yahindutse inzoka",
+        "Isandugu ya Nuh",
+        "Intebe y'ubwami ya Bilqis .",
+        "Impeta yagenzura umuyaga n'amajini",
+        "Imfunguruzo z'ubutunzi bwirundanijwe ziraremereye cane"
+      ],
+      "answer": "Inkoni yahindutse inzoka"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Yarongoye abantu banje bajabutse amazi atandukanye baja mu mwidegemvyo",
+        "Yarakijijwe umwuzure munini mu bwato .",
+        "Yarasubiye kugira amagara meza no mu muryango amaze kubabara cane .",
+        "Yarakuwe mu fi nini ari muzima .",
+        "Yubatse imishinge y'Ingoro Nyeranda ."
+      ],
+      "answer": "Yarongoye abantu banje bajabutse amazi atandukanye baja mu mwidegemvyo"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

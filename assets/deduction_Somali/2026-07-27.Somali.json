@@ -1,0 +1,61 @@
+{
+  "title": "Bixinta oo beddeshay Qaddarka",
+  "intro": "Maalmihii ugu horreeyay ee aadanaha, nafta waxay bixin jirtay hadiyad ujeedo saafi ah leh. Haddana, xaasidnimadu waxay ku dhuuman jirtay hooska aqbalaadda. Soo hel sheekada qofkan oo cibaadadiisa iyo dhammaadkiisa naxdinta leh ay ku nool yihiin muujinta rabbaaniga ah.",
+  "clues": [
+    "Waxaan ka mid ahaa jiilkii ugu horreeyay ee aadanaha.",
+    "Waxaan u soo bandhigay Rabbigeyga qurbaan, waana la ii soo dhaweeyay.",
+    "Baxnaaninta walaalkay waa la diiday, xaasidnimaduna qalbigiisa ayay madoobaatay.",
+    "Waxaan ku idhi, 'Haddii aad gacantaada ii soo fidiso si aad ii disho, gacantayda kuma fidin doono si aan kuu dilo; runtii waxaan ka baqayaa Alle, Rabbiga Caalamka.'",
+    "Waxaan noqday dhibbanaha falkii ugu horreeyay ee dil ah oo dhulka ka dhaca.",
+    "Dhiiggaygu wuu qayliyey, aniguna waxaan ahaa shahiidkii ugu horreeyay ee aan waxba galabsan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Haabiil (Haabiil)",
+        "Qabiil (Qaa'in)",
+        "Ninkii ka yimid Ya-Sin",
+        "Samiirka",
+        "Luqman"
+      ],
+      "answer": "Haabiil (Haabiil)"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Abaalmarintiisii ​​waa la aqbalay, taasoo keentay xaasidnimo walaalkiis iyo dilkiisa.",
+        "Waxaa lagu tuuray foorno ololaysa laakiin wuu soo baxay isagoo aan waxba gaarin",
+        "Wuxuu dhisay markab weyn isagoo hoggaaminaya rabbaaniga ah",
+        "Kalluun weyn ayaa liqay, wuxuuna ku sii jiray mugdi.",
+        "Wuxuu dadkiisii ​​ku hoggaamiyay bad kala qaybsan"
+      ],
+      "answer": "Abaalmarintiisii ​​waa la aqbalay, taasoo keentay xaasidnimo walaalkiis iyo dilkiisa."
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Dalab la aqbalay",
+        "Ul isu beddeshay abeeso",
+        "Hashii oo ah calaamad rabbaani ah",
+        "Hoopoe oo war keenaya",
+        "Dibi dahab ah oo la caabudo"
+      ],
+      "answer": "Dalab la aqbalay"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Dilkii ugu horreeyay taariikhda; walaalkiis waa la xukumay",
+        "Dhulku wuxuu liqay hantidiisa iyo dhulkiisaba",
+        "Waxaa loo beddelay daanyeerro xadgudub awgiis",
+        "Waxaa burburiyay dabayl daran oo baraf leh",
+        "Waxaa lagu qarqiyay daad weyn oo ciqaab ahaan ah"
+      ],
+      "answer": "Dilkii ugu horreeyay taariikhda; walaalkiis waa la xukumay"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

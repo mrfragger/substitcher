@@ -1,0 +1,61 @@
+{
+  "title": "Ahenni a Wɔanhu Ɔhene no Awiei no",
+  "intro": "Abakɔsɛm nim sodifo ahorow nyinaa, nanso kakraa bi na wɔhyɛɛ tumidi a ɛte sɛ eyi koraa. Baabi a mframa no ankasa buaa wɔn ahyɛde na adwumayɛfo a aniwa a owu biara ntumi nhu wɔn a wɔayɛ adwumaden wɔ kommyɛ mu no, na saa ahenni yi nte sɛ ahenni biara a edii kan bae anaasɛ ɛno akyi. Nanso ɛsɛ sɛ ahenni akɛse mpo ba awiei —na bere a eyi baa awiei no, nokware no fii fibea a ɛba fam araa ma obiara nsusuw ho sɛ obesusuw ho.",
+  "clues": [
+    "M’Awurade maa me ahenni kɛse bi, a wɔkaa ho asɛm wɔ nkratafa kronkron no atifi.",
+    "Minyaa nyansa ne tumi kɛse fii ɔwofo bi a ɔnantew m’anim wɔ ahofama mu hɔ.",
+    "Mehyɛɛ mframa ankasa, na ɛtu kwan kɔ akyirikyiri maa m’atirimpɔw.",
+    "Abɔde a aniwa mpapahwekwa nhu no yɛɛ adwumaden wɔ me tumi ase, na wɔyɛɛ anwonwade ahorow a wontumi mfa ntoto ho.",
+    "Kɔbere a wɔanwene nsuten sen maa me, nhyira a ɛyɛ soronko wɔ wɔn a Allah apaw wɔn no mu.",
+    "Bere a mifii wiase yi mu no, me nipadua no kɔɔ so gyinaa poma bi so. Bere a asase so abɔde ketewaa bi dii saa poma no mu nkutoo na wɔn a wɔatwa me ho ahyia no hui sɛ matwam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Sulaiman (Solomon) .",
+        "Ɔkɔmhyɛni Dawud (Dawid) .",
+        "Ɔkɔmhyɛni Musa (Mose) .",
+        "Ɔkɔmhyɛni Yusuf (Yosef) .",
+        "Odiyifo Isa (Yesu) ."
+      ],
+      "answer": "Ɔkɔmhyɛni Sulaiman (Solomon) ."
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Owu a abɔde bi a ɔnam me poma so didi adi",
+        "Nsuyiri kɛse a ɛsɛee me nkurɔfo no",
+        "Wɔtow no gu ogya a ɛredɛw mu",
+        "Nnommumfa a wɔfa po a apaapae no mu",
+        "Me ba a medɔ no paa no afɔrebɔ"
+      ],
+      "answer": "Owu a abɔde bi a ɔnam me poma so redi adi"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Kɔbere a wɔayam no nsuten",
+        "Apam adaka no",
+        "Poma a ɛpaapae nsu no mu",
+        "Kwae a ɛrehyew",
+        "Sikakɔkɔɔ nantwi ba no"
+      ],
+      "answer": "Kɔbere a wɔayam no nsuten"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Jinn no kɔɔ so yɛɛ adwuma kosii sɛ wodii poma no",
+        "Wogyee me nkurɔfo nkwa wɔ po so hyɛn kɛse bi mu",
+        "Wɔmenee otirimɔdenfo bi wɔ po no mu",
+        "Mframa a ɛyɛ hu sɛee ɔman a ɛyɛ den",
+        "Wɔnyanee me kɔɔ soro a mete ase"
+      ],
+      "answer": "Jinn no kɔɔ so yɛɛ adwuma kosii sɛ wodii poma no"
+    }
+  },
+  "verseRef": "34:14",
+  "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+  "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+}

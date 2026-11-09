@@ -1,0 +1,61 @@
+{
+  "title": "Ìlérí Ìyẹ́nú",
+  "intro": "Nínú yàrá ìdákẹ́jẹ́ẹ́ ọkàn tí a yà sọ́tọ̀ fún Ọlọ́run, a ṣe ìlérí mímọ́ kan. Ẹ̀jẹ́ yìí dá lórí ìgbésí ayé tí kò tí ì fà mí, ìmúṣẹ rẹ̀ yóò sì yí ipa ọ̀nà ogún ẹ̀mí padà títí láé. Wọ inú àṣírí ọkàn tí ìlérí rẹ̀ ń dún títí ayérayé.",
+  "clues": [
+    "Mo n gbe ni ile kan ti a mo fun iwa-bi-Ọlọrun, mo si n reti ẹbun kan ti yoo mu mi sunmọ Allah.",
+    "Mo bá Olúwa mi dá májẹ̀mú pàtàkì nípa ohun tí ó wà nínú mi, mo sì ṣèlérí láti fi í fún iṣẹ́ ìsìn Rẹ̀ pátápátá.",
+    "Nígbà tí àkókò ìṣípayá dé, ohun tí mo gbà kò ṣeé retí, ṣùgbọ́n mo fi ọ̀ràn náà lé Olùmọ̀ràn lọ́wọ́.",
+    "Mo fún ọmọ mi ní orúkọ kan tí ó túmọ̀ sí ìfọkànsìn, mo sì bẹ̀bẹ̀ fún ààbò fún òun àti àwọn ọmọ rẹ̀ kúrò lọ́wọ́ ẹni ègún.",
+    "Wọ́n gbé ọmọ mi sí ibi mímọ́, lábẹ́ àbójútó wòlíì kan láti ìran Áárónì.",
+    "Ọmọbìnrin mi di ẹni tí a mọ̀ fún ìwà mímọ́ rẹ̀, a sì yàn án ju gbogbo obìnrin lọ, nígbà tó yá ó di ìyá wòlíì ńlá kan, bó tilẹ̀ jẹ́ pé a kò fi ọwọ́ kan án."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Iyawo Imran",
+        "Ìyá Mósè.",
+        "Aya Farao",
+        "Iyawo Al-Aziz",
+        "Ìyá Isa"
+      ],
+      "answer": "Iyawo Imran"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ìjẹ́jẹ́ láti ya ọmọ tí kò tíì bí sí mímọ́ fún tẹ́ḿpìlì",
+        "Idanwo sùúrù lásìkò àìsàn gígùn kan",
+        "Ìrìn àjò lọ sí ilẹ̀ jíjìnnà nítorí ìgbàgbọ́",
+        "Ìjà pẹ̀lú ọba apànìyàn kan",
+        "Ìpèsè oúnjẹ ìyanu láti ọ̀run"
+      ],
+      "answer": "Ìjẹ́jẹ́ láti ya ọmọ tí kò tíì bí sí mímọ́ fún tẹ́ḿpìlì"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ọmọ náà tí orúkọ rẹ̀ ń jẹ́ Maria",
+        "Ọ̀pá tí ó di ejò",
+        "Ọmọ màlúù wúrà",
+        "Kànga Zamzam",
+        "Ọkọ̀ Nóà"
+      ],
+      "answer": "Ọmọ náà tí orúkọ rẹ̀ ń jẹ́ Maria"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Allah gba ọmọ rẹ̀, ó sì dàgbà lábẹ́ ìtọ́jú àsọtẹ́lẹ̀.",
+        "Ọmọ rẹ̀ di wòlíì, ó sì gba ìwé mímọ́ kan",
+        "A gbé ọmọ rẹ̀ sókè ọ̀run",
+        "Ọmọ rẹ̀ kọ́ ilé mímọ́ kan",
+        "A fún ọmọ rẹ̀ ní ọgbọ́n àti ọrọ̀ tó pọ̀ gan-an"
+      ],
+      "answer": "Allah gba ọmọ rẹ̀, ó sì dàgbà lábẹ́ ìtọ́jú àsọtẹ́lẹ̀."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

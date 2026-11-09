@@ -1,0 +1,61 @@
+{
+  "title": "Eddoboozi ly’Obulimba",
+  "intro": "Omukwano gw’obuzaale gwagezesebwa olw’obuggya obwali buyitiridde. Enteekateeka ey’ekyama yakolebwa, n’etandikawo olujegere lw’ebintu ebyandibadde bimala emyaka mingi era nga bisala ebanga eddene. Ebikolwa by’ekibinja kino byaleetawo okwawukana okw’amaanyi n’ennaku, naye emboozi teyakoma awo. Luno lugero lwa bulimba, kwejjusa, n’okubikkulwa okw’enkomerero okw’enteekateeka ey’obwakatonda. Osobola okuzuula ebikwata ku bantu bano ssekinnoomu abaali balonze mu mirembe n’emirembe?",
+  "clues": [
+    "Twamalibwa obuggya olw’omukwano ogwalagibwa omu ku baffe.",
+    "Olw’obuggya bwaffe, twakola olukwe ne tusuula muganda waffe mu kizikiza ky’oluzzi.",
+    "Okusobola okukweka ekikolwa kyaffe, twayanjulira kitaffe ekyambalo, nga kijjudde omusaayi ogw’obulimba.",
+    "Nga wayise emyaka, enjala ey’amaanyi yatuwaliriza okugenda e Misiri nga tunoonya eby’okulya.",
+    "Eyo, twajja mu maaso ga gavana ow’amaanyi, nga tetumanyi, ye muganda waffe yennyini gwe twali tusobya.",
+    "Ekigezo kyaffe ekyasembayo kyali kya kuleeta muto waffe, Binyamin, ekyatuviirako okubikkula eby’emabega byaffe ne kitaffe nga Nabbi Ya’qub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ffe tuli baani?",
+      "options": [
+        "Batabani ba Adamu (Qabil & Habil) .",
+        "Abayigirizwa ba Nabbi Isa",
+        "Baganda ba Nabbi Yusuf",
+        "Abantu b’e Madyan",
+        "Abalogo b'e Fir'awn"
+      ],
+      "answer": "Baganda ba Nabbi Yusuf"
+    },
+    "trial": {
+      "label": "Kiki kye tusinga okukola ekibi?",
+      "options": [
+        "Okuzimba ennyana eya zaabu ey’okusinza",
+        "Okusaba okulaba Allah butereevu",
+        "Okusekerera nnabbi olw’okuzimba eryato",
+        "Okulimba kitaffe ne tusuula muganda waffe",
+        "Okumenya Ssabbiiti nga bavuba"
+      ],
+      "answer": "Okulimba kitaffe ne tusuula muganda waffe"
+    },
+    "location": {
+      "label": "Kintu ki ekyali kikulu mu kulimba kwaffe?",
+      "options": [
+        "Ekibinja ky’ebipande ebiwandiikiddwa",
+        "Essaati eyabaddemu omusaayi ogw’obulimba",
+        "Ennyana eya zaabu",
+        "Ekinyonyi ekirabika obulungi (e Hoopoe) .",
+        "Omuggo ogwafuuka omusota"
+      ],
+      "answer": "Essaati eyabaddemu omusaayi ogw’obulimba"
+    },
+    "outcome": {
+      "label": "Kiki ekyasembayo okuva mu mboozi yaffe?",
+      "options": [
+        "Twazikirizibwa amataba ag’amaanyi",
+        "Twafuulibwa enkima",
+        "Twamira ensi",
+        "Twasonyiyibwa era ne tuddamu okukwatagana n’ab’omu maka gaffe",
+        "Twabbira mu nnyanja"
+      ],
+      "answer": "Twasonyiyibwa era ne tuddamu okukwatagana n’ab’omu maka gaffe"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

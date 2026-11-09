@@ -1,0 +1,61 @@
+{
+  "title": "Gusugerezwa munsi y'ikirere gitunguranye",
+  "intro": "Uhagaze imbere y’ingabo ziteye ubwoba ziriko ziregera ahantu heranda hubahwa, ibirwanisho vyose biteguwe kandi intsinzi isa n’iyizoba ata gukeka. Imbere y’uko igitero gitangura, ububasha butari bwitezwe buraboneka hejuru, maze iyo ntambara irahinduka ata n’umwe yari yarabonye.",
+  "clues": [
+    "Twaragenda twizigiye ko ata bubasha bwo kw’isi bushobora guhungabana.",
+    "Twarazanye inzovu zikomeye, kandi inguvu zacu zasa n’izizikikuje.",
+    "Twari twaje gusenya ahantu heranda h’icubahiro, twizera ko intsinzi yacu yari imaze gushika.",
+    "Twashitseyo, umukuku warakuye mu kirere hejuru yacu.",
+    "Inyoni zatera amabuye y’ibumba rikomeye ku barwanyi bacu.",
+    "Twaratsinzwe rwose ku buryo inguvu zacu zikomeye zamenetse zigasanzara nk’ivu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Abantu b'inzovu",
+        "Abaganwa babiri",
+        "Bene wabo na Yozefu",
+        "Umusavyi w'Imana i Zul-Kifl",
+        "Abagenzi b'Umugororotsi ."
+      ],
+      "answer": "Abantu b'inzovu"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Igitero ca Kaaba carongowe n'inzovu",
+        "Ikiyaga gica imbere y'umugwi washikirijwe",
+        "Ugufata isandugu n'abantu b'abanyagitugu .",
+        "Urugendo rw'ijoro hagati y'imisigiti ibiri",
+        "Gukiza umunyamibembe n'ububasha bw'Imana ."
+      ],
+      "answer": "Igitero ca Kaaba carongowe n'inzovu"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Inyoni zitwara amabuye y'ibumba",
+        "Ubwato bw'ibiti vy'imiberoshi",
+        "Inkoni yahindutse inzoka .",
+        "Ibuye ryakingiwe n’ikimenyetso .",
+        "Igisaka kigurumana"
+      ],
+      "answer": "Inyoni zitwara amabuye y'ibumba"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Inkomezi zabo zikomeye zaramenetse nk’ivu .",
+        "Bajabutse ikiyaga ata nkomanzi + .",
+        "Baciye mw’itanure ry’umuriro ata co babaye .",
+        "Binjira muri Paradizo ari babiri babiri .",
+        "Baraye mu mwobo imyaka 309 ."
+      ],
+      "answer": "Inkomezi zabo zikomeye zaramenetse nk’ivu ."
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

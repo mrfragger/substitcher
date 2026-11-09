@@ -1,0 +1,61 @@
+{
+  "title": "Kutaurwa Kuva Munhu",
+  "intro": "Munhu anobuda munhoroondo tsvene, akatakura zvishamiso zvaipesana nehurongwa hwechisikigo. Mweya uyu wakasvika kuburikidza nemurairo mumwe chete waMwari, wakadzivirira mubereki kubva pakupomerwa kwakakomba, uye wakasiya nyika ino vasati vasungwa nengetani dzepanyika. Nyaya yacho inotangira paucheche hwakaderera kusvika kumatenga ari kumusoro. Angave ani uyu?",
+  "clues": [
+    "Ndakatumwa sechiratidzo netsitsi kubva kuna Allah kuvana veIsraeri.",
+    "Kusvika kwangu kwakanga kwakasiyana nekupi zvako kare — ndakavapo neshoko raMwari rokuti 'Iva!' ndisina baba vepanyika.",
+    "Mubereki wangu akatarisana nekunyombwa zvine hutsinye, asi zvakazarurwa zvitsvene zvakaburuka kuti zvizivise kusava nemhosva kwavo uye zvivasimudzire.",
+    "Semwana mucheche achangoberekwa, ndakashamisa vanhu vaiva pedyo neni nekutaura zvakajeka kubva paucheche hwangu kuti ndichenese zita remubereki wangu.",
+    "Nemvumo yaAllah, ndakaumba hupenyu kubva muvhu risina upenyu, ndakapa mapofu kuona, uye ndakarapa maperembudzi nekubata kwangu.",
+    "Ndakasimudzwa kudenga ndisati ndabatwa nenjodzi, uye ndichadzoka panyika ino nguva yekupedzisira isati yasvika."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Isa",
+        "Muprofita Musa",
+        "Muprofita Ibrahim",
+        "Muprofita Yusuf",
+        "Muporofita Dhawud"
+      ],
+      "answer": "Muprofita Isa"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kutaura kubva paucheche achiri mucheche",
+        "Kurarama mudumbu rehove huru",
+        "Kukandwa mumoto unopfuta",
+        "Kuvaka areka huru mafashamo asati aitika",
+        "Kutarisana nehuroyi hwedare raFarao"
+      ],
+      "answer": "Kutaura kubva paucheche achiri mucheche"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Injeeri (Evhangeri)",
+        "Tawrah (Torah)",
+        "Mapisarema (Mapisarema)",
+        "The Suhuf (Mipumburu yaIbrahim)",
+        "Tsvimbo yakakamura gungwa"
+      ],
+      "answer": "Injeeri (Evhangeri)"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akasimudzwa kudenga, achadzoka zuva rekutongwa risati rasvika",
+        "Akatungamirira vana veIsraeri kubva muIjipita",
+        "Akava mambo ane simba pamusoro pemajini, vanhu, neshiri",
+        "Vakapona mafashamo makuru pamwe chete nevatendi",
+        "Akavaka imba tsvene muMecca"
+      ],
+      "answer": "Akasimudzwa kudenga, achadzoka zuva rekutongwa risati rasvika"
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

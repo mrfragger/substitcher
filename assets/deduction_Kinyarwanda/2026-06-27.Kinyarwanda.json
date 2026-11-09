@@ -1,0 +1,61 @@
+{
+  "title": "Ubwiza bw'Ubwiza",
+  "intro": "Inyuma y'ibirunga by'igihe, hari inkuru y'ubwitange budacogora n'icyizere gikomeye ku buryo roho yari igifite cyashoboraga gusenyuka. Mu kanya gato ubwo abantu bahindukiriraga ubupfapfa n'izahabu, umuntu umwe yarahagaze ashikamye—abahamagara ngo bagaruke, abasaba kwihangana, kandi afite uburemere bw'isezerano ryera. Iyi ni inkuru y'umuntu watoranijwe nk'umufasha, umwarimu, n'umurinzi w'ukwizera mu gihe cy'ubutasi bwera. Ese ushobora kumenya uwo uyu bugingo buhamye ari we?",
+  "clues": [
+    "Nsangiye amaraso y'umuhanuzi ukomeye watoranijwe kuvugana na Allah ku musozi mutagatifu.",
+    "Umuvandimwe wanjye yigeze gusaba Allah ubufasha mu kuvugana neza n'umurenganya ukomeye.",
+    "Allah yantoye kugira ngo mpagarare iruhande rw'umuvandimwe wanjye nk'umufasha n'umujyanama.",
+    "Twese hamwe twahanganye n'umutegetsi w'umunyagitugu wasabaga kwitwa imana isumba izindi zose.",
+    "Mu gihe umuvandimwe wanjye yaganiraga na Allah ku musozi, abantu bacu bihimbiye ikigirwamana mu zahabu yabo.",
+    "Ndi umuvandimwe wa Musa, Imana yanshyizeho nk'umuyobozi we, izina ryanjye rivugwa muri Korowani."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Intumwa Harun (Aroni)",
+        "Umuhanuzi Musa",
+        "Intumwa Dawidi",
+        "Intumwa Yakub",
+        "Intumwa Ishaq"
+      ],
+      "answer": "Intumwa Harun (Aroni)"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Ikibazo cyo gusenga inyana",
+        "Umwuzure Ukomeye wa Nuh",
+        "Intambara ya Badr",
+        "Irimbuka rya Thamud",
+        "Irimbuka rya Sodoma"
+      ],
+      "answer": "Ikibazo cyo gusenga inyana"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Inyana y'izahabu",
+        "Ubwato bwa Nowa",
+        "Igihuru Gitwika",
+        "Ubuvumo bwa Hira",
+        "Intebe y'ubwami ya Sheba"
+      ],
+      "answer": "Inyana y'izahabu"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Imana yemeje ko nta cyaha kirimo",
+        "Kurohama kwa Farawo",
+        "Inyubako ya Kaaba",
+        "Kwambuka inyanja mu mutekano",
+        "Kuzamuka mu ijuru"
+      ],
+      "answer": "Imana yemeje ko nta cyaha kirimo"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

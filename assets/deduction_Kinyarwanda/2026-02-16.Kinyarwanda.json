@@ -1,0 +1,61 @@
+{
+  "title": "Ikirego cy'ububasha busesuye",
+  "intro": "Mu bihe bya kera, umuntu ukomeye yazamutse ajya gutegeka igihugu kinini n'abaturage bacyo. Ubutegetsi bw'uyu muntu bwaranzwe n'ishema rikomeye n'ishyano rikomeye ku butegetsi bw'Imana. Itegure kugaragaza uwo ari we wese, amaherezo ye akaba ari isomo ridashira ku bisekuru byose.",
+  "clues": [
+    "Nafashe ubutegetsi ku ngoma ikomeye, aho ijambo ryanjye ryari itegeko.",
+    "Navuze ko ndi imana isumba izindi zose, nsaba abantu bose bari munsi y’ubutegetsi bwanjye gusengwa.",
+    "Nakandamije umuryango runaka, mbashyira mu bucakara kandi ntegeka ko abana babo b'abahungu bicwa.",
+    "Nahuye kenshi n'intumwa y'Imana yicisha bugufi, yakoreye ibitangaza bisobanutse imbere yanjye n'abapfumu banjye.",
+    "Nanze ukuri ntashidikanya, nshinje intumwa y’Imana ubupfumu kandi ncura umugambi wo kumwica we n’abayoboke be.",
+    "Ingabo zanjye zose hamwe n'ingabo zanjye twari twarenzwe n'inyanja ubwo twakurikiranaga abari barabohowe mu maboko yanjye tudahwema."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Nimurodi",
+        "Abu Jahl",
+        "Ibilisi",
+        "Firawn",
+        "Hamani"
+      ],
+      "answer": "Firawn"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Umwuzure Ukomeye",
+        "Umuriro Ugurumana",
+        "Kurohama kw'Umurenganya",
+        "Isenyuka ry'umuyaga",
+        "Umutingito w'Abatemera"
+      ],
+      "answer": "Kurohama kw'Umurenganya"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Ubwato bwa Nowa",
+        "Inkoni ya Mose",
+        "Ikigirwamana cya Zahabu",
+        "Iriba rya Zamzam",
+        "Intebe y'Ubwami ya Bilqis"
+      ],
+      "answer": "Inkoni ya Mose"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Yahawe ubwami bunini",
+        "Umubiri wabitswe nk'ikimenyetso",
+        "Kubabarirwa nyuma yo kwihana",
+        "Yazamuwe mu mwanya w'ubuhanuzi",
+        "Abantu be babaye intungane"
+      ],
+      "answer": "Umubiri wabitswe nk'ikimenyetso"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

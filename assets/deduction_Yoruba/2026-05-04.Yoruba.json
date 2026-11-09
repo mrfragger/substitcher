@@ -1,0 +1,61 @@
+{
+  "title": "Olùyàwòrán Ìgbéraga",
+  "intro": "Ní ilẹ̀ àtijọ́ tí agbára alágbára kan ń ṣàkóso, ẹni pàtàkì kan wà ní ipò àṣẹ. Ẹ̀mí yìí ló ṣe ipa pàtàkì nínú àwọn ètò ńlá alákòóso náà, ó ń kópa nínú ìjọba ìnilára wọn, ó sì ń pe ìhìn rere Ọlọ́run níjà. Ìní wọn ní ìsopọ̀ pẹ̀lú ìlépa agbára ayé àti ìkọ̀sílẹ̀ òtítọ́.",
+  "clues": [
+    "Mo ti sin ọba alágbára kan tó ń ni àwọn ènìyàn lára ​​fún ọ̀pọ̀ ìran.",
+    "A maa n mẹnuba orukọ mi nigbagbogbo ninu Iwe Atọrunwa pẹlu olori alagbara yii.",
+    "Wọ́n gbé iṣẹ́ ìkọ́lé ńlá kan lé mi lọ́wọ́, ilé gíga kan tí a ṣe láti dé ọ̀run.",
+    "Mo gba olúwa mi nímọ̀ràn láti pa àwọn ọmọkùnrin àwọn ọmọ Ísírẹ́lì kí ó sì dá àwọn ọmọbìnrin wọn sí.",
+    "Mo ti kopa ninu awon ete ati awon iwa arekereke si ojise alagbara kan ti Allah.",
+    "Ìparí mi, pẹ̀lú olúwa mi àti àwọn ọmọ ogun rẹ̀, dé inú omi òkun ńlá kan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Nímírọ́dù",
+        "Ábúráhà",
+        "Gòláyátì",
+        "Iblis",
+        "Hámánì"
+      ],
+      "answer": "Hámánì"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Jíjẹ́ ẹni tí a fi ọrọ̀ ńláǹlà dán wò",
+        "Ṣíṣáájú ẹgbẹ́ ọmọ ogun lòdì sí ilé mímọ́ kan",
+        "Kíkọ́ ilé gogoro láti dé ọ̀dọ̀ Ọlọ́run",
+        "Wọ́n jù wọ́n sínú iná nítorí ìgbàgbọ́ wọn",
+        "Àwọn ọmọ ìyáàbú tí wọ́n jù sínú kànga kan"
+      ],
+      "answer": "Kíkọ́ ilé gogoro láti dé ọ̀dọ̀ Ọlọ́run"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Àpótí náà",
+        "Òṣìṣẹ́ náà",
+        "Òkè",
+        "Ilé Gogoro náà",
+        "Ẹja Whale"
+      ],
+      "answer": "Ilé Gogoro náà"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Jíjẹ́ kí a fún ọ ní ọgbọ́n ńláǹlà",
+        "Dídi wòlíì",
+        "Ilẹ̀ gbé mì",
+        "Jíjẹ́ tí a fún ní ìjọba kan",
+        "Rírì sínú omi"
+      ],
+      "answer": "Rírì sínú omi"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

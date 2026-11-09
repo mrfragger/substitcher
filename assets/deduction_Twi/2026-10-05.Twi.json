@@ -1,0 +1,61 @@
+{
+  "title": "Ahotoso a Wɔde Hyehyɛ Asubɔnten no nsa",
+  "intro": "Ná ɔkra bi hyia ahyɛde bi a entumi nyɛ yiye, baabi a na abofra a wɔawo no foforo nkwa sɛn nsenia no mu. Wɔde ɔsoro honhom kyerɛɛ wɔn kwan no, wodii ahyɛde bi a ɛyɛ hu so, na wɔde ahintasɛm bi a ɛsom bo too nsu a ɛreworo so no so, na wɔsan de bae wɔ ɔkwan a na wontumi nhu so.",
+  "clues": [
+    "Na mete otirimɔdenfo bi a ɔhyɛɛ sɛ wonkum mmarima a wɔawo wɔn foforo no sunsuma ase.",
+    "Ɔsoro nhyɛsoɔ bi baa me nkyɛn, kyerɛɛ me sɛ menyɛ adeyɛ a ɛyɛ abasamtu na ɛyɛ awerɛhoɔ.",
+    "Mede me akokoaa a ɔsom bo no guu adaka bi mu na mede sii asubɔnten a ɛsen no so.",
+    "M’akoma mu yɛɛ hunu, na ɛkaa kakraa bi na meyii ahintasɛm no adi, nanso Allah hyɛɛ me bo a wasi no mu den.",
+    "Mesomaa obi sɛ ɔnkɔdi abofra no akwantuo a ɛrekɔ fam no akyi berɛ a nsuo a ɛreworo so no de koko no kɔeɛ no.",
+    "Otirimɔdenfo no fiefo na wohuu abofra no, na awiei koraa no, me ne me ba no san boom na mebɛyɛɛ ayarehwɛfo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Musa Maame",
+        "Asiya (Farao yere) .",
+        "Maryam (Ɔkɔmhyɛni Isa maame) .",
+        "Ɔkɔmhyɛni Lut yere",
+        "Ɔkɔmhyɛni Yahya (Zakariya yere) maame ."
+      ],
+      "answer": "Ɔkɔmhyɛni Musa Maame"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Ɔde ne ba no too adaka bi mu de too asubɔnten no so",
+        "Ɔde ne ba no siee ɔbodan bi mu",
+        "Ogyaw ne ba no hɔ wɔ sare so",
+        "Ɔtow ne ba no guu ogya mu",
+        "Ogyaw ne ba no wɔ asɔredan bi pon ano"
+      ],
+      "answer": "Ɔde ne ba no too adaka bi mu de too asubɔnten no so"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Adaka bi a wɔde ahyɛ nsu mu wɔ asubɔnten no so",
+        "Kwae a ɛrehyew",
+        "Poma a ɛdanee ɔwɔ",
+        "Pono a aduan a efi soro atrɛw mu",
+        "Yoma ababaa bi a wɔsomaa no sɛ sɛnkyerɛnne"
+      ],
+      "answer": "Adaka bi a wɔde ahyɛ nsu mu wɔ asubɔnten no so"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Ɔsan ne ne ba no boom maa no nufu",
+        "Wanhu ne ba no bio",
+        "Otirimɔdenfo no na okum no",
+        "Ɔbɛyɛɛ ɔhemmaa wɔ Misraim",
+        "Otu kɔɔ asase foforo so na ɔtraa nnommumfa mu"
+      ],
+      "answer": "Ɔsan ne ne ba no boom maa no nufu"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

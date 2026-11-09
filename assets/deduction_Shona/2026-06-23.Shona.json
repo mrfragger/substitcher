@@ -1,0 +1,61 @@
+{
+  "title": "Muchengeti ari pamucheto weRwizi",
+  "intro": "Munyika umo mutemo wemudzvinyiriri waiunza kusuruvara kumisha yakawanda, mweya wakagamuchira shoko raikunda kutya kwose. Nemwoyo wakazara nekuvimba, vakatanga chiito chekutenda chaizochinja mafambiro erudzi. Mvura payaitakura mutoro unokosha, tariro yakavhengana nemvura.",
+  "clues": [
+    "Ndakararama munguva yekudzvinyirirwa nekutya.",
+    "Ndakawana kufemerwa naMwari kwakandipa ushingi.",
+    "Ndakarayirwa kuti ndisatye kana kuchema.",
+    "Ndakaisa mwana wangu mubhokisi ndokuriisa pamusoro pemvura.",
+    "Mwana wangu akawanikwa nevemhuri yemutongi, asi mumwe mwana wangu akatevera.",
+    "Ndakasanganazve nemwana wangu kuti ndimuyamwise, sezvakavimbiswa naAllah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Amai vaMosesi",
+        "Mudzimai waFarao",
+        "Hanzvadzi yaMosesi",
+        "Amai vaJesu",
+        "Mambokadzi weShebha"
+      ],
+      "answer": "Amai vaMosesi"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kufemerwa kukanda mwana murwizi",
+        "Kukwikwidzana nemashiripiti",
+        "Kuteverwa neuto",
+        "Kuyambuka gungwa rakaparadzana",
+        "Kuvaka imba tsvene"
+      ],
+      "answer": "Kufemerwa kukanda mwana murwizi"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Bhokisi rakaiswa murwizi",
+        "Gwenzi rinopfuta",
+        "Tsvimbo yakashanduka kuita nyoka",
+        "Mhuru yendarama",
+        "Chigaro choumambo"
+      ],
+      "answer": "Bhokisi rakaiswa murwizi"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Mwana akadzorerwa zvakanaka kuna chiremba",
+        "Mwana akarasika zvachose",
+        "Mwana akaendeswa kunyika iri kure",
+        "Mwana akabva ava mutongi pakarepo",
+        "Mwana wacho akatorwa nemutengesi akapfuma"
+      ],
+      "answer": "Mwana akadzorerwa zvakanaka kuna chiremba"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

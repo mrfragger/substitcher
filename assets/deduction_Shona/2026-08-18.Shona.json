@@ -1,0 +1,61 @@
+{
+  "title": "Uyo Akawana Surah",
+  "intro": "Fungidzira mweya unozvininipisa uchisvika kune mumwe weVatumwa vaAllah nemoyo wakazara nemwoyo wese uye nechido chakadzama chekudzidza. Asi panguva iyoyo chaiyo, munhu ane pfuma nechinzvimbo akabata pfungwa dzeMutumwa, uye chiso chake chakatsvuka kumeso akatarisa kune aitsvaga. Chakatevera chaive chitsauko chose cheKorani, chakatumirwa kugadzirisa Mutumwa nekukudza mweya waiuya uchitsvaga.",
+  "clues": [
+    "Ndakauya kuMutumwa waAllah nemoyo wakavhurika uye nechido chakadzama chekutungamirirwa",
+    "Ndakanga ndisina chinzvimbo chenyika chekupa, mweya unozvininipisa chete waitsvaga chokwadi",
+    "Maziso angu enyama aisagona kuona, asi kuona kwangu kwemweya kwaive kwakajeka",
+    "Ndakasvika panguva isina kukodzera, apo Mutumwa akanga akabatikana nemunhu ane simba guru",
+    "Ndakabatwa nehasha, asi Allah akapindura nekururamisa kwaMwari",
+    "Ini ndiri Abdullah ibn Umm Maktum, shamwari yakazvipira ine nyaya yakafuridzira Surah Abasa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Abdullah ibn Umm Maktum",
+        "Bilal ibn Rabah",
+        "Mu'adh ibn Jabal",
+        "Zayd ibn Thabit",
+        "Salman al-Farisi"
+      ],
+      "answer": "Abdullah ibn Umm Maktum"
+    },
+    "trial": {
+      "label": "Kutongwa / Chiitiko",
+      "options": [
+        "Kurambwa neMuporofita nekuda kwemunhu akapfuma",
+        "Kukandwa mumoto unopisa nevavengi",
+        "Kutengeswa uye kutambudzwa semuranda",
+        "Kudenhwa kuti varwe nemuvengi ane simba",
+        "Kumedzwa nehove huru"
+      ],
+      "answer": "Kurambwa neMuporofita nekuda kwemunhu akapfuma"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Chitsauko cheKorani chinotanga nekufinyamisa chiso (Surah Abasa)",
+        "Moto wakagadzirwa kuti utonhore uye wakachengeteka",
+        "Tsvimbo inokamura gungwa guru",
+        "Areka yakavakirwa pagomo refu",
+        "Shiri yakaumbwa nevhu rakaomarara"
+      ],
+      "answer": "Chitsauko cheKorani chinotanga nekufinyamisa chiso (Surah Abasa)"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Allah akaburitsa surah yeQuran ichindidzivirira",
+        "Mwari vakaita kuti moto utonhore uye ugare wakachengeteka kwandiri",
+        "Mwari vakapatsanura gungwa kuti vandinunure kubva pakunditevera",
+        "Allah akandipa humambo hukuru neuchenjeri",
+        "Allah akanditora kuenda kudenga ndisina rufu"
+      ],
+      "answer": "Allah akaburitsa surah yeQuran ichindidzivirira"
+    }
+  },
+  "verseRef": "80:2",
+  "arabic": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+  "verse": "Because there came to him the blind man, [interrupting]. (80:2)"
+}

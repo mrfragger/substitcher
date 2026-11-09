@@ -1,0 +1,61 @@
+{
+  "title": "Ọkàn Onírẹ̀lẹ̀ láàrín àwọn Wòlíì",
+  "intro": "Ohùn kan tí ń pè sí òdodo ń dún láti inú àwọn ẹsẹ Al-Quran Alágbára. A fún ẹ̀mí alábùkún yìí ní àsọtẹ́lẹ̀ àti ìwé mímọ́ ní àkókò kan tí wọ́n nílò ìtọ́sọ́nà gidigidi láàárín àwọn ọmọ Israẹli. Ẹni yìí bá àwọn ènìyàn wọn sọ̀rọ̀ tààrà, ó ń rọ̀ wọ́n sí ìrántí Olúwa wọn. Nípasẹ̀ sùúrù àti ìfọkànsìn, wọ́n di ìmọ́lẹ̀ tí ìtàn rẹ̀ ń tan ìmọ́lẹ̀ sí ojú ìwé mímọ́. Ṣé o lè dá ẹni pàtàkì yìí tí orúkọ rẹ̀ wà nínú Al-Quran àti Ìhìn Rere?",
+  "clues": [
+    "Wọ́n fi iṣẹ́ wòlíì àti ìwé ọ̀run fún mi ní àkókò àìní àwọn ènìyàn mi.",
+    "Ìyá mi bí mi ní ọ̀nà tó yanilẹ́nu, nípasẹ̀ àṣẹ Ọlọ́run nìkan.",
+    "Mo bá àwọn ènìyàn mi sọ̀rọ̀, mo ní ‘Ẹ̀yin ọmọ Ísírẹ́lì! Èmi ni ìránṣẹ́ Allāhu sí yín, mo ń jẹ́rìí ohun tí ó ti ṣẹlẹ̀ ṣáájú mi.’",
+    "Mo wa pẹlu awọn ami ti o han gbangba lati ọdọ Oluwa rẹ, mo fun ni iroyin ayọ nipa wolii kan ti orukọ rẹ yoo jẹ Ahmad.",
+    "Ìyá mi jẹ́ obìnrin olódodo tí ó fi mí fún iṣẹ́ ìsìn Allah láti ìgbà èwe mi.",
+    "Allah kọ́ mi ní Al-Quran, ó sì sọ mí di ẹni tí ó máa ń ṣàánú àti ẹni tí ó máa ń bẹ̀rù ìyá mi, mi ò sì jẹ́ onígbèéraga tàbí aláìgbọràn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Zakariyya",
+        "Wòlíì Ísà ibn Màrímà",
+        "Ànábì Muhamadu ﷺ",
+        "Wòlíì Dáfídì",
+        "Wòlíì Yunus"
+      ],
+      "answer": "Wòlíì Ísà ibn Màrímà"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Kíkọ́ Tẹmpili ní Jerusalẹmu",
+        "Ó sọ̀rọ̀ nígbà tí ó wà ní ọmọ kékeré bí ọmọ ọwọ́",
+        "Ó gbé Àpótí Májẹ̀mú náà",
+        "Ó darí àwọn ènìyàn Midiani",
+        "Ìrìn àjò lọ sí Nínéfè"
+      ],
+      "answer": "Ó sọ̀rọ̀ nígbà tí ó wà ní ọmọ kékeré bí ọmọ ọwọ́"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ìlú Jerúsálẹ́mù",
+        "Agbègbè Bẹ́tílẹ́hẹ́mù",
+        "Ìdílé Zakariya",
+        "Òkè Sínáì",
+        "Àfonífojì Baca"
+      ],
+      "answer": "Ìdílé Zakariya"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A gbé e sókè ọ̀run ní ara ara",
+        "Mo ti ṣe àyẹ̀wò ẹ̀tẹ̀ fún ọ̀pọ̀ ọdún",
+        "Kọ́ tẹ́ḿpìlì ńlá kan fún ìjọsìn",
+        "Mu awọn ọmọ Israeli pada si igbagbọ",
+        "Ó fi ọ̀pá pín òkun níyà"
+      ],
+      "answer": "A gbé e sókè ọ̀run ní ara ara"
+    }
+  },
+  "verseRef": "61:6",
+  "arabic": "وَإِذْ قَالَ عِيسَى ٱبْنُ مَرْيَمَ يَـٰبَنِىٓ إِسْرَٰٓءِيلَ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُم مُّصَدِّقًۭا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَمُبَشِّرًۢا بِرَسُولٍۢ يَأْتِى مِنۢ بَعْدِى ٱسْمُهُۥٓ أَحْمَدُ ۖ فَلَمَّا جَآءَهُم بِٱلْبَيِّنَـٰتِ قَالُوا۟ هَـٰذَا سِحْرٌۭ مُّبِينٌۭ",
+  "verse": "And [mention] when Jesus, the son of Mary, said, \"O Children of Israel, indeed I am the messenger of Allāh to you confirming what came before me of the Torah and bringing good tidings of a messenger to come after me, whose name is Aḥmad.\" But when he came to them with clear evidences, they said, \"This is obvious magic.\" (61:6)"
+}

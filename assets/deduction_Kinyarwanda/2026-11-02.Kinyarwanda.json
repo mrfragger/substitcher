@@ -1,0 +1,61 @@
+{
+  "title": "Umufatanyabikorwa Udacogora mu igeragezwa rya zahabu",
+  "intro": "Mu gicucu cy'umuhanuzi ukomeye, roho y'ubuhanga mu kuvuga no kwizera yatoranijwe kugira ngo ifashe mu butumwa bukomeye. Uyu muntu yahagaze neza ubwo rubanda rwahindaga umushyitsi, abwiriza kurwanya icyaha cyagaragaraga nk'aho cyari giteye ubwoba ku idini rimwe. Ubwo umuhanuzi yagarukaga kwirebera ikosa ry'abantu, ubwunganizi bw'uyu muntu ntibwari ubwo kwiregura ahubwo bwari ubwo kuba yari afite inshingano zo gutinya amacakubiri. Ni nde mugaragu w'Imana wiyeguriye Imana?",
+  "clues": [
+    "Natowe na Allah ku bw'inshingano zera hamwe n'indi, kandi inshingano zanjye zari izo gushyigikira no gutangaza ubutumwa.",
+    "Nahawe ijambo risobanutse neza, maze njyana n'intumwa kugira ngo nhangane n'umurenganya ukomeye.",
+    "Mu rugendo rukomeye, intumwa yazamutse umusozi ari wenyine, insigira kurinda abantu.",
+    "Ubwo bari bahari, abantu bakoze igishushanyo cya zahabu, maze ndabasaba gukomeza kuba indahemuka, ariko banze inama zanjye.",
+    "Ubwo intumwa yagarukaga yuzuye uburakari n'agahinda, narafashwe, ariko nasobanuye ko nari naratsinzwe kandi ko natinyaga guteza amakimbirane hagati yabo.",
+    "Ndi umuhanuzi wahagaze iruhande rwa Musa, umuvandimwe wanjye, dusangira umutwaro we kandi tugakomeza gukomera ku gusenga ibigirwamana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Intumwa Harun",
+        "Umuhanuzi Musa",
+        "Umuhanuzi Isa",
+        "Intumwa Dawidi",
+        "Intumwa Zakariya"
+      ],
+      "answer": "Intumwa Harun"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Abantu basengaga inyana ya zahabu nubwo bari bafite imiburo",
+        "Abantu banjugunye mu muriro ugurumana",
+        "Namizwe n'ifi nini",
+        "Nafunzwe kubera ibirego by'ibinyoma",
+        "Narirukanywe mu mujyi wanjye kubera kubwiriza"
+      ],
+      "answer": "Abantu basengaga inyana ya zahabu nubwo bari bafite imiburo"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Inyana y'izahabu",
+        "Igihuru Gitwika",
+        "Inkoni yahindutse inzoka",
+        "Ibisate by'Isezerano",
+        "Isanduku y'Isezerano"
+      ],
+      "answer": "Inyana y'izahabu"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Nagizwe umwere maze nkomeza ubutumwa bwanjye bw'ubuhanuzi",
+        "Nahaniwe icyaha cy'abantu",
+        "Nahawe igihugu gishya cyo kuyobora",
+        "Nazamuwe mu ijuru ndi muzima",
+        "Nagizwe umutware w'ubwami"
+      ],
+      "answer": "Nagizwe umwere maze nkomeza ubutumwa bwanjye bw'ubuhanuzi"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

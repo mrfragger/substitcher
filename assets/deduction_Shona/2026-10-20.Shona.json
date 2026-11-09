@@ -1,0 +1,61 @@
+{
+  "title": "Muvaki weChido Chenhema",
+  "intro": "Munhu ane simba guru akamboshanda semumwe wevatongi vane mukurumbira munhoroondo muIjipita yekare. Munhu uyu akapihwa murairo wakashinga - wekuvaka chivakwa chakagadzirirwa kushora matenga. Nyaya yavo iri muKorani sechidzidzo chinoshamisa pamusoro pekuti kuteerera kuzvikudza pasina kufunga kunotungamira sei mukuparadzwa.",
+  "clues": [
+    "Ndakashanda mumatare emutongi ane simba uyo aiti ndiye mwari wenyika.",
+    "Ndaiva nechinzvimbo chepamusoro chehufundisi, ndichipa mazano kumunhu ainyanya kuzvitutumadza kupfuura vamwe vese munguva yangu.",
+    "Mutongi wangu akanga anyura mukupikisa Mwari waMosesi, wavakaramba kubvuma.",
+    "Ndakarayirwa kuvaka shongwe yezvidhinha zvakapiswa nemoto kuitira kuti mutongi wangu akwire kudenga.",
+    "Nhare yacho haina kumbosvika kudenga, uye kushumira kwangu kuzvikudza kwakaita kuti ndinyare nekusingaperi.",
+    "Ndakaparara pamwe chete newandakatevera, uye zita rangu rakava yambiro inogara iripo kune avo vanobvumira vadzvinyiriri."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Hamani",
+        "Azar (baba vaIbrahim)",
+        "Illyas (muporofita)",
+        "Dhu al-Kifl",
+        "Harut (mumwe wevatumwa vaviri muBhabhironi)"
+      ],
+      "answer": "Hamani"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Akarayirwa kuvaka chivako chakareba kuti chisvike kudenga",
+        "Kukumbirwa kududzira hope dzakatumwa kubva kuna Mwari",
+        "Kukandwa mumoto unopfuta semuedzo wekutenda",
+        "Kumanikidzwa kusarudza pakati pechigaro cheumambo nechokwadi",
+        "Akakwikwidzana mumakwikwi euroyi"
+      ],
+      "answer": "Akarayirwa kuvaka chivako chakareba kuti chisvike kudenga"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Shongwe yezvidhinha zvakapiswa nemoto",
+        "Tsvimbo yakashanduka kuita nyoka",
+        "Ngarava iri kufamba nepakati pemafashamo makuru",
+        "Bindu rakakomberedzwa nemadziro marefu",
+        "Chigaro choumambo chakashongedzwa nematombo erubhi negoridhe"
+      ],
+      "answer": "Shongwe yezvidhinha zvakapiswa nemoto"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kunyura pamwe chete nemudzvinyiriri mugungwa",
+        "Akava mambo ane simba wenyika dzakakura",
+        "Akapukunyuka moto unopfuta asina kukuvara",
+        "Vakavaka umambo hwakabudirira hweuchenjeri",
+        "Akabatanazve nemhuri yake mushure memakore akawanda ekutapwa"
+      ],
+      "answer": "Kunyura pamwe chete nemudzvinyiriri mugungwa"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

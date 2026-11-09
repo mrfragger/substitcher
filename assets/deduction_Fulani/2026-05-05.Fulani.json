@@ -1,0 +1,61 @@
+{
+  "title": "Jaɓɓungal Leydi",
+  "intro": "E jamaanu jarribooji mawɗi, neɗɗo tedduɗo rokkaama ngalu aduna keewngu, jarribo yettoode e neɗɗaagal. Jahgol ngol limre ina waɗi jannde luggiɗnde e sifaa jawdi ndariindi e batte mawnikinaare. Uddit sifaa oo ruuhu mo daartol mum winndaa e nder leydi les men ndii.",
+  "clues": [
+    "Mi hoɗii e leñol ngol nulaaɗo mawɗo ardii.",
+    "Alla rokkii kam jawdi keewndi haa ko heewi e coktirgal ngalu am, ko 6uu6ol teeŋtungol wonande yim6e heew6e semmbe.",
+    "Yimɓe am, anndude jawdi am, wasiyii kam yoo mi ɗaɓɓu hoɗorde laakara e ko Alla rokki mi koo mi yejjitaa geɗal am e aduna, mi waɗa moƴƴere no Alla waɗiri mi moƴƴere nii.",
+    "Miɗo anndi e mawnikinaare wonde ngalu am keewngu ngu keɓ-mi tan ko e ganndal am e tiiɗnaare am, miɗo yedda kala moƴƴere Alla.",
+    "Nde naamnaa mi yo mi wallu walla mi jaɓa moƴƴere Alla, mi salii e mawnikinaare, miɗo sikki jawdi am ko miin tan.",
+    "Sabu mawnikinaare am e tooñannge am ɓurtunde, Alla yamiri leydi ndii uddita, ɓuuɓna mi e hoɗorde am."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol ko ngonmi?",
+      "options": [
+        "Firaawna",
+        "Ibliis",
+        "Haman",
+        "Abuu Lahab",
+        "Qaruun"
+      ],
+      "answer": "Qaruun"
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "Werde e nder yiite",
+        "Royde e nder maayo",
+        "Wontude riiwaa e nder jarne",
+        "Wayliteede wonta ape",
+        "Wontude leydi ɓuuɓndi"
+      ],
+      "answer": "Wontude leydi ɓuuɓndi"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Nagge kaŋŋe",
+        "Laana mawka",
+        "Cofe kaaloowo",
+        "Kaɓirgal kaawis",
+        "Ngalu keewngu e coktirgal"
+      ],
+      "answer": "Ngalu keewngu e coktirgal"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "Wontude laamɗo mawɗo",
+        "Jaɓde wahyu Alla",
+        "Waɗde yahde to asamaan",
+        "Wuurde nguurndam juutɗam e dewal",
+        "Halkaare timmunde sabu mawnikinaare"
+      ],
+      "answer": "Halkaare timmunde sabu mawnikinaare"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

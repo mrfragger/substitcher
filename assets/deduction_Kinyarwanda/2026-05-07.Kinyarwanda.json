@@ -1,0 +1,61 @@
+{
+  "title": "Umuhamagara uturutse mu nyanja",
+  "intro": "Tekereza umuntu wahawe ubutumwa bw'Imana, ariko mu kanya gato, agahita ava mu bantu be nta ruhushya rwemejwe. Uru rugendo rwabagejeje ku kigeragezo kidasanzwe, ikizamini gikomeye cyo kwihangana no kwishingikiriza ku Isumbabyose. Ni nde uyu muntu inkuru ye itwigisha ku kwihana no ku bwinshi bw'imbabazi za Allah?",
+  "clues": [
+    "Noherejwe mu gihugu gikomeye, ariko kwangwa kwabo kwabanje kwanteye agahinda.",
+    "Navuye mu muryango wanjye, nizera ko ubutumwa bwanjye bwari burangiye, mbere yo guhabwa itegeko risobanutse ryo kugenda.",
+    "Nashatse inzira mu bwato, ariko inkubi y'umuyaga mwinshi n'ubufindo byatumye ngira ikibazo gikomeye.",
+    "Najugunywe mu nyanja, maze ikiremwa gikomeye cyo mu nyanja kiramira cyose.",
+    "Mu mwijima wo mu nda yayo, nahamagaye Allah, nemera ikosa ryanjye kandi nsaba imbabazi zayo.",
+    "Allah yategetse icyo kiremwa kunjugunya ku nkombe, maze nsubizwa ubuzima bwiza munsi y'igiti kidasanzwe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Intumwa Yusufu (Yozefu)",
+        "Intumwa Nuh (Nowa)",
+        "Intumwa Yunus (Yona)",
+        "Intumwa Sulaiman (Salomo)",
+        "Intumwa Ayyub (Yobu)"
+      ],
+      "answer": "Intumwa Yunus (Yona)"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Gucikamo kabiri kw'inyanja",
+        "Umuriro wa Nimurodi",
+        "Kumirwa n'ifi nini",
+        "Umwuzure",
+        "Gusenywa kw'umujyi n'amabuye"
+      ],
+      "answer": "Kumirwa n'ifi nini"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Isanduku",
+        "Abakozi",
+        "Inda y'ifi",
+        "Iriba",
+        "Igihuru cyakaga"
+      ],
+      "answer": "Inda y'ifi"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Yabaye umutegetsi ukomeye",
+        "Yubatse Kaaba",
+        "Yagarutse kuyobora igihugu cyihannye",
+        "Yahawe ubutware ku majini",
+        "Abantu bayobowe bambuka ubutayu"
+      ],
+      "answer": "Yagarutse kuyobora igihugu cyihannye"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Uwuhamagara Ukuri Atanyiganyiga",
+  "intro": "Intumwa ihagaze yonyene hagati y’abantu b’inkozi z’ikibi, ibahamagara ku Mana imwe y’Ukuri mu gihe bo baguma bifatanye n’ibigirwamana vy’ikinyoma. Uwo muhanuzi yitwa izina risubiramwo insobanuro ikomeye, ni ukuvuga ‘uwurondera uburinzi’, ariko akaronka gusa ukwanka no guhakana. Biciye ku kwemeza mu bugwaneza no ku kugabisha bikomeye, uwo mutima utwara ubutumwa bw’Imana isi n’ikirere ubwavyo bizoheza bikavyemeza. Woba ushobora kumenya uwo muntu ashikamye aserukira imwe mu nkuru za kera cane mu vyanditswe vy’ubuyisilamu?",
+  "clues": [
+    "Abantu banje basenga imana nyinshi, nanje nabahamagara ngo bakorere Uwaremye ijuru n’isi.",
+    "Nahagaze imbere y’ihanga ryanje maze ndamenyesha ko ata mpembo nzobaronderako—icipfuzo canje conyene ni ukuyoborwa mu bugororotsi.",
+    "Umuyaga munini wararungitswe ku bantu banje nk’igihano c’Imana, umuyaga Korowani ivuga mu buryo bw’ubwinshi n’ubw’igitsina gore.",
+    "Mu buryo butandukanye n’abahanuzi bamwebamwe, sinahawe umugore canke abana bavugwa cane mu nkuru yanje, kuko igikorwa canje cari uguhamagara abantu banje jenyene.",
+    "Izina ryanje rifise insobanuro yimbitse—rifitaniye isano n’iciyumviro c’uburinzi n’ubuhungiro umuntu arondera.",
+    "Abantu banje bari bazwi n’ijambo ry’ikiyaya ry’aho baba, kandi igihugu cabo cari kidondorwa n’agasuzuguro kadasanzwe kubera ko kitagira ivyatsi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umuhanuzi Hudi",
+        "Umuhanuzi Salih",
+        "Umuhanuzi Shu'aib",
+        "Umuhanuzi Nuh",
+        "Umuhanuzi Hudayibu"
+      ],
+      "answer": "Umuhanuzi Hudi"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Umwuzure w'isi .",
+        "Umuyaga uturitsa",
+        "Umutingito w'uguhonya .",
+        "Amapfa n'inzara",
+        "Ugurohama mu kiyaga ."
+      ],
+      "answer": "Umuyaga uturitsa"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Ikiyaya kirumbuka ca Yemeni",
+        "Ubugaragwa bw'umusenyi bwo muri Midiyani",
+        "Ikiyaya c’ibitandara c’i Tamudi .",
+        "Igihugu ca kera c’abantu b’Adi .",
+        "Akarere ko ku nkengera y'ikiyaga ka Misiri"
+      ],
+      "answer": "Igihugu ca kera c’abantu b’Adi ."
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Abantu banje barihanye binjira mw'iparadizo .",
+        "Nta n’umwe mu bantu banje yarokotse igihano + .",
+        "Naraduzwe ndi muzima nka mwenewacu Yunus .",
+        "Narimukiye n'abayoboke banje mu gihugu gihezagiwe .",
+        "Umuyaga watikije abahakana gusa mu gihe abemera barokotse ."
+      ],
+      "answer": "Nta n’umwe mu bantu banje yarokotse igihano + ."
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

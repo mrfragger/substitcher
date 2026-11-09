@@ -1,0 +1,61 @@
+{
+  "title": "Haayre nde ñaami",
+  "intro": "Haala ɓurka ɓooyde e kala laamu walla binndol—musiiba aadee gadano jibinaaɗo e kaaɗdi. Ruuhu gooto, mawɗo sukaaɓe ɗiɗo jibinaaɓe e jibnaaɓe adanɓe, ina ndaara e nder tikkere no miñi mum tokooso heɓirta moƴƴere nde yeddaaka. Ko rewi heen ko cuɓagol ɓurngol niɓɓiɗde, acci ƴiiƴam gadanal ɗam meeɗaa rufde e dow leydi. Mbele aɗa waawi udditaade sifaa oo, ñaawoore ndee, e nimsa mettuɗo oo ?",
+  "clues": [
+    "Mi jibinaa ko e yimɓe ɗiɗo adanɓe yahde e dow leydi.",
+    "Mi meeɗii waɗde Alla sadaka, kono ɗum jaɓaaka e am.",
+    "Sadaka miñi am jaɓaama, am jaɓaaka — huunde nde mi waawaa muñde.",
+    "Mi hulɓinii miñi am e halkaare.",
+    "Miin woni gadano waɗde warngo e dow oo aduna, ƴettude nguurndam miñi am.",
+    "Alla neldi tagoore leydi – colli ɓaleeji ina njuppa e leydi – ngam jannginde mi no suuɗirta ko mbaɗmi koo, mi heddoraaki hay huunde so wonaa nimsa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol ko ngonmi?",
+      "options": [
+        "Qabil (Kayin)",
+        "Habil (Haabil)",
+        "Annabi Yaqub",
+        "Annabi Muusaa",
+        "Annabi Aadama"
+      ],
+      "answer": "Qabil (Kayin)"
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "Sadak mo Alla salii",
+        "Wertaa e nder yiite mawnge",
+        "Acci bana ɓinngel nder maayo",
+        "Foondiraama e laamu mawngu",
+        "Yamiraama yo sakka ɓiyum"
+      ],
+      "answer": "Sadak mo Alla salii"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Koɗol ngol Alla neli",
+        "Nagge kaŋŋe",
+        "Laana kaa dow hoosere",
+        "Buuɗi ɓuuɓɗi ɗii",
+        "Gelooɗi debbo ɗi njuumri e haayre"
+      ],
+      "answer": "Koɗol ngol Alla neli"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "Wonti heewde nimsa e nder majjuɓe",
+        "Muumɗi e nder leydi wondude e jawdi",
+        "Wontii nulaaɗo Alla tedduɗo",
+        "Naati Aljanna e yurmeende Alla",
+        "Laamiima laamu ngu alaa ko nanndi e mum"
+      ],
+      "answer": "Wonti heewde nimsa e nder majjuɓe"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

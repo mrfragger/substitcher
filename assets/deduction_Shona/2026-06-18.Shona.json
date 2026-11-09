@@ -1,0 +1,61 @@
+{
+  "title": "Munhu Wekutanga Kukumbira Ruregerero",
+  "intro": "Dzokera shure panguva iyo zuva risati rabuda, munhu asati ambofamba panyika. Chifananidzo chakagadzirwa nezvinhu zvakaderera, chakapihwa nzvimbo pamusoro pengirozi, ndokuiswa mubindu dzvene nenyevero yakajeka. Asi munguva pfupi, sarudzo yakaitwa - imwe yaizodzokorora nhoroondo yese yevanhu. Ndiani chifananidzo ichi?",
+  "clues": [
+    "Ndakasikwa nenzira yakasiyana nedzimwe — ndakaumbwa kubva muguruva renyika ndikapihwa mweya mupenyu neruoko rweMusiki.",
+    "Ndakapiwa ruzivo rwakadzama zvekuti kunyange ngirozi dziri kumusoro dzakashamiswa narwo.",
+    "Denga rese rakarairwa kuti rikotame pamberi pangu, uye vese vakazviisa pasi - kunze kwemumwe chete, akaramba nekuda kwekuzvikudza.",
+    "Ndakaiswa mubindu dzvene, nzvimbo yenyaradzo nekugara ndichidya - asi ndichirambidzwa chimwe chete.",
+    "Ndakakanganwa, ndakatsvedza, uye handina kuteerera — uye ndakanzwa kuremerwa kwechikanganiso changu zvakadzama.",
+    "Ndakatendeukira kuna Ishe wangu nemashoko emwoyo wese, uye Akabvuma kupfidza kwangu, nekuti Iye ndiye Anoregerera Zvikuru."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Adhamu",
+        "Muporofita Dhawud",
+        "Muporofita Muhammad",
+        "Iblis",
+        "Muporofita Yaqub"
+      ],
+      "answer": "Muprofita Adhamu"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Ngirozi dzakarayirwa kuti dzipfugame",
+        "Mafashamo Makuru akatumirwa",
+        "Moto mukuru wakaitwa kuti utonhore uye wakachengeteka",
+        "Mutongi anozvikudza akanyudzwa mugungwa",
+        "Hondo yenzou yakaparadzwa"
+      ],
+      "answer": "Ngirozi dzakarayirwa kuti dzipfugame"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Bindu reMufaro",
+        "Gomo reSinai",
+        "Musikiti Mutsvene",
+        "Rwizi rwaNire",
+        "Bako"
+      ],
+      "answer": "Bindu reMufaro"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kupfidza kwakagamuchirwa naAllah",
+        "Kunyura mugungwa",
+        "Yakamedzwa nehove huru",
+        "Rudzi rwakarohwa nekuputika kukuru",
+        "Kupiswa nemhepo inopisa"
+      ],
+      "answer": "Kupfidza kwakagamuchirwa naAllah"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Hurdada oo ka baxsan wakhtiga",
+  "intro": "Bal qiyaas waqti runta la aamusiyay oo mu'miniinta la ugaarsanayay. Koox yar ayaa dooratay inay dib u gurtaan halkii ay is dhiibi lahaayeen, iyagoo magangelyo ka helaya meelaha ugu aan macquulka ahayn - meel noqon lahayd meel ay ku nastaan ​​qarniyo badan oo aan la tirin karin. Markii ugu dambeyntii ay soo tooseen, adduunku wuu is beddelay hareerahooda. Waa kuma nafahan hurda?",
+  "clues": [
+    "Waxaan ahayn dhalinyaro ku nool magaalo qadiimi ah.",
+    "Bulshadeennu waxay dalbadeen inaan ku cibaadaysanno iyaga, laakiin waan diidnay.",
+    "Waxaan ka baxnay magaalada annagoo raadinayna magangalyo aan ka helno kuwa ka soo horjeeda caqiidadeenna.",
+    "Saaxiib daacad ah oo afar lugood leh ayaa ku sugnaa albaabka meesha aan ku dhuumanaynay.",
+    "Ilaahay wuxuu na siiyay hurdo saddex boqol iyo sagaal sano ah.",
+    "Markii aan ugu dambeyntii soo toosnay, magaaladeennii hore ee la silcinayay ayaa iimaan qaadatay."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Yaan nahay?",
+      "options": [
+        "Ashab al-Kahf (Dadka Godka)",
+        "Ashab al-Fil (Ciidanka Maroodiga)",
+        "Asxaab al-Ukhdud (Saxaabada Godka)",
+        "Hawaaruun (Xertii Ciisaha)",
+        "Yajuuj wa Majuj (Yajuuj iyo Maajuuj)"
+      ],
+      "answer": "Ashab al-Kahf (Dadka Godka)"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Waxaan ku laabannay god oo aan qarniyo badan seexannay",
+        "Waxaa naga badbaadisay dab ololaya",
+        "Waxaa na liqay kalluun weyn",
+        "Waxaa nalagu imtixaamay hashii mucjiso ahayd",
+        "Waxaa naloo siiyay sagaal calaamadood oo cadcad"
+      ],
+      "answer": "Waxaan ku laabannay god oo aan qarniyo badan seexannay"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "God qoto dheer oo buuraha ku yaal",
+        "Doon badda furan saaran",
+        "Dhisme dhaadheer oo cirka gaaraya",
+        "Beer u kala qaybsan laba xafiiltan",
+        "Caqabad bir ah iyo naxaas ah"
+      ],
+      "answer": "God qoto dheer oo buuraha ku yaal"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Waxaan soo toosnay si aan u ogaano in magaaladeennu ay u leexatay iimaan",
+        "Dab ololaya ayaa noqday mid qabow oo nabdoon",
+        "Ciidan cadow ah ayaa badda ku qaraqmay",
+        "Shimbiraha dhagaxyada siday ayaa burburiyay cadawga",
+        "Kalluun weyn ayaa naga sii daayay xeebta"
+      ],
+      "answer": "Waxaan soo toosnay si aan u ogaano in magaaladeennu ay u leexatay iimaan"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

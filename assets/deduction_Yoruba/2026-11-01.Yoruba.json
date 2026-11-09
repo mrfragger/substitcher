@@ -1,0 +1,61 @@
+{
+  "title": "Ohùn Tí Ó Kọ̀ Láti Bọ̀ Sí Ìrẹ̀wẹ̀sì",
+  "intro": "Wọ ilé kan níbi tí àdánù bá tẹ̀lé àdánù, síbẹ̀ ohùn kan tó dákẹ́ kọ̀ láti sọ̀rètí nù. Ìpè kan ṣoṣo nínú Al-Quran sọ sùúrù di àkókò ìyípadà; ṣé o lè tọ́pasẹ̀ àmì ẹni tó wà lẹ́yìn ohùn yẹn?",
+  "clues": [
+    "Èmi ni ohùn sùúrù nínú ilé kan níbi tí àjálù ti dán ìbùkún wò.",
+    "Mo dúró sí ilé tí ó ti ṣófo nítorí pípadánù ọrọ̀ àti àwọn ọmọ.",
+    "Mo mọ̀ pé àìsàn náà ti kọlu alábàákẹ́gbẹ́ náà, ẹni tí ara rẹ̀ ń bàjẹ́.",
+    "Nígbà tí wàhálà náà le gan-an, mo ké pè é pẹ̀lú ìrántí Allāhu.",
+    "Mo fún ni ìkéde kan: Allah ni Òtítọ́, nítorí náà, máa ní sùúrù.",
+    "Mo pe Ayyub ní orúkọ rẹ̀; lẹ́yìn náà, Allah mú ìpọ́njú náà kúrò, ó sì dá ìdílé náà padà."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Iyawo Anabi Ayub",
+        "Iyawo Anabi Nuh",
+        "Iyawo Anabi Ibrahim",
+        "Iyawo Anabi Yaqub",
+        "Ọmọbìnrin Fáráò"
+      ],
+      "answer": "Iyawo Anabi Ayub"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Dídúró pẹ̀lú Ayyub nígbà àdánù àti àìsàn, lẹ́yìn náà kí a béèrè fún sùúrù",
+        "Ìkìlọ̀ fún ìránṣẹ́ òdodo kan láti fi àwùjọ oníwà ìbàjẹ́ sílẹ̀",
+        "Àdúrà fún ìbí ìran kan tí ń bọ̀",
+        "Ìtumọ̀ àlá nínú ọgbà ẹ̀wọ̀n ọba",
+        "Wíwá ọmọ tí a fi lé lọ́wọ́ lẹ́bàá odò kan"
+      ],
+      "answer": "Dídúró pẹ̀lú Ayyub nígbà àdánù àti àìsàn, lẹ́yìn náà kí a béèrè fún sùúrù"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ìkéde pé Allah ni Òtítọ́ àti sùúrù ni a nílò",
+        "Igi ọ̀pẹ kan lẹ́gbẹ̀ẹ́ orísun omi kan",
+        "Ipe lati kọ ọkọ oju omi kan ti o jinna si awọn igbi omi",
+        "Àlá ìràwọ̀ mọ́kànlá àti oòrùn tó ń yọ",
+        "Agbọ̀n kan tí a gbé lọ sí ẹ̀bá odò Náílì"
+      ],
+      "answer": "Ìkéde pé Allah ni Òtítọ́ àti sùúrù ni a nílò"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A mú ìrora Ayyub kúrò, a sì mú ìdílé rẹ̀ padà bọ̀ sípò",
+        "Wọ́n gba ọmọ kan tí wọ́n ti ń retí fún ìgbà pípẹ́ lẹ́yìn àdúrà àláìní",
+        "Ọ̀dọ́mọkùnrin alákòóso kan túmọ̀ ọdún méje ti ọrọ̀ àti àìtó",
+        "A gba ọmọ tí a fi sí ìkáwọ́ rẹ̀ là kúrò nínú omi tó ń ṣàn",
+        "Ìkìlọ̀ kan ṣáájú ìkún omi apanirun kan"
+      ],
+      "answer": "A mú ìrora Ayyub kúrò, a sì mú ìdílé rẹ̀ padà bọ̀ sípò"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

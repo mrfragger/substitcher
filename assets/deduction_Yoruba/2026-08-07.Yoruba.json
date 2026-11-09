@@ -1,0 +1,61 @@
+{
+  "title": "Ìgbàgbọ́ Lẹ́yìn Ìtẹ́",
+  "intro": "Kì í ṣe iná tàbí ìkún omi ni a fi ń dán àwọn ọkàn kan wò, bí kò ṣe nípa ìfúnpá díẹ̀díẹ̀ ti gbígbé nínú ààfin alákòóso kan. Ẹni yìí dúró lẹ́gbẹ̀ẹ́ alákòóso kan tí ó sọ pé òun ni Ọlọ́run lórí àwọn ènìyàn wọn, síbẹ̀ ó rọ̀ mọ́ ìgbàgbọ́ nínú Ọlọ́run Tòótọ́ Kan ṣoṣo ní ìkọ̀kọ̀. Nígbà tí a ṣàwárí ìfọkànsìn wọn, ìjìyà dé — ṣùgbọ́n ìlérí àtọ̀runwá náà tún wáyé. Ǹjẹ́ o lè mọ ẹni tí èyí jẹ́?",
+  "clues": [
+    "Mo ń gbé lábẹ́ òrùlé alákòóso tó lágbára jùlọ ní ilẹ̀ mi, níbi tí àwọn ènìyàn díẹ̀ lè rò pé mo wà.",
+    "Ọkọ mi dúró níwájú àwọn ènìyàn, ó sì pe ara rẹ̀ ní ọlọ́run — ṣùgbọ́n Olúwa Tòótọ́ Kanṣoṣo ni ọkàn mi.",
+    "Mo gbàdúrà ní ìkọ̀kọ̀, mo bẹ̀rù ìyà tí yóò dé bá gbogbo àwọn tó kọ̀ láti bá ọkọ tàbí aya mi lòpọ̀.",
+    "Nígbà tí wọ́n tú ìgbàgbọ́ mi fó, wọ́n gbá mi mú, wọ́n sì dá mi lóró — síbẹ̀ ahọ́n mi kò sọ ọ̀rọ̀ àìgbàgbọ́ kan rí.",
+    "Mo tú ọkàn mi jáde sí Olúwa mi, mo ń béèrè fún ilé kan ní Párádísè, tí ó jìnnà sí gbogbo ìwà búburú.",
+    "Èmi ni Asia bint Muzahim — ìyàwó Farao tí ó tako Musa àti Harun."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Asiya bint Muzahim (iyawo Farao)",
+        "Hawwa (Efa), obìnrin àkọ́kọ́",
+        "Sarah, ìyàwó àkọ́kọ́ Ibrahim",
+        "Hagari, ìyá Ismail",
+        "Ìyá Màrímà (ìyàwó Imran)"
+      ],
+      "answer": "Asiya bint Muzahim (iyawo Farao)"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Farada ìjìyà nítorí pé a kọ̀ láti kọ ìgbàgbọ́ wa sílẹ̀.",
+        "Líláàyè nínú ikùn ẹja ńlá kan",
+        "Kíkọ́ ọkọ̀ áàkì ńlá kan láti sá fún ìkún omi",
+        "Jíjẹ́ tí a jù sínú iná tí ń jó",
+        "Ní rírí ìpínyà òkun ńlá kan"
+      ],
+      "answer": "Farada ìjìyà nítorí pé a kọ̀ láti kọ ìgbàgbọ́ wa sílẹ̀."
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ilé tí wọ́n kọ́ fún wọn ní Párádísè",
+        "Ọ̀pá tí ó di ejò",
+        "Ọkọ̀ ayọ́kẹ́lẹ́ kan tí ó gbé àwọn ẹ̀dá méjì méjì-méjì",
+        "Ọmọ màlúù wúrà tí orílẹ̀-èdè kan ń jọ́sìn",
+        "Ọkọ̀ kan tí a fi ṣẹ́gun jagunjagun ńlá kan"
+      ],
+      "answer": "Ilé tí wọ́n kọ́ fún wọn ní Párádísè"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A fi ọlá fún un pẹ̀lú gbígbé ní Párádísè pẹ̀lú àwọn olódodo",
+        "Wọ́n rì sínú omi pẹ̀lú àwọn ọmọ ogun wọn",
+        "Ó jó nínú iná ṣùgbọ́n ó gbà á là nípasẹ̀ ìdásí àtọ̀runwá",
+        "Ẹ̀dá ńlá kan gbé e mì, lẹ́yìn náà ni wọ́n jù ú sí etíkun",
+        "Wọ́n di ẹni tó lọ́rọ̀ jùlọ ní àkókò wọn"
+      ],
+      "answer": "A fi ọlá fún un pẹ̀lú gbígbé ní Párádísè pẹ̀lú àwọn olódodo"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

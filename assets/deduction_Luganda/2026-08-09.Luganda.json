@@ -1,0 +1,61 @@
+{
+  "title": "Eddoboozi ery’amazima ery’Edda",
+  "intro": "Waliwo emmeeme mu Quran ng’emboozi yaayo eyogerwa mu aya ntono zokka, naye ate engeri zaabwe ez’ekitiibwa ziyakaayakana n’obutangaavu obw’amaanyi. Atenderezebwa Omuyinza w’ebintu byonna olw’empisa ennungi ey’enjawulo, omuweereza ono ow’edda ow’Omusaasizi ennyo alina ekifo mu mpapula z’okubikkulirwa. Omulimu gwo kwe kuzuula omuwendo guno ogw’ekitalo. Osobola okuteebereza ani gwe bali?",
+  "clues": [
+    "Ndi nnabbi wa Allah eyabeera mu milembe egy’obuntu egyasooka.",
+    "Allah yanjogerako mu kitabo kye ne bannabbi abalala, bonna nga batenderezebwa olw’empisa ennungi emu ey’ekitiibwa.",
+    "Nze njogerwako ng’omusajja ow’amazima mu Quran.",
+    "Allah yansitula ku siteegi eya waggulu abalala batono gye batuuseeko.",
+    "Erinnya lyange lyogerwako mu Surah Al-Anbiya, nga likuŋŋaanyiziddwa ne bannabbi abalala babiri abatenderezebwa olw’obugumiikiriza bwabwe.",
+    "Nze Idris, nnabbi ow’amazima era omugulumivu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Nabbi Idris",
+        "Nabbi Nuh",
+        "Nabbi Ibrahim",
+        "Nabbi Musa",
+        "Nabbi Ismail"
+      ],
+      "answer": "Nabbi Idris"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okukuuma obugumiikiriza n’amazima, olwo n’asitulwa okutuuka ku siteegi eya waggulu",
+        "Okuzimba eryato ennene okutaasa abakkiriza okuva mu mataba agasaanyaawo",
+        "Okusuulibwa mu muliro ogwaka n’avaayo nga tofunye buzibu bwonna",
+        "Okusisinkana kabaka ow’amaanyi n’okuwangula eggye lye ery’abalogo",
+        "Okuwona munda mu lubuto lw’ekyennyanja ekinene mu buziba bw’ennyanja"
+      ],
+      "answer": "Okukuuma obugumiikiriza n’amazima, olwo n’asitulwa okutuuka ku siteegi eya waggulu"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Ekifo ekigulumivu era ekigulumivu Allah",
+        "Emmeeri ennene ennyo eyazimbibwa okuva mu bibaawo era ng’esimbiddwako kolaasi",
+        "Omuliro ogw’amaanyi ogwayokebwa abasinza ebifaananyi ba kabaka omubi",
+        "Ennyanja ennene ennyo eyayawukana mu makubo amakalu",
+        "Olubuto oluddugavu olw’ennyanja ekika kya whale ennene wansi mu nnyanja"
+      ],
+      "answer": "Ekifo ekigulumivu era ekigulumivu Allah"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yayingizibwa mu kusaasira kwa Allah ng’omu ku batuukirivu",
+        "Yalokoka wamu n’abakkiriza bonna okuva mu mataba mu nsi yonna",
+        "Yatambula okuva mu nnimi z’omuliro nga takwatibwako muliro",
+        "Yakulembera Abaana ba Isiraeri nga tebalina mirembe mu ddembe emitala w’ennyanja",
+        "Bazzeemu okukwatagana n’ab’omu maka gaabwe abaagala ennyo oluvannyuma lw’emyaka mingi egy’obuzibu"
+      ],
+      "answer": "Yayingizibwa mu kusaasira kwa Allah ng’omu ku batuukirivu"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

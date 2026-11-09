@@ -1,0 +1,61 @@
+{
+  "title": "Echo Nipasẹ Awọn Okuta",
+  "intro": "Fojú inú wo àfonífojì kan níbi tí wọ́n ti ń gbẹ́ ilé láti orí àpáta, tí afẹ́fẹ́ sì ń gbé ìrántí ìkìlọ̀ tí wọn kò gbọ́. Àwọn ènìyàn kan wà níbí nígbà kan rí, wọ́n ní ìbùkún ṣùgbọ́n wọ́n jẹ́ aláìgbọràn, títí tí àmì kan fi yọ jáde láti inú àpáta tí wọ́n gbẹ́kẹ̀lé gan-an.",
+  "clues": [
+    "A jẹ́ àwọn ènìyàn tí wọ́n gbẹ́ ilé ààbò láti orí àwọn òkè ńlá, tí wọ́n sì nímọ̀lára ààbò ní àwọn ilé àpáta wa.",
+    "A gbé ní ilẹ̀ pẹ̀tẹ́lẹ̀ àti òkúta, tí a fi ọgbà àti ìsun omi bùkún fún.",
+    "Ojiṣẹ kan lati inu wa wa, o si pe wa lati fi awọn oriṣa eke wa silẹ ki a si sin Ẹlẹda otitọ kanṣoṣo naa.",
+    "A fi ìgbéraga gbé àdéhùn kalẹ̀ fún ìgbàgbọ́: àmì àrà ọ̀tọ̀ kan tí yóò yọ jáde láti inú àwọn àpáta tí a gbẹ́ gan-an.",
+    "Nígbà tí abo ràkúnmí tí a ṣèlérí náà farahàn láti orí àpáta, àmì tí ó hàn gbangba, àwọn ọ̀mọ̀wé wa ṣì kọ̀, wọ́n sì gún un pa láìka ìkìlọ̀ nípa ìparun tí ń bọ̀ wá sí.",
+    "Ọjọ́ mẹ́ta lẹ́yìn ìṣẹ̀lẹ̀ wa, ìró ààrá kan dún ní àfonífojì náà, a sì di àwókù tí ó wó lulẹ̀, ilé wa sì di ibojì wa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni àwa?",
+      "options": [
+        "Àwọn Ènìyàn Ad",
+        "Àwọn ará Thamuud",
+        "Àwọn ènìyàn Madyan",
+        "Àwọn ènìyàn ìlú náà",
+        "Àwọn Ènìyàn Ihò Àpáta"
+      ],
+      "answer": "Àwọn ará Thamuud"
+    },
+    "trial": {
+      "label": "Ìdánwò wa/Ìṣẹ̀lẹ̀ pàtàkì",
+      "options": [
+        "Ìpakúpa abo ràkúnmí Allah",
+        "Ìjọsìn ọmọ màlúù wúrà",
+        "Rírú ọjọ́ ìsinmi",
+        "Kíkọ́ ilé gogoro kan sí ojú ọ̀run",
+        "Pípa àwọn wòlíì"
+      ],
+      "answer": "Ìpakúpa abo ràkúnmí Allah"
+    },
+    "location": {
+      "label": "Kókó pàtàkì nínú ìtàn wa",
+      "options": [
+        "Rakunmi Allah",
+        "Àwọn òṣìṣẹ́ Mósè",
+        "Ọkọ̀ Nóà",
+        "Ọwọ́ funfun ti Mose",
+        "Ẹyẹ ¿Isá"
+      ],
+      "answer": "Rakunmi Allah"
+    },
+    "outcome": {
+      "label": "Àbájáde Wa",
+      "options": [
+        "Ìparun nípasẹ̀ ìbúgbàù líle kan",
+        "Òjò òkúta láti ojú ọ̀run",
+        "Ìkún omi tó bo ilẹ̀ ayé",
+        "Afẹ́fẹ́ líle tó fà wá tu",
+        "Ilẹ̀ gbé wa mì"
+      ],
+      "answer": "Ìparun nípasẹ̀ ìbúgbàù líle kan"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Vafambi Vemunda Wemiti Yakasvibira",
+  "intro": "Kare kare, vanhu vaviri vaichengeta nyika dziri pedyo. Nzira dzavo dzaive dzakabatana, asi mwoyo yavo yaivatungamirira kunzvimbo dzakasiyana zvikuru. Mumwe aifamba nenzira yakatwasuka, mumwe akapinda murima rekuramba. Unogona here kutsanangura chakavanzika chevaviri ava vanochengeta goho?",
+  "clues": [
+    "Ndaiva nezvirimwa zvakawanda, goho rakanaka raishamisa maziso evaoni.",
+    "Muvakidzani wangu aive nezvakawanda kupfuura ini, asi ndaishuva mugove wavo kupfuura wangu.",
+    "Ndakakurudzira kuti tiparadze zvirimwa zvavo zvachose, kuti tisimbise zvese zviri pasi pangu.",
+    "Ndakaparadzawo goho rangu, ndichiparadza zvese zvandaironga.",
+    "Ndakamira ndisina simba sezvo zvirimwa zvangu zvaioma uye pfuma yangu yakabva yava guruva muusiku humwe chete.",
+    "Handina mugove muhupenyu hweramangwana, uye nzvimbo yangu yekupedzisira yakava gomba remoto unopfuta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Murume akaramba kumuka kwevakafa nekutongwa",
+        "Mutongi akadzvinyirira murimi akarurama",
+        "Muridzi wemunda mupfumi asina kutenda",
+        "Murimi aishuva ivhu remuvakidzani wake",
+        "Shamwari inonyengera yakaronga kuparadza"
+      ],
+      "answer": "Murimi aishuva ivhu remuvakidzani wake"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Muedzo wekugamuchira zvakazarurwa naMwari",
+        "Dambudziko repfuma nemwoyo murefu",
+        "Muedzo wekuparadza raramo yemunhu akarurama",
+        "Murairo wekugovanisa nhaka zvakanaka",
+        "Kurwisana nekudzvinyirirwa kwemudzvinyiriri"
+      ],
+      "answer": "Muedzo wekuparadza raramo yemunhu akarurama"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Minda yeparadhiso yakasvibira",
+        "Minda miviri yezvirimwa iri pedyo",
+        "Makomo akaona kuparadzwa",
+        "Nzvimbo tsvene yeMakkah",
+        "Mahombekombe erwizi enyika yakaropafadzwa"
+      ],
+      "answer": "Minda miviri yezvirimwa iri pedyo"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Paradhiso isingaperi semubairo wekururama",
+        "Kuparadzwa kwakakwana kwezvirimwa zvose muhupenyu huno",
+        "Kudzingwa uye kudzungaira kusvika pakufa",
+        "Kubudirira kwenguva pfupi kunoteverwa nemoto usingaperi",
+        "Kudzorerwa kunoshamisa uye mubairo wakapetwa kaviri"
+      ],
+      "answer": "Kuparadzwa kwakakwana kwezvirimwa zvose muhupenyu huno"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Heestii Dhaqaajisay Buuraha",
+  "intro": "Waxaad ku dhowdahay inaad daaha ka rogto sheekada addoon Alle oo cajiib ah. Dhul ay ku nool yihiin rasuullo iyo taliyayaal, qofkan waxaa lagu barakeeyay kitaab rabbaani ah, cod xoog leh, iyo xoog bir ah. Markaad akhrido tilmaamaha, ma aqoonsan kartaa cidda uu noqon karo kan?",
+  "clues": [
+    "Waxaan ahaa addoon Alle oo la siiyay buug gaar ah.",
+    "Cod qurux badan ayaan lahaa, ammaantayduna aad bay ii jeclayd oo xitaa buuraha iyo shimbiraha ayaa igu soo biiray.",
+    "Waxaan la kulmay qof aad u adag dagaal caan ah, inkastoo aan ka yaraa, haddana waan ka adkaaday.",
+    "Birta ayaa ii fududayd, taasoo ii saamaxday inaan gacmahayga ku farsameeyo hubka.",
+    "Waxaa la ii magacaabay taliye qaran weyn, xigmaddayda garsoorkana waa la caan baxay.",
+    "Wiilkayga, oo sidoo kale nebi ahaa, ayaa la siiyay maamulka dabaysha iyo jinka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Daa'uud (Daa'uud)",
+        "Nabi Suleymaan (Suleymaan)",
+        "Nabi Muuse (Nabi Muuse)",
+        "Nabi Haaruun (Haaruun)",
+        "Nabi Ilyaas (Eliyaas)"
+      ],
+      "answer": "Nabi Daa'uud (Daa'uud)"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Goli'ad la jabiyay (Jalut)",
+        "Badda ayay qaybisay",
+        "Ka badbaaday nibiriga",
+        "Waxaa lagu tuuray dab",
+        "Dhisay Doontii"
+      ],
+      "answer": "Goli'ad la jabiyay (Jalut)"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Sabuurradii (Sabuurradii)",
+        "Tawraad (Tawraad)",
+        "Injiil (Injiil)",
+        "Dukumentiyada Ibraahim",
+        "Qur'aanka"
+      ],
+      "answer": "Sabuurradii (Sabuurradii)"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Wuxuu noqday nebi iyo boqor reer binu Israa'iil ah",
+        "Wuxuu noqday taliyaha Masar",
+        "Waxaa loo qaaday samada",
+        "Waxaa burburiyay duufaan",
+        "Wuxuu noqday saaxiibka godka"
+      ],
+      "answer": "Wuxuu noqday nebi iyo boqor reer binu Israa'iil ah"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

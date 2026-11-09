@@ -1,0 +1,61 @@
+{
+  "title": "Ẹni tí a yàn ní Àkótán",
+  "intro": "Nínú òjìji òkè kan níbi tí ọ̀rọ̀ àtọ̀runwá ti sọ̀kalẹ̀, ìgbàgbọ́ àwọn ènìyàn kan mì tìtì lábẹ́ ìmọ́lẹ̀ wúrà. Ọkàn kan, tí ó ní ẹ̀bùn ọ̀rọ̀ sísọ, dúró gẹ́gẹ́ bí ìtìlẹ́yìn fún iṣẹ́ àkànṣe ńlá kan, síbẹ̀ ó dojúkọ àkókò ìdánwò ńlá kan. Nígbà tí ìránṣẹ́ tí a yàn gòkè lọ sí ìpàdé mímọ́ kan, ẹni yìí dúró sẹ́yìn, ó ń bẹ̀ orílẹ̀-èdè tí kò ní ìdákẹ́jẹ́ẹ́. Ta ni ọkàn tí ó dúró ṣinṣin yìí tí ohùn rẹ̀ dìde lòdì sí ìbọ̀rìṣà?",
+  "clues": [
+    "Allah yan mi lati jẹ wolii, botilẹjẹpe itan mi nigbagbogbo ni a sọ pẹlu miiran.",
+    "Wọ́n rán mi lọ sí ọ̀dọ̀ aláṣẹ oníwà ipá kan, ṣùgbọ́n iṣẹ́ mi ni láti ṣètìlẹ́yìn, kì í ṣe láti darí.",
+    "Mo ní ẹ̀bùn ọ̀rọ̀ sísọ, àwọn ọ̀rọ̀ mi sì jẹ́ láti mú ọkàn rọ̀.",
+    "Nígbà tí alábàákẹ́gbẹ́ mi lọ sí ìpàdé mímọ́ kan, mo fi sílẹ̀ láti darí àwọn ènìyàn tí wọ́n ní ìdààmú ọkàn.",
+    "Nínú àìnísùúrù wọn, wọ́n ṣe àwòrán kan láti inú ohun ọ̀ṣọ́ wọn, mo sì bẹ̀ wọ́n pé kí wọ́n dúró ṣinṣin sí Allah.",
+    "Ẹgbẹ́ mi padà wá, ó sì gbá mi mú, ṣùgbọ́n mo ṣàlàyé pé àwọn ènìyàn náà lágbára ju mi ​​lọ, wọ́n sì fẹ́rẹ̀ẹ́ pa mí; mi ò sí lára ​​àwọn aláìṣòótọ́."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Mósà",
+        "Wòlíì Hárún",
+        "Wòlíì Ísà",
+        "Wòlíì Yahya",
+        "Wòlíì Sakariya"
+      ],
+      "answer": "Wòlíì Hárún"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Jíjẹ́ tí a jù sínú iná",
+        "Jíjẹ́ ẹni tí a jù sínú kànga kan",
+        "Kíkojú ìṣẹ̀lẹ̀ ọmọ màlúù wúrà",
+        "Idanwo ti aisan to le koko",
+        "Ìdánwò pípàdánù ọrọ̀ àti àwọn ọmọ"
+      ],
+      "answer": "Kíkojú ìṣẹ̀lẹ̀ ọmọ màlúù wúrà"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ọmọ màlúù wúrà",
+        "Àwọn òṣìṣẹ́ náà",
+        "Àpótí Májẹ̀mú",
+        "Àwọn tábìlẹ́ẹ̀tì náà",
+        "Igbó tí ń jó náà"
+      ],
+      "answer": "Ọmọ màlúù wúrà"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Wọ́n fìyà jẹ ẹ́ gidigidi",
+        "A dáríjì wọ́n, a sì dáríjì wọ́n",
+        "Ṣe ọba kan",
+        "Gbé e lọ sí ọ̀run",
+        "A ti fun wa ni iwe mimọ tuntun"
+      ],
+      "answer": "A dáríjì wọ́n, a sì dáríjì wọ́n"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

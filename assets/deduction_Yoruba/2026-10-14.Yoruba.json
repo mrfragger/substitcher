@@ -1,0 +1,61 @@
+{
+  "title": "Àwọn Tí A Ti Yí Májẹ̀mú Kúrò",
+  "intro": "Ní ìgbà àkọ́kọ́ àwùjọ tuntun kan, ẹ̀yà kan máa ń gbé ní àwọn ilé olódi kan rí, tí wọ́n sì so mọ́ àdéhùn kan. Nígbà tí wọ́n da àdéhùn náà, àbájáde rẹ̀ farahàn ní ojú ìwé Al-Quran. Ta ni àwọn ènìyàn wọ̀nyí, kí ló sì ṣẹlẹ̀ sí ilé àti ọgbà wọn?",
+  "clues": [
+    "A gbé ní àwọn ibi ààbò tí ó fún wa ní ìmọ̀lára àìtọ́ nípa ààbò.",
+    "Àwa jẹ́ ènìyàn Ìwé Mímọ́, síbẹ̀ a ba májẹ̀mú wa jẹ́.",
+    "A dìtẹ̀ sí ìránṣẹ́ náà lẹ́yìn tí ó dé ọ̀dọ̀ wa, ṣùgbọ́n ète wa kùnà.",
+    "A fi àṣẹ Allah gé igi ọ̀pẹ wa lulẹ̀, àmì agbára Rẹ̀.",
+    "Wọ́n lé wa kúrò nílé wa, a kò sì padà sílé mọ́, gẹ́gẹ́ bí ìyà fún àìgbọràn wa.",
+    "Al-Quran mẹ́nu ba wa nínú orí ìpéjọpọ̀ náà, ìtàn wa sì jẹ́ ìkìlọ̀ fún àwọn tó bá rú àdéhùn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Banu Nadir",
+        "Banu Qurayza",
+        "Banu Qaynuqa",
+        "Àwọn ènìyàn Madiani",
+        "Àwọn ènìyàn Támúdì"
+      ],
+      "answer": "Banu Nadir"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ìdótì àti ìlékúrò kúrò ní ilé wọn",
+        "Rírì sínú omi",
+        "Ilẹ̀ gbé mì",
+        "Ìparun nípasẹ̀ ìjì",
+        "Dídi ẹni tí a yípadà sí ọ̀bọ"
+      ],
+      "answer": "Ìdótì àti ìlékúrò kúrò ní ilé wọn"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Àwọn igi ọ̀pẹ tí a gé",
+        "Àwọn òṣìṣẹ́ náà",
+        "Àpótí náà",
+        "Kànga omi",
+        "Ihò náà"
+      ],
+      "answer": "Àwọn igi ọ̀pẹ tí a gé"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Wọ́n kó wọn lọ sí ìgbèkùn, wọ́n sì gba dúkìá wọn",
+        "Ó padà dé pẹ̀lú ìṣẹ́gun",
+        "Wọ́n dáríjì wọ́n sì wà níbẹ̀",
+        "Wọ inú párádísè lẹ́sẹ̀kẹsẹ̀",
+        "Àjàkálẹ̀ àrùn kọlu wa"
+      ],
+      "answer": "Wọ́n kó wọn lọ sí ìgbèkùn, wọ́n sì gba dúkìá wọn"
+    }
+  },
+  "verseRef": "59:5",
+  "arabic": "مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَـٰسِقِينَ",
+  "verse": "Whatever you have cut down of [their] palm trees or left standing on their trunks - it was by permission of Allāh and so He would disgrace the defiantly disobedient. (59:5)"
+}

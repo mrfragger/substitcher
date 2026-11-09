@@ -1,0 +1,61 @@
+{
+  "title": "Bɔhyɛ Bi a Wɔkae Wɔ Embers So",
+  "intro": "Wogyina sare so ogya bi nkyɛn bere a wɔde ahwɛyiye trɛw ne gyaframa mu no. Nsrahwɛfo ba hɔ bɛhyiam wɔ kommyɛ no mu, na nkrasɛm biako bue bɔhyɛ, ahodwiriw, ne daakye a ennya mmaa mu ho asɛm bi ano.",
+  "clues": [
+    "Yetwaa akyirikyiri no koduu akoa nokwafo bi nkyɛn wɔ sare so.",
+    "Yɛsrɛɛ sɛ wɔntrɛw ogyaframa mu mfa nsiesie ogya.",
+    "Yɛne obi a ɔfrɛɛ ogyaframa sɛ onwini ne ahobammɔ kasae.",
+    "Yɛde abofra a wɔawo no foforo ho amanneɛbɔ brɛɛ obi a wadi mfe a atwam sɛ ɔbɛwo mma.",
+    "Yɛtoo abofra a yɛhyɛɛ no ​​bɔ no din Isak.",
+    "Yɛde ɔbabarima bi ho asɛm a ɛyɛ anigye brɛɛ Ibrahim, na asɛm a ɛyɛ nwonwa no maa Ibrahim serewee."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Abɔfoɔ a Wɔde Isak ho asɛmpa brɛɛ Ibrahim",
+        "Abɔfoɔ a Wɔbɔɔ Lut Kɔkɔbɔ",
+        "Abɔfo a Wɔkura Ahengua",
+        "Hell Abɔfo no",
+        "Abɔfo a Wɔsomaa Wɔn kɔɔ Noa nkyɛn no"
+      ],
+      "answer": "Abɔfoɔ a Wɔde Isak ho asɛmpa brɛɛ Ibrahim"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Isak awo ho asɛmpa a ɔde rebrɛ Ibrahim",
+        "Lut kɔkɔbɔ ansa na wɔretwe ne nkurɔfoɔ aso",
+        "Yahya awoɔ ho amanneɛbɔ a ɔde rema Zakariyya",
+        "Ahengua a wɔsoa wɔ Atemmu Da no",
+        "Ɔrebɔ Isa awo ho amanneɛ akyerɛ Maryam"
+      ],
+      "answer": "Isak awo ho asɛmpa a ɔde rebrɛ Ibrahim"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Ogya a wɔde ogya a wɔatrɛw mu asiesie",
+        "Adaka bi a ɛrehuruhuruw wɔ nsuyiri nsu so",
+        "Ɔbodan bi a wɔde ɔbo a ɛrehuruhuruw asɔ ano",
+        "Dɔte bepɔw a nsu a ɛyɛ nkyene ayɛ den",
+        "Antweri a ɛtrɛw kɔ wim"
+      ],
+      "answer": "Ogya a wɔde ogya a wɔatrɛw mu asiesie"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Anigyesɛm a ɛfa ɔbabarima bi a wɔfrɛ no Isak ho",
+        "Anigyesɛm a ɛfa ɔbabarima bi a wɔfrɛ no Yahya ho",
+        "Talut a wɔpaw no sɛ sodifo wɔ Israel Mma so",
+        "Kɔkɔbɔ bi ansa na wɔretwe Lut nkurɔfoɔ aso",
+        "Ahyɛde a ɛne sɛ wɔnyɛ adaka ansa na Nsuyiri no aba"
+      ],
+      "answer": "Anigyesɛm a ɛfa ɔbabarima bi a wɔfrɛ no Isak ho"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

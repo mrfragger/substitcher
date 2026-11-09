@@ -1,0 +1,61 @@
+{
+  "title": "Ìdè kan tí a tún kọ nípasẹ̀ Ìfihàn",
+  "intro": "Fojú inú wo ara rẹ gẹ́gẹ́ bí ẹni pàtàkì kan tí a fi lé ọ lọ́wọ́, lẹ́yìn náà o dojúkọ àṣẹ kan tí ó fòpin sí ìdè náà nítorí ìgbọ́ràn. Ìfihàn kan yí gbogbo ilé kan padà, orúkọ tí ó wà ní àárín àṣẹ náà kò sì jẹ́ èyí tí a ń pè ní orúkọ náà.",
+  "clues": [
+    "Mo dúró níbi tí ìdúróṣinṣin ara ẹni gbọ́dọ̀ jẹ́ kí a gbọ́ràn sí Ọlọ́run.",
+    "Wọ́n mọ̀ mí ní ilé Messenger gẹ́gẹ́ bí ọmọ tí wọ́n gbà.",
+    "Mo kọ́ pé ìgbéyàwó mi di kókó ìṣípayá tí a fi ránṣẹ́ sí Ojiṣẹ́ Allah.",
+    "Mo gbọ́ ọ̀rọ̀ náà, ‘Pa ìyàwó rẹ mọ́ kí o sì bẹ̀rù Allah,’ tí a tọ́ka sí mi.",
+    "Lẹ́yìn náà ni mo kọ́ pé Allah pàṣẹ fún Ojiṣẹ Allah láti kọ àwọn ìyàwó kan sílẹ̀, ìgbéyàwó mi fúnra mi sì gbọ́dọ̀ parí lábẹ́ àṣẹ yẹn.",
+    "Emi ni Zayd ibn Harithah, ọmọ ti a gba sọmọ ni Surah Al-Ahzb."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Zayd ibn Harithah",
+        "Wòlíì Hárún",
+        "Wòlíì Yahya",
+        "Áńgẹ́lì Ikú",
+        "Àwọn Arákùnrin Yusufu"
+      ],
+      "answer": "Zayd ibn Harithah"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Wọ́n ní kí ó máa tọ́jú ìyàwó rẹ̀, lẹ́yìn náà kí ó kọ̀ ọ́ sílẹ̀",
+        "Jíjẹ́ tí ẹja ńlá gbé mì",
+        "Jíjẹ́ tí a jù sínú iná ìléru",
+        "Sísùn nínú ihò àpáta fún ọ̀pọ̀ ọ̀rúndún",
+        "Koju ejò pẹlu ọpá kan"
+      ],
+      "answer": "Wọ́n ní kí ó máa tọ́jú ìyàwó rẹ̀, lẹ́yìn náà kí ó kọ̀ ọ́ sílẹ̀"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Àwọn ará ilé Òjíṣẹ́ Àlláh",
+        "Ààfin Farao ní Íjíbítì",
+        "Ihò àwọn alábàákẹ́gbẹ́ tí wọ́n ń sùn",
+        "Ọgbà àwọn ẹlẹgbẹ́ méjì tó gbàgbọ́",
+        "Ààfin olódi ti Qarun"
+      ],
+      "answer": "Àwọn ará ilé Òjíṣẹ́ Àlláh"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ó tẹ̀lé àṣẹ náà, ó kọ ìyàwó rẹ̀ sílẹ̀, ìgbéyàwó náà sì túká",
+        "Wọ́n gbà á sílẹ̀ láìfarapa nínú iná ìléru",
+        "Wọ́n gbà á sílẹ̀ lẹ́yìn tí ẹja ńlá kan gbé e mì",
+        "Wọ́n fún un ní ọgbà kan pẹ̀lú orísun omi méjì",
+        "Wọ́n fún un ní àṣẹ lórí ìlà-oòrùn àti ìwọ̀-oòrùn"
+      ],
+      "answer": "Ó tẹ̀lé àṣẹ náà, ó kọ ìyàwó rẹ̀ sílẹ̀, ìgbéyàwó náà sì túká"
+    }
+  },
+  "verseRef": "33:37",
+  "arabic": "وَإِذْ تَقُولُ لِلَّذِىٓ أَنْعَمَ ٱللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَٱتَّقِ ٱللَّهَ وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ أَن تَخْشَىٰهُ ۖ فَلَمَّا قَضَىٰ زَيْدٌۭ مِّنْهَا وَطَرًۭا زَوَّجْنَـٰكَهَا لِكَىْ لَا يَكُونَ عَلَى ٱلْمُؤْمِنِينَ حَرَجٌۭ فِىٓ أَزْوَٰجِ أَدْعِيَآئِهِمْ إِذَا قَضَوْا۟ مِنْهُنَّ وَطَرًۭا ۚ وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًۭا",
+  "verse": "And [remember, O Muḥammad], when you said to the one on whom Allāh bestowed favor and you bestowed favor, \"Keep your wife and fear Allāh,\" while you concealed within yourself that which Allāh is to disclose. And you feared the people, while Allāh has more right that you fear Him. So when Zayd had no longer any need for her, We married her to you in order that there not be upon the believers any discomfort [i.e., guilt] concerning the wives of their claimed [i.e., adopted] sons when they no longer have need of them. And ever is the command [i.e., decree] of Allāh accomplished. (33:37)"
+}

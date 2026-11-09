@@ -1,0 +1,61 @@
+{
+  "title": "Okugondera Omufuzi Omukulu",
+  "intro": "Weesanga mu nsi ey’ebyewuunyo eby’edda n’okubikkulirwa okw’amaanyi. Omufuzi ow’amaanyi, ng’ayolekedde okuyitibwa kwe yali tasuubira, yatandika olugendo olwali lugenda okukyusa ekkubo ly’enkomerero ye n’okukkiriza kw’abantu be. Osobola okuzuula omuntu ono ow’ekitiibwa?",
+  "clues": [
+    "Nnafuga obwakabaka obugaggawala, nga buyooyooteddwa n’obugagga obw’ekitalo n’entebe ey’obwakabaka ey’ekitalo.",
+    "Nze n’abantu bange twasinzanga omubiri ogw’omu ggulu, nga tukkiriza nti gwe mukama waffe, wadde nga nnali nkuumye okubuusabuusa mu mutima gwange.",
+    "Omubaka ow’enjawulo, ekinyonyi, yantuusa ebbaluwa, ng’eyita n’abantu bange okugondera Katonda Omu.",
+    "Nneebuuza ku bawabuzi bange, abaali ab’amaanyi mu maanyi, ku ngeri y’okuddamu obubaka buno obutabangawo.",
+    "Nasalawo okuweereza ekirabo eky’omuwendo eri oyo eyaweereza ebbaluwa, nga nsuubira okupima amaanyi ge n’ebigendererwa bye.",
+    "Nga ntuuse, neewuunya olubiri olwali wansi nga lukoleddwa mu ndabirwamu, nga lulabika ng’ekidiba ky’amazzi, era awo we nnalangirira okugondera kwange eri Mukama w’ebitonde byonna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Falaawo",
+        "Nnabagereka wa Seeba",
+        "Dhu al-Qarnayn, omuwandiisi w’ebitabo",
+        "Luqman",
+        "Nabbi Yusuf"
+      ],
+      "answer": "Nnabagereka wa Seeba"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okukutuka kw’ennyanja",
+        "Amataba amanene",
+        "Olugendo lw'okusisinkana Nabbi Sulayman",
+        "Okuzikirizibwa kw’abantu ba Lut",
+        "Okwokya Nabbi Ibrahim"
+      ],
+      "answer": "Olugendo lw'okusisinkana Nabbi Sulayman"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Essanduuko",
+        "Abakozi",
+        "Nnamulondo",
+        "Olusozi",
+        "Omuliro"
+      ],
+      "answer": "Nnamulondo"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yafuuka nnabbi",
+        "Yazikirizibwa Allah",
+        "Yakkiriza Obusiraamu",
+        "Yakulembera abantu be okugenda mu lutalo",
+        "Yazimba yeekaalu ennene"
+      ],
+      "answer": "Yakkiriza Obusiraamu"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

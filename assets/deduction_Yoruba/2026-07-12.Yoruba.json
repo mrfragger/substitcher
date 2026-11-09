@@ -1,0 +1,61 @@
+{
+  "title": "Ìlú Ọlá Ńlá Tí Kò Lágbára Jù Tí Ó Sọnù",
+  "intro": "Àṣà àgbáyé alágbára kan ti jọba lórí àwọn ibi gíga ayé nígbà kan rí, tí a mọ̀ fún àwọn ilé gíga tí ó gùn dé ojú ọ̀run. Síbẹ̀ lábẹ́ ọlá ńlá yìí, ìkọ̀sílẹ̀ líle kan bẹ̀rẹ̀ sí í pọ̀ sí i — àìgbọ́ràn sí ìkìlọ̀ àtọ̀runwá tí a rán láti inú àwùjọ fúnra rẹ̀. Ìgbéraga àti ìgbéraga yóò fa ìyà tí ó jọ èyí tí ilẹ̀ tàbí ọ̀run kò tíì rí rí.",
+  "clues": [
+    "A ti jọba lórí àwọn ibi tó gbòòrò ní ayé rí, a sì ń fọ́nnu nípa agbára tí a gbàgbọ́ pé kò sí àṣà ìbílẹ̀ mìíràn tó lè dọ́gba.",
+    "Ìjọba wa lókìkí fún àwọn ilé gíga pẹ̀lú àwọn òpó ńláńlá tí ó dúró láìsí àfiwé ní ​​gbogbo ilẹ̀ tí a mọ̀.",
+    "Akilọ kan lati inu awujọ wa gan-an dide, o si rọ olukuluku wa lati tẹriba fun Ẹlẹda Kanṣoṣo nikan.",
+    "A sẹ́ ìhìn tí a fi ránṣẹ́ sí wa, a sì kọ̀ láti fi ọ̀nà tí a jogún sílẹ̀.",
+    "Afẹ́fẹ́ líle kan tó ń gbóná janjan kan tú sí wa, ó sì fi wá sílẹ̀ láìsí ààbò rárá.",
+    "A fi wa silẹ bi igi ọpẹ ti o ni ihò, ti a fọ́nká tí a sì gbàgbé, gẹ́gẹ́ bí ẹ̀kọ́ fún gbogbo ìran lẹ́yìn náà."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Àwọn ènìyàn A'd",
+        "Àwọn ènìyàn Nóà",
+        "Àwọn ènìyàn Lúùtù",
+        "Àwọn ènìyàn Madiani",
+        "Àwọn ènìyàn Tubba'"
+      ],
+      "answer": "Àwọn ènìyàn A'd"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Afẹ́fẹ́ líle tí kò dáwọ́ dúró ti ìyà líle",
+        "Ìkún omi tó bo gbogbo òkè ńláńlá",
+        "Òjò àwọn òkúta amọ̀ tí ń jó láti òkè",
+        "Igbe kan ṣoṣo tó bani lẹ́rù láti ọ̀run",
+        "Ilẹ̀ ìsẹ̀lẹ̀ líle kan tó pín ilẹ̀ náà sí méjì"
+      ],
+      "answer": "Afẹ́fẹ́ líle tí kò dáwọ́ dúró ti ìyà líle"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Iramu, ìlú àwọn òpó gíga",
+        "Ọkọ̀ gàǹgà ńlá kan tí a fi igi ṣe sórí òkè ńlá kan",
+        "Abo ràkúnmí kan tó jáde láti inú òkúta lọ́nà ìyanu",
+        "Òkè Sinai níbi tí àwọn àṣẹ Ọlọ́run ti sọ̀kalẹ̀",
+        "Ààfin tí a fi kristali àti dígí ṣe tí ó ń wo omi tí ń ṣàn"
+      ],
+      "answer": "Iramu, ìlú àwọn òpó gíga"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A fi wọ́n sílẹ̀ bí igi ọ̀pẹ tí ó fọ́nká tí kò sì ní ẹ̀mí",
+        "Ó rì mọ́lẹ̀ lábẹ́ ìgbì omi ńlá tó ń gbilẹ̀",
+        "A yípadà sí ẹ̀dá tí ó dàbí ọ̀bọ àti ẹlẹ́dẹ̀",
+        "Òjò àwọn òkúta amọ̀ líle rọ̀ rọ̀ ọ́",
+        "Ó jẹ mí ní igbe kan ṣoṣo tó ń dún bí ẹni pé ó gún ọkàn."
+      ],
+      "answer": "A fi wọ́n sílẹ̀ bí igi ọ̀pẹ tí ó fọ́nká tí kò sì ní ẹ̀mí"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

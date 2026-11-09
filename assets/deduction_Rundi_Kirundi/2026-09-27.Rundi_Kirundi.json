@@ -1,0 +1,61 @@
+{
+  "title": "Itongo ryazimiye mw'ijoro rimwe",
+  "intro": "Iyumvire ubusitani buteye igomwe, burengewe n’ivyamwa bihimba kandi bukikujwe n’ibiti biteye igomwe. Abayibungabunga biyumvira ko ari abanyabwenge, bagategura umwimbu wabo mu masaha y’agacerere imbere y’uko umuseke ugira, kure y’amaso y’abakeneye. Ariko Uwo atigera asinzira yari afise iyindi migambi y’ubutunzi bwabo bwihishije. Woba ushobora gukeka uwuhagaze inyuma y’iyi nkuru y’imburi iva muri Korowani?",
+  "clues": [
+    "Twari twari dufise itongo ryiza cane kandi ryuzuye cane ku buryo abahita bose baciye bavyipfuza.",
+    "Mu gutegura kwacu, twaratongana mu gitondo cane, tukamenyesha ko ata mutima w’umukene uzokwemererwa kwinjira uwo musi.",
+    "Twari abantu b’ubutunzi, kandi imitima yacu yari yacitse impumyi ku burenganzira bw’abakene bari badukikije.",
+    "Igihe umuseke w’umwimbu twari duteguye washika, twaregereye itongo ryacu gusa maze dusanga ryahindutse igihome c’umwirabura mw’ijoro rimwe.",
+    "Itegeko ry’agahomerabunwa ryarateye, nta kindi ryasigaye atari ivu aho amarundo y’ivyamwa vyivye yari yaramanitse.",
+    "Inkuru yacu ni imburi ikomeye yanditswe muri Korowani, aho tuzwi ko ari ba nyen’itongo twima abakene ubugiraneza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Ba nyen'itongo",
+        "Abantu bo mu mwobo",
+        "Abigishwa ba Yesaya .",
+        "Abagenzi b'Igiti .",
+        "Abashitsi ba Ibrahimu"
+      ],
+      "answer": "Ba nyen'itongo"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Kwimbura ivyamwa mu mpisho no kubuza abakene",
+        "Kuryama ibinjana n'ibindi mu mwobo",
+        "Kwanka kuvyara ingamiya y’ingore ivuye mu mabuye .",
+        "Gusenga inyana y'inzahabu ku musozi Sinayi",
+        "Kubaka ubwato bunini kugira ngo umuntu arokoke umwuzure ."
+      ],
+      "answer": "Kwimbura ivyamwa mu mpisho no kubuza abakene"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Umurima wari ukikujwe n’inkuta wuzuye imisukoni n’imizabibu .",
+        "Umwobo w'umwiza uri ibwina mu misozi",
+        "Igisagara cafashwe n'igihuhusi c'Imana",
+        "Ikiyaya ceranda kiri hafi y'inzu ya Allah",
+        "Inkengera z'uruzi rutemba"
+      ],
+      "answer": "Umurima wari ukikujwe n’inkuta wuzuye imisukoni n’imizabibu ."
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Iryo tongo ryaturiwe n’itegeko rishasha ryavuye mw’ijuru .",
+        "Baryamye amahoro mu myaka 309 y’ukwezi .",
+        "Bajanjaguwe n'imvura y'amabuye .",
+        "Bararohamye munsi y'imiraba y'umwuzure munini .",
+        "Barasanzajwe n'umuyaga ukaze kandi ukaze"
+      ],
+      "answer": "Iryo tongo ryaturiwe n’itegeko rishasha ryavuye mw’ijuru ."
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

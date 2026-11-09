@@ -1,0 +1,61 @@
+{
+  "title": "Imbaga y'abantu Bazimiye",
+  "intro": "Uhagaze imbere y'amajwi y'umuryango inkuru yawo yanditswe mu miraba. Abo bantu bumvise umuhamagaro, bahitamo kwigomeka, maze bahura n'ingaruka zahinduye isi. Ni bande, kandi se isi yabo yabaye iki?",
+  "clues": [
+    "Twabayeho kera cyane, maze intumwa idusanga iturutse hagati yacu.",
+    "Twasengaga ibigirwamana bitanu kandi twanze kubireka.",
+    "Twasetse intumwa tuyishinja ko yayobye.",
+    "Twamusabye ko yaguha igihano niba ari umunyakuri.",
+    "Twabonye ijuru rigwa imvura, isi ivubura amasoko.",
+    "Twazamutse tujya ahantu hirengeye kugira ngo duhunge, ariko imiraba iraturenze."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Turi bande?",
+      "options": [
+        "Abantu ba Nuh",
+        "Abantu bo muri 'Ad",
+        "Abantu bo muri Thamud",
+        "Abantu ba Lut",
+        "Abantu bo muri Madyan"
+      ],
+      "answer": "Abantu ba Nuh"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Twarohamye mu myuzure ikomeye",
+        "Twarimbuwe n'inkubi y'umuyaga",
+        "Twahitanywe n'igisasu kinini",
+        "Twamizwe n'isi",
+        "Twatewe amabuye avuye mu ijuru"
+      ],
+      "answer": "Twarohamye mu myuzure ikomeye"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Umwuzure ukomeye",
+        "Umuyaga ukaze cyane",
+        "Imvura y'amabuye",
+        "Igisasu cy'umuriro",
+        "Umutingito"
+      ],
+      "answer": "Umwuzure ukomeye"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Twese twarazimiye uretse abizera bari kumwe na Nuh",
+        "Twahinduwe nk'inkende",
+        "Twasigaye turi amatongo y'abagenzi",
+        "Twahinduwe umunyu",
+        "Twahawe ikiruhuko"
+      ],
+      "answer": "Twese twarazimiye uretse abizera bari kumwe na Nuh"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

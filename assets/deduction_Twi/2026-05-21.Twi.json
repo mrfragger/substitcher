@@ -1,0 +1,61 @@
+{
+  "title": "Ɔkra a Wɔagye no no Akwantuo",
+  "intro": "Wɔ bere a na ɔmanfo gyinapɛn ahorow di tumi mu no, ankorankoro bi a ɔyɛ soronko nyaa nsakrae kɛse wɔ ofie a wɔahyira so mu. Wɔn asɛm a ɔdɔ hama ne ɔsoro ahyɛde ahyɛ no agyirae no kyerɛkyerɛ atetesɛm dedaw a wobu so ne nnyinasosɛm foforo a ɛteɛ a wɔde sii hɔ no mu. Saa asɛm yi si hia a nokware ho hia sen amanne kwan so ne nyansa a ɛwɔ Allah ahyɛde ahorow akyi no so dua.",
+  "clues": [
+    "Bere bi na meyɛ dommum, nanso ɛdenam ɔsoro nhyehyɛe so no, minyaa ofie ne abusua foforo.",
+    "Ná wɔdɔ me araa ma bere a wɔmaa me kwan sɛ mɛpaw abusua a wɔwoo me ne nea ɔhwɛɛ me sɛ ne ba no, mepaw sɛ mɛtra nea otwa to no nkyɛn.",
+    "Bere bi na wɔde me din bata ɔhwɛfo a wagye me ayɛ ne ba no ho, adeyɛ a na abu so wɔ me man mu.",
+    "Me nko ara ne Ɔkɔmhyɛni a ɔtwa toɔ a Allah abɔ ne din pefee wɔ Kur’aan mu no hokafoɔ.",
+    "Mewaree ɔbaa anuonyam bi a na ɔyɛ Ɔkɔmhyɛni no wɔfase, nanso yɛn awareɛ no ankyɛ.",
+    "Me awaregyaeɛ akyi no, Allah ankasa hyɛɛ sɛ me kan yere no bɛware Ɔkɔmhyɛni no, na ɛnam so ama tete amanne bi a ɛfa mmofra a wɔfa wɔn sɛ wɔn mma ho no yɛɛ kwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Bilal ibn Rabah na ɔkyerɛwee",
+        "Salman al-Farsi na ɔkyerɛwee",
+        "Abu Bakr as-Siddiq na ɔkyerɛwee",
+        "Zayd ibn Harithah na ɔkyerɛwee",
+        "Usama ibn Zayd na ɔkyerɛwee"
+      ],
+      "answer": "Zayd ibn Harithah na ɔkyerɛwee"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Asraafo dɔm a wodi wɔn anim wɔ ne mmofraase",
+        "Gyidi nti ayayade a wogyina ano",
+        "Ɔko a Ɛkɔ so wɔ Trench no mu",
+        "Ɔsoro ahyɛde a ɛfa m’aware ne awaregyae ho",
+        "Tu a wotu kɔɔ Abyssinia"
+      ],
+      "answer": "Ɔsoro ahyɛde a ɛfa m’aware ne awaregyae ho"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Adeyɛ a wɔde gye mfɛntom",
+        "Abosom a wɔsom",
+        "Amanne a ɛfa mmofra a wɔfa wɔn sɛ wɔn mma ne nea ɛkyerɛ",
+        "Nsã a wɔbara",
+        "Sɛnea wɔyɛ nyisaa"
+      ],
+      "answer": "Amanne a ɛfa mmofra a wɔfa wɔn sɛ wɔn mma ne nea ɛkyerɛ"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Ɔbɛyɛɛ Islam muezzin a odi kan",
+        "Kaaba no a wɔde sii hɔ",
+        "Adeyɛ a na ɛwɔ hɔ ansa na Nkramofo reba a ɛne sɛ ‘wɔfrɛ mma a wɔagye wɔn ayɛ wɔn mma sɛ mma a wɔwoo wɔn’ no a wobeyi afi hɔ.",
+        "Surah Al-Fatiha adiyie no",
+        "Nkomhyeni no akyidini a wɔpaw no"
+      ],
+      "answer": "Adeyɛ a na ɛwɔ hɔ ansa na Nkramofo reba a ɛne sɛ ‘wɔfrɛ mma a wɔagye wɔn ayɛ wɔn mma sɛ mma a wɔwoo wɔn’ no a wobeyi afi hɔ."
+    }
+  },
+  "verseRef": "33:37",
+  "arabic": "وَإِذْ تَقُولُ لِلَّذِىٓ أَنْعَمَ ٱللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَٱتَّقِ ٱللَّهَ وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ أَن تَخْشَىٰهُ ۖ فَلَمَّا قَضَىٰ زَيْدٌۭ مِّنْهَا وَطَرًۭا زَوَّجْنَـٰكَهَا لِكَىْ لَا يَكُونَ عَلَى ٱلْمُؤْمِنِينَ حَرَجٌۭ فِىٓ أَزْوَٰجِ أَدْعِيَآئِهِمْ إِذَا قَضَوْا۟ مِنْهُنَّ وَطَرًۭا ۚ وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًۭا",
+  "verse": "And [remember, O Muḥammad], when you said to the one on whom Allāh bestowed favor and you bestowed favor, \"Keep your wife and fear Allāh,\" while you concealed within yourself that which Allāh is to disclose. And you feared the people, while Allāh has more right that you fear Him. So when Zayd had no longer any need for her, We married her to you in order that there not be upon the believers any discomfort [i.e., guilt] concerning the wives of their claimed [i.e., adopted] sons when they no longer have need of them. And ever is the command [i.e., decree] of Allāh accomplished. (33:37)"
+}

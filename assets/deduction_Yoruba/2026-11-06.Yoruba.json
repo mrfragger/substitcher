@@ -1,0 +1,61 @@
+{
+  "title": "Ẹ̀jẹ̀ Àkọ́kọ́ Tí Ó Tú Sílẹ̀ Nínú Ìlara",
+  "intro": "Fojú inú wo àwọn ọjọ́ àkọ́kọ́ aráyé, nígbà tí gbogbo ayé jẹ́ ìdílé kan. O ń wo bí a ṣe ń gbé ẹbọ méjì kalẹ̀ níwájú Ọlọ́run — ọ̀kan gbà, èkejì sì kọ̀. Ìlara bẹ̀rẹ̀ sí í gbòǹgbò nínú ọkàn kan, a sì ń sọ ìhalẹ̀ mọ́ni nínú ìbínú. Ohun tó tẹ̀lé e yóò fi àmì sílẹ̀ lórí ìtàn títí láé, àní ẹyẹ kékeré pàápàá yóò di olùkọ́.",
+  "clues": [
+    "Èmi jẹ́ ọ̀kan lára ​​ìdílé àkọ́kọ́ lórí ilẹ̀ ayé.",
+    "Mo fi ẹbọ kan fún Allah, ṣùgbọ́n èmi kò gba ẹbọ náà nígbà tí mo gba ẹbọ kejì.",
+    "Mo sọ̀rọ̀ pẹ̀lú ìlara, mo sì halẹ̀ láti pa ẹ̀mí mi.",
+    "Mo ṣe ìpànìyàn àìtọ́ àkọ́kọ́ lórí ilẹ̀ ayé.",
+    "Mo rí ẹyẹ kan tó ń wọ́ ilẹ̀ láti fi bí mo ṣe lè fi òkú pamọ́ hàn mí.",
+    "Mo kábàámọ̀ gidigidi, mo sì di ọ̀kan lára ​​àwọn tó pàdánù ohun tí ọwọ́ mi ṣe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Qabil (Kaini), ọmọ Adamu",
+        "Samiri, olùṣe ọmọ màlúù náà",
+        "Namrud, apànìyàn tó bá Ibrahim jiyàn",
+        "Azar, olùṣe àwọn ère",
+        "Kan'an, ọmọ Nuh tí ó rì sínú omi"
+      ],
+      "answer": "Qabil (Kaini), ọmọ Adamu"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Pípà ọmọ ìyá kan nítorí owú lẹ́yìn tí a kọ̀ láti fi ẹ̀bùn náà sílẹ̀",
+        "Kíkọ́ ilé gogoro gíga kan láti wo àwọn ọ̀run",
+        "Ṣíṣe ère ọmọ màlúù wúrà fún ìjọsìn",
+        "Mo n beere fun tabili lati ọrun wa",
+        "Ṣíṣáájú ẹgbẹ́ ọmọ ogun erin láti pa Kaaba run"
+      ],
+      "answer": "Pípà ọmọ ìyá kan nítorí owú lẹ́yìn tí a kọ̀ láti fi ẹ̀bùn náà sílẹ̀"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ẹyẹ kan tó ń fi ìyẹ̀fun hun ilẹ̀ láti fi ìsìnkú hàn",
+        "Ọmọ màlúù wúrà kan tí ó wó lulẹ̀",
+        "Ọkọ̀ ńlá kan lórí omi ìkún omi",
+        "Ọ̀pá tí ó di ejò",
+        "Tábìlì tí a tẹ́ sórí tábìlì pẹ̀lú oúnjẹ láti ọ̀run"
+      ],
+      "answer": "Ẹyẹ kan tó ń fi ìyẹ̀fun hun ilẹ̀ láti fi ìsìnkú hàn"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Mo di ẹni tí ó káàánú ara rẹ̀, mo sì wà láàrín àwọn tí ó padánù",
+        "Wọ́n rì sínú ìkún omi ńlá náà",
+        "A gbé e mì pẹ̀lú ìṣúra ilẹ̀",
+        "Mo ní ẹ̀tẹ̀ fún ọdún méje",
+        "Wọ́n fún un ní ìjọba pẹ̀lú ìṣàkóso afẹ́fẹ́"
+      ],
+      "answer": "Mo di ẹni tí ó káàánú ara rẹ̀, mo sì wà láàrín àwọn tí ó padánù"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

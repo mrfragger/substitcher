@@ -1,0 +1,61 @@
+{
+  "title": "Intumwa yahanganye n’abasenga ibigirwamana .",
+  "intro": "Mu gihe ukwihebera Imana kwari kwazimiye, intumwa yarahagurutse ihamagara abantu ngo basubire gusenga Umukama w’isi. Uwo mubare wari uhagaze ushikamye ku bantu bari bashinze imizi mu gusenga imana y’ikinyoma, bikaba bibutsa Umuremyi wabo w’ukuri be n’Umukama wa ba sekuruza babo. Yamara rero abantu ntibavyitaho, banka iyo ngabisho, bashira ikidodo ku bijanye n’iherezo ryabo bwite. None uwo muhamagazi ataco azunguruka yari nde?",
+  "clues": [
+    "Narungitswe ku bantu bari barahevye inzira y’Imana imwe y’ukuri.",
+    "Nabajije abantu banje nti: «Mbega ntimuzotinya Allah?»",
+    "Nabahamagariye guheba ugusenga imana y’ikinyoma yitwa Bayali.",
+    "Abantu banje banse umuhamagaro wanje, bakomeza gusenga ibigirwamana.",
+    "Kubera ukwihakana kwabo, bazosohorwa ata gukeka kugira ngo bahanwe.",
+    "Umukama wanje yampaye amahoro n’ukwibuka guhezagiwe mu bihe vya nyuma."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umuhanuzi Ilyasi",
+        "Umuhanuzi Yahya",
+        "Umuhanuzi Zul-Kifl",
+        "Umuhanuzi Yusufu",
+        "Umuhanuzi Shuyabu"
+      ],
+      "answer": "Umuhanuzi Ilyasi"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Yahamagariye abantu biwe guheba Bayali .",
+        "Yubatse ubwato bwo gukiza abizera .",
+        "Yajugunywe mu muriro .",
+        "Yahunze Farawoni w’umunyagitugu .",
+        "Yakubise urutare kugira ngo ruvemwo amazi ."
+      ],
+      "answer": "Yahamagariye abantu biwe guheba Bayali ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Bayali",
+        "Al-Lat",
+        "Uza",
+        "Manati",
+        "Hubali"
+      ],
+      "answer": "Bayali"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Amahoro n'ukwibuka guhezagiwe",
+        "Yamizwe n'isi .",
+        "Yasambuwe n'igihuhusi gikomeye",
+        "Yahindutse ibuye .",
+        "Yarohamye mu kiyaga ."
+      ],
+      "answer": "Amahoro n'ukwibuka guhezagiwe"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Mubatsiri Asingazununguki Mukuedzwa Kwegoridhe",
+  "intro": "Mumumvuri wemuporofita mukuru, mweya wekutaura zvakanaka nekutenda wakasarudzwa kuti ubatsire mubasa guru. Munhu uyu akamira akasimba apo vanhu vazhinji vakazengurira, vachiparidza vachipesana nekudarika kwaionekwa kwaityisidzira musimboti wechitendero chimwe chete. Muporofita paakadzoka kuzoona kutadza kwevanhu, kudzivirira kwemunhu uyu kwaisava kwemhosva asi kwebasa nekutya kupatsanurwa. Ndiani mushumiri waAllah uyu akazvipira?",
+  "clues": [
+    "Ndakasarudzwa naAllah kuti ndiite basa dzvene pamwe chete nerimwe, uye basa rangu raive rekutsigira nekuzivisa.",
+    "Ndakapiwa mukana wekutaura zvakajeka, uye ndakaperekedza nhume kunorwisana nemudzvinyiriri ane simba.",
+    "Parwendo rwakaoma, mutumwa akakwira gomo ari ega, achindisiya ndichitarisira vanhu.",
+    "Vanhu vakagadzira chifananidzo chegoridhe vasipo, uye ndakavakumbira kuti varambe vakatendeka, asi vakaramba zano rangu.",
+    "Mutumwa paakadzoka, azere nehasha neshungu, ndakabatwa, asi ndakatsanangura kuti ndakanga ndakundwa uye ndaitya kukonzera kusawirirana pakati pavo.",
+    "Ndini muporofita akamira padivi paMusa, mukoma wangu, ndichitakura mutoro wake uye ndichiramba ndakasimba ndichiramba kunamata zvidhori."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Harun",
+        "Muprofita Musa",
+        "Muprofita Isa",
+        "Muporofita Dhawud",
+        "Muprofita Zakaria"
+      ],
+      "answer": "Muprofita Harun"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Vanhu vainamata mhuru yendarama pasinei nenyevero",
+        "Vanhu vakandikanda mumoto waipfuta",
+        "Ndakamedzwa nehove huru",
+        "Ndakaiswa mujeri nemhosva dzenhema",
+        "Ndakadzingwa muguta rangu nekuda kwekuparidza"
+      ],
+      "answer": "Vanhu vainamata mhuru yendarama pasinei nenyevero"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Mhuru Yegoridhe",
+        "Gwenzi Rinopfuta",
+        "Tsvimbo yakashanduka kuita nyoka",
+        "Mahwendefa eSungano",
+        "Areka yeSungano"
+      ],
+      "answer": "Mhuru Yegoridhe"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Ndakasunungurwa ndikaramba ndichiita basa rangu rekuprofita",
+        "Ndakarangwa nekuda kwechivi chevanhu",
+        "Ndakapiwa rudzi rutsva kuti nditungamirire",
+        "Ndakatorwa kuenda kudenga ndiri mupenyu",
+        "Ndakaitwa mutongi pamusoro peumambo"
+      ],
+      "answer": "Ndakasunungurwa ndikaramba ndichiita basa rangu rekuprofita"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

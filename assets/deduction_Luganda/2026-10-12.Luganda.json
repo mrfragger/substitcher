@@ -1,0 +1,61 @@
+{
+  "title": "Obweyamo bw’abatali bazaalibwa",
+  "intro": "Omwoyo omwesimbu gwasuubiza ekitukuvu nga omwana tannatuuka. Emboozi y’ekifaananyi kino egenda mu maaso mu bbugwe w’ekifo ekitukuvu, okwewaayo we kusisinkanira okukkirizibwa okw’obwakatonda. Omuddu wa Allah ono y’ani?",
+  "clues": [
+    "Nnali wa maka agaweebwa ekitiibwa mu Quran.",
+    "Nakola obweyamo obw’amaanyi obw’okuwaayo omwana wange ali mu lubuto okuweereza Allah.",
+    "Bwe nnazaala, kyanneewuunyisa okusanga nga muwala wadde nga nnali nsuubira omwana ow’obulenzi.",
+    "Omwana wange nnamutuuma Maryam, erinnya eryoleka okwewaayo n’obuweereza.",
+    "Nanoonya obukuumi bwa Allah eri omwana wange ne bazzukulu be okuva eri sitaani eyakolimirwa.",
+    "Omwana wange Mukama yamukkiriza n’ateekebwa wansi w’obulabirizi bwa Nabbi Zakariya mu kifo ekitukuvu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Mukyala wa Imran (Maama wa Maryam) .",
+        "Asiya, mukyala wa Falaawo",
+        "Maryam, nnyina wa Isa",
+        "Maama wa Nabbi Musa",
+        "Nnabagereka w’e Seeba"
+      ],
+      "answer": "Mukyala wa Imran (Maama wa Maryam) ."
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Nga awera okuwaayo omwana we eri yeekaalu",
+        "Okusuulibwa mu muliro",
+        "Okusomoka ennyanja ku lukalu",
+        "Okuzimba eryato eddene",
+        "Okumira ekyennyanja ekinene"
+      ],
+      "answer": "Nga awera okuwaayo omwana we eri yeekaalu"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Ekifo ekitukuvu (mihrab) omwana we mwe yateekebwa",
+        "Essanduuko y’endagaano",
+        "Ennyana eya zaabu",
+        "Omuggo ogwafuuka omusota",
+        "Enkindu y’omuti gw’ensukusa wansi we yawummulira"
+      ],
+      "answer": "Ekifo ekitukuvu (mihrab) omwana we mwe yateekebwa"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Omwana we yakkirizibwa n’ateekebwa wansi w’obulabirizi bwa Nabbi Zakariya",
+        "Yawonyezebwa okuva mu kibonerezo ky’omutyobooli",
+        "Yaweebwa omwana ow’obulenzi ayitibwa Yahya",
+        "Abantu be baasaanyizibwawo omuyaga",
+        "Yafuuka nnaabagereka ku bwakabaka obunene"
+      ],
+      "answer": "Omwana we yakkirizibwa n’ateekebwa wansi w’obulabirizi bwa Nabbi Zakariya"
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

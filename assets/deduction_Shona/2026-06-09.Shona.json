@@ -1,0 +1,61 @@
+{
+  "title": "Munhu Asingazununguki Anodana Chokwadi",
+  "intro": "Mutumwa anomira ari ega pakati pevanhu vakasindimara, achivadana kuna Mwari Mumwe Chete Wechokwadi ivo vachiramba vakanamatira kuzvifananidzo zvenhema. Muprofita uyu ane zita rine revo ine simba—'uyo anotsvaga dziviriro'—asi anongorambwa nekuramba. Kuburikidza nekunyengetedzwa zvinyoro-nyoro uye yambiro yakasimba, mweya uyu unotakura shoko raMwari iro nyika pachayo ichareverera pakupedzisira. Unogona kuziva munhu uyu akasimba anomiririra imwe yenyaya dzekare mumagwaro echiIslam here?",
+  "clues": [
+    "Vanhu vangu vainamata vamwari vakawanda, ini ndichivadana kuti vashumire Iye akasika denga nenyika.",
+    "Ndakamira pamberi pevanhu vangu ndikazivisa kuti hapana mubairo wandaizoda kubva kwavari—chishuwo changu chete kwaiva kutungamirirwa kwavo kukururama.",
+    "Mhepo huru yakatumirwa kuvanhu vangu sechirango chaMwari, mhepo iyo Korani inotaura nezvayo muzvimiro zvevazhinji uye zvevakadzi.",
+    "Kusiyana nevamwe vaprofita, handina kupiwa mudzimai kana vana vanotaurwa nezvavo zvakanyanya munhoroondo yangu, nekuti basa rangu raive rekudana vanhu vangu vega.",
+    "Zita rangu rine zvarinoreva zvakadzama—zvine chekuita nepfungwa yekudzivirirwa neutiziro hunotsvagwa nemunhu.",
+    "Vanhu vangu vaizivikanwa nezita renzvimbo yavo remupata wavaigara, uye nyika yavo yaitsanangurwa nekushorwa kukuru nekuda kwekushaya miti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muporofita Hud",
+        "Muprofita Salih",
+        "Muporofita Shu'aib",
+        "Muprofita Nuh",
+        "Muporofita Hudayb"
+      ],
+      "answer": "Muporofita Hud"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Mafashamo enyika",
+        "Mhepo inopisa",
+        "Kudengenyeka kwenyika kwekuparadza",
+        "Kusanaya kwemvura nenzara",
+        "Kunyura mugungwa"
+      ],
+      "answer": "Mhepo inopisa"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Mupata wakaorera weYemen",
+        "Renje reMidhiani rine jecha",
+        "Mupata weThamud une matombo",
+        "Nyika yekare yevanhu ve'Ad",
+        "Nzvimbo yegungwa yeEgypt"
+      ],
+      "answer": "Nyika yekare yevanhu ve'Ad"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Vanhu vangu vakatendeuka ndokupinda muparadhiso",
+        "Hapana kana mumwe wevanhu vangu akapona chirango",
+        "Ndakatorwa ndiri mupenyu semukoma wangu Yunus",
+        "Ndakatamira nevateveri vangu kunyika yakaropafadzwa",
+        "Mhepo yakaparadza vasingatendi chete asi vatendi vakapona."
+      ],
+      "answer": "Hapana kana mumwe wevanhu vangu akapona chirango"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

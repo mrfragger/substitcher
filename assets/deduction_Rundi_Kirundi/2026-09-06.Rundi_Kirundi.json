@@ -1,0 +1,61 @@
+{
+  "title": "Inyana y'inzahabu yirukanwe",
+  "intro": "Igitigiri kivugwa muri Korowani catumye abantu benshi bakevya mu gihe umuhanuzi w’icubahiro atariho. Ikintu cakozwe mu nzahabu cafashe imitima y’ihanga ryose — ariko inkuru y’uwo muntu irangira mu kuba wenyene no mu muvumo udasanzwe. None uwo muntu yirukanwe yoba ari nde?",
+  "clues": [
+    "Naserutse mu gihe ata muhanuzi akomeye yari yaduze kugira ngo aronke ubuyobozi bw’Imana.",
+    "Nazimiye abantu benshi cane n’ikintu nahinguye n’amaboko yanje bwite.",
+    "Ico kiremwa c’inzahabu nakoze cari kimeze nk’ikifise ubuzima, kigatanga amajwi atangaza abagikurikira.",
+    "Navuga ko nabonye ivyo abandi badashobora gutahura — ukuntu mbona ibintu bitaboneka.",
+    "Narakuye ikintu mu nzira z’intumwa y’Imana maze ndagiterera mu cuma gishongeshejwe.",
+    "Naciriwe urubanza rwo kugendagenda jenyene, mfise umuvumo udasanzwe w’uko ata n’umwe yoshobora gukora ku rukoba rwanje canke ngo nkore ku rwabo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Samiri",
+        "Hamani",
+        "Farawoni (Firawuni)",
+        "Abu Lahabu",
+        "Umuhanuzi Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Yaremye inyana y'inzahabu yo gusenga .",
+        "Yubatse umunara ushika mw'ijuru .",
+        "Yarateye intambwe abapfumu bo muri Egiputa",
+        "Yarongoye ingabo zifise ibikoko biguruka .",
+        "Gucapura ukwezi nk'ikimenyamenya c'ubuhanuzi ."
+      ],
+      "answer": "Yaremye inyana y'inzahabu yo gusenga ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Inyana y'inzahabu",
+        "Inkoni yahindutse inzoka .",
+        "Igisaka kigurumana ku musozi .",
+        "Ubwato buri ku musozi",
+        "Umugende wuzuye umuriro ururumba"
+      ],
+      "answer": "Inyana y'inzahabu"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Kuja mu bunyagano, kubuzwa gukora canke gukora ku bandi .",
+        "Bararohamye mu kiyaga bari kumwe n’ingabo .",
+        "Yaturiwe ari muzima kubera yanse ukwizera .",
+        "Gukubitwa n’umuyaga w’ubukazi kandi utontoma",
+        "Yababariwe kandi aduzwa mu kibanza co hejuru ."
+      ],
+      "answer": "Kuja mu bunyagano, kubuzwa gukora canke gukora ku bandi ."
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Abaarot tan Gaba",
+  "intro": "Atu dumaahi Makkah addal tan gicloh addat, rooci kee gadda inki adda nummah seecoh addat culteh sugte. ta muucih aydaadi qabli fantaaxaw kaxxiini silsilatak yayseenim maduudan qaduk kassiisi. iyyaay iyyaay kay migaq qammaltah tan girat qagaaqagitak?",
+  "clues": [
+    "Anu farmoyti yi qabalak sugem takkay immay, nummat yoo inti maleelah tan kaxxiina luk Makkah gitittet gexe.",
+    "Yi ikoyta baar luk sugte, takkay immay oson goobuk muxxi abaaro yekken.",
+    "miracsenta kitab yi finqat yaaba, yi gaba kee yi num finqitelem yaybeleeleqeh.",
+    "Yi barra yi qaduwwih gaatut tengele, Yalla seeca numih gital fixiixisuh quuek gaaboysak.",
+    "cokmi ayro, anu girah addat culeyyo, kee yi barra filla dariifal palm fiber akatta le.",
+    "Anu 'father of flame' yaanam migaq luk aaxaguk suge — migaq yi amotani giclo wagsiisak."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Anu miyyaay?",
+      "options": [
+        "Abu Lahaab",
+        "Abu Jahli",
+        "Abutaaalib",
+        "Abusufiyaan",
+        "Al-waaliid ibnu al-mugiira"
+      ],
+      "answer": "Abu Lahaab"
+    },
+    "trial": {
+      "label": "Lafa le gibbatu akkek tekkooka",
+      "options": [
+        "yallih farmoyti sadah qhur'aanal abaarot yan",
+        "Kaaba finqisoonuh qande miraacisak suge",
+        "Nabi xaa qidak qidaanam gibbaten.",
+        "Alsa kurruumak yaamineenim cineenih",
+        "Jannat gufoonuh kalqat xisen."
+      ],
+      "answer": "yallih farmoyti sadah qhur'aanal abaarot yan"
+    },
+    "location": {
+      "label": "Lafa le liyyitte",
+      "options": [
+        "Jahannam cararta gira",
+        "Muusa taama abeynit",
+        "Nuuc safar",
+        "Zamzam qeeli",
+        "dahab ruga"
+      ],
+      "answer": "Jahannam cararta gira"
+    },
+    "outcome": {
+      "label": "Xalu",
+      "options": [
+        "Usug cararta gira culeeh, kay gaddi kaa tuxxiq mali",
+        "Usug toobiteh, yaamine num yekke",
+        "Usug qafuuta geeh qagteek widiril",
+        "Usug shahiid akkuk rabe",
+        "Usug qaran fanah beenih yenen"
+      ],
+      "answer": "Usug cararta gira culeeh, kay gaddi kaa tuxxiq mali"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

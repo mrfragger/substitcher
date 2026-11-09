@@ -1,0 +1,61 @@
+{
+  "title": "Uwutwara ubutumwa bw'imva",
+  "intro": "Umutima ugororotse wararungitswe kuyobora abantu bazimiye mu bicumuro bitagira uko bingana. Iyo ntumwa yarahagaze ishikamye, itanga imburi ikomeye ku bijanye n’ugusesagura kwari guteye kubiri n’urutonde rw’ibidukikije. Naho abo bantu bariko barasaba n’umwete, bararushirije kwisuka mu mwiza, bica bituma habaho uguharura kw’Imana kudasa n’ukundi kwose. Woba ushobora kumenya uwo musuku wa Allah ashikamye?",
+  "clues": [
+    "Nari incuti y’uwundi muhanuzi akomeye, nanje nimukana na we, dusiga igihugu cacu c’amavukiro.",
+    "Narungitswe ku bantu ububi bwabo bwari budasanzwe, igicumuro ata kiremwa na kimwe cari carakoze imbere yabo.",
+    "Urugo rwanje bwite rwacitsemwo ibice; umuntu wo mu muryango wa hafi yari ku ruhande rw’abo bahafi mu mpisho.",
+    "Abamarayika, mu buryo bw’abasore beza, baraza iwanje nk’abashitsi, bikantera umubabaro mwinshi kubera umutekano wabo.",
+    "Naratanze abakobwa banje bwite ngo barongorwe n’abantu banje kugira ngo ngerageze cane kubakura ku bikorwa vyabo vy’isoni.",
+    "Abantu banje baratikijwe n’amarira ateye ubwoba n’imvura y’amabuye y’ibumba ry’umukate, mu gihe jewe n’umuryango wanje, uretse umwe, twarokotse mu kugenda mw’ijoro ry’umuyaga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umuhanuzi Shuyabu",
+        "Umuhanuzi Salih",
+        "Umuhanuzi Luti",
+        "Umuhanuzi Hudi",
+        "Umuhanuzi Nuh"
+      ],
+      "answer": "Umuhanuzi Luti"
+    },
+    "trial": {
+      "label": "Ikigeragezo canje ca mbere cari ikihe?",
+      "options": [
+        "Kwemeza umwami w’umunyagitugu ngo ntanturire mu muriro.",
+        "Guhangana n’ishari rya benewacu no guterwa mw’iriba.",
+        "Guhangana n’abantu bari mu busambanyi butagira uko bungana.",
+        "Kuyobora abantu banje mu buja bwa Farawoni w’ububasha.",
+        "Kubaka ubwato bunini cane bwo gukiza abemera umwuzure munini."
+      ],
+      "answer": "Guhangana n’abantu bari mu busambanyi butagira uko bungana."
+    },
+    "location": {
+      "label": "None Ubutumwa bwanje bwari hehe?",
+      "options": [
+        "Igisagara ca Madiyani .",
+        "Igisagara ca kera ca Iramu .",
+        "Igihugu ca Misiri ku ngoma ya Farawoni .",
+        "Ibisagara vya Sodomu na Gomora .",
+        "Igisagara ca Nineve ."
+      ],
+      "answer": "Ibisagara vya Sodomu na Gomora ."
+    },
+    "outcome": {
+      "label": "None Ivyo Vyavuyemwo Vyari Ibihe?",
+      "options": [
+        "Ibisagara vyaratembagajwe, bikubitwa n’amabuye y’ibumba ry’umuriro.",
+        "Abantu banje baramizwe n’isi hamwe n’indongozi yabo y’umutunzi.",
+        "Abantu banje barimbuwe n’umuyaga ukaze amajoro indwi n’imisi umunani.",
+        "Abantu banje barashikiwe n’ivyago nk’inzige, inda n’ibikere.",
+        "Ifi nini cane yarammize maze guheba ubutumwa bwanje."
+      ],
+      "answer": "Ibisagara vyaratembagajwe, bikubitwa n’amabuye y’ibumba ry’umuriro."
+    }
+  },
+  "verseRef": "11:82",
+  "arabic": "فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةًۭ مِّن سِجِّيلٍۢ مَّنضُودٍۢ",
+  "verse": "So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were] (11:82)"
+}

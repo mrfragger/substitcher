@@ -1,0 +1,61 @@
+{
+  "title": "Afɔrebɔ a Wofi Pɛ mu Bɔ",
+  "intro": "Wɔ ɔsoro sɔhwɛ bere mu no, wɔfrɛɛ ɔkra bi kɔɔ adeyɛ a etwa to a ɔde brɛ ne ho ase no mu. Wɔtetee saa onipa yi wɔ asase a ɛso yɛ kwa so no, onyinii bɛyɛɛ gyidi ne boasetɔ. Sɛ anisoadehu bi hyɛe sɛ wɔmfa afɔrebɔ mma a, wɔanhinhim. Wɔn asɛm no yɛ ahofama tweatibo.",
+  "clues": [
+    "Na meyɛ odiyifo kɛse bi mpaebɔ a na wɔatwɛn akyɛ no ho mmuae.",
+    "Wogyaw me ne me maame wɔ bon bi a amamfõ wom mu a na date ne nsu nkutoo na ɛwɔ hɔ.",
+    "Minyinii bɛyɛɛ odiyifo a wonim no sɛ meyɛ nokware ne me boasetɔ.",
+    "Meboaa me papa ma ɔmaa ofie kronkron bi a wɔahyira so ama Allah no fapem so.",
+    "Bere a m’agya kaa dae bi kyerɛɛ me sɛ ɔde me bɛbɔ afɔre no, mibuae sɛ, ‘Yɛ sɛnea wɔahyɛ wo no.",
+    "Allah hyɛɛ me ahobrɛaseɛ anuonyam denam odwennini bi a ɔsomaa no firii soro sɛ ɔmmɛgye me no so."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Isma'il",
+        "Ɔkɔmhyɛni Ishaq",
+        "Ɔkɔmhyɛni Ya’qub",
+        "Ɔkɔmhyɛni Ibrahim",
+        "Ɔkɔmhyɛni Yusuf"
+      ],
+      "answer": "Ɔkɔmhyɛni Isma'il"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Wofi wɔn pɛ mu brɛ wɔn ho ase sɛ wɔde wɔn bɛbɔ afɔre",
+        "Wɔtow no gu ogya a ɛredɛw mu",
+        "Mpataa kɛse bi a ɔbɛmene no",
+        "Wɔtɔn wɔn kɔ nkoasom mu",
+        "Ɔyare a emu yɛ den a wɔbɛsɔ ahwɛ"
+      ],
+      "answer": "Wofi wɔn pɛ mu brɛ wɔn ho ase sɛ wɔde wɔn bɛbɔ afɔre"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Abura a ɛwɔ Zamzam",
+        "Nuh Adaka no",
+        "Nimrod Ogya no",
+        "Sika Nantwi Ba no",
+        "Musa Adwumayɛfoɔ"
+      ],
+      "answer": "Abura a ɛwɔ Zamzam"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wɔde odwennini kɛse bi gyee no",
+        "Wogyee no fii ogya no mu",
+        "Wogyee no fii nsuyiri no mu",
+        "Woyii no fii whale no mu",
+        "Wɔmaa no ahenni ne nyansa"
+      ],
+      "answer": "Wɔde odwennini kɛse bi gyee no"
+    }
+  },
+  "verseRef": "37:102",
+  "arabic": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَـٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَـٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when he reached with him [the age of] exertion, he said, \"O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think.\" He said, \"O my father, do as you are commanded. You will find me, if Allāh wills, of the steadfast.\" (37:102)"
+}

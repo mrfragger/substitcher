@@ -1,0 +1,61 @@
+{
+  "title": "Àwọn Àlejò Àjèjì ní Ìlú Tí A Lòdì sí",
+  "intro": "Ẹgbẹ́ kan dé ẹnu ibodè ìlú kan tí àwọn ènìyàn rẹ̀ kò tíì mọ òtítọ́ rí. Wọ́n mú ìhìn iṣẹ́ wá, ṣùgbọ́n àwọn ará ìlú náà di ọ̀tá, wọ́n sì ń halẹ̀ mọ́ wọn. Síbẹ̀, láti ibi tí wọn kò retí, ohùn kan dìde láti gbèjà àwọn àlejò, ó sì ṣètò àtẹ̀gùn fún ìṣẹ̀lẹ̀ tó yanilẹ́nu.",
+  "clues": [
+    "A wọ ìlú kan tí àwọn ènìyàn rẹ̀ ti gbóná sí àìnígbàgbọ́.",
+    "Wọ́n wò wá pẹ̀lú ìfura, wọ́n sì wí pé, ‘Ẹ̀dá lásán ni yín bí àwa.’",
+    "A kìlọ̀ fún wọn, ṣùgbọ́n wọ́n gbé òkúta sókè sí wa.",
+    "Ọkùnrin kan sáré láti ìpẹ̀kun ìlú náà láti fìdí òtítọ́ wa múlẹ̀.",
+    "Ó kéde fún àwọn ènìyàn rẹ̀ pé, ‘Kí ló dé tí mi ò fi ní jọ́sìn Ẹni tí ó dá mi?’",
+    "Ìkọ̀sílẹ̀ ìlú náà parí pẹ̀lú ìró kan ṣoṣo, ìdákẹ́jẹ́ẹ́ sì gbilẹ̀ níbi tí wọ́n ti ń fi ṣe ẹlẹ́yà tẹ́lẹ̀."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni àwa?",
+      "options": [
+        "Àwọn ońṣẹ́ Ya-Sin",
+        "Àwọn ọmọ-ẹ̀yìn Isa",
+        "Àwọn Ènìyàn Ìrìn Àjò",
+        "Àwọn Onídán Fáráò",
+        "Olùgbàgbọ́ ti Ya-Sin"
+      ],
+      "answer": "Àwọn ońṣẹ́ Ya-Sin"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ìkọ̀sílẹ̀ àti ìhalẹ̀ sí òkúta",
+        "Jíjẹ́ tí a jù sínú iná gbígbóná",
+        "Ìdánwò sùúrù pẹ̀lú ọmọ kan tó sọnù",
+        "Ọgbà kan tí ó jìyà ìparun",
+        "Ìrìn àjò la òkun kọjá"
+      ],
+      "answer": "Ìkọ̀sílẹ̀ àti ìhalẹ̀ sí òkúta"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ìparí ìlú tó jìnnà jùlọ",
+        "Òkun Pupa",
+        "Kòtò iná",
+        "Ihò ààbò",
+        "Ẹ̀wọ̀n Íjíbítì"
+      ],
+      "answer": "Ìparí ìlú tó jìnnà jùlọ"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A pa ìlú náà run pẹ̀lú ariwo kan ṣoṣo",
+        "Òkun pín sí méjì, ó sì rì àwọn ọmọ ogun náà mọ́lẹ̀",
+        "Iná náà di tútù ó sì ní ààbò",
+        "Iná ọ̀run jó ọgbà náà run",
+        "Ẹja naa da eniyan pada si eti okun"
+      ],
+      "answer": "A pa ìlú náà run pẹ̀lú ariwo kan ṣoṣo"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

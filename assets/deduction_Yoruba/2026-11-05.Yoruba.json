@@ -1,0 +1,61 @@
+{
+  "title": "Orin Àròsọ Àwọn Òkè ní Alẹ́",
+  "intro": "Gbọ́ bí àwọn àfonífojì ṣe ń dún pẹ̀lú ìyìn pẹ̀lú ìránṣẹ́ Allah tí a yàn. Ohùn tí a fi orin dídùn fún, ìdájọ́ tí àwọn alátakò ń wá ní yàrá ìjókòó, àti irin tí àṣẹ Ọlọ́run mú rọ̀ dúró de àwárí. Èwo nínú àwọn ìjọsìn àti òfin òdodo ló ń sọ̀rọ̀ nípasẹ̀ àwọn àmì wọ̀nyí?",
+  "clues": [
+    "Allah fi oore-ọ̀fẹ́ àti ohùn ìyìn dídùn bùkún mi.",
+    "Allah kọ́ mi láti mọ èdè ìdájọ́ òdodo láàárín àwọn alátakò.",
+    "Mo dojúkọ jagunjagun ńlá kan lójú ogun, mo sì borí wọn nípasẹ̀ ìfẹ́ Allāhu.",
+    "Wọ́n fún mi ní ọgbọ́n, àṣẹ àti ìwé mímọ́ tí a ṣí payá láti ọ̀dọ̀ Allah.",
+    "Àwọn òkè ńlá àti àwọn ẹyẹ dara pọ̀ mọ́ mi láti máa fi ògo fún Ọlọ́run ní alẹ́ àti ní àṣálẹ́.",
+    "Allah kọ́ mi láti ṣe àwọn aṣọ ìbora irin tí a fi irin ṣe tí ó rọ̀ fún mi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Dáfídì (Dáfídì)",
+        "Wòlíì Íṣímáẹ́lì (Íṣímáẹ́lì)",
+        "Wòlíì Yahya (Jòhánù)",
+        "Dhul-Kifl",
+        "Wòlíì Al-Yasa (Eliṣa)"
+      ],
+      "answer": "Wòlíì Dáfídì (Dáfídì)"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Láti ọwọ́ Allāhu ni mo ti ṣẹ́gun Jalut (Goliath) nínú ogun.",
+        "Kọ́ Ọkọ̀ náà láti la ìkún omi ńlá náà já",
+        "Wọ́n jù ú sínú iná kan tí Allāhu sọ di tútù",
+        "Ẹja ńlá kan nínú òkun gbé e mì",
+        "A gbé e sókè sí ọ̀run láìtọ́ ikú wò"
+      ],
+      "answer": "Láti ọwọ́ Allāhu ni mo ti ṣẹ́gun Jalut (Goliath) nínú ogun."
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Àwọn òkè ńlá àti àwọn ẹyẹ ń dara pọ̀ mọ́ ìyìn fún Allah",
+        "Ọ̀pá tí ó di ejò",
+        "Iná tó di tútù tó sì ní àlàáfíà",
+        "Rakunmi kan tí a rán gẹ́gẹ́ bí àmì sí àwọn ènìyàn",
+        "Àpótí onígi kan tí ó dúró lórí Òkè Judi"
+      ],
+      "answer": "Àwọn òkè ńlá àti àwọn ẹyẹ ń dara pọ̀ mọ́ ìyìn fún Allah"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A fun ni ijọba, ọgbọn, ati Zabur (Orin Dafidi)",
+        "A fun ni ọmọkunrin ni ọjọ ogbó lẹhin adura jinlẹ",
+        "A fun ni aabo ninu iho apata naa fun ọpọlọpọ ọdun",
+        "Fun ni orisun omi Zamzam ni aginju",
+        "Wọ́n gbà pé àwọn ọmọ ogun náà rì sínú òkun"
+      ],
+      "answer": "A fun ni ijọba, ọgbọn, ati Zabur (Orin Dafidi)"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

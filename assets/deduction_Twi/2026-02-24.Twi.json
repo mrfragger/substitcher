@@ -1,0 +1,61 @@
+{
+  "title": "Nsisi a Ɛde Nnyigyei",
+  "intro": "Wɔnam ahoɔyaw a ɛkɔɔ soro so sɔɔ abusuafo abusuabɔ hwɛe. Wɔyɛɛ kokoam nhyehyɛe bi, na ɛmaa nsɛm a esisi a ɛbɛkɔ so mfe pii na atwa akwansin akɛse no fii ase. Saa kuw yi nneyɛe no maa wɔtetew mu kɛse na wodii awerɛhow, nanso asɛm no ankɔ awiei wɔ hɔ. Ɛyɛ nnaadaa, ahonu, ne ɔsoro nhyehyɛe bi a ɛda adi awiei koraa ho asɛm. So wubetumi ahu nnipa ko a saa nnipa yi a wɔn paw a wɔkae wɔ awo ntoatoaso ahorow mu no mu?",
+  "clues": [
+    "Ɔdɔ a wɔdaa no adi kyerɛɛ yɛn ankasa mu biako no ho ninkunu hyɛɛ yɛn so.",
+    "Wɔ yɛn ahoɔyaw mu no, yɛboom bɔɔ pɔw na yɛtow yɛn nua no guu abura bi sum mu.",
+    "Nea ɛbɛyɛ na yɛde yɛn adeyɛ no asie no, yɛde atade bi a atoro mogya ayɛ ho fĩ kɔmaa yɛn papa.",
+    "Mfe bi akyi no, ɔkɔm a emu yɛ den maa yɛn tuu kwan kɔɔ Misraim kɔhwehwɛɛ aduan.",
+    "Ɛhɔ no, yɛbaa amrado bi a ɔwɔ tumi a, na yennim no, na ɔyɛ onua ankasa a yɛayɛ no bɔne no anim.",
+    "Yɛn sɔhwɛ a etwa to ne sɛ yɛde yɛn nua kumaa, Binyamin bɛba, a ɛde yɛn kan tete adi na yɛn agya yɛ Ɔkɔmhyɛni Ya’qub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Henanom ne yɛn?",
+      "options": [
+        "Adam mma (Qabil & Habil) .",
+        "Odiyifo Yes Asuafo no",
+        "Ɔkɔmhyɛni Yusuf Anuanom",
+        "Nnipa a Wɔte Madyan",
+        "Fir'awn nkonyaayifoɔ"
+      ],
+      "answer": "Ɔkɔmhyɛni Yusuf Anuanom"
+    },
+    "trial": {
+      "label": "Dɛn ne yɛn bɔne titiriw?",
+      "options": [
+        "Sika nantwi ba a wɔbɛkyekyere ama ɔsom",
+        "Ahwehwɛ sɛ wobehu Allah tẽẽ",
+        "Odiyifo bi ho fɛw sɛ ɔreyɛ adaka",
+        "Yɛn papa a yɛbɛdaadaa yɛn na yɛagyaw yɛn nua",
+        "Homeda a wobu so denam mpataayi so"
+      ],
+      "answer": "Yɛn papa a yɛbɛdaadaa yɛn na yɛagyaw yɛn nua"
+    },
+    "location": {
+      "label": "Ade bɛn na na ɛyɛ yɛn nnaadaa titiriw?",
+      "options": [
+        "Abopon a wɔakyerɛw so a wɔahyehyɛ",
+        "Atade a atoro mogya ayɛ ho fĩ",
+        "Sikakɔkɔɔ nantwi ba",
+        "Anomaa bi a ne ho yɛ fɛ (Hoopoe) .",
+        "Poma a ɛdanee ɔwɔ"
+      ],
+      "answer": "Atade a atoro mogya ayɛ ho fĩ"
+    },
+    "outcome": {
+      "label": "Dɛn na efii yɛn asɛm no mu bae awiei koraa?",
+      "options": [
+        "Nsuyiri a ano yɛ den sɛee yɛn",
+        "Wɔdanee yɛn yɛɛ no ​​akraman",
+        "Asase no menee yɛn",
+        "Wɔde kyɛɛ yɛn na wɔsan ne yɛn abusua no boom",
+        "Wɔmenee yɛn wɔ po no mu"
+      ],
+      "answer": "Wɔde kyɛɛ yɛn na wɔsan ne yɛn abusua no boom"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

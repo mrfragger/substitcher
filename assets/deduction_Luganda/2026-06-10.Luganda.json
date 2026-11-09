@@ -1,0 +1,61 @@
+{
+  "title": "Abakuumi b'Olusuku",
+  "intro": "Mu lusuku olujjudde ebimera, ekitundu ekimu kyakola obweyamo obw’amaanyi. Naye obumalirivu bwabwe bwagezesebwa ng’okwagala okw’obwakatonda kuyingidde mu nsonga, ne kifuula obugabi bwabwe ensi etaliimu bimera.",
+  "clues": [
+    "Twaweebwa omukisa n’olusuku olujjudde, naye ne tufuuka ab’amalala.",
+    "Twakola enteekateeka y’okukungula nga tetugabana na baavu.",
+    "Twasitula ku makya ennyo, nga tuli bakakafu mu nteekateeka yaffe.",
+    "Naye bwe twatuuka, twasanga olusuku lwaffe nga lusaanyiziddwaawo mu kiro kimu.",
+    "Twategeera ensobi yaffe ne tutandika okunenya munne.",
+    "Twatuuka ekiseera ne twenenya, naye essomo lyatuyiga kikeerezi nnyo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ffe Tuli Baani?",
+      "options": [
+        "Abantu b'Olusuku",
+        "Abantu b'Empuku",
+        "Abantu ba Njovu",
+        "Abantu b’e Thamud",
+        "Abantu ba 'Ad"
+      ],
+      "answer": "Abantu b'Olusuku"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Olusuku lwafuuka evvu",
+        "Amataba agaasaanyaawo buli kimu",
+        "Enjala eyagwa mu nsi",
+        "Eggye ly’ebinyonyi nga lilumba",
+        "Empewo ennene eyasimbula emiti"
+      ],
+      "answer": "Olusuku lwafuuka evvu"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Olusuku",
+        "Empuku",
+        "Emmeeri",
+        "Olusozi",
+        "Olubiri"
+      ],
+      "answer": "Olusuku"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Beenenya naye ne bafiirwa olusuku lwabwe",
+        "Zaasaanawo ddala",
+        "Zaafuulibwa enkima",
+        "Baalokolebwa olw’okukkiriza",
+        "Baafuuka abafuzi"
+      ],
+      "answer": "Beenenya naye ne bafiirwa olusuku lwabwe"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

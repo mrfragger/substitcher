@@ -1,0 +1,61 @@
+{
+  "title": "Kaxxiina xisô mahandas",
+  "intro": "dumaahi baaxol miraacisam sadi cayla, lafa le cankah afkan diihay le. ta rooci silaacat suge amoytiini kaxxa ekraaroh addat, doori ken qanxaffe le doolat kee gexkalootu yallih farmo. Ken naggaarinni baad caylih gexsit kee numma angoddat axawah tan.",
+  "clues": [
+    "Anu ayfaf eceeh bohoy le miraacay ummatta hora horah xukkutak suge.",
+    "Yi migaq qagaaqagitak qibaadah kitaabal ta caylale miraacah xaqut galab kak xaggiime.",
+    "Anu kaxxa xisneh cugaysot taamiteh suge, qaran gufaamih taagah fayyale rikkisso.",
+    "Anu inni abbaytu Israa-eel xayloh xaylo qiddam kee ken say xaylo cattam fayseh.",
+    "Anu Yallih caylale farmoytal cogdaadii kee cogdaadit culeh suge.",
+    "Yi ellecabo, yi abbaytu kee kay qande lih, fidin badih leeh addat yemeete."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Anu miyyaay?",
+      "options": [
+        "Nimrood",
+        "Ibraahih",
+        "Goliyaat",
+        "Ibliis",
+        "Hamaan"
+      ],
+      "answer": "Hamaan"
+    },
+    "trial": {
+      "label": "Gibbatu/Tekkooka",
+      "options": [
+        "mango gaddat gibbataanam",
+        "qande miraacisak diini qaril",
+        "Yalla gufnuh burji xisaanama.",
+        "Ken imaanal girat qidaanam",
+        "tooboko qeeli addat qidaanam"
+      ],
+      "answer": "Yalla gufnuh burji xisaanama."
+    },
+    "location": {
+      "label": "Lafa le liyyitte",
+      "options": [
+        "Doonik",
+        "Taama abeynit",
+        "Qale",
+        "kalqata",
+        "Kullum"
+      ],
+      "answer": "kalqata"
+    },
+    "outcome": {
+      "label": "Xalu",
+      "options": [
+        "Naharsi wale yomcowwe",
+        "Farmoyta yakkeenimi",
+        "Baaxol yanxuqeenimi.",
+        "Amoytiini mattacoo",
+        "Baddi addat yaqbisaanama."
+      ],
+      "answer": "Baddi addat yaqbisaanama."
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

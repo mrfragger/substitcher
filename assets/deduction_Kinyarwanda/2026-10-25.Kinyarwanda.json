@@ -1,0 +1,61 @@
+{
+  "title": "Ikirego cyumvwa hejuru y'urusaku",
+  "intro": "Urumva ijwi riturutse mu muryango aho gukandamizwa byabaye akamenyero. Nta kugaragaza imbaraga bisubiza ikibazo; ahubwo, ubusabe butaziguye bugera kuri Allah, kandi igisubizo kiba ku mutima w'ugusenga ubwako. Ni nde watanze icyo kirego, ni ikihe kibazo cyakurikiyeho, kandi ni ukuhe kuri kwemejwe?",
+  "clues": [
+    "Narababajwe n'ikandamizwa ry'abantu bari bankikije.",
+    "Navuze icyo kibazo kuri Allah mu kirego cyanjye bwite.",
+    "Allah yumvise ikirego maze asubiza anyomoza ku byerekeye ukwemera kwanjye.",
+    "Igisubizo cyabajije ukuntu nananiwe kwizera Allah, we Muremure kandi Usumba byose.",
+    "Hanyuma nabajije impamvu Allah yagakwiye kugirira ubuntu abantu batemera.",
+    "Ndi Uzair, witwa muri Surah Az-Zukhruf nk'umuntu Imana yumvise ikirego cye."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Uzair",
+        "Umugenzi wafashe ubwato mu mwuzure ukomeye",
+        "Umugaragu wanyuze hejuru y'amazi",
+        "Umuntu usinziriye yarinzwe mu buvumo",
+        "Umugaragu wazanye amabuye ku ruzi"
+      ],
+      "answer": "Uzair"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Kwinubira Allah ku byerekeye gukandamizwa kw'abantu",
+        "Kugenda hejuru y'amazi mu gihe cy'inkubi y'umuyaga",
+        "Gutwara amabuye ku ruzi rwari rudafite amazi",
+        "Gutembera mu bwato mu myuzure ikomeye mu bwato",
+        "Kwakira urufunguzo rw'ubutunzi butagira ingano"
+      ],
+      "answer": "Kwinubira Allah ku byerekeye gukandamizwa kw'abantu"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Ikirego cyatanzwe ku buryo butaziguye kuri Allah",
+        "Inkoni yahindutse inzoka",
+        "Itanura ryakozwe rikonje kandi rituje",
+        "Ubwato buri kureremba hejuru y'amazi y'umwuzure",
+        "Ifi iri kumira umugaragu"
+      ],
+      "answer": "Ikirego cyatanzwe ku buryo butaziguye kuri Allah"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Allah yumvise ikirego maze yemeza ko Imana ari Umwe n'Imana Isumba byose",
+        "Kugenda mu mutekano hejuru y'amazi mu gihe cy'inkubi y'umuyaga",
+        "Kwambuka umwuzure ukomeye mu bwato mu mutekano",
+        "Kubona bundi bushya mu ngoro y'ubwibone",
+        "Kwakira ubutegetsi buva Iburasirazuba bujya iburengerazuba"
+      ],
+      "answer": "Allah yumvise ikirego maze yemeza ko Imana ari Umwe n'Imana Isumba byose"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

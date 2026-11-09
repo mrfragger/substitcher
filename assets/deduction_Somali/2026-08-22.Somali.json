@@ -1,0 +1,61 @@
+{
+  "title": "Magaalada Aaminsan Waqtiga",
+  "intro": "Qormada naxariista rabbaaniga ah, waxaa jira bulsho ay isbeddelka ku timid daqiiqad ay si wadajir ah u rumowday. Waxaad ku dhowdahay inaad daaha ka rogto sheekadooda - sheeko digniin ah, towbad keen, iyo nasasho ah oo ka soocday masiirka quruumaha kale.",
+  "clues": [
+    "Waxaan ahayn dad rasuul loo diray, waana ka leexannay baaqiisii ​​markii hore.",
+    "Markii calaamadaha ciqaabta soo socota ay caddaatay, waxaan ogaanay runta digniintiisa.",
+    "Waxaan u jeesannay Rabbigeen annagoo toobad dhab ah qaadanayna, iimaankeenniina waa la aqbalay.",
+    "Ciqaabtii naloo xukumay waa la qaaday sababtoo ah aaminsanaanteena.",
+    "Sheekadeennu waxaa lagu soo qaatay inay ka reebban tahay magaalooyinkii rumaysnaa ka dib markay arkeen ciqaabta.",
+    "Waxaan ahayn dadkii nebiga ahaa ee uu liqay nibiriga, haddana waxaa naga badbaadisay burbur."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Dadka reer Yunus",
+        "Dadkii Nuux",
+        "Dadka reer Hud",
+        "Dadka reer Saalix",
+        "Dadka reer Luut"
+      ],
+      "answer": "Dadka reer Yunus"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Daadad ba'an oo daadad wata",
+        "Duufaan daran",
+        "Ciqaab ceeb ah oo soo socota oo laga hortagay",
+        "Dhulku wuu liqay",
+        "Roob dhagaxyo ah"
+      ],
+      "answer": "Ciqaab ceeb ah oo soo socota oo laga hortagay"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Sanduuqii",
+        "Hashii",
+        "Magaalo boqol kun ah",
+        "Shaqaalaha Muuse",
+        "Kaydka Qaruun"
+      ],
+      "answer": "Magaalo boqol kun ah"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Waa la burburiyay gebi ahaanba",
+        "Waxaa la siiyay raaxo muddo ah",
+        "Waxaa loo beddelay daanyeer",
+        "Way qarqeen",
+        "Dhulku wuu liqay."
+      ],
+      "answer": "Waxaa la siiyay raaxo muddo ah"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

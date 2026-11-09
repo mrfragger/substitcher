@@ -1,0 +1,61 @@
+{
+  "title": "Mubatanidzwa Wakakoka Kuparadzwa",
+  "intro": "Fungidzira wakavharirwa pasi pedenga rimwe chete nerakaratidzwa, asi uchisarudza kuvimbika kwakasiyana. Munhu uyu aigara pedyo nechokwadi neuporofita, asi akatendeukira kune avo vakaramba. Nyaya yavo inomira seyambiro huru yekuti kuva pedyo nekururama chete hakugone kuponesa mweya unonyengera chivimbo chako.",
+  "clues": [
+    "Ndaigara mumba memuporofita akasarudzwa naAllah.",
+    "Ndaiziva chokwadi chaiparidzwa nemurume wangu, asi handina kunyatsochitenda.",
+    "Ndakamutengesa nekutsigira vanhu vaairamba uye ndikavabatsira kuti vamurwise.",
+    "Ndinotaurwa pamwe chete nemukadzi wemumwe muporofita uyo akatengesawo, semuenzaniso kune vasingatendi.",
+    "Nyaya yangu inotaurwa muSurah At-Tahrim seyambiro yekuti hukama nevaprofita hahudziviriri.",
+    "Ndakaparara pamwe chete nevasina kururama apo Allah akaparadza vanhu vaLut, vakasara pamwe chete nevakasara."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Mudzimai weMuporofita Lut",
+        "Asiya, Mudzimai waFarao",
+        "Mudzimai waImran",
+        "Sara, Mudzimai weMuporofita Ibrahim",
+        "Mudzimai waAl-Aziz"
+      ],
+      "answer": "Mudzimai weMuporofita Lut"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Akatengesa muporofita nekubatsira vasingatendi kuti vamurwise",
+        "Kanda mwana mucheche murwizi ari mudengu kuti umuponese",
+        "Vakakumbira kuti mhuru yegoridhe ivakwe panguva iyo muporofita asipo",
+        "Akapomera mushumiri akarurama mhosva yekuita zvakaipa ndokumuisa mujeri",
+        "Akatungamira hondo yenzou kuti iparadze Kaaba"
+      ],
+      "answer": "Akatengesa muporofita nekubatsira vasingatendi kuti vamurwise"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Maguta akakundwa evanhu vaLut",
+        "Areka yakavakwa pasi pekutungamirirwa naMwari",
+        "Moto wakatonhorera kuna Ibrahim",
+        "Bako rekupotera revechidiki vakarara",
+        "Rwizi rwakawanikwa dengu remwana mucheche"
+      ],
+      "answer": "Maguta akakundwa evanhu vaLut"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akaparara pamwe chete nevasingatendi pasinei nekuroora muporofita",
+        "Akaponeswa pamwe chete nevatendi uye akapinda muParadhiso nerugare",
+        "Yakashandurwa kuita mbiru sechiratidzo chezvizvarwa zvinotevera",
+        "Yakamedzwa nenyika nepfuma huru",
+        "Akapiwa mwana anoshamisa mukukwegura"
+      ],
+      "answer": "Akaparara pamwe chete nevasingatendi pasinei nekuroora muporofita"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

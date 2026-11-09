@@ -1,0 +1,61 @@
+{
+  "title": "Omwoyo Omwesigwa ogw’Okubikkulirwa",
+  "intro": "Mu bifo ebitalabika, ekitonde eky’ekitangaala ekirongoofu kitambula mu ngeri entuufu, nga kikola buli kiragiro awatali kulonzalonza. Omuwendo guno gwogedde n’abaweereza abalonde, guleese ebigambo eby’obulagirizi, era nga gubadde mujulizi w’okubikkulwa kw’ebiragiro bya Katonda okuyita mu mirembe gyonna. Omwoyo guno ogw’ekitiibwa y’ani?",
+  "clues": [
+    "Ndi kitonde kya kitangaala ekirongoofu, ekyatondebwa okuva mu kitangaala, era sigonderangako kiragiro kya Mukama wange na kimu.",
+    "Ntambula wakati w’eggulu n’ensi, nga nkka n’ebiragiro by’Omusaasizi ennyo.",
+    "Nasindikibwa eri embeerera ow’ekitiibwa mu kifo ekitukuvu, nga mmulangirira omwana omulenzi omulongoofu.",
+    "Nze mwoyo gwa butukuvu, era nawagira nnabbi eyaweebwa obubonero obw’olwatu n’Enjiri.",
+    "Najja mu mpuku eyali ku lusozi okutuusa ebigambo ebisooka eby’okusoma okwandibadde kukuumibwa emirembe gyonna.",
+    "Nze mwoyo ogwesigika, era nze nnassa Quran ku mutima gw’omubaka asembayo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Jibril (Gabriel) .",
+        "Mikail (Mikayiri) .",
+        "Malayika w’Okufa",
+        "Malik (Omukuumi wa Geyena) .",
+        "Harut (omu ku bamalayika ababiri mu Babulooni) ."
+      ],
+      "answer": "Jibril (Gabriel) ."
+    },
+    "trial": {
+      "label": "Omulimu/Omulimu Omukulu",
+      "options": [
+        "Okutuusa okubikkulirwa eri bannabbi",
+        "Okufuuwa ekkondeere ku lunaku lw’enkomerero",
+        "Okukuuma emiryango gya Geyeena",
+        "Okuwandiika ebikolwa by’abantu",
+        "Okuvaako enkuba okutonnya"
+      ],
+      "answer": "Okutuusa okubikkulirwa eri bannabbi"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu oba Omutwe",
+      "options": [
+        "Omwoyo Omutukuvu (Ruh al-Qudus) .",
+        "Omwoyo gw’Amaanyi",
+        "Omwoyo gw’okusaasira",
+        "Omwoyo gw’Obulungamya",
+        "Omwoyo w’Amazima"
+      ],
+      "answer": "Omwoyo Omutukuvu (Ruh al-Qudus) ."
+    },
+    "outcome": {
+      "label": "Ebivudde mu Mission",
+      "options": [
+        "Quran yassibwa eri Nabbi Muhammad",
+        "Ekkondeere lyafuuwa ku lunaku lw’enkomerero",
+        "Geyena yali ekuumibwa era n’emiryango gyayo gyaggalwa",
+        "Ekitabo ky’Emirimu kyayanjuddwa eri Allah",
+        "Enkuba yasindikibwa ku nsi"
+      ],
+      "answer": "Quran yassibwa eri Nabbi Muhammad"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

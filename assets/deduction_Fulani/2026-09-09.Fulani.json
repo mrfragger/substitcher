@@ -1,0 +1,61 @@
+{
+  "title": "Ruuhu Gadano Darnde",
+  "intro": "Ko ɓooyaani ko nelaaɗo gooto yahrata e leydi, ko adii nde binndol ngol feeñata, tagoore nde nanndaani e goɗɗo oo arii e tagoore. Ooɗoo ruuhu ko juuɗe Alla mbayli ɗum, rokka ɗum nokku ɗo ŋarɗugol mum alaa ɗo haaɗi, jarribaama e mbaadi ndi njiylotoɗen e nder daartol aadee fof. Ko rewi heen ko daartol tampere, tuubugol laaɓtungol, e daɗndo ngo waylata laawol tagoore ndee haa abada. Mbele aɗa waawi teskaade hol oo?",
+  "clues": [
+    "Mi mbaylaama e juuɗe Joom yurmeende gila e ɓuuɓri leydi",
+    "Mi rokkaama galle mo alaa ko nanndi e mum, ɗo heege walla tampere waawaa meemde mi",
+    "Mi yamiraama hoto mi ɓadto hay lekki gooto, sabu ko ɗum haram",
+    "Miin e sehil am min majjinaama min ɓadtii lekki kaɗaaki kii, min luutndii yamiroore Joomiraawo amen",
+    "En ngartii e Joomiraawo men e tuubuubuye laaɓɗe, en njaafaama tooñannge men",
+    "E men, neɗɗaagu fof jippii; Ko miin woni gadano yahde e dow ndii leydi"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol ko ngonmi?",
+      "options": [
+        "Annabi Aadama",
+        "Annabi Muusaa",
+        "Annabi Nuuhu",
+        "Annabi Yuusuf",
+        "Annabi Isaa"
+      ],
+      "answer": "Annabi Aadama"
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "Jarribo e lekki harminaaki",
+        "Jokkondiral e Firawna",
+        "Mahngo Laana mawka",
+        "Sadak ɓiɗɗo giɗaaɗo",
+        "Wurde e nder yiite mawnge"
+      ],
+      "answer": "Jarribo e lekki harminaaki"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Lekki Haram",
+        "Buus ɓuuɓɗo",
+        "Kaɓirgal kaŋŋe",
+        "Laana mawka",
+        "Nagge kaŋŋe"
+      ],
+      "answer": "Lekki Haram"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "Nelaaɗo e leydi ko toppitiiɗo neɗɗaagu gadano",
+        "Firaawna e konu mum njolii e nder maayo",
+        "Ilam mawɗam halki yimɓe bonɓe",
+        "Yiite ngee wonti cooyngal, jam",
+        "Hokkaama laamu dow laamu Misra"
+      ],
+      "answer": "Nelaaɗo e leydi ko toppitiiɗo neɗɗaagu gadano"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

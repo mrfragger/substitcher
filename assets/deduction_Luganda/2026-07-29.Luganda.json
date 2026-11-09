@@ -1,0 +1,61 @@
+{
+  "title": "Okuyigganya Mu Kkooti",
+  "intro": "Mu kkubo ly’obuyinza, omuntu ow’omutindo ogwa waggulu yayagala nnyo omuweereza ng’obulungi bwe bwa nsi endala. Okwegomba kuno kwaleetawo ebintu ebiwerako ebyandigezesezza obwesigwa, ne bibikkula amazima agakwekeddwa, era ku nkomerero ne bikakasa nti omuweereza oyo talina musango.",
+  "clues": [
+    "Nnabeera mu nsi y’omugga Kiyira, mu lubiri olwali lulina obuyinza bungi.",
+    "Omuvubuka yajja mu nnyumba yange, okubeerawo kwe ne kutabula ensi yange.",
+    "Nagezaako okumusendasenda, naye n’anoonya obuddukiro mu Mukama we.",
+    "Nayuza ekyambalo kye okuva emabega, naye obujulizi bwalaga nti nnali ndi mulimba.",
+    "Okusirisa olugambo lw’abakazi ab’ekitiibwa, nnabayita mu lukuŋŋaana ne mbateeka ebintu ebisongovu mu ngalo.",
+    "Ku nkomerero, nnayatula ensobi yange mu lujjudde, nga nkkirizza amazima mu maaso ga kabaka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Mukyala wa Al-Aziz",
+        "Asiya (Mukyala wa Falaawo) .",
+        "Bilqis (Nnabagereka wa Seba) .",
+        "Maryam (Maama wa Isa) .",
+        "Maama wa Musa"
+      ],
+      "answer": "Mukyala wa Al-Aziz"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Yagezaako okusendasenda Nabbi Yusuf",
+        "Yagezaako okutta Nabbi Musa",
+        "Yeeyita katonda omukazi",
+        "Yazimba omunaala okusomooza Allah",
+        "Yakulembera eggye okulwanyisa Makkah"
+      ],
+      "answer": "Yagezaako okusendasenda Nabbi Yusuf"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Essaati eyakutuddwa okuva emabega",
+        "Ennyana eya zaabu",
+        "Omuggo ogwafuuka omusota",
+        "Engamiya enkazi",
+        "Ettaala"
+      ],
+      "answer": "Essaati eyakutuddwa okuva emabega"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yatula era n’akkiriza amazima",
+        "Yabbira mu mazzi n’eggye lye",
+        "Yafuuka empagi y’omunnyo",
+        "Yamira ensi",
+        "Yasaanawo olw’empewo eyabadde ekuba enduulu"
+      ],
+      "answer": "Yatula era n’akkiriza amazima"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

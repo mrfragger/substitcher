@@ -1,0 +1,61 @@
+{
+  "title": "Beertii Habeenkii Baaba'day",
+  "intro": "Bal qiyaas beer qurux badan, oo midhaha bislaaday ay ku hareeraysan yihiin geedo dhaadheer. Kuwa daryeela waxay isu maleeyeen inay yihiin kuwo caqli badan, iyagoo qorsheynaya goosashadooda saacadaha deggan ka hor waaberiga, iyagoo ka fog indhaha kuwa baahan. Laakiin Kan aan waligiis seexan wuxuu lahaa qorshayaal kale oo ku saabsan deeqsinimadooda qarsoon. Ma qiyaasi kartaa cidda ka dambeysa sheekadan digniinta ah ee Qur'aanka?",
+  "clues": [
+    "Waxaan mar lahayn beer aad u qurux badan oo ay ku hinaastay dhammaan dadkii soo marayay.",
+    "Qorshaynteenna, waxaan isku af-garannay subaxdii hore, annagoo ku dhawaaqnay inaan qof baahan loo oggolaan doonin inuu soo galo maalintaas.",
+    "Waxaan ahayn dad hodan ah, qalbiyadeenuna way indho la'aayeen xuquuqda dadka saboolka ah ee nagu xeeran.",
+    "Markii waagii beerashada aan damacsanayn la gaaray, waxaan u soo dhawaannay beertayada oo habeen keliya isu beddeshay burbur madow.",
+    "Amar ba'an ayaa soo baxay, isagoo aan waxba ka reebin dambaskii ay rucubyo miro bisil ah mar la sudhnaayeen.",
+    "Sheekadeennu waa digniin adag oo ku qoran Qur'aanka, halkaas oo naloogu yaqaanno milkiilayaasha beerta ee sadaqada ka reebay kuwa baahan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Mulkiilayaasha Beerta",
+        "Dadka Godka ku nool",
+        "Xertii Ciise",
+        "Asxaabta Kaynta",
+        "Martidii Ibraahim"
+      ],
+      "answer": "Mulkiilayaasha Beerta"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Si qarsoodi ah u gurashada miraha iyo ka hortagga saboolka",
+        "Qarniyo badan ayaan ku seexanayaa god gudahiisa",
+        "Diidmada in la soo saaro hashii dhagaxa",
+        "Ku caabudidda weyl dahab ah oo Buur Siinay ah",
+        "Dhisidda doon weyn si looga baxsado daad"
+      ],
+      "answer": "Si qarsoodi ah u gurashada miraha iyo ka hortagga saboolka"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Beer derbi leh oo ay ka buuxaan geedo timireed iyo canab ah",
+        "God mugdi ah oo qoto dheer oo buuraha ku yaal",
+        "Magaalo ay duufaan rabbaani ah ku dhufatay",
+        "Dooxo barakeysan oo u dhow Guriga Alle",
+        "Wabi socda qarkiisa"
+      ],
+      "answer": "Beer derbi leh oo ay ka buuxaan geedo timireed iyo canab ah"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Beerta waxaa ku gubtay amar kulul oo samada ka yimid",
+        "Waxay si nabad ah u seexdeen 309 sano oo dayax ah",
+        "Waxaa burburiyay roob dhagaxyo ah",
+        "Waxay ku qarqeen hirarkii daad weyn",
+        "Waxaa ku kala firdhiyey duufaan qabow oo kulul."
+      ],
+      "answer": "Beerta waxaa ku gubtay amar kulul oo samada ka yimid"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

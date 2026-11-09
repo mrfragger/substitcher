@@ -1,0 +1,61 @@
+{
+  "title": "Ko Riiwaaɗo e Asamaan",
+  "intro": "Tagɗo sirlu ina darii e ŋoral tagoore e jaɓde. Daartol maɓɓe ko mawnikinaare nde alaa ko nanndi e mum, e ƴattaade yamiroore Alla. Suɓngo maɓɓe ina rewi e kala yonta, ina wonta jarribo kala ruuhu jibinaaɗo e oo aduna. Mbele aɗa waawi anndude oo gaño duumotooɗo?",
+  "clues": [
+    "Miɗo tawtoraa kewu baawɗo wonde fof, nde tagoore hesere sosaa e loopal, rokka nguurndam e Pooftol Yurmeende.",
+    "Miin e hoore am, mi ardii e tagoore wootere ɓuuɓnde, nde nanndaani e oon tagoore ɓuuɓnde.",
+    "Yamiroore yaltinaama e am nde cikku-mi ko les station am.",
+    "Manngu ɓuuɓtii e nder am, mi salii ɗooftaade ndeen yamiroore.",
+    "Leelgol haa ñalawma toɗɗaaɗo rokkaama, mbele miɗo waawa jokkude faandaare am bayyinaande ngam majjude woɗɓe.",
+    "Ko miin woni gaño bayyinaaɗo e kala yahooɓe e leydi, ɓuuɓnoowo fenaande e luulndaade ɗum en e laawol peewal."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol ko ngonmi?",
+      "options": [
+        "Ibliis (Seyɗaane)",
+        "Firawna (Firaawna) .",
+        "Haman",
+        "Abuu Jahl",
+        "Samiri"
+      ],
+      "answer": "Ibliis (Seyɗaane)"
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "Jaɓaani sujjande yeeso Aadama",
+        "Wiyaama diineeji e fenaande",
+        "Forji nagge kaŋŋe ngam dewal",
+        "Wari miñi mum ko e yiɗde",
+        "Ardiima luulndo mushrik to Makka"
+      ],
+      "answer": "Jaɓaani sujjande yeeso Aadama"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Aljanna (janna)",
+        "Galle Firaawna to Misra",
+        "Falnde Tuwa ceniinde",
+        "Lugge maayo",
+        "Jardiin Seba"
+      ],
+      "answer": "Aljanna (janna)"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "Hokkaama fooftere haa ñalawma ñaawoore",
+        "Njokki wondude e konu nguu e nder maayo",
+        "Muuɗi leydi wondude e ngalu",
+        "Wayliima wonti apes ngam bonnude ñalawma sabaabu",
+        "Burned e kaaƴe mberlaaɗe e asamaan"
+      ],
+      "answer": "Hokkaama fooftere haa ñalawma ñaawoore"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

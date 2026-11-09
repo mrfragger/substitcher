@@ -1,0 +1,61 @@
+{
+  "title": "Kuwa Samada laga eryay",
+  "intro": "Makhluuq qarsoodi ah ayaa taagan isgoysyada abuurka iyo diidmada. Sheekadoodu waa mid aan la barbar dhigi karin isla weyni iyo diidmada ugu dambeysa ee amarka rabbaaniga ah. Doorashadoodu waxay ka soo baxaysaa jiil kasta, iyadoo noqonaysa imtixaan loogu talagalay naf kasta oo ku dhalatay adduunkan. Ma aqoonsan kartaa cadowgan daa'imka ah?",
+  "clues": [
+    "Waxaan goob joog ka ahaa dhacdo muhiimad weyn u leh koonka, markii noole cusub laga sameeyay dhoobo oo nolol lagu siiyay Neefta Naxariista.",
+    "Aniga qudhaydu waxaa la iga abuuray hal curiye oo ololaya, si ka duwan sidii ciidda ahayd.",
+    "Amar ayaa la ii soo saaray oo aan u arkay saldhiggayga hoostiisa.",
+    "Kibirkii ayaa igu batay, aniguna si adag ayaan u diiday inaan u hoggaansamo amarkaas.",
+    "Dib u dhac ilaa Maalin la cayimay ayaa la ii ogolaaday, si aan u sii wado ujeeddadayda la sheegay ee ah inaan dadka kale marin habaabiyo.",
+    "Waxaan ahay cadowga lagu dhawaaqay ee dhammaan kuwa dhulka ku socda, anigoo khiyaamo ku hadlaya oo ka leexinaya waddada toosan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Ibliis (Shaydaan)",
+        "Fircoon (Fir'auna)",
+        "Haamaan",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Ibliis (Shaydaan)"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Diidmo inuu u sujuudo Aadan hortiisa",
+        "Sheegashada ilaahnimo been ah",
+        "Wuu sameeyay weyl dahab ah oo loo sameeyay cibaadada",
+        "Wuxuu dilay walaalkiis xaasidnimo awgeed",
+        "Wuxuu hoggaamiyay mucaaradka mushrikiinta ee Makka."
+      ],
+      "answer": "Diidmo inuu u sujuudo Aadan hortiisa"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Jannada (Janna)",
+        "Qasriga Fircoon ee Masar",
+        "Dooxada barakeysan ee Tuwa",
+        "Qoto dheer ee badda",
+        "Beerta Sheba"
+      ],
+      "answer": "Jannada (Janna)"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Nasasho ayaa la siiyay ilaa Maalinta Qiyaame",
+        "Iyadoo ciidankii badda lagu qarqiyay",
+        "Dhulku wuxuu liqay khasnado iyo dhulal",
+        "Waxaa loo beddelay daanyeerro markii ay jebiyeen Sabtida",
+        "Dhagaxyo cirka laga soo tuuray oo gubay"
+      ],
+      "answer": "Nasasho ayaa la siiyay ilaa Maalinta Qiyaame"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

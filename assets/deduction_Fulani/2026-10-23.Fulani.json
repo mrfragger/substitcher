@@ -1,0 +1,61 @@
+{
+  "title": "Mission e nder wuro ɓooyngo",
+  "intro": "Wuro ɓooyngo duƴƴungo, yimɓe mum ɓuuɓɓe e yeddude, e jeertinaango sakkitiingo ngo yahraani no haanirta nii. Hannde, naata e darnde nelaaɓe Alla ngam yettinde konngol e leñol tiiɗngol. Daartol jaɓgol, daande wootere goonɗinal, e joofnirde siimtunde e yamiroore bonnde. Hol kaaloowo e ɗeen ɗoo nate?",
+  "clues": [
+    "En neldaa ko Alla e wuro ngo yimɓe mum njalti e goonga",
+    "Min ɗiɗo ngari ko adii, caggal ɗuum tataɓo naati ngam semmbinde golle amen",
+    "Wuro ngoo salii en, mbiyi en ngonaa hay huunde so wonaa yimɓe hono maɓɓe",
+    "Ruuhu gooto ummoriiɗo e damal wuro ɓurngo woɗɗude dogi, wi’i yimɓe ɓee yo njokku e amen",
+    "Min ñaagiima ɓe, kono ɓe tiiɗnii ɓerɗe maɓɓe, ɓe njippii e amen",
+    "E nder wullaango wooto bonngo ummoraade e asamaan, wuro men ngoo fof muumɗi"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol ko ngonmi?",
+      "options": [
+        "Nelaaɓe Wuro e Suura Ya-Sin",
+        "Hawwariyyuun en almuube Iisaa",
+        "Sifaaɓe suudu Firawna",
+        "Sahaabaaɓe ñalawma sabaabu",
+        "Yimɓe Kuuɓal"
+      ],
+      "answer": "Nelaaɓe Wuro e Suura Ya-Sin"
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "Jaɓaaɗo e noddiraaɗo fenaande e juuɗe wuro ngoo",
+        "Burned nguurndam e nder yiite mawnge ɓuuɓnge",
+        "Liɗɗi mawɗi ɓuuɓɗi e nder maayo luggiɗngo",
+        "Doole golle mahngo piilngal toowngal",
+        "Torlaa e nder ɓuuɓri yiite ɓuuɓɗo"
+      ],
+      "answer": "Jaɓaaɗo e noddiraaɗo fenaande e juuɗe wuro ngoo"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Wuro ɓooyngo (al-Qaryah)",
+        "Fuurde mawnde ina huɓɓa",
+        "Reedu liɗɗi mawɗi",
+        "Piilngal toowngal memi asamaan",
+        "Suudu teddundu ndu (Kaaba) ."
+      ],
+      "answer": "Wuro ɓooyngo (al-Qaryah)"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "Wuro ngo yani ko e wullaango wooto (Sayha) .",
+        "Tippuɗo oo e konu mum njippii e maayo fecciingo ngoo",
+        "Yimɓe ɓee mbayliima wonti ɓowɗi e ɓowɗi",
+        "Toɓo kaaƴe ummoriiɗo dow asamaan halki wuro ngo",
+        "Ilam bonɗam ɓuuɓni renndo ngoo fof"
+      ],
+      "answer": "Wuro ngo yani ko e wullaango wooto (Sayha) ."
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

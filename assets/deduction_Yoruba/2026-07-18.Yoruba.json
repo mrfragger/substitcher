@@ -1,0 +1,61 @@
+{
+  "title": "Èyí tí a yọ kúrò nínú ìdánwò omi",
+  "intro": "Nínú àkọsílẹ̀ ìwé mímọ́ àtijọ́, ẹni kan wà tí ìtàn rẹ̀ kò bẹ̀rẹ̀ pẹ̀lú iṣẹ́ ìyanu tàbí ìfihàn tí ń dún bí ààrá, ṣùgbọ́n pẹ̀lú ìdánwò ìgbàgbọ́ tí ó rọrùn ṣùgbọ́n tí ó jinlẹ̀. Orílẹ̀-èdè kan dúró ní oríta kan, ó ń wá ìtọ́sọ́nà àtọ̀runwá fún ìtọ́sọ́nà. Ohun tí ó ṣẹlẹ̀ jẹ́ ìdánwò tí ó gbọ́n tó bẹ́ẹ̀ tí yóò fi fi àwọn onígbàgbọ́ tòótọ́ láàárín wọn hàn. Ṣé o lè tú àṣírí yìí láti inú àwọn àmì tí a fi sílẹ̀?",
+  "clues": [
+    "Mo ti ìran kan tí àwọn ènìyàn fẹ́ràn, Allah sì yàn mí fún ète mímọ́ tí wọn kò lè lóye.",
+    "Ara mi ní àmì ìyàtọ̀ tí àwọn ẹlòmíràn kò ní, èyí tó mú kí n yàtọ̀ láàrín àwọn ènìyàn mi.",
+    "Nígbà tí wọ́n kéde ìdánwò odò náà, ọ̀pọ̀lọpọ̀ yípadà—ṣùgbọ́n mo tẹ̀síwájú, nítorí ìgbàgbọ́ àìlágbára nínú ìlérí Allah.",
+    "Wọ́n pàṣẹ fún mi pé kí n má mu omi tí wọ́n kà léèwọ̀, síbẹ̀ ìṣàn omi kan jáde láti ẹnu mi—ẹ̀ṣẹ̀ tí ó ń yọ ọkàn mi lẹ́nu títí láé.",
+    "Allah ti pinnu mi lati pade ọdọmọde oluṣọ-agutan kan ti yoo di olokiki ni ọjọ kan fun pipa ọta nla kan.",
+    "Nígbà tí àwọn ọmọ ogun bá ara wọn jà, kì í ṣe ọwọ́ ọ̀tá ni mo fi ṣubú, bí kò ṣe nípasẹ̀ àṣẹ Ọlọ́run gẹ́gẹ́ bí ìyà fún àìgbọ́ràn mi ní odò náà."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Talut (Saulu) – Ọba Àkọ́kọ́ ti ilẹ̀ Bani Israẹli",
+        "Wòlíì Dáfídì (Dáfídì) – Ọba Olùṣọ́ Àgùntàn",
+        "Goliati (Jalut) – Òmìrán Bani Israẹli",
+        "Wòlíì Súláímọ́nì (Sólómọ́nì) – Olùṣàkóso Afẹ́fẹ́ àti Jínnì",
+        "Ọ̀gágun Ọba Saulu Tí Ó Gbé Àpótí"
+      ],
+      "answer": "Talut (Saulu) – Ọba Àkọ́kọ́ ti ilẹ̀ Bani Israẹli"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Kíkọ̀ láti mu omi láti inú Odò Náílì nígbà Ẹ́kísódù",
+        "Dán àwọn ọmọ ogun wò nípa pípàṣẹ fún wọn pé kí wọ́n má mu omi láti inú odò mímọ́ kan",
+        "Kíkọ́ Tẹ́ḿpìlì Jerúsálẹ́mù ní ogójì ọdún",
+        "Bíbá Wòlíì Mósà jà pẹ̀lú àwọn ará Ámálékì",
+        "Kíkọ́ ààfin fún Bilqis – Ayaba Sheba"
+      ],
+      "answer": "Dán àwọn ọmọ ogun wò nípa pípàṣẹ fún wọn pé kí wọ́n má mu omi láti inú odò mímọ́ kan"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Odò Jọ́dánì nítòsí Jerúsálẹ́mù",
+        "Odò tó wà ní etí Ilẹ̀ Ìlérí",
+        "Odò Euferate ní Bábílónì",
+        "Odò Náílì ní Íjíbítì",
+        "Omi tó yí ìlú Jẹ́ríkò ká"
+      ],
+      "answer": "Odò tó wà ní etí Ilẹ̀ Ìlérí"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Mo di ọba tó ga jùlọ, mo sì kọ́ tẹ́ḿpìlì Jerúsálẹ́mù",
+        "Mo ṣubú lójú ogun gẹ́gẹ́ bí ìyà fún ìwà àìgbọ́ràn mi kan ṣoṣo",
+        "Ìgbàgbọ́ mi ni a gbà mí là, mo sì di wòlíì",
+        "Àwọn ọmọ ogun mi ṣẹ́gun gbogbo ayé tí a mọ̀",
+        "Mo wà láàyè láti rí ọmọ mi Solomoni tí ó jogún ìjọba mi"
+      ],
+      "answer": "Mo ṣubú lójú ogun gẹ́gẹ́ bí ìyà fún ìwà àìgbọ́ràn mi kan ṣoṣo"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

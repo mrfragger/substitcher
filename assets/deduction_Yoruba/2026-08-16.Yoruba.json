@@ -1,0 +1,61 @@
+{
+  "title": "Ohùn Ìdákẹ́jẹ́ẹ́ ní Yàrá Ìyẹ̀wù",
+  "intro": "Àdúrà kan dún ní ìdákẹ́jẹ́ẹ́ yàrá mímọ́ kan tipẹ́tipẹ́, tí ó dìde láti inú ọkàn tí ó ti ń darúgbó tí ó ń fẹ́ ohun tí ayé ti sọ pé kò ṣeé ṣe. Ẹni yìí, tí ó ti dàgbà sí i tí ó sì ní àníyàn nípa ọjọ́ iwájú, yíjú sí Olúwa wọn pẹ̀lú ẹ̀bẹ̀ ara ẹni. Ohun tí ó tẹ̀lé e ni ìdáhùn àtọ̀runwá tí ó lòdì sí gbogbo ìfojúsùn àdánidá—ẹ̀rí àánú Ẹni tí ó dáhùn ìpè aláìnírètí.",
+  "clues": [
+    "Mo pe Oluwa mi ni ikọkọ, mo si kuro ni yara kan nibiti mo ti fi ara mi fun isin Rẹ̀.",
+    "Mo jẹ́wọ́ fún Olúwa mi pé mo bẹ̀rù àwọn tí yóò tẹ̀lé mi, mo sì ń ṣàníyàn fún ìtọ́sọ́nà àwọn ènìyàn mi nígbà tí mo bá ti lọ.",
+    "Ọjọ́ ogbó ti dé bá mi—egungun mi ti di aláìlera, irun funfun sì ti tàn ká orí mi.",
+    "Ọkọ mi ti yàgàn ní gbogbo ìgbésí ayé rẹ̀, síbẹ̀ mo ṣì ń bẹ Olúwa mi láti fún mi ní ajogún láti ọ̀dọ̀ Rẹ̀ fúnrarẹ̀.",
+    "Mo béèrè àmì kan, Olúwa mi sì dáhùn nípa dídí mi lọ́wọ́ láti má bá ẹnikẹ́ni sọ̀rọ̀ fún òru mẹ́ta, nígbà tí ara mi sì le koko.",
+    "Wọ́n ṣèlérí fún mi pé màá ní ọmọkùnrin kan tí orúkọ rẹ̀ yóò jẹ́ Yahya, orúkọ tí Olúwa mi kò tíì sọ fún ẹnikẹ́ni rí."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Sakariya",
+        "Wòlíì Nóà",
+        "Wòlíì Mósà",
+        "Wòlíì Yúsọ́ọ̀fù",
+        "Wòlíì Dáfídì"
+      ],
+      "answer": "Wòlíì Sakariya"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Gbígbàdúrà fún ajogún ní ọjọ́ ogbó pẹ̀lú aya tí kò tíì gbọ́n",
+        "Jíjẹ́ tí a jù sínú iná tí ń jó",
+        "Jíjẹ́ tí ẹja ńlá gbé mì nínú òkùnkùn",
+        "Farada pípadánù ìdílé, ọrọ̀, àti ìlera",
+        "Pípàṣẹ láti kọ́ ọkọ̀ ńlá kan"
+      ],
+      "answer": "Gbígbàdúrà fún ajogún ní ọjọ́ ogbó pẹ̀lú aya tí kò tíì gbọ́n"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Yàrá àdúrà (mihrab)",
+        "Ọ̀pá tí ó di ejò",
+        "Apoti onigi nla kan",
+        "Ọgbà kan pẹ̀lú orísun omi àrà ọ̀tọ̀ kan",
+        "Òkè kan níbi tí àwọn ẹyẹ ti péjọ sí"
+      ],
+      "answer": "Yàrá àdúrà (mihrab)"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Wọ́n fún un ní ọmọkùnrin kan tí wọ́n sọ ní iṣẹ́ ìyanu láìka ọjọ́ ogbó tó burú jáì sí",
+        "A gbà wá là kúrò nínú iná tí ń jó nípasẹ̀ àṣẹ àtọ̀runwá",
+        "Ìkún omi ńlá pa àwọn aláìgbàgbọ́ run",
+        "A mú un padà sí ìdílé, ọrọ̀, àti ìlera lẹ́yìn sùúrù.",
+        "Farao àti àwọn ọmọ ogun rẹ̀ rì sínú òkun"
+      ],
+      "answer": "Wọ́n fún un ní ọmọkùnrin kan tí wọ́n sọ ní iṣẹ́ ìyanu láìka ọjọ́ ogbó tó burú jáì sí"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

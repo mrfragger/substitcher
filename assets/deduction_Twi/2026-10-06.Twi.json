@@ -1,0 +1,61 @@
+{
+  "title": "Nokware a Ɛmaa Asɛnnibea no yɛɛ komm",
+  "intro": "Wɔ ahemfie bi a na pow di hene na na tumi yɛ nea edi mũ koraa mu no, na nnuruyɛfo a wɔn ho akokwaw a wɔaboaboa wɔn ano gyina asɛnnennen bi a na wɔnhwɛ kwan anim. Mframa no yɛɛ gyegyeegye wɔ anidaso mu bere a na atoro ne nokware akwan abien no reyɛ abɔ no. Ná wɔn a wɔahyiam no nnim sɛ saa nhyiam yi bɛsakra wɔn asetra koraa na wɔakyerɛw wɔn asɛm no wɔ nkyerɛwee kronkron no mu.",
+  "clues": [
+    "Ná yɛagye din wɔ yɛn ahokokwaw wɔ adwemmɔne mu na sodifo bi a ɔwɔ tumi boaboaa yɛn ano sɛ yɛne obi a ɔne no rekasa atia.",
+    "Bere a bere no dui no, yɛtow yɛn nnwinnade no na yɛtwɛn nea ebefi mu aba, a na yɛwɔ ahotoso wɔ yɛn nsaanodwuma no mu.",
+    "Nanso nea yehuu no maa yɛn ankasa mfiri yɛɛ te sɛ agode ara kwa, na yɛn koma huu nokware a wontumi nnye ho kyim no.",
+    "Yɛhwee fam wɔ kotow mu, kaa yɛn gyidi wɔ Mose ne Aaron Awurade mu, ɛmfa ho sɛ na sodifo no abufuw no.",
+    "Saa sodifo no hunahunaa yɛn sɛ ɔde asotwe a ɛyɛ atirimɔdensɛm sen biara bɛma yɛn, na ɔkaa ntam sɛ ɔbɛbɔ yɛn asɛndua mu na watwitwa yɛn akwaa wɔ akwan horow a ɛne ne ho bɔ abira so.",
+    "Yɛkɔɔ so pintinn, kaa sɛ yɛpɛ yɛn Awurade atemmuo sene wiase mu nsunsuansoɔ biara, na wɔkumm yɛn wɔ yɛn gyidie ho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Farao Nkɔmfoɔ",
+        "Nnipa a Wɔte Ɔbodan no mu",
+        "Nnua no mu Ahokafoɔ",
+        "Yes",
+        "Nnipa a Wɔyɛ Asono"
+      ],
+      "answer": "Farao Nkɔmfoɔ"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Nkonyaayi akansi bi a wɔne Musa dii",
+        "Ogya a wɔtow guu wɔn so",
+        "Nsuyiri bi a ɛmenee wɔn",
+        "Ɔpɛ ne ɔkɔm",
+        "Asasewosow bi"
+      ],
+      "answer": "Nkonyaayi akansi bi a wɔne Musa dii"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Poma ne nhama a ɛdanee awɔ",
+        "Kwae a ɛrehyew",
+        "Yoma a ɔyɛ ɔbea",
+        "Adaka a wɔde nnua ayɛ",
+        "Whale bi a wɔfrɛ no whale"
+      ],
+      "answer": "Poma ne nhama a ɛdanee awɔ"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Gyidi nti na wokum no, wɔhyɛɛ Paradise ho bɔ",
+        "Wɔmenee no wɔ po mu",
+        "Wɔbɛyɛɛ Misraim sodifo",
+        "Wɔkɔɔ so yɛɛ Farao akyidifo",
+        "Onyaa asase no fii awo mu"
+      ],
+      "answer": "Gyidi nti na wokum no, wɔhyɛɛ Paradise ho bɔ"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

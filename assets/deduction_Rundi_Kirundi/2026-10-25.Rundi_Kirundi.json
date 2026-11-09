@@ -1,0 +1,61 @@
+{
+  "title": "Ikirego carumvikanye hejuru y'urusaku",
+  "intro": "Urumva ijwi riduga rivuye mu kibano aho agahahazo kacitse akamenyero. Nta kwerekana ububasha kwishura iyo nkuru; ahubwo, ugusaba gushitse kuri Allah, kandi inyishu igatera mu mutima w’ugusenga ubwakwo. Ni nde yidoga, ni ikibazo ikihe cakurikiye, kandi ni ukuri ukuhe kwemejwe?",
+  "clues": [
+    "Naciye ngira ubwoba kubera agahahazo k’abantu bari bakikuje.",
+    "Ivyo vyidodombo nabibwiye Allah ataco nshaka mu kwidodomba kwanje bwite.",
+    "Allah yumvise ikirego aca arishura n’ikibazo ku bijanye n’ivyo nemera.",
+    "Inyishu yabajije ingene noshobora kunanirwa kwemera Allah, we ari umwe kandi asumba vyose.",
+    "Naciye mbaza igituma Allah akwiye gukunda abantu bari abahakanyi.",
+    "Ndi Uzayiri, yitwa muri Sura Az-Zukhruf nk’uwo Allah yumvise ikirego ciwe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Uzayiri",
+        "Umugenzi yagenze mu bwato ku mwuzure munini .",
+        "Umusuku yagendera ku mazi .",
+        "Uwusinziriye arindwa mu mwobo",
+        "Umusuku yazanye amabuye ku ruzi ."
+      ],
+      "answer": "Uzayiri"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Kwidodomba kuri Allah ku bijanye n'agahahazo k'abantu .",
+        "Kugenda hejuru y'amazi mu gihe c'igihuhusi",
+        "Gutwara amabuye ku ruzi rwari rwabuze amazi .",
+        "Guca mu bwato buca mu mwuzure munini turi mu bwato .",
+        "Kwakira urufunguruzo rw'ubutunzi buhambaye cane"
+      ],
+      "answer": "Kwidodomba kuri Allah ku bijanye n'agahahazo k'abantu ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Ikirego gishikirijwe kuri Allah",
+        "Inkoni yahindutse inzoka .",
+        "Ifuru yatumye habaho ubukonje n'amahoro",
+        "Ubwato bureremba hejuru y'amazi y'umwuzure",
+        "Ifi imira umusuku ."
+      ],
+      "answer": "Ikirego gishikirijwe kuri Allah"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Allah yumvise ivyo kwidodomba maze yemeza Ubumwe bw'Imana n'Ubwami Busumbasumbane .",
+        "Kugenda neza ku mazi mu gihe c'igihuhusi",
+        "Kujabuka umwuzure munini ata nkomanzi uri mu bwato .",
+        "Gusubira kubona mu ngoro y'ubwibone",
+        "Kuronka ubutware buva mu Buseruko gushika mu Burengero ."
+      ],
+      "answer": "Allah yumvise ivyo kwidodomba maze yemeza Ubumwe bw'Imana n'Ubwami Busumbasumbane ."
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

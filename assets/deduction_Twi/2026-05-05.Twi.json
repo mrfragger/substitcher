@@ -1,0 +1,61 @@
+{
+  "title": "Asase no Atuu",
+  "intro": "Wɔ sɔhwɛ akɛse bere mu no, wɔmaa onipa bi a wagye din wiase nneɛma a ɛdɔɔso, anisɔ ne ahobrɛase ho sɔhwɛ. Saa onipa yi akwantu no yɛ asuade a emu dɔ wɔ sɛnea honam fam nneɛma te bere tiaa mu ne nea efi ahantan mu ba no ho. Da ɔkra yi a wɔakyerɛw n’asɛm no wɔ asase a ɛwɔ yɛn ase no ara mu no adi.",
+  "clues": [
+    "Na mete nnipa bi a ɔbɔfo kɛse bi kyerɛ wɔn kwan mu.",
+    "Allah de ahonyadee bebree maa me araa ma m'ademude nsafe ankasa ye adesoa a emu ye duru ma ankorankoro bebree a wo ho ye den.",
+    "Me nkurofoo, a wonim m’ahonyadee no, tuu me fo se memfa dee Allah de ama me nhwehwe Daankwamma tenabea na mma me werɛ mfiri me kyɛfa wɔ wiase no mu, na menyɛ papa sɛdeɛ Allah ayɛ me papa no.",
+    "Mede ahantan kae sɛ m’ankasa nimdeɛ ne mmɔdenbɔ nkutoo so na enyaa m’ahonyade kɛse no, na mepow ɔsoro adom biara.",
+    "Bere a wɔka kyerɛɛ me sɛ memfa mmoa anaa minnye Allah adom ntom no, mede ahantan powee, na migye dii sɛ m’agyapade yɛ me nkutoo dea.",
+    "Ɛnam sɛ m’ahantan ne nhyɛsoɔ a ɛboro soɔ nti, Allah hyɛɛ asaase no sɛ mmue na ɛnmene me ne me tenabea."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Fir'awn na ɛyɛ",
+        "Iblis na ɔkyerɛwee",
+        "Haman",
+        "Abu Lahab na ɔkyerɛwee",
+        "Qarun na ɔyɛ"
+      ],
+      "answer": "Qarun na ɔyɛ"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Wɔtow no gu ogya mu",
+        "Nsu a ɛremene wɔ po mu",
+        "Wɔpam wɔn fii turo bi mu",
+        "Sɛ́ wɔbɛdan no abɛyɛ ɔkraman",
+        "Asase a ɛremene wɔn"
+      ],
+      "answer": "Asase a ɛremene wɔn"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Sikakɔkɔɔ nantwi ba",
+        "Adaka kɛse bi",
+        "Anomaa a ɔkasa",
+        "Poma a wɔyɛ anwonwade",
+        "Ademude ne nsafe akɛse"
+      ],
+      "answer": "Ademude ne nsafe akɛse"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Ɔbɛyɛ sodifo kɛse",
+        "Ɔsoro adiyisɛm a wobenya",
+        "Ɔsoro a wɔforo kɔ soro",
+        "Onyamesom pa nkwa nna tenten a wɔbɛtra",
+        "Ɔsɛe koraa esiane ahantan nti"
+      ],
+      "answer": "Ɔsɛe koraa esiane ahantan nti"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

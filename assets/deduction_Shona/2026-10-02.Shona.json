@@ -1,0 +1,61 @@
+{
+  "title": "Changamire Akafamba-famba Kumagumo Enyika",
+  "intro": "Fungidzira mutongi ane simba, akapihwa simba nesimba pamusoro penyika. Munhu uyu akatanga nzendo dzinoshamisa, achisvika panonyura zuva nenzvimbo yaro, achisangana nevanhu vasinganzwisisike uye achitarisana nedambudziko guru kubva kumarudzi maviri ane uori. Ndiani mutungamiri uyu asinganzwisisike?",
+  "clues": [
+    "Ndakanga ndiri mutongi akapihwa simba uye nzira dzekusvika kumativi ari kure enyika.",
+    "Ndakaenda kumadokero ndikaona zuva richinyura muchitubu chine rima.",
+    "Ndakasangana nevanhu vari pedyo nezuva raibuda vasina pekuvanda pakupisa kwaro.",
+    "Imwe nharaunda yakakumbira rubatsiro rwangu pakurwisa marudzi maviri ane huwori anozivikanwa saGogi naMagogi.",
+    "Ndakavaka chidziviriro ndichishandisa simbi nemhangura yakanyungudutswa kuti zvigare.",
+    "Ndakazivisa kuti chipingamupinyi ichi chaiva tsitsi kubva kuna Ishe wangu, uye chichagarapo kusvika panguva yakatarwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Dhul-Qarnayn",
+        "Muprofita Sulaiman",
+        "Qarun",
+        "Talut",
+        "Namrud"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kuvaka chipingamupinyi kubva kuna Gogi naMagogi",
+        "Kupona mafashamo makuru",
+        "Kukandwa mumoto",
+        "Kuyambuka gungwa",
+        "Kurwisa hofori"
+      ],
+      "answer": "Kuvaka chipingamupinyi kubva kuna Gogi naMagogi"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Chidziviriro chesimbi nemhangura",
+        "Tsvimbo yakava nyoka",
+        "Ngarava yehuni",
+        "Imba yegirazi",
+        "Bindu remichindwe"
+      ],
+      "answer": "Chidziviriro chesimbi nemhangura"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Gogi naMagogi vakadzorwa kusvika panguva yakatarwa",
+        "Akava muporofita",
+        "Akarangwa nekuda kwekuzvikudza",
+        "Akakunda nyika yose",
+        "Akararama nekusingaperi"
+      ],
+      "answer": "Gogi naMagogi vakadzorwa kusvika panguva yakatarwa"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

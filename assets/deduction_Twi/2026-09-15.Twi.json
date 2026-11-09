@@ -1,0 +1,61 @@
+{
+  "title": "Ahɔhoyɛ a Ɛde Ehu Bae",
+  "intro": "Wɔ kurow bi a amumɔyɛ ahyɛ mu ma mu no, akoa nokwafo bi gyee ahɔho a na wɔnhwɛ kwan da bi. Esiane sɛ na saa onipa yi dwen wɔn ahobammɔ ho nti, ɔde ahobammɔ mae, nanso kurow no mufo hwehwɛɛ biribi a ɛyɛ aniwu. Bere a wɔbɔɔ akoa no kɔkɔ wɔ ɔsɛe bi a ɛreba ho no, ɔne n’abusua guanee wɔ esum akata so, na ogyaw kurow bi a wɔahyɛ no agyirae sɛ ɔsɛe. Hena ne gyidini a ɔyɛ ɔbaakofo yi?",
+  "clues": [
+    "Wɔsomaa me sɛ ɔbɔfo kɔɔ nkurɔfo bi a wɔde wɔn ho ahyɛ aniwu nneyɛe mu nkyɛn.",
+    "Nsrahwɛfo a na menhwɛ kwan baa me fie, na na wɔn ahobammɔ ho asɛm haw me sen m’ankasa de.",
+    "Na me nkurɔfo hwehwɛ sɛ wohu m’ahɔho no esiane adwemmɔne nti, na mebɔɔ ​​mmɔden sɛ me ne wɔn besusuw nsɛm ho.",
+    "M’ahɔho no daa wɔn ho adi sɛ abɔfo na wɔhyɛɛ me sɛ memfa m’abusua nkɔ anadwo.",
+    "Me yere antie ɔfrɛ a ɛne sɛ menguan no na ohyiaa ɔsɛe a ɛte sɛ me nkurɔfo no.",
+    "Abo a wɔde dɔte ayɛ a ɛtoatoa so a ɛtɔe na ɛdanee me kurow no, na n’afã horow a ɛkorɔn sen biara no de nea ɛba fam sen biara bae."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Odiyifo Lut",
+        "Ɔkɔmhyɛni Musa",
+        "Ɔkɔmhyɛni Ibrahim",
+        "Ɔkɔmhyɛni Nuh",
+        "Odiyifo Hud"
+      ],
+      "answer": "Odiyifo Lut"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Ahwehwɛde a me nkurɔfo wɔ sɛ wɔbɛkɔ m’ahɔho nkyɛn wɔ amumɔyɛ so",
+        "Po no mu mpaapaemu de aguan otirimɔdenfo bi",
+        "Adaka kɛse a wosisi wɔ fɛwdi mu",
+        "Me babarima afɔrebɔ wɔ gyidi sɔhwɛ mu",
+        "Osuahu a ɛne sɛ apataa kɛse bi amene wo"
+      ],
+      "answer": "Ahwehwɛde a me nkurɔfo wɔ sɛ wɔbɛkɔ m’ahɔho nkyɛn wɔ amumɔyɛ so"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Me man kuro a wɔabu agu no",
+        "Bepɔw a minyaa ɔsoro kasa wɔ so no",
+        "Adaka a ɛnam nsuyiri kɛse bi mu no",
+        "Yoma ba a ofii ɔbotan no mu bae no",
+        "Turo a ɔhɔho trenee bi a wahintaw wom"
+      ],
+      "answer": "Me man kuro a wɔabu agu no"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wogyee me ne m’abusua nkwa ansa na wɔretu me kurow no",
+        "Midii me nkurɔfo anim kɔɔ ahofadi mu wɔ po no agya",
+        "Meyɛɛ adaka kɛse bi na minyaa nkwa wɔ nsuyiri a ano yɛ den mu",
+        "Wɔmaa me tumi wɔ mframa ne jinn so",
+        "Metɔɔ me bo ase gyinaa amanehunu ano na wɔde abusua tuaa me ka"
+      ],
+      "answer": "Wogyee me ne m’abusua nkwa ansa na wɔretu me kurow no"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

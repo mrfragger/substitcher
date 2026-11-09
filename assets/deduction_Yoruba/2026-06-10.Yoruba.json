@@ -1,0 +1,61 @@
+{
+  "title": "Àwọn Olùṣọ́ Ọgbà",
+  "intro": "Nínú ọgbà ọlọ́ràá kan, àwùjọ kan ṣe ìlérí pàtàkì kan. Ṣùgbọ́n ìpinnu wọn ni a dán wò nígbà tí ìfẹ́ Ọlọ́run dá sí i, tí ó yí ọrọ̀ wọn padà sí ilẹ̀ aṣálẹ̀.",
+  "clues": [
+    "A fi ọgbà tó pọ̀ gan-an bùkún wa, ṣùgbọ́n a di onígberaga.",
+    "A ṣe ètò láti kórè láìsí pínpín pẹ̀lú àwọn aláìní.",
+    "A gbéra ní òwúrọ̀ kùtùkùtù, pẹ̀lú ìgbẹ́kẹ̀lé nínú ètò wa.",
+    "Ṣùgbọ́n nígbà tí a dé, a rí i pé ọgbà wa ti bàjẹ́ ní òru kan.",
+    "A mọ àṣìṣe wa, a sì bẹ̀rẹ̀ sí í dá ara wa lẹ́bi.",
+    "Níkẹyìn, a ronú pìwà dà, ṣùgbọ́n a ti kọ́ ẹ̀kọ́ náà pẹ́ jù."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni àwa?",
+      "options": [
+        "Àwọn Ènìyàn Ọgbà",
+        "Àwọn ènìyàn inú ihò náà",
+        "Àwọn Ènìyàn Erin",
+        "Àwọn ènìyàn Támúdì",
+        "Àwọn ènìyàn 'Ad"
+      ],
+      "answer": "Àwọn Ènìyàn Ọgbà"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ọgbà kan di eérú",
+        "Ìkún omi tó pa ohun gbogbo run",
+        "Ìyàn kan tó bẹ́ sílẹ̀ ní ilẹ̀ náà",
+        "Ẹgbẹ́ ọmọ ogun ẹyẹ tó ń kọlu",
+        "Afẹ́fẹ́ ńlá tó fa àwọn igi tu"
+      ],
+      "answer": "Ọgbà kan di eérú"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ọgbà kan",
+        "Ihò àpáta kan",
+        "Ọkọ̀ ojú omi kan",
+        "Òkè ńlá kan",
+        "Ààfin kan"
+      ],
+      "answer": "Ọgbà kan"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Wọ́n ronú pìwà dà ṣùgbọ́n wọ́n pàdánù ọgbà wọn",
+        "Wọ́n pa wọ́n run pátápátá",
+        "Wọ́n yí wọn padà sí ọ̀bọ",
+        "A gbà wọ́n là nípa ìgbàgbọ́",
+        "Wọ́n di alákòóso"
+      ],
+      "answer": "Wọ́n ronú pìwà dà ṣùgbọ́n wọ́n pàdánù ọgbà wọn"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

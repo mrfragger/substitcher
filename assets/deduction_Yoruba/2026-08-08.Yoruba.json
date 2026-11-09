@@ -1,0 +1,61 @@
+{
+  "title": "Ohùn Ṣáájú Ìjì",
+  "intro": "Ẹnìkan dìde ní aṣálẹ̀ láti pe orílẹ̀-èdè alágbára kan padà sí òtítọ́. Àwọn ènìyàn náà ni a mọ̀ fún àwọn ilé ńláńlá wọn àti agbára wọn tí kò láfiwé. Síbẹ̀ ìgbéraga wọn fọ́ wọn lójú, wọ́n sì kọ̀ láti fetísílẹ̀. Níkẹyìn, ìyà burúkú kan dé bá wọn, ó sì dá àwọn onígbàgbọ́ díẹ̀ sí.",
+  "clues": [
+    "Wọ́n rán mi sí àwọn ènìyàn alágbára kan tí wọ́n ń gbé ní ilẹ̀ tí ó tẹ́jú tí wọ́n sì jẹ́ ẹni tí a mọ̀ fún agbára wọn.",
+    "Àwọn ènìyàn mi wá lẹ́yìn orílẹ̀-èdè ńlá mìíràn tí wọ́n ti parun.",
+    "Wọ́n ní àwọn ilé ńláńlá, wọ́n sì kọ́ àwọn ilé gogoro gíga.",
+    "Mo pè wọ́n láti sin Ọlọ́run kan ṣoṣo, ṣùgbọ́n wọ́n kọ̀ láti fi àwọn ère wọn sílẹ̀.",
+    "Ìyà líle kan dé bá wọn, àwọn tí wọ́n gbàgbọ́ pẹ̀lú mi nìkan ló kù.",
+    "Èmi ni ẹni tí a rán sí àwọn ènìyàn alágbára tí a mọ̀ sí Aad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Húdì",
+        "Wòlíì Sálíh",
+        "Wòlíì Ṣúáíbù",
+        "Wòlíì Nóà",
+        "Wòlíì Ibrahim"
+      ],
+      "answer": "Wòlíì Húdì"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ìkún omi ńlá náà",
+        "Afẹ́fẹ́ líle kan tó ń hó",
+        "Ìsẹ̀lẹ̀ ilẹ̀ àti igbe ẹ̀rù",
+        "Òjò àwọn òkúta iná",
+        "Iná ọ̀run láti òkè wá"
+      ],
+      "answer": "Afẹ́fẹ́ líle kan tó ń hó"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ọkọ̀ ńlá kan tí a kọ́ sórí òkè ńlá kan",
+        "Abo ràkúnmí àrà ọ̀tọ̀ kan",
+        "Ọ̀pá tí ó di ejò",
+        "Àwọn ilé gíga àti àwọn ilé gíga",
+        "Igi iná kan"
+      ],
+      "answer": "Àwọn ilé gíga àti àwọn ilé gíga"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Gbogbo wọn rì sínú ìkún omi ńlá kan",
+        "Àwọn ènìyàn mi parun nípasẹ̀ ẹ̀fúùfù líle, nígbà tí a gbà mí là",
+        "Àwọn ènìyàn mi ni ìsẹ̀lẹ̀ ilẹ̀ lù, wọ́n sì sọkún",
+        "Àwọn ènìyàn mi ń sọ òkúta láti ojú ọ̀run",
+        "Àwọn ènìyàn mi ni a gbé sínú iná tí ń jóná"
+      ],
+      "answer": "Àwọn ènìyàn mi parun nípasẹ̀ ẹ̀fúùfù líle, nígbà tí a gbà mí là"
+    }
+  },
+  "verseRef": "7:69",
+  "arabic": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌۭ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍۢ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍۢ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةًۭ ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ",
+  "verse": "Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allāh that you might succeed.\" (7:69)"
+}

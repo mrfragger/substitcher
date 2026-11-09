@@ -1,0 +1,61 @@
+{
+  "title": "Muprofita weMakomo Akavezwa",
+  "intro": "Mumagwenga akaoma eArabia yekare, mumwe munhu akabuda pakati pevanhu vakakurumbira nekuda kwehunyanzvi hwavo hunoshamisa. Misha yavo yakabva padombo rakasimba, asi mwoyo yavo yakanga yakaoma kupfuura makomo avakaveza. Nhume yaMwari yakasvika nechiratidzo chimwe chete chinoshamisa - asi kuzvikudza nekusateerera zvakakonzera migumisiro inotyisa uye inokurumidza. Unogona kuziva muranda ane mukurumbira ane vanhu vakasarudza kuparadzwa pane kutungamirirwa here?",
+  "clues": [
+    "Ndakatumwa semuyambiri kuvanhu vangu, ndichivadana kuti vanamate Mwari Mumwe chete.",
+    "Vanhu vangu vaigara pakati pematombo anoshamisa, vachigadzira dzimba dzakanaka kwazvo mumativi emakomo.",
+    "Ngamera hono inoshamisa yakabuda mudombo rakasimba pandakanyengetera, chiratidzo chakajeka kubva kuna Wemasimbaose.",
+    "Ndakaudza vanhu vangu kuti vagovane mvura nengamera iyi hono uye kuti vasaikuvadza.",
+    "Vanhu vangu vakarangana kurwisa ngamera hadzi, vakaigura makumbo, vachizvivharira kuparadzwa kwavo.",
+    "Kudengenyeka kwenyika kunotyisa kwakarova vanhu vangu, vakasara vakawira pasi vasina kufamba mudzimba dzavo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Salih",
+        "Muporofita Hud",
+        "Muporofita Shu'ayb",
+        "Muprofita Nuh",
+        "Muprofita Musa"
+      ],
+      "answer": "Muprofita Salih"
+    },
+    "trial": {
+      "label": "Chii chaive muedzo chaiwo?",
+      "options": [
+        "Kurohwa kwemakumbo kwekamera hono inoshamisa",
+        "Kuvaka areka huru pakati pekunyombwa",
+        "Kutarisana naFarao ane hutsinye",
+        "Kukandwa mumoto unopfuta",
+        "Kuputswa kwesungano yeSabata"
+      ],
+      "answer": "Kurohwa kwemakumbo kwekamera hono inoshamisa"
+    },
+    "location": {
+      "label": "Chii chaiva chinhu chikuru?",
+      "options": [
+        "Ngamera hadzi yakabuda padombo",
+        "Areka huru yematanda",
+        "Tsvimbo yakaparadzanisa gungwa",
+        "Hove hombe",
+        "Gomo rakarembera pamusoro"
+      ],
+      "answer": "Ngamera hadzi yakabuda padombo"
+    },
+    "outcome": {
+      "label": "Chii chaive mugumo wavo wekupedzisira?",
+      "options": [
+        "Kudengenyeka kwenyika kwakangoerekana kwaitika kubva kudenga",
+        "Kunyura mumafashamo ane simba",
+        "Maguta avo akaparadzwa nemurairo waMwari",
+        "Kupiswa nemhepo inopisa",
+        "Yakamedzwa nenyika"
+      ],
+      "answer": "Kudengenyeka kwenyika kwakangoerekana kwaitika kubva kudenga"
+    }
+  },
+  "verseRef": "22:42",
+  "arabic": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَعَادٌۭ وَثَمُودُ",
+  "verse": "And if they deny you, [O Muḥammad] - so, before them, did the people of Noah and ʿAad and Thamūd deny [their prophets], (22:42)"
+}

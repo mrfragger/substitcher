@@ -1,0 +1,61 @@
+{
+  "title": "Umurwayi Udacogora",
+  "intro": "Mu nkuru z’amateka y’ubuhanuzi, bake ni bo bihanganiye igihombo gikomeye n’umubabaro nk’uwo w’umubiri bafite ukwizera kutajegajega. Inkuru y’uyu muntu ni isomo ridashira ryo kwihangana no kwiringira ubwenge bw’Imana. Ni nde uyu bugingo?",
+  "clues": [
+    "Imana yantoye ngo nyitangeho ubutumwa, ariko ikigeragezo gikomeye cyane cyaturutse ku kwangwa, ahubwo cyaturutse ku byago byanjye bwite.",
+    "Ubutunzi bwanjye, amatungo yanjye n'abana banjye byaranyazwe, kimwe kimwe.",
+    "Umubiri wanjye wari wuzuye ibisebe, kandi nasigaye ndi jyenyine uretse inkunga y'uwo twashakanye.",
+    "Naratakambiye Umwami wanjye, nemera ko ndi mu mibabaro kandi nshaka imbabazi ze.",
+    "Nategetswe gukubita hasi n'ikirenge cyanjye, maze isoko iravubuka.",
+    "Imana yansubije ubuzima bwiza kandi impa umuryango mushya ndetse n'ubutunzi burenze ubwo nari mfite mbere."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Intumwa Ayyub",
+        "Intumwa Ibrahimu",
+        "Umuhanuzi Musa",
+        "Umuhanuzi Isa",
+        "Umuhanuzi Nuh"
+      ],
+      "answer": "Intumwa Ayyub"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Gutakaza ubutunzi n'umuryango",
+        "Gutabwa mu muriro",
+        "Kumirwa n'ifi",
+        "Gutandukana n'umuryango no kugurishwa mu bucakara",
+        "Kugeragezwa n'inyana ya zahabu"
+      ],
+      "answer": "Gutakaza ubutunzi n'umuryango"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Isoko y'amazi",
+        "Inkoni yahindutse inzoka",
+        "Inkuge y'ibiti",
+        "Inyana yashongeshejwe",
+        "Igiti cy'umukindo"
+      ],
+      "answer": "Isoko y'amazi"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Gusubiza umuryango n'ubutunzi mu buryo bushya",
+        "Kuzamuka mu ijuru",
+        "Kuba umwami",
+        "Gukizwa ifi nini",
+        "Kwakira umuhungu mu zabukuru"
+      ],
+      "answer": "Gusubiza umuryango n'ubutunzi mu buryo bushya"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

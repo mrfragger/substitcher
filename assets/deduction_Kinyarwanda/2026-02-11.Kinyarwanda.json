@@ -1,0 +1,60 @@
+{
+  "title": "Umutwaro w'Ubukire",
+  "intro": "Uhagaze imbere y'inkuru y'ubutunzi butagira ingano, ubuzima burimo zahabu n'ububasha, ariko amaherezo ikaba isomo ry'ubwitonzi ku bantu bose bashaka icyubahiro cy'isi. Ese ushobora guhishura uwo muntu inkuru ye igaruka mu bihe bitandukanye, ikimenyetso cy'uko ubutunzi bw'isi bugenda bushira?",
+  "clues": [
+    "Nari uwo mu bwoko bw'Intumwa ikomeye, ariko nahisemo inzira y'ubwibone n'agahato.",
+    "Imana yampaye ubutunzi butagira ingano, ku buryo imfunguzo z'ubutunzi bwanjye zari umutwaro uremereye ku itsinda rikomeye ry'abantu.",
+    "Abantu banjye bangiriye inama yo kutishimira ubutunzi bwanjye, banyibutsa ko Allah adakunda abirata.",
+    "Navuze nshize amanga ko ubutunzi bwanjye bwinshi bwaturutse ku bumenyi bwanjye n'imbaraga zanjye, atari umugisha uturutse kuri Allah.",
+    "Naburiwe kwirinda ruswa kandi nibutswa gushaka ubuzima bw'imperuka nkoresheje ibyo Allah yampaye, ariko nanze kumva ahubwo nkomeza kwirata kwanjye.",
+    "Amaherezo, Allah yatumye isi imira njye n'aho ntuye, ansigira nta mufasha urwanya itegeko rye."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Farawo",
+        "Hamani",
+        "Qarun",
+        "Abu Lahab",
+        "Namrud"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Gucikamo kabiri kw'inyanja",
+        "Umuriro wa Nimurodi",
+        "Umwuzure",
+        "Kumirwa n'isi",
+        "Icyorezo cy'inzige"
+      ],
+      "answer": "Kumirwa n'isi"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Isanduku",
+        "Abakozi",
+        "Inyana y'izahabu",
+        "Ubutunzi/Imfunguzo",
+        "Iriba rya Zamzam"
+      ],
+      "answer": "Ubutunzi/Imfunguzo"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Ubwami bwahawe",
+        "Yarokowe kurimbuka",
+        "Yamizwe n'isi",
+        "Yabaye umuhanuzi",
+        "Yapfuye mu mahoro"
+      ],
+      "answer": "Yamizwe n'isi"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

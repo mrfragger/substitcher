@@ -1,0 +1,61 @@
+{
+  "title": "Changamire Akakumbira Mwari",
+  "intro": "Mutongi ane simba uye anozvikudza aitenda kuti hapana akamira pamusoro pechigaro chavo cheumambo. Vakadzingirira boka revanhu vaitiza vachiyambuka rwizi rukuru, asi vakazoguma vafa zvinoshamisa. Nyaya yamambo uyu inodzokororwa muzvikamu zvakawanda zveKorani, ichiva yambiro kune vese.",
+  "clues": [
+    "Ndaiva mutongi ane simba aitenda kuti hapana simba rinopfuura rangu munyika dzandaitonga.",
+    "Ndaiva nenyanzvi yandaivimba nayo yainzi Haman yaindibatsira kuita mabasa makuru ekuvaka.",
+    "Ndakadana varoyi vakanakisisa venyika yangu kuti vapikise zviratidzo zvemutumwa anondipikisa.",
+    "Ndakaramba kurega vanhu vaiva varanda muumambo hwangu vachienda, pasinei nematambudziko nenyevero dzakajeka.",
+    "Ndakavatevera ndichiyambuka gungwa guru nehondo yangu yese nengoro dzangu.",
+    "Gungwa iroro rakandifukidza ini nemauto angu, rikatinyudza tese, ivo vachiyambuka zvakanaka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Firauni (Farao)",
+        "Namrud",
+        "Abu Lahab",
+        "Hamani",
+        "Abu Jahl"
+      ],
+      "answer": "Firauni (Farao)"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Matambudziko uye kusangana naMosesi (Mosesi)",
+        "Kuvaka areka mafashamo makuru asati aitika",
+        "Kurwa neJalut mumupata",
+        "Kumedzwa nehove hove",
+        "Kudzivirira zviyero zvekutengeserana zvakatendeseka"
+      ],
+      "answer": "Matambudziko uye kusangana naMosesi (Mosesi)"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Nhare refu nemapango",
+        "Areka huru yematanda",
+        "Mhuru yendarama",
+        "Tsvimbo yakashanduka kuita nyoka",
+        "Hove hombe"
+      ],
+      "answer": "Nhare refu nemapango"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kunyura mugungwa nemauto",
+        "Kuponeswa netsitsi dzaAllah nemwoyo murefu kunopihwa mubairo",
+        "Ndasanganazve nemhuri yangu mushure memakore akawanda ekutambudzika",
+        "Yakamedzwa nenyika",
+        "Kupiswa mumoto"
+      ],
+      "answer": "Kunyura mugungwa nemauto"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

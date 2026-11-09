@@ -1,0 +1,61 @@
+{
+  "title": "Ijwi ry’ukuri ryo mu bihe vya kera",
+  "intro": "Hariho umutima muri Korowani inkuru yawo ivugwa mu mirongo mikeyi gusa, yamara kamere zabo nziza zikayangana mu buryo butomoye cane. Uwo musuku wa kera w’Ikigongwe, ashimagizwa n’Ishobora vyose kubera ingeso nziza idasanzwe, afise ikibanza mu mapaji y’ivyahishuriwe. Igikorwa cawe ni ukumenya uwo mubare udasanzwe. Woba ushobora gukeka abo ari bo?",
+  "clues": [
+    "Ndi umuhanuzi wa Allah yabaye mu mayaruka ya mbere y’abantu.",
+    "Allah yaramvuze mu gitabu ciwe ndi kumwe n’abandi bahanuzi, bose bashimagizwa kubera iyo ngeso nziza nyene.",
+    "Ndadondorwa nk’umuntu w’ukuri muri Korowani.",
+    "Allah yarankuye mu kibanza co hejuru abandi bakeyi bashitseko.",
+    "Izina ryanje rivugwa muri Sura Al-Anbiya, ryifatanijwe n’abandi bahanuzi babiri bashimagizwa kubera ukwihangana kwabo.",
+    "Ndi Idris, umuhanuzi w’ukuri kandi ashizwe hejuru."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umuhanuzi Idrisi",
+        "Umuhanuzi Nuh",
+        "Umuhanuzi Ibrahimu",
+        "Umuhanuzi Musa",
+        "Umuhanuzi Ismail"
+      ],
+      "answer": "Umuhanuzi Idrisi"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Kuguma wihanganye kandi uvuga ukuri, hanyuma akaduzwa mu kibanza co hejuru .",
+        "Kubaka ubwato bunini bwo gukiza abizera umwuzure w'amazi ushobora gutikiza .",
+        "Kujugunywa mu muriro ururumba maze akavayo ata co akomerewe na gato .",
+        "Guhangana n’umwami w’inkomezi no gutsinda ingabo ziwe z’abapfumu .",
+        "Kurokoka mu nda y’ifi nini mu binogo vy’ikiyaga ."
+      ],
+      "answer": "Kuguma wihanganye kandi uvuga ukuri, hanyuma ukaduzwa mu kibanza co hejuru ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Ikibanza co hejuru kandi gishizwe hejuru na Allah",
+        "Ubwato bunini cane bubatswe mu mbaho ​​kandi bushizweko ibiti vy’ibiti .",
+        "Umuriro ururumba waturiwe n’abasenga ibigirwamana b’umwami w’umubisha .",
+        "Ikiyaga kinini cacitsemwo inzira zumye .",
+        "Inda y'umwirabura y'ikiyaga kinini kiri mu mazi y'ikiyaga"
+      ],
+      "answer": "Ikibanza co hejuru kandi gishizwe hejuru na Allah"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Yemerewe mu mbabazi za Allah nk'umwe mu bagororotsi .",
+        "Yakijijwe hamwe n'abizera bose umwuzure wo kw'isi yose .",
+        "Yasohotse mu rubeya atakozwe n'umuriro",
+        "Yarongoye bene Isirayeli mu mwidegemvyo bajabuka ikiyaga ata nkomanzi",
+        "Basubiye kubonana n’umuryango wabo bakundwa inyuma y’imyaka myinshi y’amagorwa ."
+      ],
+      "answer": "Yemerewe mu mbabazi za Allah nk'umwe mu bagororotsi ."
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

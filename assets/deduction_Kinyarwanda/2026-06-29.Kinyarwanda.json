@@ -1,0 +1,61 @@
+{
+  "title": "Roho y'Umurwayi",
+  "intro": "Mu nkuru z’ubuhanuzi, hari umuntu wihanganye cyane. Banyuze mu marira n’igihe, bakomeje kugira ibyiringiro, baba urugero rudashira rwo kwiringira ubwenge bw’Imana. Ese ushobora guhishura ibanga ry’uyu muntu udacika intege?",
+  "clues": [
+    "Navukiye mu muryango w'abahanuzi, ariko ikigeragezo cyanjye gikomeye cyaturutse ku mwana nakundaga cyane.",
+    "Nahawe umuburo w'ishyari nturutse mu nzozi umuhungu wanjye yangiriye, kandi nagize ubwoba bw'umutekano we.",
+    "Amaso yanjye yahindutse umweru kubera agahinda, nyamara sinigeze ntakaza ukwizera mu mbabazi za Allah.",
+    "Impumuro y'umwana wanjye wabuze yaramgezeho kure, maze menya ko kongera guhura byari byegereje.",
+    "Umuryango wanjye warapfukamye ushimira igihe iyerekwa rya kera ryasohozwaga, maze amaso yanjye arongera arahumuka.",
+    "Ni njye wahawe ishati irimo amaraso, nyuma nza guhabwa ishati yankijije amaso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Intumwa Ibrahimu",
+        "Intumwa Ishaq",
+        "Intumwa Yakub",
+        "Intumwa y'Imana Yusufu",
+        "Intumwa Ayyub"
+      ],
+      "answer": "Intumwa Yakub"
+    },
+    "trial": {
+      "label": "Urubanza Rukomeye",
+      "options": [
+        "Gutandukana n'umwana ukunda no gutakaza ubushobozi bwo kubona",
+        "Gutabwa mu muriro ugurumana",
+        "Kumirwa n'ifi nini",
+        "Kwihanganira gutakaza ubutunzi, abana, n'ubuzima",
+        "Agambanirwa n'abavandimwe be maze ajugunywa mu iriba"
+      ],
+      "answer": "Gutandukana n'umwana ukunda no gutakaza ubushobozi bwo kubona"
+    },
+    "location": {
+      "label": "Ikintu cy'ikigereranyo",
+      "options": [
+        "Ishati yabanje guhisha ukuri hanyuma ikaguhishura",
+        "Inkoni yahindutse inzoka",
+        "Ifi nini yamize umuhanuzi",
+        "Umuriro wahindutse ukonje",
+        "Inkweto z'inkweto ku gihuru cyaka"
+      ],
+      "answer": "Ishati yabanje guhisha ukuri hanyuma ikaguhishura"
+    },
+    "outcome": {
+      "label": "Umwanzuro w'Imana",
+      "options": [
+        "Gusubirana n'uwapfuye n'uwo wakundaga no kugarura amaso",
+        "Gukizwa igihugu cy'akarengane",
+        "Gukizwa mu nda y'ifi",
+        "Gukizwa umuriro ugurumana",
+        "Kuzamuka ku ntebe y'ubwami nini"
+      ],
+      "answer": "Gusubirana n'uwapfuye n'uwo wakundaga no kugarura amaso"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

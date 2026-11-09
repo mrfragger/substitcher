@@ -1,0 +1,61 @@
+{
+  "title": "Igbe Láti Ilẹ̀ Jìnnì",
+  "intro": "Ìránṣẹ́ Àánú-ọ̀run kan sú orílẹ̀-èdè alágídí kan, ó sì lọ kí wọ́n tó fún un ní àṣẹ. Ẹni yìí parí sí ibi tí ènìyàn kankan kò tíì dé rí, níbi tí ìpè sí Ọlọ́run ti ń dún lọ́nà àjèjì nínú òkùnkùn. Nígbà tí ó di aláìlera, ṣùgbọ́n tí ó yípadà, ọkàn yìí di ẹ̀kọ́ tí kò lópin nípa sùúrù, ìrònúpìwàdà tòótọ́, àti àánú Ẹlẹ́dàá tí kò lópin. Ṣé o lè tú àṣírí ohun ìjìnlẹ̀ náà?",
+  "clues": [
+    "Wọ́n rán mi gẹ́gẹ́ bí ìránṣẹ́ sí àwọn ènìyàn mi, ṣùgbọ́n wọ́n kọjá gbogbo ààlà nínú àìnígbàgbọ́ wọn, wọ́n sì kọ̀ láti fetísílẹ̀.",
+    "Mo bínú sí ìkọ̀sílẹ̀ wọn, mo sì sá kúrò lọ́dọ̀ àwọn ènìyàn mi kí àṣẹ Allah tó dé.",
+    "Mo wọ ọkọ̀ ojú omi kan tí ó kún ju agbára lọ, a sì fa kèké láti mọ ẹni tí a ó jù sínú ọkọ̀ ojú omi.",
+    "Wọ́n jù mí sínú òkun tó ń ru gùdù, ẹja ńlá kan sì gbé mi mì.",
+    "Mo ti dì mọ́ inú òkùnkùn mẹ́ta — ikùn, òkun jíjìn, àti ilẹ̀ ní ìsàlẹ̀ — mo ké pe Olúwa mi pẹ̀lú ìrònúpìwàdà tòótọ́.",
+    "Mo jáde láti inú ẹja náà sí etíkun tí ó ṣí sílẹ̀, mo rẹ̀wẹ̀sì, mo sì ti rẹ̀wẹ̀sì, igi ewéko kan sì hù lórí mi. Àwọn ènìyàn mi, ẹgbẹ̀rún lọ́nà ọgọ́rùn-ún tàbí jù bẹ́ẹ̀ lọ, gbàgbọ́ nígbẹ̀yìn gbẹ́yín."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Yunus",
+        "Wòlíì Ayyub",
+        "Wòlíì Yúsọ́ọ̀fù",
+        "Wòlíì Mósà",
+        "Wòlíì Sùlámínì"
+      ],
+      "answer": "Wòlíì Yunus"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ẹja ńlá kan gbé mì",
+        "A jù wọ́n sínú iná tí ń jóná",
+        "A dì mọ́ ìsàlẹ̀ kànga kan",
+        "Ìkún omi ńlá bò ó mọ́lẹ̀",
+        "Ọba kan fi sẹ́wọ̀n láìtọ́"
+      ],
+      "answer": "Ẹja ńlá kan gbé mì"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ikùn ẹja ńlá kan",
+        "Àfonífojì mímọ́ tó wà nítòsí Kaaba",
+        "Ọkọ̀ ayọ́kẹ́lẹ́ kan tó dúró lórí òkè ńlá kan",
+        "Ọ̀pá tí ó di ejò",
+        "Ìtẹ́ tí ó ní ọlá ńlá tí kò láfiwé"
+      ],
+      "answer": "Ikùn ẹja ńlá kan"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Àwọn ènìyàn rẹ̀, ẹgbẹ̀rún lọ́nà ọgọ́rùn-ún tàbí jù bẹ́ẹ̀ lọ, gbàgbọ́",
+        "A jí i dìde láàyè sí ọ̀run",
+        "Ó di olùṣàkóso ìjọba tí kò ní alábàádíje",
+        "A pa á run nípasẹ̀ igbe lílù láti ojú ọ̀run",
+        "Ìsẹ̀lẹ̀ ilẹ̀ tó burú jáì kan wó lulẹ̀"
+      ],
+      "answer": "Àwọn ènìyàn rẹ̀, ẹgbẹ̀rún lọ́nà ọgọ́rùn-ún tàbí jù bẹ́ẹ̀ lọ, gbàgbọ́"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

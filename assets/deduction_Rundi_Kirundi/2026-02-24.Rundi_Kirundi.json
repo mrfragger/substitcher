@@ -1,0 +1,61 @@
+{
+  "title": "Ijwi ry'Ubuhendanyi",
+  "intro": "Ubucuti bwageragejwe n’ishari ryinshi. Haciye hashirwaho umugambi w’ibanga, ushiraho uruhererekane rw’ibintu vyomara imyaka myinshi kandi bikajabuka ingendo ndende cane. Ivyo uwo mugwi wakoze vyatumye haba ugutandukana gukomeye n’umubabaro mwinshi, ariko iyo nkuru ntiyarangiriye ng’aho. Ni inkuru y'uguhenda, ukwicuza, n'uguseruka kw'iherezo kw'umugambi w'Imana. Woba ushobora gusobanura akaranga k’abo bantu amahitamwo yabo yasubirwamwo mu mayaruka yose?",
+  "clues": [
+    "Twarariwe n’ishari kubera urukundo twagaragarije umwe mu bacu.",
+    "Mu ishari ryacu, twagiranye umugambi maze duterera umuvukanyi wacu mu mwiza w’iriba.",
+    "Kugira ngo twihishe ico gikorwa cacu, twarashikirije dawe impuzu, yari yandujwe n’amaraso y’ikinyoma.",
+    "Haciye imyaka, inzara ikaze yaraduteye kuja mu Misiri kurondera ivyo kurya.",
+    "Aho, twaje imbere y’umukuru w’igihugu akomeye, tutazi, akaba ari we muvukanyi nyene twari twagiriye nabi.",
+    "Ikigeragezo cacu ca nyuma cari ico kuzana umuvukanyi wacu mutoyi Binyamin, ivyo vyatumye kahise kacu kahishurwa kandi dawe wacu akaba Umuhanuzi Ya’qub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Twebwe turi bande?",
+      "options": [
+        "Abana ba Adamu (Qabil & Habil)",
+        "Abigishwa b’Umuhanuzi Isa .",
+        "Abavukanyi b'Umuhanuzi Yusufu",
+        "Abantu bo muri Madiyani",
+        "Abapfumu bo muri Fir’awn"
+      ],
+      "answer": "Abavukanyi b'Umuhanuzi Yusufu"
+    },
+    "trial": {
+      "label": "None igikorwa kibi nyamukuru twakoze cari ikihe?",
+      "options": [
+        "Kubaka inyana y'inzahabu yo gusenga",
+        "Gusaba kubona Allah ataco uhinduye",
+        "Gutwenga umuhanuzi kubera yubatse ubwato .",
+        "Kuhenda data no guheba mwenewacu .",
+        "Guca isabato mu kuroba ."
+      ],
+      "answer": "Kuhenda data no guheba mwenewacu ."
+    },
+    "location": {
+      "label": "Ni ikintu ikihe cari nyamukuru mu guhenda kwacu?",
+      "options": [
+        "Itsinda ry'ibipande vyanditsweko",
+        "Ishati yandujwe n'amaraso y'ikinyoma",
+        "Inyana y'inzahabu",
+        "Inyoni nziza cane (iyitwa Hoopoe)",
+        "Inkoni yahindutse inzoka ."
+      ],
+      "answer": "Ishati yandujwe n'amaraso y'ikinyoma"
+    },
+    "outcome": {
+      "label": "None inkuru yacu yavamwo iki?",
+      "options": [
+        "Twaratikijwe n'umwuzure ukomeye .",
+        "Twarahindutse inkende",
+        "Twaramizwe n'isi .",
+        "Twarababariwe maze dusubirana n'umuryango wacu .",
+        "Twararohamye mu kiyaga ."
+      ],
+      "answer": "Twarababariwe maze dusubirana n'umuryango wacu ."
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

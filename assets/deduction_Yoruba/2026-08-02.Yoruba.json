@@ -1,0 +1,61 @@
+{
+  "title": "Láàrin Ayé àti Ọ̀run",
+  "intro": "Ọkàn àdììtú kan ń dúró dè ọ́ ní ojú ìwé mímọ́ ìtàn àtọ̀runwá, tí ó ń gbé àwọn àmì àti iṣẹ́ ìyanu tí ó ṣì ń dún ní gbogbo ọjọ́ ayé. Bí o ṣe ń tẹ̀lé ipa ọ̀nà àwọn àmì, ìwọ yóò rìn la ìtàn kan tí a fi iṣẹ́ ìyanu sàmì sí — láti ìbẹ̀rẹ̀ iṣẹ́ ìyanu sí ìgòkè kọjá ọ̀run. Ṣé o lè dá ìránṣẹ́ alábùkún yìí mọ̀ kí ó tó di àmì ìkẹyìn?",
+  "clues": [
+    "Wọ́n rán mi gẹ́gẹ́ bí ìránṣẹ́ sí àwọn ọmọ Ísírẹ́lì pẹ̀lú ìròyìn àánú àti ìmọ́lẹ̀.",
+    "Ìbí mi jẹ́ àmì ìyanu — mo wá sí ayé yìí láìsí baba, nípa àṣẹ Olódùmarè.",
+    "Mo sọ̀rọ̀ nígbà tí mo ṣì wà ní ọmọ ọwọ́, mo ń gbèjà ọlá ìyá mi lòdì sí ẹ̀sùn àwọn ènìyàn rẹ̀.",
+    "Nípa àṣẹ Allāhu, mo fi amọ̀ ṣe àwọn ẹyẹ, mo sì mí ẹ̀mí sí wọn — wọ́n fò lọ níwájú àwọn tí wọ́n ń wò wọ́n.",
+    "Mo wo àwọn tí a bí ní afọ́jú sàn, mo wo àwọn adẹ́tẹ̀ sàn, mo tilẹ̀ jí àwọn òkú dìde — síbẹ̀ gbogbo iṣẹ́ ìyanu jẹ́ nípasẹ̀ àṣẹ Ọlọ́run, kì í ṣe ti èmi.",
+    "Nígbà tí àwọn ọ̀tá mi gbèrò láti pa mí run, Allah gbé mi sókè sí ọ̀run, ó sì ṣèlérí pé màá padà dé kí ọjọ́ ìdájọ́ tó dé."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Isa (Jesu)",
+        "Wòlíì Mósà (Mósà)",
+        "Wòlíì Ibrahim (Abrahamu)",
+        "Wòlíì Muhammad",
+        "Wòlíì Yósù (Jósẹ́fù)"
+      ],
+      "answer": "Wòlíì Isa (Jesu)"
+    },
+    "trial": {
+      "label": "Àkókò Ìtumọ̀",
+      "options": [
+        "A gbé mi sókè sí ọ̀run",
+        "Wọ́n jù mí sínú iná tó ń jóná",
+        "Mo dojúkọ àwọn ọmọ ogun alágbára Farao",
+        "Ẹja ńlá kan gbé mi mì",
+        "Mo kan ọkọ̀ ojú omi kan sí orí òkè ńlá náà"
+      ],
+      "answer": "A gbé mi sókè sí ọ̀run"
+    },
+    "location": {
+      "label": "Àmì Mímọ́ tí a ṣe",
+      "options": [
+        "Mo fi amọ̀ ṣẹ̀dá àwọn ẹyẹ",
+        "Mo sọ ọ̀pá di ejò",
+        "Mo pín òṣùpá sí méjì",
+        "Mo pàṣẹ fún afẹ́fẹ́ àti àwọn jinni",
+        "Mo mú abo ràkúnmí kan jáde láti orí àpáta kan"
+      ],
+      "answer": "Mo fi amọ̀ ṣẹ̀dá àwọn ẹyẹ"
+    },
+    "outcome": {
+      "label": "Ohun tó di ti èmi",
+      "options": [
+        "A gbé e ga sí ọ̀run; a ṣèlérí láti padà wá",
+        "Ó di olórí ìjọba ńlá kan",
+        "Mu awọn eniyan mi jade kuro ninu igbekun",
+        "Wọ́n fún un ní ọrọ̀ ayé tí kò láfiwé",
+        "Mo tún padà sọ́dọ̀ ìdílé mi lẹ́yìn pípẹ́ ìyàsọ́tọ̀ mi"
+      ],
+      "answer": "A gbé e ga sí ọ̀run; a ṣèlérí láti padà wá"
+    }
+  },
+  "verseRef": "43:59",
+  "arabic": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+  "verse": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel. (43:59)"
+}

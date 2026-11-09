@@ -1,0 +1,61 @@
+{
+  "title": "Amaraso ya mbere yamenetse mu ishari",
+  "intro": "Iyumvire imisi ya mbere y’abantu, igihe isi yose yari umuryango umwe. Urabona ingene amashikanwa abiri ashirwa imbere ya Allah — imwe yemerwa, iyindi iranka. Ishari rishinga imizi mu mutima, kandi iterabwoba riravugwa mu ishavu. Ivyo bizokurikira bizosiga ikimenyetso muri kahise ibihe bidahera, mbere n’akanyoni gatoyi kazocika umwigisha.",
+  "clues": [
+    "Ndi mu muryango wa mbere nyene kw’isi.",
+    "Nashikirije Allah ishikanwa, ariko iryanje ntiryemewe mu gihe irindi shikanwa ryari ryemewe.",
+    "Naravuze n’ishari kandi ndatera ubwoba ko nzomwica.",
+    "Nakoze ubwicanyi bwa mbere butagira akamaro kw’isi.",
+    "Nabonye igisiga kiriko kirakaraba hasi kugira ngo kinyereke ingene umuntu yonyegeza umuvyimba.",
+    "Nasigaye mfise ukwicuza nca mba mu bahomvye kubera ivyo amaboko yanje yakoze."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Kabili (Kayini), mwene Adamu",
+        "Samiri, umuhinguzi w’inyana",
+        "Namrud, umunyagitugu yatongana na Iburahimu .",
+        "Azari, umuhinguzi w’ibigirwamana",
+        "Kan’ani, umuhungu wa Nuh yari yarohamye ."
+      ],
+      "answer": "Kabili (Kayini), mwene Adamu"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Ukwica umuvukanyi kubera ishari inyuma yo kwanka ishikanwa",
+        "Kubaka umunara muremure wo kuraba ijuru .",
+        "Guhingura inyana y'inzahabu yo gusenga",
+        "Gusaba imeza yasaguwe ivuye mw'ijuru .",
+        "Kurongora ingabo z'inzovu kugira ngo zisambure Kaaba ."
+      ],
+      "answer": "Ukwica umuvukanyi kubera ishari inyuma yo kwanka ishikanwa"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Igisiga kirakaraba isi kugira ngo kigaragaze uguhamba",
+        "Inyana y’inzahabu yavuze .",
+        "Ubwato bunini hejuru y'amazi y'umwuzure .",
+        "Inkoni yahindutse inzoka .",
+        "Imeza yasazwe n'ibifungurwa bivuye mw'ijuru ."
+      ],
+      "answer": "Igisiga kirakaraba isi kugira ngo kigaragaze uguhamba"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Yaciye yicuza kandi ari mu bahomvye .",
+        "Yarohamye mu mwuzure munini .",
+        "Yamizwe n'isi n'ubutunzi .",
+        "Yarakubiswe n'imibembe imyaka indwi .",
+        "Yarahawe ubwami bugenzura imiyaga ."
+      ],
+      "answer": "Yaciye yicuza kandi ari mu bahomvye ."
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

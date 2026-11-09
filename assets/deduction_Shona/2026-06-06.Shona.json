@@ -1,0 +1,61 @@
+{
+  "title": "Muranda waAllah Akakwidziridzwa",
+  "intro": "Unonzwa makuhwa emunhu wekare, muranda waAllah akakwidziridzwa panzvimbo yepamusoro pevamwe. Munhu uyu aizivikanwa nemoyo murefu usingazununguki uye kutaura chokwadi chose, uye akatumwa kuvanhu vakaramba shoko. Mweya uyu wakakwidziridzwa ndiani?",
+  "clues": [
+    "Ndakasarudzwa naAllah semuporofita uye ndinotaurwa muQuran Tsvene.",
+    "Ndaizivikanwa nemwoyo murefu wangu uye kutaura chokwadi, hunhu hunorumbidzwa naAllah.",
+    "Ndakadana vanhu vangu kuti vanamate Mwari mumwe chete, asi vazhinji vakandiramba.",
+    "Nzvimbo yangu yakasimudzirwa naAllah, uye ndakapihwa chinzvimbo chepamusoro.",
+    "Ndinowanzotaurwa pamwe chete nevamwe vaprofita vakaita saIsmail naDhul-Kifl.",
+    "Allah anoti nezvangu: 'Uye takamusimudzira panzvimbo yakakwirira.' (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Idris",
+        "Muprofita Eriya",
+        "Muporofita Dhu al-Kifl",
+        "Muprofita Al-Yasa",
+        "Muporofita Hud"
+      ],
+      "answer": "Muprofita Idris"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Vanhu vaidaidzwa kuti vanamate Allah",
+        "Vakavaka areka",
+        "Vakarwa naFarao",
+        "Akaongororwa aine chirwere chakakomba",
+        "Yakakandwa mumoto"
+      ],
+      "answer": "Vanhu vaidaidzwa kuti vanamate Allah"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Nzvimbo yepamusoro/nzvimbo yepamusoro",
+        "Areka",
+        "Vashandi",
+        "Moto",
+        "Tsime"
+      ],
+      "answer": "Nzvimbo yepamusoro/nzvimbo yepamusoro"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kukwidziridzwa kusvika pachinzvimbo chepamusoro",
+        "Kunyura mumafashamo",
+        "Yakamedzwa nehove huru",
+        "Kuponeswa kubva mumoto",
+        "Akava mambo"
+      ],
+      "answer": "Kukwidziridzwa kusvika pachinzvimbo chepamusoro"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

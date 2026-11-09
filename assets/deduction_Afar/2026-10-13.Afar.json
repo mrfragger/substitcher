@@ -1,0 +1,61 @@
+{
+  "title": "Girale naqboyti",
+  "intro": "maybalaalaqak naharsi ayroorah addat, nummak giddile saduh yan numih muuci yooboke. Gadda kee caddot barkat le, ta rooci miraaciino dooritteh, ken xaagi suurah ellecabo aayatitteh addal kaxxa maabitina yekke.",
+  "clues": [
+    "Anu Nabiyyi elle yan magaalal sugeeh, kaah xayih yan marak numuk teyna kinniyo, takkay immay yi kaxxa mari nummak yoo yeyyeeqeh.",
+    "Anu kaxxa gadda kee mango uwwayti liyooh, yi gadditte umman way yoo dacriseleemih akkal liyo.",
+    "farmo baxxaqimte wak, anu qaduuk tet anqasak wonnah uduureh, inni mu'miniinuk daga exceh.",
+    "Yi naqboyti kaxxam muxxo luk sugeeh, Qur'aanak suura saanih yoo yaabeeh, gersi mari yoo yaaxige migaq yoh seecak suge.",
+    "Anu inni gadda kee yi culenta yoh tuxxiq alle waytam kee anu laqlaqta girat qideyyom yok takkawsimeh suge.",
+    "Anu girah abba exceh aaxigem kee yi barra gira caxxi akat fillat hayya hayteh quuka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Anu miyyaay?",
+      "options": [
+        "Abu Lahaab",
+        "Abu Jahli",
+        "Abusufiyaan",
+        "Al-waaliid ibnu al-mugiira",
+        "Al-as ibnu weeyil"
+      ],
+      "answer": "Abu Lahaab"
+    },
+    "trial": {
+      "label": "Gibbatu/Tekkooka",
+      "options": [
+        "Islaaminna cineeh farmoytal qaduuk sade.",
+        "Nabiyyi qidoonuh ekraarisen",
+        "muslimiinil ayyuntiinô boykot miraacisak suge",
+        "Badri qeebi yekkeh yen.",
+        "Bilaal ibnu Rabah gadaama"
+      ],
+      "answer": "Islaaminna cineeh farmoytal qaduuk sade."
+    },
+    "location": {
+      "label": "Lafa le liyyitte",
+      "options": [
+        "caxâ mirih akat",
+        "Afle gilek",
+        "Qilsi girgir",
+        "coox adoyta",
+        "arab gogo"
+      ],
+      "answer": "caxâ mirih akat"
+    },
+    "outcome": {
+      "label": "Xalu",
+      "options": [
+        "Laqlaqta girat cararele",
+        "Toobiteh waklenta yekke",
+        "isi gadda weeh takkay immay kunnabnat rabe",
+        "Cabsiyya fanah kude",
+        "Baddi addat cule"
+      ],
+      "answer": "Laqlaqta girat cararele"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

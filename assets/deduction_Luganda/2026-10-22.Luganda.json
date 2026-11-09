@@ -1,0 +1,61 @@
+{
+  "title": "Ekibiina ky’Okusobya Okusooka",
+  "intro": "Mu nsi y’ebibuga eby’edda, edda abantu baali bakulaakulana. Baakyaliddwa omubaka ng’akubira essimu entegeerekeka, naye ne bakyuka ne bagoberera ekkubo omuntu lye yali tatambuddeko. Enfumo yaabwe y’emu ku kujeemera, obugwenyufu, n’ekibonerezo ekyaleka ensi yaabwe ng’akabonero eri bonna abafumiitiriza. Emyoyo gino gye baani?",
+  "clues": [
+    "Twabeeranga mu bibuga eby’omu lusenyi, nnabbi waffe gye yatuyita mu butuukirivu.",
+    "Ffe twasooka okukola ekikolwa eky’obugwenyufu nga tewali muntu yenna mu nsi zonna yali akoze.",
+    "Twawaya abatambuze era ne tukola ebibi mu lwatu mu nkuŋŋaana zaffe.",
+    "Twagaana omubaka eyatusindikibwa ne tumutiisatiisa okumugoba ku ttaka lyaffe.",
+    "Twayanguwa okutuuka ewuwe nga tusaba atuwe abagenyi be.",
+    "Ekibonerezo kyaffe kyali kya nkuba ya mayinja, era ekibuga kyaffe ne kikyuka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ffe Tuli Baani?",
+      "options": [
+        "Abantu ba Lut",
+        "Abantu b’e Nuh",
+        "Abantu ba 'Ad",
+        "Abantu b’e Thamud",
+        "Abantu b’e Madyan"
+      ],
+      "answer": "Abantu ba Lut"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Yakola ekikolwa ekisooka eky’obukaba",
+        "Ebifaananyi ebyasinzibwanga",
+        "Bafereddwa mu by’obusuubuzi",
+        "Yatta nnabbi waabwe",
+        "Bajeemera bazadde baabwe"
+      ],
+      "answer": "Yakola ekikolwa ekisooka eky’obukaba"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Ekibuga eky’olusenyi",
+        "Ekibuga ky’oluzzi",
+        "Ekibuga ky’omukutu",
+        "Ekibuga ky’enjovu",
+        "Ekibuga ky’olusuku"
+      ],
+      "answer": "Ekibuga eky’olusenyi"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Enkuba yatonnye n’amayinja n’efuumuuka",
+        "Yabbira mu mazzi",
+        "Yasaanawo olw’empewo ey’amaanyi",
+        "Okumira ensi",
+        "Yakubiddwa okubwatuka okw’amaanyi"
+      ],
+      "answer": "Enkuba yatonnye n’amayinja n’efuumuuka"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Umutima wihangana wo mu nzu nyeranda",
+  "intro": "Mu mapaji ya Korowani, hari igishushanyo kiva mu muryango w’umuhanuzi akomeye, gihabwa nk’ingabirano mu busaza. Uwo mutima urahimbazwa kubera ukuri kudahungabana n’uruhara runini mu gushinga ahantu heranda hobaye itara ry’ukwizera. Uko usoma ibimenyetso, nutege amatwi witonze ijwi rivuye muri kahise, kuko rivuga mu muntu wa mbere.",
+  "clues": [
+    "Nvugwa muri Korowani iruhande y’uwundi muhanuzi nk’ingabire yahawe intumwa y’umusaza.",
+    "Nari umwe mu ruvyaro rubiri uwo muhanuzi yahawe mu myaka yiwe ya nyuma.",
+    "Ndashimagizwa muri Korowani kubera ko ndi umunyakuri kw’ijambo ryanje.",
+    "Natwaye icubahiro c’ubuhanuzi, nca ntumwa nk’intumwa.",
+    "Narifatanije na dawe mu gushinga imishinge y’Ingoro Nyeranda.",
+    "Ndibuka ko ndi umwe mu bihanganye, kandi inzu nyeranda twubatse yaracitse ahantu abantu basubira n’umutekano."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umuhanuzi Ismail",
+        "Umuhanuzi Ishaq",
+        "Umuhanuzi Yaqub",
+        "Umuhanuzi Zakariya",
+        "Umuhanuzi Yahya"
+      ],
+      "answer": "Umuhanuzi Ismail"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Gushira hejuru imishinge ya Kaaba hamwe na Ibrahimu .",
+        "Kujugunywa mu muriro .",
+        "Kumirwa n'ikiyaga",
+        "Kujana Abisirayeli mu Misiri .",
+        "Kubaka ubwato"
+      ],
+      "answer": "Gushira hejuru imishinge ya Kaaba hamwe na Ibrahimu ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Kaaba",
+        "Umusozi Sinayi",
+        "Ikiyaga Gitukura",
+        "Inyana y'inzahabu",
+        "Ubusitani bwa Edeni"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Iharuwe mu barwayi .",
+        "Baharurwa mu bacumuzi .",
+        "Baharurwa mu bapfumu .",
+        "Baharurwa mu batemera .",
+        "Baharurwa mu indyarya ."
+      ],
+      "answer": "Iharuwe mu barwayi ."
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

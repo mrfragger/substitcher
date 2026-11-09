@@ -1,0 +1,61 @@
+{
+  "title": "Mmepɔw a Wɔasen no Nkɔmhyɛni",
+  "intro": "Wɔ tete Arabia anhweatam a ɛso yɛ den so no, onipa bi puei wɔ nnipa a wɔagye din wɔ wɔn nsaanodwuma soronko mu no mu. Wɔn afie sɔre fi abotan a ɛyɛ den mu, nanso na wɔn koma yɛ den sen mmepɔw a wodi adwini no. Ɔsoro ɔbɔfo bi de anwonwade sɛnkyerɛnne biako bae — nanso ahantan ne asoɔden de nea efii mu bae ntɛmntɛm na ɛyɛ hu bae. So wubetumi ahu akoa a ɔyɛ ɔdehye a ne nkurɔfo paw ɔsɛe sen akwankyerɛ no?",
+  "clues": [
+    "Wɔsomaa me sɛ ɔbɔfoɔ maa me nkurɔfoɔ, na mefrɛɛ wɔn sɛ wɔmmɛsom Onyankopɔn Baako no.",
+    "Ná me nkurɔfo te abotan a ɛyɛ nwonwa mu, na wodi adwini a ɛyɛ nwonwa wɔ mmepɔw no so.",
+    "Yoma babea bi a ɔyɛ anwonwade fii ɔbotan a ɛyɛ den mu puei wɔ me mpaebɔ mu, na ɛyɛ sɛnkyerɛnne a emu da hɔ a efi Ade Nyinaa so Tumfoɔ no hɔ.",
+    "Meka kyerɛɛ me nkurɔfo sɛ wɔne yoma abere yi nkyɛ nsu no na wɔmmpira no.",
+    "Me nkurɔfo bɔɔ pɔw tiaa yoma ba no na wɔbɔɔ ne nan ase, na wɔsɔɔ wɔn ankasa ɔsɛe ano.",
+    "Asasewosow a ɛyɛ hu sii me nkurɔfo, na wogyaw wɔn a wɔhwee ase a wonhinhim wɔ wɔn atrae."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Salih",
+        "Odiyifo Hud",
+        "Ɔkɔmhyɛni Shu'ayb",
+        "Ɔkɔmhyɛni Nuh",
+        "Ɔkɔmhyɛni Musa"
+      ],
+      "answer": "Ɔkɔmhyɛni Salih"
+    },
+    "trial": {
+      "label": "Dɛn ne sɔhwɛ a ɛkyerɛkyerɛɛ mu?",
+      "options": [
+        "Yoma babea bi a ɔyɛ anwonwade a ɛyɛ ne nan ase a ɛyɛ den",
+        "Adaka kɛse a wɔresi wɔ fɛwdi mu",
+        "Farao otirimɔdenfo bi a ɔne no rehyia",
+        "Wɔtow no gu ogya a ɛredɛw mu",
+        "Homeda apam no a wobu so"
+      ],
+      "answer": "Yoma babea bi a ɔyɛ anwonwade a ɛyɛ ne nan ase a ɛyɛ den"
+    },
+    "location": {
+      "label": "Dɛn ne ade titiriw no?",
+      "options": [
+        "Yoma ba a ofii ɔbotan mu bae",
+        "Nnua adaka kɛse bi",
+        "Poma bi a ɛpaapaee po no mu",
+        "Whale kɛse bi",
+        "Bepɔw bi a ɛsensɛn ne soro"
+      ],
+      "answer": "Yoma ba a ofii ɔbotan mu bae"
+    },
+    "outcome": {
+      "label": "Dɛn ne wɔn nkrabea a etwa to?",
+      "options": [
+        "Asasewosow a efi soro bae mpofirim",
+        "Nsuyiri kɛse bi amee no",
+        "Wɔn nkurow no nam ɔsoro ahyɛde so danee",
+        "Mframa a ano yɛ den hyewee no",
+        "Asase amene no"
+      ],
+      "answer": "Asasewosow a efi soro bae mpofirim"
+    }
+  },
+  "verseRef": "22:42",
+  "arabic": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَعَادٌۭ وَثَمُودُ",
+  "verse": "And if they deny you, [O Muḥammad] - so, before them, did the people of Noah and ʿAad and Thamūd deny [their prophets], (22:42)"
+}

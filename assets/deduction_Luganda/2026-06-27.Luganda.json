@@ -1,0 +1,61 @@
+{
+  "title": "Okubulawo Okutukuvu",
+  "intro": "Emitala w’ebiwonvu by’ebiseera, waliwo olugero lw’okwewaayo okutakyukakyuka n’obwesige obuzitowa ennyo ne kiba nti emmeeme ekisitudde yandibadde emenya. Mu kaseera abantu we baakyukira obusirusiru ne zaabu, ekifaananyi kimu kyayimirira —nga kibayita okuddayo, nga kyegayirira okugumiikiriza, era nga kyetikka obuzito bw’ekisuubizo ekitukuvu. Eno y’emboozi y’omuntu eyalondebwa ng’omuyambi, omukuumi, era omukuumi w’okukkiriza mu kiseera ekitukuvu nga taliiwo. Osobola okubikkula emmeeme eno enywevu?",
+  "clues": [
+    "Nze ngabana omusaayi gwa nabbi omukulu eyalondebwa okwogera ne Allah butereevu ku lusozi olutukuvu.",
+    "Lumu muganda wange yeegayirira Allah amuyambe mu kwogera mu bulambulukufu n’omunyigiriza omunene.",
+    "Nalondebwa Allah okuyimirira ku mabbali ga muganda wange ng’omuyambi era omuwizi.",
+    "Nga tuli wamu twayolekagana n’omufuzi omutyobooli eyali ayagala okuyitibwa bakatonda asinga obukulu.",
+    "Nga muganda wange ayogera ne Allah ku lusozi, abantu baffe beekolera ekifaananyi okuva mu zaabu waabwe.",
+    "Ndi muganda wa Musa, Allah gwe yalonda okubeera vizier we, ayogerwako amannya mu Quran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Nabbi Haruni (Alooni) .",
+        "Nabbi Musa",
+        "Nabbi Dawud",
+        "Nabbi Yaqub",
+        "Nabbi Ishaq"
+      ],
+      "answer": "Nabbi Haruni (Alooni) ."
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Ekizibu ky'okusinza ennyana",
+        "Amataba Amanene aga Nuh",
+        "Olutalo lw’e Badr",
+        "Okuzikirizibwa kwa Thamud",
+        "Okuzikirizibwa kwa Sodomu"
+      ],
+      "answer": "Ekizibu ky'okusinza ennyana"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Ennyana ya Zaabu",
+        "Eryato lya Nuuwa",
+        "Ekisaka Ekyokya",
+        "Empuku ya Hira",
+        "Nnamulondo y’e Seba"
+      ],
+      "answer": "Ennyana ya Zaabu"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Obutaliiko musango Obukakasibwa Allah",
+        "Okubbira kwa Falaawo mu mazzi",
+        "Ekizimbe kya Kaaba",
+        "Okusomoka Ennyanja mu ngeri ey’obukuumi",
+        "Okulinnya mu Ggulu"
+      ],
+      "answer": "Obutaliiko musango Obukakasibwa Allah"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

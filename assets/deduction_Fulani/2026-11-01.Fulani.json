@@ -1,0 +1,61 @@
+{
+  "title": "Daande Jaliinde Yaakaare",
+  "intro": "Naatde e galle ɗo majjugol rewi e majjugol, kono daande wootere deeƴnde ina salii jikke. Noddaango wooto e nder Quraan ina wayla muñal e mbaydi mbaylaandi; mbele aɗa waawi rewindaade nate neɗɗo gonɗo caggal oon daande?",
+  "clues": [
+    "Miin ko mi daande muñal nder galle ɗo barkeeji jarribortee e musiiba.",
+    "Mi heddii e galle mo ŋakkere jawdi e sukaaɓe ŋakkiraa.",
+    "Miɗo anndi ñawu nguu kadi yanii e oon sehil, mo ɓanndu mum tampi.",
+    "Nde bone ɓeydii heewde, mi noddii e siimtinde Alla.",
+    "Mi sakkitii bayyinaango wooto: Alla ko Goonga, ɗum noon muñan.",
+    "Mi noddii Ayyuuba e innde; caggal ɗuum Alla itti bone ɗee, artiri ɓesngu nguu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol ko ngonmi?",
+      "options": [
+        "Debbo Annabi Ayyuuba",
+        "Debbo Annabi Nuuhu",
+        "Debbo Annabi Ibrahiima",
+        "Debbo Annabi Yaakuuba",
+        "Ɓiɗɗo Firawna debbo"
+      ],
+      "answer": "Debbo Annabi Ayyuuba"
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "Heddoraade e Ayyuuba rewrude e majjude e ñawu, caggal ɗuum noddude muñal",
+        "Jeertinde nulaaɗo peewɗo yoo woppu renndo bonngo",
+        "Duwaade jibineede leñol garoowol",
+        "Firo koyɗi nder kaso laamɗo",
+        "Yiytude cukalel halfinaaɗo sara maayo"
+      ],
+      "answer": "Heddoraade e Ayyuuba rewrude e majjude e ñawu, caggal ɗuum noddude muñal"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Bayyinaango wonde Alla ko Goonga e muñal ina ɗaɓɓi",
+        "Lekki paltoor sara ɓuuɓri",
+        "Noddaango ngam mahde laana woɗɗuka e ɓuuɓol",
+        "Koyngal koode sappo e goo e naange fuɗnge",
+        "Basket jolaaɗo e maayo Niil"
+      ],
+      "answer": "Bayyinaango wonde Alla ko Goonga e muñal ina ɗaɓɓi"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "Torra Ayyuuba ittaa, ɓesngu mum artiraa",
+        "Cukalel ngel ɓooyi ɗaminaade rokkaama caggal juulde ɓuuɓnde",
+        "Laamɗo suka gooto firti duuɓi jeeɗiɗi keewɗi e ŋakkeende",
+        "Cukalel halfinaaɗo hisnaama e ndiyam ɓuuɓɗam",
+        "Jeertinaango adii ilam bonɗam"
+      ],
+      "answer": "Torra Ayyuuba ittaa, ɓesngu mum artiraa"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

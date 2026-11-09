@@ -1,0 +1,61 @@
+{
+  "title": "Dhagar-qabaha Daahsan",
+  "intro": "Waxaad isku aragtaa inaad la joogto qof awood badan laga soo bilaabo waagii waxyiga. Qofkani wuxuu caan ku ahaa garaadkiisa, maalkiisa, iyo darajadiisa dadkooda. Markii calaamadaha cadcad ay yimaadeen, waxay garowsadeen quruxda laakiin waxay doorteen diidmo ka badan is-hoosaysiinta. Maxaa ku kallifay naftan inay ku shirqoosho mugdiga, maxaase ahaa qaddarkooda ugu dambeeya?",
+  "clues": [
+    "Waxaa i barakeeyay agab iyo saameyn badan, taasoo ka dhigtay hadalkayga mid culus shirarka.",
+    "Markii erayada rabbaaniga ah la akhriyay, ma dafiri karin hadalkooda, laakiin kibirkaygu iima oggolaan doono inaan is dhiibo.",
+    "Waxaan soo ururiyay la-taliyayaasheyda, anigoo gooni isu taagaya si aan uga fikiro sidii aan farriinta u beenin lahaa.",
+    "Ka dib markii aan aad uga fikiray, waxaan ku dhawaaqay inay tahay wax aan ahayn 'sixir laga soo gudbiyay waagii hore' si aan dadka uga jeediyo.",
+    "Dabadeed waxaa si toos ah ii soo bandhigay: 'Iga tag kan aan abuuray oo keliya.' Waxaa la ii soocay shirqoolkii aan sameeyay.",
+    "Dhawaan, dabkii la ii digay ayaa foodda igu qaban doona, mana heli doono meel aan ka baxsado."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Al-Walid ibnu Al-Mughira",
+        "Abuu Lahab",
+        "Abu Jahl",
+        "Cuqbah ibnu Abii Mucayt",
+        "Al-Nadr ibnu Al-Xarith"
+      ],
+      "answer": "Al-Walid ibnu Al-Mughira"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Loo maleegay in lagu dilo Nabiga",
+        "Wuxuu hoggaamiyay dibadbax ka dhan ah Muslimiinta",
+        "Waxay soo ururiyeen gole si ay Qur'aanka ugu tilmaamaan sixir.",
+        "Waxaa la qorsheeyay in Nabiga laga saaro Makka",
+        "Wuu diiday inuu hantidiisa la wadaago agoonta."
+      ],
+      "answer": "Waxay soo ururiyeen gole si ay Qur'aanka ugu tilmaamaan sixir."
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Muujintii",
+        "Golaha",
+        "Qalooca",
+        "Hantida",
+        "Qalinka"
+      ],
+      "answer": "Qalooca"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Wuu toobad keenay oo qaatay diinta Islaamka",
+        "Wuxuu u haajiray Xabashida.",
+        "Waxaa ku dhacay cudur dilaa ah",
+        "Wuxuu ku dhintay dagaal ka dhan ah Muslimiinta",
+        "Waxaa lagu xukumay Naarta Jahannamo"
+      ],
+      "answer": "Waxaa lagu xukumay Naarta Jahannamo"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ọkàn Onísùúrù ti Ilé Mímọ́",
+  "intro": "Nínú àwọn ojú ìwé Al-Quran, ẹni kan jáde láti ìran wòlíì ńlá kan, tí a fún ní ẹ̀bùn nígbà tí ó bá dàgbà. A máa ń ṣe ayẹyẹ ọkàn yìí fún òtítọ́ tí kò ṣeé yẹ̀ sílẹ̀ àti ipa pàtàkì tí ó kó nínú dídá ibi mímọ́ kan sílẹ̀ tí yóò di àmì ìgbàgbọ́. Bí o ṣe ń ka àwọn àmì náà, fetí sílẹ̀ dáadáa sí ohùn láti ìgbà àtijọ́, nítorí pé ó ń sọ̀rọ̀ ní ọ̀nà ẹni àkọ́kọ́.",
+  "clues": [
+    "Wọ́n dárúkọ mi nínú Al-Quran pẹ̀lú wòlíì mìíràn gẹ́gẹ́ bí ẹ̀bùn tí a fún ìránṣẹ́ àgbàlagbà kan.",
+    "Èmi jẹ́ ọ̀kan lára ​​àwọn ọmọ méjì tí a bí fún wòlíì náà ní ọjọ́ orí rẹ̀.",
+    "Al-Quran yìn mí fún jíjẹ́ olóòótọ́ sí ọ̀rọ̀ mi.",
+    "Mo gbé ọlá iṣẹ́ wòlíì, wọ́n sì rán mi gẹ́gẹ́ bí ìránṣẹ́.",
+    "Mo dara pọ̀ mọ́ bàbá mi láti gbé ìpìlẹ̀ Ilé Mímọ́ náà ga.",
+    "Wọ́n rántí mi gẹ́gẹ́ bí ọ̀kan lára ​​àwọn onísùúrù, ilé mímọ́ tí a kọ́ sì di ibi àtúnbọ̀ àti ààbò fún àwọn ènìyàn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Ísmáẹ́lì",
+        "Wòlíì Íṣákì",
+        "Wòlíì Jákọ́bù",
+        "Wòlíì Sakariya",
+        "Wòlíì Yahya"
+      ],
+      "answer": "Wòlíì Ísmáẹ́lì"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Gbígbé ìpìlẹ̀ Kaaba ga pẹ̀lú Ibrahim",
+        "Jíjẹ́ tí a jù sínú iná",
+        "Bí ẹja ńlá bá gbé e mì",
+        "Ó ń kó àwọn ọmọ Ísírẹ́lì jáde kúrò ní Íjíbítì",
+        "Kíkọ́ ọkọ̀ ojú omi"
+      ],
+      "answer": "Gbígbé ìpìlẹ̀ Kaaba ga pẹ̀lú Ibrahim"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Kaaba",
+        "Òkè Sínáì",
+        "Òkun Pupa",
+        "Ọmọ màlúù wúrà náà",
+        "Ọgbà Édẹ́nì"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A kà á láàrín àwọn aláìsàn",
+        "A kà á mọ́ àwọn ẹlẹ́ṣẹ̀",
+        "A kà á mọ́ àwọn onídán",
+        "A kà á mọ́ àwọn aláìgbàgbọ́",
+        "A kà á mọ́ àwọn àgàbàgebè"
+      ],
+      "answer": "A kà á láàrín àwọn aláìsàn"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

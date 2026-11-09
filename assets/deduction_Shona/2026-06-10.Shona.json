@@ -1,0 +1,61 @@
+{
+  "title": "Varindi veBindu",
+  "intro": "Mubindu rakasvibira, nharaunda yakaita mhiko huru. Asi kutsunga kwavo kwakaedzwa apo kuda kwaMwari kwakapindira, kuchishandura rupo rwavo kuita nyika isina chinhu.",
+  "clues": [
+    "Takakomborerwa nebindu rakakura, asi takatanga kuzvikudza.",
+    "Takaita hurongwa hwekukohwa tisingagovane nevarombo.",
+    "Takasimuka mangwanani-ngwanani, tichivimba nehurongwa hwedu.",
+    "Asi patakasvika, takawana kuti bindu redu rakanga raparadzwa nehusiku humwe chete.",
+    "Takaona chikanganiso chedu ndokutanga kupomerana mhosva.",
+    "Takazopedzisira tapfidza, asi chidzidzo chakazodzidzwa kunonoka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tiri vanaani?",
+      "options": [
+        "Vanhu veBindu",
+        "Vanhu veBako",
+        "Vanhu veNzou",
+        "Vanhu veThamud",
+        "Vanhu ve'Ad"
+      ],
+      "answer": "Vanhu veBindu"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Bindu rashanduka kuita madota",
+        "Mafashamo akaparadza zvese",
+        "Nzara yakarova nyika",
+        "Hondo yeshiri dziri kurwisa",
+        "Mhepo huru yakadzura miti"
+      ],
+      "answer": "Bindu rashanduka kuita madota"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Bindu",
+        "Bako",
+        "Ngarava",
+        "Gomo",
+        "Imba yamambo"
+      ],
+      "answer": "Bindu"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Vakapfidza asi vakarasikirwa nebindu ravo",
+        "Vakaparadzwa zvachose",
+        "Vakashandurwa kuita tsoko",
+        "Vakaponeswa nekutenda",
+        "Vakava vatongi"
+      ],
+      "answer": "Vakapfidza asi vakarasikirwa nebindu ravo"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

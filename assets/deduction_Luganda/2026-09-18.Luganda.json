@@ -1,0 +1,61 @@
+{
+  "title": "Omulanga Okuva mu Kiwonvu Ekitukuvu",
+  "intro": "Ebbali w’empapula z’ebyafaayo waliwo emboozi y’omwoyo ogwayimirira wakati w’omufuzi ow’amaanyi n’abantu bonna abaali bafuuse abaddu. Ono ssekinnoomu yayitibwa okununula eggwanga okuva mu bufuzi obw’ekibogwe, ng’akola ebyewuunyo ebimenya buli tteeka ly’obutonde. Okuva ku lusozi olutukuvu okutuuka ku kyamagero ku mazzi, omuddu wa Allah ono yalaba obubonero obwali bugenda okuwuuma okuyita mu mirembe. Omulimu gwo leero kwe kuzuula omuntu ono ow’ekitalo omusika gwe gwe gwakola enkola y’ebyafaayo by’omuntu.",
+  "clues": [
+    "Nnazaalibwa mu kiseera ng’abantu bange boolekedde ekiragiro ekitta abantu, era ab’omu maka gange ne banteeka mu mazzi okutaasa obulamu bwange.",
+    "Nasangibwa era ne nkuzibwa mu maka gennyini ag’omufuzi eyali alagidde okufa okw’ekika kyange.",
+    "Naddukira ku lusozi olutukuvu gye nnalaba omuliro ku muti ogutaayokebwa, era eddoboozi ne lyogera nange okuva ku gwo.",
+    "Nnazzibwayo eri omufuzi oyo yennyini n’ebyamagero, nga nsaba eddembe ly’abantu bange abaali bafuuse abaddu.",
+    "Nakuba ennyanja n’omuggo gwange, ne gwawukana mu makubo amakalu, ne gumira abagoberezi abaali bagoberera abantu bange.",
+    "Nawuliziganya ne Mukama wange ku lusozi okumala ekiro amakumi ana, ne nweebwa ebipande eby’obulagirizi obw’obwakatonda."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Nabbi Musa",
+        "Nabbi Haruni",
+        "Nabbi Ibrahim",
+        "Nabbi Yusuf",
+        "Nabbi Dawud"
+      ],
+      "answer": "Nabbi Musa"
+    },
+    "trial": {
+      "label": "Okugezesebwa kwange okunnyonnyola",
+      "options": [
+        "Okwawukana kw’Ennyanja",
+        "Okuzimba Essanduuko Ennene",
+        "Okuwozesebwa Omuliro Gukutte",
+        "Okusibirwa mu Lubuto lwa Whale",
+        "Okusibwa Omukungu wa Misiri"
+      ],
+      "answer": "Okwawukana kw’Ennyanja"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Omuggo gw'Omusumba",
+        "Essanduuko Ennene ey’Embaawo",
+        "Empuku Ebiseera mwe byasula",
+        "Olusuku olulimu Ensulo Bibiri",
+        "Nnamulondo Eyooyooteddwa ne Zaabu"
+      ],
+      "answer": "Omuggo gw'Omusumba"
+    },
+    "outcome": {
+      "label": "Ebinaavaamu",
+      "options": [
+        "Abantu bange Basomoka Ennyanja okutuuka mu Butebenkevu",
+        "Amataba Amanene Gasaanyaawo Abatakkiriza",
+        "Omuliro Gw'Omutyobooli Gwafuuka Omunnyogovu era Omumirembe",
+        "Ennyanja Yasuula Omuwambe Waayo ku Lubalama",
+        "Omuwambe Yafuuka Omuwanika wa Misiri"
+      ],
+      "answer": "Abantu bange Basomoka Ennyanja okutuuka mu Butebenkevu"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Eggwanga eryajeemera Enteekateeka y’Obutonde",
+  "intro": "Mu kitundu emboozi yaakyo ewulikika okuyita mu myaka, ekitundu kyabeeranga mu bujeemu obw’olwatu nga bawakanya amateeka g’obulongoofu. Ebikolwa byabwe byali tebibangawo nnyo ne kiba nti bijjukirwa ng’okulabula eri abantu bonna. Emyoyo gino gyali baani era enkomerero ki eyabatuukako?",
+  "clues": [
+    "Twabeeranga mu nsi eyali esangibwa mu kkubo abatambuze lye batera okuyitamu, naye olugendo lwabwe twalufuula lwa kabi.",
+    "Twakola ebikolwa eby’obugwenyufu nga tewali muntu yenna mu nsi bye yali akola.",
+    "Omubaka okuva mu ffe yatuyita tuve mu makubo gaffe, naye ne tumugaana ne tusaba ekibonerezo singa aba amazima.",
+    "Abagenyi abalungi bwe bajjanga mu kibuga kyaffe, twanoonyanga okubakuba, nga tetumanyi nti babaka ba kuzikirizibwa.",
+    "Twalabulwa ekibonerezo eky’entiisa singa tetulekera awo, naye twasekerera okulabula ne tusigala mu kibi kyaffe.",
+    "Enkuba y’amayinja okuva mu bbanga yatutonnya, era amaka gaffe ne gafuumuuka, ne galekawo kalonda konna okuggyako akabonero eri abo abafumiitiriza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Abantu ba Lut",
+        "Abantu b’e Thamud",
+        "Abantu ba A'ad",
+        "Abantu b’e Madyan",
+        "Abantu b’e Saba"
+      ],
+      "answer": "Abantu ba Lut"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Yakola ebikolwa eby’obugwenyufu ebitabangawo n’okulemesa enguudo",
+        "Yasinzanga ennyana eya zaabu",
+        "Yatta engamiya enkazi entukuvu",
+        "Yafera mu by’obusuubuzi n’akyusa abantu",
+        "Yazimba omunaala omugulumivu okusomooza eggulu"
+      ],
+      "answer": "Yakola ebikolwa eby’obugwenyufu ebitabangawo n’okulemesa enguudo"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Bamalayika abeefudde abagenyi abalungi",
+        "Engamiya enkazi ng’eva mu lwazi",
+        "Omuggo nga gukyuka ne gufuuka omusota",
+        "Eryato eryazimbibwa ku lusozi",
+        "Omuliro ogwafuuka omunnyogovu era ogw’emirembe"
+      ],
+      "answer": "Bamalayika abeefudde abagenyi abalungi"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yasaanawo enkuba y’amayinja okuva mu bbanga",
+        "Okumira ensi",
+        "Yabbira mu mataba amangi",
+        "Yakubiddwa okubwatuka okwali kukuba enduulu",
+        "Yakyusibwa n’efuuka enkima"
+      ],
+      "answer": "Yasaanawo enkuba y’amayinja okuva mu bbanga"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Chitubu Pasi Pejecha",
+  "intro": "Munhoroondo dzeKorani, munhu ane mwoyo murefu mukuru akatarisana nemuedzo waizopwanya mwoyo yakasimba. Zvese zvakabviswa - pfuma, mhuri, nehutano. Asi kubva pakuora mwoyo kwakadzika, munamato wakazvininipisa wakapindurwa nenzira isingatarisirwi. Unogona kuziva mweya uyu une nyaya yekudzorerwa inogara ichidzokororwa kwemakore?",
+  "clues": [
+    "Ndakaedzwa nemuedzo wakaoma zvekuti unoyeukwa kwese kwese.",
+    "Ndakarasikirwa nezvose zvaikosha - pfuma yangu, vana vangu, uye hutano hwangu.",
+    "Muviri wangu wakanga wakazara nemaronda anorwadza, uye ndairambwa nevanhu vese.",
+    "Mukushaya tariro kwangu, ndakadana kuna Allah, ndichiti Satani akandibata nematambudziko nekunditambudza.",
+    "Allah vakandipindura vakandiraira kuti ndirove pasi netsoka yangu.",
+    "Kubva ipapo chaipo, chitubu chinotonhorera chakavhuvhuta, uye Allah akadzorera mhuri yangu uye akaiwedzera kaviri setsitsi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Ayyub",
+        "Muprofita Musa",
+        "Muprofita Ilyas",
+        "Muporofita Sulayman",
+        "Muporofita Dhawud"
+      ],
+      "answer": "Muprofita Ayyub"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kurwara zvakanyanya uye kurasikirwa nemhuri nepfuma",
+        "Kumedzwa nehove huru",
+        "Kutapwa kubva muguta reMakkah",
+        "Kusungwa mugomba rakadzika",
+        "Kurwisana nemutongi anozvikudza"
+      ],
+      "answer": "Kurwara zvakanyanya uye kurasikirwa nemhuri nepfuma"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Chitubu chinotonhorera chinobva pasi",
+        "Chikepe chiri pamusoro pemafashamo makuru",
+        "Tsvimbo yakakamura gungwa",
+        "Chigaro cheumambo chakakwirira chegirazi",
+        "Bako rakakomberedzwa nemadziro rekurara"
+      ],
+      "answer": "Chitubu chinotonhorera chinobva pasi"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Mhuri nepfuma zvakadzorerwa uye zvakapetwa kaviri",
+        "Kubuda kubva mudumbu rehove",
+        "Nzira yakachengeteka mumvura yakakamurwa",
+        "Umambo hwakapihwa kutonga",
+        "Kuberekwa kwemwanakomana nenzira inoshamisa mukukwegura"
+      ],
+      "answer": "Mhuri nepfuma zvakadzorerwa uye zvakapetwa kaviri"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

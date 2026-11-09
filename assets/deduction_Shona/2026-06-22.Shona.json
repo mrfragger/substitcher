@@ -1,0 +1,61 @@
+{
+  "title": "Mutendi Akavanzika",
+  "intro": "Mudzimba dzesimba dzakapfuma, umo kusatenda neudzvinyiriri zvaitonga, inzwi rechokwadi rakataura richibva panzvimbo isingatarisirwi. Munhu uyu akaedza simba rekudzivirira nhume, achiisa kuchengetedzwa kwavo panjodzi kuti vazivise chokwadi.",
+  "clues": [
+    "Ndaigara munyika ine hutsinye hukuru, ndichishandira mutongi aizviti ndiMwari.",
+    "Ndakavanza zvandaitenda zvechokwadi kwemakore akawanda, ndichitya migumisiro yekuzviisa pachena.",
+    "Pakauya mutumwa nezviratidzo zvakajeka, ndakatenda, asi vanhu vangu vakamumukira.",
+    "Ndakamira pamberi pemudzvinyiriri nedare rake, ndichipikisa kuti havafaniri kuuraya nhume isina mhosva.",
+    "Ndakavanyevera nezvekurangwa kwemarudzi ekare akaramba chokwadi, sevanhu vaNoa na'Ad.",
+    "Allah vakandiponesa kubva muzvirongwa zvavo zvakaipa, uye ndakaona kuparadzwa kwehurumende inodzvinyirira."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Mutendi wemhuri yaFarao",
+        "N'anga yaFarao",
+        "Vizier waFarao",
+        "Mudzimai waFarao",
+        "Muchengeti wepfuma waFarao"
+      ],
+      "answer": "Mutendi wemhuri yaFarao"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kudzivirira muporofita kuti asaurayiwe",
+        "Kupikisa manomano emuroyi",
+        "Kuvaka shongwe kuti isvike kudenga",
+        "Kuparadzanisa gungwa kuti vatize",
+        "Kududzira hope dzamambo"
+      ],
+      "answer": "Kudzivirira muporofita kuti asaurayiwe"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Dare raFarao",
+        "Gwenzi riri kupfuta",
+        "Mhuru yegoridhe",
+        "Tsime reMadyan",
+        "Areka yeMuporofita Nuh"
+      ],
+      "answer": "Dare raFarao"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kuponeswa kubva mukukuvadzwa apo vadzvinyiriri vaiparadzwa",
+        "Akava mutongi ane simba",
+        "Akakandwa mumoto ndokubuda asina kukuvara",
+        "Yakamedzwa nenyika",
+        "Akadzungaira murenje kwemakore makumi mana"
+      ],
+      "answer": "Kuponeswa kubva mukukuvadzwa apo vadzvinyiriri vaiparadzwa"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

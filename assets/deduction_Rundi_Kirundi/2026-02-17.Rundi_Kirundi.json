@@ -1,0 +1,61 @@
+{
+  "title": "Uruvyaro rw'indyane",
+  "intro": "Imbere y’uko isi imenya intambara yakwiragiye, harabaye ikigeragezo gikomeye c’ukwizera n’ukugamburuka. Iyi nkuru iratohoza amahitamwo umuntu akora, ibikorwa vyiwe bikaba bitanga akarorero ku bihe bizoza. Nimwitegure gusobanura inkuru y’umutima uriko urarwana n’ishari ryinshi cane be n’ingaruka zaryo zibabaje.",
+  "clues": [
+    "Nari mu ruvyaro rwa mbere rwagendeye kw’isi, umwana w’abantu babiri ba mbere nyene.",
+    "Jewe na mwenewacu twategetswe gushikanira Allah ikimazi, ikigeragezo c’ukutagira nkunzi kwacu.",
+    "Ishikanwa ryanje ntiryemerewe, mu gihe irya mwenewacu ryari ryemewe, ivyo bikaba vyatumye umutima wanje wuzura inyiyumvo ziteye ubwoba.",
+    "Navugiye mwenewacu amajambo yo gutera ubwoba, nvyuriwe umutima n’umubabaro wo kwanka.",
+    "Murumuna wanje yanyishuye n’ubwenge n’ugutinya Imana, ambwira ubutungane bwa Allah n’ukumwitinya.",
+    "Naho mwenewacu yavuga amajambo y’ubugwaneza kandi akagira umutima ukunze wo kubabarira, narafashe ubuzima, mba umwe mu batakaje."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umuhanuzi Adamu",
+        "Iblisi",
+        "Umuhanuzi Nuh",
+        "Kabili (Kayini)",
+        "Fir'awni"
+      ],
+      "answer": "Kabili (Kayini)"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Umwuzure munini .",
+        "Uguca ibice kw'ikiyaga",
+        "Inyubakwa ya Kaaba .",
+        "Ishikanwa ry’ibimazi .",
+        "Igerageza ryo mw'itongo"
+      ],
+      "answer": "Ishikanwa ry’ibimazi ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Ubwato",
+        "Abakozi",
+        "Umusozi wa Safa .",
+        "Ikimazi",
+        "Igisaka kigurumana"
+      ],
+      "answer": "Ikimazi"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Yabaye intumwa .",
+        "Yarohamye",
+        "Yubatse ubwami bukomeye .",
+        "Yabaye akarorero ko kwicuza .",
+        "Yarahawe ubutunzi bwinshi cane"
+      ],
+      "answer": "Yabaye akarorero ko kwicuza ."
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

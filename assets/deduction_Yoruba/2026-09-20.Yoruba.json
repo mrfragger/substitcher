@@ -1,0 +1,61 @@
+{
+  "title": "Onigbagbọ tí ó bojú ní Ààfin Aláìlágbára",
+  "intro": "Nínú àwọn gbọ̀ngàn alákòóso onígbọ̀wọ́ jùlọ tí Al-Quran mọ̀ sí — níbi tí àìgbọràn sí Ọlọ́run ti túmọ̀ gbogbo àṣẹ — ọkàn kan rìn láàárín àwọn ẹni tí ó ní àǹfààní, ó ń fi àwọn àṣírí tí ó léwu jùlọ pamọ́ ní ojú tí ó hàn gbangba. Ẹni yìí ní ìgbàgbọ́ tí a kà léèwọ̀ nínú àwọn ògiri wọ̀nyẹn débi pé àwárí rẹ̀ yóò túmọ̀ sí ikú dájúdájú. Síbẹ̀ ìdánilójú jó bí iná lábẹ́ eérú, nígbà tí àkókò náà sì dé, òtítọ́ dún pẹ̀lú ìgboyà tí ó mì ìpìlẹ̀ ààfin alákòóso náà.",
+  "clues": [
+    "Mo ń gbé láàárín àwọn alákòóso alágbára àti onígbèéraga jùlọ ní àkókò mi, tí àwọn nǹkan ìgbádùn àti agbára ìdarí yíká.",
+    "Mo fi ìgbàgbọ́ tòótọ́ mi pamọ́ sínú ọkàn mi, mo bẹ̀rù fún ẹ̀mí mi lọ́wọ́ àwọn tí wọ́n ń ṣàkóso pẹ̀lú ìwà ìkà àti ìnilára.",
+    "Nígbà tí àwọn ènìyàn mi ṣiyèméjì tí wọ́n sì ṣiyèméjì lójú òtítọ́, mo gbéra síwájú láti kìlọ̀ fún wọn nípa àbájáde ìbànújẹ́ tí ó ti ṣẹlẹ̀ sí àwọn orílẹ̀-èdè ìgbàanì tí wọ́n kọ̀ àwọn ìránṣẹ́ Olúwa wọn sílẹ̀.",
+    "Mo rán àwọn ènìyàn mi létí ìtàn ọ̀dọ́mọkùnrin alálá kan tí àwọn ẹbí rẹ̀ kọ̀ sílẹ̀, ṣùgbọ́n ó di aláṣẹ ńlá ní ilẹ̀ òkèèrè.",
+    "Mo rọ àwọn ènìyàn mi láti má ṣe gbọ́ràn sí alákòóso tó tàn wọ́n jẹ, dípò bẹ́ẹ̀ mo pè wọ́n láti tẹ̀lé mi ní ọ̀nà òdodo àti ìtọ́sọ́nà.",
+    "Mo sọ òtítọ́ ní gbangba bó tilẹ̀ jẹ́ pé àwọn ọmọ ẹ̀yìn apànìyàn náà halẹ̀ mọ́ mi láti sọ mí lókùúta tàbí láti lé mi kúrò ní ilẹ̀ náà."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Onigbagbọ Farasin lati idile Farao",
+        "Baba-nla Onísùúrù kan tí ó sunkún afọ́jú títí tí ọmọ rẹ̀ fi padà dé.",
+        "Ìránṣẹ́ Olóòótọ́ Tí Àrùn Awọ Ara Rẹ̀ Wà Lágbára Nígbẹ̀yìn-gbẹ́yín",
+        "Ọmọkùnrin ẹlẹ́ṣẹ̀ kan tí ó kọ̀ láti pe Wòlíì kan láti wọ ọkọ̀ ojú omi.",
+        "Aláìláàánú kan tó sọ pé òun ni Ọlọ́run fún ara òun"
+      ],
+      "answer": "Onigbagbọ Farasin lati idile Farao"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Fífi ìgbàgbọ́ pamọ́ ní ààfin apànìyàn",
+        "Ìfọ́jú láti ọ̀pọ̀lọpọ̀ ọdún ẹkún ni ó ń jẹ",
+        "Jíjẹ́ ẹni tí a fi àdánù ìdílé àti ìpọ́njú líle koko dán wò",
+        "Kíkọ́ ọkọ̀ ojú omi ńlá kan nígbà tí wọ́n ń fi í ṣe ẹlẹ́yà",
+        "Lífarada ooru gbígbóná ti iná ńlá"
+      ],
+      "answer": "Fífi ìgbàgbọ́ pamọ́ ní ààfin apànìyàn"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ààfin Fáráò",
+        "Òkè gíga kan níbi tí wọ́n ti kọ́ ọkọ̀ áàkì kan",
+        "Àfonífojì mímọ́ kan lábẹ́ Òkè Sínáì",
+        "Ọgbà àgbàyanu kan pẹ̀lú àwọn odò méjì tó ń ṣàn",
+        "Ìtẹ́ kírísítà lókè odò abẹ́ ilẹ̀"
+      ],
+      "answer": "Ààfin Fáráò"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ààbò Ọlọ́run nígbà tí àwọn aninilára bá parun",
+        "Mo tún padà sí ìdílé mi lẹ́yìn ọ̀pọ̀ ọdún ìyàsọ́tọ̀ wọn",
+        "Wọ́n fún un ní sùúrù, wọ́n tún ara rẹ̀ ṣe, wọ́n sì tún fún un ní ìdílé tó tóbi sí i.",
+        "Mo ti fipamọ sinu ọkọ oju omi nigba ti iyoku agbaye rì sinu omi",
+        "A gbà á là láìfarapa kúrò nínú iná nípa àṣẹ Allah"
+      ],
+      "answer": "Ààbò Ọlọ́run nígbà tí àwọn aninilára bá parun"
+    }
+  },
+  "verseRef": "40:38",
+  "arabic": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "verse": "And he who believed said, \"O my people, follow me; I will guide you to the way of right conduct. (40:38)"
+}

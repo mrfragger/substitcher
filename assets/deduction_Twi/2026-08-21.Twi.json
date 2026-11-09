@@ -1,0 +1,61 @@
+{
+  "title": "Sunsuma a Ɛwɔ Ahengua no Akyi",
+  "intro": "Wogyina tete ahenni a ɛyɛ den bi ahemfie mu, baabi a sodifo bi a ɔwɔ tumi abɔ wɔn ho dawuru sɛ onyame wɔ ɔman no nyinaa so. Sodifo yi nkyɛn na akoa bi a ɔde ne ho ama, a wɔde ahenni no mu apɛde akɛse a ɛsen biara ahyɛ no nsa. Wɔbom bɔ pɔw na wɔyɛ nhyehyɛe, na wɔpow sɛ wobetie ɔbɔfo bi a wɔsomaa no sɛ ɔmmɛkyerɛ wɔn kwan no kɔkɔbɔ. So wubetumi ahu onii ko a na saa akoa nokwafo yi yɛ?",
+  "clues": [
+    "Na mete ahenni a ɛyɛ den a obi a ɔwɔ tumi a ɔkyerɛ sɛ ɔyɛ onyame wɔ nnipa no nyinaa so na odi so mu.",
+    "Mesom sɛ sodifo yi somfo a wogye no di, na midii wɔn apɛde ne ahyɛde biara ho dwuma.",
+    "Bere a Allah somafoa bi baa yen asaase so frɛɛ yɛn kɔɔ nokorɛ mu no, me ne me sodifoɔ no ampene so sɛ yɛbɛtie.",
+    "Wɔhyɛɛ me sɛ mensɔ ogya kɛse na mensiesie dɔte birikisi mma adansi kɛse bi.",
+    "Ná me sodifo no pɛ sɛ osi ɔdan atenten bi a ɛkorɔn araa ma ebedu ɔsoro ankasa.",
+    "Awiei koraa no, wɔprapraa me ne me sodifo, yɛn asraafo dɔm no kɔe na memee wɔ po no mu bun mu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Haman",
+        "Dhul-Kifl na ɔkyerɛwee",
+        "Jibreel na ɔkyerɛwee",
+        "Mikail na ɔkyerɛwee",
+        "Harut na ɔkyerɛwee"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Abantenten a wɔresi na ama wɔadu ɔsoro",
+        "Wɔtow no gu ogya a ɛredɛw mu",
+        "Nkurɔfo a wɔbɛkanyan wɔn afi abo abosom som mu",
+        "Ɔsram a wɔbɛpaapae mu sɛ ɔsoro sɛnkyerɛnne",
+        "Kurow kɛse bi a wodi so nkonim denam ɔsoro ahyɛde so"
+      ],
+      "answer": "Abantenten a wɔresi na ama wɔadu ɔsoro"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Abantenten a wɔde dɔte birikisi a wɔatow ayɛ",
+        "Whale bi yafunu",
+        "Asubura kronkron bi a ɛwɔ sare so",
+        "Kwae a ɛredɛw wɔ bepɔw kronkron bi so",
+        "Adaka bi a ɛso abusua bi a wɔapaw"
+      ],
+      "answer": "Abantenten a wɔde dɔte birikisi a wɔato ayɛ"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Memenee wɔ po no mu bun mu",
+        "Wɔmaa so kɔɔ baabi a ahobammɔ wɔ wɔ ahemfie a ɛyɛ nwonwa mu",
+        "Wogyee no fii apataa kɛse bi yafunu mu",
+        "Wɔde ahenni ne ɔsoro nyansa hyɛ no anuonyam",
+        "Wɔnam nteɛm a ɛyɛ hu so danee mfutuma"
+      ],
+      "answer": "Memenee wɔ po no mu bun mu"
+    }
+  },
+  "verseRef": "40:37",
+  "arabic": "أَسْبَـٰبَ ٱلسَّمَـٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَـٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَـٰذِبًۭا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ ۚ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍۢ",
+  "verse": "The ways into the heavens - so that I may look at the deity of Moses; but indeed, I think he is a liar.\" And thus was made attractive to Pharaoh the evil of his deed, and he was averted from the [right] way. And the plan of Pharaoh was not except in ruin. (40:37)"
+}

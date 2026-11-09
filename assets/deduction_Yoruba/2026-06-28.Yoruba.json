@@ -1,0 +1,61 @@
+{
+  "title": "Ounjẹ Airotẹlẹ ti Agbalagba naa",
+  "intro": "Ní agbègbè mímọ́ ti Ilé Allah, ìránṣẹ́ Ọlọ́run àgbàlagbà kan ní ìrírí ohun ìjìnlẹ̀ kan tí ó lòdì sí gbogbo ìfojúsùn. Ẹni tí ó jẹ́ olùfọkànsìn yìí, tí ó ti pẹ́ tí ó ti jẹ́ òbí àdánidá, rí ohun àrà ọ̀tọ̀ kan tí ó fi àánú Ọlọ́run tí kò lópin hàn. Ìṣòro náà wà nínú ṣíṣí àṣírí àkókò tí a gbàgbé yìí láti inú ìgbésí ayé àwọn wòlíì.",
+  "clues": [
+    "Àwọn ènìyàn mi ni a mọ̀ sí Ísírẹ́lì, àwọn ọmọ baba ńlá kan ní ìgbàanì.",
+    "Mo lo gbogbo oru mi ninu adura, mo si foribalẹ niwaju Oluwa mi ninu tẹmpili.",
+    "Wọ́n fún mi ní ọmọkùnrin nígbà tí mo dàgbà, ẹ̀bùn tí mi ò dẹ́kun láti máa fi ògo fún Ọlọ́run.",
+    "Àdánwò mi ní nínú wíwá ohun ìtọ́jú kan tí ó fara hàn fún ọmọ kékeré kan tí ó wà lábẹ́ àbójútó mi.",
+    "Èmi ni wòlíì tí orúkọ rẹ̀ ń jẹ́ Zakariyya, tí a yàn láti máa tọ́jú Màríà ní Bayt al-Maqdis.",
+    "Ìdáhùn náà wà nínú ẹsẹ tí Allah gbà Màrímà tí ó sì pèsè oúnjẹ fún un."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì tó ń tọ́jú Màríà nínú tẹ́ḿpìlì",
+        "Wòlíì tí ó kọ́ ilé mímọ́ náà",
+        "Ẹja ńlá kan gbé wòlíì náà mì",
+        "Wòlíì tó sá kúrò lọ́dọ̀ àwọn ènìyàn rẹ̀",
+        "Wòlíì tí ó bá Allah sọ̀rọ̀ tààrà"
+      ],
+      "answer": "Wòlíì tó ń tọ́jú Màríà nínú tẹ́ḿpìlì"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Láti fi ọ̀pọ̀lọpọ̀ ọdún ọ̀dá dán an wò",
+        "Wíwá oúnjẹ tí a pèsè lọ́nà àṣírí fún àwọn ọmọ ilé ìtọ́jú kékeré kan",
+        "Wíwàásù fún orílẹ̀-èdè kan tí kò kọ ìtọ́sọ́nà Ọlọ́run sílẹ̀",
+        "Àwọn ènìyàn ẹni tí wọ́n jù sínú ihò",
+        "Gbigba ifihan nipasẹ awọn iran"
+      ],
+      "answer": "Wíwá oúnjẹ tí a pèsè lọ́nà àṣírí fún àwọn ọmọ ilé ìtọ́jú kékeré kan"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ọkọ̀ ojú omi tí a fi pákó àti ìṣó kọ́",
+        "Tẹ́ḿpìlì mímọ́ ti Jerúsálẹ́mù",
+        "Ọgbà kan tí wọ́n wó lulẹ̀",
+        "Ìlú tí ọba olódodo kọ́",
+        "Ijinle okun"
+      ],
+      "answer": "Tẹ́ḿpìlì mímọ́ ti Jerúsálẹ́mù"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Àwọn ènìyàn gbàgbọ́ wọ́n sì tẹ̀lé ìránṣẹ́ náà",
+        "Ìtẹ́wọ́gbà àti àánú Ọlọ́run fún àwọn tí a yà sọ́tọ̀ fún ìjọsìn",
+        "Ìyà náà dé bá àwọn aláìgbàgbọ́.",
+        "A bí ọmọkùnrin kan ní ọjọ́ ogbó gẹ́gẹ́ bí ìlérí rẹ̀",
+        "Ọ̀nà ààbò la àárín aginjù kọjá"
+      ],
+      "answer": "Ìtẹ́wọ́gbà àti àánú Ọlọ́run fún àwọn tí a yà sọ́tọ̀ fún ìjọsìn"
+    }
+  },
+  "verseRef": "3:37",
+  "arabic": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍۢ وَأَنۢبَتَهَا نَبَاتًا حَسَنًۭا وَكَفَّلَهَا زَكَرِيَّا ۖ كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًۭا ۖ قَالَ يَـٰمَرْيَمُ أَنَّىٰ لَكِ هَـٰذَا ۖ قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ ۖ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ",
+  "verse": "So her Lord accepted her with good acceptance and caused her to grow in a good manner and put her in the care of Zechariah. Every time Zechariah entered upon her in the prayer chamber, he found with her provision. He said, \"O Mary, from where is this [coming] to you?\" She said, \"It is from Allāh. Indeed, Allāh provides for whom He wills without account.\" (3:37)"
+}

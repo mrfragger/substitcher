@@ -1,0 +1,61 @@
+{
+  "title": "Umuhinga mu vy'ubwubatsi bw'ubwibone",
+  "intro": "Mu gihugu ca kera cari gitegekwa n’ububasha buteye akaga, umuntu w’agaciro yari afise ikibanza c’ububasha. Uwo mutima wari ufise akamaro kanini mu migambi ikomeye y’uwo mutware, ukaba warafashije mu ngoma yabo y’agahahazo be n’ugutera umugere ubutumwa buva ku Mana. Iragi ryabo rifatanye n’ugukurikirana ububasha bwo mw’isi be n’uguhakana ukuri.",
+  "clues": [
+    "Nakoreye umutware ateye ubwoba yahahaza abantu imyaka n’imyaka.",
+    "Izina ryanje rivugwa kenshi mu Gitabu c’Imana iruhande y’uwo murongozi w’ububasha.",
+    "Narashinzwe igikorwa gikomeye co kwubaka, kikaba ari ikibanza kirekire cane cari gifise intumbero yo gushika mw’ijuru.",
+    "Naciye ngira inama shebuja ngo yice abahungu b’Abisirayeli, abakobwa babo abareke.",
+    "Nari mu migambi n’imigambi yo gutera intumwa ya Allah ikomeye.",
+    "Iherezo ryanje, hamwe na shebuja n’ingabo ziwe, ryaje mu mazi y’ikiyaga kinini."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Nimurodi",
+        "Aburaha",
+        "Goliyati",
+        "Iblisi",
+        "Hamani"
+      ],
+      "answer": "Hamani"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Kugeragezwa n’ubutunzi bwinshi cane .",
+        "Kuyobora ingabo zitera inzu nyeranda .",
+        "Kubaka umunara kugira ushikire Imana .",
+        "Kujugunywa mu muriro kubera ivyo bemera .",
+        "Gutererwa mw'iriba n'abavukanyi"
+      ],
+      "answer": "Kubaka umunara kugira ushikire Imana ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Ubwato",
+        "Abakozi",
+        "Umusozi",
+        "Umunara",
+        "Ikigobe"
+      ],
+      "answer": "Umunara"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Kuba yahawe ubwenge burengeye urugero .",
+        "Kuba umuhanuzi .",
+        "Kumirwa n'isi .",
+        "Guhabwa ubwami .",
+        "Kurohama mu kiyaga"
+      ],
+      "answer": "Kurohama mu kiyaga"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

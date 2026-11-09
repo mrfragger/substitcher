@@ -1,0 +1,61 @@
+{
+  "title": "Echo-ga Cidhifka Magaalada",
+  "intro": "Magaalo ka leexatay hanuunka rabbaaniga ah, qof keligiis ah ayaa ka soo baxay duleedka, isagoo la ordaya farriin rajo iyo digniin ah. Naftan la iloobay waxay noqon doontaa astaan ​​weligeed ah oo iimaan adag leh.",
+  "clues": [
+    "Waxaan arkay ergooyin loo dirayo magaaladayda, laakiin dadkaygu way diideen inay yihiin dad caadi ah.",
+    "Waan rumaysnaa fariintooda waxaana dareemay in runtu ay ka dhex muuqato jirkayga.",
+    "Waxaan dadkayga ugu baaqay inay adeecaan rasuullada aan wax abaalmarin ah weydiisan.",
+    "Waxaan ka cararay meesha ugu fog magaalada, anigoo si degdeg ah isku dayaya inaan caqliga u muujiyo.",
+    "Dadkaygu way igu kaceen, waana la i dilay, laakiin waxaan helay nabad waarta.",
+    "Ilaahay wuxuu igu yiri, 'Gal Jannada,' waxaana jeclaan lahaa in dadkaygu ay markhaati ka noqdaan sharafta la i siiyay."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Mu'miniinta Ya-Sin",
+        "Uzair oo ahaa Su'aal-waydiiye",
+        "Tilmaamaha Al-Khidr",
+        "Mu'minkii Qoyska Fircoon",
+        "Namrudkii Daaciga ahaa"
+      ],
+      "answer": "Mu'miniinta Ya-Sin"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "La dagaallanka dad gaaloobay oo dilay",
+        "In lagu tuuro dab ololaya",
+        "Kalluun weyn oo liqaya",
+        "Dhisidda doon weyn",
+        "Ka cararidda ciidanka kaligii-taliye"
+      ],
+      "answer": "La dagaallanka dad gaaloobay oo dilay"
+    },
+    "location": {
+      "label": "Goobta Muhiimka ah",
+      "options": [
+        "Dhamaadka ugu fog ee magaalada",
+        "Buurta Tur",
+        "Dooxada Qudhaanjada",
+        "Xeebaha Webiga Niil",
+        "Godka godka"
+      ],
+      "answer": "Dhamaadka ugu fog ee magaalada"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Shahiidnimo iyo gelitaan degdeg ah Jannada",
+        "Baxsasho iyo badbaado",
+        "Kor u kaca cirka",
+        "Ku qaraqmay badda",
+        "Dhagax isu beddelaya"
+      ],
+      "answer": "Shahiidnimo iyo gelitaan degdeg ah Jannada"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

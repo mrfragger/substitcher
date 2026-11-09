@@ -1247,13 +1247,6 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                       'Download them from ',
                 ),
                 TextSpan(
-                  text: 'everyayah.com',
-                  style: const TextStyle(color: Colors.lightBlue),
-                  recognizer: TapGestureRecognizer()
-                    ..onTap = () => _launchUrl('https://everyayah.com'),
-                ),
-                const TextSpan(text: ' and '),
-                TextSpan(
                   text: 'audio.qud.dev',
                   style: const TextStyle(color: Colors.lightBlue),
                   recognizer: TapGestureRecognizer()

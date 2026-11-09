@@ -1,0 +1,61 @@
+{
+  "title": "Oorun Àwọn Olódodo",
+  "intro": "Ní àkókò kan tí ìgbàgbọ́ léwu tí àwọn alágbára sì ń wá ọ̀nà láti pa ìgbàgbọ́ rẹ́, àwùjọ àwọn ọ̀dọ́mọdé kan ṣe ìpinnu kan tí yóò máa dún ní gbogbo ọjọ́. Nígbà tí wọ́n sá kúrò ní gbogbo ohun tí wọ́n mọ̀, wọ́n wá ààbò sí òkùnkùn tí ó fara sin lórí òkè ńlá kan, wọ́n sì gbẹ́kẹ̀lé Allah pátápátá. Ohun tí ó ṣẹlẹ̀ lẹ́yìn náà yóò di àmì tí kò ní àsìkò fún àwọn tí wọ́n ń ronú jinlẹ̀.",
+  "clues": [
+    "Àwa jẹ́ ẹgbẹ́ àwọn ọ̀dọ́mọdé tí wọ́n gbàgbọ́ nínú Olúwa wa, Ó sì mú kí a ní ìtọ́sọ́nà.",
+    "A dúró níwájú àwọn ènìyàn wa, a sì kéde pé a kò ní pe ọlọ́run mìíràn lẹ́yìn Allah.",
+    "A wá ibi ìsádi sí inú ihò àpáta kan, a sì wí pé, ‘Olúwa wa, fún wa ní àánú láti ọ̀dọ̀ rẹ, kí o sì tọ́ wa sọ́nà ní ọ̀nà títọ́ nínú ọ̀ràn wa.’",
+    "A sùn fún ọ̀pọ̀lọpọ̀ ọdún, oòrùn sì ń yọ́ kúrò ní ihò wa, kò sì ní fọwọ́ kan wá.",
+    "Ajá wa dùbúlẹ̀ sí ẹnu ọ̀nà ihò àpáta náà, ó ń ṣọ́ wa bí ẹni pé a ń ṣọ́ wa.",
+    "Nígbà tí a jí, a ń ṣe kàyéfì bí a ti pẹ́ tó, wọ́n sì rán ọ̀kan lára ​​wa pẹ̀lú owó fàdákà láti ra oúnjẹ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Àwọn ènìyàn inú ihò náà",
+        "Àwọn ènìyàn ti Ìgòkè",
+        "Àwọn ènìyàn ọjọ́ ìsinmi",
+        "Àwọn Ènìyàn Erin",
+        "Àwọn alábágbé Igi"
+      ],
+      "answer": "Àwọn ènìyàn inú ihò náà"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Wọ́n sá lọ sí ihò àpáta láti bọ́ lọ́wọ́ inúnibíni nítorí ìgbàgbọ́ wọn",
+        "Afẹ́fẹ́ líle pa á run",
+        "Ilẹ̀ gbé mì",
+        "Mo rì sínú omi",
+        "Ìjì òkúta kọlu mi"
+      ],
+      "answer": "Wọ́n sá lọ sí ihò àpáta láti bọ́ lọ́wọ́ inúnibíni nítorí ìgbàgbọ́ wọn"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ajá kan tó ń ṣọ́ ẹnu ọ̀nà ihò àpáta náà",
+        "Ọkọ̀ ńlá kan",
+        "Ọ̀pá tí ó di ejò",
+        "Ẹyẹ hoopoe kan",
+        "Ọmọ màlúù wúrà kan"
+      ],
+      "answer": "Ajá kan tó ń ṣọ́ ẹnu ọ̀nà ihò àpáta náà"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Wọ́n dúró nínú ihò àpáta náà fún ọdún 309, lẹ́yìn náà ni wọ́n gbé wọn dìde gẹ́gẹ́ bí àmì",
+        "Wọ́n yí wọn padà sí ọ̀bọ",
+        "Ìkún omi pa wọ́n run",
+        "Wọ́n mú wọn kọjá òkun",
+        "Wọ́n fún wọn ní ìjọba kan"
+      ],
+      "answer": "Wọ́n dúró nínú ihò àpáta náà fún ọdún 309, lẹ́yìn náà ni wọ́n gbé wọn dìde gẹ́gẹ́ bí àmì"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Iná Tí Ó Fi Àjogúnbá Kan Hàn",
+  "intro": "Nínú àkọsílẹ̀ àtakò, ẹni kan wà tí orúkọ rẹ̀ gan-an di ìkìlọ̀ títí di òpin ayé. Ẹni yìí yan ìkórìíra ju ìbátan lọ, àìgbọràn ju ìtẹríba lọ, ó sì tako ìpè àánú. Fetí sílẹ̀ dáadáa sí àwọn ìró ìkéde ìgbàanì kan bí a ṣe ń tú àṣírí ẹni tí ó jẹ́ ẹni burúkú yìí.",
+  "clues": [
+    "A bí mi sínú ìdílé kan náà pẹ̀lú ojiṣẹ ìkẹyìn ti Allah, síbẹ̀ mo dojú ìjà kọ wọ́n ní gbogbo ìgbà.",
+    "Orúkọ mi ní ìtumọ̀—orúkọ kan tí ó túmọ̀ sí ‘baba iná,’ orúkọ kan tí yóò ṣàpẹẹrẹ ìpín ayérayé mi.",
+    "Mo fi ìpalára kan ẹni tí ó jẹ́ olóòótọ́, àwọn ará ilé mi pàápàá dara pọ̀ mọ́ wa nínú ìpolongo ìkà yìí.",
+    "Mo lo ọrọ̀ àti agbára mi láti pa ìpè sí Allah lẹ́nu mọ́, mo gbàgbọ́ pé owó lè pa ìmọ́lẹ̀ àtọ̀runwá.",
+    "Allah ya orí kan sọ́tọ̀ fún mi—orí kan tí ó kúrú tó bẹ́ẹ̀ tí a lè kà á ní ìṣẹ́jú díẹ̀, síbẹ̀ ìwọ̀n rẹ̀ ṣì wà títí di ọjọ́ ìdájọ́.",
+    "Ẹgbẹ́ mi ní ọjọ́ ìkẹ́yìn ń rìn lẹ́yìn mi, pẹ̀lú okùn okùn tí a fi dì mọ́ ọrùn, ó ń gbé ẹ̀gún tí wọ́n máa ń tàn káàkiri."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Waraqah ibn Nawfal",
+        "Umayyah ibn Khalaf",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Ṣíṣàlàyé Ìjà",
+      "options": [
+        "Aṣáájú àwọn alátakò sí Wòlíì ní Mekka",
+        "Ṣíṣí lọ sí Abyssinia láti bọ́ lọ́wọ́ inúnibíni",
+        "Kíkọ́ Kaaba pẹ̀lú Anabi Ibrahim",
+        "Gbigba Islam lori ibusun iku",
+        "Ṣíṣe àdéhùn Hudaybiyyah"
+      ],
+      "answer": "Aṣáájú àwọn alátakò sí Wòlíì ní Mekka"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ìyàwó kan tó gbé ẹ̀gún àti igi ìdáná",
+        "Ọ̀pá tí ó di ejò",
+        "Òrùka kan tí ó ní èdìdì Solomoni",
+        "Ọmọ màlúù wúrà tí àwọn ènìyàn ń jọ́sìn",
+        "Orísun omi tó ń tú omi jáde"
+      ],
+      "answer": "Ìyàwó kan tó gbé ẹ̀gún àti igi ìdáná"
+    },
+    "outcome": {
+      "label": "Ìṣirò Ìkẹyìn",
+      "options": [
+        "Odidi sùrà kan fi hàn pé ó ń polongo ìparun pátápátá",
+        "Ó di olórí àwùjọ àwọn Mùsùlùmí",
+        "Gba idariji ni akoko iku",
+        "Ilé Mọ́sálásí ńlá kan ní Màdínáì",
+        "A jí i dìde láàrín àwọn olódodo"
+      ],
+      "answer": "Odidi sùrà kan fi hàn pé ó ń polongo ìparun pátápátá"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

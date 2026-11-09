@@ -1,0 +1,61 @@
+{
+  "title": "Cadowga Dabka wata",
+  "intro": "Waagii hore ee waxyiga, waxaa soo ifbaxay shakhsi ka soo horjeeda runta. Naftu waxay ku barakowday hanti iyo mansab, waxayna ka dooratay kibir hanuun, sheekadooduna waxay noqotay digniin cad oo ku jirta aayadaha ugu dambeeya ee suuradda.",
+  "clues": [
+    "Waxaan ku noolaa isla magaalada uu Nabiga joogay, waxaana ka mid ahaa qaraabada ugu dhow, haddana kibirkaygu wuxuu iga fogeeyay runta.",
+    "Waxaan haystay hanti badan iyo hanti badan, waxaana u maleynayay in kheyraadkaygu uu had iyo jeer i ilaalin doono.",
+    "Markii fariinta la shaaciyay, si cad ayaan ugu jeesjeesay oo waan iska jeestay, anigoo isku tixgalinaya inaan ka sarreeyo mu'miniinta.",
+    "Cadownimadaydu aad bay u caan baxday oo suurad Qur'aan ah ayaa si toos ah ii soo jeedisay, iyadoo iigu yeertay magaca kuwa kale i yaqaaneen.",
+    "Waxaa la ii digay in hantidayda iyo dakhligayguba aysan ii anfici doonin, oo laygu tuuri doono dab ololaya.",
+    "Waxaa la ii yaqaan aabaha ololka, xaaskayguna waxay qoryaha ku qaadi doontaa qoorta iyadoo xadhig timireed ah ku xiran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Abuu Lahab",
+        "Abu Jahl",
+        "Abuu Sufyaan",
+        "Al-Walid ibnu Al-Mughira",
+        "Al-Cas ibnu Wali"
+      ],
+      "answer": "Abuu Lahab"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Diidmada Islaamka iyo si cad uga soo horjeedsiga Nabiga.",
+        "Waxaa la qorsheeyay in la dilo Nabiga",
+        "Waxay hormuud ka ahayd olole ka dhan ah Muslimiinta",
+        "Dagaalkii Badar wuxuu ka dhacay",
+        "Bilaal ibnu Rabah oo la jirdilay"
+      ],
+      "answer": "Diidmada Islaamka iyo si cad uga soo horjeedsiga Nabiga."
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Xadhig xaydh timireed ah",
+        "Seef af badan",
+        "Silsilad culus",
+        "Ul alwaax ah",
+        "Jeedal maqaar ah"
+      ],
+      "answer": "Xadhig xaydh timireed ah"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Waxay ku gubi doontaa dab ololaya",
+        "Toobad keenay oo noqday saaxiib",
+        "Hantidiisii ​​wuu lumiyay laakiin wuu dhintay sharaf",
+        "Waxay u carareen Xabashida",
+        "Badda ayay ku qarqisay"
+      ],
+      "answer": "Waxay ku gubi doontaa dab ololaya"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Kuwa Hurdada Doonaya Runta",
+  "intro": "Bal qiyaas waqti caqiidada la isku haysto, koox nafo ahina ay doorteen kalsooni aan kala go 'lahayn halkii ay ka dooran lahaayeen raaxo adduun. Iyagoo wajahaya doorasho cabsi leh, waxay raadsadeen magangelyo, iyagoo bilaabay safar horseeday hurdo aan caadi ahayn. Sheekadoodu waxay markhaati u tahay ilaalinta rabbaaniga ah iyo awoodda iimaanka ee ka dhanka ah dulmiga. Ma garan kartaa aqoonsiga shakhsiyaadkan cajiibka ah?",
+  "clues": [
+    "Waxaan ahayn shir yar, oo ay ku midaysan yihiin aaminsanaan qoto dheer oo ku saabsan Hal Abuuraha.",
+    "Waxaan ku noolayn waqti uu taliye awood leh dalbaday in la caabudo cid aan ahayn Alle.",
+    "Si aan u ilaalino iimaankeenna, waxaan go'aansannay inaan ka baxno guryaheenna oo aan ka baxno dulmiga.",
+    "Saaxiib daacad ah, xayawaan dhulka ka mid ah, ayaa nala socday safarkayagii.",
+    "Waxaan ka helnay meel ammaan ah meel cidlo ah, halkaas oo Alle nagu kallifay inaan seexanno hurdo qoto dheer oo dheer.",
+    "Markii aan soo toosnay, waxaan aaminsanayn in maalin ama qayb ka mid ah maalinta ay dhaaftay, laakiin qarniyo ayaa runtii dhammaaday."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Dadka Godka ku nool",
+        "Reer Thamuud",
+        "Dadka reer Saba'",
+        "Dadka Godka ku nool",
+        "Dadka reer Madyan"
+      ],
+      "answer": "Dadka Godka ku nool"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "In lagu tijaabiyo dhul cidla ah",
+        "Wajahidda daad weyn",
+        "Magangalyo ka raadso taliye kaligii talis ah",
+        "In lagu tuuro dab gubanaya",
+        "Caqabad ku ah sixirka sixirka"
+      ],
+      "answer": "Magangalyo ka raadso taliye kaligii talis ah"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Qasri weyn",
+        "Markab/doon",
+        "Ceel qoto dheer",
+        "God",
+        "Buur dheer"
+      ],
+      "answer": "God"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "In boqortooyo la siiyo",
+        "Hurdo mucjiso ah oo qarniyo badan jirtay",
+        "Dhulku wuxuu liqaa",
+        "In laga badbaadiyo duufaan wax burburisa",
+        "In la siiyo miis janno ah"
+      ],
+      "answer": "Hurdo mucjiso ah oo qarniyo badan jirtay"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

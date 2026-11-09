@@ -1,0 +1,61 @@
+{
+  "title": "Àwọn tí a lé kúrò ní ọ̀run",
+  "intro": "Ẹ̀dá àdììtú kan dúró ní oríta ìṣẹ̀dá àti ìkọ̀sílẹ̀. Ìtàn wọn jẹ́ ti ìgbéraga tí kò láfiwé àti àìgbọ́ràn sí àṣẹ àtọ̀runwá. Yíyàn wọn ń dún ní gbogbo ìran, ó sì ń di ìdánwò fún gbogbo ọkàn tí a bí sínú ayé yìí. Ṣé o lè dá ọ̀tá ayérayé yìí mọ̀?",
+  "clues": [
+    "Mo wà níbi ìṣẹ̀lẹ̀ kan tó ṣe pàtàkì ní àgbáyé, nígbà tí a fi amọ̀ ṣe ẹ̀dá tuntun kan tí a sì fún ní ìyè nípasẹ̀ èémí Aláàánú.",
+    "Láti inú ohun kan ṣoṣo tí ó ń jóná ni mo ti dá, láìdàbí erùpẹ̀.",
+    "Wọ́n fún mi ní àṣẹ kan tí mo rò pé ó wà lábẹ́ ibùdó mi.",
+    "Ìgbéraga kún inú mi, mo sì kọ̀ láti tẹ̀lé àṣẹ yẹn láìsí àní-àní.",
+    "Wọ́n fún mi ní ìdádúró títí di ọjọ́ tí a yàn, kí n lè lépa ète tí mo sọ pé mo fẹ́ tàn àwọn ẹlòmíràn jẹ.",
+    "Èmi ni ọ̀tá gbogbo àwọn tó ń rìn lórí ilẹ̀ ayé, tí mò ń sọ̀rọ̀ ẹ̀tàn tí mo sì ń fà wọ́n kúrò lójú ọ̀nà títọ́."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Iblis (Satani)",
+        "Fáráò (Fáráò)",
+        "Hámánì",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Satani)"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ó kọ̀ láti tẹrí ba níwájú Ádámù",
+        "Wọ́n sọ pé wọ́n jẹ́ ẹni tí í ṣe Ọlọ́run ní èké",
+        "Wọ́n ṣe ère ọmọ màlúù wúrà kan fún ìjọsìn",
+        "Owú ló pa àbúrò rẹ̀ nítorí pé ó fẹ́ ṣe ìlara rẹ̀",
+        "Aṣáájú àwọn alátakò àwọn ọlọ́run èké ní Makkah"
+      ],
+      "answer": "Ó kọ̀ láti tẹrí ba níwájú Ádámù"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Párádísè (Jánà)",
+        "Ààfin Farao ní Íjíbítì",
+        "Àfonífojì mímọ́ ti Tuwa",
+        "Ìjìnlẹ̀ Òkun",
+        "Ọgbà Ṣébà"
+      ],
+      "answer": "Párádísè (Jánà)"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A fun ni isinmi titi di ọjọ idajọ",
+        "Mo rì sínú omi pẹ̀lú àwọn ọmọ ogun nínú òkun",
+        "Ilẹ̀ gbé mì pẹ̀lú àwọn ìṣúra",
+        "A yípadà sí ọ̀bọ fún rírú òfin ọjọ́ ìsinmi",
+        "Àwọn òkúta tí a jù láti ojú ọ̀run jóná"
+      ],
+      "answer": "A fun ni isinmi titi di ọjọ idajọ"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

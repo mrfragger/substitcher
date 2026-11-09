@@ -1,0 +1,61 @@
+{
+  "title": "Calaamadda Dhagaxyada Dhexdooda",
+  "intro": "Dhul buuro lagu xardhay guryo, waxaa yimid rasuul calaamad mucjiso ah ka keenay Alle. Dadku waxay dalbadeen caddayn, waxayna heleen xayawaan dhagax adag laga keenay. Laakiin kibirkoodu wuxuu ku kallifay inay ka hor yimaadaan digniinta, taasoo shaabadaysay qaddarkooda.",
+  "clues": [
+    "Waxaa la ii diray dad ku noolaa guryo laga soo qoday buuro.",
+    "Waxay igula taliyeen inaan calaamad keeno, sidaas darteed waxaan ka soo saaray geel dhagax ah.",
+    "Waxaan ku amray inay si xor ah u cabbaan geela oo aysan wax u dhimin.",
+    "Way caasiyeen oo way gowraceen awrkii, iyagoo ka hor yimid digniintaydii.",
+    "Waxaan ku dhawaaqay in ciqaabtu ay imaan doonto saddex maalmood ka dib.",
+    "Subaxdii, qarax xooggan ayaa burburiyay, laakiin aniga iyo kuwa raacsan ayaa la badbaadiyay."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Saalix",
+        "Nabi Huud",
+        "Nabi Luut",
+        "Nabi Shucayb",
+        "Nabi Ibraahim"
+      ],
+      "answer": "Nabi Saalix"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Baahida loo qabo geel ka timid dhagax",
+        "Baahida loo qabo weyl dahab ah",
+        "Baahida loo qabo miis samada ka soo baxa",
+        "Baahida daad",
+        "Baahida loo qabo in ul ay noqoto abeeso"
+      ],
+      "answer": "Baahida loo qabo geel ka timid dhagax"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Hashii iyo weylkeedii",
+        "Doontii Nuux",
+        "Ushii Muuse",
+        "Keeggii Dahabka ahaa",
+        "Dabkii Ibraahim"
+      ],
+      "answer": "Hashii iyo weylkeedii"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Waxaa burburiyay qarax xooggan",
+        "Daadku ku qarqiyay",
+        "Dhulku liqay",
+        "Waxaa isu beddelay daayeerro",
+        "Waxaa burburiyay dabayl xoog leh"
+      ],
+      "answer": "Waxaa burburiyay qarax xooggan"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

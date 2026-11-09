@@ -1,0 +1,61 @@
+{
+  "title": "Adesoa a Ɛde Ayaresa Bae",
+  "intro": "Ɔkra a wɔasɔ no ahwɛ a ɛboro so no, wogyee awerɛkyekye, ahokafo, ne nipadua mu ahoɔden fii ne nsam. Esiane sɛ na wɔatew ne ho wɔ amanehunu a emu dɔ mu nti, saa Allah akoa yi dan kɔɔ Ɔsoro de no nkutoo so. Ɛdenam boasetɔ a enhinhim ne mpaebɔ a efi komam so no, mmɔborohunu asorɔkye bi bae a ɛboroo nea wɔhwɛɛ kwan nyinaa so. Hena ne saa onipa yi a n’ahofama buee ɔpon a wɔde bɛsan asiesie no?",
+  "clues": [
+    "Na meyɛ Allah akoa a wɔdom no, na mewɔ anigyeɛ wɔ bebree, fie a ɛrenya nkɔsoɔ, ne akwahosan pa wɔ me nna mu.",
+    "Afei sɔhwɛ bi baa fam: ahonyade fii hɔ, adɔfo kɔe, na amanehunu a emu yɛ den bɔɔ m’ankasa me honam.",
+    "Wɔn a wɔbɛn me no antumi annyina me tebea no ano, na wogyaw me a wɔatew me ho, na amanehunu guu me nipadua mu.",
+    "Mefrɛɛ m’Awurade, kaa sɛ Satan de ɔbrɛ ne asotwe aka me.",
+    "Mmuaeɛ no baeɛ — ahyɛdeɛ sɛ memfa me nan mmɔ fam, na nsuo a ɛyɛ nwini mfi mu pue mfa sa yareɛ.",
+    "M’Awurade yii ahokyere no fii hɔ koraa na ɔsan de m’abusua san maa me, dɔɔso, sɛ mmɔborohunu ho sɛnkyerɛnne ma wɔn a wosusuw nneɛma ho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Ayyuub",
+        "Ɔkɔmhyɛni Musa",
+        "Ɔkɔmhyɛni Yusuf",
+        "Odiyifo Yunus",
+        "Ɔkɔmhyɛni Ibrahim"
+      ],
+      "answer": "Ɔkɔmhyɛni Ayyuub"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Yare a emu yɛ den ne ne nyinaa a wɔhwere",
+        "Tow gu ogya mu denam otirimɔdenfo bi ahyɛde so",
+        "Wɔde no too afiase wɔ amoa a emu dɔ mu a abusuafo de no too afiase",
+        "Mpataa kɛse bi a ɔwɔ po so amene no",
+        "Wɔkyinkyin wɔ nnommumfa mu fi kurom hɔ"
+      ],
+      "answer": "Yare a emu yɛ den ne ne nyinaa a wɔhwere"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Asubura a ɛyɛ nwini a ɛsen fi fam no",
+        "Ogya a ɛyɛ nwini na asomdwoe wom no",
+        "Adaka a ɛda bepɔw bi so",
+        "Poma a ɛpaapaee po no mu",
+        "Kɛntɛn a ɛrehuruhuruw wɔ asubɔnten no so"
+      ],
+      "answer": "Asubura a ɛyɛ nwini a ɛsen fi fam no"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Abusua ne nhyira a wɔsan de bae, mmɔho abien",
+        "Oguan fii ogya a ɛredɛw no mu a hwee anyɛ no",
+        "Sore kɔɔ ahenni bi mu dibea a ɛkorɔn sen biara",
+        "Fi apataa kɛse bi yafunu mu baa baabi a ahobammɔ wɔ",
+        "Ɔdii ɔman bi anim faa ɛpo a emu apaapae mu"
+      ],
+      "answer": "Abusua ne nhyira a wɔsan de bae, mmɔho abien"
+    }
+  },
+  "verseRef": "38:43",
+  "arabic": "وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةًۭ مِّنَّا وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ",
+  "verse": "And We granted him his family and a like [number] with them as mercy from Us and a reminder for those of understanding. (38:43)"
+}

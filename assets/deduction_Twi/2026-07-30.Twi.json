@@ -1,0 +1,61 @@
+{
+  "title": "Nsrahwɛfo a Wɔyɛ Nwanwa a Wɔkɔɔ Kurow a Wɔato Afasu So Mu",
+  "intro": "Kuw bi duu kurow bi a na emufo nnim nokware da no apon ano. Wɔde nkrasɛm bae, nanso ɛhɔfo no danee atamfo, na wɔde basabasayɛ hunahunaa wɔn. Nanso, efi baabi a na wɔnhwɛ kwan no, ɛnne biako sɔree de yii ahɔho no ano, na ɛmaa nsɛm no danee wɔ ɔkwan a ɛyɛ nwonwa so.",
+  "clues": [
+    "Yɛhyɛn kurow bi a na gyidi a wonni ahyɛ ne nkurɔfo so.",
+    "Wɔde adwenem naayɛ hwɛɛ yɛn na wɔkaa sɛ, ‘Moyɛ nnipa mpapahwekwa te sɛ yɛn ara kwa.’",
+    "Yɛbɔɔ wɔn kɔkɔ, nanso wɔmaa abo so tiaa yɛn.",
+    "Ɔbarima bi de ahopere fii kurow no ano a ɛwɔ akyirikyiri sɛ ɔrebesi yɛn nokware no so dua.",
+    "Ɔka kyerɛɛ ne nkurɔfo sɛ, ‘Adɛn nti na ɛnsɛ sɛ mesom Nea ɔbɔɔ me no?’",
+    "Kurow no pow no baa awiei wɔ ɔtopae biako pɛ mu, na kommyɛ dii tumi wɔ baabi a bere bi na wodi ho fɛw no."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Yɛn Yɛ Henanom?",
+      "options": [
+        "Ya-Sin Asomafoɔ no",
+        "Yes",
+        "Nnipa a Wɔte Amena no Mu",
+        "Farao nkonyaayifo no",
+        "Ya-Sin Gyidifoɔ"
+      ],
+      "answer": "Ya-Sin Asomafoɔ no"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Pow a wɔpow ne ahunahuna sɛ wɔbɛbɔ wɔn abo",
+        "Wɔtow no gu ogya a ano yɛ den mu",
+        "Abofra a wayera ho boasetɔ ho sɔhwɛ",
+        "Turo bi a wɔsɛee no",
+        "Akwantu a ɛfa po mu"
+      ],
+      "answer": "Pow a wɔpow ne ahunahuna sɛ wɔbɛbɔ wɔn abo"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Kurow no awiei a ɛwɔ akyirikyiri sen biara",
+        "Po Kɔkɔɔ no",
+        "Ogya a ɛwɔ abura no mu",
+        "Guankɔbea ɔbodan no",
+        "Misraim afiase"
+      ],
+      "answer": "Kurow no awiei a ɛwɔ akyirikyiri sen biara"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wɔnam nteɛteɛm biako pɛ so sɛee kurow no",
+        "Ɛpo no mu paapaee na ɛmenee asraafoɔ no",
+        "Ogya no bɛyɛɛ nwini na ahobammɔ wom",
+        "Ɔsoro gya hyew turo no",
+        "Whale no san de onipa no kɔɔ mpoano"
+      ],
+      "answer": "Wɔnam nteɛm biako pɛ so sɛee kurow no"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

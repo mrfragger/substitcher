@@ -1,0 +1,61 @@
+{
+  "title": "Icabona Ashikamye",
+  "intro": "Inkuru ikomeye cane irasohoka, ihishura umwiyemezo udahungabana w’umuryango mu gihe uriko urashikirwa n’ububisha burengeye urugero. Inkuru yabo irakora nk’igihe c’ukwizera, mbere n’igihe umuntu ahanganye n’ikimazi c’iherezo. Iyo nkuru iratwibutsa ububasha ukwemera kugira ngo umuntu arwanye agahahazo gakomeye.",
+  "clues": [
+    "Twari umugwi inkuru yawo ivugwa muri sura ngufi kandi ikomeye, igabisha ku bijanye n’uruhamo.",
+    "Twarahuye n’umutware yipfuza gukuraho ukwemera kwacu Imana imwe, Umukama w’Intebe y’Ubwami, Ishimwa.",
+    "Twarashikiwe n’ikigeragezo giteye ubwoba kirimwo icobo kinini cane cacukuwe mw’isi.",
+    "Twarabona ingene abemera, harimwo n’inzoya, batererwa mu muriro udahera w’umuriro muri ico kinogo.",
+    "Abatubabaza baravumwe kubera ivyo bakoze, mu gihe twebwe twasezeraniwe impembo nyinshi cane kubera ukuntu twashikamye.",
+    "Uwo mutegetsi yagerageza kuzimya ukwizera kwacu, vyakomeje gusa ikibanza cacu nk’abamaratiri imbere ya Allah, ari we cabona c’ibintu vyose."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Abantu b'i Tamudi",
+        "Abantu bo muri 'Ad",
+        "Abantu bo mu Mugende",
+        "Abantu ba Luti .",
+        "Abantu b'inzovu"
+      ],
+      "answer": "Abantu bo mu Mugende"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Umwuzure Ukomeye .",
+        "Igisaka kigurumana",
+        "Ugurohama mu kiyaga",
+        "Icobo c'umuriro",
+        "Umutingito"
+      ],
+      "answer": "Icobo c'umuriro"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Ubwato",
+        "Abakozi",
+        "Umugende",
+        "Umusozi",
+        "Iriba"
+      ],
+      "answer": "Umugende"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Bahawe ubwami",
+        "Barakijijwe n'igitangaza",
+        "Yashitse ku bumaratiri no muri Paradizo",
+        "Barasanzaye mu bihugu vyose",
+        "Bahawe ubutunzi bwinshi cane"
+      ],
+      "answer": "Yashitse ku bumaratiri no muri Paradizo"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

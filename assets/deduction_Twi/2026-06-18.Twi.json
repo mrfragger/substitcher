@@ -1,0 +1,61 @@
+{
+  "title": "Nea Odi Kan a Ɔhwehwɛ Fafiri",
+  "intro": "San w’akyi kɔ bere bi ansa na owia apue nea edi kan, ansa na onipa biara a owu anantew asase so. Wɔde nneɛma a ɛba fam sen biara na ɛyɛɛ ohoni bi, wɔmaa no gyinabea bi wɔ abɔfo no atifi, na wɔde sii turo kronkron bi mu a kɔkɔbɔ a emu da hɔ wom. Nanso wɔ bere tiaa bi mu no, wɔpaw biribi — nea ɛbɛka wɔ adesamma abakɔsɛm nyinaa mu. Hena ne saa akontaabu yi?",
+  "clues": [
+    "Wɔde me baa nkwa mu wɔ ɔkwan a ɛnte sɛ ɔkwan foforo biara so — wɔde asase so mfutuma yɛɛ me na wɔde Ɔbɔadeɛ no nsa maa ɔkra teasefo.",
+    "Wɔmaa me nimdeɛ a emu dɔ araa ma abɔfo a wɔwɔ soro no mpo ho dwiriw wɔn.",
+    "Wɔhyɛɛ ɔsorofoɔ nyinaa sɛ wɔnkotow m’anim, na wɔn nyinaa brɛɛ wɔn ho ase — gye sɛ obiako, a ɛnam ahantan so powee.",
+    "Wɔde me too turo kronkron bi mu, beaeɛ a daa awerɛkyekyerɛ ne nsiesiei wɔ — nanso wɔbaraa me katee baako.",
+    "Me werɛ fii, mehwee ase, na meyɛɛ asoɔden — na metee me mfomso no mu duru nka kɛse.",
+    "Mede akoma mu nsɛm danee m’Awurade nkyɛn, na Ɔgyee me nsakyera toom, ɛfiri sɛ Ɔno ne Bɔnefakyɛfoɔ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Odiyifo Adam",
+        "Ɔkɔmhyɛni Dawud",
+        "Ɔkɔmhyɛni Muhammad",
+        "Iblis na ɔkyerɛwee",
+        "Ɔkɔmhyɛni Yaqub"
+      ],
+      "answer": "Odiyifo Adam"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Wɔhyɛɛ abɔfo no sɛ wɔnkotow",
+        "Wɔsomaa Nsuyiri Kɛse no",
+        "Wɔmaa ogya kɛse bi yɛɛ nwini na ahobammɔ wom",
+        "Wɔmenee sodifo ahantanfo bi wɔ po no mu",
+        "Wɔsɛee asono dɔm bi"
+      ],
+      "answer": "Wɔhyɛɛ abɔfo no sɛ wɔnkotow"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Anigye Turo no",
+        "Bepɔw Sinai",
+        "Asɔredan Kronkron no",
+        "Asubɔnten Nil",
+        "Ɔbodan no"
+      ],
+      "answer": "Anigye Turo no"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Adwensakyera na Allah gye toom",
+        "Wɔmenee no wɔ po mu",
+        "Mpataa kɛse bi amene no",
+        "Ɔtopae a ano yɛ den bɔɔ ɔman no",
+        "Mframa a ano yɛ den hyewee no"
+      ],
+      "answer": "Adwensakyera na Allah gye toom"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

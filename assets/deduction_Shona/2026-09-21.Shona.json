@@ -1,0 +1,61 @@
+{
+  "title": "Kuchema Kubva Pakadzika",
+  "intro": "Muranda weMune Ngoni Akaneta nerudzi rwakaoma musoro ndokuenda vasati vapihwa mvumo. Munhu uyu akazosvika panzvimbo isina kumbosvika munhu, uko kudanwa kuna Mwari kunonzwa kusinganzwisisike kuburikidza nerima. Achibuda asina simba asi achishandurwa, mweya uyu wakava chidzidzo chisingaperi chekushivirira, kupfidza kwechokwadi, uye tsitsi dzisingaperi dzeMusiki. Unogona here kutsanangura chakavanzika ichi?",
+  "clues": [
+    "Ndakatumwa semutumwa kuvanhu vangu, asi vakadarika miganhu yese mukusatenda kwavo uye vakaramba kuteerera.",
+    "Ndakatsamwira kurambwa kwavo ndikatiza vanhu vangu murairo waAllah usati wasvika.",
+    "Ndakakwira ngarava yakanga yakazara zvinhu zvakawanda, uye takakanda mijenya kuti tione kuti ndiani aizokandwa mumvura.",
+    "Ndakakandwa mugungwa raiva nehasha ndikamedzwa nehove huru.",
+    "Ndakavharirwa muzvikamu zvitatu zverima — dumbu, gungwa rakadzika, nenyika iri pasi — ndakadana kuna Ishe wangu ndichipfidza zvechokwadi.",
+    "Ndakabuda muhove ndikaenda kumahombekombe, ndisina simba uye ndaneta, uye mupudzi wegondo wakakura pamusoro pangu. Vanhu vangu, zviuru zana kana kupfuura, vakazotenda pakupedzisira."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Yunus",
+        "Muprofita Ayyub",
+        "Muprofita Yusuf",
+        "Muprofita Musa",
+        "Muprofita Sulaiman"
+      ],
+      "answer": "Muprofita Yunus"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Yakamedzwa nehove huru",
+        "Kukandwa mumoto unopfuta",
+        "Akavharirwa pasi petsime",
+        "Kukundwa nemafashamo makuru",
+        "Kuiswa mujeri zvisina kururama namambo"
+      ],
+      "answer": "Yakamedzwa nehove huru"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Dumbu rehove huru",
+        "Mupata mutsvene uri pedyo neKaaba",
+        "Areka yakazorora pagomo",
+        "Tsvimbo yakashanduka kuita nyoka",
+        "Chigaro choumambo chine hukuru husingaenzaniswi"
+      ],
+      "answer": "Dumbu rehove huru"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Vanhu vake, zviuru zana kana kupfuura, vaitenda",
+        "Akamutswa ari mupenyu kudenga",
+        "Akava mutongi weumambo husina anokwikwidzana nahwo",
+        "Kuparadzwa nekuchema kunorwadza kubva kudenga",
+        "Yakaparadzwa nekudengenyeka kwenyika kwakaipisisa"
+      ],
+      "answer": "Vanhu vake, zviuru zana kana kupfuura, vaitenda"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

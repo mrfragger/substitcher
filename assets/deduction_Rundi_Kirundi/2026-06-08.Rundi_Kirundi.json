@@ -1,0 +1,61 @@
+{
+  "title": "Uwusaba Ahera .",
+  "intro": "Mu masaha y’ijoro y’agacerere, umutima wihebeye Imana warahamagara Umunyambabazi mu bihome vyeranda vy’ahantu heranda. Imyaka y’ukwizera n’ukwihangana bidahungabana yari igiye guhembwa n’igitangaro cozana umunezero n’iragi ry’ubuhanuzi.",
+  "clues": [
+    "Namara imisi yanje n’amajoro yanje nsenga mu rusengero rweranda, nguma nsenga Umukama wanje.",
+    "Narasaza, umugore wanje na we yari ingumba, yamara sinarigeze ntakaza icizigiro ku mbabazi za Allah.",
+    "Narahawe umuhungu, yitwa Yahya, aca aba umuhanuzi n’itara ry’ubugororotsi.",
+    "Nanje ubwanje nari umuhanuzi, narungitswe kuyobora bene Isirayeli.",
+    "Nari uruvyaro rwa Muhanuzi Haruni kandi nakora nk’umuherezi mu Rusengero.",
+    "Najejwe kwitwararika Mariyamu nyina wa Isa, kandi narabonye ibitangaro vyiwe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umuhanuzi Zakariya",
+        "Umuhanuzi Yahya",
+        "Umuhanuzi Ilyasi",
+        "Umuhanuzi Ishaq",
+        "Umuhanuzi Ya'qub"
+      ],
+      "answer": "Umuhanuzi Zakariya"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Yarahawe umuhungu mu busaza",
+        "Yakijijwe n'umuriro ururumba",
+        "Yarokowe mu nda y'ifi .",
+        "Yarokotse umwuzure munini",
+        "Yakize indwara ikaze"
+      ],
+      "answer": "Yarahawe umuhungu mu busaza"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Mihrab (aho gusenga)",
+        "Kaaba",
+        "Igisaka kigurumana",
+        "Isandugu y'Isezerano",
+        "Isenga ry'Abasinziriye Indwi"
+      ],
+      "answer": "Mihrab (aho gusenga)"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Havuzwe umuhungu w’umugororotsi yabaye umuhanuzi .",
+        "Yasambuwe n'igihuhusi gikomeye",
+        "Yarohamye mu kiyaga .",
+        "Yarokotse ngo ntaturirwe .",
+        "Basubiye mu bantu babo bamaze gukizwa n'ifi ."
+      ],
+      "answer": "Havuzwe umuhungu w’umugororotsi yabaye umuhanuzi ."
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

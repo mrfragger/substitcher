@@ -1,0 +1,61 @@
+{
+  "title": "Ijwi mu musenyi wa kera",
+  "intro": "Mu ntumwa za mbere za Allah, hari umwe izina rye rigaragara igihe gito ariko rifite icyo rivuze muri Korowani. Uyu muntu yabayeho kera cyane mbere yuko abahanuzi benshi bakomeye boherezwa, kandi yari azwiho kuba umunyakuri no kwihangana bidasubirwaho. Inkuru ye ni ngufi ariko umurage wabo uhoraho iteka ryose. Ni nde uyu mutima mwiza?",
+  "clues": [
+    "Ndi umwe mu ntumwa za mbere, zivugwa muri Korowani mu buryo bugufi ariko bufite icyo buvuze.",
+    "Imiterere yanjye yagaragajwe no kwiyemeza ukuri mu buryo buhamye.",
+    "Ndibukwa mu gitabo cya Allah ndi mu bantu bari bashikamye kandi bihanganye.",
+    "Imirongo mike migufi muri Korowani ivuga inkuru yanjye.",
+    "Allah yanyubashye mu buryo budasanzwe, butari ubwo abandi bahanuzi basangira.",
+    "Nazamuwe mu mwanya wo hejuru, icyubahiro cyihariye muri Korowani."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Umuhanuzi Idris",
+        "Intumwa Ilyas",
+        "Dhul-Kifl",
+        "Intumwa Alyasa",
+        "Asif ibn Barkhiya"
+      ],
+      "answer": "Umuhanuzi Idris"
+    },
+    "trial": {
+      "label": "Igihe cyo gusobanura",
+      "options": [
+        "Nazamuwe mu mwanya wo hejuru na Allah",
+        "Nubatse ubwato bunini kugira ngo nkize abantu banjye",
+        "Nahinyuje abapfumu ba Farawo",
+        "Bavandimwe banjye banteye mu cyobo",
+        "Nabuze amaso kubera agahinda ntewe n'umuhungu wanjye"
+      ],
+      "answer": "Nazamuwe mu mwanya wo hejuru na Allah"
+    },
+    "location": {
+      "label": "Icyitegererezo Gitagatifu",
+      "options": [
+        "Surah Al-Anbiya",
+        "Surah Al-Kahf",
+        "Surah Taha",
+        "Surah Ash-Shu'ara",
+        "Surah Yasin"
+      ],
+      "answer": "Surah Al-Anbiya"
+    },
+    "outcome": {
+      "label": "Icyubahiro cy'Imana",
+      "options": [
+        "Sitasiyo nini itandukanye n'izindi zose",
+        "Ubutware ku majini n'umuyaga",
+        "Ubwami bw'icyubahiro kitagira urugero",
+        "Umuragwa wo mu myaka yanjye y'ubusaza",
+        "Isezerano ryashyizweho umukono na Allah"
+      ],
+      "answer": "Sitasiyo nini itandukanye n'izindi zose"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

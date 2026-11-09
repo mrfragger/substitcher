@@ -1,0 +1,61 @@
+{
+  "title": "Umurinzi ku nkengera y'uruzi",
+  "intro": "Mu gihugu aho itegeko ry’umunyagitugu ryazanye umubabaro mu ngo nyinshi, umutima wararonse ubutumwa bwari burengeye ubwoba bwose. Bafise umutima wuzuye ukwizigira, baratanguye igikorwa c’ukwizera cohinduye inzira y’ihanga. Uko amazi yariko atwara umuzigo w’agaciro, icizigiro caravanze n’imipfunda.",
+  "clues": [
+    "Nabaye mu gihe c’agahahazo n’ubwoba.",
+    "Naronse ivyiyumviro vy’Imana vyampaye umutima rugabo.",
+    "Nategetswe kutagira ubwoba canke ngo ngire intuntu.",
+    "Nashize umwana wanje mu gasandugu, ndamushira hejuru y’amazi.",
+    "Umwana wanje yaronswe n’abo mu rugo rw’umutware, ariko uwundi mwana wanje arakurikira.",
+    "Nasubiye guhura n’umwana wanje kugira ngo ndamuyonse, nk’uko Allah yabisezeranye."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Nyina wa Musa .",
+        "Umugore wa Farawoni",
+        "Mushiki wa Mose",
+        "Umuvyeyi wa Yezu .",
+        "Umwamikazi w'i Sheba"
+      ],
+      "answer": "Nyina wa Musa ."
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Kuba yahumekewe guterera umwana mu ruzi .",
+        "Kuba uriko urarwanya urugamba rw'ubupfumu",
+        "Gukurikirwa n'ingabo .",
+        "Kujabuka ikiyaga cacitsemwo ibice .",
+        "Kubaka inzu nyeranda ."
+      ],
+      "answer": "Kuba yahumekewe guterera umwana mu ruzi ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Isanduku yashizwe mu ruzi .",
+        "Igisaka kigurumana",
+        "Inkoni yahindutse inzoka",
+        "Inyana y'inzahabu",
+        "Intebe y'ubwami"
+      ],
+      "answer": "Isanduku yashizwe mu ruzi ."
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Uwo mwana yasubijwe ku muforoma ata nkomanzi .",
+        "Uwo mwana yarazimiye ubuziraherezo .",
+        "Uwo mwana bamujana mu gihugu ca kure + .",
+        "Uwo mwana aca aba umutware ubwo nyene .",
+        "Uwo mwana yarezwe n’umudandaza w’umutunzi wa mbere ."
+      ],
+      "answer": "Uwo mwana yasubijwe ku muforoma ata nkomanzi ."
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Oorun Lókè Àkókò",
+  "intro": "Fojú inú wo àkókò kan tí wọ́n pa òtítọ́ lẹ́nu mọ́ tí wọ́n sì ń wá àwọn onígbàgbọ́ kiri. Ẹgbẹ́ kékeré kan yan láti sá padà dípò fífi ara wọn sílẹ̀, wọ́n sì ń wá ibi ìsádi ní àwọn ibi tí kò ṣeéṣe rárá — ibì kan tí yóò di ibi ìsinmi wọn fún ọ̀pọ̀ ọ̀rúndún tí kò ṣeé kà. Nígbà tí wọ́n jí nígbẹ̀yìn-gbẹ́yín, ayé ti yí padà yí wọn ká. Ta ni àwọn ọkàn tí wọ́n ń sùn yìí?",
+  "clues": [
+    "Àwọn ọ̀dọ́ ni wá tí wọ́n ń gbé ní ìlú àtijọ́ kan.",
+    "Àwùjọ wa béèrè pé kí a jọ máa jọ́sìn, ṣùgbọ́n a kọ̀.",
+    "A sá kúrò ní ìlú náà láti wá ààbò lọ́wọ́ àwọn tí wọ́n tako ìgbàgbọ́ wa.",
+    "Ẹgbẹ́ aláàbò ẹlẹ́sẹ̀ mẹ́rin kan dúró sí ẹnu ọ̀nà ibi tí a sá pamọ́ sí.",
+    "Allah jẹ́ kí a sùn fún ọdún mẹ́ta ó lé mẹ́sàn-án.",
+    "Nígbà tí a jí nígbẹ̀yìn-gbẹ́yín, ìlú wa tí ó ti ń ṣe inúnibíni tẹ́lẹ̀ ti gba ìgbàgbọ́."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni àwa?",
+      "options": [
+        "Ashab al-Kahf (Àwọn Ènìyàn Ihò Àpáta)",
+        "Ashab al-Fil (Ẹgbẹ́ ọmọ ogun erin)",
+        "Ashab al-Ukhdud (Àwọn alábàákẹ́gbẹ́ ní ibi ìgbọ̀nsẹ̀)",
+        "Hawariyyun (Awọn ọmọ-ẹhin Isa)",
+        "Yajuj wa Majuj (Gog and Magog)"
+      ],
+      "answer": "Ashab al-Kahf (Àwọn Ènìyàn Ihò Àpáta)"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "A sá lọ sínú ihò àpáta kan, a sì sùn fún ọ̀pọ̀ ọgọ́rùn-ún ọdún",
+        "A gbà wá lọ́wọ́ iná tó ń jó",
+        "Ẹja ńlá kan gbé wa mì",
+        "Wọ́n dán wa wò pẹ̀lú abo ràkúnmí ìyanu kan",
+        "Wọ́n fún wa ní àmì mẹ́sàn-án tó ṣe kedere"
+      ],
+      "answer": "A sá lọ sínú ihò àpáta kan, a sì sùn fún ọ̀pọ̀ ọgọ́rùn-ún ọdún"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ihò jíjìn kan nínú àwọn òkè ńlá",
+        "Ọkọ̀ ojú omi lórí òkun tí ó ṣí sílẹ̀",
+        "Ilé gíga kan tó dé ọ̀run",
+        "Ọgbà kan tí ó pín sí méjì láàárín àwọn alátakò méjì",
+        "Ìdènà irin àti bàbà"
+      ],
+      "answer": "Ihò jíjìn kan nínú àwọn òkè ńlá"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A jí láti rí i pé ìlú wa ti yípadà sí ìgbàgbọ́",
+        "Iná tí ń jó kan di tútù àti àlàáfíà",
+        "Ẹgbẹ́ ọmọ ogun ọ̀tá kan rì sínú òkun",
+        "Àwọn ẹyẹ tí wọ́n gbé òkúta pa ọ̀tá náà run",
+        "Ẹja ńlá kan tú wa sílẹ̀ sí etíkun"
+      ],
+      "answer": "A jí láti rí i pé ìlú wa ti yípadà sí ìgbàgbọ́"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

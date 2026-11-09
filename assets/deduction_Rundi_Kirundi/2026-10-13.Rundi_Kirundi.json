@@ -1,0 +1,61 @@
+{
+  "title": "Umwansi w'umuriro",
+  "intro": "Mu misi ya mbere y’uguhishurirwa, hari umuntu yaserutse nk’umuntu w’intabarirwa arwanya ukuri. Uwo mutima warahezagiwe n’ubutunzi n’icubahiro, warahisemwo ubwibone kuruta ubuyobozi, maze inkuru yabo ica iba imburi ikomeye cane mu mirongo ya nyuma y’isura.",
+  "clues": [
+    "Nabaye mu gisagara kimwe n’Umuhanuzi, kandi nari mu ncuti ziwe za hafi, yamara ubwibone bwanje bwatumye ntagira ukuri.",
+    "Nari mfise ubutunzi bwinshi be n’ibintu vyinshi, kandi niyumvira ko ivyo mfise vyokwama binkingira.",
+    "Ubutumwa bumaze guhishurirwa, narabutwengera mw’ijigo ku mugaragaro, ndahindukira, nibona ko nsumba abemera.",
+    "Urwanko rwanje rwari ruzwi cane ku buryo sura imwe yo muri Korowani yambwira ata guca ku ruhande, ikamwita mw’izina abandi banzi.",
+    "Naragabishijwe ko ubutunzi bwanje n’ivyo nkora bitazompa akamaro, kandi nzojugunywa mu muriro ururumba.",
+    "Nzwi ko ndi se w’urubeya, umukenyezi wanje azotwara inkwi afise umugozi w’insinga z’imisukoni mw’izosi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Abu Lahabu",
+        "Abu Yahli",
+        "Abu Sufiyani",
+        "Al-Walidi ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahabu"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Yanse ubuyisilamu kandi arwanya Umuhanuzi ku mugaragaro .",
+        "Bateguye kwica Umuhanuzi .",
+        "Yarongoye igikorwa co guhagarika abayisilamu",
+        "Yarwanye mu ntambara ya Badr",
+        "Bilal mwene Raba yarababajwe cane"
+      ],
+      "answer": "Yanse ubuyisilamu kandi arwanya Umuhanuzi ku mugaragaro ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Umugozi w'insinga z'imisukoni",
+        "Inkota ikarishe",
+        "Umunyororo uremereye",
+        "Inkoni y'ibiti",
+        "Ikiboko c'urushato"
+      ],
+      "answer": "Umugozi w'insinga z'imisukoni"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Azoturika mu muriro ururumba",
+        "Yihanye aca aba umugenzi .",
+        "Yatakaje ubutunzi ariko apfa yubahwa",
+        "Yahunze aja muri Abisiniya",
+        "Yarohamye mu kiyaga ."
+      ],
+      "answer": "Azoturika mu muriro ururumba"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

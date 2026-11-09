@@ -1,0 +1,61 @@
+{
+  "title": "Nteɛm a Efi Bun Mu",
+  "intro": "Mmɔborohunufo no akoa bi brɛɛ ɔman a wɔn tirim yɛ den na ofii hɔ ansa na wɔrema kwan. Saa ankorankoro yi kowiee beae a na onipa biara nkɔɔ hɔ da, baabi a ɔfrɛ a wɔde kɔ Ɔsoro no mu no gyegye wɔ ɔkwan a ɛyɛ nwonwa so wɔ esum a ɛtoatoa so mu. Bere a ɔkra yi puei a wayɛ mmerɛw nanso wasakra no, ɔbɛyɛɛ asuade a enni bere mu wɔ boasetɔ, adwensakra a efi komam, ne Ɔbɔadeɛ no mmɔborohunu a enni ano mu. So wubetumi ahu ahintasɛm no mu?",
+  "clues": [
+    "Wɔsomaa me sɛ ɔbɔfoɔ kɔɔ me nkurɔfoɔ nkyɛn, nanso wɔboroo ahyeɛ nyinaa so wɔ wɔn gyidie a wɔannye no mu na wɔpowee sɛ wɔbɛtie.",
+    "Me bo fuwii wɔ wɔn poo no ho na medwane firii me nkurɔfoɔ ho ansa na Allah ahyɛdeɛ no reba.",
+    "Meforoo po so hyɛn bi a na nneɛma boro so, na yɛtow ntonto de hwɛɛ wɔn a wɔbɛtow wɔn agu po no mu.",
+    "Wɔtow me guu po a ano yɛ den no mu na apataa kɛse bi menee me.",
+    "Esiane sɛ na mekyeree esum a ɛtoatoa so abiɛsa mu — yafunu, ɛpo a emu dɔ, ne asase a ɛwɔ ase hɔ no — mefrɛɛ m’Awurade wɔ adwensakra a efi komam mu.",
+    "Mifii mpataa no mu kɔɔ mpoano a ɛda hɔ, na mayɛ mmerɛw na mabrɛ, na akutu dua bi nyin wɔ me so. Awiei koraa no, me nkurɔfo, mpem ɔha anaa nea ɛboro saa, gye dii."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Odiyifo Yunus",
+        "Ɔkɔmhyɛni Ayyuub",
+        "Ɔkɔmhyɛni Yusuf",
+        "Ɔkɔmhyɛni Musa",
+        "Ɔkɔmhyɛni Sulaiman"
+      ],
+      "answer": "Odiyifo Yunus"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Mpataa kɛse bi amene no",
+        "Wɔtow gu ogya a ɛredɛw mu",
+        "Wɔakyere no wɔ abura bi ase",
+        "Nsuyiri kɛse bi ahyɛ no so",
+        "Ɔhene bi de no too afiase wɔ ɔkwan a ɛnteɛ so"
+      ],
+      "answer": "Mpataa kɛse bi amene no"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Mpataa kɛse bi yafunu",
+        "Bon kronkron a ɛbɛn Kaaba no",
+        "Adaka bi a ɛda bepɔw bi so",
+        "Poma a ɛdanee ɔwɔ",
+        "Ahengua a ɛyɛ kɛse a ɛso bi nni"
+      ],
+      "answer": "Mpataa kɛse bi yafunu"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Ne nkurɔfoɔ, mpem ɔha anaa nea ɛboro saa, gye dii",
+        "Wɔnyanee no nkwa mu kɔɔ soro",
+        "Ɔbɛyɛɛ ahenni bi a obiara ntumi nsi no sodifo",
+        "Wɔsɛee no denam nteɛm a ɛyɛ hu a efi soro so",
+        "Asasewosow a ɛyɛ hu na ɛdanee no"
+      ],
+      "answer": "Ne nkurɔfoɔ, mpem ɔha anaa nea ɛboro saa, gye dii"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

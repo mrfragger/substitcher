@@ -1,0 +1,61 @@
+{
+  "title": "Inzwi Rokusimba",
+  "intro": "Munhu uyu anoyeukwa neuchenjeri hwakadzama nenhungamiro, achipa mazano asingaperi. Mashoko avo anoratidza hutsvene uye kukosha kwekuziva makomborero nemiedzo inobva kuna Mwari. Fungidzira hunhu hwemweya uyu unoremekedzwa.",
+  "clues": [
+    "Ndakanga ndisiri muporofita, asi uchenjeri hwangu hunogara husingaperi muMagwaro Matsvene.",
+    "Zano rangu kumwana wangu rakasimbisa kutenda Allah uye kudzivisa shirk.",
+    "Ndakadzidzisa nezvekukosha kwekunamata, kuraira zvakanaka, uye kurambidza zvakaipa.",
+    "Ndakanyevera nezvekuzvikudza uye kufamba nekuzvikudza panyika.",
+    "Zita rangu rakapihwa chitsauko chose muQuran, richisimbisa dzidziso dzangu.",
+    "Zano rangu raisanganisira kushivirira mumatambudziko, nekuti zvechokwadi, izvozvo zvinobva kune zvinhu zvakasimba kupfuura zvese."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Idris",
+        "Muprofita Yahya",
+        "Luqman",
+        "Imran",
+        "Muporofita Hud"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Dzidziso/Nhungamiro Yekutanga",
+      "options": [
+        "Kuvaka areka",
+        "Kutarisana neuto rine simba",
+        "Kupa uchenjeri nemazano etsika",
+        "Kududzira zviroto",
+        "Kutungamira nyika kukunda"
+      ],
+      "answer": "Kupa uchenjeri nemazano etsika"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Gwenzi rinopfuta",
+        "Hove hombe",
+        "Gomo chairo",
+        "Zano rekuchenjera kumwana",
+        "Imba huru yamambo"
+      ],
+      "answer": "Zano rekuchenjera kumwana"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akava mambo",
+        "Akapihwa uprofita",
+        "Hungwaru hwake hwakanyorwa muQuran",
+        "Akatungamirira vanhu vake kunyika itsva",
+        "Akapihwa pfuma yakawanda"
+      ],
+      "answer": "Hungwaru hwake hwakanyorwa muQuran"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

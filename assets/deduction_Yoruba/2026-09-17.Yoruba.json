@@ -1,0 +1,61 @@
+{
+  "title": "Lábẹ́ òjìji ọ̀pẹ",
+  "intro": "Ìtàn kan tàn kálẹ̀ nípa ẹ̀mí kan tí a yà sọ́tọ̀ kí a tó bí i, tí a tọ́ dàgbà nínú àwọn ògiri mímọ́, tí a sì yàn láti ní àmì kan tí ayé kò tíì rí rí. Nígbà tí ẹ̀sùn dìde láti gbogbo ìhà, ohùn kan wá láti àwọn ibi tí kò ṣeéṣe jùlọ láti pa gbogbo iyèméjì rẹ́. Ṣé o lè ṣàwárí ẹni tí ó rìn lábẹ́ òjìji ọ̀pẹ?",
+  "clues": [
+    "Mo ti ya ara mi si iṣẹ-isin Olodumare ki emi to fi ẹmi mi silẹ, ileri ti ẹni ti o gbe mi.",
+    "Mo dàgbà lábẹ́ àbójútó olùṣọ́ olódodo kan nínú àwọn yàrá mímọ́ ti ibi ìjọsìn kan.",
+    "Nígbàkúgbà tí olùtọ́jú mi bá dé yàrá mi, ó máa ń rí oúnjẹ àsìkò tí kò yẹ kí ó jẹ́ fún mi.",
+    "Wọ́n fún mi ní ìròyìn ayọ̀ nípa ọmọkùnrin kan, bó tilẹ̀ jẹ́ pé ipò mi kò fi ààyè sílẹ̀ fún ohun tí wọ́n ṣèlérí.",
+    "Mo sá lọ sí ibì kan tó jìnnà, níbẹ̀ ni igi ọ̀pẹ kan ti fún mi ní òjìji nígbà tí odò kan ń ṣàn ní ìsàlẹ̀.",
+    "Nígbà tí ẹ̀sùn dé tí ìbéèrè sì yí mi ká, mo tọ́ka sí ọmọ tuntun mi — ó sì sọ̀rọ̀ láti ìgbà tí mo wà ní ọmọ kékeré láti pa gbogbo iyèméjì mọ́."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Màríà",
+        "Sárà",
+        "Hawa",
+        "Ummu Musa",
+        "Ìyàwó Nóà"
+      ],
+      "answer": "Màríà"
+    },
+    "trial": {
+      "label": "Ìdánwò / Ìṣẹ̀lẹ̀",
+      "options": [
+        "Bíbí ọmọkùnrin ìyanu kan ní ìyàsọ́tọ̀",
+        "Àwọn abọ̀rìṣà tí wọ́n jù sínú iná tí ń jó",
+        "Líla ìkún omi ńlá náà já pẹ̀lú àwọn díẹ̀ tí a yàn",
+        "Jíjẹ́ ẹni tí a yà sọ́tọ̀ kúrò lọ́dọ̀ ọmọ ọwọ́ tí a jù sínú odò",
+        "Lílo ojúkojú alákòóso alágbára Íjíbítì"
+      ],
+      "answer": "Bíbí ọmọkùnrin ìyanu kan ní ìyàsọ́tọ̀"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ọ̀pẹ ọ̀pẹ àti odò tó ń ṣàn lábẹ́ rẹ̀",
+        "Ọkọ̀ áàkì alágbára lórí ìgbì omi gíga",
+        "Ọ̀pá kan tí ó pín òkun ńlá sí méjì",
+        "Iná tí ń jó tí a pète láti jẹ ọkàn olóòótọ́ run",
+        "Ìtẹ́ wúrà tí a fi àwọn òkúta iyebíye ṣe lọ́ṣọ̀ọ́"
+      ],
+      "answer": "Ọ̀pẹ ọ̀pẹ àti odò tó ń ṣàn lábẹ́ rẹ̀"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A bu ọla fun gege bi eni ti o ga julo ninu gbogbo awon obinrin",
+        "Mo tún padà sọ́dọ̀ ọmọ ayanfẹ mi lẹ́yìn ìpínyà pípẹ́",
+        "Ó mú gbogbo orílẹ̀-èdè kan jáde kúrò nínú ìdè apànìyàn kan",
+        "Ó kìlọ̀ fún àwọn ènìyàn kan tí wọ́n sọnù nínú ìwà pálapàla",
+        "A fun ni agbara lori awọn jinni, eniyan, ati awọn afẹfẹ"
+      ],
+      "answer": "A bu ọla fun gege bi eni ti o ga julo ninu gbogbo awon obinrin"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

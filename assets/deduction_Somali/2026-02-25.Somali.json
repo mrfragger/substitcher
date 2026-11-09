@@ -1,0 +1,61 @@
+{
+  "title": "Tijaabadii Dhagaxa Baxsan",
+  "intro": "Bulsho, xirfad leh oo kibir badan, ayaa dhaxalkoodii ku xardhay buuraha. Laakiin markii calaamad cad loo soo diray, imtixaan iimaan iyo is-xakamayn ah, kibirkoodii wuxuu ku horseeday waddo aan dib loo soo celin karin. Ma aqoonsan kartaa kooxdan iyo natiijada ka dhalatay caasinimadooda?",
+  "clues": [
+    "Waxaan ahayn xirfadlayaal dhagax ah, annagoo si toos ah u xardhaynay guryo qurux badan oo ku yaal buuraha.",
+    "Rasuul ka mid ah dadkeenna ayaa noo yimid, isagoo noogu yeeraya inaan caabudno Ilaaha runta ah ee keliya.",
+    "Waxaan dalbanay calaamad muujinaysa hadalladiisa, waxaana la soo saaray makhluuqaad gaar ah oo imtixaan noo ah.",
+    "Waxaa naloo siiyay amar fudud: inaan la wadaagno isha biyaha noolaheenna makhluuqan, annagoo u oggolaanayna inuu cabbo maalintii loo qoondeeyay.",
+    "Kibirkeenna awgiis, dhowr naga mid ah ayaa shirqoolay oo waan ka hor imaannay digniinta, annagoo ku dhufanayna makhluuqaadka loogu talagalay inuu calaamad noo noqdo.",
+    "Saddex maalmood ka hor intaanan dhiman waxaa naloo dhiibay, ka dibna qarax xooggan ayaa na qabsaday guryaheenna, naga dhigay kuwo aan noolayn oo rogmaday."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Yaan nahay?",
+      "options": [
+        "Dadka 'Ad'",
+        "Dadka reer Madiina",
+        "Reer Thamuud",
+        "Dadka Saba",
+        "Dadka reer Luut"
+      ],
+      "answer": "Reer Thamuud"
+    },
+    "trial": {
+      "label": "Imtixaankeennii Koowaad muxuu ahaa?",
+      "options": [
+        "Samaynta doon si aad uga badbaado daad",
+        "Iska caabbinta rabitaanka kalluumeysiga Sabtida",
+        "Joojinta dhaqamada ganacsi ee khiyaanada leh",
+        "Ilaalinta geel mucjiso ah",
+        "Adkeysiga abaar toddobo sano ah"
+      ],
+      "answer": "Ilaalinta geel mucjiso ah"
+    },
+    "location": {
+      "label": "Maxay ahayd Qaybta Dhexe ee Sheekadeenna?",
+      "options": [
+        "Keeggii Dahabka ahaa",
+        "Hashii Geela",
+        "Usha Nabi Muuse",
+        "Biyo-xireenka Weyn ee Ma'rib",
+        "Miiska ayaa ka soo faafay Jannada"
+      ],
+      "answer": "Hashii Geela"
+    },
+    "outcome": {
+      "label": "Maxay ahayd qaddarkeennii ugu dambeeyay?",
+      "options": [
+        "Ku qaraqmay daad weyn",
+        "Waxay isu beddeshay daanyeerro iyo doofaarro",
+        "Dabaylo xooggan ayaa ku dhufatay",
+        "Biyo-xireen qarxay",
+        "Waxaa burburiyay qarax/dhulgariir xooggan"
+      ],
+      "answer": "Waxaa burburiyay qarax/dhulgariir xooggan"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Hurdada Da'da",
+  "intro": "Waxaad ku dhowdahay inaad safar gasho waqtiga oo dhan, adigoo la kulmaya sir qoto dheer oo iimaan iyo awood rabbaani ah. Bal qiyaas koox shakhsiyaad ah oo ka hor yimid caadooyinka bulshadooda, iyagoo ku dheggan tawxiidka adduunyo shirki ah. Sheekadoodu waxay markhaati u tahay awoodda Alle ee uu ku ilaalin karo addoommadiisa suubban siyaabaha ugu yaabka badan. Ma kala furfuri kartaa aqoonsiga shakhsiyaadkan cajiibka ah?",
+  "clues": [
+    "Waxaan ahayn koox yar oo dhalinyaro ah oo aaminsan hal Ilaah, inkastoo dadkeennu ay ku faafeen shirkiga.",
+    "Waxaan ka cararnay taliye kaligii talis ah oo nagu hanjabay iimaankeenna awgiis, isagoo ka baqaya cadaadis iyo dhimasho.",
+    "Waxaan magangalyo ka raadsanay meel cidlo ah, annagoo rajeynayna naxariista Alle iyo ilaalinta dulmiga na haysta.",
+    "Rabbigeen wuxuu naga dhigay hurdo qoto dheer, hurdo mucjiso ah oo ka hor imaanaysa waqtiga.",
+    "Markii aan soo toosnay, waxaan aaminsannay inaan nasannay maalin ama qayb ka mid ah maalinta, annagoo aan ka warqabin muddada ballaaran ee runtii soo martay.",
+    "Quraanku wuxuu xusayaa inaan xaaladdeenna ku sugnayn saddex boqol oo sano, oo aan dhaafnay sagaal, taasoo noqotay calaamad u ah aadanaha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Dadka Godka ku nool",
+        "Reer Thamuud",
+        "Dadka Godka ku nool",
+        "Dadka reer Madyan",
+        "Asxaabta Maroodiga"
+      ],
+      "answer": "Dadka Godka ku nool"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Wajahidda daad weyn",
+        "Dhulku wuxuu liqaa",
+        "Hurdada dheer ee mucjisada ah",
+        "Burburkii magaaladooda",
+        "Kala qaybsanaanta badda"
+      ],
+      "answer": "Hurdada dheer ee mucjisada ah"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Geed gubanaya",
+        "Buur",
+        "Doon",
+        "God",
+        "Ceel"
+      ],
+      "answer": "God"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Waxaa la siiyay maal iyo awood aad u badan",
+        "Waxaa loo beddelay daanyeerro iyo doofaarro",
+        "Waxaa laga soo kiciyay hurdada calaamad qoto dheer awgeed",
+        "Waxay ku qarqeen daad weyn",
+        "Waxay dhisteen boqortooyo cajiib ah"
+      ],
+      "answer": "Waxaa laga soo kiciyay hurdada calaamad qoto dheer awgeed"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

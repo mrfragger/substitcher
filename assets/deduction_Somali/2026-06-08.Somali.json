@@ -1,0 +1,61 @@
+{
+  "title": "Tukashada Macbudka",
+  "intro": "Saacadaha aamusnaanta habeenkii, naf daacad ah ayaa u yeedhay Raxmaanka dhexdiisa derbiyada quduuska ah ee meel quduus ah. Sannado iimaan iyo dulqaad aan kala go 'lahayn ayaa ku dhowaa in lagu abaalmariyo mucjiso keeni doonta farxad iyo dhaxal nabinimo.",
+  "clues": [
+    "Maalmahayga iyo habeenkayga waxaan ku qaatay cibaado gudaha meel quduus ah, anigoo si joogto ah u baryaya Rabbigay.",
+    "Waan gaboobay, xaaskayguna madhalays bay ahayd, haddana weligay maan quusan naxariista Alle.",
+    "Waxaa la i siiyay wiil la odhan jiray Yaxya, kaasoo noqday nebi iyo calaamadda xaqnimada.",
+    "Aniga qudhaydu waxaan ahaa nebi, oo loo diray inuu hago reer binu Israa'iil.",
+    "Waxaan ahaa faracii Nebi Haaruun, waxaana ka mid ahaa wadaad ka tirsan Macbadka.",
+    "Waxaa la ii xilsaaray daryeelka Maryam, hooyadii Ciise, waxaana arkay mucjisooyinkeeda."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Zakariya",
+        "Nabi Yaxya",
+        "Nabi Ilyaas",
+        "Nabi Isxaaq",
+        "Nabi Yacquub"
+      ],
+      "answer": "Nabi Zakariya"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Wuxuu wiil siiyey markuu gaboobay",
+        "Laga badbaadiyay dab ololaya",
+        "Laga soo badbaadiyay caloosha kalluun",
+        "Ka badbaaday daad weyn",
+        "Waxaa laga bogsiiyay cudur daran"
+      ],
+      "answer": "Wuxuu wiil siiyey markuu gabowdo"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Mihrab (goobta salaadda)",
+        "Kacbada",
+        "Geedka Gubanaya",
+        "Sanduuqii Axdiga",
+        "Godka Toddobada Hurdo"
+      ],
+      "answer": "Mihrab (goobta salaadda)"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Waxaa la siiyay wiil xaq ah oo nebi noqday",
+        "Duufaan xoog leh ayaa burburisay",
+        "Badda ayay ku qarqisay",
+        "Laga badbaadiyay in la gubo",
+        "Ku soo laabtay dadkoodii ka dib markii laga badbaadiyay kalluun"
+      ],
+      "answer": "Waxaa la siiyay wiil xaq ah oo nebi noqday"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

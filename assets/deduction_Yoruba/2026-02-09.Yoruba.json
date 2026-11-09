@@ -1,0 +1,60 @@
+{
+  "title": "Ìdánwò Lábẹ́ Àwọn Ìgbì Omi",
+  "intro": "Wòlíì kan, tí iṣẹ́ rẹ̀ ti di ẹrù lé lórí, ṣe ìpinnu kan tí ó mú un jìnnà sí àwọn ènìyàn rẹ̀, tí ó sì wọ inú àdánwò tí a kò retí. Ìrìn àjò rẹ̀ yí padà lọ́nà tí ó yanilẹ́nu, ó dán ìgbàgbọ́ àti sùúrù rẹ̀ wò lọ́nà tí ó jinlẹ̀ jùlọ. Ǹjẹ́ o lè rí àwọn kúlẹ̀kúlẹ̀ ìṣẹ̀lẹ̀ àrà ọ̀tọ̀ yìí láti inú àwọn àmì tí a pèsè?",
+  "clues": [
+    "Wọ́n rán wòlíì kan sí àwọn ènìyàn kan, ṣùgbọ́n ó yára lọ pẹ̀lú ìbínú nítorí ìkọ̀sílẹ̀ wọn.",
+    "Ìrìn àjò rẹ̀ darí rẹ̀ lọ sí òkun, níbi tí ó ti wọ ọkọ̀ ojú omi tí ó kún fún ẹrù tí ó ń wá ọ̀nà láti kọjá.",
+    "Ìjì ńlá kan dìde, ó sì halẹ̀ mọ́ ọkọ̀ ojú omi náà, wọ́n sì pinnu láti ju ẹnìkan sí inú omi láti mú kí ẹrù náà fúyẹ́, èyí tí a pinnu nípasẹ̀ kèké.",
+    "Ẹ̀dá kan láti inú ibú omi gbé e mì, ìṣẹ̀lẹ̀ ìyanu kan tí ìfẹ́ Ọlọ́run pàṣẹ.",
+    "Nínú ààlà ikùn ẹ̀dá náà, ó ké pe Olúwa rẹ̀, ó ronú pìwàdà, ó sì ń yin Ọlọ́run lógo nínú òkùnkùn.",
+    "Lẹ́yìn àkókò àdúrà gbígbóná janjan, wọ́n gbé e sí etíkun tí kò ní aṣálẹ̀, ó jẹ́ aláìlera ṣùgbọ́n ó wà láàyè, lẹ́yìn náà ó padà wá láti rí i pé àwọn ènìyàn rẹ̀ ti gbàgbọ́ nígbẹ̀yìn gbẹ́yín."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Wòlíì/Ẹnìkan",
+      "options": [
+        "Wòlíì Nóà",
+        "Wòlíì Lọ́ọ̀tì",
+        "Wòlíì Mósà",
+        "Wòlíì Yunus",
+        "Wòlíì Yúsọ́ọ̀fù"
+      ],
+      "answer": "Wòlíì Yunus"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ìkún omi Nóà",
+        "Ìparun Sódómù",
+        "Ìrìn àjò nínú ikùn ẹja ńlá náà",
+        "Pípín òkun",
+        "Ìfihàn igbó tí ń jó"
+      ],
+      "answer": "Ìrìn àjò nínú ikùn ẹja ńlá náà"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Àpótí náà",
+        "Òkè Sínáì",
+        "Òṣìṣẹ́ Mósè",
+        "Ẹja Ńlá",
+        "Kànga Yusufu"
+      ],
+      "answer": "Ẹja Ńlá"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Májẹ̀mú tuntun pẹ̀lú aráyé",
+        "Ìbí ìyanu fún àwọn ènìyàn rẹ̀",
+        "Ìjọba tí a gbé kalẹ̀ fún ìran rẹ̀",
+        "Ìpadàbọ̀ sí àwọn ènìyàn rẹ̀ tí wọ́n gbàgbọ́ nígbà náà",
+        "Ìṣẹ́gun lórí alákòóso oníwà ipá kan"
+      ],
+      "answer": "Ìpadàbọ̀ sí àwọn ènìyàn rẹ̀ tí wọ́n gbàgbọ́ nígbà náà"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

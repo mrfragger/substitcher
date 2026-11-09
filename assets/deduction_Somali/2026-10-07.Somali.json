@@ -1,0 +1,61 @@
+{
+  "title": "Ololka ku jira qasriga kibirka",
+  "intro": "Dabaqa gidaarada waaweyn ee qasriga ugu awoodda badan adduunka hore waxaa ku noolaa shakhsi qalbigiisu sir ahaa oo aan amar boqornimo ah aamusin karin. Intii hareerihiisa oo dhan ay u sujuudeen ilaahyo been ah, naftani waxay ku haysay iimaan deggan oo gudaha ku gubanaysa. Taliyihii dhulkaas wuxuu aaminsanaa inay yihiin kuwo ilaah ah, haddana qofkani wuxuu doortay runta halkii uu ka ahaan lahaa raaxada, iyo daacadnimada halkii uu ka ahaan lahaa badbaadada. Maanta, shaqadaadu waa inaad ogaato cidda ahayd naftan geesinimada leh, oo sheekadeedu ay weli tahay mid ka mid ah tusaalooyinka ugu awoodda badan ee iimaanka aan kala go'a lahayn.",
+  "clues": [
+    "Waxaan ku noolaa meel hodantinimo aad u badan iyo sharaf aan la barbar dhigi karin leh, halkaas oo taliyaha dhulka uu awood buuxda ku lahaa wax walba.",
+    "Intay kuwii hareerahayga joogay u sujuudeen ilaahyo been ah, waxaan qalbigayga ku hayay iftiin aamusan oo iimaan ah.",
+    "Waxaan ogaaday oo korsaday ilmo si aan caadi ahayn la ii keenay - ma aha dhalasho ahaan, laakiin biyaha webi weyn.",
+    "Waxaan u baryay Rabbigeyga, anigoo weydiisanaya hoy u dhow Jannada iyo badbaadinta dulmigii igu hareeraysnaa.",
+    "Ilmaha aan koriyey wuxuu ku koray inuu la dagaallamo taliyaha xukuma qaddarkayga, aniguna waxaan ku adkaystay iimaankayga xitaa marka la igu hanjabo.",
+    "Aniga ayaa ah qofka magaciisa lagu sharfay Qur'aanka oo ah tusaale iimaan, waxaana ku noolaa qasriga Fircoon laftiisa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Aasiya, xaaskii Fircoon",
+        "Maryam, hooyadii Ciise",
+        "Bilqis, Boqoradda Sheba",
+        "Xaaskii Nabi Luut",
+        "Xaaska Cimraan"
+      ],
+      "answer": "Aasiya, xaaskii Fircoon"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Soo ogaanshaha iyo korinta ilmo la dayacay oo noqday nebi weyn",
+        "In dab weyn lagu tuuro kaligii taliye",
+        "Inay arkeen daad weyn oo dad burburiyay",
+        "Inaad aragto ruxitaanka timirta iyo inaad nafaqayso",
+        "Uurka wiil inkastoo uu da' weyn yahay"
+      ],
+      "answer": "Soo ogaanshaha iyo korinta ilmo la dayacay oo noqday nebi weyn"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Qasri boqortooyo oo qurux badan oo aan la barbar dhigi karin",
+        "Markab weyn oo loo sameeyay inuu u adkeysto daad",
+        "God qoto dheer oo ku qarsoon buuraha",
+        "Dab ololaya oo laga dhisay buur dusheeda",
+        "Beer ay derbiyo ku wareegsan yihiin"
+      ],
+      "answer": "Qasri boqortooyo oo qurux badan oo aan la barbar dhigi karin"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Guri ayaa Jannada lagu siiyay doonista Alle.",
+        "Daad weyn ayaa baabi'iyay gaalada qarankii hore",
+        "Boqortooyo awood iyo awood aad u weyn leh ayaa la siiyay adduunkan",
+        "Ciidan xooggan ayaa waxaa kala firdhiyey shimbiro duulaya",
+        "Kaligii-taliye sheegtay ilaahnimo ayaa badda ku qaraqmay"
+      ],
+      "answer": "Guri ayaa Jannada lagu siiyay doonista Alle."
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

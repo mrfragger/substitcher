@@ -1,0 +1,61 @@
+{
+  "title": "Umuhamagaro Wakomeje Guhinduka mu Bihe Bishize",
+  "intro": "Tekereza umuntu wahagaze wenyine arwanya umuco wose, yiyemeje kubayobora kuva mu buyobe afite icyemezo kidakuka. Mu binyejana byinshi, ubutumwa bwaranzwe, bugashinyagurirwa, kandi bugasuzugurwa—nyamara imbaraga ntizahagaze. Amaherezo, haje kubazwa byinshi, maze bake gusa ni bo bakira agakiza hamwe n’uwo muntu uhamye. Ese ushobora kumenya uyu muntu muri Korowani?",
+  "clues": [
+    "Natumwe kuba umuburira ku bantu bazimiye mu nzira zabo bwite.",
+    "Nabatumiye gusaba imbabazi no kwihana bakareka amakosa yabo, ariko barayanze.",
+    "Myobowe n'Imana, nakoze ubwato bunini cyane abantu banjye bandebaga bakananseka.",
+    "Nahamagaye Umwami wanjye ubudasiba—amaherezo aranyitaba, maze amazi asuka mu ijuru nk'umugezi mwinshi.",
+    "Nagiye mu bwato hamwe n'abizera igihe amazi y'umwuzure yazamukaga hejuru y'ubutaka.",
+    "Naratabaje umwe wari wasigaye inyuma, mbasaba guhungira ku musozi, ariko itegeko ryari ryaramaze gutorwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Umuhanuzi Nuh",
+        "Intumwa Ibrahimu",
+        "Umuhanuzi Musa",
+        "Umuhanuzi Hud",
+        "Intumwa Salih"
+      ],
+      "answer": "Umuhanuzi Nuh"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Kubaka ubwato bunini no kurokoka umwuzure w'isi yose",
+        "Gutabwa mu muriro ugurumana",
+        "Guhangana n'umunyagitugu n'abapfumu be b'ibihangange",
+        "Kumirwa n'ifi nini",
+        "Kwibonera iyicwa ry'ingamiya y'ingore yera"
+      ],
+      "answer": "Kubaka ubwato bunini no kurokoka umwuzure w'isi yose"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Ubwato bunini bw'ibiti ku mazi y'umwuzure wari urimo kwiyongera cyane",
+        "Ikibaya gitagatifu gifite amatongo y'amabuye ya kera",
+        "Ubuvumo burebure aho bagenzi babo bararaga mu binyejana byinshi",
+        "Inda y'ifi nini cyane iri mu bwihisho bw'inyanja",
+        "Umusozi muremure w'amabuye mu butayu"
+      ],
+      "answer": "Ubwato bunini bw'ibiti ku mazi y'umwuzure wari urimo kwiyongera cyane"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Yarokowe hamwe n'abizera bari mu bwato",
+        "Yarokowe nta nkomyi mu muriro binyuze mu itegeko ry'Imana",
+        "Yayoboye urugendo rukomeye rwo kuva mu bwami bukomeye",
+        "Suka mu mafi ujya ku nkombe y'umutarwe",
+        "Yatumye abantu bareka gukora ibibi binyuze mu kimenyetso cy'igitangaza"
+      ],
+      "answer": "Yarokowe hamwe n'abizera bari mu bwato"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

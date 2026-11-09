@@ -1,0 +1,61 @@
+{
+  "title": "Omusitula Obubonero Omwenda",
+  "intro": "Ekifaananyi kyasituka okuva mu ntandikwa esinga obuwombeefu, ng’enkomerero ewandiikiddwa mu kwagala kwa Katonda. Nga bakwekeddwa wala mu buwere era nga bakuziddwa mu bbugwe w’omufuzi yennyini eyanoonya okusaanyaawo abantu baabwe, emmeeme eno yatuuka n’okuyitibwa okugenda mu bubaka obw’amaanyi. Nga tebalina kirala kyonna okuggyako okukkiriza n’omuggo gw’omusumba omuwombeefu, baayimirira mu maaso g’omufuzi eyali asinga amaanyi mu mulembe ogwo era ne basaba eddembe eri abo abaali bafuuse abaddu. Ensi yennyini yalabika ng’etambula ku kiragiro kyabwe — amazzi gaawukana, eggulu ne lyogera, era obwakabaka ne bugwa.",
+  "clues": [
+    "Ennaku zange ezaasooka zaali za kutya — abaana abawere nga nze baayigganyizibwanga nga bazaalibwa omufuzi atalina kisa eyali atya ebiseera eby’omu maaso.",
+    "Nanunulibwa amazzi ne nkuzibwa munda mu lubiri lw’omufuzi yennyini eyanoonya okuzikirizibwa kwange.",
+    "Nnadduka mu nsi yange oluvannyuma lw’ekintu eky’amangu, ne nfuuka omusumba omwetoowaze mu nsi ey’ewala.",
+    "Naddayo okutunuulira omufuzi oyo ow’amaanyi n’omuggo omungu n’obubaka obutegeerekeka obulungi, nga njagala eddembe ly’abantu bange.",
+    "Nayawulamu amazzi amangi ennyo eri abo abaali bangoberera, ne ndaba ng’amazzi ago gamira omulabe wange yenna.",
+    "Nalinnya olusozi olutukuvu okufuna obulagirizi obw’obwakatonda okuva eri Allah, era ne nweebwa obubonero mwenda obw’olwatu ng’obukakafu obw’amazima."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Nabbi Musa",
+        "Nabbi Nuh",
+        "Nabbi Ibrahim",
+        "Nabbi Yusuf",
+        "Nabbi Lut"
+      ],
+      "answer": "Nabbi Musa"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okutunuulira Falaawo mu lubiri lwe",
+        "Okuzimba Essanduuko okusobola okuwona amataba amangi",
+        "Okusuulibwa mu muliro oguyaka ennyo abakola ebifaananyi",
+        "Okukka mu luzzi oluwanvu baganda bange",
+        "Okugezaako okulemesa abantu bange okweyisa mu ngeri ey’obugwenyufu"
+      ],
+      "answer": "Okutunuulira Falaawo mu lubiri lwe"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Omuggo ogwafuuka omusota",
+        "Essanduuko ya Nuu",
+        "Nnamulondo ya Bilqis",
+        "Empeta eyafuga empewo ne majinni",
+        "Ebisumuluzo by’eby’obugagga ebikuŋŋaanyiziddwa nga bizitowa nnyo"
+      ],
+      "answer": "Omuggo ogwafuuka omusota"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yakulembera abantu bange okusomoka amazzi agaawuddwamu okutuuka mu ddembe",
+        "Yalokoka okuva mu mataba amanene munda mu Ssanduuko",
+        "Yazzibwa mu bulamu n’amaka oluvannyuma lw’okubonaabona ennyo",
+        "Yasuulibwa mu kyennyanja ekinene nga mulamu",
+        "Yazimba emisingi gy’Ennyumba Entukuvu"
+      ],
+      "answer": "Yakulembera abantu bange okusomoka amazzi agaawuddwamu okutuuka mu ddembe"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

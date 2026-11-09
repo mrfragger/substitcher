@@ -1,0 +1,61 @@
+{
+  "title": "Ijwi riturutse hanze",
+  "intro": "Uhagaze mu mujyi aho intumwa eshatu zaje zifite ibimenyetso bisobanutse, ariko abantu barabaseka kandi bagakomeza inzira zabo za kera. Uturutse mu gice cya kure cy'umujyi, umuntu yiruka yegereye imbaga y'abantu, afite umwuka kandi yiyemeje kuvuga ukuri mu gihe banze kwemera. Ni nde uyu muntu washyize byose mu kaga kubera ubutumwa butari ubwabo?",
+  "clues": [
+    "Nabaye mu bantu bakiriye intumwa zifite ibimenyetso bisobanutse, nyamara bahindukirira Imana mu bwibone.",
+    "Naje ndiruka mvuye mu gice cya kure cy'umujyi ubwo numvaga ihamagara ry'intumwa.",
+    "Nabwiye abantu banjye nti: 'Yemwe bantu banjye, nimukurikire intumwa. Nimukurikire abatabasaba ibihembo, kuko bayobowe neza.'",
+    "Ntabwo nari umuhanuzi, ariko nizeraga intumwa kandi ngashishikariza n'ubwoko bwanjye kubikora.",
+    "Abaturage banjye bansebye inama zanjye kandi banshinja kuba ndi intagondwa.",
+    "Ubwo banyicaga, Allah yambwiye kwinjira muri Paradizo, kandi nifuzaga ko abantu banjye bamenya imbabazi n'icyubahiro nahawe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Umugabo wo mu gace ka kure k'umujyi (Ya-Sin)",
+        "Umwe mu ntumwa eshatu zoherejwe mu mujyi",
+        "Umucuruzi ukomeye wo muri uwo mujyi",
+        "Umutegetsi w'umujyi",
+        "Umuyobozi w'abatizera"
+      ],
+      "answer": "Umugabo wo mu gace ka kure k'umujyi (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Kubwiriza abantu be gukurikira intumwa",
+        "Kubaka ubwato kugira ngo burokore abizera mu myuzure",
+        "Gutabwa mu muriro kubera ukwizera",
+        "Kumirwa n'ifi nini",
+        "Guhabwa ubwami n'ubwenge"
+      ],
+      "answer": "Kubwiriza abantu be gukurikira intumwa"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Igice cya kure cyane cy'umujyi",
+        "Inkuge",
+        "Iriba",
+        "Igihuru cyakaga",
+        "Ubuvumo"
+      ],
+      "answer": "Igice cya kure cyane cy'umujyi"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Yinjiye muri Paradizo maze yifuza ko abantu be bamenya imbabazi ze",
+        "Yarohamye n'abantu be kubera kwanga ubutumwa",
+        "Yahawe igitangaza cy'ingamiya y'ingore",
+        "Yabaye umutegetsi nyuma y'urubanza rwe",
+        "Yarokowe na Allah kandi agumana n'abantu be"
+      ],
+      "answer": "Yinjiye muri Paradizo maze yifuza ko abantu be bamenya imbabazi ze"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

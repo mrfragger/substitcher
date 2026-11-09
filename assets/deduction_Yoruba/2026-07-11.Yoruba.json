@@ -1,0 +1,61 @@
+{
+  "title": "Àwọn Arìnrìn-àjò ní Pápá Verdant",
+  "intro": "Ní ìgbà àtijọ́, àwọn ènìyàn méjì ló ń tọ́jú àwọn ilẹ̀ tó wà ní àdúgbò. Ọ̀nà wọn so pọ̀ mọ́ ara wọn, síbẹ̀ ọkàn wọn darí wọn sí àwọn ibi tó yàtọ̀ síra. Ọ̀kan rìn ní ọ̀nà tó tọ́, nígbà tí èkejì sì yọ́ lọ sínú òkùnkùn ìkọ̀kọ̀. Ṣé o lè tú àṣírí ohun ìjìnlẹ̀ àwọn olùṣọ́ méjì yìí?",
+  "clues": [
+    "Mo ní ọ̀pọ̀lọpọ̀ èso oko, àwọn ìkórè aládùn tí ó ń tànmọ́lẹ̀ sí ojú àwọn olùwòran.",
+    "Aládùúgbò mi ní ẹ̀bùn tó pọ̀ ju ti èmi lọ, síbẹ̀ mo fẹ́ ìpín wọn ju ti èmi lọ.",
+    "Mo daba pe ki a run awon irugbin won patapata, lati so gbogbo nkan ti o wa labẹ iṣakoso mi pọ.",
+    "Mo tún pa ìkórè mi run, mo sì pa gbogbo nǹkan run nínú èrò òmùgọ̀ mi.",
+    "Mo dúró láìní ìrànlọ́wọ́ bí àwọn èso oko mi ṣe ń gbẹ tí ọrọ̀ mi sì di eruku ní alẹ́ kan ṣoṣo.",
+    "Mi ò ní ìpín kankan ní Ìgbésí Ayé, ibùgbé mi tó kẹ́yìn sì di ihò iná tó ń jó."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Ọkùnrin tí ó sẹ́ àjíǹde àti ìdájọ́",
+        "Alákòóso tó ń ni àgbẹ̀ olódodo lára",
+        "Onílẹ̀ ọlọ́rọ̀ tí kò ní ọpẹ́",
+        "Àgbẹ̀ tó fẹ́ ilẹ̀ aládùúgbò rẹ̀",
+        "Alabaṣiṣẹpọ̀ alárékérekè tí ó gbìmọ̀ ìparun"
+      ],
+      "answer": "Àgbẹ̀ tó fẹ́ ilẹ̀ aládùúgbò rẹ̀"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Idanwo gbigba ifihan atọrunwa",
+        "Ìpèníjà ọrọ̀ àti sùúrù",
+        "Ìdánwò láti ba ìgbésí ayé olódodo jẹ́",
+        "Àṣẹ láti pín ogún ní ọ̀nà tó tọ́",
+        "Ijakadi lodi si inilara apànìyàn"
+      ],
+      "answer": "Ìdánwò láti ba ìgbésí ayé olódodo jẹ́"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Àwọn ọgbà aláwọ̀ ewéko ti párádísè",
+        "Àwọn oko oko méjì tó wà nítòsí",
+        "Àwọn òkè ńlá tí ìparun ṣẹlẹ̀ sí",
+        "Ibùgbé mímọ́ ti Makkah",
+        "Etí odò ilẹ̀ ìbùkún kan"
+      ],
+      "answer": "Àwọn oko oko méjì tó wà nítòsí"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Párádísè ayérayé gẹ́gẹ́ bí èrè fún òdodo",
+        "Iparun patapata ti awọn ikore mejeeji ni igbesi aye yii",
+        "Ìgbèkùn àti rírìn kiri títí di ikú",
+        "Aásìkí ìgbà díẹ̀ tí iná ayérayé sì tẹ̀lé e",
+        "Ìmúpadàbọ̀sípò ìyanu àti ọrọ̀ ìlọ́po méjì"
+      ],
+      "answer": "Iparun patapata ti awọn ikore mejeeji ni igbesi aye yii"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

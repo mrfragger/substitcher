@@ -1,0 +1,61 @@
+{
+  "title": "Inzwi reKutenda Kwakavanzika",
+  "intro": "Mukati medare rine hutsinye, uko kusatenda kwaive mutemo wenyika, mweya wega wakafamba netambo yakasimba yekutenda nekutya. Munhu uyu, ari pedyo nepakati pesimba, akateerera shoko remuporofita richishorwa nekutyisidzirwa. Nguva yechokwadi yakasvika, ichimanikidza munhu uyu kusarudza pakati pekuchengetedzeka chinyararire nekutaura chokwadi chine njodzi. Unogona here kuburitsa pachena kuti mutsigiri uyu ane ushingi ndiani?",
+  "clues": [
+    "Ndaigara mumba memudzvinyiriri, ndichizvionera ndega kuzvikudza kwairamba zviratidzo zvaMwari.",
+    "Ndakachengeta kutenda kwangu kwakavanzika, pfuma yakavanzwa muimba yekunamata zvidhori.",
+    "Ndakanzwa mutungamiri wandaishandira achironga kuuraya mutumwa waAllah, murume ainzi Musa.",
+    "Ndakabvunza nezvepfungwa dzavo, ndichivayeuchidza nezveramangwana revanhu vaNuh, Ad, naThamud.",
+    "Ndakabvunza vanhu vangu mubvunzo wakakosha: 'Kana ari murevi wenhema, nhema dzake dziri paari; asi kana ari wechokwadi, zvimwe zvezvaanovimbisa zvichakushamisa.'",
+    "Nyaya yangu inotaurwa semuenzaniso wekutenda musurah inonzi 'Mukanganwiri,' pandakayambira vanhu vangu nezvezvirongwa zvevane simba."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Mutendi anobva kumhuri yaFirauni",
+        "Hamani",
+        "Varoyi vaFirauni",
+        "Qarun",
+        "VaSamiri"
+      ],
+      "answer": "Mutendi anobva kumhuri yaFirauni"
+    },
+    "trial": {
+      "label": "Chii Chaiva Muedzo Wangu?",
+      "options": [
+        "Kudzivirira Muporofita Musa mudare remudzvinyiriri",
+        "Kuvaka shongwe refu kusvika kumatenga",
+        "Kukandwa mumoto unopfuta",
+        "Kumedzwa nehove hombe",
+        "Kurasikirwa nepfuma yese nehutano"
+      ],
+      "answer": "Kudzivirira Muporofita Musa mudare remudzvinyiriri"
+    },
+    "location": {
+      "label": "Chii Chaiva Musoro weNharo Yangu?",
+      "options": [
+        "Mugumisiro wekuramba shoko remuporofita",
+        "Kudiwa kwechiratidzo kubva pamuti mutsvene",
+        "Kugadzirwa kwemhuru kubva muzvishongo zvakanyungudutswa",
+        "Chishamiso chengamera kubva padombo",
+        "Kududzirwa kwezviroto zvemutongi"
+      ],
+      "answer": "Mugumisiro wekuramba shoko remuporofita"
+    },
+    "outcome": {
+      "label": "Chii Chakaitika?",
+      "options": [
+        "Allah akaponesa munhu uyu kubva muhurongwa hwavo hwakaipa",
+        "Dare rese rakabva ragamuchira Islam",
+        "Mudzvinyiriri akapfidza panguva yekunyura",
+        "Mudzvinyiriri akamedzwa nenyika",
+        "Munhu wacho akaendeswa kunyika iri kure"
+      ],
+      "answer": "Allah akaponesa munhu uyu kubva muhurongwa hwavo hwakaipa"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

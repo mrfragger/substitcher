@@ -1,0 +1,61 @@
+{
+  "title": "Ìdótì kan lábẹ́ ojú ọ̀run lójijì",
+  "intro": "O dúró níwájú ẹgbẹ́ ọmọ ogun alágbára kan tí wọ́n ń sún mọ́ ibi mímọ́ kan tí wọ́n fẹ́ràn, pẹ̀lú gbogbo ohun ìjà tí wọ́n ti múra sílẹ̀ àti ìṣẹ́gun tí ó dájú. Kí ìkọlù náà tó bẹ̀rẹ̀, agbára àìròtẹ́lẹ̀ kan fara hàn ní iwájú, ìdíje náà sì gba ipò kan tí ẹnikẹ́ni kò rí tẹ́lẹ̀.",
+  "clues": [
+    "A rìn pẹ̀lú ìgbẹ́kẹ̀lé pé kò sí agbára ayé tí ó lè mì.",
+    "A mú àwọn erin alágbára wá, ó sì dà bíi pé agbára wa wà ní àyíká wọn.",
+    "A wá láti wó ibi mímọ́ kan tí a bọ̀wọ̀ fún lulẹ̀, a gbàgbọ́ pé ìṣẹ́gun wa ti dájú.",
+    "Nígbà tí a dé ibẹ̀, àwọn agbo kan wọ́ kọjá ojú ọ̀run lórí wa.",
+    "Àwọn ẹyẹ náà ju òkúta amọ̀ líle sí àwọn jagunjagun wa.",
+    "A ṣẹ́gun wa pátápátá débi pé agbára wa tó lágbára wó lulẹ̀, ó sì fọ́nká bí eérú."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Àwọn Ènìyàn Erin",
+        "Àwọn Ọmọ-aládé Méjì",
+        "Àwọn Arákùnrin Jóṣẹ́fù",
+        "Ìránṣẹ́ Allah ní Dhul-Kifl",
+        "Àwọn alábàákẹ́gbẹ́ ọkùnrin olódodo"
+      ],
+      "answer": "Àwọn Ènìyàn Erin"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ikọlu ti erin dari si Kaaba",
+        "Òkun pínyà kí àwùjọ tí wọ́n fi ránṣẹ́ sí i lè dé ibẹ̀.",
+        "Bí àwọn ènìyàn oníwà ìkà ṣe gba Àpótí náà",
+        "Ìrìn alẹ́ láàrín àwọn mọ́sálásí méjì",
+        "Iwosan adẹ́tẹ̀ kan nipa agbara Ọlọrun"
+      ],
+      "answer": "Ikọlu ti erin dari si Kaaba"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Àwọn ẹyẹ tí wọ́n gbé ìṣù amọ̀",
+        "Ọkọ̀ igi gopher",
+        "Ọ̀pá kan di ejò",
+        "Òkúta kan tí a fi àmì dí",
+        "Igbó kan tó ń jó"
+      ],
+      "answer": "Àwọn ẹyẹ tí wọ́n gbé ìṣù amọ̀"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Agbára ńlá wọn fọ́ bí eérú",
+        "Wọ́n rékọjá òkun láìléwu.",
+        "Wọ́n rìn la inú iná ìléru kan kọjá láìfarapa",
+        "Wọ́n wọ Párádísè ní méjì méjì",
+        "Wọ́n sùn nínú ihò àpáta fún ọdún 309"
+      ],
+      "answer": "Agbára ńlá wọn fọ́ bí eérú"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

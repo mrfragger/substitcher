@@ -1,0 +1,61 @@
+{
+  "title": "Sagaal Calaamadood oo uu ku jiro",
+  "intro": "Shax ayaa ka soo kacday bilowgii ugu hooseeyay, iyadoo qaddar lagu qoray doonis rabbaani ah. Iyada oo lagu qariyay carruurnimada oo lagu soo koray derbiyada taliyaha isku dayayay inuu burburiyo dadkooda, naftan ugu dambeyntii waxaa loogu yeeray hawlgal xooggan. Iyagoo haysta wax aan ahayn iimaan iyo usha adhijir ee is-hoosaysiinta ah, waxay hor istaageen hoggaamiyihii ugu awoodda badnaa wakhtiga waxayna dalbadeen xorriyad kuwa la addoonsaday. Dunidu lafteedu waxay u muuqatay inay ku socoto amarkooda - biyuhu way kala qaybsameen, samooyinkuna way hadleen, boqortooyona way dhacday.",
+  "clues": [
+    "Maalmahaygii ugu horreeyay waxaa lagu calaamadeeyay cabsi - dhallaanka aniga oo kale ah waxaa ugaarsan jiray markii aan dhashay taliye aan naxariis lahayn oo ka baqaya mustaqbalka.",
+    "Biyo ayaa i badbaadiyay oo waxaan ku soo koray qasriga taliyaha oo doonayay inuu i burburiyo.",
+    "Waxaan ka cararay waddankeyga hooyo ka dib dhacdo lama filaan ah, anigoo noqday adhijir is-hoosaysiiya oo ku nool dhul fog.",
+    "Waxaan ku soo laabtay si aan ula kulmo taliyahaas awoodda badan iyadoo la adeegsanayo ul fudud iyo farriin cad, anigoo dalbanaya xorriyadda dadkayga.",
+    "Biyo badan ayaan u qaybiyay kuwii i raacay, waxaana daawaday biyahaas oo liqay cadawgaygii oo dhan.",
+    "Waxaan fuulay buur barakeysan si aan u helo hanuun rabbaani ah oo ka yimid Alle, waxaana la i siiyay sagaal calaamadood oo cad oo caddeyn u ah runta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Muuse",
+        "Nabi Nuux",
+        "Nabi Ibraahim",
+        "Nabi Yuusuf",
+        "Nabi Luut"
+      ],
+      "answer": "Nabi Muuse"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Fircoon oo maxkamaddiisa la kulmay",
+        "Dhisidda Doonta si aad uga badbaado daad weyn",
+        "In lagu tuuro dab ololaya oo ay sameeyeen dadka sanam caabuda",
+        "Walaalahay waxaan ku hoos dhigay ceel qoto dheer",
+        "Isku dayga inaan dadkayga ka joojiyo dhaqan aan anshax lahayn"
+      ],
+      "answer": "Fircoon oo maxkamaddiisa la kulmay"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Ushii abeeso isu beddeshay",
+        "Doontii Nuux",
+        "Carshiga Bilqis",
+        "Giraantii xakamaysay dabaysha iyo jinka",
+        "Furaha khasnadaha la ururiyay oo aad u culus"
+      ],
+      "answer": "Ushii abeeso isu beddeshay"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Dadkaygii waxaan u horseeday biyo kala qaybsan si ay xorriyad u helaan",
+        "Waxaa laga badbaadiyay daad weyn oo ku dhex jiray Markab",
+        "Waxaa dib loogu soo celiyay caafimaadkiisa iyo qoyskiisa ka dib dhibaato qoto dheer oo soo gaartay",
+        "Kalluun weyn oo nool ayaa laga soo tuuray",
+        "Dhisay aasaaska Guriga Barakaysan"
+      ],
+      "answer": "Dadkaygii waxaan u horseeday biyo kala qaybsan si ay xorriyad u helaan"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ɛnne a Ɛpow Abasamtu",
+  "intro": "Fa wo nan hyɛ ofie a adehwere di adehwere akyi, nanso ɛnne biako a ɛyɛ komm pow abasamtu mu. Ɔfrɛ baako pɛ a ɛwɔ Kur’aan mu no dane boasetɔ yɛ nsakraeɛ; so wubetumi ahwehwɛ nsɛnkyerɛnne no mu akɔ onipa a ɔwɔ saa nne no akyi no so?",
+  "clues": [
+    "Na meyɛ boasetɔ nne wɔ ofie bi a wɔde amanehunu sɔ nhyira hwɛ.",
+    "Mekɔɔ so traa ofie bi a ahonyade ne mmofra a wɔhweree no mu da mpan mu.",
+    "Ná minim sɛ yare nso ato saa ɔhokafo a ne nipadua ayɛ basaa no.",
+    "Bere a ahoyeraw no mu yɛɛ den no, mede nkaebɔ frɛɛ Allah.",
+    "Mede mpaemuka baako mae: Allah ne Nokware no, enti monnya abotare.",
+    "Mefrɛɛ Ayyuub din; ɛno akyi no, Allah yii amanehunu no fii hɔ na ɔsan de abusua no bae."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Ayyuub Yere",
+        "Ɔkɔmhyɛni Nuh Yere",
+        "Ɔkɔmhyɛni Ibrahim Yere",
+        "Ɔkɔmhyɛni Ya'qub Yere",
+        "Farao Babea"
+      ],
+      "answer": "Ɔkɔmhyɛni Ayyuub Yere"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Ayyub a wɔbɛkɔ so atra hɔ denam adehwere ne yare so, afei afrɛ sɛ onnya boasetɔ",
+        "Ɔbɔfo trenee kɔkɔbɔ sɛ onnyae mpɔtam a aporɔw",
+        "Mpae a wɔbɔ sɛ wɔbɛwo abusua a ɛbɛba daakye",
+        "Adaeso ahorow a wɔkyerɛ ase wɔ adehye afiase bi mu",
+        "Abofra a wɔde ahyɛ ne nsa a wobenya wɔ asubɔnten bi ho"
+      ],
+      "answer": "Ayyub a wɔbɛkɔ so atra hɔ denam adehwere ne yare so, afei afrɛ sɛ onnya boasetɔ"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Mpaemuka a ese Allah ne Nokware no ne boasetɔ na ɛhia",
+        "Mmere dua bi a ɛwɔ asubura bi nkyɛn",
+        "Ɔfrɛ sɛ wɔnyɛ anwenne a ɛne asorɔkye no ntam kwan ware",
+        "Nsoromma du-baako ne owia a ɛrepue ho dae",
+        "Kɛntɛn bi a wɔde fa Nil asubɔnten no ho"
+      ],
+      "answer": "Mpaemuka a ese Allah ne Nokware no ne boasetɔ na ɛhia"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Woyii Ayyub amanehunu no fii hɔ na wɔsan de n’abusua san bae",
+        "Wɔmaa abofra bi a na wɔatwɛn no bere tenten wɔ mpaebɔ a ɛyɛ obonin akyi",
+        "Sodifo kumaa bi kyerɛɛ mfe ason a na nneɛma dɔɔso na ɛho yɛ na no ase",
+        "Wogyee abofra bi a wɔde no hyɛɛ ne nsa fii nsu a ɛsen mu",
+        "Kɔkɔbɔ bi dii nsuyiri a ɛsɛe ade anim"
+      ],
+      "answer": "Woyii Ayyub amanehunu no fii hɔ na wɔsan de n’abusua san bae"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

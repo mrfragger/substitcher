@@ -1,0 +1,61 @@
+{
+  "title": "Kuramba Pakati Pezvakawanda",
+  "intro": "Unozviwana uri pakati pevanhu vane misika yakazara nekutengeserana, asi zviyero zvavo zvinodonha zvisina kururama. Nhume yasvika kwavari nenyevero dzakajeka, asi vanoseka vobva vadzokera shure, vachivimba nekubudirira kwavo. Denga rinotanga kusviba, asi vanoona sechikomborero chemvura. Vanhu ava ndivanaani?",
+  "clues": [
+    "Takabudirira munyika dzekutengeserana nedzekudya zvakawanda, asi mwoyo yedu yakava yakaoma.",
+    "Mutumwa akauya kwatiri nezviratidzo kubva kuna Ishe wedu, asi takaseka yambiro dzake.",
+    "Taizivikanwa nebasa redu, asi taipa nguva pfupi uye taibiridzira vanhu.",
+    "Taigara pakati pemiti mikobvu nemiti yakasvibira, asi taisatora makomborero edu seasina basa.",
+    "Gore dema parakasvika, takafara, tichifunga kuti raizounza mvura kunyika dzedu dzakaoma.",
+    "Asi, gore iroro rakaburitsa chirango chinopisa, uye takabatwa nekurwadziwa kwezuva remumvuri."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tiri vanaani?",
+      "options": [
+        "Ashab al-Aykah (Vashanyi veMasango)",
+        "Vanhu veThamud",
+        "Vanhu ve'Ad",
+        "Vanhu veLut",
+        "Vanhu veNuh"
+      ],
+      "answer": "Ashab al-Aykah (Vashanyi veMasango)"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Vakaramba mutumwa wavo uye vakabiridzira mukutengeserana",
+        "Vakanamata mhuru yendarama uye vakatsauswa",
+        "Vaiita zvepabonde uye vakarwisa vafambi",
+        "Vakavaka shongwe refu uye vakaedza Mwari",
+        "Vakaramba kugovera mvura uye vakakuvadza ngamera hadzi"
+      ],
+      "answer": "Vakaramba mutumwa wavo uye vakabiridzira mukutengeserana"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Sango guru kana kuti gwenzi",
+        "Gomo rakavezwa kuita dzimba dzekugara",
+        "Guta riri pamhenderekedzo yegungwa",
+        "Mupata werenje une matsime",
+        "Bindu rakaorera rine michero yakawanda"
+      ],
+      "answer": "Sango guru kana kuti gwenzi"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kuparadzwa negore remoto rine mumvuri",
+        "Kunyudzwa nemvura zhinji",
+        "Yakamedzwa nekudengenyeka kwenyika",
+        "Kurohwa nemhepo ine simba",
+        "Yakashandurwa kuita dombo"
+      ],
+      "answer": "Kuparadzwa negore remoto rine mumvuri"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

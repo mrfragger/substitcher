@@ -1,0 +1,61 @@
+{
+  "title": "Culayska Bogsiinta Keenay",
+  "intro": "Naf aan la qiyaasi karin ayaa laga qaaday raaxada, asxaabta, iyo xoogga jirka. Addoonkan Alle oo ku go'doonsan dhibaato qoto dheer, ayaa u jeestay oo keliya xagga Rabbaaniga ah. Dulqaad aan kala go 'lahayn iyo duco qalbi furan awgeed, waxaa yimid mowjad naxariis ah oo dhaaftay wax kasta oo la filayay. Waa kuma qofkan daacadnimadiisu ay albaab dib u soo celin ah furtay?",
+  "clues": [
+    "Waxaan ahaa addoon Alle jecel, oo ku raaxaysan jiray barwaaqo, guri barwaaqo ah, iyo caafimaad wanaagsan maalmahayga.",
+    "Dabadeed waxaa soo degtay tijaabo: hantidii way baxday, kuwii aan jeclaa way baxeen, jidhkaygiina waxaa ku dhacay dhibaato daran.",
+    "Kuwa ii dhow ma aysan u adkaysan karin xaaladdayda, waxaana la iga dhigay qof cidlo ah, jirkayguna wuxuu la daalaa dhacayay dhibaato.",
+    "Waxaan baryay Rabbigeyga, anigoo ku dhawaaqaya in Shaydaan uu i taabtay daal iyo ciqaab.",
+    "Jawaabtu waxay timid - amar ah inaan dhulka ku dhufto cagtayda, waxaana ka soo baxay biyo qabow oo bogsiin ah.",
+    "Rabbigay dhibkii oo dhan ayuu iga qaaday oo qoyskaygii ayuu ii soo celiyey, isagoo tarmay, si uu u noqdo calaamad naxariis u ah kuwa fekera."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Ayuub",
+        "Nabi Muuse",
+        "Nabi Yuusuf",
+        "Nabi Yuunis",
+        "Nabi Ibraahim"
+      ],
+      "answer": "Nabi Ayuub"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Xanuun daran iyo khasaare dhan walba ah",
+        "Dab lagu tuuro amar kaligii-taliye ah",
+        "Ku xidhnaa god qoto dheer oo ay qaraabo yihiin",
+        "Waxaa liqay kalluun weyn oo badda ku jira",
+        "Ku dhex wareegaya masaafuris ka yimid waddankii hooyo"
+      ],
+      "answer": "Xanuun daran iyo khasaare dhan walba ah"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Gu'gii qabow ee dhulka ka soo da'ay",
+        "Dabka qabow oo nabdoon",
+        "Doontii oo buur dul fadhida",
+        "Shaqaalihii badda kala qaybiyay",
+        "Dambiisha webiga dul sabeynaysa"
+      ],
+      "answer": "Gu'gii qabow ee dhulka ka soo da'ay"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Qoyska iyo ducada dib loo soo celiyay, labanlaabmay",
+        "Dabkii gubanayay wuu ka baxsaday isagoon waxba gaarin",
+        "Wuxuu u kacay xafiiska ugu sarreeya boqortooyada",
+        "Ka soo baxay caloosha kalluun weyn si uu badbaado u helo",
+        "Dad ayuu ku hoggaamiyay bad kala qaybsan"
+      ],
+      "answer": "Qoyska iyo ducada dib loo soo celiyay, labanlaabmay"
+    }
+  },
+  "verseRef": "38:43",
+  "arabic": "وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةًۭ مِّنَّا وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ",
+  "verse": "And We granted him his family and a like [number] with them as mercy from Us and a reminder for those of understanding. (38:43)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Anodana kubva kuMadziva",
+  "intro": "Fungidzira mweya wakapihwa shoko raMwari, asi wakangoerekana wabva kuvanhu vake pasina mvumo yakajeka. Rwendo urwu rwakavatungamirira mumuedzo unoshamisa, muedzo mukuru wekutsungirira nekuvimba neWekumusoro-soro. Ndiani munhu uyu ane nyaya inotidzidzisa nezvekupfidza nehukuru hwetsitsi dzaAllah?",
+  "clues": [
+    "Ndakatumirwa kurudzi rukuru, asi kurambwa kwavo kwekutanga kwakandishungurudza.",
+    "Ndakasiya vanhu vangu, ndichifunga kuti basa rangu rakanga rapera, ndisati ndapiwa murairo wakajeka wekuti ndibve.",
+    "Ndakatsvaga nzira yekufamba nechikepe, asi dutu guru uye kurongwa kwemijenya zvakaita kuti pave nemamiriro ezvinhu akaoma.",
+    "Ndakakandwa mugungwa, uye chisikwa chine simba chegungwa chakandimedza chose.",
+    "Ndiri murima redumbu rayo, ndakadana kuna Allah, ndichibvuma kutadza kwangu uye ndichikumbira ruregerero rwavo.",
+    "Allah vakarayira chisikwa ichi kuti chindikande pamhenderekedzo yegungwa, uye ndakaporeswa pasi pemuti wakasiyana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muporofita Yusuf (Josefa)",
+        "Muporofita Nuh (Noah)",
+        "Muporofita Yunus (Jona)",
+        "Muporofita Sulaiman (Soromoni)",
+        "Muprofita Ayyub (Jobho)"
+      ],
+      "answer": "Muporofita Yunus (Jona)"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kupatsanurwa kwegungwa",
+        "Moto waNimrodhi",
+        "Kumedzwa nehove huru",
+        "Mafashamo",
+        "Kuparadzwa kweguta nematombo"
+      ],
+      "answer": "Kumedzwa nehove huru"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Areka",
+        "Vashandi",
+        "Dumbu rehove",
+        "Tsime",
+        "Gwenzi riri kupfuta"
+      ],
+      "answer": "Dumbu rehove"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akava mutongi mukuru",
+        "Vakavaka Kaaba",
+        "Akadzoka kuzotungamira rudzi rwakapfidza",
+        "Akapihwa simba pamusoro pemajini",
+        "Vakatungamira vanhu mhiri kwegwenga"
+      ],
+      "answer": "Akadzoka kuzotungamira rudzi rwakapfidza"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

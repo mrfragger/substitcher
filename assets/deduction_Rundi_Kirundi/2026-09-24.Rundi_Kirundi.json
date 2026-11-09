@@ -1,0 +1,61 @@
+{
+  "title": "Umukama Yasaba Ubumana .",
+  "intro": "Umutware w’ububasha kandi w’ubwibone yarizera ko ata n’umwe ahagaze hejuru y’intebe yabo y’ubwami. Bakurikiye umugwi w’abantu bariko barahunga, bajabuka amazi menshi cane, ariko baraheza bashika ku mpera y’agatangaza. Inkuru y’uwo mwami irasubiramwo mu bice vyinshi vya Korowani, ikaba ari imburi kuri bose.",
+  "clues": [
+    "Nari umutware w’ububasha yizera ko ata bubasha burengeye ubwanje mu bihugu natwara.",
+    "Nari mfise umuviziri nizigira yitwa Hamani yaramfasha gukora ibikorwa bihambaye vy’ubwubatsi.",
+    "Nahamagaye abapfumu b’abanyabwenge kuruta abandi bose bo mu gihugu canje kugira ngo bashire mu ngiro ibimenyetso vy’intumwa yanrwanya.",
+    "Naranse kureka abantu bari mu buja mu bwami bwanje bakagenda, naho hari ibiza n’imburi zitomoye.",
+    "Narabakurikiye njabuka ikiyaga kinini ndi kumwe n’ingabo zanje zose n’imikogote.",
+    "Ico kiyaga nyene caranyipfutse n’ingabo zanje, kiraturoha twese, mu gihe bariko barajabuka ata nkomanzi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Fir'awn (Farawoni)",
+        "Namurudi",
+        "Abu Lahabu",
+        "Hamani",
+        "Abu Yahli"
+      ],
+      "answer": "Fir'awn (Farawoni)"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Ivyago n’uguhangana na Musa (Musa)",
+        "Kubaka ubwato imbere y'umwuzure mwinshi .",
+        "Intambara yo kurwanya Jalut mu kiyaya .",
+        "Kumirwa n'ikiyaga",
+        "Kugwanira uburemere bw'ubudandaji bw'ukuri"
+      ],
+      "answer": "Ivyago n’uguhangana na Musa (Musa)"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Iminara miremire n'ibiti",
+        "Ubwato bunini bw'ibiti .",
+        "Inyana y'inzahabu",
+        "Inkoni yahindutse inzoka .",
+        "Ikiyaga kinini cane"
+      ],
+      "answer": "Iminara miremire n'ibiti"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Yarohamye mu kiyaga n'ingabo .",
+        "Yakijijwe n'imbabazi za Allah n'ukwihangana kwayo guhembwa",
+        "Gusubirana n'umuryango inyuma y'imyaka myinshi y'amagorwa",
+        "Yamizwe n'isi .",
+        "Yaturiwe mu muriro ."
+      ],
+      "answer": "Yarohamye mu kiyaga n'ingabo ."
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

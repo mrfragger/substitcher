@@ -1,0 +1,61 @@
+{
+  "title": "Vateereri vanobva kuZvisingaonekwi",
+  "intro": "Kuseri kwechifukidziro chenyika inoonekwa, ungano yakavanda yakaungana murima, ichikwezvwa neruzha rwairamba zvese zvavaiziva. Vakanga vafamba-famba kwenguva refu vasina nhungamiro yechokwadi, kusvika inzwi rapinda murunyararo rwenyika yavo isingaonekwe ndokumutsa chimwe chinhu mukati. Manheru ano, munokokwa kuti mupfuure mimvuri mofumura hunhu hweboka iri risinganzwisisike, iro kusangana kwavo nemashoko aMwari kwakavadzosera kuvanhu vavo senyevero dzechokwadi chisingagone kudziviswa.",
+  "clues": [
+    "Tiri zvisikwa zvekare, takararama kare kare marudzi mazhinji awaverenga nezvawo asati avapo, asi hatiwanzotaurwa nezvawo munyaya dzevanhu.",
+    "Hunhu hwedu hwakasiyana nehwenyu, hwakarukwa nezvinhu zvisingaonekwi, uye tine masimba anopesana nezvakajairika.",
+    "Kwenguva yakareba, takafamba-famba tisina kutungamirirwa zvechokwadi, kusvikira ruzha rwasvika kwatiri rwakamutsa chimwe chinhu mukati medu.",
+    "Takanzwa mashoko aitaurwa zvisina kana chinhu chatakambonzwa, airema kupfuura chero kutaura kupi zvako.",
+    "Takaswedera pedyo pachivande, tichirayira vedu kuti vanyarare, uye vhesi padzakapera, takanga tisingachakwanisi kuramba takanyarara.",
+    "Takadzokera kuvanhu vedu tikati: 'Imi vanhu vedu, takanzwa Bhuku rakaburitswa mushure maMosesi, richisimbisa zvaivapo kare, richitungamira kuchokwadi.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "The Hawariyyun (Vadzidzi vaIsa)",
+        "Majini akatenda mushure mekunzwa Korani",
+        "Shamwari dzeBako",
+        "Ngirozi dzedenga repasi",
+        "Vanhu vaFarao vakatevera nzira yake"
+      ],
+      "answer": "Majini akatenda mushure mekunzwa Korani"
+    },
+    "trial": {
+      "label": "Kutongwa / Chiitiko",
+      "options": [
+        "Takadzingwa nekuda kwekuramba kukotamira pamberi pechisikwa chitsva",
+        "Takavharirwa mubako kwemakore mazana matatu nemapfumbamwe",
+        "Takarayirwa kuti tiyambuke gungwa rakapatsanurwa pamberi pedu",
+        "Takatumirwa kunyika yemashiripiti kuti tidzidze uroyi",
+        "Takateerera kudzokororwa muchivande uye takachinjwa nako"
+      ],
+      "answer": "Takateerera kudzokororwa muchivande uye takachinjwa nako"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Mhuru yegoridhe yakagadzirwa nezvishongo zvevanhu",
+        "Bako raigara hope kwezvizvarwa nezvizvarwa",
+        "Ngirozi mbiri muBhabhironi dzakadzidzisa ruzivo rwakarambidzwa",
+        "Bhuku rakaburitswa mushure maMosesi, richisimbisa Torah",
+        "Gwenzi rinopfuta pamusoro pegomo dzvene"
+      ],
+      "answer": "Bhuku rakaburitswa mushure maMosesi, richisimbisa Torah"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Takatukwa kusvika pazuva rekutongwa",
+        "Takasimuka tichirwisa mutongi ane simba uye takavaka muganho munyika",
+        "Takashandurwa kuita tsoko nenguruve",
+        "Takadzokera kuvanhu vedu seyambiro, tichizivisa kutenda",
+        "Takanyura mugungwa pamwe chete nemutungamiriri wedu"
+      ],
+      "answer": "Takadzokera kuvanhu vedu seyambiro, tichizivisa kutenda"
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

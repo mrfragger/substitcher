@@ -1,0 +1,61 @@
+{
+  "title": "Ikizamini cy'Ikiremwa Gitagatifu",
+  "intro": "Ikimenyetso cyoherejwe ku ishyanga ryari ryarayobye. Hagati mu buzima bwabo bwiza haje umuburo—uherekejwe n'ikiremwa gitangaje cyari kuzaba ikizamini cy'ukwemera kwabo. Igisubizo cyabo cyari guhamya iherezo ryabo iteka ryose. Ese ushobora kumenya uwatanze uyu muburo n'icyabaye ku banze kuwutanga?",
+  "clues": [
+    "Twari abantu bari barayobowe n'intumwa zatubanjirije.",
+    "Ikiremwa gitangaje cyavuye ku musozi, ikimenyetso cy'Umwami wacu kuri iki gihugu.",
+    "Narababwiye nti: 'Iyi ni ingamiya y'ingore y'Imana, nimuyireke irye ku butaka bw'Imana kandi ntimuyigireho ingaruka mbi.'",
+    "Ariko abantu baciye ingamiya yanjye y'ingore ibitsi, birengagiza itegeko ry'Umwami wabo.",
+    "Ndi intumwa iturutse ku Mwami wawe gusa, yoherejwe n'ukuri—ndi umuhanuzi n'umugaragu wiringirwa.",
+    "Ku byerekeye abakora ibibi, Umwami wacu yabakubise urusaku rw'inkuba, maze bahagarara mu ngo zabo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Intumwa Hud y'abantu ba A'ad",
+        "Intumwa Salih y'abantu ba Thamud",
+        "Intumwa Shu'aib wo muri Midiyani",
+        "Intumwa Lut w'abantu ba Sodoma",
+        "Umuhanuzi Nuh wo mu bwato"
+      ],
+      "answer": "Intumwa Salih y'abantu ba Thamud"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Umwuzure warohamye igihugu kitari cyarakiriye Imana",
+        "Umutingito washenye umujyi w'abanyabyaha",
+        "Ingamiya y'ingore yoherejwe nk'ikimenyetso n'igeragezwa by'Imana",
+        "Inkubi y'umuyaga yahanishije abaturage b'Abamidiyani",
+        "Kurimbuka kw'abantu ba Loti bakoresheje amabuye"
+      ],
+      "answer": "Ingamiya y'ingore yoherejwe nk'ikimenyetso n'igeragezwa by'Imana"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Umujyi wa Sodoma mu kibaya cya Yorodani",
+        "Ikibaya cya Al-Hijr kiri hagati ya Hijaz na Siriya",
+        "Igihugu cya kera cya A'ad mu majyepfo ya Arabiya",
+        "Amashyamba ya Midiyani hafi y'Inyanja Itukura",
+        "Ibibaya byo ku musozi wa Judi muri Mezopotamiya"
+      ],
+      "answer": "Ikibaya cya Al-Hijr kiri hagati ya Hijaz na Siriya"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Bakijijwe nyuma yo kwihana no kwizera",
+        "Imvura y'amabuye yarabashenye burundu",
+        "Urusaku rw'inkuba rwabakubise ntirugire aho ruhagarara",
+        "Batwawe n'umuyaga ukomeye",
+        "Umutingito w'isi wabamize mu butaka"
+      ],
+      "answer": "Urusaku rw'inkuba rwabakubise ntirugire aho ruhagarara"
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

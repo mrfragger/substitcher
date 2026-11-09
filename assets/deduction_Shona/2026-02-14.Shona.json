@@ -1,0 +1,61 @@
+{
+  "title": "Muvaki Wezvipingamupinyi",
+  "intro": "Munyika dzakakura, mumwe munhu ane simba akatanga rwendo rwakatevedzana, akapa simba guru uye pfuma. Mweya uyu wakasangana nenharaunda dzakasiyana-siyana uye wakatarisana nematambudziko akasiyana, zvichisiya chiratidzo chisingaperi munhoroondo nekutenda kuburikidza nezviito zvavo neuchenjeri hwavo, zvese izvi zvichiratidza kuti ndivo chaivo vaipa simba ravo.",
+  "clues": [
+    "Ndakapiwa simba nezvinhu zvose, uye ndakatevera nzira.",
+    "Rwendo rwangu rwakandiendesa kunzvimbo yekuvira kwezuva, kwandakawana vanhu.",
+    "Ndakasangana nenzanga yaisanzwisisa mutauro, yaigara pakati pemakomo maviri.",
+    "Ndakakumbirwa kuti ndivake chipingamupinyi, kwete chekuzviwanira pfuma, asi chekudzivirira kubva kusimba rinoparadza.",
+    "Ndakazivisa kuti simba rekuvaka rusvingo urwu rukuru rakabva kuna Allah, uye raizomira kusvika panguva yakapikirwa.",
+    "Zita rangu, rinowanzo shandurwa sekuti 'Iye Ane Nyanga Mbiri,' rinoreva kusvika kwangu panyika kana kuti pamwe nguva mbiri dzakasiyana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Musa",
+        "Muporofita Sulayman",
+        "Dhul-Qarnayn",
+        "Farao",
+        "Luqman"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kugamuchira zvakazarurwa",
+        "Kutarisana nemudzvinyiriri",
+        "Kuvaka ngarava huru",
+        "Kuvaka chipingamupinyi chikuru",
+        "Kumedzwa nehove"
+      ],
+      "answer": "Kuvaka chipingamupinyi chikuru"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Areka",
+        "Vashandi",
+        "Chidziviriro Chesimbi",
+        "Rwizi rwaNire",
+        "Chigaro choUmambo"
+      ],
+      "answer": "Chidziviriro Chesimbi"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kuponeswa kubva kumafashamo",
+        "Kuva umambo hukuru",
+        "Kudzivirirwa kwevanhu",
+        "Kuparadzwa kwemudzvinyiriri",
+        "Uchenjeri hunogara kwenguva refu"
+      ],
+      "answer": "Kudzivirirwa kwevanhu"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

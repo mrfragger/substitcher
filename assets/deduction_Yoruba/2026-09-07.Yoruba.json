@@ -1,0 +1,61 @@
+{
+  "title": "Ọ̀rẹ́ tí ó yípadà",
+  "intro": "O fẹ́rẹ̀ ṣí ìtàn ẹ̀mí kan tó gbé ní òjìji àsọtẹ́lẹ̀ wòlíì, tó sì yan ọ̀nà tó yọrí sí ìparun. Ẹni yìí gbé ilé kan pẹ̀lú ọ̀kan lára ​​àwọn ìránṣẹ́ tí Ọlọ́run yàn, àmọ́ ó kùnà nínú ìdánwò ìgbàgbọ́. Ta ni alábàákẹ́gbẹ́ tó sọnù yìí?",
+  "clues": [
+    "Mo gbé láàárín àwọn ènìyàn tí wọ́n kọ̀ láti pe ìpè sí òdodo, mi ò sì tako wọn.",
+    "Mo fẹ́ wòlíì Allah kan, ṣùgbọ́n mi ò gbàgbọ́ nínú ìgbàgbọ́ náà.",
+    "Nígbà tí àwọn ìránṣẹ́ náà dé ilé mi pẹ̀lú ìkìlọ̀, mi ò gbà wọ́n gbọ́.",
+    "Wọ́n pàṣẹ fún ìyàwó mi láti fi ìlú náà sílẹ̀ pẹ̀lú àwọn onígbàgbọ́, èmi kò sì sí lára ​​wọn.",
+    "Ìyà náà dé bá àwọn ènìyàn mi, mo sì parun pẹ̀lú wọn.",
+    "A daruko mi ninu Al-Quran gege bi apeere aigbagbo, pelu iyawo Nuh, ninu Surah At-Tahrim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Iyawo Anabi Nuh",
+        "Iyawo Anabi Lutu",
+        "Iyawo Anabi Ibrahim",
+        "Iyawo Anabi Musa",
+        "Iyawo Anabi Ayyub"
+      ],
+      "answer": "Iyawo Anabi Lutu"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ó da ọkọ rẹ̀ nípa àìgbàgbọ́",
+        "Kò gbà láti gbọ́ ìhìn rere Wòlíì Húdì.",
+        "Wọ́n ń jọ́sìn àwọn òrìṣà ní gbangba ní Kaaba",
+        "Wọ́n gbèrò láti tako iṣẹ́ ọkọ rẹ̀",
+        "Kò gbà láti gba iṣẹ́ wòlíì ọmọ rẹ̀."
+      ],
+      "answer": "Ó da ọkọ rẹ̀ nípa àìgbàgbọ́"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ìlú Sódómù",
+        "Ìlú Madíánì",
+        "Ìlú Iramu",
+        "Ìlú Bábílónì",
+        "Ìlú Jerúsálẹ́mù"
+      ],
+      "answer": "Ìlú Sódómù"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ti fipamọ pẹlu ọkọ rẹ",
+        "A parun pẹlu awọn alaigbagbọ",
+        "Wọ́n kó wọn lọ sí ilẹ̀ jíjìnnà kan",
+        "Ó ronú pìwà dà, a sì dáríjì í",
+        "Mo di onigbagbọ nigbamii"
+      ],
+      "answer": "A parun pẹlu awọn alaigbagbọ"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

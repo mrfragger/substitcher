@@ -1,0 +1,61 @@
+{
+  "title": "Ikigeragezo c'urubeya rweranda",
+  "intro": "Mu gihugu ca kera aho ukwihebera amabuye abajwe kwari kwashinze imizi mu nzu yose, hari umuntu umwe yari ahagaze atandukanye. Biciye ku kwemera kudahungabana no ku kurindwa n’Imana, barahanganye n’ico cari gikwiye kuba urupfu rudakeka — maze baragenda ata co babaye. Woba ushobora guhishura akaranga k’uwo mutima udasanzwe?",
+  "clues": [
+    "Nakuriye mu bantu bapfukamira ibigirwamana bari babaje n’amaboko yabo bwite, bemera ko ivyo bintu bifise ububasha bw’Imana.",
+    "Igihe narwanya ivyo bemera, mu ntango baranyirukana, mugabo sinashobora guceceka ku bijanye n’ukuri nari nzi.",
+    "Umusi umwe bari bakoraniriye hamwe, narasambuye ibigirwamana vyabo, nsigaza ikinini kuruta ibindi vyose.",
+    "Bagarutse babona ivyo nakoze, abarongozi babo bategeka ko bubaka umuriro munini, bashaka kunjugunya mu muriro.",
+    "Baca banjugunya mu muriro waka, ariko Umukama w’isi arawutegeka ngo unkonje kandi unkingire.",
+    "Navuye mu muriro nta co nkora, mu gihe abampaye umugambi wo kundwanya bariko barashikirwa n’ugutikizwa rwose."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umuhanuzi Ibrahimu",
+        "Umuhanuzi Musa",
+        "Umuhanuzi Nuh",
+        "Umuhanuzi Yesaya",
+        "Umuhanuzi Yusufu"
+      ],
+      "answer": "Umuhanuzi Ibrahimu"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Kujugunywa mu muriro ururumba",
+        "Kumirwa n'ikiyaga kinini",
+        "Kurokoka umwuzure munini",
+        "Kujugunywa mw’iriba rirerire .",
+        "Guhangana n'abapfumu b'umwami"
+      ],
+      "answer": "Kujugunywa mu muriro ururumba"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Igitoro kinini c'inkwi ziturika",
+        "Ubwato bunini bw'ibiti .",
+        "Igishushanyo c'inyana y'inzahabu",
+        "Igiseke kireremba ku ruzi",
+        "Intebe y'ubwami nziza cane"
+      ],
+      "answer": "Igitoro kinini c'inkwi ziturika"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Allah yatumye umuriro ukonjera kandi ugira umutekano",
+        "Ubwo bwato bwarashitse ku musozi ata nkomanzi .",
+        "Ico kigirwamana c'inzahabu carashonze imbere y'amaso yabo .",
+        "Umunyagitugu n'ingabo ziwe bararohama mu kiyaga .",
+        "Impumyi yarasubiye kubona"
+      ],
+      "answer": "Allah yatumye umuriro ukonjera kandi ugira umutekano"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Kii Carshiga Degdegga ah keenay",
+  "intro": "Maxkamadda taliye xooggan, waxaa la sameeyay dalab aan macquul ahayn, dad badan ayaana ku tartamay inay caddeeyaan qiimahooda. Haddana, hawsha waxaa qaban kara oo keliya qof xiriir la leh aqoonta rabbaaniga ah uu ka sarreeyo dhammaan kartida jireed, isagoo soo bandhigaya daqiiqad soo noqnoqon doonta qarniyo badan.",
+  "clues": [
+    "Waxaan u adeegayay boqor weyn oo isna nebi ahaa, waxaana ka mid ahaa dadkii uu ugu kalsoonida badnaa.",
+    "Ma aanan ahayn xayawaan dab ah ama qof xoog badan leh, laakiin waxaan haystay wax aad uga awood badan.",
+    "Markii boqorku codsaday in carshi laga keeno dhul fog, waan ogaa waxa aan sameeyo.",
+    "Waxaan ka hadlay aqoonta aan ka haystay Kitaabka, ka hor inta uusan qofna falcelin ka bixin, carshiga waxaa la hor dhigay boqorka.",
+    "Ficilkaygu ma ahayn mid aan awooday, laakiin wuxuu ahaa mid muujinaya in aqoonta dhabta ahi ay ka timaado Alle oo keliya.",
+    "Aniga ayaa ah qofkii keenay carshiga Boqoradda Sheba ilbiriqsi, sida ku qoran Suuradda An-Naml."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Kii aqoonta u lahaa Kitaabka",
+        "Jinka weyn ee Ifrit",
+        "Shimbirta hoopoe ee Sulayman",
+        "Nabi Sulaymaan",
+        "Boqoradda Sheba"
+      ],
+      "answer": "Kii aqoonta u lahaa Kitaabka"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Dhawaaqa carshiga Boqoradda Sheba oo si kedis ah u soo baxaya",
+        "Kala Qaybinta Badda Cas ee reer binu Israa'iil",
+        "Dhismaha Kacbada isagoo la socda wiilkiisa",
+        "Ka badbaadida foornada dabka ah",
+        "Laga badbaadiyay caloosha nibiriga"
+      ],
+      "answer": "Dhawaaqa carshiga Boqoradda Sheba oo si kedis ah u soo baxaya"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Carshiga Bilqis",
+        "Usha Muuse",
+        "Doontii Nuux",
+        "Dabkii Namrud",
+        "Nibirigii Yunus"
+      ],
+      "answer": "Carshiga Bilqis"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Carshigii ayaa isla markiiba ka soo muuqday hortiisa Sulaymaan si uu u tijaabiyo mahadnaqiisa",
+        "Boqoraddu isla markiiba way Islaamtay",
+        "Jinnigii ayaa xabsiga loo taxaabay kadib markii uu ku guuldareystay.",
+        "Sulaymaan wuxuu ka tanaasulay boqortooyadiisii",
+        "Carshigii ayaa la jabiyay"
+      ],
+      "answer": "Carshigii ayaa isla markiiba ka soo muuqday hortiisa Sulaymaan si uu u tijaabiyo mahadnaqiisa"
+    }
+  },
+  "verseRef": "27:40",
+  "arabic": "قَالَ ٱلَّذِى عِندَهُۥ عِلْمٌۭ مِّنَ ٱلْكِتَـٰبِ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ ۚ فَلَمَّا رَءَاهُ مُسْتَقِرًّا عِندَهُۥ قَالَ هَـٰذَا مِن فَضْلِ رَبِّى لِيَبْلُوَنِىٓ ءَأَشْكُرُ أَمْ أَكْفُرُ ۖ وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ رَبِّى غَنِىٌّۭ كَرِيمٌۭ",
+  "verse": "Said one who had knowledge from the Scripture, \"I will bring it to you before your glance returns to you.\" And when [Solomon] saw it placed before him, he said, \"This is from the favor of my Lord to test me whether I will be grateful or ungrateful. And whoever is grateful - his gratitude is only for [the benefit of] himself. And whoever is ungrateful - then indeed, my Lord is Free of need and Generous.\" (27:40)"
+}

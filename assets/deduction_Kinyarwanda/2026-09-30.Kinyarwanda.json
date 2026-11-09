@@ -1,0 +1,61 @@
+{
+  "title": "Umurwayi",
+  "intro": "Kera cyane, mu minsi ya mbere y'amateka y'abantu, abantu babiri bahagaze imbere y'Umuremyi wabo bazanye amaturo. Umwe yarakiriwe, undi ntiyakiriwe. Icyakurikiyeho cyabaye amakuba ya mbere akomeye hagati y'abavandimwe - igikorwa kimwe cyo kwihangana no kwihorera gukabije. Ese ushobora kumenya uwo ndi we?",
+  "clues": [
+    "Navutse mu minsi ya mbere y'ubuzima bw'umuntu ku isi",
+    "Nari umwana w'abantu babiri ba mbere babayeho kuri iyi si",
+    "Nigeze gutanga igitambo mu mashyo yanjye meza kugira ngo nshimishe Umuremyi wanjye",
+    "Ituro ryanjye ryemejwe riturutse hejuru, mu gihe iry'umuvandimwe wanjye ryanzwe",
+    "Igihe naterwaga ubwoba bwo gupfa, nahisemo kutazamura ukuboko kwanjye kuri murumuna wanjye",
+    "Nabaye umuntu wa mbere mu mateka yose y'abantu wishwe n'undi muntu arengana"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Habili (Abeli), umuhungu wa Adamu",
+        "Qabil (Kayini), mwene Adamu",
+        "Adamu, umuntu wa mbere",
+        "Nuh (Nowa)",
+        "Ibrahimu (Aburahamu)"
+      ],
+      "answer": "Habili (Abeli), umuhungu wa Adamu"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Ubwicanyi bwa mbere mu mateka y'abantu",
+        "Umwuzure ukomeye wa Nuh",
+        "Isenywa ry'ingabo za Firauni",
+        "Igitambo cya Ismail cyakozwe na Ibrahim",
+        "Intambara yo kurwanya Jalut (Goliyati)"
+      ],
+      "answer": "Ubwicanyi bwa mbere mu mateka y'abantu"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Intama yatanzwe nk'igitambo gishimishije",
+        "Inkuge nziza y'ibiti",
+        "Inkoni yahindutse inzoka",
+        "Inyoni y'impyisi yitwaje ubutumwa bw'ibwami",
+        "Umuyoboro w'umuriro ugurumana"
+      ],
+      "answer": "Intama yatanzwe nk'igitambo gishimishije"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Yabaye uwa mbere wishwe mu mateka y'abantu",
+        "Yarokotse umwuzure ukomeye mu bwato bw'ibiti",
+        "Yabaye mu nda y'ifi nini",
+        "Yategekaga abadayimoni, abantu, n'umuyaga",
+        "Yazengurutse imyaka mirongo ine mu butayu bunini"
+      ],
+      "answer": "Yabaye uwa mbere wishwe mu mateka y'abantu"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Nharaunda Yakazvidza Zuva reZororo",
+  "intro": "Pinda mumusha uri pamhenderekedzo yegungwa uko murairo waMwari wakatsaura zuva rimwe chete rekunamata nekudzora. Boka revanhu munharaunda iyi rakasarudza kuyedza miganhu yemurairo iwoyo nehurongwa hweunyengeri, zvichitungamira kushanduko yaizodzokororwa nekufamba kwenguva. Mweya iyi yaiva vanaani, uye chii chakazoitika kwavari?",
+  "clues": [
+    "Taigara pedyo negungwa, uko gungwa raitiraramisa.",
+    "Takarayirwa kukudza zuva rimwe chete revhiki, tichiriisa parutivi kubva pazvinhu zvenyika.",
+    "Pazuva iroro, hove dzakauya kwatiri dzakawanda, sokunge dzaitiedza kutyora murayiro.",
+    "Takaronga hurongwa hwekubata hove idzi musi wemanheru ezuva dzvene, tozodziunganidza kana dzapfuura.",
+    "Vamwe vedu pavakatinyevera nezveunyengeri uhwu, takaregeredza zano ravo ndokuramba tichidaro.",
+    "Nekuda kwekudarika kwedu, takashandurwa kuita tsoko, takashorwa uye takarambwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Vanhu veSabata",
+        "Vanhu veMugodhi",
+        "Vanhu veMasango",
+        "Vanhu vemubindu",
+        "Vanhu veNzou"
+      ],
+      "answer": "Vanhu veSabata"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kubata hove paSabata",
+        "Kuvaka shongwe refu",
+        "Kuuraya ngamera tsvene",
+        "Kuramba muporofita akatumwa kwavari",
+        "Kudarika muzviyero zvekutengeserana"
+      ],
+      "answer": "Kubata hove paSabata"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Gungwa nehove dzaro",
+        "Moto wakaitwa kuti utonhore",
+        "Tsvimbo yakazova nyoka",
+        "Areka yeruponeso",
+        "Mahwendefa ematombo"
+      ],
+      "answer": "Gungwa nehove dzaro"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Yakashandurwa kuita tsoko",
+        "Yakamedzwa nenyika",
+        "Yakaparadzwa nemhepo ine simba",
+        "Kunyura mugungwa",
+        "Kurohwa nedonhwe rematombo"
+      ],
+      "answer": "Yakashandurwa kuita tsoko"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

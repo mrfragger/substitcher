@@ -1,0 +1,61 @@
+{
+  "title": "Qofka Soo Wacay ee Ka Yimid Qotoda",
+  "intro": "Bal qiyaas naf lagu aaminay farriin rabbaani ah, haddana mid, daqiiqad degdeg ah, ka tagay dadkoodii isagoon ogolaansho cad haysan. Safarkani wuxuu ku horseeday imtixaan aan caadi ahayn, imtixaan qoto dheer oo dulqaad iyo ku tiirsanaan ah Ilaaha ugu sarreeya. Waa kuma qofkan sheekadiisu ina barayso toobadda iyo baaxadda naxariista Alle?",
+  "clues": [
+    "Waxaa la ii diray qaran weyn, laakiin diidmadoodii ugu horreysay waxay igu keentay dhibaato.",
+    "Waxaan ka tagay dadkaygii, anigoo aaminsan in hawshii aan hayay ay dhammaatay, ka hor intaanan helin amar cad oo aan ku baxo.",
+    "Waxaan raadiyay inaan markab raaco, laakiin duufaan xooggan iyo saamiyo badan ayaa horseeday xaalad aad u xun.",
+    "Waxaa laygu tuuray badda, xayawaan weyn oo qoto dheer ayaa i liqay.",
+    "Mugdiga caloosheeda dhexdiisa, waxaan Alle u baryay, anigoo qirtay qaladkayga oo weydiisanaya cafiskiisa.",
+    "Alle wuxuu makhluuqa ku amray inuu xeebta igu tuuro, waxaana caafimaadkeyga dib ugu soo laabtay geed gaar ah hoostiisa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Yuusuf (Yuusuf)",
+        "Nabi Nuux (Nuux)",
+        "Nabi Yuunus (Yoonis)",
+        "Nabi Suleymaan (Suleymaan)",
+        "Nabi Ayuub (Ayuub)"
+      ],
+      "answer": "Nabi Yuunus (Yoonis)"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Kala qaybsanaanta badda",
+        "Dabkii Nimrod",
+        "Kalluun weyn oo liqaya",
+        "Daadku",
+        "Burburinta magaalo dhagaxyo lagu sameeyay"
+      ],
+      "answer": "Kalluun weyn oo liqaya"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Sanduuqa",
+        "Shaqaalaha",
+        "Caloosha kalluunka",
+        "Ceelka",
+        "Geedka gubanaya"
+      ],
+      "answer": "Caloosha kalluunka"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Wuxuu noqday taliye weyn",
+        "Dhismaha Kacbada",
+        "Dib ugu soo laabtay si uu u hago qaran towbad keenay",
+        "Waxaa la siiyay xukun jin ah",
+        "Dad ayuu ku hoggaamiyay lamadegaanka dhex marayay"
+      ],
+      "answer": "Dib ugu soo laabtay si uu u hago qaran towbad keenay"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

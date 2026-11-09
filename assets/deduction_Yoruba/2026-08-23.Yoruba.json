@@ -1,0 +1,61 @@
+{
+  "title": "Ọ̀pọ̀lọpọ̀ Àwọn Tí Ó Parẹ́",
+  "intro": "O dúró níwájú ìró àwùjọ kan tí ìtàn wọn wà nínú ìgbì omi. Àwọn ọkàn wọ̀nyí gbọ́ ìpè kan, wọ́n yan ìtakora, wọ́n sì dojúkọ àbájáde kan tí ó tún ayé ṣe. Ta ni wọ́n, kí ló sì ṣẹlẹ̀ sí ayé wọn?",
+  "clues": [
+    "A ti gbé ayé tipẹ́tipẹ́, ìránṣẹ́ kan sì wá sọ́dọ̀ wa láti àárín wa.",
+    "A sin oriṣa marun-un a si kọ̀ lati fi wọn silẹ.",
+    "A fi ìránṣẹ́ náà ṣe ẹlẹ́yà, a sì fi ẹ̀sùn kàn án pé ó ṣìnà.",
+    "A ní kí ó mú ìyà náà wá tí ó bá jẹ́ olóòótọ́.",
+    "A rí ojú ọ̀run tí òjò ń rọ̀, ilẹ̀ sì ń tú omi jáde.",
+    "A gun oke giga lati sa, ṣugbọn awọn igbi omi bori wa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni àwa?",
+      "options": [
+        "Àwọn ènìyàn Nóà",
+        "Àwọn ènìyàn 'Ad",
+        "Àwọn ènìyàn Támúdì",
+        "Àwọn ènìyàn Lúùtù",
+        "Àwọn ènìyàn Madiani"
+      ],
+      "answer": "Àwọn ènìyàn Nóà"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ìkún omi ńlá kan rì wá sínú omi",
+        "Ìjì líle kan pa wá run",
+        "A kú nípasẹ̀ ìbúgbàù ńlá kan",
+        "Ayé gbé wa mì",
+        "Wọ́n fi òkúta sọ̀ wá láti ojú ọ̀run"
+      ],
+      "answer": "Ìkún omi ńlá kan rì wá sínú omi"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ìkún omi ńlá kan",
+        "Afẹ́fẹ́ líle kan",
+        "Ìwẹ̀ òkúta",
+        "Ìbúgbàù iná kan",
+        "Ìsẹ̀lẹ̀ ilẹ̀"
+      ],
+      "answer": "Ìkún omi ńlá kan"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Gbogbo wa ni a parun ayafi awọn onigbagbọ pẹlu Nuh",
+        "A yípadà sí ọ̀bọ",
+        "A fi wa silẹ bi ahoro fun awọn aririn ajo",
+        "A di iyọ̀ ni wọ́n sọ wá di iyọ̀",
+        "A fun wa ni isinmi"
+      ],
+      "answer": "Gbogbo wa ni a parun ayafi awọn onigbagbọ pẹlu Nuh"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

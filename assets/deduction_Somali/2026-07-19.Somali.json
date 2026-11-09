@@ -1,0 +1,61 @@
+{
+  "title": "Codkii Qarniyadii La Dhageysan Waayay",
+  "intro": "Waqti dheer ka hor inta aysan magaalooyinka waaweyn soo bixin, naf keli ah ayaa ka dhex kacday dad ka jeestay runta. Madax adaygnimadooda waxaa la socday oo keliya dulqaadka qofkan keligiis ah, kaasoo jiilal badan baryay isagoon go'aan ka gaarin. Markii digniinaha oo dhan ay ku dhaceen dhego la'aan, xisaab aan hore loo arag ayaa dib u qaabaysay dhulka laftiisa. Maanta, dhawaaqyada sheekadaas ayaa wali ka dhex guuxaya akhrin kasta. Ma aqoonsan kartaa naftan go'aanka leh?",
+  "clues": [
+    "Waxaa laygu soo barbaaray dad caabuda sanamyada beenta ah oo iska indha tira calaamadaha ku hareeraysan, haddana waxaa la ii doortay inaan ka soo toosiyo dayacaaddooda.",
+    "Dadkeyga marar badan ayaan u yeeray, laakiin waxay igu eedeeyeen inaan ahay qof iyaga la mid ah, oo ku jeesjeesa fariintayda oo dhegahooda qariya.",
+    "Habeen iyo maalinba, waxaan ku baryi jiray xigmad iyo xasuusin jilicsan, laakiin erayadaydu waxay u muuqdeen inay hawada ku baaba'ayaan, iyagoo aan la maqlin oo aan la dhegaysan.",
+    "Iyada oo la raacayo tilmaamaha Ilaah, waxaan dhul qalalan ka dhisay weel weyn oo alwaax iyo looxyo ah, dadkayguna way igu qosleen anigoo ah qof aan caqli lahayn.",
+    "Markii daadkii weynaa uu yimid sidii ballantu ahayd, wiilkaygu wuu diiday inuu markabka ila raaco, isagoo aaminsan in buur ay ka ilaalin doonto biyaha soo kacaya.",
+    "Waxaan noqday aabbaha bilowgii cusub ee dhulka, sheekadayduna waxay ku jirtaa cutub ka mid ah Qur'aanka oo magacayga sita."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Nuux",
+        "Nabi Ibraahim",
+        "Nabi Muuse",
+        "Nabi Luut",
+        "Nabi Huud"
+      ],
+      "answer": "Nabi Nuux"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Daadkii Weynaa ee dib u qaabeeyey dhulka",
+        "Inay ku dhex tuuraan dab ololaya oo ay ku tuuraan kuwa caabuda cibaadada",
+        "Iska hor imaad lala galay sixirroolayaasha Fircoon oo ka dhacay qasriga.",
+        "Burburkii beeraha barwaaqo ah oo ay ku burburisay duufaan jannada ah",
+        "Rogmada dadkii godadka degganaa"
+      ],
+      "answer": "Daadkii Weynaa ee dib u qaabeeyey dhulka"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Doontii laga sameeyay alwaax iyo looxyo",
+        "Guriga quduuska ah oo laga dhisay aasaaskii hore",
+        "Ushii isu beddeshay abeeso",
+        "Godka dhalinyarada hurda",
+        "Carshigii oo uu siday xayawaan xoog badan"
+      ],
+      "answer": "Doontii laga sameeyay alwaax iyo looxyo"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Gaaladii way qarqeen halka mu'miniintii la badbaadiyay markabkii saarnaa",
+        "Dabkii wuu qabowaaday oo ammaan buu noqday, qofkii soo wacayna wuu soo baxay isagoo aan waxba gaarin",
+        "Saaxiriintii way sujuudeen oo iimaan bay qaateen",
+        "Beerta waxaa la siiyay deriskii xaqa ahaa ee meeshiisii ​​joogay",
+        "Kuwa hurda ayaa soo toosay qarniyo ka dib, way is beddeleen"
+      ],
+      "answer": "Gaaladii way qarqeen halka mu'miniintii la badbaadiyay markabkii saarnaa"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

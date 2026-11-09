@@ -1,0 +1,61 @@
+{
+  "title": "Umwanzi w'umuriro",
+  "intro": "Mu minsi ya mbere y'ihishurirwa, umuntu yagaragaye nk'urwanya ukuri cyane. Yahawe ubutunzi n'icyubahiro, uyu muntu yahisemo kwirata kuruta ubuyobozi, maze inkuru yabo iba umuburo ukomeye mu mirongo ya nyuma ya sura.",
+  "clues": [
+    "Nabaga mu mujyi umwe n'Umuhanuzi, kandi nari mu bo mu muryango we wa hafi, nyamara ishema ryanjye ryatumye ntamenya ukuri.",
+    "Nari mfite ubutunzi bwinshi n'imitungo myinshi, kandi nibwiraga ko umutungo wanjye uzahora unyirinda.",
+    "Ubwo butumwa bwahishurwaga, nabusetse ku mugaragaro maze ndahindukira, nibwira ko ndi hejuru y'abizera.",
+    "Urwango rwanjye rwari ruzwi cyane ku buryo sura ya Korowani yanyivuganye, inyita izina abandi bari banzi.",
+    "Naburiwe ko ubutunzi bwanjye n'ibyo ntunze bitazangirira akamaro, kandi nzajugunywa mu muriro ugurumana.",
+    "Nzwi nka se w'umuriro, kandi umugore wanjye azatwara inkwi afite umugozi w'imikindo mu ijosi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Yanze Ubuyisilamu kandi arwanya ku mugaragaro Intumwa",
+        "Bateguye kwica Intumwa",
+        "Yayoboye igikorwa cyo kwamagana Abayisilamu mu buryo bw'imibereho myiza",
+        "Yarwanye mu Ntambara ya Badr",
+        "Yababajwe cyane Bilal ibn Rabah"
+      ],
+      "answer": "Yanze Ubuyisilamu kandi arwanya ku mugaragaro Intumwa"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Umugozi w'umugozi w'ibitoki",
+        "Inkota ityaye",
+        "Umunyururu uremereye",
+        "Inkoni y'ibiti",
+        "Ikiboko cy'uruhu"
+      ],
+      "answer": "Umugozi w'umugozi w'ibitoki"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Izatwikwa mu muriro ugurumana",
+        "Yihannye maze aba umugenzi",
+        "Yatakaje ubutunzi bwe ariko apfa afite icyubahiro",
+        "Yahungiye muri Abisiniya",
+        "Yarohamye mu nyanja"
+      ],
+      "answer": "Izatwikwa mu muriro ugurumana"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

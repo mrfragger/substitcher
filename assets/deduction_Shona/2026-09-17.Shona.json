@@ -1,0 +1,61 @@
+{
+  "title": "Pasi pemumvuri wemuti wemuchindwe",
+  "intro": "Nyaya inobuda pachena yemweya wakaparadzaniswa usati waberekwa, wakarerwa mukati memadziro matsvene, uye wakasarudzwa kutakura chiratidzo chisina kumbobvira chaonekwa nenyika. Pakamuka kupomerwa kubva kumativi ese, inzwi rakabuda munzvimbo dzisingatarisirwi kuti rinyaradze kusava nechokwadi kwese. Ungawana here kuti ndiani akafamba pasi pemumvuri wemuti wemuchindwe?",
+  "clues": [
+    "Ndakanga ndakazvipira kubasa raWemasimbaose ndisati ndambofema kekutanga, mhiko yakaitwa neakanditakura.",
+    "Ndakakurira pasi pekutarisirwa kwemuchengeti akarurama mukati memakamuri matsvene enzvimbo yekunamatira.",
+    "Pose paiuya muchengeti wangu muimba yangu, aiwana zvekudya zvemwaka zvaisafanira kunge zviripo.",
+    "Ndakapiwa mashoko akanaka emwanakomana, kunyange zvazvo mamiriro angu ezvinhu asina kupa mukana wezvakavimbiswa.",
+    "Ndakaenda kunzvimbo iri kure, uye ipapo muchindwe wakandipa mumvuri ukuwo rukova ruchiyerera pasi.",
+    "Pakauya kupomerwa uye mibvunzo yakandikomberedza, ndakanongedzera mwana wangu achangoberekwa — uye akataura kubva paucheche kuti anyaradze kusava nechokwadi kwese."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Maryam",
+        "Sara",
+        "Hawa",
+        "Umm Musa",
+        "Mudzimai waNuh"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Kutongwa / Chiitiko",
+      "options": [
+        "Kubereka mwanakomana anoshamisa ari ega",
+        "Kukandwa mumoto unopfuta nevanonamata zvidhori",
+        "Kupona mafashamo makuru nevashoma vakasarudzwa",
+        "Kuparadzaniswa nemwana mucheche akakandwa murwizi",
+        "Kutarisana nemutongi ane simba weIjipita"
+      ],
+      "answer": "Kubereka mwanakomana anoshamisa ari ega"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Muchindwe wemuti wemuchindwe nerukova runoyerera pasi pawo",
+        "Areka ine simba iri pamusoro pemafungu marefu",
+        "Tsvimbo yakakamura gungwa guru nepakati",
+        "Moto unopfuta waifanirwa kuparadza mweya wakatendeka",
+        "Chigaro choumambo chegoridhe chakashongedzwa nematombo anokosha"
+      ],
+      "answer": "Muchindwe wemuti wemuchindwe nerukova runoyerera pasi pawo"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Anoremekedzwa semukadzi anokudzwa kupfuura vose",
+        "Akabatanazve nemwana waaida mushure mekuparadzana kwenguva refu",
+        "Akatungamirira rudzi rwose kubva muusungwa hwemudzvinyiriri",
+        "Akanyevera vanhu vakarasika muunzenza",
+        "Akapa simba pamusoro pemajini, vanhu, nemhepo"
+      ],
+      "answer": "Anoremekedzwa semukadzi anokudzwa kupfuura vose"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

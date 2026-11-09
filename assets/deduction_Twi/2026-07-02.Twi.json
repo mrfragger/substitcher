@@ -1,0 +1,61 @@
+{
+  "title": "Nyansa a Ahintaw no Akoa",
+  "intro": "Wɔ Kur’aan mu nsɛm a wɔakyerɛw so kɛse no mu no, ahintasɛm bi gyina hɔ, Allah akoa a wɔde ɔsoro nimdeɛ ne mmɔborohunu adom no. Saa ahintasɛm nipa yi ne adiyifo akɛse no mu biako twaa akwan, na ɛde akwantu a nneyɛe a ɛyɛ nwonwa ahyɛ mu ma a ɛkasa tia nnipa ntease anohyeto ahorow. Ɛwom sɛ na adeyɛ biara te sɛ nea ɛnteɛ de, nanso na ɛde nkrabea, boasetɔ, ne nyansa a wonhu a ɛwɔ ɔsoro ahyɛde akyi ho asuade ahorow a emu dɔ siei. Hena ne saa onipa a ɔyɛ sunsuma yi, na nokware ahorow bɛn na wɔdaa no adi?",
+  "clues": [
+    "Na meyɛ Allah akoa, a wɔayi me ama nimdeɛ soronko ne mmɔborɔhunu.",
+    "Odiyifo kɛse bi hwehwɛɛ sɛ obesua biribi afi me hɔ, na mepenee so wɔ tebea horow a emu yɛ den mu.",
+    "Wɔ yɛn nhyiam no mu no, meyɛɛ nneɛma abiɛsa a na ɛte sɛ nea ɛnteɛ mma me hokafo no.",
+    "Mesɛee hyɛmma bi a ɛyɛ ahiafo de, nanso na ɛyɛ mmɔborohunu a ahintaw.",
+    "Mikum abarimaa kumaa bi nkwa, ɛwom sɛ na ɛte sɛ nea ɛyɛ atirimɔdensɛm de, nanso na ɛyɛ sɛnea ɛbɛyɛ a n’awofo anni awerɛhow.",
+    "Mesan sii ɔfasu bi wɔ kurow bi a na ɛnsɛ sɛ yɛma yɛn ahɔhoyɛ mu, na ɛdaa ademude bi adi wɔ n’ase."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Al-Khidr (akoa trenee) .",
+        "Turo abien no wura",
+        "Nnipa a Wɔte Ɔbodan no mu no mu biako",
+        "Ɔhene a ɔne Ibrahim gyee akyinnyeɛ",
+        "Ɔbarima a ɔdaa mfe 100 no"
+      ],
+      "answer": "Al-Khidr (akoa trenee) ."
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Nhyiamu a yɛhyiaa Ɔkɔmhyɛni Musa wɔ baabi a ɛpo mmienu no hyia",
+        "Ɔresi akwanside a wɔde besiw Gog ne Magog ano",
+        "Wɔtow no gu ogya kɛse mu",
+        "Po no mu a wɔbɛkyekyɛ mu abien",
+        "Torah no abopon a wogye"
+      ],
+      "answer": "Nhyiamu a yɛhyiaa Ɔkɔmhyɛni Musa wɔ baabi a ɛpo mmienu no hyia"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Po abien no nhyiam",
+        "Bepɔw Sinai",
+        "Ɔbodan a ɛwɔ Thawr no",
+        "Tuwa bon no mu",
+        "Zamzam abura no"
+      ],
+      "answer": "Po abien no nhyiam"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Ɔkyerɛkyerɛɛ ɔsoro nyansa a ɛwɔ ne nneyɛe a ɛyɛ nwonwa no akyi na ɔne Musa tetew mu",
+        "Wɔmaa no nkɔmhyɛni wɔ akwantuo no akyi",
+        "Ahum bi sɛee hyɛmma no",
+        "Wɔsan de abarimaa no baa nkwa mu bio",
+        "Ɔsii asɔredan wɔ kurow a ɛnyɛ ahɔhoyɛ mu"
+      ],
+      "answer": "Ɔkyerɛkyerɛɛ ɔsoro nyansa a ɛwɔ ne nneyɛe a ɛyɛ nwonwa no akyi na ɔne Musa tetew mu"
+    }
+  },
+  "verseRef": "18:65",
+  "arabic": "فَوَجَدَا عَبْدًۭا مِّنْ عِبَادِنَآ ءَاتَيْنَـٰهُ رَحْمَةًۭ مِّنْ عِندِنَا وَعَلَّمْنَـٰهُ مِن لَّدُنَّا عِلْمًۭا",
+  "verse": "And they found a servant from among Our servants [i.e., al-Khiḍr] to whom We had given mercy from Us and had taught him from Us a [certain] knowledge. (18:65)"
+}

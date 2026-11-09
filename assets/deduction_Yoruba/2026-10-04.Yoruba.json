@@ -1,0 +1,61 @@
+{
+  "title": "Ẹrù Tí Ó Mú Ìwòsàn Wá",
+  "intro": "Ọkàn tí a dán wò kọjá ààlà ni a gbà kúrò nínú ìtùnú, àwọn ọ̀rẹ́, àti agbára ara. Nígbà tí ó ya ara rẹ̀ sọ́tọ̀ nínú ìpọ́njú ńlá, ìránṣẹ́ Allah yìí yípadà sí Ọlọ́run nìkan. Nípasẹ̀ sùúrù tí kò ṣeé yẹ̀ sílẹ̀ àti àdúrà àtọkànwá, ìgbì àánú dé tí ó ju gbogbo ohun tí a retí lọ. Ta ni ẹni yìí tí ìfọkànsìn rẹ̀ ṣí ilẹ̀kùn ìmúpadàbọ̀sípò?",
+  "clues": [
+    "Mo jẹ́ ìránṣẹ́ tí a fẹ́ràn jùlọ fún Allah, tí mo gbádùn ọrọ̀, ilé tí ó dára, àti ìlera tí ó dára ní ọjọ́ ayé mi.",
+    "Lẹ́yìn náà ni àdánwò kan dé: ọrọ̀ lọ, àwọn olólùfẹ́ lọ, ara mi sì kún fún ìpọ́njú ńlá.",
+    "Àwọn tó sún mọ́ mi kò lè fara da ipò mi, wọ́n sì fi mí sílẹ̀ ní ìdákẹ́jẹ́ẹ́, ara mi sì kún fún ìrora.",
+    "Mo ké pe Oluwa mi, mo n kede pe Satani ti fi wahala ati ijiya kan mi.",
+    "Ìdáhùn náà dé — àṣẹ kan láti fi ẹsẹ̀ mi lu ilẹ̀, omi tútù sì ń tú jáde láti inú rẹ̀ fún ìwòsàn.",
+    "Olúwa mi mú ìṣòro náà kúrò pátápátá, ó sì dá ìdílé mi padà fún mi, ó pọ̀ sí i, gẹ́gẹ́ bí àmì àánú fún àwọn tí wọ́n ń ronú jinlẹ̀."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Ayyub",
+        "Wòlíì Mósà",
+        "Wòlíì Yúsọ́ọ̀fù",
+        "Wòlíì Yunus",
+        "Wòlíì Ibrahim"
+      ],
+      "answer": "Wòlíì Ayyub"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Àìsàn líle àti àdánù gbogbo ènìyàn",
+        "Aṣẹ apànìyàn kan sọ sinu iná",
+        "Àwọn ìbátan wọn fi wọ́n sínú ihò jíjìn",
+        "Ẹja ńlá kan gbé mì ní òkun",
+        "Rìnrìn kiri ní ìgbèkùn láti ilẹ̀ ìbílẹ̀"
+      ],
+      "answer": "Àìsàn líle àti àdánù gbogbo ènìyàn"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Orisun omi tutu ti o n ṣan lati ilẹ",
+        "Iná tútù àti àlàáfíà",
+        "Ọkọ̀ ojú omi tó dúró lórí òkè ńlá kan",
+        "Àwọn ọ̀pá tí ó pín òkun sí méjì",
+        "Agbọ̀n tí ó ń léfòó lórí odò náà"
+      ],
+      "answer": "Orisun omi tutu ti o n ṣan lati ilẹ"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ìdílé àti ìbùkún tí a mú padà bọ̀ sípò, tí a tún ṣe ìlọ́po méjì",
+        "Ó sá àsálà lọ́wọ́ iná tí ń jó láìfarapa",
+        "Gbé sókè sí ipò gíga jùlọ ti ìjọba kan",
+        "Láti inú ikùn ẹja ńlá kan wá sí ààbò",
+        "Amọna awọn eniyan la okun ti o pin kọja"
+      ],
+      "answer": "Ìdílé àti ìbùkún tí a mú padà bọ̀ sípò, tí a tún ṣe ìlọ́po méjì"
+    }
+  },
+  "verseRef": "38:43",
+  "arabic": "وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةًۭ مِّنَّا وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ",
+  "verse": "And We granted him his family and a like [number] with them as mercy from Us and a reminder for those of understanding. (38:43)"
+}

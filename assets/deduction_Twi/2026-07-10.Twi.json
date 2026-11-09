@@ -1,0 +1,61 @@
+{
+  "title": "Nsɛnkyerɛnne Akron Kurafo",
+  "intro": "Obi bi sɔree fii mfiase a ɛba fam sen biara mu, a na wɔakyerɛw nkrabea bi wɔ ɔsoro apɛde mu. Wɔde wɔn siei wɔ nkokoaabere mu na wɔtetee wɔn wɔ sodifo ankasa a ɔhwehwɛɛ sɛ ɔbɛsɛe wɔn nkurɔfo no afasu mu no, awiei koraa no wɔfrɛɛ ɔkra yi kɔɔ asɛmpatrɛw adwuma kɛse bi mu. Esiane sɛ na wonni biribiara sɛ gyidi ne oguanhwɛfo poma a ɔbrɛ wɔn ho ase nti, wogyinaa bere no mu sodifo a ɔwɔ tumi sen biara no anim na wɔhwehwɛɛ ahofadi ma wɔn a wɔde wɔn ayɛ nkoa no. Na ɛte sɛ nea wiase no ankasa tu wɔ wɔn ahyɛde so — nsu mu paapaee, ɔsoro kasa, na ahenni bi hwee ase.",
+  "clues": [
+    "Ehu na ɛhyɛɛ me mfiase nna agyirae — nkokoaa te sɛ me no, sodifo bi a onni mmɔborohunu a osuro daakye na ɔbɔ wɔn abɔmmɔ bere a wɔwoo wɔn.",
+    "Wɔde nsu gyee me na wɔtetee me wɔ sodifo a ɔhwehwɛɛ me sɛe no ankasa ahemfie mu.",
+    "Miguan fii me kurom bere a asɛm bi sii mpofirim akyi, na mebɛyɛɛ oguanhwɛfo a ɔbrɛ ne ho ase wɔ akyirikyiri asase bi so.",
+    "Mesan bae sɛ mede poma a ɛnyɛ den ne nkrasɛm a emu da hɔ begyinaa saa sodifo a ɔwɔ tumi no anim, na mehwehwɛɛ ahofadi a me nkurɔfo nya.",
+    "Mekyekyɛɛ nsuo kɛseɛ bi mu maa wɔn a wɔdii m’akyi, na mehwɛɛ sɛdeɛ saa nsuo no mene me tamfoɔ no nyinaa.",
+    "Meforoo bepɔ kronkron bi sɛ merekɔgye ɔsoro akwankyerɛ afiri Allah hɔ, na wɔmaa me nsɛnkyerɛnneɛ nkron a ɛda adi pefee sɛ nokorɛ ho adanseɛ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Musa",
+        "Ɔkɔmhyɛni Nuh",
+        "Ɔkɔmhyɛni Ibrahim",
+        "Ɔkɔmhyɛni Yusuf",
+        "Odiyifo Lut"
+      ],
+      "answer": "Ɔkɔmhyɛni Musa"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Farao a ɔne no rehyia wɔ n’ahemfie",
+        "Adaka no a wɔresi na ama wɔanya nkwa wɔ nsuyiri kɛse bi mu",
+        "Abosom yɛfo a wɔtow no gu ogya a ɛredɛw mu",
+        "Me nuanom a wɔde me sian kɔɔ abura a emu dɔ mu",
+        "Mmɔden a merebɔ sɛ mɛsiw me nkurɔfo kwan wɔ ɔbrasɛe mu"
+      ],
+      "answer": "Farao a ɔne no rehyia wɔ n’ahemfie"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Poma a ɛdanee ɔwɔ no",
+        "Nuh Adaka no",
+        "Bilqis Ahengua no",
+        "Ring a ɛhwɛ mframa ne jinn so",
+        "Keys to hoarded ademude a emu yɛ duru saa"
+      ],
+      "answer": "Poma a ɛdanee ɔwɔ no"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Di me nkurɔfo anim twaa nsu a emu apaapae kɔɔ ahofadi mu",
+        "Wogyee no fii nsuyiri kɛse bi mu wɔ Adaka bi mu",
+        "Wɔsan nyaa akwahosan ne abusua bere a ohuu amane kɛse akyi",
+        "Wɔtow fii apataa kɛse bi mu a ɔte ase",
+        "Ɔkyekyeree Fie Kronkron no fapem"
+      ],
+      "answer": "Di me nkurɔfo anim twaa nsu a emu apaapae kɔɔ ahofadi mu"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

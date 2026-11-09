@@ -1,0 +1,61 @@
+{
+  "title": "Goonga'en Makka",
+  "intro": "E balɗe gadane peeñgol, nde nulal goonga ngal fotnoo haɓde e luural mawngal, won e yontaaji ina ndarii ina njuumta e hoolaare mum en. Ɓeen gooŋɗinɓe ina kawri e tooñanngeeji ɗi miijaaka ummoraade e yiɗɓe momtude annoore iimanaagal. Torra maɓɓe ina tiiɗi, torra maɓɓe ina mawni—kono ɗemɗe maɓɓe ngoppaani bayyinde ngootaagu Alla. Hay nde ɓe mberlaa e nder luggiɗnde majjere, ndeenka Alla ina taaroo ɓe, ina wayla jarribo maɓɓe e seedantaagal goonɗinal duumingal. Njiyloɗen yahdu ɗeen yontaaji kaawniiɗi.",
+  "clues": [
+    "En jarribaama e jukkungo tiiɗngo sabu en njaɓaani woppude goonɗinal men e Alla gooto",
+    "Yimɓe men mbaawaano taƴde pellital men, no tooñannge maɓɓe wontiri tagoore nii",
+    "Min ndartinaama e ɓunndu ñalnde kala, kono ballal Alla ina ɓadii sahaa kala",
+    "Tiiɗnaare amen haawnii hay seedtiiɓe muñal amen",
+    "Heewɓe e Makka njiɗnoo ko doole ngam recant, kono min keddii e tiiɗnaare",
+    "Nde fof wayi ko no majjude nii, ndimaagu men ari ko e naatgol Alla kaawis"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol ko ngonmi?",
+      "options": [
+        "Bilaal Habaasi",
+        "Ammaar ɓii Yasiir",
+        "Miqdaad ɓii Aswaad",
+        "Khabbab ɓiɗɗo Araatt",
+        "Salmaan Farsii"
+      ],
+      "answer": "Bilaal Habaasi"
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "Hare dow Nelaaɗo",
+        "Torra ngam salaade rewde sanamuuji",
+        "Test iimanaagal ko faati e kewu yiite",
+        "Ñaawoore feccere jamma yahdu",
+        "Test e halkaare jarne"
+      ],
+      "answer": "Torra ngam salaade rewde sanamuuji"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Tufnde Uhud nde",
+        "Koolol ceningol Kabah",
+        "Ɓunndu Abuu Sufyaan",
+        "Galle Quraysi en",
+        "Wuro Madiina ngo"
+      ],
+      "answer": "Ɓunndu Abuu Sufyaan"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "Nasaraaku nder hare mawnde",
+        "Ndimaagu rewrude e naatgol Alla",
+        "Margu e laawol Alla",
+        "Jaɓde e nder aljanna to bannge",
+        "Eggude leydi barkinndi"
+      ],
+      "answer": "Ndimaagu rewrude e naatgol Alla"
+    }
+  },
+  "verseRef": "85:4-6",
+  "arabic": "",
+  "verse": "85:4-6"
+}

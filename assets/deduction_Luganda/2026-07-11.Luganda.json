@@ -1,0 +1,61 @@
+{
+  "title": "Abatambuze b'ennimiro ya Verdant",
+  "intro": "Mu biseera eby’edda, abantu babiri ssekinnoomu baali balabirira ettaka eryali liriraanyewo. Amakubo gaabwe gaali gakwatagana, naye ate emitima gyabwe gyabatwalanga mu bifo eby’enjawulo ennyo. Omu yatambulira mu kkubo eggolokofu, ate omulala n’abula mu kizikiza eky’okwegaana. Osobola okusumulula ekyama ky’abakuumi bano ababiri ab’amakungula?",
+  "clues": [
+    "Nnalina ebirime bingi, amakungula amalungi ennyo agaali gazibuwalira amaaso g’abalabi.",
+    "Muliraanwa wange yalina eby’obugagga ebisingako n’okusinga nze, naye ate nga nneegomba omugabo gwabwe okusinga ogwange.",
+    "Nateesa nti ebirime byabwe tubisaanyizeewo ddala, okunyweza buli kimu wansi w’obuyinza bwange.",
+    "Naleeta okuzikirizibwa ku makungula gange nakwo, nga nsaanyaawo buli kimu mu nkwe zange ez’obusirusiru.",
+    "Nayimirira nga sirina kye nsobola kukola ng’ebirime byange bikala n’obugagga bwange ne bufuuka enfuufu mu kiro kimu.",
+    "Nnali sirina mugabo gwonna mu Akhira, era ekifo kyange eky’enkomerero kyafuuka ekinnya ky’omuliro ogwaka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Omusajja eyagaana okuzuukira n’okusalirwa omusango",
+        "Omufuzi eyanyigiriza omulimi omutuukirivu",
+        "Nnannyini ttaka omugagga eyali abulwa kwebaza",
+        "Omulimi eyeegomba ettaka lya muliraanwa waabwe",
+        "Omubeezi omufere eyakola olukwe lw’okuzikiriza"
+      ],
+      "answer": "Omulimi eyeegomba ettaka lya muliraanwa waabwe"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Ekigezo ky’okufuna okubikkulirwa okw’obwakatonda",
+        "Okusoomoozebwa kw’obugagga n’obugumiikiriza",
+        "Ekikemo eky’okusaanyaawo obulamu bw’omuntu omutuukirivu",
+        "Ekiragiro okugabanya obusika mu bwenkanya",
+        "Olutalo lw’okulwanyisa okunyigirizibwa kw’omutyobooli"
+      ],
+      "answer": "Ekikemo eky’okusaanyaawo obulamu bw’omuntu omutuukirivu"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Ensuku ezirimu ebimera ebibisi eby’ejjana",
+        "Ennimiro z’ebirime bbiri eziriraanyewo",
+        "Ensozi ezaalaba okuzikirizibwa",
+        "Ekifo ekitukuvu ekitukuvu ekya Makkah",
+        "Embalama z’emigga gy’ensi ey’omukisa"
+      ],
+      "answer": "Ennimiro z’ebirime bbiri eziriraanyewo"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Olusuku olutaggwaawo ng’empeera y’obutuukirivu",
+        "Okusaanyaawo ddala amakungula gombi mu bulamu buno",
+        "Okuwang’anguse n’okutaayaaya okutuusa okufa",
+        "Obugagga obw’akaseera obuseera nga bugobererwa omuliro ogw’olubeerera",
+        "Okuzzaawo mu ngeri ey’ekyamagero n’obulungi obw’emirundi ebiri"
+      ],
+      "answer": "Okusaanyaawo ddala amakungula gombi mu bulamu buno"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

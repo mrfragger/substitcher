@@ -1,0 +1,61 @@
+{
+  "title": "Heesta Buuraha ee Makhribkii",
+  "intro": "Dhageyso sida dooxooyinka ay u dhawaaqayaan iyagoo ammaan la socda addoon Alle doortay. Cod hibo u leh laxanka, xukun ay raadinayaan dadka muranka ka keenaya qolka, iyo bir lagu jilciyay amar Ilaah ayaa sugaya daahfurka. Waa maxay qaabka cibaadada iyo xukunka caddaaladda ah ee ka hadla calaamadahan?",
+  "clues": [
+    "Ilaahay wuxuu igu nimceeyay nimco iyo cod macaan oo ammaan ah.",
+    "Waxaa Alle i baray inaan fahmo luqadda xukunka caddaaladda ah ee u dhexeeya dadka is haysta.",
+    "Waxaan dagaal kula kulmay dagaalyahan weyn oo xoog badan, Ilaahay idankiisana waan ka adkaaday.",
+    "Waxaa la i siiyay xigmad, awood iyo kitaab sabuurro ah oo laga soo dejiyay xagga Alle.",
+    "Buuraha iyo shimbiraha ayaa ila soo biiray iyagoo Alle ila weyneynaya fiidkii iyo qorrax soo baxa.",
+    "Waxaa Alle i baray inaan sameeyo jaakad bir ah oo iga dhigtay mid jilicsan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Daa'uud (Daa'uud)",
+        "Nabi Ismaaciil (Ismaaciil)",
+        "Nabi Yaxya (Yooxanaa)",
+        "Dhul-Kifl",
+        "Nabi Al-Yasa (Eliisha)"
+      ],
+      "answer": "Nabi Daa'uud (Daa'uud)"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Jalut (Goliath) ayuu dagaalka ku jabiyay doonista Alle.",
+        "Doontii ayay dhisteen si ay uga badbaadaan daadkii weynaa",
+        "Waxaa lagu tuuray dab uu Alle qaboojiyey",
+        "Waxaa liqay kalluun weyn oo badda ku jira",
+        "Waxaa samada loo qaaday isagoon dhimasho dhadhamin"
+      ],
+      "answer": "Jalut (Goliath) ayuu dagaalka ku jabiyay doonista Alle."
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Buuro iyo shimbiro ku biiraya ammaanta Alle",
+        "Ul abeeso noqotay",
+        "Dab noqday mid qabow oo nabad ah",
+        "Hashii loo diray calaamad dadka",
+        "Sanduuq alwaax ah oo ku dul yaal Buurta Judi"
+      ],
+      "answer": "Buuro iyo shimbiro ku biiraya ammaanta Alle"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Boqornimo, xigmad, iyo Zabuur la siiyay (Sabuurrada)",
+        "Waxaa la siiyay wiil da' weyn ka dib duco dhab ah",
+        "Aan la siinin ammaan godka sanado badan",
+        "Waxaa la siiyay il Zamzam ah oo saxaraha ku taal",
+        "Waxaa la oggolaaday in ciidanka badda lagu qarqiyo"
+      ],
+      "answer": "Boqornimo, xigmad, iyo Zabuur la siiyay (Sabuurrada)"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

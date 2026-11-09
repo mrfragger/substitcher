@@ -1,0 +1,61 @@
+{
+  "title": "Ishyari ryakoreshejwe",
+  "intro": "Inkuru ishaje kurusha ubwami cyangwa ibyanditswe byera—amakuba ya mbere y’umuntu yavutse ku ishyari. Umuntu umwe, mukuru w’abana babiri bavutse ku babyeyi ba mbere, yarebye arakaye cyane ubwo murumuna we yakiraga ubuntu bwanze. Icyakurikiyeho ni amahitamo mabi cyane, asize amaraso ya mbere yamenetse ku isi. Ese ushobora guhishura umwirondoro, ikigeragezo, n’akababaro gakomeye?",
+  "clues": [
+    "Navutse mu bantu babiri ba mbere babayeho ku isi.",
+    "Nigeze gutanga igitambo kuri Allah, ariko nticyakiriwe na njye.",
+    "Ituro rya mukuru wanjye ryarakiriwe, mu gihe iryanjye ryaranzwe—ikintu ntashoboraga kwihanganira.",
+    "Nateye ubwoba murumuna wanjye ko nzamwica.",
+    "Nabaye uwa mbere mu kwica abantu kuri iyi si, nkuraho ubuzima bwa murumuna wanjye.",
+    "Allah yohereje ikiremwa cyo mu isi—inyoni y’umukara irimo gucukura mu butaka—kugira ngo anyigishe uburyo bwo guhisha ibyo nakoze, maze nsigara nta kindi nicuza uretse kwicuza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Qabil (Kayini)",
+        "Habili (Abeli)",
+        "Intumwa Yakub",
+        "Umuhanuzi Musa",
+        "Umuhanuzi Adamu"
+      ],
+      "answer": "Qabil (Kayini)"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Imana yanga amaturo",
+        "Yajugunywe mu muriro ukomeye",
+        "Yatawe mu ruzi akiri uruhinja",
+        "Byageragejwe n'ubwami bunini cyane",
+        "Yategetswe gutamba umwana we ho igitambo"
+      ],
+      "answer": "Imana yanga amaturo"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Igikona cyoherejwe na Allah",
+        "Inyana ya zahabu",
+        "Ubwato ku musozi",
+        "Igihuru cyakaga",
+        "Ingamiya y'ingore yakozwe mu rutare"
+      ],
+      "answer": "Igikona cyoherejwe na Allah"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Yuzuye agahinda no mu batsinzwe",
+        "Yamizwe mu butaka hamwe n'ubutunzi",
+        "Yabaye intumwa y'icyubahiro ya Allah",
+        "Yinjiye muri Paradizo binyuze mu mbabazi z'Imana",
+        "Yategetse ubwami butagira urugero"
+      ],
+      "answer": "Yuzuye agahinda no mu batsinzwe"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

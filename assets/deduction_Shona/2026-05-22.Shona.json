@@ -1,0 +1,61 @@
+{
+  "title": "Kukwira kweMuroti",
+  "intro": "Mweya wakagadzirirwa hukuru, asi wakaedzwa nemiedzo yakaoma, wakatanga rwendo runoshamisa. Nzira yemunhu uyu yaive negodo, kuparadzana, uye kutambura kusina kururama, asi zvakazoguma nekuva nemutoro mukuru uye kusanganazve kwakadzama. Ungaziva here munhu uyu anoshamisa kubva muKorani?",
+  "clues": [
+    "Ndakamboitirwa godo nevaya vaiva pedyo neni, zvikaita kuti ndiparadzane zvikuru nevabereki vangu nemusha wangu.",
+    "Ndakasangana nenguva yakaoma zvikuru, kusanganisira kutengeswa nemutengo mudiki nevafambi.",
+    "Ndakapomerwa mhosva isina kururama uye ndakapedza makore akawanda ndiri mujeri, asi kutenda kwangu kwakaramba kwakasimba.",
+    "Ndakapihwa kugona kwakasiyana kwekududzira zviratidzo zvakaoma, izvo zvakabatsira zvikuru munzira yangu yekusununguka.",
+    "Uchenjeri hwangu nekuvimbika kwangu zvakazopedzisira zvanditungamirira kunzvimbo ine simba guru uye kuvimba nenyika yekune imwe nyika.",
+    "Muzviitiko zvakawanda, ndakabatanazve nemubereki wangu akwegura nevanun'una vangu mushure mekusavapo kwenguva refu uye kunorwadza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Sulaiman",
+        "Muprofita Isa",
+        "Muprofita Yusuf",
+        "Muporofita Dhawud",
+        "Muprofita Yahya"
+      ],
+      "answer": "Muprofita Yusuf"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kumedzwa nehove hombe",
+        "Kuvaka Areka kuponesa zvakasikwa",
+        "Kutsungirira kupomerwa nhema uye kuiswa mujeri",
+        "Kutarisana nemutongi ane hutsinye nezvishamiso",
+        "Kuongororwa chirwere chakakomba uye kurasikirwa"
+      ],
+      "answer": "Kutsungirira kupomerwa nhema uye kuiswa mujeri"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Gwenzi rinopfuta",
+        "Shiri inotaura",
+        "Tsime",
+        "Tsvimbo inoshanduka kuita nyoka",
+        "Ngamera hadzi sechiratidzo"
+      ],
+      "answer": "Tsime"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kutungamira kutamira kunyika yakapikirwa",
+        "Kuva gurukota rine simba muIjipita",
+        "Kugamuchira mutongo waMwari pamusoro pevanhu vanozvikudza",
+        "Kutonga umambo hukuru neuchenjeri neruramisiro",
+        "Kukwira kudenga"
+      ],
+      "answer": "Kuva gurukota rine simba muIjipita"
+    }
+  },
+  "verseRef": "12:4",
+  "arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+  "verse": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\" (12:4)"
+}

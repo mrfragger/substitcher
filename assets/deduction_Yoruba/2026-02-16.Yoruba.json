@@ -1,0 +1,61 @@
+{
+  "title": "Ìbéèrè fún Aláṣẹ Àṣekára",
+  "intro": "Ní ìgbà àtijọ́, ẹnìkan tó lágbára dìde láti jọba lórí ilẹ̀ ńlá kan àti àwọn olùgbé inú rẹ̀. Ìjọba ẹni yìí ní ìgbéraga ńlá àti ìpèníjà ńlá sí àṣẹ Ọlọ́run. Múra sílẹ̀ láti tú àṣírí ẹni tí ọkàn rẹ̀ jẹ́ ẹ̀kọ́ tó máa wà títí láé fún gbogbo ìran.",
+  "clues": [
+    "Mo gba ìjọba alágbára kan, níbi tí ọ̀rọ̀ mi ti jẹ́ òfin.",
+    "Mo pe ara mi ni oriṣa giga julọ, mo n beere fun gbogbo awọn ti o wa labẹ iṣakoso mi lati sin.",
+    "Mo ni àwọn ènìyàn kan lára, mo sọ wọ́n di ẹrú, mo sì pàṣẹ pé kí wọ́n pa àwọn ọmọ wọn ọkùnrin.",
+    "Ojiṣẹ Ọlọrun onírẹ̀lẹ̀ kan pàdé mi leralera, ẹni tí ó ṣe iṣẹ́ ìyanu tí ó ṣe kedere níwájú mi àti àwọn onídán mi.",
+    "Mo fi agídí kọ òtítọ́ sílẹ̀, mo fi ẹ̀sùn kan ońṣẹ́ náà nípa iṣẹ́ àjẹ́, mo sì ń gbèrò láti pa á àti àwọn ọmọlẹ́yìn rẹ̀ run.",
+    "Gbogbo àwọn ọmọ ogun mi àti èmi ni omi òkun bò mọ́lẹ̀ bí a ṣe ń lépa àwọn tí a ti dá sílẹ̀ kúrò lọ́wọ́ mi láìdáwọ́dúró."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Nímírọ́dù",
+        "Abu Jahl",
+        "Iblis",
+        "Fir’aun",
+        "Hámánì"
+      ],
+      "answer": "Fir’aun"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ìkún Omi Ńlá",
+        "Iná tí ń jó",
+        "Ìrìkú Ẹni Tí Ó Ń Nini Lára",
+        "Ìparun nípasẹ̀ Afẹ́fẹ́",
+        "Ìsẹ̀lẹ̀ Àìgbàgbọ́"
+      ],
+      "answer": "Ìrìkú Ẹni Tí Ó Ń Nini Lára"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ọkọ̀ Nóà",
+        "Ọ̀pá Mose",
+        "Òrìṣà Wúrà",
+        "Kànga Zamzam",
+        "Ìtẹ́ Bilqis"
+      ],
+      "answer": "Ọ̀pá Mose"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ti fun ni ijọba nla kan",
+        "Ara tí a pa mọ́ gẹ́gẹ́ bí àmì",
+        "A dariji lẹhin ironupiwada",
+        "A gbé e ga sí jíjẹ́ wòlíì",
+        "Àwọn ènìyàn rẹ̀ di olùfọkànsìn"
+      ],
+      "answer": "Ara tí a pa mọ́ gẹ́gẹ́ bí àmì"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

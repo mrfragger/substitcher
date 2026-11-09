@@ -1,0 +1,61 @@
+{
+  "title": "Ɔyarefo a Onhinhim",
+  "intro": "Wɔ nkɔmhyɛ abakɔsɛm mu no, nnipa kakraa bi na wɔde gyidi a enhinhim agyina adehwere a emu dɔ ne honam fam amanehunu a ɛte saa ano. Saa onipa yi asɛm no yɛ asuade a enni bere mu wɔ boasetɔ ne ahotoso a obi wɔ wɔ ɔsoro nyansa mu ho. Hena ne ɔkra yi?",
+  "clues": [
+    "Allah na ɔpaw me sɛ memfa nkrasɛm bi mma, nanso me sɔhwɛ kɛse no amma ɛnam pow so, na mmom ɛnam ankorankoro amanehunu so.",
+    "Wogyee m’ahonyade, me mmoa ne me mma fii me nsam, mmiako mmiako.",
+    "Ná akuru akata me nipadua so, na ɛkaa me nkutoo gye mmoa a me hokafo de mae.",
+    "Mesu frɛɛ m’Awurade, gyee m’amanehunu toom na mehwehwɛɛ N’ammɔborɔhunu.",
+    "Wɔhyɛɛ me sɛ memfa me nan mmɔ fam, na asubura bi a ɛma ahoɔden puei.",
+    "Allah san de m’akwahosan bae na ɔmaa me abusua foforɔ ne ahonyadeɛ a ɛboro soɔ mpo sene kane no."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Ayyuub",
+        "Ɔkɔmhyɛni Ibrahim",
+        "Ɔkɔmhyɛni Musa",
+        "Odiyifo Yes",
+        "Ɔkɔmhyɛni Nuh"
+      ],
+      "answer": "Ɔkɔmhyɛni Ayyuub"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Ahonyade ne abusua a wɔhwere",
+        "Wɔtow no gu ogya mu",
+        "Mpataa a ɔbɛmene obi",
+        "Sɛ wɔbɛtew wɔn afi abusua ho na wɔatɔn wɔn akɔ nkoasom mu",
+        "Wɔde sika nantwi ba a wɔde bɛsɔ ahwɛ"
+      ],
+      "answer": "Ahonyade ne abusua a wɔhwere"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Nsu asubura",
+        "Poma a ɛdanee ɔwɔ",
+        "Nnua adaka",
+        "Nantwi ba a wɔabɔ no nwini",
+        "Mmere dua bi"
+      ],
+      "answer": "Nsu asubura"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Abusua ne ahonyade a wɔbɛsan de aba",
+        "Ɔsoro a wɔforo kɔ soro",
+        "Ɔhene a ɔbɛyɛ",
+        "Sɛ́ wobegye wɔn afi whale bi nsam",
+        "Ɔbabarima a ogye wɔ onyin mu"
+      ],
+      "answer": "Abusua ne ahonyade a wɔbɛsan de aba"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

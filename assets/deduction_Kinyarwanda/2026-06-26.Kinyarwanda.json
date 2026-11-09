@@ -1,0 +1,61 @@
+{
+  "title": "Umutwaro w'impano yanzwe",
+  "intro": "Mu ntangiriro z'amateka y'abantu, igihe isi yari ikiri nto kandi isi yari ifite umwuka wayo wa mbere, hari umuntu wahagaze imbere y'Umuremyi afite igitambo cyicisha bugufi. Icyo gitambo cyapimwe mu rugero rwo kwemerwa n'Imana - kandi cyabonetse ko kidafite akamaro. Icyakurikiyeho si inkuru y'imbabazi, ahubwo ni umutima wuzuye ishyari, bigatuma habaho igikorwa kidasubirwaho cyashoboraga kugaruka mu bihe byose. Iyi ni inkuru y'umuntu waje kuvugwaho akarengane ka mbere gakomeye kabayeho.",
+  "clues": [
+    "Navutse ndi umwe mu bana ba mbere bavutse, navukiye ku mubyeyi uzi neza inkuru ye.",
+    "Nigeze gutura Imana igitambo, ariko sinacyakira — nubwo igitambo cya murumuna wanjye cyakiriwe neza.",
+    "Ishyari n'umujinya byarashinze imizi mu mutima wanjye, maze ntera ubwoba ko nzahitana ubuzima bw'abavandimwe banjye.",
+    "Umuvandimwe wanjye yambwiye ko ngomba gutinya Imana, ariko ishema ryanjye ntiryanyemerera kumva.",
+    "Mu gihe cy'intege nke zikabije, nakoreye umuvandimwe wanjye igikorwa kidasanzwe.",
+    "Nyuma yaho, sinari nzi no guhisha ibyo nakoze — kugeza ubwo ikiremwa cyo mu isi cyoherejwe kunyigisha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Qabil (Kayini)",
+        "Habili (Abeli)",
+        "Umwana w'Intumwa Nuh",
+        "Intumwa Isma'il",
+        "Intumwa y'Imana Yusufu"
+      ],
+      "answer": "Qabil (Kayini)"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Gutanga igitambo cyanzwe, bigatuma habaho ubwicanyi bwa mbere",
+        "Kubaka umunara muremure kugira ngo ugere mu ijuru",
+        "Gutabwa mu muriro ukaze kubera ukwizera kwawe",
+        "Gutanga umwana wawe bwite mu kumvira Allah",
+        "Kumirwa n'ifi nini kubera guhunga inshingano zawe"
+      ],
+      "answer": "Gutanga igitambo cyanzwe, bigatuma habaho ubwicanyi bwa mbere"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Igikona cyoherejwe na Allah kwerekana ishyingurwa",
+        "Umwuzure ukomeye warohamye abantu bose",
+        "Inkoni yahindutse inzoka nzima",
+        "Ingamiya y'ingore yavuye ku musozi w'urutare",
+        "Intebe y'ubwami nziza cyane itwarwa n'umuyaga ukomeye"
+      ],
+      "answer": "Igikona cyoherejwe na Allah kwerekana ishyingurwa"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Yabaye umuntu wicuza, aremerewe n'icyaha cya mbere cyakozwe",
+        "Imana yababariye kandi imuha Paradizo y'iteka ryose",
+        "Yazamuwe mu rwego rwo hejuru rw'ubuhanuzi n'ubwenge",
+        "Yakijijwe n'imbabazi z'Imana nyuma yo guhamagara ari mu mwijima mwinshi",
+        "Yahawe ubutware ku majini, umuyaga, n'inyanja"
+      ],
+      "answer": "Yabaye umuntu wicuza, aremerewe n'icyaha cya mbere cyakozwe"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

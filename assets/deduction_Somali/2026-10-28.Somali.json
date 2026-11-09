@@ -1,0 +1,61 @@
+{
+  "title": "Ballanqaad Lagaga Hadlay Dhimbil",
+  "intro": "Waxaad ag taagan tahay dab lamadegaan ah iyadoo dhuxushu si taxaddar leh u faaftay. Booqdayaashu waxay u yimaadaan kulan iyagoo deggan, farriin keliya ayaana fureysa sheeko ballanqaad, lama filaan ah, iyo mustaqbal aan weli la fulin.",
+  "clues": [
+    "Waxaan ka gudubnay masaafada si aan u gaarno addoon aamin ah oo cidlada jooga.",
+    "Waxaan weydiisanay in dhuxul la kala bixiyo si loogu diyaariyo dab.",
+    "Waxaan la hadalnay mid u yeeray olol si uu u helo qabow iyo badbaado.",
+    "Waxaan war ku saabsan ilmo dhashay u keenay qof da'diisu dhaaftay da'da carruur dhalista.",
+    "Waxaan u bixinnay ilmaha la ballanqaaday ee Isxaaq.",
+    "Waxaan u keenay Ibraahim war farxad leh oo ku saabsan wiil, warka yaabka lehna wuxuu ka dhigay Ibraahim mid qosol badan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Malaa'igtii u bishaareysay Ibraahim bishaarihii Isxaaq.",
+        "Malaa'igtii u digay Luud",
+        "Malaa'igta Carshiga Sidda",
+        "Malaa'igta Jahannamo",
+        "Malaa'igtii loo diray Nuux"
+      ],
+      "answer": "Malaa'igtii u bishaareysay Ibraahim bishaarihii Isxaaq."
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Waxuu Ibraahim u keenayaa war farxad leh oo ku saabsan dhalashada Isxaaq.",
+        "Digniinta Luud ka hor ciqaabta dadkiisa",
+        "Ku dhawaaqista dhalashada Yaxya Zakariya",
+        "Carshiga oo la sido maalinta qiyaamaha",
+        "Ku dhawaaqista dhalashada Ciise Maryama"
+      ],
+      "answer": "Waxuu Ibraahim u keenayaa war farxad leh oo ku saabsan dhalashada Isxaaq."
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Dab laga diyaariyey dhuxul fidsan",
+        "Markab dul sabeynaya biyaha daadadka",
+        "God lagu xidhay dhagax rogmanaya",
+        "Buur dhoobo ah oo ay adkeeyeen milix",
+        "Jaranjaro cirka u fidsan"
+      ],
+      "answer": "Dab laga diyaariyey dhuxul fidsan"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Bishaaro wiil la yiraahdo Isxaaq",
+        "Bishaaro farxad leh oo ku saabsan wiil la yiraahdo Yaxya",
+        "Doorashada Talut oo ah taliyaha reer binu Israa'iil",
+        "Digniin ka hor ciqaabta dadkii Luudh.",
+        "Amar lagu dhisayo doonni ka hor Daadka"
+      ],
+      "answer": "Bishaaro wiil la yiraahdo Isxaaq"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

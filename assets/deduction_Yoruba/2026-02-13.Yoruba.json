@@ -1,0 +1,61 @@
+{
+  "title": "Ìtẹríba Ńlá ti Ọba Aláṣẹ",
+  "intro": "O rí ara rẹ ní ilẹ̀ ìyanu àti ìfihàn tó jinlẹ̀. Alákòóso alágbára kan, tí wọ́n pè ní ìpè àìròtẹ́lẹ̀, bẹ̀rẹ̀ ìrìn àjò kan tí yóò yí ọ̀nà ìgbésí ayé rẹ̀ àti ìgbàgbọ́ àwọn ènìyàn rẹ̀ padà. Ṣé o lè ṣàwárí ẹni tí ó jẹ́ ọlọ́lá yìí?",
+  "clues": [
+    "Mo jọba lórí ìjọba aláásìkí kan, tí a fi ọrọ̀ ńlá àti ìtẹ́ ológo ṣe lọ́ṣọ̀ọ́.",
+    "Èmi àti àwọn ènìyàn mi sin ara ọ̀run kan, a gbàgbọ́ pé ó jẹ́ Olúwa wa, bó tilẹ̀ jẹ́ pé mo ní iyèméjì nínú ọkàn mi.",
+    "Ojiṣẹ kan tí ó yàtọ̀, ẹyẹ kan, fi lẹ́tà kan ránṣẹ́ sí mi, ó ń pè mí àti àwọn ènìyàn mi láti tẹrí ba fún Ọlọ́run kan ṣoṣo.",
+    "Mo bá àwọn olùdámọ̀ràn mi, tí wọ́n lágbára gidigidi sọ̀rọ̀ nípa bí mo ṣe lè dáhùn sí ìhìn tí a kò tíì rí irú rẹ̀ rí yìí.",
+    "Mo pinnu láti fi ẹ̀bùn iyebíye kan ránṣẹ́ sí ẹni tí ó fi lẹ́tà náà ránṣẹ́, mo sì ń retí láti mọ agbára àti èrò ọkàn rẹ̀.",
+    "Nígbà tí mo dé, ààfin kan tí a fi dígí ṣe yà mí lẹ́nu, tí ó farahàn bí adágún omi, nígbà náà ni mo kéde ìtẹríba mi fún Olúwa gbogbo ẹ̀dá."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Fáráò",
+        "Ayaba Ṣébà",
+        "Dhu al-Qarnayn",
+        "Luqman",
+        "Wòlíì Yúsọ́ọ̀fù"
+      ],
+      "answer": "Ayaba Ṣébà"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Pípín òkun",
+        "Ìkún omi ńlá náà",
+        "Ìrìnàjò láti pàdé Wòlíì Súlámánì",
+        "Ìparun àwọn ènìyàn Lọ́ọ̀tì",
+        "Sísun Wòlíì Ibrahim"
+      ],
+      "answer": "Ìrìnàjò láti pàdé Wòlíì Súlámánì"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Àpótí náà",
+        "Òṣìṣẹ́ náà",
+        "Ìtẹ́",
+        "Òkè",
+        "Iná náà"
+      ],
+      "answer": "Ìtẹ́"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ó di wòlíì",
+        "Allah ti parun",
+        "Mo gba Islam",
+        "Ó kó àwọn ènìyàn rẹ̀ lọ sí ogun",
+        "Ṣíṣe tẹ́ńpìlì ńlá kan"
+      ],
+      "answer": "Mo gba Islam"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

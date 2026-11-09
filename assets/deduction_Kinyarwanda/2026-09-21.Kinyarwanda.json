@@ -1,0 +1,61 @@
+{
+  "title": "Induru Iturutse Mu Nyanja",
+  "intro": "Umugaragu w'Impuhwe nyinshi yarambiwe n'ishyanga ry'abagome maze aragenda mbere y'uko uburenganzira butangwa. Uyu muntu yageze ahantu nta muntu wigeze ajya, aho guhamagara Imana byumvikana mu buryo butangaje mu mwijima. Yatangiye kunanirwa ariko ahinduka, uyu muntu yabaye isomo rihoraho ryo kwihangana, kwihana by'ukuri, n'imbabazi zitagira imipaka z'Umuremyi. Ese ushobora guhishura ibanga?",
+  "clues": [
+    "Natumwe kuba intumwa ku bantu banjye, ariko barenze imipaka yose mu kutemera kwabo banze kumva.",
+    "Narakajwe no kwangwa kwabo maze nhunga abantu banjye mbere y'uko itegeko rya Allah rigera.",
+    "Nafashe ubwato bwari buremereye cyane, maze dukoresha ubufindo kugira ngo tumenye abagomba kujugunywa mu nyanja.",
+    "Najugunywe mu nyanja yari yuzuyemo umuvuduko maze imira ifi nini.",
+    "Nafungiwe mu bice bitatu by'umwijima - inda, inyanja nini, n'isi yo munsi - nahamagaye Umwami wanjye nicuza by'ukuri.",
+    "Navuye mu ifi njya ku nkombe, mfite intege nke kandi ndushye, maze ikimera cy'umuhaza kimera hejuru yanjye. Abantu banjye, ibihumbi ijana cyangwa birenga, amaherezo barabyemera."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Intumwa Yunus",
+        "Intumwa Ayyub",
+        "Intumwa y'Imana Yusufu",
+        "Umuhanuzi Musa",
+        "Intumwa Sulaiman"
+      ],
+      "answer": "Intumwa Yunus"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Yamizwe n'ifi nini",
+        "Yajugunywe mu muriro ugurumana",
+        "Bafatiwe hasi mu iriba",
+        "Yarenzwe n'umwuzure ukomeye",
+        "Yafunzwe arengana n'umwami"
+      ],
+      "answer": "Yamizwe n'ifi nini"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Inda y'ifi nini",
+        "Ikibaya gitagatifu hafi ya Kaaba",
+        "Ubwato buhagaze ku musozi",
+        "Inkoni yahindutse inzoka",
+        "Intebe y'ubwami ifite ubwiza budasanzwe"
+      ],
+      "answer": "Inda y'ifi nini"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Abantu be, ibihumbi ijana cyangwa birenga, bizeraga",
+        "Yazuwe mu ijuru ari muzima",
+        "Yabaye umutware w'ubwami butagira uwo bunganya",
+        "Yasenyutse kubera induru ikomeye iturutse mu ijuru",
+        "Yasenyutse kubera umutingito w'isi wangiza cyane"
+      ],
+      "answer": "Abantu be, ibihumbi ijana cyangwa birenga, bizeraga"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

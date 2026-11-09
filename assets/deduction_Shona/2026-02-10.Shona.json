@@ -1,0 +1,60 @@
+{
+  "title": "Kurara Kwenguva Dzose",
+  "intro": "Wava kuda kutanga rwendo munguva, uchisangana nechakavanzika chikuru chekutenda nesimba raMwari. Fungidzira boka revanhu vakaramba tsika dzenzanga yavo, vachinamatira kuchitendero chimwe chete munyika yekunamata vanamwari vakawanda. Nyaya yavo inoratidza kugona kwaAllah kuchengetedza vashumiri vake vakarurama nenzira dzinoshamisa. Unogona here kutsanangura kuti vanhu ava vanoshamisa ndevapi?",
+  "clues": [
+    "Taiva boka diki remajaya aitenda muna Mwari mumwe chete, pasinei nekunamata vanamwari vakawanda kwaipararira pakati pevanhu vedu.",
+    "Takatiza mutongi ane hutsinye uyo akatityisidzira nekuda kwekutenda kwedu, achitya kutambudzwa nerufu.",
+    "Takatsvaga nzvimbo yekupotera iri yoga, tichitarisira tsitsi dzaAllah nedziviriro kubva kuvadzvinyiriri vedu.",
+    "Ishe wedu akaita kuti tirare hope huru, hope dzinoshamisa dzisingatarisirwi nekufamba kwenguva.",
+    "Patakamuka, takafunga kuti takanga tazorora kwezuva rimwe chete kana chikamu chezuva, tisingazive nezvenguva yakareba yakanga yapfuura zvechokwadi.",
+    "Korani inotaura kuti takaramba tiri munyika yedu kwemakore mazana matatu, tikapfuura nemapfumbamwe, tichiva chiratidzo kuvanhu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Vanhu veMugodhi",
+        "Vanhu veThamud",
+        "Vanhu veBako",
+        "Vanhu vekuMadyan",
+        "Shamwari dzeNzou"
+      ],
+      "answer": "Vanhu veBako"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kutarisana nemafashamo makuru",
+        "Kumedzwa nenyika",
+        "Kurara kwenguva refu kunoshamisa",
+        "Kuparadzwa kweguta ravo",
+        "Kupatsanurwa kwegungwa"
+      ],
+      "answer": "Kurara kwenguva refu kunoshamisa"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Gwenzi rinopfuta",
+        "Gomo",
+        "Chikepe",
+        "Bako",
+        "Tsime"
+      ],
+      "answer": "Bako"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Vakapihwa pfuma huru nesimba",
+        "Vakachinjwa kuita tsoko nenguruve",
+        "Vakamutswa kubva muhope sechiratidzo chakadzama",
+        "Vakanyudzwa mumvura ine mvura yakawanda",
+        "Vakavaka umambo hwakanaka kwazvo"
+      ],
+      "answer": "Vakamutswa kubva muhope sechiratidzo chakadzama"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

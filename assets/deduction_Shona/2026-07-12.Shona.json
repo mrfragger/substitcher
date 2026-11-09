@@ -1,0 +1,61 @@
+{
+  "title": "Guta Rakarasika reHukuru Husingaenzaniswi",
+  "intro": "Rudzi rukuru rwaimbotonga nzvimbo dzakakura dzepasi, ruchirumbidzwa nekuda kwezvivakwa zvirefu zvaisvika kumatenga. Asi pasi pehukuru uhwu, kuramba kwakasimba kwakakura - kuramba kuteerera yambiro yaMwari yakatumirwa kubva munharaunda pachayo. Kuzvikudza nekuzvikudza kwaizokurumidza kuunza chirango chakafanana neicho chisina kumboonekwa nenyika kana matenga.",
+  "clues": [
+    "Taimbotonga nyika yakakura, tichizvikudza nesimba rataifunga kuti hapana imwe nyika yaigona kuenzana naro.",
+    "Umambo hwedu hwaizivikanwa nezvivakwa zvirefu zvine mbiru dzakakura dzaive dzisina anokwikwidza nadzo munyika dzese dzaizivikanwa.",
+    "Nyevero yakabva munharaunda yedu yakasimuka, ichikurudzira mumwe nemumwe wedu kuti azviise pasi peMusiki Mumwe chete.",
+    "Takaramba shoko ratakapihwa uye takaramba kusiya nzira yatakagara nhaka.",
+    "Mhepo ine hasha, ine simba guru yakamutswa kuti irwise, ikatisiya tisina dziviriro zvachose.",
+    "Takasiyiwa semiti yemichindwe ine makomba, takapararira uye takakanganikwa, sechidzidzo kuchizvarwa chimwe nechimwe chinotevera."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Vanhu veA'ad",
+        "Vanhu veNuh",
+        "Vanhu veLut",
+        "Vanhu vekuMadyan",
+        "Vanhu veTubba'"
+      ],
+      "answer": "Vanhu veA'ad"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Mhepo ine simba isingaperi yekurangwa kwakasimba",
+        "Mafashamo akafukidza misoro yese yemakomo",
+        "Mvura yematombo evhu anopfuta kubva kumusoro",
+        "Kuchema kunotyisa kunobva kudenga",
+        "Kudengenyeka kwenyika kwakasimba kwakakamura nyika"
+      ],
+      "answer": "Mhepo ine simba isingaperi yekurangwa kwakasimba"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Iramu, guta rine mbiru refu",
+        "Areka hombe yematanda yakavakirwa pagomo",
+        "Ngamera hadzi yakabuda mudombo nenzira inoshamisa",
+        "Gomo reSinai uko kwakadzika mirairo yaMwari",
+        "Imba yamambo yakagadzirwa nekristaro negirazi rakanaka rakatarisa mvura inoyerera"
+      ],
+      "answer": "Iramu, guta rine mbiru refu"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kusiyiwa semiti yemichindwe ine maburi, yakapararira uye isina upenyu",
+        "Kunyura pasi pemafungu makuru emafashamo",
+        "Yakachinjwa kuita zvisikwa zvakafanana netsoko nenguruve",
+        "Yakapwanywa pasi pemvura yematombo evhu akaomarara",
+        "Akadyiwa nekuchema kumwe chete kwakabaya mweya"
+      ],
+      "answer": "Kusiyiwa semiti yemichindwe ine maburi, yakapararira uye isina upenyu"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

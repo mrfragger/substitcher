@@ -1,0 +1,61 @@
+{
+  "title": "Wɔn a Wɔadi Awerɛhow no Ɔwɛn",
+  "intro": "Worebɛhyia ɔkra bi a ntetewmu a emu dɔ sen biara asɔ no ahwɛ, a na n’ani nim nusu kasa nanso na ne koma nhwere anidaso da. Wɔ nnaadaa, akɔnnɔ, ne awiei koraa no nkabom ho asɛm bi mu no, saa Allah akoa a ɔyɛ ɔhotefo yi bɛyɛɛ boasetɔ ho sɛnkyerɛnne maa bere nyinaa. Hena na ogyinaa ɛyaw a ahintaw mfe no ano, na wɔsan nyaa n’ani ne anigye bio wɔ bere tiaa bi mu?",
+  "clues": [
+    "Meyɛ odiyifo a ne din bɛyɛɛ boasetɔ ho sɛnkyerɛnne wɔ adehwere kɛse bi anim.",
+    "Wɔhyiraa me mmabarima pii, nanso afoforo ahoɔyaw gyee biako fii me nsam.",
+    "Na dɔ a mewɔ ma saa deɛ wayera no mu dɔ araa ma awerɛhoɔ nti m’ani danee fitaa, nanso mannwiinwii da gyese Allah.",
+    "Mesomaa me mmabarima no san kɔhwehwɛɛ nea mahwere no ne ne nuabarima no, na mehyɛɛ wɔn nkuran sɛ mma wɔnnyae anidaso.",
+    "Bere a asɛmpa kurafo no duu hɔ no, wɔde atade bi guu m’anim, na mpofirim ara wiase no mu daa hɔ bio.",
+    "Wɔfrɛ me Israel, na me mma dumien no mu na ɔman kɛse bi mu mmusuakuw dumien fi bae."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Ya’qub (Yakob) .",
+        "Ɔkɔmhyɛni Yusuf (Yosef) .",
+        "Odiyifo Ishaq (Isak) .",
+        "Ɔkɔmhyɛni Ibrahim (Abraham) .",
+        "Ɔkɔmhyɛni Ayyuub (Hiob) ."
+      ],
+      "answer": "Ɔkɔmhyɛni Ya’qub (Yakob) ."
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Ɔba a ɔdɔ no a ɔtetew ne ho mfe pii",
+        "Wɔtow no gu ogya a ɛredɛw mu",
+        "Mpataa kɛse bi amene no",
+        "Ɔyare honam ani yare a emu yɛ den",
+        "Sɛ́ onni mma kosi sɛ obi benyin"
+      ],
+      "answer": "Ɔba a ɔdɔ no a ɔtetew ne ho mfe pii"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Yusuf atadeɛ no",
+        "Musa adwumayɛfoɔ no",
+        "Nuh adaka no",
+        "Salih yoma-baa no",
+        "Sulayman nkataboɔ no"
+      ],
+      "answer": "Yusuf atadeɛ no"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Nhumu san bae na ɔne ne ba no san boom",
+        "Wɔmaa nkonimdi wɔ ɔhene otirimɔdenfo bi so",
+        "Wɔama wɔn so akɔ soro a wɔte ase",
+        "Wɔpaw no sɛ Misraim sodifo",
+        "Wɔmaa ɔbabarima wɔ onyin mu sɛ anwonwade"
+      ],
+      "answer": "Nhumu san bae na ɔne ne ba no san boom"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

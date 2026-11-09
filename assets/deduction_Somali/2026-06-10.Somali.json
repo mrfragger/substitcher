@@ -1,0 +1,61 @@
+{
+  "title": "Ilaalada Beerta",
+  "intro": "Beer qurux badan, bulsho ayaa ku dhaaratay nidar adag. Laakiin go'aankooda waxaa la tijaabiyay markii rabitaanka rabbaaniga ah uu soo farageliyay, taasoo deeqdooda u beddeshay dhul cidla ah.",
+  "clues": [
+    "Beero badan ayaa naloogu deeqay, laakiin waan isla weynay.",
+    "Waxaan samaynay qorshe aan wax ku goosanno annagoo aan la wadaagin dadka saboolka ah.",
+    "Waagii hore ayaan baxnay aroortii, annagoo ku kalsoon qorshahayaga.",
+    "Laakiin markii aan nimid, waxaan ogaanay in beertayadii ay habeenimo burburtay.",
+    "Khaladkeennii waan garowsannay, waxaana bilownay inaan is eedayno.",
+    "Ugu dambeyntii waan toobad keennay, laakiin casharkii waa la bartay goor dambe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Yaan nahay?",
+      "options": [
+        "Dadka Beerta",
+        "Dadka Godka",
+        "Dadka Maroodiga",
+        "Reer Thamuud",
+        "Dadka 'Ad'"
+      ],
+      "answer": "Dadka Beerta"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Beero dambas isu beddeshay",
+        "Daad wax walba baabi'iyay",
+        "Abaar ku dhufatay dhulka",
+        "Ciidan shimbiro ah oo weeraraya",
+        "Dabayl weyn oo geedaha rujisay"
+      ],
+      "answer": "Beero dambas isu beddeshay"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Beer",
+        "God",
+        "Markab",
+        "Buur",
+        "Qasri"
+      ],
+      "answer": "Beer"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Way toobad keeneen laakiin beertoodii way waayeen",
+        "Waa la burburiyay gebi ahaanba",
+        "Waxaa loo rogay daanyeer",
+        "Waxay ku badbaadeen iimaan",
+        "Waxay noqdeen taliyayaal"
+      ],
+      "answer": "Way toobad keeneen laakiin beertoodii way waayeen"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Izwi Rinobva Mugwenzi Rinopfuta",
+  "intro": "Fungidzira hunhu hwemunhu akadzama ane rwendo rwakatanga nekusangana kunoshamisa uye mugumo wake wakabatana nekusunungurwa kwevanhu vakadzvinyirirwa. Munhu uyu akasarudzwa kuti aite basa guru, achitarisana nematambudziko makuru nerutsigiro rwaMwari.",
+  "clues": [
+    "Ndakazvarirwa munguva yekudzvinyirirwa kukuru, uko vacheche vevanhu vangu vaiurayiwa.",
+    "Hupenyu hwangu hwepakutanga hwaisanganisira kuiswa murwizi nemubereki wangu, asi ndakawanikwa ndikakurira mumhuri yemudzvinyiriri wevanhu vangu.",
+    "Ndakambotiza muguta mushure mekunge ndauraya mumwe munhu ndisingazive panguva yekukakavadzana.",
+    "Ndakagamuchira shoko raMwari netsvimbo inoshamisa panzvimbo tsvene, kwandakarayirwa kuti ndinosangana nemutongi ane simba.",
+    "Mukoma wangu akagadzwa semubatsiri kwandiri mubasa rangu, nekuda kwekunetseka kwandaiita pakutaura.",
+    "Ndakatungamira vanhu vangu kuyambuka gungwa rakaparadzana, ndichitiza kudzingirirwa neuto rine hutsinye."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Yusuf",
+        "Muprofita Isa",
+        "Muprofita Musa",
+        "Muprofita Nuh",
+        "Muprofita Ibrahim"
+      ],
+      "answer": "Muprofita Musa"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Makore ekusanaya kwemvura",
+        "Kuvaka Areka",
+        "Kutarisana naFarao nevaroyi vake",
+        "Kukandwa muchoto chemoto",
+        "Kuparadzwa kwevanhu veThamud"
+      ],
+      "answer": "Kutarisana naFarao nevaroyi vake"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Kaaba",
+        "Rusvingo rweSimbi",
+        "Vashandi",
+        "Ngarava yaNuh",
+        "Mhete yaSulaiman"
+      ],
+      "answer": "Vashandi"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Guta reSodhoma rakaparadzwa",
+        "Vanhu vakamedzwa nenyika",
+        "Mafashamo makuru akafukidza nyika",
+        "Farao neuto rake vakanyura mumvura",
+        "Masvingo eguta akadonha nekuda kwekuchema"
+      ],
+      "answer": "Farao neuto rake vakanyura mumvura"
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

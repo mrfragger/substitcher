@@ -1,0 +1,61 @@
+{
+  "title": "Eddoboozi ly'Obunywevu",
+  "intro": "Omuntu ono ajjukirwa olw’amagezi amangi n’obulagirizi, ng’awa amagezi agasukka emirembe. Ebigambo byabwe bujulizi bwa kutya Katonda n’obukulu bw’okutegeera emikisa n’okugezesebwa okuva eri Obwakatonda. Bikkula ebikwata ku mwoyo guno ogw’ekitiibwa.",
+  "clues": [
+    "Nze saali nnabbi, naye amagezi gange tegafa mu Byawandiikibwa eby’Obwakatonda.",
+    "Okubuulirira kwange eri omwana wange kwassa essira ku kwebaza Allah n’okwewala shirk.",
+    "Nnayigiriza ku bukulu bw’okusaba, okulagira ebirungi, n’okugaana ebibi.",
+    "Nalabula ku malala n’okutambula n’obugwenyufu ku nsi.",
+    "Erinnya lyange liweebwa essuula yonna mu Quran, nga liraga enjigiriza zange.",
+    "Amagezi ge nnawa mwalimu okugumiikiriza mu bizibu, kubanga ddala, ekyo kiva mu nsonga ezisinga obumalirivu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Nabbi Idris",
+        "Nabbi Yahya",
+        "Luqman",
+        "Imran",
+        "Nabbi Hud"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Okusomesa/Obulagirizi Ebikulu",
+      "options": [
+        "Okuzimba eryato",
+        "Nga twolekedde eggye ery’amaanyi",
+        "Okugaba amagezi n’okubuulirira ku mpisa",
+        "Okuvvuunula ebirooto",
+        "Okukulembera eggwanga okutuuka ku buwanguzi"
+      ],
+      "answer": "Okugaba amagezi n’okubuulirira ku mpisa"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Ekisaka ekyokya",
+        "Ekyennyanja ekinene",
+        "Olusozi olutongole",
+        "Okubuulirira okw’amagezi eri ezzadde",
+        "Olubiri olunene ennyo"
+      ],
+      "answer": "Okubuulirira okw’amagezi eri ezzadde"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yafuuka kabaka",
+        "Yaweebwa obunnabbi",
+        "Amagezi ge gaawandiikibwa mu Quran",
+        "Yakulembera abantu be mu nsi empya",
+        "Yaweebwa obugagga obw’ekitalo"
+      ],
+      "answer": "Amagezi ge gaawandiikibwa mu Quran"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

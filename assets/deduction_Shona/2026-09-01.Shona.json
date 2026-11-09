@@ -1,0 +1,61 @@
+{
+  "title": "Izwi Rinobva Kunze",
+  "intro": "Umire muguta umo vatumwa vatatu vakauya nezviratidzo zvakajeka, asi vanhu vanovaseka uye vanobatirira pamaitiro avo ekare. Kubva kure kweguta, munhu anomhanyira kuvanhu vazhinji, achifema uye akatsunga, kutaura chokwadi pasinei nekurambwa. Ndiani mweya uyu wakaisa zvese panjodzi kuti awane shoko risiri rake?",
+  "clues": [
+    "Ndakagara pakati pevanhu vakagamuchira vatumwa nezviratidzo zvakajeka, asi vakadzokera shure nekuzvikudza.",
+    "Ndakauya ndichimhanya kubva kure kure kweguta pandakanzwa nezvekushevedzwa kwenhume.",
+    "Ndakati kuvanhu vangu, 'Imi vanhu vangu, teverai vatumwa. Tevedzerai avo vasingakumbiri mubairo, nekuti vakatungamirirwa zvakanaka.'",
+    "Ndakanga ndisiri muporofita, asi ndaitenda munhume uye ndaikurudzira vanhu vangu kuti vaitewo saizvozvo.",
+    "Vanhu vangu vakaseka zano rangu uye vakandipomera mhosva yekuva munhu anonyanya kupandukira hurumende.",
+    "Pavakandiuraya, Allah akandiudza kuti ndipinde muParadhiso, uye ndaishuvira kuti vanhu vangu vazive ruregerero nerukudzo rwandakawana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Murume anobva kurutivi rwekure rweguta (Ya-Sin)",
+        "Mumwe wevatumwa vatatu vakatumwa kuguta",
+        "Mutengesi ane mukurumbira weguta",
+        "Mutongi weguta",
+        "Mutungamiriri wevasingatendi"
+      ],
+      "answer": "Murume anobva kurutivi rwekure rweguta (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kuparidza kuvanhu vake kuti vatevere vatumwa",
+        "Kuvaka ngarava yekuponesa vatendi kubva mumafashamo",
+        "Kukandwa mumoto nekuda kwekutenda",
+        "Kumedzwa nehove hove",
+        "Kupiwa umambo neuchenjeri"
+      ],
+      "answer": "Kuparidza kuvanhu vake kuti vatevere vatumwa"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Chikamu chiri kure cheguta",
+        "Areka",
+        "Tsime",
+        "Gwenzi riri kupfuta",
+        "Bako"
+      ],
+      "answer": "Chikamu chiri kure cheguta"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akapinda muParadhiso uye akashuvira kuti vanhu vake vazive ruregerero rwake",
+        "Akanyura nevanhu vake nekuda kwekuramba shoko",
+        "Akapihwa chishamiso chengamera hadzi",
+        "Akava mutongi mushure mekutongwa kwake",
+        "Akaponeswa naAllah uye akaramba ari nevanhu vake"
+      ],
+      "answer": "Akapinda muParadhiso uye akashuvira kuti vanhu vake vazive ruregerero rwake"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

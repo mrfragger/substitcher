@@ -1,0 +1,61 @@
+{
+  "title": "Chipo Chakachinja Ramangwana",
+  "intro": "Mumazuva ekutanga evanhu, mweya waipa chipo nezvinangwa zvakachena. Asi, godo raive rakavanda mumumvuri wekugamuchirwa. Tsvaga nyaya yemunhu uyu ane hutsvene uye mugumo wake unosuruvarisa usingafi muzvakazarurwa naMwari.",
+  "clues": [
+    "Ndaiva pakati pezvizvarwa zvekutanga zvevanhu.",
+    "Ndakapa chipo kuna Ishe wangu, uye chakagamuchirwa zvakanaka.",
+    "Chipo chemukoma wangu chakarambwa, uye godo rakaita kuti mwoyo wake usvibe.",
+    "Ndakamuudza kuti, 'Kana ukatambanudza ruoko rwako kwandiri kuti undiuraye, handingatambanudzi ruoko rwangu kuti ndikuuraye; zvirokwazvo ndinotya Allah, Ishe wepasi rose.'",
+    "Ndakava munhu akabatwa nemhosva yekutanga yekuponda panyika.",
+    "Ropa rangu rakachema, uye ndini ndakava wekutanga kufira chivi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Habhiri (Abheri)",
+        "Qabil (Kaini)",
+        "Murume weYa-Sin",
+        "VaSamiri",
+        "Luqman"
+      ],
+      "answer": "Habhiri (Abheri)"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Chipo chake chakagamuchirwa, zvikaita kuti mukoma wake anzwe godo uye kupondwa kwake",
+        "Akakandwa muchoto chaipfuta asi akabuda asina kukuvara",
+        "Akavaka ngarava hombe achitungamirirwa naMwari",
+        "Akamedzwa nehove huru ndokuramba ari murima",
+        "Akatungamirira vanhu vake nepakati pegungwa rakakamurwa"
+      ],
+      "answer": "Chipo chake chakagamuchirwa, zvikaita kuti mukoma wake anzwe godo uye kupondwa kwake"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Chipo chinogamuchirwa",
+        "Tsvimbo inoshanduka kuita nyoka",
+        "Ngamera hadzi sechiratidzo chaMwari",
+        "Mheremhere iri kuuya nenhau",
+        "Mhuru yegoridhe inonamatwa"
+      ],
+      "answer": "Chipo chinogamuchirwa"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kuponda kwekutanga munhoroondo; mukoma wake akatongerwa mhosva",
+        "Akamedzwa nenyika pamwe chete nepfuma yake",
+        "Akachinjwa kuita tsoko nekuda kwekutyora mutemo",
+        "Yakaparadzwa nemhepo ine simba, ine chando",
+        "Kunyura mumafashamo makuru sechirango"
+      ],
+      "answer": "Kuponda kwekutanga munhoroondo; mukoma wake akatongerwa mhosva"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

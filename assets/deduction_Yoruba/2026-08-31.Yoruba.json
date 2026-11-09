@@ -1,0 +1,61 @@
+{
+  "title": "Ohùn Ìdákẹ́jẹ́ẹ́ ti Àfonífojì",
+  "intro": "Ẹ padà sí àwọn ènìyàn alágbára kan tí wọ́n ti gba ohun ìyanu kan gẹ́gẹ́ bí ìdánwò nígbà kan rí. Ìgbéraga àti agídí ni ó fi ìdí àyànmọ́ wọn múlẹ̀. Ǹjẹ́ ẹ lè tọ́pasẹ̀ ìtàn náà kí ẹ sì ṣàwárí ohun tí ó ṣẹlẹ̀ ní àkókò ìyípadà ńlá yìí?",
+  "clues": [
+    "Wọ́n rán mi gẹ́gẹ́ bí ìdánwò àtọ̀runwá sí àwọn ènìyàn alágbára tí a mọ̀ fún agbára àti ìtakora wọn.",
+    "Mo jẹ́ ohun ìyanu àrà ọ̀tọ̀—àwọn ènìyàn bíi mi kò tíì farahàn láàárín wọn rí.",
+    "Mo máa ń pín omi mímu láti inú kànga pẹ̀lú àwọn ènìyàn mi ní àwọn ọjọ́ mìíràn.",
+    "Wọ́n kìlọ̀ fún wọn pé ìpalára èyíkéyìí tí a bá ṣe sí mi yóò mú ìyà kíákíá wá.",
+    "Àwọn tó ní ìgboyà jùlọ nínú wọn kò ka ìkìlọ̀ náà sí, wọ́n sì gbá mi ní ọgbẹ́.",
+    "Lẹ́yìn ikú mi, igbe kan tí ó dún bí ààrá láti òkè pa gbogbo àwọn ènìyàn mi run."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Ìràkúnmí Salih",
+        "Màlúù Musa",
+        "Ọkọ̀ ojú omi Nóà",
+        "Òṣìṣẹ́ Mósè",
+        "Ìtẹ́ Bilqis"
+      ],
+      "answer": "Ìràkúnmí Salih"
+    },
+    "trial": {
+      "label": "Àyànmọ́ Mi",
+      "options": [
+        "Pa ẹnu rẹ̀, ó sì pa á",
+        "Wọ́n pa á gẹ́gẹ́ bí ẹbọ",
+        "A yípadà sí ejò",
+        "A ti pa mọ́ la ìkún omi ńlá kan já",
+        "A mu wọn lọ ni kiakia kọja ijọba kan"
+      ],
+      "answer": "Pa ẹnu rẹ̀, ó sì pa á"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Kànga omi kan",
+        "Tábìlẹ́ẹ̀tì òkúta kan",
+        "Igbó kan tó ń jó",
+        "Ọkọ̀ igi kan",
+        "Ìtẹ́ wúrà àti fàdákà"
+      ],
+      "answer": "Kànga omi kan"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A pa á run nípasẹ̀ igbe kan ṣoṣo",
+        "Ìkún omi ńlá rì sínú omi",
+        "Òkúta tí ó rọ̀ jóná",
+        "Afẹ́fẹ́ líle gbá a lulẹ̀",
+        "Ilẹ̀ gbé mì"
+      ],
+      "answer": "A pa á run nípasẹ̀ igbe kan ṣoṣo"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

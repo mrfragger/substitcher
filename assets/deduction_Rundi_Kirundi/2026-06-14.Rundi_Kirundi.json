@@ -1,0 +1,61 @@
+{
+  "title": "Imbeya Yashizeho Iragi",
+  "intro": "Mu bitabu vy’ivya kera vy’ukurwanya, hariho umuntu izina ryiwe nyene ryacitse imburi gushika kw’iherezo ry’ibihe. Uwo muntu yahisemwo urwanko kuruta ubuvukanyi, ugutera umugongo aho kuyoboka, kandi ahagarara arwanya umuhamagaro w’ikigongwe. Umvirize neza ijwi ry’itangazo rya kera uko duhishura akaranga k’uwo mutima uzwi cane.",
+  "clues": [
+    "Navukiye mu muryango umwe n’intumwa ya nyuma ya Allah, yamara narabarwanya aho hose.",
+    "Izina ryanje ryari rifise insobanuro, ni ukuvuga izina risobanura ‘se w’urubeya,’ izina ryobaye ryerekana aho nzoja ibihe bidahera.",
+    "Narekuye ububi ku wutwara ukuri, mbere n’abo mu rugo rwanje bwite barifatanije muri iyo nzira y’ububisha.",
+    "Nakoresheje ubutunzi bwanje n’ububasha bwanje kugira ngo ncereze uguhamagara Allah, nizera ko amahera ashobora kuzimya umuco w’Imana.",
+    "Allah yampaye igice cose—igice kigufi cane ku buryo gishobora gusomwa mu masegonda, yamara uburemere bwaco buragumaho gushika ku musi w’urubanza.",
+    "Mugenzi wanje wo muri kazoza aragenda inyuma yanje, aboshwe n’umugozi w’urudodo mw’izosi, atwaye amahwa nyene bahora bakwiragiza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Abu Lahabu",
+        "Abu Yahli",
+        "Waraka mwene Nawfali",
+        "Umaya Ibinu Khalafu",
+        "Uqbah mwene Abi Muayt"
+      ],
+      "answer": "Abu Lahabu"
+    },
+    "trial": {
+      "label": "Gusobanura uguhangana",
+      "options": [
+        "Kurongora abarwanya Nkurunziza i Mecca .",
+        "Kwimukira muri Abisiniya kugira ngo bahunge uruhamo .",
+        "Ukwubaka Kaaba hamwe n'Umuhanuzi Ibrahimu",
+        "Kwemera ubuyisilamu ku buriri bw'urupfu",
+        "Guhingura amasezerano ya Hudaybiyyah"
+      ],
+      "answer": "Kurongora abarwanya Nkurunziza i Mecca ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Umugore yatwaye amahwa n’inkwi .",
+        "Inkoni yahindutse inzoka",
+        "Impeta iriko ikidodo ca Salomo",
+        "Inyana y'inzahabu yasengwa n'abantu .",
+        "Isôko ryasohoka amazi ."
+      ],
+      "answer": "Umugore yikorera amahwa n’inkwi ."
+    },
+    "outcome": {
+      "label": "Ibara ryanyuma",
+      "options": [
+        "Sura yose yahishuriwe imenyesha uguhona kwose",
+        "Yabaye umurongozi w'umuryango w'abayisilamu .",
+        "Yaronse imbabazi mu gihe c'urupfu .",
+        "Yubatse umusigiti munini i Madina .",
+        "Yarazutse mu bagororotsi ."
+      ],
+      "answer": "Sura yose yahishuriwe imenyesha uguhona kwose"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

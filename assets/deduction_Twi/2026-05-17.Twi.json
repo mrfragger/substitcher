@@ -1,0 +1,61 @@
+{
+  "title": "Abodan Ho Nneɛma Ho Adwumfo",
+  "intro": "Fa w’adwene bu anibuei bi a tumi wom, a wɔde ahoɔden ne ahokokwaw akyɛde ama, a ɛrediwene atrae akɛse agu mmepɔw so. Ná saa nnipakuw yi wɔ yiyedi kɛse ne adansi ho nimdeɛ soronko. Nanso, ɛmfa ho sɛ wonyaa kɔkɔbɔ ahorow a emu da hɔ no, wɔpaw ɔkwan bi a ɛbɛma wɔawie asɛm bi a ɛyɛ nwonwa na wɔn werɛ remfi da. So wubetumi ahu kuw yi a wɔn asɛm yɛ asuade a emu dɔ ma wɔn a wosusuw nneɛma ho nyinaa?",
+  "clues": [
+    "Wɔmaa yɛn ahoɔden ne ahokokwaw, na ɛmaa yetumi twitwaa afie a ɛyɛ nwonwa guu mmepɔw so tẽẽ.",
+    "Wɔmaa yɛn sɛnkyerɛnne a ɛda adi pefee a efi Allah hɔ, abɔde soronko bi a na ɛsɛ sɛ wogyaw no a biribiara nhaw no ma yɛdidi.",
+    "Yɛn mpɔtam hɔfo bɛyɛɛ ahantan, na wɔkasa tiaa ɔsoro nkrasɛm a ɔbɔfo bi a ofi yɛn mu de bae no.",
+    "Yɛbɔɔ pɔw sɛ yɛbɛpira anwonwade sɛnkyerɛnne no, ɛmfa ho kɔkɔbɔ ahorow a ɛfa asotwe a emu yɛ den ho no.",
+    "Yɛbuu ahyɛde a ɛne sɛ yɛmma abɔde titiriw no nnom nsu mfi yɛn abura mu nna a wɔsesa mu no so.",
+    "Yehyiaa awiei a ɛyɛ hu, a ɔtopae biako pɛ a ɛyɛ hu bɔɔ yɛn wɔ yɛn mmarato adeyɛ no akyi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Yɛn Yɛ Henanom?",
+      "options": [
+        "Nnipa a wɔwɔ ‘Ad",
+        "Nnipa a wɔwɔ Midian",
+        "Nnipa a Wɔyɛ Asono",
+        "Nnipa a wɔwɔ Thamud",
+        "Nnipa a wɔwɔ Lut"
+      ],
+      "answer": "Nnipa a wɔwɔ Thamud"
+    },
+    "trial": {
+      "label": "Yɛn Sɔhwɛ/Asɛm Titiriw",
+      "options": [
+        "Nsuyiri a ɛkataa asase no so no",
+        "Ɛpo mu mpaapaemu",
+        "Ɔsɛe a ɛnam ɔtopae/nteɛm biako so",
+        "Kurow bi a wɔhyew",
+        "Bepɔw a ɛdan mfutuma"
+      ],
+      "answer": "Ɔsɛe a ɛnam ɔtopae/nteɛm biako so"
+    },
+    "location": {
+      "label": "Ade Titiriw Bi a Ɛwɔ Yɛn Asɛm no Mu",
+      "options": [
+        "Sikakɔkɔɔ nantwi ba",
+        "Yoma-bere a ɔyɛ anwonwade",
+        "Kwae a ɛrehyew",
+        "Anomaa a ɔkasa",
+        "Ahengua kɛse bi"
+      ],
+      "answer": "Yoma-bere a ɔyɛ anwonwade"
+    },
+    "outcome": {
+      "label": "Nea Efi Mu Ba a Etwa To",
+      "options": [
+        "Wɔmaa ahonyade ne tumi kɛse",
+        "Wɔama no so akɔ nkɔmhyɛni mu",
+        "Ɔsoro asotwe bi a wɔde bɛsɛe no koraa",
+        "Wɔde bɔne kyɛ wɔ adwensakra a efi komam akyi",
+        "Wɔapete asase so akɔkyinkyin"
+      ],
+      "answer": "Ɔsoro asotwe bi a wɔde bɛsɛe no koraa"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

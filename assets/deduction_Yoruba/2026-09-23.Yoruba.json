@@ -1,0 +1,61 @@
+{
+  "title": "Ìpè Tí Ó Rí Ọjọ́ Àtijọ́",
+  "intro": "Fojú inú wo ọkàn kan tó dúró fúnra rẹ̀ lòdì sí gbogbo ọ̀làjú kan, tó pinnu láti tọ́ wọn sọ́nà kúrò nínú ìṣìnà pẹ̀lú ìpinnu tí kò ṣeé yẹ̀ sílẹ̀. Fún ọ̀pọ̀ ọ̀rúndún, wọ́n kọ̀ ìhìn náà sílẹ̀, wọ́n fi ṣe yẹ̀yẹ́, wọ́n sì kọ̀ ọ́ sílẹ̀—ṣùgbọ́n ìsapá náà kò dáwọ́ dúró. Níkẹyìn, ìṣirò ńlá dé, àwọn díẹ̀ ló sì gba ìgbàlà lẹ́gbẹ̀ẹ́ ọkàn aláìlágbára yìí. Ṣé o lè dá ẹni yìí mọ̀ láti inú Al-Quran?",
+  "clues": [
+    "Wọ́n rán mi gẹ́gẹ́ bí olùkìlọ̀ sí àwọn ènìyàn kan tí wọ́n sọnù ní ọ̀nà tiwọn.",
+    "Mo pè wọ́n láti wá ìdáríjì kí wọ́n sì yípadà kúrò nínú àṣìṣe wọn, ṣùgbọ́n wọ́n yípadà.",
+    "Lábẹ́ àṣẹ Ọlọ́run, mo kan ọkọ̀ ojú omi ńlá kan nígbà tí àwọn ènìyàn mi ń wò mí tí wọ́n sì ń fi mí ṣe yẹ̀yẹ́.",
+    "Mo ké pe Oluwa mi láìdáwọ́dúró—nígbẹ̀yìn-gbẹ́yín, ó dáhùn, omi sì tú jáde láti ojú ọ̀run ní ìṣàn omi.",
+    "Mo wọ ọkọ̀ ojú omi pẹ̀lú àwọn onígbàgbọ́ nígbà tí ìkún omi náà ga sókè lórí ilẹ̀.",
+    "Mo kígbe sí ẹnìkan tí ó dúró síbẹ̀, mo ní kí wọ́n sá lọ sí orí òkè kan, ṣùgbọ́n àṣẹ náà ti kọjá."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Nóà",
+        "Wòlíì Ibrahim",
+        "Wòlíì Mósà",
+        "Wòlíì Húdì",
+        "Wòlíì Sálíh"
+      ],
+      "answer": "Wòlíì Nóà"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Kíkọ́ ọkọ̀ ńlá kan àti líla ìkún omi kárí ayé já",
+        "Jíjẹ́ tí a jù sínú iná tí ń jó",
+        "Bí a ṣe ń kojú apànìyàn àti àwọn onídán alágbára rẹ̀",
+        "Jíjẹ́ tí ẹja ńlá gbé mì",
+        "Ní rírí pípa abo ràkúnmí mímọ́ kan"
+      ],
+      "answer": "Kíkọ́ ọkọ̀ ńlá kan àti líla ìkún omi kárí ayé já"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ọkọ̀ áàkì onígi ńlá kan lórí omi tó ń rọ́ gìgì",
+        "Àfonífojì mímọ́ kan pẹ̀lú àwọn àwókù òkúta àtijọ́",
+        "Ihò jíjìn kan níbi tí àwọn alábàákẹ́gbẹ́ mi ti sùn fún ọ̀pọ̀ ọ̀rúndún",
+        "Ikùn ẹja ńlá kan ní ibú òkun",
+        "Òkè gíga kan ní aginjù"
+      ],
+      "answer": "Ọkọ̀ áàkì onígi ńlá kan lórí omi tó ń rọ́ gìgì"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A gbà á là pẹ̀lú àwọn onígbàgbọ́ nínú ọkọ̀ ojú omi",
+        "A gbà á là láìfarapa kúrò nínú iná nípasẹ̀ àṣẹ àtọ̀runwá",
+        "Ó mú ìjádelọ ńlá jáde láti inú ìjọba alágbára kan",
+        "Jà láti inú ẹja náà sí etíkun aṣálẹ̀ kan",
+        "Ó mú kí àwọn ènìyàn sá kúrò nínú ìwà àìtọ́ nípasẹ̀ àmì ìyanu kan"
+      ],
+      "answer": "A gbà á là pẹ̀lú àwọn onígbàgbọ́ nínú ọkọ̀ ojú omi"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

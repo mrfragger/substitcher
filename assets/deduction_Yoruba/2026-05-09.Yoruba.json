@@ -1,0 +1,61 @@
+{
+  "title": "Ọgbà Aláásìkí Tí Ń Parẹ́",
+  "intro": "Ní ilẹ̀ tí a fi ọ̀pọ̀lọpọ̀ ọrọ̀ bùkún, àwùjọ kan gbilẹ̀, wọ́n ń gbé láàárín àwọn àmì oore-ọ̀fẹ́ Ọlọ́run. Àásìkí wọn jẹ́ ẹ̀rí sí ojúrere Olúwa wọn, ẹ̀bùn tí a ṣe láti fún ọpẹ́ àti ìgbọràn níṣìírí. Síbẹ̀, láìka àwọn àmì tí ó ṣe kedere ti ìbùkún wọn sí, àkókò ìyípadà kan dé, tí ó ń pe ìmọrírì wọn níjà fún orísun ọrọ̀ àti ìtùnú ńlá wọn.",
+  "clues": [
+    "A fi ọgbà méjì bùkún wa, ọ̀kan ní ọ̀tún àti ọ̀kan ní òsì, tí ó kún fún èso.",
+    "A pa á láṣẹ fún wa láti jẹ nínú ìpèsè Olúwa wa, kí a sì dúpẹ́ lọ́wọ́ Rẹ̀ fún ilẹ̀ rere àti Olúwa aláàfíà.",
+    "A di onigberaga, a si yipada kuro ni ipa ọna ọpẹ, a nṣogo nipa ọrọ̀ ati agbara wa.",
+    "A beere pe ki Oluwa wa mu ijinna laarin awọn irin-ajo wa pọ si, ki o fi ikorira han fun irọrun ti O ti pese.",
+    "Ojiṣẹ kan kìlọ̀ fún wa, ṣùgbọ́n a kọ̀ ìhìn náà, a sì tẹ̀síwájú nínú àìbìkítà wa.",
+    "Ìdá omi ńlá wa, tó gbé ire wa ró, wó lulẹ̀ nígbẹ̀yìn-gbẹ́yín, èyí tó yọrí sí ìkún omi tó burú jáì."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Àwọn ènìyàn Támúdì",
+        "Àwọn ènìyàn Midiani",
+        "Àwọn ènìyàn 'Aad",
+        "Àwọn ènìyàn Lúùtù",
+        "Àwọn ènìyàn Saba"
+      ],
+      "answer": "Àwọn ènìyàn Saba"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ìyàn àti ọ̀dá",
+        "Ìkọlù láti ọwọ́ ẹgbẹ́ ọmọ ogun alágbára kan",
+        "Ìsẹ̀lẹ̀ ilẹ̀ tó burú jáì",
+        "Ìkún omi apanirun láti inú ìdè omi kan tó wó",
+        "Ìnilára láti ọwọ́ alákòóso oníwà ipá"
+      ],
+      "answer": "Ìkún omi apanirun láti inú ìdè omi kan tó wó"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ọmọ màlúù wúrà kan",
+        "Abo ràkúnmí ìyanu kan",
+        "Omi nla kan",
+        "Ilé gíga kan",
+        "Kànga jíjìn kan"
+      ],
+      "answer": "Omi nla kan"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A yípadà sí ọ̀bọ àti ẹlẹ́dẹ̀",
+        "A gbà wá là, a sì ṣí lọ sí ilẹ̀ tuntun kan",
+        "A fọ́nká, ilẹ̀ wa sì di aṣálẹ̀",
+        "A goke lọ sí ọ̀run",
+        "A kọ́ ìjọba tuntun, tó sì ní èrè jù"
+      ],
+      "answer": "A fọ́nká, ilẹ̀ wa sì di aṣálẹ̀"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

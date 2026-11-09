@@ -1,0 +1,61 @@
+{
+  "title": "Ìrìn Àjò Àdáni",
+  "intro": "Nínú àkọsílẹ̀ ojúrere Ọlọ́run, ọkàn mímọ́ kan wà tí a yà sọ́tọ̀ kúrò lọ́dọ̀ àwọn ènìyàn wọn láti wá ìdákẹ́jẹ́ẹ́ ní ìtọ́sọ́nà mímọ́. Wọn kò mọ̀ pé ìdákẹ́jẹ́ẹ́ yìí yóò mú àmì wá fún gbogbo ayé, ìdánwò ìgbàgbọ́ tí a ó máa sọ̀rọ̀ nípa rẹ̀ títí láé.",
+  "clues": [
+    "Mo ti ya ara mi si mimọ fun igbesi aye iṣẹ-isin ṣaaju ibimọ mi.",
+    "Wọ́n fi mí sí abẹ́ àbójútó wòlíì ọlọ́lá kan.",
+    "Àwọn oúnjẹ láti ọ̀dọ̀ Allāhu ló fún mi ní ìtọ́jú tó ya olùtọ́jú mi lẹ́nu.",
+    "Mo fi ìdílé mi sílẹ̀ lọ sí apá ìlà-oòrùn kan.",
+    "Angẹli kan farahàn mí ní ìrísí ọkùnrin pípé kan, ó ń mú ìròyìn ọmọ mímọ́ kan wá.",
+    "Nígbà tí mo padà dé pẹ̀lú ọmọ tuntun mi, àwọn ènìyàn mi fi ẹ̀sùn kàn mí, ṣùgbọ́n ọmọ kékeré náà sọ̀rọ̀ láti gbèjà mi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Màríà (Màríà)",
+        "Asiah (ìyàwó Farao)",
+        "Hajar (ìyá Ismail)",
+        "Sárà (ìyàwó Ibrahim)",
+        "Ìyá Mósè."
+      ],
+      "answer": "Màríà (Màríà)"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Oyun iyanu ati ibi ọmọkunrin kan",
+        "Jíjẹ́ tí a jù sínú iná",
+        "Ẹja ńlá kan gbé mì",
+        "Kíkọ́ ọkọ̀ ńlá kan",
+        "Líla òkun kọjá"
+      ],
+      "answer": "Oyun iyanu ati ibi ọmọkunrin kan"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ibi ilà-oorun kan ti o dakẹ",
+        "Igbó tí ń jó náà",
+        "Òkun Pupa",
+        "Àpáta tí omi ti ń ṣàn jáde",
+        "Ẹja ẹja"
+      ],
+      "answer": "Ibi ilà-oorun kan ti o dakẹ"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ọmọ ọwọ́ kan sọ̀rọ̀ láti gbèjà ìyá rẹ̀",
+        "Òkun pín sí méjì",
+        "Iná náà di tútù ó sì ní ààbò",
+        "Ẹja náà pọ̀ sí etíkun",
+        "Ọkọ̀ ojú omi náà gúnlẹ̀ sórí òkè ńlá kan"
+      ],
+      "answer": "Ọmọ ọwọ́ kan sọ̀rọ̀ láti gbèjà ìyá rẹ̀"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

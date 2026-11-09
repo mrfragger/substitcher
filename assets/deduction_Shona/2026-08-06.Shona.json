@@ -1,0 +1,61 @@
+{
+  "title": "Mweya Wakarinda paRwizi",
+  "intro": "Mweya mudiki wakapihwa basa rakavanzika, rekuona ari kure zvakachengeteka mugumo uchiitika pamusoro pemvura. Munhu uyu, asingaonekwe uye asingafungidzirwe, aizoita basa guru mukuchinja mafambiro enhoroondo yenyika.",
+  "clues": [
+    "Ndakapiwa basa naamai vangu, raida kungwarira uye kungwarira.",
+    "Maziso angu akatevera kamwana kadiki kaifamba-famba mumvura, moyo wangu uchinetseka zvikuru.",
+    "Payakawanikwa neboka risingatarisirwi, ndakaswedera pedyo, ndizere nekutya.",
+    "Ndakaona kusuwa kwavo muchengeti wemba ndikavapa mhinduro vasina kuburitsa chokwadi.",
+    "Kupindira kwangu panguva yakakodzera kwakadzosa mweya unoyamwisa kune uyo waida zvikuru.",
+    "Mumatare evane simba, ndakataura kuti: 'Ndingakutungamirai kumhuri ichamuchengeta nekumutarisira zvakanaka here?'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Hanzvadzi yaMusa",
+        "Amai vaMusa",
+        "Mudzimai waFarao",
+        "Nyamukuta",
+        "Mwanasikana waShu'aib"
+      ],
+      "answer": "Hanzvadzi yaMusa"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kukandwa kwemwana murwizi",
+        "Kupatsanurwa kwegungwa",
+        "Kupiswa kwemhuru",
+        "Kuvakwa kweareka",
+        "Dambudziko remhashu"
+      ],
+      "answer": "Kukandwa kwemwana murwizi"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Rwizi",
+        "Renje",
+        "Gomo racho",
+        "Imba yamambo",
+        "Moto"
+      ],
+      "answer": "Rwizi"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akabatanidza mwana naamai vake zvakare",
+        "Akazviponesa kubva kumasoja aFarao",
+        "Akava mambokadzi",
+        "Akarangwa nekuda kwekusora",
+        "Akatungamirira vaIsraeri"
+      ],
+      "answer": "Akabatanidza mwana naamai vake zvakare"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

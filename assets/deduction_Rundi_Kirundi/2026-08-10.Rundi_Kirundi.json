@@ -1,0 +1,61 @@
+{
+  "title": "Abarinzi b’Iyimbura ry’Ibanga .",
+  "intro": "Mu gihugu cari giteye ivyatsi vyinshi, umugwi w’abantu waragize umugambi w’ibanga mu mwiza. Bari basangiye intumbero imwe, ariko umugambi wabo wari kure y’ukugororoka. Ntibari bazi ko hariho uguhinduka kw’Imana kwari kubategereje igihe bariko barasinzira.",
+  "clues": [
+    "Twarafashe ingingo idahinduka, twiyumvira ko umugambi wacu ata neza ata gasembwa twari dufise.",
+    "Twari dufise umugambi wo gusohoka kare, imbere y’uko abandi mbere bavyuka.",
+    "Twarashizeho itongo ryiza, twizigiye ivyo twari dufise.",
+    "Twashitse aho twari tugiye, twasanze ari umusaka kandi ari umusaka, ni co gituma twibaza ko twazimiye.",
+    "Twaciye tubona ko ari ikibanza cacu vy’ukuri, maze turaboroga mu kwihebura, tugirana icaha ku vyo twatakaje.",
+    "Twari twarahiye ico gitondo ko tuzokura abakene mu mwimbu wacu, ariko igihano ca Allah caradushikiye turiko turasinzira, gihindura itongo ryacu ubusa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Twebwe Turi Bande?",
+      "options": [
+        "Ba nyen’itongo muri Sura 68",
+        "Abantu b'i Saba",
+        "Abagenzi b'Isenga",
+        "Abantu b'inzovu",
+        "Abantu bo mu mwobo"
+      ],
+      "answer": "Ba nyen’itongo muri Sura 68"
+    },
+    "trial": {
+      "label": "Ikigeragezo cacu",
+      "options": [
+        "Umurima wacu warasambuwe n’icago kivuye mw’ijuru .",
+        "Itongo ryacu ryakuwe n'umwuzure .",
+        "Itongo ryacu ryaraturiwe n'umuriro wavuye ku mwansi .",
+        "Umurima wacu wari wuzuye inzige .",
+        "Umurima wacu waramizwe n'umutingito ."
+      ],
+      "answer": "Umurima wacu warasambuwe n’icago kivuye mw’ijuru ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Twarahiye ko tuzoca ivyamwa vyayo mu gitondo .",
+        "Twarubatse urugomero rwo kuvomera itongo ryacu .",
+        "Twararondeye ubuhungiro mu mwobo kugira ngo twikingire .",
+        "Twarateguye ingabo zo kwigarurira ubwami .",
+        "Twagendeye ubwato kugira ngo tujabuke ikiyaga ."
+      ],
+      "answer": "Twarahiye ko tuzoca ivyamwa vyayo mu gitondo ."
+    },
+    "outcome": {
+      "label": "Iherezo ryacu",
+      "options": [
+        "Twarihanye twizigiye imbabazi zivuye kuri Allah .",
+        "Twarasambutse rwose ntitwigera twihana .",
+        "Twarahunze igihugu ntitusubirayo .",
+        "Twarasubiye kugira ububasha n'abatunzi .",
+        "Twarahanwe mu guhindurwa inkende ."
+      ],
+      "answer": "Twarihanye twizigiye imbabazi zivuye kuri Allah ."
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Mwoyo Murefu Wakapfuura Kusuruvara",
+  "intro": "Mukuru ane mwoyo murefu wakava nembiri, ane chiono chakanyangarika nekuda kwekusuwa, asi kutenda kwake muchirongwa chaMwari hakuna kumbozununguka. Munhu uyu akaona vanakomana gumi nevaviri vachikura kuva nheyo dzemadzinza, vakatambura kurasikirwa kunorwadza kwemwana anodiwa zvikuru, uye vakava chiratidzo chisingaperi chemwoyo murefu wakanaka mukutarisana nekusuwa kukuru. Mweya unoremekedzwa une nyaya inotaurwa mumapeji ese ezvakazarurwa. Unogona here kuziva munhu uyu kubva muKorani?",
+  "clues": [
+    "Ndakanga ndiri muporofita ane nyaya yake yakadzama musura huru yeQuran.",
+    "Ndakava nevanakomana gumi nevaviri vakazova madzibaba emadzinza evaBhani vaIsraeri.",
+    "Ndakaudza vanakomana vangu kuti vapinde nemagedhi akasiyana, kuti vasazoonekwa sevanhu vasina kuroora kana kuroorwa.",
+    "Maziso angu akacheneruka nekuda kwekuchema kusingaperi pamusoro pemwana wandaida akanditora.",
+    "Ndakaramba kuora mwoyo kunyange vamwe vanakomana vangu pavakandikurudzira kuti ndidaro, vachiti ndinongonyunyuta kuna Allah chete.",
+    "Ndini baba vemuporofita Yusuf, ane zita rinoreva kuti 'muwedzeredzi' muchiArabic."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muporofita Yaqub (Jakobho)",
+        "Muprofita Yusuf",
+        "Muprofita Ibrahim",
+        "Muprofita Musa",
+        "Muporofita Dhawud"
+      ],
+      "answer": "Muporofita Yaqub (Jakobho)"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kufirwa nemwanakomana waaida nekuda kwetsime",
+        "Mafashamo makuru akafukidza vanhu vose",
+        "Kutama kubva kuumambo hunonamata moto",
+        "Kurwisana nemudzvinyiriri ane simba weIjipita",
+        "Kutapwa kuenda mudumbu rehove"
+      ],
+      "answer": "Kufirwa nemwanakomana waaida nekuda kwetsime"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Hembe yakasanganiswa neropa renhema",
+        "Tsvimbo yakashanduka kuita nyoka",
+        "Areka yakavakirwa pagomo",
+        "Ngamera hadzi yakacherwa padombo",
+        "Mhuru yendarama"
+      ],
+      "answer": "Hembe yakasanganiswa neropa renhema"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kuona kwakadzoka apo shati yemwanakomana waaida yakaiswa pamusoro pechiso",
+        "Ruponeso mushure mekukandwa mudumbu rehove huru",
+        "Kugamuchira zita rekuti Khalilullah kubva kuna Allah",
+        "Kuyambuka gungwa nevanhu vakasunungurwa kubva muusungwa",
+        "Muraraungu unoonekwa sechiratidzo chetariro mushure memafashamo"
+      ],
+      "answer": "Kuona kwakadzoka apo shati yemwanakomana waaida yakaiswa pamusoro pechiso"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

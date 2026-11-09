@@ -1,0 +1,61 @@
+{
+  "title": "Daande Teeminanɗe ɗe Heɗtaaka",
+  "intro": "E jamaanu ɓooyɗo hade gure mawɗe umminde, ruuhu gooto ummiima e nder leñol ngol ruttii e goonga. Tiiɗnaare maɓɓe hawri tan ko e muñal oo nodduɗo gooto, ñaagotooɗo e nder yontaaji tawa ronkaani pellital. Nde jeertinaango fof yani e noppi muusɗi, hiisa mo meeɗaa yiyeede, wayli sifaa leydi ndii e hoore mum. Hannde, ƴoƴre ndeen daartol ina ɓuuɓtoo haa jooni e kala jaŋngugol. Mbele aɗa waawi anndude ooɗoo ruuhu tiiɗɗo?",
+  "clues": [
+    "Mi ummiima e leñol rewooɓe sanamuuji fenaande, ɓe njejjitaani maandeeji taariiɗi ɗum en, tee mi suɓaama ngam umminde ɓe e majjere maɓɓe.",
+    "Mi noddii leñol am laabi keewɗi, kono ɓe tuumi mi wonde mi wonaa neɗɗo hono maɓɓe, ina ƴattoo nulal am ina sudda noppi maɓɓe.",
+    "Jamma e ñalawma, miɗo ñaagoo ɓe hakkille e siftorde newaare, kono konngol am ina wayi no majjii e weeyo, ngol nanaaka, ngol heɗaaka.",
+    "E nder yamiroore Alla, mi mahii laana mawka, leɗɗe e leɗɗe e dow leydi njoorndi, leñol am ina jalee kam no neɗɗo majjuɗo hakkille nii.",
+    "Nde ilam mawɗam ɗam ari no fodirnoo nii, ɓiɗɗo am oo salii naatde e am e laana kaa, sibu ina sikki koɗorɗe ina mbaawi daɗndude ɗum e ndiyam ummotooɗam ɗam.",
+    "Mi wonti baaba fuɗɗoode hesere dow leydi, daartol am ina reeni e nder deftere Qur’aana jogiinde innde am tigi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol ko ngonmi?",
+      "options": [
+        "Annabi Nuuhu",
+        "Annabi Ibraahiima",
+        "Annabi Muusaa",
+        "Annabi Luut",
+        "Annabi Huudu"
+      ],
+      "answer": "Annabi Nuuhu"
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "Ilam mawɗam ɗam wayli mbaadi leydi",
+        "Woppude e nder yiite ɓuuɓɗo e juuɗe rewooɓe sanamuuji",
+        "Jokkondiral e maagiyaŋkooɓe Firawna to galle laamorɗo",
+        "Halkere gesaaji alɗuɗi ɗii e henndu asamaan",
+        "Udditgol hoɗɓe e ŋoral"
+      ],
+      "answer": "Ilam mawɗam ɗam wayli mbaadi leydi"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Laana kaa mahaa ko e leɗɗe e leɗɗe",
+        "Galle ceniɗo oo mahaa ko e dow ŋoral ɓooyngal",
+        "Kaɓirgal ngal wayliima wonti mboddi",
+        "Ngaska sukaaɓe ɗaaniiɓe",
+        "Jappeere laamu nde tagoore mawnde jogii"
+      ],
+      "answer": "Laana kaa mahaa ko e leɗɗe e leɗɗe"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "Kafeeraaɓe ɓee njippiima e nder ndiyam, tawi gooŋɗinɓe ɓee kisnaama e nder laana kaa",
+        "Yiite ngee wonti cooyngal, kisal, nodduɗo oo yalti tawi alaa ko bonni",
+        "Maagiyankooɓe ɓee cujji, njaɓɓorii iimanaagal",
+        "Jardin oo hokkaama koɗo peewɗo e nokku mum",
+        "Ɗaaniiɓe ɓee ngummii caggal teeminanɗe, mbayliima"
+      ],
+      "answer": "Kafeeraaɓe ɓee njippiima e nder ndiyam, tawi gooŋɗinɓe ɓee kisnaama e nder laana kaa"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

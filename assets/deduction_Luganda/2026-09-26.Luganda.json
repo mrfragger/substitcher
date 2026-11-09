@@ -1,0 +1,61 @@
+{
+  "title": "Okwegaana Wakati Mu Bungi",
+  "intro": "Weesanga ng’oli mu bantu ng’obutale bwabwe bujjudde eby’obusuubuzi, naye nga minzaani zaabwe ziwuuma mu ngeri etali ya bwesimbu. Omubaka azze gye bali n’okulabula okutegeerekeka, naye baseka ne bakyuka, nga beesiga obugagga bwabwe. Eggulu litandika okuzikira, naye bakiraba ng’omukisa gw’enkuba. Abantu bano be baani?",
+  "clues": [
+    "Twakulaakulana mu nsi ez’obusuubuzi n’ebintu bingi, naye emitima gyaffe gyafuuka egy’obusaasizi.",
+    "Omubaka yajja gye tuli n’obubonero okuva ewa Mukama waffe, naye ne tusekerera okulabula kwe.",
+    "Twali tumanyiddwa olw’obusuubuzi bwaffe, naye twawaayo ekipimo ekimpi ne tufera abantu.",
+    "Twabeeranga wakati mu miti eminene n’ebimera ebirabika obulungi, naye emikisa gyaffe twagitwala nga gya muwendo.",
+    "Ekire ekiddugavu bwe kyasemberera, twasanyuka nga tulowooza nti kyanditonnyezza enkuba mu nsi zaffe ezaali zikaze.",
+    "Mu kifo ky’ekyo, ekire ekyo kyasumulula ekibonerezo eky’omuliro, era ne tukwatibwa okubonyaabonyezebwa okw’olunaku olw’ekisiikirize."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ffe Tuli Baani?",
+      "options": [
+        "Ashab al-Aykah (Baswahaba b’Enku) .",
+        "Abantu b’e Thamud",
+        "Abantu ba 'Ad",
+        "Abantu ba Lut",
+        "Abantu b’e Nuh"
+      ],
+      "answer": "Ashab al-Aykah (Baswahaba b’Enku) ."
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Baagaana omubaka waabwe ne bafera mu by’obusuubuzi",
+        "Baasinza ennyana eya zaabu ne babuzaabuzibwa",
+        "Baakolanga obwakazi ne balumba abatembeeyi",
+        "Baazimba eminaala emiwanvu ne basomooza Katonda",
+        "Baagaana okugabana amazzi ne bakola obulabe ku ngamiya enkazi"
+      ],
+      "answer": "Baagaana omubaka waabwe ne bafera mu by’obusuubuzi"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Ekibira ekinene oba ekisaka ekinene",
+        "Olusozi oluyooleddwa mu bifo eby’okubeeramu",
+        "Ekibuga ekiri ku lubalama lw’ennyanja",
+        "Ekiwonvu eky’eddungu nga kiriko enzizi",
+        "Olusuku olugimu nga lulimu ebibala bingi"
+      ],
+      "answer": "Ekibira ekinene oba ekisaka ekinene"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yasaanawo ekire eky’ekisiikirize eky’omuliro",
+        "Yabbira amataba amanene",
+        "Yamira musisi",
+        "Yakubwa empewo ey’amaanyi",
+        "Yafuuka ejjinja"
+      ],
+      "answer": "Yasaanawo ekire eky’ekisiikirize eky’omuliro"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

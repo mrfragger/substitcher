@@ -1,0 +1,61 @@
+{
+  "title": "Ilaaliyeyaasha Goosashada Qarsoon",
+  "intro": "Dhul cagaaran, koox shakhsiyaad ah ayaa qorshe qarsoodi ah ku sameeyay mugdiga. Waxay wadaageen ujeedo guud, laakiin ujeeddadoodu aad bay uga fogayd mid sax ah. Wax yar ayay ka warqabeen in leexasho rabbaani ah ay sugaysay markay hurdeen.",
+  "clues": [
+    "Waxaan go'aan adag gaarnay, annagoo u maleynay in qorshaheennu aanu cillad lahayn.",
+    "Waxaan damacsaneynay inaan dibadda u baxno goor hore, ka hor inta aysan kuwa kale xitaa kicin.",
+    "Waxaan ku dhaqaaqnay dhul barwaaqo ah, annagoo ku kalsoon sahaydeenna.",
+    "Markii aan gaarnay meeshii aan u soconnay, waxaan aragnay meel cidlo ah oo cidlo ah, sidaas darteed waxaan u maleynay inaan lunnay jidkii aan u soconnay.",
+    "Markaas ayaan ogaanay inay runtii tahay meeshii aan joognay, waanan quusannay, annagoo isku eedeynayna khasaaraha na soo gaaray.",
+    "Waxaan subaxdii dhaaranay inaan masaakiinta ka reebno goosashadayada, laakiin ciqaabtii Alle ayaa nagu soo dhacday annagoo hurda, taasoo beertayada ka dhigtay mid burbursan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Yaan nahay?",
+      "options": [
+        "Mulkiilayaasha Beerta ee ku jira Suuradda 68aad",
+        "Dadka reer Saba",
+        "Asxaabta Godka",
+        "Dadka Maroodiga",
+        "Dadka Dooxada"
+      ],
+      "answer": "Mulkiilayaasha Beerta ee ku jira Suuradda 68aad"
+    },
+    "trial": {
+      "label": "Tijaabadeenna",
+      "options": [
+        "Beerteena waxaa burburiyay masiibo cirka ka timid",
+        "Beerteena waxaa qaaday daad",
+        "Beerteena waxaa gubay dab ka yimid cadow",
+        "Beerteena waxaa ka buuxsamay ayax",
+        "Beerteena waxaa liqay dhulgariir"
+      ],
+      "answer": "Beerteena waxaa burburiyay masiibo cirka ka timid"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Waxaan ku dhaarannay inaan midhihiisa guranno subaxdii",
+        "Waxaan dhisnay biyo-xireen si aan u waraabino beertayada.",
+        "Waxaan magan galnay god si aan u ilaalino",
+        "Waxaan diyaarinay ciidan si aan u qabsanno boqortooyo",
+        "Waxaan doon ka raacnay markab si aan uga gudubno badda"
+      ],
+      "answer": "Waxaan ku dhaarannay inaan midhihiisa guranno subaxdii"
+    },
+    "outcome": {
+      "label": "Qaddarkeenna",
+      "options": [
+        "Waan toobad keennay oo waxaan rajeeynay naxariista Alle",
+        "Gabi ahaanba waa nala burburiyay oo waligeen waan ka toobad keenin",
+        "Dhulka waan ka cararnay mana soo laaban weligay.",
+        "Waxaan mar kale noqonay kuwo awood badan oo hodan ah",
+        "Waxaa naloo ciqaabay in naloo rogay daanyeer."
+      ],
+      "answer": "Waan toobad keennay oo waxaan rajeeynay naxariista Alle"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

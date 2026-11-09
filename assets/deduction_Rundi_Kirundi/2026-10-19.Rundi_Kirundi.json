@@ -1,0 +1,61 @@
+{
+  "title": "Abacitse kw’icumu bo mw’ijuru",
+  "intro": "Ikiremwa c’akabanga gihagaze ku nzira y’amasanganzira y’irema n’ukwangwa. Inkuru yabo ni iy’ubwibone butagira uko bungana be n’ugutera umugere kw’iherezo itegeko ry’Imana. Ihitamwo ryabo risubiramwo mu ruvyaro rwose, rikagira ikigeragezo ku mutima wose uvutse muri iyi si. Woba ushobora kumenya uwo mwansi w’ibihe bidahera?",
+  "clues": [
+    "Nari ng’aho mu kintu gifise insiguro y’isi yose, igihe ikiremwa gishasha caremwa mw’ibumba, kigahabwa ubuzima n’Impwemu y’Umunyambabazi.",
+    "Jewe ubwanje naremwe nkoresheje ikintu kimwe kigurumana, kitandukanye n’ico kiremwa c’inkungugu.",
+    "Nampaye itegeko nabonye ko riri munsi y’aho nkorera.",
+    "Ubwibone bwaravyimba muri jewe, maze nca nkanka ata gufyina kwubahiriza iryo tegeko.",
+    "Narahawe igihe co gutevya gushika ku Musi washinzwe, kugira ngo nkurikirane umugambi wanje namenyesheje wo kuzimiza abandi.",
+    "Ndi umwansi yamenyeshejwe w’abagenda kw’isi bose, nsemerera amajambo y’ubuhendanyi, nkabakwegera kure y’inzira igororotse."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Iblisi (Shetani)",
+        "Farawoni (Firawuni)",
+        "Hamani",
+        "Abu Yahli",
+        "Samiri"
+      ],
+      "answer": "Iblisi (Shetani)"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Yanse gupfukama imbere ya Adamu .",
+        "Yivugira ubumana mu binyoma",
+        "Yacuze inyana y’inzahabu kugira ngo isenge",
+        "Yishe mwenewabo kubera ishari .",
+        "Yarongoye abarwanya ibimana vyinshi i Makka ."
+      ],
+      "answer": "Yanse gupfukama imbere ya Adamu ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Iparadizo (Yana)",
+        "Ingoro ya Farawo mu Misiri",
+        "Ikiyaya ceranda c'i Tuwa .",
+        "Uburebure bw'ikiyaga .",
+        "Umurima w’i Sheba ."
+      ],
+      "answer": "Iparadizo (Yana)"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Guhabwa akaruhuko gushika ku musi w'urubanza .",
+        "Yarohamye hamwe n'ingabo mu kiyaga .",
+        "Bamizwe n'isi hamwe n'ubutunzi .",
+        "Bahinduwe inkende kubera barenganye Isabato .",
+        "Yaturiwe n’amabuye yaterewe avuye mw’ijuru ."
+      ],
+      "answer": "Guhabwa akaruhuko gushika ku musi w'urubanza ."
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

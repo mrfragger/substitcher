@@ -1,0 +1,61 @@
+{
+  "title": "Raadinta Runta ee Khaa'imka ah",
+  "intro": "Dhul awood iyo sixir hore leh, iska hor imaad weyn ayaa ka dhex dhaca. Dhinac ayaa leh awoodda calaamadaha rabbaaniga ah, halka kan kalena uu isku dayayo inuu la jaanqaado waxyaabaha aan macquulka ahayn. Natiijadu waxay weligeed beddeli doontaa jidka taariikhda. Ma ogaan kartaa aqoonsiga kuwa arkay runta ugu dambeysa oo is-hoosaysiiyay ka hor?",
+  "clues": [
+    "Waxaan aragnay calaamado ka baxsan xeeladaha sixirka.",
+    "Dhammaanteen waan sujuudnay, annagoo aan awoodin inaan beeninno runta.",
+    "Waxaan aqoonsannay in calaamadahani ay ka yimaadeen Ilaaha runta ah ee keliya",
+    "Waxaan ahayn bulshadii ugu horreysay ee si cajiib ah u aqbala diinta",
+    "Waxaa naloo ballan qaaday janno inay tahay abaal-marinteenna iimaankeenna awgeed",
+    "Xadhkahayagii iyo ushiiyadu waxay noqdeen abeesooyin horteenna, haddana waxaan doorannay inaan is-hoosaysiinno"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Saaxiriintii Fircoon",
+        "Dadka Nabi Ibraahim",
+        "Kuwa runta raadinaya ee is-hoosaysiiya",
+        "Dadka Godka ku nool",
+        "Qaranka Boqorad Bilqis"
+      ],
+      "answer": "Saaxiriintii Fircoon"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Kulankii lala yeeshay shaqaalaha Nebi Muuse",
+        "Tijaabadii dabaysha Nabi Huud",
+        "Caqabadda ka timid hashii Nebi Saalix",
+        "Daadkii weynaa ee nebi lagu soo diray",
+        "Safarkii nebi ee gudaha nibiriga"
+      ],
+      "answer": "Kulankii lala yeeshay shaqaalaha Nebi Muuse"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Masar hore",
+        "Guriga barakeysan ee Makkah",
+        "Magaalada Midyaan",
+        "Saxaraha Thamuud",
+        "Godka dadka seexda qadiimiga ah"
+      ],
+      "answer": "Masar hore"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Jannada oo ah abaal-marintooda",
+        "Ciqaabta qabriga",
+        "Lumitaanka beerahooda hodanka ah",
+        "Burbur ka dhashay dhulgariir lama filaan ah",
+        "Badbaadinta nibiriga weyn"
+      ],
+      "answer": "Jannada oo ah abaal-marintooda"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

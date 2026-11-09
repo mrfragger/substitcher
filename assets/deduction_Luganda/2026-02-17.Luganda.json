@@ -1,0 +1,61 @@
+{
+  "title": "Ensigo y’Okukaayana",
+  "intro": "Ensi nga tennamanya nti waliwo obutakkaanya obwali buyitiridde, okugezesebwa okw’amaanyi okw’okukkiriza n’obuwulize kwabaawo. Ennyonnyola eno enoonyereza ku kusalawo okukolebwa omuntu ssekinnoomu, ebikolwa bye bye biteekawo ekyokulabirako eri emirembe egijja. Weetegeke okusumulula olugero lw’omwoyo ogulwanagana n’obuggya obw’ekitalo n’ebivaamu eby’amaanyi.",
+  "clues": [
+    "Nnali omu ku baana abaasooka okutambulira ku nsi, omwana w’abantu abasooka ennyo.",
+    "Nze ne muganda wange twalagirwa okuwaayo ssaddaaka eri Allah, ekigezo ky’obwesimbu bwaffe.",
+    "Ekiweebwayo kyange tekyakkirizibwa, ate ekya muganda wange kyakkirizibwa, ekyajjuza omutima gwange enneewulira ey’entiisa.",
+    "Nnayogera ebigambo eby’okutiisatiisa muganda wange, nga nvugibwa obusungu obw’okugaanibwa.",
+    "Muganda wange yaddamu n’amagezi n’okutya Katonda, ng’anzijukiza obwenkanya bwa Allah n’okumutya.",
+    "Wadde nga muganda wange yayogera ebigambo ebigonvu era nga mwetegefu okusonyiwa, nnatwala obulamu, ne nfuuka omu ku baafiirwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Nabbi Adamu",
+        "Ibis",
+        "Nabbi Nuh",
+        "Kabil (Kayini) .",
+        "Fir'awn nga bwe kiri"
+      ],
+      "answer": "Kabil (Kayini) ."
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Amataba amanene",
+        "Okukutuka kw’ennyanja",
+        "Ekizimbe kya Kaaba",
+        "Okuwaayo ssaddaaka",
+        "Okukemebwa mu Lusuku"
+      ],
+      "answer": "Okuwaayo ssaddaaka"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Essanduuko",
+        "Abakozi",
+        "Olusozi lwa Safa",
+        "Ssaddaaka",
+        "Ekisaka Ekyokya"
+      ],
+      "answer": "Ssaddaaka"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yafuuka omubaka",
+        "Yabbira mu mazzi",
+        "Yazimba obwakabaka obunene",
+        "Yafuuka ekyokulabirako eky’okwejjusa",
+        "Yaweebwa obugagga obw’ekitalo"
+      ],
+      "answer": "Yafuuka ekyokulabirako eky’okwejjusa"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

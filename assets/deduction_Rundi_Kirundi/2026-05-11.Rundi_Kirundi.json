@@ -1,0 +1,61 @@
+{
+  "title": "Ivyabona Bashikamye .",
+  "intro": "Tekereza igihe ukwemera kwageragezwa n’umuriro, maze ukwemera kudahungabana kwacitse ikintu co gutera umugere. Ushinzwe guhishura akaranga k’umugwi inkuru yawo ivugwa muri Korowani, inkuru y’ukwizera gukomeye kurwanya ububisha burengeye urugero. Gufungura ibimenyetso kugira ngo umenye abo mitima bari nde, n’ibintu bidasanzwe vyahuye navyo.",
+  "clues": [
+    "Twaragumye dushikamye mu kwemera kwacu, naho twari dufise umukazo mwinshi wo kwihakana ukwizera kwacu.",
+    "Twaratewe n’umutware akomeye yariko arondera kuzimya umuco w’ugusenga Imana imwe.",
+    "Twarabonye ibimenyetso n’ibitangaro bikomeye, yamara abaduhahaza bagumye batagira ico bitaho.",
+    "Twarihanganiye uburyo buteye ubwoba bwo gutoteza bwari bugenewe gutera ubwoba abandi kugira ngo bayoboke.",
+    "Twarajugunywe mu muriro w’iteka, yamara ugushikama kwacu kwatumye turonka ikibanza co hejuru imbere ya Allah.",
+    "Inkuru yacu irasubirwamwo muri Sura yitwa izina ry’inyenyeri zo mw’ijuru, igabisha ku vyo abatoteza abemera bazoshikirwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Twebwe Turi Bande?",
+      "options": [
+        "Abantu b'i Tamudi .",
+        "Abantu bo muri 'Ad .",
+        "Abantu bo mu Mugende",
+        "Abanyamidiyani",
+        "Abantu b'inzovu"
+      ],
+      "answer": "Abantu bo mu Mugende"
+    },
+    "trial": {
+      "label": "Ugutotezwa kwacu",
+      "options": [
+        "Kurohama mu mwuzure",
+        "Kurirwa n'umuyaga ushushe",
+        "Gutererwa mu mwobo w'umuriro",
+        "Kumirwa n'isi .",
+        "Guhindurwa inkende"
+      ],
+      "answer": "Gutererwa mu mwobo w'umuriro"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Umwuzure munini",
+        "Umutingito ukomeye .",
+        "Umugende muremure kandi ugurumana",
+        "Ikigirwamana gikomeye",
+        "Amapfa ateye ubwoba"
+      ],
+      "answer": "Umugende muremure kandi ugurumana"
+    },
+    "outcome": {
+      "label": "Iherezo ryacu",
+      "options": [
+        "Bahawe ubwami kw’isi.",
+        "Barakijijwe n’uguhunga kw’igitangaza.",
+        "Bashitse ku gupfa kw’abamaratiri no ku mpera y’ibihe bidahera.",
+        "Zahinduwe zicika ubwoko butandukanye.",
+        "Bahawe ubutunzi n’uguterimbere bitagira uko bingana."
+      ],
+      "answer": "Bashitse ku gupfa kw’abamaratiri no ku mpera y’ibihe bidahera."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

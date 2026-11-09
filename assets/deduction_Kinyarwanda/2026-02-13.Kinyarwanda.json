@@ -1,0 +1,61 @@
+{
+  "title": "Ukuganduka gukomeye kwa Nyagasani",
+  "intro": "Usanga uri mu gihugu cy'ibitangaza bya kera n'ibyahishuwe bikomeye. Umutegetsi ukomeye, ahura n'ubutumire butunguranye, yatangiye urugendo rwahinduraga inzira y'iherezo rye n'ukwizera kw'abaturage be. Ese ushobora kumenya uwo muntu w'icyubahiro?",
+  "clues": [
+    "Nategetse ubwami bukize, buriho ubutunzi butagira ingano n'intebe y'ubwami ihebuje.",
+    "Jye n'umuryango wanjye twasengaga umubiri wo mu ijuru, twizera ko ari wo mwami wacu, nubwo nari mfite gushidikanya mu mutima wanjye.",
+    "Intumwa idasanzwe, inyoni, yampaye ibaruwa, impamagarira jye n'abantu banjye kuyoboka Imana Imwe Rukumbi.",
+    "Nagishije inama abajyanama banjye, bari bafite imbaraga nyinshi, ku buryo nakwitabira ubu butumwa butigeze bubaho.",
+    "Nahisemo kohereza impano y'agaciro ku muntu wohereje ibaruwa, niringiye gupima imbaraga ze n'imigambi ye.",
+    "Nkigerayo, natangajwe no kubona ingoro ifite hasi hakozwe mu kirahure, isa n'ikidendezi cy'amazi, maze icyo gihe ntangaza ko nemeye kugandukira Umwami w'ibiremwa byose."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Farawo",
+        "Umwamikazi wa Sheba",
+        "Dhu al-Qarnayn",
+        "Luqman",
+        "Intumwa y'Imana Yusufu"
+      ],
+      "answer": "Umwamikazi wa Sheba"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Gucikamo kabiri kw'inyanja",
+        "Umwuzure ukomeye",
+        "Urugendo rwo guhura n'Intumwa Sulayman",
+        "Irimbuka ry'abantu ba Luti",
+        "Gutwikwa kw'Intumwa Ibrahim"
+      ],
+      "answer": "Urugendo rwo guhura n'Intumwa Sulayman"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Isanduku",
+        "Abakozi",
+        "Intebe y'Ubwami",
+        "Umusozi",
+        "Umuriro"
+      ],
+      "answer": "Intebe y'Ubwami"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Yabaye umuhanuzi",
+        "Yararimbuwe na Allah",
+        "Yemeye Isilamu",
+        "Yayoboye abaturage be mu ntambara",
+        "Yubatse urusengero runini"
+      ],
+      "answer": "Yemeye Isilamu"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

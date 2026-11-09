@@ -1,0 +1,61 @@
+{
+  "title": "Inzwi reZvisingaonekwi",
+  "intro": "Munhoroondo dzekutaurirana kwaMwari, munhu anoonekwa pachena ane nyaya yakarukwa nezviratidzo zvinoshamisa nekutenda kwakasimba. Munhu uyu akagamuchira zvakazarurwa zvakasiyana zvakapikisa tsika dzenguva yavo, achitaura kubva kunze kwechifukidziro chekunzwisisa kwakajairika. Shoko ravo harina kuuya nenzira dzechinyakare asi kuburikidza nekubatana kwakadzama kwaipesana nekunzwisisa kwevanhu, kuchikoka vanhu kuti vazive chokwadi nenzira dzisingatarisirwi. Rwendo rwemuranda uyu waAllah rwunoshanda seuchapupu hwekuti nhungamiro inogona kuzviratidza sei mumamiriro ezvinhu anoshamisa, zvichikoka kufungisisa nezvehunhu hwezvakazarurwa pachazvo.",
+  "clues": [
+    "Ndakapiwa meseji yakauya nenzwi risinganzwisisike kubva kunobva chinhu chisingaonekwe.",
+    "Vanhu vangu vakatanga varamba shoko rangu, vachida humbowo hwekuti ndaive wechokwadi.",
+    "Ndakavakurudzira kuti vagadzire chimwe chinhu chakafanana nechandakanga ndagamuchira, asi vakatadza.",
+    "Zvakazarurwa zvandakaunza zvakatsanangurwa semavhesi akajeka akaita kuti chokwadi chive pachena.",
+    "Ndakanyevera vanhu vangu nezvechirango chakaomarara kana vakaramba vachitenda uye vachizvikudza.",
+    "Nyaya yangu inotaurwa pamwe chete nevamwe vatumwa musurah inosimbisa zviratidzo zvesimba raAllah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muporofita Hud",
+        "Muprofita Salih",
+        "Muporofita Shu'ayb",
+        "Mutendi anobva kumhuri yaFirauni",
+        "Muprofita Musa"
+      ],
+      "answer": "Muprofita Salih"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kukandwa muchoto chemoto",
+        "Kutarisana nekudzvinyirirwa kwemutongi ane hutsinye",
+        "Kugadzira ngamera hadzi sechiratidzo chinoshamisa",
+        "Kupona mafashamo makuru",
+        "Kukandwa mugungwa mubhokisi"
+      ],
+      "answer": "Kugadzira ngamera hadzi sechiratidzo chinoshamisa"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Mupata weTuwa",
+        "Guta reMadyan",
+        "Nyika yeThamud",
+        "Dare raFirauni",
+        "Bako raHira"
+      ],
+      "answer": "Nyika yeThamud"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "answer": "Vanhu vangu vakaparadzwa nekuda kwekuuraya ngamera hadzi inoshamisa",
+      "options": [
+        "Vanhu vangu vakapfidza uye vakaponeswa",
+        "Ndakatorwa kuenda kudenga ndiri mupenyu",
+        "Vanhu vangu vakaparadzwa nekuda kwekuuraya ngamera hadzi inoshamisa",
+        "Ndakava mutongi mukuru",
+        "Ndakanunurwa nekuiswa muareka"
+      ]
+    }
+  },
+  "verseRef": "26:154",
+  "arabic": "مَآ أَنتَ إِلَّا بَشَرٌۭ مِّثْلُنَا فَأْتِ بِـَٔايَةٍ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "You are but a man like ourselves, so bring a sign, if you should be of the truthful.\" (26:154)"
+}

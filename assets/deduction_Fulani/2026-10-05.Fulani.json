@@ -1,0 +1,61 @@
+{
+  "title": "Amaana Halfinaa Maayo",
+  "intro": "Ruuhu ina fotnoo yamiroore nde waawaa waɗde, ɗo nguurndam jibinaaɗo keso fawii e dow ŋoral. Ardii ɗum ko ƴoƴre Alla, yamiroore teskinnde ɗooftaa, sirlu tedduɗo waɗtaa e dow ŋoral, tan artiraa e laawol ngol anndaaka.",
+  "clues": [
+    "Mi wuuri ko e les njiimaandi jom doole en, yamirnooɗo warde worɓe jibinɓe keso.",
+    "Ilmu Alla ari e am, yamiri mi yo mi waɗ feere tiiɗnde, ɓuuɓnde ɓernde.",
+    "Mi fawi cukalel am teddungel ngel e nder kees, mi fawi ngel dow maayo ɓuuɓngo.",
+    "Ɓernde am wonti meere, miɗo fotnoo feeñninde sirlu oo, kono Alla semmbinii pellital am.",
+    "Mi nelii neɗɗo ngam rewde laawol cukalel ngel haa les, nde tawnoo ɓuuɓol ngol ina nawra kees oo.",
+    "Cukalel ngel ko galle tippuɗo oo tawi ɗum, haa jooni, mi hawri e ɓiɗɗo am, mi wonti jom suudu am."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol ko ngonmi?",
+      "options": [
+        "Yumma Annabi Muusaa",
+        "Asiya (Jom suudu Firaawna)",
+        "Maryam (Yuuma Annabi Iisaa)",
+        "Debbo Annabi Luuju",
+        "Inna Annabi Yahya (jom suudu Zakariya)"
+      ],
+      "answer": "Yumma Annabi Muusaa"
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "O waɗti ɓiyiiko e nder kees, o joɗɗini ɗum e dow maayo",
+        "O suuɗi ɓiyiiko nder ngaska",
+        "O acci ɓiyiiko nder jeereende",
+        "O werlii ɓiyiiko nder yiite",
+        "O acci ɓiyiiko to damal juulirde"
+      ],
+      "answer": "O waɗti ɓiyiiko e nder kees, o joɗɗini ɗum e dow maayo"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Kees gonɗo e dow maayo",
+        "Buuɗi ɓuuɓɗi",
+        "Sawru wayliima wonti mboddi",
+        "Taabal taariindi e ñaamdu ummoraade asamaan",
+        "Gelooɗi debbo neldaa ko maande"
+      ],
+      "answer": "Kees gonɗo e dow maayo"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "O hawri e ɓiyiiko, o ñammini ɗum",
+        "O meeɗaa yiyde ɓiyiiko kadi",
+        "Ko jom doole en mbari mo",
+        "O wonti laamɗo debbo to leydi Misra",
+        "O eggii o fayi leydi ngoɗndi, o wuuri e eggude"
+      ],
+      "answer": "O hawri e ɓiyiiko, o ñammini ɗum"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

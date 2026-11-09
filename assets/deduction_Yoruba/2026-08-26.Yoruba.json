@@ -1,0 +1,61 @@
+{
+  "title": "Ìlara Tí Ó Jẹ",
+  "intro": "Ìtàn kan tó ti pẹ́ ju ìjọba tàbí ìwé mímọ́ lọ—ìṣẹ̀lẹ̀ ìbànújẹ́ ènìyàn àkọ́kọ́ tí a bí láti inú owú. Ọkàn kan, tó jẹ́ àgbà nínú àwọn ọmọ méjì tí àwọn òbí àkọ́kọ́ bí, fi ìbínú wo bí àbúrò kan ṣe gba ojúrere tí wọ́n kọ̀. Ohun tó tẹ̀lé e ni yíyàn tó ṣókùnkùn jùlọ, tó fi ẹ̀jẹ̀ àkọ́kọ́ tí wọ́n ti ta sílẹ̀ sórí ilẹ̀ ayé sílẹ̀. Ṣé o lè tú àṣírí ẹni tí a jẹ́, àdánwò náà, àti ìbànújẹ́ kíkorò náà?",
+  "clues": [
+    "Àwọn ènìyàn àkọ́kọ́ tó rìn lórí ilẹ̀ ayé ni wọ́n bí mi.",
+    "Mo ti ṣe ẹbọ kan si Allah lẹẹkan ri, ṣugbọn wọn ko gba a lọwọ mi.",
+    "Wọ́n gba ẹ̀bùn ẹ̀gbọ́n mi, nígbà tí wọ́n kọ̀ tèmi sílẹ̀—ohun tí mi ò lè fara dà.",
+    "Mo halẹ̀ mọ́ àbúrò mi pẹ̀lú ìparun.",
+    "Mo di ẹni àkọ́kọ́ láti pànìyàn lórí ilẹ̀ ayé yìí, mo sì pa ẹ̀gbọ́n mi ọkùnrin.",
+    "Allah rán ẹ̀dá kan láti ilẹ̀ ayé—ẹyẹ dúdú kan tí ó ń walẹ̀ ilẹ̀—láti kọ́ mi bí mo ṣe lè fi ohun tí mo ṣe pamọ́, mo sì ní ìbànújẹ́ nìkan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Qabil (Kaini)",
+        "Hábẹ́lì (Ábẹ́lì)",
+        "Wòlíì Jákọ́bù",
+        "Wòlíì Mósà",
+        "Wòlíì Ádámù"
+      ],
+      "answer": "Qabil (Kaini)"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ìfilọ́lẹ̀ tí Allah kọ̀",
+        "A gbé e sínú iná ńlá kan",
+        "Wọ́n fi sílẹ̀ gẹ́gẹ́ bí ọmọ ọwọ́ nínú odò",
+        "A dán an wò pẹ̀lú ìjọba ńlá kan",
+        "A pàṣẹ pé kí a fi ọmọ ẹni rúbọ"
+      ],
+      "answer": "Ìfilọ́lẹ̀ tí Allah kọ̀"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ẹyẹ ẹyẹ tí Allah rán",
+        "Ọmọ màlúù wúrà",
+        "Ọkọ̀ ojú omi lórí òkè náà",
+        "Igbó tí ń jó náà",
+        "Abo ràkúnmí tí a gbẹ́ láti inú àpáta"
+      ],
+      "answer": "Ẹyẹ ẹyẹ tí Allah rán"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ó kún fún ìbànújẹ́, ó sì wà láàrín àwọn tí ó pàdánù",
+        "A gbé e mì sínú ilẹ̀ pẹ̀lú àwọn ìṣúra",
+        "Ó di ojiṣẹ ọlọ́lá ti Allah",
+        "Wọ inú Párádísè nípasẹ̀ àánú àtọ̀runwá",
+        "Ó ṣàkóso lórí ìjọba tí kò láfiwé"
+      ],
+      "answer": "Ó kún fún ìbànújẹ́, ó sì wà láàrín àwọn tí ó pàdánù"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

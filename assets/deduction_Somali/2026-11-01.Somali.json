@@ -1,0 +1,61 @@
+{
+  "title": "Codkii Diidmada Niyad-jabka",
+  "intro": "Gal guri ay khasaaro ka dambeyso khasaaraha, haddana hal cod oo deggan ayaa diidaya quus. Hal baaq oo Qur'aan ah ayaa dulqaadka u rogaya meel isbeddelaysa; ma raadraaci kartaa tilmaamaha qofka ka dambeeya codkaas?",
+  "clues": [
+    "Waxaan ahaa codka dulqaadka ee guri halkaas oo barakooyinka lagu tijaabiyay masiibo.",
+    "Waxaan ku sii jiray guri ay ka madhnaayeen lumitaanka hantida iyo carruurta.",
+    "Waan ogaa in cudurku uu sidoo kale ku dhacay saaxiibkii, oo jirkiisu uu xanuunsanaa.",
+    "Markii dhibaatadii ay sii xumaatay, waxaan ku dhawaaqay xasuusin Alle.",
+    "Waxaan soo jeediyay hal baaq: Alle waa Runta, ee samir sii.",
+    "Magacayga ayaan ugu yeeray Ayuub; ka dib, Alle ayaa dhibaatada ka qaaday oo qoyska soo celiyay."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Xaaska Nabi Ayuub",
+        "Xaaskii Nabi Nuux",
+        "Xaaskii Nabi Ibraahim",
+        "Xaaska Nabi Yacquub",
+        "Gabadhii Fircoon"
+      ],
+      "answer": "Xaaska Nabi Ayuub"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Ku sii jiridda Ayuub iyada oo loo marayo khasaare iyo xanuun, ka dibna loogu baaqayo samir",
+        "Digniin rasuul xaq ah oo ka tagaya bulsho musuqmaasuq ah",
+        "Ducada dhalashada abtirsiinyada mustaqbalka",
+        "Fasiraadda riyooyinka xabsiga boqortooyada dhexdiisa",
+        "Helitaanka ilmo la aaminay oo webi agtiisa ah"
+      ],
+      "answer": "Ku sii jiridda Ayuub iyada oo loo marayo khasaare iyo xanuun, ka dibna loogu baaqayo samir"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Ku dhawaaqista in Alle yahay Runta iyo dulqaadka ayaa loo baahan yahay.",
+        "Geed timireed oo ku ag yaal il",
+        "Baaq ah in la dhiso markab ka fog hirarka",
+        "Riyo ah kow iyo toban xiddigood iyo qorrax soo baxaysa",
+        "Dambiil lagu siday webiga Niil"
+      ],
+      "answer": "Ku dhawaaqista in Alle yahay Runta iyo dulqaadka ayaa loo baahan yahay."
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Dhibkii Ayuub waa laga saaray, qoyskiisana waa la soo celiyey",
+        "Ilmo muddo dheer la sugayay ayaa la siiyay duco aan waxba galabsan ka dib",
+        "Taliye dhallinyaro ah ayaa fasiray toddobo sano oo barwaaqo iyo yaraan ah",
+        "Ilmo la aaminay ayaa laga badbaadiyay biyo socda",
+        "Digniin ayaa ka horreysay daad burburay"
+      ],
+      "answer": "Dhibkii Ayuub waa laga saaray, qoyskiisana waa la soo celiyey"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

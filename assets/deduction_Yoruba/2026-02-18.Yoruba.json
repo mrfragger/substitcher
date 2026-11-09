@@ -1,0 +1,61 @@
+{
+  "title": "Ẹlẹ́rìí Tó Dára Jùlọ",
+  "intro": "Ìtàn tó jinlẹ̀ kan ń tàn kálẹ̀, ó ń fi ìpinnu àìlágbára ti àwùjọ kan hàn nígbà tí wọ́n bá dojúkọ ìkàsíni-níjà. Ìtàn wọn ń ṣiṣẹ́ gẹ́gẹ́ bí ẹ̀rí ìgbàgbọ́, kódà nígbà tí wọ́n bá dojúkọ ìrúbọ ìkẹyìn. Ìtàn yìí ń rán wa létí agbára ìgbàgbọ́ lòdì sí ìnilára tó pọ̀jù.",
+  "clues": [
+    "Àwa jẹ́ ẹgbẹ́ kan tí ìtàn wọn wà nínú sùrà kúkúrú kan tó lágbára, tó ń kìlọ̀ nípa inúnibíni.",
+    "A dojúkọ alákòóso kan tí ó fẹ́ pa ìgbàgbọ́ wa nínú Ọlọ́run kan ṣoṣo, Olúwa ìtẹ́, Ẹni tí a lè yìn ín run.",
+    "A fara da ìdánwò búburú kan tó ní í ṣe pẹ̀lú ihò ńlá kan tí wọ́n gbẹ́ sínú ilẹ̀.",
+    "A wo bí wọ́n ṣe ń ju àwọn onígbàgbọ́, títí kan àwọn ọmọ ọwọ́ sínú iná ńlá kan nínú ihò yẹn.",
+    "Àwọn tí wọ́n ń fìyà jẹ wá ni wọ́n fi ègún gé fún ìṣe wọn, nígbà tí wọ́n sì ṣèlérí èrè ńlá fún ìdúróṣinṣin wa.",
+    "Ìgbìyànjú alákòóso láti pa ìgbàgbọ́ wa run mú kí ipò wa gẹ́gẹ́ bí ajẹ́rìíkú lágbára síi níwájú Allah, ẹni tí ó jẹ́ ẹlẹ́rìí sí ohun gbogbo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Àwọn ènìyàn Támúdì",
+        "Àwọn ènìyàn 'Ad",
+        "Àwọn ènìyàn inú ihò náà",
+        "Àwọn ènìyàn Lúùtù",
+        "Àwọn Ènìyàn Erin"
+      ],
+      "answer": "Àwọn ènìyàn inú ihò náà"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ìkún Omi Ńlá",
+        "Igbó Tí Ń jóná",
+        "Ìrì sínú Òkun",
+        "Ihò Iná",
+        "Ìsẹ̀lẹ̀ Ilẹ̀"
+      ],
+      "answer": "Ihò Iná"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Àpótí náà",
+        "Òṣìṣẹ́ náà",
+        "Kòtò náà",
+        "Òkè",
+        "Kànga náà"
+      ],
+      "answer": "Kòtò náà"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Wọ́n fún wa ní ìjọba kan",
+        "A gbà wá là nípasẹ̀ iṣẹ́ ìyanu kan",
+        "Aṣeyọri ajẹrikú ati Párádísè",
+        "Wọ́n fọ́n káàkiri ilẹ̀",
+        "Wọ́n fún wọn ní ọrọ̀ ńláǹlà"
+      ],
+      "answer": "Aṣeyọri ajẹrikú ati Párádísè"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

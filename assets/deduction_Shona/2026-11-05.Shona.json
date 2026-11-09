@@ -1,0 +1,61 @@
+{
+  "title": "Rwiyo rweMakomo paMadekwana",
+  "intro": "Teererai sezvo mipata ichidzokorora rumbidzo pamwe chete nemuranda akasarudzwa waAllah. Inzwi rine chipo cherwiyo, kutonga kunotsvakwa nevanokakavadzana vari mukamuri, uye simbi yakanyoroveswa nemurairo waMwari yakamirira kuwanikwa. Ndeupi munhu wekunamata uye mutemo wakarurama anotaura kuburikidza nezviratidzo izvi?",
+  "clues": [
+    "Ndakakomborerwa naAllah nerupo uye nenzwi rakanaka rekurumbidza.",
+    "Ndakadzidziswa naAllah kunzwisisa mutauro wekutonga kwakarurama pakati pevanokakavadzana.",
+    "Ndakatarisana nemhare hofori ine simba muhondo uye nekuda kwaMwari ndakavakunda.",
+    "Ndakapihwa uchenjeri, simba uye rugwaro rwemapisarema rwakazarurwa kubva kuna Allah.",
+    "Ndakabatsirwa nemakomo neshiri mukukudza Allah pamwe chete neni manheru uye pakubuda kwezuva.",
+    "Ndakadzidziswa naAllah kugadzira majasi esimbi akapfava kwandiri."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muporofita Dawud (Dhavhidhi)",
+        "Muporofita Ismail (Ishmael)",
+        "Muporofita Yahya (Johani)",
+        "Dhul-Kifl",
+        "Muprofita Al-Yasa (Erisha)"
+      ],
+      "answer": "Muporofita Dawud (Dhavhidhi)"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Akakunda Jalut (Goliath) muhondo nekuda kwaMwari",
+        "Akavaka Areka kuti apone mafashamo makuru",
+        "Akakandwa mumoto wakaitwa kuti utonhore naAllah",
+        "Yakamedzwa nehove huru mugungwa",
+        "Akamutswa kudenga asina kuravira rufu"
+      ],
+      "answer": "Akakunda Jalut (Goliath) muhondo nekuda kwaMwari"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Makomo neshiri zvichibatana mukurumbidza Allah",
+        "Tsvimbo yakashanduka kuita nyoka",
+        "Moto wakazotonhora uye wakanyarara",
+        "Ngamera hadzi yakatumirwa sechiratidzo kuvanhu",
+        "Areka yematanda yakamiswa paGomo reJudhi"
+      ],
+      "answer": "Makomo neshiri zvichibatana mukurumbidza Allah"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akapihwa umambo, uchenjeri, uye Mapisarema (Mapisarema)",
+        "Akapihwa mwanakomana akwegura mushure mekunamata nemwoyo wose",
+        "Vakapa kuchengetedzwa mubako kwemakore mazhinji",
+        "Akapihwa chitubu cheZamzam murenje",
+        "Kunyudzwa kweuto mugungwa"
+      ],
+      "answer": "Akapihwa umambo, uchenjeri, uye Mapisarema (Mapisarema)"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

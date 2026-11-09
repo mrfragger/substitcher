@@ -1,0 +1,61 @@
+{
+  "title": "Nsa a Wɔadome no",
+  "intro": "Wogyina tete Makkah akwan a ɛyɛ kyinhyia so, faako a bere bi na ɔkra bi a ɔwɔ nkɛntɛnso ne ahonyade dan fii nokware frɛ ho no. Saa onipa yi asɛm no yɛ nkaebɔ a emu yɛ den sɛ mogya mu nhama ntumi nni ahantan nkɔnsɔnkɔnsɔn so nkonim. Hena ne eyi a ne din gye ogya a ɛretwɛn no?",
+  "clues": [
+    "Mede ahantan nantew Makkah mmɔnten so a ɛmaa m’ani furae wɔ nokware no ho, ɛwom sɛ na ɔbɔfo no fi m’ankasa mogya mu de.",
+    "Ná m’agyapade sõ, nanso ɛbɛyɛɛ nnome mmom sen sɛ ɛbɛyɛ kyɛm.",
+    "Akwankyerɛ nhoma no ka me sɛe ho asɛm, na ɛka sɛ me nsa ne me nipasu bɛyera.",
+    "Me hokafoɔ de ne ho bɛkaa me nitan ɔsatuo no ho, na ɔboaboaa nsɔe ano sɛ ɔbɛtrɛ wɔ deɛ ɔfrɛɛ Allah no kwan so.",
+    "Atemmu da no, wɔde me bɛto ogya a ɛredɛw mu, na me hokafo de nsateaa hama abɔ ne kɔn mu.",
+    "Wɔde edin a ɛkyerɛ ‘ogya agya’ — din a ɛkyerɛ me daa tenabea."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Abu Lahab na ɔkyerɛwee",
+        "Abu Jahl",
+        "Abu Talib na ɔkyerɛwee",
+        "Abu Sufyan na ɔkyerɛwee",
+        "Al-Walid ibn al-Mughira na ɔyɛ ɔbaa"
+      ],
+      "answer": "Abu Lahab na ɔkyerɛwee"
+    },
+    "trial": {
+      "label": "Sɔhwɛ anaa Adeyɛ Titiriw",
+      "options": [
+        "Ɔsɔre tiaa Ɔkɔmhyɛni no na wɔdomee no wɔ Kur’aan mu",
+        "Di asraafo dɔm bi anim ma wɔsɛee Kaaba",
+        "Ɔbɔɔ mmɔden sɛ obekum Ɔkɔmhyɛni no denam abo a ɔtow no so",
+        "Ɔpowee sɛ obegye adi sɛ ɔsram no mu apaapae",
+        "Wosii abantenten bi a ɛbɛkɔ soro"
+      ],
+      "answer": "Ɔsɔre tiaa Ɔkɔmhyɛni no na wɔdomee no wɔ Kur’aan mu"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Hell Ogya a ɛredɛw",
+        "Musa Adwumayɛfoɔ",
+        "Nuh Adaka no",
+        "Zamzam Abura no",
+        "Sika Nantwi Ba no"
+      ],
+      "answer": "Hell Ogya a ɛredɛw"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Ɔbɛhyɛn Egya a ɛredɛw no mu, na n’ahonyadeɛ remma no mfasoɔ",
+        "Ɔnu ne ho na ɔbɛyɛɛ gyidini",
+        "Wɔde kyɛɛ no ​​bere a ɔtwee ne ho akyi no",
+        "Owui sɛ mogya dansefo",
+        "Wɔde no kɔɔ soro"
+      ],
+      "answer": "Ɔbɛhyɛn Egya a ɛredɛw no mu, na n’ahonyadeɛ remma no mfasoɔ"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

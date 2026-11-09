@@ -1,0 +1,61 @@
+{
+  "title": "Umuryango w'Icyaha cya Mbere",
+  "intro": "Mu gihugu cy'imijyi ya kera, abantu bahoze batera imbere. Basurwaga n'intumwa ifite umuhamagaro usobanutse, nyamara barahindukiraga bakurikira inzira itigeze igendwamo n'umuntu uwo ari we wese. Inkuru yabo ni iyo kwigomeka, kwangirika, n'igihano cyavuye mu gihugu cyabo nk'ikimenyetso ku bantu bose batekereza. Abo bantu ni bande?",
+  "clues": [
+    "Twari dutuye mu mijyi yo mu kibaya, aho umuhanuzi wacu yaduhamagariraga gukiranuka.",
+    "Twari aba mbere mu gukora ikizira nta muntu n'umwe wigeze akora ku isi yose mbere.",
+    "Twarategaga abagenzi kandi dukora ibibi ku mugaragaro mu materaniro yacu.",
+    "Twanze intumwa yatwoherereje, tumutera ubwoba bwo kumwirukana mu gihugu cyacu.",
+    "Twihutiye kujya iwe tumusaba ko yaduha abashyitsi be.",
+    "Igihano cyacu cyari imvura y'amabuye, kandi umujyi wacu warahindutse umuhengeri."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Turi bande?",
+      "options": [
+        "Abantu ba Lut",
+        "Abantu ba Nuh",
+        "Abantu bo muri 'Ad",
+        "Abantu bo muri Thamud",
+        "Abantu bo muri Madyan"
+      ],
+      "answer": "Abantu ba Lut"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Yakoze igikorwa cya mbere cyo gusambanya",
+        "Ibigirwamana bisengwa",
+        "Yahenzwe mu bucuruzi",
+        "Bishe umuhanuzi wabo",
+        "Banze kumvira ababyeyi babo"
+      ],
+      "answer": "Yakoze igikorwa cya mbere cyo gusambanya"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Umujyi w'ikibaya",
+        "Umujyi w'iriba",
+        "Umujyi w'umuyoboro",
+        "Umujyi w'inzovu",
+        "Umujyi w'ubusitani"
+      ],
+      "answer": "Umujyi w'ikibaya"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Yaguye amabuye aragwa",
+        "Yarohamye kubera umwuzure",
+        "Yashenywe n'umuyaga ukomeye",
+        "Yamizwe n'isi",
+        "Yakubiswe n'urusaku rwinshi"
+      ],
+      "answer": "Yaguye amabuye aragwa"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

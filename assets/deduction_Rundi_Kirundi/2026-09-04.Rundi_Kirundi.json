@@ -1,0 +1,61 @@
+{
+  "title": "Umuziki Watumye Imisozi Igenda .",
+  "intro": "Ugiye guhishura inkuru y’umusavyi wa Allah atangaje. Mu gihugu c’intumwa n’abategetsi, uwo muntu yari yarahezagiwe n’igitabu c’Imana, ijwi rikomeye be n’inkomezi zirengeye ivyuma. Uko usoma ivyo bimenyetso, woba ushobora kumenya uwo yoba ari nde?",
+  "clues": [
+    "Nari umusuku wa Allah yahawe igitabu kidasanzwe.",
+    "Nari mfise ijwi ryiza cane, kandi ugushemeza kwanje kwari gukundwa cane ku buryo mbere n’imisozi n’inyoni vyanyifatanya.",
+    "Narahuye n’umuntu akomeye cane mu ntambara izwi cane, kandi naho nari mutoyi, naratsinze.",
+    "Ivyuma vyari bikomeye kuri jewe, bikantuma nshobora gukora ibirwanisho n’amaboko yanje bwite.",
+    "Nagizwe umutware w’ihanga rikomeye, ubwenge bwanje bwo guca imanza buramenyekana.",
+    "Umuhungu wanje na we nyene yari umuhanuzi, yahawe ububasha bwo kugenzura umuyaga n’amajini."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umuhanuzi Dawudi (Dawidi)",
+        "Umuhanuzi Sulemani (Salomo)",
+        "Umuhanuzi Musa (Musa)",
+        "Umuhanuzi Haruni (Aroni)",
+        "Umuhanuzi Iliya (Eliya)"
+      ],
+      "answer": "Umuhanuzi Dawudi (Dawidi)"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Yatsinze Goliyati (Yaluti)",
+        "Yaragabanyije ikiyaga",
+        "Yarokotse iyo baleine",
+        "Yajugunywe mu muriro .",
+        "Yubatse ubwato"
+      ],
+      "answer": "Yatsinze Goliyati (Yaluti)"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Zaburi (Izaburi)",
+        "Torah (Tawrat)",
+        "Inkuru Nziza (Injil)",
+        "Umuzingo wa Iburahimu",
+        "Korowani"
+      ],
+      "answer": "Zaburi (Izaburi)"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Yabaye umuhanuzi n'umwami wa Isirayeli .",
+        "Yabaye umutware wa Misiri .",
+        "Yaraduzwe aja mw'ijuru .",
+        "Yarimbuwe n'igihuhusi",
+        "Yabaye umugenzi w'isenga ."
+      ],
+      "answer": "Yabaye umuhanuzi n'umwami wa Isirayeli ."
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

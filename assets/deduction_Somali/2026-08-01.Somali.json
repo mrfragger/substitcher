@@ -1,0 +1,61 @@
+{
+  "title": "Guulaystaha Laba Horseed dhexdooda",
+  "intro": "Qormada hanuunka rabbaaniga ah, hal qof ayaa kala soocan isagoo ah hoggaamiye xoog leh iyo addoon Alle oo is-hoosaysiiya. Qofkani wuxuu u safray meelaha ugu fog ee dhulka, isagoo arkaya qorraxdu oo ka soo baxaysa dad aan caadi ahayn oo ku dhacaysa gu' madow oo mugdi ah. Waxa ugu yaabka badan, addoonkan waxaa loo xilsaaray inuu dhiso derbi aan caadi ahayn oo ka dhan ah ummad xumaan weyn wadata. Ma ka aqoonsan kartaa shakhsigan halyeeyga ah Qur'aanka?",
+  "clues": [
+    "Waxaa dhulka i siiyay awood iyo saameyn uu igu yeeshay Ilaaha Raxmaanka ah (رحمن رحمن)",
+    "Waxaan u safray meesha qorraxdu ka soo baxdo iyo meesha ay ka dhacdo",
+    "Waxaan gaaray dad aan eray fahmi karin",
+    "Waxaa la i faray inaan dhiso xayndaab weyn oo bir ah",
+    "Waxaan ku xidhay meesha u dhaxaysa laba buurood oo dhaadheer bir dhalaalaysa oo aan ku xidhay meel bannaan oo u dhaxaysa laba buurood oo dhaadheer.",
+    "Malag iyo Nabi midna ma ahayn, laakiin waxaan ahaa addoon uu Alle ku mannaystay nimco."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Dhu Al-Qarnayn (Kan Laba Gees Leh)",
+        "Boqor Sulaymaan (Suleymaan)",
+        "Nabi Dhul-Kifl",
+        "Dhu al-Nuun (Saaxiibka Kalluunka)",
+        "Malaa'igta Dekadda"
+      ],
+      "answer": "Dhu Al-Qarnayn (Kan Laba Gees Leh)"
+    },
+    "trial": {
+      "label": "Hawsha Weyn",
+      "options": [
+        "Dhisidda munaarad jannada loo qaadayo",
+        "Dhisidda derbi bir ah oo weyn oo ka soo horjeeda Yajuj iyo Majuj",
+        "Abuurista carshi dahab ah oo loogu talagalay xukunka",
+        "Ceel qoto dheer oo loo qodo kuwa xaqa ah",
+        "Dhisidda markab inta lagu jiro daad weyn"
+      ],
+      "answer": "Dhisidda derbi bir ah oo weyn oo ka soo horjeeda Yajuj iyo Majuj"
+    },
+    "location": {
+      "label": "Dejinta",
+      "options": [
+        "Dhulkii Uzayr ee u dhexeeyay laba webi",
+        "Meesha qorrax soo baxa iyo guga madow ee dhoobada ah",
+        "Dooxada barakeysan ee Makkah",
+        "Lamadegaanka Madyan",
+        "Jasiiradda Qubrus"
+      ],
+      "answer": "Meesha qorrax soo baxa iyo guga madow ee dhoobada ah"
+    },
+    "outcome": {
+      "label": "Ballanqaadka Rabbaaniga ah",
+      "options": [
+        "Jannada waarta ayaa isla markiiba la siiyay",
+        "Qaranka waxaa burburiyay dabeylo kulul",
+        "Caqabaddu waxay socon doontaa ilaa Maalinta Qiyaame",
+        "Xorriyadda dhimashada dhammaan mu'miniinta",
+        "Boqortooyo weligeed ah oo aan dhammaad lahayn"
+      ],
+      "answer": "Caqabaddu waxay socon doontaa ilaa Maalinta Qiyaame"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

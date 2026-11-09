@@ -1,0 +1,61 @@
+{
+  "title": "Irúgbìn Ìjà",
+  "intro": "Kí gbogbo ayé tó mọ̀ pé ìjà gbòòrò, ìdánwò ìgbàgbọ́ àti ìgbọràn bẹ̀rẹ̀. Ìtàn yìí ń ṣàwárí àwọn àṣàyàn tí ẹnì kan ṣe, ẹni tí ìṣe rẹ̀ fi àpẹẹrẹ lélẹ̀ fún àwọn ìran tí ń bọ̀. Múra sílẹ̀ láti tú ìtàn ọkàn kan tí ó ń jà pẹ̀lú owú ńlá àti àwọn àbájáde búburú rẹ̀.",
+  "clues": [
+    "Mo wà lára ​​àwọn ọmọ àkọ́kọ́ tó rìn lórí ilẹ̀ ayé, mo sì jẹ́ ọmọ tọkọtaya àkọ́kọ́.",
+    "Wọ́n pàṣẹ fún èmi àti àbúrò mi láti rú ẹbọ sí Allah, ìdánwò òtítọ́ wa.",
+    "Wọn kò gba ẹ̀bùn mi, nígbà tí ti àbúrò mi sì gba ẹ̀bùn náà, èyí tí ó kún ọkàn mi pẹ̀lú ìmọ̀lára búburú.",
+    "Mo sọ ọ̀rọ̀ ìhalẹ̀ sí àbúrò mi, nítorí ìbínú ìkọ̀sílẹ̀ tí mo ní.",
+    "Ẹ̀gbọ́n mi dáhùn pẹ̀lú ọgbọ́n àti ìbẹ̀rù Ọlọ́run, ó sì rán mi létí ìdájọ́ òdodo Ọlọ́run àti ìbẹ̀rù Rẹ̀.",
+    "Láìka ọ̀rọ̀ pẹ̀lẹ́ ẹ̀gbọ́n mi àti ìfẹ́ ọkàn rẹ̀ láti dáríjì sí, mo pa ara mi, mo sì di ọ̀kan lára ​​àwọn tó pàdánù."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Ádámù",
+        "Iblis",
+        "Wòlíì Nóà",
+        "Qabil (Kaini)",
+        "Fir’aun"
+      ],
+      "answer": "Qabil (Kaini)"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ìkún omi ńlá náà",
+        "Pípín òkun",
+        "Ilé Kaaba",
+        "Ẹbọ àwọn ẹbọ",
+        "Ìdánwò Nínú Ọgbà"
+      ],
+      "answer": "Ẹbọ àwọn ẹbọ"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Àpótí náà",
+        "Òṣìṣẹ́ náà",
+        "Òkè Safa",
+        "Ẹbọ náà",
+        "Igbó Tí Ń jóná"
+      ],
+      "answer": "Ẹbọ náà"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ó di ìránṣẹ́",
+        "Wọ́n rì sínú omi",
+        "Wọ́n kọ́ ìjọba ńlá kan",
+        "Ó ti di àpẹẹrẹ ìbànújẹ́",
+        "Wọ́n fún un ní ọrọ̀ ńláǹlà"
+      ],
+      "answer": "Ó ti di àpẹẹrẹ ìbànújẹ́"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

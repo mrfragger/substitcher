@@ -1,0 +1,61 @@
+{
+  "title": "Ìtẹ́ Òtítọ́",
+  "intro": "Alákòóso alágbára kan, tí a mọ̀ fún ọgbọ́n ńlá àti ìtẹ́ rẹ̀ tó ga, gba ìhìn àṣírí láti orísun tí a kò mọ̀. Ìbánisọ̀rọ̀ àìròtẹ́lẹ̀ yìí ń pe ìgbàgbọ́ àti àṣẹ wọn níjà, ó sì ń mú wọn lọ sí ìrìn àjò ìṣèlú tí yóò dán ọgbọ́n wọn wò tí yóò sì yọrí sí ìjìnlẹ̀ ẹ̀mí jíjinlẹ̀ nígbẹ̀yìn gbẹ́yín. Ṣé o lè ṣàwárí ẹni tí ọba yìí jẹ́ àti àwọn ìṣẹ̀lẹ̀ tí ó yí gbogbo ìjọba wọn padà?",
+  "clues": [
+    "Èmi àti àwọn ènìyàn mi ń jọ́sìn oòrùn, a sì ń tẹ̀lé ọ̀nà àwọn baba ńlá wa.",
+    "Ẹyẹ kan, àgbáǹgbá, ni ìránṣẹ́ tí kò ṣeéṣe tí ó mú lẹ́tà wá fún mi láti ọ̀dọ̀ olórí alágbára kan.",
+    "Láti dán ọgbọ́n olùránṣẹ́ wò, mo fi ẹ̀bùn iyebíye ránṣẹ́, ṣùgbọ́n wọ́n dá wọn padà, nítorí pé olùránṣẹ́ náà ní ọrọ̀ tó pọ̀ ju ti Allāhu lọ.",
+    "Kí n tó dé ààfin olùránṣẹ́ náà, wọ́n gbé ìtẹ́ mi tóbi lọ síbẹ̀ lọ́nà ìyanu ní ìṣẹ́jú kan.",
+    "Nígbà tí mo dé, wọ́n bi mí bóyá ìtẹ́ tí wọ́n gbé lọ ni tèmi, mo sì dáhùn pé, ‘Ó dà bíi pé òun gan-an ni.’",
+    "Mo wọ inú gbọ̀ngàn ńlá kan tí mo rò pé ó jẹ́ adágún omi, ní àkókò ìyanu yẹn, mo fi ara mi sílẹ̀ pẹ̀lú Ànábì Sùlámínì fún Allāh, Olúwa gbogbo ayé."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Ayaba Ṣeba",
+        "Zulaikha (Iyawo Al-Aziz)",
+        "Asia (Iyawo Farao)",
+        "Ìyá Mósè",
+        "Màrímà (Ìyá Ísà)"
+      ],
+      "answer": "Ayaba Ṣeba"
+    },
+    "trial": {
+      "label": "Iṣẹlẹ Aarin",
+      "options": [
+        "Gbigba lẹta lati ọdọ Annabi Sulaiman",
+        "Jíjẹ́ tí a jù sínú iná",
+        "Kíkọ́ ọkọ̀ ojú omi láti ye ìkún omi kan",
+        "Pípín Òkun Pupa Pínyà",
+        "Wọ́n fẹ̀sùn àìmẹ̀tọ́mọ̀wà kan ẹni"
+      ],
+      "answer": "Gbigba lẹta lati ọdọ Annabi Sulaiman"
+    },
+    "location": {
+      "label": "Ohun pàtàkì náà",
+      "options": [
+        "Ìtẹ́ àgbàyanu kan",
+        "Ọmọ màlúù wúrà kan",
+        "Aṣọ aláwọ̀ púpọ̀",
+        "Ọ̀pá tí ó di ejò",
+        "Ọkọ̀ ojú omi tí a fi pákó àti ìṣó ṣe"
+      ],
+      "answer": "Ìtẹ́ àgbàyanu kan"
+    },
+    "outcome": {
+      "label": "Àbájáde Tó Gbéṣẹ́ Jùlọ",
+      "options": [
+        "Jíjẹ́ olùfọkànsìn fún Ọlọ́run tòótọ́ kan ṣoṣo (Allah)",
+        "Jíjẹ́ tí a yípadà sí ọwọ̀n iyọ̀",
+        "Kíkọ́ ilé gogoro gíga láti dé ọ̀dọ̀ Ọlọ́run",
+        "Jíjẹ́ tí ẹja ńlá gbé mì",
+        "Pípàdánù ọrọ̀ ńlá gẹ́gẹ́ bí ìyà"
+      ],
+      "answer": "Jíjẹ́ olùfọkànsìn fún Ọlọ́run tòótọ́ kan ṣoṣo (Allah)"
+    }
+  },
+  "verseRef": "27:44",
+  "arabic": "قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةًۭ وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُۥ صَرْحٌۭ مُّمَرَّدٌۭ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَـٰنَ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+  "verse": "She was told, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins [to wade through]. He said, \"Indeed, it is a palace [whose floor is] made smooth with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allāh, Lord of the worlds.\" (27:44)"
+}

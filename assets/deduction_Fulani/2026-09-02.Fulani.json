@@ -1,0 +1,61 @@
+{
+  "title": "Ko Slumber Haa Wakkati",
+  "intro": "Miijo-ɗee sahaa nde goonga muumɗi, gooŋɗinɓe njiylotoo. Fedde tokosere suɓii ko ruttaade e dogde, heɓde reentaade e nokkuuji ɓurɗi waasde — nokku mo wonata nokku maɓɓe fooftorde fotde teeminanɗe ɗe limtaaka. Nde ɓe ndartiima, aduna o wayliima e sara maɓɓe. Hol ɓeeɗoo ruuhuuji ɗaaniiɓe?",
+  "clues": [
+    "Min ngonnoo ko sukaaɓe hoɗɓe e wuro ɓooyngo.",
+    "Renndo amen ina ɗaɓɓi nde min ndewata e bannge maɓɓe, kono min njaɓaani.",
+    "Min ndogi wuro ngo ngam ɗaɓɓude daɗndo e luutndiiɓe ko min ngoongɗini koo.",
+    "Sehil am lolluɗo koyɗe nay jooɗii e damal suudu amen cuuɗiiɗo.",
+    "Alla waɗi en ɗannondirde duuɓi teemedde tati e jeenay (39).",
+    "Nde min njippii e joofnirde, wuro amen ngo meeɗnoo-ɗen torraade ngoo, jaɓii iimanaagal."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol Enen?",
+      "options": [
+        "Ashab al-kahf (Yimɓe luggere)",
+        "Ashab al-fil (Konu kuɗol)",
+        "Ashab al-Ukhdud (Sehaabaaɓe Ɓoornugol)",
+        "Hawariyyuun en (almuuɓe Iisaa)",
+        "Yajuj wa Majuj (Gog e Magog)"
+      ],
+      "answer": "Ashab al-kahf (Yimɓe luggere)"
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "Min ndartiima e nder ngaska, min ɗaaniima duuɓi teemedde",
+        "Min ndañaama e yiite wulnge",
+        "Liingu mawngu moɗi min",
+        "Min jarribaama e gelooɗi debbo kaawis",
+        "Min ndokkaama maandeeji jeenay laaɓtuɗi"
+      ],
+      "answer": "Min ndartiima e nder ngaska, min ɗaaniima duuɓi teemedde"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Ngaska luggiɗka e nder koye",
+        "Laana ndiwoowa dow maayo udditiingo",
+        "Ko mbaydi toowndi haa yettii asamaan",
+        "Jardiin feccii hakkunde luutndiiɓe ɗiɗo",
+        "Barrier njamndi e njamndi mboɗeeri"
+      ],
+      "answer": "Ngaska luggiɗka e nder koye"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "Min ngummii min tawi wuro amen wayliima wonti goonɗinal",
+        "Yiite ɓuuɓnge wonti cooyngal e jam",
+        "Konu gaño yani e maayo",
+        "Colli jogiiɗi kaaƴe mbonni gaño oo",
+        "Liɗɗi mawɗi njaltini en e daande maayo"
+      ],
+      "answer": "Min ngummii min tawi wuro amen wayliima wonti goonɗinal"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Mpwemu Yizigirwa wo mu Vyahishuriwe Yohana .",
+  "intro": "Mu bibanza bitaboneka, ikiremwa c’umuco utagira agasembwa kiragenda ata gufyina, kigashitsa itegeko ryose ata gukekeranya. Uwo mubare waravugishije abasuku batoranijwe, urazana amajambo y’ubuyobozi, kandi urabona ukuntu amategeko y’Imana yashirwa ahabona mu bihe vyose. None uwo mutima wubahwa ni nde?",
+  "clues": [
+    "Ndi ikiremwa c’umuco utagira agasembwa, naremwe n’umuco, kandi sinigeze nsuzugura itegeko na rimwe ry’Umukama wanje.",
+    "Ngendagenda hagati y’ijuru n’isi, nmanuka n’amategeko y’Umunyakigongwe.",
+    "Narungitswe ku mwigeme w’isugi w’icubahiro mu rusengero, ndamumenyesha umuhungu atyoroye.",
+    "Ndi impwemu y’ubweranda, kandi nashigikiye umuhanuzi yahawe ibimenyetso bitomoye n’Injili.",
+    "Naje mu mwobo wo ku musozi kugira ngo nshikirize amajambo ya mbere y’ugusoma kwari kuzozigama ibihe bidahera.",
+    "Ndi impwemu yizigirwa, kandi ni jewe namanuye Korowani ku mutima w’intumwa ya nyuma."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Jiburili (Gaburiyeli)",
+        "Mikayeli (Mikaheli)",
+        "Umumarayika w'urupfu",
+        "Malik (Umurinzi w’Ikuzimu)",
+        "Haruti (umwe mu bamarayika babiri bari i Babiloni)"
+      ],
+      "answer": "Jiburili (Gaburiyeli)"
+    },
+    "trial": {
+      "label": "Intumbero/Uruhara rw'ingenzi",
+      "options": [
+        "Gushikiriza ihishurirwa abavugishwa n'Imana .",
+        "Kuvuza inzumbete ku musi w'urubanza .",
+        "Kurinda amarembo ya Gehinomu .",
+        "Kwandika ibikorwa vy'abantu .",
+        "Gutuma imvura igwa ."
+      ],
+      "answer": "Gushikiriza ihishurirwa abavugishwa n'Imana ."
+    },
+    "location": {
+      "label": "Urufunguzo rw'akaranga canke umutwe",
+      "options": [
+        "Mpwemu Yera (Ruh al-Qudus)",
+        "Mpwemu w'ububasha",
+        "Mpwemu w'ikigongwe .",
+        "Mpwemu w'ubuyobozi",
+        "Mpwemu w'ukuri"
+      ],
+      "answer": "Mpwemu Yera (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Ivyavuye mu gikorwa",
+      "options": [
+        "Korowani yahishuriwe umuhanuzi Muhamadi .",
+        "Inzamba yavuzwe ku musi w'urubanza .",
+        "Ikuzimu yari irindwa kandi amarembo yayo yari yugaye .",
+        "Igitabo c'ibikorwa cashikirijwe Allah .",
+        "Imvura yamanutse kw'isi ."
+      ],
+      "answer": "Korowani yahishuriwe umuhanuzi Muhamadi ."
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

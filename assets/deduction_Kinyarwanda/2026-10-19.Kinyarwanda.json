@@ -1,0 +1,61 @@
+{
+  "title": "Abajugunywe mu ijuru",
+  "intro": "Ikiremwa cy’amayobera gihagaze mu nzira y’irema n’iyangwa. Inkuru yabo ni ubwirasi budasanzwe no kwigomeka ku itegeko ry’Imana. Amahitamo yabo agaragara mu bisekuru byose, akaba ikizamini kuri buri roho yavukiye muri iyi si. Ese ushobora kumenya uyu mwanzi w’iteka ryose?",
+  "clues": [
+    "Nari ndi mu gikorwa cy’ingenzi cyane ku isi, ubwo ikiremwa gishya cyaremwaga mu ibumba kigahabwa ubuzima n’umwuka w’Imbabazi.",
+    "Nanjye ubwanjye naremwe nturutse ku kintu kimwe gika umuriro, bitandukanye n'icyo cyaremwe mu mukungugu.",
+    "Hatanzwe itegeko nabonaga ko riri munsi y'aho nkorera.",
+    "Ubwibone bwaranyibagiwe, maze ndanga rwose gukurikiza iryo tegeko.",
+    "Nahawe gutinda kugeza ku munsi wagenwe, kugira ngo nkomeze umugambi wanjye wo kuyobya abandi.",
+    "Ndi umwanzi w’abantu bose bagenda ku isi, nvugana uburiganya kandi nkabakurura mu nzira igororotse."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Ibilisi (Satani)",
+        "Farawo (Firauni)",
+        "Hamani",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Ibilisi (Satani)"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Yanze kunamira Adamu",
+        "Yiyise Imana ibinyoma",
+        "Yacuze inyana ya zahabu yo kuyisenga",
+        "Yishe murumuna we kubera ishyari",
+        "Yayoboye ivangura rishingiye ku idini ry’abayoboke b’amadini menshi i Makka"
+      ],
+      "answer": "Yanze kunamira Adamu"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Paradizo (Jannah)",
+        "Ingoro ya Farawo mu Misiri",
+        "Ikibaya gitagatifu cya Tuwa",
+        "Ubujyakuzimu bw'inyanja",
+        "Ubusitani bwa Sheba"
+      ],
+      "answer": "Paradizo (Jannah)"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Yemerewe kuruhuka kugeza ku munsi w'urubanza",
+        "Barohamye hamwe n'ingabo mu nyanja",
+        "Isi yamizwe n'ubutunzi hamwe n'isi",
+        "Yahinduwe inkende kubera kwica Isabato",
+        "Yatwitswe n'amabuye yajugunywe mu kirere"
+      ],
+      "answer": "Yemerewe kuruhuka kugeza ku munsi w'urubanza"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

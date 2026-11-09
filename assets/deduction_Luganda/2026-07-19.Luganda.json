@@ -1,0 +1,61 @@
+{
+  "title": "Eddoboozi Ery’Ebyasa Ebitafaayo",
+  "intro": "Mu kiseera edda ng’ebibuga ebinene tebinnaba kusituka, emmeeme eyali yokka yasituka mu bantu abaali bavudde ku mazima. Obukakanyavu bwabwe bwakwatagana n’obugumiikiriza bw’omukubi ono eyali yekka, eyasaba okuyita mu milembe nga tafiiriddwa bumalirivu. Okulabula kwonna bwe kwagwa ku matu, okubala okutabangawo kwaddamu okubumba ensi yennyini. Leero, amaloboozi g’emboozi eyo gakyakulukuta mu buli kusoma. Osobola okuzuula emmeeme eno emaliridde?",
+  "clues": [
+    "Nnakuzibwa mu bantu abaali basinza ebifaananyi eby’obulimba ne batafaayo ku bubonero obwali beetoolodde, naye ate nnalondebwa okubazuukusa okuva mu butafaayo bwabwe.",
+    "Nakoowoola abantu bange enfunda n’enfunda, naye ne banvunaana nti siri kirala wabula omuntu nga bo, nga nsekerera obubaka bwange n’okubikka amatu.",
+    "Ekiro n’emisana, nnabeegayirira n’amagezi n’okujjukiza okugonvu, naye ebigambo byange byalabika ng’ebibula mu bbanga, nga tebiwuliddwa era nga tebiwulirwa.",
+    "Olw’okulagirwa Katonda, nnazimba ekibya ekinene ennyo eky’embaawo n’embaawo ku ttaka ekikalu, era abantu bange ne bansekerera ng’omuntu eyali abuze ensonga.",
+    "Amataba amanene bwe gajja nga bwe nnasuubiza, mutabani wange yennyini yagaana okulinnya emmeeri nange, ng’alowooza nti olusozi lujja kumukuuma okuva ku mazzi agaali gagenda galinnya.",
+    "Nafuuka jjajja w’entandikwa empya ku nsi, era emboozi yange ekuumibwa mu ssuula ya Quran eyitibwa erinnya lyange lyenyini."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Nabbi Nuh",
+        "Nabbi Ibrahim",
+        "Nabbi Musa",
+        "Nabbi Lut",
+        "Nabbi Hud"
+      ],
+      "answer": "Nabbi Nuh"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Amataba Amanene agaaddamu okubumba ensi",
+        "Okusuulibwa mu muliro oguyaka ennyo abasinza ebifaananyi",
+        "Okulwanagana n'abalogo ba Falaawo mu lubiri",
+        "Okuzikirizibwa kw’ensuku ezikulaakulana olw’omuyaga ogw’omu ggulu",
+        "Okufuumuuka kw’abatuuze b’omu mudumu"
+      ],
+      "answer": "Amataba Amanene agaaddamu okubumba ensi"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Essanduuko yazimbibwa mu mbaawo n’embaawo",
+        "Ennyumba entukuvu eyazimbibwa ku misingi egy’edda",
+        "Omuggo ogwakyuka ne gufuuka omusota",
+        "Empuku y'abavubuka abeebase",
+        "Entebe ey’obwakabaka eyasitulibwa ekitonde eky’amaanyi"
+      ],
+      "answer": "Essanduuko yazimbibwa mu mbaawo n’embaawo"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Abatakkiriza babbira mu mazzi ng’abakkiriza balokose ku lyato",
+        "Omuliro gwafuuka nnyogovu era nga tegulina bulabe, era eyakubidde essimu n’avaayo nga tafunye buzibu",
+        "Abalogo baavunnama ne bakkiriza okukkiriza",
+        "Olusuku lwaweebwa muliraanwa omutuukirivu mu kifo kyalwo",
+        "Abasula baazuukuka oluvannyuma lw’ebyasa bingi, nga bakyuse"
+      ],
+      "answer": "Abatakkiriza babbira mu mazzi ng’abakkiriza balokose ku lyato"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

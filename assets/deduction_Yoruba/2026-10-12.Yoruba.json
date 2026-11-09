@@ -1,0 +1,61 @@
+{
+  "title": "Ẹ̀jẹ́ Àwọn Ọmọ Tí A Kú",
+  "intro": "Ọkàn olóòótọ́ kan ṣe ìlérí mímọ́ kí ọmọ tó dé. Ìtàn ẹni yìí farahàn nínú ògiri ibi mímọ́ kan, níbi tí ìfọkànsìn ti pàdé ìtẹ́wọ́gbà Ọlọ́run. Ta ni ìránṣẹ́ Allah yìí?",
+  "clues": [
+    "Mo jẹ́ ara ìdílé kan tí a bọ̀wọ̀ fún nínú Al-Quran.",
+    "Mo ṣe ìlérí pàtàkì láti ya ọmọ tí a kò bí sí mímọ́ fún iṣẹ́ ìsìn Allah.",
+    "Nígbà tí mo bímọ, ó yà mí lẹ́nu láti rí i pé ọmọbìnrin ni, bó tilẹ̀ jẹ́ pé mo ti retí ọmọkùnrin.",
+    "Mo sọ ọmọ mi ní Màríà, orúkọ tí ó ń fi ìfọkànsìn àti iṣẹ́ ìsìn hàn.",
+    "Mo wá ààbò Allāhu fún ọmọ mi àti àwọn ọmọ rẹ̀ lọ́wọ́ Sàtánì tí a fi ègún ṣe.",
+    "Oluwa gba ọmọ mi, o si fi si abẹ abojuto Anabi Zakariya ni ibi mimọ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Iyawo Imran (Iya Maria)",
+        "Asia, aya Farao",
+        "Màríà, ìyá Ísà",
+        "Ìyá Ànábì Mùsà",
+        "Ayaba Ṣeba"
+      ],
+      "answer": "Iyawo Imran (Iya Maria)"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ó ṣe ìlérí láti ya ọmọ rẹ̀ sí mímọ́ fún tẹ́ḿpìlì",
+        "Jíjẹ́ tí a jù sínú iná",
+        "Líla òkun kọjá lórí ilẹ̀ gbígbẹ",
+        "Kíkọ́ ọkọ̀ ńlá kan",
+        "Ẹja ńlá gbé mì"
+      ],
+      "answer": "Ó ṣe ìlérí láti ya ọmọ rẹ̀ sí mímọ́ fún tẹ́ḿpìlì"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ibi ìpamọ́ (mihrab) níbi tí wọ́n gbé ọmọ rẹ̀ sí",
+        "Àpótí májẹ̀mú",
+        "Ọmọ màlúù wúrà",
+        "Ọ̀pá tí ó di ejò",
+        "Igi ọ̀pẹ tí ó sinmi sí lábẹ́ rẹ̀"
+      ],
+      "answer": "Ibi ìpamọ́ (mihrab) níbi tí wọ́n gbé ọmọ rẹ̀ sí"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Wọ́n gba ọmọ rẹ̀, wọ́n sì fi sí abẹ́ àbójútó Wòlíì Zakariya.",
+        "A gbà á lọ́wọ́ ìyà apànìyàn kan",
+        "Wọ́n bí ọmọ kan fún un tí orúkọ rẹ̀ ń jẹ́ Yahya",
+        "Ìjì kan pa àwọn ènìyàn rẹ̀ run",
+        "Ó di ayaba lórí ìjọba ńlá kan"
+      ],
+      "answer": "Wọ́n gba ọmọ rẹ̀, wọ́n sì fi sí abẹ́ àbójútó Wòlíì Zakariya."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Okugezesebwa Wansi w'amayengo",
+  "intro": "Nabbi, ng’azitoowereddwa obutume bwe, yasalawo ekyamutwala wala n’abantu be n’ayingira mu kugezesebwa kwe yali tasuubira. Olugendo lwe lwakyuka mu ngeri ey’ekitalo, ne lugezesa okukkiriza kwe n’obugumiikiriza bwe mu ngeri esinga obuziba. Osobola okuggya ebikwata ku kintu kino eky’enjawulo okuva mu bubonero obuweereddwa?",
+  "clues": [
+    "Nabbi yasindikibwa eri abantu, naye n’agenda mu bwangu, ng’awulira nga yennyamivu olw’okugaanibwa kwabwe.",
+    "Olugendo lwe lwamutuusa ku nnyanja, gye yalinnya emmeeri eyali etisse emigugu mingi ng’enoonya ekkubo.",
+    "Omuyaga omunene gwajja, ne gutiisa emmeeri, era ne wabaawo okusalawo okusuula omuntu omu ku nnyanja okukendeeza ku mugugu, nga kino kyasalibwawo obululu.",
+    "Yamira ekitonde eky’omu buziba, ekintu eky’ekyamagero ekyalagirwa okwagala kw’Obwakatonda.",
+    "Mu nsalo z’olubuto lw’ekitonde, yakoowoola Mukama we, nga yeenenya era ng’agulumiza Allah mu kizikiza.",
+    "Oluvannyuma lw’ekiseera eky’okwegayirira okw’amaanyi, yasuulibwa ku lubalama lw’ennyanja olutaliiko bimera, nga munafu naye nga mulamu, era oluvannyuma n’akomawo n’asanga ng’abantu be baali bakkirizza."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Nabbi/Omuntu",
+      "options": [
+        "Nabbi Nuh",
+        "Nabbi Lut",
+        "Nabbi Musa",
+        "Nabbi Yunus",
+        "Nabbi Yusuf"
+      ],
+      "answer": "Nabbi Yunus"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Amataba ga Nuu",
+        "Okuzikirizibwa kwa Sodomu",
+        "Olugendo mu lubuto lw’ebyennyanja ebinene",
+        "Okukutuka kw’ennyanja",
+        "Okubikkulirwa kw’ekisaka ekyokya"
+      ],
+      "answer": "Olugendo mu lubuto lw’ebyennyanja ebinene"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Essanduuko",
+        "Olusozi Sinaayi",
+        "Abakozi ba Musa",
+        "Ekyennyanja Ekinene",
+        "Oluzzi lwa Yusuf"
+      ],
+      "answer": "Ekyennyanja Ekinene"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Endagaano empya n’obuntu",
+        "Okuzaalibwa okw’ekyamagero eri abantu be",
+        "Obwakabaka obwateekebwawo olw’olunyiriri lwe",
+        "Okudda eri abantu be olwo ne bakkiriza",
+        "Obuwanguzi ku mufuzi omutyobooli"
+      ],
+      "answer": "Okudda eri abantu be olwo ne bakkiriza"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

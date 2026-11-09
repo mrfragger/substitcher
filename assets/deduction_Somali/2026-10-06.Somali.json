@@ -1,0 +1,61 @@
+{
+  "title": "Runta Aamusiisay Maxkamadda",
+  "intro": "Qasri ay dafiraddu ka talinaysay, awoodduna ay ahayd mid dhammaystiran, ayaa waxaa isugu yimid dad xirfadlayaal ah oo xirfadlayaal ah oo hor istaagay caqabad lama filaan ah. Hawada ayaa si xooggan u ruxday iyadoo labada waddo ee beenta iyo runta ay isku dhacayaan. Kuwa isu yimid ma aysan ogeyn in kulankani uu noloshooda u beddeli doono si weligeed ah oo uu sheekadooda ugu dari doono qoraalka quduuska ah.",
+  "clues": [
+    "Waxaa naloogu caan baxay xirfadda aan u leenahay khiyaaliga waxaana nagu soo ururiyay taliye awood leh si uu ula dagaallamo qof caqabad ku ah.",
+    "Markii waqtigu yimid, waxaan tuurnay qalabkii oo waxaan sugaynay natiijada, annagoo ku kalsoon farsamadeena.",
+    "Laakiin waxa aan aragnay waxay ka dhigeen aaladahayaga kuwo u eg alaabta carruurtu ku ciyaarto oo keliya, qalbiyadeenuna waxay aqoonsadeen runta aan la dafiri karin.",
+    "Waxaan dhulka ku dhacnay annagoo sujuudsan, annagoo ku dhawaaqayna rumaysadka Rabbigii Muuse iyo Haaruun, inkastoo uu ka xanaaqay taliyuhu.",
+    "Taliyuhu wuxuu noogu hanjabay ciqaabta ugu arxan daran, isagoo ku dhaartay inuu na iskutallaabta nagu qodbi doono oo uu addimadeenna ka jari doono si ka soo horjeeda.",
+    "Waan sii adkaysannay, annagoo leh waxaan ka doorbidnay xukunka Rabbigeen cawaaqib kasta oo adduunyo ah, waxaana u shahiiday iimaankeenna awgiis."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Saaxiriintii Fircoon",
+        "Dadka Godka ku nool",
+        "Asxaabta Kaynta",
+        "Xertii Ciise",
+        "Dadka Maroodiga"
+      ],
+      "answer": "Saaxiriintii Fircoon"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Tartan sixir ah oo ka dhan ah Muuse",
+        "Dab baa lagu tuuray iyaga",
+        "Daad ku qarqiyay iyaga",
+        "Abaar iyo macaluul",
+        "Dhulgariir"
+      ],
+      "answer": "Tartan sixir ah oo ka dhan ah Muuse"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Ulo iyo xadhkaha oo isu beddelay abeesooyin",
+        "Geed gubanaya",
+        "Hashii",
+        "Sanduuq alwaax ah",
+        "nibiriga"
+      ],
+      "answer": "Ulo iyo xadhkaha oo isu beddelay abeesooyin"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Iimaan awgeed ayaa loo dilay, Jannadana waa la ballanqaaday",
+        "Badda ayay ku qarqisay",
+        "Wuxuu noqday taliyayaashii Masar",
+        "Kuwa sii raaca Fircoon",
+        "Dhulka dhaxlay"
+      ],
+      "answer": "Iimaan awgeed ayaa loo dilay, Jannadana waa la ballanqaaday"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

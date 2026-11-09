@@ -1,0 +1,61 @@
+{
+  "title": "Ẹbọ Àtinúwá",
+  "intro": "Ní àkókò ìdánwò àtọ̀runwá, a pe ọkàn kan sí ìgbésẹ̀ ìtẹríba tó ga jùlọ. Nígbà tí a tọ́ ọ dàgbà ní ilẹ̀ aṣálẹ̀, ẹni yìí dàgbàsókè láti fi ìgbàgbọ́ àti sùúrù hàn. Nígbà tí ìran kan bá pàṣẹ fún ẹbọ, wọn kò yípadà. Ìtàn wọn jẹ́ ìpìlẹ̀ ìfọkànsìn.",
+  "clues": [
+    "Èmi ni ìdáhùn sí àdúrà wòlíì ńlá kan tí a ti ń retí fún ìgbà pípẹ́.",
+    "Èmi àti ìyá mi ni wọ́n fi sílẹ̀ sí àfonífojì kan tí ó dá, tí a kò sì ní oúnjẹ déètì àti omi nìkan.",
+    "Mo dàgbà láti di wòlíì tí a mọ̀ fún òtítọ́ àti sùúrù mi.",
+    "Mo ran baba mi lọwọ lati gbe ipilẹ ile mimọ kan ti a yà si mimọ fun Allah soke.",
+    "Nígbà tí bàbá mi sọ àlá kan fún mi láti fi rúbọ, mo dáhùn pé, ‘Ṣe bí a ti pàṣẹ fún ọ.’",
+    "Allah bu ọla fun itẹriba mi nipa fifi àgbò kan ranṣẹ lati ọrun lati ra mi pada."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Ismail",
+        "Wòlíì Íṣákì",
+        "Wòlíì Jákọ́bù",
+        "Wòlíì Ibrahim",
+        "Wòlíì Yúsọ́ọ̀fù"
+      ],
+      "answer": "Wòlíì Ismail"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Fi ara rẹ̀ sílẹ̀ láti fi ara rẹ̀ rúbọ",
+        "Jíjẹ́ tí a jù sínú iná tí ń jó",
+        "Jíjẹ́ tí ẹja ńlá gbé mì",
+        "Jíjẹ́ tí a tà sí oko ẹrú",
+        "Idanwo pẹlu aisan to le koko"
+      ],
+      "answer": "Fi ara rẹ̀ sílẹ̀ láti fi ara rẹ̀ rúbọ"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Kànga Zamzam",
+        "Ọkọ̀ Nóà",
+        "Iná Nimrọdu",
+        "Ọmọ màlúù wúrà náà",
+        "Òṣìṣẹ́ Mósè"
+      ],
+      "answer": "Kànga Zamzam"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A fi àgbò ńlá kan rà á padà",
+        "Wọ́n gbà á lọ́wọ́ iná",
+        "Wọ́n gbà á lọ́wọ́ ìkún omi",
+        "Ti mu jade kuro ninu ẹja",
+        "Wọ́n fún un ní ìjọba àti ọgbọ́n"
+      ],
+      "answer": "A fi àgbò ńlá kan rà á padà"
+    }
+  },
+  "verseRef": "37:102",
+  "arabic": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَـٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَـٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when he reached with him [the age of] exertion, he said, \"O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think.\" He said, \"O my father, do as you are commanded. You will find me, if Allāh wills, of the steadfast.\" (37:102)"
+}

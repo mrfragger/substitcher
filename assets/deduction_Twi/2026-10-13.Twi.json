@@ -1,0 +1,61 @@
+{
+  "title": "Ɔtamfo a Ɔyɛ Ogya no",
+  "intro": "Adiyisɛm mfiase no, onipa bi puei sɛ obi a ne tirim yɛ den a ɔsɔre tia nokware no. Esiane sɛ wɔde ahonyade ne dibea hyiraa wɔn nti, ɔkra yi paw ahantan sen akwankyerɛ, na wɔn asɛm no bɛyɛɛ kɔkɔbɔ a emu yɛ den wɔ surah bi nkyekyem ahorow a etwa to no mu.",
+  "clues": [
+    "Na mete kuro korɔ no ara mu ne Ɔkɔmhyɛni no, na na meka abusuafoɔ a wɔbɛn no paa no ho, nanso m’ahantan no maa me ne nokorɛ no ntam kwan ware.",
+    "Ná mewɔ ahonyade pii ne agyapade pii, na na misusuw sɛ m’ahonyade bɛbɔ me ho ban bere nyinaa.",
+    "Bere a wɔdaa nkrasɛm no adi no, midii ho fɛw pefee na medanee me ho, na mibu me ho sɛ mekorɔn sen agyidifo no.",
+    "Na me nitan no agye dimmɔne araa ma Kur’aan surah bi kasa kyerɛɛ me tẽẽ, na ɛde edin a afoforo nim me frɛɛ me.",
+    "Wɔbɔɔ me kɔkɔ sɛ m’ahonyade ne sika a menya no remma me mfaso, na wɔbɛtow me agu ogya a ɛredɛw mu.",
+    "Wonim me sɛ ogyaframa agya, na me yere de nnuadewa hama bɛbɔ ne kɔn mu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Abu Lahab na ɔkyerɛwee",
+        "Abu Jahl",
+        "Abu Sufyan na ɔkyerɛwee",
+        "Al-Walid ibn al-Mughira na ɔyɛ ɔbaa",
+        "Al-As ibn Wail, na ɔde ne nsa kyerɛɛ ne so"
+      ],
+      "answer": "Abu Lahab na ɔkyerɛwee"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Ɔpoo Islam na ɔsɔre tiaa Ɔkɔmhyɛni no pefee",
+        "Wɔbɔɔ pɔw sɛ wobekum Ɔkɔmhyɛni no",
+        "Odii asetra mu boycott bi anim tiaa Nkramofo",
+        "Ɔkoe wɔ Badr Ko no mu",
+        "Wɔyɛɛ Bilal ibn Rabah ayayade"
+      ],
+      "answer": "Ɔpoo Islam na ɔsɔre tiaa Ɔkɔmhyɛni no pefee"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Nhama a wɔde nnuadewa ayɛ",
+        "Nkrantɛ a ano yɛ nnam",
+        "Nkɔnsɔnkɔnsɔn a emu yɛ duru",
+        "Nnua a wɔde yɛ poma",
+        "Abɔde a wɔde aboa nhoma ayɛ"
+      ],
+      "answer": "Nhama a wɔde nnuadewa ayɛ"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Bɛhyew wɔ ogya a ɛredɛw mu",
+        "Onu ne ho na ɔbɛyɛɛ ɔhokafo",
+        "Ɔhweree n’ahonyade nanso owui wɔ nidi mu",
+        "Guan kɔɔ Abyssinia",
+        "Wɔmenee no wɔ po mu"
+      ],
+      "answer": "Bɛhyew wɔ ogya a ɛredɛw mu"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

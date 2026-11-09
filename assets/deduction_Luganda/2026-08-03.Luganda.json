@@ -1,0 +1,61 @@
+{
+  "title": "Ensulo Wansi w’Omusenyu",
+  "intro": "Mu bitabo by’ebyafaayo bya Quran, omuntu ow’obugumiikiriza obw’ekitalo yayolekagana n’okugezesebwa okwali kugenda okumenya emitima egy’amaanyi ennyo. Buli kimu kyaggyibwako - obugagga, amaka, n'obulamu. Naye okuva mu buziba bw’okuggwaamu essuubi, essaala ey’obwetoowaze yaddibwamu mu ngeri esinga obutasuubirwa. Osobola okuzuula emmeeme eno emboozi yaayo ey’okuzzaawo edda mu myaka?",
+  "clues": [
+    "Nakeberebwa n’okugezesebwa okw’amaanyi ennyo ne kujjukirwa okumala emyaka gyonna.",
+    "Nafiirwa buli kimu ekyali kikulu - obugagga bwange, abaana bange, n'obulamu bwange.",
+    "Omubiri gwange gwali gujjudde amabwa agaluma, era bonna baali beewala.",
+    "Mu kuggwaamu essuubi, nakoowoola Allah, nga ηηamba nti Sitaani yankwatako n’obuzibu n’okubonyaabonyezebwa.",
+    "Allah yanziramu n’andagira okukuba ensi n’ekigere kyange.",
+    "Okuva mu kifo ekyo kyennyini, ensulo ennyogovu n’ebutuka, Allah n’azzaawo amaka gange n’agakubisaamu emirundi ebiri ng’okusaasira."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Nabbi Ayyuub",
+        "Nabbi Musa",
+        "Nabbi Ilyas",
+        "Nabbi Sulayman",
+        "Nabbi Dawud"
+      ],
+      "answer": "Nabbi Ayyuub"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Obulwadde obw’amaanyi n’okufiirwa amaka n’obugagga",
+        "Okumira ennyonyi ekika kya whale ennene",
+        "Okuwang’anguse okuva mu kibuga Makkah",
+        "Okusibwa mu luzzi oluwanvu",
+        "Okulwanagana n’omufuzi ow’amalala"
+      ],
+      "answer": "Obulwadde obw’amaanyi n’okufiirwa amaka n’obugagga"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Ensulo ennyogovu okuva ku nsi",
+        "Eryato ku mataba amangi",
+        "Omuggo ogwayawulamu ennyanja",
+        "Entebe ey’obwakabaka eya waggulu ey’endabirwamu",
+        "Empuku eriko bbugwe ey’okwebaka"
+      ],
+      "answer": "Ensulo ennyogovu okuva ku nsi"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Amaka n’obugagga byaddizibwawo ne bikubisaamu emirundi ebiri",
+        "Fuluma mu lubuto lw’ekyennyanja",
+        "Okuyita mu mazzi agatali gamu mu ngeri ey’obukuumi",
+        "Obwakabaka obuweereddwa okufuga",
+        "Okuzaalibwa kw'omwana ow'obulenzi mu ngeri ey'ekyamagero mu bukadde"
+      ],
+      "answer": "Amaka n’obugagga byaddizibwawo ne bikubisaamu emirundi ebiri"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

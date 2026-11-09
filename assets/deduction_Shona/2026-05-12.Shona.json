@@ -1,0 +1,61 @@
+{
+  "title": "Simba Risingachinji",
+  "intro": "Munyika dzekare, pane simba guru raimbova nesimba, richitonga pfuma yakawanda uye hupenyu hwevanhu vasingaverengeki. Pasinei nezviratidzo zvakajeka uye yambiro, mutongi uyu akasarudza nzira yekusateerera, zvichikonzera kurwisana kukuru kwaizoramba kuchiitika nekufamba kwenguva.",
+  "clues": [
+    "Ndakati ndine simba guru uye ndine simba pamusoro penzvimbo yakakura.",
+    "Ndakapikisa nhume yakazvininipisa yakatumwa naIshe wezvinhu zvose.",
+    "Vanhu vangu vaizivikanwa nehunyanzvi hwavo hwekuvaka zvivakwa zvikuru uye rwizi rwaitsigira budiriro yedu.",
+    "Ndakaona zviratidzo zvakawanda zvinoshamisa, kusanganisira tsvimbo ichishanduka kuita nyoka uye ruoko rwaipenya zvikuru.",
+    "Ndakaramba kuti boka revanhu vaiva varanda ribve munyika yangu, pasinei nemirairo yaMwari.",
+    "Kutevera kwangu vanhu vaienda kwakaita kuti ini nemauto angu tipinde pakati pegungwa rakakamurwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Yusuf",
+        "Mambo Talut",
+        "Firauni (Farao)",
+        "Muporofita Dhawud",
+        "Namrud"
+      ],
+      "answer": "Firauni (Farao)"
+    },
+    "trial": {
+      "label": "Kurwisana Kukuru",
+      "options": [
+        "Mafashamo akafukidza nyika",
+        "Kupatsanurwa kwegungwa",
+        "Gwenzi riri kupfuta",
+        "Kuvakwa kweKaaba",
+        "Kuparadzwa nemhepo ine simba"
+      ],
+      "answer": "Kupatsanurwa kwegungwa"
+    },
+    "location": {
+      "label": "Kutsanangura Chikamu",
+      "options": [
+        "Mhuka inotaura",
+        "Tsvimbo neruoko runopenya",
+        "Kuzvarwa kunoshamisa",
+        "Kapeti inobhururuka",
+        "Chigaro chikuru cheumambo pamusoro pemvura"
+      ],
+      "answer": "Tsvimbo neruoko runopenya"
+    },
+    "outcome": {
+      "label": "Mugumo Wekupedzisira",
+      "options": [
+        "Akakwira kudenga",
+        "Yakamedzwa nenyika",
+        "Kunyura mugungwa",
+        "Yakashandurwa kuita tsoko",
+        "Kupiwa pfuma huru nesimba"
+      ],
+      "answer": "Kunyura mugungwa"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

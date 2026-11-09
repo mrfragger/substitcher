@@ -1,0 +1,61 @@
+{
+  "title": "Ọgbà Tí Ó Pá Dára Ní Òru",
+  "intro": "Fojú inú wo ọgbà aládùn kan, tí èso tó ń pọ́n pọ̀, tí àwọn igi gíga sì yí i ká. Àwọn tó ń tọ́jú rẹ̀ rò pé àwọn gbọ́n, wọ́n ń ṣètò ìkórè wọn ní àkókò tó dákẹ́ kí ilẹ̀ tó mọ́, kúrò lọ́dọ̀ àwọn aláìní. Ṣùgbọ́n Ẹni tí kò sùn rí ní àwọn ètò mìíràn fún ọrọ̀ wọn tó fara sin. Ṣé o lè mọ ẹni tó dúró lẹ́yìn ìtàn ìkìlọ̀ yìí láti inú Al-Qur'an?",
+  "clues": [
+    "A ní ọgbà kan rí tó ní ọ̀gbà tó sì kún fún ìgbádùn tó bẹ́ẹ̀ tí gbogbo àwọn tó ń kọjá lọ fi ń jowú rẹ̀.",
+    "Nínú ètò wa, a sọ̀rọ̀ kẹ́lẹ́kẹ́lẹ́ sí ara wa ní kùtùkùtù òwúrọ̀, a sì kéde pé a kò ní jẹ́ kí ẹnikẹ́ni tí ó nílò ìrànlọ́wọ́ wọlé ní ọjọ́ náà.",
+    "A jẹ́ ènìyàn ọlọ́rọ̀, ọkàn wa sì ti di aláìlóye sí ẹ̀tọ́ àwọn tálákà tí ó yí wa ká.",
+    "Nígbà tí òwúrọ̀ ọjọ́ ìkórè tí a fẹ́ kórè dé, a sún mọ́ ọgbà wa, a sì rí i pé ó yípadà sí àwókù dúdú ní alẹ́ kan.",
+    "Òfin ìparun kan gba gbogbo ayé, kò sì sí ohunkóhun tó kù ju eérú lọ níbi tí àwọn èso tó ti pọ́n ti so mọ́lẹ̀ tẹ́lẹ̀.",
+    "Ìtàn wa jẹ́ ìkìlọ̀ líle tí a kọ sílẹ̀ nínú Al-Quran, níbi tí a ti mọ̀ wá sí àwọn onílé ọgbà tí wọ́n ń dáwọ́ ìtọrẹ àánú dúró fún àwọn aláìní."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Àwọn Ẹni Tí Ó Ni Ọgbà náà",
+        "Àwọn Ènìyàn Ihò Àpáta",
+        "Àwọn ọmọ-ẹ̀yìn Isa",
+        "Àwọn alábàákẹ́gbẹ́ Igbó",
+        "Àwọn Àlejò Ibrahim"
+      ],
+      "answer": "Àwọn Ẹni Tí Ó Ni Ọgbà náà"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Kíkórè èso ní ìkọ̀kọ̀ àti dí àwọn tálákà lọ́wọ́",
+        "Sísùn fún ọ̀pọ̀ ọ̀rúndún nínú ihò kan",
+        "Kíkọ̀ láti bí abo ràkúnmí láti inú òkúta",
+        "Jíjọ́sìn ère ọmọ màlúù wúrà ní Òkè Sínáì",
+        "Kíkọ́ ọkọ̀ ńlá kan láti sá fún ìkún omi"
+      ],
+      "answer": "Kíkórè èso ní ìkọ̀kọ̀ àti dí àwọn tálákà lọ́wọ́"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ọgbà tí a fi ògiri ṣe tí ó kún fún ọ̀pẹ àti àjàrà",
+        "Ihò dúdú kan tó jìn nínú àwọn òkè ńlá",
+        "Ìlú kan tí ìjì líle àtọ̀runwá gbá",
+        "Àfonífojì mímọ́ kan lẹ́bàá Ilé Allah",
+        "Etí odò tó ń ṣàn"
+      ],
+      "answer": "Ọgbà tí a fi ògiri ṣe tí ó kún fún ọ̀pẹ àti àjàrà"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A fi àṣẹ gbígbóná láti ọ̀run jó ọgbà náà run",
+        "Wọ́n sùn ní àlàáfíà fún ọdún 309 ti oṣùpá",
+        "Òjò òkúta rọ̀ wọ́n lulẹ̀",
+        "Wọ́n rì sínú omi ìkún omi ńlá kan",
+        "Afẹ́fẹ́ tútù àti ìjì líle fọ́n wọn ká"
+      ],
+      "answer": "A fi àṣẹ gbígbóná láti ọ̀run jó ọgbà náà run"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

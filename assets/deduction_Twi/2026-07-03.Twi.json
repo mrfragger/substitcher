@@ -1,0 +1,61 @@
+{
+  "title": "Bɔne a Biribiara Bi Da Ho Dawurubɔfo",
+  "intro": "Nsɛm bi a ɛwɔ Kur’aan mu da adifudepɛ a emu dɔ a ɔman mũ bi betumi atɔ mu adi. Saa ɔbɔfo yi nkutoo gyinaa hɔ, srɛɛ nkurɔfo bi a wɔamene wɔn wɔ ɔkwan a ɛnteɛ a ɔman biara nni hɔ a edii wɔn anim anni akyi da mu. Ɛmfa ho kɔkɔbɔ a wɔde mae mfe pii no, koma no kɔɔ so pirim, na ɔsoro ahyɛde no bae wɔ ɔkwan a ɛyɛ hu sen biara so. So wobɛtumi ahunu saa Allah somafoɔ a ɔyɛ animuonyam yi?",
+  "clues": [
+    "Wɔsomaa me sɛ kɔkɔbɔfo maa nkurɔfo bi a akyide bi a ɔman biara nni hɔ a edii wɔn anim nyɛɛ da asɛe wɔn.",
+    "Me nkurɔfo frɛɛ me ɔtorofo na wohunahunaa me sɛ wɔbɛpam me ne m’akyidifo afi asase no so.",
+    "Nsrahwɛfo a wodi wɔn ni baa me fie sɛ mmerante a wɔrebɔ mmɔden, na metee ahoyeraw kɛse nka wɔ wɔn ahobammɔ ho.",
+    "Me nkurɔfoɔ hwehwɛɛ sɛ mede m’ahɔhoɔ no bɛhyɛ wɔn nsa, a na wɔnnim sɛ saa ahɔhoɔ yi yɛ abɔfoɔ a Allah asoma wɔn.",
+    "M’ankasa me hokafo no annya me gyidi mu kyɛfa na ɔpaw sɛ ɔbɛtra akyi wɔ wɔn a wɔabu wɔn fɔ no nkyɛn.",
+    "Wogyee me ne me mmabea no nkwa anɔpatutuutu, bere a abo osu a ɛsɛee ade tɔe na yɛn nkurow no bubui no."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Odiyifo Lut",
+        "Ɔkɔmhyɛni Shu'aib",
+        "Odiyifo Hud",
+        "Ɔkɔmhyɛni Nuh",
+        "Ɔkɔmhyɛni Salih"
+      ],
+      "answer": "Odiyifo Lut"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Nsuyiri kɛse bi a ɛkata asase so",
+        "Aniwa a ɛyera esiane amanehunu bere tenten nti",
+        "Otirimɔdenfo a ɔkyerɛ sɛ ɔyɛ onyame",
+        "Wɔtow no gu ogya a ɛredɛw mu",
+        "Sɛ wɔhwehwɛ sɛ wɔde ahɔho a wɔhyɛ wɔn anuonyam bɛma"
+      ],
+      "answer": "Sɛ wɔhwehwɛ sɛ wɔde ahɔho a wɔhyɛ wɔn anuonyam bɛma"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Adaka kɛse bi a wɔde nsa na ɛyɛe",
+        "Poma a ɛpaapae po no mu",
+        "Yoma-bere a ɔyɛ anwonwade",
+        "Ogya a ɛredɛw",
+        "Nkurow a wɔadan no"
+      ],
+      "answer": "Nkurow a wɔadan no"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Memenee no bere a na ɔredi agyidifo no akyi no",
+        "Wogyee no fii ogya fononoo a wɔampira mu",
+        "Wɔmaa no so kɔɔ soro a wɔte ase",
+        "Abusua wuwui wɔ nsuyiri kɛse bi mu",
+        "Abusua gyee nkwa gye ɔyere a onni nokware"
+      ],
+      "answer": "Abusua gyee nkwa gye ɔyere a onni nokware"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Vatengesi veVakasarudzwa",
+  "intro": "Munhoroondo yese, vatumwa vaMwari vaifamba pakati pevanhu, uye vamwe vepedyo navo vakatadza kuziva chiedza. Nyaya iyi inotenderera pamusoro pemweya miviri iyo kuva pedyo neuporofita kwakava muedzo wavo, uye nhaka yavo chidzidzo chisingaperi.",
+  "clues": [
+    "Tairarama munguva dzevaprofita vakuru, asi maziso edu akaramba akavharwa kuchokwadi chavakaunza.",
+    "Misha yedu yakanga yakazara nekuratidzwa kwaMwari, asi mwoyo yedu yakanga yakaoma.",
+    "Takaroorana nevarume vakasarudzwa kuti vanyevere vanhu vavo.",
+    "Pakauya chirango, hatina kutsvaga pokugara muareka kana kutiza mvura inopisa, nekuti takaseka nyevero.",
+    "Tinotaurwa muKorani semuenzaniso kune avo vasingatendi, zvichiratidza kuti kunyangwe hukama hwepedyo nemuporofita hahuponesi.",
+    "Isu tiri madzimai aNuh naLut, avo vakavatengesa saka vakatongerwa mhosva."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tiri vanaani?",
+      "options": [
+        "Madzimai aNuh naLut",
+        "Madzimai aIbrahim naIsma'il",
+        "Madzimai aMusa naHarun",
+        "Madzimai aDawud naSulayman",
+        "Madzimai aAyyub naYunus"
+      ],
+      "answer": "Madzimai aNuh naLut"
+    },
+    "trial": {
+      "label": "Chii chaive muedzo wavo?",
+      "options": [
+        "Vakaroorana nevaprofita asi havana kutenda",
+        "Vakanga vasina mbereko uye vakapomera vaprofita mhosva",
+        "Vaive vapfumi uye vaizvikudza",
+        "Vakaedzwa naIblis kuti vabve mudzimba dzavo",
+        "Vakanamata Mhuru yeGoridhe"
+      ],
+      "answer": "Vakaroorana nevaprofita asi havana kutenda"
+    },
+    "location": {
+      "label": "Chii chaive chakabatana nemugumo wavo?",
+      "options": [
+        "Mafashamo nemvura yematombo",
+        "Mhepo ine simba",
+        "Kudengenyeka kwenyika",
+        "Dambudziko remhashu",
+        "Kupatsanurwa kwegungwa"
+      ],
+      "answer": "Mafashamo nemvura yematombo"
+    },
+    "outcome": {
+      "label": "Mugumo wavo waive wei?",
+      "options": [
+        "Vakaparara pamwe chete nevasingatendi",
+        "Vakatendeuka vakaponeswa",
+        "Vakasiiwa vasina vana",
+        "Vakadzingwa zvachose",
+        "Vakachinjwa kuita tsoko nenguruve"
+      ],
+      "answer": "Vakaparara pamwe chete nevasingatendi"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

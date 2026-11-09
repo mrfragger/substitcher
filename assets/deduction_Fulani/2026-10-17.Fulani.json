@@ -1,0 +1,61 @@
+{
+  "title": "Yiɗde e nder suudu ceniindu",
+  "intro": "Aɗa naata e nder suudu deƴƴundu nduu, aɗa yi’a maccuɗo Alla dewondirɗo ina darii e juulde. Juuɗe maɓɓe ina njuuti, gite maɓɓe ina njuuti, ɓerɗe maɓɓe ina njogii yiɗde nde nguurndam mum fof yani. Hol oo nenta muñɗo mo hoolaare mum e Alla meeɗaani ustaade?",
+  "clues": [
+    "Mi waɗii duuɓi juutɗi e dewal e duwaawu, miɗo seedtoo kaawisaaji tiiɗɗi goonɗinal am.",
+    "Mi hokkaama golle toppitaade suka barkinaaɗo e nder suudu ceniingu.",
+    "Nde mawnu mi, ko ɓuri mettude mi ko mi alaa ɓiɗɗo, sabu debbo am ko jom suudu, min ɗiɗo fof min njahdi e duuɓi.",
+    "Miɗo ñaagii Joomiraawo am lomto am e nder galle am, jogorɗo jokkude lefol annabaagal.",
+    "Nde ngon-mi e daraade e nder niɓɓere juulde ndee, maleykaaji ɗii noddi kam, mbi’i-mi, ‘Alla ina rokka ma kabaaru belɗo’, miɗo fiyi kulol e kulol.",
+    "Mi wi’aama mi daña ɓiɗɗo gorko ina wiyee Yahya, innde nde meeɗaani rokkeede hay gooto, kadi ko maande mi haaldataa e yimɓe balɗe tati."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol ko ngonmi?",
+      "options": [
+        "Annabi Zakariyya",
+        "Annabi Yahya",
+        "Annabi Isaa",
+        "Annabi Daawuuda",
+        "Luqmaan jom hakkille"
+      ],
+      "answer": "Annabi Zakariyya"
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "Barrenness e mawngu tawa ina yiɗi ronooɓe peewal",
+        "Werde e nder yiite ɓuuɓɗo",
+        "Ko liɗɗi mawɗi ɓuuɓnata ɗum",
+        "Waasde laamu e juuɗe jom doole en",
+        "Riiwteede e leydi mum"
+      ],
+      "answer": "Barrenness e mawngu tawa ina yiɗi ronooɓe peewal"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Niche juulde (mihrab)",
+        "Laana mawka (Laana) .",
+        "Buuɗi ɓuuɓɗi ɗii",
+        "Kaɓirgal ngal wayliima wonti mboddi",
+        "Gelooɗi Alla"
+      ],
+      "answer": "Niche juulde (mihrab)"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "Hokki ɓiɗɗo peewɗo e haalde kadi caggal balɗe tati silsil",
+        "Halkaama e ilam ngam keefeeraagal",
+        "Hokkaama laamu mawngu e jogaade doole e dow henndu",
+        "Hisnaama e reedu liɗɗi",
+        "Leydi muusi ɗum"
+      ],
+      "answer": "Hokki ɓiɗɗo peewɗo e haalde kadi caggal balɗe tati silsil"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

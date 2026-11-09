@@ -1,0 +1,61 @@
+{
+  "title": "Obweyamo bw’Olubuto",
+  "intro": "Mu bisenge ebisirifu eby’omutima ogwaweebwayo eri Obwakatonda, obweyamo obutukuvu bwalowoozebwako. Obweyamo buno bwali bwesigamye ku bulamu obwali bukyalina okussa omukka, era okutuukirira kwabwo kwandikyusizza ekkubo ly’omusika ogw’omwoyo emirembe gyonna. Dda mu kyama ky’omwoyo ekisuubizo kyagwo ekyawulikika okuyita mu mirembe n’emirembe.",
+  "clues": [
+    "Nabeera mu maka agamanyiddwa olw’okutya Katonda, era nga nneegomba ekirabo ekyandinsembereza Allah.",
+    "Nakola endagaano ey’ekitiibwa ne Mukama wange ku bikwata ku ebyo ebyali bikwekeddwa munda mu nze, nga nwera okugiwaayo yonna mu buweereza bwe.",
+    "Akaseera ak’okubikkula bwe kaatuuka, bye nnafuna byali sisuubira, naye ensonga nazikwasa Omumanyi Byonna.",
+    "Nawa omwana wange erinnya eriraga okwewaayo, era ne mmusaba obukuumi ku lulwe n’abazzukulu be okuva ku oyo eyakolimirwa.",
+    "Omwana wange yateekebwa mu kifo ekitukuvu ekitukuvu, ng’akuumibwa nnabbi okuva mu lunyiriri lwa Alooni.",
+    "Muwala wange yamanyika olw’obulongoofu bwe era n’alondebwa okusinga abakazi bonna, oluvannyuma n’afuuka maama wa nnabbi omukulu, wadde nga teyakwatibwako."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Mukyala wa Imran",
+        "Maama wa Musa",
+        "Mukyala wa Falaawo",
+        "Mukyala wa Al-Aziz",
+        "Maama wa Isa"
+      ],
+      "answer": "Mukyala wa Imran"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okweyama okuwaayo omwana we ali mu lubuto eri yeekaalu",
+        "Okugezesebwa kw’obugumiikiriza okuyita mu bulwadde obuwanvu",
+        "Olugendo lw’okugenda mu nsi ey’ewala olw’okukkiriza",
+        "Okulwanagana ne kabaka omutyobooli",
+        "Enteekateeka ey’ekyamagero ey’emmere okuva mu ggulu"
+      ],
+      "answer": "Okweyama okuwaayo omwana we ali mu lubuto eri yeekaalu"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Omwana ayitibwa Maryam",
+        "Omuggo ogwafuuka omusota",
+        "Ennyana eya zaabu",
+        "Oluzzi lwa Zamzam",
+        "Eryato lya Nuuwa"
+      ],
+      "answer": "Omwana ayitibwa Maryam"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Omwana we Allah yamukkiriza era n’akula wansi w’okulabirirwa kw’obunnabbi",
+        "Omwana we yafuuka nnabbi era n’afuna ekyawandiikibwa",
+        "Omwana we yazuukizibwa n’agenda mu ggulu",
+        "Omwana we yazimba ennyumba entukuvu",
+        "Omwana we yaweebwa amagezi n’obugagga obw’ekitalo"
+      ],
+      "answer": "Omwana we Allah yamukkiriza era n’akula wansi w’okulabirirwa kw’obunnabbi"
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

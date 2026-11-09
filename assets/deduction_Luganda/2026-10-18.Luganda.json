@@ -1,0 +1,61 @@
+{
+  "title": "Amawulire Amasanyufu mu Bukadde",
+  "intro": "Olaba akaseera essuubi we liddamu okukuma. Abafumbo, abasusse edda emyaka egy’obuzadde, bafuna ekisuubizo ekimenya amateeka g’obutonde. Wakati mu bo wayimiridde ekifaananyi ng’okubeerawo kwennyini kabonero k’okusaasira okw’obwakatonda —omwoyo ogutegekeddwa okubeera nnabbi, ogutisse omusika ogugenda okubuna emirembe. Omuntu ono ow’ekitalo y’ani?",
+  "clues": [
+    "Nnazaalibwa abazadde abaali batuuse mu bukadde nga tebalina mwana.",
+    "Okuzaalibwa kwange kwalangirirwa bamalayika abajja ng’abagenyi mu maka gange.",
+    "Naweebwa amagezi n’obunnabbi, era njogerwako mu balwadde.",
+    "Taata yayitibwa mukwano gwa Allah, era nali kirabo gy’ali mu myaka gye egy’oluvannyuma.",
+    "Nalina muganda wange naye nga nnabbi, era ffembi twaweebwa omukisa Mukama waffe.",
+    "Omwana wange naye yali nnabbi, era bazzukulu bange baaweebwa ebyawandiikibwa n’obunnabbi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Nabbi Ishaq (Isaaka) .",
+        "Nabbi Ismail (Ishmael) .",
+        "Nabbi Yaqub (Yakobo) .",
+        "Nabbi Yahya (Yokaana) .",
+        "Nabbi Uzayiri (Ezera) ."
+      ],
+      "answer": "Nabbi Ishaq (Isaaka) ."
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Yazaalibwa bazadde abakadde",
+        "Basuuliddwa mu muliro",
+        "Baweereddwa obwakabaka n’obugagga",
+        "Yakulembera abantu be okuva e Misiri",
+        "Yazimba eryato okulokola abakkiriza"
+      ],
+      "answer": "Yazaalibwa bazadde abakadde"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Amawulire amalungi ag’omwana ow’obulenzi",
+        "Ekisaka ekyokya",
+        "Ennyana eya zaabu",
+        "Essanduuko y’endagaano",
+        "Omuggo gw’obunnabbi"
+      ],
+      "answer": "Amawulire amalungi ag’omwana ow’obulenzi"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yafuuka nnabbi ng’alina olunyiriri lwa bannabbi",
+        "Yafuuka kabaka omugagga",
+        "Abantu be bazikirizibwa olw’obutakkiriza",
+        "Yawonye okuva mu muliro",
+        "Yaweebwa obusobozi okwogera ng’akyali muwere"
+      ],
+      "answer": "Yafuuka nnabbi ng’alina olunyiriri lwa bannabbi"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

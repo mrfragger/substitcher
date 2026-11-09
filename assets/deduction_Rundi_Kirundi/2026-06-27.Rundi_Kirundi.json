@@ -1,0 +1,61 @@
+{
+  "title": "Ubutabaho bweranda",
+  "intro": "Hirya y’ibisigazwa vy’igihe, hariho inkuru y’ukwihebera Imana kudahungabana n’ukwizigira kuremereye cane ku buryo umutima wari utwaye wari gushobora gusenyuka. Mu kanya nk’ako gukubita urugohe abantu bahindukiye baja ku bupfu no ku nzahabu, hari umuntu umwe yahagaze ashikamye—akabahamagara ngo basubireyo, abasaba kwihangana, kandi yikoreye uburemere bw’isezerano ryeranda. Iyi ni inkuru y’umuntu yatowe ngo abe umufasha, umuviziri, n’umurinzi w’ukwizera mu gihe c’ukubura kwera. Woba ushobora guhishura akaranga k’uwo mutima ushikamye?",
+  "clues": [
+    "Nsangiye amaraso y’umuhanuzi akomeye yatowe ngo avugane na Allah ataco akora ku musozi mweranda.",
+    "Umuvukanyi wanje yigeze gutakambira Allah ngo amufashe kuvuga neza umunyaruyeri akomeye.",
+    "Natowe na Allah ngo mpagarare iruhande y’umuvukanyi wanje nk’umufasha n’umuviziri.",
+    "Twese hamwe twahanganye n’umutware w’agahahazo yasaba ko bamwita imana zisumba izindi zose.",
+    "Igihe umuvukanyi wanje yariko arayaga na Allah ku musozi, abantu bacu barihinguye ikigirwamana mu nzahabu yabo.",
+    "Ndi mwenewabo na Musa, yashinzwe na Allah ngo abe umuviziri wiwe, avugwa mw’izina muri Korowani."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umuhanuzi Haruni (Aroni)",
+        "Umuhanuzi Musa",
+        "Umuhanuzi Dawudi",
+        "Umuhanuzi Yaqub",
+        "Umuhanuzi Ishaq"
+      ],
+      "answer": "Umuhanuzi Haruni (Aroni)"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Ikibazo co gusenga inyana",
+        "Umwuzure Ukomeye wa Nuh .",
+        "Intambara ya Badr",
+        "Gutikizwa kwa Thamudi .",
+        "Ugutikizwa kwa Sodomu"
+      ],
+      "answer": "Ikibazo co gusenga inyana"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Inyana y'inzahabu",
+        "Ubwato bwa Nowa",
+        "Igisaka kigurumana",
+        "Isenga rya Hira",
+        "Intebe y'ubwami ya Sheba"
+      ],
+      "answer": "Inyana y'inzahabu"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Ubutungane bwemejwe na Allah",
+        "Kurohama kwa Farawoni",
+        "Inyubakwa ya Kaaba",
+        "Kujabuka Ikiyaga ata nkomanzi",
+        "Kuduga mu ijuru ."
+      ],
+      "answer": "Ubutungane bwemejwe na Allah"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

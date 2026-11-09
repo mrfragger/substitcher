@@ -1,0 +1,61 @@
+{
+  "title": "Kronkron a Ɛnni Hɔ",
+  "intro": "Wɔ bere nkoko akyi no, ahofama a enhinhim ne ahotoso a emu yɛ duru araa ma anka ɔkra a ɔsoa no betumi abubu ho asɛm bi da hɔ. Wɔ bere tiaa bi a nkurɔfo no dan kɔɔ nkwaseasɛm ne sika kɔkɔɔ so no, onipa biako gyinaa pintinn —frɛɛ wɔn san, srɛɛ wɔn boasetɔ, na ɔsoaa bɔhyɛ kronkron bi mu duru. Eyi yɛ obi a wɔpaw no sɛ ɔboafo, ɔsraani panyin, ne gyidi hwɛfo wɔ bere a na onni hɔ kronkron no ho asɛm. So wubetumi ahu onii ko a ɔkra a ogyina pintinn yi yɛ?",
+  "clues": [
+    "Mekyɛ odiyifoɔ kɛseɛ bi a wɔayi no sɛ ɔne Allah nkasa tẽẽ wɔ bepɔ kronkron bi so no mogya.",
+    "Bere bi me nua srɛɛ Allah sɛ ɔmmoa no mma ɔne ɔhyɛfo kɛse bi kasa pefee.",
+    "Allah na ɔpaw me sɛ mennyina me nua nkyɛn sɛ ɔboafoɔ ne vizier.",
+    "Yɛboom hyiaa sodifo otirimɔdenfo bi a ɔhwehwɛ sɛ wɔfrɛ yɛn anyame a ɔkorɔn sen biara.",
+    "Bere a me nua no ne Allah di nkitaho wɔ bepɔ no so no, yɛn nkurɔfoɔ no de wɔn sika kɔkɔɔ yɛɛ ohoni maa wɔn ho.",
+    "Meyɛ Mose nua, a Allah apaw no sɛ ne vizier, a wɔabɔ me din wɔ Kur’aan mu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Odiyifo Harun (Aaron) .",
+        "Ɔkɔmhyɛni Musa",
+        "Ɔkɔmhyɛni Dawud",
+        "Ɔkɔmhyɛni Yaqub",
+        "Ɔkɔmhyɛni Ishaq"
+      ],
+      "answer": "Odiyifo Harun (Aaron) ."
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Nantwi Ba Som Ho Ɔhaw no",
+        "Nsuyiri Kɛse a Ɛbaa Nuh",
+        "Badr Ko no",
+        "Thamud Ɔsɛe a Wɔsɛee no",
+        "Sodom Ɔsɛe a Ɛbae"
+      ],
+      "answer": "Nantwi Ba Som Ho Ɔhaw no"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Sika Nantwi Ba no",
+        "Noa Adaka no",
+        "Kwae a Ɛrehyew no",
+        "Hira Ɔbodan no",
+        "Seba Ahengua no"
+      ],
+      "answer": "Sika Nantwi Ba no"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Ahonimdie a Allah si so dua",
+        "Farao a wɔmenee no",
+        "Kaaba a Wɔkyekyere no",
+        "Po no a Wɔde Twa Ahobammɔ",
+        "Ɔsoro a Wɔforo kɔ Ɔsoro"
+      ],
+      "answer": "Ahonimdie a Allah si so dua"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

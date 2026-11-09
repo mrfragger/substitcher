@@ -1,0 +1,61 @@
+{
+  "title": "Ẹni Aláìsàn",
+  "intro": "Nígbà àtijọ́, ní àwọn ọjọ́ ìṣáájú ìtàn ènìyàn, ọkàn méjì dúró níwájú Ẹlẹ́dàá wọn pẹ̀lú ẹbọ. Wọ́n gbà ọ̀kan, wọn kò gbà ọ̀kan. Ohun tó tẹ̀lé e yóò di ìṣẹ̀lẹ̀ búburú ńlá àkọ́kọ́ láàárín àwọn ọmọ ìyá - ìgbésẹ̀ ìfaradà sùúrù kan àti ìgbésẹ̀ ìgbẹ̀san kíkorò kan. Ṣé o lè ṣàwárí ẹni tí mo jẹ́?",
+  "clues": [
+    "A bí mi ní ọjọ́ àkọ́kọ́ ìgbésí ayé ènìyàn lórí ilẹ̀ ayé",
+    "Ọmọ àwọn ènìyàn àkọ́kọ́ tí wọ́n rìn lórí ilẹ̀ ayé ni mí",
+    "Mo ti rubọ lati inu awọn ẹran mi ti o dara julọ lati inu awọn ẹranko mi lati ṣe itẹlọrun Ẹlẹda mi nigba kan ri.",
+    "Wọ́n gba ẹ̀bùn mi láti òkè, nígbà tí wọ́n kọ̀ láti gba ẹ̀bùn àbúrò mi.",
+    "Nígbà tí wọ́n fi ikú halẹ̀ mọ́ mi, mi ò ní gbé ọwọ́ mi sókè sí ẹ̀gbọ́n mi ọkùnrin.",
+    "Mo di ẹni àkọ́kọ́ nínú gbogbo ìtàn aráyé tí ẹlòmíràn pa láìtọ́"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Hábẹ́lì (Ábẹ́lì), ọmọ Ádámù",
+        "Qabil (Kaini), ọmọ Adamu",
+        "Ádámù, ènìyàn àkọ́kọ́",
+        "Nóà (Nóà)",
+        "Ibrahim (Abrahamu)"
+      ],
+      "answer": "Hábẹ́lì (Ábẹ́lì), ọmọ Ádámù"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ìpànìyàn àkọ́kọ́ nínú ìtàn ènìyàn",
+        "Ìkún omi ńlá ti Nóà",
+        "Ìparun àwọn ọmọ ogun Farao",
+        "Ẹbọ Ismail láti ọwọ́ Ibrahim",
+        "Ogun si Jalutu (Goliati)"
+      ],
+      "answer": "Ìpànìyàn àkọ́kọ́ nínú ìtàn ènìyàn"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Àgùntàn tí a fi rúbọ gẹ́gẹ́ bí ẹbọ dídùn",
+        "Apoti onigi nla kan",
+        "Ọ̀pá tí ó di ejò",
+        "Ẹyẹ hoopoe kan tó ń gbé ìhìn ọba",
+        "Ààfin iná tó ń jó"
+      ],
+      "answer": "Àgùntàn tí a fi rúbọ gẹ́gẹ́ bí ẹbọ dídùn"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ó di ẹni àkọ́kọ́ tí wọ́n pa nínú ìtàn ènìyàn",
+        "Mo yege ikun omi nla ninu ohun elo onigi kan",
+        "Gbé inú ikùn ẹja ńlá kan",
+        "Ó jọba lórí àwọn jinni, ènìyàn àti afẹ́fẹ́.",
+        "Rìn kiri fun ogoji ọdun ninu aginju nla kan"
+      ],
+      "answer": "Ó di ẹni àkọ́kọ́ tí wọ́n pa nínú ìtàn ènìyàn"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

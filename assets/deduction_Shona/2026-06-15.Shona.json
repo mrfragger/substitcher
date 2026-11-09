@@ -1,0 +1,61 @@
+{
+  "title": "Kutonga kweMhepo neMurazvo",
+  "intro": "Fungidzira hutongi uko mhepo pachayo yaipindura mutongi mumwe chete, uko manzwi ezvisikwa zvidiki airema, uye uko masimba asingaonekwi nemaziso evanhuwo zvavo aibatwa nekungwarira. Munhu uyu akagara nhaka humambo hunoshamisa kubva kune akatangira aidiwa, aine simba pamusoro pezvinhu zvemuchadenga nemajini. Asi simba guru rakauya nemiedzo mikuru - uye nguva yekupedzisira yaizoratidza chimwe chinhu chinoshamisa nezvehupenyu nerufu pacharwo.",
+  "clues": [
+    "Ndakagara nhaka yeumambo hukuru kubva kumubereki wangu wandinoda uyo aivewo muporofita uye mushumiri waAllah.",
+    "Mwari vakandipa simba pamusoro pemhepo, vachiituma parwendo rwemwedzi mumwe chete mangwanani.",
+    "Kunyangwe zvisikwa zvidiki zvaitaura nezvenzira yangu, uye ndaizomira ndichishamisika nekuziva kwazvinoita.",
+    "Ndakatungamirira hondo huru yemajini, vanhu, neshiri, dzose dzakarongwa zvakanaka pamberi pangu.",
+    "Mutongi ari kure akauya kuzondiedza nedambudziko rakaoma, uye ndakaita kuti chigaro chemutongi iyeye chiunzwe kudare rangu muenzi asati atombosimuka pachigaro.",
+    "Ndakaramba ndakamira, ndakazendamira patsvimbo, kusvikira chisikwa chidiki chepasi chachiruma — uye ipapo ndipo chete apo avo vakandipoteredza vakaziva kuti ndakanga ndapfuura."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muporofita Sulayman (Soromoni)",
+        "Muporofita Dawud (Dhavhidhi)",
+        "Muporofita Isa (Jesu)",
+        "Muporofita Muhammad ﷺ",
+        "Muporofita Musa (Mosesi)"
+      ],
+      "answer": "Muporofita Sulayman (Soromoni)"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kuunza chigaro cheumambo chamambokadzi ari kure nenzira dzinoshamisa",
+        "Kudzikiswa mutsime rakadzika semwana",
+        "Kusangana nevaroyi vemudzvinyiriri nezviratidzo zvinoshamisa",
+        "Kutaura kubva paucheche kudzivirira rukudzo rwaamai",
+        "Kugamuchira rugwaro rwekupedzisira rwakazarurwa pagomo dzvene"
+      ],
+      "answer": "Kuunza chigaro cheumambo chamambokadzi ari kure nenzira dzinoshamisa"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Tsvimbo yehuni yakamedzwa nemhungu",
+        "Areka huru yakavakwa kuti ikwanise kupukunyuka mafashamo epasi rose",
+        "Tsvimbo yakashanduka kuita nyoka pamberi pemudzvinyiriri",
+        "Jira rinoshandiswa kurapa mapofu",
+        "Bako dzvene uko kwakatanga kugamuchirwa zvakazarurwa"
+      ],
+      "answer": "Tsvimbo yehuni yakamedzwa nemhungu"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Mutongi ane mukurumbira akagamuchira kutenda mushure mekuona zviratidzo",
+        "Mafashamo makuru akaparadza vese vari muareka kunze kwevakatendeka",
+        "Farao neuto rake vakafira mugungwa",
+        "Shamwari yakarurama yakasimudzwa kudenga",
+        "Mambo ane hutsinye neguta rake zvakaparadzwa"
+      ],
+      "answer": "Mutongi ane mukurumbira akagamuchira kutenda mushure mekuona zviratidzo"
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

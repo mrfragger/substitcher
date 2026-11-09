@@ -1,0 +1,61 @@
+{
+  "title": "Orílẹ̀-èdè Tí Ó Kọ Ìlànà Àdánidá Sílẹ̀",
+  "intro": "Ní agbègbè kan tí ìtàn rẹ̀ ti ń dún ní gbogbo ọjọ́ ayé, àwùjọ kan ń gbé ní ìṣọ̀tẹ̀ sí àwọn òfin ìwẹ̀mọ́. Iṣẹ́ wọn kò tíì ṣẹlẹ̀ rí débi pé wọ́n ń rántí wọn gẹ́gẹ́ bí ìkìlọ̀ fún gbogbo ènìyàn. Ta ni àwọn ọkàn wọ̀nyí, kí sì ni ìpíndọ́gba tó dé bá wọn?",
+  "clues": [
+    "A gbé ní ilẹ̀ kan tí a ń gbé lẹ́gbẹ̀ẹ́ ọ̀nà tí àwọn arìnrìn-àjò sábà máa ń gbà kọjá, ṣùgbọ́n a sọ ìrìn-àjò wọn di ewu.",
+    "A ṣe irú ìwà àìtọ́ bẹ́ẹ̀ tí ẹnikẹ́ni kò tíì ṣe rí ní ayé.",
+    "Ojiṣẹ kan lati inu wa pe wa lati fi ọna wa silẹ, ṣugbọn a kọ ọ silẹ a si beere fun ijiya ti o ba jẹ olõtọ.",
+    "Nígbà tí àwọn àlejò arẹwà dé ìlú wa, a gbìyànjú láti kọlù wọ́n, láìmọ̀ pé wọ́n jẹ́ ìránṣẹ́ ìparun.",
+    "Wọ́n kìlọ̀ fún wa nípa ìyà búburú tí a kò bá dẹ́kun, ṣùgbọ́n a fi ìkìlọ̀ náà ṣe yẹ̀yẹ́, a sì dúró nínú ẹ̀ṣẹ̀ wa.",
+    "Òjò òkúta láti ojú ọ̀run rọ̀ sórí wa, àwọn ilé wa sì wó lulẹ̀, kò sí àmì kankan tí ó fi sílẹ̀ àyàfi àmì fún àwọn tí wọ́n ń ronú jinlẹ̀."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Àwọn ènìyàn Lúùtù",
+        "Àwọn ènìyàn Támúdì",
+        "Àwọn ènìyàn A'd",
+        "Àwọn ènìyàn Madiani",
+        "Àwọn ènìyàn Saba"
+      ],
+      "answer": "Àwọn ènìyàn Lúùtù"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ó ṣe ìwà àìdára tí kò tíì ṣẹlẹ̀ rí, ó sì dí ọ̀nà lọ́wọ́",
+        "Wọ́n jọ́sìn ọmọ màlúù wúrà kan",
+        "Pa abo ràkúnmí mímọ́ náà",
+        "Wọ́n rẹ́ nínú ìṣòwò, wọ́n sì dín àwọn ènìyàn kù",
+        "Kọ ile-iṣọ giga kan lati pe awọn ọrun nija"
+      ],
+      "answer": "Ó ṣe ìwà àìdára tí kò tíì ṣẹlẹ̀ rí, ó sì dí ọ̀nà lọ́wọ́"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Àwọn áńgẹ́lì farahàn bí àlejò ẹlẹ́wà",
+        "Abo ràkúnmí kan tó ń jáde láti inú àpáta",
+        "Ọ̀pá tí ó yípadà sí ejò",
+        "Ọkọ̀ ojú omi tí a kọ́ sórí òkè kan",
+        "Iná tó di tútù tó sì ní àlàáfíà"
+      ],
+      "answer": "Àwọn áńgẹ́lì farahàn bí àlejò ẹlẹ́wà"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Òjò òkúta láti ojú ọ̀run pa á run",
+        "Ilẹ̀ gbé mì",
+        "Ìkún omi ńlá rì sínú omi",
+        "Ìró ariwo kan kọlù mí",
+        "A yípadà sí àwọn ọ̀bọ"
+      ],
+      "answer": "Òjò òkúta láti ojú ọ̀run pa á run"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

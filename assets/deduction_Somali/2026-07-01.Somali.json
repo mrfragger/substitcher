@@ -1,0 +1,61 @@
+{
+  "title": "Naftii Aan Magac Lahayn Ee Ka Hor Tagtay Ummad Aan Xaqdaro Ahayn",
+  "intro": "Bogagga Qur'aanka, waxaa ku jira shakhsiyaad magacyadooda la qariyay si aan uga fikirno casharradooda. Mid ka mid ah nafta noocaas ah ayaa ku dhalatay ummad diiday rasuulladeeda, haddana qofkani wuxuu lahaa iimaan qarsoon oo kala soocay. Markii halaag soo baxay, qofkani wuxuu ku adkaystay aaminsanaantiisa qarsoon. Ma ogaan kartaa aqoonsiga qofkan qarsoon ee u digaya dadkooda ka hor inta uusan soo bixin xukunka kama dambaysta ah?",
+  "clues": [
+    "Waxaan ku noolaa dad si isdaba joog ah u beeniyay rasuulladii uu Alle u soo diray.",
+    "Si ka duwan ummaddayda, waxaan gartay runta markii rasuul calaamo cad ka keenay Rabbigey uu imid.",
+    "Waxaan ka qariyay iimaankayga kuwa dulmiga iga galay, anigoo og inay i dhaawici doonaan haddii ay ogaadaan aaminsanaantayda.",
+    "Markii amarka ciqaabtu soo dhawaaday, si cad ayaan u sheegay daacadnimadayda, dadkaygana uga digay inay naftooda badbaadiyaan.",
+    "Waxaan xasuusiyay inaan ahay rasuul la aamini karo, oo aan ka duwanayn kuwii hore loo soo diray, oo aysan caabudin Alle mooyee.",
+    "Dadkaygu waxay igu eedeeyeen sixir iyo waalli, haddana ciqaabtii looga digay ugu dambeyntii way ku dhacday."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Huud, rasuulkii reer Caad",
+        "Nin Mu'min ah oo ka soo jeeda qoomkii Nabi Huud oo shahiid noqday",
+        "Taliyihii reer Caad ee xaqa diiday",
+        "Saaxiibkii Nabi Saalix oo shaki ka qabay calaamadaha rabbaaniga ah.",
+        "Malag loo diray inuu burburiyo dadkii Caad"
+      ],
+      "answer": "Nin Mu'min ah oo ka soo jeeda qoomkii Nabi Huud oo shahiid noqday"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Tijaabada abaarta iyo macaluusha oo tijaabisay dulqaadkooda",
+        "Maxkamadaynta ku dhawaaqista iimaanka hortiisa ummad gaalnimo dulmi badan",
+        "Tijaabada dhismaha markab si looga baxsado daad weyn",
+        "Tijaabada ah in dab lagu tuuro rumaynta Alle awgeed",
+        "Tijaabada lagu tijaabinayo hanti iyo barwaaqo"
+      ],
+      "answer": "Maxkamadaynta ku dhawaaqista iimaanka hortiisa ummad gaalnimo dulmi badan"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Magaalada Makkah oo ah meeshii laga dhisay gurigii barakeysan",
+        "Bannaanka cidlada ah ee qaranka ee beeniyay rasuulkoodii",
+        "Buuraha Madyan oo lagu soo diray Nabi Shucayb",
+        "Webiga Masar oo laga helay Nabi Muuse",
+        "Dooxada reer Caad, oo ay ku dhacday dabayl xooggan"
+      ],
+      "answer": "Bannaanka cidlada ah ee qaranka ee beeniyey rasuulkoodii"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Markab ayaan ku badbaaday, waana noolaa ilaa Alle idmo.",
+        "Dadkaygii way rumaysteen aniga dabadiis, waxaana lagu hagayay jidka toosan.",
+        "Dadkaygii ayaa i dilay laakiin naftayda waxaa qaaday naxariista Alle.",
+        "Waan toobad keenay ka dib markii la i tijaabiyay, Allena wuu iga aqbalay toobaddaydii",
+        "Geeridayda ka dib waxaa la ii beddelay sanam ay dadkaygu caabudaan"
+      ],
+      "answer": "Dadkaygii ayaa i dilay laakiin naftayda waxaa qaaday naxariista Alle."
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ummaddii Caqabadda ku noqotay Guriga Barakaysan",
+  "intro": "Waagii hore, qaran awood leh ayaa go'aansaday inuu weeraro meel lagu nasto oo ay aaminsan yihiin mu'miniintu. Kooxdani waxay ahaayeen kuwo hodan ah, xoog badan, oo ku kalsoon xooggooda milatari. Waxay la yimaadeen xayawaan weyn oo u adeegi doona hubkooda dagaalka. Hadafkoodu wuxuu ahaa mid cad: inay dumiyaan guriga barakeysan oo ay burburiyaan iimaanka dadkooda. Laakiin kibirkooda ayaa ku dhowaa inuu la kulmo jawaab xun oo ka timid xagga sare. Dhacdadan taariikhiga ah waxay noqotay calaamad iyo cashar dhammaan kuwa ka dambeeya. Ma ka garan kartaa kooxdan tilmaamaha?",
+  "clues": [
+    "Waxaan ahayn qaran ku mannaystay hanti iyo karti ciidan.",
+    "Waxaan soo ururinay ciidankeenna oo waxaan keennay bahal weyn oo aan u adeegsanno ololahayaga.",
+    "Bartilmaameedkeennu wuxuu ahaa meel quduus ah oo aan rabnay inaan gebi ahaanba burburinno.",
+    "Waxaan aaminsanayn in xooggeennu uu ku filnaan doono inaan ka gudubno ilaalin kasta oo rabbaani ah.",
+    "Laakiin Rabbigu wuxuu naga soo diray ciqaab cirka ka timid oo aynaan filayn.",
+    "Isla markiiba waa nala burburiyay, sida caws jabay oo kale ayaa nala kala firdhiyey."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Dadka Maroodiga",
+        "Reer Thamuud",
+        "Dadka 'Ad'",
+        "Asxaabta Godka",
+        "Ummaddii Nabi Huud"
+      ],
+      "answer": "Dadka Maroodiga"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Maroodi u socda guriga barakeysan si uu u burburiyo",
+        "Dhisidda munaarad si ay u gaarto samada",
+        "Dhisidda sanam dahab ah oo loogu talagalay cibaadada",
+        "Diidmada dhageysiga rasuulka Alle",
+        "Ceel qodid si loo waxyeeleeyo mu'miniinta"
+      ],
+      "answer": "Maroodi u socda guriga barakeysan si uu u burburiyo"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Maroodiga",
+        "Keeggii Dahabka ahaa",
+        "Usha Muuse",
+        "Kalluunkii Yunus",
+        "Birtii Daa'uud"
+      ],
+      "answer": "Maroodiga"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Waxaa burburiyay shimbiro dhagaxyo wata oo ay ku jiraan shimbiro",
+        "Waxay ku qarqeen daad weyn",
+        "Waxaa loo beddelay daanyeerro iyo doofaarro",
+        "Waxaa lagu aasay dhagaxyo buur ka soo dhacaya hoostiisa",
+        "Waxaa gubay dab cirka ka yimid"
+      ],
+      "answer": "Waxaa burburiyay shimbiro dhagaxyo wata oo ay ku jiraan shimbiro"
+    }
+  },
+  "verseRef": "105:1-5",
+  "arabic": "",
+  "verse": "105:1-5"
+}

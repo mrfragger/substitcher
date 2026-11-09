@@ -1,0 +1,61 @@
+{
+  "title": "Kwakira Isi",
+  "intro": "Mu gihe cy'ibigeragezo bikomeye, umuntu w'icyamamare yahawe ubutunzi bwinshi bw'isi, ikizamini cyo gushima no kwicisha bugufi. Urugendo rw'uyu muntu rutanga isomo rikomeye ku buryo ubutunzi buhita bugira ingaruka z'ubwibone. Hindura uwo muntu inkuru ye yashyizwe mu butaka munsi yacu.",
+  "clues": [
+    "Nabaye mu bantu bayobowe n'intumwa ikomeye.",
+    "Imana yampaye ubutunzi bwinshi cyane ku buryo imfunguzo z'ubutunzi bwanjye zari umutwaro uremereye ku bantu benshi bakomeye.",
+    "Abantu banjye, bazi ubutunzi bwanjye, bangiriye inama yo gushaka aho ubuzima bw'imperuka buzaba, nkoresheje ibyo Allah yampaye, ntimwibagirwe umugabane wanjye w'isi, kandi nkore ibyiza nk'uko Allah yangiriye neza.",
+    "Natangaje nshize amanga ko ubutunzi bwanjye bwinshi bwabonetse binyuze mu bumenyi bwanjye n'imbaraga zanjye bwite, nihakana ubuntu bwose bw'Imana.",
+    "Igihe nasabwaga gutanga cyangwa kwemera ubuntu bwa Allah, narabyanze nibwira ko imitungo yanjye ari iyanjye gusa.",
+    "Kubera ubwibone n'agasuzuguro kanjye bikabije, Allah yategetse isi gukinguka no kumira njye n'aho ntuye."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Firawn",
+        "Ibilisi",
+        "Hamani",
+        "Abu Lahab",
+        "Qarun"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Gutabwa mu muriro",
+        "Kurohama mu nyanja",
+        "Kwirukanwa mu busitani",
+        "Guhinduka nk'inkende",
+        "Kumirwa n'isi"
+      ],
+      "answer": "Kumirwa n'isi"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Inyana ya zahabu",
+        "Ubwato bukomeye",
+        "Inyoni ivuga",
+        "Inkoni y'igitangaza",
+        "Ubutunzi n'imfunguzo bitagira ingano"
+      ],
+      "answer": "Ubutunzi n'imfunguzo bitagira ingano"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Kuba umutegetsi ukomeye",
+        "Kwakira ihishurirwa ry'Imana",
+        "Kuzamuka mu ijuru",
+        "Kubaho ubuzima burambye bwo kubaha Imana",
+        "Kurimbuka burundu bitewe n'ubwibone"
+      ],
+      "answer": "Kurimbuka burundu bitewe n'ubwibone"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

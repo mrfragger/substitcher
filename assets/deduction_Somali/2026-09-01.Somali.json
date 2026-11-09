@@ -1,0 +1,61 @@
+{
+  "title": "Codka Ka Soo Baxay Dekadaha",
+  "intro": "Waxaad taagan tahay magaalo ay saddex rasuul la yimaadeen calaamado cadcad, laakiin dadku way ku jeesjeesaan oo waxay ku dheggan yihiin jidadkoodii hore. Laga soo bilaabo meesha ugu fog ee magaalada, qof ayaa u ordaya dadka, neefta oo go'aan qaadasho la'aan ah, si uu runta u sheego iyadoo la diidayo. Waa kuma naftan wax walba u hurtay farriin aan kooda ahayn?",
+  "clues": [
+    "Waxaan ku noolaa dad ay soo direen rasuullo calaamado cadcad leh, haddana way iska jeedsadeen iyagoo isla weyn.",
+    "Waxaan ka soo ordayay magaalada ugu fog markii aan maqlay wicitaankii rasuullada.",
+    "Waxaan ku idhi dadkaygii, 'Dadkaygiiyow, raaca rasuullada. Raaca kuwa aan wax abaalmarin ah idinka weydiisan, waayo waa kuwa toosan.'",
+    "Nebi ma ahayn, laakiin waxaan rumaysnaa rasuullada, waxaana dadkayga ku boorriyay inay sidaas oo kale sameeyaan.",
+    "Dadkaygu waxay ku jeesjeeseen taladayda waxayna igu eedeeyeen inaan ahay xagjir.",
+    "Markii ay i dileen, Alle wuxuu igu yiri inaan galo Jannada, waxaana jeclaan lahaa in dadkaygu ay ogaadaan cafiska iyo sharafta aan helay."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Ninkii ka yimid qaybta ugu fog magaalada (Ya-Sin)",
+        "Mid ka mid ah saddexdii rasuul ee loo diray magaalada",
+        "Ganacsade caan ah oo ka soo jeeda magaalada",
+        "Nin ka tirsan maamulka magaalada",
+        "Hoggaamiyaha gaalada."
+      ],
+      "answer": "Ninkii ka yimid qaybta ugu fog magaalada (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Wacdiyey dadkiisa inay raacaan rasuullada",
+        "Samaynta markab si aad u badbaadiso mu'miniinta daad",
+        "In lagu tuuro dab iimaan awgeed",
+        "In nibiri liqo",
+        "In la siiyo boqortooyo iyo xigmad"
+      ],
+      "answer": "Wacdiyey dadkiisa inay raacaan rasuullada"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Qaybta ugu fog ee magaalada",
+        "Sanduuqii",
+        "Ceelka",
+        "Geedka gubanaya",
+        "Godka"
+      ],
+      "answer": "Qaybta ugu fog ee magaalada"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Jannada ayuu galay wuxuuna jeclaan lahaa in dadkiisu ay ogaadaan cafiskiisa",
+        "Dadkiisii ​​ayuu la qaraqmay diidmadiisa awgeed",
+        "Waxaa la siiyay mucjiso geela ah",
+        "Wuxuu noqday taliye ka dib markii maxkamad la soo taagay",
+        "Alle ayaa badbaadiyay oo dadkiisii ​​la joogay"
+      ],
+      "answer": "Jannada ayuu galay wuxuuna jeclaan lahaa in dadkiisu ay ogaadaan cafiskiisa"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

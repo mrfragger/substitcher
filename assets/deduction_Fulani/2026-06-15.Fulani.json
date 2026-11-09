@@ -1,0 +1,61 @@
+{
+  "title": "Laamu henndu e yiite",
+  "intro": "Natal laamu ɗo henndu nduu e hoore mum jaabotoo laamɗo gooto, ɗo daande tagooje ɓurɗe famɗude ɗee njogii teddeendi, ɗo doole ɗe gite gaadoraaɗe njiyataa ina mbaɗee e nder golle tiiɗɗe. Ooɗoo limoore roni laamu keewngu e giɗo mum, jogiiɗo doole e dow tagopeeje e jinneeji. Kono laamu mawngu arii e jarribooji mawɗi — e sahaa cakkitiiɗo oo, maa feeñnin huunde haawniinde e sifaa nguurndam e maayde e hoore mum.",
+  "clues": [
+    "Mi ronii laamu mawngu e jibinannde am giɗaaɗo kadi ko annabi e maccuɗo Alla.",
+    "Alla rokkii kam laamu e dow henndu, neldi ɗum e golle lewru e nder subaka gooto.",
+    "Hay tagooje ɓurɗe famɗude ina kaala haala am, miɗo joofna miɗo haawaa e anniyaaji maɓɓe.",
+    "Mi yamirii konu mawngu jinneeji, yimɓe e colli, fof ina njuɓɓinaa e laylayti renndo yeeso am.",
+    "Laamɗo woɗɗuɗo ari jarribaade mi e caɗeele caɗtuɗe, miɗo yamiri yo oon jappeere laamɗo adde e suudu am hade njillu nguu ummoraade e jooɗorde.",
+    "Miɗo heddii miɗo darii, miɗo tuugnii e sawru, haa tagoore tokosere leydi ndii ɓuuɓtii nde — ko ndeen tan wonɓe e sara am ɓee nganndi mi rewii."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol ko ngonmi?",
+      "options": [
+        "Annabi Sileymaani (Suuleymaani) .",
+        "Annabi Daawuuda (Daawuuda)",
+        "Annabi Isa (Iisaa)",
+        "Annabi Muhammadu صلى الله عليه وسلم",
+        "Annabi Muusaa (Muusaa)"
+      ],
+      "answer": "Annabi Sileymaani (Suuleymaani) ."
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "Addude jappeere laamɗo debbo woɗɗuɗo e laabi ɓurɗi teeŋtude",
+        "Jippineede e nder ɓuuɓri luggiɗndi nde o woni cukalel",
+        "Haɓde e maagiyaŋkooɓe tippudi e maandeeji kaawisaaji",
+        "Haalde gila e cukaagu ngam daranaade teddungal yumma",
+        "Jaɓɓaade binndol peeñngol cakkitiingol e dow tulde ceniinde"
+      ],
+      "answer": "Addude jappeere laamɗo debbo woɗɗuɗo e laabi ɓurɗi teeŋtude"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Kaɓirgal leɗɗe ngal termite ƴakkitii",
+        "Laana mawka mahaa ngam riiwtude ilam aduna fof",
+        "Sawru wayliima wonti mboddi yeeso jom doole en",
+        "Ɓoorno-ɗaa wutte ngam sellinde wumɓe",
+        "Ngaska ceniika ɗo wahyu fuɗɗii heɓde"
+      ],
+      "answer": "Kaɓirgal leɗɗe ngal termite ƴakkitii"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "Laamɗo njillu tedduɗo jaɓɓii iimanaagal caggal nde seedtii maandeeji",
+        "Ilam mawɗam halki yimɓe fof so wonaa gooŋɗinɓe wonɓe e laana",
+        "Firaawna gooto e konu mum halkii e nder maayo",
+        "Sehil peewo ƴettaama haa asamaan",
+        "Laamɗo jom doole e wuro mum ndartinaama, halkaama"
+      ],
+      "answer": "Laamɗo njillu tedduɗo jaɓɓii iimanaagal caggal nde seedtii maandeeji"
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

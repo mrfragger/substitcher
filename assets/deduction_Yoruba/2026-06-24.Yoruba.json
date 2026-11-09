@@ -1,0 +1,61 @@
+{
+  "title": "Olùṣọ́ Ọwọ́ Iná Tí A Kò Lè Pa",
+  "intro": "Ẹni kan dúró ní ẹnu ọ̀nà ibi tí ó bẹ̀rù jùlọ ní àìrí, tí a fi iṣẹ́ tí kò sí ìfẹ́ ẹlòmíràn lé lọ́wọ́. Nígbà tí àwọn ọkàn tí wọ́n ń jìyà bá kígbe fún àánú, ìdáhùn líle kan yóò dún láti inú yàrá iná. Ṣé o lè tú àṣírí ẹni tí ó jẹ́ olùtọ́jú ayérayé yìí?",
+  "clues": [
+    "Mo dúró ní ẹnu ọ̀nà ibi ìjìyà ẹlẹ́rù kan ní ibi tí a kò rí.",
+    "Iná tí ń jó, tí kò ṣeé pa ni olórí iṣẹ́ mi.",
+    "Àwọn ọkàn tí wọ́n ń jìyà ń pe orúkọ mi, wọ́n ń bẹ̀bẹ̀ fún ìtura kúrò nínú ìjìyà wọn tí kò lópin.",
+    "Nígbà tí wọ́n bá ń bẹ̀bẹ̀, mo kéde pé wọn kò ní fi ibẹ̀ sílẹ̀ láé.",
+    "Èmi kì í ṣe ènìyàn, bẹ́ẹ̀ ni kì í ṣe jinni — ẹ̀dá tí a dá pẹ̀lú ìgbọràn mímọ́ ni mí.",
+    "Èmi ni olórí áńgẹ́lì tí a yàn gẹ́gẹ́ bí olùtọ́jú títí láéláé ti Iná Ọ̀run Àpáàdì."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Maliki",
+        "Jibreel",
+        "Máíkẹ́lì",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Maliki"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Àwọn ènìyàn ọ̀run àpáàdì ń bẹ̀bẹ̀ fún òpin ìjìyà wọn",
+        "A fun ipè lati fi ojo idajo han",
+        "A fi Al-Quran han si ọkan Anabi.",
+        "Àwọn ènìyàn wọn gbé Wòlíì kan sínú iná ńlá kan",
+        "A kọ́ odi ńlá kan láti ko orílẹ̀-èdè tí ó ti bàjẹ́ kan mọ́lẹ̀"
+      ],
+      "answer": "Àwọn ènìyàn ọ̀run àpáàdì ń bẹ̀bẹ̀ fún òpin ìjìyà wọn"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Iná Ọ̀run Àpáàdì (Jahannam)",
+        "Igi Lote ní ààlà Párádísè",
+        "Ipè tí ń lu nǹkan",
+        "Ọ̀pá tí ó yípadà sí ejò",
+        "Ìtẹ́ ọ̀run ológo"
+      ],
+      "answer": "Iná Ọ̀run Àpáàdì (Jahannam)"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Àwọn olùgbé ọ̀run àpáàdì ni a sọ fún wọn pé wọn yóò wà títí láéláé",
+        "Àwọn olùgbé inú iná ọ̀run àpáàdì ni a dáríjì, tí a sì tú sílẹ̀.",
+        "Àwọn olùgbé ọ̀run àpáàdì ni a fún ní àǹfààní kejì láti gbàgbọ́",
+        "Àwọn olùgbé inú ọ̀run àpáàdì ni a kó lọ sí ibi ìtútù kan",
+        "Àwọn olùgbé inú ọ̀run àpáàdì ni a pa run pátápátá nípasẹ̀ ìró ààrá."
+      ],
+      "answer": "Àwọn olùgbé ọ̀run àpáàdì ni a sọ fún wọn pé wọn yóò wà títí láéláé"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

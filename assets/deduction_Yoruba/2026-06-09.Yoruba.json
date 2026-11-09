@@ -1,0 +1,61 @@
+{
+  "title": "Ẹni tí kò ní ìfòyà sí Òtítọ́",
+  "intro": "Ońṣẹ́ kan dúró nìkan láàrín àwọn ènìyàn alágídí, ó ń pè wọ́n sí Ọlọ́run tòótọ́ kan ṣoṣo nígbà tí wọ́n sì ń bá àwọn òrìṣà èké rìn. Wòlíì yìí ní orúkọ kan tí ó ń dún pẹ̀lú ìtumọ̀ alágbára—‘ẹni tí ó ń wá ààbò’—ṣùgbọ́n ó ń gba ìkọ̀sílẹ̀ àti ìkọ̀sílẹ̀ nìkan. Nípasẹ̀ ìyíniléròpadà onírẹ̀lẹ̀ àti ìkìlọ̀ líle, ọkàn yìí ní ìhìn iṣẹ́ àtọ̀runwá kan tí àgbáyé fúnra rẹ̀ yóò dá láre nígbẹ̀yìn gbẹ́yín. Ṣé o lè dá ẹni tí ó dúró ṣinṣin yìí mọ̀ tí ó dúró fún ọ̀kan lára ​​àwọn ìtàn àtijọ́ jùlọ nínú ìwé mímọ́ Islam?",
+  "clues": [
+    "Àwọn ènìyàn mi ń bọ ọ̀pọ̀lọpọ̀ òrìṣà, nígbà tí mo pè wọ́n láti sin Ẹni tí ó dá ọ̀run àti ayé.",
+    "Mo dúró níwájú orílẹ̀-èdè mi mo sì kéde pé mi ò ní wá èrè kankan lọ́wọ́ wọn—ìfẹ́ ọkàn mi ni ìtọ́sọ́nà wọn sí òdodo.",
+    "Afẹ́fẹ́ ńlá kan ni a rán sí àwọn ènìyàn mi gẹ́gẹ́ bí ìyà àtọ̀runwá, afẹ́fẹ́ kan tí Al-Quran sọ̀rọ̀ nípa rẹ̀ ní ìrísí ọ̀pọ̀lọpọ̀ àti ìrísí obìnrin.",
+    "Láìdàbí àwọn wòlíì kan, wọn kò fún mi ní ìyàwó tàbí ọmọ tí a mẹ́nu kàn ní gbangba nínú ìtàn mi, nítorí iṣẹ́ mi ni láti pe àwọn ènìyàn mi nìkan.",
+    "Orúkọ mi ní ìtumọ̀ tó jinlẹ̀—tó ní í ṣe pẹ̀lú èrò ààbò àti ààbò tí ẹnìkan ń wá.",
+    "Àwọn ènìyàn mi ni a mọ̀ ní èdè pàtó kan fún àfonífojì tí wọ́n ń gbé, a sì fi àìní ewéko ṣe àpèjúwe ilẹ̀ wọn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Húdì",
+        "Wòlíì Sálíh",
+        "Wòlíì Ṣúáíbù",
+        "Wòlíì Nóà",
+        "Wòlíì Hudayb"
+      ],
+      "answer": "Wòlíì Húdì"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ìkún omi ayé",
+        "Afẹ́fẹ́ gbígbóná",
+        "Ìsẹ̀lẹ̀ ìparun",
+        "Ọ̀dá àti ìyàn",
+        "Ìrì sínú omi òkun"
+      ],
+      "answer": "Afẹ́fẹ́ gbígbóná"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Àfonífojì ọlọ́ràá ti Yemen",
+        "Aṣálẹ̀ iyanrìn Mídíánì",
+        "Àfonífojì olókùúta ti Támúdì",
+        "Ilẹ̀ àtijọ́ ti àwọn ènìyàn 'Ad",
+        "Agbègbè etíkun Íjíbítì"
+      ],
+      "answer": "Ilẹ̀ àtijọ́ ti àwọn ènìyàn 'Ad"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Àwọn ènìyàn mi ronú pìwàdà wọ́n sì wọ inú párádísè",
+        "Kò sí ẹnikẹ́ni nínú àwọn ènìyàn mi tó yè bọ́ nínú ìyà náà",
+        "Wọ́n gbé mi láàyè bí Yunus arákùnrin mi",
+        "Mo ṣí lọ pẹ̀lú àwọn ọmọlẹ́yìn mi sí ilẹ̀ ìbùkún kan",
+        "Afẹ́fẹ́ pa àwọn aláìgbàgbọ́ nìkan run nígbà tí àwọn onígbàgbọ́ yè bọ́"
+      ],
+      "answer": "Kò sí ẹnikẹ́ni nínú àwọn ènìyàn mi tó yè bọ́ nínú ìyà náà"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

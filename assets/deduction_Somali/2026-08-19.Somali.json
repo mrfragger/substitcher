@@ -1,0 +1,61 @@
+{
+  "title": "Ummaddii Ka Hortimid Nidaamka Dabiiciga ah",
+  "intro": "Gobol ay sheekadiisu soo noqnoqonaysay qarniyo badan, bulsho waxay ku noolayd caasinimo furan oo ka dhan ah sharciyada daahirnimada. Falalkoodu aad bay u badnaayeen oo waxaa loo xasuustaa inay yihiin digniin u ah dhammaan aadanaha. Waa kuma nafahan, qaddarkee baa ku dhacay?",
+  "clues": [
+    "Waxaan ku noolayn dhul ku teedsan waddo ay inta badan maraan dadka safarka ah, laakiin safarkooda waxaan ka dhignay mid khatar ah.",
+    "Waxaan sameynay falal anshax xumo ah oo aan horay cidna u sameyn adduunka.",
+    "Rasuul naga mid ah ayaa naga codsaday inaan ka tagno jidkeenna, laakiin waan diidnay oo waxaan dalbanay ciqaab haddii uu run sheegayo.",
+    "Markii marti sharaf leh ay yimaadeen magaaladeenna, waxaan isku daynay inaan weerarno, annagoo aan ogayn inay yihiin farriin halaag ah.",
+    "Waxaa nalooga digay ciqaab xun haddii aynaan joojin, laakiin waan ku jeesjeesannay digniinta oo waxaan ku sii jirnay dembigeenna.",
+    "Roob dhagaxyo ah ayaa cirka naga soo da'ay, guryaheennana way rogmadeen, wax raad ah oo aan ahayn calaamad u reebtay kuwa fekeraya ma jirin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Dadka reer Luut",
+        "Reer Thamuud",
+        "Dadka reer Aaad",
+        "Dadka reer Madiina",
+        "Dadka Saba"
+      ],
+      "answer": "Dadka reer Luut"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Waxaan sameeyay anshax xumo aan horay loo arag iyo waddooyin xanniban",
+        "Wuu caabuday weyl dahab ah",
+        "Geelii barakeysanaa ayaa la dilay",
+        "Ku khiyaameeyay ganacsiga oo dadka ka dhigay kuwo aan qiimo lahayn",
+        "Munaarad dheer ayaa dhistay si ay cirka ugu tartanto"
+      ],
+      "answer": "Waxaan sameeyay anshax xumo aan horay loo arag iyo waddooyin xanniban"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Malaa'igta oo iska dhigay marti qurxoon",
+        "Hashii oo ka soo baxaysa dhagax",
+        "Ul isu beddesha abeeso",
+        "Doon laga dhisay buur",
+        "Dab noqday mid qabow oo nabad ah"
+      ],
+      "answer": "Malaa'igta oo iska dhigay marti qurxoon"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Roob dhagaxyo ah oo cirka ka soo da'ay ayaa burburiyay",
+        "Dhulku liqay",
+        "Daad weyn ayaa ku qaraqmay",
+        "Waxaa ku dhacay qarax qaylo leh",
+        "Waxaa loo beddelay daayeerro"
+      ],
+      "answer": "Roob dhagaxyo ah oo cirka ka soo da'ay ayaa burburiyay"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

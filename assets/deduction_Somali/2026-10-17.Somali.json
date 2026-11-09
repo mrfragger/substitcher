@@ -1,0 +1,61 @@
+{
+  "title": "Hilowgii Qolka Barakaysan",
+  "intro": "Waxaad gashay meesha quduuska ah ee deggan oo waxaad arkeysaa addoon Alle oo salaadda taagan. Gacmahooda ayaa kor loo taagay, indhahooduna kor ayay u kaceen, qalbigooduna wuxuu xambaarsan yahay hiloow cimri dheer. Waa kuma ruuxan samirka leh oo aan kalsoonidiisa Alle waligiis liqin?",
+  "clues": [
+    "Sannado badan ayaan ku qaatay cibaado iyo duco, anigoo arkaya mucjisooyin xoojiyay iimaankayga.",
+    "Waxaa la ii xilsaaray inaan daryeelo nafta yar ee barakaysan ee ku jirta meesha quduuska ah.",
+    "Markii aan gaboobay, murugadaydii ugu weynayd waxay ahayd inaan ilmo lahayn, waayo xaaskaygu madhalays bay ahayd, labadeennuba waanu da' weynay.",
+    "Waxaan Rabbigey ka baryay inuu ii beddelo mid ka mid ah qoyskayga, oo dhaxalka nebinimada sii wata.",
+    "Intii aan taagnaa goobta salaadda, malaa'igtu way i soo wacday, iyagoo leh, 'Ilaahay ayaa ku bishaareeya', waxaana i qabsaday cabsi iyo yaab.",
+    "Waxaa la ii sheegay inaan dhali doono wiil la yiraahdo Yaxya, magac aan hore loo siinin cidna, calaamad ahaanna aanan dadka la hadli doonin saddex maalmood."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Zakariya",
+        "Nabi Yaxya",
+        "Nebi Ciise",
+        "Nabi Daa'uud",
+        "Luqmaan oo Xikmad leh"
+      ],
+      "answer": "Nabi Zakariya"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Madhalaysnimo iyo gabow iyadoo la doonayo dhaxal suubban",
+        "In lagu tuuro dab ololaya",
+        "Kalluun weyn oo liqaya",
+        "In boqortooyo loo waayo kaligii-taliye",
+        "In laga masaafuriyo dhulkii uu ka soo jeeday"
+      ],
+      "answer": "Madhalaysnimo iyo gabow iyadoo la doonayo dhaxal suubban"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Goobta salaadda (mihrab)",
+        "Markabka weyn (Aark)",
+        "Geedka gubanaya",
+        "Ushii abeeso noqotay",
+        "Hashii Alle"
+      ],
+      "answer": "Goobta salaadda (mihrab)"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Waxaa la siiyay wiil xaq ah, wuxuuna mar kale hadlay saddex maalmood ka dib markii uu aamusnaa",
+        "Daad ayaa ku burburay gaalnimo awgeed",
+        "Si loo siiyo boqortooyo ballaaran iyo xakamaynta dabaysha",
+        "Laga soo saaray caloosha kalluunka",
+        "Dhulku liqay"
+      ],
+      "answer": "Waxaa la siiyay wiil xaq ah, wuxuuna mar kale hadlay saddex maalmood ka dib markii uu aamusnaa"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ilaaliyaha Albaabka Qorraxda Soo Baxaysa",
+  "intro": "Qur'aanka oo dhan, nafo gaar ah ayaa dhulka dhex mara iyagoo ka tagaya raadad xigmad iyo yaab leh. Qof noocaas ah ayaa u safray meelaha ugu fog ee abuurka - halkaas oo qorraxdu ka soo baxdo oo dhacdo, halkaas oo caqabad ay dib u dhigto fowdada lafteeda. Addoonkan Alle waxaa la siiyay boqortooyo aan cidna mar dambe yeelan doonin. Saddex safar oo kala duwan, ujeeddada qofkan ayaa caddaatay. Ma ka garan kartaa qofkan halyeeyga ah ee ka dhex wareegaya hooska taariikhda?",
+  "clues": [
+    "Raxmaanka ayaa i siiyay awood aan ku xukumo dhulka si aan cid kale weligeed u gaadhin.",
+    "Waxaan u safray galbeed ilaa aan gaaray meeshii qorraxdu ka dhacaysay, anigoo arkay iyadoo ku dhacaysa gu' mugdi ah, waxaana halkaas ku arkay dad halkaas jooga.",
+    "Waxaan u safray dhanka bari ilaa aan gaaray meeshii qorraxdu ka soo baxdo, anigoo arkay iyadoo ku soo baxaysa dad aanaan hoy u siinin.",
+    "Waxaan u safray labadaas meelood ee ugu daran ilaa aan gaaray dooxo u dhaxaysa laba buurood, halkaas oo aan ka helay dad aan si dhib yar u fahmi karin hadalka.",
+    "Waxaan buurta ka helay laba darbi oo bir ah oo adag oo u kala jeeda midig iyo bidix, iyo inta u dhaxaysa marin cidhiidhi ah. Dadkani waxay iga codsadeen inaan ka gudbo darbiga oo carqaladeeya fowdada.",
+    "Waxaan qaatay sahaydii oo waxaan idhi: 'Marka xayndaabku jabo, tani waxay noqon doontaa kala soocid cad oo noo dhaxaysa annaga iyo dadkan.' Markii waqtigii loo qabtay la gaaray, waxaan daawaday markii ugu dambeyntii la jabiyay xayndaabkii."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Dhu al-Qarnayn",
+        "Nabi Sulaymaan",
+        "Nabi Ibraahim",
+        "Boqorka Ghassaniyah",
+        "Dhul-Qarnain oo ahaa ninkii wareemay"
+      ],
+      "answer": "Dhu al-Qarnayn"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Jabinta birta derbigeeda oo loogu talagalay dadka Yajuj iyo Majuj",
+        "Dhismaha Markabka isagoo nebi ah hoggaaminayo",
+        "Dhisidda macbad Yeruusaalem",
+        "Ka gudubka Badda Cas dadka rumaystayaasha ah",
+        "Dhismaha biyo-xireen si loo ilaaliyo qaran xaq ah"
+      ],
+      "answer": "Jabinta birta derbigeeda oo loogu talagalay dadka Yajuj iyo Majuj"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Caqabadda birta ah ee u dhaxaysa laba buurood",
+        "Markabku wuxuu ku xirtay buur",
+        "Guriga quduuska ah ee cibaadada ee Yeruusaalem",
+        "Webiga ku yaal dalka Masar",
+        "Ceelka barakada ee Madyan"
+      ],
+      "answer": "Caqabadda birta ah ee u dhaxaysa laba buurood"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Caqabaddii way jabtay markii waqtigii loo qabtay la gaaray, fowdo ayaana soo baxday",
+        "Gaaladii way qarqiyeen halka mu'miniintii la badbaadiyay.",
+        "Kuwa xaqa ah waxaa loo hagayay janno weligeed ah",
+        "Magaalada waxaa burburiyay dabayl qaylo leh",
+        "Sanamyadii waa la burburiyay dadkiina way toobad keeneen"
+      ],
+      "answer": "Caqabaddii way jabtay markii waqtigii loo qabtay la gaaray, fowdo ayaana soo baxday"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Murwere",
+  "intro": "Kare kare, mumazuva ekutanga enhoroondo yevanhu, mweya miviri yakamira pamberi peMusiki wayo nezvipiriso. Mumwe akagamuchirwa, mumwe haana kugamuchirwa. Zvakazotevera zvaizova dambudziko guru rekutanga pakati pehama - chiito chimwe chekushivirira uye chiito chimwe chekutsiva zvinorwadza. Unogona kuziva kuti ndini ani?",
+  "clues": [
+    "Ndakazvarwa mumazuva ekutanga ehupenyu hwemunhu panyika",
+    "Ndaiva mwana wevanhu vaviri vekutanga kufamba panyika",
+    "Ndakambopa chibayiro kubva kuboka rangu rakanakisisa kuti ndifadze Musiki wangu",
+    "Chipo changu chakagamuchirwa kubva kumusoro, asi chechipo chemukoma wangu chakarambwa",
+    "Pandakatyisidzirwa nerufu, ndakasarudza kusasimudza ruoko rwangu ndichirwisa munin'ina wangu",
+    "Ndakava munhu wekutanga munhoroondo yevanhu kuurayiwa zvisiri pamutemo nemumwe munhu"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Habhiri (Abheri), mwanakomana waAdhamu",
+        "Qabil (Kaini), mwanakomana waAdhamu",
+        "Adhamu, munhu wekutanga",
+        "Nuh (Noah)",
+        "Ibrahim (Abrahamu)"
+      ],
+      "answer": "Habhiri (Abheri), mwanakomana waAdhamu"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kuponda kwekutanga munhoroondo yevanhu",
+        "Mafashamo makuru aNuh",
+        "Kuparadzwa kwehondo yaFirauni",
+        "Chibayiro chaIsmail naIbrahim",
+        "Hondo naJaruti (Goriyati)"
+      ],
+      "answer": "Kuponda kwekutanga munhoroondo yevanhu"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Gwai rinopihwa sechibayiro chinofadza",
+        "Areka huru yematanda",
+        "Tsvimbo yakashanduka kuita nyoka",
+        "Shiri ine hudyu inotakura shoko rehumambo",
+        "Mugero wemoto unopfuta"
+      ],
+      "answer": "Gwai rinopihwa sechibayiro chinofadza"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akava munhu wekutanga kuurayiwa munhoroondo yevanhu",
+        "Akapona mafashamo makuru ari muchikepe chehuni",
+        "Aigara mudumbu rehove huru",
+        "Akatonga majini, vanhu, nemhepo",
+        "Akadzungaira kwemakore makumi mana murenje guru"
+      ],
+      "answer": "Akava munhu wekutanga kuurayiwa munhoroondo yevanhu"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

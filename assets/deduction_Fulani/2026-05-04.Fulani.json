@@ -1,0 +1,61 @@
+{
+  "title": "Arsitek Mawnikinaare",
+  "intro": "E nder leydi ɓooyndi ndi laamu cemmbinngu laaminoo, neɗɗo gooto teeŋtuɗo ina joginoo darnde tiiɗnde. Ooɗoo ruuhu ina waɗi nafoore e peeje mawɗe laamɗo oo, ina wallita e laamu maɓɓe tooñngu nguu, ina luulndii nulal diine. Lefol maɓɓe ina jokkondiri e rewrude e doole aduna e yeddude goonga.",
+  "clues": [
+    "Mi golliima laamɗo kulɓiniiɗo, tooñoowo leñol gila e yontaaji.",
+    "Innde am ina heewi siftoreede e nder deftere Alla ndee e sara oo gardiiɗo doole.",
+    "Miɗo halfinaa eɓɓaande mahngo mawnde, mahngo toowngo, fotngo yettaade asamaan.",
+    "Mi wasiyi joomiraawo am o wara ɓiɓɓe Isra’iila worɓe, o hisna ɓiɓɓe maɓɓe rewɓe.",
+    "Miɗo wonnoo e peeje e fitinaaji ngam haɓaade nulaaɗo Alla baawɗo doole.",
+    "Gagga am, kam e joom am e konu mum, ngari ko e ndiyam maayo mawngo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol ko ngonmi?",
+      "options": [
+        "Nimroot",
+        "Ibrahiima",
+        "Goliyat",
+        "Ibliis",
+        "Haman"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "Jarribeede e jawdi keewndi",
+        "Ardaade konu ngam haɓde e galle ceniɗo",
+        "Mahngo suudu ngam yettaade Alla",
+        "Wereede nder yiite ngam nuɗɗinki maɓɓe",
+        "Wontude e nder ɓunndu e banndiraaɓe"
+      ],
+      "answer": "Mahngo suudu ngam yettaade Alla"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Laana kaa",
+        "Ko Gollotooɓe ɓee",
+        "Tufnde ndee",
+        "Tower oo",
+        "Baleen oo"
+      ],
+      "answer": "Tower oo"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "Hokkude hakkille mawɗo",
+        "Wontude annabi",
+        "Wontude leydi ɓuuɓndi",
+        "Hokkude laamu",
+        "Royde e nder maayo"
+      ],
+      "answer": "Royde e nder maayo"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Àwọn Olùwá Òtítọ́ Tí Ń Tùn",
+  "intro": "Fojú inú wo àkókò kan tí wọ́n pe ìgbàgbọ́ níjà, tí àwọn ènìyàn kan sì yan ìgbàgbọ́ tí kò ṣeé yẹ̀ sílẹ̀ dípò ìtùnú ayé. Nígbà tí wọ́n dojúkọ ìpinnu líle koko kan, wọ́n wá ibi ìsádi, wọ́n bẹ̀rẹ̀ ìrìn àjò kan tí ó yọrí sí oorun àrà ọ̀tọ̀. Ìtàn wọn jẹ́ ẹ̀rí ààbò Ọlọ́run àti agbára ìgbàgbọ́ lòdì sí ìnilára. Ṣé o lè mọ ẹni tí àwọn ènìyàn pàtàkì wọ̀nyí jẹ́?",
+  "clues": [
+    "Àpéjọ kékeré ni wá, tí ìgbàgbọ́ tó jinlẹ̀ nínú Ẹlẹ́dàá kan ṣoṣo so pọ̀.",
+    "A gbé ní àkókò kan tí alákòóso alágbára kan béèrè fún ìjọsìn ẹlòmíràn yàtọ̀ sí Allah.",
+    "Láti pa ìgbàgbọ́ wa mọ́, a pinnu láti fi ilé wa sílẹ̀ kí a sì sá kúrò nínú ìnilára náà.",
+    "Ẹgbẹ́ olóòótọ́ kan, ẹ̀dá ayé, ló tẹ̀lé wa lọ sí ìrìn àjò wa.",
+    "A rí ibi ìpamọ́ ní ibi ìdákẹ́jẹ́ẹ́ kan, níbi tí Allah ti mú kí a sùn jìnnìjìnnì fún ìgbà pípẹ́.",
+    "Nígbà tí a jí, a gbàgbọ́ pé ọjọ́ kan tàbí apá kan ọjọ́ kan péré ló ti kọjá, ṣùgbọ́n ọ̀pọ̀ ọgọ́rùn-ún ọdún ti kọjá lóòótọ́."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Àwọn Ènìyàn Inú Kòtò",
+        "Àwọn ará Thamuud",
+        "Àwọn ènìyàn Saba'",
+        "Àwọn Ènìyàn Ihò Àpáta",
+        "Àwọn ènìyàn Madyan"
+      ],
+      "answer": "Àwọn Ènìyàn Ihò Àpáta"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "A n dán an wò pẹlu ilẹ̀ aṣálẹ̀",
+        "Kíkojú ìkún omi ńlá kan",
+        "Wíwá ààbò lọ́wọ́ alákòóso oníwà ipá",
+        "Jíjẹ́ tí a jù sínú iná tí ń jó",
+        "Ṣíṣe àríyànjiyàn nípa iṣẹ́ oṣó kan"
+      ],
+      "answer": "Wíwá ààbò lọ́wọ́ alákòóso oníwà ipá"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ààfin ńlá kan",
+        "Ọkọ̀ ojú omi/ọkọ̀ ojú omi",
+        "Kànga jíjìn kan",
+        "Ihò àpáta kan",
+        "Òkè gíga kan"
+      ],
+      "answer": "Ihò àpáta kan"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Jíjẹ́ tí a fún ní ìjọba kan",
+        "Oorun ìyanu fún ọ̀pọ̀ ọ̀rúndún",
+        "Ilẹ̀ gbé mì",
+        "Ìgbàlà kúrò nínú ìjì apanirun",
+        "Tí a bá pèsè tábìlì ọ̀run kan fún ọ"
+      ],
+      "answer": "Oorun ìyanu fún ọ̀pọ̀ ọ̀rúndún"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

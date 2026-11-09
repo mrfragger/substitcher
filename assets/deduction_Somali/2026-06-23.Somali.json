@@ -1,0 +1,61 @@
+{
+  "title": "The Guardian oo ku taal geeska Webiga",
+  "intro": "Dhul ay amar kaligii-taliye ah ku keenay murugo guryo badan, naf ayaa heshay farriin ka hor imaanaysa cabsi kasta. Iyagoo qalbi ka buuxo kalsooni, waxay bilaabeen ficil iimaan ah oo beddeli doona waddada qaran. Markii biyuhu ay siday xamuul qaali ah, rajadu waxay ku dhex milmeen hirarka.",
+  "clues": [
+    "Waxaan ku noolaa waqti dulmi iyo cabsi badan.",
+    "Waxaan helay dhiirigelin rabbaani ah oo i siisay geesinimo.",
+    "Waxaa la i faray inaanan cabsan ama murugoon.",
+    "Ilmahayga waxaan geliyay sanduuq oo biyaha dul saaray.",
+    "Ilmahayga waxaa helay guriga taliyaha, laakiin ilmahaygii kale ayaa raacay.",
+    "Waxaan dib ula midoobay ilmahayga si aan u nuujiyo, sida Alle ballan qaaday."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Hooyadii Muuse",
+        "Xaaskii Fircoon",
+        "Walaashii Muuse",
+        "Hooyadii Ciise",
+        "Boqoradda Sheba"
+      ],
+      "answer": "Hooyadii Muuse"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "In lagu dhiirigeliyo in ilmo lagu tuuro webi",
+        "In lagu loolamo sixir ah",
+        "Iyadoo ay eryanayaan ciidan",
+        "Ka gudubka bad kala qaybisay",
+        "Dhisidda guri barakeysan"
+      ],
+      "answer": "In lagu dhiirigeliyo in ilmo lagu tuuro webi"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Sanduuq la dhigay webiga dhexdiisa",
+        "Geed gubanaya",
+        "Ul isu beddeshay abeeso",
+        "Wur dahab ah",
+        "Carshi"
+      ],
+      "answer": "Sanduuq la dhigay webiga dhexdiisa"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Ilmihii si nabad ah ayaa loogu celiyay kalkaalisada",
+        "Ilmuhu wuu lumay weligiis",
+        "Ilmihii waxaa loo qaaday dhul fog",
+        "Ilmuhu isla markiiba wuxuu noqday taliye",
+        "Ilmaha waxaa korsaday ganacsade taajir ah"
+      ],
+      "answer": "Ilmihii si nabad ah ayaa loogu celiyay kalkaalisada"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

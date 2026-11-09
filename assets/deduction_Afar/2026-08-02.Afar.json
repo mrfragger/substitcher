@@ -1,0 +1,61 @@
+{
+  "title": "Qaran kee Baaxo Fanal",
+  "intro": "cuumi le rooci koo qammaala qibaadah aydaadih galitte, quukak astooti kee qaxmaqaane too uxih dabaanitte fan qagaaqagitak. Clues trail elle katayta innal, miraaciinu elle tamixxigeh tan xaagih addat safarta — miraaciini qimmok qaran fanah cultam fan. atu baxxaaqissam duuddaa barkat le taama abeyna ellecabo fikrat naharal?",
+  "clues": [
+    "Anu farmoytah ruubeh suge Israa-eel xayloh racmatta kee ifuh xaagu luk.",
+    "Yi ubka miraacisak sugte — Anu abba sinnim, Yallih amriik ugutak, ta baadal emeete.",
+    "Anu yaabem uxih alaaqah an wak, yiinah kunnabna kalalak tet ummattah malkit.",
+    "Yallih idinil, anu kimmir qallak bicseeh, ufuy ruubeh — oson wagitak suge marih intih foocal ufuy ruuben.",
+    "Anu inti maleelah yooboke mara dayliseh, baras dayliseh, raboytit kaadu ugseh — takkay immay kulli miraaciino Yallih idinih sugte, yi idini hinna.",
+    "yi qaduwwi yoo baysoonuh yoo koorse saaku Yalli qaran-fag yoo heeeh, yok ayrok naharal elle adaa yoh xagana cule."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Anu miyyaay?",
+      "options": [
+        "farmoyti qiisa (qiisa)",
+        "Nabi Muusa (Muusa)",
+        "nabi ibraahim (ibraahim)",
+        "Macammad yallih farmoyta",
+        "Nabi Yuusuf (Yusuf)"
+      ],
+      "answer": "farmoyti qiisa (qiisa)"
+    },
+    "trial": {
+      "label": "Baxxaqsa le uddur",
+      "options": [
+        "Anu qaran fanah ugte",
+        "Anu cararta girat qiden",
+        "Anu Firqawni caylale qandet garaye",
+        "Anu kaxxa kullumti yanxuqeh suge",
+        "Anu qaleh amol doonik xiseh an"
+      ],
+      "answer": "Anu qaran fanah ugte"
+    },
+    "location": {
+      "label": "diini asta xayyowteh",
+      "options": [
+        "Anu kimmir kallak weeloyseh",
+        "Anu caxxa baaxoh alluwwa fan korse",
+        "Anu alsa nammakkel kurruume",
+        "Caacaa kee jinni amrise.",
+        "Anu isi gaali xaahi addak baahe"
+      ],
+      "answer": "Anu kimmir kallak weeloyseh"
+    },
+    "outcome": {
+      "label": "Yok maca tekkem",
+      "options": [
+        "Qaran fanah ugte; Adaaruh xagana cule",
+        "Inki saltanat kaxxa amoyta yekke",
+        "yi ummatta aqayyaarak miraacisa",
+        "qeedaalisso sinni ardi gadda yomcowweh suge",
+        "der udduruh baxsimak lakal yi buxah marat ongooroweh suge"
+      ],
+      "answer": "Qaran fanah ugte; Adaaruh xagana cule"
+    }
+  },
+  "verseRef": "43:59",
+  "arabic": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+  "verse": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel. (43:59)"
+}

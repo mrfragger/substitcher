@@ -1,0 +1,61 @@
+{
+  "title": "Àlejò Tó Mú Ìbẹ̀rù Wá",
+  "intro": "Ní ìlú kan tí ìwà ibi ti gbò, ìránṣẹ́ olóòótọ́ kan gba àwọn àlejò tí a kò retí ní ọjọ́ kan. Nítorí pé ó ń ṣàníyàn nípa ààbò wọn, ẹni yìí fún wọn ní ààbò, ṣùgbọ́n àwọn ènìyàn ìlú náà béèrè ohun ìtìjú kan. Nígbà tí wọ́n kìlọ̀ fún ìránṣẹ́ náà nípa ìparun tó ń bọ̀, ó sá lọ pẹ̀lú ìdílé rẹ̀ lábẹ́ òkùnkùn, ó sì fi ìlú kan sílẹ̀ fún ìparun. Ta ni onígbàgbọ́ kan ṣoṣo yìí?",
+  "clues": [
+    "Wọ́n rán mi gẹ́gẹ́ bí ìránṣẹ́ sí àwọn ènìyàn kan tí wọ́n ti ṣe àwọn ìwà ìtìjú.",
+    "Àwọn àlejò tí mi ò retí wá sílé mi, mo sì ní àníyàn nípa ààbò wọn ju ti èmi lọ.",
+    "Àwọn ènìyàn mi béèrè láti rí àwọn àlejò mi fún èrò ibi, mo sì gbìyànjú láti bá wọn sọ̀rọ̀.",
+    "Àwọn àlejò mi fi ara wọn hàn gẹ́gẹ́ bí áńgẹ́lì, wọ́n sì pàṣẹ fún mi láti mú ìdílé mi lọ ní òru.",
+    "Iyawo mi ko feti si ipe lati sa, o si koju iparun kanna bi awon eniyan mi.",
+    "Òjò amọ̀ tí ó rọ̀ bí òjò yí ìlú mi ká, àwọn ibi gíga rẹ̀ sì rọ̀ sílẹ̀ ní ìsàlẹ̀."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Lọ́ọ̀tì",
+        "Wòlíì Mósà",
+        "Wòlíì Ibrahim",
+        "Wòlíì Nóà",
+        "Wòlíì Húdì"
+      ],
+      "answer": "Wòlíì Lọ́ọ̀tì"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ibeere awọn eniyan mi lati sunmọ awọn alejo mi ni ibi",
+        "Pípín òkun láti sá fún apànìyàn",
+        "Kíkọ́ ọkọ̀ ńlá kan láàárín ẹ̀gàn",
+        "Irubọ ọmọ mi ninu idanwo igbagbọ",
+        "Ìrírí jíjẹ tí ẹja ńlá gbé mì"
+      ],
+      "answer": "Ibeere awọn eniyan mi lati sunmọ awọn alejo mi ni ibi"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ìlú àwọn ènìyàn mi tí ó ti yípadà",
+        "Òkè tí mo ti gbọ́ ọ̀rọ̀ Ọlọ́run",
+        "Ọkọ̀ ojú omi tó la ìkún omi ńlá já",
+        "Rakunmi tó jáde láti inú àpáta",
+        "Ọgbà pẹ̀lú àlejò olódodo tí a fi pamọ́"
+      ],
+      "answer": "Ìlú àwọn ènìyàn mi tí ó ti yípadà"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Wọ́n gbà mí là pẹ̀lú ìdílé mi kí wọ́n tó wó ìlú mi lulẹ̀",
+        "Mo darí àwọn ènìyàn mi lọ sí òmìnira kọjá òkun",
+        "Mo kan ọkọ̀ ńlá kan, mo sì la ìkún omi ńlá kan já",
+        "Wọ́n fún mi ní àṣẹ lórí afẹ́fẹ́ àti àwọn ẹ̀mí èṣù",
+        "Mo fara da ìjìyà pẹ̀lú sùúrù, wọ́n sì san án fún mi pẹ̀lú ìdílé."
+      ],
+      "answer": "Wọ́n gbà mí là pẹ̀lú ìdílé mi kí wọ́n tó wó ìlú mi lulẹ̀"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

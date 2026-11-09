@@ -1,0 +1,61 @@
+{
+  "title": "Ballanqaadka Ilmo-galeenka",
+  "intro": "Qolalka aamusan ee qalbi u hibeeyay Ilaahnimada, nidar quduus ah ayaa lagu sameeyay. Nidarkani wuxuu diiradda saaray nolol aan weli neefsanayn, fulintiisuna waxay beddeli doontaa jidka dhaxalka ruuxiga ah weligiis. U gudub sirta nafta oo ballanqaadkeedu uu ku soo noqnoqonayo weligeed.",
+  "clues": [
+    "Waxaan ku noolaa guri lagu yaqaan cibaadadiisa, waxaana u xiisay hadiyad ii soo dhoweyn doonta Alle.",
+    "Waxaan Rabbigeyga la galay axdi adag oo ku saabsan waxa igu qarsoon, anigoo ku dhaartay inaan si buuxda ugu adeegi doono.",
+    "Markii la gaaray waqtigii la shaacin lahaa, waxa aan helay waxay ahayd wax aan la filayn, laakiin waxaan arrinta u dhiibay Wax walba yaqaan.",
+    "Waxaan u bixiyay ilmahayga magac tilmaamaya daacadnimo, waxaanan ka baryay in iyada iyo faraceeda laga ilaaliyo kan la habaaray.",
+    "Ilmahayga waxaa la dhigay meesha quduuska ah, iyadoo uu ilaalinayo nebi ka soo jeeda faraca Haaruun.",
+    "Gabadhaydu waxay caan ku noqotay daahirnimadeeda waxaana laga doortay dhammaan dumarka, markii dambena waxay ahayd hooyada nebi weyn, inkastoo aan la taaban."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Xaaska Cimraan",
+        "Hooyadii Muuse",
+        "Xaaskii Fircoon",
+        "Xaaska Al-Casiis",
+        "Hooyadii Ciise"
+      ],
+      "answer": "Xaaska Cimraan"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Nidar ah in ilmaheeda uurka ku jira loo hibeeyo macbudka",
+        "Tijaabo dulqaad ah oo loo marayo xanuun dheer",
+        "Safar loo aaday dhul fog oo iimaanka loo qabo awgeed",
+        "Iska hor imaad lala galay boqor kaligii talis ah",
+        "Sahay mucjiso ah oo cunto ah oo samada ka timid"
+      ],
+      "answer": "Nidar ah in ilmaheeda uurka ku jira loo hibeeyo macbudka"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Ilmaha oo lagu magacaabo Maryam",
+        "Ushii isu beddeshay abeeso",
+        "Dibigii dahabka ahaa",
+        "Ceelka Zamzam",
+        "Doontii Nuux"
+      ],
+      "answer": "Ilmaha oo lagu magacaabo Maryam"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Ilmaheedii waxaa aqbalay Alle, wuxuuna ku koray daryeelka nebiyadda.",
+        "Ilmaheedii wuxuu noqday nebi wuxuuna helay qoraal",
+        "Ilmaheedii ayaa samada loo qaaday",
+        "Ilmaheedu wuxuu dhistay guri barakeysan",
+        "Ilmaheedii waxaa la siiyay xigmad iyo hanti aad u badan"
+      ],
+      "answer": "Ilmaheedii waxaa aqbalay Alle, wuxuuna ku koray daryeelka nebiyadda."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

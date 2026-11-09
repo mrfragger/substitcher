@@ -1,0 +1,61 @@
+{
+  "title": "Olùmú Ìtẹ́ Yára Wá",
+  "intro": "Ní àgbàlá ọba alágbára kan, wọ́n béèrè ohun tí kò ṣeé ṣe, ọ̀pọ̀ ènìyàn sì ń gbìyànjú láti fi hàn pé wọ́n níye lórí. Síbẹ̀, ẹni tí ìsopọ̀ rẹ̀ pẹ̀lú ìmọ̀ Ọlọ́run ju gbogbo agbára ara lọ nìkan ló lè ṣe iṣẹ́ náà, tí ó sì ń ṣí àsìkò kan tí yóò máa dún ní gbogbo ọjọ́ ayé.",
+  "clues": [
+    "Mo wà ní iṣẹ́ ọba ńlá kan tí ó tún jẹ́ wòlíì, mo sì dúró láàrín àwọn ènìyàn rẹ̀ tí ó gbẹ́kẹ̀lé jùlọ.",
+    "Mi kì í ṣe ẹ̀dá iná tàbí ẹ̀dá alágbára ńlá, ṣùgbọ́n mo ní ohun kan tó lágbára jù bẹ́ẹ̀ lọ.",
+    "Nígbà tí ọba béèrè pé kí wọ́n mú ìtẹ́ wá láti ilẹ̀ jíjìnnà, mo mọ ohun tí mo fẹ́ ṣe gan-an.",
+    "Mo sọ̀rọ̀ nípa ìmọ̀ tí mo ní láti inú Ìwé náà, kí ẹnikẹ́ni tó lè dáhùn, wọ́n gbé ìtẹ́ náà kalẹ̀ níwájú ọba.",
+    "Iṣẹ́ mi kìí ṣe nípa agbára mi, ṣùgbọ́n ó jẹ́ àfihàn pé ìmọ̀ tòótọ́ wá láti ọ̀dọ̀ Allah nìkan.",
+    "Èmi ni ẹni tí ó gbé ìtẹ́ ayaba Ṣébà wá ní ìṣẹ́jú kan, gẹ́gẹ́ bí a ṣe kọ ọ́ sílẹ̀ nínú Súrà An-Naml."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Ẹni tí ó ní ìmọ̀ nípa Ìwé náà",
+        "Jinni alagbara Ifrit",
+        "Ẹyẹ hoopoe ti Sulayman",
+        "Wòlíì Súláímọ́nì",
+        "Ayaba Ṣeba"
+      ],
+      "answer": "Ẹni tí ó ní ìmọ̀ nípa Ìwé náà"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Mímú ìtẹ́ ayaba Ṣeba wá lójúkanná",
+        "Pípín Òkun Pupa fún àwọn ọmọ Ísírẹ́lì",
+        "Kíkọ́ Kaaba pẹ̀lú ọmọ rẹ̀",
+        "Líla iná ìléru náà já",
+        "Ìgbàlà kúrò nínú ikùn ẹja ẹja"
+      ],
+      "answer": "Mímú ìtẹ́ ayaba Ṣeba wá lójúkanná"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ìtẹ́ Bilqis",
+        "Òṣìṣẹ́ Mósè",
+        "Ọkọ̀ Nóà",
+        "Iná Namrud",
+        "Ẹja Yunus"
+      ],
+      "answer": "Ìtẹ́ Bilqis"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ìtẹ́ náà farahàn lójúkan náà níwájú Sulayman gẹ́gẹ́ bí ìdánwò ọpẹ́",
+        "Ayaba gba Islam lẹsẹkẹsẹ",
+        "Wọ́n fi àwọn Jinni sẹ́wọ̀n nítorí àìṣe dáadáa",
+        "Súláímọ́nì fi ìjọba rẹ̀ sílẹ̀",
+        "Wọ́n fọ́ ìtẹ́ náà sí wẹ́wẹ́"
+      ],
+      "answer": "Ìtẹ́ náà farahàn lójúkan náà níwájú Sulayman gẹ́gẹ́ bí ìdánwò ọpẹ́"
+    }
+  },
+  "verseRef": "27:40",
+  "arabic": "قَالَ ٱلَّذِى عِندَهُۥ عِلْمٌۭ مِّنَ ٱلْكِتَـٰبِ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ ۚ فَلَمَّا رَءَاهُ مُسْتَقِرًّا عِندَهُۥ قَالَ هَـٰذَا مِن فَضْلِ رَبِّى لِيَبْلُوَنِىٓ ءَأَشْكُرُ أَمْ أَكْفُرُ ۖ وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ رَبِّى غَنِىٌّۭ كَرِيمٌۭ",
+  "verse": "Said one who had knowledge from the Scripture, \"I will bring it to you before your glance returns to you.\" And when [Solomon] saw it placed before him, he said, \"This is from the favor of my Lord to test me whether I will be grateful or ungrateful. And whoever is grateful - his gratitude is only for [the benefit of] himself. And whoever is ungrateful - then indeed, my Lord is Free of need and Generous.\" (27:40)"
+}

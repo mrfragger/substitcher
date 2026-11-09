@@ -1,0 +1,61 @@
+{
+  "title": "Mapindu Ari Kupera Ekubudirira",
+  "intro": "Munyika yakakomborerwa nezvinhu zvakawanda, nzanga yakabudirira, ichirarama pakati pezviratidzo zvenyasha dzaMwari. Kubudirira kwavo kwaive humbowo hwenyasha dzaIshe wavo, chipo chakagadzirirwa kukurudzira kutenda nekuteerera. Asi, pasinei nezviratidzo zvakajeka zvemakomborero avo, shanduko yakasvika, ichivanetsa kukoshesa kwavo kwaibva pfuma yavo huru nenyaradzo.",
+  "clues": [
+    "Takakomborerwa nemapindu maviri, rimwe kurudyi nerimwe kuruboshwe, rakazara nezvibereko.",
+    "Takarayirwa kuti tidye kubva muzvipo zvaIshe wedu uye timutende nekuda kwenyika yakanaka uye Ishe anokanganwira.",
+    "Takatanga kuzvikudza uye takatsauka kubva munzira yekuonga, tichizvikudza nepfuma yedu nesimba redu.",
+    "Takakumbira kuti Ishe wedu awedzere daro pakati perwendo rwedu, tichiratidza kusada zororo raakanga aita.",
+    "Takanyeverwa nemutumwa, asi takaramba shoko racho tikaramba tisingateereri.",
+    "Dhamu redu guru, iro rakaita kuti tibudirire, rakazopedzisira raputsika, zvikaita kuti pave nemafashamo makuru."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Vanhu veThamud",
+        "Vanhu veMidhiani",
+        "Vanhu ve'Aad",
+        "Vanhu veLut",
+        "Vanhu veSaba"
+      ],
+      "answer": "Vanhu veSaba"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Nzara nekusanaya kwemvura",
+        "Kurwiswa neuto rine simba",
+        "Kudengenyeka kwenyika kunoparadza",
+        "Mafashamo anoparadza anobva mudhamu rakaputsika",
+        "Kudzvinyirirwa nemutongi ane hutsinye"
+      ],
+      "answer": "Mafashamo anoparadza anobva mudhamu rakaputsika"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Mhuru yendarama",
+        "Ngamera hadzi inoshamisa",
+        "Dhamu rakanaka",
+        "Chivako chirefu",
+        "Tsime rakadzika"
+      ],
+      "answer": "Dhamu rakanaka"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Takashandurwa kuita tsoko nenguruve",
+        "Takaponeswa tikatamira kunyika itsva",
+        "Takapararira uye nyika yedu yakava isina chinhu",
+        "Takakwira kudenga",
+        "Takavaka humambo hutsva, hwakabudirira zvikuru"
+      ],
+      "answer": "Takapararira uye nyika yedu yakava isina chinhu"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

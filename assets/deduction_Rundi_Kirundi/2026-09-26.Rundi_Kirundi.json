@@ -1,0 +1,61 @@
+{
+  "title": "Ukwihakana hagati mu musesekara",
+  "intro": "Uca wisanga uri mu bantu amasoko yabo yuzuye ubudandaji, yamara umunzane wabo ukaba utera imbere ata buryarya. Intumwa yarabajeko ibaburira neza, ariko baratwenga, barahindukira, bizigiye uguterimbere kwabo. Ijuru ritangura kwirabura, ariko babona ko ari umuhezagiro w’imvura. None abo bantu ni bande?",
+  "clues": [
+    "Twaratera imbere mu bihugu vy’ubudandaji n’ivy’ubutunzi bwinshi, yamara imitima yacu yaracitse intege.",
+    "Intumwa yaje iwacu ifise ibimenyetso bivuye ku Mukama wacu, ariko twatwenga imburi ziwe.",
+    "Twari tuzwi cane kubera ubudandaji bwacu, ariko twatanga ingero ngufi kandi tugahenda abantu.",
+    "Twaba hagati y’ibiti vyinshi be n’ivyatsi vyizavyiza, mugabo imihezagiro twaronka twayifata minenerwe.",
+    "Igihe igicu c’umwirabura cegereje, twaranezerwa, twiyumvira ko kizozana imvura mu bihugu vyacu vyumye.",
+    "Ahubwo ico gicu cararekuye igihano gishasha, maze dufatwa n’umubabaro w’umusi w’igitutu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Twebwe Turi Bande?",
+      "options": [
+        "Ashab al-Aykah (Abagenzi b’Igiti)",
+        "Abantu b'i Tamudi",
+        "Abantu bo muri 'Ad",
+        "Abantu ba Luti .",
+        "Abantu ba Nuh"
+      ],
+      "answer": "Ashab al-Aykah (Abagenzi b’Igiti)"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Baranse intumwa yabo, barahendana mu bucuruzi .",
+        "Basenga inyana y’inzahabu maze barazimizwa .",
+        "Bakora ubusambanyi kandi bagatera abagenzi .",
+        "Bubaka iminara miremire kandi bararwanya Imana .",
+        "Banse gusangira amazi maze baragirira nabi ingamiya y’ingore ."
+      ],
+      "answer": "Baranse intumwa yabo, barahendana mu bucuruzi ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Ishamba ryinshi canke igisaka",
+        "Umusozi ubajwemwo amazu yo kubamwo .",
+        "Igisagara kiri iruhande y'ikiyaga",
+        "Umubande w'ubugaragwa ufise amariba .",
+        "Umurima mwiza urimwo ivyamwa vyinshi ."
+      ],
+      "answer": "Ishamba ryinshi canke igisaka"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Yasambuwe n'igitutu c'igicu c'umuriro .",
+        "Yarozwe n'umwuzure munini .",
+        "Yamizwe n'umutingito",
+        "Gukubitwa n’umuyaga ukaze",
+        "Yahindutse ibuye"
+      ],
+      "answer": "Yasambuwe n'igitutu c'igicu c'umuriro ."
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ìránṣẹ́ Allah Gíga Jùlọ",
+  "intro": "O n gbọ́ ìfọ̀rọ̀wérọ̀ nípa ẹni kan láti ìgbà àtijọ́, ìránṣẹ́ Allah kan tí a gbé ga sí ipò tí ó ga ju ti àwọn ènìyàn lọ. Ẹni yìí ni a mọ̀ fún sùúrù tí kò ṣeé yẹ̀ sílẹ̀ àti òtítọ́ pátápátá, a sì rán an sí àwọn ènìyàn tí wọ́n kọ̀ láti gbọ́ ìhìn náà. Ta ni ẹ̀mí gíga yìí?",
+  "clues": [
+    "Allah yan mi gẹ́gẹ́ bí wòlíì, a sì dárúkọ mi nínú Al-Quran.",
+    "Wọ́n mọ̀ mí fún sùúrù àti òtítọ́ mi, àwọn ànímọ́ tí Ọlọ́run ń yìn.",
+    "Mo pe awon eniyan mi lati sin Olorun Kansoso, sugbon opolopo ko mi.",
+    "Allah gbé ipò mi ga, wọ́n sì fún mi ní ipò gíga.",
+    "Wọ́n sábà máa ń sọ̀rọ̀ nípa mi pẹ̀lú àwọn wòlíì mìíràn bíi Ismail àti Dhul-Kifl.",
+    "Allah sọ nípa mi pé: ‘A sì gbé e ga sí ipò gíga.’ (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Idris",
+        "Wòlíì Èlíjà",
+        "Wòlíì Dhu al-Kifl",
+        "Wòlíì Al-Yasa",
+        "Wòlíì Húdì"
+      ],
+      "answer": "Wòlíì Idris"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "A pe awon eniyan lati sin Allah,",
+        "Kíkọ́ ọkọ̀ ojú omi náà",
+        "Ó jà sí Fáráò",
+        "A ṣe àyẹ̀wò àìsàn líle koko",
+        "Wọ́n jù ú sínú iná"
+      ],
+      "answer": "A pe awon eniyan lati sin Allah,"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ipò gíga/ipò gíga gíga",
+        "Àpótí náà",
+        "Àwọn òṣìṣẹ́ náà",
+        "Iná náà",
+        "Kànga náà"
+      ],
+      "answer": "Ipò gíga/ipò gíga gíga"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A gbé e ga sí ipò gíga",
+        "Ìkún omi rì sínú omi",
+        "Ẹja whale gbé mì",
+        "Ti gbala kuro ninu ina",
+        "Ó di ọba"
+      ],
+      "answer": "A gbé e ga sí ipò gíga"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

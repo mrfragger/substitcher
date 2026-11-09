@@ -1,0 +1,61 @@
+{
+  "title": "Adé Tí Ó Pe Àwọn Òfuurufú Níjà",
+  "intro": "Ní àwọn ọ̀nà ìjọba àtijọ́, orúkọ alákòóso kan di ọ̀rọ̀ àpèjúwe fún ìkà àti ìgbéraga. Nígbà tí ìránṣẹ́ ìrẹ̀lẹ̀ kan ti Allah dé pẹ̀lú àwọn àmì tí a kò lè sẹ́, ọba alágbára yìí kọ̀ láti fi ara rẹ̀ fún òtítọ́. Lónìí, iṣẹ́ rẹ ni láti dá ẹni ìtàn àròsọ yìí tí ìjọba rẹ̀ wó lulẹ̀ tí a sì ti fi àyànmọ́ rẹ̀ dì lábẹ́ ìgbì omi.",
+  "clues": [
+    "Èmi ni alákòóso tí wọ́n bẹ̀rù jùlọ tí orúkọ rẹ̀ ṣì ń dún bí ìkìlọ̀ láti ìgbà pípẹ́ wá.",
+    "Mo pàṣẹ fún gbogbo ènìyàn láti ṣiṣẹ́ ní ẹ̀wọ̀n, kí wọ́n sì gbé àwọn ohun ìrántí tí ó ń kéde ògo mi sókè.",
+    "Nígbà tí ojiṣẹ Allah kan dé iwájú mi pẹ̀lú àwọn àmì tí a kò lè sẹ́, mo kọ̀ láti tẹrí ba mo sì pè é ní iṣẹ́ ajẹ́.",
+    "Mo pàṣẹ pé kí a pa àwọn ọmọkùnrin kékeré láàrín àwọn ènìyàn tí wọ́n wà ní ìgbèkùn, kí n lè pa ẹ̀mí wọn rẹ́ kí wọ́n tó lè dìde.",
+    "Mo dúró níwájú ààfin mi mo sì kéde pé, ‘Èmi ni olúwa yín tó ga jùlọ,’ mo sì ń béèrè fún ìjọsìn gẹ́gẹ́ bí ọlọ́run.",
+    "Pẹ̀lú olórí mínísítà mi lẹ́gbẹ̀ẹ́ mi, mo kọ́ ilé gíga kan tí mo fẹ́ gùn kọjá ọ̀run."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Fáráò (Fáráò)",
+        "Namrud",
+        "Hámánì",
+        "Abu Lahab",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Fáráò (Fáráò)"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ìrì sínú Òkun Pupa",
+        "Rakunmi tí a rán sí àwọn ará Thamud",
+        "Ìkún omi ńlá ti Nóà",
+        "Ìyà àwọn alábàákẹ́gbẹ́ ti ìgòkè",
+        "Pípa àwọn ẹyẹ run ẹgbẹ́ ọmọ ogun Abraha"
+      ],
+      "answer": "Ìrì sínú Òkun Pupa"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ilé gíga tí wọ́n kọ́ pẹ̀lú Hámánì",
+        "Ọkọ̀ ojú omi tó ń lọ lórí ìkún omi",
+        "Ọmọ màlúù wúrà tí Samiri ṣe",
+        "Ìtẹ́ Bilqis, Ayaba Ṣeba",
+        "Ihò àwọn ọ̀dọ́mọdé tí wọ́n ń sùn"
+      ],
+      "answer": "Ilé gíga tí wọ́n kọ́ pẹ̀lú Hámánì"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Wọ́n rì sínú òkun; wọ́n pa ara mọ́ gẹ́gẹ́ bí ìkìlọ̀",
+        "Wọ́n lé wọn jáde, wọ́n sì fipá mú wọn rìn kiri nínú aginjù",
+        "A yípadà sí ọ̀bọ gẹ́gẹ́ bí ìyà",
+        "Ìsẹ̀lẹ̀ ilẹ̀ líle kan kọlu",
+        "Òjò láti ojú ọ̀run jó ẹ́"
+      ],
+      "answer": "Wọ́n rì sínú òkun; wọ́n pa ara mọ́ gẹ́gẹ́ bí ìkìlọ̀"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

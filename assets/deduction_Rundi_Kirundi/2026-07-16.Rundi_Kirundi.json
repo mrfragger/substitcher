@@ -1,0 +1,61 @@
+{
+  "title": "Ijwi Ryarwanya Ingoma y’Ikigirwamana",
+  "intro": "Mu ntumwa z’Ishobora vyose harimwo umusuku ashikamye yahagurukiye mw’ihanga ry’intabarirwa kugira ngo ashikirize ukuri. Abantu babo bari barafashe ubumana bw’ibinyoma, bagaheba Umuremyi w’ibiriho vyose. Uwo muntu afise umwiyemezo udatezuka, yarabahamagara — ariko ubutumwa bwashikiwe n’uguhakana no kwanka. Intambwe mu bimenyetso kugira ngo umenye uwo musuku yitayeho yari nde.",
+  "clues": [
+    "Narungitswe nk’intumwa ku bantu b’inkozi z’ikibi bari barazimiye kure y’inzira igororotse.",
+    "Naje kwibutsa ihanga ryanje Uwaremye ibiriho vyose — ari we mwiza kuruta abaremyi bose.",
+    "Abantu banje bari bahindukiriye ikigirwamana c’ikinyoma basenga, bagahamagara amanywa n’ijoro.",
+    "Narabarwanya n’ubushizi bw’amanga, ndababaza igituma bosenga imana y’ibinyoma maze bagaheba Umukama wabo w’ukuri.",
+    "Baranyihakanye, banka kwumviriza, bafatanya n’ikinyoma cabo — yamara Umukama wanje yaranzigamye.",
+    "Ndi Ilyas — amahoro arampa, naharurwa mu basuku b’Ikigongwe b’abizera."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umuhanuzi Ilyasi",
+        "Umuhanuzi Idrisi",
+        "Umuhanuzi Alyasa",
+        "Umuhanuzi Zul-Kifl",
+        "Umuhanuzi Nuh"
+      ],
+      "answer": "Umuhanuzi Ilyasi"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Guhamagara abantu ngo bave mu gusenga Bayali .",
+        "Guhangana n’umunyagitugu yivugira ko ari imana .",
+        "Kugabisha abantu ku bijanye n'umwuzure uriko uraza",
+        "Kujugunywa mu muriro munini ururumba .",
+        "Kurongora urugendo rwo kuva mu gihugu c'ubuja ."
+      ],
+      "answer": "Guhamagara abantu ngo bave mu gusenga Bayali ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Ikigirwamana citwa Bayali .",
+        "Ubwato bunini bubatswe n’ibiti bikomeye .",
+        "Inkoni yagabanya ikiyaga kinini",
+        "Impuzu nyeranda yandujwe n’amaraso .",
+        "Igisaka kirurumba ku musozi mweranda ."
+      ],
+      "answer": "Ico kigirwamana citwa Bayali ."
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Yahawe amahoro kandi aharurwa mu basuku batoranijwe ba Allah .",
+        "Yarongowe mw'iparadizo mu gihe abandi bose bariko baratikizwa .",
+        "Yarokowe mu muriro munini wacitse uwukonje kandi utekanye .",
+        "Hatanzwe ububasha ku ma jinn, ku bantu no ku muyaga",
+        "Umubiri warazigamye nk'ikimenyetso kiramvye c'imyaka yose"
+      ],
+      "answer": "Yahawe amahoro kandi aharurwa mu basuku batoranijwe ba Allah ."
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Vagadziri veMatombo",
+  "intro": "Fungidzira budiriro ine simba, ine simba nehunyanzvi, ichigadzira dzimba huru mumakomo. Boka iri raive nebudiriro huru uye hunyanzvi hwakasiyana hwekuvaka. Asi, pasinei nekupiwa yambiro yakajeka, vakasarudza nzira yaizotungamirira kumhedzisiro inoshamisa uye isingakanganwiki. Unogona kuziva boka iri rine nyaya inoshanda sechidzidzo chakakosha kune vese vanofungisisa?",
+  "clues": [
+    "Takapihwa simba neunyanzvi, zvikatigonesa kuveza dzimba dzakanaka mumakomo zvakananga.",
+    "Takapihwa chiratidzo chakajeka kubva kuna Allah, chisikwa chakasiyana chaifanira kusiiwa chisina kukanganiswa kuti chifudze.",
+    "Nharaunda yedu yakava nekuzvikudza, ichipikisa shoko raMwari rakaunzwa nemutumwa aibva pakati pedu.",
+    "Takarangana kukuvadza chiratidzo chinoshamisa, pasinei nenyevero dzekurangwa kwakaoma.",
+    "Takateerera murayiro wekuti chisikwa ichi chinwe kubva mutsime redu pamazuva akasiyana.",
+    "Takasangana nemugumo unosuruvarisa, wakarohwa nekuputika kumwe chete, kunotyisa mushure mekuita kwedu chivi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tiri vanaani?",
+      "options": [
+        "Vanhu ve'Ad",
+        "Vanhu veMidhiani",
+        "Vanhu veNzou",
+        "Vanhu veThamud",
+        "Vanhu veLut"
+      ],
+      "answer": "Vanhu veThamud"
+    },
+    "trial": {
+      "label": "Kutongwa Kwedu Kukuru/Chiitiko",
+      "options": [
+        "Mafashamo akafukidza nyika",
+        "Kupatsanurwa kwegungwa",
+        "Kuparadzwa nekurira/kudanidzira kamwe chete",
+        "Kupiswa kweguta",
+        "Kushandurwa kwegomo kuita guruva"
+      ],
+      "answer": "Kuparadzwa nekurira/kudanidzira kamwe chete"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha Munyaya Yedu",
+      "options": [
+        "Mhuru yendarama",
+        "Ngamera hadzi inoshamisa",
+        "Gwenzi rinopfuta",
+        "Shiri inotaura",
+        "Chigaro choumambo chikuru"
+      ],
+      "answer": "Ngamera hadzi inoshamisa"
+    },
+    "outcome": {
+      "label": "Mhedzisiro Yedu Yekupedzisira",
+      "options": [
+        "Akapihwa pfuma huru nesimba",
+        "Akakwidziridzwa kusvika pakuva muporofita",
+        "Kuparadzwa zvachose nechirango chaMwari",
+        "Kukanganwirwa mushure mekupfidza kwechokwadi",
+        "Yakapararira pasi rose kuti idzungaire"
+      ],
+      "answer": "Kuparadzwa zvachose nechirango chaMwari"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

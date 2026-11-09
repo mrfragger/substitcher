@@ -1,0 +1,60 @@
+{
+  "title": "Ibanga ry'Intebe y'Ubwami ya kure",
+  "intro": "Umwami ukomeye, wari ufite ubutware budasanzwe, yahuye n'ikibazo kidasanzwe cyari kijyanye n'umwamikazi uturutse mu gihugu cya kure. Umwami yashakaga kugaragaza imbaraga n'ubwenge bw'Imana, atangiza igikorwa kidasanzwe cyanyuranyaga n'amategeko agenga igihe n'ikirere. Ese ushobora gusobanukirwa neza iby'iki kintu gitangaje cyabayeho?",
+  "clues": [
+    "Umutegetsi yahawe ububasha bunini, harimo no kugenzura ibiremwa bitagaragara no gutegeka umuyaga.",
+    "Uyu mutegetsi yabonye inkuru y'umwamikazi w'umukire wasengaga izuba, maze yiyemeza kumutumira mu rukiko.",
+    "Mbere y'uko umwamikazi ahagera, umutegetsi yagaragaje icyifuzo cyo kuzana intebe ye y'ubutegetsi ihebuje ayikuye mu bwami bwe bwa kure.",
+    "Ijini rikomeye ryiyemeje kuzana icyo kintu mbere y'uko umutegetsi ava mu nama ye.",
+    "Ariko, umuntu ufite ubumenyi bwimbitse ku Byanditswe Byera yatanze uburyo bwo kubikuramo vuba kurushaho, arangiza icyo gikorwa mu kanya gato.",
+    "Ikigerayo, umutegetsi yategetse ko icyo kintu gihindurwa kugira ngo hamenyekane ubwenge bw'umwamikazi n'uburyo yumva igihe azaba ageze ingoro."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Umuhanuzi/Umuntu",
+      "options": [
+        "Umuhanuzi Musa",
+        "Intumwa Dawidi",
+        "Intumwa Ibrahimu",
+        "Intumwa y'Imana Yusufu",
+        "Intumwa Sulayman"
+      ],
+      "answer": "Intumwa Sulayman"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Inyanja Igatandukana",
+        "Ukwihangana mu bihe bikomeye",
+        "Inyubako ya Kaaba",
+        "Ikizamini cy'Ubusitani",
+        "Kuzana Intebe y'Umwamikazi"
+      ],
+      "answer": "Kuzana Intebe y'Umwamikazi"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Isanduku",
+        "Abakozi",
+        "Umusozi",
+        "Iriba",
+        "Intebe y'Ubwami"
+      ],
+      "answer": "Intebe y'Ubwami"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Igitambo gikomeye",
+        "Ubwami bwarashinzwe",
+        "Abantu bahanwe",
+        "Isezerano rishya",
+        "Umwamikazi yicisha bugufi imbere ya Allah"
+      ],
+      "answer": "Umwamikazi yicisha bugufi imbere ya Allah"
+    }
+  },
+  "verse": "It was said to her, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins. He said, \"Indeed, it is a palace paved with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allah, Lord of the worlds.\" (An-Naml 27:44)",
+  "arabic": "قِيلَ لَهَا ادْخُلِي الصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ"
+}

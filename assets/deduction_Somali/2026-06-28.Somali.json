@@ -1,0 +1,61 @@
+{
+  "title": "Nafaqada Aan La Filayn Ee Odayga",
+  "intro": "Goobaha barakeysan ee Guriga Alle, addoon Ilaahay oo da' ah ayaa la kulmay sir qoto dheer oo ka hor imaanaysa filashooyinka oo dhan. Qofkan daacadda ah, oo muddo dheer ka soo wareegay sannadihii waalidnimada dabiiciga ah, wuxuu arkay wax aan caadi ahayn oo muujiyay naxariista aan xadka lahayn ee Rabbaaniga ah. Xujada waxay ku jirtaa in la soo bandhigo daqiiqaddan la illoobay ee nolosha nebiyada.",
+  "clues": [
+    "Dadkaygu waxaa loo yaqaanay Israa'iil, oo ah farcankii aabbaha weyn ee waagii hore.",
+    "Habeennadii waxaan ku tukan jiray salaadda, anigoo u sujuudaya Rabbigayga macbudka.",
+    "Waxaa la i siiyay wiil anigoo gabow ah, hadiyad aanan joojin inaan Alle u ammaano.",
+    "Tijaabadadaydu waxay ku lug lahayd helitaanka quudin u muuqatay naf yar oo aan daryeelay.",
+    "Waxaan ahaa nebi la oran jiray Zakariya, oo loo xilsaaray daryeelka Maryam Bayt al-Maqdis.",
+    "Jawaabtu waxay ku jirtaa aayadda uu Alle ka aqbalay Maryam oo uu u hibeeyey."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nebigii ku daryeeli jiray Maryam macbudka",
+        "Nebigii dhisay gurigii barakeysan",
+        "Nebigii waxaa liqay kalluun weyn",
+        "Nebigii ka cararay dadkiisii",
+        "Nebigii si toos ah ula hadlay Alle"
+      ],
+      "answer": "Nebigii ku daryeeli jiray Maryam macbudka"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "In lagu tijaabiyo sannado abaar ah",
+        "Helitaanka quudin si qarsoodi ah loogu talagalay waax dhalinyaro ah",
+        "Wacdi u jeedinta quruun diiday hanuunka rabbaaniga ah",
+        "Dadkii uu isagu lahaa god ayay ku tuureen.",
+        "Helitaanka muujinta iyada oo loo marayo aragtiyo"
+      ],
+      "answer": "Helitaanka quudin si qarsoodi ah loogu talagalay waax dhalinyaro ah"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Markab laga sameeyay looxyo iyo musmaarro",
+        "Macbadka quduuska ah ee Yeruusaalem",
+        "Beer la burburiyay",
+        "Magaalo uu dhisay boqor xaq ah",
+        "Qoto dheer ee badda"
+      ],
+      "answer": "Macbadka quduuska ah ee Yeruusaalem"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Dadku waxay rumaysteen oo raaceen rasuulka",
+        "Aqbal iyo naxariis rabbaani ah oo loogu talagalay kuwa u heellan cibaadada",
+        "Ciqaabtii waxay ku timid gaalada.",
+        "Wiil ayaa ku dhashay da' weyn sidii ballantu ahayd",
+        "Marin ammaan ah oo dhex mara cidlada"
+      ],
+      "answer": "Aqbal iyo naxariis rabbaani ah oo loogu talagalay kuwa u heellan cibaadada"
+    }
+  },
+  "verseRef": "3:37",
+  "arabic": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍۢ وَأَنۢبَتَهَا نَبَاتًا حَسَنًۭا وَكَفَّلَهَا زَكَرِيَّا ۖ كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًۭا ۖ قَالَ يَـٰمَرْيَمُ أَنَّىٰ لَكِ هَـٰذَا ۖ قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ ۖ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ",
+  "verse": "So her Lord accepted her with good acceptance and caused her to grow in a good manner and put her in the care of Zechariah. Every time Zechariah entered upon her in the prayer chamber, he found with her provision. He said, \"O Mary, from where is this [coming] to you?\" She said, \"It is from Allāh. Indeed, Allāh provides for whom He wills without account.\" (3:37)"
+}

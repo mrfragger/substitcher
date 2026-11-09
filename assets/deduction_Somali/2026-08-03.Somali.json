@@ -1,0 +1,61 @@
+{
+  "title": "Gu'ga oo Ciidda ka hooseeya",
+  "intro": "Qormooyinka Qur'aanka, qof dulqaad badan leh ayaa wajahay tijaabo jebinaysa quluubta ugu adag. Wax walba waa la qafaashay - hanti, qoys, iyo caafimaad. Haddana quusta qoto dheer awgeed, duco is-hoosaysiin leh ayaa looga jawaabay si aan la filayn. Ma aqoonsan kartaa naftan oo sheekadeeda dib-u-soo-celinta ay soo noqnoqonayso qarniyo badan?",
+  "clues": [
+    "Waxaa la i tijaabiyay tijaabo aad u daran oo la xasuusto qarniyo badan.",
+    "Waxaan waayay wax kasta oo muhiim ah - maalkayga, carruurtayda, iyo caafimaadkayga.",
+    "Jidhkayga waxaa ku daboolnaa nabarro xanuun badan, dhammaantoodna way iga fogaayeen.",
+    "Anigoo quus ah, ayaan Alle u yeeray, anigoo leh Shaydaan ayaa i taabtay dhibaato iyo cadaab.",
+    "Alle ayaa i ajiibay oo i faray inaan dhulka ku dhufto cagtayda.",
+    "Meeshaas, gu' qabow ayaa ka soo baxay, Alle ayaana qoyskaygii dib u soo celiyay oo u labanlaabmay naxariis ahaan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Ayuub",
+        "Nabi Muuse",
+        "Nabi Ilyaas",
+        "Nabi Sulaymaan",
+        "Nabi Daa'uud"
+      ],
+      "answer": "Nabi Ayuub"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Xanuun daran iyo lumitaan qoyska iyo hantida",
+        "In nibiri weyn liqo",
+        "Ka qaxidda magaalada Makkah",
+        "Xabsi ku jira ceel qoto dheer",
+        "Iska hor imaad lala galo taliye kibir badan"
+      ],
+      "answer": "Xanuun daran iyo lumitaan qoyska iyo hantida"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Il qabow oo ka yimid dhulka",
+        "Doon daad weyn saaran",
+        "Ul badda kala qaybisa",
+        "Carshi muraayad ah oo kor loo qaaday",
+        "God derbi leh oo loogu talagalay hurdada"
+      ],
+      "answer": "Il qabow oo ka yimid dhulka"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Qoyska iyo hantida ayaa dib loo soo celiyay oo labanlaabmay",
+        "Ka bax caloosha kalluunka",
+        "Marin ammaan ah oo dhex mara biyaha kala qaybsan",
+        "Boqortooyo la siiyay xukunka",
+        "Dhalashadii mucjisada ahayd ee wiil ku dhashay da'da weyn."
+      ],
+      "answer": "Qoyska iyo hantida ayaa dib loo soo celiyay oo labanlaabmay"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

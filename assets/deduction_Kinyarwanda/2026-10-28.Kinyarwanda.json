@@ -1,0 +1,61 @@
+{
+  "title": "Isezerano ryavuzwe ku byerekeye Amaraso",
+  "intro": "Uhagaze iruhande rw'umuriro wo mu butayu mu gihe umuriro wawo utwikiriwe neza. Abashyitsi barahagera kugira ngo bahure mu ituze, maze ubutumwa bumwe butangira inkuru y'isezerano, gutungurwa, n'ejo hazaza hatarasohora.",
+  "clues": [
+    "Twambutse intera ndende tugera ku mugaragu wizerwa mu butayu.",
+    "Twasabye ko hakwirakwizwa amakara kugira ngo hategurwe umuriro.",
+    "Twaganiriye n'umuntu wari wahamagaye umuriro ngo atwikire ubukonje n'umutekano.",
+    "Twazanye inkuru y'uruhinja ku muntu wari urengeje imyaka yo kubyara.",
+    "Umwana twamwise Isaka.",
+    "Twazanye inkuru nziza y'umuhungu kuri Ibrahim, maze iyo nkuru itangaje imutera guseka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Abamarayika bazanye ubutumwa bwiza bwa Isaka kuri Ibrahim",
+        "Abamarayika baburiye Luti",
+        "Abamarayika Bafite Intebe y'Ubwami",
+        "Abamarayika bo mu muriro",
+        "Abamarayika boherejwe kuri Nowa"
+      ],
+      "answer": "Abamarayika bazanye ubutumwa bwiza bwa Isaka kuri Ibrahim"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Kuzanira Ibrahim inkuru nziza y'ivuka rya Isaka",
+        "Kuburira Lut mbere y'uko abaturage be bahanwa",
+        "Gutangaza ivuka rya Yahya kuri Zakariya",
+        "Kwitwaza Intebe y'Ubwami ku Munsi w'Urubanza",
+        "Gutangaza ivuka rya Isa kuri Mariyamu"
+      ],
+      "answer": "Kuzanira Ibrahim inkuru nziza y'ivuka rya Isaka"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Umuriro wateguwe uturutse ku mashyiga yakwirakwiriye",
+        "Ubwato buri kureremba hejuru y'amazi y'umwuzure",
+        "Ubuvumo bufunze n'ibuye rizingiye",
+        "Umusozi w'ibumba ryakomejwe n'amazi y'umunyu",
+        "Ingazi igera mu kirere"
+      ],
+      "answer": "Umuriro wateguwe uturutse ku mashyiga yakwirakwiriye"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Inkuru nziza y'umuhungu witwa Isaka",
+        "Inkuru nziza y'umuhungu witwa Yahya",
+        "Gutoranywa kwa Talut nk'umuyobozi w'abana ba Isirayeli",
+        "Umuburo mbere y'igihano cy'abantu ba Lut",
+        "Itegeko ryo kubaka inkuge mbere y'umwuzure"
+      ],
+      "answer": "Inkuru nziza y'umuhungu witwa Isaka"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ekibuga Ekibuze eky'Obwasseruganda Atalina ky'afaanana",
+  "intro": "Lumu embuga ey’amaanyi yali efuga ebitundu by’ensi ebinene ennyo, nga bikuzibwa olw’ebizimbe ebiwanvu ebyatuuka mu bbanga. Naye wansi w’obukulu buno, okwegaana okw’obukakanyavu kwakula — okugaana okuwuliriza omulabuzi ow’obwakatonda eyasindikibwa okuva munda mu kitundu kyennyini. Amalala n’amalala mu bbanga ttono byandireese ekibonerezo ng’ekyo ensi wadde eggulu tebyalabako.",
+  "clues": [
+    "Lumu twafuga ebitundu by’ensi ebinene ennyo, nga twewaana olw’amaanyi ge twalowooza nti tewali mpisa ndala eyinza kugifaanana.",
+    "Obwakabaka bwaffe bwali bumanyiddwa nnyo olw’ebizimbe ebiwanvu nga biriko empagi ez’amaanyi ezaali ziyimiridde nga tezivuganyizibwa ku buli nsi emanyiddwa.",
+    "Omulabuzi okuva mu kitundu kyaffe kyennyini yasituka, ng’akubiriza buli omu ku ffe okugondera Omutonzi Omu yekka.",
+    "Twagaana obubaka obwatutuusibwako ne tugaana okusuula ekkubo lye twasikira.",
+    "Empewo ey’obusungu era eyali ewuuma ey’amaanyi ennyo yatusuulibwa, n’etuleka nga tetulina kye tuyinza kwekuuma.",
+    "Twasigala ng’ebikonge by’enkindu ebiriko ebituli, nga bisaasaanidde era nga byerabirwa, ng’eky’okuyiga eri buli mulembe oguddirira."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Abantu ba A'ad",
+        "Abantu b’e Nuh",
+        "Abantu ba Lut",
+        "Abantu b’e Madyan",
+        "Abantu b'e Tubba'."
+      ],
+      "answer": "Abantu ba A'ad"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Empewo etasalako ey’ekibonerezo eky’amaanyi",
+        "Amataba agaabikka buli ntikko y’olusozi",
+        "Enkuba ey’amayinja ag’ebbumba agayaka okuva waggulu",
+        "Enduulu emu ey’entiisa okuva mu ggulu",
+        "Musisi ow’amaanyi eyayawulamu ensi"
+      ],
+      "answer": "Empewo etasalako ey’ekibonerezo eky’amaanyi"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Iramu, ekibuga eky’empagi ezigulumivu",
+        "Essanduuko ennene ennyo ey’embaawo eyazimbibwa ku lusozi",
+        "Engamiya enkazi eyava mu mayinja mu ngeri ey’ekyamagero",
+        "Olusozi Sinaayi ebiragiro by’obwakatonda we byakka",
+        "Olubiri olwa kirasita n’endabirwamu ennungi nga lutunudde mu mazzi agakulukuta"
+      ],
+      "answer": "Iramu, ekibuga eky’empagi ezigulumivu"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Balekeddwa ng’ebikonge by’enkindu ebiriko ebituli, ebisaasaanidde era nga tebirina bulamu",
+        "Yabbira wansi w’amayengo agasukkiridde ag’amataba amanene",
+        "Yakyusibwa n’efuuka ebitonde ebiringa enkima n’embizzi",
+        "Yanyigirizibwa wansi w’enkuba ey’amayinja ag’ebbumba agakalubye",
+        "Yamalibwa mu kukaaba okumu okuziba amatu okwafumita emmeeme"
+      ],
+      "answer": "Balekeddwa ng’ebikonge by’enkindu ebiriko ebituli, ebisaasaanidde era nga tebirina bulamu"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

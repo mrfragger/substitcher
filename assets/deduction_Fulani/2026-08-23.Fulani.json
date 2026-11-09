@@ -1,0 +1,61 @@
+{
+  "title": "Ko heewi e majjuɓe",
+  "intro": "Aɗa darii e yeeso ŋoral renndo ngo daartol mum winndaa e nder ŋoral. Ɗeeɗoo yontaaji nanii noddaango, cuɓii ƴattaade, njokkondiri e batte mbayliigu leydi. Hol ɓeen, hol ko wonti aduna maɓɓe?",
+  "clues": [
+    "En nguurii gila ko ɓooyi, nulaaɗo arii e men gila e men.",
+    "Min ndewi sanamuuji joy, min calii woppude ɗi.",
+    "Min cemmbini nelaaɗo o, min tuumi mbo o majjuɗo.",
+    "Min ɗaɓɓi nde o addanta jukkungo ngoo so tawii ko o gooŋɗinɗo.",
+    "En njiyii asamaan ina ɓuuɓna toɓo, leydi ina ɓuuɓna ɓulli.",
+    "Min njahi haa dow nokkuuje toowɗe ngam doggugo, ammaa ndiyam ɗam janngi min."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol Enen?",
+      "options": [
+        "Yimɓe Nuuhu",
+        "Yimɓe 'Ad",
+        "Yimɓe Samuuda",
+        "Yimɓe Luut",
+        "Yimɓe Madyanaaɓe"
+      ],
+      "answer": "Yimɓe Nuuhu"
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "Min njippiima e ilam mawɗam",
+        "Min mbonni ko e henndu",
+        "Min mbaraa ko e ɓuuɓol mawngol",
+        "Leydi moɗi min",
+        "Min mberlaa e kaaƴe ummoraade e asamaan"
+      ],
+      "answer": "Min njippiima e ilam mawɗam"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Ilam mawɗam",
+        "Henndu bonndu",
+        "Duuɓi kaaƴe",
+        "Puccugol yiite",
+        "Yerɓo leydi"
+      ],
+      "answer": "Ilam mawɗam"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "Enen fof eɗen halki so wonaa gooŋɗinɓe wonduɓe e Nuuhu",
+        "Min mbaylaama min ngonti apes",
+        "Min keddii ko no mborosaaji wonande yahooɓe",
+        "Min mbaɗtaa salte",
+        "Min ndokkaama fooftere"
+      ],
+      "answer": "Enen fof eɗen halki so wonaa gooŋɗinɓe wonduɓe e Nuuhu"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

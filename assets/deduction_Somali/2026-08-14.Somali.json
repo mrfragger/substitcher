@@ -1,0 +1,61 @@
+{
+  "title": "Gacmaha La Habaaray",
+  "intro": "Waxaad taagan tahay waddooyin wareegsan oo Makkahdii hore ah, halkaas oo naf saameyn iyo maal leh ay mar ka leexatay baaqii runta. Sheekada qofkan waa xasuusin cad oo muujinaysa in xiriirka dhiiggu uusan ka gudbi karin silsiladaha kibirka. Waa kuma kan magaciisa la socda dabka sugaya?",
+  "clues": [
+    "Waxaan ku socday waddooyinka Makka anigoo ku faanaya inaan runta ka indho tirayo, inkastoo rasuulku uu ahaa dhiiggeyga.",
+    "Hantidaydu aad bay u badnayd, laakiin waxay noqdeen habaar halkii ay ka ahaan lahaayeen gaashaan.",
+    "Buugga hanuunka wuxuu ka hadlayaa burburkayga, isagoo sheegaya in gacmahayga iyo qofkayguba ay dhiman doonaan.",
+    "Xaaskaygu waxay ku biirtay ololahayga cadawtinimo, iyadoo ururinaysa qodax si ay ugu faafto waddada kii Alle u yeedhay.",
+    "Maalinta qiyaamaha, waxaa laygu ridi doonaa dab ololaya, xaaskayguna waxay qoorta ku xidhi doontaa xadhig timireed.",
+    "Waxaa laygu yaqaanaa magac macnihiisu yahay 'aabaha ololka' - magac sii sheegaya hoygayga weligeed ah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Abuu Lahab",
+        "Abu Jahl",
+        "Abuu Daalib",
+        "Abuu Sufyaan",
+        "Al-Walid ibnu Al-Mughira"
+      ],
+      "answer": "Abuu Lahab"
+    },
+    "trial": {
+      "label": "Tijaabada Muhiimka ah ama Dhacdada",
+      "options": [
+        "Nabiga ayuu ka soo horjeeday, Qur'aankana waa lagu habaaray.",
+        "Wuxuu hoggaamiyay ciidan si uu u burburiyo Kacbada",
+        "Isku dayay in uu Nabiga ku dilo dhagaxyo.",
+        "Wuu diiday inuu rumaysto kala qaybsanaanta dayaxa",
+        "Munaarad ayay dhistay si ay cirka u gaarto"
+      ],
+      "answer": "Nabiga ayuu ka soo horjeeday, Qur'aankana waa lagu habaaray."
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Naarta Jahannamo ee ololaysa",
+        "Usha Muuse",
+        "Doontii Nuux",
+        "Ceelka Zamzam",
+        "Keeggii Dahabka ahaa"
+      ],
+      "answer": "Naarta Jahannamo ee ololaysa"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Wuxuu geli doonaa Naarta oo ololaysa, xoolihiisuna waxba uma tari doonaan.",
+        "Wuu toobad keenay oo wuxuu noqday mu'min",
+        "Waa la cafiyay ka dib markii uu ka laabtay",
+        "Wuxuu ku dhintay shahiidnimo",
+        "Waxaa kor loogu qaaday samada"
+      ],
+      "answer": "Wuxuu geli doonaa Naarta oo ololaysa, xoolihiisuna waxba uma tari doonaan."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

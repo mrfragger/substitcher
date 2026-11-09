@@ -1,0 +1,61 @@
+{
+  "title": "Àṣàyàn Ọmọ màlúù wúrà náà",
+  "intro": "Ẹni kan tí a mẹ́nu kàn nínú Al-Quran mú ọ̀pọ̀lọpọ̀ ènìyàn yà kúrò nígbà tí wòlíì ọlọ́lá kan kò sí. Ohun kan tí a fi wúrà ṣe gba ọkàn gbogbo orílẹ̀-èdè kan — ṣùgbọ́n ìtàn ẹni yìí parí sí ìdánìkanwà àti ègún àjèjì kan. Ta ni ẹni tí a lé kúrò yìí?",
+  "clues": [
+    "Mo farahàn nígbà tí kò sí wòlíì ńlá kan tí ó ti gòkè lọ láti gba ìtọ́sọ́nà àtọ̀runwá.",
+    "Mo fi ohun tí mo fi ọwọ́ ara mi ṣe ṣe ọ̀pọ̀lọpọ̀ ènìyàn.",
+    "Ó dà bíi pé ìṣẹ̀dá wúrà tí mo ṣe ní ìyè, ó ń mú àwọn ohùn tí ó máa ń fani mọ́ra wá sí àwọn tó ń tẹ̀lé e.",
+    "Mo sọ pé mo ti rí ohun tí àwọn ẹlòmíràn kò lè rí — ìríran kan sí ohun tí a kò rí.",
+    "Mo fa ohun kan láti inú ipa ọ̀nà ìránṣẹ́ Ọlọ́run náà mo sì sọ ọ́ sínú irin dídán.",
+    "Wọ́n dá mi lẹ́bi láti máa rìn kiri nìkan, pẹ̀lú ègún àrà ọ̀tọ̀ kan tí kò sí ẹni tí ó lè fọwọ́ kan awọ ara mi tàbí tí èmi náà lè fọwọ́ kan tiwọn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Samiri",
+        "Hámánì",
+        "Fáráò (Fáráò)",
+        "Abu Lahab",
+        "Wòlíì Sálíh"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ṣẹ̀dá ọmọ màlúù wúrà kan fún ìjọsìn",
+        "Ilẹ̀ ìṣọ́ kan tí ó dé ọ̀run ni a kọ́",
+        "Ó pe àwọn oníṣẹ́dá níjà ní Íjíbítì",
+        "Ṣáájú ẹgbẹ́ ọmọ ogun pẹ̀lú àwọn ẹranko tí ń fò",
+        "Pin oṣupa gẹ́gẹ́ bí ẹ̀rí pé wòlíì ni"
+      ],
+      "answer": "Ṣẹ̀dá ọmọ màlúù wúrà kan fún ìjọsìn"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ọmọ màlúù wúrà",
+        "Ọ̀pá tí ó di ejò",
+        "Igbó kan tó ń jó lórí òkè kan",
+        "Ọkọ̀ ayọ́kẹ́lẹ́ kan tí ó dúró lórí òkè ńlá kan",
+        "Ààfin tí iná ń jó kún"
+      ],
+      "answer": "Ọmọ màlúù wúrà"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ìlé kúrò ní ìlú, wọ́n kà á léèwọ̀ fún wọn láti fọwọ́ kan àwọn ẹlòmíràn tàbí kí wọ́n fọwọ́ kan wọn",
+        "Mo rì sínú òkun pẹ̀lú ẹgbẹ́ ọmọ ogun kan",
+        "Wọ́n jó wọn láàyè nítorí pé wọ́n kọ̀ láti gbàgbọ́",
+        "Afẹ́fẹ́ líle kan tí ń rọ́ lulẹ̀ ló gbá a lulẹ̀",
+        "A dariji wa a si gbe e dide si ipo giga kan"
+      ],
+      "answer": "Ìlé kúrò ní ìlú, wọ́n kà á léèwọ̀ fún wọn láti fọwọ́ kan àwọn ẹlòmíràn tàbí kí wọ́n fọwọ́ kan wọn"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Okukaaba Okuva Mu Buziba",
+  "intro": "Omuweereza w’Omusaasizi ennyo yakoowa eggwanga ery’obukakanyavu n’agenda ng’olukusa terunnaweebwa. Ono ssekinnoomu yakoma mu kifo awatali muntu yenna yali abaddeko, omulanga eri Obwakatonda we guwulikika mu ngeri eyeewuunyisa okuyita mu layers z’ekizikiza. Nga evaayo ng’enafuye naye ng’ekyusiddwa, emmeeme eno yafuuka essomo eritaggwaawo mu bugumiikiriza, okwenenya okw’amazima, n’okusaasira kw’Omutonzi okutaliiko kkomo. Osobola okusumulula ekyama ekyo?",
+  "clues": [
+    "Nasindikibwa ng’omubaka eri abantu bange, naye ne basukka ensalo zonna mu butakkiriza bwabwe ne bagaana okuwuliriza.",
+    "Nanyiiga olw’okugaana kwabwe ne ndduka mu bantu bange nga ekiragiro kya Allah tekinnatuuka.",
+    "Nnalinnya emmeeri eyali etisse ebintu ebisukka ku busobozi, era twakuba akalulu okuzuula ani agenda okusuulibwa mu nnyanja.",
+    "Nasuulibwa mu nnyanja eyali efuukuuse era ne nmira ekyennyanja ekinene.",
+    "Nga nsibidde mu layers ssatu ez’ekizikiza — olubuto, ennyanja enzito, n’ensi wansi — nakoowoola Mukama wange mu kwenenya okw’amazima.",
+    "Nava mu byennyanja ne nzira ku lubalama oluggule, nga ndi munafu era nga nkooye, era ekimera kya gourd ne kimera waggulu wange. Abantu bange, emitwalo kikumi oba okusingawo, baasembayo okukkiriza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Nabbi Yunus",
+        "Nabbi Ayyuub",
+        "Nabbi Yusuf",
+        "Nabbi Musa",
+        "Nabbi Sulaiman"
+      ],
+      "answer": "Nabbi Yunus"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Amira ekyennyanja ekinene",
+        "Basuuliddwa mu muliro ogwaka",
+        "Asibidde wansi w’oluzzi",
+        "Nga bazitoowereddwa amataba amangi",
+        "Yasibibwa mu ngeri etali ya bwenkanya kabaka"
+      ],
+      "answer": "Amira ekyennyanja ekinene"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Olubuto lw’ekyennyanja ekinene",
+        "Ekiwonvu ekitukuvu okumpi ne Kaaba",
+        "Eryato ng’ewummudde ku lusozi",
+        "Omuggo ogwafuuka omusota",
+        "Entebe y’obwakabaka ey’obukulu obutagigeraageranya"
+      ],
+      "answer": "Olubuto lw’ekyennyanja ekinene"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Abantu be, emitwalo kikumi oba okusingawo, bakkiriza",
+        "Yazuukizibwa nga mulamu okutuuka mu ggulu",
+        "Yafuuka omufuzi w’obwakabaka obutavunaanibwa",
+        "Yasaanawo olw’okukaaba okufumita okuva mu bbanga",
+        "Yafuumuulwa musisi ow’amaanyi ennyo"
+      ],
+      "answer": "Abantu be, emitwalo kikumi oba okusingawo, bakkiriza"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Echo Okuyita mu Njazi",
+  "intro": "Teebereza ekiwonvu omuli amayumba agatemeddwa okuva ku njazi, era empewo etambuza ekijjukizo ky’okulabula okutafaayo. Lumu abantu baakulaakulana wano, nga baweereddwa omukisa naye nga bajeemera, okutuusa akabonero lwe kaava mu lwazi lwennyini lwe baali beesiga.",
+  "clues": [
+    "Twali bantu abayoola amaka amakuumi okuva ku nsozi, nga tuwulira nga tetulina bulabe mu bifo byaffe eby’amayinja.",
+    "Twabeera mu nsi ey’ebiwonvu n’amayinja, eyaweebwa omukisa olw’ensuku n’ensulo.",
+    "Omubaka okuva mu ffe yajja, ng’atuyita okuleka bakatonda baffe ab’obulimba ne tusinza Omutonzi Omu ow’amazima.",
+    "Mu maanyi twassaawo akakwakkulizo ak’okukkiriza: akabonero ak’enjawulo akaandivudde mu njazi zennyini ze twayoola.",
+    "Engamiya enkazi eyasuubizibwa bwe yalabika okuva ku lwazi, akabonero akategeerekeka obulungi, abakulu baffe bakyagaana era ne bamukuba ebikonde wadde nga baali balabuddwa ku kuzikirizibwa okwali kugenda okubaawo.",
+    "Nga wayise ennaku ssatu nga tukola ekikolwa kyaffe, okubwatuka okw’okubwatuka kwawulikika mu kiwonvu, era ne tukendeezebwa ne tufuuka ebifunfugu ebyagudde, amaka gaffe amalaalo gaffe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ffe Tuli Baani?",
+      "options": [
+        "Abantu ba ¿Ad",
+        "Abantu b’e Thamudi",
+        "Abantu b’e Madyan",
+        "Abantu b’Ekibira",
+        "Abantu b'Empuku"
+      ],
+      "answer": "Abantu b’e Thamudi"
+    },
+    "trial": {
+      "label": "Okugezesebwa kwaffe/Omukolo Omukulu",
+      "options": [
+        "Okusiba eŋŋamira ya Allah enkazi",
+        "Okusinza ennyana eya zaabu",
+        "Okumenya Ssabbiiti",
+        "Okuzimba omunaala okutuuka mu bbanga",
+        "Okuttibwa kwa bannabbi"
+      ],
+      "answer": "Okusiba eŋŋamira ya Allah enkazi"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu mu Mboozi Yaffe",
+      "options": [
+        "Engamiya enkazi eya Allah",
+        "Abakozi ba Musa",
+        "Essanduuko ya Nuu",
+        "Omukono omuzungu ogwa Musa",
+        "Ekinyonyi kya ¿Is"
+      ],
+      "answer": "Engamiya enkazi eya Allah"
+    },
+    "outcome": {
+      "label": "Ebyavaamu byaffe",
+      "options": [
+        "Okuzikirizibwa olw’okubwatuka okuziba amatu",
+        "Enkuba y’amayinja okuva mu bbanga",
+        "Amataba agaabikka ensi",
+        "Empewo ey’amaanyi eyatusimbula",
+        "Ensi nga etumira"
+      ],
+      "answer": "Okuzikirizibwa olw’okubwatuka okuziba amatu"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

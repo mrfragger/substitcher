@@ -1,0 +1,61 @@
+{
+  "title": "Baaqa Aan La Dhegaysan ee Dhulka Kibirka",
+  "intro": "Waxaad taagan tahay burburkii ilbaxnimo weyn oo mar ahayd, halkaas oo awood iyo kibir aan lahayn xuduud. Rasuul baa dhex socday, isagoo runta u yeeraya, laakiin qalbigoodu wuu adkaa. Digniintii lama dhegaysan, cirka laftiisuna wuxuu noqday qalab cadho ah. Yaa ahaa rasuulkan, maxaase ku dhacay kuwii diiday baaqa?",
+  "clues": [
+    "Waxaa la ii diray dad aan la barbar dhigi karin oo meel kasta oo sare ah ka dhisay taallo.",
+    "Dadkaygu waxay isu arkeen inay yihiin kuwo aan la jabin karin waxayna yiraahdeen, 'Yaa naga xoog badan?'",
+    "Waxaan ugu yeeray inay caabudaan Alle oo keliya, laakiin waxay igu eedeeyeen nacasnimo iyo been abuur.",
+    "Waxay igu xujeeyeen inaan keeno ciqaabtii aan ballanqaaday haddii aan run sheegayo.",
+    "Eebe wuxuu ku soo diray dabayl aan waxba ka reebin oo ku soo degtay.",
+    "Aniga iyo kuwii ila rumaysnaa waxaa na badbaadiyay naxariista Alle, halka gaaladana gebi ahaanba la halaagay."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Huud",
+        "Nabi Saalix",
+        "Nabi Shucayb",
+        "Nabi Luut",
+        "Nabi Nuux"
+      ],
+      "answer": "Nabi Huud"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Dabayl ba'an ayaa burburisay gaalada",
+        "Daad weyn ayaa ku habsaday gaalada",
+        "Roob dhagaxyo ah ayaa da'ay",
+        "Qaylo dheer ayaa qabsatay gaalada.",
+        "Dhulgariir ayaa ku dhacay gaalada"
+      ],
+      "answer": "Dabayl ba'an ayaa burburisay gaalada"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Dabayl aan kala go 'lahayn",
+        "Sanduuq alwaax ah",
+        "Hashii",
+        "Roob dhagaxyo dhoobo ah",
+        "Dab ololaya"
+      ],
+      "answer": "Dabayl aan kala go 'lahayn"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Huud iyo mu'miniintii waa la badbaadiyay, gaaladana waa la halaagay.",
+        "Hud waxaa loo qaaday boos sare",
+        "Hud waxaa dilay dadkiisii",
+        "Dadkii Hud way toobad keeneen oo way badbaadeen",
+        "Huud wuxuu dadkiisii ​​ka tagay kahor ciqaab kasta"
+      ],
+      "answer": "Huud iyo mu'miniintii waa la badbaadiyay, gaaladana waa la halaagay."
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

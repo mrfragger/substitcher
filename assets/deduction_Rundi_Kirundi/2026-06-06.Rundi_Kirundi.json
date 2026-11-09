@@ -1,0 +1,61 @@
+{
+  "title": "Umusavyi wa Allah ashizwe hejuru",
+  "intro": "Urumva ivyiyumviro vy’umuntu wo mu bihe vya kera, umusavyi wa Allah yaduzwe mu kibanza kiri hejuru y’abantu basanzwe. Uwo muntu yari azwi kubera ukwihangana kudahungabana n’ukuri gushitse, kandi yarungitswe ku bantu bahindukiye bakava ku butumwa. None uwo mutima ushizwe hejuru ni nde?",
+  "clues": [
+    "Natowe na Allah ngo mbe umuhanuzi kandi ndavugwa muri Korowani Ntagatifu.",
+    "Namenyekanye kubera ukwihangana kwanje n’ukuri, kamere Allah ashimagiza.",
+    "Nahamagariye abantu banje gusenga Imana imwe, ariko benshi baranyanka.",
+    "Igitigiri canje carashizwe hejuru na Allah, kandi nahawe ikibanza co hejuru.",
+    "Kenshi ndavugwa iruhande y’abandi bahanuzi nka Ismail na Dhul-Kifl.",
+    "Allah aravuga kuri jewe ati: «Kandi twamudugije mu kibanza co hejuru.» (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umuhanuzi Idrisi",
+        "Umuhanuzi Eliya",
+        "Umuhanuzi Dhu al-Kifl",
+        "Umuhanuzi Al-Yasa",
+        "Umuhanuzi Hudi"
+      ],
+      "answer": "Umuhanuzi Idrisi"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Bahamagariwe abantu gusenga Allah",
+        "Yubatse ubwato",
+        "Yarwanye na Farawoni .",
+        "Yageragejwe n'indwara ikomeye",
+        "Yajugunywe mu muriro ."
+      ],
+      "answer": "Bahamagariwe abantu gusenga Allah"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Igitigiri co hejuru/ikibanza co hejuru",
+        "Ubwato",
+        "Abakozi",
+        "Umuriro",
+        "Iriba"
+      ],
+      "answer": "Igitigiri co hejuru/ikibanza co hejuru"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Yaduzwe mu kibanza co hejuru",
+        "Yarohamye mu mwuzure",
+        "Yamizwe n'ikiyaga",
+        "Yakijijwe umuriro .",
+        "Yabaye umwami ."
+      ],
+      "answer": "Yaduzwe mu kibanza co hejuru"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ubugingo Bureba Ku Nkombe y'Uruzi",
+  "intro": "Umuntu ukiri muto yahawe ubutumwa bw'ibanga, bwo kwitegereza ari kure uko iherezo rye ryabaga riri ku mazi. Kubera ko atashoboraga kubibona cyangwa ngo abyitezweho, uyu muntu yazagira uruhare runini mu guhindura amateka y'igihugu.",
+  "clues": [
+    "Nahawe akazi na mama, kasabaga kwihisha no kuba maso.",
+    "Amaso yanjye yakurikiraga agatambaro gato kari gatembera mu mugezi, umutima wanjye uremerewe n'amaganya.",
+    "Ubwo yabonekaga n'umuntu utari witeze, narayegereye mfite ubwoba bwinshi.",
+    "Nabonye ko babuze umurinzi maze batanga igisubizo ntahishuye ukuri.",
+    "Gutabara kwanjye ku gihe byagaruriye roho y’ubuforomo ku muntu wari uyikeneye cyane.",
+    "Mu bikari by'abanyambaraga, naravuze nti: 'Ese nkwereke umuryango uzamurera kandi ukamurera neza?'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Mushiki wa Musa",
+        "Nyina wa Musa",
+        "Umugore wa Farawo",
+        "Umubyaza",
+        "Umukobwa wa Shu'aib"
+      ],
+      "answer": "Mushiki wa Musa"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Guta umwana mu ruzi",
+        "Igabanywa ry'inyanja",
+        "Gutwika inyana",
+        "Kubaka inkuge",
+        "Icyorezo cy'inzige"
+      ],
+      "answer": "Guta umwana mu ruzi"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Uruzi",
+        "Ubutayu",
+        "Umusozi",
+        "Ingoro",
+        "Umuriro"
+      ],
+      "answer": "Uruzi"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Yahuje umwana na nyina",
+        "Yikijije ingabo za Farawo",
+        "Yabaye umwamikazi",
+        "Yahaniwe icyaha cyo kuneka",
+        "Yayoboye Abisirayeli"
+      ],
+      "answer": "Yahuje umwana na nyina"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

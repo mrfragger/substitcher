@@ -1,0 +1,61 @@
+{
+  "title": "Gusinzira kw'abakiranutsi",
+  "intro": "Mu gihe ukwizera kwari guteye akaga kandi abanyambaraga bashakaga gusenya ukwemera, itsinda rito ry’abantu bakiri bato ryahisemo ibintu byagiye bigaruka mu bihe bitandukanye. Bahunze ibyo bari bazi byose, bashakira ubuhungiro mu mwijima wihishe w’umusozi kandi biringira Imana byuzuye. Ibyakurikiyeho byari kuba ikimenyetso kidashira ku batekereza.",
+  "clues": [
+    "Twari itsinda ry'urubyiruko rwizeraga Umwami wacu, kandi yatwongereye ubuyobozi.",
+    "Twahagaze imbere y'abantu bacu maze dutangaza ko tutazigera dusenga indi mana uretse Allah.",
+    "Twashatse ubuhungiro mu buvumo, tuti: 'Mwami wacu, duhe imbabazi zituruka kuri wowe kandi utuyobore neza mu byo dukora.'",
+    "Twasinziriye imyaka myinshi, izuba ryavaga mu buvumo bwacu ntiridukoreho.",
+    "Imbwa yacu yari iryamye ku muryango w'ubuvumo, iraturinda nk'aho iri maso.",
+    "Ubwo twakangutse, twibajije igihe twari tumaze dutegereje, maze umwe muri twe atumwa n'ibiceri by'ifeza kugura ibyo kurya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Abantu bo mu buvumo",
+        "Abantu bo mu muyoboro",
+        "Abantu b'Isabato",
+        "Abantu b'inzovu",
+        "Abagenzi b'Ishyamba"
+      ],
+      "answer": "Abantu bo mu buvumo"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Bahungiye mu buvumo kugira ngo bahunge itotezwa bazira ukwizera kwabo",
+        "Yashenywe n'umuyaga ukomeye",
+        "Yamizwe n'isi",
+        "Yarohamye mu nyanja",
+        "Yakubiswe n'inkubi y'amabuye"
+      ],
+      "answer": "Bahungiye mu buvumo kugira ngo bahunge itotezwa bazira ukwizera kwabo"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Imbwa irinze umuryango w'ubuvumo",
+        "Ubwato bunini",
+        "Inkoni yahindutse inzoka",
+        "Inyoni y'ingunzu",
+        "Inyana ya zahabu"
+      ],
+      "answer": "Imbwa irinze umuryango w'ubuvumo"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Bamaze imyaka 309 mu buvumo, hanyuma barererwa nk'ikimenyetso",
+        "Bahinduwe inkende",
+        "Barimbuwe n'umwuzure",
+        "Bategetswe kwambuka inyanja",
+        "Bahawe ubwami"
+      ],
+      "answer": "Bamaze imyaka 309 mu buvumo, hanyuma barererwa nk'ikimenyetso"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Kutenda Kuseri Kwechigaro Choumambo",
+  "intro": "Mimwe mweya haiedzwi nemoto kana mafashamo, asi nekumanikidzwa kunononoka kwekugara muimba yemudzvinyiriri. Munhu uyu akamira padivi pemutongi aiti ndiye mwari pamusoro pevanhu vake, asi muchivande akabatirira pakutenda muna Mwari Mumwe Chete Wechokwadi. Pakawanikwa kuzvipira kwavo, kutambura kwakauya - asi vimbiso yaMwari yakauyawo. Ungafungidzira here kuti uyu ndiani?",
+  "clues": [
+    "Ndaigara pasi pedenga remutongi ane simba kupfuura vese munyika yangu, munzvimbo isingafungidzirwe nevashoma.",
+    "Mukadzi wangu akamira pamberi pevanhu akazviti mwari — asi moyo wangu waiva waIshe Mumwe Chete Wechokwadi.",
+    "Ndakanyengetera ndichizevezera muchivande, ndichitya kurangwa kwaizouya kune vese vairamba mukadzi wangu.",
+    "Kutenda kwangu pakwakafumurwa, ndakabatwa ndikatambudzwa — asi rurimi rwangu haruna kumbobvira rwataura shoko rekusatenda.",
+    "Ndakadurura mwoyo wangu kuna Ishe wangu, ndichikumbira imba muParadhiso, kure nezvakaipa zvose.",
+    "Ndini Asia bint Muzahim — mudzimai waFarao aipikisa Musa naHarun."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Asiya bint Muzahim (Mudzimai waFarao)",
+        "Hawwa (Evha), mukadzi wekutanga",
+        "Sarah, mudzimai wekutanga waIbrahim",
+        "Hagari, amai vaIsma'il",
+        "Amai vaMaryam (mukadzi waImran)"
+      ],
+      "answer": "Asiya bint Muzahim (Mudzimai waFarao)"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kutsungirira kutambudzwa nekuda kwekuramba kuramba kutenda",
+        "Kurarama mukati medumbu rehove huru",
+        "Kuvaka areka hombe kutiza mafashamo",
+        "Kukandwa mumoto unopfuta",
+        "Kuona kupatsanurwa kwegungwa guru"
+      ],
+      "answer": "Kutsungirira kutambudzwa nekuda kwekuramba kuramba kutenda"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Imba yavakavakirwa muParadhiso",
+        "Tsvimbo yakashanduka kuita nyoka",
+        "Areka inotakura vaviri vezvisikwa zvese",
+        "Mhuru yegoridhe yainamatwa nerudzi",
+        "Chipfuramabwe chinoshandiswa kukunda murwi mukuru"
+      ],
+      "answer": "Imba yavakavakirwa muParadhiso"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akakudzwa nekugara muParadhiso pamwe chete nevakarurama",
+        "Vakanyura pasi pemafungu pamwe chete neuto ravo",
+        "Akapiswa mumoto asi akaponeswa nekupindira kwaMwari",
+        "Yakamedzwa nechisikwa chikuru ndokukandwa pamhenderekedzo yegungwa",
+        "Akava munhu akapfuma kupfuura vose munguva yavo"
+      ],
+      "answer": "Akakudzwa nekugara muParadhiso pamwe chete nevakarurama"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ẹ̀mí Ìgbẹ́kẹ̀lé ti Ìfihàn",
+  "intro": "Ní àwọn ibi tí a kò rí, ẹ̀dá ìmọ́lẹ̀ mímọ́ kan ń rìn pẹ̀lú ìpéye, ó ń ṣe gbogbo àṣẹ láìsí ìjákulẹ̀. Ẹni yìí ti bá àwọn ìránṣẹ́ tí a yàn sọ̀rọ̀, ó ti mú ọ̀rọ̀ ìtọ́sọ́nà wá, ó sì ti rí ìṣípayá àwọn àṣẹ Ọlọ́run láti ìgbà dé ìgbà. Ta ni ẹ̀mí ọlá yìí?",
+  "clues": [
+    "Èmi jẹ́ ẹ̀dá ìmọ́lẹ̀ mímọ́, tí a dá láti inú ìmọ́lẹ̀, èmi kò sì tíì rú òfin Olúwa mi kan rí.",
+    "Mo n rin laarin awọn ọrun ati aye, mo n sọkalẹ pẹlu awọn aṣẹ ti Oloore julọ.",
+    "Wọ́n rán mi sí wúńdíá ọlọ́lá kan ní ibi mímọ́, ó ń kéde ọmọ mímọ́ kan fún un.",
+    "Èmi ni ẹ̀mí mímọ́, mo sì ti wòlíì kan lẹ́yìn tí wọ́n fún ní àwọn àmì àti ìhìnrere tí ó ṣe kedere.",
+    "Mo dé ihò kan lórí òkè láti sọ ọ̀rọ̀ àkọ́kọ́ nínú àkàsórí tí a ó pa mọ́ títí láé.",
+    "Èmi ni ẹ̀mí tí a lè gbẹ́kẹ̀lé, èmi sì ni mo gbé Al-Quran kalẹ̀ sí ọkàn ojiṣẹ ìkẹyìn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Jibril (Gabriel)",
+        "Mikail (Michael)",
+        "Áńgẹ́lì Ikú",
+        "Malik (Olùṣọ́ Ọ̀run Àpáàdì)",
+        "Harut (ọ̀kan lára ​​àwọn áńgẹ́lì méjì ní Bábílónì)"
+      ],
+      "answer": "Jibril (Gabriel)"
+    },
+    "trial": {
+      "label": "Iṣẹ́/Ipa Pàtàkì",
+      "options": [
+        "Kíkéde ìfihàn fún àwọn wòlíì",
+        "Fífún fèrè ní ọjọ́ ìdájọ́",
+        "Ṣíṣọ́ ẹnu ọ̀nà ọ̀run àpáàdì",
+        "Ṣíṣàkọsílẹ̀ iṣẹ́ ènìyàn",
+        "Ó ń mú kí òjò rọ̀"
+      ],
+      "answer": "Kíkéde ìfihàn fún àwọn wòlíì"
+    },
+    "location": {
+      "label": "Àmì pàtàkì tàbí Àkọlé",
+      "options": [
+        "Ẹ̀mí Mímọ́ (Ruh al-Qudus)",
+        "Ẹ̀mí Agbára",
+        "Ẹ̀mí Àánú",
+        "Ẹ̀mí Ìtọ́sọ́nà",
+        "Ẹ̀mí Òtítọ́"
+      ],
+      "answer": "Ẹ̀mí Mímọ́ (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Àbájáde Iṣẹ́ Àkànṣe náà",
+      "options": [
+        "A fi Al-Qur'an han Anabi Muhammad",
+        "Wọ́n fun fèrè ní ọjọ́ ìdájọ́",
+        "Wọ́n ń ṣọ́ ọ̀run àpáàdì, wọ́n sì ti àwọn ẹnu ọ̀nà rẹ̀ pa",
+        "Wọ́n gbé ìwé àwọn iṣẹ́ kalẹ̀ fún Allah.",
+        "Wọ́n rọ̀ òjò sí ilẹ̀ ayé"
+      ],
+      "answer": "A fi Al-Qur'an han Anabi Muhammad"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

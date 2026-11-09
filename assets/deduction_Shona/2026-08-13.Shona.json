@@ -1,0 +1,61 @@
+{
+  "title": "Mweya Wemwoyo Murefu weImba Tsvene",
+  "intro": "Mumapeji eKorani, munhu anobuda mudzinza remuporofita mukuru, akapihwa sechipo pakukwegura. Mweya uyu unorumbidzwa nekuda kwechokwadi chisingachinji uye basa guru mukuvaka nzvimbo tsvene yaizova chiedza chekutenda. Paunoverenga zviratidzo, nyatsoteerera inzwi rekare, nekuti rinotaura mumunhu wekutanga.",
+  "clues": [
+    "Ndakataurwa muKorani pamwe chete nemumwe muporofita sechipo chakapihwa kumutumwa akwegura.",
+    "Ndaive mumwe wevana vaviri vakapihwa muporofita iyeye mumakore ake ekupedzisira.",
+    "Ndinorumbidzwa muQuran nekuda kwekuita zvandinotaura.",
+    "Ndakatakura rukudzo rweuporofita uye ndakatumwa semutumwa.",
+    "Ndakabatana nababa vangu mukusimudzira nheyo dzeImba Tsvene.",
+    "Ndinoyeukwa semumwe wevanhu vane mwoyo murefu, uye imba tsvene yatakavaka yakava nzvimbo yekudzoka nekuchengetedzwa kwevanhu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Ismail",
+        "Muprofita Ishaq",
+        "Muporofita Yaqub",
+        "Muprofita Zakariya",
+        "Muprofita Yahya"
+      ],
+      "answer": "Muprofita Ismail"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kusimudza nheyo dzeKaaba naIbrahim",
+        "Kukandwa mumoto",
+        "Kumedzwa nehove hove",
+        "Kutungamirira vaIsraeri kubva muIjipiti",
+        "Kuvaka areka"
+      ],
+      "answer": "Kusimudza nheyo dzeKaaba naIbrahim"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Kaaba",
+        "Gomo reSinai",
+        "Gungwa Dzvuku",
+        "Mhuru Yegoridhe",
+        "Bindu reEdheni"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kuverengwa pakati pemurwere",
+        "Anoverengwa pakati pevanoita zvakaipa",
+        "Akaverengwa pakati pevaroyi",
+        "Kuverengwa pakati pevasingatendi",
+        "Kuverengwa pakati pevanyengeri"
+      ],
+      "answer": "Kuverengwa pakati pemurwere"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

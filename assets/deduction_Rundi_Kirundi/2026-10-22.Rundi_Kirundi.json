@@ -1,0 +1,61 @@
+{
+  "title": "Umuryango w'Ivyaha vya mbere .",
+  "intro": "Mu gihugu c’ibisagara vya kera, hari abantu barigeze gutera imbere. Basuwe n’intumwa ifise umuhamagaro utomoye, yamara barahindukira bakurikira inzira ata n’umwe yigeze agendamwo. Inkuru yabo ni iyo gutera umugongo, ubusambanyi, n’igihano cavuye mu gihugu cabo c’amavukiro nk’ikimenyetso ku bazirikana bose. None abo bantu ni bande?",
+  "clues": [
+    "Twabaye mu bisagara vyo mu kiyaya, aho umuhanuzi wacu yaduhamagariye kugororoka.",
+    "Twari aba mbere mu gukora ubusambanyi ata n’umwe mw’isi yose yari bwigere akora.",
+    "Twarazibira abagenzi kandi tugakora ibibi ku mugaragaro mu makoraniro yacu.",
+    "Twanse intumwa yaturungikiwe, turayitera ubwoba ko tuzoyirukana mu gihugu cacu.",
+    "Twirutse iwe tumusaba ko yoduha abashitsi biwe.",
+    "Igihano cacu cari imvura y’amabuye, igisagara cacu kirahindurwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Twebwe Turi Bande?",
+      "options": [
+        "Abantu ba Luti .",
+        "Abantu ba Nuh",
+        "Abantu bo muri 'Ad",
+        "Abantu b'i Tamudi",
+        "Abantu b'i Madyan"
+      ],
+      "answer": "Abantu ba Luti ."
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Yakoze igikorwa ca mbere c'ubusambanyi",
+        "Yasenga ibigirwamana",
+        "Yabeshejwe mu bucuruzi",
+        "Yishe umuhanuzi wabo .",
+        "Batumviye abavyeyi babo ."
+      ],
+      "answer": "Yakoze igikorwa ca mbere c'ubusambanyi"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Igisagara co mu kiyaya .",
+        "Igisagara c'iriba .",
+        "Igisagara c'umugende",
+        "Igisagara c'inzovu",
+        "Igisagara c'ubusitani"
+      ],
+      "answer": "Igisagara co mu kiyaya ."
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Imvura yaguye n’amabuye iratembagazwa .",
+        "Yarozwe n'umwuzure",
+        "Yasambuwe n’umuyaga w’inkazi .",
+        "Yamizwe n'isi .",
+        "Gukubitwa n'igisasu gikomeye"
+      ],
+      "answer": "Imvura yaguye n’amabuye iratembagazwa ."
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

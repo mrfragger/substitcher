@@ -1,0 +1,61 @@
+{
+  "title": "Ijwi ryo mu musenyi wa kera",
+  "intro": "Mu ntumwa za mbere za Allah, hariho umwe izina ryiwe rikayangana muri make ariko rifise insiguro muri Korowani. Uwo muntu yabayeho kera cane imbere y’uko abahanuzi benshi bakomeye barungikwa, kandi yari azwi ko ari ukuri n’ukwihangana bidahungabana. Inkuru yabo ni ngufi ariko iragi ryabo rigumaho mu nyandiko y’ibihe bidahera. None uwo mutima w’icubahiro ni nde?",
+  "clues": [
+    "Ndi umwe mu ntumwa za mbere, zivugwa muri make ariko zifise insiguro muri Korowani.",
+    "Inyifato yanje yasobanuwe n’ukwiyemeza ukuri ata gukeka.",
+    "Ndibuka mu gitabu ca Allah mu bari bashikamye kandi bihanganye.",
+    "Imirongo mikeyi gusa yo muri Korowani ni yo ivuga inkuru yanje.",
+    "Allah yaranteye iteka mu buryo bwihariye, ntasangiye n’abandi bahanuzi.",
+    "Narakuzwe mu kibanza co hejuru, icubahiro kidasanzwe muri Korowani."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umuhanuzi Idrisi",
+        "Umuhanuzi Ilyasi",
+        "Zuli-Kifl",
+        "Umuhanuzi Alyasa",
+        "Asifu mwene Barkhiya"
+      ],
+      "answer": "Umuhanuzi Idrisi"
+    },
+    "trial": {
+      "label": "Gusobanura umwanya",
+      "options": [
+        "Naduzwe ku kibanza co hejuru na Allah",
+        "Narubatse ubwato bunini bwo gukiza abantu banje .",
+        "Narateye akamo abapfumu ba Farawoni .",
+        "Naterewe mu mwobo na benewacu .",
+        "Naratakaje amaso kubera umubabaro nari mfise kubera umuhungu wanje ."
+      ],
+      "answer": "Naduzwe ku kibanza co hejuru na Allah"
+    },
+    "location": {
+      "label": "Igitabu ceranda",
+      "options": [
+        "Sura Anbiya",
+        "Sura Kahfu",
+        "Sura Taha",
+        "Sura Ashi-Shu'ara",
+        "Sura Yasini"
+      ],
+      "answer": "Sura Anbiya"
+    },
+    "outcome": {
+      "label": "Icubahiro c'Imana",
+      "options": [
+        "Ibarabara ry'agaciro ritandukanye n'irindi ryose .",
+        "Ubutegetsi ku ma jinni n'imiyaga .",
+        "Ubwami bw'ubuninahazwa butagira uko bungana .",
+        "Umuragwa kuva mu busaza bwanje",
+        "Isezerano ryashizweko ikidodo na Allah"
+      ],
+      "answer": "Ibarabara ry'agaciro ritandukanye n'irindi ryose ."
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

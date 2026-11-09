@@ -1,0 +1,61 @@
+{
+  "title": "Tijaabada Nafta Joogtada ah",
+  "intro": "Naftu waxay taagan tahay daqiiqad imtixaan rabbaani ah, iyadoo raadinaysa hagitaan adkaysi hoose leh. Kan wax walba yaqaan ayaa ka leexinaya qofkan raadinaya, ka dibna wuxuu shaaca ka qaaday in tani ay ahayd tijaabo wadnaha ah. Iyada oo loo marayo is-weydaarsigan qarsoodiga ah, cashar ku saabsan xigmadda rabbaaniga ah ayaa ka soo ifbaxaya kuwa ka fikiraya. Ma ka garan kartaa sawirkan sheekada Qur'aanka?",
+  "clues": [
+    "Waxaan cilmi iyo hanuun ka raadiyay rasuulkii Alle ee la jeclaa",
+    "Waxaan u imid inaan runta raadiyo, anigoo Nebiga ugu yeeraya rabitaan dhab ah",
+    "Waa la i canaantay oo waan iska fogeeyay, waayo xigmadda Alle waxay lahayd qorshayaal kale oo waqtigaas ah.",
+    "Haddana ma aanan quusan—taas beddelkeeda, waxaan hore ugu sii socday raadintayda",
+    "Kan wax walba og wuxuu ku dhawaaqay in tani ay tahay tijaabo wadnaha ah iyo digniin",
+    "Waxaan ka mid ahaa kuwa Quraanku ka sheegay: 'Wuu weji-gabaxsaday oo jeestay, sababtoo ah waxaa u yimid nin indho la''"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Munaafiqiinta Shakiga Raadinaya",
+        "Nin Indho La' oo Runta Raadinaya",
+        "Qofka caabuda sanamyada Makkah",
+        "Gaalkii oo Nabiga ku jeesjeesaya",
+        "Socodyahanka ka yimid Yemen"
+      ],
+      "answer": "Nin Indho La' oo Runta Raadinaya"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Nebi Muxamed oo canaantay salaadda inta lagu jiro",
+        "In lagu tijaabiyo abaar iyo macaluul Makkah",
+        "In albaabada jannada laga leexiyo",
+        "In dadkiisu ay diidaan iimaankooda awgiis",
+        "In lagu tijaabiyo hanti iyo carruur"
+      ],
+      "answer": "Nebi Muxamed oo canaantay salaadda inta lagu jiro"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Gudaha Kacbada xilliga xajka",
+        "Nabiga hortiisa inta lagu jiro akhrinta",
+        "Dusha sare ee Buurta Safa saacadaha subaxda",
+        "Suuqa Makka oo ay ku hareeraysan yihiin gaalada",
+        "Meel u dhow ceelka Zamzam xilligii Xajka"
+      ],
+      "answer": "Nabiga hortiisa inta lagu jiro akhrinta"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Ninkii raadinayay waxaa Qureysh u shahiiday iimaan awgeed",
+        "Dhacdadan waxaa loo duubay tijaabo iyo cashar u ah Ummadda.",
+        "Ninkii raadinayay wuxuu noqday saaxiib iyo hoggaamiye",
+        "Hantidii qofka raadinayay ayaa toban laab la labanlaabmay",
+        "Ninkii raadinayay wuxuu ku noqday gaalnimo"
+      ],
+      "answer": "Dhacdadan waxaa loo duubay tijaabo iyo cashar u ah Ummadda."
+    }
+  },
+  "verseRef": "80:1-2",
+  "arabic": "",
+  "verse": "80:1-2"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Muchengeti weChiratidzo chaMwari",
+  "intro": "Mukati menzvimbo tsvene tsvene, mweya wakaropafadzwa wairerwa pasi pekutarisirwa naMwari. Munhu uyu aifanira kuita basa guru muchiitiko chinoshamisa, zvichiva uchapupu hwesimba neuchenjeri zvaAllah zvisingaperi. Rwendo rwavo rwakafumura chokwadi chakadzama, ruchinetsa maonero uye ruchigadzira chiratidzo chakasiyana chevanhu vose.",
+  "clues": [
+    "Ndakasarudzwa uye ndakacheneswa naMwari kupfuura vakadzi vese venguva yangu.",
+    "Ndakaiswa pasi pekuchengetedzwa kwemuporofita akarurama, uyo akawana zvekudya zvakapihwa nenzira inoshamisa muimba yangu yekunamatira.",
+    "Ndakazviparadzanisa nemhuri yangu ndichienda kunzvimbo yega kuti ndinamate Allah.",
+    "Ngirozi yakaonekwa kwandiri iri muchimiro chemunhu akakwana, ichindiunzira mashoko emwanakomana akachena, kunyange zvazvo ndisina kumboziva murume.",
+    "Mushure mekurwadziwa kwekubereka, ndakarayirwa kuzunza hunde yemuti wemuchindwe kuti ndiwane chikafu chitsva.",
+    "Pandakadzokera kuvanhu vangu vakatakura mwana wangu achangoberekwa, vakandibvunza, asi mwanakomana wangu mucheche akataura zvinoshamisa ari pamubhedha achindidzivirira."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Sara (mudzimai waMuporofita Ibrahim)",
+        "Hajar (amai vaMuporofita Ismail)",
+        "Bilqis (Mambokadzi weShebha)",
+        "Asiya (mukadzi waFarao)",
+        "Maryam (Maria)"
+      ],
+      "answer": "Maryam (Maria)"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Mafashamo makuru akaparadza rudzi rusingatendi",
+        "Kukandwa mumoto unopfuta nekuda kwekuramba zvifananidzo",
+        "Kuzvarwa kwemwana asina baba kunoshamisa",
+        "Kumedzwa nehove hove nekuda kwekusiya basa raaida",
+        "Kuparadzwa kweguta nekuda kwetsika dzisina kunaka"
+      ],
+      "answer": "Kuzvarwa kwemwana asina baba kunoshamisa"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Mhuru yendarama",
+        "Areka yeSungano",
+        "Imba yekunamatira tsvene (Mihrab)",
+        "Shiri inotaura (Hudhud)",
+        "Tsvimbo yakashanduka kuita nyoka"
+      ],
+      "answer": "Imba yekunamatira tsvene (Mihrab)"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kuvakwa kwetemberi yakanaka kwazvo",
+        "Kupatsanurwa kwegungwa kuti vanhu vayambuke",
+        "Mwana akataura kubva paucheche achidzivirira mubereki wake",
+        "Kuzarurwa kwebhuku raMwari kuti ritungamirire vanhu",
+        "Umambo hwakakomborerwa nemhepo nemajini"
+      ],
+      "answer": "Mwana akataura kubva paucheche achidzivirira mubereki wake"
+    }
+  },
+  "verseRef": "3:42",
+  "arabic": "وَإِذْ قَالَتِ ٱلْمَلَـٰٓئِكَةُ يَـٰمَرْيَمُ إِنَّ ٱللَّهَ ٱصْطَفَىٰكِ وَطَهَّرَكِ وَٱصْطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلْعَـٰلَمِينَ",
+  "verse": "And [mention] when the angels said, \"O Mary, indeed Allāh has chosen you and purified you and chosen you above the women of the worlds. (3:42)"
+}

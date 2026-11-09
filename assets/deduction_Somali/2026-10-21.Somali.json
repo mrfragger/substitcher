@@ -1,0 +1,61 @@
+{
+  "title": "Rasuulkii la kulmay kuwa caabuda sanamyada.",
+  "intro": "Waqtigii cibaadadu leexatay, rasuul ayaa soo baxay isagoo ku baaqaya inuu ku laabto caabudidda Rabbiga Caalamka. Shaygani wuxuu si adag uga soo horjeeday dad ku xeel dheer caabudidda ilaah been ah, isagoo xasuusinaya Abuurahooda runta ah iyo Rabbigii awowayaashood. Haddana dadku way dayaceen oo way diideen digniinta, iyagoo shaabadeynaya qaddarkooda. Yaa ahaa wicitaankan aan kala go'a lahayn?",
+  "clues": [
+    "Waxaa la ii diray dad ka leexday waddada Ilaaha runta ah ee keliya.",
+    "Waxaan dadkaygii weydiiyay, \"Miyaydaan Alle ka cabsanayn?\"",
+    "Waxaan ugu yeeray inay ka tagaan caabudiddooda ilaah been ah oo lagu magacaabo Baal.",
+    "Dadkaygu way diideen baaqii aan u diray waxayna ku sii adkaysteen caabudiddooda.",
+    "Dafiraadkooda awgeed, hubaal waxaa loo soo bandhigi doonaa ciqaab.",
+    "Ilaahay wuxuu i siiyay nabad iyo xasuus barakeysan jiilalka dambe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Ilyaas",
+        "Nabi Yaxya",
+        "Nabi Dhul-Kifl",
+        "Nabi Yuusuf",
+        "Nabi Shucayb"
+      ],
+      "answer": "Nabi Ilyaas"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Wuxuu dadkiisii ​​ugu yeeray inay ka tagaan Bacal",
+        "Doon baa la dhisay si loo badbaadiyo mu'miniinta",
+        "Waxaa lagu tuuray dab",
+        "Ka carartay Fircoonkii kaligii taliska ahaa",
+        "Dhagax ayuu ku dhuftay si uu biyo u soo saaro"
+      ],
+      "answer": "Wuxuu dadkiisii ​​ugu yeeray inay ka tagaan Bacal"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Bacal",
+        "Al-Laat",
+        "Al-Cuzza",
+        "Manaat",
+        "Hubal"
+      ],
+      "answer": "Bacal"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Nabad iyo xasuus barakeysan ayaa la siiyay",
+        "Dhulku liqay",
+        "Duufaan xoog leh ayaa burburisay",
+        "Dhagax isu beddelay",
+        "Badda ayay ku qarqisay"
+      ],
+      "answer": "Nabad iyo xasuus barakeysan ayaa la siiyay"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

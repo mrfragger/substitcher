@@ -1,0 +1,61 @@
+{
+  "title": "Vavaki veShongwe",
+  "intro": "Kare kare, hupfumi hwakasimba hwakamuka, huchizivikanwa nemabasa ahwo anoshamisa ekuvaka uye simba guru. Hunhu uhwu hwakapihwa zviwanikwa zvakawanda uye hunyanzvi hwemuviri, asi vakasarudza nzira yekupikisa shoko raMwari rakatumirwa kuti rivatungamirire. Nyaya yavo inoshanda sechidzidzo chakadzama munhoroondo, humbowo hwemigumisiro yekuramba chokwadi.",
+  "clues": [
+    "Takapihwa simba guru remuviri nechimiro, zvakasiyana nevamwe vanhu venguva yedu.",
+    "Taizivikanwa nekuvaka zvivakwa zvikuru nembiru refu munzvimbo dzese dzakakwirira, tichifunga kuti taizorarama nekusingaperi.",
+    "Mutumwa kubva pakati pedu akatumwa kuti atinyevere, achitidana kuti tinamate Allah chete uye tisiye zvifananidzo zvedu.",
+    "Takabvunza mutumwa wedu nekuzvikudza, tichibvunza kana vakauya kwatiri kuti vatiite kuti tinamate Allah tosiya zvainamatwa nemadzitateguru edu.",
+    "Nyika yedu yakanga yakakomborerwa neminda, zvitubu, neminda yakaorera, asi takati kubudirira kwedu kwakakonzerwa nesimba redu, kwete neMusiki wedu.",
+    "Nekuda kwekusatenda kwedu kwakaramba kuripo uye kusekwa, takazoparadzwa nemhepo inotyisa, ine simba yakavhuvhuta kwemazuva mazhinji nehusiku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Vanhu veThamud",
+        "Vanhu veFir'aun",
+        "Vanhu veNuh",
+        "Vanhu vekuMadyan",
+        "Vanhu ve'Ad"
+      ],
+      "answer": "Vanhu ve'Ad"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kukumbirwa kubayira ngamera chaiyo",
+        "Kumanikidzwa kugadzira masura gumi akaita seQuran",
+        "Kuratidzwa kupatsanurwa kwegungwa",
+        "Kunyeverwa nemuprofita nezvemafashamo ari kuuya",
+        "Kuramba muporofita akanyevera nezvekuvaka zvakanyanya uye kunamata zvifananidzo"
+      ],
+      "answer": "Kuramba muporofita akanyevera nezvekuvaka zvakanyanya uye kunamata zvifananidzo"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Areka",
+        "Vashandi",
+        "Moto",
+        "Guta reSodhoma",
+        "Mbiru dzakakwirira nedzimba dzakasimba"
+      ],
+      "answer": "Mbiru dzakakwirira nedzimba dzakasimba"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kunyura mumafashamo makuru",
+        "Yakamedzwa nenyika",
+        "Yakachinjwa kuita tsoko nenguruve",
+        "Yakaparadzwa nekuputika kukuru",
+        "Kuparadzwa nemhepo ine hasha, inoparadza"
+      ],
+      "answer": "Kuparadzwa nemhepo ine hasha, inoparadza"
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

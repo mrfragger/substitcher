@@ -1,0 +1,61 @@
+{
+  "title": "Umurinzi w'Irembo ry'Izuba Rirasira",
+  "intro": "Muri Korowani yose, hari ubugingo bumwe bumwe bujabuka isi busiga inzira z’ubwenge n’ibitangaza. Imwe muri izo nkuru yaragiye mu bibanza vya kure cane vy’irema, ni ukuvuga aho izuba rirasa rikarenga, aho hari inzitizi ibuza akajagari ubwako. Uwo musuku wa Allah yahawe ubwami ata n’umwe azosubira kubugira. Biciye mu ngendo zitatu zitandukanye, intumbero y’uwo muntu yaragaragaye neza. Woba ushobora kumenya uwo muzunguruko w’inkuru z’imigani mu bitutu vy’amateka?",
+  "clues": [
+    "Nahawe ububasha n’Umunyakigongwe bwo gutwara isi mu buryo ata wundi yigeze ashikako.",
+    "Naciye ngenda nsubira mu burengero gushika aho izuba rirenga, nsanga rirengera mw’isoko ry’umuco, nca mbona abantu bari ng’aho.",
+    "Naciye ngenda nsubira mu buseruko gushika aho izuba rirasira, nsanga rirasira ku bantu ata n’umwe twarihaye ubuhungiro.",
+    "Naragendeye hagati y’izo nzira zibiri zirengeje urugero gushika nshitse mu kiyaya kiri hagati y’imisozi ibiri, aho nasanze abantu batashobora gutahura amajambo.",
+    "Nasanze ku musozi hariho inzitizi zibiri zikomeye z’icuma zishika iburyo n’ibubamfu, hagati yazo na ho hari inzira ndende. Abo bantu baransavye guca mu nzitizi ifata akajagari.",
+    "Naciye mfata ivyo nari mfise maze ndavuga nti: 'Igihe iyo nzitizi izoca, ivyo bizoba ari ugutandukanya gutomoye hagati yacu n'aba bantu.' Kandi igihe cashinzwe kigeze, narabona ingene amaherezo iyo nzitizi yacitse."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Dhu al-Karnayn",
+        "Umuhanuzi Sulemani",
+        "Umuhanuzi Ibrahimu",
+        "Umwami w'i Ghasaniya",
+        "Duli-Karnayini Umuzungurutsi"
+      ],
+      "answer": "Dhu al-Karnayn"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Guca mu nzira y’icuma ku bantu bo muri Yajuj na Majuj .",
+        "Ukwubaka Ubwato burongowe n'umuhanuzi .",
+        "Kubaka urusengero i Yeruzalemu .",
+        "Kujabuka Ikiyaga Gitukura hamwe n'abantu bizera .",
+        "Kubaka urugomero rwo kurinda ihanga rigororotse ."
+      ],
+      "answer": "Guca mu nzira y’icuma ku bantu bo muri Yajuj na Majuj ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Inzitizi y'icuma iri hagati y'imisozi ibiri .",
+        "Ubwato bwahagaze ku musozi .",
+        "Inzu nyeranda yo gusengeramwo i Yeruzalemu .",
+        "Uruzi rwo mu gihugu ca Misiri .",
+        "Iriba ry'imihezagiro i Madiyani ."
+      ],
+      "answer": "Inzitizi y'icuma iri hagati y'imisozi ibiri ."
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Inzitizi yaracitse igihe cashinzwe kigeze, maze akajagari karasuka .",
+        "Abahakanyi bararohamye mu gihe abemera bararokotse .",
+        "Abagororotsi barayobowe mw’iparadizo y’ibihe bidahera .",
+        "Igisagara carasambuwe n'umuyaga uvuza induru .",
+        "Ibigirwamana vyaramenaguritse maze abantu barihana ."
+      ],
+      "answer": "Inzitizi yaracitse igihe cashinzwe kigeze, maze akajagari karasuka ."
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

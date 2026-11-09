@@ -1,0 +1,61 @@
+{
+  "title": "Maqnaanshaha Barakaysan",
+  "intro": "Marka laga reebo buuraha waqtiga, waxaa jira sheeko ku saabsan daacadnimo aan kala go 'lahayn iyo kalsooni aad u culus oo naftu sidday ay jabi karto. Daqiiqad markii dadku u jeesteen nacasnimada iyo dahabka, hal qof ayaa istaagay - isagoo dib u yeeraya, baryaya samir, oo qaadaya culeyska ballanqaadka quduuska ah. Kani waa sheekada mid loo doortay inuu noqdo caawiye, kormeere, iyo ilaaliye iimaan intii lagu jiray maqnaansho quduus ah. Ma soo bandhigi kartaa aqoonsiga naftan adag?",
+  "clues": [
+    "Waxaan la wadaagayaa dhiigga nebi weyn oo loo doortay inuu si toos ah ula hadlo Alle buur barakeysan.",
+    "Walaalkay mar ayuu Alle ka baryay inuu ka caawiyo sidii uu si cad ula hadli lahaa dulmi weyn.",
+    "Waxaa Alle ii doortay inaan garab istaago walaalkay oo aan noqdo caawiye iyo qof ku caawiya.",
+    "Annagoo wada jirna waxaan la kulanay taliye kaligii talis ah oo dalbaday in loogu yeero ilaahyada ugu sarreeya.",
+    "Intii walaalkay uu buurta kula sheekaysanayay Ilaahay, dadkeennu waxay isu sameeyeen sanam dahabkooda ka samaysan.",
+    "Waxaan ahay walaalkii Muuse, oo Alle u magacaabay inuu noqdo wakiilkiisa, magacaygana lagu sheegay Qur'aanka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Haaruun (Haaruun)",
+        "Nabi Muuse",
+        "Nabi Daa'uud",
+        "Nabi Yacquub",
+        "Nabi Isxaaq"
+      ],
+      "answer": "Nabi Haaruun (Haaruun)"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Xiisadda Cibaadada Kubka",
+        "Daadkii Weynaa ee Nuux",
+        "Dagaalkii Badar",
+        "Burburkii Thamuud",
+        "Burburkii Sodom"
+      ],
+      "answer": "Xiisadda Cibaadada Kubka"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Keeggii Dahabka ahaa",
+        "Doontii Nuux",
+        "Geedka Gubanaya",
+        "Godka Hira",
+        "Carshigii Sheba"
+      ],
+      "answer": "Keeggii Dahabka ahaa"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Ilaahay baa xaqiijiyay dambi la'aanta",
+        "QAMRIDII Fircoon",
+        "Dhismaha Kacbada",
+        "Ka Gudubka Badda ee Badbaado leh",
+        "Kor u kaca Jannada"
+      ],
+      "answer": "Ilaahay baa xaqiijiyay dambi la'aanta"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

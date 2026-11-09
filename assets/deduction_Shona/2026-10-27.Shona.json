@@ -1,0 +1,61 @@
+{
+  "title": "Kukombwa Pasi Pedenga Risingatarisirwi",
+  "intro": "Uri pamberi peuto rinotyisa riri kusvika panzvimbo inoremekedzwa, zvombo zvese zvakagadzirira uye kukunda kuri pachena. Kurwiswa kusati kwatanga, simba risingatarisirwi rinoonekwa pamusoro, uye makwikwi anotora nguva pasina aifanoona.",
+  "clues": [
+    "Takafamba nechivimbo chekuti hapana simba repanyika rinogona kuzunungusa.",
+    "Takaunza nzou dzine simba, uye simba redu rakaita serakavakwa rakavapoteredza.",
+    "Takanga tauya kuzoputsa nzvimbo inoremekedzwa, tichifunga kuti kukunda kwedu kwakanga kwatove kwechokwadi.",
+    "Patakasvika pairi, boka revanhu rakafamba-famba mudenga riri pamusoro pedu.",
+    "Shiri dzakakanda matombo evhu rakaomarara kuvarwi vedu.",
+    "Takakundwa zvachose zvekuti simba redu guru rakaparara ndokupararira sedota."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Vanhu veNzou",
+        "Machinda maviri",
+        "Vakoma vaJosefa",
+        "Muranda waAllah muDhul-Kifl",
+        "Shamwari dzeMunhu Akarurama"
+      ],
+      "answer": "Vanhu veNzou"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kurwiswa kweKaaba kwakatungamirwa nenzou",
+        "Gungwa richiparadzana pamberi peboka rakatumirwa",
+        "Kutorwa kweAreka nevanhu vane hutsinye",
+        "Rwendo rwehusiku pakati pemamosque maviri",
+        "Kuporeswa kwemunhu ane maperembudzi nesimba raMwari"
+      ],
+      "answer": "Kurwiswa kweKaaba kwakatungamirwa nenzou"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Shiri dzakatakura zvimedu zvevhu",
+        "Areka yemuti wegopher",
+        "Tsvimbo yakashandurwa kuita nyoka",
+        "Dombo rakavharwa nechiratidzo",
+        "Gwenzi rinopfuta"
+      ],
+      "answer": "Shiri dzakatakura zvimedu zvevhu"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Simba ravo guru rakaputsika sedota",
+        "Vakayambuka gungwa vakachengeteka",
+        "Vakafamba vasina kukuvara muchoto chaipfuta moto",
+        "Vakapinda muParadhiso vari vaviri vaviri",
+        "Vakarara mubako kwemakore mazana matatu nemapfumbamwe"
+      ],
+      "answer": "Simba ravo guru rakaputsika sedota"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Àmì Láàárín Àwọn Òkúta",
+  "intro": "Ní ilẹ̀ kan tí wọ́n gbẹ́ àwọn òkè ńlá sí ilé, ìránṣẹ́ kan dé pẹ̀lú àmì ìyanu láti ọ̀dọ̀ Allah. Àwọn ènìyàn náà béèrè ẹ̀rí, wọ́n sì gba ẹ̀dá kan láti inú àpáta líle. Ṣùgbọ́n ìgbéraga wọn mú wọn kọ ìkìlọ̀ náà, ó sì fi ìdí wọn múlẹ̀.",
+  "clues": [
+    "Wọ́n rán mi sí àwọn ènìyàn tí wọ́n ń gbé nínú àwọn ilé tí a gbẹ́ láti inú àwọn òkè ńlá.",
+    "Wọ́n pè mí níjà láti mú àmì kan wá, nítorí náà mo mú ràkúnmí kan jáde láti inú àpáta.",
+    "Mo pàṣẹ fún wọn pé kí wọ́n jẹ́ kí ràkúnmí mu omi láìsí ewu.",
+    "Wọ́n ṣàìgbọràn, wọ́n sì pa ràkúnmí náà, wọ́n sì kọ̀ láti kìlọ̀ fún mi.",
+    "Mo kéde pé ìyà náà yóò dé lẹ́yìn ọjọ́ mẹ́ta.",
+    "Ní òwúrọ̀, ìbúgbàù ńlá kan pa wọ́n run, ṣùgbọ́n èmi àti àwọn ọmọlẹ́yìn mi ni a gbà là."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Sálíh",
+        "Wòlíì Húdì",
+        "Wòlíì Lọ́ọ̀tì",
+        "Wòlíì Ṣúáíbù",
+        "Wòlíì Ibrahim"
+      ],
+      "answer": "Wòlíì Sálíh"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ìbéèrè fún abo ràkúnmí láti orí àpáta",
+        "Ìbéèrè fún ọmọ màlúù wúrà kan",
+        "Ìbéèrè fún tábìlì kan láti ọ̀run",
+        "Ìbéèrè fún ìkún omi",
+        "Ìbéèrè fún ọ̀pá láti di ejò"
+      ],
+      "answer": "Ìbéèrè fún abo ràkúnmí láti orí àpáta"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Abo ràkúnmí àti ọmọ màlúù rẹ̀",
+        "Ọkọ̀ Nóà",
+        "Ọ̀pá Mose",
+        "Ọmọ màlúù wúrà náà",
+        "Iná Ibrahim"
+      ],
+      "answer": "Abo ràkúnmí àti ọmọ màlúù rẹ̀"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A pa á run nípasẹ̀ ìbúgbàù ńlá kan",
+        "Ìkún omi rì sínú omi",
+        "Ilẹ̀ gbé mì",
+        "Ó di ọ̀bọ",
+        "Afẹ́fẹ́ líle pa á run"
+      ],
+      "answer": "A pa á run nípasẹ̀ ìbúgbàù ńlá kan"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

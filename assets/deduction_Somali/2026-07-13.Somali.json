@@ -1,0 +1,61 @@
+{
+  "title": "Codka Xigmadda",
+  "intro": "Cod jilicsan oo xigmad leh ayaa mar wadaagay talo dhaafsiisan waqtiga. Tiradan, oo lagu barakeeyey faham qoto dheer, waxay dhaafisay casharro qiimo leh oo weli ah iftiin u ah dhammaan kuwa u baahan hagitaan. Ma furi kartaa aqoonsiga ka dambeeya ereyadan waara?",
+  "clues": [
+    "Waxaa Alle i siiyay nimco qoto dheer, hibo iftiimisay qalbigayga iyo maskaxdayda.",
+    "Waxaan u jeestay ilmahaygii aan jeclaa, anigoo doonaya inaan la wadaago khasnadda ugu qiimaha badan ee aan haystay.",
+    "Waxaan ka digay in caddaalad darrada ugu daran ay tahay in lala wadaago Ilaaha runta ah ee keliya.",
+    "Waxaan xasuusiyay in xitaa miisaan iniin khardal ah, oo ku qarsoon dhagax ama cirka ka baxsan, uu Alle la xisaabtami doono.",
+    "Waxaan faray inaan waalidkood u naxariisto, in kastoo addeeciddu ay tahay oo keliya arrimaha xaqnimada.",
+    "Waxaan baray dhaqan fudud: dhulka ku soco si is-hoosaysiin leh oo codkaaga dhexdhexaad ah; waayo codka ugu adag waa qaylada dameeraha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Luqman",
+        "Al-Khidr",
+        "Nabi Sulaymaan",
+        "Dhul-Qarnayn",
+        "Uzayr"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Tijaabo / Dhacdo",
+      "options": [
+        "Isagoo siinaya talo qoto dheer ilmihiisa",
+        "Samaynta doon si aad uga badbaado daad weyn",
+        "Dulqaad xanuun daran oo dulqaad leh",
+        "U safridda darafyada dhulka",
+        "Ku qaadashada kiniiniyada rabbaaniga ah buur"
+      ],
+      "answer": "Isagoo siinaya talo qoto dheer ilmihiisa"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Talada wiilkiisa loo jeediyay",
+        "Geedka gubanaya",
+        "Shaqaalaha Muuse",
+        "Dibigii dahabka ahaa",
+        "Albaabada birta ah"
+      ],
+      "answer": "Talada wiilkiisa loo jeediyay"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Taladiisu waxay ku jirtay kitaabka rabbaaniga ah ee aan la ilaawi karin",
+        "Waxaa la siiyay nebinimo iyo sharci cusub",
+        "Wuxuu noqday taliye xoog badan oo ka taliya boqortooyo ballaaran",
+        "Isaga oo aan dhimasho lahayn ayaa samada loo qaaday",
+        "Wuxuu malaa'igtii ka helay waxyi toos ah"
+      ],
+      "answer": "Taladiisu waxay ku jirtay kitaabka rabbaaniga ah ee aan la ilaawi karin"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

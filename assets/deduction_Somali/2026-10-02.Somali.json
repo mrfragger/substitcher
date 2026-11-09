@@ -1,0 +1,61 @@
+{
+  "title": "Boqorkii Dhulka Dhexdiisa Ku Dhacay",
+  "intro": "Bal qiyaas hoggaamiye awood leh, oo la siiyay xoog iyo awood uu ku maamulo dhulka. Ninkan ayaa galay safarro aan caadi ahayn, isagoo gaaray meeshii qorraxdu ka dhacaysay iyo meeshii ay ka soo baxday, isagoo la kulmay dad qariib ah oo wajahaya caqabad weyn oo ka timid laba waddan oo musuqmaasuq ah. Waa kuma hoggaamiyahan sixirka leh?",
+  "clues": [
+    "Waxaan ahaa taliye la i siiyay awood iyo hab aan ku gaaro geesaha ugu fog ee dhulka.",
+    "Waxaan u safray galbeedka waxaana arkay qorraxdu oo ku dhacaysa gu' mugdi ah.",
+    "Waxaan la kulmay dad u dhow qorraxda soo baxaysa oo aan haysan hoy ay kulaylkeeda ka galaan.",
+    "Bulsho kale ayaa iga caawisay inaan ka hortago laba quruumood oo musuqmaasuq ah oo loo yaqaan Ya'juuj iyo Ma'juuj.",
+    "Waxaan dhisay xayndaab anigoo adeegsanaya bir iyo naxaas dhalaalay si aan u xakameeyo.",
+    "Waxaan ku dhawaaqay in caqabadani ay ahayd naxariis ka timid Rabbigay, waxayna sii jiri doontaa ilaa waqtiga loo cayimay."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Dhul-Qarnayn",
+        "Nabi Sulaymaan",
+        "Qaaruun",
+        "Talut",
+        "Namrud"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Dhisidda derbi ka dhan ah Yajuuj iyo Magog",
+        "Ka badbaada daad weyn",
+        "In lagu tuuro dab",
+        "Badda oo laga gudbayo",
+        "La dagaallanka nin weyn"
+      ],
+      "answer": "Dhisidda derbi ka dhan ah Yajuuj iyo Magog"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Caqabad bir ah iyo naxaas ah",
+        "Ul abeeso noqotay",
+        "Markab alwaax ah",
+        "Qasri muraayad ah",
+        "Beer timireed ah"
+      ],
+      "answer": "Caqabad bir ah iyo naxaas ah"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Yaajuuj iyo Maajuuj waxay haysteen ilaa wakhtigii loo qabtay",
+        "Wuxuu noqday nebi",
+        "Waxaa lagu ciqaabay isla weyni dartiis",
+        "Wuxuu qabsaday dunida oo dhan",
+        "Wuu noolaa weligiis"
+      ],
+      "answer": "Yaajuuj iyo Maajuuj waxay haysteen ilaa wakhtigii loo qabtay"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

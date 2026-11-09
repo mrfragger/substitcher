@@ -120,6 +120,7 @@ flutter:
     - assets/tafsir_index/katheer.bin
     - assets/tafsir_index/kathir.bin
     - assets/deduction_Acehnese/
+    - assets/deduction_Afar/
     - assets/deduction_Afrikaans/
     - assets/deduction_Albanian/
     - assets/deduction_all/
@@ -147,11 +148,13 @@ flutter:
     - assets/deduction_Czech/
     - assets/deduction_Danish/
     - assets/deduction_Dari/
+    - assets/deduction_Dhivehi/
     - assets/deduction_Dutch/
     - assets/deduction_Esperanto/
     - assets/deduction_Estonian/
     - assets/deduction_Filipino_Tagalog/
     - assets/deduction_Finnish/
+    - assets/deduction_Fulani/
     - assets/deduction_French/
     - assets/deduction_Galician/
     - assets/deduction_Georgian/
@@ -175,6 +178,7 @@ flutter:
     - assets/deduction_Kapampangan/
     - assets/deduction_Kazakh/
     - assets/deduction_Khmer/
+    - assets/deduction_Kinyarwanda/
     - assets/deduction_Konkani/
     - assets/deduction_Korean/
     - assets/deduction_Kurdish_Kurmanji/
@@ -186,6 +190,7 @@ flutter:
     - assets/deduction_Lingala/
     - assets/deduction_Lithuanian/
     - assets/deduction_Lombard/
+    - assets/deduction_Luganda/
     - assets/deduction_Luxembourgish/
     - assets/deduction_Macedonian/
     - assets/deduction_Maithili/
@@ -199,6 +204,7 @@ flutter:
     - assets/deduction_Nepali/
     - assets/deduction_Norwegian/
     - assets/deduction_Occitan/
+    - assets/deduction_Odia_Oriya/
     - assets/deduction_Oromo/
     - assets/deduction_Pangasinan/
     - assets/deduction_Pashto/
@@ -209,13 +215,16 @@ flutter:
     - assets/deduction_Punjabi/
     - assets/deduction_Quechua/
     - assets/deduction_Romanian/
+    - assets/deduction_Rundi_Kirundi/
     - assets/deduction_Russian/
     - assets/deduction_Sanskrit/
     - assets/deduction_Serbian/
+    - assets/deduction_Shona/
     - assets/deduction_Sicilian/
     - assets/deduction_Sinhala/
     - assets/deduction_Slovak/
     - assets/deduction_Slovenian/
+    - assets/deduction_Somali/
     - assets/deduction_Southern_Sotho/
     - assets/deduction_Spanish/
     - assets/deduction_Sundanese/
@@ -230,6 +239,7 @@ flutter:
     - assets/deduction_Tswana/
     - assets/deduction_Turkish/
     - assets/deduction_Turkmen/
+    - assets/deduction_Twi/
     - assets/deduction_Ukrainian/
     - assets/deduction_Urdu/
     - assets/deduction_Uyghur/
@@ -239,4 +249,5 @@ flutter:
     - assets/deduction_Wolof/
     - assets/deduction_Xhosa/
     - assets/deduction_Yiddish/
+    - assets/deduction_Yoruba/
     - assets/deduction_Zulu/

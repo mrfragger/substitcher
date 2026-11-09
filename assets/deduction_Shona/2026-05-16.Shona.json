@@ -1,0 +1,61 @@
+{
+  "title": "Muvaki Akasimba weRuponeso",
+  "intro": "Munhu uyu ane mwoyo murefu mukuru uye chivimbo chisingazununguki, akatsaurira makore asingaverengeki kubasa raMwari, achitarisana nekushorwa nekurambwa kusingaperi. Nyaya yavo iuchapupu hwakasimba hwekutenda pasinei nekusatenda kukuru, zvichiguma nechiitiko chakakosha chakachinja nyika.",
+  "clues": [
+    "Ndakatsaurira nguva yakareba zvikuru muhupenyu hwangu ndichidana vanhu vangu kuti vanamate Allah.",
+    "Vanhu vangu vakandiseka uye vakandipomera mhosva yekukanganisa uye kupenga.",
+    "Ndakarayirwa kuti ndivake chimwe chinhu chaiita sechisingawanzoitiki munharaunda yangu isina gungwa.",
+    "Vashoma chete ndivo vakatenda uye vakabatana neni nemhuri yangu pakuvaka uku kwakasiyana.",
+    "Ndakatakura mapeya ezvisikwa zvese zvipenyu muchikepe, sezvandakarairwa naAllah.",
+    "Mafashamo makuru akafukidza nyika, achiponesa chete avo vaiva neni muchikepe changu, nepo mwanakomana wangu akafa nekuda kwekusatenda kwake."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Salih",
+        "Muporofita Hud",
+        "Muprofita Nuh",
+        "Muporofita Dhawud",
+        "Muporofita Sulayman"
+      ],
+      "answer": "Muprofita Nuh"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kuparadzwa nekudengenyeka kwenyika",
+        "Kupatsanurwa kwegungwa",
+        "Mafashamo makuru",
+        "Moto waNimrodhi",
+        "Denda rematatya"
+      ],
+      "answer": "Mafashamo makuru"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Gwenzi riri kupfuta",
+        "Areka",
+        "Tsime remvura",
+        "Mhuru yegoridhe",
+        "Gomo reTur"
+      ],
+      "answer": "Areka"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akagamuchira umambo",
+        "Vanhu vake vakachinjwa kuita tsoko",
+        "Vanhu vake vakaponeswa nechishamiso",
+        "Vanhu vake vakanyura",
+        "Vanhu vake vakarohwa nemheni"
+      ],
+      "answer": "Vanhu vake vakanyura"
+    }
+  },
+  "verseRef": "71:25",
+  "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+  "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers. (71:25)"
+}

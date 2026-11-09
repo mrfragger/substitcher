@@ -1,0 +1,61 @@
+{
+  "title": "Sùúrù Tó Borí Ìbànújẹ́",
+  "intro": "Àgbàlagbà kan tí sùúrù rẹ̀ di olókìkí, tí ìran rẹ̀ parẹ́ kúrò nínú ìbànújẹ́, síbẹ̀ tí ìgbàgbọ́ rẹ̀ nínú ètò Ọlọ́run kò yípadà. Ẹni yìí wo àwọn ọmọkùnrin méjìlá tí wọ́n ń dàgbà di ìpìlẹ̀ àwọn ẹ̀yà, tí wọ́n jìyà àdánù ọmọ kan tí wọ́n fẹ́ràn jùlọ, tí ó sì di àmì àìlópin ti sùúrù ẹlẹ́wà lójú ìbànújẹ́ ńlá. Ẹ̀mí kan tí a bọ̀wọ̀ fún tí a ń sọ ìtàn rẹ̀ káàkiri ojú ìwé ìfihàn. Ṣé o lè dá ẹni yìí mọ̀ láti inú Al-Quran?",
+  "clues": [
+    "Èmi ni wòlíì tí wọ́n sọ ìtàn rẹ̀ ní kíkún nínú sūrà pàtàkì kan nínú Al-Quran.",
+    "Mo ní àwọn ọmọkùnrin méjìlá tí wọ́n di baba àwọn ẹ̀yà Bani Israẹli.",
+    "Mo sọ fún àwọn ọmọ mi pé kí wọ́n gba ẹnu ọ̀nà ọ̀tọ̀ọ̀tọ̀ wọlé, kí wọ́n má baà mọ̀ pé wọ́n jẹ́ ènìyàn kan ṣoṣo.",
+    "Ojú mi funfun nítorí ẹkún tí kò dáwọ́ dúró lórí ọmọ tí mo fẹ́ràn tí a gbà lọ́wọ́ mi.",
+    "Mo kọ̀ láti sọ̀rètí nù kódà nígbà tí àwọn ọmọ mi yòókù rọ̀ mí pé kí n ṣe bẹ́ẹ̀, wọ́n ní mo kàn ń kùn sí Allah nìkan.",
+    "Èmi ni bàbá wòlíì Yusufu, ẹni tí orúkọ rẹ̀ túmọ̀ sí “amúkún” ní èdè Lárúbáwá."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Jákọ́bù (Jákọ́bù)",
+        "Wòlíì Yúsọ́ọ̀fù",
+        "Wòlíì Ibrahim",
+        "Wòlíì Mósà",
+        "Wòlíì Dáfídì"
+      ],
+      "answer": "Wòlíì Jákọ́bù (Jákọ́bù)"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Pípàdánù ọmọ ayanfẹ kan sí kànga kan",
+        "Ìkún omi ńlá tó bo gbogbo ènìyàn kan",
+        "Ìrìn láti ìjọba tí ó ń jọ́sìn iná",
+        "Ìjà pẹ̀lú alágbára alágbára kan ní Íjíbítì",
+        "Ìgbékùn lọ sí ikùn ẹja ńlá"
+      ],
+      "answer": "Pípàdánù ọmọ ayanfẹ kan sí kànga kan"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Aṣọ tí ẹ̀jẹ̀ èké ti bò mọ́lẹ̀",
+        "Ọ̀pá tí ó di ejò",
+        "Ọkọ̀ ayọ́kẹ́lẹ́ kan tí a kọ́ sórí òkè ńlá kan",
+        "Abo ràkúnmí tí a gbẹ́ láti inú àpáta",
+        "Ọmọ màlúù wúrà kan"
+      ],
+      "answer": "Aṣọ tí ẹ̀jẹ̀ èké ti bò mọ́lẹ̀"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ojú mi padà sí i nígbà tí wọ́n gbé ẹ̀wù ọmọ mi ọ̀wọ́n sí ojú rẹ̀",
+        "Ìgbàlà lẹ́yìn tí a jù ú sínú ikùn ẹja ńlá kan",
+        "Gbigba akọle Khalilullah lati ọdọ Allah",
+        "Líla òkun kọjá pẹ̀lú àwọn ènìyàn tí a ti tú sílẹ̀ kúrò nínú ìgbèkùn",
+        "Òṣùmàrè kan tó farahàn gẹ́gẹ́ bí àmì ìrètí lẹ́yìn ìkún omi"
+      ],
+      "answer": "Ojú mi padà sí i nígbà tí wọ́n gbé ẹ̀wù ọmọ mi ọ̀wọ́n sí ojú rẹ̀"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Olùwá Òtítọ́ Tí Ó Dára Jùlọ",
+  "intro": "Ní àkókò kan tí àìmọ̀kan àti ìjọsìn àwọn ọlọ́run èké bò mọ́lẹ̀, ìrìn àjò ìgbàgbọ́ tó jinlẹ̀ kan bẹ̀rẹ̀. Ẹni yìí tako àwọn ìlànà àwùjọ wọn, ó ń wá Ẹlẹ́dàá tòótọ́ kan ṣoṣo pẹ̀lú ìgbàgbọ́ tó lágbára. Múra sílẹ̀ láti tú àṣírí ẹni tí ẹ̀mí rẹ̀ ti jẹ́ fún àràádọ́ta ọ̀kẹ́ ènìyàn.",
+  "clues": [
+    "Mo bi àwọn ẹ̀dá ọ̀run léèrè, mo ń wá Olúwa tòótọ́ tí ó ṣẹ̀dá àti tí ó ń gbé gbogbo nǹkan ró.",
+    "Wọ́n pàṣẹ fún mi láti fi ìlú mi sílẹ̀, kí n rìnrìn àjò lọ sí ilẹ̀ tí Ọlọ́run bùkún fún.",
+    "Mo pe àwọn òrìṣà àwọn ènìyàn mi níjà, mo dojúkọ àìnírètí wọn nípa fífọ́ wọn.",
+    "Àwọn ènìyàn mi jù mí sínú iná gbígbóná, síbẹ̀ ó di tútù àti àlàáfíà fún mi nípasẹ̀ àṣẹ Allāhu.",
+    "Wọ́n dán mi wò pẹ̀lú àṣẹ láti fi ọmọ àkọ́bí mi tí mo fẹ́ràn rúbọ, ìdánwò ìtẹríba pátápátá.",
+    "Èmi àti ọmọ mi, gbé ìpìlẹ̀ Ilé Ìjọsìn àkọ́kọ́ kalẹ̀ lórí ilẹ̀ ayé, ibi mímọ́ fún gbogbo ènìyàn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Nóà",
+        "Wòlíì Yúsọ́ọ̀fù",
+        "Wòlíì Sálíh",
+        "Wòlíì Ibrahim",
+        "Wòlíì Ísà"
+      ],
+      "answer": "Wòlíì Ibrahim"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ìkún omi ńlá náà",
+        "Pípín òkun",
+        "Ìparun àwọn Támúdì",
+        "Àṣẹ láti fi ọmọkùnrin rúbọ",
+        "Ìrìn àjò la aṣálẹ̀ kọjá pẹ̀lú Àpótí"
+      ],
+      "answer": "Àṣẹ láti fi ọmọkùnrin rúbọ"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Òṣìṣẹ́ náà",
+        "Òkè Túrì",
+        "Àpótí náà",
+        "Kaaba",
+        "Ọmọ màlúù wúrà náà"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ó di alákòóso ilẹ̀ Íjíbítì",
+        "Àwọn ènìyàn rẹ̀ rì sínú omi",
+        "Wọ́n fún ni ọgbọ́n àti ìran òdodo",
+        "Ẹja ńlá gbé e mì",
+        "Wọ́n wó ìlú rẹ̀ palẹ̀"
+      ],
+      "answer": "Wọ́n fún ni ọgbọ́n àti ìran òdodo"
+    }
+  },
+  "verseRef": "21:69",
+  "arabic": "قُلْنَا يَـٰنَارُ كُونِى بَرْدًۭا وَسَلَـٰمًا عَلَىٰٓ إِبْرَٰهِيمَ",
+  "verse": "We [i.e., Allāh] said, \"O fire, be coolness and safety upon Abraham.\" (21:69)"
+}

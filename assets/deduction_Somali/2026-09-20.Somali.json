@@ -1,0 +1,61 @@
+{
+  "title": "Mu'minka Xidhan ee Maxkamadda Dambiilanimada",
+  "intro": "Gudaha hoolalka dahabka ah ee uu ku yaal taliyihii ugu kibirka badnaa ee Qur'aanka lagu yaqaanay - halkaas oo caasinimada Ilaah ay qeexayso amar kasta - hal qof ayaa dhex socday dadka mudnaanta leh, isagoo qarinaya sirta ugu khatarta badan meel cad. Qofkani wuxuu ku siday iimaan aad looga mamnuucay derbiyadaas oo helitaankiisu uu macnaheedu noqon doono dhimasho hubaal ah. Haddana xukunku wuxuu u gubay sida olol hoosteeda dambaska, markii daqiiqaddii timidna, runtu waxay ku dhawaaqday geesinimo ruxday aasaaska qasriga kaligii-taliyihii.",
+  "clues": [
+    "Waxaan ku noolaa goobada gudaha ee hoggaamiyihii ugu awoodda badnaa uguna kibirka badnaa waqtigayga, oo ay ku hareeraysan yihiin raaxo iyo saameyn.",
+    "Waxaan qalbigayga ku qariyay iimaankayga dhabta ah, anigoo ka baqaya noloshayda kuwa ku xukumaya naxariis darro iyo dulmi.",
+    "Markii dadkaygu shakiyeen oo ay ka lumeen runta horteeda, ayaan u soo dhaqaaqay si aan uga digo masiibadii naxdinta lahayd ee ku dhacday quruumihii hore ee diiday rasuulladii Rabbigood.",
+    "Waxaan dadkayga xasuusiyay sheekadii nin dhallinyaro ah oo riyoole ah oo ay qaraabadiisu hoos u dhigeen haddana awood weyn ku yeeshay dhul fog.",
+    "Waxaan dadkayga ku boorriyay inaysan addeecin hoggaamiyihii marin habaabiyay, taa beddelkeedana waxaan ugu yeeray inay i raacaan waddada xaqa iyo hanuunka.",
+    "Runta si furan ayaan u sheegay inkastoo taageerayaasha kaligii-taliska ay ku hanjabeen inay i dhagaxayn doonaan ama ay iga saari doonaan dhulka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Mu'minkii Qarsoonaa ee ka yimid Qoyska Fircoon",
+        "Wadaad Bukaan ah oo Indhoole ahaa ilaa Wiilkiisu soo laabtay",
+        "Addoon Aamin ah oo Cudurka Maqaarka ugu dambeyntii laga bogsaday",
+        "Wiil Dembiile ah oo diiday martiqaadka Nebi inuu fuulo Doonta.",
+        "Dambiile aan naxariis lahayn oo naftiisa u sheegtay Ilaahnimo."
+      ],
+      "answer": "Mu'minkii Qarsoonaa ee ka yimid Qoyska Fircoon"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Qarinta iimaanka maxkamadda kaligii-taliye",
+        "Indho la'aan ka haysata sannado badan oo oohin ah",
+        "In lagu tijaabiyo luminta qoyska iyo dhibaato daran",
+        "Dhisidda markab weyn iyadoo la jeesjeesayo",
+        "Ku adkaysiga kulaylka kulul ee dabka weyn"
+      ],
+      "answer": "Qarinta iimaanka maxkamadda kaligii-taliye"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Qasriga Fircoon",
+        "Buur buur ah oo doonni laga dhisay",
+        "Dooxo barakeysan oo ka hooseysa Buurta Siinay",
+        "Beer cajiib ah oo leh laba durdur oo socda",
+        "Carshi kiristaalo ah oo ka sarreeya webiga dhulka hoostiisa mara"
+      ],
+      "answer": "Qasriga Fircoon"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Ilaalin rabbaani ah intii dulmiga la kulmayay burburkooda",
+        "Waxaan dib ula midoobay qoyska ka dib tobanaan sano oo aan kala maqnaa",
+        "Waxaa la siiyay samir, caafimaad soo kabasho, iyo qoys ballaaran",
+        "Doon ayaa lagu badbaadiyay halka inta kale ee adduunka ay qarqeen",
+        "Waxaa laga badbaadiyay dab isagoon waxba gaarin amarka Alle"
+      ],
+      "answer": "Ilaalin rabbaani ah intii dulmiga la kulmayay burburkooda"
+    }
+  },
+  "verseRef": "40:38",
+  "arabic": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "verse": "And he who believed said, \"O my people, follow me; I will guide you to the way of right conduct. (40:38)"
+}

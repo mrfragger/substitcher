@@ -1,0 +1,61 @@
+{
+  "title": "Ɔbɔfo a Ɔhyiaa Abosonsomfo no",
+  "intro": "Wɔ bere bi a na ahofama ayera mu no, ɔbɔfo bi sɔree a ɔfrɛɛ no ​​sɛ ɔnsan nkɔ wiase nyinaa Awurade som mu. Saa onipa yi gyinaa pintinn tiaa nkurɔfo a wɔagye ntini wɔ atoro nyame som mu, na ɛkaee wɔn wɔn nokware Bɔfo ne wɔn agyanom Awurade. Nanso nkurɔfo no anyɛ aso na wɔpow kɔkɔbɔ no, na wɔsɔɔ wɔn ankasa nkrabea ano. Hena ne ɔfrɛfo a onhinhim yi?",
+  "clues": [
+    "Wɔsomaa me kɔɔ nkurɔfoɔ bi a wɔatwe wɔn ho afiri Nokware Nyankopɔn Baako no kwan so.",
+    "Mebisaa me nkurofoo se, \"Monsuro Allah?\"",
+    "Mefrɛɛ wɔn sɛ wonnyae atoro nyame bi a wɔfrɛ no Baal som.",
+    "Me nkurɔfo poo me frɛ no na wɔkɔɔ so yɛɛ wɔn abosonsom.",
+    "Esiane wɔn pow nti, akyinnye biara nni ho sɛ wɔde wɔn bɛba ama wɔatwe wɔn aso.",
+    "M’Awurade maa me asomdwoe ne nkaeɛ a nhyira wom wɔ awoɔ ntoatoasoɔ a ɛdi akyire no mu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Odiyifo Ilyas",
+        "Ɔkɔmhyɛni Yahya",
+        "Ɔkɔmhyɛni Dhul-Kifl",
+        "Ɔkɔmhyɛni Yusuf",
+        "Ɔkɔmhyɛni Shu'ayb"
+      ],
+      "answer": "Odiyifo Ilyas"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Ɔfrɛɛ ne nkurɔfo sɛ wonnyae Baal",
+        "Ɔsii adaka de gyee agyidifoɔ no nkwa",
+        "Wɔtow guu ogya mu",
+        "Guan fii otirimɔdenfo Farao nsam",
+        "Ɔbɔɔ ɔbotan bi ma nsu fie"
+      ],
+      "answer": "Ɔfrɛɛ ne nkurɔfo sɛ wonnyae Baal"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Baal",
+        "Al-Lat na ɔkyerɛwee",
+        "Al-Uzza na ɔkyerɛwee",
+        "Manat",
+        "Hubal na ɔkyerɛwee"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wɔmaa asomdwoe ne nkae a nhyira wom",
+        "Asase amene no",
+        "Ahum a ano yɛ den sɛee no",
+        "Wɔdanee no ɔbo",
+        "Wɔmenee no wɔ po mu"
+      ],
+      "answer": "Wɔmaa asomdwoe ne nkae a nhyira wom"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

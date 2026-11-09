@@ -1,0 +1,61 @@
+{
+  "title": "Nodduɗo ummoraade e Lugge",
+  "intro": "Miijo-ɗee ruuhu halfinaaɗo nelal diine, kono e nder dumunna juutɗo, yalti e leñol mum tawa alaa yamiroore laaɓtunde. Ndee ɗoo ɗanngal addani ɓe jarribo keewngo, jarribo luggiɗngo muñal e tuugnaade e Toowɗo. Hol oo neɗɗo mo daartol mum jannginta en ko fayti e tuubuubu e yaajde yurmeende Alla?",
+  "clues": [
+    "Mi neldaama to leñol mawngol, kono jaɓgol maɓɓe adanngol addani mi mette.",
+    "Mi acci leñol am, miɗo sikki golle am timmaani, hade am heɓde yamiroore laaɓtunde ngam yahde.",
+    "Mi ɗaɓɓiino yahde e laana, kono henndu mawndu e ƴettugol loowdi ngaddi ngonka bonka.",
+    "Mi werlaa nder maayo, tagoore mawnde moɗi kam fuu.",
+    "E nder ni66ere reedu maggal, mi noddii Alla, mi ja6ii bonannde am, mi 6amii yaafuya makko.",
+    "Alla yamiri tagoore ndee yo werlu am e dow maayo, mi artiraa e cellal les lekki keeriiki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol ko ngonmi?",
+      "options": [
+        "Annabi Yuusuf (Yuusuf)",
+        "Annabi Nuuhu (Nuuhu)",
+        "Annabi Yuunus (Yunus)",
+        "Annabi Sileymaani (Suuleymaani) .",
+        "Annabi Ayyuuba (Ayyuuba)"
+      ],
+      "answer": "Annabi Yuunus (Yunus)"
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "Feccere maayo ngoo",
+        "Jeynge Nimrod",
+        "Ko liɗɗi mawɗi ɓuuɓnata ɗum",
+        "Ilam ɗam",
+        "Halkere wuro e kaaƴe"
+      ],
+      "answer": "Ko liɗɗi mawɗi ɓuuɓnata ɗum"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Laana kaa",
+        "Ko Gollotooɓe ɓee",
+        "Reedu liingu nguu",
+        "Ɓunndu nduu",
+        "Buuɗi ɓuuɓɗi ɗii"
+      ],
+      "answer": "Reedu liingu nguu"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "Wonti laamɗo mawɗo",
+        "Mahii Kaaba",
+        "Ruttiima ngam ardude e leñol tuubiiɗo",
+        "Hokkaama laamu dow jinneeji",
+        "Ardii yimɓe e nder jeereende"
+      ],
+      "answer": "Ruttiima ngam ardude e leñol tuubiiɗo"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

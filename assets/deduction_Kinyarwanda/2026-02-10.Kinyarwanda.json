@@ -1,0 +1,60 @@
+{
+  "title": "Gusinzira kw'Ibihe Bishize",
+  "intro": "Ugiye gutangira urugendo mu bihe bitandukanye, uhura n'ibanga rikomeye ry'ukwemera n'imbaraga z'Imana. Tekereza itsinda ry'abantu banze amahame y'umuryango wabo, batsimbaraye ku kwemera Imana imwe mu isi y'imana nyinshi. Inkuru yabo ni igihamya cy'ubushobozi bwa Allah bwo kurinda abagaragu be b'intungane mu buryo budasanzwe. Ese ushobora guhishura abo bantu batangaje?",
+  "clues": [
+    "Twari itsinda rito ry'abasore bemeraga Imana imwe, nubwo ubwoko bwacu bwari busanzwe busenga imana nyinshi.",
+    "Twahunze umutegetsi w’umunyagitugu waduteye ubwoba kubera ukwizera kwacu, dutinya gutotezwa no kwicwa.",
+    "Twashatse ubuhungiro ahantu hiherereye, twiringiye imbabazi za Allah n'uburinzi bwe ku baduhataga.",
+    "Umwami wacu yaduteye gusinzira cyane, ibitotsi by'igitangaza byatubujije igihe.",
+    "Ubwo twakangukaga, twibwiraga ko twaruhutse umunsi umwe cyangwa igice cy'umunsi gusa, tutazi igihe kinini cyari cyarashize by'ukuri.",
+    "Korowani ivuga ko twagumye mu buzima bwacu imyaka magana atatu, kandi turenga icyenda, tuba ikimenyetso ku bantu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Abantu bo mu mwobo",
+        "Abaturage ba Thamud",
+        "Abantu bo mu buvumo",
+        "Abaturage ba Madyan",
+        "Abagenzi b'inzovu"
+      ],
+      "answer": "Abantu bo mu buvumo"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Guhangana n'umwuzure ukomeye",
+        "Kumirwa n'isi",
+        "Gusinzira mu buryo bw'igitangaza igihe kirekire",
+        "Isenywa ry'umujyi wabo",
+        "Gucikamo kabiri kw'inyanja"
+      ],
+      "answer": "Gusinzira mu buryo bw'igitangaza igihe kirekire"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Igihuru cyaka",
+        "Umusozi",
+        "Ubwato",
+        "Ubuvumo",
+        "Iriba"
+      ],
+      "answer": "Ubuvumo"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Bahawe ubutunzi n'ububasha bitagira ingano",
+        "Bahinduwe inkende n'ingurube",
+        "Bazuwe mu bitotsi nk'ikimenyetso gikomeye",
+        "Barohamye mu myuzure ikomeye",
+        "Bubatse ubwami bwiza cyane"
+      ],
+      "answer": "Bazuwe mu bitotsi nk'ikimenyetso gikomeye"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

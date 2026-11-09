@@ -1,0 +1,61 @@
+{
+  "title": "Ijwi rinyura mu bihanamanga",
+  "intro": "Tekereza ikibaya aho amazu yaciwe mu bitare, kandi ikirere gihora cyibutsa umuburo utitaweho. Abantu bahoze batera imbere hano, bahiriwe ariko bagasuzugura, kugeza igihe ikimenyetso cyagaragaye mu rutare bizeraga.",
+  "clues": [
+    "Twari abantu bacukuye amazu meza mu misozi, twumva dufite umutekano mu mazu yacu y’amabuye.",
+    "Twabaga mu gihugu cy'ibibaya n'amabuye, gifite ubusitani n'amasoko.",
+    "Intumwa yaturutse muri twe yaraje, iduhamagarira kureka imana zacu z'ibinyoma tugasenga Umuremyi umwe rukumbi w'ukuri.",
+    "Twashyizeho ikintu cy’ingenzi mu kwemera: ikimenyetso cyihariye cyava mu mabuye twacukuye.",
+    "Ubwo ingamiya y’ingore yasezeranyijwe yagaragaraga ivuye mu rutare, ikimenyetso gisobanutse neza, abayobozi bacu barabyanze kandi barayitema nubwo hari umuburo w’amakuba yari yegereje.",
+    "Nyuma y'iminsi itatu twakoze igikorwa cyacu, urusaku rw'inkuba rwarumvikanaga mu kibaya, maze duhinduka amatongo, amazu yacu ahinduka imva zacu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Turi bande?",
+      "options": [
+        "Abantu ba ¿Ad",
+        "Abaturage ba Thamud",
+        "Abaturage ba Madyan",
+        "Abaturage bo mu Gihuru",
+        "Abantu bo mu buvumo"
+      ],
+      "answer": "Abaturage ba Thamud"
+    },
+    "trial": {
+      "label": "Igeragezwa ryacu/Igikorwa cy'ingenzi",
+      "options": [
+        "Gukomeretswa kw'ingamiya y'ingore ya Allah",
+        "Gusenga inyana ya zahabu",
+        "Kurenga ku itegeko ry'Isabato",
+        "Kubaka umunara ugana mu kirere",
+        "Ubwicanyi bw'abahanuzi"
+      ],
+      "answer": "Gukomeretswa kw'ingamiya y'ingore ya Allah"
+    },
+    "location": {
+      "label": "Ingingo y'ingenzi mu nkuru yacu",
+      "options": [
+        "Ingamiya y'ingore ya Allah",
+        "Inkoni ya Musa",
+        "Isanduku ya Nuhu",
+        "Ukuboko kwera kwa Musa",
+        "Inyoni ya Isa"
+      ],
+      "answer": "Ingamiya y'ingore ya Allah"
+    },
+    "outcome": {
+      "label": "Ibisubizo byacu",
+      "options": [
+        "Isenywa ryatewe n'igisasu gikomeye cyane",
+        "Imvura y'amabuye iturutse mu ijuru",
+        "Umwuzure watwikiriye isi",
+        "Umuyaga ukaze wadukuyeho",
+        "Isi iraturimira"
+      ],
+      "answer": "Isenywa ryatewe n'igisasu gikomeye cyane"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

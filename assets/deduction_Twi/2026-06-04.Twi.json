@@ -1,0 +1,61 @@
+{
+  "title": "Nsɛnkyerɛnne a Ɛwɔ Abo Mu",
+  "intro": "Wɔ asaase bi a na wɔasen mmepɔ wɔ afie mu no, ɔbɔfoɔ bi de anwanwadeɛ nsɛnkyerɛnneɛ bi a ɛfiri Allah hɔ baa hɔ. Nkurɔfo no hwehwɛɛ adanse, na wonyaa abɔde bi fii ɔbotan a ɛyɛ den mu. Nanso wɔn ahantan no maa wobuu kɔkɔbɔ no so, na ɛsɔɔ wɔn nkrabea ano.",
+  "clues": [
+    "Wɔsomaa me kɔɔ nnipa bi a wɔtete atrae a wɔasen fi mmepɔw so mu.",
+    "Wɔtoo me mpoa sɛ memfa sɛnkyerɛnne mmra, enti miyii yoma fii ɔbotan bi mu bae.",
+    "Mehyɛɛ wɔn sɛ wɔmma yoma no nnom nnom na wɔmmpira no.",
+    "Wɔyɛɛ asoɔden na wɔbɔɔ yoma no asen, na wɔbuu me kɔkɔbɔ no so.",
+    "Mebɔɔ amanneɛ sɛ asotwe bɛba nnansa akyi.",
+    "Anɔpa no, ɔtopae a ano yɛ den sɛee wɔn, nanso wogyee me ne m’akyidifo nkwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Salih",
+        "Odiyifo Hud",
+        "Odiyifo Lut",
+        "Ɔkɔmhyɛni Shu'ayb",
+        "Ɔkɔmhyɛni Ibrahim"
+      ],
+      "answer": "Ɔkɔmhyɛni Salih"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Wɔhwehwɛ yomabere a ofi ɔbotan bi mu",
+        "Sikakɔkɔɔ nantwi ba a wɔhwehwɛ",
+        "Ahwehwɛde a ɛfa pon a ɛtrɛw fi soro",
+        "Nsuyiri a wɔhwehwɛ",
+        "Hwehwɛ poma na ama wabɛyɛ ɔwɔ"
+      ],
+      "answer": "Wɔhwehwɛ yomabere a ofi ɔbotan bi mu"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Yoma ba ne ne nantwi ba",
+        "Noa Adaka no",
+        "Mose Poma no",
+        "Sika Nantwi Ba no",
+        "Ibrahim Egya no"
+      ],
+      "answer": "Yoma ba ne ne nantwi ba"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wɔde ɔtopae a ano yɛ den sɛee no",
+        "Nsuyiri no mu amenee no",
+        "Asase amene no",
+        "Wɔdanee no akraman",
+        "Mframa a ano yɛ den sɛee no"
+      ],
+      "answer": "Wɔde ɔtopae a ano yɛ den sɛee no"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

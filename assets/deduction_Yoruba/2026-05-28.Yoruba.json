@@ -1,0 +1,61 @@
+{
+  "title": "Aláìsàn Tí Kò Yẹra",
+  "intro": "Nínú àkọsílẹ̀ ìtàn àsọtẹ́lẹ̀, àwọn díẹ̀ ló ti fara da irú àdánù ńlá àti ìpọ́njú ara bẹ́ẹ̀ pẹ̀lú ìgbàgbọ́ tí kò mì. Ìtàn ẹni yìí jẹ́ ẹ̀kọ́ tí kò lópin nípa sùúrù àti ìgbẹ́kẹ̀lé nínú ọgbọ́n Ọlọ́run. Ta ni ẹ̀mí yìí?",
+  "clues": [
+    "Allah yan mi lati fi ifiranṣẹ kan ranṣẹ, ṣugbọn idanwo ti o tobi julọ mi ko wa nipasẹ ikọsilẹ, ṣugbọn nipasẹ ajalu ti ara ẹni.",
+    "Wọ́n gba ọrọ̀ mi, ẹran ọ̀sìn mi, àti àwọn ọmọ mi lọ́wọ́ mi, lẹ́ẹ̀kọ̀ọ̀kan.",
+    "Ara mi kún fún ọgbẹ́, mo sì dá nìkan wà àyàfi tí ọkọ mi tàbí aya mi bá ń tọ́jú mi.",
+    "Mo ké pe Oluwa mi, mo gbà pé mo ní ìyà, mo sì ń wá àánú Rẹ̀.",
+    "Wọ́n ní kí n fi ẹsẹ̀ mi lu ilẹ̀, orísun omi tuntun sì tú jáde.",
+    "Allah dá mi pada si ilera, o si fun mi ni idile tuntun ati paapaa oro ju ti mo ni tẹlẹ lọ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Ayyub",
+        "Wòlíì Ibrahim",
+        "Wòlíì Mósà",
+        "Wòlíì Ísà",
+        "Wòlíì Nóà"
+      ],
+      "answer": "Wòlíì Ayyub"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Pípàdánù ọrọ̀ àti ìdílé",
+        "Jíjẹ́ tí a jù sínú iná",
+        "Jíjẹ́ tí ẹja gbé mì",
+        "Pípínyà kúrò nínú ìdílé àti títà sí oko ẹrú",
+        "Jíjẹ́ ẹni tí a fi ọmọ màlúù wúrà dán wò"
+      ],
+      "answer": "Pípàdánù ọrọ̀ àti ìdílé"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Orísun omi kan",
+        "Ọ̀pá tí ó di ejò",
+        "Àpótí onígi",
+        "Ọmọ màlúù dídán",
+        "Igi ọ̀pẹ"
+      ],
+      "answer": "Orísun omi kan"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ìmúpadàbọ̀sípò ìdílé àti ọrọ̀",
+        "Ìgòkè lọ sí ọ̀run",
+        "Dídi ọba",
+        "Ìgbàlà kúrò lọ́wọ́ ẹja ńlá",
+        "Gbigba ọmọkunrin ni ọjọ ogbó"
+      ],
+      "answer": "Ìmúpadàbọ̀sípò ìdílé àti ọrọ̀"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

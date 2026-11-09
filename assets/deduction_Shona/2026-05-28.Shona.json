@@ -1,0 +1,61 @@
+{
+  "title": "Murwere Asingazununguki",
+  "intro": "Munhoroondo dzenhoroondo dzeuprofita, vashoma vakatsungirira kurasikirwa kukuru kwakadaro uye matambudziko emuviri nekutenda kusingazununguki. Nyaya yemunhu uyu chidzidzo chisingaperi chekushivirira nekuvimba neuchenjeri hwaMwari. Mweya uyu ndiani?",
+  "clues": [
+    "Ndakasarudzwa naAllah kuti nditaure shoko, asi muedzo wangu mukuru hauna kuuya nekurambwa, asi nenjodzi yangu.",
+    "Pfuma yangu, zvipfuwo zvangu, nevana vangu zvakatorwa kubva kwandiri, chimwe nechimwe chichitevera chimwe.",
+    "Muviri wangu wakanga wakazara nemaronda, uye ndakasiiwa ndega kunze kwekutsigirwa nemurume wangu.",
+    "Ndakachema kuna Ishe wangu, ndichibvuma kutambura kwangu uye ndichikumbira tsitsi dzake.",
+    "Ndakarayirwa kuti ndirove pasi netsoka yangu, uye chitubu chinozorodza chakabuda.",
+    "Mwari vakadzoreredza hutano hwangu uye vakandipa mhuri itsva uye pfuma yakawanda kupfuura yandaiva nayo kare."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Ayyub",
+        "Muprofita Ibrahim",
+        "Muprofita Musa",
+        "Muprofita Isa",
+        "Muprofita Nuh"
+      ],
+      "answer": "Muprofita Ayyub"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kurasikirwa nepfuma nemhuri",
+        "Kukandwa mumoto",
+        "Kumedzwa nehove",
+        "Kuparadzaniswa nemhuri uye kutengeswa muuranda",
+        "Kuedzwa nemhuru yegoridhe"
+      ],
+      "answer": "Kurasikirwa nepfuma nemhuri"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Chitubu chemvura",
+        "Tsvimbo yakashanduka kuita nyoka",
+        "Areka yematanda",
+        "Mhuru yakanyungudutswa",
+        "Muti wemuchindwe"
+      ],
+      "answer": "Chitubu chemvura"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kudzorerwa kwemhuri nepfuma",
+        "Kukwira kudenga",
+        "Kuva mambo",
+        "Kuponeswa kubva kuhove huru",
+        "Kugamuchira mwanakomana akwegura"
+      ],
+      "answer": "Kudzorerwa kwemhuri nepfuma"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

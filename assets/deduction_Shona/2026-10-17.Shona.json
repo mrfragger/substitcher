@@ -1,0 +1,61 @@
+{
+  "title": "Chishuwo muImba Tsvene",
+  "intro": "Unopinda munzvimbo tsvene yakanyarara woona mushumiri waAllah akazvipira akamira achinyengetera. Maoko avo akasimudzwa, maziso avo akasimudzwa, uye mwoyo yavo ine chishuwo chagara kwenguva refu. Ndiani mweya uyu une mwoyo murefu une chivimbo munaAllah chisina kumbozununguka?",
+  "clues": [
+    "Ndakapedza makore akawanda ndichinamata uye ndichinyengetera, ndichiona zvishamiso zvakasimbisa kutenda kwangu.",
+    "Ndakapiwa basa rekutarisira mweya wechidiki wakaropafadzwa munzvimbo tsvene.",
+    "Pandakakura, kusuruvara kwangu kukuru kwaiva kuti handina mwana, nekuti mudzimai wangu akanga asina mbereko uye tese takanga takwegura.",
+    "Ndakanyengetera kuna Ishe wangu kuti ndiwane mutsivi kubva kumhuri yangu, munhu aizoenderera mberi nenhaka yehuporofita.",
+    "Pandakamira panzvimbo yekunamatira, ngirozi dzakandidana, dzichiti, 'Allah vanokupa mashoko akanaka', uye ndakatya zvikuru.",
+    "Ndakaudzwa kuti ndaizova nemwanakomana anonzi Yahya, zita rakanga risati rambopiwa chero ani zvake, uye sechiratidzo ndaisazotaura nevanhu kwemazuva matatu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Zakaria",
+        "Muprofita Yahya",
+        "Muprofita Isa",
+        "Muporofita Dhawud",
+        "Luqman Akachenjera"
+      ],
+      "answer": "Muprofita Zakaria"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kushaya mbereko uye kukwegura uku uchishuvira mugari wenhaka akarurama",
+        "Kukandwa mumoto unopfuta",
+        "Kumedzwa nehove huru",
+        "Kurasikirwa neumambo nehudzvanyiriri",
+        "Kudzingwa munyika yako"
+      ],
+      "answer": "Kushaya mbereko uye kukwegura uku uchishuvira mugari wenhaka akarurama"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Nzvimbo yekunamata (mihrab)",
+        "Ngarava huru (Areka)",
+        "Gwenzi riri kupfuta",
+        "Tsvimbo yakashanduka kuita nyoka",
+        "Ngamera hadzi yaAllah"
+      ],
+      "answer": "Nzvimbo yekunamata (mihrab)"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akapihwa mwanakomana akarurama ndokutaurazve mushure memazuva matatu akanyarara",
+        "Kuparadzwa nemafashamo nekuda kwekusatenda",
+        "Akapihwa umambo hukuru uye simba pamusoro pemhepo",
+        "Akanunurwa kubva mudumbu rehove",
+        "Yakamedzwa nenyika"
+      ],
+      "answer": "Akapihwa mwanakomana akarurama ndokutaurazve mushure memazuva matatu akanyarara"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

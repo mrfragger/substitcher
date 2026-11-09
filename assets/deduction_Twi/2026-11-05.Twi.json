@@ -1,0 +1,61 @@
+{
+  "title": "Mmepɔw so Nnwom a Wɔbɔ wɔ Anwummere",
+  "intro": "Tie sɛ bonhwa de ayeyi gyegyeegye wɔ Allah akoa bi a wapaw no nkyɛn. Ɛnne a wɔde nnwom a ɛyɛ dɛ, atemmu a akyinnyegyefo hwehwɛ wɔ dan no mu, ne dade a ɔsoro ahyɛde ama ayɛ mmerɛw retwɛn sɛ wobehu. Ɔsom ne nniso a ɛteɛ ho mfonini bɛn na ɛnam saa nsɛnkyerɛnne yi so kasa?",
+  "clues": [
+    "Allah de adom ne ayeyi nne a ɛyɛ dɛ hyiraa me.",
+    "Allah kyerɛkyerɛɛ me sɛ mɛte kasa a ɛfa atemmuo a ɛteɛ a ɛwɔ akasakasafoɔ ntam no ase.",
+    "Mehyiaa ɔkofoɔ kɛseɛ tumidifoɔ bi wɔ ɔko mu na ɛnam Allah pɛ so na midii wɔn so nkonim.",
+    "Wɔmaa me nyansa, tumi ne Nnwom kyerɛwsɛm a wɔada no adi a efi Allah hɔ.",
+    "Mmepɔw ne nnomaa bɛkaa me ho wɔ me nkyɛn de hyɛɛ Allah anuonyam anwummere ne owia apuei.",
+    "Allah kyerɛkyerɛɛ me sɛ memfa dade a wɔayɛ no mmerɛw ama me no nsiesie ntama."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Dawud (Dawid) .",
+        "Ɔkɔmhyɛni Ismail (Ishmael) .",
+        "Ɔkɔmhyɛni Yahya (Yohane) .",
+        "Dhul-Kifl na ɔkyerɛwee",
+        "Ɔkɔmhyɛni Al-Yasa (Elisa) ."
+      ],
+      "answer": "Ɔkɔmhyɛni Dawud (Dawid) ."
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Ɔdii Jalut (Goliath) so nkonim wɔ ɔko mu denam Allah pɛ so",
+        "Ɔkyekyeree Adaka no sɛnea ɛbɛyɛ a obenya nkwa wɔ nsuyiri kɛse no mu",
+        "Wotoow ogya bi a Allah maa dwoe mu",
+        "Ɔpataa kɛse bi menee no wɔ po no mu",
+        "Wɔnyanee no kɔɔ soro a wanka owu anhwɛ"
+      ],
+      "answer": "Ɔdii Jalut (Goliath) so nkonim wɔ ɔko mu denam Allah pɛ so"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Mmepo ne nnomaa a wɔaka abom de ayi Allah ayɛ",
+        "Poma a ɛdanee ɔwɔ",
+        "Ogya a ɛbɛyɛɛ nwini na asomdwoe wom",
+        "Yoma ababaa bi a wɔsomaa no sɛ sɛnkyerɛnne kɔmaa nkurɔfo",
+        "Adaka bi a wɔde nnua ayɛ a ɛda Bepɔw Judi so"
+      ],
+      "answer": "Mmepo ne nnomaa a wɔaka abom de ayi Allah ayɛ"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wɔmaa no ahenni, nyansa, ne Zabur (Nnwom) .",
+        "Wɔmaa ɔbabarima wɔ onyin mu wɔ mpaebɔ a emu yɛ den akyi",
+        "Wɔmaa ahobammɔ wɔ ɔbodan no mu mfe pii",
+        "Wɔmaa Zamzam asubura bi wɔ sare so",
+        "Wɔagye atom sɛ asraafo no memee wɔ po no mu"
+      ],
+      "answer": "Wɔmaa no ahenni, nyansa, ne Zabur (Nnwom) ."
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

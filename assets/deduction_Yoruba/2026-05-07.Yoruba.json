@@ -1,0 +1,61 @@
+{
+  "title": "Olùpè láti inú Ìjìnlẹ̀",
+  "intro": "Fojú inú wo ọkàn kan tí a fi ìránṣẹ́ àtọ̀runwá lé lọ́wọ́, síbẹ̀ ẹni tí, ní ìṣẹ́jú kan, fi àwọn ènìyàn wọn sílẹ̀ láìsí àṣẹ pàtó. Ìrìn àjò yìí mú wọn wọ inú àdánwò àrà ọ̀tọ̀, ìdánwò jìnnìjìnnì ti sùúrù àti ìgbẹ́kẹ̀lé Ẹni Gíga Jùlọ. Ta ni ẹni yìí tí ìtàn rẹ̀ kọ́ wa nípa ìrònúpìwàdà àti bí àánú Àlàáfíà ṣe tóbi tó?",
+  "clues": [
+    "Wọ́n rán mi lọ sí orílẹ̀-èdè ńlá kan, ṣùgbọ́n ìkọ̀sílẹ̀ wọn ní àkọ́kọ́ mú kí n ní ìbànújẹ́.",
+    "Mo fi àwọn ènìyàn mi sílẹ̀, mo gbàgbọ́ pé iṣẹ́ mi ti parí, kí n tó gba àṣẹ tó ṣe kedere láti lọ.",
+    "Mo fẹ́ kí ọkọ̀ ojú omi kọjá, ṣùgbọ́n ìjì líle àti yíya àwọn kèké yọrí sí ipò búburú kan.",
+    "Wọ́n jù mí sínú òkun, ẹ̀dá ńlá kan láti inú ibú omi sì gbé mi mì pátápátá.",
+    "Nínú òkùnkùn inú rẹ̀, mo ké pe Allah, mo jẹ́wọ́ ẹ̀ṣẹ̀ mi, mo sì ń wá àforíjìn Rẹ̀.",
+    "Allah pàṣẹ fún ẹ̀dá náà láti gbé mi sí etíkun, mo sì padà sí ìlera lábẹ́ ewéko àrà ọ̀tọ̀ kan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Yósù (Jósẹ́fù)",
+        "Wòlíì Nóà (Nóà)",
+        "Wòlíì Yunus (Jona)",
+        "Wòlíì Sólómọ́nì (Sólómọ́nì)",
+        "Wòlíì Ayyub (Jóòbù)"
+      ],
+      "answer": "Wòlíì Yunus (Jona)"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Pípín òkun",
+        "Iná Nimrọdu",
+        "Jíjẹ́ tí ẹja ńlá gbé mì",
+        "Ìkún omi náà",
+        "Àwọn òkúta ni wọ́n fi pa ìlú run"
+      ],
+      "answer": "Jíjẹ́ tí ẹja ńlá gbé mì"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Àpótí náà",
+        "Òṣìṣẹ́ náà",
+        "Ikùn ẹja náà",
+        "Kànga náà",
+        "Igbó tí ń jó náà"
+      ],
+      "answer": "Ikùn ẹja náà"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ó di olórí ńlá",
+        "Ó kọ́ Kaaba",
+        "Wọ́n padà wá láti tọ́ orílẹ̀-èdè kan tí ó ronú pìwà dà sọ́nà",
+        "Wọ́n fún ni ní àṣẹ lórí àwọn jinni",
+        "A dari awọn eniyan kọja aginju"
+      ],
+      "answer": "Wọ́n padà wá láti tọ́ orílẹ̀-èdè kan tí ó ronú pìwà dà sọ́nà"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Buugga Dembi Aan Hore Loo Arag",
+  "intro": "Sheekooyin Qur'aan ah ayaa muujinaya qoto dheeraanta musuqmaasuqa ay bulsho dhan ku dhici karto. Rasuulkani wuxuu kaligiis istaagay, isagoo baryaya dad ku haftay qallooc aan ummad ka horraysa waligood raacin. Iyadoo sannado badan la soo diginayay, haddana quluubtu way adkaayeen, amarkii rabbaaniga ahna wuxuu ku yimid si aad u cabsi badan. Ma aqoonsan kartaa rasuulkan sharafta leh ee Alle?",
+  "clues": [
+    "Waxaa la ii soo diray dige ahaan dad ay ku dhacday qallooc aan ummad ka horraysa weligeed samayn.",
+    "Dadkaygu waxay igu tilmaameen beenaale waxayna ku hanjabeen inay dhulka ka saari doonaan aniga iyo kuwa raacsan.",
+    "Booqdayaal sharaf leh ayaa gurigayga ku yimid qaab dhalinyaro ah oo weerar ah, waxaana dareemay murugo weyn oo ku saabsan badqabkooda.",
+    "Dadkaygu waxay iga codsadeen inaan martidayda u dhiibo, iyagoo aan ogayn in martidani ay ahaayeen malaa'ig uu Alle soo diray.",
+    "Xaaskaygu ma aysan la wadaagin diintayda, waxayna dooratay inay la sii joogto dadka la xukumay.",
+    "Waxaa la i badbaadiyay gabdhahayga aroortii hore, markii roob dhagax ah oo ba'an uu da'ay magaalooyinkeenniina la rogay."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Luut",
+        "Nabi Shucayb",
+        "Nabi Huud",
+        "Nabi Nuux",
+        "Nabi Saalix"
+      ],
+      "answer": "Nabi Luut"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Daad weyn oo dhulka qarqinaya",
+        "Lumitaanka aragga oo ka dhasha dhibaato dheer",
+        "Kaligii-taliye sheeganaya ilaahnimo",
+        "In lagu tuuro dab ololaya",
+        "In la dalbado in la dhiibo martida sharafta leh"
+      ],
+      "answer": "In la dalbado in la dhiibo martida sharafta leh"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Doon weyn oo gacan lagu sameeyay",
+        "Ul badda kala qaybisa",
+        "Hashii cajiibka ahayd",
+        "Dab ololaya",
+        "Magaalooyinka la rogay"
+      ],
+      "answer": "Magaalooyinka la rogay"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Isagoo raacaya mu'miniinta ayuu qarqiyay",
+        "Laga badbaadiyay foorno dab ah oo aan waxyeello gaarin",
+        "Kor baa loo qaaday samada isagoo nool",
+        "Qoysku waxay ku dhinteen daad weyn",
+        "Qoyska la badbaadiyay marka laga reebo xaas aan daacad ahayn"
+      ],
+      "answer": "Qoyska la badbaadiyay marka laga reebo xaas aan daacad ahayn"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

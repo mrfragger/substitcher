@@ -1,0 +1,61 @@
+{
+  "title": "Oníṣọ̀tẹ̀ tí ó bojú",
+  "intro": "O rí ara rẹ ní iwájú ẹni alágbára kan láti ọjọ́ ìfihàn. Ẹni yìí ni a mọ̀ fún ọgbọ́n, ọrọ̀, àti ipò rẹ̀ láàrín àwọn ènìyàn wọn. Nígbà tí àwọn àmì tí ó hàn gbangba dé, wọ́n mọ ẹwà náà ṣùgbọ́n wọ́n yan ìtakora ju ìtẹríba lọ. Kí ló mú kí ọkàn yìí gbèrò nínú òkùnkùn, kí sì ni ìpín wọn tó gbẹ̀yìn?",
+  "clues": [
+    "Mo ní ọ̀pọ̀lọpọ̀ ohun èlò àti agbára láti fi ṣe ìránṣẹ́, èyí sì mú kí ọ̀rọ̀ mi wúwo ní àwọn àpéjọ.",
+    "Nígbà tí wọ́n ń ka ọ̀rọ̀ àtọ̀runwá náà, mi ò lè sẹ́ ọ̀rọ̀ sísọ wọn, ṣùgbọ́n ìgbéraga mi kò jẹ́ kí n tẹrí ba.",
+    "Mo kó àwọn olùdámọ̀ràn mi jọ, mo ya ara mi sọ́tọ̀ láti ronú nípa ọ̀nà tí mo lè gbà ba ìhìn náà jẹ́.",
+    "Lẹ́yìn tí mo ronú jinlẹ̀ púpọ̀, mo kéde pé kò sí ohun tó jẹ́ àfi “iṣẹ́ ìyanu tí a fi sílẹ̀ láti ìgbà àtijọ́” láti lé àwọn ènìyàn kúrò.",
+    "Ìfihàn náà wá sọ fún mi ní tààràtà pé: ‘Fi mí sílẹ̀ pẹ̀lú ẹni tí mo dá nìkan.’ Wọ́n yan mí fún ètekéte mi.",
+    "Láìpẹ́, iná tí wọ́n kìlọ̀ fún mi yóò gbá mi ní iwájú, mi ò sì ní rí àsálà kankan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Wọ́n gbìmọ̀ láti pa Wòlíì náà",
+        "A ṣe àkóso ìdènà sí àwọn Mùsùlùmí",
+        "Wọ́n kó ìgbìmọ̀ kan jọ láti pe Al-Quran ní idán",
+        "Wọ́n gbèrò láti lé Wòlíì náà jáde kúrò ní Makkah",
+        "Ó kọ̀ láti pín ọrọ̀ rẹ̀ pẹ̀lú àwọn ọmọ aláìníbaba"
+      ],
+      "answer": "Wọ́n kó ìgbìmọ̀ kan jọ láti pe Al-Quran ní idán"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ìfihàn",
+        "Ìgbìmọ̀",
+        "Igun iwájú",
+        "Ọrọ̀",
+        "Àpón náà"
+      ],
+      "answer": "Igun iwájú"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ó ronúpìwàdà, ó sì gba ẹ̀sìn Islam",
+        "Ó ṣí lọ sí Abyssinia",
+        "Àrùn burúkú kan kọlu ú",
+        "Ó kú nígbà tí wọ́n bá àwọn Mùsùlùmí jà",
+        "Wọ́n dá a lẹ́bi sí Iná Ọ̀run Àpáàdì"
+      ],
+      "answer": "Wọ́n dá a lẹ́bi sí Iná Ọ̀run Àpáàdì"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

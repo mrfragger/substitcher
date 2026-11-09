@@ -1,0 +1,61 @@
+{
+  "title": "Umuburo muto imbere y'umuntu urimo kwimuka",
+  "intro": "Jya mu kibaya aho umutegetsi ukomeye n'ingabo nyinshi begereye, maze utekereze ku mugenzi muto utanga umuburo ukiza umuryango wose. Uko umuryango uri mu kaga ugera aho uhungira, akaga karahanyura. Kurikiza ibimenyetso kugira ngo umenye umuntu wirengagijwe inyuma y'uwo muburo.",
+  "clues": [
+    "Ndi mu biremwa bito bifitanye isano n'ubwami bw'umutegetsi.",
+    "Umuryango wanjye uba mu mazu ari mu kibaya, aho umwe muri twe ashobora guhamagara abandi.",
+    "Duhanganye n'iterabwoba riturutse kuri uwo mutegetsi n'ingabo zigendana n'uwo mutegetsi.",
+    "Ni njye uhamagara umuryango wanjye ngo winjire mu ngo zabo kandi akatuburira ko tutagomba gukandamizwa tutabizi.",
+    "Umutegetsi ni Sulayman, kandi ubwoko bwanjye buri mu biremwa byashyizwe munsi y'ubuyobozi bwe.",
+    "Ndi ikirura cyo muri icyo kibaya; nyuma yo kuburirwa, twinjiye mu ngo zacu maze duhunga ihungabana ryari kutugeraho ritabaye."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Inyoni yo mu kibaya",
+        "Impundu",
+        "Igikona",
+        "Inzoka",
+        "Inyumbu"
+      ],
+      "answer": "Inyoni yo mu kibaya"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Umuburo warokoye umuryango w'inyenzi",
+        "Gusaba impeta y'ifi",
+        "Gushakisha intebe y'ubwami yabuze",
+        "Gukiza amaso yibwe",
+        "Kwanga kurya ibiryo by'umutegetsi"
+      ],
+      "answer": "Umuburo warokoye umuryango w'inyenzi"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Ikibaya cy'Ibinyoni",
+        "Impeta y'ikimenyetso cya Sulayman",
+        "Ishati ya Yusufu ifite amaraso",
+        "Inyana y'izahabu yo mu rugendo rwo kuva mu Misiri",
+        "Inkoni ya Musa"
+      ],
+      "answer": "Ikibaya cy'Ibinyoni"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Abaturage barokotse nyuma yo kwihisha",
+        "Umuryango warasenyutse nta hantu ucumbitse",
+        "Abaturage barokotse kuko ingabo zasubiye inyuma",
+        "Abaturage bahawe igihembo cyo kugenzura inyoni",
+        "Umuryango wajyanywe bunyago mu rugo rw'ibwami"
+      ],
+      "answer": "Abaturage barokotse nyuma yo kwihisha"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

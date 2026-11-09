@@ -1,0 +1,61 @@
+{
+  "title": "Guta Rinotenda Munguva",
+  "intro": "Munhoroondo dzetsitsi dzaMwari, mune nzanga ine nguva yekuchinja kwayakaita yaive nguva yekuzadzikiswa kwezvose. Wava kuda kuburitsa nyaya yavo—nyaya yekuyambira, kupfidza, uye kuzorora inovasiyanisa neramangwana remamwe marudzi.",
+  "clues": [
+    "Taiva vanhu vakatumirwa nhume, uye takarega kudanwa kwake pakutanga.",
+    "Zviratidzo zvekurangwa kwaiuya pazvakava pachena, takaona chokwadi chenyevero yake.",
+    "Takatendeukira kuna Ishe wedu nekutendeuka kwechokwadi, uye kutenda kwedu kwakagamuchirwa.",
+    "Chirango chakanga chapihwa kwatiri chakabviswa nekuda kwekutenda kwedu.",
+    "Nyaya yedu inotaurwa seyakasiyana pakati pemaguta akatenda mushure mekuona chirango.",
+    "Taiva vanhu vemuporofita akamedzwa nehove hove, asi takaponeswa kubva mukuparadzwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Vanhu veYunus",
+        "Vanhu veNuh",
+        "Vanhu veHud",
+        "Vanhu veSalih",
+        "Vanhu veLut"
+      ],
+      "answer": "Vanhu veYunus"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Mafashamo anoparadza",
+        "Dutu guru remhepo",
+        "Chirango chekunyadziswa chaive pedyo chakadziviswa",
+        "Nyika ichivamedza",
+        "Mvura yematombo"
+      ],
+      "answer": "Chirango chekunyadziswa chaive pedyo chakadziviswa"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Areka",
+        "Ngamera hadzi",
+        "Guta rine vanhu zviuru zana",
+        "Tsvimbo yaMusa",
+        "Zvivakwa zveQarun"
+      ],
+      "answer": "Guta rine vanhu zviuru zana"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Vakaparadzwa zvachose",
+        "Vakapihwa mufaro kwenguva yakati",
+        "Vakashandurwa kuita tsoko",
+        "Vakanyudzwa",
+        "Vakamedzwa nenyika"
+      ],
+      "answer": "Vakapihwa mufaro kwenguva yakati"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

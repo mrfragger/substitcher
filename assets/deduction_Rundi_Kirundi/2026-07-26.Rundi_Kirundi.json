@@ -1,0 +1,61 @@
+{
+  "title": "Ikamba Ryarwanije Ijuru",
+  "intro": "Mu bibanza vy’ubwami bwa kera, izina ry’umutware umwe ryacitse ijambo ry’uruyeri ry’ububisha n’ubwibone. Igihe umusavyi wa Allah yicisha bugufi yashika afise ibimenyetso bitagira uko bingana, uwo mwami w’inkomezi yaranse kwihebera ukuri. Uyu musi, igikorwa cawe ni ukumenya uwo muntu w’inkuru z’imigani ubutegetsi bwiwe bwasenyutse, iherezo ryiwe rikaba ryarashizweko ikidodo munsi y’imipfunda.",
+  "clues": [
+    "Ndi umutware atinya cane izina ryiwe riguma rivuga nk’imburi mu bihe vyose.",
+    "Nategetse abantu bose gukora cane mu minyororo, bakavyura ibimenyetso vyamamaza ubuninahazwa bwanje.",
+    "Igihe intumwa ya Allah yaza imbere yanje ifise ibimenyetso bitagira uko bingana, naranse gupfukama, ndavyita ubupfumu.",
+    "Nategetse ko abahungu b’inzoya bicwa mu bantu b’inyagano, nizigiye ko nzojanjagura impwemu yabo imbere y’uko bazuka.",
+    "Nahagaze imbere y’urugo rwanje maze ndatangaza nti: ‘Ndi umukama wawe asumba abandi bose,’ nsaba ko bansenga nk’imana.",
+    "Nari kumwe n’umushikiranganji wanje mukuru iruhande yanje, nca nubaka inzu ndende cane yari igamije kuduga ikaja kure y’ijuru."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Farawoni (Firawuni)",
+        "Namurudi",
+        "Hamani",
+        "Abu Lahabu",
+        "Al-Walidi ibn al-Mughira"
+      ],
+      "answer": "Farawoni (Firawuni)"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Ugurohama mu kiyaga Gitukura .",
+        "Ingamiya y’ingore yoherejwe ku bantu b’i Tamudi .",
+        "Umwuzure ukomeye wa Nuh .",
+        "Igihano c'abagenzi b'umugende .",
+        "Ugutikizwa kw’ingabo za Aburaha n’inyoni"
+      ],
+      "answer": "Ugurohama mu kiyaga Gitukura ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Ico kibanza kirekire cubatswe na Hamani .",
+        "Ubwato bwagendeye hejuru y'umwuzure .",
+        "Inyana y'inzahabu yahinguwe n'Abasamari .",
+        "Intebe y’ubwami ya Bilikisi, Umwamikazi w’i Sheba .",
+        "Ico kinogo c'abakiri bato basinziriye ."
+      ],
+      "answer": "Ico kibanza kirekire cubatswe na Hamani ."
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Yarohamye mu kiyaga; umubiri warazigamye nk'imburi",
+        "Bajanwa mu bunyagano kandi bahatirwa kugendagenda mu bugaragwa .",
+        "Bahinduwe inkende nk'igihano",
+        "Yakubiswe n’umutingito w’ubukazi .",
+        "Yaturiwe n’imvura y’amabuye ivuye mw’ijuru ."
+      ],
+      "answer": "Yarohamye mu kiyaga; umubiri warazigamye nk'imburi"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Kii Suurad Kasbaday",
+  "intro": "Bal qiyaas naf is-hoosaysiin leh oo u soo dhawaanaysa mid ka mid ah Rususha Alle iyadoo qalbi daacadnimo ka buuxdo iyo rabitaan qoto dheer oo ay wax ku barato. Haddana isla waqtigaas, qof hanti iyo mansab leh ayaa dhegta Rasuulka qabtay, weji-gabaxna wuxuu ku dhacay qofkii raadinayay. Waxa xigay wuxuu ahaa wax aan ka yarayn cutub dhan oo Qur'aanka ah, oo loo diray sixitaanka Rasuulka iyo sharafta ruuxii soo doontay.",
+  "clues": [
+    "Waxaan u imid Rasuulkii Alle qalbi furan iyo rabitaan qoto dheer oo aan u qabo hanuun.",
+    "Ma aanan lahayn darajo adduun oo aan bixiyo, kaliya waxaan lahaa naf is-hoosaysiisa oo runta raadinaysa",
+    "Indhahayga jireed ma arki karin, laakiin aragtidayda ruuxiga ah way caddayd",
+    "Waxaan imid waqti aan habboonayn, markii Rasuulku uu ku mashquulsanaa qof saameyn weyn leh.",
+    "Waji ayaa ii soo jeestay, laakiin Alle ayaa sixitaan rabbaani ah iigu jawaabay",
+    "Anigu waxaan ahay Cabdullaahi ibn Ummu Maktuum, saxaabigii daacadda ahaa ee qisadiisu ay waxyooday suuradda Cabaas"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Cabdullaahi ibnu Ummi Maktuum",
+        "Bilaal ibnu Rabaax",
+        "Mucaad ibnu Jabal",
+        "Zayd ibnu Thaabit",
+        "Salmaan Al-Faarisi"
+      ],
+      "answer": "Cabdullaahi ibnu Ummi Maktuum"
+    },
+    "trial": {
+      "label": "Tijaabo / Dhacdo",
+      "options": [
+        "Nabiga oo diiday qof hodan ah awgeed",
+        "Cadowgu wuxuu ku tuuri doonaa dab kulul",
+        "In lagu iibiyo oo lagu silciyo addoon ahaan",
+        "Dagaalyahan xoog leh ayaa lagula dagaallamayaa",
+        "Kalluun weyn oo liqaya"
+      ],
+      "answer": "Nabiga oo diiday qof hodan ah awgeed"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Suurad Qur'aan ah oo ku bilaabmaysa weji-gabax (Suurada Abasa)",
+        "Dab laga dhigay mid qabow oo ammaan ah",
+        "Ul kala qaybisa bad weyn",
+        "Doon laga dhisay buur dheer",
+        "Shimbir ka samaysan dhoobo adag"
+      ],
+      "answer": "Suurad Qur'aan ah oo ku bilaabmaysa weji-gabax (Suurada Abasa)"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Ilaahay wuxuu soo dejiyay suurad Qur'aan ah oo i difaacaysa",
+        "Ilaahay wuxuu dabka ii yeelay mid qabow oo ammaan ah",
+        "Ilaahay baa badda kala qaybiyay si uu iiga badbaadiyo daba-galka",
+        "Ilaahay wuxuu i siiyay boqortooyo iyo xigmad weyn",
+        "Alle wuxuu i geeyay janada anigoo aan dhiman"
+      ],
+      "answer": "Ilaahay wuxuu soo dejiyay suurad Qur'aan ah oo i difaacaysa"
+    }
+  },
+  "verseRef": "80:2",
+  "arabic": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+  "verse": "Because there came to him the blind man, [interrupting]. (80:2)"
+}

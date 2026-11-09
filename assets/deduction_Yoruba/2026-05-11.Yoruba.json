@@ -1,0 +1,61 @@
+{
+  "title": "Àwọn Ẹlẹ́rìí tó dúró ṣinṣin",
+  "intro": "Fojú inú wo àkókò kan tí wọ́n fi iná dán ìgbàgbọ́ wò, tí ìgbàgbọ́ tí kò lágbára sì di ìtakora tó ga jùlọ. O ní iṣẹ́ láti tú àṣírí ẹgbẹ́ kan tí ìtàn wọn wà nínú Al-Quran, ìtàn ìgbàgbọ́ tó jinlẹ̀ lòdì sí ìkà tí ó lágbára. Tú àwọn àmì láti ṣàwárí ẹni tí àwọn ẹ̀mí wọ̀nyí jẹ́, àti àwọn ipò àrà ọ̀tọ̀ tí wọ́n dojú kọ.",
+  "clues": [
+    "A dúró ṣinṣin nínú ìgbàgbọ́ wa, láìka ìfúngunmọ́ ńláǹlà láti sẹ́ ìgbàgbọ́ wa sí.",
+    "Alákòóso alágbára kan tó fẹ́ pa ìmọ́lẹ̀ ìgbàgbọ́ Ọlọ́run kan ṣoṣo ló dojú kọ wá.",
+    "A rí àwọn àmì àti iṣẹ́ ìyanu ńláńlá, síbẹ̀ àwọn aninilára wa kò fiyèsí.",
+    "A fara da ọ̀nà ìnilára burúkú tí a ṣe láti fi dẹ́rù ba àwọn ẹlòmíràn kí wọ́n lè tẹrí ba.",
+    "Wọ́n jù wá sínú iná ńlá kan, síbẹ̀ ìdúróṣinṣin wa mú kí a ní ipò gíga pẹ̀lú Allah.",
+    "Ìtàn wa ni a kọ sínú Surah kan tí a pè ní orúkọ àwọn ìràwọ̀ ọ̀run, tí ó ń kìlọ̀ nípa àyànmọ́ àwọn tí ń ṣe inúnibíni sí àwọn onígbàgbọ́."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni àwa?",
+      "options": [
+        "Àwọn ará Thamuud",
+        "Àwọn ènìyàn 'Ad",
+        "Àwọn Ènìyàn Inú Kòtò",
+        "Àwọn ènìyàn Midiani",
+        "Àwọn Ènìyàn Erin"
+      ],
+      "answer": "Àwọn Ènìyàn Inú Kòtò"
+    },
+    "trial": {
+      "label": "Inúnibíni Wa",
+      "options": [
+        "Jíjẹ́ ẹni tí ó rì sínú ìkún omi",
+        "Afẹ́fẹ́ gbígbóná ti jó o run",
+        "Jíjẹ́ tí a jù sínú ihò iná",
+        "Ilẹ̀ gbé mì",
+        "Jíjẹ́ kí a yípadà sí ọ̀bọ"
+      ],
+      "answer": "Jíjẹ́ tí a jù sínú ihò iná"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ìkún omi ńlá kan",
+        "Ìsẹ̀lẹ̀ ńlá kan",
+        "Ààfin jíjìn tí ń jó",
+        "Òrìṣà alágbára kan",
+        "Ọ̀dá ńlá kan"
+      ],
+      "answer": "Ààfin jíjìn tí ń jó"
+    },
+    "outcome": {
+      "label": "Ìyàn Wa Tó Gbéṣẹ́ Jùlọ",
+      "options": [
+        "Wọ́n fún wọn ní ìjọba kan lórí ilẹ̀ ayé.",
+        "Àsálà ìyanu kan ló gbà wọ́n là.",
+        "Wọ́n gba ìjẹ́rìíkú àti èrè ayérayé.",
+        "Wọ́n yípadà sí irú ẹ̀dá mìíràn.",
+        "Wọ́n fún wọn ní ọrọ̀ àti aásìkí tó pọ̀ gan-an."
+      ],
+      "answer": "Wọ́n gba ìjẹ́rìíkú àti èrè ayérayé."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

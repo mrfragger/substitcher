@@ -1,0 +1,61 @@
+{
+  "title": "Ɔfrɛ a Efi Bon Kronkron no Mu",
+  "intro": "Wɔ abakɔsɛm nkratafa akyi no, ɔkra bi a ogyinaa sodifo bi a ɔwɔ tumi ne nnipa a wɔde wɔn ayɛ nkoa nyinaa ntam ho asɛm da. Wɔfrɛɛ saa onipa yi sɛ onnye ɔman bi mfi atirimɔdensɛm mu, na ɔnyɛ anwonwade ahorow a ɛne abɔde mu mmara biara nhyia. Efi bepɔw kronkron bi so kosi anwonwade bi so wɔ nsu so no, saa Allah akoa yi huu nsɛnkyerɛnne a ɛbɛka wɔ mfe no mu. W’adwuma nnɛ ne sɛ wubehu onipa nwonwaso yi a n’agyapade na ɛkyerɛɛ sɛnea adesamma abakɔsɛm kɔɔ so no.",
+  "clues": [
+    "Wɔwoo me wɔ bere a na me nkurɔfo hyia ahyɛde a edi awu, na m’abusua de me too nsu mu sɛnea ɛbɛyɛ a wobegye me nkwa.",
+    "Wohuu me na wɔtetee me wɔ sodifo a ɔhyɛɛ sɛ wonkum me su no fie ankasa.",
+    "Miguan kɔɔ bepɔw kronkron bi so baabi a mihuu ogya wɔ dua bi a ɛnhyew so, na ɛnne bi fi mu kasa kyerɛɛ me.",
+    "Wɔde anwonwade ahorow san de me kɔɔ saa sodifo no ara nkyɛn, na mehwehwɛɛ ahofadi a me nkurɔfo a wɔde wɔn ayɛ nkoa no de ma.",
+    "Mede me poma bɔɔ ɛpo no mu, na ɛpaapaee mu yɛɛ kusuu, na memenee wɔn a wɔtaa me nkurɔfo akyi no.",
+    "Me ne m’Awurade dii nkitaho wɔ bepɔw bi so anadwo aduanan, na wɔmaa me ɔsoro akwankyerɛ abopon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Musa",
+        "Odiyifo Harun",
+        "Ɔkɔmhyɛni Ibrahim",
+        "Ɔkɔmhyɛni Yusuf",
+        "Ɔkɔmhyɛni Dawud"
+      ],
+      "answer": "Ɔkɔmhyɛni Musa"
+    },
+    "trial": {
+      "label": "Me Sɔhwɛ a Ɛkyerɛkyerɛ Mu",
+      "options": [
+        "Po no a Wɔpaapae Mu",
+        "Adaka Kɛse no a Wɔresi",
+        "Ogya a Ɛrehyew a Wɔde Di Dwuma",
+        "Wɔde Wɔn To Whale Yafunu Mu",
+        "Misrifo Ɔpanyin bi de no too afiase"
+      ],
+      "answer": "Po no a Wɔpaapae Mu"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Oguanhwɛfo Poma",
+        "Nnua Adaka Kɛse Bi",
+        "Ɔbodan Bi a Bere Dae",
+        "Turo a Asubura Abien Wɔ Mu",
+        "Ahengua a Wɔde Sikakɔkɔɔ Asiesie"
+      ],
+      "answer": "Oguanhwɛfo Poma"
+    },
+    "outcome": {
+      "label": "Nea Efi Mu Ba",
+      "options": [
+        "Me Nkurɔfo Twaa Po no Koduu Dwoodwoo",
+        "Nsuyiri Kɛse bi Sɛee Asɔretiafo no",
+        "Otirimɔdenfo Ogya Bɛyɛɛ Nwini na Asomdwoe",
+        "Po no Tow Ne Nnommum no guu Mpoano",
+        "Nnommum no Bɛyɛɛ Misraim Sikakorabea"
+      ],
+      "answer": "Me Nkurɔfo Twaa Po no Koduu Dwoodwoo"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

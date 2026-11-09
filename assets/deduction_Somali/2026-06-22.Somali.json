@@ -1,0 +1,61 @@
+{
+  "title": "Mu'minka Qarsoon",
+  "intro": "Hoolalka awoodda badan, halkaas oo gaalnimada iyo kalitalisnimadu ay ka talinayeen, cod keliya oo run ah ayaa ka hadlay meel aan la filayn. Shakhsigan ayaa ku dooday awoodda inay ilaaliso farriin-qaade, iyagoo halis gelinaya ammaankooda si ay u sheegaan runta.",
+  "clues": [
+    "Waxaan ku noolaa dhul kalitalisnimo weyn, anigoo u adeegaya taliye sheeganaya ilaahnimo.",
+    "Sannado badan ayaan qarinayay caqiidooyinkayga dhabta ah, anigoo ka baqaya cawaaqib xumada ka dhalan karta shaacintooda.",
+    "Markii rasuul calaamo cad la yimid, waan rumaystay, laakiin dadkaygu way shirqooleen.",
+    "Waxaan hor istaagay kaligii-taliyihii iyo golihiisii, anigoo ku doodaya inaysan dilin rasuul aan waxba galabsan.",
+    "Waxaan uga digay ciqaabta quruumihii hore ee diiday runta, sida qoomkii Nuux iyo Caad.",
+    "Ilaahay baa iga badbaadiyay shirqooladoodii xumaa, waxaana arkay burburkii nidaamkii dulmiga badnaa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Mu'minkii Qoyska Fircoon",
+        "Sixirkii Fircoon",
+        "Kaaliyaha Fircoon",
+        "Xaaskii Fircoon",
+        "Khasnajigii Fircoon"
+      ],
+      "answer": "Mu'minkii Qoyska Fircoon"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Difaacidda nebi ka dhanka ah dilka",
+        "Ka hortagga xeeladaha sixiroolaha",
+        "Dhisidda munaarad si aad cirka u gaarto",
+        "Kala qaybinta badda si loo baxsado",
+        "Fasiraadda riyada boqorka"
+      ],
+      "answer": "Difaacidda nebi ka dhanka ah dilka"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Maxkamadda Fircoon",
+        "Geedka gubanaya",
+        "Dibigii dahabka ahaa",
+        "Ceelkii Madyan",
+        "Doontii Nebi Nuux"
+      ],
+      "answer": "Maxkamadda Fircoon"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Laga badbaadiyay waxyeello intii dulmiga lagu halaagsanaayay",
+        "Wuxuu noqday taliye awood badan",
+        "Dab ayaa lagu tuuray oo soo baxay isagoo aan waxba gaarin",
+        "Dhulku wuu liqay",
+        "Afartan sano oo cidlada ku dhex wareegayay"
+      ],
+      "answer": "Laga badbaadiyay waxyeello intii dulmiga lagu halaagsanaayay"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

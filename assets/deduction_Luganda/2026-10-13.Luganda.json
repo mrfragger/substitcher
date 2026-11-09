@@ -1,0 +1,61 @@
+{
+  "title": "Omulabe ow’omuliro",
+  "intro": "Mu nnaku ezaasooka ez’okubikkulirwa, omuntu yavaayo ng’omukakanyavu omuwakanya amazima. Olw’okuba yaweebwa omukisa olw’obugagga n’ekifo, emmeeme eno yalonda amalala okusinga obulagirizi, era emboozi yaabwe n’efuuka okulabula okw’amaanyi mu Aya ezisembayo eza suura.",
+  "clues": [
+    "Nabeera mu kibuga kye kimu ne Nabbi, era nga ndi mu baganda be ab’oku lusegere, naye ate amalala gange gankuuma nga ndi wala n’amazima.",
+    "Nnalina obugagga bungi n’ebintu bingi, era nnalowooza nti eby’obugagga byange byandinkuuma bulijjo.",
+    "Obubaka bwe bwabikkulwa, nnabujerega mu lwatu ne nkyuka, nga nneetwaala nti nsinga abakkiriza.",
+    "Obulabe bwange bwali bumanyiddwa nnyo ne kiba nti surah ya Quran yanyogerako butereevu, ng’empita erinnya abalala lye bamanyi.",
+    "Nalabulwa nti obugagga bwange n’enfuna yange tebijja kungasa, era nnandisuuliddwa mu muliro ogwaka.",
+    "Nze mmanyiddwa nga taata w’ennimi z’omuliro, era mukyala wange ajja kusitula enku ng’akutte omuguwa ogw’obuwuzi bw’enkindu mu bulago."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira, omuwandiisi w’ebitabo",
+        "Al-As ibn Okukaaba"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Yagaana Obusiraamu era n’awakanya Nabbi mu lwatu",
+        "Yakola olukwe lw’okutta Nabbi",
+        "Yakulembera social boycott ku Basiraamu",
+        "Yalwana mu lutalo lw’e Badr",
+        "Yatulugunyizibwa Bilal ibn Rabah"
+      ],
+      "answer": "Yagaana Obusiraamu era n’awakanya Nabbi mu lwatu"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Omuguwa ogw’obuwuzi bw’enkindu",
+        "Ekitala ekisongovu",
+        "Olujegere oluzitowa",
+        "Omuggo ogw’embaawo",
+        "Ekibookisi eky’amaliba"
+      ],
+      "answer": "Omuguwa ogw’obuwuzi bw’enkindu"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Ajja kwokya mu muliro ogwaka",
+        "Yenenya n’afuuka omubeezi",
+        "Yafiirwa obugagga bwe naye n’afa ng’aweebwa ekitiibwa",
+        "Yaddukira mu Abyssinia",
+        "Yabbira mu nnyanja"
+      ],
+      "answer": "Ajja kwokya mu muliro ogwaka"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

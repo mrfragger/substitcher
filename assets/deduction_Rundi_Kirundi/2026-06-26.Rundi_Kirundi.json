@@ -1,0 +1,61 @@
+{
+  "title": "Umuzigo w'ingabire yanse",
+  "intro": "Mu ntango z’amateka y’abantu, igihe isi yari ikiri nto kandi isi ikaba yari ifise impwemu ya mbere, hari umutima wahagaze imbere y’Umuremyi ufise ishikanwa ry’ukwicisha bugufi. Iryo shikanwa ryapimwa mu rugero rw’ukwemerwa n’Imana — maze riboneka ko rikenewe. Ivyakurikiye ntivyari inkuru y’imbabazi, ahubwo yari umutima wariwe n’ishari, bishikana ku gikorwa kitazosubira inyuma cosubiramwo igihe cose. Iyi ni inkuru y’umuntu izina ryiwe ryacitse ikintu kimwe n’akarenganyo gakomeye ka mbere kakozwe.",
+  "clues": [
+    "Naje kubaho ndi umwe mu bana ba mbere cane bavutse, bavutse ku muvyeyi muzi neza inkuru yiwe.",
+    "Narigeze gushikanira Allah ikimazi, ariko nticari cemerewe kuri jewe — naho ishikanwa rya muvukanyi wanje ryakiriwe n’ubuntu.",
+    "Ishari n’ishavu vyarashinze imizi mu mutima wanje, maze ndatera ubwoba bwo kwica incuti yanje bwite.",
+    "Muvukanyi wanje yaramburiye gutinya Allah, ariko ubwibone bwanje ntibwanyemereye kwumviriza.",
+    "Mu kanya k’ubugoyagoye buteye ubwoba, narakoze igikorwa kitavugwa kuri mwenewacu bwite.",
+    "Inyuma y’aho, sinari nzi no guhisha ivyo nakoze — gushika aho harungitswe ikiremwa co kw’isi kugira ngo kinyigishe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Kabili (Kayini)",
+        "Habili (Abeli)",
+        "Umuhungu w'Umuhanuzi Nuh .",
+        "Umuhanuzi Isimayili",
+        "Umuhanuzi Yusufu"
+      ],
+      "answer": "Kabili (Kayini)"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Gutanga ikimazi canse, kigatuma haba ubwicanyi bwa mbere .",
+        "Kubaka umunara muremure kugira ngo ushikire mw’ijuru .",
+        "Gutabwa mu muriro ururumba kubera ukwizera kw’umuntu .",
+        "Gutanga umuhungu wawe bwite nk'ikimazi mu kwumvira Allah",
+        "Kumirwa n’ifi nini kubera guhunga igikorwa ciwe ."
+      ],
+      "answer": "Gutanga ikimazi canse, kigatuma haba ubwicanyi bwa mbere ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Igisiga coherejwe na Allah kugira ngo kigaragaze uguhamba",
+        "Umwuzure munini waroze abantu bose .",
+        "Inkoni yahindutse inzoka nzima .",
+        "Ingamiya y’ingore yasohotse mu musozi w’ibitandara .",
+        "Intebe y’ubwami y’agatangaza itwawe n’imiyaga ikomeye ."
+      ],
+      "answer": "Igisiga coherejwe na Allah kugira ngo kigaragaze uguhamba"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Yacitse uwo kwicuza, aremerewe n’icaha ca mbere cakozwe .",
+        "Yarababariwe na Allah kandi amuha Paradizo y'ibihe bidahera",
+        "Yaraduzwe mu kibanza co hejuru c’ubuhanuzi n’ubwenge .",
+        "Yarakijijwe n’imbabazi z’Imana amaze guhamagara ari mu mwiza w’imbere .",
+        "Yarahawe ububasha ku majini, ku muyaga no ku biyaga ."
+      ],
+      "answer": "Yacitse uwo kwicuza, aremerewe n’icaha ca mbere yakozwe ."
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

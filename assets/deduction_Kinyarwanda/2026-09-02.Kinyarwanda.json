@@ -1,0 +1,61 @@
+{
+  "title": "Gusinzira Birenze Igihe",
+  "intro": "Tekereza igihe ukuri kwacecetswe maze abizera bagahigwa. Itsinda rito ryahisemo kwisubiraho aho kwitanga, rigashaka ubuhungiro ahantu hadasanzwe - ahantu hazaba ahantu ho kuruhukira mu binyejana byinshi bitabarika. Ubwo amaherezo bakangukaga, isi yari yarahindutse ibakikije. Ni bande abo bantu basinziriye?",
+  "clues": [
+    "Twari abakiri bato batuye mu mujyi wa kera.",
+    "Umuryango wacu wasabye ko dusengera hamwe na bo, ariko twarabyanze.",
+    "Twahunze umujyi dushaka ubuhungiro bw'abarwanyaga imyizerere yacu.",
+    "Umugenzi w’indahemuka w’amaguru ane yagumye ku muryango w’aho twari twihishe.",
+    "Imana yaduteye gusinzira imyaka magana atatu n'icyenda.",
+    "Ubwo twakangukaga, umujyi wacu wahoze utotezwa wari waremeye."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Turi bande?",
+      "options": [
+        "Ashab al-Kahf (Abantu bo mu buvumo)",
+        "Ashab al-Fil (Ingabo z'inzovu)",
+        "Ashab al-Ukhdud (Abasangirangendo bo mu mwobo)",
+        "Hawariyyun (Abigishwa ba Isa)",
+        "Yajuj wa Majuj (Gog na Magog)"
+      ],
+      "answer": "Ashab al-Kahf (Abantu bo mu buvumo)"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Twasubiye mu buvumo maze turaryama imyaka amagana",
+        "Twakijijwe umuriro ugurumana",
+        "Twamizwe n'ifi nini",
+        "Twageragejwe n'ingamiya y'ingore y'igitangaza",
+        "Twahawe ibimenyetso icyenda bisobanutse neza"
+      ],
+      "answer": "Twasubiye mu buvumo maze turaryama imyaka amagana"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Ubuvumo burebure mu misozi",
+        "Ubwato mu nyanja",
+        "Inyubako ndende igera mu ijuru",
+        "Ubusitani bugabanijwemo kabiri hagati y'abahanganye babiri",
+        "Uruzitiro rw'icyuma n'umuringa"
+      ],
+      "answer": "Ubuvumo burebure mu misozi"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Twakangutse dusanga umujyi wacu warahindukiriye ukwizera",
+        "Umuriro ugurumana wabaye ukonje kandi utuje",
+        "Ingabo z'umwanzi zarohamye mu nyanja",
+        "Inyoni zari zitwaye amabuye zashenye umwanzi",
+        "Ifi ikomeye yaturekuye ku nkombe"
+      ],
+      "answer": "Twakangutse dusanga umujyi wacu warahindukiriye ukwizera"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

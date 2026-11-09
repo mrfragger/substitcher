@@ -1,0 +1,61 @@
+{
+  "title": "Intumwa z'Ikigongwe n'Ububasha",
+  "intro": "Ibaze nk’umuhingamo utekanye ucitsemwo n’ukuza kw’abagenzi utamenyereye. Ivyo bisa n’ibisanzwe, ariko intumbero yavyo ni ikintu cose kiretse. Bifise ubutumwa buva ku Mana buzohindura ingendo y’amahanga abiri, bukazana utwenge mu rugo rw’ingumba, bukazana ubwoba mu gisagara c’abanyavyaha. None abo bashitsi b’akabanga ni bande?",
+  "clues": [
+    "Twararungitswe ku musavyi wa Allah yihebeye, azwi cane kubera ubucuti bwabo butagira aho bugarukira.",
+    "Twarashitse twiyoberanya nk’abanyamahanga, yamara rero uwatwakiriye yumvise ikintu co mu yindi si ku bijanye n’ukubaho kwacu.",
+    "Twarazanye inkuru zatumye umukenyezi umwe w’umutama atwenga ataco yemera, akubita mu maso hiwe bwite mu gutangara.",
+    "Twarahawe igikorwa co kurinda umuryango w’abagororotsi mu gihe twariko turagwa imvura y’ugutikizwa ku gisagara cari gifise ibiturire vyinshi.",
+    "Twaranka gusangira ivyo kurya twahawe, ivyo bikaba vyatumye gusa uwo twakiriye arushirizaho gukekeranya.",
+    "Twarahishuye kamere yacu nyakuri gusa imbere y’uko tugenda, tuti: «Ni ukuri, turi intumwa z’Umukama wawe»."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Twebwe Turi Bande?",
+      "options": [
+        "Abashitsi ba Aburahamu",
+        "Abigishwa ba Yezu .",
+        "Abagenzi b'Isenga",
+        "Ingabo za Aburaha .",
+        "Intumwa za Ya-Sin ."
+      ],
+      "answer": "Abashitsi ba Aburahamu"
+    },
+    "trial": {
+      "label": "Intumbero yacu",
+      "options": [
+        "Kugira ngo bagerageze ukwizera kwa Aburahamu ku bijanye n’umuhungu wiwe .",
+        "Kugira ngo ashikirize Aburahamu icanditswe .",
+        "Kugira ngo amenyeshe ivuka rya Izahaki n’ugutikizwa kw’abantu ba Loti .",
+        "Kugira ngo ayobore Aburahamu gushika kuri Kaaba .",
+        "Kugira ngo akize Aburahamu mu muriro ."
+      ],
+      "answer": "Kugira ngo amenyeshe ivuka rya Izahaki n’ugutikizwa kw’abantu ba Loti ."
+    },
+    "location": {
+      "label": "Aho yabonekeye",
+      "options": [
+        "Mu gihugu ca Misiri + .",
+        "Mu gisagara ca Uri .",
+        "Kwa Aburahamu",
+        "Mw’itongo ry’i Edeni + .",
+        "Ku iriba rya Zamzamu ."
+      ],
+      "answer": "Kwa Aburahamu"
+    },
+    "outcome": {
+      "label": "Inyishu",
+      "options": [
+        "Aburahamu yabaye umwami + .",
+        "Aburahamu yubatse Kaaba .",
+        "Sara yavyaye Izahaki abantu ba Loti baratikizwa .",
+        "Aburahamu yimukiye muri Palestina .",
+        "Abantu ba Aburahamu bararokotse umwuzure mwinshi ."
+      ],
+      "answer": "Sara yavyaye Izahaki abantu ba Loti baratikizwa ."
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

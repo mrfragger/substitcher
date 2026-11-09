@@ -1,0 +1,61 @@
+{
+  "title": "Ikamba ryahanganye n'ikirere",
+  "intro": "Mu nzira z'ubwami bwa kera, izina ry'umutegetsi umwe ryabaye inyito y'igitugu n'ubwibone. Ubwo umugaragu woroheje wa Allah yazaga afite ibimenyetso bidashidikanywaho, uwo mutegetsi ukomeye yanze kwemera ukuri. Uyu munsi, inshingano yawe ni ukumenya uyu muntu w'inkuru z'impimbano washenye ubwami bwe kandi amaherezo ye akaba yarafunzwe n'imiraba.",
+  "clues": [
+    "Ndi umutegetsi utinya cyane, izina rye riracyari umuburo mu bihe byose.",
+    "Nategetse abantu bose gukora imirimo y'uburetwa, bashyiraho inzibutso zamamaza ikuzo ryanjye.",
+    "Ubwo intumwa ya Allah yazaga imbere yanjye izanye ibimenyetso bidashidikanywaho, nanze kunama maze mbyita ubupfumu.",
+    "Nategetse kwica abana b'abahungu b'impinja mu bwoko bw'imbohe, niringiye kubakomeretsa imitima mbere yuko babyuka.",
+    "Nahagaze imbere y'urukiko rwanjye maze ndavuga nti 'Ndi umwami wanyu uruta abandi bose,' nsaba gusengwa nk'imana.",
+    "Ndi kumwe na Minisitiri w’Intebe wanjye iruhande rwanjye, nubatse inyubako ndende igamije kuzamuka ikarenga ikirere."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Farawo (Firauni)",
+        "Namrud",
+        "Hamani",
+        "Abu Lahab",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Farawo (Firauni)"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Kurohama mu Nyanja Itukura",
+        "Ingamiya y'ingore yoherejwe ku bantu ba Thamud",
+        "Umwuzure ukomeye wa Nuh",
+        "Igihano cy'Abagenzi bo mu Muyoboro",
+        "Isenywa ry'ingabo za Abraha n'inyoni"
+      ],
+      "answer": "Kurohama mu Nyanja Itukura"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Inyubako ndende yubatswe na Hamani",
+        "Ubwato bwagiye ku mugezi",
+        "Inyana ya zahabu yakozwe n'Abasamiri",
+        "Intebe y'ubwami ya Bilqis, Umwamikazi wa Sheba",
+        "Ubuvumo bw'abasore basinziriye"
+      ],
+      "answer": "Inyubako ndende yubatswe na Hamani"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Yarohamye mu nyanja; umurambo warafunzwe nk'umuburo",
+        "Bajyanywe mu bunyage kandi bahatirwa kuzerera mu butayu",
+        "Yahinduwe nk'inkende nk'igihano",
+        "Yakubiswe n'umutingito ukomeye",
+        "Yatwitswe n'imvura y'amabuye yaturutse mu ijuru"
+      ],
+      "answer": "Yarohamye mu nyanja; umurambo warafunzwe nk'umuburo"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

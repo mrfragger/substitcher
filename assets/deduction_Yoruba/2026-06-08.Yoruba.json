@@ -1,0 +1,61 @@
+{
+  "title": "Olùbẹ̀bẹ̀ fún Ibi Mímọ́",
+  "intro": "Ní àkókò ìdákẹ́jẹ́ẹ́ òru, ọkàn olùfọkànsìn kan ké pe Ẹni Àánú jùlọ nínú àwọn ògiri mímọ́ ibi mímọ́ kan. Ọ̀pọ̀ ọdún ìgbàgbọ́ àti sùúrù tí kò ṣeé yẹ̀ sílẹ̀ yóò gba èrè pẹ̀lú iṣẹ́ ìyanu kan tí yóò mú ayọ̀ àti ogún jíjẹ́ wòlíì wá.",
+  "clues": [
+    "Mo lo awọn ọjọ ati awọn alẹ mi ni ifarasin ninu ibi mimọ kan, mo n gbadura nigbagbogbo si Oluwa mi.",
+    "Mo darúgbó, ìyàwó mi sì yàgàn, síbẹ̀ mi ò pàdánù ìrètí nínú àánú Allāhu.",
+    "Wọ́n fún mi ní ọmọkùnrin kan, orúkọ rẹ̀ ni Yahya, ẹni tí ó di wòlíì àti àmì òdodo.",
+    "Èmi fúnra mi ni wòlíì, tí a rán láti darí àwọn ọmọ Ísírẹ́lì.",
+    "Àtọmọdọ́mọ Wòlíì Hárún ni mí, mo sì ń ṣiṣẹ́ gẹ́gẹ́ bí àlùfáà ní Tẹ́ḿpìlì.",
+    "Wọ́n fi ìtọ́jú Màríà, ìyá Ísà, lé mi lọ́wọ́, mo sì rí iṣẹ́ ìyanu rẹ̀."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Zakariyya",
+        "Wòlíì Yahya",
+        "Wòlíì Ilyas",
+        "Wòlíì Íṣákì",
+        "Wòlíì Jákọ́bù"
+      ],
+      "answer": "Wòlíì Zakariyya"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ó fún ni ọmọkùnrin nígbà tí ó dàgbà",
+        "A gbà á lọ́wọ́ iná tó ń jó",
+        "A gbà á kúrò nínú ikùn ẹja",
+        "Mo yege ikun omi nla kan",
+        "A ti wosan kuro ninu aisan lile kan"
+      ],
+      "answer": "Ó fún ni ọmọkùnrin nígbà tí ó dàgbà"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Mihrab (ibi adura)",
+        "Kaaba",
+        "Igbó Tí Ń jóná",
+        "Àpótí Májẹ̀mú",
+        "Ihò Àwọn Alásùn Méje"
+      ],
+      "answer": "Mihrab (ibi adura)"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A fún un ní ọmọ olódodo tí ó di wòlíì",
+        "Ìjì líle kan pa á run",
+        "Mo rì sínú omi",
+        "A gbà á lọ́wọ́ sísun.",
+        "Wọ́n padà sí ọ̀dọ̀ àwọn ènìyàn wọn lẹ́yìn tí wọ́n ti gbà wọ́n là kúrò lọ́wọ́ ẹja"
+      ],
+      "answer": "A fún un ní ọmọ olódodo tí ó di wòlíì"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Àwùjọ Ìrúfin Àkọ́kọ́",
+  "intro": "Ní ilẹ̀ àwọn ìlú àtijọ́, àwọn ènìyàn kan ti ń gbèrú nígbà kan rí. Ońṣẹ́ kan wá bẹ̀ wọ́n wò pẹ̀lú ìpè tí ó ṣe kedere, síbẹ̀ wọ́n yípadà wọ́n sì tẹ̀lé ipa ọ̀nà tí ẹnikẹ́ni kò tíì rìn rí. Ìtàn wọn jẹ́ ti àìgbọ́ràn, ìwà ìbàjẹ́, àti ìyà tí ó fi ìlú wọn sílẹ̀ gẹ́gẹ́ bí àmì fún gbogbo àwọn tí ó ronú jinlẹ̀. Ta ni àwọn ẹ̀mí wọ̀nyí?",
+  "clues": [
+    "A gbé ní àwọn ìlú pẹ̀tẹ́lẹ̀, níbi tí wòlíì wa ti pè wá sí òdodo.",
+    "Àwa ni akọ́kọ́ tí ó ṣe ìwà àìtọ́ tí ẹnikẹ́ni kò tíì ṣe rí ní gbogbo ayé.",
+    "Àwa máa ń pàdánù àwọn arìnrìn-àjò, a sì máa ń ṣe ibi ní gbangba ní àwọn ìpàdé wa.",
+    "A kọ ìránṣẹ́ tí a rán sí wa sílẹ̀, a sì halẹ̀ mọ́ wa pé a ó lé e kúrò ní ilẹ̀ wa.",
+    "A sáré lọ sí ilé rẹ̀, a sì ní kó fi àwọn àlejò rẹ̀ lé wa lọ́wọ́.",
+    "Ìyà wa jẹ́ òjò òkúta, ìlú wa sì yí padà pátápátá."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni àwa?",
+      "options": [
+        "Àwọn ènìyàn Lúùtù",
+        "Àwọn ènìyàn Nóà",
+        "Àwọn ènìyàn 'Ad",
+        "Àwọn ènìyàn Támúdì",
+        "Àwọn ènìyàn Madiani"
+      ],
+      "answer": "Àwọn ènìyàn Lúùtù"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ṣe ìṣe àkọ́kọ́ ti ìbálòpọ̀",
+        "Àwọn òrìṣà tí a ń sìn",
+        "Ti tàn jẹ ninu iṣowo",
+        "Wọ́n pa wòlíì wọn",
+        "Wọ́n ṣàìgbọràn sí àwọn òbí wọn"
+      ],
+      "answer": "Ṣe ìṣe àkọ́kọ́ ti ìbálòpọ̀"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ìlú pẹ̀tẹ́lẹ̀ náà",
+        "Ìlú kànga náà",
+        "Ìlú ihò náà",
+        "Ìlú erin",
+        "Ìlú ọgbà náà"
+      ],
+      "answer": "Ìlú pẹ̀tẹ́lẹ̀ náà"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Òjò rọ̀ pẹ̀lú òkúta, ó sì yípadà",
+        "Ìkún omi rì mọ́lẹ̀",
+        "Afẹ́fẹ́ líle pa á run",
+        "Ilẹ̀ gbé mì",
+        "Ìró ńlá kan kọlu mi"
+      ],
+      "answer": "Òjò rọ̀ pẹ̀lú òkúta, ó sì yípadà"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

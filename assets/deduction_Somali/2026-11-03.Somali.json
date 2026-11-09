@@ -1,0 +1,61 @@
+{
+  "title": "Hurdada Kuwa Xaqa Ah",
+  "intro": "Waqtigii iimaanku khatar ahaa oo dadkii xoogga badnaa ay doonayeen inay burburiyaan iimaanka, koox yar oo nafo dhalinyaro ah ayaa sameeyay doorasho soo noqnoqonaysa da' kasta. Iyagoo ka cararaya wax kasta oo ay ogaayeen, waxay magan galeen mugdiga qarsoon ee buur waxayna si buuxda ugu kalsoonaayeen Alle. Waxa xigay waxay noqon doontaa calaamad aan waqti lahayn oo loogu talagalay kuwa fekeraya.",
+  "clues": [
+    "Waxaan ahayn koox dhalinyaro ah oo rumaystay Rabbigeen, wuuna nagu kordhiyey hanuun.",
+    "Waxaan hor istaagnay dadkeenna oo waxaan ku dhawaaqnay inaan waligeen caabudi doonin ilaah aan ahayn Alle.",
+    "Waxaan ku magan galnay god, annagoo nidhaahna, 'Rabbiyow, na sii naxariistaada oo si sax ah noogu hanuuni arimaheena.'",
+    "Sannado badan ayaan seexannay, qorraxduna godkeenna ayay ka soo bixi jirtay oo nama taaban jirtay.",
+    "Eygeennu wuxuu jiifay albaabka godka, isagoo na ilaalinaya sidii qof ilaalinaya.",
+    "Markii nala soo toosay, waxaan isweydiinay inta aan sugnay, midkeen waxaa naloo soo diray lacago qalin ah si uu cunto u iibsado."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Dadka Godka",
+        "Dadka Dooxada",
+        "Dadka Sabtida",
+        "Dadka Maroodiga",
+        "Asxaabta Kaynta"
+      ],
+      "answer": "Dadka Godka"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "God ayay u carareen si ay uga baxsadaan cadaadis ay ku hayeen iimaankooda awgiis.",
+        "Waxaa burburiyay dabayl xoog leh",
+        "Dhulku liqay",
+        "Badda ayay ku qarqisay",
+        "Waxaa ku dhacay duufaan dhagaxyo ah"
+      ],
+      "answer": "God ayay u carareen si ay uga baxsadaan cadaadis ay ku hayeen iimaankooda awgiis."
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Ey ilaalinaya albaabka godka",
+        "Doon weyn",
+        "Ul isu beddeshay abeeso",
+        "Shimbir hoopoe ah",
+        "Wur dahab ah"
+      ],
+      "answer": "Ey ilaalinaya albaabka godka"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Waxay godka ku jireen 309 sano ka dibna waxaa loo soo qaaday calaamad ahaan",
+        "Waxaa loo rogay daanyeer",
+        "Daad ayaa ku burburay",
+        "Waxaa loo sameeyay inay badda ka gudbaan",
+        "Waxaa la siiyay boqortooyo"
+      ],
+      "answer": "Waxay godka ku jireen 309 sano ka dibna waxaa loo soo qaaday calaamad ahaan"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

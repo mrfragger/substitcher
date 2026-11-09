@@ -1,0 +1,61 @@
+{
+  "title": "Codkii Xaqnimada ugu Yeedhay",
+  "intro": "Dhulkii hore ee Midyaan, halkaas oo ganacsigu ku barwaaqoobay oo safarro badan ay ku dhex mareen lamadegaanka ballaaran, nebi Alle ayaa ka soo dhex baxay dadkii ka leexday waddada caddaaladda. Addoonkan Alle waxaa loo diray hawlgal rabbaani ah oo tijaabin doona iimaanka bulsho dhan. Iyada oo loo marayo tijaabooyin dulqaad iyo dulqaad, naftani waxay ku adkaysatay inay bixiso digniin ka soo baxaysa taariikhda. Ma furi kartaa sirta rasuulkan daacadda ah?",
+  "clues": [
+    "Waxaa Alle ii doortay inaan hago dad ilaaway mabaadi'da cadaaladda iyo daacadnimada macaamilkooda.",
+    "Waxaan gudbiyay farriin aan ugu yeerayo bulshadeyda inay caabudaan Alle mooyee oo ay runta ka hadlaan dhammaan arrimaha.",
+    "Waxaan si gaar ah uga digay dhaqanka musuqmaasuqa ah ee lagu cuno hantida iyada oo loo marayo habab sharci darro ah, waxaana xoogga saaray muhiimadda miisaanka iyo cabbiraadda caddaaladda ah.",
+    "Dadkaygu waxay si jees jees ah uga jawaabeen digniintaydii, iyagoo ku hanjabay inay iga saari doonaan dhulkooda haddii aan sii wado farriintayda.",
+    "Waan ku adkaystay hawsheyda inkastoo ay cadaawad u qabaan, anigoo ku dhawaaqaya in abaal-marintaydu ay la jirto Alle oo keliya.",
+    "Dadkayga waxaa qabsaday ciqaab aad u xun iyadoo aan ku badbaadiyay naxariista Rabbi, iyadoo hawshii la ii fuliyey."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Shucayb",
+        "Nabi Huud",
+        "Nabi Saalix",
+        "Nabi Luut",
+        "Nabi Muxamed ﷺ"
+      ],
+      "answer": "Nabi Shucayb"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Wajahaya dad diiday runta oo ku hanjabay ciqaab kadib markii ay faafiyeen fariinta Alle.",
+        "Inaad aragto Daadkii Weynaa ee baabi'iyay gaalada qaran",
+        "Helitaanka muujinta inta lagu guda jiro safarka dooxada Yun",
+        "Tijaabada iimaanka markii taliye dulmi badan uu isku dayay inuu aamusiyo baaqa ku aaddan tawxiidka",
+        "Qaran ayaa codsadey roob xilli abaar daran ay jirtay ka dib sannado badan oo caasinimo ah"
+      ],
+      "answer": "Wajahaya dad diiday runta oo ku hanjabay ciqaab kadib markii ay faafiyeen fariinta Alle."
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Dhulka Midyaan, halkaas oo dadkaygu ay ganacsigooda iyo ganacsigooda ku samayn jireen",
+        "Sagxad markab weyn oo ka badbaadiyay mu'miniinta daad masiibo ah",
+        "God ku yaal buur dhagax ah oo ay toddobo dhallinyaro ah ka magan galeen cadaadiskii",
+        "Magaalada barakeysan ee Yeruusaalem oo aan safar habeenimo ah la ii qaaday",
+        "Qasri ku yaal Sheba halkaas oo boqortooyo weyn ay isu diyaarisay inay markhaati ka noqoto calaamad rabbaani ah"
+      ],
+      "answer": "Dhulka Midyaan, halkaas oo dadkaygu ay ganacsigooda iyo ganacsigooda ku samayn jireen"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Dadkaygii waxaa qabsaday ciqaab aad u xun intii aan badbaadiyay, waayo waxaan guday waajibkii aan Alle u hayay",
+        "Gaaladii waxaa loo rogay daanyeer maadaama ay jebiyeen xuduudaha barakeysan ee Alle.",
+        "Cadaawayaashaydu waxay qaateen iimaanka ka dib markay arkeen isbeddel mucjiso ah",
+        "Dhulku wuxuu ku mannaystay roob badan iyo barwaaqo ka dib markii dadku toobad keeneen",
+        "Dadkeyga ayaa i shahiiday markii aan diiday inaan ka tago hawshaydii"
+      ],
+      "answer": "Dadkaygii waxaa qabsaday ciqaab aad u xun intii aan badbaadiyay, waayo waxaan guday waajibkii aan Alle u hayay"
+    }
+  },
+  "verseRef": "26:177",
+  "arabic": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ",
+  "verse": "When Shuʿayb said to them, \"Will you not fear Allāh? (26:177)"
+}

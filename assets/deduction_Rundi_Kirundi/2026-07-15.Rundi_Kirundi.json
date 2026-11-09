@@ -1,0 +1,61 @@
+{
+  "title": "Igihugu c'Ukwisubirako",
+  "intro": "Mu bitabu vy’ivya kera vy’ubutoni bw’Imana, hariho umutima w’ubugororotsi butagira uko bungana, ushizwe ku ruhande rw’abantu babo kugira ngo urondere ubwiherero mu nzira nyeranda. Ntibari bazi ko ukwo kwiherera kwozana ikimenyetso ku isi zose, ikigeragezo c’ukwizera covugwa ibihe bidahera.",
+  "clues": [
+    "Narihebeye ubuzima bwo gukorera imbere y’uko mvuka.",
+    "Nashizwe munsi y’uburongozi bw’umuhanuzi w’icubahiro.",
+    "Nari ntunganijwe n’ibifungurwa bivuye kuri Allah vyatangaje umucungerezi wanje.",
+    "Naciye nva mu muryango wanje nja mu kibanza co mu buseruko.",
+    "Umumarayika yarambonekeye afise ishusho y’umuntu atunganye, azana inkuru y’umwana atyoroye.",
+    "Maze kugaruka n’umwana wanje aherutse kuvuka, abantu banje barandega, ariko uruyoya rwaravuze rwo kwiregura."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Mariya (Mariya)",
+        "Asiyah (umugore wa Farawoni)",
+        "Hajar (nyina wa Ismail)",
+        "Sara (umugore wa Iburahimu)",
+        "Nyina wa Musa ."
+      ],
+      "answer": "Mariya (Mariya)"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Gusama inda y'igitangaza n'ukuvuka kw'umuhungu",
+        "Kujugunywa mu muriro .",
+        "Kumirwa n'ifi nini",
+        "Kubaka ubwato bunini",
+        "Kujabuka ikiyaga"
+      ],
+      "answer": "Gusama inda y'igitangaza n'ukuvuka kw'umuhungu"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Ikibanza co mu buseruko kiri ukwaco",
+        "Igisaka kigurumana",
+        "Ikiyaga Gitukura",
+        "Urutare amazi yavamwo .",
+        "Igikoko c'ikiyaga"
+      ],
+      "answer": "Ikibanza co mu buseruko kiri ukwaco"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Uruyoya rwavuze mu kugwanira umuvyeyi",
+        "Ikiyaga caragabanijwemwo kubiri + .",
+        "Umuriro warakonje kandi uratekanye .",
+        "Iyo balene yarutse ku nkombe",
+        "Ubwato bwaguye ku musozi ."
+      ],
+      "answer": "Uruyoya rwavuze mu kugwanira umuvyeyi"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

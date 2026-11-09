@@ -1,0 +1,61 @@
+{
+  "title": "Ọkàn Aṣọ́nà lẹ́bàá etí odò",
+  "intro": "A fi iṣẹ́ àṣírí kan lé ọ̀dọ́mọdé kan lọ́wọ́, láti máa wo bí àyànmọ́ ṣe ń ṣẹlẹ̀ lórí omi. Láìsí ìrísí àti àìsí ìròhìn, ẹni yìí yóò kó ipa pàtàkì nínú yíyí ìtàn orílẹ̀-èdè kan padà.",
+  "clues": [
+    "Ìyá mi ló fún mi ní iṣẹ́ kan, èyí tó nílò ìṣọ́ra àti ìṣọ́ra.",
+    "Ojú mi tẹ̀lé ọmọ kékeré kan tó ń rìn kiri lórí omi, ọkàn mi sì kún fún àníyàn.",
+    "Nígbà tí àwọn ènìyàn tí kò retí rí i, mo sún mọ́ ọn, mo sì kún fún ìbẹ̀rù.",
+    "Mo rí bí wọ́n ṣe ń fẹ́ olùtọ́jú, mo sì fún wọn ní ojútùú láìsí pé mo sọ òtítọ́.",
+    "Ìdásí mi ní àkókò tó yẹ mú kí ọkàn tó ń fún ọmọ ní ọmú padà sí ẹni tó nílò rẹ̀ jùlọ.",
+    "Ní àgbàlá àwọn alágbára, mo sọ pé: ‘Ṣé kí n tọ́ yín sọ́nà ìdílé kan tí yóò máa tọ́jú rẹ̀ tí yóò sì máa tọ́jú rẹ̀ pẹ̀lú ìṣọ́ra?’"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Arabinrin Musa",
+        "Ìyá Mósè.",
+        "Aya Farao",
+        "Agbẹbí kan",
+        "Ọmọbìnrin Shu'aib"
+      ],
+      "answer": "Arabinrin Musa"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Jíjù ọmọdé sínú odò",
+        "Pípín òkun",
+        "Sísun ọmọ màlúù",
+        "Kíkọ́ ọkọ̀ náà",
+        "Àjàkálẹ̀ àrùn eṣú"
+      ],
+      "answer": "Jíjù ọmọdé sínú odò"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Odò náà",
+        "Aṣálẹ̀",
+        "Òkè náà",
+        "Ààfin náà",
+        "Iná náà"
+      ],
+      "answer": "Odò náà"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ó tún mú ọmọ náà padà pẹ̀lú ìyá rẹ̀",
+        "Ó gba ara rẹ̀ là lọ́wọ́ àwọn ọmọ ogun Fáráò",
+        "Ó di ayaba",
+        "Wọ́n fìyà jẹ ẹ́ fún ṣíṣe amí",
+        "Ó ṣe aṣáájú àwọn ọmọ Ísírẹ́lì"
+      ],
+      "answer": "Ó tún mú ọmọ náà padà pẹ̀lú ìyá rẹ̀"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

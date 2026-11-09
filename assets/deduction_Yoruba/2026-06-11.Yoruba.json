@@ -1,0 +1,61 @@
+{
+  "title": "Abúlé tó wà ní etíkun ẹjọ́ náà",
+  "intro": "O rí ara rẹ ní abúlé etíkun kan, níbi tí ìró ìgbì omi ti ń dàpọ̀ mọ́ ìfọ̀rọ̀wérọ̀ àwọn ènìyàn tí a ti gbàgbé. Wọ́n fún wọn ní àṣẹ ìsinmi, ṣùgbọ́n ojúkòkòrò wọn yọrí sí ìyà tí a ṣì ń sọ̀rọ̀ nípa rẹ̀ pẹ̀lú ohùn dídákẹ́jẹ́ẹ́. Ṣé o lè ṣàwárí ẹni tí wọ́n jẹ́?",
+  "clues": [
+    "A gbé ní etíkun, wọ́n sì pàṣẹ fún wa láti máa ṣe ìsinmi ọjọ́ kan.",
+    "Ní ọjọ́ náà, ẹja máa ń wá sí wa lọ́pọ̀lọpọ̀, ṣùgbọ́n wọ́n kọ̀ láti mú wọn.",
+    "Àwọn kan lára ​​wa kìlọ̀ nípa ìrékọjá, ṣùgbọ́n àwọn mìíràn dìtẹ̀ láti pẹja.",
+    "A rú òfin mímọ́ náà, a sì mú ìyà líle wá sórí ara wa.",
+    "Ìyà wa jẹ́ ìyípadà kan tí ó sọ wá di aláìlera àti ẹni tí a ti dẹ́rù ba.",
+    "A yípadà sí ọ̀bọ, àmì fún gbogbo àwọn tí yóò tẹ̀lé e."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Àwọn ènìyàn ọjọ́ ìsinmi",
+        "Àwọn ènìyàn Támúdì",
+        "Àwọn ènìyàn 'Ad",
+        "Àwọn ènìyàn inú ihò náà",
+        "Àwọn Ènìyàn Erin"
+      ],
+      "answer": "Àwọn ènìyàn ọjọ́ ìsinmi"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ẹja pípa ní ọjọ́ Sábáàtì",
+        "Jíjọ́sìn ọmọ màlúù wúrà",
+        "Sísẹ́ ìhìn Hud",
+        "Pípa abo ràkúnmí",
+        "Kíkọ́ ilé gogoro sí ọ̀run"
+      ],
+      "answer": "Ẹja pípa ní ọjọ́ Sábáàtì"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ẹja naa",
+        "Abo ràkúnmí kan",
+        "Òṣìṣẹ́ kan",
+        "Ọkọ̀ ojú omi kan",
+        "Ọgbà kan"
+      ],
+      "answer": "Ẹja naa"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ó di ọ̀bọ",
+        "Ìkún omi pa á run",
+        "Iná tí ń jó parun",
+        "Ilẹ̀ gbé mì",
+        "Afẹ́fẹ́ tú ká"
+      ],
+      "answer": "Ó di ọ̀bọ"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

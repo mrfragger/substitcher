@@ -1,0 +1,61 @@
+{
+  "title": "Awotwaa no Bɔhyɛ",
+  "intro": "Wɔ koma a wɔde ama Ɔsoro de no adan a ɛyɛ komm mu no, wosusuw bɔhyɛ kronkron bi ho. Ná saa bɔhyɛ yi twe adwene si asetra a wonnya ntwee ahome so, na na ne mmamu bɛsakra honhom fam agyapade no kwan koraa. Fa wo nan hyɛ ɔkra bi a ne bɔhyɛ kaa daa no ahintasɛm mu.",
+  "clues": [
+    "Na mete ofie bi a wonim no se ewo nyamesom pa mu, na na m'ani bere akyɛde a ɛbɛma mabɛn Allah.",
+    "Me ne m’Awurade yɛɛ apam a anibere wom wɔ nea ahintaw me mu no ho, na mehyɛɛ bɔ sɛ mede ne nyinaa bɛhyɛ Ne som mu.",
+    "Bere a bere a wɔde bɛda no adi no dui no, nea menyae no yɛ nea na menhwɛ kwan, nanso mede asɛm no hyɛɛ Onimdefo no nsa.",
+    "Memaa me ba no din a ɛkyerɛ ahofama, na mesrɛɛ sɛ wɔmmɔ no ne n’asefo ho ban mfi nea wɔadome no no ho.",
+    "Wɔde me ba no too kronkronbea kronkron no mu, wɔ odiyifo bi a ofi Aaron abusua mu hwɛ ase.",
+    "Me babea bɛyɛɛ nea wonim no sɛ ne ho tew na wɔpaw no sen mmea nyinaa, akyiri yi ɔbɛyɛɛ odiyifo kɛse bi maame, ɛwom sɛ wɔanka no de."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Imran yere no",
+        "Musa maame",
+        "Farao yere",
+        "Al-Aziz yere a ɔyɛ",
+        "Yes"
+      ],
+      "answer": "Imran yere no"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Ntam a ɔhyɛe sɛ obehyira ne ba a ɔhyɛ yafunu mu no so ama asɔrefie",
+        "Boasetɔ ho sɔhwɛ a ɛnam yare a ɛkyɛ so",
+        "Akwantuo a ɛkɔ akyirikyiri asase bi so esiane gyidie nti",
+        "Akasakasa a wɔne ɔhene otirimɔdenfo bi di",
+        "Anwonwakwan so aduan a efi soro"
+      ],
+      "answer": "Ntam a ɔhyɛe sɛ obehyira ne ba a ɔhyɛ yafunu mu no so ama asɔrefie"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Abofra no din de Maryam",
+        "Poma a ɛdanee ɔwɔ",
+        "Sikakɔkɔɔ nantwi ba no",
+        "Zamzam abura no",
+        "Noa adaka no"
+      ],
+      "answer": "Abofra no din de Maryam"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Ne ba no, Allah gyee no toom na onyinii wɔ nkɔmhyɛ hwɛ ase",
+        "Ne ba no bɛyɛɛ odiyifo na onyaa kyerɛwsɛm bi",
+        "Wɔmaa ne ba no kɔɔ soro",
+        "Ne ba no sii ofie kronkron",
+        "Wɔmaa ne ba no nyansa ne ahonyade a ɛdɔɔso"
+      ],
+      "answer": "Ne ba no, Allah gyee no toom na onyinii wɔ nkɔmhyɛ hwɛ ase"
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

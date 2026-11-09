@@ -1,0 +1,61 @@
+{
+  "title": "Umwizera atwikiriwe mu Rugo rw'Umunyagitugu",
+  "intro": "Mu nzu z’inzahabu z’umutware w’ubwibone kuruta abandi bose bazwi na Korowani — aho ukurenga ku Bumana kwasobanura itegeko ryose — umutima umwe waragendagenda hagati y’abafise agateka, uhisha amabanga ateye akaga kuruta ayandi yose mu maso y’abantu. Uwo muntu yari afise ukwizera kwari kubujijwe cane muri izo nkike ku buryo iyo kuvumburwa kwobaye gutuma apfa ata gukeka. Yamara rero, ukwemera kwari kwaka nk’urubeya munsi y’ivu, maze igihe kigeze, ukuri kwaravuze n’ubutwari bwanyiganyije umushinge nyene w’ingoro y’uwo munyagitugu.",
+  "clues": [
+    "Nabaye hagati y’abantu bo mu mugwi w’imbere w’umutware w’ububasha kandi w’ubwibone kuruta abandi bose bo mu gihe canje, nkikujwe n’ubutunzi n’ububasha.",
+    "Nanyegeje ivyo nemera vy’ukuri mu mutima wanje, ntinya ubuzima bwanje kubera abatwara n’ububisha n’agahahazo.",
+    "Igihe abantu banje bakekeranya kandi bagahungabana imbere y’ukuri, narateye intambwe kugira ndababurire ivy’agahomerabunwa vyari vyashikiye amahanga ya kera yanse intumwa z’Umukama wabo.",
+    "Naributse abantu banje inkuru y’umusore akundwa w’inzozi yajugunywe hasi n’incuti ziwe bwite ariko akaduga agira ubukuru bukomeye mu gihugu ca kure.",
+    "Nahimirije abantu banje kutumvira umutware yabazimiye, ahubwo ndabatumira ngo bankurikire mu nzira y’ubugororotsi n’uburongozi.",
+    "Naravuga ukuri ku mugaragaro naho abayoboke b’uwo munyagitugu batera ubwoba ko bazonyicisha amabuye canke bazonyirukana mu gihugu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umwizera yihishije mu muryango wa Farawoni",
+        "Umuvyeyi Yihangana Yarize Impumyi Gushika Umwana Wiwe Agarutse",
+        "Umusavyi w’Umwizigirwa Amaherezo Indwara Yiwe y’Urukoba Yarakize",
+        "Umwana w’umunyavyaha yanse ubutumire bw’umuhanuzi bwo kwinjira mu bwato",
+        "Umunyagitugu w'umunyarugomo yivugira ko ari ubumana"
+      ],
+      "answer": "Umwizera yihishije mu muryango wa Farawoni"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Guhisha ukwizera mu rugo rw’umunyagitugu",
+        "Kubabazwa n’ubuhumyi kubera imyaka myinshi arira .",
+        "Kugeragezwa n’ugutakaza umuryango be n’imibabaro ikaze .",
+        "Kubaka ubwato bukomeye mu gihe bariko baratwengwa .",
+        "Kwihanganira ubushuhe bushasha bw’umuriro munini ."
+      ],
+      "answer": "Guhisha ukwizera mu rugo rw’umunyagitugu"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Ingoro ya Farawoni",
+        "Isonga ry'umusozi aho ubwato bubatswe .",
+        "Umubande mweranda uri munsi y’umusozi Sinayi .",
+        "Ubusitani bwiza cane bufise imigezi ibiri itemba .",
+        "Intebe y’ubwami y’ikiyo iri hejuru y’uruzi rwo munsi y’ubutaka ."
+      ],
+      "answer": "Ingoro ya Farawoni"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Uburinzi bw’Imana mu gihe abahahaza bariko barahura n’ugutikizwa kwabo .",
+        "Yasubiye kubonana n'umuryango wiwe inyuma y'imyaka mirongo batandukanye",
+        "Yarahawe ukwihangana, asubira kugira amagara meza, n’umuryango munini .",
+        "Yarakijijwe mu bwato mu gihe isi yose yariko irarohama .",
+        "Yarokowe ataco yakomeretse mu muriro n'itegeko rya Allah"
+      ],
+      "answer": "Uburinzi bw’Imana mu gihe abahahaza bariko barahura n’ugutikizwa kwabo ."
+    }
+  },
+  "verseRef": "40:38",
+  "arabic": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "verse": "And he who believed said, \"O my people, follow me; I will guide you to the way of right conduct. (40:38)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Rudzi Rwakapikisa Imba Tsvene",
+  "intro": "Munguva dzekare, rudzi rune simba rwakasarudza kurwisa nzvimbo tsvene yairemekedzwa nevatendi. Boka iri raive rakapfuma, rine simba, uye rine chivimbo musimba ravo rehondo. Vakauya nechisikwa chikuru chaizoshanda sechombo chavo chehondo. Chinangwa chavo chaive chakajeka: kuputsa imba tsvene nekupwanya kutenda kwevanhu vayo. Asi kuzvikudza kwavo kwaive kuda kusangana nemhinduro inoparadza kubva kumusoro. Chiitiko ichi chenhoroondo chakava chiratidzo nechidzidzo kune vese vakazotevera. Unogona here kuziva boka iri kubva pazviratidzo?",
+  "clues": [
+    "Taiva rudzi rwakakomborerwa nepfuma uye hunyanzvi hwehondo.",
+    "Takaunganidza mauto edu tikaunza chikara chikuru kuti tishandise muhondo yedu.",
+    "Chinangwa chedu chaive nzvimbo tsvene yataida kuparadza zvachose.",
+    "Taitenda kuti simba redu raizokwana kukunda dziviriro ipi zvayo yaMwari.",
+    "Asi Jehovha akatitumira chirango kubva kudenga chataisatarisira.",
+    "Takaparadzwa pakarepo, takapararira sehundi yakatyoka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Vanhu veNzou",
+        "Vanhu veThamud",
+        "Vanhu ve'Ad",
+        "Shamwari dzeBako",
+        "Rudzi rweMuporofita Hud"
+      ],
+      "answer": "Vanhu veNzou"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kufambisa nzou kuenda kuimba tsvene kunoiparadza",
+        "Kuvaka shongwe yekusvika kudenga",
+        "Kuvaka chifananidzo chegoridhe chekunamatira",
+        "Kuramba kuteerera mutumwa waAllah",
+        "Kuchera tsime kuti kukuvadze vatendi"
+      ],
+      "answer": "Kufambisa nzou kuenda kuimba tsvene kunoiparadza"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Nzou",
+        "Mhuru Yegoridhe",
+        "Tsvimbo yaMusa",
+        "Hove dzaYunus",
+        "Simbi yaDawud"
+      ],
+      "answer": "Nzou"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Vakaparadzwa nemapoka eshiri nematombo",
+        "Vakanyura mumafashamo makuru",
+        "Vakachinjwa kuita tsoko nenguruve",
+        "Vakavigwa pasi pematombo anodonha kubva mugomo",
+        "Vakapiswa nemoto wakabva kudenga"
+      ],
+      "answer": "Vakaparadzwa nemapoka eshiri nematombo"
+    }
+  },
+  "verseRef": "105:1-5",
+  "arabic": "",
+  "verse": "105:1-5"
+}

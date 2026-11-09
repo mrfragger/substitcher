@@ -1,0 +1,61 @@
+{
+  "title": "Idanwo Ẹda Mimọ",
+  "intro": "Wọ́n fi àmì kan ránṣẹ́ sí orílẹ̀-èdè kan tí ó ti ṣìnà. Ní àárín ìgbésí ayé wọn tí ó rọrùn, ìkìlọ̀ kan dé—pẹ̀lú ẹ̀dá àgbàyanu kan tí yóò di ìdánwò ìkẹyìn ìgbàgbọ́ wọn. Ìdáhùn wọn yóò fi ìdí àyànmọ́ wọn múlẹ̀ títí láé. Ǹjẹ́ o lè ṣàwárí ẹni tí ó ṣe ìkìlọ̀ yìí àti ohun tí ó ṣẹlẹ̀ sí àwọn tí ó kọ̀ ọ́?",
+  "clues": [
+    "A jẹ́ àwọn ènìyàn tí àwọn ìránṣẹ́ ìṣáájú ti tọ́ sọ́nà ṣáájú wa.",
+    "Ẹ̀dá àgbàyanu kan jáde láti orí òkè, àmì láti ọ̀dọ̀ Olúwa wa fún orílẹ̀-èdè yìí.",
+    "Mo sọ fún wọn pé: ‘Bàkẹ́ẹ̀mí Allāhu ni èyí, nítorí náà, ẹ jẹ́ kí ó jẹ láti inú ilẹ̀ Allāhu, kí ẹ má sì fi ọwọ́ kan án.’",
+    "Ṣùgbọ́n àwọn ènìyàn náà pa ràkúnmí mi ní ọgbẹ́, wọ́n sì tàpá sí àṣẹ Olúwa wọn.",
+    "Èmi nìkan ni ìránṣẹ́ láti ọ̀dọ̀ Olúwa yín, tí a rán pẹ̀lú òtítọ́—Èmi ni wòlíì àti ìránṣẹ́ tí a gbẹ́kẹ̀lé.",
+    "Ní ti àwọn aláìṣòótọ́, Olúwa wa fi ìró ààrá gbá wọn, wọ́n sì dúró jẹ́ẹ́ ní ilé wọn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Húdì ti àwọn ènìyàn A'd",
+        "Wòlíì Sálífì ti àwọn ènìyàn Támúdì",
+        "Wòlíì Ṣúáíbù ti Mídíánì",
+        "Wòlíì Lọ́ọ̀tì láti inú àwọn ènìyàn Sódómù",
+        "Wòlíì Nóà ti Ọkọ̀"
+      ],
+      "answer": "Wòlíì Sálífì ti àwọn ènìyàn Támúdì"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ìkún omi tó rì orílẹ̀-èdè aláìgbàgbọ́ kan sínú omi",
+        "Ìsẹ̀lẹ̀ ilẹ̀ tó pa ìlú ẹlẹ́ṣẹ̀ run",
+        "Rakunmi tí a rán gẹ́gẹ́ bí àmì àti ìdánwò àtọ̀runwá",
+        "Ìjì tó fìyà jẹ àwọn ará Mídíánì",
+        "Ìparun àwọn ènìyàn Lọ́ọ̀tì pẹ̀lú òkúta"
+      ],
+      "answer": "Rakunmi tí a rán gẹ́gẹ́ bí àmì àti ìdánwò àtọ̀runwá"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ìlú Sodomu ní Àfonífojì Jordani",
+        "Àfonífojì Al-Hijr láàrín Hijaz àti Siria",
+        "Ilẹ̀ àtijọ́ ti Aad ní gúúsù Arabia",
+        "Àwọn igbó Mídíánì nítòsí Òkun Pupa",
+        "Àwọn pẹ̀tẹ́lẹ̀ Òkè Judi ní Mesopotamia"
+      ],
+      "answer": "Àfonífojì Al-Hijr láàrín Hijaz àti Siria"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A gbà wọ́n là lẹ́yìn tí wọ́n ronú pìwàdà tí wọ́n sì gbàgbọ́",
+        "Òjò òkúta pa wọ́n run pátápátá",
+        "Ìró ààrá kan gbá wọn láìsí ìṣísẹ̀",
+        "Afẹ́fẹ́ líle gbá wọn lọ",
+        "Ilẹ̀ ìsẹ̀lẹ̀ kan gbé wọn mì sínú ilẹ̀"
+      ],
+      "answer": "Ìró ààrá kan gbá wọn láìsí ìṣísẹ̀"
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

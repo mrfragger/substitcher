@@ -1,0 +1,61 @@
+{
+  "title": "Ìtẹ́ Tí Ó Rìn Lójúkan náà",
+  "intro": "Ẹni tí ó ní àṣẹ ńlá kan ṣàkóso ìjọba ọlọ́rọ̀ tí a fi ọrọ̀ púpọ̀ bùkún. Nígbà tí ìpèníjà àìròtẹ́lẹ̀ kan dìde, olórí yìí dojúkọ ìdánwò kìí ṣe ti idà bíkòṣe ti ọgbọ́n àti ìgbàgbọ́. Ohun tí ó ṣẹlẹ̀ yóò yọrí sí ìyípadà ọkàn ńlá láti orí agbára ayé.",
+  "clues": [
+    "Mo jọba lórí ìjọba kan tí a fi ọrọ̀ àti aásìkí bùkún ju bí a ṣe rò lọ",
+    "Mo jẹ́ ọba alágbára kan tí ó gba lẹ́tà tó lágbára tí ó ń béèrè pé kí wọ́n fi àṣẹ lé mi lọ́wọ́",
+    "Àwọn ọlọ́lá mi gbà mí nímọ̀ràn nípa bóyá kí n bá ọba jíjìnnà yìí jà tàbí kí n wá àlàáfíà.",
+    "Mo gbéra pẹ̀lú àwọn ẹ̀bùn ńlá láti pàdé ọba jíjìnnà yìí fúnra mi",
+    "Wọ́n gbé ìtẹ́ ọba mi lọ sí ilẹ̀ jíjìnnà kan ní ìṣẹ́jú kan, kí n tó lè padà dé.",
+    "Nígbà tí mo wọ ààfin kan pẹ̀lú ilẹ̀ tí ó mọ́lẹ̀ bí dígí, nígbẹ̀yìn-gbẹ́yín mo kéde ìfọkànsìn mi sí Allah"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Bilqis, Ayaba Ṣeba",
+        "Ìyàwó Fáráò",
+        "Ìyàwó Al-Aziz",
+        "MÁRÁMÁÌMÀ, ọmọ Imrámìnà",
+        "Iyawo Anabi Lutu"
+      ],
+      "answer": "Bilqis, Ayaba Ṣeba"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Gbigba lẹta igboya ti o n beere fun ifisilẹ",
+        "Jíjẹ́ tí a jù sínú iná tí ń jó",
+        "Jíjẹ́ tí ẹja ńlá gbé mì",
+        "Láti fara da àìsàn tó ń roni lára ​​fún ọ̀pọ̀ ọdún",
+        "Ní rírí ìparun àwọn ènìyàn kan nípasẹ̀ ìkún omi"
+      ],
+      "answer": "Gbigba lẹta igboya ti o n beere fun ifisilẹ"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ìtẹ́ ọba ológo tí a fi wúrà àti òkúta iyebíye ṣe",
+        "Ọ̀pá kan tí ó pín òkun sí méjì",
+        "Ọkọ̀ ayọ́kẹ́lẹ́ kan tí ó dúró lórí òkè ńlá kan",
+        "Ilé ìjọsìn mímọ́ kan ní Makkah",
+        "Ọmọ màlúù wúrà tí àwọn ènìyàn kan ń jọ́sìn"
+      ],
+      "answer": "Ìtẹ́ ọba ológo tí a fi wúrà àti òkúta iyebíye ṣe"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ìfọkànsìn sí Allah pẹ̀lú wòlíì kan",
+        "Rírì sínú òkun nígbà tí mo ń lé ọ̀tá kan",
+        "Ìgbàlà láti ọ̀dọ̀ iná tí ń jó lọ́nà ìyanu",
+        "Ìjáde kúrò nínú ọgbà ayọ̀ ayérayé",
+        "Gbigba ijọba ti agbara nla kan"
+      ],
+      "answer": "Ìfọkànsìn sí Allah pẹ̀lú wòlíì kan"
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

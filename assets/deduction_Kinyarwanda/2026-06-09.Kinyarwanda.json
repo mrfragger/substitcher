@@ -1,0 +1,61 @@
+{
+  "title": "Umuhamagaro Udacogora ku Kuri",
+  "intro": "Intumwa ihagarara yonyine mu bwoko bw’abagome, ibahamagara ku Mana Imwe y’Ukuri mu gihe bakomeje kwihambira ku bigirwamana by’ibinyoma. Uyu muhanuzi afite izina risubiramo ibisobanuro bikomeye—'ushaka uburinzi'—ariko ahabwa kwangwa no guhakana gusa. Binyuze mu kwemezwa no kuburirwa mu buryo bworoheje, uyu bugingo butwara ubutumwa bw’Imana isi ubwayo izatsinda burundu. Ese ushobora kumenya uyu muntu uhamye uhagarariye imwe mu nkuru za kera cyane mu byanditswe bya Islam?",
+  "clues": [
+    "Ubwoko bwanjye bwasengaga imana nyinshi, mu gihe nanjye nabuhamagariraga gukorera Uwaremye ijuru n'isi.",
+    "Nahagaze imbere y'ubwoko bwanjye maze ntangaza ko nta ngororano nzasaba kuri bo—icyifuzo cyanjye cyonyine cyari ukubayobora mu gukiranuka.",
+    "Umuyaga ukomeye woherejwe ku bantu banjye nk'igihano cy'Imana, umuyaga Korowani ivugaho mu bwinshi no mu buryo bw'abagore.",
+    "Bitandukanye n'abahanuzi bamwe na bamwe, ntabwo nahawe umugore cyangwa abana bavugwa cyane mu nkuru yanjye, kuko intego yanjye yari uguhamagara abantu banjye bonyine.",
+    "Izina ryanjye rifite ibisobanuro byimbitse—bifitanye isano n'igitekerezo cyo kurindwa no guhungirwa umuntu ashaka.",
+    "Abaturage banjye bari bazwiho ijambo ryihariye ry’ikibaya bari batuyemo, kandi ubutaka bwabo bwavugwaga nabi cyane kubera ko nta bimera byari bifite."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Umuhanuzi Hud",
+        "Intumwa Salih",
+        "Intumwa Shu'aib",
+        "Umuhanuzi Nuh",
+        "Intumwa Hudayb"
+      ],
+      "answer": "Umuhanuzi Hud"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Umwuzure w'isi",
+        "Umuyaga ushyushye cyane",
+        "Umutingito w'isinzika",
+        "Amapfa n'inzara",
+        "Kurohama mu nyanja"
+      ],
+      "answer": "Umuyaga ushyushye cyane"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Ikibaya cy'urubura cya Yemeni",
+        "Ubutayu bw'umucanga bwa Midiyani",
+        "Ikibaya cy'amabuye cya Thamud",
+        "Igihugu cya kera cy'abantu ba 'Ad",
+        "Akarere ko ku nkombe z'inyanja ka Misiri"
+      ],
+      "answer": "Igihugu cya kera cy'abantu ba 'Ad"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Abantu banjye bihannye binjira muri paradizo",
+        "Nta n'umwe mu bantu banjye warokotse igihano",
+        "Najyanywe mu ijuru ndi muzima nka murumuna wanjye Yunus",
+        "Nimukiye hamwe n'abayoboke banjye mu gihugu cy'umugisha",
+        "Umuyaga washenye abatizera gusa mu gihe abizera barokotse"
+      ],
+      "answer": "Nta n'umwe mu bantu banjye warokotse igihano"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

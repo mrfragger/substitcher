@@ -1,0 +1,61 @@
+{
+  "title": "Chokwadi Chakanyaradza Dare",
+  "intro": "Mumuzinda maigara kuramba uye simba rakazara, boka revanhu vane hunyanzvi rakamira pamberi pedambudziko risingatarisirwi. Mhepo yakarira nekutarisira sezvo nzira mbiri dzenhema nechokwadi dzakanga dzava kuda kuroverana. Vaya vakanga vakaungana vakanga vasingazivi kuti kusangana uku kwaizoshandura hupenyu hwavo nekusingaperi uye kwaizonyora nyaya yavo mumagwaro matsvene.",
+  "clues": [
+    "Taizivikanwa nehunyanzvi hwedu mukufungidzira uye takaunganidzwa nemutongi ane simba kuti tirwisane nemupikisi.",
+    "Nguva yacho payakasvika, takakanda zviridzwa zvedu ndokumirira mhedzisiro yacho, tichivimba nebasa redu.",
+    "Asi zvatakaona zvakaita kuti zvinhu zvedu zviite sematoyi chete, uye mwoyo yedu yakaona chokwadi chisingarambiki.",
+    "Takawira pasi tichipfugama, tichizivisa kutenda kwedu muna Ishe waMosesi naAroni, pasinei nehasha dzemutongi.",
+    "Mutongi iyeye akatityisidzira nechirango chakaipisisa, achivimbisa kuti aizotiroverera pamuchinjikwa uye kuticheka nhengo dzedu kumativi akasiyana.",
+    "Takaramba takasimba, tichiti tinoda kutongwa naShe wedu pane chero mhedzisiro yenyika, uye takafira kutenda kwedu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Varoyi vaFarao",
+        "Vanhu veBako",
+        "Shamwari dzeMasango",
+        "Vadzidzi vaIsa",
+        "Vanhu veNzou"
+      ],
+      "answer": "Varoyi vaFarao"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Makwikwi emashiripiti achipikisa Musa",
+        "Moto wakakandwa pamusoro pavo",
+        "Mafashamo akavanyudza",
+        "Kusanaya kwemvura nenzara",
+        "Kudengenyeka kwenyika"
+      ],
+      "answer": "Makwikwi emashiripiti achipikisa Musa"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Midonzvo netambo zvakashanduka kuita nyoka",
+        "Gwenzi rinopfuta",
+        "Ngamera hadzi",
+        "Areka yematanda",
+        "Hove huru"
+      ],
+      "answer": "Midonzvo netambo zvakashanduka kuita nyoka"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akaurayiwa nekuda kwekutenda, Paradhiso yakapikirwa",
+        "Kunyura mugungwa",
+        "Vakava vatongi veIjipita",
+        "Vateveri vaFarao vakasara",
+        "Akagara nhaka yenyika"
+      ],
+      "answer": "Akaurayiwa nekuda kwekutenda, Paradhiso yakapikirwa"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

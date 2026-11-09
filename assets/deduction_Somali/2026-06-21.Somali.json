@@ -1,0 +1,61 @@
+{
+  "title": "Codkii Buuraha Ku Biiray",
+  "intro": "Naf xaq ah ayaa la siiyay hadiyado aan caadi ahayn oo ka yimid samada, iyadoo noqotay taliye iyo dagaalyahan dabeecaddiisu u muuqatay inay la xiriirto abuurka laftiisa. Sheekadoodu waxay ku dhex jirtaa waxsii sheegid, boqornimo, iyo farsamo, iyadoo ka tagaysa dhaxal ka soo baxaya bogagga muujinta rabbaaniga ah.",
+  "clues": [
+    "Waxaa la ii doortay addoon Alle waxaana la i siiyay boqortooyo xooggan oo ka dhex jirta dad la doortay.",
+    "Buuro iyo shimbiro ayaa ila qaylin lahaa ammaanta Ilaaha ugu sarreeya.",
+    "Birtu waxay gacmahayga ku noqotay mid jilicsan sida dhoobada oo kale, haddii Alle kaliya i weydiiyo.",
+    "Waxaan sameeyay hub difaac ah oo ilaaliya dagaalyahannada xilliga dagaalka.",
+    "Mar waxaan ka gudbay imtixaan adag markii laba qof oo muran ka dhashay ay si lama filaan ah u soo galeen meesha aan ku cibaadeysanayay.",
+    "Waxaa laygu sheegay taliye amray dabaysha iyo jinniga - maxaa yeelay taliyahaasi wuxuu ahaa farcankayga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Daa'uud",
+        "Nabi Muuse",
+        "Nabi Sulaymaan",
+        "Nabi Ibraahim",
+        "Nabi Yacquub"
+      ],
+      "answer": "Nabi Daa'uud"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Laba qof oo muran ka dhashay ayaa soo galay goobtayda cibaadada",
+        "Waxaan wajahay daad weyn oo burburiyay dadkayga",
+        "Waxaa liqay kalluun weyn",
+        "Waxaa dadkaygu ku tuuray dab ololaya",
+        "Waxaa la tijaabiyay iyadoo la waayay dhammaan qoyska iyo hantida"
+      ],
+      "answer": "Laba qof oo muran ka dhashay ayaa soo galay goobtayda cibaadada"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Bir gacmahayga lagu sameeyay oo la hagaajin karo",
+        "Kalluun weyn oo qoto dheer ah",
+        "Ul abeeso noqotay",
+        "Beer cajiib ah oo leh laba nooc oo wax soo saar ah",
+        "Buur barakeysan oo la yiraahdo Tur"
+      ],
+      "answer": "Bir gacmahayga lagu sameeyay oo la hagaajin karo"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Wuxuu helay Sabuur (Zabuur) oo wuxuu noqday taliye caadil ah",
+        "Laga soo badbaadiyay caloosha kalluun, dadkuna way rumaysteen",
+        "Dadkayga ka samatabbixiyey gacanta kaligii-taliye",
+        "Waxaa la siiyay xukunka dabaysha iyo jinka",
+        "Caafimaadkii ayaa dib loogu soo celiyey oo la siiyay nimcooyin badan"
+      ],
+      "answer": "Wuxuu helay Sabuur (Zabuur) oo wuxuu noqday taliye caadil ah"
+    }
+  },
+  "verseRef": "34:11",
+  "arabic": "أَنِ ٱعْمَلْ سَـٰبِغَـٰتٍۢ وَقَدِّرْ فِى ٱلسَّرْدِ ۖ وَٱعْمَلُوا۟ صَـٰلِحًا ۖ إِنِّى بِمَا تَعْمَلُونَ بَصِيرٌۭ",
+  "verse": "[Commanding him], \"Make full coats of mail and calculate [precisely] the links, and work [all of you] righteousness. Indeed I, of what you do, am Seeing.\" (34:11)"
+}

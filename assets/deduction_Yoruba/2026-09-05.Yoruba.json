@@ -1,0 +1,61 @@
+{
+  "title": "Ọlá Ńlá Tí Ó Rìn",
+  "intro": "Fojú inú wo èyí: ọkàn kan tí a fi aṣọ dídára bo tí àwọn ohun ìní tí ó ju ìrònú lọ yí i ká. Ẹni yìí gbàgbọ́ pé ọgbọ́n ara rẹ̀ ló mú kí ọrọ̀ wọn wá, kò sì gbà pé òun ni orísun ìpèsè tòótọ́. Bí ó ti ń rìn láàárín àwọn ọmọlẹ́yìn wòlíì alágbára kan, ẹni yìí kò gbà gbogbo ìpè sí ìrẹ̀lẹ̀. Lónìí, a ń ṣàwárí ẹni tí ó jẹ́ ẹni tí ọrọ̀ rẹ̀ jẹ́ ibi ìsinmi ìkẹyìn wọn.",
+  "clues": [
+    "Mo gbé ayé ní àkókò wòlíì kan tó ń pe orílẹ̀-èdè alágídí sí òtítọ́.",
+    "Mo jẹ́ ara àwùjọ tí a yàn, síbẹ̀ ọkàn mi yípadà kúrò nínú ìhìn-iṣẹ́ náà.",
+    "Wúrà àti fàdákà gbà mí lọ́kàn ju àṣẹ àtọ̀runwá èyíkéyìí lọ.",
+    "Àwọn ibi ìkópamọ́ ìṣúra mi pọ̀ sí i débi pé àwùjọ àwọn ọkùnrin alágbára kò lè gbé àwọn kọ́kọ́rọ́ náà sókè.",
+    "Mo n ṣogo pe imo ti ara mi ni a fi fun mi ni oro mi.",
+    "Níkẹyìn, ilẹ̀ gbé èmi àti gbogbo ilé mi mì gẹ́gẹ́ bí ìkìlọ̀."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Kárún",
+        "Hámánì",
+        "Samiri",
+        "Bilqis",
+        "Talut (Saulu)"
+      ],
+      "answer": "Kárún"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ìgbéraga lórí ọrọ̀ àti kíkọ̀ láti ṣe àánú",
+        "Ṣíṣe ère wúrà láti inú ohun ọ̀ṣọ́ tí ó ti yọ́",
+        "Pípolongo ìwà-bí-Ọlọ́run lórí ìjọba alágbára kan",
+        "Inúnibíni sí àwọn onígbàgbọ́ ìṣáájú ní Makkah",
+        "Aṣáájú ìpolongo láti pa Ilé Mímọ́ run"
+      ],
+      "answer": "Ìgbéraga lórí ọrọ̀ àti kíkọ̀ láti ṣe àánú"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Àwọn ìṣúra tí kọ́kọ́rọ́ wọn di ẹrù fún ọ̀pọ̀ àwọn alágbára",
+        "Ọmọ màlúù wúrà tó ń dún ìró",
+        "Ìtẹ́ ológo láti ilẹ̀ jíjìnnà",
+        "Ààfin tí iná ń jó kún",
+        "Ẹgbẹ́ ọmọ ogun alágbára ti àwọn erin ogun"
+      ],
+      "answer": "Àwọn ìṣúra tí kọ́kọ́rọ́ wọn di ẹrù fún ọ̀pọ̀ àwọn alágbára"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ilẹ̀ gbé mì pẹ̀lú ilé gbígbé",
+        "Mo rì sínú òkun pẹ̀lú ẹgbẹ́ ọmọ ogun kan",
+        "Wọ́n jó o láàyè nínú ihò iná",
+        "Afẹ́fẹ́ líle kan pa á run",
+        "Afẹ́fẹ́ ńlá kan gbá a lulẹ̀"
+      ],
+      "answer": "Ilẹ̀ gbé mì pẹ̀lú ilé gbígbé"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

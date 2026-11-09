@@ -1,0 +1,61 @@
+{
+  "title": "Ègún Ìkórè Ọ̀pọ̀lọpọ̀",
+  "intro": "Ní ilẹ̀ àtijọ́ kan, ẹ̀mí kan wà láàrín àwọn ọlọ́rọ̀ jùlọ nínú àwùjọ wọn. Ìbùkún ilẹ̀ ayé ti dé ọ̀dọ̀ wọn ní ìgbà méjì ní ọdún tí ó tẹ̀lé ara wọn, ìkórè méjì tí ó yẹ kí ó kún ọkàn wọn pẹ̀lú ọpẹ́. Síbẹ̀ nígbà tí ìṣẹ̀lẹ̀ ìbànújẹ́ dé, tí gbogbo ohun tí wọ́n ní sì gba ní alẹ́ kan ṣoṣo, ìdáhùn wọn fi ìwà gidi ọkàn wọn hàn. Ṣé o lè ṣàwárí ẹni tí ìtàn rẹ̀ jẹ́ ìkìlọ̀ lòdì sí àìnígbàgbọ́ nínú ìbùkún Ọlọ́run?",
+  "clues": [
+    "Mo wà lára ​​àwọn ọkàn tó ní oríire jùlọ ní gbogbo ilẹ̀ náà, mo sì ní ọ̀pọ̀lọpọ̀ oúnjẹ.",
+    "Ìlọ́po méjì ìkórè ló dé bá mi ní ọdún méjì, síbẹ̀ ọkàn mi kò fi àìmoore hàn sí Olúwa mi.",
+    "Mo ní ọgbà ńlá kan pẹ̀lú àjàrà, ólífì, àti igi ọ̀pẹ—ẹ̀rí sí ojúrere Ọlọ́run.",
+    "Nígbà tí wọ́n pa ọgbà mi run, mo dúró níbi àwókù rẹ̀ pẹ̀lú ọwọ́ tí mo na sí ọ̀run, mo sì ń fi àyànmọ́ mi bú.",
+    "Mo sẹ́ pé Allah lè fa irú àdánù bẹ́ẹ̀, bí mo tilẹ̀ fọ́ àtẹ́lẹwọ́ mi pẹ̀lú ìbànújẹ́.",
+    "Ìyà mi kìí ṣe pípadánù ọgbà mi nìkan, ṣùgbọ́n jíjẹ́ tí a fi sílẹ̀ láìní ìrànlọ́wọ́ rárá nínú àwókù rẹ̀, tí a kò sì lè pe olùrànlọ́wọ́ kankan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Ẹni tó ni ọgbà náà nínú Surah 26",
+        "Ẹni tó ni ọgbà méjì láti ilẹ̀ jíjìnnà",
+        "Ọkàn ọlọ́rọ̀ láti ìlú aásìkí",
+        "Agbe ti a mẹnuba ninu Surah Al-Kahf",
+        "Olùtọ́jú ọgbà àjàrà láti ìgbà Wòlíì Ṣúáíbù"
+      ],
+      "answer": "Ẹni tó ni ọgbà náà nínú Surah 26"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Pípàdánù ọgbà kan tí ó bàjẹ́ ní alẹ́ kan ṣoṣo",
+        "Ìkún omi ńlá tó bo ilẹ̀ ayé",
+        "A n fi awọn wolii otitọ ati eke danwo wa",
+        "Ìdánwò jíjí sínú iná",
+        "Ìdánwò ti jíjẹ́ kí ilẹ̀ gbé mì"
+      ],
+      "answer": "Pípàdánù ọgbà kan tí ó bàjẹ́ ní alẹ́ kan ṣoṣo"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ọgbà kan tí wọ́n ti pa àwọn igi àjàrà, ólífì, àti igi ọ̀pẹ run fún ọdún méjì",
+        "Ọkọ̀ ojú omi tí a kọ́ sórí òkè gíga kan",
+        "Ìlú orílẹ̀-èdè aláìgbọràn",
+        "Kànga kan ní Mídíánì ìgbàanì",
+        "Odò párádísè"
+      ],
+      "answer": "Ọgbà kan tí wọ́n ti pa àwọn igi àjàrà, ólífì, àti igi ọ̀pẹ run fún ọdún méjì"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Àìní ìrànlọ́wọ́ pátápátá—a parun láìsí olùrànlọ́wọ́",
+        "Àjíǹde láti wọ inú párádísè",
+        "Dídi wòlíì Allah",
+        "Ìṣàkóso orílẹ̀-èdè ńlá kan",
+        "Ìyà ayérayé nínú iná"
+      ],
+      "answer": "Àìní ìrànlọ́wọ́ pátápátá—a parun láìsí olùrànlọ́wọ́"
+    }
+  },
+  "verseRef": "26:42-44",
+  "verse": "He said, \"Yes, and indeed, you will then be of those near [to me].\" (26:42-44)",
+  "arabic": ""
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Uguhamagara Kwahindutse Imyaka",
+  "intro": "Tekereza umutima wahagaze wenyene urwanya ubutekerezi bwose, wiyemeje kubayobora ngo bave mu nzira mbi bafise umwiyemezo udatezuka. Mu binjana n’ibindi, ubwo butumwa bwaranse, buratwengwa, burakurwaho—yamara rero, utwo twigoro ntitwahagarara. Amaherezo, haraje igiharuro gikomeye, bakeyi gusa ni bo baje mu gakiza iruhande y’uwo mutima ushikamye. Woba ushobora kumenya uwo mubare muri Korowani?",
+  "clues": [
+    "Narungitswe nk’umugabisha ku bantu bazimiye mu nzira zabo bwite.",
+    "Narabatumiye ngo barondere imbabazi, bahindukire bave mu bicumuro vyabo, ariko barahindukira.",
+    "Nategetswe n’Imana, nubatse ubwato bunini cane mu gihe abantu banje bariko barandaba kandi bantwenga.",
+    "Narahamagara Umukama wanje ubudasiba—amaherezo aranyishura, amazi arasuka ava mw’ijuru mu migende.",
+    "Narinjiye mu bwato ndi kumwe n’abemera igihe amazi y’umwuzure yaduga hejuru y’igihugu.",
+    "Naciye ntakambira umwe yari yasigaye inyuma, ndabasaba ko bohungira ku musozi, ariko itegeko ryari ryaramaze gusohoka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umuhanuzi Nuh",
+        "Umuhanuzi Ibrahimu",
+        "Umuhanuzi Musa",
+        "Umuhanuzi Hudi",
+        "Umuhanuzi Salih"
+      ],
+      "answer": "Umuhanuzi Nuh"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Kubaka ubwato bunini no kurokoka umwuzure wabaye kw’isi yose",
+        "Kujugunywa mu muriro ururumba",
+        "Guhangana n’umunyagitugu n’abapfumu biwe b’inkomezi .",
+        "Kumirwa n'ifi nini .",
+        "Kubona ingamiya y’ingore nyeranda yicwa"
+      ],
+      "answer": "Kubaka ubwato bunini no kurokoka umwuzure wabaye kw’isi yose"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Ubwato bunini bw’ibiti bwari ku mazi y’umwuzure",
+        "Ikiyaya ceranda gifise ibisigarira vya kera vy'amabuye .",
+        "Umwobo muremure aho abagenzi baryamye ibinjana n'ibindi .",
+        "Inda y'ikiyaga kinini kiri mu kiyaga",
+        "Umusozi muremure w’amabuye wo mu bugaragwa ."
+      ],
+      "answer": "Ubwato bunini bw’ibiti bwari ku mazi y’umwuzure"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Yakijijwe hamwe n'abizera bari mu bwato .",
+        "Yarokowe mu muriro ataco akomerewe biciye ku itegeko ry'Imana",
+        "Yarongoye ukwimuka gukomeye kuva mu bwami bukomeye .",
+        "Ijugunye mu fi ku nkombe y'ikiyaga",
+        "Yayoboye abantu kure y’ibibi biciye ku kimenyetso c’igitangaza ."
+      ],
+      "answer": "Yakijijwe hamwe n'abizera bari mu bwato ."
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

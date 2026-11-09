@@ -1,0 +1,61 @@
+{
+  "title": "Ẹbọ tí ó yí àyànmọ́ padà",
+  "intro": "Ní àwọn ọjọ́ ìṣáájú ayé ẹ̀dá ènìyàn, ọkàn kan fúnni ní ẹ̀bùn pẹ̀lú èrò mímọ́. Síbẹ̀, owú fara pamọ́ sínú òjìji ìtẹ́wọ́gbà. Ṣàwárí ìtàn ẹni yìí tí ìfọkànsìn àti òpin ìbànújẹ́ rẹ̀ jẹ́ àìkú nínú ìfihàn Ọlọ́run.",
+  "clues": [
+    "Mo wà lára ​​àwọn ìran àkọ́kọ́ aráyé.",
+    "Mo fi ẹbọ kan fún Olúwa mi, mo sì fi ojúrere gbà á.",
+    "Wọ́n kọ̀ ẹbọ arákùnrin mi, owú sì mú kí ọkàn rẹ̀ ṣókùnkùn.",
+    "Mo sọ fún un pé, ‘Tí o bá na ọwọ́ rẹ sí mi láti pa mí, èmi kò ní na ọwọ́ mi láti pa ọ́; dájúdájú mo bẹ̀rù Allāhu, Olúwa gbogbo ayé.’",
+    "Mo di ẹni tí wọ́n kọ́kọ́ pa ní ayé.",
+    "Ẹ̀jẹ̀ mi kígbe, èmi sì ni ajẹ́rìíkú àkọ́kọ́ tí ó jẹ́ aláìlẹ́ṣẹ̀."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Hábẹ́lì (Ábẹ́lì)",
+        "Qabil (Kaini)",
+        "Ọkùnrin láti Ya-Sin",
+        "Àwọn Samiri",
+        "Luqman"
+      ],
+      "answer": "Hábẹ́lì (Ábẹ́lì)"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Wọ́n gba ẹbọ rẹ̀, èyí sì mú kí arákùnrin rẹ̀ jowú, kí ó sì pa á.",
+        "Wọ́n jù ú sínú iná ìléru ṣùgbọ́n ó farahàn láìfarapa",
+        "Ó kan ọkọ̀ ojú omi ńlá kan lábẹ́ ìtọ́sọ́nà Ọlọ́run",
+        "Ẹja ńlá kan gbé e mì, ó sì dúró nínú òkùnkùn.",
+        "Ó darí àwọn ènìyàn rẹ̀ la òkun tí ó pínyà kọjá"
+      ],
+      "answer": "Wọ́n gba ẹbọ rẹ̀, èyí sì mú kí arákùnrin rẹ̀ jowú, kí ó sì pa á."
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ẹbọ tí a gba",
+        "Ọ̀pá kan tó di ejò",
+        "Abo ràkúnmí gẹ́gẹ́ bí àmì àtọ̀runwá",
+        "Ajá hoop kan tó ń mú ìròyìn wá",
+        "Ọmọ màlúù wúrà tí wọ́n ń jọ́sìn"
+      ],
+      "answer": "Ẹbọ tí a gba"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ìpànìyàn àkọ́kọ́ nínú ìtàn; wọ́n dá arákùnrin rẹ̀ lẹ́bi",
+        "Ilẹ̀ gbé e mì pẹ̀lú ọrọ̀ rẹ̀",
+        "A yípadà sí ọbọ nítorí ìrúfin",
+        "Afẹ́fẹ́ líle kan tí ó ń yìnyín pa á run",
+        "A rì mí sínú ìkún omi ńlá gẹ́gẹ́ bí ìyà"
+      ],
+      "answer": "Ìpànìyàn àkọ́kọ́ nínú ìtàn; wọ́n dá arákùnrin rẹ̀ lẹ́bi"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

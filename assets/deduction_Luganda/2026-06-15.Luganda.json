@@ -1,0 +1,61 @@
+{
+  "title": "Obufuzi bw’Empewo n’Ennimi z’omuliro",
+  "intro": "Kuba akafaananyi ku bufuzi empewo yennyini mwe yaddamu omufuzi omu, amaloboozi g’ebitonde ebisinga obutono gye gaali gasitula obuzito, era ng’amaanyi agatalabika maaso ga bulijjo gakuumibwa mu buweereza obw’obwegendereza. Ekifaananyi kino yasikira obwakabaka obw’ekitalo okuva ku muntu eyamusooka omwagalwa, ng’alina obuyinza ku bintu ebitonde n’amajinni. Naye obuyinza obunene bwajja n’okugezesebwa okunene — era akaseera akasembayo kandibadde kalaga ekintu ekyewuunyisa ku butonde bw’obulamu n’okufa kwennyini.",
+  "clues": [
+    "Nasikira obwakabaka obunene okuva ku muzadde omwagalwa nga naye yali nabbi era omuweereza wa Allah.",
+    "Allah yampa obuyinza ku mpewo, ng’agisindika ku mirimu gy’olugendo lw’omwezi gumu ku makya gamu.",
+    "N’ebitonde ebitonotono byandiyogedde ku nkola yange, era nnayimiriranga katono ne nneewuunya okutegeera kwabyo.",
+    "Nnaduumira eggye eddene ennyo erya majinni, abantu, n’ebinyonyi, nga byonna bitegekeddwa mu nnyiriri ezitegekeddwa mu maaso gange.",
+    "Omufuzi ow’ewala yajja okungezesa n’okusoomoozebwa okuzibu, era nnaleeta entebe y’omufuzi oyo n’ereetebwa mu lubiri lwange ng’omugenyi tannasituka wadde okuva mu ntebe.",
+    "Nasigala nga nnyimiridde, nga nneesigamye ku muggo, okutuusa akatonde akatono ak’ensi lwe kaakaluma — era awo wokka abaali banneetoolodde ne bategeera nti nnali mpise."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Nabbi Sulayman (Sulemaani) .",
+        "Nabbi Dawud (Dawudi) .",
+        "Nabbi Isa (Yesu) .",
+        "Nabbi Muhammad صلى الله عليه وسلم",
+        "Nabbi Musa (Musa) ."
+      ],
+      "answer": "Nabbi Sulayman (Sulemaani) ."
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okuleeta entebe ya nnaabagereka ow’ewala mu ngeri ezisukkulumye ku butonde",
+        "Okukka mu luzzi oluwanvu ng’omwana omuto",
+        "Okutunuulira abalogo b’omutyobooli n’obubonero obw’ekyamagero",
+        "Okwogera ng'asinziira ku kitanda okulwanirira ekitiibwa kya maama",
+        "Okufuna ekyawandiikibwa ekisembayo ekibikkuliddwa ku lusozi olutukuvu"
+      ],
+      "answer": "Okuleeta entebe ya nnaabagereka ow’ewala mu ngeri ezisukkulumye ku butonde"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Omuggo gw’embaawo gwaluma omusujja gw’ensiri",
+        "Eryato eddene eryazimbibwa okusobola okuvuga amataba agaava mu nsi yonna",
+        "Omuggo ogwakyuka ne gufuuka omusota mu maaso g’omutyobooli",
+        "Ekitundu ky’olugoye ekikozesebwa okuwonya abazibe b’amaaso",
+        "Empuku entukuvu mwe yasooka okufunibwa okubikkulirwa"
+      ],
+      "answer": "Omuggo gw’embaawo gwaluma omusujja gw’ensiri"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Omufuzi ow’ekitiibwa eyali akyaliddeko abantu yakkiriza okukkiriza oluvannyuma lw’okulaba obubonero",
+        "Amataba amanene gaasaanyaawo bonna okuggyako abeesigwa abaali ku lyato",
+        "Falaawo n’eggye lye baafiira mu nnyanja",
+        "Omubeezi omutuukirivu yasitulwa n’atwalibwa mu ggulu",
+        "Kabaka omutyobooli n’ekibuga kye baamenyebwa ne bazikirizibwa"
+      ],
+      "answer": "Omufuzi ow’ekitiibwa eyali akyaliddeko abantu yakkiriza okukkiriza oluvannyuma lw’okulaba obubonero"
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

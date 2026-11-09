@@ -1,0 +1,61 @@
+{
+  "title": "Mbeu Yemakakatanwa",
+  "intro": "Nyika isati yaziva kusawirirana kwakapararira, muedzo mukuru wekutenda nekuteerera wakabuda. Nyaya iyi inoongorora sarudzo dzakaitwa nemunhu, ane zviito zvakaisa muenzaniso kuzvizvarwa zvinotevera. Gadzirira kutsanangura nyaya yemweya uri kurwisana negodo guru nemigumisiro yaro inoparadza.",
+  "clues": [
+    "Ndaiva pakati pevana vekutanga kufamba panyika, mwana wevanhu vaviri vekutanga.",
+    "Ini nemukoma wangu takarayirwa kupa chibayiro kuna Allah, muedzo wekuvimbika kwedu.",
+    "Chipo changu hachina kugamuchirwa, nepo chemukoma wangu chakagamuchirwa, izvo zvakazadza moyo wangu nemanzwiro anotyisa.",
+    "Ndakataura mashoko ekutyisidzira mukoma wangu, ndichikurudzirwa nekurwadziwa kwekurambwa.",
+    "Mukoma wangu akapindura neuchenjeri neruremekedzo, achindiyeuchidza nezveruramisiro yaAllah nekutya kwake.",
+    "Pasinei nemashoko emukoma wangu ane unyoro uye kuda kwake kukanganwira, ndakazviuraya, ndikava mumwe wevanhu vakarasikirwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Adhamu",
+        "Iblis",
+        "Muprofita Nuh",
+        "Qabil (Kaini)",
+        "Fir'awn"
+      ],
+      "answer": "Qabil (Kaini)"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Mafashamo makuru",
+        "Kupatsanurwa kwegungwa",
+        "Kuvakwa kweKaaba",
+        "Kubayira zvibayiro",
+        "Muedzo Mubindu"
+      ],
+      "answer": "Kubayira zvibayiro"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Areka",
+        "Vashandi",
+        "Gomo reSafa",
+        "Chibayiro",
+        "Gwenzi Rinopfuta"
+      ],
+      "answer": "Chibayiro"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akava mutumwa",
+        "Akanyura",
+        "Vakavaka umambo hukuru",
+        "Akava muenzaniso wekuzvidemba",
+        "Akapihwa pfuma huru"
+      ],
+      "answer": "Akava muenzaniso wekuzvidemba"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

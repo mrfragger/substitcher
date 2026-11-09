@@ -1,0 +1,61 @@
+{
+  "title": "Intebe y'Ukuri",
+  "intro": "Umutegetsi ukomeye, uzwiho ubwenge bwe bukomeye n'intebe ye y'ubwami ihebuje, yakira ubutumwa bw'amayobera buturutse ahantu hatazwi. Ubu butumwa butunguranye bugerageza imyizerere yabo n'ububasha bwabo, bubashyira mu rugendo rwa dipolomasi ruzagerageza ubwenge bwabo amaherezo rukazabageza ku gukanguka gukomeye mu buryo bw'umwuka. Ese ushobora kuvumbura uwo mutegetsi w'ikirenga n'ibyabaye byahinduye ubwami bwabo bwose?",
+  "clues": [
+    "Jye n'umuryango wanjye twasengaga izuba, dukurikiza inzira z'abakurambere bacu.",
+    "Inyoni, injangwe, yari intumwa idashoboka yanzaniye ibaruwa iturutse ku muyobozi ukomeye.",
+    "Kugira ngo menye ubwenge bw'uwatumye ubutumwa, nohereje impano z'agaciro, ariko narazisubijwe, kuko uwatumye ubutumwa yari afite ubutunzi bwinshi cyane buva kuri Allah.",
+    "Mbere yuko ngera mu rugo rw'uwantumye, intebe yanjye y'ubwami nziza cyane yajyanyweyo mu buryo bw'igitangaza mu kanya gato k'ijisho.",
+    "Nkigerayo, bambaza niba intebe y'ubwami yari iyanjye, maze ndasubiza nti 'Ni nk'aho ari yo ubwayo.'",
+    "Ninjiye mu cyumba kinini gifite hasi nibwiraga ko ari ikidendezi cy'amazi, kandi muri icyo gihe cyo gutangara cyane, niyeguriye Imana hamwe n'Intumwa Sulaiman, Umwami w'isi yose."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Umwamikazi w'i Sheba",
+        "Zulaikha (Umugore wa Al-Aziz)",
+        "Asiya (Umugore wa Farawo)",
+        "Nyina wa Musa",
+        "Mariyamu (Nyina wa Isa)"
+      ],
+      "answer": "Umwamikazi w'i Sheba"
+    },
+    "trial": {
+      "label": "Igikorwa cyo Hagati",
+      "options": [
+        "Yakiriye ibaruwa iturutse ku Muhanuzi Sulaiman",
+        "Gutabwa mu muriro",
+        "Kubaka ubwato kugira ngo burokoke umwuzure",
+        "Gutandukanya Inyanja Itukura",
+        "Gushinjwa kwiyoroshya"
+      ],
+      "answer": "Yakiriye ibaruwa iturutse ku Muhanuzi Sulaiman"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Intebe y'ubwami ihebuje",
+        "Inyana ya zahabu",
+        "Ikoti ry'amabara menshi",
+        "Inkoni yahindutse inzoka",
+        "Ubwato bukozwe mu mbaho ​​n'imisumari"
+      ],
+      "answer": "Intebe y'ubwami ihebuje"
+    },
+    "outcome": {
+      "label": "Umusaruro w'Impamo",
+      "options": [
+        "Kugandukira Imana imwe y'ukuri (Allah)",
+        "Guhinduka inkingi y'umunyu",
+        "Kubaka umunara muremure kugira ngo ugere ku Mana",
+        "Kumirwa n'ifi nini",
+        "Gutakaza ubutunzi butagira ingano nk'igihano"
+      ],
+      "answer": "Kugandukira Imana imwe y'ukuri (Allah)"
+    }
+  },
+  "verseRef": "27:44",
+  "arabic": "قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةًۭ وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُۥ صَرْحٌۭ مُّمَرَّدٌۭ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَـٰنَ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+  "verse": "She was told, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins [to wade through]. He said, \"Indeed, it is a palace [whose floor is] made smooth with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allāh, Lord of the worlds.\" (27:44)"
+}

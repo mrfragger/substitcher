@@ -1,0 +1,61 @@
+{
+  "title": "Umurinzi w'Imbeya Itazima",
+  "intro": "Igishushanyo gihagaze ku mbuga y’ikibanza giteye ubwoba kuruta ibindi vyose mu bitaboneka, gishinzwe igikorwa ata kindi kiremwa cipfuza. Iyo ubugingo bubabaye butaka busaba imbabazi, inyishu ikaze irasubiramwo mu vyumba vy’umuriro. Woba ushobora guhishura akaranga k’uwo murinzi w’ibihe bidahera?",
+  "clues": [
+    "Ndahagaze ku bwinjiriro bw’ahantu hateye ubwoba h’igihano mu bitaboneka.",
+    "Umuriro waka, udashobora kuzima ni co kintu nyamukuru c’igikorwa canje c’agaciro.",
+    "Ubugingo bubabaye burahamagara izina ryanje, busaba gukurwa mu mibabaro yabo itagira iherezo.",
+    "Iyo bavyinginze, ndamenyesha ko batazogenda, ibihe vyose.",
+    "Sindi umuntu, canke umujini — ndi ikiremwa c’ukugamburuka gusukuye.",
+    "Ndi umumarayika mukuru yashinzwe kuba umurinzi w’ibihe bidahera w’Umuriro w’Ikuzimu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Malik",
+        "Jibiriyeli",
+        "Mikayeli",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Abantu bo muri Gehinomu baringinga ngo imibabaro yabo irangire .",
+        "Inzumbete iravuzwa kugira ngo imenyekane Umusi w'Urubanza .",
+        "Korowani ihishuriwe umutima w'Intumwa",
+        "Umuhanuzi atererwa mu muriro ukomeye n'abantu babo .",
+        "Uruhome rukomeye rwubatswe kugira ngo rufate ihanga ryononekaye ."
+      ],
+      "answer": "Abantu bo muri Gehinomu baringinga ngo imibabaro yabo irangire ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Umuriro w'ikuzimu (Yahanam)",
+        "Igiti ca Lote kiri ku rugabano rwa Paradizo .",
+        "Inzumbete itobora",
+        "Inkoni ihinduka inzoka .",
+        "Intebe y'ubwami y'ubumana nziza cane ."
+      ],
+      "answer": "Umuriro w'ikuzimu (Yahanam)"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Ababa muri Gehinomu babwirwa ko bazogumaho ibihe bidahera .",
+        "Ababa muri Gehinomu barababarirwa kandi bararekurwa .",
+        "Ababa muri Gehinomu bahabwa amahirwe ya kabiri yo kwizera .",
+        "Ababa muri Gehinomu bimurirwa mu kibanza c'ubukonje .",
+        "Ababa muri Gehinomu baratikizwa burundu n'inkuba ."
+      ],
+      "answer": "Ababa muri Gehinomu babwirwa ko bazogumaho ibihe bidahera ."
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

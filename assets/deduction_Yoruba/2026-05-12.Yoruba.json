@@ -1,0 +1,61 @@
+{
+  "title": "Aláṣẹ Àìgbọràn",
+  "intro": "Jákèjádò àwọn ilẹ̀ àtijọ́, aláṣẹ alágbára kan wà ní ipò àṣẹ nígbà kan rí, ó ń ṣàkóso àwọn ohun àlùmọ́nì àti ẹ̀mí àìmọye ènìyàn. Láìka àwọn àmì àti ìkìlọ̀ tó ṣe kedere sí, aláṣẹ yìí yan ọ̀nà ìtakora, èyí tó yọrí sí ìjà ńlá kan tí yóò máa dún bí àkókò ti ń lọ.",
+  "clues": [
+    "Mo gba agbara ati aṣẹ giga lori agbegbe nla kan.",
+    "Mo pe ojiṣẹ onírẹ̀lẹ̀ kan tí Olúwa gbogbo ilẹ̀ ayé rán níjà.",
+    "Àwọn ènìyàn mi ni a mọ̀ fún agbára wọn nínú àwọn ilé ńláńlá àti odò tí ó gbé àṣà ìbílẹ̀ wa ró.",
+    "Mo rí ọ̀pọ̀lọpọ̀ àmì ìyanu, títí bí ọ̀pá tí ó di ejò àti ọwọ́ tí ó ń tàn yanranyanran.",
+    "Mo kọ̀ láti jẹ́ kí àwùjọ àwọn ẹrú kan fi ilẹ̀ mi sílẹ̀, láìka àwọn àṣẹ Ọlọ́run sí.",
+    "Lílépa àwọn ènìyàn tí ń lọ mú èmi àti àwọn ọmọ ogun mi wọ inú òkun tí ó pínyà."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Yúsọ́ọ̀fù",
+        "Ọba Talut",
+        "Fir'aun (Farao)",
+        "Wòlíì Dáfídì",
+        "Namrud"
+      ],
+      "answer": "Fir'aun (Farao)"
+    },
+    "trial": {
+      "label": "Ìjà Pàtàkì",
+      "options": [
+        "Ìkún omi tó bo ilẹ̀ náà",
+        "Pípín òkun",
+        "Igbó tí ń jó náà",
+        "Ìkọ́lé Kaaba",
+        "Ìparun nípasẹ̀ afẹ́fẹ́ líle"
+      ],
+      "answer": "Pípín òkun"
+    },
+    "location": {
+      "label": "Àkójọpọ̀ Ìtumọ̀",
+      "options": [
+        "Ẹranko tó ń sọ̀rọ̀",
+        "Ọ̀pá àti ọwọ́ dídán",
+        "Ìbí ìyanu kan",
+        "Kápẹ́ẹ̀tì tí ń fò",
+        "Ìtẹ́ ọlọ́lá lórí omi"
+      ],
+      "answer": "Ọ̀pá àti ọwọ́ dídán"
+    },
+    "outcome": {
+      "label": "Àyànmọ́ Ìgbẹ̀yìn",
+      "options": [
+        "Ó gòkè lọ sí ọ̀run",
+        "Ilẹ̀ gbé mì",
+        "Mo rì sínú omi",
+        "Ó yípadà sí ọ̀bọ",
+        "Fún ọrọ̀ àti agbára ńláǹlà"
+      ],
+      "answer": "Mo rì sínú omi"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Khaa'iniintii la doortay",
+  "intro": "Taariikhda oo dhan, rasuullo rabbaani ah ayaa ku dhex socday aadanaha, qaar ka mid ah kuwa ugu dhowna way garan waayeen iftiinka. Qisadani waxay ku wareegsan tahay laba nafood oo u dhowaanshaha nebinimada ay noqotay imtixaankooda, dhaxalkooduna uu yahay cashar aan waqti lahayn.",
+  "clues": [
+    "Waxaan ku noolayn waqtiyadii nebiyada waaweyn, haddana indhaheenna waxay ku xirnaayeen runta ay keeneen.",
+    "Guryaheenna waxaa ka buuxay waxyi rabbaani ah, laakiin qalbiyadeennu way adkaayeen.",
+    "Waxaan guursannay rag loo doortay inay dadkooda u digaan.",
+    "Markii ciqaabtu timid, doonnidii kuma aanan dhuuman mana aanan ka cararin roobkii gubayay, sababtoo ah digniinaha waan ku jeesjeesanay.",
+    "Waxaa Qur'aanka lagu xusay tusaale ahaan kuwa gaaloobay, taasoo muujinaysa in xitaa xiriirka dhow ee lala leeyahay nebi uusan badbaadinayn.",
+    "Annagu waxaan nahay xaasaskii Nuux iyo Luud, kuwaas oo khiyaameeyay sidaas darteedna la xukumay."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Yaan nahay?",
+      "options": [
+        "Xaasaskii Nuux iyo Luut",
+        "Xaasaska Ibraahim iyo Ismaaciil",
+        "Xaasaska Muuse iyo Haaruun",
+        "Xaasaskii Daa'uud iyo Sulaymaan",
+        "Xaasaska Ayuub iyo Yuunis"
+      ],
+      "answer": "Xaasaskii Nuux iyo Luut"
+    },
+    "trial": {
+      "label": "Maxkamadeyntoodu maxay ahayd?",
+      "options": [
+        "Waxay guursadeen nebiyo laakiin way gaaloobeen",
+        "Waxay ahaayeen madhalays waxayna eedeeyeen nebiyada",
+        "Waxay ahaayeen kuwo hodan ah oo isla weyn",
+        "Waxaa Ibliis ku qasbay inay guryahooda ka baxaan.",
+        "Waxay caabudi jireen weyshii dahabka ahayd"
+      ],
+      "answer": "Waxay guursadeen nebiyo laakiin way gaaloobeen"
+    },
+    "location": {
+      "label": "Maxaa qaddarkoodu ku xidhnaa?",
+      "options": [
+        "Daadkii iyo roobkii dhagaxyada",
+        "Dabayl daran",
+        "Dhulgariir",
+        "Belaayada ayaxa",
+        "Kala qaybsanaanta badda"
+      ],
+      "answer": "Daadkii iyo roobkii dhagaxyada"
+    },
+    "outcome": {
+      "label": "Maxay ahaayeen dhammaadkoodii?",
+      "options": [
+        "Waxay la halaageen gaalada iyagoo la jira",
+        "Way toobad keeneen oo way badbaadeen",
+        "Waxay ka tageen carruur la'aan",
+        "Waxay weligood masaafuris ahaayeen",
+        "Waxaa loo beddelay daanyeero iyo doofaarro"
+      ],
+      "answer": "Waxay la halaageen gaalada iyagoo la jira"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Vachengeti veMugove Wakavanzika",
+  "intro": "Munyika yakasvibira, boka revanhu rakaronga zano rakavanzika murima. Vaiva nechinangwa chimwe chete, asi chinangwa chavo chakanga chisina kururama. Vaisaziva kuti kushanduka kwaMwari kwakavamirira pavakarara.",
+  "clues": [
+    "Takaita chitsidzo chakasimba, tichifunga kuti hurongwa hwedu hwaive husina kana chahwakakanganisa.",
+    "Taida kubuda nguva isati yakwana, vamwe vasati vatombotanga kushamisika.",
+    "Takatanga chirongwa chakaorera, tichivimba nezvatinoda.",
+    "Patakasvika kwataienda, takaiwana isina chinhu uye isina chinhu, saka takafunga kuti takanga takarasika.",
+    "Takabva taona kuti ndiyo yaive nzvimbo yedu zvechokwadi, uye takachema nekusuwa, tichipomerana mhosva yekurasikirwa kwedu.",
+    "Takanga tapika mangwanani iwayo kuti hatizobvumidze varombo kuti vagovere goho redu, asi chirango chaAllah chakatiwira patakanga takarara, zvikaita kuti bindu redu rive dongo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tiri vanaani?",
+      "options": [
+        "Varidzi veBindu muSurah 68",
+        "Vanhu veSaba",
+        "Shamwari dzeBako",
+        "Vanhu veNzou",
+        "Vanhu veMugero"
+      ],
+      "answer": "Varidzi veBindu muSurah 68"
+    },
+    "trial": {
+      "label": "Kuedzwa Kwedu",
+      "options": [
+        "Bindu redu rakaparadzwa nenjodzi yakabva kudenga",
+        "Bindu redu rakaparadzwa nemafashamo",
+        "Bindu redu rakapiswa nemoto kubva kumuvengi",
+        "Bindu redu rakanga rakazara nemhashu",
+        "Bindu redu rakamedzwa nekudengenyeka kwenyika"
+      ],
+      "answer": "Bindu redu rakaparadzwa nenjodzi yakabva kudenga"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Takapika kuti tichatanha michero yayo mangwanani",
+        "Takavaka dhamu rekudiridza bindu redu",
+        "Takatsvaga pokugara mubako kuti tidzivirirwe",
+        "Takagadzirira hondo kuti titore umambo",
+        "Takafamba nechikepe kuti tiyambuke gungwa"
+      ],
+      "answer": "Takapika kuti tichatanha michero yayo mangwanani"
+    },
+    "outcome": {
+      "label": "Mugumo Wedu",
+      "options": [
+        "Takapfidza tikatarisira tsitsi kubva kuna Allah",
+        "Takaparadzwa zvachose uye hatina kumbopfidza",
+        "Takatiza nyika uye hatina kudzoka",
+        "Takava nesimba uye takapfuma zvakare",
+        "Takarangwa nekushandurwa kuita tsoko"
+      ],
+      "answer": "Takapfidza tikatarisira tsitsi kubva kuna Allah"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

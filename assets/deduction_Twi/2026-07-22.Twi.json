@@ -1,0 +1,61 @@
+{
+  "title": "Efi Abura no Mu Bun Mu",
+  "intro": "Ɔkra kumaa bi akwantuo hyɛɛ aseɛ wɔ anisoadehunu a tumi wom a ɛfa ɔsoro abɔdeɛ a wɔkotow wɔ obuo mu. Wɔn a wɔbɛn no paa yii no mae a emu dɔ sen biara, na ɛno akyi no, wɔde mfe pii yɛɛ nkoa na wɔde no too afiase wɔ ɔkwan a ɛnteɛ so. Nanso ɛdenam gyidi a enhinhim ne ɔsoro akwankyerɛ so no, saa onipa yi sɔre fii amoa a ɛba fam koraa mu bɛyɛɛ nnipa a wɔwɔ tumi sen biara wɔ ahemman kɛse bi mu no mu biako. So wubetumi ada onipa ko a saa Allah akoa nwonwaso yi te adi?",
+  "clues": [
+    "Wɔkyerɛɛ me anisoadehu a ɛkyerɛ nsoromma du-baako, owia, ne ɔsram a wɔakotow m’anim",
+    "Ná meyɛ m’awofo ba a ɔdɔ no paa, na ɛno na ɛde ahoɔyaw baa me nuanom mu",
+    "M’ankasa me nuanom kyeree me, yii m’atade, na wɔtow guu abura bi a emu dɔ na esum mu",
+    "Wɔtɔn me sɛ aguade wɔ gua so na wɔde me kɔ akyirikyiri fi me kurom",
+    "Ɔbea bi a ɔwɔ tumi bɔɔ mmɔden sɛ obegyae m’anuonyam, na wɔde me too afiase esiane sɛ mepow ne nkɔso nti",
+    "Wohyiraa me wɔ akyɛde a ɛne dae nkyerɛase, na mesɔre fii ɔdeduani a werɛ afi me bɛyɛɛ Misraim soafo panyin"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Yusuf",
+        "Ɔkɔmhyɛni Musa",
+        "Ɔkɔmhyɛni Dawud",
+        "Ɔkɔmhyɛni Ayyuub",
+        "Ɔkɔmhyɛni Sulayman"
+      ],
+      "answer": "Ɔkɔmhyɛni Yusuf"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Obi ankasa nuanom tow gu abura a emu dɔ mu",
+        "Nsuyiri kɛse a ɛbaa wiase nyinaa mu a wobenya nkwa",
+        "Wɔtow no gu fononoo a ɛredɛw mu",
+        "Ɔkofo kɛse bi a ɔne no reko wɔ ɔko mu",
+        "Mpataa kɛse bi a ɔbɛmene no"
+      ],
+      "answer": "Obi ankasa nuanom tow gu abura a emu dɔ mu"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Abura a emu dɔ na ɛhɔ yɛ kusuu wɔ sare so",
+        "Nnua adaka kɛse bi a ɛwɔ bepɔw bi atifi",
+        "Poma a ɛdanee ɔwɔ",
+        "Ahengua a ɛyɛ nwonwa a ɛwɔ anuonyam kɛse",
+        "Sling ne abo anum a ɛyɛ torotoro"
+      ],
+      "answer": "Abura a emu dɔ na ɛhɔ yɛ kusuu wɔ sare so"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Rose bɛyɛɛ Egypt soafo panyin na ɔne abusua a wɔdɔ wɔn no san boom",
+        "Ɔyɛɛ hyɛn kɛseɛ na ɔfrɛɛ nkurɔfoɔ baa gyidie mu",
+        "Ɔdii ɔman mũ bi anim fii nkoasom mu wɔ Misraim",
+        "Wɔmaa no ahenni ne tumi wɔ nea wonhu so",
+        "Wɔmaa no boasetɔ denam yare a emu yɛ den so na wɔsaa no yare"
+      ],
+      "answer": "Rose bɛyɛɛ Egypt soafo panyin na ɔne abusua a wɔdɔ wɔn no san boom"
+    }
+  },
+  "verseRef": "40:34",
+  "arabic": "وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَـٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ",
+  "verse": "And Joseph had already come to you before with clear proofs, but you remained in doubt of that which he brought to you, until when he died, you said, 'Never will Allāh send a messenger after him.' Thus does Allāh leave astray he who is a transgressor and skeptic.\" (40:34)"
+}

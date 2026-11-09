@@ -1,0 +1,61 @@
+{
+  "title": "Gardiiɗo Ɓuuɓri ndi Muumtataa",
+  "intro": "Limre ina darii e damal nokku ɓurɗo hulɓinaade e nder ko yiyaaka, halfinaa golle ɗe hay tagoore woɗnde yiɗaa. So ruuhuuji torraaɗi ina ngulla ngam yurmeende, jaabawol tiiɗngol ina ɓuuɓtoo e nder cuuɗi yiite. Mbele aɗa waawi udditaade sifaa oo gardiiɗo duumotooɗo?",
+  "clues": [
+    "Miɗo darii e damal nokku kulɓiniiɗo jukkungo e nder ko yi’ataake.",
+    "Yiite ɓuuɓnge, nde ɓuuɓnataa, ko kañum woni cakkital golle am tedduɗe.",
+    "Yontaaji torrooji ina nodda innde am, ina ñaagoo ballal e torlaaji mum en ɗi ngalaa ɗo kaaɗi.",
+    "So ɓe ñaagiima, miɗo anndi ɓe njaltataa, haa abada.",
+    "Mi wonaa neɗɗo, mi wonaa jinne — ko mi tagaaɗo ɗooftaare laaɓnde.",
+    "Ko miin woni mawɗo maleyka toɗɗaaɗo ngam wonde gardiiɗo jeynge haa abada."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol ko ngonmi?",
+      "options": [
+        "Maalik",
+        "Jibriil",
+        "Mika’iil",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Maalik"
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "Yimɓe Jahannama ina ñaagoo yo torra mum en joof",
+        "Buutu oo ina fulee ngam hollude Ñalawma Ñaawoore",
+        "Qur'aana no feyaa he berde nelaaɗo",
+        "Annabi ina werlee e yiite mawnde e yimɓe maɓɓe",
+        "Koɗorɗe mawɗe ina mahaa ngam haɗde leñol bonngol"
+      ],
+      "answer": "Yimɓe Jahannama ina ñaagoo yo torra mum en joof"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Yiite Jahannama (Jahannam)",
+        "Lekki Lote to keerol Aljanna",
+        "Buuba ɓuuɓɗo",
+        "Sawru waylotoondu mboddi",
+        "Jappeere laamu mawnde"
+      ],
+      "answer": "Yiite Jahannama (Jahannam)"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "Hoɗɓe e Jahannama ina mbiya maa ɓe keddo haa abada",
+        "Hoɗɓe Jahannama njaafaama, njaltinaama",
+        "Hoɗɓe e Jahannama ina ndokkee fartaŋŋe ɗiɗaɓo e iimanaagal",
+        "Hoɗɓe Jahannama ina njippinee e nokku coofɗo",
+        "Hoɗɓe e Jahannama ina mbonna haa laaɓa e ɓuuɓol"
+      ],
+      "answer": "Hoɗɓe e Jahannama ina mbiya maa ɓe keddo haa abada"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

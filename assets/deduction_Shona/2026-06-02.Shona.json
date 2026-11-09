@@ -1,0 +1,61 @@
+{
+  "title": "Muchengeti weSuo reZuva Rinobuda",
+  "intro": "MuQuran yese, mimwe mweya inofamba-famba panyika ichisiya nzira dzeuchenjeri nekushamisika. Mumwe munhu akadaro akafamba achienda kunzvimbo dziri kure dzekusika—uko zuva rinobuda nekunyura, uko chipingamupinyi chinodzivisa nyonganyonga pachayo. Muranda waAllah uyu akapihwa humambo hwaisazombova nahwo zvakare. Kuburikidza nerwendo rutatu rwakasiyana, chinangwa chemunhu uyu chakajekeswa. Unogona here kuziva mufambi uyu wengano kubva mumumvuri wenhoroondo?",
+  "clues": [
+    "Ndakapihwa simba neAne Ngoni Dzose rekutonga pasi rose nenzira isina kumboitwa nemumwe munhu.",
+    "Ndakafamba ndichienda kumadokero kusvika ndasvika panzvimbo inonyura zuva, ndikaona richinyura muchitubu chine rima, uye ndakaona vanhu ipapo.",
+    "Ndakafamba rwendo rwekumabvazuva kusvika ndasvika panzvimbo inobuda zuva, ndikariwana richibuda pavanhu vatakanga tisina kuvapa pekugara kubva mariri.",
+    "Ndakafamba pakati penzvimbo mbiri idzodzo dzakaoma kusvika ndasvika pamupata uri pakati pemakomo maviri, kwandakawana vanhu vaisanyatsonzwisisa mutauro.",
+    "Ndakawana mugomo zvivharo zviviri zvakaoma zvesimbi zvinosvika kurudyi nekuruboshwe, uye pakati pazvo pakanga paine nzira yakamanikana. Vanhu ava vakandikumbira kuti ndipfuure nepakati pechivharo ichidzivirira nyonganyonga.",
+    "Ndakatora zvekudya zvangu ndikati: ‘Kana chipingamupinyi chapwanyika, izvi zvichava kupatsanurwa kwakajeka pakati pedu nevanhu ava.’ Uye nguva yakatarwa payakasvika, ndakatarisa chipingamupinyi chacho chichipwanyika pakupedzisira."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Dhu al-Qarnayn",
+        "Muporofita Sulayman",
+        "Muprofita Ibrahim",
+        "Mambo weGhassaniyah",
+        "Dhul-Qarnain Mufambi"
+      ],
+      "answer": "Dhu al-Qarnayn"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kuputsa chipingamupinyi chesimbi chevanhu veYajuj neMajuj",
+        "Kuvaka Ngarava pasi pemurairo wemuporofita",
+        "Kuvaka temberi muJerusarema",
+        "Kuyambuka Gungwa Dzvuku nevanhu vanotenda",
+        "Kuvaka dhamu rekudzivirira rudzi rwakarurama"
+      ],
+      "answer": "Kuputsa chipingamupinyi chesimbi chevanhu veYajuj neMajuj"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Chidziviriro chesimbi pakati pemakomo maviri",
+        "Ngarava yakamiswa pagomo",
+        "Imba tsvene yekunamatira muJerusarema",
+        "Rwizi ruri munyika yeIjipiti",
+        "Tsime remaropafadzo muMadyan"
+      ],
+      "answer": "Chidziviriro chesimbi pakati pemakomo maviri"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Chipingamupinyi chakatyorwa nguva yakatarwa payakasvika, uye nyonganyonga yakapararira",
+        "Vasingatendi vakanyura mumvura apo vatendi vakaponeswa",
+        "Vakarurama vakatungamirirwa kuparadhiso isingaperi",
+        "Guta rakaparadzwa nemhepo ine ruzha",
+        "Zvifananidzo zvakaputswa uye vanhu vakatendeuka"
+      ],
+      "answer": "Chipingamupinyi chakatyorwa nguva yakatarwa payakasvika, uye nyonganyonga yakapararira"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

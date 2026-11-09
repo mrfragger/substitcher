@@ -1,0 +1,61 @@
+{
+  "title": "Muñɗo oo",
+  "intro": "Ko ɓooyi, e balɗe gadane daartol aadee, ruuhuuji ɗiɗi ina ndarii yeeso Tagɗo mum en e sadakeeji. Gooto jaɓaama, gooto jaɓaaka. Ko rewi heen koo wonata ko musiiba mawɗo gadano hakkunde banndiraaɓe - gollal gootal muñal e gollal gootal tooñannge mettunde. Mbele aɗa waawi udditaade ko ngon-mi?",
+  "clues": [
+    "Mi jibinaa ko e balɗe gadane nguurndam aadee e dow leydi",
+    "Miin ko mi ɓiɗɗo aadee gadano meeɗnooɗo yahde e oo aduna",
+    "Mi meeɗii waɗde sadak e nder jawdi am ɓurndi moƴƴude ngam weltinde Tagɗo am",
+    "Sadaka am jaɓaama gila dow, sadaka miñi am jaɓaaka",
+    "Nde njiylotonoo-mi maayde, mi suɓiima waasde ƴeftude junngo am e banndi am",
+    "Miin woni neɗɗo gadano e nder daartol aadee fof, mo goɗɗo wari e dow tooñannge"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol ko ngonmi?",
+      "options": [
+        "Habil (Abel), ɓii Aadama",
+        "Qabil (Kayin), ɓii Aadama",
+        "Aadama, neɗɗo gadano",
+        "Nuuhu (Nuuhu)",
+        "Ibraahiima (Ibraahiima)"
+      ],
+      "answer": "Habil (Abel), ɓii Aadama"
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "Warngo gadano e daartol aadee",
+        "Ilam mawɗam Nuuhu",
+        "Halkaare konu Firaawna",
+        "E sadak Ismaa'il mo Ibraahiima waɗi",
+        "Hare nde e Jalut (Goliyat)"
+      ],
+      "answer": "Warngo gadano e daartol aadee"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Baali sakkaaɗi ngam sadak welɗo",
+        "Laana mawka leɗɗe",
+        "Sawru ndu wayliri mboddi",
+        "Birniwol hoopoo ina jogii mesaas laamɗo",
+        "Ko ɓuuɓri yiite ɓuuɓndi"
+      ],
+      "answer": "Baali sakkaaɗi ngam sadak welɗo"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "Wonti ɓiɗɗo warngooji gadani e nder daartol aadee",
+        "Wuuri e ilam mawɗam e nder laana leɗɗe",
+        "Hoɗi ko e nder reedu liɗɗi mawɗi",
+        "Laamiima jinneeji, aadee en, e henndu",
+        "Waɗii duuɓi capanɗe tati e nder ladde mawnde"
+      ],
+      "answer": "Wonti ɓiɗɗo warngooji gadani e nder daartol aadee"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

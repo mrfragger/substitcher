@@ -1,0 +1,61 @@
+{
+  "title": "Ɛnne a Efi Bun Mu",
+  "intro": "Boasetɔ ne Ɔsoro mmɔborohunu a enni ano ho asɛm bi da adi wɔ Kur’aan mu. Wɔsomaa ɔbɔfo bi kɔɔ kurow kɛse bi mu, nanso wɔn nkurɔfo no pow kɔkɔbɔ no na wɔpoo nokware no. Wɔ abasamtu mu no, ɔkra yi fii hɔ — na ɛpo a ɛrehuruw no sɔɔ no hwɛe na memenee no kɔɔ bun a emu yɛ sum sen biara no mu. Efi esum yafunu mu no, ahobrɛase mu adesrɛ sɔree, na Mmɔborohunufo no buae. Hena ne ɔkra yi a ɔdaa ne ho adi a ɔsakrae, a ne nkurɔfo bɛyɛ agyidifo bɛboro mpem ɔha yi?",
+  "clues": [
+    "Wɔsomaa me sɛ ɔbɔfoɔ kɔɔ kuro kɛseɛ bi a emufoɔ ayera afiri gyidie kwan so.",
+    "Mefrɛɛ me nkurɔfo baa nokware no mu mpɛn pii, nanso wodii me nkrasɛm no ho fɛw na wɔpoo.",
+    "Mede abasamtu fii wɔn nkyɛn ansa na wɔrema wɔn kwan, na mede m’ani kyerɛɛ po a ɛda hɔ no so.",
+    "Ahum kɛse bi sɔree, na wɔtow me guu po no mu — afei ɛpo mu abɔde kɛse bi menee me nyinaa.",
+    "Wɔ esum a ɛtoatoa so mu — ɛpo no mu dɔ, abɔde no yafunu, ne po ase a emu dɔ — meteɛɛm sɛ: ‘Onyame biara nni hɔ gye Wo; animuonyam nka Wo; Na meka nnebɔneyɛfo no ho.’",
+    "Allah gyee me firii bun mu, na bere a mesan bae no, na me nkurofoo no mu bɛboro mpem ɔha agye nokorɛ no atom."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Odiyifo Yunus (Yona) .",
+        "Ɔkɔmhyɛni Musa (Mose) .",
+        "Ɔkɔmhyɛni Ibrahim (Abraham) .",
+        "Ɔkɔmhyɛni Zakariyya (Zakaria) .",
+        "Odiyifo Idris (Henok) ."
+      ],
+      "answer": "Odiyifo Yunus (Yona) ."
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Po mu abɔde kɛse bi a ɔbɛmene no",
+        "Otirimɔdenfo bi ne n’ nkonyaayifo a wɔbɛhyia",
+        "Ɔhene bi a ne bo afuw a ɔtow no guu ogya a ɛredɛw mu",
+        "Ɔbabarima bi ho asɛmpa a wɔte bere a wanyin na ontumi nyɛ adwuma no",
+        "Ɔman bi a nsuyiri a ɛsɛee ade sɛee no ho adanse"
+      ],
+      "answer": "Po mu abɔde kɛse bi a ɔbɛmene no"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Po mu abɔde kɛse bi yafunu a ɛwɔ po mu bun mu",
+        "Ofie kronkron a mmepɔw atwa ho ahyia wɔ bon bi a ɛso yɛ kwae mu",
+        "Ogya a ɛredɛw a wɔmaa ɛyɛɛ nwini na asomdwoe wom",
+        "Turo fɛfɛ bi a nsubɔnten a ɛsen ne sunsuma wom",
+        "Adaka kɛse bi a ɛda bepɔw bi atifi"
+      ],
+      "answer": "Po mu abɔde kɛse bi yafunu a ɛwɔ po mu bun mu"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wɔgyee no firii sum mu; nnipakuw kɛse bi gye dii",
+        "Wɔade wɔn ho afi ogya a ɛredɛw mu, a ogyaframa reyɛ nwini",
+        "Ɔbɛyɛɛ ɔman a tumi wom kannifo na ogyee wɔn fii nhyɛso ase",
+        "Wɔmaa abofra bi a ɔwɔ nkwakoraabere mu wɔ mfe pii mpaebɔ akyi",
+        "Wɔama no nyansa kɛse, ahenni, ne mframa ne jinn so tumi"
+      ],
+      "answer": "Wɔgyee no firii sum mu; nnipakuw kɛse bi gye dii"
+    }
+  },
+  "verseRef": "10:98",
+  "arabic": "فَلَوْلَا كَانَتْ قَرْيَةٌ ءَامَنَتْ فَنَفَعَهَآ إِيمَـٰنُهَآ إِلَّا قَوْمَ يُونُسَ لَمَّآ ءَامَنُوا۟ كَشَفْنَا عَنْهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "Then has there not been a [single] city that believed so its faith benefited it except the people of Jonah? When they believed, We removed from them the punishment of disgrace in worldly life and gave them enjoyment [i.e., provision] for a time. (10:98)"
+}

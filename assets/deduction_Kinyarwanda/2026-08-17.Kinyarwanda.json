@@ -1,0 +1,61 @@
+{
+  "title": "Icyaha cyo ku nkengero z'inyanja",
+  "intro": "Uhagaze ku musenyi wo ku nkombe yibagiranye, aho imiraba ivugiriza ijwi ry’umuryango ugeragejwe n’itegeko ry’Imana. Ikirere kirimo kwibuka icyaha cyateye ihinduka ritangaje. Abo bantu bari bande, kandi ni ubuhe bwoko bw’ibigeragezo byabo?",
+  "clues": [
+    "Twari umuryango wahawe itegeko risobanutse neza rivuye ku Mwami wacu, nyamara twabonye uburyo bwo kurirwanya.",
+    "Twari dutuye hafi y'amazi, kandi imibereho yacu yari ishingiye ku biremwa byayo.",
+    "Ikigeragezo cyatugezeho umunsi twategetswe kwirinda gukurikirana ibintu by'isi.",
+    "Ibiremwa byo mu mazi byaje kuri twe ari byinshi kuri uwo munsi, bidushukashuka cyane.",
+    "Twateguye amayeri yo kwirengagiza itegeko ry’Imana, twibwira ko dushobora kurenga itegeko.",
+    "Icyaha cyacu cyatugizeho impinduka iteye isoni; twahindutse inguge zisuzuguritse ku itegeko rya Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Abantu b'Isabato",
+        "Abaturage ba Rass",
+        "Abaturage ba Tubba",
+        "Abantu bo mu buvumo",
+        "Abagenzi b'Umuyoboro"
+      ],
+      "answer": "Abantu b'Isabato"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Kugaragara kw'amafi ku Isabato",
+        "Umwaka w'amapfa akomeye",
+        "Ingabo z'inyoni zoherejwe kubarwanya",
+        "Umwuzure wabarenze",
+        "Umutingito ukomeye"
+      ],
+      "answer": "Kugaragara kw'amafi ku Isabato"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Inyanja",
+        "Umusozi",
+        "Ubuvumo",
+        "Ikibaya cy'ubutayu",
+        "Umujyi ugoswe n'inkuta"
+      ],
+      "answer": "Inyanja"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Yahindutse inguge",
+        "Yamizwe n'isi",
+        "Yashenywe n'umuyaga uvuza induru",
+        "Yarohamye mu nyanja",
+        "Yakubiswe n'imvura y'amabuye"
+      ],
+      "answer": "Yahindutse inguge"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

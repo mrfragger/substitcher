@@ -1,0 +1,61 @@
+{
+  "title": "Gíga Àlá náà",
+  "intro": "Ọkàn kan tí a yàn fún ọlá ńlá, ṣùgbọ́n tí a dán wò nípasẹ̀ àwọn àdánwò líle koko, bẹ̀rẹ̀ ìrìn àjò àrà ọ̀tọ̀ kan. Ọ̀nà ẹni yìí ni a fi owú, ìyàsọ́tọ̀, àti ìjìyà àìtọ́ hàn, ṣùgbọ́n ó parí sí ipò ẹrù iṣẹ́ ńlá àti ìpadàpọ̀ jíjinlẹ̀. Ṣé o lè dá ẹni àrà ọ̀tọ̀ yìí mọ̀ láti inú Al-Quran?",
+  "clues": [
+    "Àwọn tó sún mọ́ mi jù ló máa ń jowú mi tẹ́lẹ̀, èyí sì mú kí n ya ara mi sọ́tọ̀ kúrò lọ́dọ̀ òbí mi àti ilé mi.",
+    "Mo ní ìrírí àkókò ìṣòro ńlá kan, títí kan bí àwọn arìnrìn-àjò ṣe tà mí ní owó díẹ̀.",
+    "Wọ́n fi ẹ̀sùn àìtọ́ kan mí, mo sì lo ọ̀pọ̀ ọdún ní àhámọ́, síbẹ̀ ìgbàgbọ́ mi dúró ṣinṣin.",
+    "Wọ́n fún mi ní agbára àrà ọ̀tọ̀ láti túmọ̀ àwọn ìran dídíjú, èyí tí ó jẹ́ ohun pàtàkì nínú ipa ọ̀nà mi sí òmìnira.",
+    "Ọgbọ́n àti ìwà títọ́ mi mú mi dé ipò àṣẹ àti ìgbẹ́kẹ̀lé ńlá ní ilẹ̀ àjèjì.",
+    "Láti inú ọ̀pọ̀lọpọ̀ ìṣẹ̀lẹ̀, mo tún padà sọ́dọ̀ òbí àti àwọn ẹ̀gbọ́n mi àgbà lẹ́yìn àìsí nílé fún ìgbà pípẹ́ àti ìrora."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Sùlámínì",
+        "Wòlíì Ísà",
+        "Wòlíì Yúsọ́ọ̀fù",
+        "Wòlíì Dáfídì",
+        "Wòlíì Yahya"
+      ],
+      "answer": "Wòlíì Yúsọ́ọ̀fù"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ẹja ńlá gbé mì",
+        "Kíkọ́ Ọkọ̀ láti gba ìṣẹ̀dá là",
+        "Farada àwọn ẹ̀sùn èké àti ìfisẹ́wọ̀n",
+        "Lílo iṣẹ́ ìyanu láti kojú alákòóso oníwà ipá kan",
+        "A n ṣe idanwo pẹlu aisan lile ati pipadanu"
+      ],
+      "answer": "Farada àwọn ẹ̀sùn èké àti ìfisẹ́wọ̀n"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Igbó kan tó ń jó",
+        "Ẹyẹ tó ń sọ̀rọ̀",
+        "Kànga kan",
+        "Ọ̀pá kan tó di ejò",
+        "Abo ràkúnmí gẹ́gẹ́ bí àmì"
+      ],
+      "answer": "Kànga kan"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ṣíṣíwájú ìrìnàjò lọ sí ilẹ̀ ìlérí kan",
+        "Di minisita alagbara ni Egipti",
+        "Gbigba idajọ atọrunwa lori awọn eniyan agberaga",
+        "Ṣíṣàkóso ìjọba ńlá kan pẹ̀lú ọgbọ́n àti ìdájọ́ òdodo",
+        "Gíga lọ sí ọ̀run"
+      ],
+      "answer": "Di minisita alagbara ni Egipti"
+    }
+  },
+  "verseRef": "12:4",
+  "arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+  "verse": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\" (12:4)"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Mutoro wePfuma",
+  "intro": "Uchamira pamberi penyaya yepfuma yakawanda, hupenyu hwakashongedzwa negoridhe nesimba, asi pakupedzisira chidzidzo chekunyevera kune vese vanotsvaga hukuru hwenyika. Unogona here kutsanangura kuti ndiani ane nyaya inodzokorora nguva, humbowo hwekuti zvinhu zvenyika zvinopera kwenguva pfupi?",
+  "clues": [
+    "Ndaibva kuvanhu veMuporofita mukuru, asi ndakasarudza nzira yekuzvikudza nekudzvinyirira.",
+    "Mwari vakandipa pfuma yakawanda, zvekuti makiyi epfuma yangu aive mutoro unorema kuboka revanhu vakasimba.",
+    "Vanhu vangu vakandipa zano rekuti ndisapemberere pfuma yangu, vachindiyeuchidza kuti Allah haadi anofara.",
+    "Ndakazvikudza ndikati pfuma yangu yakawanda yakakonzerwa neruzivo rwangu nesimba rangu, kwete chikomborero chinobva kuna Allah.",
+    "Ndakanyeverwa nezvehuori ndikayeuchidzwa kuti nditsvage Hupenyu Husingaperi nezvandakapihwa naAllah, asi ndakaramba kuteerera ndikaramba ndichidada.",
+    "Pakupedzisira, Allah vakakonzera kuti nyika indimedze ini neimba yangu, vachindisiya ndisina vabatsiri vanopikisa murairo wavo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Farao",
+        "Hamani",
+        "Qarun",
+        "Abu Lahab",
+        "Namrud"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kupatsanurwa kwegungwa",
+        "Moto waNimrodhi",
+        "Mafashamo",
+        "Kumedzwa nenyika",
+        "Dambudziko remhashu"
+      ],
+      "answer": "Kumedzwa nenyika"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Areka",
+        "Vashandi",
+        "Mhuru Yegoridhe",
+        "Pfuma/Makiyi",
+        "Tsime reZamzam"
+      ],
+      "answer": "Pfuma/Makiyi"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Umambo hwakapihwa",
+        "Kuponeswa kubva mukuparadzwa",
+        "Yakamedzwa nenyika",
+        "Akava muporofita",
+        "Akafa murunyararo"
+      ],
+      "answer": "Yakamedzwa nenyika"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

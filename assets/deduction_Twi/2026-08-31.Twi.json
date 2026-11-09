@@ -1,0 +1,61 @@
+{
+  "title": "Bon no mu Nne a Ɛyɛ Komm",
+  "intro": "San w’akyi wɔ bere mu kɔ nnipa a wɔyɛ den a bere bi na wonya anwonwade a ɛte ase sɛ sɔhwɛ no nkyɛn. Ahantan ne atirimɔdensɛm hyɛɛ wɔn nkrabea ano. So wubetumi ahwehwɛ asɛm no mu na woahu nea ɛkɔɔ so wɔ nsakrae kɛse yi mu?",
+  "clues": [
+    "Wɔsomaa me sɛ ɔsoro sɔhwɛ kɔɔ nnipa a wɔyɛ den a wonim wɔn sɛ wɔn ahoɔden ne wɔn a wɔsɔre tia no nkyɛn.",
+    "Ná meyɛ anwonwade soronko —na wɔn a wɔte sɛ me no nyii wɔn ho adi wɔ wɔn mu da.",
+    "Me ne me nkurɔfo kyɛ nsu a wɔnom fi abura bi mu nna a wɔsesa.",
+    "Wɔbɔɔ wɔn kɔkɔ sɛ bɔne biara a ɛbɛba me so no de asotwe bɛba.",
+    "Wɔn mu a wɔwɔ akokoduru sen biara no buu wɔn ani guu kɔkɔbɔ no so na wɔbɔɔ me nan ase.",
+    "Me wu akyi no, aprannaa nteɛm biako pɛ a efi soro sɛee me nkurɔfo nyinaa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Salih-Yoma-Yama no",
+        "Musa Nantwi no",
+        "Hyɛn a ɛwɔ Nuh",
+        "Musa Adwumayɛfoɔ",
+        "Bilqis Ahengua no"
+      ],
+      "answer": "Salih-Yoma-Yama no"
+    },
+    "trial": {
+      "label": "Me Nkrabea",
+      "options": [
+        "Hamstrung na wokum no",
+        "Wɔkumm no sɛ afɔrebɔ",
+        "Wɔsakraa no yɛɛ no ​​ɔwɔ",
+        "Wɔkoraa so denam nsuyiri kɛse bi mu",
+        "Wɔde baa ahenni bi so ntɛmntɛm"
+      ],
+      "answer": "Hamstrung na wokum no"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Nsu abura",
+        "Abopon a wɔde abo ayɛ",
+        "Kwae a ɛrehyew",
+        "Adaka a wɔde nnua ayɛ",
+        "Ahengua a wɔde sika ne dwetɛ ayɛ"
+      ],
+      "answer": "Nsu abura"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wɔsɛee no denam nteɛteɛm biako pɛ so",
+        "Nsuyiri kɛse bi amee no",
+        "Abo a ɛtɔe na ɛhyew no",
+        "Mframa a ano yɛ den abubu no",
+        "Asase amene no"
+      ],
+      "answer": "Wɔsɛee no denam nteɛteɛm biako pɛ so"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

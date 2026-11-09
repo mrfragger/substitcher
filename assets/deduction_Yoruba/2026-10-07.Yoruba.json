@@ -1,0 +1,61 @@
+{
+  "title": "Iná inú ààfin ìgbéraga",
+  "intro": "Lẹ́yìn ògiri ńlá ààfin alágbára jùlọ ní ayé ìgbàanì, ẹni kan wà tí ọkàn rẹ̀ ní àṣírí kan tí kò sí àṣẹ ọba tí ó lè pa lẹ́nu mọ́. Nígbà tí gbogbo ènìyàn yí i ká ń forí balẹ̀ fún àwọn ọlọ́run èké, ọkàn yìí ń fi ìgbàgbọ́ ìdákẹ́jẹ́ẹ́ gbóná nínú rẹ̀. Alákòóso ilẹ̀ náà gbàgbọ́ pé òun jẹ́ Ọlọ́run, síbẹ̀ ẹni yìí yan òtítọ́ ju ìtùnú lọ, àti ìfọkànsìn ju ààbò lọ. Lónìí, iṣẹ́ rẹ ni láti ṣàwárí ẹni tí ọkàn onígboyà yìí jẹ́, ẹni tí ìtàn rẹ̀ ṣì jẹ́ ọ̀kan lára ​​àwọn àpẹẹrẹ ìgbàgbọ́ tí kò lè yẹ̀.",
+  "clues": [
+    "Mo gbé ní ibi tí ọrọ̀ àti ọlá ńlá pọ̀ sí, níbi tí alákòóso ilẹ̀ náà ti ní agbára pátápátá lórí gbogbo nǹkan.",
+    "Nígbà tí àwọn tó yí mi ká ń foríbalẹ̀ fún àwọn ọlọ́run èké, mo pa ìmọ́lẹ̀ ìgbàgbọ́ mọ́ sínú ọkàn mi.",
+    "Mo rí ọmọ kan tí wọ́n gbé wá sọ́dọ̀ mi lọ́nà àrà ọ̀tọ̀ - kì í ṣe nípasẹ̀ ìbí, ṣùgbọ́n nípasẹ̀ omi odò ńlá kan.",
+    "Mo gbàdúrà sí Olúwa mi, mo ń bẹ̀bẹ̀ fún ilé kan nítòsí Rẹ̀ ní Párádísè àti ìgbàlà kúrò lọ́wọ́ ìkà tí ó yí mi ká.",
+    "Ọmọ tí mo tọ́ dàgbà láti pe alákòóso tí ó ń darí àyànmọ́ mi níjà, mo sì dúró ṣinṣin nínú ìgbàgbọ́ mi kódà nígbà tí wọ́n bá halẹ̀ mọ́ mi.",
+    "Èmi ni ẹni tí a bu ọlá fún orúkọ rẹ̀ nínú Al-Quran gẹ́gẹ́ bí àpẹẹrẹ ìgbàgbọ́, mo sì ń gbé ní ààfin Farao fúnra rẹ̀."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Asia, aya Farao",
+        "Màríà, ìyá Ísà",
+        "Bilqis, Ayaba Sheba",
+        "Iyawo Anabi Lut",
+        "Iyawo Imran"
+      ],
+      "answer": "Asia, aya Farao"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ṣíṣàwárí àti títọ́ ọmọ ọwọ́ tí a ti kọ̀ sílẹ̀ tí ó di wòlíì ńlá dàgbà",
+        "A fi ẹni tí ó jẹ́ alákòóso jù sínú iná ńlá",
+        "Ní rírí ìkún omi ńlá kan tó pa àwọn ènìyàn kan run",
+        "Rírí ìmì igi ọ̀pẹ tí a fì sí i àti fífúnni ní oúnjẹ",
+        "Lílóyún ọmọkùnrin pẹ̀lú ọjọ́ ogbó"
+      ],
+      "answer": "Ṣíṣàwárí àti títọ́ ọmọ ọwọ́ tí a ti kọ̀ sílẹ̀ tí ó di wòlíì ńlá dàgbà"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ààfin ọba tí ó ní ẹwà tí kò láfiwé",
+        "Ọkọ̀ ojú omi ńlá kan tí a ṣe láti kojú ìkún omi",
+        "Ihò jíjìn kan tí ó fara pamọ́ sínú àwọn òkè ńlá",
+        "Iná tí ń jó tí a kọ́ sórí òkè ńlá kan",
+        "Ọgbà kan tí àwọn ògiri sé mọ́"
+      ],
+      "answer": "Ààfin ọba tí ó ní ẹwà tí kò láfiwé"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A fun ni ile kan ni Paradise nipasẹ ifẹ Allah",
+        "Ìkún omi ńlá kan pa àwọn aláìgbàgbọ́ orílẹ̀-èdè ìgbàanì kan run",
+        "A fun ijọba ti o ni agbara ati aṣẹ nla ni agbaye yii",
+        "Àwọn ẹyẹ tí wọ́n ń fò fọ́nká sí ẹgbẹ́ ọmọ ogun ńlá kan",
+        "Aláìlágbára kan tó sọ pé òun ni Ọlọ́run ni wọ́n rì sínú òkun."
+      ],
+      "answer": "A fun ni ile kan ni Paradise nipasẹ ifẹ Allah"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

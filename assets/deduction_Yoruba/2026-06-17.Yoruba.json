@@ -1,0 +1,61 @@
+{
+  "title": "Àworán Láti Etí Ìlú",
+  "intro": "Nínú ìlú kan tí ó yípadà sí ìtọ́sọ́nà Ọlọ́run, ẹni kan ṣoṣo kan jáde láti ìta, ó ń sáré pẹ̀lú ìhìnrere àti ìkìlọ̀. Ẹ̀mí tí a ti gbàgbé yìí yóò di àmì ayérayé ti ìgbàgbọ́ tí ó dúró ṣinṣin.",
+  "clues": [
+    "Mo rí àwọn ìránṣẹ́ tí wọ́n ń rán sí ìlú mi, ṣùgbọ́n àwọn ènìyàn mi kò gbà wọ́n gẹ́gẹ́ bí ènìyàn lásán.",
+    "Mo gba ìhìn wọn gbọ́, mo sì nímọ̀lára pé òtítọ́ náà dún dáadáa nínú ọkàn mi.",
+    "Mo pe awọn eniyan mi lati gbọ ti awọn ojiṣẹ ti ko beere fun ere.",
+    "Mo sáré láti ìpẹ̀kun ìlú náà, mo sì ń gbìyànjú láti jẹ́ kí wọ́n rí ìdí.",
+    "Àwọn ènìyàn mi dìde sí mi, wọ́n sì pa mí, ṣùgbọ́n mo rí àlàáfíà ayérayé.",
+    "Allah sọ fún mi pé, ‘Wọ inú Párádísè,’ mo sì fẹ́ kí àwọn ènìyàn mi rí ọlá tí a fún mi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Olùgbàgbọ́ ti Ya-Sin",
+        "Uzair, Oníbéèrè",
+        "Al-Khidr Itọsọna naa",
+        "Onígbàgbọ́ ìdílé Fáráò",
+        "Namrud alákòóso"
+      ],
+      "answer": "Olùgbàgbọ́ ti Ya-Sin"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Láti kojú àwọn ènìyàn aláìgbàgbọ́ tí wọ́n pa á",
+        "Jíjẹ́ tí a jù sínú iná tí ń jó",
+        "Jíjẹ́ tí ẹja ńlá gbé mì",
+        "Kíkọ́ ọkọ̀ áàkì ńlá kan",
+        "Sá fún ẹgbẹ́ ọmọ ogun apànìyàn"
+      ],
+      "answer": "Láti kojú àwọn ènìyàn aláìgbàgbọ́ tí wọ́n pa á"
+    },
+    "location": {
+      "label": "Ipò Pàtàkì",
+      "options": [
+        "Ìparí ìlú tó jìnnà jùlọ",
+        "Òkè Túrì",
+        "Àfonífojì Àwọn Eérú",
+        "Àwọn etí odò Náílì",
+        "Ihò ihò náà"
+      ],
+      "answer": "Ìparí ìlú tó jìnnà jùlọ"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ikú ikú àti wíwọlé sínú Párádísè lẹ́sẹ̀kẹsẹ̀",
+        "Àbájáde àti ìgbàlà",
+        "Ìgòkè lọ sí ọ̀run",
+        "Rírì sínú omi",
+        "Dídi òkúta"
+      ],
+      "answer": "Ikú ikú àti wíwọlé sínú Párádísè lẹ́sẹ̀kẹsẹ̀"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

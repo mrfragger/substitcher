@@ -1,0 +1,61 @@
+{
+  "title": "Nafta Khaaska ah ee Su'aal gelisay Awoodda",
+  "intro": "Qormada Qur'aanka, waxaa jiray qof hantidiisa iyo aqoontiisu ay noqotay mid caan ah. Naftani waxay ka soo baxday dhulka iyadoo wadata qurxin iyo hanti yaabisay dadkii daawanayay, haddana qalbigoodu wuu kibray oo kibir ayay la dhaceen. Nala soo biir annagoo furfurayna sirta mid ka mid ah sheekooyinka ugu taxaddarka badan ee Qur'aanka, halkaas oo weynaanta maaddigu ay ku dhammaato hoos u dhac dhulka ay ku dhalatay nasiibkooda.",
+  "clues": [
+    "Waxaan ka soo baxay dhulka anigoo ku qurxiyay qurxin soo jiidatay indhaha qof walba.",
+    "Waxaan lahaa hanti badan iyo aqoon qoto dheer oo iga soocday kuwa kale.",
+    "Markii rasuul u yimid dadka oo Alle u yeeraya, waxaan si kibir leh u weydiiyay awooddooda.",
+    "Dadkii hareerahayga joogay ayaa ku hoos hadlay in nimcada Alle aysan ahayn isha hantidayda.",
+    "Dadkaygu waxay la yaabeen sharaftayda waxayna rabeen qaddar la mid ah tayda.",
+    "Dhismayaashaydii quruxda badnaa waxaa dhulka oo dhan loogu liqay ciqaab rabbaani ah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Shucayb",
+        "Qaaruun (Korah)",
+        "Saaxiibkii hodanka ahaa ee Nebi Muuse",
+        "Balcaam ibnu Ba'ura",
+        "Wasiirka Zul-Qarnain"
+      ],
+      "answer": "Qaaruun (Korah)"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Dhisidda weysha dahabka ah ee cibaadada",
+        "Si kibir leh oo su'aal looga keenay awoodda nebi",
+        "Hantida laga ururiyay qaran abaaro ay saameeyeen",
+        "Diidmada in la wadaago aqoonta culimada",
+        "Weydiisashada nebi caddayn muuqaal ah oo ku saabsan sarakicidda"
+      ],
+      "answer": "Si kibir leh oo su'aal looga keenay awoodda nebi"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Magaalada Midyaan",
+        "Qasriyo badda ku dhex milmay",
+        "Qurxinta iyo khasnadaha",
+        "Geedka gubanaya ee Buur Siinay",
+        "Bannaanka ciidda ah ee Masar hore"
+      ],
+      "answer": "Qurxinta iyo khasnadaha"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Waxaa loo beddelay tiir cusbo ah",
+        "Badda ku tuur onkod iyo hirar dhexdooda",
+        "Dhulku wuxuu liqay hanti kasta oo uu leeyahay",
+        "Kor loogu qaaday samada isagoo nool calaamad ahaan",
+        "Dhulku wuxuu ku cunay qoomamo waarta."
+      ],
+      "answer": "Dhulku wuxuu liqay hanti kasta oo uu leeyahay"
+    }
+  },
+  "verseRef": "29:39",
+  "arabic": "وَقَـٰرُونَ وَفِرْعَوْنَ وَهَـٰمَـٰنَ ۖ وَلَقَدْ جَآءَهُم مُّوسَىٰ بِٱلْبَيِّنَـٰتِ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ وَمَا كَانُوا۟ سَـٰبِقِينَ",
+  "verse": "And [We destroyed] Qārūn and Pharaoh and Hāmān. And Moses had already come to them with clear evidences, and they were arrogant in the land, but they were not outrunners [of Our punishment]. (29:39)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Trust Yakaiswa kuRwizi",
+  "intro": "Mweya wakatarisana nemutemo usingagoneki, uko hupenyu hwemwana achangoberekwa hwakanga hwakarembera. Achitungamirirwa nekufemerwa naMwari, murairo wakaoma wakateererwa, uye chakavanzika chinokosha chakaiswa pamvura, asi chakadzorerwa nenzira isingatarisirwi.",
+  "clues": [
+    "Ndaigara pasi pemumvuri wemudzvinyiriri airayira kuurayiwa kwevana vacheche.",
+    "Kufemerwa naMwari kwakauya kwandiri, kundiraira kuti ndiite chiito chekupererwa uye chinobaya mwoyo.",
+    "Ndakaisa mwana wangu mubhokisi ndokumuisa parwizi rwaiyerera.",
+    "Mwoyo wangu wakava usina chinhu, uye ndakapotsa ndaburitsa chakavanzika, asi Allah akasimbisa kutsunga kwangu.",
+    "Ndakatuma mumwe munhu kuti atevere rwendo rwemwana achidzika nerwizi sezvo mvura yaitakura bhokisi.",
+    "Mwana uyu akawanikwa nemhuri yemudzvinyiriri, uye pakupedzisira, ndakabatanazve nemwana wangu ndikava muchengeti wevana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Amai vaMuporofita Musa",
+        "Asiya (Mukadzi waFarao)",
+        "Maryam (Amai vaMuporofita Isa)",
+        "Mudzimai waMuporofita Lut",
+        "Amai vaMuporofita Yahya (mukadzi waZakariya)"
+      ],
+      "answer": "Amai vaMuporofita Musa"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Akaisa mwana wake mubhokisi ndokumuisa parwizi",
+        "Akaviga mwana wake mubako",
+        "Akasiya mwana wake murenje",
+        "Akakanda mwana wake mumoto",
+        "Akasiya mwana wake pamusuwo wemosque"
+      ],
+      "answer": "Akaisa mwana wake mubhokisi ndokumuisa parwizi"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Bhokisi rakaiswa pamusoro perwizi",
+        "Gwenzi rinopfuta",
+        "Tsvimbo yakashanduka kuita nyoka",
+        "Tafura yakawaridzwa chikafu chinobva kudenga",
+        "Ngamera hadzi yakatumirwa sechiratidzo"
+      ],
+      "answer": "Bhokisi rakaiswa pamusoro perwizi"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akabatanazve nemwana wake ndokumuyamwisa",
+        "Haana kuzomboona mwana wake zvakare",
+        "Akaurayiwa nemudzvinyiriri",
+        "Akava mambokadzi muIjipiti",
+        "Akatamira kune imwe nyika ndokugara muutapwa"
+      ],
+      "answer": "Akabatanazve nemwana wake ndokumuyamwisa"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

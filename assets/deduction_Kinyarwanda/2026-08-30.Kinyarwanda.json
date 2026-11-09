@@ -1,0 +1,61 @@
+{
+  "title": "Umwuka wizewe wo mu Byahishuwe",
+  "intro": "Mu isi zitagaragara, ikiremwa gifite umucyo ukeye kigenda neza, gishyira mu bikorwa buri tegeko nta gushidikanya. Uyu muntu yavuganye n'abagaragu be batoranijwe, azana amagambo y'ubuyobozi, kandi yiboneye ikwirakwizwa ry'amategeko y'Imana mu bihe byose. Ni nde uyu bugingo bw'icyubahiro?",
+  "clues": [
+    "Ndi ikiremwa gifite urumuri rutunganye, cyaremwe mu mucyo, kandi sinigeze nsuzugura itegeko na rimwe ry’Umwami wanjye.",
+    "Ndimo ngenda hagati y'ijuru n'isi, manuka n'amategeko y'Impuhwe nyinshi.",
+    "Natumwe ku mukobwa w’isugi w’umunyacyubahiro mu rusengero, ndamumenyesha umuhungu w’umuziranenge.",
+    "Ndi umwuka w'ubutagatifu, kandi nashyigikiye umuhanuzi wahawe ibimenyetso bisobanutse neza n'ubutumwa bwiza.",
+    "Nageze mu buvumo buri ku musozi kugira ngo mbabwire amagambo ya mbere y'isomo yari kuzigama iteka ryose.",
+    "Ndi umwuka wizewe, kandi ni njye wamanuye Quran ku mutima w'intumwa ya nyuma."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Jibril (Gabrieli)",
+        "Mikail (Mikayeli)",
+        "Malayika w'urupfu",
+        "Malik (Umurinzi w'Ikuzimu)",
+        "Harut (umwe mu bamarayika babiri bari i Babuloni)"
+      ],
+      "answer": "Jibril (Gabrieli)"
+    },
+    "trial": {
+      "label": "Intego/Uruhare rw'ingenzi",
+      "options": [
+        "Gutanga ihishurirwa ku bahanuzi",
+        "Kuvuza impanda ku munsi w'urubanza",
+        "Kurinda amarembo y'ikuzimu",
+        "Kwandika ibikorwa by'abantu",
+        "Bituma imvura igwa"
+      ],
+      "answer": "Gutanga ihishurirwa ku bahanuzi"
+    },
+    "location": {
+      "label": "Ikiranga cy'ingenzi cyangwa Umutwe",
+      "options": [
+        "Umwuka Wera (Ruh al-Qudus)",
+        "Umwuka w'Imbaraga",
+        "Umwuka w'Imbabazi",
+        "Umwuka w'Ubuyobozi",
+        "Umwuka w'Ukuri"
+      ],
+      "answer": "Umwuka Wera (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Umusaruro w'ubutumwa",
+      "options": [
+        "Korowani yahishuriwe Intumwa Muhamadi",
+        "Impanda yavugijwe ku munsi w'urubanza",
+        "Ikuzimu harinzwe kandi amarembo yako yari afunze",
+        "Igitabo cy'ibikorwa cyashyikirijwe Allah",
+        "Imvura yaguye ku isi"
+      ],
+      "answer": "Korowani yahishuriwe Intumwa Muhamadi"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

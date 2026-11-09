@@ -1,0 +1,61 @@
+{
+  "title": "Baaqa ka imanaya Dooxada Barakaysan",
+  "intro": "Boggaga taariikhda waxaa ka baxsan sheekada nafta oo u dhaxaysay taliye awood leh iyo dad addoon ah oo dhan. Qofkan waxaa loogu yeeray inuu qaran ka samatabbixiyo kalitalisnimo, isagoo sameynaya yaabab ka hor imaanaya sharci kasta oo dabiici ah. Laga soo bilaabo buur barakeysan ilaa mucjiso biyaha dul saaran, addoonkan Alle wuxuu arkay calaamado soo noqnoqonayay qarniyo badan. Hawshaada maanta waa inaad aqoonsato shakhsigan cajiibka ah ee dhaxalkiisu uu qaabeeyey jidka taariikhda aadanaha.",
+  "clues": [
+    "Waxaan dhashay xilli ay dadkaygu la kulmeen amar dilaa ah, qoyskayguna ay biyaha i dhigeen si aan naftayda u badbaadiyo.",
+    "Waxaa la i helay oo la i soo barbaariyay guriga taliyaha amray dhimashada nooceyda ah.",
+    "Waxaan u cararay buur barakeysan halkaas oo aan ku arkay dab geed saaran oo aan guban, codna igala hadlay.",
+    "Waxaa dib laygu soo celiyey taliyahaas iyadoo la i xasuusinayo mucjisooyin, iyagoo dalbanaya xorriyadda dadkayga addoonsiga ah.",
+    "Ushaydii ayaan badda ku dhuftay, oo waxay u kala qaybsameen waddooyin qalalan, anigoo liqay kuwii raacdayey dadkii aan la socday.",
+    "Waxaan Rabbigeyga kula hadlay buur muddo afartan habeen ah, waxaana la ii siiyay looxyo hanuun ah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Muuse",
+        "Nabi Haaruun",
+        "Nabi Ibraahim",
+        "Nabi Yuusuf",
+        "Nabi Daa'uud"
+      ],
+      "answer": "Nabi Muuse"
+    },
+    "trial": {
+      "label": "Tijaabadayda Qeexida",
+      "options": [
+        "Kala Qaybsanaanta Badda",
+        "Dhisidda Doontii Weynayd",
+        "Tijaabin Dab Dab Qabsaday",
+        "Xayiraad ku jirta Caloosha Nibiriga",
+        "Xabsi uu ku jiray Sarkaal Masar ah"
+      ],
+      "answer": "Kala Qaybsanaanta Badda"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Usha Adhijirka",
+        "Doon Alwaax ah oo Weyn",
+        "God uu Waqtigu ku seexday",
+        "Beer leh laba ilo-biyood",
+        "Carshi Dahab lagu qurxiyey"
+      ],
+      "answer": "Usha Adhijirka"
+    },
+    "outcome": {
+      "label": "Natiijada",
+      "options": [
+        "Dadkaygu waxay Badda uga gudbeen si ay u badbaadaan",
+        "Daad weyn ayaa baabi'iyay gaalada",
+        "Dabkii Daalimiinta ayaa Qabow iyo Nabad noqday",
+        "Baddu waxay ku tuurtay dadkii ay afduubka ku haysatay xeebta",
+        "Maxaabiistii waxay noqotay Khasnajiga Masar"
+      ],
+      "answer": "Dadkaygu waxay Badda uga gudbeen si ay u badbaadaan"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

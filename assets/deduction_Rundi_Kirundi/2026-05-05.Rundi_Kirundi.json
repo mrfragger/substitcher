@@ -1,0 +1,61 @@
+{
+  "title": "Uguhobera kw'isi",
+  "intro": "Mu gihe c’ibigeragezo bikomeye, umuntu azwi cane yarahawe umusesekara mwinshi cane wo mw’isi, ikigeragezo co gukenguruka no kwicisha bugufi. Urugendo rw’uwo mubare ruratanga icigwa gikomeye ku bijanye n’ukuntu ivy’umubiri bishobora guhera be n’ingaruka z’ubwibone. Himbura akaranga k’uwo mutima inkuru yawo icuzwe mw’ivu nyene riri munsi yacu.",
+  "clues": [
+    "Nabaye mu bantu barongowe n’intumwa ikomeye.",
+    "Allah yampaye ubutunzi bwinshi cane ku buryo imfunguruzo z’ubutunzi bwanje nyene zari umuzigo uremereye ku bantu benshi bakomeye.",
+    "Abantu banje, bazi ubutunzi bwanje, barampaye impanuro yo kurondera uburaro bwa nyuma y’iherezo n’ivyo Allah yampaye no kutabagira umugabane wanje w’isi, no gukora neza nk’uko Allah yankoreye neza.",
+    "Naramenyesheje n’ubwibone yuko ubutunzi bwanje burengeye ubw’abandi bwaronkejwe gusa n’ubumenyi bwanje bwite be n’utwigoro twanje bwite, nkihakana ubutoni ubwo ari bwo bwose bw’Imana.",
+    "Igihe nasabwa gutanga canke kwemera ubuntu bwa Allah, naranse n’ubwibone, nizera ko ivyo mfise ari ivyanje gusa.",
+    "Kubera ubwibone n’agahahazo kanje birenze urugero, Allah yategetse isi gufunguka ikamira jewe n’aho mba."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Fir'awni",
+        "Iblisi",
+        "Hamani",
+        "Abu Lahabu",
+        "Qarun"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Kujugunywa mu muriro .",
+        "Kurohama mu kiyaga",
+        "Kuba yaciwe mw'itongo .",
+        "Guhindurwa nk'inkende",
+        "Kumirwa n'isi ."
+      ],
+      "answer": "Kumirwa n'isi ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Inyana y'inzahabu",
+        "Ubwato bukomeye",
+        "Inyoni ivuga",
+        "Inkoni y'igitangaza",
+        "Itunga rikomeye cane n'imfunguruzo"
+      ],
+      "answer": "Itunga rikomeye cane n'imfunguruzo"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Kuba umutware akomeye .",
+        "Kuronka ihishurirwa ry'Imana .",
+        "Kuduga mu ijuru .",
+        "Kubaho ubuzima buramba bw'ubumana .",
+        "Gutikizwa rwose kubera ubwibone"
+      ],
+      "answer": "Gutikizwa rwose kubera ubwibone"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

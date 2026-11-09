@@ -1,0 +1,61 @@
+{
+  "title": "Ituro ryahinduye iherezo",
+  "intro": "Mu minsi ya mbere y’ikiremwamuntu, roho yatangaga impano ifite intego nziza. Nyamara, ishyari ryari mu gicucu cyo kwemerwa. Menya inkuru y’uyu muntu ufite ubwitange n’iherezo ribabaje bitazigera bipfa mu ihishurirwa ry’Imana.",
+  "clues": [
+    "Nari mu gisekuru cya mbere cy’abantu.",
+    "Nahaye Umwami wanjye ituro, kandi ryakiriwe neza.",
+    "Ituro rya mukuru wanjye ryaranzwe, kandi ishyari ryamugize umwijima mu mutima.",
+    "Naramubwiye nti: 'Nurambura ukuboko kwawe unyereke ngo unyice, ntabwo nzarambura ukuboko kwanjye ngo nkwice; mu by'ukuri ntinya Imana, Umwami w'isi yose.'",
+    "Nabaye uwahohotewe n'igikorwa cya mbere cy'ubwicanyi ku isi.",
+    "Amaraso yanjye yaratakaye, kandi ndi uwa mbere mu bahowe Imana w’umwere."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Habili (Abeli)",
+        "Qabil (Kayini)",
+        "Umugabo wo muri Ya-Sin",
+        "Abasamiri",
+        "Luqman"
+      ],
+      "answer": "Habili (Abeli)"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Igitambo cye cyakiriwe, bituma umuvandimwe we agira ishyari maze yicwa",
+        "Yajugunywe mu itanura ry'umuriro ariko asohokamo adakomeretse",
+        "Yubatse ubwato bunini cyane ayobowe n'Imana",
+        "Yamizwe n'ifi nini maze aguma mu mwijima",
+        "Yayoboye ubwoko bwe mu nyanja yari yaragabanutsemo ibice"
+      ],
+      "answer": "Igitambo cye cyakiriwe, bituma umuvandimwe we agira ishyari maze yicwa"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Igitambo cyemewe",
+        "Inkoni ihinduka inzoka",
+        "Ingamiya y'ingore nk'ikimenyetso cy'Imana",
+        "Impungenge izanye amakuru",
+        "Inyana y'izahabu yasengwaga"
+      ],
+      "answer": "Igitambo cyemewe"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Ubwicanyi bwa mbere mu mateka; murumuna we yaciriweho iteka",
+        "Yamizwe n'isi hamwe n'ubutunzi bwe",
+        "Yahindutse inkende kubera kurenga ku mategeko",
+        "Yashenywe n'umuyaga ukaze kandi w'urubura",
+        "Yarohamye mu myuzure ikomeye nk'igihano"
+      ],
+      "answer": "Ubwicanyi bwa mbere mu mateka; murumuna we yaciriweho iteka"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

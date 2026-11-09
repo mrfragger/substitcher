@@ -1,0 +1,61 @@
+{
+  "title": "Mutsvaki Akasimba weChokwadi",
+  "intro": "Munguva yakafukidzwa nekusaziva uye kunamata vanamwari venhema, rwendo rukuru rwekutenda rwakamuka. Munhu uyu akapikisa tsika dzenzanga yavo, achitsvaga Musiki Mumwe Chete wechokwadi nechivimbo chisingazununguki. Gadzirira kuburitsa pachena hunhu hwemweya une nhaka inoramba ichikurudzira mamiriyoni.",
+  "clues": [
+    "Ndakabvunza nezvezvinhu zviri kudenga, ndichitsvaga Ishe wechokwadi anogadzira uye anotsigira zvese.",
+    "Ndakarayirwa kuti ndibve munyika yangu, ndichienda kunyika yakaropafadzwa naAllah.",
+    "Ndakapikisa zvidhori zvevanhu vangu, ndichitarisana nekusabatsira kwazvo nekuzviputsa.",
+    "Ndakakandwa mumoto waipfuta nevanhu vangu, asi zvakava zvinotonhorera uye zvine rugare kwandiri nemurairo waAllah.",
+    "Ndakaedzwa nemurairo wekuti ndibayire mwanakomana wangu wedangwe wandinoda, muedzo wekuzviisa pasi pemutemo wekupedzisira.",
+    "Ini, pamwe chete nemwanakomana wangu, takavaka nheyo dzeImba yekutanga yekunamatira pasi pano, nzvimbo tsvene yevanhu vose."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Nuh",
+        "Muprofita Yusuf",
+        "Muprofita Salih",
+        "Muprofita Ibrahim",
+        "Muprofita Isa"
+      ],
+      "answer": "Muprofita Ibrahim"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Mafashamo makuru",
+        "Kupatsanurwa kwegungwa",
+        "Kuparadzwa kweThamud",
+        "Murayiro wekubaira mwanakomana",
+        "Rwendo rwemurenje neAreka"
+      ],
+      "answer": "Murayiro wekubaira mwanakomana"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Vashandi",
+        "Gomo reTur",
+        "Areka",
+        "Kaaba",
+        "Mhuru Yegoridhe"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akava mutongi weEgipita",
+        "Vanhu vake vakanyura",
+        "Akapihwa uchenjeri nedzinza rakarurama",
+        "Yakamedzwa nehove huru",
+        "Guta rake rakaparadzwa"
+      ],
+      "answer": "Akapihwa uchenjeri nedzinza rakarurama"
+    }
+  },
+  "verseRef": "21:69",
+  "arabic": "قُلْنَا يَـٰنَارُ كُونِى بَرْدًۭا وَسَلَـٰمًا عَلَىٰٓ إِبْرَٰهِيمَ",
+  "verse": "We [i.e., Allāh] said, \"O fire, be coolness and safety upon Abraham.\" (21:69)"
+}

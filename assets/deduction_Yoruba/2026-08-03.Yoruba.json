@@ -1,0 +1,61 @@
+{
+  "title": "Orisun omi lábẹ́ iyanrìn",
+  "intro": "Nínú àwọn ìwé ìtàn Al-Quran, ẹni tí ó ní sùúrù púpọ̀ dojúkọ àdánwò kan tí yóò ba àwọn ọkàn tí ó lágbára jùlọ jẹ́. Gbogbo nǹkan ni a kó lọ - ọrọ̀, ìdílé, àti ìlera. Síbẹ̀ láti inú ìjákulẹ̀, a dáhùn àdúrà onírẹ̀lẹ̀ lọ́nà tí a kò retí. Ṣé o lè dá ẹni tí ìtàn ìmúpadàbọ̀sípò yìí ń dún ní gbogbo ọjọ́ ayé rẹ̀ mọ̀?",
+  "clues": [
+    "Wọ́n dán mi wò pẹ̀lú ìdánwò líle tó bẹ́ẹ̀ tí a fi ń rántí rẹ̀ láti ìgbà pípẹ́ wá.",
+    "Mo pàdánù gbogbo ohun tó ṣe pàtàkì - ọrọ̀ mi, àwọn ọmọ mi, àti ìlera mi.",
+    "Ara mi kún fún ọgbẹ́ tó ń ro mí, gbogbo ènìyàn sì sá fún mi.",
+    "Nínú ìbànújẹ́ ọkàn mi, mo ké pe Allah, mo ní Satani ti fi ìnira àti ìjìyà kàn mí.",
+    "Allah dá mi lóhùn, ó sì pàṣẹ fún mi láti fi ẹsẹ̀ mi lu ilẹ̀.",
+    "Láti ibẹ̀ gan-an ni ìsun omi tútù kan ti bẹ̀rẹ̀ sí í jáde, Ọlọ́run sì dá ìdílé mi padà, ó sì tún wọn ṣe bí àánú."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Ayyub",
+        "Wòlíì Mósà",
+        "Wòlíì Ilyas",
+        "Wòlíì Súláímọ́nì",
+        "Wòlíì Dáfídì"
+      ],
+      "answer": "Wòlíì Ayyub"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Àìsàn líle koko àti àdánù ìdílé àti ọrọ̀",
+        "Bí ẹja ńlá kan bá gbé e mì",
+        "Ìgbèkùn kúrò ní ìlú Makkah",
+        "Wọ́n fi sẹ́wọ̀n sínú kànga jíjìn kan",
+        "Ìjà pẹ̀lú alákòóso agbéraga kan"
+      ],
+      "answer": "Àìsàn líle koko àti àdánù ìdílé àti ọrọ̀"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Orisun omi tutu lati ilẹ",
+        "Ọkọ̀ ojú omi lórí ìkún omi ńlá kan",
+        "Ọ̀pá tí ó pín òkun níyà",
+        "Ìtẹ́ dígí tí a gbé sókè",
+        "Ihò tí a fi ògiri ṣe fún oorun"
+      ],
+      "answer": "Orisun omi tutu lati ilẹ"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ìdílé àti ọrọ̀ padà bọ̀ sípò, wọ́n sì tún ṣe ìlọ́po méjì",
+        "Jáde kúrò nínú ikùn ẹja",
+        "Ọ̀nà ààbò láàrín omi tí a pín sí méjì",
+        "Ìjọba tí a fún ní ìṣàkóso",
+        "Ìbí ọmọ kan ní ọjọ́ ogbó"
+      ],
+      "answer": "Ìdílé àti ọrọ̀ padà bọ̀ sípò, wọ́n sì tún ṣe ìlọ́po méjì"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

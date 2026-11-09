@@ -1,0 +1,61 @@
+{
+  "title": "Adda xer addak seece num",
+  "intro": "Qibaadah farmo elle aamineh yan rooci ucsub, away inkittiy, sissik uddurut, qaduuk idini sinnim ken ummattak yewqe. Ta safar qaadik ane sinni gibbatu fan ken beyte, sabri kee Fayya le numul kibal leh tan gibbatu. Ta numtin amoh aydaadi toobaa kee Yallih racmattah fidna nee barsa miyyaay?",
+  "clues": [
+    "Anu kaxxa agat fan ruubeenih sugen, takkay immay ken qimbô cinni yoo taqabiseh.",
+    "Anu inni ummatta cabeh, inni farmo duudumteh aaminem, gexuh qado amri geyak naharal.",
+    "Anu markabat tatur faxak suge, takkay immay kaxxa caacayti caacayti kee mango muucitte gibdi caalat fan beyte.",
+    "Anu baddi addat qideeh, addah yan caylale gino inki gabuuk yoo tunxuqeh.",
+    "tet garbih diteh addat, anu Yalla seeceeh, inni qellat oggoleh, qafuuta kaak essera.",
+    "Yalli amriseh gino baddi qaxal yoo qiddam kee anu qaafiyatah gacse baxsale caxah gubat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Anu miyyaay?",
+      "options": [
+        "Nabi Yuusuf (Yusuf)",
+        "Nabiyyi Nuuc (Nuuc)",
+        "Nabiyyi Yuunus (Yunus)",
+        "Nabi Suleymaan (Suleymaan)",
+        "farmoyti Ayyub (taama)"
+      ],
+      "answer": "Nabiyyi Yuunus (Yunus)"
+    },
+    "trial": {
+      "label": "Gibbatu/Tekkooka",
+      "options": [
+        "Baddi baxsi",
+        "Nimroodih gira",
+        "Kaxxa kullumti yanxuqe",
+        "weeqi qawwalayla",
+        "Magaala xaahi finqa."
+      ],
+      "answer": "Kaxxa kullumti yanxuqe"
+    },
+    "location": {
+      "label": "Lafa le liyyitte",
+      "options": [
+        "Doonik",
+        "Taama abeynit",
+        "Kullumti garba",
+        "Boodo",
+        "cararta caxa"
+      ],
+      "answer": "Kullumti garba"
+    },
+    "outcome": {
+      "label": "Xalu",
+      "options": [
+        "Kaxxa mirac Yekke.",
+        "Kaaba xissimeh.",
+        "toobitte agat miraacissuh yuduureh",
+        "Jinni amot reeda yomcowweh suge",
+        "sinam bacari fanah miraacisa"
+      ],
+      "answer": "toobitte agat miraacissuh yuduureh"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Wullaango Nanaango Dow Noddaango",
+  "intro": "Aɗa nana daande ummotoonde e renndo ngo tooñannge wonti ko woodaani. Alaa kollirgol doole jaabotoo wullitaango ngoo ; kono eeraango toowngo ina yettoo Alla, jaabawol ngol ina fiyra ɓernde dewal e hoore mum. Hol baɗɗo ndeen wullitaango, hol naamnal rewi heen, hol goonga tabitinaaɗo ?",
+  "clues": [
+    "Mi wonti ƴattoore e tooñannge yimɓe wonɓe e sara am.",
+    "Mi daande oon wullitaango to Alla e nder wullitaango am.",
+    "Alla nani wullitaango ngoo, jaabii e caɗeele ko fayti e gooŋɗinal am.",
+    "Jaabawol ngol naamndii hol no mbaawir mi waasde goongɗinde Alla gooto, toowɗo.",
+    "Mi naamndii ndeen hol ko waɗi Alla ina foti weltinde leñol ngol keefeeraani.",
+    "Miin woni Uzair, inniraaɗo e nder suura Az-Zukhruf ko mo wullitaango mum Alla nani."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol ko ngonmi?",
+      "options": [
+        "Usayir",
+        "Sehil jahroowo e ilam mawɗam",
+        "Maccuɗo jahoowo dow ndiyam",
+        "Ɗaaniiɗo oo ina reeni e nder ngaska",
+        "Maccuɗo gadduɗo kaaƴe e maayo"
+      ],
+      "answer": "Usayir"
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "Wullaade Allah e tooñannge leñol ngol",
+        "Yahde e dow ndiyam e nder henndu",
+        "Naatde kaaƴe e maayo ngo alaa ndiyam",
+        "Laana ndiwoowa e nder ilam mawɗam e nder laana",
+        "Jaɓɓaade coktirgal ngalu keewngu"
+      ],
+      "answer": "Wullaade Allah e tooñannge leñol ngol"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Wullitaango toowngo feewde e Alla",
+        "Sawru ndu wonti mboddi",
+        "Fuurde waɗnde cooyngal e jam",
+        "Laana ina ɓuuɓtoo dow ndiyam ilam",
+        "Liɗɗi ina muña maccuɗo"
+      ],
+      "answer": "Wullitaango toowngo feewde e Alla"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "Alla nani wullitaango ngoo, o tabitini Gootol Alla e Joomiraawo Toowɗo",
+        "Yahde e dow ndiyam e jam e nder henndu",
+        "Taƴde ilam mawɗam e jam e nder laana",
+        "Heɓtude gite nder galle mawnikinaare",
+        "Jaɓde laamu nguu ina yaaji gila Fuɗnaange haa Hirnaange"
+      ],
+      "answer": "Alla nani wullitaango ngoo, o tabitini Gootol Alla e Joomiraawo Toowɗo"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

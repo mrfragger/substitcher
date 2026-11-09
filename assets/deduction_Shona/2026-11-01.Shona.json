@@ -1,0 +1,61 @@
+{
+  "title": "Inzwi Rakaramba Kuora Mwoyo",
+  "intro": "Pinda mumhuri umo kurasikirwa kunotevera kurasikirwa, asi inzwi rimwe chete rakadzikama rinoramba kuora mwoyo. Kushevedzera kamwe chete muKorani kunoshandura mwoyo murefu kuita shanduko; unogona here kutsvaga zviratidzo zvemunhu ari shure kwezwi iroro?",
+  "clues": [
+    "Ndaiva inzwi remwoyo murefu mumba umo makomborero aiedzwa nenjodzi.",
+    "Ndakaramba ndiri mumba musina vanhu nekuda kwekurasikirwa nepfuma nevana.",
+    "Ndaiziva kuti chirwere chakanga chabatawo shamwari yake, ine muviri wairwara.",
+    "Dambudziko parakanyanya, ndakashevedzera ndichiyeuchidza Allah.",
+    "Ndakapa chirevo chimwe chete: Allah ndiye Chokwadi, saka rambai muine mwoyo murefu.",
+    "Ndakadana kuna Ayyub nezita; mushure mezvo, Allah akabvisa dambudziko racho ndokudzorera mhuri."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Mudzimai weMuporofita Ayyub",
+        "Mudzimai weMuporofita Nuh",
+        "Mudzimai weMuporofita Ibrahim",
+        "Mudzimai weMuporofita Ya'qub",
+        "Mwanasikana waFarao"
+      ],
+      "answer": "Mudzimai weMuporofita Ayyub"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kuramba naAyyub munguva yekurasikirwa nekurwara, wobva wakumbira mwoyo murefu",
+        "Yambiro kunhume yakarurama kuti irege nharaunda ine huori",
+        "Kunyengeterera kuzvarwa kwedzinza remangwana",
+        "Kududzira zviroto mukati mejeri rehumambo",
+        "Kuwana mwana wawakapihwa naye parutivi perwizi"
+      ],
+      "answer": "Kuramba naAyyub munguva yekurasikirwa nekurwara, wobva wakumbira mwoyo murefu"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Kuzivisa kuti Allah ndiye Chokwadi uye mwoyo murefu unodiwa",
+        "Muti wemuchindwe uri pedyo nechitubu",
+        "Kudanwa kwekuvaka chikepe kure nemafungu",
+        "Kurota kwenyeredzi gumi nerimwe nezuva richibuda",
+        "Dengu rakatakurwa nerwizi rwaNire"
+      ],
+      "answer": "Kuzivisa kuti Allah ndiye Chokwadi uye mwoyo murefu unodiwa"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Dambudziko raAyyub rakabviswa uye mhuri yake yakadzorerwa",
+        "Mwana akamirirwa kwenguva refu akapihwa mushure memunamato usina kubereka",
+        "Mutongi wechidiki akadudzira makore manomwe ezvakawanda nekushomeka",
+        "Mwana aitarisirwa akanunurwa kubva mumvura inoyerera",
+        "Nyevero isati yasvika mafashamo anoparadza"
+      ],
+      "answer": "Dambudziko raAyyub rakabviswa uye mhuri yake yakadzorerwa"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

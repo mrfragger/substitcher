@@ -1,0 +1,61 @@
+{
+  "title": "Wɔn a Wɔhwɛ Kokoam Otwa So",
+  "intro": "Wɔ asase bi a ɛso yɛ frɔmfrɔm so no, ankorankoro kuw bi yɛɛ kokoam nhyehyɛe bi wɔ esum akataso ase. Ná wɔn atirimpɔw koro, nanso na wɔn adwene nyɛ trenee koraa. Ná wonnim sɛ ɔsoro twitwiw bi retwɛn wɔn bere a wɔada no.",
+  "clues": [
+    "Yɛsii gyinae pintinn, a na yesusuw sɛ yɛn nhyehyɛe no nni mfomso.",
+    "Yɛyɛɛ yɛn adwene sɛ yebefi adi ntɛm, ansa na afoforo atumi akanyan wɔn ho mpo.",
+    "Yɛde yɛn ho sii asase a ɛsow aba so, a na yɛwɔ ahotoso wɔ yɛn nnuan mu.",
+    "Bere a yeduu baabi a yɛrekɔ no, yehui sɛ ɛhɔ yɛ kwae na amamfõ, enti yesusuwii sɛ yɛayera kwan.",
+    "Afei yehui sɛ ɛyɛ yɛn beae ampa, na yɛde abasamtu teɛɛm, de yɛn ho yɛn ho asodi too yɛn ho so wɔ yɛn adehwere no ho.",
+    "Na yɛaka ntam saa anɔpa no sɛ yɛbɛyi ahiafoɔ afiri yɛn nnɔbaeɛ mu, nanso Allah asotwe baa yɛn so berɛ a yɛdaeɛ, na ɛdanee yɛn turo no sɛe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Yɛn Yɛ Henanom?",
+      "options": [
+        "Turo no wuranom wɔ Surah 68 mu",
+        "Nnipa a Wɔte Saba",
+        "Ɔbodan no mu Ahokafo",
+        "Nnipa a Wɔyɛ Asono",
+        "Nnipa a Wɔte Amena no Mu"
+      ],
+      "answer": "Turo no wuranom wɔ Surah 68 mu"
+    },
+    "trial": {
+      "label": "Yɛn Sɔhwɛ",
+      "options": [
+        "Atoyerɛnkyɛm bi a efi soro sɛee yɛn turo no",
+        "Nsuyiri bi faa yɛn turo no mu",
+        "Ogya a efi ɔtamfo bi mu hyewee yɛn turo no",
+        "Ná mmoadabi ahyɛ yɛn turo no ma",
+        "Asasewosow bi menee yɛn turo no"
+      ],
+      "answer": "Atoyerɛnkyɛm bi a efi soro sɛee yɛn turo no"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Yɛkaa ntam sɛ yɛbɛtetew n’aba anɔpa",
+        "Yɛyɛɛ abura bi de gugu yɛn turo no so nsu",
+        "Yɛhwehwɛɛ guankɔbea wɔ ɔbodan bi mu de hwehwɛɛ ahobammɔ",
+        "Yesiesiee asraafo dɔm sɛ wobedi ahenni bi so nkonim",
+        "Yɛde po so hyɛn twaa po no"
+      ],
+      "answer": "Yɛkaa ntam sɛ yɛbɛtetew n’aba anɔpa"
+    },
+    "outcome": {
+      "label": "Yɛn Nkrabea",
+      "options": [
+        "Yenu yɛn ho na yɛhwɛɛ kwan sɛ mmɔborɔhunu bɛfiri Allah hɔ",
+        "Wɔsɛee yɛn koraa na yɛansakra yɛn adwene da",
+        "Yeguan fii asase no so na yɛansan amma bio",
+        "Yɛbɛyɛɛ tumifo ne adefo bio",
+        "Wɔtwee yɛn aso denam dan a wɔdan yɛn bonsu so"
+      ],
+      "answer": "Yenu yɛn ho na yɛhwɛɛ kwan sɛ mmɔborɔhunu bɛfiri Allah hɔ"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Àwọn Aṣojú Àánú àti Agbára",
+  "intro": "Fojú inú wo ọ̀sán kan tí àwọn arìnrìn-àjò tí wọn kò mọ̀ rí yóò dá dúró. Ìrísí wọn jẹ́ ohun tí ó wọ́pọ̀, ṣùgbọ́n ète wọn kò ju bẹ́ẹ̀ lọ. Wọ́n ní ìhìn-iṣẹ́ àtọ̀runwá kan tí yóò yí ọ̀nà orílẹ̀-èdè méjì padà, tí yóò mú ẹ̀rín wá sí ilé aláìlóbìí àti ìbẹ̀rù sí ìlú ẹlẹ́ṣẹ̀ kan. Ta ni àwọn àlejò àdììtú wọ̀nyí?",
+  "clues": [
+    "Wọ́n rán wa sí ìránṣẹ́ Allah kan tí ó jẹ́ olùfọkànsìn, tí a mọ̀ fún àlejò wọn tí kò lópin.",
+    "A dé ní ìrísí àlejò, síbẹ̀ olùgbàlejò wa nímọ̀lára ohun mìíràn nípa wíwà wa.",
+    "A mú ìròyìn kan wá tó mú kí obìnrin àgbàlagbà kan rẹ́rìn-ín pẹ̀lú àìnígbàgbọ́, tó sì ń lu ojú rẹ̀ pẹ̀lú ìyàlẹ́nu.",
+    "A yàn wá láti dáàbò bo ìdílé olódodo nígbà tí a bá ń rọ̀jò ìparun sórí ìlú tí ó kún fún ìwà ìbàjẹ́.",
+    "A kọ̀ láti jẹ oúnjẹ tí a fún wa, èyí sì mú kí ìfura àwọn tó gbàlejò wa túbọ̀ pọ̀ sí i.",
+    "A fi ìwà wa hàn kí a tó lọ, a sì wí pé, ‘Dájúdájú, àwa jẹ́ ìránṣẹ́ Olúwa rẹ.’"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni àwa?",
+      "options": [
+        "Àwọn Àlejò Ábúráhámù",
+        "Àwọn Ọmọ-ẹ̀yìn Jesu",
+        "Àwọn Alábàákẹ́gbẹ́ inú ihò náà",
+        "Ẹgbẹ́ ọmọ ogun Abraha",
+        "Àwọn ońṣẹ́ Ya-Sin"
+      ],
+      "answer": "Àwọn Àlejò Ábúráhámù"
+    },
+    "trial": {
+      "label": "Iṣẹ́ Àṣekára Wa",
+      "options": [
+        "Láti dán ìgbàgbọ́ Ábúráhámù wò nípa ọmọ rẹ̀",
+        "Láti fi ìwé mímọ́ fún Ábúráhámù",
+        "Láti kéde ìbí Isaaki àti ìparun àwọn ènìyàn Lọti",
+        "Láti tọ́ Abraham sọ́nà Kaaba",
+        "Láti gba Ábúráhámù là kúrò nínú iná"
+      ],
+      "answer": "Láti kéde ìbí Isaaki àti ìparun àwọn ènìyàn Lọti"
+    },
+    "location": {
+      "label": "Ibi Ifihan",
+      "options": [
+        "Ní ilẹ̀ Íjíbítì",
+        "Ní ìlú Úrì",
+        "Ní ilé Ábúráhámù",
+        "Nínú ọgbà Édẹ́nì",
+        "Níbi kànga Zamzam"
+      ],
+      "answer": "Ní ilé Ábúráhámù"
+    },
+    "outcome": {
+      "label": "Esi ni",
+      "options": [
+        "Ábúráhámù di ọba",
+        "Ábúráhámù kọ́ ilé Kaaba",
+        "Sárà bí Ísákì, àwọn ènìyàn Lọ́ọ̀tì sì parun",
+        "Ábúráhámù ṣí lọ sí Palestine",
+        "Àwọn ènìyàn Ábúráhámù ni a gbà là kúrò nínú ìkún omi ńlá kan"
+      ],
+      "answer": "Sárà bí Ísákì, àwọn ènìyàn Lọ́ọ̀tì sì parun"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

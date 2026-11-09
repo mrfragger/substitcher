@@ -1,0 +1,61 @@
+{
+  "title": "Ambullee sinni ankacsa",
+  "intro": "yanbullee baadak reebeynak darrel, qeltut tan kobox ditet gaaboowak, oson yaaxigeenih yaniinim inkih saduh tan xongolot hirgimte. oson numma miracsenta sinnim mango dabaanitteh weseenih sugen, ilaa xongolo ken ambullee wayta nummah tibbat culteeh, addat kak tanim uguugussa. Ta bar, silal fanah gexak, ta sirri buttah kinnaane diggoysoonuh, diini qangor luk sugeenim, sinni ummattah gabat gacteh tan nummah warkat keenih akah culsan innah arcibisen.",
+  "clues": [
+    "Nanu dumaahi gino kinnino, mango agattiinaani atu takriyeek naharal sugne, uxih nanu sahdayti baxi aydaadittet yabneh nan.",
+    "Ni gino ku gino hinna, ambulle waytaamak bicsen liyyitteh addat, kee nanu qaadik tan caylitte lino.",
+    "dabaanah, nanu numma miracsenta sinnim meekitak sugne, ilaa xongolo nee guftam fan too tukteenay addat kak uguugussa.",
+    "Nanu naabbem hinna innah tan kiryaati noobbeh, faxe yaabuk qilsa quukak tan qangor.",
+    "Nanu sirrit xayyowneh, ninnih tibba innam amrisneeh, ayat gaba kalte wak, nanu uxih sugnam madudna.",
+    "Nanu ninni ummatta fanah gacneeh, diggosnem: Yaa ni ummatta, nanu noobbeh kitab muusah lakal oobeeh, tohuk naharal sugtem diggossah, numma fan miraacissa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Anu miyyaay?",
+      "options": [
+        "Hawariyyun (Qiisah adabi)",
+        "Kuran yoobbeek widiril yeemene Jinni.",
+        "Gablah Sacaaba",
+        "Gubi qaraanak malaykoota",
+        "kay gita kataye firqawni ummatta ."
+      ],
+      "answer": "Kuran yoobbeek widiril yeemene Jinni."
+    },
+    "trial": {
+      "label": "Gibbatu/Tekkooka",
+      "options": [
+        "Nanu qusubuk ginnimteh tan ginok naharal qununnam cinneemih taagah irol qidneh sugne",
+        "Nanu gablah addat sidiica bool kee sagaal liggiditteh alfenne sugne.",
+        "Nek afal kurruume badak taturnam amrisenno.",
+        "Nanu baab baaxo fan rubneh sugne baab baritnuh",
+        "Nanu sirrit kawsi ankacisneeh, wohut milaagimne"
+      ],
+      "answer": "Nanu sirrit kawsi ankacisneeh, wohut milaagimne"
+    },
+    "location": {
+      "label": "Lafa le liyyitte",
+      "options": [
+        "ummattah bilqak bicsen dahabak tan ruga",
+        "xin hora horal elle suge gabla",
+        "Baabilonul waaso le ixxiga barse namma malayka",
+        "kitab yumbulleh muusah lakal, tawraat diggosa",
+        "cararta caxa diini qaleh amol"
+      ],
+      "answer": "kitab yumbulleh muusah lakal, tawraat diggosa"
+    },
+    "outcome": {
+      "label": "Xalu",
+      "options": [
+        "Illa abaaro elle sugnem fiyaamah ayro fanah.",
+        "Nanu caylale mirac saduh ugutneeh, baaxol adaf xisne",
+        "Nanu damaaqe kee cereyya fan milaagimne",
+        "Nanu ninni ummattah maabitina, imaan maysaxxagah nuduureh",
+        "Nanu ninni miraacak xaqut baddal culneh sugne."
+      ],
+      "answer": "Nanu ninni ummatta fan naduurem takkaawisso, imaan maysaxxaga"
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

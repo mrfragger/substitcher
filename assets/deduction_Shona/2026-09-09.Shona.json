@@ -1,0 +1,61 @@
+{
+  "title": "Mweya Wekutanga Kumira",
+  "intro": "Kare kare mutumwa asati afamba panyika, rugwaro rusati rwazarurwa, chisikwa chisina kufanana nechimwe chakavapo. Mweya uyu wakaumbwa nemaoko aMwari, wakapihwa nzvimbo yerunako rusina muganho, uye wakaedzwa nenzira yaizodzokorora nhoroondo yese yevanhu. Zvakatevera nyaya yekushaya simba, kutendeuka kwechokwadi, uye mugumo waizochinja nzira yekusika nekusingaperi. Ungafungidzira here kuti uyu ndiani?",
+  "clues": [
+    "Ndakaumbwa nemaoko eMune Ngoni Zvikuru kubva muguruva revhu chairo",
+    "Ndakapiwa musha une runako rusina muganho, uko nzara kana kuneta zvaisagona kundibata",
+    "Ndakarayirwa kuti ndisamboswedera pedyo nemuti mumwe chete, nekuti zvairambidzwa",
+    "Ini neshamwari yangu takanyengerwa tikaswedera pedyo nemuti wakarambidzwa, tichipesana nemurairo waShe wedu",
+    "Takadzokera kuna Ishe wedu nekutendeuka kwechokwadi, uye takaregererwa zvivi zvedu",
+    "Kubva kwatiri, vanhu vese vakabva; ndini wekutanga kufamba panyika ino"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Adhamu",
+        "Muprofita Musa",
+        "Muprofita Nuh",
+        "Muprofita Yusuf",
+        "Muprofita Isa"
+      ],
+      "answer": "Muprofita Adhamu"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Muedzo wemuti wakarambidzwa",
+        "Kurwisana naFarao",
+        "Kuvaka Areka huru",
+        "Chibayiro chemwanakomana anodiwa",
+        "Kukandwa mumoto mukuru"
+      ],
+      "answer": "Muedzo wemuti wakarambidzwa"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Muti Wakarambidzwa",
+        "Gwenzi Rinopfuta",
+        "Vashandi veGoridhe",
+        "Areka Huru",
+        "Mhuru Yegoridhe"
+      ],
+      "answer": "Muti Wakarambidzwa"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akatumwa pasi pano semuchengeti wekutanga wevanhu",
+        "Farao neuto rake vakanyura mugungwa",
+        "Mafashamo makuru akaparadza vakaipa",
+        "Moto wakava wakadzikama uye wakanyarara",
+        "Akapihwa simba pamusoro peumambo hweIjipita"
+      ],
+      "answer": "Akatumwa pasi pano semuchengeti wekutanga wevanhu"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

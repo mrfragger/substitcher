@@ -1,0 +1,61 @@
+{
+  "title": "Ohùn Àìgbọ́ràn ti Àwọn Ọ̀rúndún",
+  "intro": "Ní àkókò kan kí àwọn ìlú ńlá tó dìde, ẹ̀mí kan ṣoṣo dìde láàrín àwọn ènìyàn kan tí wọ́n ti yípadà kúrò nínú òtítọ́. Ìfaradà wọn ni sùúrù olùpè yìí nìkan, ẹni tí ó bẹ̀bẹ̀ fún ìrandíran láìsí ìjákulẹ̀. Nígbà tí gbogbo ìkìlọ̀ bá àwọn ènìyàn tí kò gbọ́, ìṣirò tí kò tíì ṣẹlẹ̀ rí tún ayé náà ṣe. Lónìí, àwọn ohun tí ìtàn náà ń sọ ṣì ń dún ní gbogbo ìgbà tí a bá ń kà á. Ṣé o lè dá ẹ̀mí tí ó dúró ṣinṣin yìí mọ̀?",
+  "clues": [
+    "Wọ́n tọ́ mi dàgbà láàárín àwọn ènìyàn tí wọ́n ń bọ àwọn ère èké tí wọn kò sì ka àwọn àmì tí ó yí wọn ká sí, síbẹ̀ wọ́n yàn mí láti jí wọn dìde kúrò nínú àìbìkítà wọn.",
+    "Mo pe awon eniyan mi leralera, sugbon won fi mi lebi pe emi ko je enikan bi won, ti won n fi ise mi sere ti won si n bo eti won.",
+    "Mo fi ọgbọ́n àti ìránnilétí onírẹ̀lẹ̀ rọ̀ wọ́n ní òru àti ní ọ̀sán, ṣùgbọ́n ọ̀rọ̀ mi dà bíi pé ó pòórá sí afẹ́fẹ́, tí a kò gbọ́ tí a kò sì gbọ́.",
+    "Lábẹ́ ìtọ́ni Ọlọ́run, mo kọ́ ọkọ̀ ojú omi ńlá kan tí a fi igi àti pákó ṣe lórí ilẹ̀ gbígbẹ, àwọn ènìyàn mi sì fi mí rẹ́rìn-ín gẹ́gẹ́ bí ẹni tí ó ti sọnù làákàyè.",
+    "Nígbà tí ìkún omi ńlá náà dé gẹ́gẹ́ bí a ti ṣèlérí, ọmọ mi kọ̀ láti bá mi wọ ọkọ̀ ojú omi náà, ó gbàgbọ́ pé òkè ńlá kan yóò dáàbò bò ó kúrò nínú omi tó ń ru sókè.",
+    "Mo di baba ńlá ìbẹ̀rẹ̀ tuntun lórí ilẹ̀ ayé, ìtàn mi sì wà nínú orí kan nínú Al-Quran tí ó ní orúkọ mi gan-an."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Nóà",
+        "Wòlíì Ibrahim",
+        "Wòlíì Mósà",
+        "Wòlíì Lọ́ọ̀tì",
+        "Wòlíì Húdì"
+      ],
+      "answer": "Wòlíì Nóà"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ìkún Omi Ńlá tó tún ayé ṣe",
+        "Àwọn abọ̀rìṣà tí wọ́n jù sínú iná tí ń jó",
+        "Ìjà pẹ̀lú àwọn onídán Fáráò ní ààfin",
+        "Ìjì ọ̀run pa àwọn ọgbà aláásìkí run",
+        "Ìyípadà àwọn olùgbé inú ihò náà"
+      ],
+      "answer": "Ìkún Omi Ńlá tó tún ayé ṣe"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "A fi igi àti pákó kọ́ Àpótí náà",
+        "Ilé mímọ́ tí a kọ́ sórí ìpìlẹ̀ àtijọ́",
+        "Ọ̀pá tí ó di ejò",
+        "Ihò àwọn ọ̀dọ́mọdé tí wọ́n ń sùn",
+        "Ìtẹ́ tí ẹ̀dá alágbára kan gbé"
+      ],
+      "answer": "A fi igi àti pákó kọ́ Àpótí náà"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Àwọn aláìgbàgbọ́ rì sínú omi nígbà tí àwọn onígbàgbọ́ gbà wọ́n là nínú ọkọ̀ ojú omi",
+        "Iná náà di tútù tí ó sì wà ní ààbò, ẹni tí ó pè sì jáde láìfarapa",
+        "Àwọn onídán dojúbolẹ̀, wọ́n sì gba ìgbàgbọ́",
+        "A fi ọgbà náà fún aládùúgbò olódodo ní ipò rẹ̀",
+        "Àwọn tó ń sùn jí lẹ́yìn ọ̀pọ̀ ọgọ́rùn-ún ọdún, wọ́n sì yípadà"
+      ],
+      "answer": "Àwọn aláìgbàgbọ́ rì sínú omi nígbà tí àwọn onígbàgbọ́ gbà wọ́n là nínú ọkọ̀ ojú omi"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

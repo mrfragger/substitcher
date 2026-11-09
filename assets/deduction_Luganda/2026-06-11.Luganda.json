@@ -1,0 +1,61 @@
+{
+  "title": "Ekyalo ekiri ku lubalama lw’okuwozesebwa",
+  "intro": "Weesanga mu kyalo ekiri ku lubalama lw’ennyanja, ng’amaloboozi g’amayengo gatabula n’okuwuubaala kw’abantu abeerabirwa. Baaweebwa ekiragiro eky’okuwummula, naye omululu gwabwe gwavaako ekibonerezo ekikyayogerwako mu maloboozi agasirise. Osobola okuzuula kye baali?",
+  "clues": [
+    "Twabeeranga ku lubalama lw’ennyanja era twaweebwa ekiragiro okukuuma olunaku lw’okuwummula.",
+    "Ku lunaku olwo ebyennyanja byatujjanga mu bungi, naye nga tugaaniddwa okubitwala.",
+    "Abamu mu ffe baalabula obutasobya, naye abalala ne beekobaana okuvuba mu ngeri yonna.",
+    "Twamenya ekiragiro ekitukuvu ne twereetera ekibonerezo eky’amaanyi.",
+    "Ekibonerezo kyaffe kyali kikyuka ekyatuleka nga tufuuse bafuuse era nga tuswala.",
+    "Twafuulibwa enkima, akabonero eri bonna abaali bagenda okujja oluvannyuma."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Abantu ba Ssabbiiti",
+        "Abantu b’e Thamud",
+        "Abantu ba 'Ad",
+        "Abantu b'Empuku",
+        "Abantu ba Njovu"
+      ],
+      "answer": "Abantu ba Ssabbiiti"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okuvuba ku Ssabbiiti",
+        "Okusinza ennyana eya zaabu",
+        "Okwegaana obubaka bwa Hud",
+        "Okutta engamiya enkazi",
+        "Okuzimba omunaala ogugenda mu ggulu"
+      ],
+      "answer": "Okuvuba ku Ssabbiiti"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Ebyennyanja",
+        "Engamiya enkazi",
+        "A omukozi",
+        "Eryato",
+        "Olusuku"
+      ],
+      "answer": "Ebyennyanja"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yafuuka enkima",
+        "Yasaanawo amataba",
+        "Yasaanawo omuliro ogwakutte omuliro",
+        "Okumira ensi",
+        "Nga basaasaanye empewo"
+      ],
+      "answer": "Yafuuka enkima"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

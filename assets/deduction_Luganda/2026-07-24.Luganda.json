@@ -1,0 +1,61 @@
+{
+  "title": "Omukozi w’olukwe Ow’ebibikka",
+  "intro": "Weesanga mu maaso g’omuntu ow’amaanyi okuva mu nnaku z’okubikkulirwa. Omuntu ono yali amanyiddwa olw’amagezi ge, obugagga bwe, n’ekifo kye mu bantu be. Obubonero obweyoleka bwe bwajja, baategeera obulungi naye ne balondawo okujeemera okusinga okugondera. Kiki ekyaleetera emmeeme eno okukola olukwe mu nzikiza, era enkomerero yaabwe yali etya?",
+  "clues": [
+    "Nnaweebwa omukisa olw’ebintu bingi nnyo n’obuyinza, ne kizitowa ekigambo kyange mu nkuŋŋaana ennene.",
+    "Ebigambo by’obwakatonda bwe byasomebwa, saasobola kwegaana bulungi bwabwe obw’okwogera, naye amalala gange tegankiriza kugondera.",
+    "Nakuŋŋaanya abawabuzi bange, nga neeyawula ku balala okufumiitiriza ku ngeri y’okutyoboola obubaka obwo.",
+    "Oluvannyuma lw’okulowooza ennyo, nnakirangirira nti si kirala okuggyako ‘obulogo obusibuka okuva mu biseera eby’emabega’ okukyusa abantu.",
+    "Olwo okubikkulirwa ne kunjogerako butereevu nti: ‘Nndeka n’oyo gwe nnatonda yekka.’ Nalondebwa olw’enkwe zange.",
+    "Mu bbanga ttono, omuliro gwennyini gwe nnalabulwa gujja kunkwata ku mugongo, era sijja kuba na kudduka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Al-Walid ibn al-Mughira, omuwandiisi w’ebitabo",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqbah ibn Abi Mu’ayt omuwandiisi w’ebitabo",
+        "Al-Nadr ibn al-Harith, omuwandiisi w’ebitabo"
+      ],
+      "answer": "Al-Walid ibn al-Mughira, omuwandiisi w’ebitabo"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Yeekobaana okutta Nabbi",
+        "Yakulembeddemu okugoba Abasiraamu",
+        "Yakungaanya olukiiko okussaako akabonero ku Quran ng’obulogo",
+        "Yakola olukwe okugoba Nabbi mu Makkah",
+        "Yagaana okugabana obugagga bwe ne bamulekwa"
+      ],
+      "answer": "Yakungaanya olukiiko okussaako akabonero ku Quran ng’obulogo"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Okubikkulirwa",
+        "Olukiiko luno",
+        "Ekibiina kya Forelock",
+        "Obugagga",
+        "Ekkalaamu"
+      ],
+      "answer": "Ekibiina kya Forelock"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yenenya n’akwata Obusiraamu",
+        "Yasenguka n’agenda mu Abyssinia",
+        "Yakubwa obulwadde obw’amaanyi",
+        "Yafiira mu lutalo n’Abasiraamu",
+        "Yasaliddwa omusango gw’okugenda mu Geyeena"
+      ],
+      "answer": "Yasaliddwa omusango gw’okugenda mu Geyeena"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

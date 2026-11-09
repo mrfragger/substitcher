@@ -1,0 +1,61 @@
+{
+  "title": "Ayyunti qemmoh tatur",
+  "intro": "dumaahi magaaloolih baaxol, ummatta inki adda dadalteh sugte. oson farmoyti gufneh qado seeco luk, uxih oson wonnah yuduureenih num gexe wee gita kattaateenih. ken aydaadi inki sadu, finqaa kee digaala too ken baaxo cabteh inkih abaabisa marah asta. Tama roocitte miyyaay?",
+  "clues": [
+    "Nanu elle mannownam booxal tan magaaloolul, ni nabiyyi numma fan nee seece wak.",
+    "Nanu qimmol abneh sugne umaane too baadal num ahak dumal abe weem.",
+    "Nanu safreynit gitaak abneeh, ninni koboxitteh addat qaduuk umaane abne.",
+    "Nanu neh ruube farmoyta cinneh ninni baaxok kaa diiriyenno axcuk meysisne.",
+    "Nanu isi qibina neh taceem esserak kay qari fan nasissikeh.",
+    "Ni digaala xaahi robuk sugteeh, ni magaala korsimteh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nanu iyyaay?",
+      "options": [
+        "Luut ummatta",
+        "Nuuh ummatta",
+        "Aysaxaaxag ummatta",
+        "Samuud ummatta",
+        "Madyan ummatta"
+      ],
+      "answer": "Luut ummatta"
+    },
+    "trial": {
+      "label": "Gibbatu/Tekkooka",
+      "options": [
+        "Qimbô sodoomih abto abeh",
+        "sanamitte qibaadah",
+        "kabxah addat duquuruseenih",
+        "sinni farmoyta qideenih",
+        "sinni xaltani ammirtime wayte"
+      ],
+      "answer": "Qimbô sodoomih abto abeh"
+    },
+    "location": {
+      "label": "Lafa le liyyitte",
+      "options": [
+        "booxal tan magaala",
+        "Boodoh magaala .",
+        "Boodoh magaala",
+        "Dakani magaala .",
+        "Caxaaxuwi aracih magaala"
+      ],
+      "answer": "booxal tan magaala"
+    },
+    "outcome": {
+      "label": "Xalu",
+      "options": [
+        "Rob xeet radeeh korseh",
+        "weeqi qawwalaylat cule",
+        "caylale silaytut finqite",
+        "Baaxol yanxuqe",
+        "Kaxxa bakaq yoogoreh"
+      ],
+      "answer": "Rob xeet radeeh korseh"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

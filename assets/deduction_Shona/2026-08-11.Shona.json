@@ -1,0 +1,61 @@
+{
+  "title": "Chipikirwa cheMudumbu",
+  "intro": "Mumakamuri akanyarara emwoyo wakatsaurirwa kuna Mwari, mhiko tsvene yaifungwa. Mhiko iyi yaireva hupenyu husati hwasvika, uye kuzadzikiswa kwayo kwaizochinja nzira yenhaka yemweya nekusingaperi. Pinda muchakavanzika chemweya une vimbiso inonzwika nekusingaperi.",
+  "clues": [
+    "Ndaigara mumhuri inozivikanwa nekunamata Mwari, uye ndaishuvira chipo chaizondiswededza pedyo naAllah.",
+    "Ndakaita sungano naIshe wangu pamusoro pezvaiva zvakavanzika mandiri, ndichivimbisa kuzvipa zvizere kubasa rake.",
+    "Pakasvika nguva yekufumura zvinhu, zvandakagamuchira zvaisatarisirwa, asi ndakaisa nyaya yacho kuna Anoziva Zvose.",
+    "Ndakapa mwana wangu zita rinoratidza kuzvipira, uye ndakakumbira kuti iye nevana vake vadzivirirwe kubva kune akatukwa.",
+    "Mwana wangu akaiswa munzvimbo tsvene, achitarisirwa nemuporofita wedzinza raAroni.",
+    "Mwanasikana wangu akazozivikanwa nekuchena kwake uye akasarudzwa kupfuura vakadzi vese, akazova amai vemuporofita mukuru, kunyange zvazvo asina kumbobatwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Mudzimai waImran",
+        "Amai vaMusa",
+        "Mudzimai waFarao",
+        "Mudzimai waAl-Aziz",
+        "Amai vaIsa"
+      ],
+      "answer": "Mudzimai waImran"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Mhiko yekutsaurira mwana wake asati aberekwa kutemberi",
+        "Muedzo wekutsungirira kuburikidza nekurwara kwenguva refu",
+        "Rwendo rwekuenda kunyika iri kure nekuda kwekutenda",
+        "Kurwisana namambo ane hutsinye",
+        "Kugoverwa kwechishamiso kwechikafu chinobva kudenga"
+      ],
+      "answer": "Mhiko yekutsaurira mwana wake asati aberekwa kutemberi"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Mwana anonzi Maryam",
+        "Tsvimbo yakashanduka kuita nyoka",
+        "Mhuru yegoridhe",
+        "Tsime reZamzam",
+        "Areka yaNoa"
+      ],
+      "answer": "Mwana anonzi Maryam"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Mwana wake akagamuchirwa naAllah uye akakura achitarisirwa nehuprofita",
+        "Mwana wake akava muporofita uye akagamuchira rugwaro",
+        "Mwana wake akasimudzwa kudenga",
+        "Mwana wake akavaka imba tsvene",
+        "Mwana wake akapihwa uchenjeri hwakakura nepfuma"
+      ],
+      "answer": "Mwana wake akagamuchirwa naAllah uye akakura achitarisirwa nehuprofita"
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

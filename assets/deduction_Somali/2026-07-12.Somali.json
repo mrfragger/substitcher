@@ -1,0 +1,61 @@
+{
+  "title": "Magaalada Luntay ee aan la mid ahayn ee sharafta leh",
+  "intro": "Ilbaxnimo xooggan ayaa mar xukumi jirtay dhul ballaaran, oo loogu dabaaldego dhismayaal dhaadheer oo gaaray cirka. Haddana hoostiis, waxaa sii kordhay diidmo madax adag - diidmo ah in la dhegeysto digniinta rabbaaniga ah ee laga soo diray bulshada dhexdeeda. Kibirka iyo isla weyni waxay dhawaan soo saari doonaan ciqaab la mid ah oo aan dhulka iyo cirka midna waligood arag.",
+  "clues": [
+    "Waxaan mar xukumi jirnay dhul ballaaran, annagoo ku faannay awood aan aaminsanayn in ilbaxnimo kale aysan la mid noqon karin.",
+    "Dowladdeennu waxay caan ku ahayd dhismayaal dhaadheer oo leh tiirar waaweyn oo aan la barbar dhigi karin dhul kasta oo la yaqaan.",
+    "Waxaa kacay digniin ka timid bulshadeenna, isagoo midkeen kasta ku boorrinaya inuu u hoggaansamo Abuuraha Kaliya.",
+    "Waan beeninay fariintii naloo soo diray, waana diidnay inaan ka tagno waddadii aan dhaxalnay.",
+    "Dabaylo aad u kulul oo aad u daran ayaa na soo gaadhay, taasoo naga dhigtay kuwo aan difaac lahayn.",
+    "Waxaa nalooga tagay sidii jirrido geed timireed oo godan, oo kala firirsan oo la ilaaway, si aan cashar ugu noqonno jiil kasta oo ka dambeeya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Dadka reer Aaad",
+        "Dadkii Nuux",
+        "Dadka reer Luut",
+        "Dadka reer Madiina",
+        "Dadka Tubba'"
+      ],
+      "answer": "Dadka reer Aaad"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Dabayl aan kala joogsi lahayn oo ciqaab daran ah",
+        "Daad daboolay buur kasta oo sare",
+        "Roob dhagaxyo dhoobo ah oo gubanaya oo ka imanaya kor",
+        "Qaylo cabsi leh oo cirka ka timid",
+        "Dhulgariir xooggan oo dhulka kala qaybiyay"
+      ],
+      "answer": "Dabayl aan kala joogsi lahayn oo ciqaab daran ah"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Iiraam, magaalada tiirarka dhaadheer leh",
+        "Doon weyn oo alwaax ah oo buur laga dul dhisay",
+        "Hashii oo si mucjiso ah uga soo baxday dhagaxa",
+        "Buur Siinay halkaas oo amarrada rabbaaniga ah ay ka soo degeen",
+        "Qasri ka samaysan kiristaalo iyo muraayad qurux badan oo ka soo horjeeda biyaha socda"
+      ],
+      "answer": "Iiraam, magaalada tiirarka dhaadheer leh"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Sida jirridaha geedaha timirta oo godan, oo kala firirsan oo aan nolol lahayn",
+        "Waxaa ku qarqiyay hirar aad u badan oo daad weyn ah",
+        "Waxaa loo beddelay makhluuqaad u eg daanyeerro iyo doofaarro",
+        "Roob dhagaxyo dhoobo adag leh ayaa ku burburay",
+        "Ku cunay hal qaylo dhego-beel ah oo nafta daloolisay"
+      ],
+      "answer": "Sida jirridaha geedaha timirta oo godan, oo kala firirsan oo aan nolol lahayn"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

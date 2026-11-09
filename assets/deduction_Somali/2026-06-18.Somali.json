@@ -1,0 +1,61 @@
+{
+  "title": "Kii ugu Horreeyay ee Cafis Doona",
+  "intro": "Dib ugu noqo waqti ka hor qorrax soo baxa ugu horreeya, ka hor inta uusan qof dhiman dhulka ku socon. Shax ayaa laga sameeyay walxaha ugu hooseeya, waxaana la siiyay boos ka sarreeya malaa'igta, waxaana la dhigay beer barakeysan iyadoo digniin cad la siinayo. Haddana daqiiqad keliya, doorasho ayaa la sameeyay - mid ka soo muuqan doonta taariikhda aadanaha oo dhan. Waa kuma shaxankan?",
+  "clues": [
+    "Waxaa la i keenay si aan la mid ahayn kuwa kale — oo laga sameeyay ciidda dhulka oo la i siiyay naf nool gacanta Abuuraha.",
+    "Waxaa la i siiyay aqoon aad u qoto dheer oo xitaa malaa'igtii kor ku xusan ay la yaabeen.",
+    "Jannada oo dhan waxaa la faray inay hortayda u sujuudaan, dhammaantoodna way is dhiibeen - marka laga reebo mid diiday kibir awgeed.",
+    "Waxaa la i dhigay beer barakeysan, meel raaxo iyo quudin weligeed ah leh - laakiin waxaa la iga mamnuucay hal mamnuuc.",
+    "Waan ilaaway, waan simbiriirixtay, waanan caasiyoobay — waxaana si qoto dheer u dareemay culayska qaladkayga.",
+    "Waxaan u jeestay Rabbigay hadallo qalbi furan, wuuna iga aqbalay toobadda, waayo waa kan ugu cafiska badan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Aadam",
+        "Nabi Daa'uud",
+        "Nabi Muxamed",
+        "Ibliis",
+        "Nabi Yacquub"
+      ],
+      "answer": "Nabi Aadam"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Malaa'igta waxaa la faray inay sujuudaan.",
+        "Daadkii Weynaa la diray",
+        "Dab weyn ayaa laga dhigay mid qabow oo ammaan ah",
+        "Taliye kibir badan ayaa badda ku qaraqmay",
+        "Ciidan maroodi ah ayaa la burburiyay"
+      ],
+      "answer": "Malaa'igta waxaa la faray inay sujuudaan."
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Beerta Nicmada",
+        "Buur Siinay",
+        "Masaajidka Barakaysan",
+        "Webiga Niil",
+        "Godka"
+      ],
+      "answer": "Beerta Nicmada"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Towbada Alle ayaa aqbalay",
+        "Badda ayay ku qarqisay",
+        "Waxaa liqay kalluun weyn",
+        "Qaranku wuxuu ku dhacay qarax xooggan",
+        "Waxaa gubatay dabayl kulul"
+      ],
+      "answer": "Towbada Alle ayaa aqbalay"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

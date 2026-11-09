@@ -1,0 +1,61 @@
+{
+  "title": "Chipingamupinyi paImba Yekare",
+  "intro": "Muguta dzvene, mumwe munhu ane simba akashatirwa nehasha sezvo shoko idzva rakatanga kupararira. Munhu uyu, ane zita rakazonzi anopikisa chokwadi, akaona simba ravo richidonha pasi pekuremerwa kwezvakazarurwa naMwari. Ndiani aive mweya uyu, uyo mugumo wake wakavharirwa mujecha renhandare yehondo yakakurumbira?",
+  "clues": [
+    "Ndaiva mukuru pakati pevanhu vangu, ndichizivikanwa nehupfumi hwangu uye simba rangu muguta raiva nenzvimbo yekare yekuchengetera zvinhu.",
+    "Mumwe murume werudzi rwangu paakatanga kuzivisa shoko raMwari mumwe chete, ndakamuseka nezvaakazarurira, ndichiti inyaya dzekare chete.",
+    "Ndakasangana nemurume iyeye paainyengetera pedyo nechivako chitsvene, ndichityisidzira kumisa kunamata kwake nechisimba kana zvichidikanwa.",
+    "Ndaive pakati pevatungamiriri vakaronga kunyaradza chitendero chitsva, vachipikisa vateveri vacho nemashoko nezvombo.",
+    "Ndakafamba neuto kuenda kunzvimbo inonzi Badr, ndiine chivimbo chekuti taizoparadza boka diki revatendi.",
+    "Asi panhandare yehondo iyoyo, hupenyu hwangu hwakaguma, uye rufu rwangu rwakava chidzidzo kune avo vanoramba vachiramba vasingatende mushure mezviratidzo zvakajeka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Abu Jahl",
+        "Abu Sufyan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umayyah ibn Khalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abu Jahl"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kudzivirira Muporofita kunamata paKaaba",
+        "Kuvaka Kaaba",
+        "Kunyora Korani",
+        "Kutungamira uto renzou",
+        "Kupatsanura mwedzi"
+      ],
+      "answer": "Kudzivirira Muporofita kunamata paKaaba"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Kaaba",
+        "Areka yeMuporofita Nuh",
+        "Tsvimbo yaMuporofita Musa",
+        "Mhuru Yegoridhe",
+        "Chigaro cheMambokadzi weShebha"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akaurayiwa paHondo yeBadr",
+        "Akapfidza ndokuva muMuslim",
+        "Akatizira kuAbyssinia",
+        "Akafa mugore reNzou",
+        "Akava shamwari yeMuporofita"
+      ],
+      "answer": "Akaurayiwa paHondo yeBadr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

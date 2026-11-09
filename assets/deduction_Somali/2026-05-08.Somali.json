@@ -1,0 +1,61 @@
+{
+  "title": "Raadinta Runta ee Adag",
+  "intro": "Waqti ay qariyeen jaahilnimo iyo caabudid ilaahyo been ah, safar qoto dheer oo iimaan ah ayaa soo ifbaxay. Qofkani wuxuu caqabad ku noqday caadooyinka bulshadiisa, isagoo raadinaya Abuuraha Runta ah ee Keliya isagoo si aan kala go 'lahayn u raadinaya. Isu diyaari inaad soo bandhigto aqoonsiga nafta oo dhaxalkeedu sii wado inuu dhiirrigeliyo malaayiin.",
+  "clues": [
+    "Waxaan su'aal ka keenay jidhka cirka, anigoo raadinaya Rabbiga runta ah ee wax walba abuura oo ilaaliya.",
+    "Waxaa la i faray inaan ka baxo dhulkii aan ku dhashay, anigoo u safraya dhul uu Alle barakeeyay.",
+    "Waxaan caqabad ku noqday sanamyada dadkayga, anigoo si toos ah ula kulmaya wax aan micno lahayn iyagoo jebinaya.",
+    "Dadkeyga ayaa dab kulul igu tuuray, haddana way qabowday oo nabad bay ii noqotay amarka Alle.",
+    "Waxaa la i imtixaanay iyadoo la igu amray inaan wiilkayga curadka ah ee aan jeclahay allabari u bixiyo, taasoo ahayd tijaabo ah is-hoosaysiin kama dambays ah.",
+    "Aniga, aniga iyo wiilkayga, waxaan kor u qaadnay aasaaska Gurigii ugu horreeyay ee Cibaadada ee Dhulka, oo ah meel ammaan u ah dhammaan aadanaha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Nuux",
+        "Nabi Yuusuf",
+        "Nabi Saalix",
+        "Nabi Ibraahim",
+        "Nebi Ciise"
+      ],
+      "answer": "Nabi Ibraahim"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Daadkii weynaa",
+        "Kala qaybsanaanta badda",
+        "Burburkii Thamuud",
+        "Amarka ah in la allabaryo wiil",
+        "Safarkii lamadegaanka dhexdiisa oo uu la socday Markabka"
+      ],
+      "answer": "Amarka ah in la allabaryo wiil"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Shaqaalaha",
+        "Buurta Tur",
+        "Sanduuqa",
+        "Kacbada",
+        "Keeggii Dahabka ahaa"
+      ],
+      "answer": "Kacbada"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Wuxuu noqday taliyaha Masar",
+        "Dadkiisii ​​ayaa qaraqmay",
+        "Waxaa la siiyay xigmad iyo nasab wanaagsan",
+        "Waxaa liqay nibiri",
+        "Magaaladiisii ​​waa la rogay"
+      ],
+      "answer": "Waxaa la siiyay xigmad iyo nasab wanaagsan"
+    }
+  },
+  "verseRef": "21:69",
+  "arabic": "قُلْنَا يَـٰنَارُ كُونِى بَرْدًۭا وَسَلَـٰمًا عَلَىٰٓ إِبْرَٰهِيمَ",
+  "verse": "We [i.e., Allāh] said, \"O fire, be coolness and safety upon Abraham.\" (21:69)"
+}

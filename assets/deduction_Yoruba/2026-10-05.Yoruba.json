@@ -1,0 +1,61 @@
+{
+  "title": "Igbẹ́kẹ̀lé tí a fi lé Odò náà lọ́wọ́",
+  "intro": "Ọkàn kan dojúkọ àṣẹ tí kò ṣeé ṣe, níbi tí ẹ̀mí ọmọ tuntun kan wà ní ìwọ̀n. Nípasẹ̀ ìmísí Ọlọ́run, wọ́n tẹ̀lé àṣẹ àìnírètí, wọ́n sì fi àṣírí iyebíye kan sílẹ̀ lórí ìṣàn omi, ṣùgbọ́n wọ́n dá a padà lọ́nà tí a kò retí.",
+  "clues": [
+    "Mo gbé lábẹ́ òjìji apànìyàn kan tó pàṣẹ pé kí wọ́n máa pa àwọn ọmọkùnrin tuntun.",
+    "Ìmísí àtọ̀runwá kan wá sí ọ̀dọ̀ mi, ó kọ́ mi láti gbé ìgbésẹ̀ àìnírètí àti ìbànújẹ́ ọkàn.",
+    "Mo gbé ọmọ mi ọ̀wọ́n sínú àpótí kan mo sì gbé e ka orí odò tó ń ṣàn.",
+    "Ọkàn mi di òfo, mo sì fẹ́rẹ̀ tú àṣírí náà payá, ṣùgbọ́n Ọlọ́run fún ìpinnu mi lágbára.",
+    "Mo rán ẹnìkan láti tẹ̀lé ìrìn àjò ọmọ náà lọ sí ìsàlẹ̀ bí ìṣàn omi náà ṣe gbé àpótí náà lọ.",
+    "Ilé apànìyàn náà rí ọmọ náà, nígbẹ̀yìn-gbẹ́yín, mo tún padà sọ́dọ̀ ọmọ mi, mo sì di olùtọ́jú ọmọ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Ìyá Wòlíì Musa",
+        "Asia (Iyawo Farao)",
+        "Màrímà (Ìyá Ànábì Ísà)",
+        "Iyawo Anabi Lut",
+        "Ìyá Ànábì Yahya (ìyàwó Zakariya)"
+      ],
+      "answer": "Ìyá Wòlíì Musa"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ó gbé ọmọ rẹ̀ sínú àpótí kan, ó sì gbé e sí ẹ̀bá odò náà",
+        "Ó fi ọmọ rẹ̀ pamọ́ sínú ihò àpáta kan",
+        "Ó fi ọmọ rẹ̀ sílẹ̀ ní aṣálẹ̀",
+        "Ó ju ọmọ rẹ̀ sínú iná",
+        "Ó fi ọmọ rẹ̀ sílẹ̀ ní ẹnu ọ̀nà mọ́sálásí kan"
+      ],
+      "answer": "Ó gbé ọmọ rẹ̀ sínú àpótí kan, ó sì gbé e sí ẹ̀bá odò náà"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Àpótí kan tí a gbé kalẹ̀ lórí odò náà lófòó",
+        "Igbó kan tó ń jó",
+        "Ọ̀pá tí ó di ejò",
+        "Tábìlì tí a tẹ́ sórí tábìlì pẹ̀lú oúnjẹ láti ọ̀run",
+        "Abo ràkúnmí kan tí a fi ránṣẹ́ gẹ́gẹ́ bí àmì"
+      ],
+      "answer": "Àpótí kan tí a gbé kalẹ̀ lórí odò náà lófòó"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ó tún padà sọ́dọ̀ ọmọ rẹ̀, ó sì tọ́jú rẹ̀",
+        "Kò rí ọmọ rẹ̀ mọ́",
+        "Aláìláàánú ni ó pa á",
+        "Ó di ayaba ní Íjíbítì",
+        "Ó ṣí lọ sí ilẹ̀ mìíràn, ó sì gbé ní ìgbèkùn"
+      ],
+      "answer": "Ó tún padà sọ́dọ̀ ọmọ rẹ̀, ó sì tọ́jú rẹ̀"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

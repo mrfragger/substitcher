@@ -1,0 +1,61 @@
+{
+  "title": "Ohùn Ọgbọ́n Nínú Òjìji",
+  "intro": "Ẹni kan láti ìgbà àtijọ́, tí a mọ̀ fún òye jíjinlẹ̀, ń bá ọ sọ̀rọ̀ láti ọ̀pọ̀ ọ̀rúndún wá. Ẹni yìí kò sọ pé wòlíì ni, síbẹ̀ ọgbọ́n Ọlọ́run ń ṣàn láti inú ọ̀rọ̀ wọn. Òbí tí ó fi ogún ìtọ́sọ́nà ayérayé sílẹ̀, ìmọ̀ràn wọn ṣì wà ní ọkàn àràádọ́ta ọ̀kẹ́ ènìyàn, tí a ń kà, tí a sì ń ronú lé lórí títí di òní.",
+  "clues": [
+    "Mo gba ẹ̀bùn àtọ̀runwá kan tí ó yà mí sọ́tọ̀ - ọgbọ́n tí ó jinlẹ̀ tó bẹ́ẹ̀ tí ó fi di ànímọ́ pàtàkì mi jálẹ̀ ìtàn.",
+    "Èmi kì í ṣe ìránṣẹ́ tàbí áńgẹ́lì - ọkàn kan ṣoṣo tí a fi òye jíjinlẹ̀ àti òye nípa ayé bùkún.",
+    "Ìbáṣepọ̀ tímọ́tímọ́ mi pẹ̀lú ọmọ mi ni, nípasẹ̀ ìdè yìí, ìhìn iṣẹ́ mi tí ó pẹ́ jùlọ ni a fi ránṣẹ́.",
+    "Mo rọ àwọn ènìyàn láti dúpẹ́ lọ́wọ́ Ẹni tí ó fún mi ní ohun gbogbo, mo sì kìlọ̀ fún wọn nípa ìgbéraga àti ìgbéraga.",
+    "Mo kọ́ni nípa ìwúwo iṣẹ́ tí irúgbìn mustard kan ní, àti bí ó ṣe ṣe pàtàkì láti sọ ohùn ẹni di aláìlágbára pẹ̀lú ìrẹ̀lẹ̀.",
+    "Orí kan nínú Al-Quran ni orúkọ mi wà, níbi tí ìmọ̀ràn mi sí ọmọ mi àyànfẹ́ wà títí láéláé."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Luqman Ọlọ́gbọ́n",
+        "Dhul-Kifl àwọn olùfọkànsìn",
+        "Khidr, Arìnrìn Àjò Ọlọ́gbọ́n",
+        "Hárútù Áńgẹ́lì ní Bábélì",
+        "Áńgẹ́lì Marut ní Bábélì"
+      ],
+      "answer": "Luqman Ọlọ́gbọ́n"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Jíjẹ́ dídánwò pẹ̀lú sùúrù nípasẹ̀ àìsàn",
+        "Fífúnni ní ọgbọ́n àti gbígbàmọ̀ràn ọmọ ẹni",
+        "Jíjẹ́ tí a jù sínú iná ńlá",
+        "Gbígbé sókè sí ọ̀run láàyè",
+        "Kíkọ́ ọkọ̀ ojú omi ńlá láti sá fún ìparun"
+      ],
+      "answer": "Fífúnni ní ọgbọ́n àti gbígbàmọ̀ràn ọmọ ẹni"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ilé ìjọsìn mímọ́ kan",
+        "Ọ̀pá tí ó di ejò",
+        "Àwọn ọ̀rọ̀ ọgbọ́n tí kò ní àsìkò tí a sọ fún ọmọ ẹni",
+        "Ìtẹ́ dígí àgbàyanu kan",
+        "Ọgbà kan tí ìparun gbá"
+      ],
+      "answer": "Àwọn ọ̀rọ̀ ọgbọ́n tí kò ní àsìkò tí a sọ fún ọmọ ẹni"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Fun ni ọgbọn ati pe o paṣẹ fun ọpẹ si Allah",
+        "Ó di alákòóso àwọn jinni, ènìyàn àti afẹ́fẹ́",
+        "A gbé e sókè láàyè sí ọ̀run",
+        "Ẹja ńlá kan gbé e mì, ó sì tún ara rẹ̀ ṣe.",
+        "Àwọn arákùnrin owú jù sínú kànga kan"
+      ],
+      "answer": "Fun ni ọgbọn ati pe o paṣẹ fun ọpẹ si Allah"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

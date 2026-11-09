@@ -1,0 +1,61 @@
+{
+  "title": "Soo dhawaynta Cabsi Keentay",
+  "intro": "Magaalo ay xumaantu qabsatay, addoon aamin ah ayaa maalin maalmaha ka mid ah booqdayaal lama filaan ah helay. Isagoo ka walaacsan ammaankooda, qofkani wuxuu bixiyay ilaalin, laakiin dadka magaaladu waxay dalbadeen wax ceeb ah. Iyagoo ka digaya halaag soo socda, addoonku wuxuu la cararay qoyskiisa isagoo ku hoos jira mugdi, isagoo ka tagay magaalo loo calaamadeeyay burbur. Waa kuma qofkan keliya ee rumaysta?",
+  "clues": [
+    "Waxaa la ii soo diray rasuul ahaan dad falal ceeb ah sameeyay.",
+    "Booqdayaal aan la filayn ayaa gurigayga yimid, waxaana ka walwalsanaa ammaankooda marka loo eego kuwa aan haysto.",
+    "Dadkaygu waxay dalbadeen inay martidayda arkaan iyagoo ujeeddo xun leh, aniguna waxaan isku dayay inaan iyaga la doodo.",
+    "Booqdayaashaydu waxay isu muujiyeen inay yihiin malaa'ig waxayna igu amreen inaan qoyskayga qaato oo aan baxo habeenkii.",
+    "Xaaskaygu ma aysan dhegaysan baaqii ahaa inay baxsadaan waxayna la kulantay burbur la mid ah kii ay la kulmeen dadkayga.",
+    "Magaaladaydii waxaa rogmaday roob dhagaxyo ah oo lakab ah, qaybaheeda ugu sarreeyana waxay noqdeen kuwa ugu hooseeya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Luut",
+        "Nabi Muuse",
+        "Nabi Ibraahim",
+        "Nabi Nuux",
+        "Nabi Huud"
+      ],
+      "answer": "Nabi Luut"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Dalabka dadkaygu inay si xun ula kulmaan martidayda",
+        "Kala qaybsanaanta badda si looga baxsado kaligii taliye",
+        "Dhismaha doon weyn oo lagu jeesjeesayo",
+        "Allabariga wiilkayga ee tijaabada iimaanka",
+        "Waayo-aragnimada ah in kalluun weyn liqo"
+      ],
+      "answer": "Dalabka dadkaygu inay si xun ula kulmaan martidayda"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Magaalada rogmatay ee dadkayga",
+        "Buurtii aan khudbad rabbaani ah ka helay",
+        "Doontii dhex martay daad weyn",
+        "Hashii ka soo baxday dhagaxa",
+        "Beerta oo leh booqde qarsoon oo xaq ah"
+      ],
+      "answer": "Magaalada rogmatay ee dadkayga"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Waxaa la i badbaadiyay aniga iyo qoyskayga ka hor inta aan la dumin magaaladayda",
+        "Waxaan dadkayga u horseeday xorriyad badda ka gudubtay",
+        "Waxaan dhisay doon weyn waxaana ka badbaaday daad xooggan",
+        "Waxaa la i siiyay xukunka dabaysha iyo jinka",
+        "Si dulqaad leh ayaan ugu dulqaatay dhibaatada waxaana abaal-marin u helay qoyska"
+      ],
+      "answer": "Waxaa la i badbaadiyay aniga iyo qoyskayga ka hor inta aan la dumin magaaladayda"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

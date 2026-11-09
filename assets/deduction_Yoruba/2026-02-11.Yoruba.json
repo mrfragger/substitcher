@@ -1,0 +1,60 @@
+{
+  "title": "Ẹrù Ọrọ̀",
+  "intro": "O dúró níwájú ìtàn nípa ọrọ̀ ńlá, ìgbésí ayé tí a fi wúrà àti agbára ṣe lọ́ṣọ̀ọ́, síbẹ̀ nígbẹ̀yìn-gbẹ́yín ẹ̀kọ́ ìkìlọ̀ fún gbogbo àwọn tí ń wá ọlá ńlá ayé. Ṣé o lè tú àṣírí ẹni tí ìtàn rẹ̀ ń dún bí àkókò ti ń lọ, èyí tí ó jẹ́ ẹ̀rí ìwà àwọn ohun ìní ayé tí kò ní pẹ́?",
+  "clues": [
+    "Mo wa lati inu awon eniyan Anabi nla kan, sugbon mo yan ipa ona igberaga ati inira.",
+    "Allah fún mi ní ọrọ̀ púpọ̀, tó bẹ́ẹ̀ tí kọ́kọ́rọ́ sí àwọn ìṣúra mi fi jẹ́ ẹrù wúwo fún àwùjọ àwọn ọkùnrin alágbára kan.",
+    "Àwọn ènìyàn mi gbà mí nímọ̀ràn pé kí n má ṣe máa yọ̀ nínú ọrọ̀ mi, wọ́n ń rán mi létí pé Allah kò fẹ́ràn àwọn aláyọ̀.",
+    "Mo fi ìgbéraga sọ pé ìmọ̀ àti ìsapá mi ló jẹ́ kí ọrọ̀ mi pọ̀ sí i, kì í ṣe ìbùkún láti ọ̀dọ̀ Allah.",
+    "Wọ́n kìlọ̀ fún mi nípa ìbàjẹ́, wọ́n sì rán mi létí láti wá Ìkẹyìn pẹ̀lú ohun tí Allah ti fún mi, ṣùgbọ́n mo kọ̀ láti fetísílẹ̀, mo sì tẹ̀síwájú nínú ìgbéraga mi.",
+    "Níkẹyìn, Allah mú kí ilẹ̀ gbé mi àti ibùgbé mi mì, kò sì sí olùrànlọ́wọ́ kankan tí ó lòdì sí àṣẹ Rẹ̀."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Fáráò",
+        "Hámánì",
+        "Kárún",
+        "Abu Lahab",
+        "Namrud"
+      ],
+      "answer": "Kárún"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Pípín òkun",
+        "Iná Nimrọdu",
+        "Ìkún omi náà",
+        "Ilẹ̀ gbé mì",
+        "Àjàkálẹ̀ àrùn eṣú"
+      ],
+      "answer": "Ilẹ̀ gbé mì"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Àpótí náà",
+        "Òṣìṣẹ́ náà",
+        "Ọmọ màlúù wúrà náà",
+        "Àwọn Ìṣúra/Àwọn Kọ́kọ́rọ́",
+        "Kànga Zamzam"
+      ],
+      "answer": "Àwọn Ìṣúra/Àwọn Kọ́kọ́rọ́"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ọba tí a fún ní àṣẹ",
+        "A gbà á lọ́wọ́ ìparun",
+        "Ilẹ̀ gbé mì",
+        "Ó di wòlíì",
+        "Ó kú ní àlàáfíà"
+      ],
+      "answer": "Ilẹ̀ gbé mì"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

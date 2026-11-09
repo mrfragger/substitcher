@@ -1,0 +1,61 @@
+{
+  "title": "Okuzingiza Wansi w’eggulu ery’amangu",
+  "intro": "Oyimiridde mu maaso g’eggye ery’entiisa erisemberera ekifo ekitukuvu ekiweebwa ekitiibwa, nga buli kyakulwanyisa kyetegefu era ng’obuwanguzi bulabika nga bukakafu. Ng’olulumba terunnatandika, amaanyi agatali gasuubirwa galabika waggulu, era empaka zikwata enkyukakyuka omuntu yenna gye yali talaba.",
+  "clues": [
+    "Twatambula nga tuli bakakafu nti tewali maanyi ga nsi gayinza kukankana.",
+    "Twaleeta enjovu ez’amaanyi, era amaanyi gaffe gaali galabika ng’agazimbiddwa okwetooloola.",
+    "Twali tuzze okumenya ekifo ekitukuvu ekyaweebwa ekitiibwa, nga tukkiriza nti obuwanguzi bwaffe bwakakasibwa dda.",
+    "Bwe twatuukayo, ekisibo ne kikulukutira mu bbanga waggulu waffe.",
+    "Ebinyonyi byasuula amayinja ag’ebbumba erikalubye ku balwanyi baffe.",
+    "Twawangulwa ddala ne kiba nti amaanyi gaffe ag’amaanyi gaamenya ne gasaasaana ng’evvu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Abantu ba Njovu",
+        "Abalangira Ababiri",
+        "Baganda ba Yusufu",
+        "Omuddu wa Allah mu Dhul-Kifl",
+        "Baswahaaba b’Omutuukirivu"
+      ],
+      "answer": "Abantu ba Njovu"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Olulumba lwa Kaaba olukulembeddwamu enjovu",
+        "Ennyanja eyawukana mu maaso g’ekibinja ekituusiddwa",
+        "Okuwambibwa kw’Essanduuko abantu abatyoboola",
+        "Olugendo lw'ekiro wakati w'emizikiti ebiri",
+        "Okuwonya omugenge n’amaanyi g’obwakatonda"
+      ],
+      "answer": "Olulumba lwa Kaaba olwakulembeddwamu enjovu"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Ebinyonyi ebitisse obukuta bw’ebbumba",
+        "Essanduuko eya gopherwood",
+        "Omuggo gwafuuka omusota",
+        "Ejjinja erissiddwaako akabonero",
+        "Ekisaka ekyokya"
+      ],
+      "answer": "Ebinyonyi ebitisse obukuta bw’ebbumba"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Amaanyi gaabwe ag’amaanyi gaagwa ng’evvu",
+        "Baasomoka ennyanja nga tebalina kabi konna",
+        "Baatambula nga tebafunye buzibu nga bayita mu kyokero ekyali kiyaka ennyo",
+        "Baayingira mu Jjana nga babiri babiri",
+        "Baasula mu mpuku okumala emyaka 309"
+      ],
+      "answer": "Amaanyi gaabwe ag’amaanyi gaagwa ng’evvu"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

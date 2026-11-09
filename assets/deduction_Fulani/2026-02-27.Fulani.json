@@ -1,0 +1,61 @@
+{
+  "title": "Daande ko yiyaaka",
+  "intro": "E nder annal jokkondiral diine, limre ina seerti e daartol mum, ina waɗi maandeeji kaawisaaji e goonɗinal tiiɗngal. Oo neɗɗo heɓiino wahyu keeriiɗo, luulndiiɗo noddaango jamaanu maɓɓe, haaloowo gila e mbaydi teskinndi. Njoɓdi maɓɓe arii wonaa e laabi gaadoraaɗi kono ko e jokkondiral luggiɗngal, ngal ƴaañii faamde aadee, noddi yimɓe ngam anndude goonga e laabi ɗi cikkataa. Laawol ngol oo maccuɗo Alla ina waɗi seedantaagal no ardaade waawirta feeñde e ngonkaaji ɓurɗi teeŋtude, ina nodda miijo e sifaa wahyu e hoore mum.",
+  "clues": [
+    "Mi rokkaama nelal ummoraade e daande sirlu ummoraade e nokku mo yi’aaka.",
+    "Yimɓe am e fuɗɗoode njaɓaani konngol am, ina ɗaɓɓa seedeeji ɓurɗi laaɓtude e goonga am.",
+    "Miɗo ñaagii ɓe nde ɓe peewnata ko nanndi e ko keɓ-mi koo, kono ɓe mbaawaa.",
+    "Wahyu mo ngaddu-mi oo siforaama ko aayeeji laaɓtuɗi peeñninɗi goonga.",
+    "Mi jeertinii leñol am jukkungo tiiɗngo so tawii ɓe njokkii e keefeeraagal maɓɓe e mawnikinaare maɓɓe.",
+    "Daartol am ina haalee e sara nelaaɓe woɗɓe e nder suura teeŋtinoowo maandeeji baawɗe Alla."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol ko ngonmi?",
+      "options": [
+        "Annabi Huudu",
+        "Annabi Saalihu",
+        "Annabi Shu'ayb",
+        "Goonɗinɗo ummoriiɗo e galle Firaawna",
+        "Annabi Muusaa"
+      ],
+      "answer": "Annabi Saalihu"
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "Werde e nder lowre yiite",
+        "Haɓde e tooñannge laamɗo jom doole en",
+        "Pewnugol gelooɗi debbo ko maande kaawis",
+        "Wuurde e ilam mawɗam",
+        "Woppude e nder maayo e nder kees"
+      ],
+      "answer": "Pewnugol gelooɗi debbo ko maande kaawis"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Falnde Tuwaa",
+        "Wuro ngo Madiyan",
+        "Leydi Samuuda",
+        "Ñaawirdu Firaawna",
+        "Ngaska Hira"
+      ],
+      "answer": "Leydi Samuuda"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "answer": "Leñol am halkaama ngam warde gelooɗi kaawisaaji",
+      "options": [
+        "Leñol am tuubnii, daɗii",
+        "Mi hootaama haa asama mi wuuri",
+        "Yimɓe am halkaama ngam warde gelooɗi kaawisaaji",
+        "Mi wonti laamɗo mawɗo",
+        "Mi hisnaama e waɗeede e laana"
+      ]
+    }
+  },
+  "verseRef": "26:154",
+  "arabic": "مَآ أَنتَ إِلَّا بَشَرٌۭ مِّثْلُنَا فَأْتِ بِـَٔايَةٍ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "You are but a man like ourselves, so bring a sign, if you should be of the truthful.\" (26:154)"
+}

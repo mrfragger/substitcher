@@ -1,0 +1,61 @@
+{
+  "title": "Ohùn Ìdálẹ́bi Tí A Fi Pamọ́",
+  "intro": "Ní àárín ilé ẹjọ́ oníwà ipá kan, níbi tí àìnígbàgbọ́ ni òfin ilẹ̀ náà, ọkàn kan ṣoṣo rìn ní okùn ìgbàgbọ́ àti ìbẹ̀rù. Ẹni yìí, tí ó sún mọ́ àárín agbára, fetí sílẹ̀ bí wọ́n ṣe fi ọ̀rọ̀ wòlíì kan ṣẹ̀sín tí wọ́n sì halẹ̀ mọ́ni. Ìṣẹ́jú kan ti òtítọ́ dé, èyí tí ó fipá mú ẹni yìí láti yan láàrín ààbò láìdákẹ́ àti sísọ òtítọ́ tí ó léwu. Ṣé o lè ṣàwárí ẹni tí ó jẹ́ agbẹjọ́rò onígboyà yìí jẹ́?",
+  "clues": [
+    "Mo gbé ní ilé apànìyàn kan, mo sì rí ìgbéraga tí ó kọ àwọn àmì àtọ̀runwá sílẹ̀ ní ojú mi.",
+    "Mo pa ìgbàgbọ́ mi mọ́ ní àṣírí, ìṣúra ìpamọ́ nínú ààfin ìbọ̀rìṣà.",
+    "Mo gbọ́ tí olórí tí mo ń sìn ṣe àgbéyẹ̀wò láti pa ojiṣẹ Allah kan, ọkùnrin kan tí orúkọ rẹ̀ ń jẹ́ Musa.",
+    "Mo bi wọ́n léèrè nípa ọgbọ́n ìrònú wọn, mo sì rán wọn létí àyànmọ́ àwọn ènìyàn Núùh, 'Ád, àti Támúdì.",
+    "Mo béèrè ìbéèrè pàtàkì kan lọ́wọ́ àwọn ènìyàn mi: ‘Tí ó bá jẹ́ òpùrọ́, irọ́ rẹ̀ wà lórí rẹ̀; ṣùgbọ́n tí ó bá jẹ́ olóòótọ́, díẹ̀ lára ​​ohun tí ó ṣèlérí yóò kàn ọ́.’",
+    "Ìtàn mi ni a sọ gẹ́gẹ́ bí àpẹẹrẹ ìgbàgbọ́ nínú sura tí a ń pè ní 'Olùdáríjìn,' níbi tí mo ti kìlọ̀ fún àwọn ènìyàn mi nípa àwọn àrékérekè àwọn alágbára."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Onigbagbọ láti ìdílé Fir'auna",
+        "Hámánì",
+        "Àwọn Onídán ti Fir‘aon",
+        "Kárún",
+        "Àwọn Samiri"
+      ],
+      "answer": "Onigbagbọ láti ìdílé Fir'auna"
+    },
+    "trial": {
+      "label": "Kí Ni Ìdánwò Mi?",
+      "options": [
+        "Dídábòbò Wòlíì Musa ní ààfin apànìyàn.",
+        "Kíkọ́ ilé gogoro gíga kan láti dé ọ̀run",
+        "Jíjẹ́ tí a jù sínú iná tí ń jó",
+        "Ẹja ńlá kan gbé mì",
+        "Pípàdánù gbogbo ọrọ̀ àti ìlera"
+      ],
+      "answer": "Dídábòbò Wòlíì Musa ní ààfin apànìyàn."
+    },
+    "location": {
+      "label": "Kí Ni Àkòrí Àríyànjiyàn Mi?",
+      "options": [
+        "Àbájáde kíkọ̀ láti jẹ́ ìránṣẹ́ wòlíì",
+        "Ìbéèrè fún àmì láti ọ̀dọ̀ igi mímọ́ kan",
+        "Ṣíṣẹ̀dá ọmọ màlúù láti inú ohun ọ̀ṣọ́ dídà",
+        "Iṣẹ́ ìyanu ràkúnmí láti orí àpáta",
+        "Ìtumọ̀ àlá alákòóso"
+      ],
+      "answer": "Àbájáde kíkọ̀ láti jẹ́ ìránṣẹ́ wòlíì"
+    },
+    "outcome": {
+      "label": "Kí Ni Àbájáde Rẹ̀?",
+      "options": [
+        "Allah gba ẹni yìí là kúrò nínú ète burúkú wọn",
+        "Gbogbo ilé ẹjọ́ gba ẹ̀sìn Islam lẹ́sẹ̀kẹsẹ̀",
+        "Aláìláàánú náà ronú pìwà dà ní àkókò tí ó rì sínú omi",
+        "Ilẹ̀ gbé apànìyàn náà mì",
+        "Wọ́n kó ẹni náà lọ sí ilẹ̀ jíjìnnà kan"
+      ],
+      "answer": "Allah gba ẹni yìí là kúrò nínú ète burúkú wọn"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

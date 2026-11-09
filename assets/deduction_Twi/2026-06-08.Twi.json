@@ -1,0 +1,61 @@
+{
+  "title": "Kronkronbea no Ho Adesrɛfo",
+  "intro": "Wɔ anadwo nnɔnhwerew a ɛhɔ yɛ dinn mu no, ɔkra bi a ɔde ne ho ama frɛɛ Mmɔborohunufo no wɔ beae kronkron bi afasu kronkron no mu. Na wɔde anwonwade a ɛde anigye ne nkɔmhyɛ agyapade bɛbrɛ mfe pii gyidi ne boasetɔ a enhinhim no akatua.",
+  "clues": [
+    "Mede me awia ne anadwo dii ahofama mu wɔ kronkronbea kronkron bi mu, na mesrɛɛ m’Awurade bere nyinaa.",
+    "Mebɔɔ akwakoraa, na me yere yɛ obonin, nanso manhwere anidasoɔ wɔ Allah mmɔborɔhunu mu da.",
+    "Wɔmaa me ɔbabarima, a wɔfrɛ no Yahya, a ɔbɛyɛɛ odiyifoɔ ne trenee kanea.",
+    "Na m’ankasa meyɛ odiyifo, a wɔsomaa me sɛ menkɔkyerɛ Israel Mma kwan.",
+    "Na meyɛ Nkɔnhyɛnyi Harun aseni na mesom sɛ ɔsɔfo wɔ Asɔredan mu.",
+    "Wɔhyɛɛ me nsa sɛ menhwɛ Maryam, Isa maame, na mihuu n’anwonwade ahorow no."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Zakariyya",
+        "Ɔkɔmhyɛni Yahya",
+        "Odiyifo Ilyas",
+        "Ɔkɔmhyɛni Ishaq",
+        "Ɔkɔmhyɛni Ya’qub"
+      ],
+      "answer": "Ɔkɔmhyɛni Zakariyya"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Ɔmaa ɔbabarima wɔ onyin mu",
+        "Wogyee no fii ogya a ɛredɛw mu",
+        "Wogyee no fii apataa yafunu mu",
+        "Onyaa ne ti didii mu wɔ nsuyiri kɛse bi mu",
+        "Wɔasa no yare a emu yɛ den"
+      ],
+      "answer": "Ɔmaa ɔbabarima wɔ onyin mu"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Mihrab (mpaebɔ niche) no .",
+        "Kaaba no",
+        "Kwae a Ɛrehyew no",
+        "Apam Adaka no",
+        "Ɔbodan a Nnipa baason a Wɔada"
+      ],
+      "answer": "Mihrab (mpaebɔ niche) no ."
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wɔmaa ɔba trenee a ɔbɛyɛɛ odiyifo",
+        "Ahum a ano yɛ den sɛee no",
+        "Wɔmenee no wɔ po mu",
+        "Wɔannye no afi ɔhyew a wɔbɛhyew no ho",
+        "Wɔsan kɔɔ wɔn nkurɔfo nkyɛn bere a wɔagye wɔn afi apataa bi nsam akyi"
+      ],
+      "answer": "Wɔmaa ɔba trenee a ɔbɛyɛɛ odiyifo"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

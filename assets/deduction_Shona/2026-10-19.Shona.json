@@ -1,0 +1,61 @@
+{
+  "title": "Mudzingwa weMatenga",
+  "intro": "Chisikwa chisinganzwisisike chinomira pamharadzano yezvisikwa nekurambwa. Nyaya yavo ndeyekuzvikudza kusingaenzaniswi uye kusateerera murairo waMwari. Sarudzo yavo inonzwika muchizvarwa chega chega, ichiva muedzo kumweya wese unozvarwa munyika ino. Unogona kuziva muvengi uyu asingaperi here?",
+  "clues": [
+    "Ndakanga ndiripo pachiitiko chakakosha chose, apo chisikwa chitsva chakaumbwa kubva muvhu ndokupiwa hupenyu neMweya weNyasha.",
+    "Ini pachangu ndakasikwa kubva muchinhu chimwe chete chinopfuta, kusiyana neguruva.",
+    "Ndakapiwa murairo wandakaona kuti hauna kushanda nesimba.",
+    "Kudada kwakawedzera mandiri, uye ndakaramba zvakasimba kuteerera murayiro iwoyo.",
+    "Ndakambomira kusvika paZuva rakatarwa, kuitira kuti nditevere chinangwa changu chekutsausa vamwe.",
+    "Ndiri muvengi wevanhu vose vanofamba panyika, ndichitaura zvinhu zvinonyengera uye ndichivanyengedza kuti vabve munzira yakarurama."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Iblis (Satani)",
+        "Farao (Firauni)",
+        "Hamani",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Satani)"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Akaramba kukotamira Adhamu",
+        "Akataura kuti ndiMwari zvenhema",
+        "Akagadzira mhuru yegoridhe yekunamata",
+        "Akauraya munin'ina wake negodo",
+        "Vakatungamira kupikisa kwevamwari vakawanda muMakkah"
+      ],
+      "answer": "Akaramba kukotamira Adhamu"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Paradhiso (Jannah)",
+        "Imba yaFarao muIjipiti",
+        "Mupata mutsvene weTuwa",
+        "Kudzika kwegungwa",
+        "Bindu reShebha"
+      ],
+      "answer": "Paradhiso (Jannah)"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kupiwa zororo kusvika Zuva reKutongwa",
+        "Kunyura pamwe chete neuto mugungwa",
+        "Yakamedzwa nenyika pamwe chete nepfuma",
+        "Akachinjwa kuita tsoko nekuda kwekutyora Sabata",
+        "Kupiswa nematombo akakandwa kubva kudenga"
+      ],
+      "answer": "Kupiwa zororo kusvika Zuva reKutongwa"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

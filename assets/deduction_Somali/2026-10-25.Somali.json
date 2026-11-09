@@ -1,0 +1,61 @@
+{
+  "title": "Cabashada laga Maqlay Buuqa ka Sarreeya",
+  "intro": "Waxaad maqlaysaa cod ka soo baxaya bulsho dulmigu noqday mid caadi ah. Muujin awoodeed ma jirto oo ka jawaabeysa cabashada; taa beddelkeeda, codsi toos ah ayaa gaaraya Alle, jawaabtuna waxay ku dhacaysaa wadnaha cibaadada lafteeda. Yaa cabashadaas sameeyay, su'aalkee baa raacday, iyo runta la xaqiijiyay?",
+  "clues": [
+    "Waxaan dhibsaday dulmiga dadka igu xeeran.",
+    "Cabashadaas waxaan si toos ah ugu gudbiyay Alle cabasho shaqsiyeed.",
+    "Ilaahay ayaa maqlay cabashada, wuxuuna ku jawaabay dacwad ku saabsan aaminsanaantayda.",
+    "Jawaabtu waxay ahayd sidee ayaan ugu guuldareysan karaa inaan rumaysto Alle, oo ah mid keliya oo sarreeya.",
+    "Dabadeed waxaan weydiiyay sababta uu Alle ugu roonaan lahaa dad gaaloobay.",
+    "Anigu waxaan ahay Uzayr, oo lagu magacaabay Suurada Az-Zukhruf oo ah qofkii uu Alle ka maqlay dacwadiisa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Uzayr",
+        "Saaxiibkii ku safray daadkii weynaa",
+        "Addoonkii biyaha ku dul socday",
+        "Qofka hurda ayaa ku dhex jira god",
+        "Addoonkii dhagaxyada keenay webi"
+      ],
+      "answer": "Uzayr"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Cabasho Alle ka dhan ah dulmiga lagu hayo dadka",
+        "Ku socoshada biyaha dushooda inta lagu jiro duufaan",
+        "Dhagaxyo u qaadaya webi aan biyo lahayn",
+        "Doonta oo dul mareysa daad weyn oo saaran",
+        "Helitaanka furaha khasnad aad u weyn"
+      ],
+      "answer": "Cabasho Alle ka dhan ah dulmiga lagu hayo dadka"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Cabasho toos ah oo loo jeediyay Alle",
+        "Ul abeeso noqotay",
+        "Foorno laga dhigay mid qabow oo nabdoon",
+        "Doon dul sabeynaysa biyaha daadadka ah",
+        "Kalluun liqay addoon"
+      ],
+      "answer": "Cabasho toos ah oo loo jeediyay Alle"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Ilaahay ayaa maqlay cabashada wuxuuna xaqiijiyay Midnimada Ilaah iyo Rabbinimada Sare",
+        "Ku socoshada si badbaado leh biyaha dushooda inta lagu jiro duufaan",
+        "Si nabad ah uga gudub daad weyn markabkii doonta saarnaa",
+        "Dib u soo noqoshada aragtida qasriga kibirka",
+        "Iyada oo helaysa xukun ka bilaabma Bari ilaa Galbeed"
+      ],
+      "answer": "Ilaahay ayaa maqlay cabashada wuxuuna xaqiijiyay Midnimada Ilaah iyo Rabbinimada Sare"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

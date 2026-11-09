@@ -1,0 +1,61 @@
+{
+  "title": "Kudanwa Kusina Kuteererwa Munyika Yekuzvikudza",
+  "intro": "Umire mumatongo ehunhu hwaimbova hukuru, uko simba nekuzvikudza zvaisaziva miganhu. Mutumwa akafamba pakati pavo, achishevedzera kuchokwadi, asi mwoyo yavo yakaomeswa. Nyevero haina kuteererwa, uye denga pacharo rakava chishandiso chehasha. Ndiani aive mutumwa uyu, uye chii chakazoitika kune avo vakaramba kudanwa?",
+  "clues": [
+    "Ndakatumwa kuvanhu vakanga vasina simba risingaenzaniswi uye vakavaka chiyeuchidzo panzvimbo dzose dzakakwirira.",
+    "Vanhu vangu vaizviona sevasingakundiki uye vakati, 'Ndiani ane simba guru kupfuura isu?'",
+    "Ndakavadana kuti vanamate Allah chete, asi vakandipomera upenzi nenhema.",
+    "Vakandikurudzira kuti ndipe chirango chandakavimbisa kana ndaive nechokwadi.",
+    "Mwari akavatumira mhepo isina chinhu isina kusiyiwa nayo.",
+    "Ini neavo vakatenda pamwe chete neni takaponeswa netsitsi dzaAllah, asi vasingatendi vakaparadzwa zvachose."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muporofita Hud",
+        "Muprofita Salih",
+        "Muprofita Shuaib",
+        "Muporofita Lut",
+        "Muprofita Nuh"
+      ],
+      "answer": "Muporofita Hud"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Mhepo inoparadza yakaparadza vasingatendi",
+        "Mafashamo makuru akafukidza vasingatendi",
+        "Mvura yematombo yakanaya",
+        "Kuchema kukuru kwakabata vasingatendi",
+        "Kudengenyeka kwenyika kwakarova vasingatendi"
+      ],
+      "answer": "Mhepo inoparadza yakaparadza vasingatendi"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Mhepo isingaperi",
+        "Areka yematanda",
+        "Ngamera hadzi",
+        "Mvura yematombo evhu",
+        "Moto unopfuta"
+      ],
+      "answer": "Mhepo isingaperi"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Hud nevatendi vakaponeswa, uye vasingatendi vakaparadzwa",
+        "Hud akakwidziridzwa panzvimbo yepamusoro",
+        "Hud akaurayiwa nevanhu vake",
+        "Vanhu vaHud vakapfidza uye vakaponeswa",
+        "Hud akasiya vanhu vake asati arangwa"
+      ],
+      "answer": "Hud nevatendi vakaponeswa, uye vasingatendi vakaparadzwa"
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

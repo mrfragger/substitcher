@@ -1,0 +1,61 @@
+{
+  "title": "Ukuri kwacecekesheje Urukiko",
+  "intro": "Mu ngoro aho guhakana byari bikomeye kandi imbaraga zari nyinshi, itsinda ry'abahanga mu by'ubuhanga ryari rihagaze imbere y'ikibazo kitari giteganyijwe. Umuyaga warashyushye cyane ubwo inzira ebyiri z'ikinyoma n'ukuri zari zigiye guhura. Abari bateraniye aho ntibari bazi ko iki gikorwa cyari guhindura ubuzima bwabo burundu kandi kigahindura inkuru yabo mu nyandiko zera.",
+  "clues": [
+    "Twari tuzwiho ubuhanga bwacu mu kwibeshya kandi twateranijwe n'umutegetsi ukomeye kugira ngo duhangane n'uwo twahanganye.",
+    "Igihe kigeze, twakoresheje ibikoresho byacu dutegereza umusaruro, twizeye ko tuzabikora.",
+    "Ariko ibyo twiboneye byatumye ibikoresho byacu bisa n'aho ari ibikinisho gusa, kandi imitima yacu yamenye ukuri kudashidikanywaho.",
+    "Twaguye hasi twunamye, dutangaza ko twizera Umwami wa Mose na Aroni, nubwo umutegetsi yari afite uburakari bwinshi.",
+    "Uwo mutegetsi yaratugabije igihano gikomeye cyane, asezeranya kutubamba no kuduca amaguru n'amaboko mu buryo butandukanye.",
+    "Twakomeje gushikama, tuvuga ko dukunda gucirwa urubanza n'Umwami wacu kuruta ingaruka zose z'isi, kandi twishwe duhowe ukwizera kwacu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Abapfumu ba Farawo",
+        "Abantu bo mu buvumo",
+        "Abagenzi bo mu ishyamba",
+        "Abigishwa ba Isa",
+        "Abantu b'inzovu"
+      ],
+      "answer": "Abapfumu ba Farawo"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Irushanwa ry'ubumaji rirwanya Musa",
+        "Umuriro warabajugunyeho",
+        "Umwuzure wabarohamye",
+        "Amapfa n'inzara",
+        "Umutingito"
+      ],
+      "answer": "Irushanwa ry'ubumaji rirwanya Musa"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Inkoni n'imigozi byahindutse inzoka",
+        "Igihuru cyaka",
+        "Ingamiya y'ingore",
+        "Inkuge y'ibiti",
+        "Ifi nini"
+      ],
+      "answer": "Inkoni n'imigozi byahindutse inzoka"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Yishwe kubera ukwizera, Paradizo yasezeranijwe",
+        "Yarohamye mu nyanja",
+        "Babaye abategetsi ba Misiri",
+        "Abasigaye bakurikira Farawo",
+        "Yahawe igihugu"
+      ],
+      "answer": "Yishwe kubera ukwizera, Paradizo yasezeranijwe"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

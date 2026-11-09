@@ -1,0 +1,61 @@
+{
+  "title": "Ishari ryariye",
+  "intro": "Inkuru ya kera kuruta ubwami ubwo ari bwo bwose canke icanditswe—ivyago vya mbere vy’abantu vyavutse kubera ishari. Umutima umwe, umukuru w’abana babiri bavutse ku bavyeyi ba mbere, wararavye n’ishavu ryinshi ingene umuvukanyi wiwe mutoyi yaronka ubutoni bwari bwahakanwe. Ivyakurikiyeho ni amahitamwo y’umwiza kuruta ayandi yose, asiga amaraso ya mbere yamenetse kw’isi. Woba ushobora guhishura akaranga, ikigeragezo be n’ukwicuza gukomeye?",
+  "clues": [
+    "Navutse mu bantu babiri ba mbere nyene bagendeye kw’isi.",
+    "Narigeze gushikanira Allah ishikanwa, ariko ntiryemerewe kuri jewe.",
+    "Ishikanwa ry’umuvukanyi wanje ryaremewe, mu gihe iryanje ryaranse, ivyo bikaba ari ikintu ntashobora kwihanganira.",
+    "Narateye ubwoba mwenewacu bwite ko nzomutikiza.",
+    "Nabaye uwa mbere kwica abantu kuri iyi si, mfata ubuzima bw’umuvukanyi wanje bwite.",
+    "Allah yarungitse ikiremwa co kw’isi—inyoni yirabura yimba mw’ivu—kugira ngo nyigishe ingene nonyegeza ivyo nakoze, nta kindi nasigaye atari ukwicuza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Kabili (Kayini)",
+        "Habili (Abeli)",
+        "Umuhanuzi Yaqub",
+        "Umuhanuzi Musa",
+        "Umuhanuzi Adamu"
+      ],
+      "answer": "Kabili (Kayini)"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Ishikanwa ryanse na Allah",
+        "Bajugunywe mu muriro mwinshi .",
+        "Yahebwe nk'uruyoya mu ruzi",
+        "Yageragejwe n'ubwami buhambaye cane .",
+        "Yategetswe gutanga umuhungu wiwe nk’ikimazi ."
+      ],
+      "answer": "Ishikanwa ryanse na Allah"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Igisiga coherejwe na Allah",
+        "Inyana y'inzahabu",
+        "Ubwato buri ku musozi",
+        "Igisaka kigurumana",
+        "Ingamiya y’ingore ibajwe mu rutare"
+      ],
+      "answer": "Igisiga coherejwe na Allah"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Yaciye yuzura ukwicuza kandi mu batakaje .",
+        "Yamizwe mw'isi hamwe n'ubutunzi .",
+        "Yabaye intumwa y'icubahiro ya Allah .",
+        "Yinjiye mw’Iparadizo kubera imbabazi z’Imana .",
+        "Yatwaye ubwami butagira uko bungana ."
+      ],
+      "answer": "Yaciye yuzura ukwicuza kandi mu batakaje ."
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

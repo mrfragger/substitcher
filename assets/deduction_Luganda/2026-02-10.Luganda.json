@@ -1,0 +1,60 @@
+{
+  "title": "Okwebaka kw’Emyaka",
+  "intro": "Ogenda okutandika olugendo mu biseera, ng’osisinkanye ekyama ekinene eky’okukkiriza n’amaanyi ag’obwakatonda. Teebereza ekibinja ky’abantu ssekinnoomu abaali bajeemera emisingi gy’ekitundu kyabwe, nga banywerera ku kukkiriza Katonda omu mu nsi ey’okusinza Katonda omu. Emboozi yaabwe bujulizi ku busobozi bwa Allah okukuuma abaddu be abatuukirivu mu ngeri ezitali za bulijjo. Osobola okuzuula ebikwata ku bantu bano ab’ekitalo?",
+  "clues": [
+    "Twali kibinja kitono eky’abavubuka abaali bakkiririza mu Katonda omu, wadde ng’abantu baffe baali basusse nnyo.",
+    "Twadduka omufuzi omukambwe eyatutiisatiisa olw’okukkiriza kwaffe, nga tutya okuyigganyizibwa n’okufa.",
+    "Twanoonya obuddukiro mu kifo ekyesudde, nga tusuubira okusaasira kwa Allah n’obukuumi okuva eri abatunyigiriza.",
+    "Mukama waffe yatuleetera okugwa mu tulo otungi, otulo obw’ekyamagero obwali busomooza okuyita kw’ebiseera.",
+    "Bwe twazuukuka, twakkiriza nti twawummudde olunaku lumu lwokka oba ekitundu ky’olunaku, nga tetumanyi kiseera kinene ekyali kiyise mu butuufu.",
+    "Quran eyogera nti twasigala mu mbeera yaffe okumala emyaka ebikumi bisatu, ne tusukka mwenda, ne tufuuka akabonero eri abantu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Abantu b'omu mwala",
+        "Abantu b’e Thamudi",
+        "Abantu b'Empuku",
+        "Abantu b’e Madyan",
+        "Ba Swahaaba ba Njovu"
+      ],
+      "answer": "Abantu b'Empuku"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okwolekedde amataba amanene",
+        "Okumira ensi",
+        "Okwebaka okuwanvu okw’ekyamagero",
+        "Okuzikirizibwa kw’ekibuga kyabwe",
+        "Okukutuka kw’ennyanja"
+      ],
+      "answer": "Okwebaka okuwanvu okw’ekyamagero"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Ekisaka ekyokya",
+        "Olusozi",
+        "Eryato",
+        "Empuku",
+        "Oluzzi"
+      ],
+      "answer": "Empuku"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Baaweebwa obugagga n’obuyinza bungi nnyo",
+        "Zaakyusibwa ne zifuuka enkima n’embizzi",
+        "Bazuukusibwa okuva mu tulo ng’akabonero akazibu ennyo",
+        "Babbira mu mataba amangi",
+        "Baazimba obwakabaka obw’ekitalo"
+      ],
+      "answer": "Bazuukusibwa okuva mu tulo ng’akabonero akazibu ennyo"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

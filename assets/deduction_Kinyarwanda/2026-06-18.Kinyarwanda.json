@@ -1,0 +1,61 @@
+{
+  "title": "Uwa mbere mu gusaba imbabazi",
+  "intro": "Subira inyuma mu gihe cyabanjirije izuba rirashe, mbere yuko umuntu uwo ari we wese agendera ku isi. Ishusho yakozwe mu bikoresho byo hasi cyane, ihabwa umwanya hejuru y'abamarayika, ishyirwa mu busitani bweranda hamwe n'umuburo usobanutse. Nyamara mu kanya gato, hafashwe amahitamo - amwe yari kugaragara mu mateka yose y'abantu. Uyu ni nde?",
+  "clues": [
+    "Naremwe mu buryo butandukanye n’ubundi bwose — naremwe mu mukungugu w’isi mpabwa ubugingo buzima n’ukuboko kw’Umuremyi.",
+    "Nahawe ubumenyi bwimbitse cyane ku buryo n'abamarayika bo hejuru babwitangariye.",
+    "Ijuru ryose ryategetswe kunyunamira, kandi bose barayoboka — usibye umwe, wanze kubera ubwibone.",
+    "Nashyizwe mu busitani bwera, ahantu ho kuruhuka no kubona ibiryo by'iteka ryose - ariko hari itegeko rimwe ribuzanyijwe.",
+    "Naribagiwe, ndanyerera, kandi sinari narabikoze — kandi numvise uburemere bw'ikosa ryanjye cyane.",
+    "Nahindukiriye Umwami wanjye n'amagambo aturutse ku mutima, kandi yemeye kwicuza kwanjye, kuko ari We ubabarira cyane."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Umuhanuzi Adamu",
+        "Intumwa Dawidi",
+        "Intumwa Muhamadi",
+        "Ibilisi",
+        "Intumwa Yakub"
+      ],
+      "answer": "Umuhanuzi Adamu"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Abamarayika bategetswe kuramya",
+        "Umwuzure Ukomeye woherejwe",
+        "Umuriro ukomeye wakozwe ukonje kandi utekanye",
+        "Umutegetsi w'umwirasi yarohamye mu nyanja",
+        "Ingabo z'inzovu zararimbuwe"
+      ],
+      "answer": "Abamarayika bategetswe kuramya"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Ubusitani bw'Ibyishimo",
+        "Umusozi wa Sinayi",
+        "Umusigiti Mutagatifu",
+        "Uruzi rwa Nili",
+        "Ubuvumo"
+      ],
+      "answer": "Ubusitani bw'Ibyishimo"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Kwihana kwemejwe na Allah",
+        "Yarohamye mu nyanja",
+        "Yamizwe n'ifi nini",
+        "Igihugu cyakubiswe n'igisasu gikomeye",
+        "Yatwitswe n'umuyaga utwika"
+      ],
+      "answer": "Kwihana kwemejwe na Allah"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

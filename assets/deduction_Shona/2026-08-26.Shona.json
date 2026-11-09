@@ -1,0 +1,61 @@
+{
+  "title": "Godo Rakadya",
+  "intro": "Ngano yekare kupfuura chero humambo kana rugwaro—dambudziko rekutanga revanhu rakazvarwa negodo. Mumwe munhu, mukuru wevana vaviri vakaberekwa nevabereki vekutanga, akatarisa nehasha munin'ina wake achigamuchira nyasha dzakarambwa. Chakatevera ndicho chisarudzo chakashata kwazvo, achisiya ropa rekutanga rakadeurwa panyika. Unogona here kuburitsa pachena hunhu, muedzo, uye kuzvidemba kunorwadza?",
+  "clues": [
+    "Ndakazvarwa nevanhu vaviri vekutanga kufamba panyika.",
+    "Ndakambopa mupiro kuna Allah, asi hauna kugamuchirwa kubva kwandiri.",
+    "Chipo chemukoma wangu chakagamuchirwa, asi changu chakarambwa—chimwe chinhu chandaisagona kutsungirira.",
+    "Ndakatyisidzira mukoma wangu kuti aizomuparadza.",
+    "Ndakava wekutanga kuponda panyika ino, ndichiuraya munin'ina wangu chaiye.",
+    "Allah akatuma chisikwa chepasi—shiri nhema ichichera muvhu—kuti chindidzidzise kuvanza zvandaive ndaita, uye ndakasara ndisina chimwe chinhu kunze kwekungozvidemba."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Qabil (Kaini)",
+        "Habhiri (Abheri)",
+        "Muporofita Yaqub",
+        "Muprofita Musa",
+        "Muprofita Adhamu"
+      ],
+      "answer": "Qabil (Kaini)"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Chipo chakarambwa naAllah",
+        "Yakakandwa mumoto mukuru",
+        "Akasiyiwa ari mucheche murwizi",
+        "Yakaedzwa neumambo hukuru",
+        "Akarayirwa kuti munhu abayire mwanakomana wake"
+      ],
+      "answer": "Chipo chakarambwa naAllah"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Gunguwo rakatumwa naAllah",
+        "Mhuru yegoridhe",
+        "Areka iri pamusoro pegomo",
+        "Gwenzi riri kupfuta",
+        "Ngamera hadzi yakacherwa kubva padombo"
+      ],
+      "answer": "Gunguwo rakatumwa naAllah"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akazadzwa nekuzvidemba uye pakati pevakarasikirwa",
+        "Yakamedzwa muvhu pamwe chete nepfuma",
+        "Akava mutumwa waAllah ane kukudzwa",
+        "Akapinda muParadhiso kuburikidza netsitsi dzaMwari",
+        "Akatonga umambo husina mumwe munhu akafanana naye"
+      ],
+      "answer": "Akazadzwa nekuzvidemba uye pakati pevakarasikirwa"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

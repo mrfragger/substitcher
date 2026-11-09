@@ -1,0 +1,61 @@
+{
+  "title": "Kudanwa Kwakapfuura Nenguva Dzose",
+  "intro": "Fungidzira mweya wakamira wega uchirwisana netsika yose, wakatsunga kuvatungamirira kubva mukutsauka neushingi husingazununguki. Kwemazana emakore, shoko rakarambwa, rakasekwa, uye rakarambwa—asi kuedza hakuna kumbomira. Pakupedzisira, kuverengwa kukuru kwakauya, uye vashoma chete ndivo vakaponeswa pamwe chete nemweya uyu wakasimba. Unogona here kuona munhu uyu kubva muKorani?",
+  "clues": [
+    "Ndakatumwa semuyambiri kuvanhu vakarasika munzira dzavo.",
+    "Ndakavakoka kuti vatsvage ruregerero uye vatendeuke kubva pazvivi zvavo, asi vakaramba.",
+    "Ndichitungamirirwa naMwari, ndakavaka chikepe chikuru vanhu vangu vachinditarisa uye vachindiseka.",
+    "Ndakadana kuna Ishe wangu ndisingaregi—pakupedzisira vakapindura, uye mvura yakadurura kubva kudenga iri mafashamo.",
+    "Ndakakwira muchikepe pamwe chete neavo vakatenda apo mvura yemafashamo yakakwira pamusoro penyika.",
+    "Ndakachema kune mumwe akanga asara, ndichivakumbira kuti vatizire pagomo, asi mutemo wakanga watopfuura."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Nuh",
+        "Muprofita Ibrahim",
+        "Muprofita Musa",
+        "Muporofita Hud",
+        "Muprofita Salih"
+      ],
+      "answer": "Muprofita Nuh"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kuvaka areka huru uye kupona mafashamo epasi rose",
+        "Kukandwa mumoto unopfuta",
+        "Kutarisana nemudzvinyiriri nevaroyi vake vane simba",
+        "Kumedzwa nehove huru",
+        "Kuona kuurayiwa kwengamera tsvene yehadzi"
+      ],
+      "answer": "Kuvaka areka huru uye kupona mafashamo epasi rose"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Areka hombe yematanda iri pamusoro pemvura inofashamira",
+        "Mupata mutsvene une matongo ematombo ekare",
+        "Bako rakadzika rairara shamwari kwemazana emakore",
+        "Dumbu rehove hombe iri pasi pegungwa",
+        "Gomo refu rematombo murenje"
+      ],
+      "answer": "Areka hombe yematanda iri pamusoro pemvura inofashamira"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akaponeswa nevatendi vari muchikepe",
+        "Kununurwa kubva mumoto kusina kukuvara kuburikidza nemurairo waMwari",
+        "Akatungamira kubuda kukuru kubva muumambo hune simba",
+        "Kanda kubva muhove uende kumahombekombe asina chinhu",
+        "Akatungamirira vanhu kubva pakuita zvakaipa kuburikidza nechiratidzo chinoshamisa"
+      ],
+      "answer": "Akaponeswa nevatendi vari muchikepe"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

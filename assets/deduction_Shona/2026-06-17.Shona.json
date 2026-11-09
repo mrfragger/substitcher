@@ -1,0 +1,61 @@
+{
+  "title": "Chiratidzo Chinobva Kumucheto kweGuta",
+  "intro": "Muguta rakasiya kutungamirirwa naMwari, munhu mumwe chete akabuda kunze kwenyika, achimhanya neshoko retariro nenyevero. Mweya uyu wakanganikwa waizova chiratidzo chisingaperi chekutenda kwakasimba.",
+  "clues": [
+    "Ndakaona nhume dzichitumwa kuguta rangu, asi vanhu vangu vakavaramba sevanhuwo zvavo.",
+    "Ndakatenda mumashoko avo uye ndakanzwa chokwadi chichindibata-bata.",
+    "Ndakakurudzira vanhu vangu kuti vateerere nhume dzisina kukumbira mubairo.",
+    "Ndakamhanya kubva kumagumo eguta, ndichiedza nekukurumidza kuti vaone chikonzero.",
+    "Vanhu vangu vakandimukira, ndikaurayiwa, asi ndakawana rugare rusingaperi.",
+    "Allah akati kwandiri, 'Pinda muParadhiso,' uye ndaishuvira kuti vanhu vangu vaone rukudzo rwandakapihwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Mutendi weYa-Sin",
+        "Uzair Mubvunzi",
+        "Al-Khidr Mutungamiriri",
+        "Mutendi wemhuri yaFarao",
+        "Namrud Mudzvinyiriri"
+      ],
+      "answer": "Mutendi weYa-Sin"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kutarisana nevanhu vasingatendi vakamuuraya",
+        "Kukandwa mumoto unopfuta",
+        "Kumedzwa nehove huru",
+        "Kuvaka areka hombe",
+        "Kutiza uto remudzvinyiriri"
+      ],
+      "answer": "Kutarisana nevanhu vasingatendi vakamuuraya"
+    },
+    "location": {
+      "label": "Nzvimbo yeKiyi",
+      "options": [
+        "Mugumo uri kure weguta",
+        "Gomo reTur",
+        "Mupata weMasvosve",
+        "Mahombekombe eNairi",
+        "Bako rebako"
+      ],
+      "answer": "Mugumo uri kure weguta"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kufira kutenda uye kupinda muParadhiso ipapo ipapo",
+        "Kutiza neruponeso",
+        "Kukwira kudenga",
+        "Kunyura mugungwa",
+        "Kushanduka kuita dombo"
+      ],
+      "answer": "Kufira kutenda uye kupinda muParadhiso ipapo ipapo"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

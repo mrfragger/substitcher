@@ -1,0 +1,61 @@
+{
+  "title": "Abagenzi bo mu murima w’ibiti by’icyatsi kibisi",
+  "intro": "Mu gihe cya kera, abantu babiri bitaga ku butaka bw'abaturanyi. Inzira zabo zari zifatanye, ariko imitima yabo yabayoboraga mu nzira zitandukanye cyane. Umwe yanyuze mu nzira igororotse, undi akayobera mu mwijima wo guhakana. Ese ushobora guhishura ibanga ry'aba bombi bashinzwe gusarura?",
+  "clues": [
+    "Nari mfite imyaka myinshi, umusaruro mwinshi washimishije abarebaga.",
+    "Umuturanyi wanjye yari afite ubutunzi bwinshi kundusha, nyamara nifuzaga umugabane wabo kuruta uwanjye.",
+    "Nabagiriye inama yo kurimbura imyaka yabo burundu, kugira ngo duhurize hamwe ibintu byose ndi mu maboko yanjye.",
+    "Nari narasenyeye umusaruro wanjye, ndangiza byose mu migambi yanjye y'ubupfapfa.",
+    "Nahagaze nta cyo nitayeho ubwo imyaka yanjye yarumaga n'ubutunzi bwanjye buhinduka umukungugu mu ijoro rimwe.",
+    "Nta mugabane nari mfite mu buzima bw'imperuka, kandi aho nari ntuye habaye umwobo w'umuriro ugurumana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Umuntu wahakanye izuka n'urubanza",
+        "Umutegetsi wakandamije umuhinzi w'umukiranutsi",
+        "Umutunzi w'ubutaka udafite ishimwe",
+        "Umuhinzi wifuje ubutaka bw'umuturanyi we",
+        "Umufatanyabikorwa w'umugambanyi wateguye umugambi wo kurimbura"
+      ],
+      "answer": "Umuhinzi wifuje ubutaka bw'umuturanyi we"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Ikizamini cyo kwakira ihishurirwa ry'Imana",
+        "Ikibazo cy'ubukire n'ukwihangana",
+        "Igishuko cyo gusenya imibereho y'umuntu ukiranuka",
+        "Itegeko ryo kugabanya izungura mu buryo buboneye",
+        "Urugamba rwo kurwanya ihohoterwa ry'umunyagitugu"
+      ],
+      "answer": "Igishuko cyo gusenya imibereho y'umuntu ukiranuka"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Ubusitani bwiza bwa paradizo",
+        "Imirima ibiri y'ibihingwa byegeranye",
+        "Imisozi yabonye isenyuka",
+        "Ingoro ndende ya Makka",
+        "Inkombe z'imigezi y'igihugu cy'umugisha"
+      ],
+      "answer": "Imirima ibiri y'ibihingwa byegeranye"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Paradizo y'iteka nk'ingororano yo gukiranuka",
+        "Gusenya burundu ibihingwa byombi muri ubu buzima",
+        "Guhunga no kuzerera kugeza ku rupfu",
+        "Uburumbuke bw'igihe gito bukurikirwa n'umuriro w'iteka",
+        "Gusubizwamo ibintu mu buryo bw'igitangaza no gukuba kabiri ibyiza"
+      ],
+      "answer": "Gusenya burundu ibihingwa byombi muri ubu buzima"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

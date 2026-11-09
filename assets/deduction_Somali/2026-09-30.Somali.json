@@ -1,0 +1,61 @@
+{
+  "title": "Bukaanka",
+  "intro": "Waqti hore, maalmihii ugu horreeyay ee taariikhda aadanaha, laba nafood ayaa hor taagnaa Abuurahooda iyagoo wata allabaryo. Mid waa la aqbalay, midna lama aqbalin. Wixii xigay waxay noqon doonaan masiibo weyn oo ugu horreysay oo dhex marta walaalaha - hal fal oo dulqaad leh iyo hal fal oo aargoosi qadhaadh ah. Ma ogaan kartaa qofka aan ahay?",
+  "clues": [
+    "Waxaan ku dhashay maalmihii ugu horreeyay ee aadanaha uu dhulka ku noolaa",
+    "Waxaan ahaa ilmo ay dhaleen lammaanihii ugu horreeyay ee dhulkan ku noolaa",
+    "Mar ayaan allabari ka bixiyay adhigaygii ugu fiicnaa si aan u raali galiyo Abuurahaygii",
+    "Dalabkaygii kor ayaa laga aqbalay, halka walaalkay la diiday",
+    "Markii aan dil ugu hanjabay, waxaan doortay inaan gacantayda ku qaadin walaalkay",
+    "Waxaan noqday qofkii ugu horreeyay taariikhda aadanaha oo dhan oo si khaldan loogu dilay qof kale"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Haabiil (Haabiil), ina Aadan",
+        "Qabiil (Qaa'in), ina Aadan",
+        "Aadan, aadanihii ugu horreeyay",
+        "Nuux (Nuux)",
+        "Ibraahim (Ibraahim)"
+      ],
+      "answer": "Haabiil (Haabiil), ina Aadan"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Dilkii ugu horreeyay taariikhda aadanaha",
+        "Daadkii weynaa ee Nuux",
+        "Burburkii ciidankii Fircoon",
+        "Allabariga Ismaaciil ee uu sameeyay Ibraahim",
+        "Dagaalkii Jalut (Jaaluut)"
+      ],
+      "answer": "Dilkii ugu horreeyay taariikhda aadanaha"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Wan loo bixiyey allabari macaan",
+        "Sanduuq alwaax ah oo weyn",
+        "Ul abeeso noqotay",
+        "Shimbir hoopoe ah oo sidda farriin boqornimo",
+        "God dab ah oo ololaya"
+      ],
+      "answer": "Wan loo bixiyey allabari macaan"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Wuxuu noqday dhibbanihii ugu horreeyay ee dil loo geysto taariikhda aadanaha",
+        "Waxaan ka badbaaday daad weyn oo gudaha weel alwaax ah ku jiray",
+        "Ku noolaa caloosha kalluun weyn",
+        "Wuxuu xukumay jinni, aadane, iyo dabaysha",
+        "Afartan sano oo aan ku dhex wareegayay lamadegaanka weyn"
+      ],
+      "answer": "Wuxuu noqday dhibbanihii ugu horreeyay ee dil loo geysto taariikhda aadanaha"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

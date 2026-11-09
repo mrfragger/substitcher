@@ -1,0 +1,61 @@
+{
+  "title": "Abuurkii Dagaalka",
+  "intro": "Kahor inta adduunku ogaan khilaaf baahsan, waxaa soo ifbaxay imtixaan qoto dheer oo iimaan iyo addeecid ah. Sheekadani waxay sahamisaa doorashooyinka uu sameeyay qof, oo falalkiisu ay tusaale u yihiin jiilalka soo socda. Isu diyaari inaad furto sheekada naf la halgamaysa hinaasaha aadka u weyn iyo cawaaqib xumadiisa.",
+  "clues": [
+    "Waxaan ka mid ahaa farcankii ugu horreeyay ee dhulka ku socday, anigoo ah ilmo ay dhaleen lamaane aadame oo ugu horreeyay.",
+    "Aniga iyo walaalkay waxaa la faray inaan Alle u bixinno allabaryo, taasoo ah imtixaan lagu ogaanayo daacadnimadeenna.",
+    "Dalabkaygii lama aqbalin, halka kan walaalkay la aqbalay, taasoo qalbigayga ka buuxisay dareen xun.",
+    "Waxaan walaalkay kula hadlay erayo hanjabaad ah, iyadoo ay igu kaliftay qadhaadhka diidmada.",
+    "Walaalkay ayaa ku jawaabay xigmad iyo cibaado, isagoo i xasuusinaya caddaaladda Alle iyo cabsida uu ka qabo.",
+    "Inkastoo walaalkay hadallo dabacsan iyo rabitaankiisa ah inuu cafiyo, haddana waxaan iska dhigay qof aan waxba galabsan, anigoo noqday mid ka mid ah kuwa khasaaray."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Aadam",
+        "Ibliis",
+        "Nabi Nuux",
+        "Qabiil (Qaa'in)",
+        "Fircoon"
+      ],
+      "answer": "Qabiil (Qaa'in)"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Daadkii weynaa",
+        "Kala qaybsanaanta badda",
+        "Dhismaha Kacbada",
+        "Qurbaannada allabaryada",
+        "Jirrabaadda Beerta Ku Jirta"
+      ],
+      "answer": "Qurbaannada allabaryada"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Sanduuqa",
+        "Shaqaalaha",
+        "Buurta Safa",
+        "Allabariga",
+        "Geedka Gubanaya"
+      ],
+      "answer": "Allabariga"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Wuxuu noqday rasuul",
+        "Waa la qarqiyay",
+        "Waxay dhistay boqortooyo weyn",
+        "Waxaan noqday tusaale qoomamo ah",
+        "Waxaa la siiyay hanti aad u badan"
+      ],
+      "answer": "Waxaan noqday tusaale qoomamo ah"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

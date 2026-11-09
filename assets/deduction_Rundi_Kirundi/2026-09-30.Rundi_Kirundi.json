@@ -1,0 +1,61 @@
+{
+  "title": "Uwo murwayi",
+  "intro": "Kera cane, mu misi ya mbere cane y’amateka y’abantu, ubugingo bubiri bwahagaze imbere y’Umuremyi wabwo bufise amashikanwa. Umwe yararemewe, uwundi ntiyaremewe. Ivyakurikiyeho vyari kubaye icago gikomeye ca mbere hagati y’abavukanyi - igikorwa kimwe co kwirinda kwihangana n’igikorwa kimwe co kwihora bibabaje. Woba ushobora guhishura uwo ndi we?",
+  "clues": [
+    "Navutse mu misi ya mbere nyene y'ubuzima bw'umuntu kw'isi .",
+    "Nari umwana w'abantu babiri ba mbere bagendeye kw'isi",
+    "Narigeze gutanga ikimazi kivuye mu vyiza kuruta ibindi vyose vyo mu mukuku wanje kugira ngo nshimishe Umuremyi wanje .",
+    "Ishikanwa ryanje ryemewe rivuye hejuru, mu gihe ishikanwa rya muvukanyi wanje ryaranse .",
+    "Igihe natera ubwoba ko nzomwica, narahisemwo kudashira ukuboko ku muvukanyi wanje .",
+    "Nabaye umuntu wa mbere muri kahise k’abantu yishwe n’uwundi muntu ata co akora ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Habili (Abeli), mwene Adamu",
+        "Kabili (Kayini), mwene Adamu",
+        "Adamu, umuntu wa mbere",
+        "Nuh (Nowa)",
+        "Iburahimu (Aburahamu)"
+      ],
+      "answer": "Habili (Abeli), mwene Adamu"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Ubwicanyi bwa mbere muri kahise k'abantu",
+        "Umwuzure ukomeye wa Nuh .",
+        "Gusambura ingabo za Fir’awn .",
+        "Ikimazi ca Ismail catanzwe na Ibrahimu .",
+        "Intambara yo kurwanya Yaluti (Goliyati) ."
+      ],
+      "answer": "Ubwicanyi bwa mbere muri kahise k'abantu"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Intama yashikaniwe ngo ibe ikimazi gihimbara .",
+        "Ubwato bunini bw'ibiti .",
+        "Inkoni yahindutse inzoka .",
+        "Inyoni yitwa hoopoe itwara ubutumwa bw'ubwami",
+        "Umugende w'umuriro ururumba"
+      ],
+      "answer": "Intama yashikaniwe ngo ibe ikimazi gihimbara ."
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Yabaye umuntu wa mbere yiciwe muri kahise k'abantu .",
+        "Yarokotse umwuzure munini ari mu bwato bw'ibiti .",
+        "Yabaye mu nda y'ifi nini .",
+        "Yategetse amajini, abantu n’umuyaga .",
+        "Yaraye imyaka mirongo ine mu bugaragwa bunini ."
+      ],
+      "answer": "Yabaye umuntu wa mbere yiciwe muri kahise k'abantu ."
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

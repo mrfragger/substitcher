@@ -1,0 +1,61 @@
+{
+  "title": "Xaasidkii Baaba'ay",
+  "intro": "Sheeko ka weyn boqortooyo ama qorniinka - masiibadii ugu horreysay ee aadanaha oo ka dhalatay hinaaso. Hal naf, oo ka weyn laba carruur ah oo ay dhaleen waalidkii ugu horreeyay, ayaa si cadho leh u daawanaysay iyadoo walaal ka yar uu helay raallinimo la diiday. Waxa xigay waxay ahayd doorashadii ugu mugdiga badnayd, taasoo ka tagtay dhiiggii ugu horreeyay ee abid dhulka lagu daadiyo. Ma soo bandhigi kartaa aqoonsiga, tijaabada, iyo qoomamada qadhaadh?",
+  "clues": [
+    "Waxaan ka dhashay labadii aadane ee ugu horreeyay ee dhulka ku dul socday.",
+    "Mar ayaan Alle u soo bandhigay allabari, laakiin igama aqbalin.",
+    "Dalabka walaalkay waa la aqbalay, halka kanygiina la diiday—wax aanan u adkaysan karin.",
+    "Waxaan walaalkay ugu hanjabay burburin.",
+    "Waxaan noqday qofkii ugu horreeyay ee dil ka geysta dhulkan, anigoo dilay walaalkay.",
+    "Ilaahay wuxuu soo diray xayawaan dhulka ka mid ah - shimbir madow oo dhulka qodaysa - si uu ii baro sida loo qariyo waxa aan sameeyay, waxaana iga haray wax aan ka ahayn qoomamo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Qabiil (Qaa'in)",
+        "Haabiil (Haabiil)",
+        "Nabi Yacquub",
+        "Nabi Muuse",
+        "Nabi Aadam"
+      ],
+      "answer": "Qabiil (Qaa'in)"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Ibada oo uu diiday Alle",
+        "Dab weyn ayaa lagu tuuray",
+        "Iyada oo ilmo yar ah oo webi ku jira ayaa laga tagay",
+        "Waxaa lagu tijaabiyay boqortooyo aad u weyn",
+        "Waxaa la amray in la allabaryo wiilkiisa"
+      ],
+      "answer": "Ibada oo uu diiday Alle"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Tukaha oo Alle soo diray",
+        "Dibigii dahabka ahaa",
+        "Sanduuqii buurta saarnaa",
+        "Geedka gubanaya",
+        "Hashii laga xardhay dhagax"
+      ],
+      "answer": "Tukaha oo Alle soo diray"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Waxaa ka buuxay qoomamo iyo kuwa khasaaray",
+        "Dhulka ayaa lagu liqay iyadoo ay la socdaan khasnado",
+        "Wuxuu noqday rasuul Alle oo sharaf leh",
+        "Jannada waxay ku gashay naxariista rabbaaniga ah",
+        "Waxay ka talin jirtay boqortooyo aan la barbar dhigi karin"
+      ],
+      "answer": "Waxaa ka buuxay qoomamo iyo kuwa khasaaray"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

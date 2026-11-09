@@ -1,0 +1,61 @@
+{
+  "title": "Mweya Wakavimbika weZvakazarurwa",
+  "intro": "Munzvimbo dzisingaonekwi, chisikwa chine chiedza chakachena chinofamba nemazvo, chichitevedzera mirairo yese pasina kuzeza. Munhu uyu akataura nevaranda vakasarudzwa, akaunza mashoko ekutungamira, uye akaona kuzarurwa kwemitemo yaMwari mumazana emakore. Ndiani mweya uyu unokudzwa?",
+  "clues": [
+    "Ndiri chisikwa chechiedza chakachena, chakasikwa kubva kuchiedza, uye handina kumbobvira ndatyora murairo waIshe wangu.",
+    "Ndinofamba pakati pedenga nenyika, ndichiburuka nemirairo yeAne Ngoni Zvikuru.",
+    "Ndakatumwa kumhandara ine mukurumbira munzvimbo tsvene, ndichiizivisa mwanakomana akachena.",
+    "Ndiri mweya weutsvene, uye ndakatsigira muporofita akapihwa zviratidzo zvakajeka neEvhangeri.",
+    "Ndakasvika pabako riri pagomo kuti nditaure mashoko ekutanga ekudzokorora aizoramba akachengetedzwa nekusingaperi.",
+    "Ndini mweya wakavimbika, uye ndini ndakaunza Quran pasi pamoyo wemutumwa wekupedzisira."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Jibril (Gabriel)",
+        "Mikail (Michael)",
+        "Ngirozi yeRufu",
+        "Malik (Muchengeti weGehena)",
+        "Harut (mumwe wevatumwa vaviri muBhabhironi)"
+      ],
+      "answer": "Jibril (Gabriel)"
+    },
+    "trial": {
+      "label": "Basa/Basa Guru",
+      "options": [
+        "Kupa zvakazarurwa kuvaprofita",
+        "Kuridza hwamanda paZuva reKutongwa",
+        "Kuchengetedza masuo egehena",
+        "Kunyora zviito zvevanhu",
+        "Kukonzera mvura kunaya"
+      ],
+      "answer": "Kupa zvakazarurwa kuvaprofita"
+    },
+    "location": {
+      "label": "Hunhu Hunokosha kana Musoro",
+      "options": [
+        "Mweya Mutsvene (Ruh al-Qudus)",
+        "Mweya weSimba",
+        "Mweya weTsitsi",
+        "Mweya weKutungamira",
+        "Mweya weChokwadi"
+      ],
+      "answer": "Mweya Mutsvene (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Mhedzisiro yeBasa",
+      "options": [
+        "Korani yakazarurwa kuna Muporofita Muhammad",
+        "Hwamanda yakaridzwa pazuva rekutongwa",
+        "Gehena rakachengetedzwa uye masuo aro akavharwa",
+        "Bhuku reMabasa rakaunzwa kuna Allah",
+        "Mvura yakatumirwa pasi"
+      ],
+      "answer": "Korani yakazarurwa kuna Muporofita Muhammad"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

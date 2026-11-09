@@ -1,0 +1,61 @@
+{
+  "title": "Nsɛm a Wɔka Wɔ Mframa Mu",
+  "intro": "Fa no sɛ ahemman bi a nea wonhu ne nea wohu afrafra, na wugyina onipa bi a ɔwɔ ahenni bi mfinimfini a ɛnte sɛ ahenni foforo biara anim. Saa ɔkra yi wɔ nimdeɛ a obiara ntumi nnya, na ɛhyɛ tumi ahorow a afoforo betumi asusuw ho ara kwa. Nanso, abɔde ketewaa bi betumi abrɛ wɔn a wɔwɔ tumi sen biara mpo ase, na nokware no betumi ahintaw akosi bere a wɔahyɛ no. Hena ne saa onipa yi a n’agyapade ka ho asɛm wɔ mfe pii mu no?",
+  "clues": [
+    "Wɔmaa me ahenni a m’akyi biara rennya.",
+    "Minyaa nimdeɛ ne nyansa fii ɔwofo bi a medɔ no hɔ.",
+    "Ná mframa no wɔ m’ahyɛde ase, na na ɛnam m’ahyɛde so tu kwan wɔ baabiara a mepɛ.",
+    "Ná mitumi te nnomaa no kasa ase, na wɔsom wɔ m’asraafo mu.",
+    "Me nsa kaa asɛm bi fii anomaa ketewaa bi hɔ faa ɔhemmaa bi a ɔsom owia ho.",
+    "Me wu no kɔɔ so siei kosii sɛ asase so abɔde bi wee me poma, na ɛno ansa na jinn no hui sɛ wonnim nea wonhu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Sulayman (Solomon) .",
+        "Ɔkɔmhyɛni Dawud (Dawid) .",
+        "Ɔkɔmhyɛni Musa (Mose) .",
+        "Odiyifo Isa (Yesu) .",
+        "Ɔkɔmhyɛni Nuh (Noa) ."
+      ],
+      "answer": "Ɔkɔmhyɛni Sulayman (Solomon) ."
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Seba Hemmaa nsrahwɛ",
+        "Wɔtow no gu ogya mu",
+        "Po no mu a wɔkyekyɛ",
+        "Adaka a wɔresi",
+        "Sɛ́ whale bɛmene no"
+      ],
+      "answer": "Seba Hemmaa nsrahwɛ"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Poma a asase so abɔde bi awe no",
+        "Poma a ɛdanee ɔwɔ",
+        "Yoma a ɔyɛ ɔbea no",
+        "Adaka no",
+        "Whale a wɔfrɛ no whale no"
+      ],
+      "answer": "Poma a asase so abɔde bi awe no"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wɔde ne wuo siee jinn no kosii sɛ wɔdii ne poma no",
+        "Wɔnyanee no kɔɔ soro a ɔte ase",
+        "Wɔnam Allah ahyɛdeɛ so gyee no firii ogya no mu",
+        "Wɔmaa no Torah no",
+        "Wogyee no fii whale no nsam"
+      ],
+      "answer": "Wɔde ne wuo siee jinn no kosii sɛ wɔdii ne poma no"
+    }
+  },
+  "verseRef": "34:14",
+  "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+  "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+}

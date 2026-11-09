@@ -1,0 +1,60 @@
+{
+  "title": "Ñaawoore Les Ɓoornugol",
+  "intro": "Annabi gooto, tedduɗo e golle mum, waɗi feere nde addani mo woɗɗitaade leñol mum, naati e ñaawoore nde o sikkaano. Laawol makko ƴettii mbaydi teskinndi, jarribaama hoolaare makko e muñal makko e laawol ɓurngol luggiɗde. Mbele aɗa waawi ƴettude heen geɗe keewɗe e ndee hiirde teeŋtunde e nate dokkaaɗe ɗee ?",
+  "clues": [
+    "Annabaajo neldaama to leñol, kono o dilli e yaawre, o nani mettere e salaare maɓɓe.",
+    "Laawol makko addani mo yahde maayo, o naati e laana ndiwoowa keewka ina ɗaɓɓa laawol.",
+    "Henndu mawndu ummii, ina hulɓina laana kaa, pellital ƴettaa ngam werlaade neɗɗo gooto e dow laana ngam ustude jolngo ngoo, ko ɗum woni ko lelni.",
+    "O ɓuuɓnaama e tagoore luggiɗnde, kewu kaawis mo yiɗde Alla yamiri.",
+    "E nder keerol reedu tagoore ndee, o noddi joomiiko, o tuubi, o mantini Alla e nder niɓɓere.",
+    "Caggal nde o ñaagii dumunna juutɗo, o werlaa e daande maayo, o ŋakkiraa semmbe kono o wuuri, caggal ɗuum o arti o tawi leñol makko ina goongɗini haa laaɓi."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Annabi/Neɗɗo",
+      "options": [
+        "Annabi Nuuhu",
+        "Annabi Luut",
+        "Annabi Muusaa",
+        "Annabi Yuunus",
+        "Annabi Yuusuf"
+      ],
+      "answer": "Annabi Yuunus"
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "Ilam Nuuhu",
+        "Halkere wuro Sodoma",
+        "Jahgol e nder reedu liingu mawngu nguu",
+        "Feccere maayo ngoo",
+        "Wahyu buubaaji ɓuuɓɗi"
+      ],
+      "answer": "Jahgol e nder reedu liingu mawngu nguu"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Laana kaa",
+        "Tufnde Sinayi ndee",
+        "Koolol Muusaa",
+        "Liɗɗi Mawɗi ɗii",
+        "Ɓunndu Yuusuf"
+      ],
+      "answer": "Liɗɗi Mawɗi ɗii"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "Alkawal kesal e neɗɗaagu",
+        "Jibineede kaawis wonande leñol makko",
+        "Laamu tabitinaangu ngam leñol makko",
+        "Gartugol e leñol makko ngol ndeen ngoongɗinnoo",
+        "Nasaraaku dow laamiiɗo tikkere"
+      ],
+      "answer": "Gartugol e leñol makko ngol ndeen ngoongɗinnoo"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Amaboko yavumwe",
+  "intro": "Uhagaze mu tuyira twinshi twa Makka ya kera, aho umuntu w’icyubahiro n’ubutunzi yigeze kuva mu muhamagaro w’ukuri. Inkuru y’uyu muntu ni urwibutso rukomeye rw’uko amasasu y’amaraso adashobora gutsinda iminyururu y’ubwibone. Ni nde uyu witwa ko izina rye rihuye n’umuriro utegereje?",
+  "clues": [
+    "Nanyuze mu mihanda ya Makka mfite ishema ryampumye amaso ntamenya ukuri, nubwo intumwa yari iy'amaraso yanjye bwite.",
+    "Ibintu byanjye byari byinshi, ariko byabaye umuvumo aho kuba ingabo.",
+    "Igitabo cy'ubuyobozi kivuga ku kurimbuka kwanjye, kivuga ko amaboko yanjye n'umubiri wanjye bizashira.",
+    "Uwo twashakanye yifatanyije nanjye mu gikorwa cyanjye cyo kwanga, akusanya amahwa yo gukwirakwira mu nzira y'uwahamagaye Allah.",
+    "Ku munsi w'urubanza, nzajugunywa mu muriro w'umuriro ugurumana, kandi uwo twashakanye azaba afite umugozi w'umugozi w'ikiganza mu ijosi.",
+    "Nzwi ku izina risobanura 'se w'umuriro' - izina rigaragaza ubuturo bwanjye bw'iteka ryose."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Igeragezwa ry'ingenzi cyangwa igikorwa",
+      "options": [
+        "Yarwanyije Intumwa maze aravumwa muri Korowani",
+        "Yayoboye ingabo kugira ngo zisenye Kaaba",
+        "Yagerageje kwica Intumwa amutera amabuye",
+        "Yanze kwemera ko ukwezi kwacitsemo kabiri",
+        "Yubatse umunara kugira ngo agere mu ijuru"
+      ],
+      "answer": "Yarwanyije Intumwa maze aravumwa muri Korowani"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Umuriro ugurumana w'ikuzimu",
+        "Inkoni ya Musa",
+        "Isanduku ya Nuhu",
+        "Iriba rya Zamzam",
+        "Inyana y'izahabu"
+      ],
+      "answer": "Umuriro ugurumana w'ikuzimu"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Azinjira mu muriro ugurumana, kandi ubutunzi bwe ntibuzamugirira akamaro",
+        "Yihannye maze aba umwizera",
+        "Yababariwe nyuma yo kwisubiraho",
+        "Yapfuye nk'umumaritiri",
+        "Yazamuwe mu ijuru"
+      ],
+      "answer": "Azinjira mu muriro ugurumana, kandi ubutunzi bwe ntibuzamugirira akamaro"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Yiyedi Turo a Ɛreyera no",
+  "intro": "Wɔ asase a wɔde adom pii ahyira so so no, mpɔtam bi nyaa nkɔso, na wɔte ɔsoro adom ho sɛnkyerɛnne ahorow mu. Na wɔn yiyedi no yɛ wɔn Awurade anim dom ho adanse, akyɛde a na wɔahyɛ da ayɛ sɛ ɛbɛkanyan anisɔ ne osetie. Nanso, ɛmfa ho sɛ na wɔn nhyira ahorow a ɛda adi pefee no, nsakrae bi bae, na ɛkaa anisɔ a na wɔwɔ ma wɔn ahonyade ne awerɛkyekye kɛse no fibea no ho mpoa.",
+  "clues": [
+    "Wɔhyiraa yɛn turo abien, biako wɔ nifa na biako wɔ benkum, a nnɔbae pii wom.",
+    "Wɔhyɛɛ yɛn sɛ yenni yɛn Awurade nsiesiei no na yɛnda No ase wɔ asase pa ne Awurade a ɔde bɔne fafiri ho.",
+    "Yɛyɛɛ ahantan na yɛdanee yɛn ho fii aseda kwan no so, de yɛn ahonyade ne tumi hoahoaa yɛn ho.",
+    "Yɛhwehwɛɛ sɛ yɛn Awurade ma yɛn akwantuo ntam kwan no nkɔ soro, na yɛkyerɛ animtiaabuo wɔ ahotɔ a Ɔde ama yɛn no ho.",
+    "Ɔbɔfo bi bɔɔ yɛn kɔkɔ, nanso yɛpoo nkrasɛm no na yɛtoaa yɛn anibiannaso no so.",
+    "Awiei koraa no, yɛn abura kɛse a ɛmaa yɛn yiyedi kɔɔ so no bubui, na ɛde nsuyiri a ɛyɛ hu bae."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Nnipa a wɔwɔ Thamud",
+        "Nnipa a wɔwɔ Midian",
+        "Nnipa a wɔwɔ 'Aad",
+        "Nnipa a wɔwɔ Lut",
+        "Nnipa a wɔwɔ Saba"
+      ],
+      "answer": "Nnipa a wɔwɔ Saba"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Ɔkɔm ne ɔpɛ",
+        "Asraafo dɔm a wɔyɛ den ntua",
+        "Asasewosow a ɛsɛee ade kɛse",
+        "Nsuyiri a ɛsɛe ade a efi abura bi a abubu mu",
+        "Nhyɛso a sodifo otirimɔdenfo de ba"
+      ],
+      "answer": "Nsuyiri a ɛsɛe ade a efi abura bi a abubu mu"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Sikakɔkɔɔ nantwi ba",
+        "Yoma-bere a ɔyɛ anwonwade",
+        "Dame kɛse bi",
+        "Ɔdan a ɛkorɔn",
+        "Abura a emu dɔ"
+      ],
+      "answer": "Dame kɛse bi"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wɔdanee yɛn yɛɛ akraman ne mprako",
+        "Wogyee yɛn nkwa na wotu kɔɔ asase foforo so",
+        "Yɛbɔɔ hwetee na yɛn asase bɛyɛɛ kwae",
+        "Yɛforo kɔɔ soro",
+        "Yɛkyekyeree ahenni foforo a edi yiye"
+      ],
+      "answer": "Yɛbɔɔ hwetee na yɛn asase bɛyɛɛ kwae"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

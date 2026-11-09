@@ -1,0 +1,61 @@
+{
+  "title": "Kuwii Jebiyey Axdiga La Qaxiyey",
+  "intro": "Waagii hore ee bulsho curdin ah, qabiil ayaa mar ku noolaa guryo deyr leh, oo ku xiran heshiis. Markii heshiiskaas la khiyaameeyay, cawaaqib xumada ayaa ka soo ifbaxday bogagga Qur'aanka. Dadkani yaa ahaayeen, maxaase ku dhacay guryahooda iyo beerahooda?",
+  "clues": [
+    "Waxaan ku noolayn qalcado na siiyay dareen ammaan oo been ah.",
+    "Waxaan ahayn dad Qorniinka ku dhaqma, haddana axdigii ayaan jebinay.",
+    "Kadib markuu noo yimid ayaan shirqool ku sameynay rasuulka, laakiin qorshahayagii wuu fashilmay.",
+    "Geedaha timirta ah waxaa lagu jaray amarkii Alle, taasoo ah calaamad muujinaysa awooddiisa.",
+    "Waxaa nalaga saaray guryaheenna, mana aanan soo laaban, si ciqaab ah caasinimadayada awgeed.",
+    "Quraanku wuxuu nagu xusay cutubka isu imaatinka, sheekadeennuna waxay u tahay digniin kuwa jebiya heshiisyada."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Banu Nadiir",
+        "Banu Qurayza",
+        "Banu Qaynuqa",
+        "Dadka reer Madiina",
+        "Reer Thamuud"
+      ],
+      "answer": "Banu Nadiir"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Go'doon iyo ka saarid guryahooda",
+        "Ku qaraqmay badda",
+        "Dhulku wuxuu liqaa",
+        "Burbur duufaan ah",
+        "In daayeer loo beddelo"
+      ],
+      "answer": "Go'doon iyo ka saarid guryahooda"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Geedaha timirta la jaray",
+        "Shaqaalaha",
+        "Sanduuqii",
+        "Ceelka biyaha",
+        "Godka"
+      ],
+      "answer": "Geedaha timirta la jaray"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "La masaafuriyay oo hantidoodii la qaatay",
+        "Guul ayuu ku soo laabtay",
+        "Waa la cafiyay oo way sii joogeen",
+        "Isla markiiba waxaan galay jannada",
+        "Waxaa ku dhacay belaayo"
+      ],
+      "answer": "La masaafuriyay oo hantidoodii la qaatay"
+    }
+  },
+  "verseRef": "59:5",
+  "arabic": "مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَـٰسِقِينَ",
+  "verse": "Whatever you have cut down of [their] palm trees or left standing on their trunks - it was by permission of Allāh and so He would disgrace the defiantly disobedient. (59:5)"
+}

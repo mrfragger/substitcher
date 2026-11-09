@@ -1,0 +1,61 @@
+{
+  "title": "Àwọn Ọwọ́ Ègún",
+  "intro": "O dúró ní àwọn ọ̀nà tó yípo ní Makkah ìgbàanì, níbi tí ẹ̀mí alágbára àti ọrọ̀ ti yípadà kúrò nínú ìpè òtítọ́. Ìtàn ẹni yìí jẹ́ ìrántí tó dájú pé ìdè ẹ̀jẹ̀ kò lè borí àwọn ẹ̀wọ̀n ìgbéraga. Ta ni ẹni tí orúkọ rẹ̀ ń dún pẹ̀lú iná tó ń dúró dè?",
+  "clues": [
+    "Mo rìn ní òpópónà Makkah pẹ̀lú ìgbéraga tí ó fọ́ mi lójú sí òtítọ́, bó tilẹ̀ jẹ́ pé ìránṣẹ́ náà jẹ́ ti ara mi.",
+    "Àwọn ohun ìní mi pọ̀ gan-an, ṣùgbọ́n wọ́n di ègún dípò ààbò.",
+    "Ìwé ìtọ́sọ́nà sọ̀rọ̀ nípa ìparun mi, ó sọ pé ọwọ́ mi àti ara mi yóò parẹ́.",
+    "Ọkọ mi dara pọ̀ mọ́ ìpolongo ọ̀tá mi, ó ń kó ẹ̀gún jọ láti tàn ká ojú ọ̀nà ẹni tí ó ń pè sí Allah.",
+    "Ní ọjọ́ ìdájọ́, a ó fi mí sínú iná iná tí ń jó, aya mi yóò sì ní okùn ọ̀pẹ ní ọrùn.",
+    "Orúkọ kan tí ó túmọ̀ sí 'baba iná' ni wọ́n mọ̀ mí — orúkọ kan tí ó ń sọ àsọtẹ́lẹ̀ nípa ibùgbé ayérayé mi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Ìdánwò pàtàkì tàbí ìṣẹ̀lẹ̀",
+      "options": [
+        "Ó tako Anabi náà, wọ́n sì fi í bú nínú Al-Quran.",
+        "O dari ẹgbẹ́ ọmọ ogun kan lati pa Kaaba run",
+        "Ìgbìyànjú láti pa Wòlíì nípa sísọ òkúta",
+        "Ó kọ̀ láti gbàgbọ́ nínú pípín òṣùpá",
+        "Kọ ile-iṣọ kan lati de ọrun"
+      ],
+      "answer": "Ó tako Anabi náà, wọ́n sì fi í bú nínú Al-Quran."
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Iná tí ń jó ní ọ̀run àpáàdì",
+        "Òṣìṣẹ́ Mósè",
+        "Ọkọ̀ Nóà",
+        "Kànga Zamzam",
+        "Ọmọ màlúù wúrà náà"
+      ],
+      "answer": "Iná tí ń jó ní ọ̀run àpáàdì"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ó máa wọ inú Iná tí ń jó, ọrọ̀ rẹ̀ kò sì ní wúlò fún un.",
+        "Ó ronú pìwà dà, ó sì di onígbàgbọ́",
+        "Wọ́n dáríjì í lẹ́yìn tó kọ̀ jálẹ̀",
+        "Ó kú gẹ́gẹ́ bí ajẹ́rìíkú",
+        "A gbé e sókè ọ̀run"
+      ],
+      "answer": "Ó máa wọ inú Iná tí ń jó, ọrọ̀ rẹ̀ kò sì ní wúlò fún un."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

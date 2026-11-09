@@ -1,0 +1,61 @@
+{
+  "title": "Olùṣọ́ ní etí odò",
+  "intro": "Ní ilẹ̀ kan tí àṣẹ apànìyàn kan mú ìbànújẹ́ bá ọ̀pọ̀lọpọ̀ ilé, ọkàn kan gba ìhìn kan tí ó lòdì sí gbogbo ìbẹ̀rù. Pẹ̀lú ọkàn tí ó kún fún ìgbẹ́kẹ̀lé, wọ́n bẹ̀rẹ̀ sí í ṣe ìṣe ìgbàgbọ́ kan tí yóò yí ipa ọ̀nà orílẹ̀-èdè kan padà. Bí omi ṣe ń gbé ẹrù iyebíye, ìrètí ń dàpọ̀ mọ́ ìṣàn omi.",
+  "clues": [
+    "Mo gbé ní àkókò ìnilára àti ìbẹ̀rù.",
+    "Mo gba ìmísí àtọ̀runwá tí ó fún mi ní ìgboyà.",
+    "A pàṣẹ fún mi pé kí n má bẹ̀rù tàbí kí n banújẹ́.",
+    "Mo gbé ọmọ mi sínú àpótí kan mo sì gbé e ka orí omi.",
+    "Ilé alákòóso náà ló rí ọmọ mi, àmọ́ ọmọ mi kejì tẹ̀lé e.",
+    "Mo tún padà sọ́dọ̀ ọmọ mi láti fún un ní ọmú, gẹ́gẹ́ bí Allah ti ṣèlérí."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Ìyá Mose",
+        "Ìyàwó Fáráò",
+        "Arabinrin Mose",
+        "Ìyá Jésù",
+        "Ayaba Ṣeba"
+      ],
+      "answer": "Ìyá Mose"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Gbígbà mí láti ju ọmọ sínú odò kan",
+        "Jíjẹ́ ẹni tí a pè níjà sí ìjà onídán",
+        "Ọmọ ogun kan lepa rẹ",
+        "Líla òkun kan tí ó pínyà",
+        "Kíkọ́ ilé mímọ́ kan"
+      ],
+      "answer": "Gbígbà mí láti ju ọmọ sínú odò kan"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Àpótí kan tí a gbé sínú odò náà",
+        "Igbó kan tó ń jó",
+        "Ọ̀pá tí ó di ejò",
+        "Ọmọ màlúù wúrà kan",
+        "Ìtẹ́ kan"
+      ],
+      "answer": "Àpótí kan tí a gbé sínú odò náà"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Wọ́n dá ọmọ náà padà sí ọ̀dọ̀ nọ́ọ̀sì láìléwu",
+        "Ọmọ náà ti sọnù títí láé",
+        "Wọ́n gbé ọmọ náà lọ sí ilẹ̀ jíjìnnà kan",
+        "Ọmọ náà di alákòóso lẹ́sẹ̀kẹsẹ̀",
+        "Oníṣòwò ọlọ́rọ̀ kan gba ọmọ náà"
+      ],
+      "answer": "Wọ́n dá ọmọ náà padà sí ọ̀dọ̀ nọ́ọ̀sì láìléwu"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

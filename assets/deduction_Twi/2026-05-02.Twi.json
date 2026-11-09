@@ -1,0 +1,61 @@
+{
+  "title": "Nea Ɔkura Nkrasɛm a Ɛyɛ Damoa",
+  "intro": "Wɔsomaa ɔkra trenee bi sɛ ɔmmɛkyerɛ nkurɔfo a wɔayera wɔ mmarato a ebi mmae da mu kwan. Saa ɔbɔfo yi gyinaa pintinn, na ɔde kɔkɔbɔ a emu yɛ den mae wɔ adifudepɛ bi a ɛne abɔde mu nhyehyɛe nhyia ho. Ɛmfa ho sɛ wɔsrɛɛ wɔn anibere so no, mpɔtam hɔfo no de wɔn ho hyɛɛ sum mu kɛse, na ɛmaa ɔsoro akontaabu a ɛnte sɛ afoforo biara ho kwan. So wubetumi ahu Allah akoa a ogyina pintinn yi?",
+  "clues": [
+    "Ná meyɛ odiyifo kɛse foforo busuani, na me ne no tu kɔɔ baabi foforo, na migyaw yɛn kurom hɔ.",
+    "Wɔsomaa me kɔɔ nkurɔfoɔ bi a wɔn amumuyɛ yɛ soronko, mmarato a na abɔdeɛ biara nyɛɛ wɔ wɔn anim.",
+    "M’ankasa me fie mu paapaee; abusua muni bi a ɔbɛn wɔn paa gyinaa atiafo no afã wɔ kokoam.",
+    "Abɔfo a wɔyɛ mmerante a wɔn ho yɛ fɛ baa me fie sɛ ahɔho, na wɔde ahoyeraw kɛse baa me so maa wɔn ahobammɔ.",
+    "Mede m’ankasa me mmabea mae sɛ wɔnware me nkurɔfo de bɔɔ mmɔden denneennen sɛ mɛdan wɔn afi wɔn aniwu nneyɛe no ho.",
+    "Wɔnam nteɛm a ɛyɛ hu ne abo a wɔde dɔte a wɔato tɔe so sɛee me nkurɔfo, bere a me ne m’abusua, gye biako pɛ, nyaa nkwa denam kɔ ​​a yefii hɔ anadwo a ɛyɛ hu no so."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Shu'ayb",
+        "Ɔkɔmhyɛni Salih",
+        "Odiyifo Lut",
+        "Odiyifo Hud",
+        "Ɔkɔmhyɛni Nuh"
+      ],
+      "answer": "Odiyifo Lut"
+    },
+    "trial": {
+      "label": "Dɛn ne Me Sɔhwɛ Titiriw?",
+      "options": [
+        "Ɔhene otirimɔdenfo bi a mɛgye adi sɛ ɔnnhyew me wɔ ogya mu.",
+        "Me nuanom ahoɔyaw ne wɔn a wɔtow wɔn guu abura mu no ho dwuma.",
+        "Nkurɔfo a wɔde wɔn ho ahyɛ nna mu ɔbrasɛe a ebi mmae da mu a wobehyia.",
+        "Me nkurɔfo a wodi wɔn anim fi nkoasom mu fi farao a ɔwɔ tumi mu.",
+        "Hyɛn kɛse bi a wɔreyɛ de agye agyidifo no afi nsuyiri kɛse bi mu."
+      ],
+      "answer": "Nkurɔfo a wɔde wɔn ho ahyɛ nna mu ɔbrasɛe a ebi mmae da mu a wobehyia."
+    },
+    "location": {
+      "label": "Beae Bɛn na Na M’Asɛmpatrɛw no Wɔ?",
+      "options": [
+        "Madyan kurow no mu",
+        "Tete kurow Iram",
+        "Misraim asase a na Farao di n’ase",
+        "Sodom ne Gomora nkuro",
+        "Niniwe kurow no"
+      ],
+      "answer": "Sodom ne Gomora nkuro"
+    },
+    "outcome": {
+      "label": "Dɛn ne Nea Efii Mu Bae Awiei?",
+      "options": [
+        "Wɔdanee nkurow no na wɔde dɔte a wɔatow abo guu so.",
+        "Asase menee me nkurɔfoɔ kaa wɔn kannifoɔ a ɔyɛ ɔdefoɔ no ho.",
+        "Mframa a ano yɛ den sɛee me nkurɔfo anadwo nson ne nnawɔtwe.",
+        "Na ɔhaw ahorow te sɛ mmoadabi, nwansena ne mponkyerɛn huu me nkurɔfo.",
+        "Mpataa kɛse bi menee me bere a migyaee m’asɛmpatrɛw adwuma no akyi."
+      ],
+      "answer": "Wɔdanee nkurow no na wɔde dɔte a wɔatow abo guu so."
+    }
+  },
+  "verseRef": "11:82",
+  "arabic": "فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةًۭ مِّن سِجِّيلٍۢ مَّنضُودٍۢ",
+  "verse": "So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were] (11:82)"
+}

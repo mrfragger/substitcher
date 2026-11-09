@@ -1,0 +1,61 @@
+{
+  "title": "Wɔkasa Kɔ Asetra mu",
+  "intro": "Onipa bi fi abakɔsɛm kronkron mu ba, na okura anwonwade ahorow a ɛne abɔde mu nhyehyɛe no nhyia. Saa ɔkra yi nam ɔsoro ahyɛde biako so na ɛbae, bɔɔ ɔwofo bi ho ban fii sobo a emu yɛ den ho, na ofii wiase yi mu ansa na asase so nkɔnsɔnkɔnsɔn retumi akyekyere wɔn. Asɛm no fi akokoaa a ɛba fam so kosi ɔsoro a ɛwɔ soro no so. Hena na obetumi ayɛ eyi?",
+  "clues": [
+    "Wosomaa me se Nsenkyerennee ne mmoborohunu a efiri Allah ho maa Israelmma.",
+    "Na me mmaeɛ no nte sɛ kan biara — menam ɔsoro asɛmfua ‘Yɛ!’ so na ɛbaeɛ. a onni asase so agya.",
+    "M’awofo hyiaa atirimɔdensɛm abususɛm, nanso adiyi kronkron sii fam sɛ ɛbɛka sɛ wɔn ho nni asɛm na wɔama wɔn gyinabea so.",
+    "Sɛ́ akokoaa a wɔawo no foforo no, memaa wɔn a wɔatwa me ho ahyia no ho dwiriw wɔn denam kasa a mekasae pefee fii me mpa so de tew m’awofo din mu no so.",
+    "Ɛnam Allah kwan so no, mede dɔteɛ a nkwa nnim na ɛhyehyɛɛ nkwa, maa anifuraefoɔ hunu adeɛ, na mede me nsa kaa ɔkwatani no yareɛ.",
+    "Wɔmaa me kɔɔ soro ansa na ɔhaw retumi aka me, na mɛsan aba wiase yi mu ansa na Dɔnhwerew a etwa to no adu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Odiyifo Yes",
+        "Ɔkɔmhyɛni Musa",
+        "Ɔkɔmhyɛni Ibrahim",
+        "Ɔkɔmhyɛni Yusuf",
+        "Ɔkɔmhyɛni Dawud"
+      ],
+      "answer": "Odiyifo Yes"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Ɔkasa a efi akokoaa no so bere a na ɔyɛ akokoaa",
+        "Ɔtra ase wɔ apataa kɛse bi yafunu mu",
+        "Wɔtow no gu ogya a ɛredɛw mu",
+        "Adaka kɛse a wɔresi ansa na nsuyiri aba",
+        "Farao ahemfie nkonyaayi a wohyia"
+      ],
+      "answer": "Ɔkasa a efi akokoaa no so bere a na ɔyɛ akokoaa"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Injeel (Asɛmpa) no .",
+        "Tawrah (Tora) no .",
+        "Zabur (Nnwom) no .",
+        "Suhuf (Ibrahim Nhoma mmobɔwee) no .",
+        "Poma a ɛpaapae po no mu"
+      ],
+      "answer": "Injeel (Asɛmpa) no ."
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wɔama wɔn so akɔ soro, wɔbɛsan aba ansa na Atemmu Da no adu",
+        "Ɔdii Israelfoɔ anim firii Misraim",
+        "Ɔbɛyɛɛ ɔhene a ɔwɔ jinn, nnipa, ne nnomaa so tumi",
+        "Ɔne anokwafo nyaa nkwa wɔ nsuyiri kɛse bi mu",
+        "Ɔsii fie kronkron no wɔ Mecca"
+      ],
+      "answer": "Wɔama wɔn so akɔ soro, wɔbɛsan aba ansa na Atemmu Da no adu"
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

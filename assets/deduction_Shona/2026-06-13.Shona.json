@@ -1,0 +1,61 @@
+{
+  "title": "Vakatendeka vekuMakkah",
+  "intro": "Mumazuva ekutanga ekuzarurwa, apo shoko rechokwadi raisangana nekupikiswa kwakasimba, mimwe mweya yakamira isingazununguki mukutenda kwayo. Vatendi ava vakatarisana neutsinye husingafungidzike kubva kune avo vaitsvaga kudzima chiedza chekutenda. Kutambudzwa kwavo kwaive kwakanyanya, kutambura kwavo kukuru—asi ndimi dzavo hadzina kumbomira kuzivisa Humwe hwaAllah. Kunyangwe pavakakandwa mugomba rakadzika, dziviriro yaMwari yakavakomberedza, ichishandura muedzo wavo kuita chipupuriro chekutenda chisingaperi. Ngationgororei rwendo rwemweya iyi inoshamisa.",
+  "clues": [
+    "Takaedzwa nechirango chakakomba nekuda kwekuramba kusiya kutenda kwedu muna Mwari Mumwe chete",
+    "Vanhu vedu vaisagona kuputsa kutsunga kwedu, zvisinei nekuti hutsinye hwavo hwakava hwekugadzira sei",
+    "Taimiswa patsime masikati, asi rubatsiro rwaMwari rwaigara ruri pedyo",
+    "Kutsungirira kwedu kwakashamisa kunyange avo vakaona kutsungirira kwedu",
+    "Vazhinji muMakkah vakaedza kutimanikidza kuti tisiye chitendero chedu, asi takaramba takatsunga",
+    "Zvose pazvairatidzika kunge zvakarasika, rusununguko rwedu rwakasvika kuburikidza nekupindira kunoshamisa kwaMwari"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Bilal al-Habashi",
+        "Ammar ibn Yasir",
+        "Miqdad ibn al-Aswad",
+        "Khabbab ibn al-Aratt",
+        "Salman al-Farsi"
+      ],
+      "answer": "Bilal al-Habashi"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kurwa neMuporofita",
+        "Kutambudzwa nekuda kwekuramba kunamata zvidhori",
+        "Kuedzwa kwekutenda maererano nechiitiko chemoto",
+        "Kuedzwa kwerwendo rwehusiku hwakapatsanurwa",
+        "Kuedzwa kwekuparadzwa kwebindu"
+      ],
+      "answer": "Kutambudzwa nekuda kwekuramba kunamata zvidhori"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Gomo reUhud",
+        "Nzvimbo tsvene yeKabah",
+        "Tsime raAbu Sufyan",
+        "Imba yamambo yevaQuraysh",
+        "Guta reMadinah"
+      ],
+      "answer": "Tsime raAbu Sufyan"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kukunda muhondo huru",
+        "Kusunungurwa kuburikidza nekupindira kwaMwari",
+        "Kufira kutenda munzira yaAllah",
+        "Kugamuchirwa muparadhiso zvakananga",
+        "Kutamira kunyika yakaropafadzwa"
+      ],
+      "answer": "Kusunungurwa kuburikidza nekupindira kwaMwari"
+    }
+  },
+  "verseRef": "85:4-6",
+  "arabic": "",
+  "verse": "85:4-6"
+}

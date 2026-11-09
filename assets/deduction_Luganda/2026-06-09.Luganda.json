@@ -1,0 +1,61 @@
+{
+  "title": "Omukoowoola w’Amazima Atawuguka",
+  "intro": "Omubaka ayimiridde yekka mu bantu abakakanyavu, ng’abayita eri Katonda Omu ow’Amazima nga bwe basigala nga beesibye ku bifaananyi eby’obulimba. Nnabbi ono alina erinnya eriwulikika n’amakulu ag’amaanyi —‘oyo anoonya obukuumi’ —naye n’afuna okugaanibwa n’okwegaana kwokka. Okuyita mu kusikiriza okugonvu n’okulabula okunywevu, emmeeme eno etambuza obubaka obw’obwakatonda obutonde bwonna bwennyini bwe bujja okukakasa ku nkomerero. Osobola okuzuula omuntu ono omunywevu akiikirira emu ku nnyiriri ezisinga okuba ez’edda mu byawandiikibwa by’Obusiraamu?",
+  "clues": [
+    "Abantu bange baasinzanga bakatonda bangi, ate nga nze mbayita okuweereza Oyo eyatonda eggulu n’ensi.",
+    "Nnayimirira mu maaso g’eggwanga lyange ne nlangirira nti tewali mpeera yonna gye nnandibafunira — kye nnali njagala kwe kubawa obulagirizi eri obutuukirivu.",
+    "Empewo ennene yasindikibwa ku bantu bange ng’ekibonerezo eky’obwakatonda, empewo Quran gy’eyogerako mu ngeri zombi ez’obungi n’ez’ekikazi.",
+    "Obutafaananako bannabbi abamu, saaweebwa mukyala oba abaana aboogeddwako ennyo mu nnyiriri zange, kubanga omulimu gwange gwali gwa kuyita bantu bange bokka.",
+    "Erinnya lyange lirina amakulu amazibu —agakwatagana n’endowooza y’obukuumi n’obuddukiro omuntu gy’anoonya.",
+    "Abantu bange baali bamanyiddwa n’ekigambo ekigere ekikwata ku kiwonvu kye baali babeera, era ettaka lyabwe lyayogerwako n’okunyooma ennyo olw’obutaba na bimera."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Nabbi Hud",
+        "Nabbi Salih",
+        "Nabbi Shu'aib",
+        "Nabbi Nuh",
+        "Nabbi Hudayb"
+      ],
+      "answer": "Nabbi Hud"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Amataba g’ensi",
+        "Empewo eyakaayakana",
+        "Musisi ow’okuzikirizibwa",
+        "Ekyeya n’enjala",
+        "Okubbira mu nnyanja"
+      ],
+      "answer": "Empewo eyakaayakana"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Ekiwonvu ekigimu ekya Yemen",
+        "Eddungu ery’omusenyu erya Midiyaani",
+        "Ekiwonvu eky’amayinja ekya Thamud",
+        "Ensi ey’edda ey’abantu ba ‘Ad",
+        "Ekitundu ekiri ku lubalama lw’ennyanja mu Misiri"
+      ],
+      "answer": "Ensi ey’edda ey’abantu ba ‘Ad"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Abantu bange ne benenya ne bayingira mu jjana",
+        "Tewali n’omu ku bantu bange eyawona ekibonerezo ekyo",
+        "Natwalibwa nga ndi mulamu nga muganda wange Yunus",
+        "Nasenguka n’abagoberezi bange ne ngenda mu nsi ey’omukisa",
+        "Empewo yasaanyaawo abatakkiriza bokka ate abakkiriza ne bawona"
+      ],
+      "answer": "Tewali n’omu ku bantu bange eyawona ekibonerezo ekyo"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

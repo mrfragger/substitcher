@@ -1,0 +1,61 @@
+{
+  "title": "Hondo Yakarwiswa neFlying Clay",
+  "intro": "Munguva yaMuporofita Muhammad asati auya, mutongi ane simba wekuYemen akatanga hondo yakanangana nekuparadza nzvimbo tsvene muMakkah. Muvengi uyu akatungamira hondo yakakura ine nzou dzehondo, achivimba nesimba radzo nehuwandu hwadzo. Zvisinei, rwendo rwavo rwaizongoerekana rwapera sezvo vakasangana nekupindira kwaMwari kusingatarisirwi. Ungaziva here kuti ndiani akatarisana nekurangwa uku kunoshamisa?",
+  "clues": [
+    "Takafamba neuto guru nenzou dzehondo dzine simba tichienda kuimba tsvene",
+    "Taida kubvisa nekuparadza nzvimbo yekunamatira yakavakwa nevashumiri veNyasha Dzese",
+    "Boka reshiri diki rakatumirwa kuzotirwisa, rakatakura matombo evhu mumiromo nepanzara dzaro",
+    "Takasangana neruzha rwakatikanda nematombo, rukatiita zvisaririra zvakatsikwa-tsikwa",
+    "Ndaibva kunyika yeYemen uye ndakashanda pasi pemutongi aida kuunza nzvimbo tsvene",
+    "Takaitwa muenzaniso weavo vaizoshinga kubvisa nzvimbo tsvene yaAllah"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Hondo yaAbraha al-Ashram",
+        "Mauto eEtiopiya",
+        "Vakundi vePersia",
+        "Mauto eRoma",
+        "Vapambi veBedouin"
+      ],
+      "answer": "Hondo yaAbraha al-Ashram"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kukombwa kwenhare yerenje",
+        "Kupinda munzvimbo tsvene muMakkah",
+        "Hondo yegungwa mugungwa",
+        "Kupandukira mambo ane hutsinye",
+        "Kutsvaga muporofita akarasika"
+      ],
+      "answer": "Kupinda munzvimbo tsvene muMakkah"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Mupata weMina pedyo neMakkah",
+        "Imba yamambo yeSana'a muYemen",
+        "Makomo eTihama",
+        "Guta rekare reJerusarema",
+        "Mahombekombe eGungwa Dzvuku"
+      ],
+      "answer": "Mupata weMina pedyo neMakkah"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kukunda nekuparadzwa kweimba tsvene",
+        "Kukundwa neshiri dzakatakura matombo evhu",
+        "Kuzvipira nerunyararo uye kutendeuka",
+        "Nzara nenjodzi dzechisikigo",
+        "Kudzokera shure nekuda kwemvura yakawanda"
+      ],
+      "answer": "Kukundwa neshiri dzakatakura matombo evhu"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

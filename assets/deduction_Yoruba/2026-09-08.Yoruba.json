@@ -1,0 +1,61 @@
+{
+  "title": "Ìdánwò Iná Mímọ́",
+  "intro": "Ní ilẹ̀ àtijọ́ kan níbi tí ìfọkànsìn sí òkúta gbígbẹ́ ti gbilẹ̀ ní gbogbo ilé, ẹnì kan dúró ní ọ̀tọ̀ọ̀tọ̀. Nípasẹ̀ ìdánilójú àìlágbára àti ààbò Ọlọ́run, wọ́n dojúkọ ohun tí ó yẹ kí ó jẹ́ ikú dájúdájú — wọ́n sì rìn lọ láìfarapa. Ṣé o lè ṣàwárí ẹni tí ọkàn àrà ọ̀tọ̀ yìí jẹ́?",
+  "clues": [
+    "Mo dàgbà láàárín àwọn ènìyàn tí wọ́n ń forí balẹ̀ fún ère tí wọ́n fi ọwọ́ ara wọn gbẹ́, tí wọ́n gbàgbọ́ pé àwọn nǹkan wọ̀nyí ní agbára àtọ̀runwá.",
+    "Nígbà tí mo tako ìgbàgbọ́ wọn, wọ́n kọ̀ mí sílẹ̀ ní àkọ́kọ́, ṣùgbọ́n mi ò lè dákẹ́ nípa òtítọ́ tí mo mọ̀.",
+    "Ní ọjọ́ kan tí wọ́n kó wọn jọ, mo pa àwọn ère wọn run, mo sì fi èyí tó tóbi jùlọ sílẹ̀ láìsí ìtọ́jú kankan.",
+    "Nígbà tí wọ́n padà dé tí wọ́n sì rí ohun tí mo ṣe, àwọn olórí wọn pàṣẹ pé kí wọ́n kọ́ igi ńlá kan, wọ́n fẹ́ gbé mi sínú iná.",
+    "Wọ́n jù mí sínú iná tí ń jóná, ṣùgbọ́n Olúwa gbogbo ayé pàṣẹ pé kí ó tutù kí ó sì jẹ́ ààbò fún mi.",
+    "Mo jáde kúrò nínú iná náà láìfarapa rárá, nígbà tí àwọn tó dìtẹ̀ sí mi dojúkọ ìparun pátápátá."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Ibrahim",
+        "Wòlíì Mósà",
+        "Wòlíì Nóà",
+        "Wòlíì Ísà",
+        "Wòlíì Yúsọ́ọ̀fù"
+      ],
+      "answer": "Wòlíì Ibrahim"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Jíjẹ́ tí a jù sínú iná tí ń jó",
+        "Bí ẹja ńlá kan bá gbé e mì",
+        "Líla ìkún omi ńlá kan já",
+        "Jíjẹ́ tí wọ́n jù sínú kànga jíjìn kan",
+        "Kíkojú àwọn onídán ọba"
+      ],
+      "answer": "Jíjẹ́ tí a jù sínú iná tí ń jó"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Igi ńlá kan tí ń jóná",
+        "Apoti onigi nla kan",
+        "Ère ọmọ màlúù wúrà kan",
+        "Agbọ̀n omi lórí odò kan",
+        "Ìtẹ́ àgbàyanu kan"
+      ],
+      "answer": "Igi ńlá kan tí ń jóná"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Allah sọ iná náà di tútù àti ààbò",
+        "Ọkọ̀ náà gúnlẹ̀ láìléwu lórí òkè kan",
+        "Òrìṣà wúrà náà yọ́ lójú wọn",
+        "Aláìláàánú kan àti àwọn ọmọ ogun rẹ̀ rì sínú òkun",
+        "A mú ojú afọ́jú kan padà sí i"
+      ],
+      "answer": "Allah sọ iná náà di tútù àti ààbò"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Asɛmpatrɛw a Ɛwɔ Tete Kurow no Mu",
+  "intro": "Tete kurow a mfutuma ayɛ hɔ ma, emu nkurɔfo agye ntini wɔ pow mu, ne kɔkɔbɔ a etwa to a wɔantie. Ɛnnɛ, fa wo nan si wɔn a Allah asoma wɔn sɛ wɔmfa nkrasɛm nkɔma nkurɔfoɔ a wɔn tirim yɛ den no dwumadie mu. Pow ho asɛm, gyidi nne biako pɛ, ne awiei a wɔde ahyɛde a ɛyɛ hu ahyɛ ano. Hena na ɔnam saa nsɛnkyerɛnnede yi so kasa?",
+  "clues": [
+    "Allah na ɔsomaa yɛn kɔɔ kuro bi a ne nkurɔfoɔ atwe wɔn ho afiri nokorɛ ho",
+    "Yɛn mu baanu dii kan bae, afei nea ɔto so abiɛsa bɛkaa ho de hyɛɛ yɛn asɛmpatrɛw adwuma no mu den",
+    "Kurow no mufo pow yɛn, na wɔkae sɛ yɛnyɛ hwee sɛ nnipa te sɛ wɔn",
+    "Ɔkra biako pɛ a ofi kurow no awiei koraa tuu mmirika kɔka kyerɛɛ nkurɔfo no sɛ wonni yɛn akyi",
+    "Yɛsrɛɛ wɔn, nanso wɔpirim wɔn koma na wɔdan tiaa yɛn",
+    "Wɔ nteɛm a ɛyɛ hu biako a efi soro mu no, wɔmaa yɛn kurow no nyinaa yɛɛ komm"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Kuro no mu Asomafoɔ a wɔwɔ Surah Ya-Sin mu",
+        "Hawwariyyun (Isa Asuafoɔ) .",
+        "Farao Ahemfie Nkɔmfo",
+        "Homeda no mu Ahokafoɔ",
+        "Nnipa a Wɔyɛ Asono"
+      ],
+      "answer": "Kuro no mu Asomafoɔ a wɔwɔ Surah Ya-Sin mu"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Kurow no mufo powee na wɔfrɛɛ wɔn atorofo",
+        "Wɔhyew no nkwa mu wɔ ogya kɛse bi a ɛredɛw mu",
+        "Mpataa kɛse bi menee no wɔ po a emu dɔ mu",
+        "Wɔhyɛɛ wɔn ma wɔyɛɛ adwumaden de si adum atenten",
+        "Wɔyɛɛ no ​​ayayade wɔ amena a ogya a ano yɛ den wom mu"
+      ],
+      "answer": "Kurow no mufo powee na wɔfrɛɛ wɔn atorofo"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Tete kurow (al-Qaryah) .",
+        "Fononoo kɛse bi a ɛredɛw",
+        "Mpataa kɛse bi yafunu",
+        "Odum a ɛkorɔn a ɛka wim no",
+        "Fie kronkron (Kaaba) ."
+      ],
+      "answer": "Tete kurow (al-Qaryah) ."
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wɔnam nteɛm biako pɛ a ɛyɛ hu so sɛee kurow no (Sayha) .",
+        "Wɔmenee otirimɔdenfo no ne n’asraafo wɔ po a emu apaapae no mu",
+        "Wɔdanee nkurɔfo no bɛyɛɛ akraman ne bonsu",
+        "Abo a ɛtɔe fi soro sɛee kurow no",
+        "Nsuyiri a ano yɛ den prapraa mpɔtam hɔfo nyinaa kɔe"
+      ],
+      "answer": "Wɔnam nteɛm biako pɛ a ɛyɛ hu so sɛee kurow no (Sayha) ."
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

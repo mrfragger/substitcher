@@ -1,0 +1,61 @@
+{
+  "title": "Umwizera yihishije",
+  "intro": "Mu nzu z’ubutegetsi ziteye igomwe, aho ukutemera n’ububisha vyari vyiganje, ijwi ry’ukuri ryonyene ryavuga rivuye ahantu umuntu atari yiteze. Uwo mubare wararwanya ubukuru bwo kurinda intumwa, bagashira mu kaga umutekano wabo bwite kugira ngo bamenyeshe ukuri.",
+  "clues": [
+    "Nabaye mu gihugu c’ububisha bukomeye, nkorera umutware yivugira ko ari ubumana.",
+    "Ivyo nemera vy’ukuri narabihishije imyaka myinshi, ntinya ingaruka zo kuvyihishura.",
+    "Iyo intumwa yaje ifise ibimenyetso bitomoye, naravyemera, ariko abantu banje barayigambanira.",
+    "Nahagaze imbere y’uwo munyagitugu n’inama yiwe, mvuga ko badakwiye kwica intumwa ata co yakoze.",
+    "Narababuriye igihano c’amahanga ya kera yanse ukuri, nk’abantu ba Nowa na Adi.",
+    "Allah yarakijije imigambi yabo mibi, nanje narabonye ukuntu intwaro y’agahahazo yasambutse."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Uwizera wo mu muryango wa Farawoni",
+        "Umupfumu wa Farawoni",
+        "Viziri wa Farawoni",
+        "Umugore wa Farawoni",
+        "Umubitsi wa Farawoni ."
+      ],
+      "answer": "Uwizera wo mu muryango wa Farawoni"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Gukingira umuhanuzi ngo ntimwicwe .",
+        "Guhangana n'ubuhendanyi bw'umupfumu",
+        "Kubaka umunara kugira ngo ushikire mw'ijuru .",
+        "Gucapura ikiyaga kugira ngo bacike",
+        "Gusobanura indoto y'umwami"
+      ],
+      "answer": "Gukingira umuhanuzi ngo ntimwicwe ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Urugo rwa Farawoni .",
+        "Igisaka kigurumana",
+        "Inyana y'inzahabu",
+        "Iriba ry'i Madiyani .",
+        "Ubwato bwa Muhanuzi Nuh ."
+      ],
+      "answer": "Urugo rwa Farawoni ."
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Barakizwe akaga mu gihe abahahaza bariko baratikizwa .",
+        "Yaciye aba umutware w’ububasha .",
+        "Yajugunywe mu muriro arasohoka ataco akomerewe",
+        "Yamizwe n'isi .",
+        "Yaraye mu bugaragwa imyaka mirongo ine ."
+      ],
+      "answer": "Barakizwe akaga mu gihe abahahaza bariko baratikizwa ."
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

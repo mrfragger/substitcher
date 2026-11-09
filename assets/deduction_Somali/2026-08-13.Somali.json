@@ -1,0 +1,61 @@
+{
+  "title": "Nafta Dulqaadka leh ee Guriga Barakaysan",
+  "intro": "Bogagga Qur'aanka, qof ayaa ka soo ifbaxaya abtirsiin nabi weyn, oo hadiyad ahaan loo siiyay da'da gabowga. Naftan waxaa loogu dabaaldegaa runta aan kala go 'lahayn iyo door qoto dheer oo ay ka qaadatay dhisidda meel ammaan ah oo noqon doonta calaamad iimaan. Markaad akhrido tilmaamaha, si taxaddar leh u dhegayso codka wixii hore, waayo wuxuu ku hadlaa qofka koowaad.",
+  "clues": [
+    "Waxaa Qur'aanka lagu xusay iyadoo la socda nebi kale oo hadiyad la siiyay rasuul waayeel ah.",
+    "Waxaan ka mid ahaa laba farac oo uu dhalay nebigaas sannadihiisii ​​dambe.",
+    "Qur'aanku wuxuu igu ammaanay inaan run sheegayo hadalkayga.",
+    "Waxaan sitay sharafta nebinimada waxaana la ii soo diray rasuul ahaan.",
+    "Waxaan ku biiray aabbahay kor u qaadista aasaaska Guriga Barakaysan.",
+    "Waxaa la i xasuusiyaa inaan ka mid ahaa kuwa buka, gurigii barakeysan ee aan dhisnayna wuxuu noqday meel lagu soo laabto oo ammaan loogu talagalay dadka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Ismaaciil",
+        "Nabi Isxaaq",
+        "Nabi Yacquub",
+        "Nabi Zakariya",
+        "Nabi Yaxya"
+      ],
+      "answer": "Nabi Ismaaciil"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Kor u qaadidda aasaaska Kacbada iyadoo la adeegsanayo Ibraahim",
+        "In lagu tuuro dab",
+        "In nibiri liqo",
+        "Ka soo saaridda reer binu Israa'iil Masar",
+        "Dhisidda doon"
+      ],
+      "answer": "Kor u qaadidda aasaaska Kacbada iyadoo la adeegsanayo Ibraahim"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Kacbada",
+        "Buur Siinay",
+        "Badda Cas",
+        "Keeggii Dahabka ahaa",
+        "Beerta Ceeden"
+      ],
+      "answer": "Kacbada"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Waxaa lagu tiriyey bukaanka dhexdiisa",
+        "Waxaa lagu tiriyey kuwa dambiilayaasha ah",
+        "Waxaa lagu tiriyey saaxiriinta dhexdooda",
+        "Waxaa lagu tiriyey gaalada dhexdooda",
+        "Waxaa lagu tiriyey munaafiqiinta dhexdooda"
+      ],
+      "answer": "Waxaa lagu tiriyey bukaanka dhexdiisa"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

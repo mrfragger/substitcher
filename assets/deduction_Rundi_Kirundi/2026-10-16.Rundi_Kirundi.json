@@ -1,0 +1,61 @@
+{
+  "title": "Umuryango Wateye akagere Umusi w'Ikiruhuko",
+  "intro": "Intambwe winjire mu gisagara co ku nkengera y’ikiyaga aho itegeko ry’Imana ryashize ku ruhande umusi umwe wo gusenga no kwirinda. Umugwi wo muri uwo mubano wahisemwo kugerageza imipaka y’iryo tegeko ukoresheje umugambi w’ubuhendanyi, bishikana ku mpinduka izosubiramwo mu myaka yose. None abo bantu bari bande, kandi babayeho iki?",
+  "clues": [
+    "Twaba hafi y’inkengera y’ikiyaga, aho ikiyaga cari kiduha ivyo turonka.",
+    "Twarategetswe gutera iteka umusi umwe wo mu ndwi, tukawushira ku ruhande rw’ibintu vyo mw’isi.",
+    "Uwo musi, izo fi zaje aho turi nyinshi cane, nk’aho zari zitugerageza kurenga itegeko.",
+    "Twarateguye umugambi wo gufata iyo fi ku musi mukuru w’uwo musi mweranda, hanyuma tukayikorakoranya iyo imaze guhera.",
+    "Igihe bamwebamwe muri twebwe batugabisha ku bijanye n’ubwo buhendanyi, twaciye twirengagiza impanuro zabo maze turakomeza.",
+    "Kubera icaha cacu, twahinduwe inkende, turasuzugurwa kandi twanka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Abantu b'Isabato .",
+        "Abantu bo mu Mugende",
+        "Abantu bo mu giti",
+        "Abantu bo mw'itongo",
+        "Abantu b'inzovu"
+      ],
+      "answer": "Abantu b'Isabato ."
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Kuroba kw'isabato",
+        "Kubaka umunara muremure",
+        "Kwica ingamiya y'ingore nyeranda",
+        "Guhakana umuhanuzi yabarungikiye .",
+        "Guca mu bipimo vy'ubudandaji"
+      ],
+      "answer": "Kuroba kw'isabato"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Ikiyaga n'amafi yaco .",
+        "Umuriro wari warakonjeshejwe .",
+        "Inkoni yahindutse inzoka .",
+        "Ubwato bw'agakiza .",
+        "Ivyo bisate vy’amabuye ."
+      ],
+      "answer": "Ikiyaga n'amafi yaco ."
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Bahindutse inkende",
+        "Yamizwe n'isi .",
+        "Yasambuwe n’umuyaga ukaze .",
+        "Yarohamye mu kiyaga .",
+        "Gukubitwa n'imvura y'amabuye"
+      ],
+      "answer": "Bahindutse inkende"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Socotada Beerta Verdant",
+  "intro": "Waagii hore, laba qof ayaa daryeeli jiray dhulalka deriska la ah. Waddooyinkoodu way isku xidhnaayeen, haddana qalbiyadoodu waxay u horseeday meelo aad u kala duwan. Mid baa ku socday waddada toosan, halka kan kalena uu ku dhex milmay mugdiga beenta. Ma furi kartaa sirta labadan ilaaliye ee goosashada?",
+  "clues": [
+    "Waxaan haystay dalagyo badan, goosasho raaxo leh oo indhaha dadka daawanaya soo jiidatay.",
+    "Deriskaygu wuxuu lahaa deeq ka badan tan aan haystay, haddana waxaan jeclaa qaybtooda in ka badan tayda.",
+    "Waxaan soo jeediyay inaan gebi ahaanba burburinno dalagyadooda, si aan u xoojinno wax kasta oo aan gacanta ku hayo.",
+    "Waxaan sidoo kale burburiyay goosashadaydii, anigoo wax walba ku burburiyay shirqoolkayga nacasnimada ah.",
+    "Waxaan istaagay anigoo aan waxba haysan iyadoo dalaggaygu engegay, hantidayduna ay isu beddeshay ciid habeen keliya gudaheed.",
+    "Wax qayb ah kuma lahayn Aakhiro, hoygaygii ugu dambeeyayna wuxuu noqday god dab ah oo ololaya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Ninkii beeniyay sarakicidda iyo xukunka",
+        "Taliyihii dulmiyay beeralayda xaqa ah",
+        "Mulkiilaha dhulka ee hodanka ah oo aan mahadnaq lahayn",
+        "Beeralaydii damacday dhulka deriskooda",
+        "Lamaanaha khaa'inka ah ee halaagga maleegay"
+      ],
+      "answer": "Beeralaydii damacday dhulka deriskooda"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Imtixaanka helitaanka muujinta rabbaaniga ah",
+        "Caqabadda maalka iyo dulqaadka",
+        "Jirrabaadda lagu burburinayo nolosha qofka xaqa ah",
+        "Amarka ah in si caddaalad ah loo qaybiyo dhaxalka",
+        "Halganka ka dhanka ah dulmiga kaligii-taliye"
+      ],
+      "answer": "Jirrabaadda lagu burburinayo nolosha qofka xaqa ah"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Beeraha cagaaran ee jannada",
+        "Laba beerood oo dalagyo ah oo deris la ah",
+        "Buurihii burburka arkay",
+        "Macbadka barakeysan ee Makkah",
+        "Webiga dhul barakeysan"
+      ],
+      "answer": "Laba beerood oo dalagyo ah oo deris la ah"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Janno weligeed ah oo ah abaal-marin xaqnimo",
+        "Burbur dhammaystiran oo labada goosasho ah noloshan",
+        "Masaafuris iyo warwareeg ilaa dhimasho",
+        "Barwaaqo ku meel gaar ah oo ay ku xigto dab waara",
+        "Soo celin mucjiso ah iyo abaalmarin labanlaab ah"
+      ],
+      "answer": "Burbur dhammaystiran oo labada goosasho ah noloshan"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

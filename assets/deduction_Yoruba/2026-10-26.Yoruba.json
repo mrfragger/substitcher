@@ -1,0 +1,61 @@
+{
+  "title": "Ìfọ̀rọ̀wérọ̀ nínú afẹ́fẹ́",
+  "intro": "Fojú inú wo ilẹ̀ kan níbi tí àwọn ohun tí a kò rí àti àwọn ohun tí a rí ti so pọ̀, ìwọ yóò sì dúró níwájú ẹni tí ó wà ní àárín ìjọba tí kò yàtọ̀ sí èyíkéyìí mìíràn. Ọkàn yìí ní ìmọ̀ tí ó ju agbára lásán lọ, àwọn agbára ìṣàkóso tí àwọn ẹlòmíràn lè fojú inú wò. Síbẹ̀, àwọn alágbára pàápàá lè jẹ́ ẹni tí ẹ̀dá kékeré kan lè rẹ̀ sílẹ̀, òtítọ́ sì lè wà ní ìkọ̀kọ̀ títí di àkókò tí a yàn kalẹ̀. Ta ni ẹni yìí tí ogún rẹ̀ ń dún ní gbogbo ọjọ́ ayé?",
+  "clues": [
+    "Wọ́n fún mi ní ìjọba kan tí ẹnikẹ́ni kò ní ní lẹ́yìn mi.",
+    "Mo jogún ìmọ̀ àti ọgbọ́n láti ọ̀dọ̀ òbí olùfẹ́ mi kan.",
+    "Afẹ́fẹ́ náà wà lábẹ́ àṣẹ mi, ó ń rìn ní ìbámu pẹ̀lú àṣẹ mi níbikíbi tí mo bá fẹ́.",
+    "Mo lè lóye ọ̀rọ̀ àwọn ẹyẹ, wọ́n sì ṣiṣẹ́ gẹ́gẹ́ bí ọmọ ogun mi.",
+    "Mo gbọ́ ìròyìn láti ọ̀dọ̀ ẹyẹ kékeré kan nípa ayaba kan tí ó ń jọ́sìn oòrùn.",
+    "Ikú mi farasin títí tí ẹ̀dá kan láti ilẹ̀ ayé fi jẹ ọ̀pá mi, nígbà náà ni àwọn ẹ̀mí èṣù tó mọ̀ pé wọn kò mọ ohun tí a kò rí."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Súláímọ́nì (Sólómọ́nì)",
+        "Wòlíì Dáfídì (Dáfídì)",
+        "Wòlíì Mósà (Mósà)",
+        "Wòlíì Isa (Jesu)",
+        "Wòlíì Nóà (Nóà)"
+      ],
+      "answer": "Wòlíì Súláímọ́nì (Sólómọ́nì)"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ìbẹ̀wò Ayaba Ṣébà",
+        "Jíjẹ́ tí a jù sínú iná",
+        "Pípín òkun níyà",
+        "Kíkọ́ ọkọ̀ ojú omi",
+        "Bí ẹja ńlá bá gbé e mì"
+      ],
+      "answer": "Ìbẹ̀wò Ayaba Ṣébà"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ọ̀pá tí ẹ̀dá ilẹ̀ ayé jẹ",
+        "Ọ̀pá tí ó di ejò",
+        "Abo ràkúnmí",
+        "Àpótí náà",
+        "Ẹja ẹja"
+      ],
+      "answer": "Ọ̀pá tí ẹ̀dá ilẹ̀ ayé jẹ"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ikú rẹ̀ ni a fi pamọ́ fún àwọn jinni títí tí wọ́n fi jẹ ọ̀pá rẹ̀ tán.",
+        "A gbé e sókè ọ̀run láàyè",
+        "A gba a la kuro ninu ina nipase ase Allah.",
+        "Wọ́n fún un ní Tórà",
+        "A gbà á lọ́wọ́ ẹja ńlá."
+      ],
+      "answer": "Ikú rẹ̀ ni a fi pamọ́ fún àwọn jinni títí tí wọ́n fi jẹ ọ̀pá rẹ̀ tán."
+    }
+  },
+  "verseRef": "34:14",
+  "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+  "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+}

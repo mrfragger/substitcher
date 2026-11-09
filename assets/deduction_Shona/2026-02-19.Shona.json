@@ -1,0 +1,61 @@
+{
+  "title": "Upenzi hweChido Chikuru",
+  "intro": "Tanga rwendo rwekutsvaga hunhu hweboka revanhu vane hurongwa hwakasimba hwakasangana nemugumo usingatarisirwi uye une simba. Nyaya iyi inoshanda sechiyeuchidzo chakadzama chesimba raMwari uye kusasimba kwesimba renyika kana richipikisa zvitsvene. Fungidzira chakavanzika cheboka iri, rine nyaya yakanyorwa muKorani senyevero kune vese vanotsvaga kudarika.",
+  "clues": [
+    "Taiva nechishuwo chikuru, tichifunga kuti simba redu harina rimwe rakaenzana naro, uye takatanga rwendo nechinangwa chakajeka, chinoparadza.",
+    "Mutungamiriri wedu, azere nekuzvikudza, akaedza kusvibisa Imba tsvene inoremekedzwa nevakawanda, nechinangwa chekutsausa rwendo rwekuenda kunzvimbo yakavakwa nesu.",
+    "Kubva kunyika iri kure, takafamba nemauto makuru, tichivimba nekukwanisa kwedu kuputsa chivakwa chekare muGuta Dzvene.",
+    "Hondo yedu yaive yakasimba, ichitungamirirwa nezvisikwa zvinoshamisa, chinhu chisingawanzoonekwa nevagari venyika yatakarwisa.",
+    "Patakasvika kwataienda, Mwari akapindira; zvisikwa zvidiki zvine mapapiro zvakaonekwa, zvichitikanda nematombo evhu rakabikwa.",
+    "Rwendo rwedu rwese rwakagumira zvakanyanya, zvikasiya mauto edu anotyisa aparadzwa zvachose, sehuswa hwakatsengwa, hurongwa hwedu hukuru hwashanduka kuita guruva."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Vanhu veThamud",
+        "Vanhu ve'Ad",
+        "Vanhu veSodhoma",
+        "Vanhu veNzou",
+        "Vanhu veBindu"
+      ],
+      "answer": "Vanhu veNzou"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Mafashamo Makuru",
+        "Mushandirapamwe wekurwisa Kaaba",
+        "Kuparadzwa kweZvifananidzo",
+        "Kutsemuka kweGungwa",
+        "Kudengenyeka Kwenyika kwaMidhiani"
+      ],
+      "answer": "Mushandirapamwe wekurwisa Kaaba"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Areka",
+        "Vashandi",
+        "Kaaba",
+        "Mhuru Yegoridhe",
+        "Moto"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Ruponeso rwaMwari",
+        "Nguva refu yekubudirira",
+        "Kutendeukira kuIslam",
+        "Kuparadza zvachose",
+        "Kudzingwa munyika yavo"
+      ],
+      "answer": "Kuparadza zvachose"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Mutakuri weShoko Guru",
+  "intro": "Mweya wakarurama wakatumwa kuti utungamirire vanhu vakarasika mukudarika kwavo kusati kwamboitika. Nhume iyi yakamira yakasimba, ichipa yambiro yakasimba pamusoro pekuora kwaipesana nehurongwa hwechisikigo. Pasinei nekukumbira kwechokwadi, nharaunda yacho yakapinda murima zvakanyanya, ichigadzira nzira yekuverengerwa kwaMwari kwakasiyana nedzimwe. Unogona kuziva here muranda uyu akasimba waAllah?",
+  "clues": [
+    "Ndaiva hama yemumwe muporofita mukuru, uye ndakatama naye, tichisiya nyika yedu.",
+    "Ndakatumwa kuvanhu vane uipi hwakasiyana, chivi chisina kumboitwa nechisikwa pamberi pavo.",
+    "Mhuri yangu yakanga yakakamurwa; mumwe wemhuri yangu aitsigira vasingatendi muchivande.",
+    "Ngirozi, dzakaita semajaya akanaka, dzakauya kumba kwangu sevashanyi, dzichindishungurudza zvikuru nekuda kwekuchengetedzeka kwavo.",
+    "Ndakapa vanasikana vangu kuvanhu vangu kuti varoore ndichiedza kuvadzivisa kuita mabasa avo anonyadzisa.",
+    "Vanhu vangu vakaparadzwa nekuchema kukuru nemvura yematombo evhu rakabikwa, asi ini nemhuri yangu, kunze kwemumwe chete, takaponeswa nekubva pakati pehusiku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muporofita Shu'ayb",
+        "Muprofita Salih",
+        "Muporofita Lut",
+        "Muporofita Hud",
+        "Muprofita Nuh"
+      ],
+      "answer": "Muporofita Lut"
+    },
+    "trial": {
+      "label": "Chii Chaiva Muedzo Wangu Mukuru?",
+      "options": [
+        "Kunyengetedza mambo ane hutsinye kuti asandipise mumoto.",
+        "Kugadzirisa godo revakoma vangu nekukandwa mutsime.",
+        "Kusangana nevanhu vanoita unzenza hwepabonde husati hwamboitika.",
+        "Kutungamirira vanhu vangu kubva muusungwa kubva kuna Farao ane simba.",
+        "Kuvaka ngarava hombe kuti vaponese vatendi kubva mumafashamo makuru."
+      ],
+      "answer": "Kusangana nevanhu vanoita unzenza hwepabonde husati hwamboitika."
+    },
+    "location": {
+      "label": "Nzvimbo Yandaishandira Basa Rangu Yaiva Yei?",
+      "options": [
+        "Guta reMadyan",
+        "Guta rekare reIram",
+        "Nyika yeEgipita pasi paFarao",
+        "Maguta eSodhoma neGomora",
+        "Guta reNinevhe"
+      ],
+      "answer": "Maguta eSodhoma neGomora"
+    },
+    "outcome": {
+      "label": "Chii Chaiva Mugumisiro Mukuru?",
+      "options": [
+        "Maguta akaparadzwa ndokudururwa nematombo evhu rakabikwa.",
+        "Vanhu vangu vakamedzwa nenyika pamwe chete nemutungamiriri wavo akapfuma.",
+        "Vanhu vangu vakaparadzwa nemhepo ine simba kwehusiku hunomwe nemazuva masere.",
+        "Vanhu vangu vakatambudzwa nematambudziko akaita semhashu, inda, nematatya.",
+        "Hove hombe yakandimedza mushure mekunge ndasiya basa rangu."
+      ],
+      "answer": "Maguta akaparadzwa ndokudururwa nematombo evhu rakabikwa."
+    }
+  },
+  "verseRef": "11:82",
+  "arabic": "فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةًۭ مِّن سِجِّيلٍۢ مَّنضُودٍۢ",
+  "verse": "So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were] (11:82)"
+}

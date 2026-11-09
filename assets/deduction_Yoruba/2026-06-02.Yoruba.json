@@ -1,0 +1,61 @@
+{
+  "title": "Olùṣọ́ Ẹnubodè Oòrùn Tí Ń Gbó",
+  "intro": "Jálẹ̀ Al-Quran, àwọn ẹ̀mí kan ń rìn kiri ayé, wọ́n sì ń fi ọgbọ́n àti ìyanu sílẹ̀. Irú ẹni bẹ́ẹ̀ rìn lọ sí àwọn ibi tí ó jìnnà jùlọ nínú ìṣẹ̀dá—níbi tí oòrùn ti ń yọ tí ó sì ń wọ̀, níbi tí ìdènà kan ti ń dá ìdàrúdàpọ̀ dúró. A fún ìránṣẹ́ Allah yìí ní ìjọba kan tí ẹnikẹ́ni kò ní ní mọ́. Nípasẹ̀ ìrìn àjò mẹ́ta ọ̀tọ̀ọ̀tọ̀, ète ẹni yìí hàn gbangba. Ṣé o lè dá arìnrìn àjò onítàn yìí mọ̀ láti inú òjìji ìtàn?",
+  "clues": [
+    "Aláàánú jùlọ fún mi ní àṣẹ láti ṣàkóso ayé lọ́nà tí ẹnikẹ́ni kò tíì ṣe rí.",
+    "Mo rìnrìn àjò lọ sí ìwọ̀ oòrùn títí tí mo fi dé ibi tí oòrùn ti ń wọ̀, mo rí i pé ó ń wọ̀ ní orísun omi kan tí ó ṣókùnkùn, mo sì rí àwọn ènìyàn kan níbẹ̀.",
+    "Mo rìn lọ sí ìlà-oòrùn títí mo fi dé ibi tí oòrùn ti ń yọ, mo sì rí i pé ó ń yọ sí àwọn ènìyàn tí A kò pèsè ààbò fún.",
+    "Mo rìn láàárín àwọn ibi méjì tó le koko náà títí tí mo fi dé àfonífojì kan láàárín àwọn òkè méjì, níbi tí mo ti rí àwọn ènìyàn tí wọn kò mọ ọ̀rọ̀ dáadáa.",
+    "Mo rí àwọn ìdènà irin méjì tó le gan-an lórí òkè náà, tó nà sí ọ̀tún àti òsì, àti ọ̀nà tóóró kan láàárín wọn. Àwọn ènìyàn wọ̀nyí ní kí n yọ̀ kúrò nínú ìdènà náà, kí ó má ​​baà dá ìdàrúdàpọ̀ dúró.",
+    "Mo gba oúnjẹ mi mo sì wí pé: ‘Nígbà tí ìdènà náà bá bẹ́, èyí yóò jẹ́ ìyàsọ́tọ̀ tó ṣe kedere láàárín àwa àti àwọn ènìyàn yìí.’ Nígbà tí àkókò tí a yàn dé, mo wò bí ìdènà náà ṣe bẹ́ nígbẹ̀yìn gbẹ́yín."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Dhu al-Qarnayn",
+        "Wòlíì Súláímọ́nì",
+        "Wòlíì Ibrahim",
+        "Ọba Ghassaniyah",
+        "Dhul-Qarnain Arìnrìn-àjò"
+      ],
+      "answer": "Dhu al-Qarnayn"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Líla ìdènà irin lulẹ̀ fún àwọn ènìyàn Yajuj àti Majuj",
+        "Kíkọ́ Ọkọ̀ ojú omi lábẹ́ àṣẹ wòlíì kan",
+        "Kíkọ́ tẹ́ḿpìlì ní Jerúsálẹ́mù",
+        "Líla Òkun Pupa kọjá pẹ̀lú àwọn ènìyàn onígbàgbọ́",
+        "Kíkọ́ ìdè omi láti dáàbò bo orílẹ̀-èdè olódodo"
+      ],
+      "answer": "Líla ìdènà irin lulẹ̀ fún àwọn ènìyàn Yajuj àti Majuj"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ìdènà irin láàrín àwọn òkè méjì",
+        "Ọkọ̀ ojú omi náà dúró sí orí òkè kan",
+        "Ilé ìjọsìn mímọ́ ní Jerúsálẹ́mù",
+        "Odò ní ilẹ̀ Íjíbítì",
+        "Kànga ìbùkún ní Madyan"
+      ],
+      "answer": "Ìdènà irin láàrín àwọn òkè méjì"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Wọ́n ya ìdènà náà nígbà tí àkókò tí a yàn dé, ìdàrúdàpọ̀ sì tú jáde",
+        "Àwọn aláìgbàgbọ́ ni wọ́n rì sínú omi nígbà tí àwọn onígbàgbọ́ gbàlà",
+        "A tọ́ àwọn olódodo sọ́nà sí párádísè ayérayé",
+        "Afẹ́fẹ́ ńlá kan pa ìlú náà run",
+        "Àwọn ère náà fọ́ túútúú, àwọn ènìyàn sì ronú pìwàdà"
+      ],
+      "answer": "Wọ́n ya ìdènà náà nígbà tí àkókò tí a yàn dé, ìdàrúdàpọ̀ sì tú jáde"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

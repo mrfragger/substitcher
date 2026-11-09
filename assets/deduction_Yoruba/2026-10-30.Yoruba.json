@@ -1,0 +1,61 @@
+{
+  "title": "Ìsinmi àwọn tí wọ́n ṣọ̀fọ̀",
+  "intro": "O fẹ́rẹ̀ pàdé ọkàn kan tí a dán wò nípasẹ̀ ìyàsọ́tọ̀ tó jinlẹ̀ jùlọ, tí ojú rẹ̀ mọ èdè omijé síbẹ̀ tí ọkàn rẹ̀ kò pàdánù ìrètí. Nínú ìtàn ẹ̀tàn, ìfẹ́kúfẹ̀ẹ́, àti ìpadàpọ̀ nígbẹ̀yìn-gbẹ́yín, ìránṣẹ́ ọlọ́lá yìí ti Allah di àmì sùúrù fún gbogbo ìgbà. Ta ló fara da ọ̀pọ̀ ọdún ìrora tí a fi pamọ́, tí ó sì tún ríran àti ayọ̀ padà ní ìṣẹ́jú kan ṣoṣo?",
+  "clues": [
+    "Èmi ni wòlíì tí orúkọ rẹ̀ di àmì sùúrù nígbà tí mo bá pàdánù ńlá.",
+    "Mo ní ọpọlọpọ ọmọkunrin, ṣugbọn owú awọn miiran gba ọkan lọwọ mi.",
+    "Ìfẹ́ mi fún ẹni tí ó sọnù yẹn jinlẹ̀ tó bẹ́ẹ̀ tí ojú mi fi di funfun nítorí ìbànújẹ́, síbẹ̀ mi ò ráhùn àyàfi sí Allah.",
+    "Mo rán àwọn ọmọkùnrin mi padà láti wá èyí tí mo sọnù àti àbúrò rẹ̀, mo sì rọ̀ wọ́n pé kí wọ́n má ṣe juwọ́ sílẹ̀.",
+    "Nígbà tí ẹni tó ń kéde ìhìn rere dé, wọ́n fi aṣọ kan bo ojú mi, lójijì ayé tún hàn gbangba.",
+    "A mọ̀ mí sí Ísírẹ́lì, láti ọ̀dọ̀ àwọn ọmọkùnrin mi méjìlá sì ni ẹ̀yà méjìlá ti orílẹ̀-èdè ńlá kan ti wá."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Jákọ́bù (Jákọ́bù)",
+        "Wòlíì Yósù (Jósẹ́fù)",
+        "Wòlíì Ísákì (Ísákì)",
+        "Wòlíì Ibrahim (Abrahamu)",
+        "Wòlíì Ayyub (Jóòbù)"
+      ],
+      "answer": "Wòlíì Jákọ́bù (Jákọ́bù)"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Iyapa lati ọdọ ọmọ ayanfẹ kan fun ọpọlọpọ ọdun",
+        "Jíjẹ́ tí a jù sínú iná tí ń jó",
+        "Ẹja ńlá kan gbé mì",
+        "Mo ní àrùn awọ ara tó le gan-an",
+        "Láti wà láìbímọ títí di ọjọ́ ogbó"
+      ],
+      "answer": "Iyapa lati ọdọ ọmọ ayanfẹ kan fun ọpọlọpọ ọdun"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Aṣọ Yusufu",
+        "Àwọn òṣìṣẹ́ Mósè",
+        "Ọkọ̀ Nóà",
+        "Rakunmi Salih",
+        "Òrùka Sulayman"
+      ],
+      "answer": "Aṣọ Yusufu"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ojú rẹ̀ padà sípò, ó sì tún padà wà pẹ̀lú ọmọ rẹ̀",
+        "Wọ́n fún un ní ìṣẹ́gun lórí ọba alákòóso kan",
+        "A gbé e sókè sí ọ̀run láàyè",
+        "Wọ́n yàn án gẹ́gẹ́ bí alákòóso lórí Íjíbítì",
+        "Fífúnni ní ọmọkùnrin nígbà tí ó dàgbà gẹ́gẹ́ bí iṣẹ́ ìyanu"
+      ],
+      "answer": "Ojú rẹ̀ padà sípò, ó sì tún padà wà pẹ̀lú ọmọ rẹ̀"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

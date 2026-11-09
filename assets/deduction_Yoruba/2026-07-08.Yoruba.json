@@ -1,0 +1,61 @@
+{
+  "title": "Àwọn Olùtakò Àyànfẹ́",
+  "intro": "Jálẹ̀ ìtàn, àwọn ìránṣẹ́ Ọlọ́run rìn láàárín aráyé, àwọn kan lára ​​àwọn tó sún mọ́ wọn jù kò sì mọ ìmọ́lẹ̀ náà. Ìtàn yìí yíká àwọn ọkàn méjì tí ìsúnmọ́ wọn sí iṣẹ́ wòlíì di ìdánwò wọn, ogún wọn sì jẹ́ ẹ̀kọ́ tí kò ní àsìkò.",
+  "clues": [
+    "A gbé ayé ní àkókò àwọn wòlíì ńlá, síbẹ̀ ojú wa kò sí òtítọ́ tí wọ́n mú wá.",
+    "Àwọn ilé wa kún fún ìfihàn àtọ̀runwá, ṣùgbọ́n ọkàn wa le.",
+    "A fẹ́ àwọn ọkùnrin tí wọ́n yàn láti kìlọ̀ fún àwọn ènìyàn wọn.",
+    "Nígbà tí ìyà dé, a kò wá ààbò sínú ọkọ̀ ojú omi náà tàbí kí a sá fún òjò tó ń jóná, nítorí a fi àwọn ìkìlọ̀ náà ṣe yẹ̀yẹ́.",
+    "A mẹnuba wa ninu Al-Quran gẹgẹbi apẹẹrẹ fun awọn ti ko gbagbọ, ti o fihan pe paapaa ibatan timọtimọ pẹlu wolii ko gbanilaaye.",
+    "Àwa ni àwọn ìyàwó Nóù àti Lọ́ọ̀tì, àwọn tí wọ́n da wọ́n, tí wọ́n sì dá wọn lẹ́bi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni àwa?",
+      "options": [
+        "Àwọn ìyàwó Nóù àti Lọ́ọ̀tì",
+        "Àwọn ìyàwó Ibrahim àti Ismail",
+        "Àwọn ìyàwó Mósè àti Háránì",
+        "Àwọn ìyàwó Dawud àti Sulayman",
+        "Àwọn ìyàwó Ayyub àti Yunus"
+      ],
+      "answer": "Àwọn ìyàwó Nóù àti Lọ́ọ̀tì"
+    },
+    "trial": {
+      "label": "Kí ni ìgbẹ́jọ́ wọn?",
+      "options": [
+        "Wọ́n fẹ́ àwọn wòlíì ṣùgbọ́n wọ́n kò gbàgbọ́",
+        "Wọ́n yàgàn, wọ́n sì dá àwọn wòlíì lẹ́bi",
+        "Wọ́n jẹ́ ọlọ́rọ̀ àti agbéraga",
+        "Iblis dán wọn wò láti fi ilé wọn sílẹ̀.",
+        "Wọ́n jọ́sìn Ọmọ màlúù wúrà náà"
+      ],
+      "answer": "Wọ́n fẹ́ àwọn wòlíì ṣùgbọ́n wọ́n kò gbàgbọ́"
+    },
+    "location": {
+      "label": "Kí ni a ti so àyànmọ́ wọn pọ̀ mọ́?",
+      "options": [
+        "Ìkún omi àti òjò àwọn òkúta",
+        "Afẹ́fẹ́ líle kan",
+        "Ìsẹ̀lẹ̀ ilẹ̀",
+        "Àjàkálẹ̀ àrùn eṣú",
+        "Pípín òkun"
+      ],
+      "answer": "Ìkún omi àti òjò àwọn òkúta"
+    },
+    "outcome": {
+      "label": "Kí ni òpin wọn?",
+      "options": [
+        "Wọ́n parẹ́ pẹ̀lú àwọn aláìgbàgbọ́",
+        "Wọ́n ronú pìwà dà, a sì gbà wọ́n là",
+        "Wọ́n fi wọ́n sílẹ̀ láìbímọ",
+        "Wọ́n kó wọn lọ sí ìgbèkùn títí láé",
+        "Wọ́n yí wọn padà sí ọbọ àti ẹlẹ́dẹ̀"
+      ],
+      "answer": "Wọ́n parẹ́ pẹ̀lú àwọn aláìgbàgbọ́"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

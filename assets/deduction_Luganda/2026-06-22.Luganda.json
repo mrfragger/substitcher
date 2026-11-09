@@ -1,0 +1,61 @@
+{
+  "title": "Omukkiriza Omukwese",
+  "intro": "Mu bisenge eby’amaanyi eby’obuyinza, awaali obutakkiriza n’obutyobooli, eddoboozi ery’amazima eryali lyokka lyayogera okuva mu kifo kye baali batasuubira. Omuwendo guno gwasomooza ab’obuyinza okukuuma omubaka, ne bateeka obukuumi bwabwe mu kabi okulangirira amazima.",
+  "clues": [
+    "Nnali mbeera mu nsi ey’obukambwe obw’amaanyi, nga mpeereza omufuzi eyeeyita Katonda.",
+    "Enzikiriza zange entuufu nnazikweka okumala emyaka mingi, nga ntya ebiyinza okuva mu kuzibikkula.",
+    "Omubaka bwe yajja ng’alina obubonero obw’olwatu, nnakkiriza, naye abantu bange ne bamwekobaana.",
+    "Nayimirira mu maaso g’omutyobooli n’olukiiko lwe, nga njogera nti tebalina kutta mubaka atalina musango.",
+    "Nabalabula ku kibonerezo ky’amawanga ag’emabega agaana amazima, ng’abantu ba Nuuwa ne ‘Ad.",
+    "Allah yamponya enkwe zaabwe embi, era nalaba okuzikirizibwa kw’obufuzi obunyigiriza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Omukkiriza w'amaka ga Falaawo",
+        "Omulogo wa Falaawo",
+        "Vizier wa Falaawo",
+        "Mukyala wa Falaawo",
+        "Omuwanika wa Falaawo"
+      ],
+      "answer": "Omukkiriza w'amaka ga Falaawo"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okulwanirira nnabbi obutattibwa",
+        "Okusomooza obukodyo bw'omulogo",
+        "Okuzimba omunaala okutuuka mu bbanga",
+        "Okwawula ennyanja okusobola okudduka",
+        "Okuvvuunula ekirooto kya kabaka"
+      ],
+      "answer": "Okulwanirira nnabbi obutattibwa"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Olubiri lwa Falaawo",
+        "Ekisaka ekyokya",
+        "Ennyana eya zaabu",
+        "Oluzzi lwa Madyan",
+        "Essanduuko ya Nabbi Nuh"
+      ],
+      "answer": "Olubiri lwa Falaawo"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yawonyezebwa okuva mu bulabe ng’ate abanyigiriza bazikirizibwa",
+        "Yafuuka omufuzi ow’amaanyi",
+        "Yasuuliddwa mu muliro n’avaayo nga tafunye buzibu",
+        "Yamira ensi",
+        "Yataayaaya mu ddungu okumala emyaka amakumi ana"
+      ],
+      "answer": "Yawonyezebwa okuva mu bulabe ng’ate abanyigiriza bazikirizibwa"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

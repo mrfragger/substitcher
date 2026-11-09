@@ -1,0 +1,61 @@
+{
+  "title": "Àìsín náà láàrín ọ̀pọ̀lọ́pọ̀ ènìyàn",
+  "intro": "O rí ara rẹ láàárín àwọn ènìyàn tí ọjà wọn kún fún ìṣòwò, síbẹ̀ ìwọ̀n wọn ń yọ́ síta láìtọ́. Ońṣẹ́ kan ti wá bá wọn pẹ̀lú ìkìlọ̀ tó ṣe kedere, ṣùgbọ́n wọ́n ń rẹ́rìn-ín wọ́n sì yípadà, pẹ̀lú ìgbẹ́kẹ̀lé nínú aásìkí wọn. Ojú ọ̀run bẹ̀rẹ̀ sí ṣókùnkùn, ṣùgbọ́n wọ́n rí i gẹ́gẹ́ bí ìbùkún òjò. Ta ni àwọn ènìyàn wọ̀nyí?",
+  "clues": [
+    "A gbilẹ̀ ní àwọn ilẹ̀ ìṣòwò àti ọ̀pọ̀lọpọ̀ nǹkan, síbẹ̀ ọkàn wa di aláìlágbára.",
+    "Ojiṣẹ kan wa si wa pẹlu awọn ami lati ọdọ Oluwa wa, ṣugbọn a fi awọn ikilọ rẹ ṣe ẹlẹya.",
+    "A mọ̀ wá fún iṣẹ́ wa, ṣùgbọ́n a ṣe àṣekúdórógbó, a sì rẹ́ àwọn ènìyàn jẹ.",
+    "A ń gbé láàárín àwọn igi gbígbẹ àti ewéko tútù, ṣùgbọ́n a kò ka ìbùkún wa sí ohun tí a kò lè ṣe.",
+    "Nígbà tí ìkùukùu dúdú kan dé, a yọ̀, a rò pé yóò mú òjò wá sí ilẹ̀ gbígbẹ wa.",
+    "Dípò bẹ́ẹ̀, ìkùukùu náà tú ìyà gbígbóná jáde, a sì fi ìyà ọjọ́ òjìji gbá wa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni àwa?",
+      "options": [
+        "Ashab al-Aykah (Àwọn alábàákẹ́gbẹ́ Igbó)",
+        "Àwọn ènìyàn Támúdì",
+        "Àwọn ènìyàn 'Ad",
+        "Àwọn ènìyàn Lúùtù",
+        "Àwọn ènìyàn Nóà"
+      ],
+      "answer": "Ashab al-Aykah (Àwọn alábàákẹ́gbẹ́ Igbó)"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Wọ́n kọ ìránṣẹ́ wọn sílẹ̀, wọ́n sì rẹ́ wọn jẹ ní ìṣòwò",
+        "Wọ́n jọ́sìn ère ọmọ màlúù wúrà, wọ́n sì ṣìnà.",
+        "Wọ́n ṣe ìbálòpọ̀ pẹ̀lú àwọn arìnrìn-àjò, wọ́n sì kọlu àwọn arìnrìn-àjò",
+        "Wọ́n kọ́ àwọn ilé gogoro gíga wọ́n sì pe Ọlọ́run níjà",
+        "Wọ́n kọ̀ láti pín omi, wọ́n sì pa abo ràkúnmí kan lára"
+      ],
+      "answer": "Wọ́n kọ ìránṣẹ́ wọn sílẹ̀, wọ́n sì rẹ́ wọn jẹ ní ìṣòwò"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Igbó tàbí igbó dídì",
+        "Òkè tí a gbẹ́ sí ibùgbé",
+        "Ìlú kan lẹ́bàá òkun",
+        "Àfonífojì aṣálẹ̀ pẹ̀lú àwọn kànga",
+        "Ọgbà ọlọ́ràá pẹ̀lú ọ̀pọ̀lọpọ̀ èso"
+      ],
+      "answer": "Igbó tàbí igbó dídì"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A fi ìkùukùu òjìji iná pa á run",
+        "Ìkún omi ńlá rì ú mọ́lẹ̀",
+        "Ìsẹ̀lẹ̀ ilẹ̀ gbé mì",
+        "Afẹ́fẹ́ líle gbá a",
+        "Ó di òkúta"
+      ],
+      "answer": "A fi ìkùukùu òjìji iná pa á run"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

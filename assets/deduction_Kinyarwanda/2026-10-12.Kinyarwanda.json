@@ -1,0 +1,61 @@
+{
+  "title": "Indahiro y'Umwana Utaravuka",
+  "intro": "Umuntu w’umutima utaryarya yasezeranye isezerano ryera mbere y’uko umwana avuka. Inkuru y’uyu muntu igaragara mu nkuta z’urusengero, aho ubwitange buhabwa kwemerwa n’Imana. Uyu mugaragu wa Allah ni nde?",
+  "clues": [
+    "Nari uwo mu muryango wubahwa muri Korowani.",
+    "Narahiye ko nzaha umwana wanjye utaravuka kugira ngo akorere Imana.",
+    "Ubwo nabyaraga, natunguwe no gusanga ari umukobwa, nubwo nari niteze umuhungu.",
+    "Nahaye umwana wanjye izina rya Mariyamu, izina rigaragaza ubwitange n'umurimo.",
+    "Nasabye Imana uburinzi bw'umwana wanjye n'abamukomokaho kuri Satani wavumwe.",
+    "Umwana wanjye yakiriwe n'Uwiteka maze ashyirwa mu maboko y'Umuhanuzi Zakariya mu rusengero."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Umugore wa Imran (Nyina wa Mariyamu)",
+        "Asiya, umugore wa Farawo",
+        "Mariyamu, nyina wa Isa",
+        "Nyina w'Intumwa Musa",
+        "Umwamikazi w'i Sheba"
+      ],
+      "answer": "Umugore wa Imran (Nyina wa Mariyamu)"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Yarahiye kwegurira umwana we urusengero",
+        "Gutabwa mu muriro",
+        "Kwambuka inyanja ku butaka bwumutse",
+        "Kubaka ubwato bunini",
+        "Kumirwa n'ifi nini"
+      ],
+      "answer": "Yarahiye kwegurira umwana we urusengero"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Ahantu hera (mihrab) aho umwana we yashyizwe",
+        "Isanduku y'isezerano",
+        "Inyana ya zahabu",
+        "Inkoni yahindutse inzoka",
+        "Ikiganza cy'umutende yaruhukiyemo"
+      ],
+      "answer": "Ahantu hera (mihrab) aho umwana we yashyizwe"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Umwana we yakiriwe maze ashyirwa mu maboko y'Intumwa Zakariya",
+        "Yakijijwe igihano cy'umunyagitugu",
+        "Yahawe umuhungu witwa Yahya",
+        "Abaturage be barimbuwe n'inkubi y'umuyaga",
+        "Yabaye umwamikazi ku bwami bukomeye"
+      ],
+      "answer": "Umwana we yakiriwe maze ashyirwa mu maboko y'Intumwa Zakariya"
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

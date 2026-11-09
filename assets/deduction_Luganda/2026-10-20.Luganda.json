@@ -1,0 +1,61 @@
+{
+  "title": "Omukubi w’ebifaananyi ow’okwegomba okw’obulimba",
+  "intro": "Omusajja ow’obuyinza obw’amaanyi lumu yaweereza omu ku batyobooli abasinga okumanyika mu byafaayo mu Misiri ey’edda. Ono ssekinnoomu yakwasibwa ekiragiro eky’obuvumu — okuzimba ekizimbe ekitegeeza okujeemera eggulu. Emboozi yaabwe eyimiridde mu Quran ng’essomo erikwata ku ngeri okugondera amalala mu ngeri ey’omuzibe gye kutuusa mu kwonooneka kwokka.",
+  "clues": [
+    "Nnaweerezanga mu mbuga z’omufuzi ow’amaanyi eyali yeewozaako nti ye Katonda ku nsi.",
+    "Nnalina ekifo eky’oku ntikko eky’obuweereza, nga nbuulirira omutyobooli eyasinga okwegulumiza mu kiseera kyange.",
+    "Omufuzi wange yali amaliridde okusomooza Katonda wa Musa, gwe baagaana okukkiriza.",
+    "Nalagirwa okuzimba omunaala ogw’amabaati agafumbiddwa mu muliro omufuzi wange asobole okulinnya mu ggulu.",
+    "Omunaala tegwatuukangako mu bbanga, era obuddu bwange eri amalala bwandeetera okuswazibwa emirembe gyonna.",
+    "Nazikirizibwa n’oyo gwe nnagoberera, era erinnya lyange ne lifuuka okulabula okw’olubeerera eri abo abasobozesa abatyobooli."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Kamani",
+        "Azaali (taata wa Ibrahim) .",
+        "Illyas (nabbi) .",
+        "Dhu al-Kifl, omuwandiisi w’ebitabo",
+        "Harut (omu ku bamalayika ababiri mu Babulooni) ."
+      ],
+      "answer": "Kamani"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Yalagirwa okuzimba ekizimbe ekiwanvu okutuuka mu ggulu",
+        "Yasabibwa okutaputa ekirooto ekyasindikibwa okuva mu bwakatonda",
+        "Basuuliddwa mu muliro ogwaka ng’ekigezo ky’okukkiriza",
+        "Okuwalirizibwa okulonda wakati w’entebe n’amazima",
+        "Yasoomoozebwa mu mpaka z’obulogo"
+      ],
+      "answer": "Yalagirwa okuzimba ekizimbe ekiwanvu okutuuka mu ggulu"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Omunaala ogw’amabaati agafumbiddwa mu muliro",
+        "Omuggo ogwakyuka ne gufuuka omusota",
+        "Emmeeri ng’eyita mu mataba amangi",
+        "Olusuku oluzingiddwako bbugwe omuwanvu",
+        "Entebe ey’obwakabaka eyayooyootebwa n’emiti gya lubaale ne zaabu"
+      ],
+      "answer": "Omunaala ogw’amabaati agafumbiddwa mu muliro"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yabbira ku mabbali g’omunyigiriza mu nnyanja",
+        "Yafuuka kabaka ow’amaanyi ow’ensi ennene ennyo",
+        "Yasimattuse omuliro ogwakutte omuliro nga tafunye buzibu",
+        "Yazimba obwakabaka obw’amagezi obulungi",
+        "Yaddamu okukwatagana n’ab’omu maka ge oluvannyuma lw’emyaka mingi ng’awanganguse"
+      ],
+      "answer": "Yabbira ku mabbali g’omunyigiriza mu nnyanja"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

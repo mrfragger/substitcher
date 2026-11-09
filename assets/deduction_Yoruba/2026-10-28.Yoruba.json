@@ -1,0 +1,61 @@
+{
+  "title": "Ìlérí Tí A Sọ Lórí Ẹ̀gbin",
+  "intro": "O dúró lẹ́gbẹ̀ẹ́ iná aṣálẹ̀ kan bí iná náà ṣe ń tàn kálẹ̀ dáadáa. Àwọn àlejò dé láti pàdé ní ìdákẹ́jẹ́ẹ́, ìhìn kan ṣoṣo sì ṣí ìtàn ìlérí, ìyàlẹ́nu, àti ọjọ́ iwájú tí kò tíì ṣẹ sílẹ̀.",
+  "clues": [
+    "A kọjá ọ̀nà jíjìn láti dé ọ̀dọ̀ ìránṣẹ́ olóòótọ́ kan ní aṣálẹ̀.",
+    "A beere pe ki a tan ina ina kalẹ lati pese ina.",
+    "A bá ẹnìkan tí ó ké sí iná pé kí ó tutù kí ó sì dáàbò bo ara rẹ̀ sọ̀rọ̀.",
+    "A mú ìròyìn nípa ọmọ tuntun kan wá fún ẹnìkan tí ó ti kọjá ọjọ́ orí bíbí ọmọ.",
+    "A pe ọmọ tí a ṣèlérí ní Ísákì.",
+    "A mú ìròyìn ayọ̀ wá fún Ibrahim nípa ọmọkùnrin kan, ìròyìn ìyanu náà sì mú kí Ibrahim rẹ́rìn-ín."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Àwọn Áńgẹ́lì Tí Wọ́n Mú Ìhìn Ayọ̀ Nípa Ísákì Wá fún Ábúráhámù",
+        "Àwọn Áńgẹ́lì Tí Ó Kọ́ Lọ́ọ̀tì",
+        "Àwọn Áńgẹ́lì Tí Ó Rí Ìtẹ́",
+        "Àwọn Áńgẹ́lì Isà Òkú",
+        "Àwọn Áńgẹ́lì Rán sí Nóà"
+      ],
+      "answer": "Àwọn Áńgẹ́lì Tí Wọ́n Mú Ìhìn Ayọ̀ Nípa Ísákì Wá fún Ábúráhámù"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Mú ìròyìn ayọ̀ ìbí Ísákì wá fún Ábúráhámù",
+        "Ìkìlọ̀ Lọ́ọ̀tì kí ìyà tó jẹ àwọn ènìyàn rẹ̀",
+        "Kéde ìbí Yahya fún Zakariyya",
+        "Rírù ìtẹ́ ní ọjọ́ ìdájọ́",
+        "Kéde ìbí Isa fún Maria"
+      ],
+      "answer": "Mú ìròyìn ayọ̀ ìbí Ísákì wá fún Ábúráhámù"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Iná tí a pèsè láti inú iná tí ó tàn kálẹ̀",
+        "Ọkọ̀ ayọ́kẹ́lẹ́ kan tó ń léfòó lórí omi ìkún omi",
+        "Ihò kan tí a fi òkúta yípo dí",
+        "Òkè amọ̀ tí omi iyọ̀ mú le",
+        "Àkàbà kan tí ó na sí ojú ọ̀run"
+      ],
+      "answer": "Iná tí a pèsè láti inú iná tí ó tàn kálẹ̀"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ìhìn ayọ̀ nípa ọmọkùnrin kan tí orúkọ rẹ̀ ń jẹ́ Isaac",
+        "Ìhìn ayọ̀ nípa ọmọ kan tí orúkọ rẹ̀ ń jẹ́ Yahya",
+        "Yíyàn Talut gẹ́gẹ́ bí alákòóso lórí àwọn ọmọ Israẹli",
+        "Ìkìlọ̀ kan ṣáájú ìyà àwọn ènìyàn Lọ́ọ̀tì",
+        "Àṣẹ láti kọ́ ọkọ̀ áàkì kí Ìkún Omi tó dé"
+      ],
+      "answer": "Ìhìn ayọ̀ nípa ọmọkùnrin kan tí orúkọ rẹ̀ ń jẹ́ Isaac"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

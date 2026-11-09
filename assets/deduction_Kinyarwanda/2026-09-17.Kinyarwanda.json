@@ -1,0 +1,61 @@
+{
+  "title": "Munsi y'igicucu cya Palme y'itariki",
+  "intro": "Inkuru irasohora ivuga ku bugingo bwashyizwe ku ruhande mbere yo kuvuka, burerewe mu nkuta zera, kandi bugahitamo kwerekana ikimenyetso isi itari yarigeze ibona. Ubwo ibirego byaturukaga impande zose, ijwi ryaturutse ahantu hadasanzwe ho gucecekesha gushidikanya kose. Ese ushobora kumenya uwanyuze munsi y'igicucu cy'umukindo?",
+  "clues": [
+    "Nari niyeguriye umurimo w'Imana Ishoborabyose mbere yuko ntangira guhumeka, isezerano ryatanzwe n'uwantwaye.",
+    "Nakuriye munsi y’ubwitonzi bw’umurinzi w’umukiranutsi mu byumba byera by’ahantu ho gusengera.",
+    "Igihe cyose umurinzi wanjye yazaga mu cyumba cyanjye, yasangaga mfite ibyo kurya byo mu bihe bitagombaga kubaho.",
+    "Nahawe inkuru nziza y'umuhungu, nubwo imimerere yanjye itatanze umwanya wo kubahiriza ibyo nari narasezeranijwe.",
+    "Nagiye ahantu kure, maze ngezeyo umukindo wampaye igicucu mu gihe umugezi watembaga munsi yawo.",
+    "Ubwo ibirego byazaga n'ibibazo bimwubikiye, neretse umwana wanjye wari uherutse kuvuka — maze avuga kuva mu bwana bwe kugira ngo acecekeshe gushidikanya kose."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Mariyamu",
+        "Sara",
+        "Hawa",
+        "Ummu Musa",
+        "Umugore wa Nuh"
+      ],
+      "answer": "Mariyamu"
+    },
+    "trial": {
+      "label": "Urubanza / Igikorwa",
+      "options": [
+        "Kubyara umuhungu w'igitangaza mu bwigunge",
+        "Gutabwa mu muriro ugurumana n'abasenga ibigirwamana",
+        "Kurokoka umwuzure ukomeye hamwe n'abantu bake batoranijwe",
+        "Gutandukana n'uruhinja rwajugunywe mu ruzi",
+        "Guhangana n'umutegetsi ukomeye wa Misiri"
+      ],
+      "answer": "Kubyara umuhungu w'igitangaza mu bwigunge"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Umukindo w'itende n'umugezi utemba munsi yawo",
+        "Ubwato bukomeye ku miraba miremire",
+        "Inkoni yagabanyije inyanja nini mo kabiri",
+        "Umuriro ugurumana wagombaga gutwika ubugingo bw'indahemuka",
+        "Intebe y'ubwami ya zahabu irimbishijwe amabuye y'agaciro"
+      ],
+      "answer": "Umukindo w'itende n'umugezi utemba munsi yawo"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Yahawe icyubahiro nk'umugore uhebuje abandi bose",
+        "Yongeye guhura n'umwana yakundaga nyuma y'igihe kirekire atandukanye",
+        "Yakuye igihugu cyose mu bucakara bw'umunyagitugu",
+        "Yaburiye abantu bazimiye mu busambanyi",
+        "Yahaye ubutware ku majini, abantu, n'imiyaga"
+      ],
+      "answer": "Yahawe icyubahiro nk'umugore uhebuje abandi bose"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

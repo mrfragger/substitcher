@@ -1,0 +1,61 @@
+{
+  "title": "Vavaki veMbiru Dzakakwirira",
+  "intro": "Unomira pamberi pematongo eguta rekare rakanaka kwazvo, mbiru dzaro refu dzawa. Mhepo inovhuvhuta mumigwagwa isina chinhu, ichitakura ndangariro dzevanhu vane simba vakambotonga nyika idzi. Vaiva vanaani?",
+  "clues": [
+    "Taiva vanhu vane simba guru nehunyanzvi, tichizivikanwa nezvivakwa zvedu zvikuru uye nebudiriro yepamusoro.",
+    "Taigara munyika ine mirwi yejecha nemakomo ane matombo, uye taitenda kuti hapana aigona kutikunda.",
+    "Mutumwa akauya kwatiri kubva pakati pehama dzedu, achitidana kuti tinamate Allah chete, asi takamuramba uye takamuseka.",
+    "Takazvikudza tichiti, ‘Ndiani ane simba kupfuura isu?’ uye takaramba tichizvikudza uye tichinamata zvifananidzo.",
+    "Allah vakatumira mhepo ine simba kwazvo yakavhuvhuta kwehusiku hunomwe nemazuva masere, ichiparadza zvese.",
+    "Taiva vanhu ve'Ad, vavaki veIram, uye mugumo wedu wakazova yambiro kune vese vakazotevera."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Vanhu ve'Ad",
+        "Vanhu veThamud",
+        "Vanhu vekuMadyan",
+        "Vanhu veTubba'",
+        "Vanhu ve al-Rass"
+      ],
+      "answer": "Vanhu ve'Ad"
+    },
+    "trial": {
+      "label": "Chirango chipi chakaiswa pavari?",
+      "options": [
+        "Mhepo inoparadza",
+        "Mvura yematombo",
+        "Kurira kukuru",
+        "Kunyura nemvura",
+        "Yakamedzwa nenyika"
+      ],
+      "answer": "Mhepo inoparadza"
+    },
+    "location": {
+      "label": "Zita reguta ravo rine mukurumbira nderei?",
+      "options": [
+        "Iramu",
+        "Sodhoma",
+        "Midhiani",
+        "Bhabheri",
+        "Petra"
+      ],
+      "answer": "Iramu"
+    },
+    "outcome": {
+      "label": "Chii chaive mugumo wavo wekupedzisira?",
+      "options": [
+        "Vakaparadzwa uye zvisaririra zvavo zvakava chidzidzo",
+        "Vakatendeuka vakaponeswa",
+        "Vakashandurwa kuita tsoko",
+        "Vakanyura mugungwa",
+        "Vakavigwa pasi pevhu rakadonha"
+      ],
+      "answer": "Vakaparadzwa uye zvisaririra zvavo zvakava chidzidzo"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

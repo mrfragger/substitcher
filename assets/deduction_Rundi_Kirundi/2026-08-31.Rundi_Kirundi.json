@@ -1,0 +1,61 @@
+{
+  "title": "Ijwi ry'Ikiyaya Ricereje",
+  "intro": "Subira mu gihe ca kera ku bantu b’inkomezi barigeze kuronka igitangaza kizima nk’ikigeragezo. Ubwibone n’ubutagondwa vyatumye bashikirwa n’ingorane. Woba ushobora gukurikirana iyo nkuru maze ukamenya ivyo vyabaye muri iyo mpinduka itangaje?",
+  "clues": [
+    "Narungitswe nk’ikigeragezo c’Imana ku bantu b’inkomezi bazwi kubera inkomezi zabo n’ugutera akagere.",
+    "Nari igitangaza kidasanzwe—abantu nkanje ntibari bwigere baboneka muri bo.",
+    "Amazi yo kunywa yo mw’iriba narasangira n’abantu banje ku misi ihinduka.",
+    "Baragabishijwe yuko ikibi cose cobaye cotuma nhanwa vyihuse.",
+    "Abari bafise ubushizi bw’amanga kuruta abandi bose muri bo barirengagije iyo ngabisho maze baranciramwo.",
+    "Inyuma y’urupfu rwanje, induru imwe y’inkuba ivuye hejuru yaratikije abantu banje bose."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Ingamiya y'i Sali",
+        "Inka ya Musa",
+        "Ubwato bwa Nuh .",
+        "Inkoni ya Musa",
+        "Intebe y'ubwami ya Bilqis ."
+      ],
+      "answer": "Ingamiya y'i Sali"
+    },
+    "trial": {
+      "label": "Iherezo ryanje",
+      "options": [
+        "Yaciwe umutsi w'ibirenge maze arapfa",
+        "Bakerewe nk’ikimazi .",
+        "Yahindutse inzoka .",
+        "Yazigamye biciye mu mwuzure munini .",
+        "Yazanywe ningoga ajabuka ubwami ."
+      ],
+      "answer": "Yaciwe umutsi w'ibirenge maze arapfa"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Iriba ry'amazi",
+        "Igisate c'ibuye",
+        "Igisaka kigurumana",
+        "Ubwato bw'ibiti",
+        "Intebe y’ubwami y’inzahabu n’ifeza + ."
+      ],
+      "answer": "Iriba ry'amazi"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Yasambuwe n'induru imwe gusa",
+        "Yarohamye mu mwuzure munini .",
+        "Yaturiwe n'imvura y'amabuye",
+        "Yamenetse n'umuyaga w'inkazi",
+        "Yamizwe n'isi ."
+      ],
+      "answer": "Yasambuwe n'induru imwe gusa"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

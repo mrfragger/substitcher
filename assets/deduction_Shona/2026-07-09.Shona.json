@@ -1,0 +1,61 @@
+{
+  "title": "Mweya Wakazvipira weMurazvo Mutsvene",
+  "intro": "Pamberi pako pane nyaya yeushingi hunoshamisa, apo mumwe munhu akashinga kupikisa zvitendero zvakadzika midzi mutsika yose. Tevedzera mashoko aya ekare, uye uchawana hupenyu hwakaratidzwa nekutenda kusingachinji, kupona kunoshamisa, uye kuiswa kwenheyo dzaizoumba rwendo rwemweya rwemabhiriyoni. Tevedzera chiratidzo chimwe nechimwe nokungwarira - moto mutsvene uchiri kurangarira.",
+  "clues": [
+    "Ndakazvarirwa mumhuri yairemekedza mitumbi yekudenga nezvifananidzo zvakavezwa, asi chimwe chinhu chakaramba zvavainamata mukati mangu.",
+    "Ndakamira ndichipesana nemutongi ane simba kupfuura vose munyika yangu, ndichiputsa zvifananidzo chaizvo zvainamatwa nevanhu vangu, uye ndichizivisa kuti Musiki wedenga chete ndiye anofanirwa kunamata.",
+    "Murazvo wemoto wakatsva wakarairwa muzita rangu, asi ndakazivisa kuti Iye wandaishumira ega ndiye aizondiponesa — uye marimi emoto akarayirwa kuti atonhorere uye akachengeteka.",
+    "Ndakasiya zvese zvandaiziva nemurairo waMwari, ndichidzungaira nemumipata yakaoma nemhuri yangu, ndichivimba nechikafu chandakanga ndisati ndaona.",
+    "Takamira padivi pemwanakomana wangu wedangwe mumupata usina chinhu, takavaka pamwe chete nheyo dzeimba tsvene, nzvimbo tsvene yakagadzirirwa vose vanozviisa pasi.",
+    "Ndinozivikanwa saKhalilullah — shamwari yepedyo yeAne Tsitsi — uye zita rangu rakagara richibatanidzwa nekutenda kwekuzvipira nekuzvipira."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muporofita Ibrahim (Abrahama)",
+        "Muporofita Musa (Mosesi)",
+        "Muporofita Nuh (Noah)",
+        "Muporofita Isa (Jesu)",
+        "Muporofita Muhammad ﷺ"
+      ],
+      "answer": "Muporofita Ibrahim (Abrahama)"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kukandwa mumoto unopfuta nemudzvinyiriri",
+        "Kumedzwa nehove huru mugungwa",
+        "Kudzikiswa mugomba nehama dzine godo",
+        "Kutakurwa mudenga pamusoro pechisikwa chine mapapiro",
+        "Kutsungirira mafashamo makuru mukati memudziyo wehuni"
+      ],
+      "answer": "Kukandwa mumoto unopfuta nemudzvinyiriri"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Imba Tsvene (Kaaba)",
+        "Ngarava huru yemuti yakavakirwa pachigaro",
+        "Tsvimbo yaigona kupatsanura gungwa",
+        "Bako rekurara kwenguva refu rine imbwa yakatendeka",
+        "Mupumburu wemutemo wakazarurwa wakapihwa pagomo"
+      ],
+      "answer": "Imba Tsvene (Kaaba)"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akatanga kuzivikanwa saKhalilullah, shamwari yepedyo yaAllah",
+        "Akatungamirira vanhu kuyambuka gungwa rakaparadzana kuenda kunzvimbo yakachengeteka",
+        "Akapiwa simba pamusoro pemhepo nemasimba asingaonekwe",
+        "Akava murapi akakomborerwa nekurapa kunoshamisa",
+        "Kubatanidza madzinza gumi nemaviri akapararira pasi pesungano imwe chete"
+      ],
+      "answer": "Akatanga kuzivikanwa saKhalilullah, shamwari yepedyo yaAllah"
+    }
+  },
+  "verseRef": "6:79",
+  "arabic": "إِنِّى وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ حَنِيفًۭا ۖ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ",
+  "verse": "Indeed, I have turned my face [i.e., self] toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allāh.\" (6:79)"
+}

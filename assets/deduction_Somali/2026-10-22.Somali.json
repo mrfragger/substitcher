@@ -1,0 +1,61 @@
+{
+  "title": "Bulshada Xadgudubka Koowaad",
+  "intro": "Dhulka magaalooyinka qadiimiga ah, dad baa mar ku barwaaqoobay. Waxaa soo booqday rasuul si cad u sheegay, haddana way leexdeen oo waxay raaceen waddo aan cidina waligood marin. Sheekadoodu waa mid ka mid ah caasinimada, xumaanta, iyo ciqaabta ka tagtay dhulkoodii hooyo oo calaamad u ah dhammaan kuwa fekera. Waa kuma nafahan?",
+  "clues": [
+    "Waxaan ku noolayn magaalooyinka bannaanka, halkaas oo nebigeennu noogu yeedhay xaqnimada.",
+    "Annaga ayaa ah kuwii ugu horreeyay ee gala xumaan aan cidna horay u samayn adduunka oo dhan.",
+    "Waxaan safarro ku jirnay oo si cad ayaan xumaan ugu samaynay isu imaatinkayaga.",
+    "Waan diidnay rasuulkii naloo soo diray, waxaana ku hanjabinnay inaan ka saarno dhulkeenna.",
+    "Waxaan ku degdegnay gurigiisa annagoo dalbanayna inuu martidiisa noo dhiibo.",
+    "Ciqaabteennu waxay ahayd roob dhagaxyo ah, magaaladeennana way rogmatay."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Yaan nahay?",
+      "options": [
+        "Dadka reer Luut",
+        "Dadkii Nuux",
+        "Dadka 'Ad'",
+        "Reer Thamuud",
+        "Dadka reer Madiina"
+      ],
+      "answer": "Dadka reer Luut"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Falkii ugu horreeyay ee isku-tagga galmada ayaa sameeyay",
+        "Sanamyada la caabudo",
+        "Khiyaamo ayaa lagu sameeyay ganacsiga",
+        "Waxay dileen nebigoodii",
+        "Waalidkood way caasiyeen"
+      ],
+      "answer": "Falkii ugu horreeyay ee isku-tagga galmada ayaa sameeyay"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Magaalada bannaanka ah",
+        "Magaalada ceelka",
+        "Magaalada godka",
+        "Magaalada maroodiga",
+        "Magaalada beerta"
+      ],
+      "answer": "Magaalada bannaanka ah"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Roob baa dhagaxyo ku da'ay oo rogmaday",
+        "Daad ayaa qarqiyay",
+        "Waxaa burburiyay dabayl xoog leh",
+        "Dhulku liqay",
+        "Waxaa ku dhacay qarax weyn"
+      ],
+      "answer": "Roob baa dhagaxyo ku da'ay oo rogmaday"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

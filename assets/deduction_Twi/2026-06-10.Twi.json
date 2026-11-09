@@ -1,0 +1,61 @@
+{
+  "title": "Turo no Awɛmfo",
+  "intro": "Wɔ turo bi a ɛso yɛ frɔmfrɔm mu no, mpɔtam hɔfo bi hyɛɛ bɔ a anibere wom. Nanso wɔsɔɔ wɔn bo a wɔasi no hwɛe bere a ɔsoro apɛde de ne ho gyee mu, na ɛdanee wɔn adom no yɛɛ no ​​asase a ɛso yɛ kwa no.",
+  "clues": [
+    "Wɔhyiraa yɛn turo a ɛdɔɔso, nanso yɛbɛyɛɛ ahantanfo.",
+    "Yɛyɛɛ nhyehyɛe sɛ yebetwa otwa a yɛne ahiafo renkyɛ.",
+    "Yesiim anɔpatutuutu, na na yɛwɔ yɛn nhyehyɛe no mu ahotoso.",
+    "Nanso bere a yeduu hɔ no, yehui sɛ wɔasɛe yɛn turo no anadwo biako pɛ.",
+    "Yehuu yɛn mfomso na yefii ase de asodi no too yɛn ho yɛn ho so.",
+    "Awiei koraa no, yenu yɛn ho, nanso yesuaa asuade no akyiri dodo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Yɛn Yɛ Henanom?",
+      "options": [
+        "Nnipa a Wɔte Turo no mu",
+        "Nnipa a Wɔte Ɔbodan no mu",
+        "Nnipa a Wɔyɛ Asono",
+        "Nnipa a wɔwɔ Thamud",
+        "Nnipa a wɔwɔ ‘Ad"
+      ],
+      "answer": "Nnipa a Wɔte Turo no mu"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Turo bi danee nsõ",
+        "Nsuyiri a ɛsɛee biribiara",
+        "Ɔkɔm bi a ɛbaa asase no so",
+        "Nnomaa dɔm a wɔreto ahyɛ wɔn so",
+        "Mframa kɛse bi a etutuu nnua"
+      ],
+      "answer": "Turo bi danee nsõ"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Turo bi",
+        "Ɔbodan bi",
+        "Hyɛn bi",
+        "Bepɔw bi",
+        "Ahemfie bi"
+      ],
+      "answer": "Turo bi"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wonu wɔn ho nanso wɔhweree wɔn turo",
+        "Wɔsɛee wɔn koraa",
+        "Wɔdanee wɔn yɛɛ wɔn akraman",
+        "Wɔnam gyidi so gyee wɔn nkwa",
+        "Wɔbɛyɛɛ sodifo"
+      ],
+      "answer": "Wonu wɔn ho nanso wɔhweree wɔn turo"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Imurika ku Irembo ry'Inkongi",
+  "intro": "Imbaga y’abantu ituje kandi iteye ubwoba ihagaze ireba ku muryango uteye ubwoba, itigeze irya, inywa cyangwa ngo iruhuke. Bakozwe mu kintu kidasa n’ibumba ry’abantu, bategereje umugambi umwe uteye ubwoba—kandi ntibigeze basuzugura itegeko na rimwe ry’Umwami wabo.",
+  "clues": [
+    "Turi ibiremwa bitandukanye n'abantu, twaremwe mu kintu kidarya, kidanywa cyangwa ngo kinanirwe.",
+    "Umubare wacu nyawo urazwi kandi uhishurwa mu gitabo—ntituri benshi cyane cyangwa ngo turi benshi cyane.",
+    "Ntitwigeze tugomera Umuremyi wacu, kandi nta na rimwe tuvuga mbere yo gutegekwa.",
+    "Umunsi nugera, abatizera bazadukururira mu matsinda, kandi tuzabafungurira amarembo.",
+    "Tuzabaza tuti: 'Ese intumwa zo mu bwoko bwanyu ntizaje kubamenyesha iby'uyu munsi?'",
+    "Turinda ahantu nta muntu uvamo—ahantu haka umuriro ho guhanwa iteka ryose."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Turi bande?",
+      "options": [
+        "Abarinzi b'umuriro wa Jahanamu (Zabaniyah)",
+        "Abatwara Intebe y'Ubwami ya Allah",
+        "Abamarayika bafata amajwi (Kiraman Katibin)",
+        "Abamarayika b'urupfu",
+        "Abarinzi b'Irembo rya Paradizo"
+      ],
+      "answer": "Abarinzi b'umuriro wa Jahanamu (Zabaniyah)"
+    },
+    "trial": {
+      "label": "Inshingano yacu y'ibanze",
+      "options": [
+        "Kurinda amarembo y'umuriro w'iteka",
+        "Kwandika buri gikorwa cy'umuntu",
+        "Gutwara Intebe y'Ubwami ya Allah",
+        "Gutwara roho z'abapfuye",
+        "Gutegeka umuyaga n'ibicu"
+      ],
+      "answer": "Kurinda amarembo y'umuriro w'iteka"
+    },
+    "location": {
+      "label": "Ni iki turinda?",
+      "options": [
+        "Umuriro w'Ikuzimu",
+        "Intebe y'Ubwami ya Allah",
+        "Imizingo y'ibikorwa",
+        "Imigezi ya Paradizo",
+        "Imisozi y'Isi"
+      ],
+      "answer": "Umuriro w'Ikuzimu"
+    },
+    "outcome": {
+      "label": "Iherezo ry'abari mu gace kacu",
+      "options": [
+        "Bazahoraho iteka ryose kandi ntibazigera bava",
+        "Amaherezo bazagirirwa imbabazi bakarekurwa",
+        "Bazatunganywa uko igihe kigenda gihita",
+        "Bazahindurwamo izindi shusho",
+        "Bazasimburana hagati y'ikuzimu na Paradizo"
+      ],
+      "answer": "Bazahoraho iteka ryose kandi ntibazigera bava"
+    }
+  },
+  "verseRef": "74:30",
+  "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+  "verse": "Over it are nineteen [angels]. (74:30)"
+}

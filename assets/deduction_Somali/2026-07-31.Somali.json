@@ -1,0 +1,61 @@
+{
+  "title": "Echo-gii Carshiga Gaadhay",
+  "intro": "Qof culays badan ayaa u soo dhawaaday kursiga caddaaladda, codkooduna ma gariirayo cabsi laakiin rajo ayuu la gariirayaa. Arrintu waxay ahayd mid shaqsiyeed, haddana qaraarkeedu wuu soo noqnoqon doonaa waqti ka dib, isagoo burburinaya dhaqan dulmi badan. Yaa ahaa naftan cabashadeeda laga maqlay xiddigaha ka baxsan?",
+  "clues": [
+    "Waxaan la imid qalbi culus, anigoo raadinaya caddaalad arrin carrabkayga ku xidhan.",
+    "Codsigeygu ma ahayn oo keliya rasuul, laakiin wuxuu u gudbay kan wax walba maqla.",
+    "Erayadii iga soo horjeeday waxay ahaayeen sidii silsilado waagii hore ah.",
+    "Waxaan ku dooday oo aan u sababay, ilmo iyo caqli, sharaftayda awgeed.",
+    "Waxaa soo degay muuqaal, oo aamusinaya jidadkii hore isla markaana qiraya xanuunkayga.",
+    "Waxay iigu yeeraan kii ka dooday ninkayga, magacayguna wuxuu noqday mid la mid ah cutubkii i xoreeyay."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Xaaska Cimraan (Hooyadii Maryam)",
+        "Naagtii Murantay Ninkeeda (Khawla bint Thaclaba)",
+        "Boqoradda Sheba (Bilqis)",
+        "Hooyadii Muuse",
+        "Xaaska Fircoon (Asiyah)"
+      ],
+      "answer": "Naagtii Murantay Ninkeeda (Khawla bint Thaclaba)"
+    },
+    "trial": {
+      "label": "Maxkamadeynta ama Dhacdada",
+      "options": [
+        "Waxaa si been ah loogu eedeeyay anshax xumo",
+        "Waxay ahayd madhalays waxayna u xiisaysay ilmo",
+        "Waxay la kulantay caado furriin oo cadaadis badan",
+        "Waxay ahayd boqorad la xaajootay nebi",
+        "Waxay ilmaheeda ka qarisay kaligii-taliye"
+      ],
+      "answer": "Waxay la kulantay caado furriin oo cadaadis badan"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Wur dahab ah",
+        "Carshi weyn",
+        "Dhaqanka Zihar",
+        "Dambiil webiga ku jirta",
+        "Nidar quduus ah oo ku saabsan u-hoggaansanaanta"
+      ],
+      "answer": "Dhaqanka Zihar"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Waxay ku barakeysan tahay ilmo da' weyn",
+        "Waxaa laga badbaadiyay inay qarqanto",
+        "Waxay heshay muujin rabbaani ah oo baabi'inaysa caadada",
+        "Waxay noqotay boqorad ka dib imtixaan",
+        "Waxaa la siiyay wiil nebi noqday"
+      ],
+      "answer": "Waxay heshay muujin rabbaani ah oo baabi'inaysa caadada"
+    }
+  },
+  "verseRef": "58:1",
+  "arabic": "قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَـٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسْمَعُ تَحَاوُرَكُمَآ ۚ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
+  "verse": "Certainly has Allāh heard the speech of the one who argues [i.e., pleads] with you, [O Muḥammad], concerning her husband and directs her complaint to Allāh. And Allāh hears your dialogue; indeed, Allāh is Hearing and Seeing. (58:1)"
+}

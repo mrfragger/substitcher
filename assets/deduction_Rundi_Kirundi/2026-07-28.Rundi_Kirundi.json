@@ -1,0 +1,61 @@
+{
+  "title": "Ikigeragezo c'Ikiremwa Ceranda",
+  "intro": "Ikimenyetso cararungikiwe ihanga ryari ryazimiye. Hagati mu buzima bwabo bwiza, haraje imburi—iherekejwe n’ikiremwa kidasanzwe cari kuba ikigeragezo nyamukuru c’ukwizera kwabo. Inyishu yabo yobaye ikidodo ku bijanye n’iherezo ryabo ibihe bidahera. Woba ushobora guhishura uwatanze iyo ngabisho be n’ivyo vyashikiye abayanse?",
+  "clues": [
+    "Twari abantu bari bayobowe n’intumwa zabanje imbere yacu.",
+    "Ikiremwa giteye igomwe cavuye ku musozi, ikimenyetso kivuye ku Mukama wacu kuri iri hanga.",
+    "Nanje ndababwira nti: «Iyi ni ingamiya y’ingore ya Allah, rero muyireke irye ivy’isi ya Allah, ntimuyikoreko nabi.»",
+    "Ariko abantu baciye ingamiya yanje y’ingore, baciye ku ruhande itegeko ry’Umukama wabo.",
+    "Ndi intumwa gusa ivuye ku Mukama wawe, yarungitswe n’ukuri—ndi umuhanuzi n’umusuku wo kwizigirwa.",
+    "Nayo inkozi z’ikibi, Umukama wacu yarabakubise ijwi ry’inkuba, bacika abatagira aho bava mu ngo zabo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umuhanuzi Hudi wo mu bantu b'i A'adi .",
+        "Umuhanuzi Salih wo mu bantu ba Thamud .",
+        "Umuhanuzi Shu'aib w'i Midiyani",
+        "Umuhanuzi Luti wo mu bantu b’i Sodomu .",
+        "Umuhanuzi Nuh wo mu bwato"
+      ],
+      "answer": "Umuhanuzi Salih wo mu bantu ba Thamud ."
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Umwuzure waroze ihanga ry’abatemera .",
+        "Umutingito wasambuye igisagara c’abanyavyaha .",
+        "Ingamiya y’ingore yarungitswe nk’ikimenyetso n’ikigeragezo vy’Imana",
+        "Igihuhusi cahana Abanyamidiyani .",
+        "Gutikizwa kw'abantu ba Loti n'amabuye ."
+      ],
+      "answer": "Ingamiya y’ingore yarungitswe nk’ikimenyetso n’ikigeragezo vy’Imana"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Igisagara ca Sodomu co mu mwonga wa Yorodani .",
+        "Ikiyaya ca Al-Hijr kiri hagati ya Hijaz na Siriya",
+        "Igihugu ca kera ca A’ad kiri mu bumanuko bwa Arabiya .",
+        "Amashamba y’i Midiyani hafi y’ikiyaga Gitukura .",
+        "Ibiyaya vy'umusozi Yudi muri Mezopotamiya ."
+      ],
+      "answer": "Ikiyaya ca Al-Hijr kiri hagati ya Hijaz na Siriya"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Barakijijwe bamaze kwihana no kwizera .",
+        "Imvura y'amabuye irabatikiza burundu .",
+        "Ijwi ry'inkuba ryarabateye ata co rikora .",
+        "Batwawe n’umuyaga ukaze .",
+        "Umutingito ubamira hasi ."
+      ],
+      "answer": "Ijwi ry'inkuba ryarabateye ata co rikora ."
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

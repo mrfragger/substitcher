@@ -1,0 +1,61 @@
+{
+  "title": "Tete Bon no mu Abo Adwumfo",
+  "intro": "Fa w’adwene bu anibuei bi a ɛsɔree wɔ Arabia bon a abotan wom mu, a na wɔn ho akokwaw wɔ afie a ɛyɛ fɛ a wodi adwini fi mmepɔw so no ho hwɛ. Wɔde ahoɔden ne adwinni dii yiye, nanso ɔsoro kɔkɔbɔ a wɔsɔre tia a ɛyɛ nwini na ɛhyɛ wɔn asɛm no agyirae. Bere a wohwehwɛ wɔn anansesɛm no mu kɔ akyiri no, wubehu nnipa bi a wɔn ahantan na ɛma wɔsɛee wɔn koraa. Ná wɔyɛ henanom?",
+  "clues": [
+    "Yenyaa asase a abotan wɔ so ne abotan atenten, faako a yɛde ahokokwaw a ɛso bi nni kyekyee yɛn atrae.",
+    "Ná wonim yɛn sɛ yedidwene afie a ahobammɔ wom kɔ mmepɔw so, na yɛte nka sɛ yɛwɔ ahobammɔ wɔ ɔhaw biara ho.",
+    "Ɔbɔfoɔ bi firii yɛn mu baa yɛn nkyɛn, kaee yɛn Allah adom na ɔbɔɔ yɛn kɔkɔ wɔ asotweɛ ho.",
+    "Yɛhwehwɛɛ sɛnkyerɛnne, na yoma babea bi a ɔyɛ anwonwade puei fi ɔbotan no mu, sɔhwɛ a ɛda adi pefee a efi Allah hɔ.",
+    "Yɛbuu kɔkɔbɔ no animtiaa na yɛbɔɔ yomabere no asen, dii ɔbɔfo no ho fɛw na yɛkasa tiaa asotwe no.",
+    "Ɔtopae biako pɛ na ɛbɔɔ yɛn wɔ yɛn afie mu, na eduu anɔpa no na yɛda fam, te sɛ nea yɛntra hɔ da."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Nnipa a wɔwɔ Thamud",
+        "Nnipa a wɔwɔ ‘Ad",
+        "Nnipa a wɔwɔ Madyanfo",
+        "Nnipa a wɔwɔ Nuh",
+        "Nnipa a wɔwɔ Lut"
+      ],
+      "answer": "Nnipa a wɔwɔ Thamud"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Hamstrung yoma ɔbea no",
+        "Wobuu Homeda no so",
+        "Ɔsom sika nantwi ba no",
+        "Okum odiyifo a wɔsomaa no kɔɔ wɔn nkyɛn no",
+        "Wosii abantenten bi a ɛbɛkɔ soro"
+      ],
+      "answer": "Hamstrung yoma ɔbea no"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Yoma a ɔyɛ ɔbea no",
+        "Adaka no",
+        "Adwumayɛfo no",
+        "Nsa fitaa no",
+        "Mana ne kwadu"
+      ],
+      "answer": "Yoma a ɔyɛ ɔbea no"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wɔsɛee no denam ɔtopae bi so",
+        "Wɔagye no afi ɔsɛe mu",
+        "Wɔdanee no akraman",
+        "Wɔmenee no wɔ po mu",
+        "Asase amene no"
+      ],
+      "answer": "Wɔsɛee no denam ɔtopae bi so"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

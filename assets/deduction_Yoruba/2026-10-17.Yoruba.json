@@ -1,0 +1,61 @@
+{
+  "title": "Ìfẹ́kúfẹ̀ẹ́ ní Yàrá Mímọ́",
+  "intro": "O wọ inú ibi mímọ́ tí ó dákẹ́ jẹ́ẹ́, o sì rí ìránṣẹ́ Ọlọ́run kan tí ó dúró ní àdúrà. Wọ́n gbé ọwọ́ wọn sókè, ojú wọn gbé sókè, ọkàn wọn sì ní ìfẹ́kúfẹ̀ẹ́ tí ó ti pẹ́ títí. Ta ni ọkàn onísùúrù yìí tí ìgbẹ́kẹ̀lé nínú Allah kò yẹ̀?",
+  "clues": [
+    "Mo lo ọpọlọpọ ọdun ninu ijọsin ati adura, mo n ri awọn iṣẹ iyanu ti o fun igbagbọ mi lagbara.",
+    "Wọ́n fún mi ní ẹrù iṣẹ́ láti tọ́jú ọmọ kékeré kan tí ó ní ìbùkún ní ibi mímọ́.",
+    "Bí mo ṣe ń dàgbà, ìbànújẹ́ mi tó ga jùlọ ni pé mi ò ní ọmọ, nítorí ìyàwó mi yàgàn, àwa méjèèjì sì ti dàgbà.",
+    "Mo gbàdúrà sí Olúwa mi fún àrólé kan láti ìdílé mi, ẹni tí yóò máa tẹ̀síwájú nínú ogún ìjẹ́ wòlíì.",
+    "Nígbà tí mo dúró níbi tí wọ́n ti ń gbàdúrà, àwọn áńgẹ́lì pè mí, wọ́n ní, ‘Ọlọ́run fún ọ ní ìròyìn ayọ̀’, ẹ̀rù àti ìbẹ̀rù sì bà mí.",
+    "Wọ́n sọ fún mi pé màá bí ọmọkùnrin kan tí orúkọ rẹ̀ ń jẹ́ Yahya, orúkọ tí wọn kò tíì fún ẹnikẹ́ni rí, àti pé gẹ́gẹ́ bí àmì, mi ò ní bá àwọn ènìyàn sọ̀rọ̀ fún ọjọ́ mẹ́ta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Zakariyya",
+        "Wòlíì Yahya",
+        "Wòlíì Ísà",
+        "Wòlíì Dáfídì",
+        "Luqman Ọlọ́gbọ́n"
+      ],
+      "answer": "Wòlíì Zakariyya"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Àgàn àti ọjọ́ ogbó nígbà tí a ń fẹ́ ajogún olódodo",
+        "Jíjẹ́ tí a jù sínú iná tí ń jó",
+        "Jíjẹ́ tí ẹja ńlá gbé mì",
+        "Pípàdánù ìjọba kan fún apànìyàn kan",
+        "Jíjẹ́ ìgbèkùn láti ìlú ìbílẹ̀ ẹni"
+      ],
+      "answer": "Àgàn àti ọjọ́ ogbó nígbà tí a ń fẹ́ ajogún olódodo"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ibi àdúrà (mihrab)",
+        "Ọkọ̀ ojú omi ńlá náà (Àpótí)",
+        "Igbó tí ń jó náà",
+        "Ọ̀pá tí ó di ejò",
+        "Rakunmi Allah"
+      ],
+      "answer": "Ibi àdúrà (mihrab)"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ó fún ọmọ olódodo ní ọmọ náà, ó sì tún sọ̀rọ̀ lẹ́yìn ọjọ́ mẹ́ta tí ó ti dákẹ́ jẹ́ẹ́",
+        "Ìkún omi pa á run nítorí àìgbàgbọ́",
+        "A fun ni ijọba nla ati iṣakoso lori afẹfẹ",
+        "A gbà á kúrò nínú ikùn ẹja",
+        "Ilẹ̀ gbé mì"
+      ],
+      "answer": "Ó fún ọmọ olódodo ní ọmọ náà, ó sì tún sọ̀rọ̀ lẹ́yìn ọjọ́ mẹ́ta tí ó ti dákẹ́ jẹ́ẹ́"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ekitundu Ekyasomooza Olunaku Lw'okuwummula",
+  "intro": "Dda mu kifo ekisenga ku lubalama lw’ennyanja ng’ekiragiro kya Katonda kyateekebwawo olunaku lumu olw’okusinza n’okuziyiza. Ekibinja ekimu mu kitundu kino kyasalawo okugezesa ensalo z’ekiragiro ekyo n’enteekateeka ey’obukuusa, ekyaviirako enkyukakyuka eyandizzeemu okuyita mu mirembe. Emyoyo gino gyali baani, era kiki ekyabatuukako?",
+  "clues": [
+    "Twabeeranga kumpi n’olubalama lw’ennyanja, ennyanja gye yatufunira eby’okweyimirizaawo.",
+    "Twalagirwa okussa ekitiibwa mu lunaku olumu mu wiiki, nga tuliteeka ku bbali okuva ku bintu eby’ensi.",
+    "Ku lunaku olwo, ebyennyanja byajja gye tuli mu bungi, nga bilinga ebitukema okumenya ekiragiro.",
+    "Twayiiya enteekateeka y’okutega ebyennyanja ku lunaku olutukuvu nga lunaatera okutuuka, olwo ne tubikung’aanya nga bimaze okuyitawo.",
+    "Abamu ku ffe bwe baalabula ku bulimba buno, twasimbira ekkuuli okubuulirira kwabwe ne tugumiikiriza.",
+    "Olw’okusobya kwaffe, twakyusibwa ne tufuuka enkima, ne tunyoomebwa era ne tugaanibwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Abantu ba Ssabbiiti",
+        "Abantu b'omu mwala",
+        "Abantu b’Ekibira",
+        "Abantu b’Olusuku",
+        "Abantu ba Njovu"
+      ],
+      "answer": "Abantu ba Ssabbiiti"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okuvuba ku Ssabbiiti",
+        "Okuzimba omunaala ogw’ekika ekya waggulu",
+        "Okutta engamiya enkazi entukuvu",
+        "Okwegaana nnabbi eyabatumibwa",
+        "Okusobya mu buzito bw’ebyobusuubuzi"
+      ],
+      "answer": "Okuvuba ku Ssabbiiti"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Ennyanja n’ebyennyanja byayo",
+        "Omuliro ogwafuulibwa ennyogovu",
+        "Omuggo ogwafuuka omusota",
+        "Essanduuko y’obulokozi",
+        "Ebipande eby’amayinja"
+      ],
+      "answer": "Ennyanja n’ebyennyanja byayo"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yakyusibwa n’efuuka enkima",
+        "Okumira ensi",
+        "Yasaanawo olw’empewo ey’amaanyi",
+        "Yabbira mu nnyanja",
+        "Yakubiddwa enkuba y’amayinja"
+      ],
+      "answer": "Yakyusibwa n’efuuka enkima"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

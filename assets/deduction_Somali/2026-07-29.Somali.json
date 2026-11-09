@@ -1,0 +1,61 @@
+{
+  "title": "Raadinta Maxkamadda",
+  "intro": "Waddooyinka awoodda, qof darajo sare leh ayaa ku qancay addoon quruxdiisu ay ahayd mid aan adduunyo ahayn. Jacaylkan wuxuu horseeday dhacdooyin taxane ah oo tijaabin doona daacadnimada, soo bandhigi doona runta qarsoon, ugu dambayntiina xaqiijin doona daahirnimada addoonka.",
+  "clues": [
+    "Waxaan ku noolaa dhulka Niil, qasri saameyn weyn leh.",
+    "Nin dhallinyaro ah ayaa gurigayga soo galay, joogitaankiisuna wuxuu khalkhal geliyay adduunkaygii.",
+    "Waan isku dayay inaan sasabo, laakiin wuxuu magan galay Rabbigiis.",
+    "Dharkiisii ​​ayaan ka jeexjeexay gadaashiisa, laakiin caddayntu waxay tilmaamaysay khiyaanadaydii.",
+    "Si aan u aamusiyo xanta dumarka sharafta leh, waxaan ku casuumay kulan waxaana gacmahooda ku riday walxo fiiqan.",
+    "Ugu dambeyntii, si cad ayaan u qirtay qaladkayga, anigoo runta ka hor qiray boqorka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Xaaska Al-Casiis",
+        "Aasiya (Xaaskii Fircoon)",
+        "Bilqis (Boqoradda Sheba)",
+        "Maryam (Hooyadii Ciise)",
+        "Hooyadii Muuse"
+      ],
+      "answer": "Xaaska Al-Casiis"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Waxay isku dayday inay sasabto Nabi Yuusuf",
+        "Waxay isku dayday inay disho Nabi Muuse",
+        "Waxay sheegtay inay tahay ilaahad",
+        "Waxay dhistay munaarad si ay Alle ugu babac dhigto",
+        "Waxay hoggaaminaysay ciidan ka soo horjeeda Makka"
+      ],
+      "answer": "Waxay isku dayday inay sasabto Nabi Yuusuf"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Shaadh laga jeexay dhabarka",
+        "Wur dahab ah",
+        "Ul abeeso noqotay",
+        "Hashii",
+        "Laambad"
+      ],
+      "answer": "Shaadh laga jeexay dhabarka"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Way qiratay oo qiratay runta",
+        "Waxaa la qarqiyay ciidankeedii iyadoo la socota",
+        "Waxay isu beddeshay tiir cusbo ah",
+        "Dhulku wuu liqay iyada",
+        "Waxaa burburisay dabaylo qaylo leh"
+      ],
+      "answer": "Way qiratay oo qiratay runta"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

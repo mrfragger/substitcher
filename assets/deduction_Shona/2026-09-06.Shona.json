@@ -1,0 +1,61 @@
+{
+  "title": "Kuraswa kweMhuru Yegoridhe",
+  "intro": "Munhu anotaurwa muKorani akatungamira vanhu vazhinji mukutsauka panguva yekushaikwa kwemuporofita ane chiremera. Chimwe chinhu chakagadzirwa negoridhe chakabata mwoyo yerudzi rwese - asi nyaya yemunhu uyu inoguma nekusurukirwa uye kutukwa kusinganzwisisike. Ndiani angava mudzingwa uyu?",
+  "clues": [
+    "Ndakabuda panguva iyo muporofita mukuru akanga asipo uyo akanga akwira kudenga kuti awane nhungamiro yaMwari.",
+    "Ndakakonzera kuti vanhu vazhinji vatsauke nechimwe chinhu chandakaita nemaoko angu.",
+    "Chisikwa chegoridhe chandakaita chaiita sechine hupenyu, chichiburitsa manzwi aishamisa avo vaichitevera.",
+    "Ndakati ndakaona zvisingaonekwe nevamwe — kuona zvisingaonekwe.",
+    "Ndakatora chimwe chinhu kubva pamakwara emutumwa waMwari ndikachikanda musimbi yakanyungudutswa.",
+    "Ndakatongerwa kufamba-famba ndega, ndichitukwa kuti hapana aigona kubata ganda rangu kana kuti ini ndikabata ravo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Samiri",
+        "Hamani",
+        "Farao (Firauni)",
+        "Abu Lahab",
+        "Muprofita Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Akagadzira mhuru yegoridhe yekunamata",
+        "Vakavaka shongwe inosvika kudenga",
+        "Akadenha varoyi veIjipita",
+        "Vakatungamira hondo ine mhuka dzinobhururuka",
+        "Kupatsanura mwedzi sehumbowo hwehuporofita"
+      ],
+      "answer": "Akagadzira mhuru yegoridhe yekunamata"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Mhuru yegoridhe",
+        "Tsvimbo yakashanduka kuita nyoka",
+        "Gwenzi rinopfuta pagomo",
+        "Areka yakazorora pamusoro pegomo",
+        "Mugero wakazadzwa nemoto unopfuta"
+      ],
+      "answer": "Mhuru yegoridhe"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kudzingwa, kurambidzwa kubatwa kana kubata vamwe",
+        "Akanyura mugungwa pamwe chete neuto",
+        "Akapiswa ari mupenyu nekuda kwekuramba kutenda",
+        "Kurohwa nemhepo ine simba, inovhuvhuta",
+        "Kuregererwa uye kukwidziridzwa panzvimbo yepamusoro"
+      ],
+      "answer": "Kudzingwa, kurambidzwa kubatwa kana kubata vamwe"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ukwemera kuri inyuma y'intebe y'ubwami",
+  "intro": "Ubugingo bumwe bumwe ntibugeragezwa n’umuriro canke umwuzure, ahubwo bugeragezwa n’umukazo wo kuba mu ngoro y’umunyagitugu. Uwo mubare wari uhagaze iruhande y’umutware yivugira ko ari we afise ubumana ku bantu biwe, yamara akaguma yifatanya n’ukwizera Imana imwe y’Ukuri mu mpisho. Igihe ukwihebera kwabo kwavumburwa, imibabaro yaraje — ariko n’isezerano ry’Imana ryaraje. Woba ushobora gukeka uwo ari nde?",
+  "clues": [
+    "Naba munsi y’igisenge c’umutware akomeye kuruta abandi bose bo mu gihugu canje, mu kibanza bakeyi boshobora kwiyumvira.",
+    "Uwo twubakanye yahagaze imbere y’abantu, yivugira ko ari imana — ariko umutima wanje wari uw’Umukama umwe w’Ukuri.",
+    "Narasenga amasengesho mu mpisho, ntinya igihano cari ku bantu bose batera umugere uwo twubakanye.",
+    "Igihe ukwizera kwanje kwashirwa ahabona, narafashwe ndababazwa — yamara ururimi rwanje ntirwigeze ruvuga ijambo ry’ukutemera.",
+    "Naraserukiye Umukama wanje akari ku mutima, nsaba inzu mw’Iparadizo, kure y’ibibi vyose.",
+    "Ndi Asiya bint Muzahim — umugore wa Farawoni yarwanya Musa na Haruni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Asiya bint Muzahim (Umugore wa Farawoni)",
+        "Hawwa (Eva), umugore wa mbere",
+        "Sara, umugore wa mbere wa Iburahimu .",
+        "Hagari, nyina wa Isimayili",
+        "Nyina wa Mariyamu (umugore wa Imran)"
+      ],
+      "answer": "Asiya bint Muzahim (Umugore wa Farawoni)"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Kwihanganira kubabazwa kubera kwanka kwihakana ukwizera .",
+        "Kurokoka mu nda y'ifi nini .",
+        "Kubaka ubwato bunini cane kugira ngo bashobore guhunga umwuzure",
+        "Kujugunywa mu muriro ururumba",
+        "Kwibonera ukuntu ikiyaga kinini gica ibice ."
+      ],
+      "answer": "Kwihanganira kubabazwa kubera kwanka kwihakana ukwizera ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Inzu bababakiye mw'Iparadizo .",
+        "Inkoni yahindutse inzoka",
+        "Ubwato butwara ikiremwa cose bibiri bibiri",
+        "Inyana y’inzahabu yasengwa n’ihanga .",
+        "Umuheto wakoreshwa mu gutsinda umusirikare w'igihangange"
+      ],
+      "answer": "Inzu bababakiye mw'Iparadizo ."
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Baterwa iteka ryo kuba mw’Iparadizo iruhande y’abagororotsi .",
+        "Bararohamye munsi y'imipfunda hamwe n'ingabo zabo .",
+        "Yaturiwe n'umuriro ariko arakizwa n'Imana",
+        "Yamizwe n'ikiremwa kinini hanyuma akajugunywa ku nkombe",
+        "Yabaye umuntu atunze kuruta abandi bose bo mu gihe cabo ."
+      ],
+      "answer": "Baterwa iteka ryo kuba mw’Iparadizo iruhande y’abagororotsi ."
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

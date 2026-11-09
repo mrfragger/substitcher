@@ -1,0 +1,61 @@
+{
+  "title": "Ekisuubizo Ekyayogerwa Ku Embers",
+  "intro": "Oyimiridde ku mabbali g’omuliro ogw’eddungu ng’ebiwujjo byagwo bisaasaanyiziddwa n’obwegendereza. Abagenyi batuuka okusisinkana mu busirise, era obubaka bumu buggulawo emboozi y’okusuubiza, okwewuunya, n’ebiseera eby’omu maaso ebitannaba kutuukirira.",
+  "clues": [
+    "Twasala ebanga okutuuka ku muweereza omwesigwa eyali mu ddungu.",
+    "Twasaba omuliro gusaasaanyizibwe okuteekateeka omuliro.",
+    "Twayogedde n’omu eyali ayise ennimi z’omuliro olw’obunnyogovu n’obukuumi.",
+    "Twaleeta amawulire g’omwana omuwere eri omuntu eyali ayise emyaka gy’okuzaala.",
+    "Omwana gwe twasuubiza twamutuuma Isaaka.",
+    "Twaleeta amawulire ag’essanyu ag’omwana ow’obulenzi eri Ibrahim, era amawulire ag’ekyewuunyo gaaleka Ibrahim ng’aseka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Bamalayika Abaaleeta Amawulire Amalungi aga Isaaka eri Ibrahim",
+        "Bamalayika Abaalabula Lut",
+        "Bamalayika Abali ku Nnamulondo",
+        "Bamalayika ba Geyeena",
+        "Bamalayika Baasindikibwa eri Nuuwa"
+      ],
+      "answer": "Bamalayika Abaaleeta Amawulire Amalungi aga Isaaka eri Ibrahim"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okuleeta amawulire ag'essanyu ag'okuzaalibwa kwa Isaaka eri Ibrahim",
+        "Okulabula Lut nga tannabonerezebwa bantu be",
+        "Okulangirira amazaalibwa ga Yahya eri Zakariyya",
+        "Okusitula Nnamulondo ku lunaku lw’enkomerero",
+        "Okulangirira okuzaalibwa kwa Isa eri Maryam"
+      ],
+      "answer": "Okuleeta amawulire ag'essanyu ag'okuzaalibwa kwa Isaaka eri Ibrahim"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Omuliro ogwategekebwa okuva mu bbugumu eryasaasaana",
+        "Eryato eritengejja ku mazzi agakulukuta",
+        "Empuku essiddwako akabonero n’ejjinja eriyiringisibwa",
+        "Olusozi lw’ebbumba olukalubye olw’omubisi gw’enjuki",
+        "Amadaala agawanvuwa okutuuka mu bbanga"
+      ],
+      "answer": "Omuliro ogwategekebwa okuva mu bbugumu eryasaasaana"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Amawulire amalungi ag’omwana ayitibwa Isaaka",
+        "Amawulire amalungi ag'omwana ayitibwa Yahya",
+        "Okulondebwa kwa Taluti ng’omufuzi w’Abaana ba Isirayiri",
+        "Okulabula nga tebannaba kubonereza bantu ba Lut",
+        "Ekiragiro eky’okuzimba eryato ng’Amataba tegannabaawo"
+      ],
+      "answer": "Amawulire amalungi ag’omwana ayitibwa Isaaka"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

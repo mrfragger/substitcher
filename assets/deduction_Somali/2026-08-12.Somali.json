@@ -1,0 +1,61 @@
+{
+  "title": "Ergadii Naxariista iyo Awoodda",
+  "intro": "Bal qiyaas galab deggan oo ay carqaladeeyeen imaatinka dad aan aqoon. Muuqaalkoodu waa mid caadi ah, laakiin ujeeddadoodu waa wax aan ahayn. Waxay wataan farriin rabbaani ah oo beddeli doonta waddada laba waddan, taasoo qosol u keeni doonta guri cidla ah iyo cabsi magaalo dembi leh. Waa kuma booqdayaashan qarsoodiga ah?",
+  "clues": [
+    "Waxaa naloo diray addoon Alle oo daacad ah, oo loo yaqaan soo dhawayntooda aan xadka lahayn.",
+    "Waxaan nimid annagoo iska dhigayna dad aan la garanayn, haddana martigeliyahayagu wuxuu dareemay wax aan caadi ahayn oo ku saabsan joogitaankeenna.",
+    "Waxaan keenay war ka qosliyay haweeney da' ah oo aan rumaysanayn, iyadoo wejigeeda ku dhufatay iyadoo yaaban.",
+    "Waxaa naloo xilsaaray ilaalinta qoyska wanaagsan iyadoo aan burburin ku daadinayno magaalo musuqmaasuq badan uu ka jiro.",
+    "Waan diidnay inaan ka qayb qaadanno cuntada naloo soo bandhigay, taasoo sii xoojisay shakiga martidayada.",
+    "Waxaan muujinnay dabeecaddeenna dhabta ah ka hor intaanan bixin, annagoo leh, 'Runtii, waxaan nahay rasuulladii Rabbigaa'."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Yaan nahay?",
+      "options": [
+        "Martidii Ibraahim",
+        "Xertii Ciise",
+        "Asxaabta Godka",
+        "Ciidanka Abraha",
+        "Rasuulladii Ya-Sin"
+      ],
+      "answer": "Martidii Ibraahim"
+    },
+    "trial": {
+      "label": "Hadafkeena",
+      "options": [
+        "Si loo tijaabiyo iimaanka Ibraahim ee ku saabsan wiilkiisa",
+        "Si uu Qorniinka ugu geeyo Ibraahim",
+        "In lagu dhawaaqo dhalashada Isxaaq iyo burburka dadkii Luud.",
+        "Si uu Ibraahim ugu hago Kacbada",
+        "Si uu Ibraahim uga badbaadiyo dabka"
+      ],
+      "answer": "In lagu dhawaaqo dhalashada Isxaaq iyo burburka dadkii Luud."
+    },
+    "location": {
+      "label": "Goobta Muuqaalka",
+      "options": [
+        "Dalka Masar",
+        "Magaalada Ur",
+        "Guriga Ibraahim",
+        "Beerta Ceeden",
+        "Ceelka Zamzam"
+      ],
+      "answer": "Guriga Ibraahim"
+    },
+    "outcome": {
+      "label": "Natiijada",
+      "options": [
+        "Ibraahim wuxuu noqday boqor",
+        "Ibraahim wuxuu dhisay Kacbada",
+        "Saarah waxay dhashay Isxaaq, dadkii Luudna way baaba'een",
+        "Ibraahim wuxuu u haajiray Falastiin",
+        "Dadkii Ibraahim waxaa laga badbaadiyay daad weyn"
+      ],
+      "answer": "Saarah waxay dhashay Isxaaq, dadkii Luudna way baaba'een"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

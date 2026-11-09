@@ -1,0 +1,61 @@
+{
+  "title": "Ukuri kwacecekeje Urukiko .",
+  "intro": "Mu kirimba aho ukwihakana kwari kuganza kandi ububasha bwari ubw’agahebuzo, ikoraniro ry’abahinga mu vy’ubuhinga ryari rihagaze imbere y’ingorane itari yitezwe. Ikirere carasadutse kubera kwitega igihe inzira zibiri z’ikinyoma n’ukuri zari zigiye guhura. Abari bakoraniye ntibari bazi yuko iyo nkuru yohinduye ubuzima bwabo ibihe bidahera, inkuru yabo ikayishira mu canditswe ceranda.",
+  "clues": [
+    "Twari tuzwi cane kubera ubuhinga bwacu bwo kwihenda kandi twakoranijwe n’umutware w’inkomezi kugira ngo tuhangane n’umuntu yariko araturwanya.",
+    "Igihe kigeze, twaratera ibicurarangisho vyacu maze turindira ico bizovamwo, twizigiye ubuhinga bwacu.",
+    "Ariko ivyo twabonye vyatumye ibikoresho vyacu bwite bisa n’ibikinisho gusa, kandi imitima yacu yaramenye ukuri kudashobora guhakanwa.",
+    "Twaraguye hasi dupfukamye, tumenyesha ukwemera kwacu Umukama wa Musa na Aroni, naho umutware yari afise uburake.",
+    "Uwo mutware yaraduteye ubwoba ko azoduha igihano c’ubukazi kuruta ibindi vyose, arahira ko azodubamba no kuduca amaguru n’amaboko mu nzira zitandukanye.",
+    "Twaragumye dushikamye, tuvuga ko duhitamwo urubanza rw’Umukama wacu kuruta ingaruka iyo ari yo yose yo mw’isi, maze twicwa kubera ukwizera kwacu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Abapfumu ba Farawoni",
+        "Abantu bo mu mwobo",
+        "Abagenzi b'Igiti .",
+        "Abigishwa ba Yesaya .",
+        "Abantu b'inzovu"
+      ],
+      "answer": "Abapfumu ba Farawoni"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Amarushanwa y'ubupfumu na Musa .",
+        "Umuriro ubatereweko .",
+        "Umwuzure wabaroze .",
+        "Amapfa n'inzara",
+        "Umutingito"
+      ],
+      "answer": "Amarushanwa y'ubupfumu na Musa ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Inkoni n’imigozi vyahindutse inzoka .",
+        "Igisaka kigurumana",
+        "Ingamiya y'ingore",
+        "Ubwato bw'ibiti",
+        "Igikoko c'ikiyaga"
+      ],
+      "answer": "Inkoni n’imigozi vyahindutse inzoka ."
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Yicwa kubera ukwizera, Iparadizo yasezeranywe",
+        "Yarohamye mu kiyaga .",
+        "Yabaye abatware ba Misiri .",
+        "Bagumye ari abayoboke ba Farawoni .",
+        "Yarazwe igihugu ."
+      ],
+      "answer": "Yicwa kubera ukwizera, Iparadizo yasezeranywe"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

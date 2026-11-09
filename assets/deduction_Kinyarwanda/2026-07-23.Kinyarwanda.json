@@ -1,0 +1,61 @@
+{
+  "title": "Ingabo zahuye n'ibumba riguruka",
+  "intro": "Mu gihe cya mbere y'Intumwa Muhamadi, umutegetsi ukomeye wo muri Yemeni yatangiye igitero cya gisirikare cyari kigamije gusenya ahantu hatagatifu hatagatifu i Makka. Uyu mwanzi yayoboye ingabo nini zirimo inzovu z'intambara, yizeye imbaraga zazo n'umubare wazo. Ariko, urugendo rwabo rwarangiraga mu buryo butunguranye ubwo bahuraga n'ubutabazi bw'Imana butunguranye. Ese ushobora kumenya abahuye n'iki kibazo gitangaje?",
+  "clues": [
+    "Twagiye hamwe n'ingabo nini n'inzovu zikomeye z'intambara tujya mu nzu ndende",
+    "Twari dufite umugambi wo gusenya no gutsemba ahantu ho gusengera hubatswe n'abagaragu ba Nyir'impuhwe",
+    "Umukumbi w'inyoni nto woherejwe kutwigarurira, zitwaye amabuye y'ibumba mu kanwa no mu nzara zazo",
+    "Twahuye n'urusaku rwaduteraga amabuye, ruduhindura ibisigazwa by'inkongi",
+    "Nakomokaga mu gihugu cya Yemeni kandi nakoreraga munsi y'umutegetsi washakaga kubona ahantu hatagatifu",
+    "Twagizwe urugero rw'abatinyuka kwambura ubuturo bwera bwa Allah"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Ingabo za Abraha al-Ashram",
+        "Ingabo za Etiyopiya",
+        "Abaperesi bigaruriye igihugu cyabo",
+        "Ingabo z'Abaroma",
+        "Abarwanyi b'Ababedouin"
+      ],
+      "answer": "Ingabo za Abraha al-Ashram"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Kugota igihome cy'ubutayu",
+        "Igitero cy'ahantu hatagatifu hatagatifu i Makka",
+        "Intambara yo mu mazi mu nyanja",
+        "Kwigomeka ku mwami w'umunyagitugu",
+        "Gushakisha umuhanuzi wazimiye"
+      ],
+      "answer": "Igitero cy'ahantu hatagatifu hatagatifu i Makka"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Ikibaya cya Mina hafi ya Makka",
+        "Ingoro ya Sana'a muri Yemeni",
+        "Imisozi ya Tihamah",
+        "Umujyi wa kera wa Yerusalemu",
+        "Inkombe z'Inyanja Itukura"
+      ],
+      "answer": "Ikibaya cya Mina hafi ya Makka"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Intsinzi n'isenywa ry'inzu ndende",
+        "Gutsindwa n'inyoni zitwaye amabuye y'ibumba",
+        "Kwiyegurira no guhinduka mu mahoro",
+        "Inzara n'ibiza by'umwimerere",
+        "Isubira inyuma kubera imvura nyinshi"
+      ],
+      "answer": "Gutsindwa n'inyoni zitwaye amabuye y'ibumba"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

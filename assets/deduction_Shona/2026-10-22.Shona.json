@@ -1,0 +1,61 @@
+{
+  "title": "Nharaunda yeChivi Chekutanga",
+  "intro": "Munyika yemaguta ekare, vanhu vaimbobudirira. Vaishanyirwa nemutumwa ane chikumbiro chakajeka, asi vakatendeuka ndokutevera nzira isina kumbobvira yafamba nemunhu. Nyaya yavo ndeyekusateerera, kuipa, uye chirango chakasiya nyika yavo sechiratidzo kune vese vanofungisisa. Mweya iyi ndivanaani?",
+  "clues": [
+    "Taigara mumaguta ebani, uko muporofita wedu akatidana kuti tive vakarurama.",
+    "Isu takanga tiri vekutanga kuita chinhu chisina kunaka chakamboitwa nemunhu pasi rose.",
+    "Tairamba vafambi uye takaita zvakaipa pachena pamisangano yedu.",
+    "Takaramba nhume yatakatumwa nayo uye takatyisidzira kuidzinga munyika yedu.",
+    "Takamhanyira kumba kwake tichimukumbira kuti atipe vaenzi vake.",
+    "Chirango chedu chaive mvura yematombo, uye guta redu rakaparadzwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tiri vanaani?",
+      "options": [
+        "Vanhu veLut",
+        "Vanhu veNuh",
+        "Vanhu ve'Ad",
+        "Vanhu veThamud",
+        "Vanhu vekuMadyan"
+      ],
+      "answer": "Vanhu veLut"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Akaita chiito chekutanga chesodomy",
+        "Zvifananidzo zvainamatwa",
+        "Kunyengerwa mukutengeserana",
+        "Vakauraya muporofita wavo",
+        "Havana kuteerera vabereki vavo"
+      ],
+      "answer": "Akaita chiito chekutanga chesodomy"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Guta rebani",
+        "Guta retsime",
+        "Guta regomba",
+        "Guta renzou",
+        "Guta rebindu"
+      ],
+      "answer": "Guta rebani"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Yakanaya nematombo ndokupidigurwa",
+        "Kunyudzwa nemvura",
+        "Yakaparadzwa nemhepo ine simba",
+        "Yakamedzwa nenyika",
+        "Kurohwa nekuputika kukuru"
+      ],
+      "answer": "Yakanaya nematombo ndokupidigurwa"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

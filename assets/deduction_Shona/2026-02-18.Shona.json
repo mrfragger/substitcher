@@ -1,0 +1,61 @@
+{
+  "title": "Chapupu Chakasimba",
+  "intro": "Nyaya yakadzama inobuda pachena, ichiratidza kutsunga kusingazununguki kwenharaunda mukutarisana nehudzvinyiriri hukuru. Nyaya yavo inoshanda seuchapupu hwekutenda, kunyangwe kana vakatarisana nechibayiro chikuru. Nyaya iyi inotiyeuchidza nezvesimba rekutenda pakurwisa kudzvinyirirwa kukuru.",
+  "clues": [
+    "Taiva boka rine nyaya yaro inorondedzerwa musurah pfupi, ine simba, ichinyevera nezvekutambudzwa.",
+    "Takatarisana nemutongi aida kubvisa kutenda kwedu muna Mwari Mumwe chete, Ishe weChigaro, Anofanira Kurumbidzwa.",
+    "Takaedzwa zvikuru negomba guru rakacherwa muvhu.",
+    "Takatarisa vatendi, kusanganisira vacheche, vachikandwa mumoto unotyisa mukati megomba iroro.",
+    "Vatambudzi vedu vakatukwa nekuda kwezviito zvavo, ukuwo isu takavimbiswa mubairo mukuru nekuda kwekutsungirira kwedu.",
+    "Kuedza kwemutongi kudzima kutenda kwedu kwakasimbisa nzvimbo yedu sevaya vakafa pamberi paAllah, uyo ari chapupu chezvinhu zvose."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Vanhu veThamud",
+        "Vanhu ve'Ad",
+        "Vanhu veMatongo",
+        "Vanhu veLut",
+        "Vanhu veNzou"
+      ],
+      "answer": "Vanhu veMatongo"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Mafashamo Makuru",
+        "Gwenzi Rinopfuta",
+        "Kunyura Mugungwa",
+        "Gomba reMoto",
+        "Kudengenyeka Kwenyika"
+      ],
+      "answer": "Gomba reMoto"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Areka",
+        "Vashandi",
+        "Dongo",
+        "Gomo",
+        "Tsime"
+      ],
+      "answer": "Dongo"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Vakapihwa umambo",
+        "Vakaponeswa nechishamiso",
+        "Akawana kufira kutenda uye Paradhiso",
+        "Dzakapararira munyika dzakasiyana-siyana",
+        "Vakapihwa pfuma yakawanda"
+      ],
+      "answer": "Akawana kufira kutenda uye Paradhiso"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

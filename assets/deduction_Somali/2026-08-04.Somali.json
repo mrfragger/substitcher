@@ -1,0 +1,61 @@
+{
+  "title": "Echo-ga iyada oo loo marayo Cliffs-ka",
+  "intro": "Bal qiyaas dooxo ay guryo laga qodo dhagaxyada, cirkana uu xasuusto digniin aan la dhegaysan. Dad baa halkan ku barbaaray, barako haddana caasi ah, ilaa calaamad ka soo baxday dhagaxii ay ku kalsoonaayeen.",
+  "clues": [
+    "Waxaan ahayn dad guryo ammaan ah ka soo xareeyay buuraha, annagoo ammaan ku dareemayna guryaheenna dhagaxa ah.",
+    "Waxaan ku noolayn dhul bannaan iyo dhagax ah, oo ay ku barakoobeen beero iyo ilo.",
+    "Waxaa na soo gaaray rasuul naga mid ah, oo noogu yeeraya inaan ka tagno ilaahyadeenna beenta ah oo aan caabudno hal abuure oo run ah.",
+    "Waxaan si kibir leh u dejinay shuruud aan ku rumaysanno: calaamad gaar ah oo ka soo bixi doonta dhagaxyada aan qornay.",
+    "Markii hashii la ballanqaaday ay ka soo muuqatay dhagaxa, calaamad cad, dadkii sharafta lahaa wali way diideen oo way gowraceen inkastoo digniin laga bixiyay halaag soo socda.",
+    "Saddex maalmood ka dib falkii aanu samaynay, qarax xooggan ayaa ka soo yeedhay dooxada dhexdeeda, waxaana naloo rogay burbur burburay, guryaheennana qabuuraheenna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Yaan nahay?",
+      "options": [
+        "Dadka ¿Ad",
+        "Reer Thamuud",
+        "Dadka reer Madyan",
+        "Dadka Beerta",
+        "Dadka Godka ku nool"
+      ],
+      "answer": "Reer Thamuud"
+    },
+    "trial": {
+      "label": "Tijaabadayada/Dhacdadeena ugu Weyn",
+      "options": [
+        "Jilibka geela Alle",
+        "Caabudidda weysha dahabka ah",
+        "Jebinta Sabtida",
+        "Dhismaha munaarad cirka u socota",
+        "Dilkii nebiyada"
+      ],
+      "answer": "Jilibka geela Alle"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah ee Sheekadeena",
+      "options": [
+        "Hashii Alle",
+        "Shaqaalaha Muuse",
+        "Doontii Nuux",
+        "Gacanta cad ee Muuse",
+        "Shimbirta ¿Ciise"
+      ],
+      "answer": "Hashii Alle"
+    },
+    "outcome": {
+      "label": "Natiijooyinkeena",
+      "options": [
+        "Burbur ka dhashay qarax dhego-beel ah",
+        "Roob dhagaxyo ah oo cirka ka soo da'ay",
+        "Daad dhulka qariyey",
+        "Dabaylo xooggan oo na rujisay",
+        "Dhulku wuu ina liqaa"
+      ],
+      "answer": "Burbur ka dhashay qarax dhego-beel ah"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

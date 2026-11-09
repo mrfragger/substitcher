@@ -1,0 +1,61 @@
+{
+  "title": "Ọ̀tá Oníná",
+  "intro": "Ní àwọn ọjọ́ ìṣáájú ìfihàn, ẹni kan farahàn gẹ́gẹ́ bí alátakò òtítọ́. A fi ọrọ̀ àti ipò bùkún ọkàn yìí, ó yan ìgbéraga ju ìtọ́sọ́nà lọ, ìtàn wọn sì di ìkìlọ̀ tó lágbára ní àwọn ẹsẹ ìkẹyìn nínú surah kan.",
+  "clues": [
+    "Mo n gbe ni ilu kan naa pelu Anabi naa, mo si wa lara awon ibatan ti o sunmo e ju, sibe igberaga mi da mi si otito.",
+    "Mo ní ọrọ̀ púpọ̀ àti ọ̀pọ̀lọpọ̀ dúkìá, mo sì rò pé àwọn ohun ìní mi yóò máa dáàbò bò mí nígbà gbogbo.",
+    "Nígbà tí wọ́n fi ìhìn náà hàn, mo fi í ṣe ẹlẹ́yà ní gbangba, mo sì yípadà, mo sì kà ara mi sí ẹni tí ó ga ju àwọn onígbàgbọ́ lọ.",
+    "Ìkórìíra mi burú débi pé sura kan nínú Al-Quran bá mi sọ̀rọ̀ tààrà, ó ń pè mí ní orúkọ tí àwọn ẹlòmíràn mọ̀ mí.",
+    "Wọ́n kìlọ̀ fún mi pé ọrọ̀ mi àti èrè mi kò ní ṣe mí láǹfààní, wọ́n á sì jù mí sínú iná tó ń jó.",
+    "Wọ́n mọ̀ mí sí baba iná, ìyàwó mi yóò sì fi okùn ọ̀pẹ gbé igi iná náà sí ọrùn rẹ̀."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Kọ̀ ẹ̀sìn Islam, ó sì tako Wòlíì ní gbangba.",
+        "Wọ́n gbèrò láti pa Wòlíì náà",
+        "A ṣe àkóso ìkórìíra àwùjọ sí àwọn Mùsùlùmí",
+        "Wọ́n jà ní ogun Badr",
+        "Bilal ibn Rabah tí wọ́n fi ìyà jẹ"
+      ],
+      "answer": "Kọ̀ ẹ̀sìn Islam, ó sì tako Wòlíì ní gbangba."
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Okùn okùn ọ̀pẹ",
+        "Idà mímú",
+        "Ẹ̀wọ̀n tó wúwo",
+        "Ọpá igi kan",
+        "Okùn aláwọ̀ kan"
+      ],
+      "answer": "Okùn okùn ọ̀pẹ"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Yóò jó nínú iná tí ń jó",
+        "Ó ronúpìwàdà, ó sì di alábàákẹ́gbẹ́ rẹ̀",
+        "Ó pàdánù ọrọ̀ rẹ̀ ṣùgbọ́n ó kú ọlá",
+        "Sá lọ sí Abyssinia",
+        "Mo rì sínú omi"
+      ],
+      "answer": "Yóò jó nínú iná tí ń jó"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

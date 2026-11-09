@@ -1,0 +1,61 @@
+{
+  "title": "Runta Dadka Makkah Jooga",
+  "intro": "Maalmihii hore ee muujinta, markii farriinta runta ay la kulantay mucaaradad xooggan, nafo gaar ah ayaa ku taagnaa kalsoonidooda aan kala go 'lahayn. Mu'miniintan waxay la kulmeen naxariis darro aan la qiyaasi karin oo ka timid kuwa doonayay inay damiyaan iftiinka iimaanka. Cadaabkoodu wuxuu ahaa mid daran, dhibaatadooduna aad bay u badnayd - haddana carrabkoodu waligiis ma joojin inuu ku dhawaaqo Midnimada Eebe. Xitaa markii lagu tuuray quusta qoto dheer, ilaalinta rabbaaniga ah ayaa hareeraysay, iyadoo tijaabadooda u beddeshay axdi iimaan oo waara. Aan sahamino safarka nafahan cajiibka ah.",
+  "clues": [
+    "Waxaa nalagu imtixaanay ciqaab adag annagoo diidnay inaan ka tagno iimaankeenna ku aaddan Ilaaha keliya",
+    "Dadkeennu ma jebin karin go'aankeenna, si kasta oo ay u hal-abuuraan naxariis-darradooduna u noqoto mid hal-abuur leh",
+    "Maalinba maalinta ka dambeysa ceel ayaa nalaga joojin jiray, haddana caawimaadda rabbaaniga ah ayaa had iyo jeer noo dhowayd",
+    "Adkeysigeennu wuxuu la yaabay xitaa kuwii arkay dulqaadkeenna.",
+    "Dad badan oo Makka ku sugnaa ayaa doonayay inay nagu qasbaan inaan ka laabanno, laakiin waan ku adkaysannay go'aankeenna.",
+    "Markii wax walba u muuqdeen kuwo lumay, xorriyaddeennu waxay ku timid faragelin rabbaani ah oo mucjiso leh"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Bilaal al-Xabashi",
+        "Cammaar ibnu Yaasir",
+        "Miqdaad ibnu Al-Aswad",
+        "Khabbaab ibnu Al-Aratt",
+        "Salmaan Al-Farsi"
+      ],
+      "answer": "Bilaal al-Xabashi"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Dagaal ka dhan ah Nabiga",
+        "Cadaadis loogu geysto diidmada caabudidda sanamyada",
+        "Tijaabada iimaanka ee ku saabsan dhacdada dabka",
+        "Tijaabinta safarka habeenkii kala go'ay",
+        "Tijaabada burburka beerta"
+      ],
+      "answer": "Cadaadis loogu geysto diidmada caabudidda sanamyada"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Buurta Uxud",
+        "Deegaanka barakeysan ee Kacbada",
+        "Ceelkii Abu Sufyaan",
+        "Qasrigii Quraysh",
+        "Magaalada Madiina"
+      ],
+      "answer": "Ceelkii Abu Sufyaan"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Guul dagaal weyn",
+        "Xorayn iyada oo loo marayo faragelin rabbaani ah",
+        "Shahiidnimada jidka Alle",
+        "Aqbalaadda janada si toos ah",
+        "U haaji dhul barakeysan"
+      ],
+      "answer": "Xorayn iyada oo loo marayo faragelin rabbaani ah"
+    }
+  },
+  "verseRef": "85:4-6",
+  "arabic": "",
+  "verse": "85:4-6"
+}

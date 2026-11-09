@@ -1,0 +1,61 @@
+{
+  "title": "Ubwakiranyi bwatumye abantu bagira ubwoba .",
+  "intro": "Mu gisagara carimwo ububisha, umusi umwe umusavyi umwe w’umwizigirwa yarakiriye ingenzi zitari ziteze. Kubera ko uwo muntu yari ahagaritse umutima ku bijanye n’umutekano wabo, yaratanga uburinzi, mugabo abantu bo muri ico gisagara basaba ikintu giteye isoni. Uwo musuku yari yaragabishijwe ku bijanye n’urupfu rwari rugiye gushika, aca ahunga ari kumwe n’umuryango wiwe yipfutse umwiza, asiga inyuma igisagara cari carashizweko ikimenyetso co gutikizwa. None uwo mwizera wenyene ni nde?",
+  "clues": [
+    "Narungitswe kuba intumwa ku bantu bari bagize ibikorwa vy’agaterasoni.",
+    "Abashitsi batavyiteze baraza i muhira iwanje, kandi narahangayitse cane ku bijanye n’umutekano wabo kuruta uwanje.",
+    "Abantu banje barasaba kubonana n’abashitsi banje kubera imigambi mibi, nanje nkagerageza kubazirikana.",
+    "Abashitsi banje barihishuye ko ari abamarayika, bantegeka ko mfata umuryango wanje nkagenda mw’ijoro.",
+    "Umugore wanje ntiyumvirije umuhamagaro wo guhunga, aca ahura n’ugutikizwa nk’uko abantu banje bashikiwe.",
+    "Igisagara canje caratembagajwe n’imvura y’amabuye y’ibumba ry’ibipande, ibice vyaco vy’agaciro kanini vyazanywe hasi cane."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umuhanuzi Luti",
+        "Umuhanuzi Musa",
+        "Umuhanuzi Ibrahimu",
+        "Umuhanuzi Nuh",
+        "Umuhanuzi Hudi"
+      ],
+      "answer": "Umuhanuzi Luti"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Ivyo abantu banje basaba ngo begere abashitsi banje mu buryo bubi .",
+        "Uguca ibice kw'ikiyaga kugira ngo umuntu arokoke umunyagitugu .",
+        "Ukwubaka ubwato bunini hagati mu gutwenga .",
+        "Inkuka y'umuhungu wanje mu kigeragezo c'ukwizera .",
+        "Ivyabaye iyo umuntu amizwe n'ifi nini ."
+      ],
+      "answer": "Ivyo abantu banje basaba ngo begere abashitsi banje mu buryo bubi ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Igisagara c'abantu banje catembagajwe .",
+        "Umusozi aho naronse ijambo ry'Imana .",
+        "Ubwato bwaciye mu mwuzure mwinshi .",
+        "Ingamiya y’ingore yasohotse mu rutare .",
+        "Itongo rifise umushitsi w’umugororotsi yihishije ."
+      ],
+      "answer": "Igisagara c'abantu banje catembagajwe ."
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Narakijijwe n'umuryango wanje imbere y'uko igisagara canje gitembagazwa .",
+        "Narongoye abantu banje mu mwidegemvyo njabuka ikiyaga .",
+        "Narubatse ubwato bunini ndarokoka umwuzure mwinshi .",
+        "Nahawe ububasha ku miyaga n'amajini .",
+        "Narihanganiye imibabaro maze ndahezagirwa n’umuryango ."
+      ],
+      "answer": "Narakijijwe n'umuryango wanje imbere y'uko igisagara canje gitembagazwa ."
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

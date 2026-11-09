@@ -1,0 +1,61 @@
+{
+  "title": "Àwọn Ọkàn Ìrìn Àjò",
+  "intro": "O pada si akoko kan nigbati alase alainilara kan beere fun ifarasin patapata si awọn oriṣa eke. Agbegbe kekere ti awọn ẹmi olufọkansin kọ̀, wọn si dojuko ijiya ti o lagbara tobẹẹ ti o di eegun titi lai. Itan wọn tun dún nipasẹ Al-Quran gẹgẹbi ẹri ti igbagbọ ti ko ni agbara. Ṣe o le da ẹgbẹ iduroṣinṣin yii mọ?",
+  "clues": [
+    "A gbé ní ilẹ̀ kan lábẹ́ ìkàsí alákòóso kan tí ó béèrè fún ìjọsìn àwọn ọlọ́run èké",
+    "Àwùjọ wa dojúkọ inúnibíni líle koko nítorí ìgbàgbọ́ wa nínú Allah nìkan ṣoṣo",
+    "Alákòóso náà pàṣẹ pé kí wọ́n gbẹ́ ihò ńlá kan, kí wọ́n sì fi iná ńlá dáná",
+    "Nítorí pé a kọ̀ láti kọ ìgbàgbọ́ wa sílẹ̀, wọ́n jù wá sínú ihò iná yẹn lọ́kọ̀ọ̀kan",
+    "Ìtàn wa di ara Al-Quran, àwọn tí wọ́n sì ń ṣe inúnibíni sí wa ni a fi ègún gé títí láéláé.",
+    "A pe orúkọ Súrà tí ó kọ ìdààmú wa ní orúkọ àwọn àmì ọ̀run ńláńlá ti ọ̀run."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni àwa?",
+      "options": [
+        "Àwọn alábàákẹ́gbẹ́ ìgúnwà (Ashab al-Ukhdud)",
+        "Àwọn Ènìyàn Ihò (Ashab al-Kahf)",
+        "Àwọn ènìyàn ọjọ́ ìsinmi",
+        "Àwọn ènìyàn A'd",
+        "Àwọn ènìyàn Támúdì"
+      ],
+      "answer": "Àwọn alábàákẹ́gbẹ́ ìgúnwà (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "Ìdánwò wa",
+      "options": [
+        "Jíjóná láàyè nínú ihò iná",
+        "Jíjẹ́ tí a ti dí mọ́ inú ihò àpáta fún ọ̀pọ̀lọpọ̀ ọdún",
+        "Ipẹja ni ọjọ mimọ ti isinmi",
+        "Afẹ́fẹ́ tó ń kùn ún parun",
+        "Pípa abo ràkúnmí mímọ́ kan"
+      ],
+      "answer": "Jíjóná láàyè nínú ihò iná"
+    },
+    "location": {
+      "label": "Ohun Pataki naa",
+      "options": [
+        "Ààfin iná tó ń jó",
+        "Ihò àpáta tí ó fara sin pẹ̀lú ajá olóòótọ́ kan",
+        "Àwọn òpó gíga ti ìlú ìgbàanì tí a ti pa run",
+        "Àwọn ilé òkè ńlá tí a gbẹ́ sí àwọn àpáta òkúta",
+        "Pẹ̀tẹ́lẹ̀ tí afẹ́fẹ́ líle ń gbá"
+      ],
+      "answer": "Ààfin iná tó ń jó"
+    },
+    "outcome": {
+      "label": "Àbájáde Wa",
+      "options": [
+        "A kú ikú ajẹ́rìíkú, a sì fi àwọn tí ń ṣe inúnibíni bú wa títí láé",
+        "A jí lẹ́yìn tí a sùn fún ọdún 309",
+        "A yípadà sí ọ̀bọ fún ẹ̀ṣẹ̀ wa",
+        "Afẹ́fẹ́ líle kan pa gbogbo wa run",
+        "Igbe apanirun kan ṣoṣo ba ìgbésí ayé wa jẹ́"
+      ],
+      "answer": "A kú ikú ajẹ́rìíkú, a sì fi àwọn tí ń ṣe inúnibíni bú wa títí láé"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

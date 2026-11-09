@@ -1,0 +1,61 @@
+{
+  "title": "Ukwihangana kw'umutima ubabaye",
+  "intro": "Mu bitabu vy’amateka, hariho umuntu izina ryiwe rihuye n’ukwihangana. Uwo muntu yarageragejwe no gutakaza ihumure ryose ryo mw’isi, yamara yagumye ari umusuku w’Umuremyi yiyemeje. Mu myaka y’ingorane n’ingwara z’umubiri, umutima w’uwo mutima wagumye ushikamye mu kwizera, utanga itara ry’icizigiro ku bantu bose bashikiwe n’ingorane.",
+  "clues": [
+    "Nari umusuku wa Allah yihebeye, nhezagiwe n’ubutunzi bwinshi, abana benshi, n’amagara meza cane.",
+    "Ubuzima bwanje bwarahindutse igihe nanyagwa ubutunzi bwanje n’umuryango wanje, nta kindi nsigaye atari ukwizera kwanje.",
+    "Nararwaye indwara imara igihe kirekire kandi ibabaza, yagerageza aho ukwihangana kw’umuntu gushika.",
+    "Mu mibabaro yanje yose, nanse kwidodombera Umukama wanje, mbere n’igihe umwansi yagerageza kunjana mu kwihebura.",
+    "Igihe amaherezo nahamagara Umukama wanje, sinasavye ubutunzi, ahubwo nemeye gusa ko umubabaro wankozeko.",
+    "Nabwiwe gukubita ikirenge kw’isi, haca hava isôko ry’amazi akanye yo gukiza umubiri wanje no kumara inyota."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umuhanuzi Yaqub",
+        "Umuhanuzi Ayyub",
+        "Umuhanuzi Zakariya",
+        "Umuhanuzi Yahya",
+        "Umuhanuzi Shuyabu"
+      ],
+      "answer": "Umuhanuzi Ayyub"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Imyaka y’indwara ikaze n’ugutakaza .",
+        "Kujugunywa mw’iriba rirerire .",
+        "Kumirwa n'ifi nini",
+        "Guhangana n'umunyagitugu mu muriro",
+        "Urugendo rurerure rwo kurondera umwigisha ."
+      ],
+      "answer": "Imyaka y’indwara ikaze n’ugutakaza ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Inkoni yagabanya ikiyaga .",
+        "Ishati yari ihumura nk'iy'i muhira",
+        "Isôko ry'amazi akiza .",
+        "Umusozi wamenetse ukaba inkungugu .",
+        "Umwobo w'itiro ryinshi"
+      ],
+      "answer": "Isôko ry'amazi akiza ."
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Kuba buramatari w’igihugu kinini .",
+        "Kuyobora ingabo ku ntsinzi .",
+        "Gusubizaho ubuzima n'umuryango",
+        "Kubaka inzu nyeranda yo gusengeramwo .",
+        "Kwakira imeza yasaguwe ivuye mw'ijuru ."
+      ],
+      "answer": "Gusubizaho ubuzima n'umuryango"
+    }
+  },
+  "verseRef": "38:42",
+  "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ",
+  "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\" (38:42)"
+}

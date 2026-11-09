@@ -1,0 +1,61 @@
+{
+  "title": "Ubusitani bw'uguterimbere buriko burazimangana",
+  "intro": "Mu gihugu cahezagiwe n’ubutunzi bwinshi, umuryango warateye imbere, uba hagati y’ibimenyetso vy’ubuntu bw’Imana. Uguterimbere kwabo kwari ikimenyamenya c'ubutoni bw'Umukama wabo, ingabirano igenewe gutuma abantu bakenguruka kandi bagamburuka. Yamara, naho hari ibimenyetso bitomoye vy’imihezagiro bafise, harabaye ihinduka rikomeye, rituma badakenguruka isoko y’ubutunzi bwabo bwinshi cane be n’impumurizo yabo.",
+  "clues": [
+    "Twarahezagiwe n’amatongo abiri, rimwe iburyo irindi ibubamfu, ryari rifise ivyimburwa vyinshi.",
+    "Twategetswe kurya ivyo Umukama wacu yaduhaye no kumukengurukira igihugu ciza n’Umukama ababarira.",
+    "Twaragize ubwibone maze turava mu nzira y’ugukenguruka, twirata ubutunzi n’ububasha bwacu.",
+    "Twarasavye ko Umukama wacu yongera urugendo hagati y’ingendo zacu, twerekana ko dusuzugura ubworohe yari yaduhaye.",
+    "Twaragabishijwe n’intumwa, ariko twanka ubwo butumwa, tubandanya mu bujuju bwacu.",
+    "Urugomero rwacu runini, rwari rwadufashije guterimbere, amaherezo rwaramenetse, bituma haba umwuzure w’agahomerabunwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Abantu b'i Tamudi",
+        "Abantu b'i Midiyani",
+        "Abantu ba 'Aad",
+        "Abantu ba Luti .",
+        "Abantu ba Saba"
+      ],
+      "answer": "Abantu ba Saba"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Inzara n'amapfa",
+        "Igitero c'ingabo zikomeye .",
+        "Umutingito w'agahomerabunwa",
+        "Umwuzure usambura uva ku rugomero rwavunitse",
+        "Guhahazwa n’umutware w’umunyagitugu"
+      ],
+      "answer": "Umwuzure usambura uva ku rugomero rwavunitse"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Inyana y'inzahabu",
+        "Ingamiya y’ingore y’igitangaza",
+        "Urugomero runini",
+        "Inyubakwa ndende cane",
+        "Iriba rirerire"
+      ],
+      "answer": "Urugomero runini"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Twarahindutse inkende n'ingurube",
+        "Twarakijijwe maze twimukira mu gihugu gishasha .",
+        "Twaratatanijwe, igihugu cacu kiba ingumba .",
+        "Twaraduze mu ijuru .",
+        "Twarubatse ubwami bushasha, buteye imbere kuruta"
+      ],
+      "answer": "Twaratatanijwe, igihugu cacu kiba ingumba ."
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

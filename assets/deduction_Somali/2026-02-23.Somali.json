@@ -1,0 +1,61 @@
+{
+  "title": "Codka Xukunka Qarsoon",
+  "intro": "Qalbiga maxkamaddii kalitalisnimada lahayd, halkaas oo gaalnimadu ahayd sharciga dalka, naf keli ah ayaa ku socotay xarig adag oo iimaan iyo cabsi ah. Qofkan, oo u dhow xarunta awoodda, ayaa dhegaystay markii farriinta nebigu ay la kulantay jeesjees iyo hanjabaad. Daqiiqad run ah ayaa timid, taasoo ku qasabtay qofkan inuu kala doorto badbaadada aamusan iyo hadalka runta khatarta ah. Ma ogaan kartaa aqoonsiga u doodaha geesinimada leh?",
+  "clues": [
+    "Waxaan ku noolaa guriga kaligii taliye, anigoo si toos ah u arkay kibirkii diiday calaamadaha rabbaaniga ah.",
+    "Waxaan iimaankayga ku qariyay sir, khasnad qarsoon oo ku jirta qasri sanam caabudid ah.",
+    "Waxaan maqlay hoggaamiyihii aan u adeegay shirqool uu ku doonayay inuu ku dilo rasuul Alle, nin la odhan jiray Muuse.",
+    "Waxaan su'aal ka keenay macquulkooda, anigoo xasuusinaya masiirka dadkii Nuux, Caad, iyo Thamuud.",
+    "Waxaan dadkayga u soo jeediyay su'aal muhiim ah: 'Haddii uu beenaale yahay, beentiisu isaga ayay saaran tahay; laakiin haddii uu run sheegayo, qaar ka mid ah waxa uu ballanqaaday ayaa ku dhici doona.'",
+    "Sheekadayda waxaa lagu sheegay tusaale iimaanka suuradda la yiraahdo 'Dambi Dhaafaha,' halkaas oo aan dadkayga uga digay dhagarta kuwa awoodda leh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Mu'min ka soo jeeda Qoyska Fircoon",
+        "Haamaan",
+        "Sixiroolayaashii Fircoon",
+        "Qaaruun",
+        "Samiirka"
+      ],
+      "answer": "Mu'min ka soo jeeda Qoyska Fircoon"
+    },
+    "trial": {
+      "label": "Maxay ahayd Maxkamadeynteydii?",
+      "options": [
+        "Difaaca Nebi Muuse ee maxkamadda kaligii-taliyihii",
+        "Dhisidda munaarad dheer si ay u gaarto samada",
+        "In lagu tuuro dab ololaya",
+        "Kalluun weyn oo liqay",
+        "Luminta dhammaan hantida iyo caafimaadka"
+      ],
+      "answer": "Difaaca Nebi Muuse ee maxkamadda kaligii-taliyihii"
+    },
+    "location": {
+      "label": "Maxay ahayd Dulucda Doodaydu?",
+      "options": [
+        "Cawaaqibka diidmada farriinta nebi",
+        "Baahida calaamad geed xurmo leh",
+        "Abuuritaanka weyl laga sameeyay dahabka la dhalaaliyay",
+        "Mucjisada geel dhagax ka soo baxay",
+        "Fasiraadda riyooyinka taliyaha"
+      ],
+      "answer": "Cawaaqibka diidmada farriinta nebi"
+    },
+    "outcome": {
+      "label": "Maxay ahayd natiijada?",
+      "options": [
+        "Allaah ayaa shaqsigan ka badbaadiyay shirqoolkooda sharka ah",
+        "Maxkamaddii oo dhan isla markiiba way aqbashay diinta Islaamka",
+        "Daalimkii ayaa toobad keenay xilligii uu qaraqmay",
+        "Dhulku wuxuu liqay daalimkii",
+        "Qofka waxaa loo masaafuriyay dhul fog"
+      ],
+      "answer": "Allaah ayaa shaqsigan ka badbaadiyay shirqoolkooda sharka ah"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

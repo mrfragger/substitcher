@@ -1,0 +1,61 @@
+{
+  "title": "Ọba Aláṣẹ Tí Ó La Ìpẹ̀kun Ayé Já",
+  "intro": "Fojú inú wo alákòóso alágbára kan, tí a fún ní agbára àti àṣẹ lórí ilẹ̀ náà. Ẹni yìí bẹ̀rẹ̀ ìrìn àjò àrà ọ̀tọ̀, ó dé ibi tí oòrùn ti ń wọ̀ àti ibi tí ó ti ń yọ, ó pàdé àwọn ènìyàn àjèjì, ó sì dojú kọ ìpèníjà ńlá láti ọ̀dọ̀ àwọn orílẹ̀-èdè méjì tí wọ́n ń ba nǹkan jẹ́. Ta ni olórí oníyèméjì yìí?",
+  "clues": [
+    "Alákòóso tí a fún mi ní àṣẹ àti ọ̀nà láti dé ibi tí ó jìnnà jùlọ ní ayé ni mo jẹ́.",
+    "Mo rìnrìn àjò lọ sí ìwọ̀ oòrùn, mo sì rí bí oòrùn ṣe ń wọ̀ ní orísun omi kan tó ṣókùnkùn.",
+    "Mo pàdé àwọn ènìyàn kan nítòsí oòrùn tí ń yọ tí wọn kò ní ààbò kúrò nínú ooru rẹ̀.",
+    "Àwùjọ mìíràn béèrè ìrànlọ́wọ́ mi lòdì sí àwọn orílẹ̀-èdè méjì tí wọ́n ń bàjẹ́ tí a mọ̀ sí Gọ́ọ̀gù àti Mágọ́gù.",
+    "Mo fi irin àti bàbà dídà ṣe ìdènà kan láti dènà wọn.",
+    "Mo kéde pé ìdènà yìí jẹ́ àánú láti ọ̀dọ̀ Olúwa mi, yóò sì wà títí di àkókò tí a yàn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Dhul-Qarnayn",
+        "Wòlíì Sùlámínì",
+        "Kárún",
+        "Talut",
+        "Namrud"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Kíkó odi sí Gọ́ọ̀gù àti Mágọ́gù",
+        "Líla ìkún omi ńlá kan já",
+        "Jíjẹ́ tí a jù sínú iná",
+        "Líla òkun kọjá",
+        "Bíbá òmìrán jà"
+      ],
+      "answer": "Kíkó odi sí Gọ́ọ̀gù àti Mágọ́gù"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ìdènà irin àti bàbà",
+        "Ọ̀pá tí ó di ejò",
+        "Ọkọ̀ ojú omi onígi",
+        "Ààfin dígí",
+        "Ọgbà igi ọ̀pẹ"
+      ],
+      "answer": "Ìdènà irin àti bàbà"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A kó Gọ́ọ̀gù àti Mágọ́gù mọ́ títí di àkókò tí a yàn kalẹ̀",
+        "Ó di wòlíì",
+        "Wọ́n fìyà jẹ ẹ́ fún ìgbéraga",
+        "Ó ṣẹ́gun gbogbo ayé",
+        "Ó gbé títí láéláé"
+      ],
+      "answer": "A kó Gọ́ọ̀gù àti Mágọ́gù mọ́ títí di àkókò tí a yàn kalẹ̀"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

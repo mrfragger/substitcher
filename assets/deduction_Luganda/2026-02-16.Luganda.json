@@ -1,0 +1,61 @@
+{
+  "title": "Okwewozaako kw’Obuyinza Obutuufu",
+  "intro": "Mu biseera eby’edda, omuntu ow’amaanyi yasituka n’afuga ensi ennene ennyo n’abantu baayo. Obufuzi bw’omuntu ono bwalimu amalala mangi nnyo era n’okusoomoozebwa okw’amaanyi eri obuyinza obw’obwakatonda. Weetegeke okubikkula ebikwata ku mwoyo enkomerero yaayo enkomerero gye yafuuka essomo ery’olubeerera eri emirembe gyonna.",
+  "clues": [
+    "Nnafuga obwakabaka obw’amaanyi, ng’ekigambo kyange gaali mateeka.",
+    "Nneerangirira nga katonda ow’oku ntikko, nga nsaba okusinza okuva eri bonna abali wansi w’obufuzi bwange.",
+    "Nanyigiriza ekitundu ekimu, ne mbafuula abaddu era nga ndagira okuttibwa kw’abasajja baabwe abawere.",
+    "Enfunda n’enfunda nnasanga omubaka wa Katonda omwetoowaze, eyakola ebyamagero ebitegeerekeka mu maaso gange n’abalogo bange.",
+    "Nnagaana n’obukakanyavu amazima, nga nvunaana omubaka oyo nti yali mulogo era nga nkola olukwe lw’okumusaanyaawo n’abagoberezi be.",
+    "Nze n’eggye lyange lyonna twazitoowererwa ennyanja nga bwe tugoberera awatali kuddirira abo abaali basumuluddwa okuva mu mikono gyange."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Nimuloodi",
+        "Abu Jahl",
+        "Ibis",
+        "Fir'awn nga bwe kiri",
+        "Kamani"
+      ],
+      "answer": "Fir'awn nga bwe kiri"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Amataba Amanene",
+        "Omuliro Ogwokya",
+        "Okubbira kw'Omunyigiriza",
+        "Okuzikirizibwa kw’Empewo",
+        "Musisi ow’obutakkiriza"
+      ],
+      "answer": "Okubbira kw'Omunyigiriza"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Essanduuko ya Nuuwa",
+        "Omuggo gwa Musa",
+        "Ekifaananyi kya Zaabu",
+        "Oluzzi lwa Zamzam",
+        "Nnamulondo ya Bilqis"
+      ],
+      "answer": "Omuggo gwa Musa"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yaweebwa obwakabaka obunene ennyo",
+        "Omubiri ogukuumiddwa ng’akabonero",
+        "Asonyiyibwa oluvannyuma lw’okwenenya",
+        "Yasitulwa okutuuka ku bwannabbi",
+        "Abantu be baafuuka abatya Katonda"
+      ],
+      "answer": "Omubiri ogukuumiddwa ng’akabonero"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Maande Nder Kaaƴe",
+  "intro": "E nder leydi ɗo koɗe njuɓɓinaa e galleeji, nulaaɗo ari ina jogii maande kaawis ummoraade e Alla. Yimɓe ɓee ɗaɓɓiri hujjaaji, ɓe keɓi tagoore ummoraade e haayre tiiɗnde. Kono mawnikinaare maɓɓe addani ɓe salaade jeertinaango ngoo, siifde baasal maɓɓe.",
+  "clues": [
+    "Mi neldaama to leñol hoɗɓe e cuuɗi cewɗi e dow koye.",
+    "Ɓe ndartini mi ngam addude maande, ko ɗuum waɗi mi yaltini gelooɗi e haayre.",
+    "Mi yamiriino ɓe yoo gelooɗi ɗii yara haa mbelna, taa bonna ɗum.",
+    "Ɓe njaɓaani, ɓe mberli gelooɗi ɗii, ɓe njaɓaani jeertinaango am.",
+    "Mi anndinii wonde jukkungo maa artu caggal balɗe tati.",
+    "Subaka law, ɓuuɓol mawngol yani e maɓɓe, kono miin e almuɓɓe am min ndañii."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol ko ngonmi?",
+      "options": [
+        "Annabi Saalihu",
+        "Annabi Huudu",
+        "Annabi Luut",
+        "Annabi Shu'ayb",
+        "Annabi Ibraahiima"
+      ],
+      "answer": "Annabi Saalihu"
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "Ɗaɓɓu gelooɗi debbo e haayre",
+        "Ɗaɓɓu nagge kaŋŋe",
+        "Ɗaɓɓaande taƴre yaajnde gila e asamaan",
+        "Ɗaɓɓaande ilam",
+        "Ɗaɓɓu sawru ngam wontude mboddi"
+      ],
+      "answer": "Ɗaɓɓu gelooɗi debbo e haayre"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Gelooɗi debbo e nagge mum",
+        "Laana Nuuhu",
+        "Sawru Muusaa",
+        "Nagge kaŋŋe",
+        "Yiite Ibraahiima"
+      ],
+      "answer": "Gelooɗi debbo e nagge mum"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "Halki ɗum ko ɓuuɓol mawngol",
+        "Njokkii e ilam",
+        "Leydi muusi ɗum",
+        "Wayliima wonti apes",
+        "Halki ɗum ko henndu ɓuuɓndu"
+      ],
+      "answer": "Halki ɗum ko ɓuuɓol mawngol"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

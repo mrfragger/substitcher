@@ -1,0 +1,61 @@
+{
+  "title": "Igisagara carizera igihe .",
+  "intro": "Mu bitabo vy’ivya kera vy’imbabazi z’Imana, hariho umuryango wahindutse igihe c’ugutahura rusangi. Ugiye guhishura inkuru yabo, ni ukuvuga inkuru y’imburi, ukwihana n’ugusubira inyuma vyabatandukanije n’ivyashikiye ayandi mahanga.",
+  "clues": [
+    "Twari abantu barungikiweko intumwa, kandi twaciye duhindukira tukareka guhamagara kwiwe mu ntango.",
+    "Igihe ibimenyetso vy’igihano cari kigiye guserukira, twaratahuye ukuri kw’imburi yiwe.",
+    "Twarahindukiriye Umukama wacu twihana ata buryarya, ukwemera kwacu kwaremerwa.",
+    "Igihano cari caradutegetse carakuweho kubera ivyo twemera.",
+    "Inkuru yacu ivugwa nk’iyidasanzwe mu bisagara vyemeye bimaze kubona igihano.",
+    "Twari ubwoko bw’umuhanuzi yamizwe n’ikiyaga, yamara twarokotse ugutikizwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Abantu ba Yunusi",
+        "Abantu ba Nuh",
+        "Abantu b'i Hudi",
+        "Abantu b'i Salih",
+        "Abantu ba Luti ."
+      ],
+      "answer": "Abantu ba Yunusi"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Umwuzure w'agahomerabunwa",
+        "Inkubi y'umuyaga",
+        "Igihano c’isoni cari kigiye gushika carimbuwe .",
+        "Isi irabamira .",
+        "Imvura y'amabuye"
+      ],
+      "answer": "Igihano c’isoni cari kigiye gushika carimbuwe ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Ubwato",
+        "Ingamiya y'ingore",
+        "Igisagara c'abantu ibihumbi ijana .",
+        "Abakozi ba Musa .",
+        "Ivy'ububiko bwa Qarun ."
+      ],
+      "answer": "Igisagara c'abantu ibihumbi ijana ."
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Baratikijwe burundu .",
+        "Baciye bahabwa umunezero igihe kanaka .",
+        "Bahindutse inkende .",
+        "Bararohamye .",
+        "Baramizwe n'isi + ."
+      ],
+      "answer": "Baciye bahabwa umunezero igihe kanaka ."
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

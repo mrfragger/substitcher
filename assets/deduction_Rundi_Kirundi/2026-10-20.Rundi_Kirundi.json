@@ -1,0 +1,61 @@
+{
+  "title": "Umuhinga mu vy'ubwubatsi bw'Icipfuzo c'Ikinyoma",
+  "intro": "Umuntu yari afise ubukuru bukomeye yigeze gukorera umwe mu banyagitugu bazwi cane kuruta abandi bose mu mateka mu Misiri ya kera. Uwo muntu yari yajejwe itegeko ry’ubushizi bw’amanga — ryo kwubaka ikibanza cari gifise intumbero yo gutera umugongo ijuru. Inkuru yabo ihagaze muri Korowani nk’icigwa gitangaje ku kuntu kwumvira ubwibone ata co bimaze bijana gusa mu gusenyuka.",
+  "clues": [
+    "Nakorera mu bigo vy’umutware w’inkomezi yivugira ko ari we afise ubumana ku bihugu.",
+    "Nari mfise ikibanza gikomeye c’ubusuku, nkagira inama umunyagitugu w’ubwibone kuruta abandi bose bo mu gihe canje.",
+    "Umutware wanje yari afise umutima wo gutera umugere Imana ya Musa, iyo banse kwemera.",
+    "Nategetswe kwubaka umunara w’amatafari yoshejwe n’umuriro kugira ngo umutware wanje ashobore kuduga mw’ijuru.",
+    "Uwo munara ntiwigeze ushika mw’ijuru, kandi ubuja bwanje bw’ubwibone bwatumye ngira isoni z’ibihe bidahera.",
+    "Narazimanganye n’uwo nakurikiye, izina ryanje rikaba imburi ihoraho ku bashoboza abanyagitugu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Hamani",
+        "Azar (se wa Iburahimu)",
+        "Ilyasi (umuhanuzi)",
+        "Dhu al-Kifl",
+        "Haruti (umwe mu bamarayika babiri bari i Babiloni)"
+      ],
+      "answer": "Hamani"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Yategetswe kwubaka ikibanza kirekire cane kugira ngo ashike mw’ijuru .",
+        "Basavye gusobanura indoto yoherejwe ivuye ku Mana .",
+        "Bajugunywe mu muriro ururumba nk’ikigeragezo c’ukwizera .",
+        "Guhatirwa guhitamwo hagati y'intebe y'ubwami n'ukuri .",
+        "Yarashizwe mu mahiganwa y'ubupfumu"
+      ],
+      "answer": "Yategetswe kwubaka ikibanza kirekire cane kugira ngo ashike mw’ijuru ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Umunara w’amatafari yoshejwe n’umuriro .",
+        "Inkoni yahindutse inzoka",
+        "Ubwato buriko buraca mu mwuzure munini .",
+        "Umurima ukikujwe n'inkuta ndende .",
+        "Intebe y'ubwami isharije amabuye y'agaciro n'inzahabu ."
+      ],
+      "answer": "Umunara w’amatafari yoshejwe n’umuriro ."
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Yarohamye iruhande y'umunyaruyeri mu kiyaga .",
+        "Yabaye umwami w’ububasha w’ibihugu bininibinini .",
+        "Yarokotse umuriro ururumba ata co akomeretse",
+        "Yubatse ubwami buteye imbere bw'ubwenge .",
+        "Yasubiye kubonana n'umuryango inyuma y'imyaka myinshi ari mu bunyagano ."
+      ],
+      "answer": "Yarohamye iruhande y'umunyaruyeri mu kiyaga ."
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Omuddu wa Allah Omugulumivu",
+  "intro": "Owulira ebiwujjo by’ekifaananyi okuva edda, omuweereza wa Allah eyasitulwa okutuuka ku siteegi waggulu w’ebya bulijjo. Omuntu ono ssekinnoomu yali amanyiddwa olw’obugumiikiriza obutasalako n’amazima amatuufu, era yasindikibwa eri abantu abaakyuka okuva ku bubaka. Omwoyo guno ogwagulumizibwa y’ani?",
+  "clues": [
+    "Nalondebwa Allah nga nnabbi era njogerwako mu Quran Entukuvu.",
+    "Namanyibwa olw’obugumiikiriza n’amazima, engeri Allah z’atendereza.",
+    "Nayita abantu bange okusinza Katonda Omu, naye bangi ne bangaana.",
+    "Siteegi yange Allah yagigulumiza, era ne nweebwa eddaala erya waggulu.",
+    "Ntera okwogerwako wamu ne bannabbi abalala nga Ismail ne Dhul-Kifl.",
+    "Allah agamba ku nze nti: ‘Era twamusitula okutuuka ku kifo ekigulumivu.’ (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Nabbi Idris",
+        "Nabbi Eriya",
+        "Nabbi Dhu al-Kifl",
+        "Nabbi Al-Yasa",
+        "Nabbi Hud"
+      ],
+      "answer": "Nabbi Idris"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Yayita abantu okusinza Allah",
+        "Yazimba eryato",
+        "Yalwana ne Falaawo",
+        "Yakeberebwa n’obulwadde obw’amaanyi",
+        "Yasuuliddwa mu muliro"
+      ],
+      "answer": "Yayita abantu okusinza Allah"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Lofty rank/siteegi ya waggulu",
+        "Essanduuko",
+        "Abakozi",
+        "Omuliro",
+        "Oluzzi"
+      ],
+      "answer": "Lofty rank/siteegi ya waggulu"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Okusitulwa okutuuka ku ddaala erya waggulu",
+        "Yabbira mu mataba",
+        "Amira ennyonyi ekika kya whale",
+        "Awonye okuva mu muliro",
+        "Yafuuka kabaka"
+      ],
+      "answer": "Okusitulwa okutuuka ku ddaala erya waggulu"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

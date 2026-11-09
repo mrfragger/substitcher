@@ -1,0 +1,61 @@
+{
+  "title": "Ɔkra a Ɔhaw no Boasetɔ",
+  "intro": "Wɔ abakɔsɛm mu abakɔsɛm mu no, onipa bi wɔ hɔ a ne din ne boasetɔ yɛ ade koro. Wɔsɔɔ saa onipa yi hwɛe sɛ ɔhweree wiase ahotɔ biara, nanso ɔkɔɔ so yɛɛ Ɔbɔadeɛ no somfo a ɔde ne ho ama. Wɔ mfe pii ahokyere ne honam fam yare mu no, ɔkra yi koma kɔɔ so gyinaa gyidi mu, na ɛmaa wɔn a wohyia amanehunu nyinaa nyaa anidaso kanea.",
+  "clues": [
+    "Na meyɛ Allah akoa a ɔde ne ho ama, a ahonyadeɛ bebree, mma bebree, ne akwahosan pa nhyira me.",
+    "M’asetra danee bere a wogyee m’ahonyade ne m’abusua fii me nsam, na ɛmaa minnyaa biribiara gye me gyidi.",
+    "Yare bi a ɛtra hɔ kyɛ na ɛyɛ yaw a ɛsɔɔ nnipa boasetɔ anohyeto ankasa hwɛe na ɛhaw me.",
+    "Wɔ m’amanehunu nyinaa mu no, mepowee sɛ mɛnwiinwii atia m’Awurade, bere mpo a ɔtamfo no bɔɔ mmɔden sɛ ɔde me bɛkɔ abasamtu mu no.",
+    "Bere a awiei koraa no mefrɛɛ m’Awurade no, mansrɛ ahonyade, na mmom migye toom kɛkɛ sɛ ahoyeraw aka me.",
+    "Wɔka kyerɛɛ me sɛ memfa me nan mmɔ asase no, na nsuo a ɛyɛ nwini asubura bi firii mu baeɛ a ɛbɛsa me nipadua yareɛ na adum me sukɔm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Yaqub",
+        "Ɔkɔmhyɛni Ayyuub",
+        "Ɔkɔmhyɛni Zakariyyah",
+        "Ɔkɔmhyɛni Yahya",
+        "Ɔkɔmhyɛni Shu'ayb"
+      ],
+      "answer": "Ɔkɔmhyɛni Ayyuub"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Mfe pii yare a emu yɛ den ne adehwere",
+        "Wɔtow no gu abura a emu dɔ mu",
+        "Mpataa kɛse bi a ɔbɛmene no",
+        "Ɔyɛ otirimɔdenfo bi a ɔrehyia wɔ ogya mu",
+        "Akwantu tenten a wɔde hwehwɛ ɔkyerɛkyerɛfo"
+      ],
+      "answer": "Mfe pii yare a emu yɛ den ne adehwere"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Poma bi a ɛpaapaee po no mu",
+        "Atade a na ɛyɛ huam te sɛ ofie",
+        "Nsu asubura a ɛsa yare",
+        "Bepɔw bi a bubui bɛyɛɛ mfutuma",
+        "Ɔbodan a nna a emu yɛ den wom"
+      ],
+      "answer": "Nsu asubura a ɛsa yare"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Ɔbɛyɛ asase kɛse bi so amrado",
+        "Asraafo dɔm bi a wobedi wɔn anim akɔ nkonimdi mu",
+        "Akwahosan ne abusua a wɔbɛsan de aba",
+        "Ɔsom fie kronkron a wɔbɛsi",
+        "Pon a wɔatrɛw afi soro a wogye"
+      ],
+      "answer": "Akwahosan ne abusua a wɔbɛsan de aba"
+    }
+  },
+  "verseRef": "38:42",
+  "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ",
+  "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\" (38:42)"
+}

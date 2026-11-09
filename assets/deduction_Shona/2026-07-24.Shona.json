@@ -1,0 +1,61 @@
+{
+  "title": "Murongi Akafukidzwa",
+  "intro": "Unozviwana uri pamberi pemunhu ane simba kubva mumazuva ekuratidzwa. Munhu uyu aizivikanwa nepfungwa dzake, pfuma, uye chinzvimbo pakati pevanhu vake. Zviratidzo zvakajeka pazvakasvika, vakaziva runako asi vakasarudza kusateerera pane kuzviisa pasi. Chii chakaita kuti mweya uyu uronge zvinhu murima, uye mugumo wavo waive wei?",
+  "clues": [
+    "Ndakakomborerwa nezvinhu zvakawanda uye simba, zvichiita kuti shoko rangu rive guru mumisangano.",
+    "Mashoko evatsvene paakataurwa, ndaisagona kuramba kutaura kwavo zvakanaka, asi kuzvikudza kwangu kwaisandibvumira kuzviisa pasi.",
+    "Ndakaunganidza vapi vemazano vangu, ndichizviparadzanisa nevamwe kuti ndifunge nezvenzira yekushora meseji yacho.",
+    "Mushure mekufunga zvakawanda, ndakati hazvina basa kunze kwe'mashiripiti akapfuudzwa kubva kare' ekudzinga vanhu.",
+    "Zvakazarurwa zvacho zvakabva zvataura kwandiri zvakananga: ‘Ndisiyei newandakasika ndega.’ Ndakasarudzwa nekuda kwezano rangu.",
+    "Munguva pfupi iri kutevera, moto chaiwo wandakanyeverwa nezvawo uchandibata nepfumo, uye handizowani nzira yekupukunyuka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Vakarangana kuuraya Muprofita",
+        "Vakatungamira kuratidzira kusateerera maMuslim",
+        "Vakaunganidza dare repamusoro kuti varatidze Korani semashiripiti",
+        "Vakaronga kudzinga Muporofita kubva kuMakkah",
+        "Akaramba kugovera pfuma yake nenherera"
+      ],
+      "answer": "Vakaunganidza dare repamusoro kuti varatidze Korani semashiripiti"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Zvakazarurwa",
+        "Dare reVatungamiriri",
+        "Chivharo Chepamberi",
+        "Pfuma",
+        "Peni"
+      ],
+      "answer": "Chivharo Chepamberi"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akapfidza ndokugamuchira Islam",
+        "Akatamira kuAbyssinia",
+        "Akarohwa nechirwere chinouraya",
+        "Akafira muhondo neMuslim",
+        "Akatongerwa kugehena"
+      ],
+      "answer": "Akatongerwa kugehena"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

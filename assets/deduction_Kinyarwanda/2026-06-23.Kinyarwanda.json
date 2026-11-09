@@ -1,0 +1,61 @@
+{
+  "title": "Umurinzi uri ku nkengero z'uruzi",
+  "intro": "Mu gihugu aho itegeko ry’umunyagitugu ryateje agahinda ingo nyinshi, umuntu yakiriye ubutumwa bwatsinze ubwoba bwose. Bafite umutima wuzuye icyizere, batangiye igikorwa cyo kwizera cyahinduraga icyerekezo cy’igihugu. Uko amazi yatwaraga imizigo y’agaciro, ibyiringiro bivanze n’imigezi.",
+  "clues": [
+    "Nabayeho mu gihe cy'agahato n'ubwoba.",
+    "Nahawe umwuka w'Imana wampaye ubutwari.",
+    "Nategetswe kudatinya cyangwa ngo ngire agahinda.",
+    "Nashyize umwana wanjye mu gasanduku maze nyishyira hejuru y'amazi.",
+    "Umwana wanjye yabonetse mu rugo rw'umutegetsi, ariko undi mwana wanjye yaramukurikiye.",
+    "Nasubiye kubonana n'umwana wanjye kugira ngo njye kumwonsa, nk'uko Allah yabinsezeranyije."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Nyina wa Mose",
+        "Umugore wa Farawo",
+        "Mushiki wa Mose",
+        "Nyina wa Yesu",
+        "Umwamikazi w'i Sheba"
+      ],
+      "answer": "Nyina wa Mose"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Guterwa inkunga yo kujugunya umwana mu ruzi",
+        "Guterwa ubwoba n'imirwano y'ubumaji",
+        "Gukurikiranwa n'ingabo",
+        "Kwambuka inyanja yacitsemo ibice",
+        "Kubaka inzu ndende"
+      ],
+      "answer": "Guterwa inkunga yo kujugunya umwana mu ruzi"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Agasanduku kashyizwe mu ruzi",
+        "Igihuru cyaka",
+        "Inkoni yahindutse inzoka",
+        "Inyana ya zahabu",
+        "Intebe y'ubwami"
+      ],
+      "answer": "Agasanduku kashyizwe mu ruzi"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Umwana yasubijwe mu rugo amahoro",
+        "Umwana yari yazimiye burundu",
+        "Umwana yajyanywe mu gihugu cya kure",
+        "Uwo mwana yahise aba umutegetsi",
+        "Uwo mwana yarezwe n'umucuruzi w'umukire"
+      ],
+      "answer": "Umwana yasubijwe mu rugo amahoro"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

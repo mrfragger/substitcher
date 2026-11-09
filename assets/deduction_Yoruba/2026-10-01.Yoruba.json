@@ -1,0 +1,61 @@
+{
+  "title": "Sọ̀rọ̀ sí jíjẹ́",
+  "intro": "Àwòrán kan jáde láti inú ìtàn mímọ́, ó gbé àwọn iṣẹ́ ìyanu tí ó tako ìlànà àdánidá. Ọkàn yìí dé nípasẹ̀ àṣẹ àtọ̀runwá kan ṣoṣo, ó dáàbò bo òbí kan kúrò nínú ẹ̀sùn líle koko, ó sì fi ayé yìí sílẹ̀ kí ẹ̀wọ̀n ayé tó lè dè wọ́n. Ìtàn náà bẹ̀rẹ̀ láti ìbílẹ̀ títí dé ọ̀run lókè. Ta ni èyí lè jẹ́?",
+  "clues": [
+    "Wọ́n rán mi gẹ́gẹ́ bí àmì àti àánú láti ọ̀dọ̀ Allāhu sí àwọn ọmọ Ísráẹ́lì.",
+    "Dídé mi yàtọ̀ sí ti tẹ́lẹ̀ rí — mo wá sí ayé nípasẹ̀ ọ̀rọ̀ àtọ̀runwá náà “Jẹ́!” láìsí baba ayé.",
+    "Àwọn òbí mi dojúkọ ọ̀rọ̀ ìbàjẹ́ oníwà ìkà, ṣùgbọ́n ìfihàn mímọ́ sọ̀kalẹ̀ láti polongo àìlẹ́bi wọn àti láti gbé ipò wọn ga.",
+    "Gẹ́gẹ́ bí ọmọ tuntun, mo yà àwọn tó yí mi ká lẹ́nu nípa sísọ ní kedere láti inú ìbímọ mi láti mú kí orúkọ àwọn òbí mi kúrò.",
+    "Pẹ̀lú àṣẹ Allāhu, mo fi amọ̀ tí kò ní ẹ̀mí ṣe àgbékalẹ̀ ìgbésí ayé, mo fún afọ́jú ní ojú, mo sì fi ọwọ́ kan adẹ́tẹ̀ náà.",
+    "A gbé mi sókè sí ọ̀run kí ìpalára tó lè kàn mí, mo sì máa padà sí ayé yìí kí Wákàtí ìkẹyìn tó dé."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Ísà",
+        "Wòlíì Mósà",
+        "Wòlíì Ibrahim",
+        "Wòlíì Yúsọ́ọ̀fù",
+        "Wòlíì Dáfídì"
+      ],
+      "answer": "Wòlíì Ísà"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Sọ̀rọ̀ láti ibi ìtọ́jú ọmọ nígbà tí ó jẹ́ ọmọ ọwọ́",
+        "Líláàyè nínú ikùn ẹja ńlá kan",
+        "Jíjẹ́ tí a jù sínú iná tí ń jó",
+        "Kíkọ́ ọkọ̀ ńlá kan kí ìkún omi tó dé",
+        "Dídojúkọ iṣẹ́ àjẹ́ ààfin Fáráò"
+      ],
+      "answer": "Sọ̀rọ̀ láti ibi ìtọ́jú ọmọ nígbà tí ó jẹ́ ọmọ ọwọ́"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ìhìnrere (Injeel)",
+        "Tawrah (Tórà)",
+        "Súbúrì (Sáàmù)",
+        "Suhuf (Awọn iwe ti Ibrahim)",
+        "Ọ̀pá tí ó pín òkun níyà"
+      ],
+      "answer": "Ìhìnrere (Injeel)"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A gbé e sókè ọ̀run, yóò padà kí ọjọ́ ìdájọ́ tó dé",
+        "Ó mú àwọn ọmọ Israẹli jáde kúrò ní Íjíbítì",
+        "Ó di ọba pẹ̀lú agbára lórí àwọn jinni, ènìyàn àti àwọn ẹyẹ",
+        "Mo la ìkún omi ńlá kan já pẹ̀lú àwọn onígbàgbọ́",
+        "Ilé mímọ́ náà ni Mekka kọ́ sí"
+      ],
+      "answer": "A gbé e sókè ọ̀run, yóò padà kí ọjọ́ ìdájọ́ tó dé"
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

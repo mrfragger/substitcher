@@ -1,0 +1,61 @@
+{
+  "title": "Chiziviso cheChivi Chisingaenzaniswi",
+  "intro": "Dzimwe nyaya dziri muQuran dzinoratidza huipi hwakakura hunogona kuwira munharaunda yese. Mutumwa uyu akamira ega, achikumbira vanhu vakanyura mukushata uko kusina rudzi rwakambotevera pamberi pavo. Pasinei nemakore ekunyevera, moyo yakaramba yakaoma, uye chirevo chaMwari chakasvika nenzira inotyisa zvikuru. Unogona kuziva mutumwa uyu akanaka waAllah here?",
+  "clues": [
+    "Ndakatumwa semuyambiri kuvanhu vakaparadzwa netsika dzisina kunaka dzisina kumbobvira dzaitwa nerudzi rwakavatangira.",
+    "Vanhu vangu vakanditi ndiri murevi wenhema uye vakatyisidzira kuti vaizodzinga vateveri vangu neni munyika.",
+    "Vashanyi vanoremekedzwa vakauya kumba kwangu vari majaya anorova, uye ndakanzwa kushushikana kukuru pamusoro pekuchengetedzeka kwavo.",
+    "Vanhu vangu vakati ndipe vaenzi vangu kwavari, vasingazive kuti vaenzi ava vaiva ngirozi dzakatumwa naAllah.",
+    "Mukadzi wangu akanga asina chitendero chakafanana nechangu uye akasarudza kuramba aripo nevanotongwa.",
+    "Ndakaponeswa pamwe chete nevanasikana vangu mambakwedza, mvura yematombo ichinaya uye maguta edu akaparadzwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muporofita Lut",
+        "Muporofita Shu'aib",
+        "Muporofita Hud",
+        "Muprofita Nuh",
+        "Muprofita Salih"
+      ],
+      "answer": "Muporofita Lut"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Mafashamo makuru akafukidza nyika",
+        "Kurasikirwa nekuona nekuda kwekutambudzika kwenguva refu",
+        "Mudzvinyiriri anozviti ndiMwari",
+        "Kukandwa mumoto unopfuta",
+        "Kukumbirwa kuti vape vaenzi vanoremekedzwa"
+      ],
+      "answer": "Kukumbirwa kuti vape vaenzi vanoremekedzwa"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Areka huru yakavakwa nemaoko",
+        "Tsvimbo yakakamura gungwa",
+        "Ngamera hadzi inoshamisa",
+        "Moto unopfuta",
+        "Maguta akakundwa"
+      ],
+      "answer": "Maguta akakundwa"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akanyura mumvura achitevera vatendi",
+        "Kuponeswa kubva muchoto chemoto kusina kukuvara",
+        "Akasimudzwa kudenga ari mupenyu",
+        "Mhuri yakafira mumafashamo makuru",
+        "Mhuri yakaponeswa kunze kwemukadzi asina kutendeka"
+      ],
+      "answer": "Mhuri yakaponeswa kunze kwemukadzi asina kutendeka"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

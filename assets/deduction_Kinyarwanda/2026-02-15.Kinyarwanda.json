@@ -1,0 +1,61 @@
+{
+  "title": "Ijwi ryo Gukomera",
+  "intro": "Uyu muntu yibukwa kubera ubwenge n'ubuyobozi bwimbitse, atanga inama zirenze ibisekuruza. Amagambo ye ni igihamya cy'ubuyoboke n'akamaro ko kumenya imigisha n'ibigeragezo biva ku Mana. Hindura uwo ari we wese muri twe yubahwa.",
+  "clues": [
+    "Ntabwo nari umuhanuzi, ariko ubwenge bwanjye buhora butangwa mu Byanditswe Byera.",
+    "Inama nagiriye umwana wanjye yashimangiye gushimira Imana no kwirinda shirk.",
+    "Nigishije akamaro ko gusenga, gutegeka icyiza, no kubuza ikibi.",
+    "Naburiye kwirinda ubwibone no kugendana n'ubwibone ku isi.",
+    "Izina ryanjye ryahawe igice cyose muri Korowani, rigaragaza inyigisho zanjye.",
+    "Inama natanze zari zirimo kwihangana mu bihe bigoye, kuko mu by’ukuri, ibyo biva mu bintu bikomeye kurusha ibindi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Umuhanuzi Idris",
+        "Intumwa Yahya",
+        "Luqman",
+        "Imran",
+        "Umuhanuzi Hud"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Inyigisho/Ubuyobozi bw'ingenzi",
+      "options": [
+        "Kubaka ubwato",
+        "Guhangana n'ingabo zikomeye",
+        "Gutanga ubwenge n'inama z'umuco",
+        "Gusobanura inzozi",
+        "Kuyobora igihugu kugera ku ntsinzi"
+      ],
+      "answer": "Gutanga ubwenge n'inama z'umuco"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Igihuru cyaka",
+        "Ifi nini",
+        "Umusozi wihariye",
+        "Inama y'ubwenge ku rubyaro",
+        "Ingoro nini"
+      ],
+      "answer": "Inama y'ubwenge ku rubyaro"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Yabaye umwami",
+        "Yahawe ubuhanuzi",
+        "Ubwenge bwe bwanditswe muri Korowani",
+        "Yayoboye ubwoko bwe mu gihugu gishya",
+        "Yahawe ubutunzi butagira ingano"
+      ],
+      "answer": "Ubwenge bwe bwanditswe muri Korowani"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

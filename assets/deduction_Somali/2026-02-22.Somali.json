@@ -1,0 +1,61 @@
+{
+  "title": "Dulqaadka Nafta Dhiban",
+  "intro": "Taariikhda waxaa ku jira shakhsi magaciisa la mid ah dulqaadka. Qofkan waxaa lagu tijaabiyay lumitaanka raaxada adduunka oo dhan, haddana wuxuu ahaa addoon u daacad ah Abuuraha. Sannado badan oo dhibaato iyo xanuun jireed ah, qalbiga naftan wuxuu ku xirnaa iimaan, isagoo siinaya iftiin rajo ah dhammaan kuwa la kulma dhibaatada.",
+  "clues": [
+    "Waxaan ahaa addoon Alle oo daacad ah, oo ku mannaystay hanti badan, carruur badan, iyo caafimaad aad u wanaagsan.",
+    "Noloshaydu waxay isbeddeshay markii la iga qaaday maalkayga iyo qoyskayga, taasoo iga dhigtay wax aan ahayn iimaankayga.",
+    "Waxaa i haleelay xanuun waara oo xanuun badan oo tijaabiyay xadka adkeysiga aadanaha.",
+    "Intii aan dhibaataysnaa, waan diiday inaan ka cawdo Rabbigeyga, xitaa markii cadowgu isku dayay inuu i niyad jabiyo.",
+    "Markii aan ugu dambeyntii u yeeray Rabbigeyga, ma aanan weydiisan maal, laakiin si fudud ayaan u qirtay in dhibku i taabtay.",
+    "Waxaa la ii sheegay inaan dhulka ku dhufto cagtayda, waxaana ka soo baxay il biyo qabow ah si ay jidhkayga u bogsiiso oo ay harraadkayga u qaboojiso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Yacquub",
+        "Nabi Ayuub",
+        "Nabi Zakariyah",
+        "Nabi Yaxya",
+        "Nabi Shucayb"
+      ],
+      "answer": "Nabi Ayuub"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Sannado xanuun iyo khasaaro daran ah",
+        "In lagu tuuro ceel qoto dheer",
+        "Kalluun weyn oo liqay",
+        "La kulanka kaligii taliye dab ku jira",
+        "Safar dheer oo lagu raadinayo macallin"
+      ],
+      "answer": "Sannado xanuun iyo khasaaro daran ah"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Ul badda kala qaybisay",
+        "Shaadh guriga ur u leh",
+        "Il biyo ah oo bogsiinaya",
+        "Buur burburtay oo ciid noqotay",
+        "God hurdo qoto dheer leh"
+      ],
+      "answer": "Il biyo ah oo bogsiinaya"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Noqoshada guddoomiyaha dhul weyn",
+        "Hogaaminta ciidan guul u horseedaya",
+        "Soo celinta caafimaadka iyo qoyska",
+        "Dhisidda guri cibaado oo barakeysan",
+        "Helitaanka miis samada ka yimid"
+      ],
+      "answer": "Soo celinta caafimaadka iyo qoyska"
+    }
+  },
+  "verseRef": "38:42",
+  "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ",
+  "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\" (38:42)"
+}

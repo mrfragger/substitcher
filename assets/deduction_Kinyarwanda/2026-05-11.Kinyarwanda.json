@@ -1,0 +1,61 @@
+{
+  "title": "Abahamya Bahamye",
+  "intro": "Tekereza igihe ukwemera kwageragejwe n'umuriro, maze ukwemera kudacogora kukaba ari ukurwanya gukomeye. Ushinzwe kuvumbura itsinda ry'abantu inkuru yabo ivugwa muri Korowani, inkuru ivuga ku kwizera gukomeye kurwanya igitugu gikomeye. Hindura ibimenyetso kugira ngo umenye abo bantu bari bo, n'ibihe bidasanzwe bahuye na byo.",
+  "clues": [
+    "Twahagaze dushikamye mu kwemera kwacu, nubwo twahatiwe cyane kwihakana ukwizera kwacu.",
+    "Twari twibasiwe n'umutegetsi ukomeye washakaga kuzimya urumuri rw'Imana imwe.",
+    "Twabonye ibimenyetso bikomeye n'ibitangaza, nyamara abadukandamizaga bakomeje kutitaho.",
+    "Twihanganiye uburyo buteye ubwoba bwo gutoteza abandi bwari bugamije kubatera ubwoba ngo bayoboke Imana.",
+    "Twajugunywe mu muriro ugurumana, ariko gukomera kwacu kwatumye tugira umwanya wo hejuru imbere ya Allah.",
+    "Inkuru yacu ivugwa muri Sura yitiriwe inyenyeri zo mu ijuru, iburira ku bizagera ku bahohotera abizera."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Turi bande?",
+      "options": [
+        "Abaturage ba Thamud",
+        "Abantu bo muri 'Ad",
+        "Abantu bo mu mwobo",
+        "Abantu b'Abamidiyani",
+        "Abantu b'inzovu"
+      ],
+      "answer": "Abantu bo mu mwobo"
+    },
+    "trial": {
+      "label": "Gutotezwa kwacu",
+      "options": [
+        "Gurohama mu myuzure",
+        "Gutwarwa n'umuyaga utwika",
+        "Gutabwa mu mwobo w'umuriro",
+        "Kumirwa n'isi",
+        "Guhinduka inguge"
+      ],
+      "answer": "Gutabwa mu mwobo w'umuriro"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Umwuzure ukomeye",
+        "Umutingito ukomeye",
+        "Umuyoboro muremure kandi ushyushye",
+        "Ikigirwamana gikomeye",
+        "Amapfa akabije"
+      ],
+      "answer": "Umuyoboro muremure kandi ushyushye"
+    },
+    "outcome": {
+      "label": "Iherezo ryacu ry'ikirenga",
+      "options": [
+        "Bahawe ubwami ku isi.",
+        "Bakijijwe no gukizwa mu buryo bw'igitangaza.",
+        "Bageze ku buhorwadi n'ingororano y'iteka ryose.",
+        "Byahinduwe ubwoko butandukanye.",
+        "Bahawe ubutunzi n'uburumbuke butagira ingano."
+      ],
+      "answer": "Bageze ku buhorwadi n'ingororano y'iteka ryose."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Echo a Efi Kurow no ano",
+  "intro": "Wɔ kurow bi a wɔtwee ne ho fii ɔsoro akwankyerɛ ho mu no, onipa bi a ɔyɛ ankonam puei fii kurotia, na ɔde anidaso ne kɔkɔbɔ nkrasɛm retu mmirika. Ná ɔkra a ne werɛ afi yi bɛyɛ gyidi a egyina pintinn ho sɛnkyerɛnne a ɛtra hɔ daa.",
+  "clues": [
+    "Mihuu adanse sɛ wɔresoma abɔfo akɔ me kurom, nanso me nkurɔfo buu wɔn sɛ nnipa mpapahwekwa.",
+    "Migyee wɔn nkrasɛm no dii na metee nka sɛ nokware no regye wɔ me nipasu mu.",
+    "Mefrɛɛ me nkurɔfoɔ sɛ wɔntie abɔfoɔ a wɔsrɛɛ akatua biara no.",
+    "Mituu mmirika fii kurow no awiei koraa, bɔɔ mmɔden ntɛm ara sɛ mɛma wɔahu ntease.",
+    "Me nkurɔfo sɔre tiaa me, na wokum me, nanso minyaa daa asomdwoe.",
+    "Allah ka kyeree me se, ‘Hne Paradise mu,’ na me yam se me nkurafoa betumi adi nidie a wode ama me no ho adansee."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ya-Sin Gyidifoɔ",
+        "Usair Asɛmmisafo no",
+        "Al-Khidr a ɔyɛ Ɔkwankyerɛfo",
+        "Farao Abusua mu Gyidifoɔ",
+        "Namrud Ɔtirimɔdenfoɔ"
+      ],
+      "answer": "Ya-Sin Gyidifoɔ"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Nnipa a wonnye nni a wokum no a wobehyia",
+        "Wɔtow no gu ogya a ɛredɛw mu",
+        "Mpataa kɛse bi a ɔbɛmene no",
+        "Adaka kɛse bi a wɔresi",
+        "Guan a woguan fi otirimɔdenfo dɔm ho"
+      ],
+      "answer": "Nnipa a wonnye nni a wokum no a wobehyia"
+    },
+    "location": {
+      "label": "Beae a Ɛho Hia",
+      "options": [
+        "Kurow no awiei a ɛwɔ akyirikyiri sen biara",
+        "Tur bepɔw no so",
+        "Nwansena Bon no mu",
+        "Nil asubɔnten no ano",
+        "Ɔbodan no mu ɔbodan no"
+      ],
+      "answer": "Kurow no awiei a ɛwɔ akyirikyiri sen biara"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Gyidi adansedi ne Paradise a wɔbɛhyɛn mu ntɛm ara",
+        "Guankɔbea ne nkwagye",
+        "Ɔsoro a wɔforo kɔ soro",
+        "Nsu a ɛremene wɔ po mu",
+        "Ɔdan a ɛdane ɔbo"
+      ],
+      "answer": "Gyidi adansedi ne Paradise a wɔbɛhyɛn mu ntɛm ara"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

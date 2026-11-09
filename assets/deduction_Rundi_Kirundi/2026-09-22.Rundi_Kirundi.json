@@ -1,0 +1,61 @@
+{
+  "title": "Abubatsi b’Inkingi Zihanitse .",
+  "intro": "Uhagaze imbere y’ibisigazwa vy’igisagara ca kera giteye igomwe, inkingi zaco zihanitse ubu zikaba zaguye. Umuyaga uraboroga mu mabarabara atagiramwo abantu, utwaye iciyumviro c’abantu b’inkomezi bahora batwara ivyo bihugu. None abo bari bande?",
+  "clues": [
+    "Twari abantu b’inkomezi n’ubuhinga bitagira uko bingana, bazwi kubera inyubakwa zacu zikomeye be n’ubuhinga bwacu buteye imbere.",
+    "Twaba mu gihugu c’ibitandara vy’umusenyi n’imisozi y’ibitandara, kandi twari twizera ko ata n’umwe yoshobora kudutsinda.",
+    "Intumwa yaje iwacu ivuye mu ncuti zacu bwite, iduhamagara ngo dusenge Allah wenyene, ariko turayanka, turamutwengera mw’ijigo.",
+    "Twararata tuti: Ni nde aturusha ububasha? kandi twabandanije mu bwibone bwacu no mu gusenga ibigirwamana.",
+    "Allah yaturungikiye umuyaga w’uburake, uhuha amajoro indwi n’imisi umunani, usambura vyose.",
+    "Twari abantu b’i Adi, abubatsi ba Iramu, kandi iherezo ryacu ryacitse imburi ku bazokurikira bose."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Abantu bo muri 'Ad",
+        "Abantu b'i Tamudi",
+        "Abantu b'i Madyan",
+        "Abantu b’i Tubba’.",
+        "Abantu b'i Al-Rass"
+      ],
+      "answer": "Abantu bo muri 'Ad"
+    },
+    "trial": {
+      "label": "None igihano barungikiwe cari ikihe?",
+      "options": [
+        "Umuyaga usambura",
+        "Imvura y'amabuye",
+        "Ijwi rikomeye",
+        "Kurohama n'umwuzure",
+        "Yamizwe n'isi ."
+      ],
+      "answer": "Umuyaga usambura"
+    },
+    "location": {
+      "label": "None igisagara cabo c’inkuru z’imigani citwa iki?",
+      "options": [
+        "Iramu",
+        "Sodomu",
+        "Abamidiyani",
+        "Babeli",
+        "Petra"
+      ],
+      "answer": "Iramu"
+    },
+    "outcome": {
+      "label": "None iherezo ryabo ryari rimeze gute?",
+      "options": [
+        "Barasambutse ibisigazwa vyabo biba icigwa .",
+        "Barihanye barakizwa + .",
+        "Bahindutse inkende .",
+        "Bararohamye mu kiyaga + .",
+        "Bahambwe munsi y'ubutaka bwasenyutse ."
+      ],
+      "answer": "Barasambutse ibisigazwa vyabo biba icigwa ."
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

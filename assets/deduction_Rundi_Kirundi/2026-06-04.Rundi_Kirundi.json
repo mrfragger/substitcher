@@ -1,0 +1,61 @@
+{
+  "title": "Ikimenyetso kiri mu mabuye",
+  "intro": "Mu gihugu aho imisozi yari ibajwe mu nzu, intumwa yarashitse ifise ikimenyetso c’igitangaza kivuye kuri Allah. Abantu basavye ikimenyamenya, maze baronka ikiremwa kivuye mu rutare rukomeye. Ariko ubwibone bwabo bwatumye batera umugere iyo ngabisho, bica bishira ikidodo ku vyo bazoshikirwa.",
+  "clues": [
+    "Narungitswe ku bantu baba mu mazu abajwe mu misozi.",
+    "Baca bantera intege ngo nzane ikimenyetso, nca nsohora ingamiya mu rutare.",
+    "Narabategetse kureka ingamiya ikanywa amazi, ntibayigirire nabi.",
+    "Barasuzuguye maze baca imitsi y’ingamiya, batera umugere imburi yanje.",
+    "Namenyesheje ko igihano kizoza haciye imisi itatu.",
+    "Mu gitondo, igisasu gikomeye carabatikije, ariko jewe n’abayoboke banje turarokoka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umuhanuzi Salih",
+        "Umuhanuzi Hudi",
+        "Umuhanuzi Luti",
+        "Umuhanuzi Shuyabu",
+        "Umuhanuzi Ibrahimu"
+      ],
+      "answer": "Umuhanuzi Salih"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Gusaba ingamiya y'ingore mu rutare",
+        "Gusaba inyana y'inzahabu",
+        "Gusaba imeza ikwiragijwe ivuye mw'ijuru .",
+        "Gusaba umwuzure",
+        "Gusaba inkoni ngo ihinduke inzoka ."
+      ],
+      "answer": "Gusaba ingamiya y'ingore mu rutare"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Ingamiya y’ingore n’inyana yayo",
+        "Ubwato bwa Nowa",
+        "Inkoni ya Musa",
+        "Inyana y'inzahabu",
+        "Umuriro wa Iburahimu"
+      ],
+      "answer": "Ingamiya y’ingore n’inyana yayo"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Yasambuwe n'igisasu gikomeye",
+        "Yarohamye mu mwuzure",
+        "Yamizwe n'isi .",
+        "Yahindutse inkende",
+        "Yasambuwe n’umuyaga ukaze ."
+      ],
+      "answer": "Yasambuwe n'igisasu gikomeye"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Juuɗe Kuɗɗe",
+  "intro": "Aɗa darii e laabi ɓuuɓɗi Makka ɓooyɗi, ɗo ruuhu jom doole e ngalu meeɗii ruttaade e noddaango goonga. Daartol ngol limre ko siftorde laaɓtunde wonde jokkondire ƴiiƴam mbaawaa foolde caɗeele mawnikinaare. Hol oo mo innde mum ina ɓuuɓtoo e yiite fadi?",
+  "clues": [
+    "Miɗo yaha e laabi Makka e mawnikinaare ɓuuɓnde mi e goonga, hay so tawii nulaaɗo oo ko ƴiiƴam am.",
+    "Jawdi am ina yaaji, kono wonti kuddi wonaa ngaska.",
+    "Deftere njillu ina haala halkaare am, ina hollita wonde juuɗe am e neɗɗo am maa halku.",
+    "Jom suudu am naati e kampaañ am gaño, mooftude ƴiye ngam sarde e laawol nodduɗo Alla.",
+    "Ñalnde ñaawoore, mi lummbinee e yiite ɓuuɓɗo, jom suudu am ina jogoo ɓoggol fiɓnde paltoor e wutte mum.",
+    "Miɗo anndiraa innde firti ‘baaba lewlewndu’ — innde anndinde hoɗorde am haa abada."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol ko ngonmi?",
+      "options": [
+        "Abuu Lahab",
+        "Abuu Jahl",
+        "Abuu Taalib",
+        "Abuu Sufyaan",
+        "Al-Waalid ɓiɗɗo Mugiira"
+      ],
+      "answer": "Abuu Lahab"
+    },
+    "trial": {
+      "label": "Ñaawoore walla Kewu Key",
+      "options": [
+        "Luutndiima Nelaaɗo, o huɗaama e nder Quraan",
+        "Ardiima konu ngam ñifde Kaaba",
+        "Etaade warde Annabi e werlaade kaaƴe",
+        "Jaɓaani goongɗinde feccere lewru",
+        "Mahii tooweeki ngam yettaade asamaan"
+      ],
+      "answer": "Luutndiima Nelaaɗo, o huɗaama e nder Quraan"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Yiite Jahannama ɓuuɓnge",
+        "Koolol Muusaa",
+        "Laana Nuuhu",
+        "Ɓunndu Zamzam",
+        "Nagge kaŋŋe"
+      ],
+      "answer": "Yiite Jahannama ɓuuɓnge"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "O naatat yiite wulnge, jawdi makko nafataa mo",
+        "O tuubnii, o wonti goonɗinɗo",
+        "O yaafaama caggal nde o reentini",
+        "O maayi ko martiri",
+        "O ɓamtaa dow asamaan"
+      ],
+      "answer": "O naatat yiite wulnge, jawdi makko nafataa mo"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

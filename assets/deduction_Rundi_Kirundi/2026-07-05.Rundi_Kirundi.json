@@ -1,0 +1,61 @@
+{
+  "title": "Uwuzanye Intebe y'Ubwami yihuta",
+  "intro": "Mu rugo rw’umutware w’inkomezi, hari ikintu kidashoboka, kandi benshi barahiganwa kugira ngo berekane ko bafise agaciro. Yamara, ico gikorwa cari gushobora gukorwa gusa n’umuntu afise isano n’ubumenyi bw’Imana rirengeye ubuhanga bwose bwo ku mubiri, akahishura umwanya wosubiramwo mu bihe vyose.",
+  "clues": [
+    "Nari mu gikorwa c’umwami akomeye kandi yari umuhanuzi, kandi nari mpagaze mu bantu yizigira cane.",
+    "Sinari ikiremwa c’umuriro canke ikiremwa c’inkomezi nyinshi z’umubiri, ariko nari mfise ikintu gikomeye kuruta kure.",
+    "Igihe umwami yasaba ko bazana intebe y’ubwami bavuye mu gihugu ca kure, naramenya neza ico nkora.",
+    "Navuze ubumenyi nari mfise mu Gitabu, maze imbere y’uko umuntu agira ico akoze, intebe y’ubwami irashirwa imbere y’umwami.",
+    "Ico nakoze nticari ku bubasha bwanje bwite, ahubwo cari ikimenyetso c’uko ubumenyi nyakuri buva kuri Allah wenyene.",
+    "Ni jewe nazanye intebe y’ubwami y’Umwamikazi wa Sheba mu kanya nk’ako gukubita urugohe, nk’uko vyanditswe muri Sura An-Naml."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Uwo yari afise ubumenyi bw’Igitabo .",
+        "Ivyo bikoko bikomeye Ifrit .",
+        "Inyoni y'i Sulayman",
+        "Umuhanuzi Sulemani",
+        "Umwamikazi w'i Sheba"
+      ],
+      "answer": "Uwo yari afise ubumenyi bw’Igitabo ."
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Kuzana intebe y’ubwami y’Umwamikazi wa Sheba mu kanya nk’ako gukubita urugohe .",
+        "Gucagura Ikiyaga Gitukura ku bw’Abisirayeli",
+        "Ukwubaka Kaaba ari kumwe n'umuhungu wiwe .",
+        "Kurokoka mw'itanure ry'umuriro",
+        "Gukizwa mu nda y'ikiyaga"
+      ],
+      "answer": "Kuzana intebe y’ubwami y’Umwamikazi wa Sheba mu kanya nk’ako gukubita urugohe ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Intebe y'ubwami ya Bilqis .",
+        "Inkoni ya Musa",
+        "Isandugu ya Nuh",
+        "Umuriro wa Namrudi",
+        "Igikoko citwa baleine ca Yunus"
+      ],
+      "answer": "Intebe y'ubwami ya Bilqis ."
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Intebe y'ubwami ica iboneka ubwo nyene imbere ya Sulayman nk'ikigeragezo co gukenguruka .",
+        "Umwamikazi aca yemera ubuyisilamu .",
+        "Uwo mujini yafunzwe kubera yananiwe .",
+        "Sulaymani yarahevye ubwami bwiwe .",
+        "Intebe y'ubwami iramenagurwa iba ibipande + ."
+      ],
+      "answer": "Intebe y'ubwami ica iboneka ubwo nyene imbere ya Sulayman nk'ikigeragezo co gukenguruka ."
+    }
+  },
+  "verseRef": "27:40",
+  "arabic": "قَالَ ٱلَّذِى عِندَهُۥ عِلْمٌۭ مِّنَ ٱلْكِتَـٰبِ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ ۚ فَلَمَّا رَءَاهُ مُسْتَقِرًّا عِندَهُۥ قَالَ هَـٰذَا مِن فَضْلِ رَبِّى لِيَبْلُوَنِىٓ ءَأَشْكُرُ أَمْ أَكْفُرُ ۖ وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ رَبِّى غَنِىٌّۭ كَرِيمٌۭ",
+  "verse": "Said one who had knowledge from the Scripture, \"I will bring it to you before your glance returns to you.\" And when [Solomon] saw it placed before him, he said, \"This is from the favor of my Lord to test me whether I will be grateful or ungrateful. And whoever is grateful - his gratitude is only for [the benefit of] himself. And whoever is ungrateful - then indeed, my Lord is Free of need and Generous.\" (27:40)"
+}

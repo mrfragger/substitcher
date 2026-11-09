@@ -1,0 +1,61 @@
+{
+  "title": "Chipikirwa Chinotaurwa Pamusoro Pemarara",
+  "intro": "Unomira padivi pemoto werenje apo marasha awo anopiswa nokungwarira. Vashanyi vanosvika kuti vasangane murunyararo, uye shoko rimwe chete rinotanga nyaya yevimbiso, kushamisika, uye ramangwana risati razadziswa.",
+  "clues": [
+    "Takayambuka daro kuti tisvike kumuranda akatendeka murenje.",
+    "Takakumbira kuti marasha aparadzirwe kuti moto ugobatidzwa.",
+    "Takataura nemumwe munhu akashevedzera kumurazvo kuti anzwe kutonhora uye kuchengetedzeka.",
+    "Takaunza nhau dzemwana achangoberekwa kumunhu akanga apfuura zera rekuva nevana.",
+    "Takatumidza mwana wechipikirwa kuti Isaka.",
+    "Takaunza mashoko anofadza emwanakomana kuna Ibrahim, uye mashoko anoshamisa akasiya Ibrahim achiseka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Ngirozi Dzakaunza Mashoko Akanaka aIsaka kuna Ibrahim",
+        "Ngirozi Dzakanyevera Lut",
+        "Ngirozi Dzine Chigaro Choumambo",
+        "Ngirozi dzeGehena",
+        "Ngirozi Dzakatumwa Kuna Noa"
+      ],
+      "answer": "Ngirozi Dzakaunza Mashoko Akanaka aIsaka kuna Ibrahim"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kuunza mashoko anofadza ekuzvarwa kwaIsaka kuna Ibrahim",
+        "Kunyevera Lut pamberi pekurangwa kwevanhu vake",
+        "Kuzivisa kuzvarwa kwaYahya kuna Zakariyya",
+        "Kutakura Chigaro Choumambo Pazuva Rokutongwa",
+        "Kuzivisa kuzvarwa kwaIsa kuna Maryam"
+      ],
+      "answer": "Kuunza mashoko anofadza ekuzvarwa kwaIsaka kuna Ibrahim"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Moto wakagadzirwa kubva pamoto wakapararira",
+        "Areka iri kuyangarara pamusoro pemvura yemafashamo",
+        "Bako rakavharwa nedombo rinokungurutswa",
+        "Gomo revhu rakaomeswa nemunyu",
+        "Manera anotambanukira mudenga"
+      ],
+      "answer": "Moto wakagadzirwa kubva pamoto wakapararira"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Mashoko anofadza emwanakomana anonzi Isaka",
+        "Mashoko anofadza emwanakomana anonzi Yahya",
+        "Kusarudzwa kwaTalut semutongi wevana veIsraeri",
+        "Yambiro pamberi pekurangwa kwevanhu vaLut",
+        "Murayiro wekuvaka areka Mafashamo asati aitika"
+      ],
+      "answer": "Mashoko anofadza emwanakomana anonzi Isaka"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

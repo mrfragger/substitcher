@@ -1,0 +1,61 @@
+{
+  "title": "Ekibuga Ekyakkiririza mu Biseera",
+  "intro": "Mu bitabo by’ebyafaayo by’okusaasira okw’obwakatonda, waliwo ekitundu eky’enkyukakyuka yaakyo kyali kiseera kya kutegeera wamu. Ogenda okubikkula emboozi yaabwe —olugero lw’okulabula, okwenenya, n’okuwummuzibwa okwawula ku nkomerero y’amawanga amalala.",
+  "clues": [
+    "Twali bantu be baasindikibwa omubaka, era twasooka kukyuka okuva ku mulanga gwe.",
+    "Obubonero obw’okubonerezebwa okwali kumpi bwe bwalabika obulungi, twategeera obutuufu bw’okulabula kwe.",
+    "Twakyukira Mukama waffe nga twenenya mu bwesimbu, era okukkiriza kwaffe ne kukkirizibwa.",
+    "Ekibonerezo ekyali kitusaliddwako kyaggyibwawo olw’okukkiriza kwaffe.",
+    "Emboozi yaffe ejuliziddwa ng’okujjako mu bibuga ebyakkiriza oluvannyuma lw’okulaba ekibonerezo.",
+    "Ffe twali bantu ba nnabbi eyamira ennyanja ekika kya whale, naye ne tuwona okuzikirizibwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Abantu ba Yunus",
+        "Abantu b’e Nuh",
+        "Abantu b’e Hud",
+        "Abantu b’e Salih",
+        "Abantu ba Lut"
+      ],
+      "answer": "Abantu ba Yunus"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Amataba agasaanyaawo ebintu",
+        "Omuyaga ogw’amaanyi",
+        "Ekibonerezo eky’okuswazibwa ekyali kigenda okubaawo ekyaziyizibwa",
+        "Ensi ng’ezimira",
+        "Enkuba y’amayinja"
+      ],
+      "answer": "Ekibonerezo eky’okuswazibwa ekyali kigenda okubaawo ekyaziyizibwa"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Essanduuko",
+        "Engamiya enkazi",
+        "Ekibuga eky’abantu emitwalo kikumi",
+        "Abakozi ba Musa",
+        "Ekifo ekikuumirwamu ebintu ekya Qarun"
+      ],
+      "answer": "Ekibuga eky’abantu emitwalo kikumi"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Zaasaanawo ddala",
+        "Baaweebwa okunyumirwa okumala ekiseera",
+        "Zaakyusibwa ne zifuuka enkima",
+        "Bano babbidde mu mazzi",
+        "Baali bamira ensi"
+      ],
+      "answer": "Baaweebwa okunyumirwa okumala ekiseera"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

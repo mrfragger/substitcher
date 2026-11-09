@@ -1,0 +1,61 @@
+{
+  "title": "Ɔdaesofo no Foro a Ɔforo",
+  "intro": "Ɔkra bi a wɔahyɛ no sɛ ɔbɛyɛ kɛse, nanso sɔhwɛ ahorow a emu yɛ den sɔɔ no hwɛe no fii akwantu soronko bi ase. Na ahoɔyaw, ntetewmu, ne amanehunu a ɛnteɛ na ɛhyɛɛ onipa yi kwan agyirae, na ɛbaa awiei wɔ gyinabea a asɛyɛde kɛse ne nkabom a emu dɔ wom mu. So wubetumi ahu saa onipa nwonwaso yi afi Kur’aan mu?",
+  "clues": [
+    "Bere bi na wɔn a wɔbɛn me paa no ani bere me, na ɛmaa me ne m’awofo ne me fie ntam tetew kɛse.",
+    "Mihyiaa bere bi a na ɛyɛ den kɛse, a nea ɛka ho ne sɛ akwantufo tɔn me bo ketewaa bi.",
+    "Wɔbɔɔ me sobo wɔ ɔkwan a ɛnteɛ so sɛ mayɛ bɔne na midii mfe pii wɔ afiase, nanso me gyidi kɔɔ so anhinhim.",
+    "Wɔmaa me tumi soronko a mede bɛkyerɛ anisoadehu ahorow a emu yɛ den ase, na ɛno yɛɛ adwinnade wɔ m’akwan a ɛkɔ ahofadi mu no mu.",
+    "Awiei koraa no, me nyansa ne me mudi mu kura ma minyaa dibea a ɛwɔ tumi kɛse ne ahotoso wɔ ananafo asase so.",
+    "Ɛdenam nsɛm a esisii toatoa so so no, me ne m’awofo a ne mfe akɔ anim ne me nuanom san hyiae bere a na menni hɔ bere tenten na ɛyɛɛ yaw no."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Sulaiman",
+        "Odiyifo Yes",
+        "Ɔkɔmhyɛni Yusuf",
+        "Ɔkɔmhyɛni Dawud",
+        "Ɔkɔmhyɛni Yahya"
+      ],
+      "answer": "Ɔkɔmhyɛni Yusuf"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Mpataa kɛse bi a ɔbɛmene no",
+        "Adaka a wɔresi de agye abɔde nkwa",
+        "Atoro sobo ne afiasenna a wobegyina ano",
+        "Sodifo otirimɔdenfo bi a wɔde anwonwade behyia",
+        "Ɔyare a emu yɛ den ne adehwere a wɔbɛsɔ ahwɛ"
+      ],
+      "answer": "Atoro sobo ne afiasenna a wobegyina ano"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Kwae a ɛrehyew",
+        "Anomaa a ɔkasa",
+        "Abura bi",
+        "Poma a ɛredan ɔwɔ",
+        "Yoma-bere sɛ sɛnkyerɛnne"
+      ],
+      "answer": "Abura bi"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Tu a wotu kɔ bɔhyɛ asase bi so a wobedi anim",
+        "Ɔbɛyɛ ɔsomfo a ɔwɔ tumi wɔ Misraim",
+        "Ɔsoro atemmu a wobenya wɔ nkurɔfo a wɔyɛ ahantan so",
+        "Ahenni kɛse bi a wɔde nyansa ne atɛntrenee di so",
+        "Ɔsoro a wɔforo kɔ soro"
+      ],
+      "answer": "Ɔbɛyɛ ɔsomfo a ɔwɔ tumi wɔ Misraim"
+    }
+  },
+  "verseRef": "12:4",
+  "arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+  "verse": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\" (12:4)"
+}

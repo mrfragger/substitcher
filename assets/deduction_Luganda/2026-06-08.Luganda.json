@@ -1,0 +1,61 @@
+{
+  "title": "Omusaba w’Ekifo Ekitukuvu",
+  "intro": "Mu ssaawa ezisirifu ez’ekiro, emmeeme eyeewaddeyo yakoowoola Omusaasizi ennyo munda mu bbugwe omutukuvu ow’ekifo ekitukuvu. Emyaka egy’okukkiriza n’obugumiikiriza obutasalako gyali ginaatera okusasulwa ekyamagero ekyandireese essanyu n’omusika gw’obunnabbi.",
+  "clues": [
+    "Namala emisana n’ekiro nga nneewaayo munda mu kifo ekitukuvu, nga nneegayirira Mukama wange buli kiseera.",
+    "Nakaddiwa, ne mukyala wange yali mugumba, naye ate nga sifiirwa ssuubi mu kusaasira kwa Allah.",
+    "Naweebwa omwana ow’obulenzi, ayitibwa Yahya, eyafuuka nnabbi era ettaala y’obutuukirivu.",
+    "Nze kennyini nali nnabbi, ntumibwa okulungamya Abaana ba Isiraeri.",
+    "Nnali muzzukulu wa Nabbi Harun era nga mpeereza nga kabona mu Yeekaalu.",
+    "Nnakwasibwa okulabirira Maliyamu nnyina wa Isa era ne ndaba ebyamagero bye."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Nabbi Zakariyya",
+        "Nabbi Yahya",
+        "Nabbi Ilyas",
+        "Nabbi Ishaq",
+        "Nabbi Ya'qub"
+      ],
+      "answer": "Nabbi Zakariyya"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Yawa omwana ow’obulenzi mu bukadde",
+        "Yawonye omuliro ogwakutte omuliro",
+        "Yanunuddwa okuva mu lubuto lw’ekyennyanja",
+        "Yawona amataba amanene",
+        "Yawona obulwadde obw’amaanyi"
+      ],
+      "answer": "Yawa omwana ow’obulenzi mu bukadde"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Mihrab (ekifo eky’okusaba) .",
+        "Aba Kaaba",
+        "Ekisaka Ekyokya",
+        "Essanduuko y’Endagaano",
+        "Empuku y’Abasula Omusanvu"
+      ],
+      "answer": "Mihrab (ekifo eky’okusaba) ."
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yaweebwa omwana omutuukirivu eyafuuka nnabbi",
+        "Yasaanawo olw’omuyaga ogw’amaanyi",
+        "Yabbira mu nnyanja",
+        "Yawonye okuyokebwa",
+        "Baddayo mu bantu baabwe oluvannyuma lw’okuwona ekyennyanja"
+      ],
+      "answer": "Yaweebwa omwana omutuukirivu eyafuuka nnabbi"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ẹni tí ó jèrè Súrà kan",
+  "intro": "Fojú inú wo ọkàn onírẹ̀lẹ̀ kan tó ń tọ ọ̀kan lára ​​àwọn Òjíṣẹ́ Ọlọ́run lọ pẹ̀lú ọkàn tó kún fún òtítọ́ àti ìfẹ́ ọkàn láti kẹ́kọ̀ọ́. Síbẹ̀ ní àkókò yẹn gan-an, ẹni tó ní ọrọ̀ àti ipò gba àfiyèsí Òjíṣẹ́ náà, ojú sì tì í sí ẹni tó ń wá a. Ohun tó tẹ̀lé e jẹ́ orí kan ṣoṣo nínú Al-Quran, tí a rán láti tọ́ Òjíṣẹ́ náà sọ́nà àti láti bọlá fún ẹ̀mí tó wá ń wá a.",
+  "clues": [
+    "Mo wa si Ojise Olohun kan pelu okan ti o ṣii ati ifẹkufẹ fun itọsọna.",
+    "Mi ò ní ipò ayé kankan láti fún mi, ọkàn onírẹ̀lẹ̀ tó ń wá òtítọ́ ni mí, mo sì ní ipò tó dára láti fi fún mi.",
+    "Ojú mi ti ara kò lè ríran, ṣùgbọ́n ìran mi nípa ti ẹ̀mí ṣe kedere",
+    "Mo dé ní àkókò kan tí kò rọrùn, nígbà tí Ońṣẹ́ náà ní ọkàn pẹ̀lú ènìyàn kan tí ó ní ipa ńlá.",
+    "Ojú mi yípadà sí mi, ṣùgbọ́n Allah dáhùn pẹ̀lú àtúnṣe àtọ̀runwá",
+    "Emi ni Abdullah ibn Umm Maktum, ẹlẹgbẹ olufokansin ti itan rẹ ni atilẹyin Surah Abasa"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Abdullah ibn Umm Maktum",
+        "Bilal ibn Rabah",
+        "Mu'adh ibn Jabal",
+        "Zayd ibn Thabit",
+        "Salman al-Farisi"
+      ],
+      "answer": "Abdullah ibn Umm Maktum"
+    },
+    "trial": {
+      "label": "Ìdánwò / Ìṣẹ̀lẹ̀",
+      "options": [
+        "Wòlíì kọ̀ ọ́ sílẹ̀ nítorí ọlọ́rọ̀ kan",
+        "Àwọn ọ̀tá yóò jù ú sínú iná gbígbóná",
+        "Jíjẹ́ ẹni tí a tà tí a sì ń ṣe inúnibíni sí gẹ́gẹ́ bí ẹrú",
+        "Jíjẹ́ kí jagunjagun alágbára kan dojú ìjà kọ ọ́",
+        "Jíjẹ́ tí ẹja ńlá gbé mì"
+      ],
+      "answer": "Wòlíì kọ̀ ọ́ sílẹ̀ nítorí ọlọ́rọ̀ kan"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Orí Al-Quran tí ó bẹ̀rẹ̀ pẹ̀lú ìbínú (Suratu Abasa)",
+        "Iná tí a mú kí ó tutu tí ó sì ní ààbò",
+        "Ọ̀pá tí ó pín òkun ńlá kan sí méjì",
+        "Ọkọ̀ ayọ́kẹ́lẹ́ kan tí a kọ́ sórí òkè gíga kan",
+        "Ẹyẹ tí a fi amọ̀ líle ṣe"
+      ],
+      "answer": "Orí Al-Quran tí ó bẹ̀rẹ̀ pẹ̀lú ìbínú (Suratu Abasa)"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Allah fi sura Al-Quran kan silẹ ti o n gbeja mi.",
+        "Allah ló mú kí iná náà tutu, kí ó sì jẹ́ kí ó wà ní ààbò fún mi",
+        "Allah ya okun kuro lati gba mi lowo ilepa",
+        "Allah fun mi ni ijọba nla ati ọgbọn",
+        "Allah mu mi lọ sí ọ̀run láìkú"
+      ],
+      "answer": "Allah fi sura Al-Quran kan silẹ ti o n gbeja mi."
+    }
+  },
+  "verseRef": "80:2",
+  "arabic": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+  "verse": "Because there came to him the blind man, [interrupting]. (80:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Kusavapo Kutsvene",
+  "intro": "Kupfuura madutu enguva, kune nyaya yekuzvipira kusingazununguki uye kuvimba kwakasimba zvekuti mweya waive wakatakura waigona kuputsika. Munguva pfupi apo vanhu vakatendeukira kuhupenzi negoridhe, mumwe munhu akamira akasimba—achivadana kuti vadzoke, achikumbira mwoyo murefu, uye achitakura huremu hwevimbiso tsvene. Iyi inyaya yemumwe akasarudzwa semubatsiri, gweta, uye muchengeti wekutenda panguva yekushaikwa kwetsvene. Unogona kuburitsa pachena hunhu hwemweya uyu wakasimba here?",
+  "clues": [
+    "Ndinogoverana ropa remuporofita mukuru akasarudzwa kuti ataure naAllah zvakananga pagomo dzvene.",
+    "Mukoma wangu akambokumbira rubatsiro kuna Allah mukutaura zvakajeka nemudzvinyiriri mukuru.",
+    "Ndakasarudzwa naAllah kuti ndimire padivi pemukoma wangu semubatsiri uye mubatsiri.",
+    "Takatarisana nemutongi ane hutsinye uyo aida kunzi ndiye mukuru kupfuura vamwe vanamwari.",
+    "Mukoma wangu paaitaura naAllah pagomo, vanhu vedu vakazvigadzirira chifananidzo negoridhe ravo.",
+    "Ndiri mukoma waMosesi, akagadzwa naAllah semumiriri wake, anotaurwa nezita rake muQuran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muporofita Harun (Aroni)",
+        "Muprofita Musa",
+        "Muporofita Dhawud",
+        "Muporofita Yaqub",
+        "Muprofita Ishaq"
+      ],
+      "answer": "Muporofita Harun (Aroni)"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Dambudziko rekunamata mhuru",
+        "Mafashamo Makuru aNuh",
+        "Hondo yeBadr",
+        "Kuparadzwa kweThamud",
+        "Kuparadzwa kweSodhoma"
+      ],
+      "answer": "Dambudziko rekunamata mhuru"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Mhuru Yegoridhe",
+        "Areka yaNoa",
+        "Gwenzi Rinopfuta",
+        "Bako reHira",
+        "Chigaro choushe cheShebha"
+      ],
+      "answer": "Mhuru Yegoridhe"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kusava Nemhosva Kwakasimbiswa naAllah",
+        "Kunyura kwaFarao",
+        "Kuvaka Kaaba",
+        "Kuyambuka Gungwa Zvakachengeteka",
+        "Kukwira Kudenga"
+      ],
+      "answer": "Kusava Nemhosva Kwakasimbiswa naAllah"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

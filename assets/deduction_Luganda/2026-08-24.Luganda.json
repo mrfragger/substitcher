@@ -1,0 +1,61 @@
+{
+  "title": "Abawuliriza Abakwese Abakkiriza",
+  "intro": "Mu kusirika kw’olukuŋŋaana olutukuvu, olukuŋŋaana olw’ekitalo lwatuuka okuva mu kifo ekitalabika. Olw’okusendebwasendebwa okuwuubaala kw’ekintu ekyewuunyisa, baawulirizanga okusoma okwandibadde kussaako akabonero ku nkomerero yaabwe emirembe gyonna. Obujulizi bwabwe busigala nga bwe bumu ku businga okuba obw’enjawulo mu byawandiikibwa eby’obwakatonda.",
+  "clues": [
+    "Tuli bitonde okuva mu ttwale abasinga obungi abatalaba, era twajja ng’ekibinja.",
+    "Twatambula nga twolekera olukuŋŋaana okuwulira ekintu ekyewuunyisa.",
+    "Bwe twatuuka, twawuliriza okusoma okwatuleetera okwewuunya.",
+    "Twakkiriza mu lwatu nti abamu mu ffe batuukirivu ate abamu si batuukirivu.",
+    "Twamanya nti tetusobola kusimattuka kiragiro kya Katonda ku nsi, wadde okubuuka mu bbanga.",
+    "Bwe twawulira obulagirizi, twabukkiririzaamu; oyo akkiriza Mukama we tajja kutya kufiirwa wadde omugugu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Ekibinja ky’Abajinni",
+        "Abantu b’e Iramu",
+        "Abantu b'e Tubba'.",
+        "Obwakabaka bwa Rooma",
+        "Ekika kya Quraysh"
+      ],
+      "answer": "Ekibinja ky’Abajinni"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okuwuliriza okusoma okutukuvu",
+        "Okuzimba empagi empanvu mu kibuga kyaffe",
+        "Okuyigga engamiya enkazi ey’ekitalo",
+        "Okuzikirizibwa olw’okutta bannabbi baffe",
+        "Okukubisaamu obugagga okusukka ekipimo"
+      ],
+      "answer": "Okuwuliriza okusoma okutukuvu"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Olukungaana lw’okusoma okutukuvu",
+        "Ekibuga eky’empagi empanvu (Iram) .",
+        "Oluzzi mu ddungu",
+        "Olubiri olunene olwa zaabu",
+        "Empuku entukuvu mu nsozi"
+      ],
+      "answer": "Olukungaana lw’okusoma okutukuvu"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Twakkiriza era ne tulabula abantu baffe",
+        "Yasaanawo olw’okubwatuka okw’amaanyi okuva mu bbanga",
+        "Okubonerezebwa empewo eyokya era ezikiriza",
+        "Yaweebwa obugagga n’obuyinza bungi nnyo",
+        "Yasigala nga munywevu mu butakkiriza"
+      ],
+      "answer": "Twakkiriza era ne tulabula abantu baffe"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

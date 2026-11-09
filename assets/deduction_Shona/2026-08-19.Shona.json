@@ -1,0 +1,61 @@
+{
+  "title": "Rudzi Rwakaramba Kurongeka Kwechisikigo",
+  "intro": "Munzvimbo ine nyaya inoramba ichidzokororwa kwemakore, nharaunda yaigara mukupandukira pachena mitemo yekuchena. Mabasa avo akanga asina kumboitika zvekuti anoyeukwa senyevero kuvanhu vese. Mweya iyi yaiva vanaani, uye chii chakavawira?",
+  "clues": [
+    "Taigara munyika iri pedyo nenzira yaiwanzo pfuura nevafambi, asi takaita kuti rwendo rwavo ruve nenjodzi.",
+    "Takaita mabasa ekusazvibata asina kumbobvira aitwa nemunhu pasi rose.",
+    "Mutumwa kubva pakati pedu akatidana kuti tisiye nzira dzedu, asi takamuramba tikakumbira chirango kana akataura chokwadi.",
+    "Vaenzi vakanaka pavakauya muguta redu, takaedza kuvarwisa, tisingazive kuti vaiva nhume dzekuparadza.",
+    "Takanyeverwa nezvechirango chakaipisisa kana tikasarega, asi takaseka yambiro yacho ndokuramba tiri muchivi chedu.",
+    "Mvura yematombo yakabva kudenga yakatiwira, dzimba dzedu dzikaparadzwa, pasina kana chiratidzo chimwe chete chakasara kunze kwechiratidzo kune vanofungisisa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Vanhu veLut",
+        "Vanhu veThamud",
+        "Vanhu veA'ad",
+        "Vanhu vekuMadyan",
+        "Vanhu veSaba"
+      ],
+      "answer": "Vanhu veLut"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Akaita unzenza husina kumboitika uye migwagwa yakavharika",
+        "Akanamata mhuru yendarama",
+        "Akauraya ngamera tsvene yehadzi",
+        "Akabirirwa mukutengeserana uye akashaisa vanhu mukana wekuzviwanira mari",
+        "Vakavaka shongwe refu kuti vakwikwidze matenga"
+      ],
+      "answer": "Akaita unzenza husina kumboitika uye migwagwa yakavharika"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Ngirozi dzakapfeka sevaenzi vakanaka",
+        "Ngamera hadzi ichibuda padombo",
+        "Tsvimbo inoshanduka kuita nyoka",
+        "Chikepe chakavakwa pagomo",
+        "Moto wakazotonhora uye wakanyarara"
+      ],
+      "answer": "Ngirozi dzakapfeka sevaenzi vakanaka"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Yakaparadzwa nemvura yematombo kubva kudenga",
+        "Yakamedzwa nenyika",
+        "Kunyura mumafashamo makuru",
+        "Kurohwa nekuputika kukuru",
+        "Yakashandurwa kuita tsoko"
+      ],
+      "answer": "Yakaparadzwa nemvura yematombo kubva kudenga"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

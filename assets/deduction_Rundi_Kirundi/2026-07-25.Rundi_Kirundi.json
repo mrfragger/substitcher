@@ -1,0 +1,61 @@
+{
+  "title": "Abatuye mu mirima ibiri .",
+  "intro": "Mu gihugu imihezagiro yatemba cane, umuryango umwe wigeze kwinovora ubutunzi bw’amatongo abiri ateye igomwe. Ubuzima bwabo bwari igihe c’ubutoni bw’Imana, yamara inkuru yabo yarahindutse igihe ugukenguruka kwagabanutse, bituma haba uguhinduka kwari kuba ikimenyetso kiramvye ku bantu bose bazirikana.",
+  "clues": [
+    "Twari abantu bahezagiwe n’igihugu c’ukworoha n’umusesekara.",
+    "Umukama wacu yaduhaye amatongo abiri ateye igomwe, ateye igomwe kandi yera ivyamwa impande zose.",
+    "Twarategetswe gukenguruka, ariko twahisemwo kudakenguruka maze turahindukira.",
+    "Urugomero runini rwari rwabujije amazi yaha ubuzima igihugu cacu.",
+    "Igihe twaguma dukora ibibi, urugomero rwaraturitse maze amazi y’umwuzure aradukubita.",
+    "Amatongo yacu yahora ari meza cane yarasubiriwe n’ivyamwa birura, ibiti vy’amatamarisi be n’ibiti bikeyi vy’amalote."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Abantu b'i Saba",
+        "Abantu b'i Tamudi .",
+        "Abantu bo muri Madiyani",
+        "Abagenzi b'Isenga",
+        "Abantu b'inzovu"
+      ],
+      "answer": "Abantu b'i Saba"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Umuyaga w'inkazi umara amajoro indwi .",
+        "Imvura y'amabuye iva mw'ijuru",
+        "Umwuzure w'agahomerabunwa uva ku rugomero rwaturitse",
+        "Induru ikomeye iva mw'ijuru",
+        "Kurohama mu kiyaga"
+      ],
+      "answer": "Umwuzure w'agahomerabunwa uva ku rugomero rwaturitse"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Urugomero runini rw'i Ma'rib .",
+        "Ikiyaya ca Wadi al-Qura",
+        "Umurima wa Iramu .",
+        "Iriba rya Zazamu .",
+        "Umusozi wa Sinayi ."
+      ],
+      "answer": "Urugomero runini rw'i Ma'rib ."
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Amatongo yacu yarasubiriwe n’ivyamwa birura be n’ibiti bikeyi .",
+        "Twaramizwe n'isi mu nyamugigima .",
+        "Twarahindutse inkende n'ingurube",
+        "Twararohamye n'umwuzure mwinshi .",
+        "Twarasambuwe n'imvura y'amabuye ."
+      ],
+      "answer": "Amatongo yacu yarasubiriwe n’ivyamwa birura be n’ibiti bikeyi ."
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Inzwi Rakapikisa Kutonga Kwechidhori",
+  "intro": "Pakati pevatumwa veWemasimbaose paiva nemuranda akasimba akasimuka pakati perudzi rwakasindimara kuti ataure chokwadi. Vanhu vavo vakanga vatora mwari wenhema, vachitsauka kubva kuMusiki wezvose zviripo. Nekutsunga kusingazununguki, munhu uyu akavadana kuti vadzoke - asi shoko racho rakarambwa uye rakarambwa. Enda nepazviratidzo kuti uone kuti muranda uyu akazvipira aiva ani.",
+  "clues": [
+    "Ndakatumwa senhume kuvanhu vakaoma musoro vakanga vatsauka kure nenzira yakarurama.",
+    "Ndakauya kuzoyeuchidza rudzi rwangu nezveUyo akasika zvese zviripo — akanakisa kupfuura vese vagadziri.",
+    "Vanhu vangu vakanga vatendeukira kuchifananidzo chenhema chavairemekedza uye chavaidana masikati neusiku.",
+    "Ndakavabvunza neushingi kuti sei vaizonamata mwari wenhema vosiya Ishe wavo wechokwadi.",
+    "Vakandiramba, vakaramba kuteerera, uye vakabatirira panhema dzavo—asi Ishe wangu akandichengetedza.",
+    "Ndini Ilyas — uye rugare rwakapihwa kwandiri, uye ndakaverengwa pakati pevaranda vanotenda veMune Ngoni Zvikuru."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Ilyas",
+        "Muprofita Idris",
+        "Muprofita Alyasa",
+        "Muporofita Dhul-Kifl",
+        "Muprofita Nuh"
+      ],
+      "answer": "Muprofita Ilyas"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kudana vanhu kuti vabve pakunamata Bhaari",
+        "Kutarisana nemudzvinyiriri aizviti mwari",
+        "Kunyevera vanhu nezvemafashamo ari kuuya",
+        "Kukandwa mumoto mukuru unopfuta",
+        "Kutungamira kubuda munyika yeuranda"
+      ],
+      "answer": "Kudana vanhu kuti vabve pakunamata Bhaari"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Chifananidzo chinonzi Bhaari",
+        "Areka huru yakavakwa nematanda akasimba",
+        "Tsvimbo yakaparadzanisa gungwa guru",
+        "Nguo tsvene yakasanganiswa neropa",
+        "Gwenzi rinopfuta pagomo dzvene"
+      ],
+      "answer": "Chifananidzo chinonzi Bhaari"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Rugare rwakapihwa uye rwunoverengwa pakati pevaranda vakasarudzwa vaAllah",
+        "Takaendeswa kuparadhiso vamwe vose vakaparadzwa",
+        "Kununurwa kubva mumoto mukuru wakazotonhora uye wakachengeteka",
+        "Akapihwa simba pamusoro pemajini, vanhu, nemhepo",
+        "Muviri wakachengetedzwa sechiratidzo chisingaperi kwezvizvarwa"
+      ],
+      "answer": "Rugare rwakapihwa uye rwunoverengwa pakati pevaranda vakasarudzwa vaAllah"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Muedzo weDombo Risina Kubereka",
+  "intro": "Nharaunda, ine hunyanzvi uye inodada, yakaisa nhaka yavo mumakomo chaiwo. Asi pavakatumirwa chiratidzo chakajeka, muedzo wekutenda nekudzora, kuzvikudza kwavo kwakavatungamirira munzira isingadzokeri shure. Unogona kuziva boka iri nemhedzisiro yekusateerera kwavo here?",
+  "clues": [
+    "Taiva nyanzvi dzematombo, tichiveza dzimba dzakanaka kwazvo mumakomo.",
+    "Mutumwa wevanhu vedu akauya kwatiri, achitidana kuti tinamate Mwari Mumwe Chete Wechokwadi.",
+    "Takakumbira chiratidzo chekusimbisa mashoko ake, uye chisikwa chakasiyana chakabudiswa semuedzo kwatiri.",
+    "Takapihwa murairo uri nyore: wekugovana mvura yedu nechisikwa ichi, tichichirega chichinwa pazuva racho.",
+    "Mukuzvikudza kwedu, vashoma pakati pedu vakarangana uye takaramba yambiro, tichiparadza chisikwa chaifanira kuva chiratidzo chedu.",
+    "Takapihwa mazuva matatu tisati tasvika pakuparadzwa, uye ipapo kuputika kukuru kwakatibata mudzimba dzedu, zvikatisiya tisisina upenyu uye takapidiguka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tiri vanaani?",
+      "options": [
+        "Vanhu ve'Ad",
+        "Vanhu vekuMadyan",
+        "Vanhu veThamud",
+        "Vanhu veSaba",
+        "Vanhu veLut"
+      ],
+      "answer": "Vanhu veThamud"
+    },
+    "trial": {
+      "label": "Muedzo Wedu Mukuru Waiva Chii?",
+      "options": [
+        "Kuvaka areka kuti ipone mafashamo",
+        "Kuramba chido chekuredza hove paSabata",
+        "Kurega maitiro ebhizinesi ekubiridzira",
+        "Kudzivirira ngamera hono inoshamisa",
+        "Kutsungirira nzara yemakore manomwe"
+      ],
+      "answer": "Kudzivirira ngamera hono inoshamisa"
+    },
+    "location": {
+      "label": "Chii Chaiva Chinhu Chikuru Munyaya Yedu?",
+      "options": [
+        "Mhuru Yegoridhe",
+        "Ngamera Hadzi",
+        "Tsvimbo yaMuporofita Musa",
+        "Dhamu Guru reMa'rib",
+        "Tafura Yakaparadzirwa Kubva Kudenga"
+      ],
+      "answer": "Ngamera Hadzi"
+    },
+    "outcome": {
+      "label": "Chii Chaiva Mugumo Wedu Mukuru?",
+      "options": [
+        "Kunyura mumafashamo makuru",
+        "Yakachinjwa kuita tsoko nenguruve",
+        "Kukundwa nemhepo ine simba",
+        "Yakapararira nekuputika kwedhamu",
+        "Yakaparadzwa nekuputika kukuru/kudengenyeka kwenyika"
+      ],
+      "answer": "Yakaparadzwa nekuputika kukuru/kudengenyeka kwenyika"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

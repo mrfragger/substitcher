@@ -1,0 +1,61 @@
+{
+  "title": "Mweya yeMugero",
+  "intro": "Unodzokera kunguva apo mutongi ane hutsinye aida kuzvipira zvizere kuna vanamwari venhema. Nzanga diki yevanhu vakazvipira yakaramba, uye yakatarisana nechirango chakaoma zvekuti yakazotukwa nekusingaperi. Nyaya yavo inodzokororwa muKorani sechiratidzo chekutenda kusingazununguki. Unogona kuziva boka iri rakasimba here?",
+  "clues": [
+    "Taigara munyika yaiva pasi pehudzvanyiriri hwemutongi aida kuti vanamati venhema vanamate.",
+    "Nharaunda yedu yakatarisana nekutambudzwa kwakanyanya nekuda kwekutenda kwedu muna Allah chete",
+    "Mutongi akarayira kuti mugero mukuru ucherwe uye upiswe nemoto unopisa",
+    "Nekuti takaramba kuramba kutenda kwedu, takakandwa mugomba iroro raipfuta rimwe nerimwe",
+    "Nyaya yedu yakava chikamu cheQuran, uye avo vakatitambudza vakatukwa nekusingaperi.",
+    "Surah inonyora nezvematambudziko edu yakatumidzwa zita rezviratidzo zvikuru zvekudenga"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tiri vanaani?",
+      "options": [
+        "Shamwari dzemugero (Ashab al-Ukhdud)",
+        "Vanhu veBako (Ashab al-Kahf)",
+        "Vanhu veSabata",
+        "Vanhu veA'ad",
+        "Vanhu veThamud"
+      ],
+      "answer": "Shamwari dzemugero (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "Kuedzwa Kwedu",
+      "options": [
+        "Kupiswa vari vapenyu mugomba remoto",
+        "Kuvharirwa mubako kwemakore mazhinji",
+        "Kubata hove pazuva dzvene rekuzorora",
+        "Kuparadzwa nemhepo inovhuvhuta",
+        "Kuuraya ngamera tsvene"
+      ],
+      "answer": "Kupiswa vari vapenyu mugomba remoto"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Mugero wemoto unopfuta",
+        "Bako rakavanzika rine imbwa yakavimbika",
+        "Mbiru refu dzeguta rekare rakaparadzwa",
+        "Dzimba dzemumakomo dzakavezwa pamatombo",
+        "Bani rakashama rakatsvairwa nemhepo ine simba"
+      ],
+      "answer": "Mugero wemoto unopfuta"
+    },
+    "outcome": {
+      "label": "Mhedzisiro Yedu",
+      "options": [
+        "Takaurayiwa uye vaititambudza vakatukwa nekusingaperi",
+        "Takamuka mushure mekurara kwemakore mazana matatu nemapfumbamwe",
+        "Takashandurwa kuita tsoko nekuda kwekudarika kwedu",
+        "Mhepo ine simba yakavhuvhuta yakatiparadza tose",
+        "Kuchema kumwe chete kwakaparadza hupenyu hwedu"
+      ],
+      "answer": "Takaurayiwa uye vaititambudza vakatukwa nekusingaperi"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

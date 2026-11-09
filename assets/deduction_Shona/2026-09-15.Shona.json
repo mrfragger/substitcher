@@ -1,0 +1,61 @@
+{
+  "title": "Kugamuchira Vaeni Kwakaunza Rutyo",
+  "intro": "Muguta rakazadzwa neuipi, mumwe muranda akatendeka akagamuchira vaenzi vasingatarisirwi rimwe zuva. Aine hanya nekuchengetedzeka kwavo, munhu uyu akavadzivirira, asi vanhu veguta vakakumbira chimwe chinhu chinonyadzisa. Anyeverwa nezvekuparadzwa kwaizouya, muranda akatiza nemhuri yake murima, achisiya guta rakanyorwa kuti rinofanira kuparadzwa. Ndiani mutendi uyu ari ega?",
+  "clues": [
+    "Ndakatumwa senhume kuvanhu vakanga vaita mabasa anonyadzisa.",
+    "Vashanyi vasingatarisirwi vakauya kumba kwangu, uye ndainyanya kunetseka nezvekuchengetedzeka kwavo kupfuura kwangu.",
+    "Vanhu vangu vaida kuona vaenzi vangu nekuda kwezvinangwa zvakaipa, uye ndakaedza kuvabatsira.",
+    "Vashanyi vangu vakazviratidza sengirozi uye vakandirayira kuti nditore mhuri yangu ndiende husiku.",
+    "Mudzimai wangu haana kuteerera chikumbiro chekuti atize uye akatarisana nekuparadzwa kwakafanana nekwevanhu vangu.",
+    "Guta rangu rakaparadzwa nemvura yematombo evhu rakaiswa pamusoro, zvikamu zvaro zvepamusoro zvakaderedzwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muporofita Lut",
+        "Muprofita Musa",
+        "Muprofita Ibrahim",
+        "Muprofita Nuh",
+        "Muporofita Hud"
+      ],
+      "answer": "Muporofita Lut"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Chikumbiro chevanhu vangu chekusvika kune vaenzi vangu nenzira yakaipa",
+        "Kupatsanurwa kwegungwa kutiza mudzvinyiriri",
+        "Kuvakwa kweareka huru pakati pekunyombwa",
+        "Chibayiro chemwanakomana wangu mukuedzwa kwekutenda",
+        "Chiitiko chekumedzwa nehove huru"
+      ],
+      "answer": "Chikumbiro chevanhu vangu chekusvika kune vaenzi vangu nenzira yakaipa"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Guta revanhu vangu rakaparadzwa",
+        "Gomo randakagamuchira hurukuro yaMwari",
+        "Areka yakafamba nemumafashamo makuru",
+        "Ngamera hadzi yakabuda mudombo",
+        "Bindu rine muenzi akarurama akavanda"
+      ],
+      "answer": "Guta revanhu vangu rakaparadzwa"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Ndakaponeswa nemhuri yangu guta rangu risati raparadzwa",
+        "Ndakatungamira vanhu vangu kurusununguko mhiri kwegungwa",
+        "Ndakavaka areka huru ndikapona mafashamo makuru",
+        "Ndakapiwa simba pamusoro pemhepo nemajini",
+        "Ndakatsungirira kutambura nemoyo murefu uye ndakawana mubayiro wemhuri"
+      ],
+      "answer": "Ndakaponeswa nemhuri yangu guta rangu risati raparadzwa"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

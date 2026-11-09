@@ -1,0 +1,61 @@
+{
+  "title": "Kalsoonida loo dhiibay Webiga",
+  "intro": "Naf baa la kulantay amar aan macquul ahayn, halkaas oo nolosha ilmaha dhashay ay ku dheggan tahay dheelitirka. Iyada oo lagu hagayo waxyiga rabbaaniga ah, amar quus ah ayaa la raacay, sir qaali ahna waxaa la dhigay qulqulka, laakiin si lama filaan ah ayaa loo soo celiyay.",
+  "clues": [
+    "Waxaan hooska ku noolaa kaligii taliye amar ku bixiyay dilka wiilasha cusub.",
+    "Waxyi rabbaani ah ayaa ii yimid, oo i faray inaan qaado tallaabo quus ah oo qalbi jabinaysa.",
+    "Ilmahaygii qaaliga ahaa waxaan ku riday sanduuq oo waxaan dul saaray webiga socda.",
+    "Qalbigaygu wuu madhnaa, waxaana ku dhawaaday inaan shaaca ka qaado sirta, laakiin Alle ayaa igu xoojiyay go'aankeyga.",
+    "Waxaan qof u diray inuu raaco safarka ilmaha ee dhinaca hoose iyadoo hirarku ay sanduuqa ka qaadeen.",
+    "Ilmaha waxaa helay qoyska kaligii-taliyihii, ugu dambayntiina, waxaan dib ula midoobay ilmahayga oo waxaan noqday kalkaaliye caafimaad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Hooyadii Nabi Muuse",
+        "Aasiya (Xaaskii Fircoon)",
+        "Maryam (Hooyadii Nabi Ciise)",
+        "Xaaskii Nabi Luut",
+        "Hooyadii Nabi Yaxya (xaaskii Zakariya)"
+      ],
+      "answer": "Hooyadii Nabi Muuse"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Waxay ilmaheedii ku ridday sanduuq oo waxay saartay webiga agtiisa",
+        "Waxay ilmaheeda ku qarisay god",
+        "Waxay ilmaheedii kaga tagtay saxaraha",
+        "Waxay ilmaheedii ku tuurtay dab",
+        "Waxay ilmaheeda kaga tagtay albaabka masaajid"
+      ],
+      "answer": "Waxay ilmaheedii ku ridday sanduuq oo waxay saartay webiga agtiisa"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Sanduuq saaran webiga oo dul sabeynaya",
+        "Geed gubanaya",
+        "Ul isu beddeshay abeeso",
+        "Miis lagu dul fidiyay cunto samada ka timid",
+        "Hashii loo diray calaamad ahaan"
+      ],
+      "answer": "Sanduuq saaran webiga oo dul sabeynaya"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Waxay dib ula midowday ilmaheedii oo way nuujisay",
+        "Mar dambe ma aysan arag ilmaheeda",
+        "Waxaa dilay kaligii-taliye",
+        "Waxay boqorad ka noqotay Masar",
+        "Waxay u haajirtay dhul kale waxayna ku noolayd qaxonimo"
+      ],
+      "answer": "Waxay dib ula midowday ilmaheedii oo way nuujisay"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

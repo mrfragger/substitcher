@@ -1,0 +1,61 @@
+{
+  "title": "Ohùn Láti Àwọn Òde Òde",
+  "intro": "O dúró ní ìlú kan níbi tí àwọn ìránṣẹ́ mẹ́ta ti wá pẹ̀lú àwọn àmì tí ó hàn gbangba, ṣùgbọ́n àwọn ènìyàn ń fi wọ́n ṣe ẹlẹ́yà, wọ́n sì di ìwà àtijọ́ wọn mú. Láti apá jíjìnnà jùlọ nínú ìlú náà, ènìyàn kan sáré lọ sí ọ̀dọ̀ àwọn ènìyàn, pẹ̀lú ẹ̀mí àti ìpinnu, láti sọ òtítọ́ lójú ìkọ̀sílẹ̀. Ta ni ẹ̀mí yìí tí ó fi gbogbo nǹkan wewu fún ìhìn tí kì í ṣe tiwọn?",
+  "clues": [
+    "Mo gbé láàárín àwọn ènìyàn kan tí wọ́n ti gba àwọn ìránṣẹ́ pẹ̀lú àwọn àmì tí ó hàn gbangba, síbẹ̀ wọ́n yípadà pẹ̀lú ìgbéraga.",
+    "Mo sáré wá láti apá tó jìnnà jùlọ nínú ìlú náà nígbà tí mo gbọ́ ìpè àwọn ìránṣẹ́ náà.",
+    "Mo sọ fún àwọn ènìyàn mi pé, ‘Ẹ̀yin ènìyàn mi, ẹ tẹ̀lé àwọn ìránṣẹ́. Ẹ tẹ̀lé àwọn tí kò béèrè èrè lọ́wọ́ yín, nítorí wọ́n jẹ́ amọ̀nà tí ó tọ́.’",
+    "Èmi kì í ṣe wòlíì, ṣùgbọ́n mo gba àwọn ìránṣẹ́ gbọ́ mo sì rọ àwọn ènìyàn mi láti ṣe bẹ́ẹ̀.",
+    "Àwọn ènìyàn mi fi ìmọ̀ràn mi ṣe yẹ̀yẹ́, wọ́n sì fi mí ṣe ẹlẹ́yà pé mo jẹ́ ajìjàgbara.",
+    "Nígbà tí wọ́n pa mí, Allah sọ fún mi pé kí n wọ inú Párádísè, mo sì fẹ́ kí àwọn ènìyàn mi mọ ìdáríjì àti ọlá tí mo gbà."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Ọkùnrin láti apá jíjìnnà jùlọ ìlú náà (Ya-Sin)",
+        "Ọ̀kan lára ​​àwọn ìránṣẹ́ mẹ́ta tí a rán sí ìlú náà",
+        "Oníṣòwò pàtàkì kan ní ìlú náà",
+        "Olórí ìlú náà",
+        "Olórí àwọn aláìgbàgbọ́"
+      ],
+      "answer": "Ọkùnrin láti apá jíjìnnà jùlọ ìlú náà (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ó ń wàásù fún àwọn ènìyàn rẹ̀ láti tẹ̀lé àwọn ìránṣẹ́",
+        "Kíkọ́ ọkọ̀ ojú omi láti gba àwọn onígbàgbọ́ là kúrò nínú ìkún omi",
+        "Jíjẹ́ ẹni tí a jù sínú iná fún ìgbàgbọ́",
+        "Bí ẹja ńlá bá gbé e mì",
+        "Jíjẹ́ kí a fún ọ ní ìjọba àti ọgbọ́n"
+      ],
+      "answer": "Ó ń wàásù fún àwọn ènìyàn rẹ̀ láti tẹ̀lé àwọn ìránṣẹ́"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Apá tó jìnnà jùlọ nínú ìlú náà",
+        "Àpótí náà",
+        "Kànga náà",
+        "Igbó tí ń jó náà",
+        "Ihò náà"
+      ],
+      "answer": "Apá tó jìnnà jùlọ nínú ìlú náà"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Wọ inú Párádísè, ó sì fẹ́ kí àwọn ènìyàn rẹ̀ mọ ìdáríjì rẹ̀.",
+        "Ó rì mọ́lẹ̀ pẹ̀lú àwọn ènìyàn rẹ̀ fún kíkọ̀ láti gbọ́ ìhìn náà",
+        "Wọ́n fún un ní iṣẹ́ ìyanu ti abo ràkúnmí",
+        "Ó di alákòóso lẹ́yìn ìgbẹ́jọ́ rẹ̀",
+        "Allah gbà á là, ó sì dúró pẹ̀lú àwọn ènìyàn rẹ̀"
+      ],
+      "answer": "Wọ inú Párádísè, ó sì fẹ́ kí àwọn ènìyàn rẹ̀ mọ ìdáríjì rẹ̀."
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Manzwiro Acho Anopfuura Nepamawere",
+  "intro": "Fungidzira mupata une dzimba dzakacherwa kubva pamawere, uye mhepo ine ndangariro yeyambiro isina kuteererwa. Vanhu vakambobudirira pano, vakaropafadzwa asi vasingateereri, kusvikira chiratidzo chabuda padombo ravaivimba naro.",
+  "clues": [
+    "Taiva vanhu vaigadzira dzimba dzakachengeteka kubva kumakomo, vachinzwa vakachengeteka mudzimba dzedu dzine matombo.",
+    "Taigara munyika ine mapani nematombo, yakakomborerwa neminda nezvitubu.",
+    "Mutumwa aibva pakati pedu akauya, achitidana kuti tisiye vamwari vedu venhema tonamata Musiki mumwe chete wechokwadi.",
+    "Takazvikudza tichiisa murairo wekutenda: chiratidzo chakasiyana chaizobuda mumatombo atakaveza.",
+    "Ngamera diki yakavimbiswa payakabuda mudombo, chiratidzo chakajeka, vakuru vedu vakaramba vachiri kuicheka makumbo pasinei nenyevero yekuparadzwa kwaizouya.",
+    "Mazuva matatu mushure mechiito chedu, kurira kukuru kwakanzwika mumupata, uye takaparadzwa kuita matongo, dzimba dzedu dzakava makuva edu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tiri vanaani?",
+      "options": [
+        "Vanhu ve'Ad'",
+        "Vanhu veThamud",
+        "Vanhu vekuMadyan",
+        "Vanhu veGrove",
+        "Vanhu veBako"
+      ],
+      "answer": "Vanhu veThamud"
+    },
+    "trial": {
+      "label": "Chiitiko Chedu Chekutongwa/Chiitiko Chikuru",
+      "options": [
+        "Kurohwa kwemakumbo kwengamera kadzi yaAllah",
+        "Kunamatwa kwemhuru yegoridhe",
+        "Kuputswa kweSabata",
+        "Kuvakwa kweshongwe kudenga",
+        "Kuurayiwa kwevaprofita"
+      ],
+      "answer": "Kurohwa kwemakumbo kwengamera kadzi yaAllah"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha Munyaya Yedu",
+      "options": [
+        "Ngamera hadzi yaAllah",
+        "Tsvimbo yaMusa",
+        "Areka yaNuh",
+        "Ruoko ruchena rwaMusa",
+        "Shiri yaIsa"
+      ],
+      "answer": "Ngamera hadzi yaAllah"
+    },
+    "outcome": {
+      "label": "Mhedzisiro Yedu",
+      "options": [
+        "Kuparadzwa nekuputika kunotyisa",
+        "Mvura yematombo inobva kudenga",
+        "Mafashamo akafukidza nyika",
+        "Mhepo ine simba yakatidzura",
+        "Nyika yakatimedza"
+      ],
+      "answer": "Kuparadzwa nekuputika kunotyisa"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

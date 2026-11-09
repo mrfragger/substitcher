@@ -1,0 +1,61 @@
+{
+  "title": "Uqrat tan Aamanti",
+  "intro": "opulent hall of power, kufri kee qanxaffe elle sugteh tan aracal, dubuk yan numma xongolo qammalsime wayta aracal yabte. ta muuci gexkalit reedanti farmoyti kalaloonuh, ken amni kasaara numma yaysixxigoonuh.",
+  "clues": [
+    "Anu kaxxa qanxaffe le baaxol mannoowak, rabbiino inta miraacah ayfaf acayuk suge.",
+    "Anu inni nummâ mabla mango sanootah qelliseh suge, ken baxxaqisaanam katassah tan xalootuk meysitak.",
+    "farmoyti qado astooti luk yamaate wak, anu aamineh, takkay immay yi ummatta kaal celsis abte.",
+    "Anu qanxaffele num kee kay mala buxak foocal sooleh, oson currik yan farmoyti qidaanam mafaxxinta axcuk qadaaqadisak.",
+    "Anu Nuuc kee Qaadih ummattah innah tan numma cineh taturte agattiinaanih digaalak ken diggoseh.",
+    "Yalli ken uma cogdah yoo catteh, zulmi xintoh gacsi sumaaqiteh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Anu miyyaay?",
+      "options": [
+        "Firqawnih Buxah Mara Moomiin",
+        "Firqawni Baab abeyna",
+        "Firqawni Waziir",
+        "Firqawni barra",
+        "Firqawni Gaddali"
+      ],
+      "answer": "Firqawnih Buxah Mara Moomiin"
+    },
+    "trial": {
+      "label": "Gibbatu/Tekkooka",
+      "options": [
+        "Nabiyyi qidimih kalalaanam",
+        "Baab abeynit cogdaadih gexkalit",
+        "Qaran gufoonuh kalqat xisaanama",
+        "Baddi kudah baxsimaanama",
+        "Amoyti soono maqnisaanama"
+      ],
+      "answer": "Nabiyyi qidimih kalalaanam"
+    },
+    "location": {
+      "label": "Lafa le liyyitte",
+      "options": [
+        "Firqawni cokmih buxa",
+        "cararta caxa",
+        "dahabak tan ruga",
+        "Madyan qeeli",
+        "Nabi Nuuc Arnab"
+      ],
+      "answer": "Firqawni cokmih buxa"
+    },
+    "outcome": {
+      "label": "Xalu",
+      "options": [
+        "zaylale mari finqite wak biyaakak cattiimeh",
+        "Caylale mirac yekke",
+        "Girat qideenih sugeenim kee biyaakiteh yewqe",
+        "Baaxol yanxuqeh suge",
+        "morootom liggiditteh bacari addat meekite"
+      ],
+      "answer": "zaylale mari finqite wak biyaakak cattiimeh"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

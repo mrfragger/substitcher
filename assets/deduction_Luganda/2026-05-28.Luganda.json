@@ -1,0 +1,61 @@
+{
+  "title": "Omulwadde Atawuguka",
+  "intro": "Mu bitabo by’ebyafaayo by’obunnabbi, batono abagumidde okufiirwa okw’amaanyi n’okubonaabona okw’omubiri bwe kutyo n’okukkiriza okutakankana. Emboozi ya ffiga eno ssomo eritaggwaawo mu bugumiikiriza n’okwesiga amagezi ag’obwakatonda. Omwoyo guno y’ani?",
+  "clues": [
+    "Nalondebwa Allah okutuusa obubaka, naye ekigezo kyange ekisinga obunene tekyajja mu kugaana, wabula mu kabi ak’obuntu.",
+    "Eby’obugagga byange, ebisolo byange n’abaana bange byanzigyako, omu oluvannyuma lw’omulala.",
+    "Omubiri gwange gwali gujjudde amabwa, era nnasigala nzekka okuggyako obuwagizi bwa munnange.",
+    "Nakaabira Mukama wange, nga nkiriza okubonaabona kwange era nga nnoonya okusaasira kwe.",
+    "Nalagirwa okukuba ettaka n’ekigere kyange, era ensulo eyali ezzaamu amaanyi n’ekulukuta.",
+    "Allah yanzizaamu obulamu bwange n’ampa amaka amapya n’obugagga n’okusinga bwe nnalina edda."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Nabbi Ayyuub",
+        "Nabbi Ibrahim",
+        "Nabbi Musa",
+        "Nabbi Isa",
+        "Nabbi Nuh"
+      ],
+      "answer": "Nabbi Ayyuub"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okufiirwa obugagga n’amaka",
+        "Okusuulibwa mu muliro",
+        "Okumira ekyennyanja",
+        "Okwawukana ku maka ne batundibwa mu buddu",
+        "Okugezesebwa n’ennyana eya zaabu"
+      ],
+      "answer": "Okufiirwa obugagga n’amaka"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Ensulo y’amazzi",
+        "Omuggo ogwafuuka omusota",
+        "Eryato ery’embaawo",
+        "Ennyana esaanuuse",
+        "Omuti gw’enkindu"
+      ],
+      "answer": "Ensulo y’amazzi"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Okuzzaawo amaka n’obugagga",
+        "Okulinnya mu ggulu",
+        "Okufuuka kabaka",
+        "Okuwonyezebwa okuva ku nnyanja ekika kya whale",
+        "Okufuna omwana ow’obulenzi mu bukadde"
+      ],
+      "answer": "Okuzzaawo amaka n’obugagga"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

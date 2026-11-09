@@ -1,0 +1,61 @@
+{
+  "title": "Mutoro Wakaunza Kuporesa",
+  "intro": "Mweya wakaedzwa zvisingaperi wakabviswa nyaradzo, shamwari, uye simba remuviri. Ari ega mukutambudzika kukuru, muranda uyu waAllah akatendeukira kuna Mwari chete. Kuburikidza nemoyo murefu usingazununguki uye munamato wemwoyo wese, mafungu etsitsi akasvika kupfuura zvese zvaitarisirwa. Ndiani munhu uyu ane kuzvipira kwakavhura musuwo wekudzorerwa?",
+  "clues": [
+    "Ndaiva muranda waAllah aidiwa, ndichinakidzwa nehupfumi, mhuri yakabudirira, uye hutano hwakanaka mumazuva angu.",
+    "Ipapo muedzo wakauya: pfuma yakaenda, vadikani vakaenda, uye nyama yangu yakarohwa nekutambudzika kukuru.",
+    "Avo vaiva pedyo neni vakatadza kutsungirira mamiriro angu ezvinhu, uye ndakasiyiwa ndiri ndega, muviri wangu uchitambura.",
+    "Ndakadana Ishe wangu, ndichiti Satani akanga andibata nekuneta uye chirango.",
+    "Mhinduro yakauya — ndakarairwa kuti ndirove pasi netsoka yangu, uye mvura inotonhorera yakabuda mairi kuti iporeswe.",
+    "Ishe wangu vakabvisa matambudziko zvachose uye vakandidzorera mhuri yangu, yakawanda, sechiratidzo chetsitsi kune avo vanofungisisa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Ayyub",
+        "Muprofita Musa",
+        "Muprofita Yusuf",
+        "Muprofita Yunus",
+        "Muprofita Ibrahim"
+      ],
+      "answer": "Muprofita Ayyub"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kurwara kwakanyanya uye kurasikirwa nehupenyu hwese",
+        "Kukandirwa mumoto nekuraira kwemudzvinyiriri",
+        "Kusungwa mugomba rakadzika nehama",
+        "Yakamedzwa nehove huru mugungwa",
+        "Kudzungaira muutapwa kubva kunyika yekwavo"
+      ],
+      "answer": "Kurwara kwakanyanya uye kurasikirwa nehupenyu hwese"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Chitubu chinotonhorera chaibuda pasi",
+        "Moto unotonhorera uye une rugare",
+        "Areka yakagara pagomo",
+        "Vashandi vakapatsanura gungwa",
+        "Dengu riri kuyerera pamusoro perwizi"
+      ],
+      "answer": "Chitubu chinotonhorera chaibuda pasi"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Mhuri nemaropafadzo zvadzorerwa, zvakapetwa kaviri",
+        "Akapukunyuka moto unopisa asina kukuvara",
+        "Akasimudzirwa kuhofisi yepamusoro-soro yeumambo",
+        "Akabuda mudumbu rehove huru achienda kunzvimbo yakachengeteka",
+        "Akatungamirira vanhu kuburikidza negungwa rakakamurwa"
+      ],
+      "answer": "Mhuri nemaropafadzo zvadzorerwa, zvakapetwa kaviri"
+    }
+  },
+  "verseRef": "38:43",
+  "arabic": "وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةًۭ مِّنَّا وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ",
+  "verse": "And We granted him his family and a like [number] with them as mercy from Us and a reminder for those of understanding. (38:43)"
+}

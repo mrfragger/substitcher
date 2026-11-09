@@ -1,0 +1,61 @@
+{
+  "title": "Codka Aamusnaanta ee Qolka",
+  "intro": "Duco ayaa ka soo yeedhaysa xasilloonida qol barakeysan waqti dheer ka hor, iyadoo ka soo kacaysa naf gabowday oo u xiisaynaysa waxa adduunku ku dhawaaqay wax aan macquul ahayn. Tiradan, oo da'deedu sii kordheyso oo ay ku cuslaatay welwelka mustaqbalka, ayaa u jeestay Rabbigooda iyagoo duco shaqsiyeed u samaynaya. Waxa xigay waxay ahayd jawaab rabbaani ah oo ka hor imaanaysa rajo kasta oo dabiici ah - markhaati u ah naxariista Kan ka jawaabaya baaqa quusta ah.",
+  "clues": [
+    "Waxaan Rabbigeyga si gaar ah ugu yeeray, anigoo u baxay qol aan ku dadaalay cibaadada.",
+    "Waxaan u qirtay Rabbigeyga inaan ka baqay kuwa iga dambeeya, anigoo ka walwalsan hagitaanka dadkayga marka aan baxo.",
+    "Gabow ayaa i qabsaday—lafahaygu way daciifeen timo cadna madaxayga ayay ku fideen.",
+    "Xaaskaygu waxay ahayd madhalays nolosheeda oo dhan, haddana weli waxaan Rabbigay ka baryay inuu i siiyo dhaxal ka yimid hortiisa.",
+    "Waxaan codsaday calaamad, Rabbigeyna wuu ii jawaabay isagoo iga hor istaagay inaan qof la hadlo saddex habeen, anigoo jir ahaan caafimaad qaba.",
+    "Waxaa la ii ballan qaaday wiil magaciisa la odhan doono Yaxya, magac uu Rabbigey ku dhawaaqay oo aan hore loo siinin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Zakariya",
+        "Nabi Nuux",
+        "Nabi Muuse",
+        "Nabi Yuusuf",
+        "Nabi Daa'uud"
+      ],
+      "answer": "Nabi Zakariya"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Ducada dhaxalka gabowga ah ee xaaska madhalayska ah",
+        "In lagu tuuro dab ololaya",
+        "Kalluun weyn oo mugdi ku jira ayaa liqay",
+        "U adkeysiga luminta qoyska, hantida, iyo caafimaadka",
+        "In la amro in la dhiso doon weyn"
+      ],
+      "answer": "Ducada dhaxalka gabowga ah ee xaaska madhalayska ah"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Qolka salaadda (mihrab)",
+        "Ul isu beddeshay abeeso",
+        "Sanduuq alwaax ah oo weyn",
+        "Beer leh gu' gaar ah",
+        "Buur ay shimbiruhu isugu soo urureen"
+      ],
+      "answer": "Qolka salaadda (mihrab)"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Waxaa la siiyay wiil si mucjiso ah loogu magacaabay inkastoo uu aad u da' weyn yahay",
+        "Amar Ilaahi ah ayaa laga badbaadiyay dab ololaya",
+        "Daad weyn ayaa baabi'iyay gaalada",
+        "Samir ka dib, dib ayaa loogu soo celiyey qoyska, hantida, iyo caafimaadka",
+        "Fircoon iyo ciidankiisii ​​waxay ku qarqeen badda"
+      ],
+      "answer": "Waxaa la siiyay wiil si mucjiso ah loogu magacaabay inkastoo uu aad u da' weyn yahay"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

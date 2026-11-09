@@ -1,0 +1,61 @@
+{
+  "title": "Abagenzi bo mu murima w'ivyatsi bitotahaye",
+  "intro": "Mu bihe vya kera, abantu babiri bariko barabungabunga ibihugu bihegereye. Inzira zabo zari zifatanye, yamara imitima yabo yarabajana mu bibanza bitandukanye cane. Umwe yagenda mu nzira igororotse, uwundi na we akaja mu mwiza w’ukwihakana. Woba ushobora gusobanura akabanga k’abo barinzi babiri b’umwimbu?",
+  "clues": [
+    "Nari mfise ivyimburwa vyinshi, umwimbu mwiza cane watangaza amaso y’abarorerezi.",
+    "Umubanyi wanje yari afise mbere n’ubutunzi bwinshi kuruta ubwanje, yamara naripfuza umugabane wabo kuruta uwanje.",
+    "Naciye ngira inama yo gusenyura ibiterwa vyabo vyose, kugira ngo dukomeze vyose biri munsi y’ububasha bwanje.",
+    "Nanje nyene narasenyuye umwimbu wanje, nsenya vyose mu mugambi wanje w’ubupfu.",
+    "Nahagaze ata co nkora igihe ibiterwa vyanje vyaguma vyuma, ubutunzi bwanje bugahinduka inkungugu mw’ijoro rimwe.",
+    "Nta mugabane nari mfise mu nyuma y’urupfu, kandi aho nari mba ha nyuma hacitse ikinogo c’umuriro ururumba."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umuntu yahakanye izuka n’urubanza .",
+        "Umutware yahahaza umurimyi w’umugororotsi .",
+        "Umutunzi w'umunyabutaka atagira ugukenguruka",
+        "Umurimyi yipfuza ubutaka bwa mubanyi wabo",
+        "Umugenzi w'umuhemu yateguye guhonya"
+      ],
+      "answer": "Umurimyi yipfuza ubutaka bwa mugenziwe"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Ikigeragezo co kwakira ihishurirwa ry'Imana .",
+        "Ingorane y'ubutunzi n'ukwihangana .",
+        "Ikigeragezo co gusenyura ubuzima bw’umugororotsi",
+        "Itegeko ryo gusangira iragi mu buryo bubereye .",
+        "Urugamba rwo kurwanya agahahazo k’umunyagitugu"
+      ],
+      "answer": "Ikigeragezo co gusenyura ubuzima bw’umugororotsi"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Amatongo y'iparadizo y'ivyatsi bitotahaye",
+        "Amatongo abiri y'ibiterwa ari hafi",
+        "Imisozi yabonye ugutikizwa .",
+        "Aho hantu heranda h’i Makka .",
+        "Inkengera z'uruzi rw'igihugu gihezagiwe ."
+      ],
+      "answer": "Amatongo abiri y'ibiterwa ari hafi"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Iparadizo y'ibihe bidahera nk'impera y'ubugororotsi .",
+        "Gusambura burundu ivyimburwa vyose bibiri muri ubu buzima .",
+        "Ubuhungiro n'ukugendagenda gushika mu rupfu .",
+        "Uguterimbere kw'igihe gito kukurikiwe n'umuriro w'ibihe bidahera",
+        "Gusubirana kw’igitangaza be n’ubutunzi bugwijwe kabiri ."
+      ],
+      "answer": "Gusambura burundu ivyimburwa vyose bibiri muri ubu buzima ."
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

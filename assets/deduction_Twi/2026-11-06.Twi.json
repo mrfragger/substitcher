@@ -1,0 +1,61 @@
+{
+  "title": "Mogya a Edi Kan a Wohwie gui wɔ Ahoɔyaw mu",
+  "intro": "Fa w’adwene bu adesamma mfiase, bere a na wiase nyinaa yɛ abusua biako no. Wohwɛ sɛdeɛ wɔde afɔrebɔdeɛ mmienu si Allah anim — baako gye tom, baako nso a wɔpo. Ahoɔyaw gye ntini wɔ koma mu, na wɔde abufuw bɔ ahunahuna bi asereserew. Nea edi hɔ no begyaw agyiraehyɛde wɔ abakɔsɛm mu daa, na anomaa ketewaa mpo bɛyɛ ɔkyerɛkyerɛfo.",
+  "clues": [
+    "Meka abusua a edi kan koraa wɔ asase so no ho.",
+    "Mede afɔrebɔdeɛ bi maa Allah, nanso wɔannye me deɛ no wɔ berɛ a na afɔrebɔ foforɔ no.",
+    "Mede ahoɔyaw kasae na mihunahunaa me sɛ mekum obi.",
+    "Meyɛɛ awudi a ɛnteɛ a edi kan wɔ asase so.",
+    "Mihuu ɔkraman bi sɛ ɔrebɔ fam de akyerɛ me sɛnea mede funu bi besie.",
+    "Wogyaw me a anuonyam ahyɛ me ma na mekyɛɛ wɔn a wɔahwere ade wɔ nea me nsa ayɛ no ho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Qabil (Kain), Adam babarima",
+        "Samiri, ɔyɛ nantwi ba no",
+        "Namrud, otirimɔdenfoɔ a ɔne Ibrahim gyee akyinnyeɛ",
+        "Asar, abosom yɛfo",
+        "Kan'an, Nuh ba a nsuo faa no"
+      ],
+      "answer": "Qabil (Kain), Adam babarima"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Onua bi kum esiane ahoɔyaw nti bere a wɔapow afɔrebɔ akyi",
+        "Abantenten a ɛkorɔn a wɔresi de ahwɛ ɔsoro",
+        "Sikakɔkɔɔ nantwi ba a wɔreyɛ de asom",
+        "Ɔhwehwɛ a wɔhwehwɛ sɛ wɔde pon a ɛtrɛw fi soro",
+        "Asono dɔm bi a wodi anim sɛ wɔrekɔsɛe Kaaba"
+      ],
+      "answer": "Onua bi kum esiane ahoɔyaw nti bere a wɔapow afɔrebɔ akyi"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Ɔkraman a ɔretwitwa asase de akyerɛ sɛ wɔasie no",
+        "Sikakɔkɔɔ nantwi ba a ɔhwee ase",
+        "Adaka kɛse bi a ɛwɔ nsuyiri nsu no so",
+        "Poma a ɛbɛyɛɛ ɔwɔ",
+        "Pono a aduan a efi soro atrɛw mu"
+      ],
+      "answer": "Ɔkɔre a ɔretwitwa asase de akyerɛ sɛ wɔasie no"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Ɔbɛyɛɛ obi a onu ne ho na ɔkaa wɔn a wɔhweree no ho",
+        "Wɔmenee no wɔ nsuyiri kɛse no mu",
+        "Wɔmenee asase a ademude wom",
+        "Wɔde kwata bɔɔ no mfe ason",
+        "Wɔmaa no ahenni a ebetumi adi mframa ahorow so"
+      ],
+      "answer": "Ɔbɛyɛɛ obi a onu ne ho na ɔkaa wɔn a wɔhweree no ho"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

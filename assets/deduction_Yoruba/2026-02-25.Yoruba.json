@@ -1,0 +1,61 @@
+{
+  "title": "Ìdánwò Àpáta Àgàn",
+  "intro": "Àwùjọ kan, tí ó ní ìmọ̀ àti ìgbéraga, gbẹ́ ogún wọn sórí àwọn òkè ńlá náà. Ṣùgbọ́n nígbà tí wọ́n fi àmì tí ó ṣe kedere ránṣẹ́ sí wọn, ìdánwò ìgbàgbọ́ àti ìdènà, ìgbéraga wọn mú wọn lọ sí ọ̀nà tí kò ní padà wá. Ṣé o lè dá ẹgbẹ́ yìí mọ̀ àti àbájáde àìgbọràn wọn?",
+  "clues": [
+    "A jẹ́ ògbóǹtarìgì nínú òkúta, a sì ń gbẹ́ àwọn ilé ńláńlá sí ẹ̀gbẹ́ òkè ńlá.",
+    "Ojiṣẹ kan lati inu awọn eniyan wa wa si wa, o n pe wa lati sin Ọlọrun otitọ kanṣoṣo naa.",
+    "A béèrè àmì láti fi ẹ̀rí ọ̀rọ̀ rẹ̀ hàn, a sì mú ẹ̀dá aláìlẹ́gbẹ́ kan jáde wá gẹ́gẹ́ bí ìdánwò fún wa.",
+    "A fun wa ni aṣẹ ti o rọrun kan: lati pin orisun omi wa pẹlu ẹda yii, ki a jẹ ki o mu ni ọjọ ti a yan.",
+    "Nínú ìgbéraga wa, àwọn díẹ̀ lára ​​wa dìtẹ̀, a sì kọ̀ láti kọ ìkìlọ̀ náà sílẹ̀, a sì pa ẹ̀dá tí a fẹ́ kí ó jẹ́ àmì wa.",
+    "Wọ́n fún wa ní ọjọ́ mẹ́ta ṣáájú ìparun wa, lẹ́yìn náà ni ìbúgbàù ńlá kan gbá wa nílé, ó sì sọ wá di aláìlẹ́mìí, a sì wó lulẹ̀."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni àwa?",
+      "options": [
+        "Àwọn ènìyàn 'Ad",
+        "Àwọn ènìyàn Madiani",
+        "Àwọn ènìyàn Támúdì",
+        "Àwọn ènìyàn Saba",
+        "Àwọn ènìyàn Lúùtù"
+      ],
+      "answer": "Àwọn ènìyàn Támúdì"
+    },
+    "trial": {
+      "label": "Kí Ni Ìdánwò Àkọ́kọ́ Wa?",
+      "options": [
+        "Kíkọ́ ọkọ̀ ojú omi láti ye ìkún omi kan",
+        "Kíkọjú ìjà sí ìfẹ́kúfẹ̀ẹ́ láti pẹja ní ọjọ́ ìsinmi",
+        "Jíjáwọ́ nínú àwọn ìwà ẹ̀tàn ìṣòwò",
+        "Dídáàbò bo abo ràkúnmí ìyanu kan",
+        "Lílo ìyàn ọdún méje"
+      ],
+      "answer": "Dídáàbò bo abo ràkúnmí ìyanu kan"
+    },
+    "location": {
+      "label": "Kí Ni Kókó Pàtàkì Nínú Ìtàn Wa?",
+      "options": [
+        "Ọmọ màlúù wúrà náà",
+        "Ìràkúnmí",
+        "Ọ̀pá Wòlíì Musa",
+        "Omi Omi Nla ti Ma'rib",
+        "Tábìlì náà tàn ká láti ọ̀run"
+      ],
+      "answer": "Ìràkúnmí"
+    },
+    "outcome": {
+      "label": "Kí Ni Àyànmọ́ Wa Tó Gbéṣẹ́ Jùlọ?",
+      "options": [
+        "Wọ́n rì sínú ìkún omi ńlá kan",
+        "Ó di ọ̀bọ àti ẹlẹ́dẹ̀",
+        "Afẹ́fẹ́ líle kan bò ó mọ́lẹ̀",
+        "Tí ìbúgbà omi kan bá fọ́ túútúú",
+        "Ìjì líle/ìsẹ̀lẹ̀ ńlá parẹ́"
+      ],
+      "answer": "Ìjì líle/ìsẹ̀lẹ̀ ńlá parẹ́"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

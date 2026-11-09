@@ -1,0 +1,61 @@
+{
+  "title": "Uwabonye Sura",
+  "intro": "Tekereza umuntu wicisha bugufi yegereye umwe mu ntumwa za Allah afite umutima wuzuyemo ukuri n'icyifuzo gikomeye cyo kwiga. Nyamara muri ako kanya, umuntu w'umukire n'icyubahiro byamuteye kwitegereza, maze arakarira uwo muntu. Icyakurikiyeho ni igice cyose cya Korowani, cyoherejwe gukosora Intumwa no guha icyubahiro roho yaje ishaka.",
+  "clues": [
+    "Naje ku Mutumwa wa Allah mfite umutima ufunguye n'inyota ikomeye yo kubona ubuyobozi",
+    "Nta mwanya wo ku isi nari mfite wo gutanga, ni ubugingo bwicisha bugufi gusa bushaka ukuri",
+    "Amaso yanjye y'umubiri ntiyashoboraga kubona, ariko kureba kwanjye mu buryo bw'umwuka kwari gusobanutse neza",
+    "Nageze mu gihe kitari cyiza, ubwo Intumwa yari ihugiye mu muntu ufite ububasha bukomeye",
+    "Narababaye cyane, ariko Allah yanshubije ankosora",
+    "Ndi Abdullah bin Umm Maktum, mugenzi witanze inkuru ye yahumekeye Surat Abasa"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Abdullah ibn Umm Maktum",
+        "Bilal ibn Rabah",
+        "Mu'adh ibn Jabal",
+        "Zayd ibn Thabit",
+        "Salman al-Farisi"
+      ],
+      "answer": "Abdullah ibn Umm Maktum"
+    },
+    "trial": {
+      "label": "Urubanza / Igikorwa",
+      "options": [
+        "Guteshwa agaciro n'Intumwa kubera umuntu ukize",
+        "Gutabwa mu muriro ukaze n'abanzi",
+        "Kugurishwa no gutotezwa nk'umucakara",
+        "Guterwa ubwoba n'intwari ikomeye mu rugamba",
+        "Kumirwa n'ifi nini"
+      ],
+      "answer": "Guteshwa agaciro n'Intumwa kubera umuntu ukize"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Igice cya Korowani gitangirana n'ubwirabure (Surah Abasa)",
+        "Umuriro wakonjeshejwe kandi utekanye",
+        "Inkoni yasatuye inyanja nini cyane",
+        "Ubwato bwubatswe ku musozi muremure",
+        "Inyoni ikoze mu ibumba rikomeye"
+      ],
+      "answer": "Igice cya Korowani gitangirana n'ubwirabure (Surah Abasa)"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Allah yahishuye sura ya Quran inyunganira",
+        "Imana yatumye umuriro ukonja kandi utekanye kuri njye",
+        "Imana yatandukanije inyanja kugira ngo inkize gukurikira",
+        "Allah yampaye ubwami bukomeye n'ubwenge",
+        "Allah yanjyanye mu ijuru nta rupfu"
+      ],
+      "answer": "Allah yahishuye sura ya Quran inyunganira"
+    }
+  },
+  "verseRef": "80:2",
+  "arabic": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+  "verse": "Because there came to him the blind man, [interrupting]. (80:2)"
+}

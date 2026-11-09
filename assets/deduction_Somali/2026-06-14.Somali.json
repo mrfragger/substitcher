@@ -1,0 +1,61 @@
+{
+  "title": "Ololkii soo bandhigay dhaxal",
+  "intro": "Qormada iska caabinta, waxaa ku jira shakhsi magaciisa uu noqday digniin ilaa dhammaadka wakhtiga. Qofkani wuxuu doortay cadaawad ka badan qaraabonimo, ka hor imaatin ka badan is-hoosaysiin, wuxuuna ka soo horjeeday baaq naxariiseed. Si taxaddar leh u dhegayso dhawaaqyada ku saabsan baaqii hore marka aan ogaano aqoonsiga naftan caanka ah.",
+  "clues": [
+    "Waxaan ku dhashay isla qabiilkii rasuulkii ugu dambeeyay ee Alle, haddana waan ka soo horjeeday mar kasta.",
+    "Magacaygu wuxuu lahaa macno - magac macnihiisu yahay 'aabaha ololka,' magac saadaalin lahaa qaddarkayga weligeed ah.",
+    "Waxaan dhibaato u geystay qofka runta sita, xitaa qoyskayguna waxay ku biireen ololahan naxariis darrada ah.",
+    "Waxaan u adeegsaday maalkayga iyo saameyntayda si aan u aamusiyo baaqa Alle, anigoo aaminsan in lacagtu ay damin karto iftiinka rabbaaniga ah.",
+    "Ilaahay wuxuu ii hibeeyay cutub dhan—suurad aad u kooban oo ilbiriqsiyo gudahood lagu akhrin karo, haddana miisaankeedu wuu sii jiraa ilaa Maalinta Qiyaamaha.",
+    "Saaxiibkay Aakhiro wuu iga dambeeyaa, isagoo xadhig xadhig ah qoorta ku xidhan, isagoo sita qodxantii ay faafin jireen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Abuu Lahab",
+        "Abu Jahl",
+        "Waraqah ibnu Nawfal",
+        "Umayyah ibnu Khalaf",
+        "Cuqbah ibnu Abii Mucayt"
+      ],
+      "answer": "Abuu Lahab"
+    },
+    "trial": {
+      "label": "Qeexida Iskahorimaadka",
+      "options": [
+        "Hogaaminaya mucaaradka ka dhanka ah Nabiga ee Makka",
+        "U haajiridda Xabashida si looga baxsado cadaadiska.",
+        "Dhisidda Kacbada iyadoo lala kaashanayo Nebi Ibraahim",
+        "Aqbalaadda Islaamka iyadoo la dhimanayo",
+        "Samaynta Heshiiska Xudaybiyah"
+      ],
+      "answer": "Hogaaminaya mucaaradka ka dhanka ah Nabiga ee Makka"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Xaas sidday qodax iyo qoryo",
+        "Ul isu beddeshay abeeso",
+        "Faraanti ay ku jirto shaabadda Sulaymaan",
+        "Dibi dahab ah oo dadku caabudi jireen",
+        "Il biyo soo daadanaya"
+      ],
+      "answer": "Xaas sidday qodax iyo qoryo"
+    },
+    "outcome": {
+      "label": "Xisaabinta Kama Dambeysta ah",
+      "options": [
+        "Suurad dhan ayaa soo bandhigtay oo sheegaysa burbur dhan",
+        "Wuxuu noqday hoggaamiyaha bulshada Muslimiinta",
+        "Wuxuu helay cafis waqtiga dhimashada",
+        "Masjid weyn oo laga dhisay Madiina",
+        "Waxaa la soo sara kiciyey kuwa xaqa ah dhexdooda"
+      ],
+      "answer": "Suurad dhan ayaa soo bandhigtay oo sheegaysa burbur dhan"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

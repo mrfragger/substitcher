@@ -1,0 +1,61 @@
+{
+  "title": "Imburi ntoyi imbere y'umushitsi ariko aragenda",
+  "intro": "Niwinjire mu kiyaya aho umutware w’inkomezi n’ingabo nyinshi bariko baraza, maze wiyumvire akagenzi gatoyi gatanga imburi ikiza umuryango wose. Uko umuryango uriko uratera ubwoba ushika aho wihisha, akaga kararengana. Kurikiza ibimenyetso kugira ngo umenye igiharuro cirengagijwe kiri inyuma y’iyo ngabisho.",
+  "clues": [
+    "Ndi mu biremwa bitobito bifitaniye isano n’ubwami bw’umutware.",
+    "Abanyagihugu banje baba mu mazu yo kubamwo ari mu kiyaya, aho umwe muri twebwe ashobora guhamagara abandi.",
+    "Turashikirwa n’akaga gaterwa n’uwo mutware be n’ingabo zijana n’uwo mutware.",
+    "Ni jewe mpamagara umuryango wanje ngo winjire mu bibanza vyabo, nkatugabisha ko tutajanjagurwa tutazi.",
+    "Umutware ni Sulayman, kandi ubwoko bwanje buri mu biremwa vyashizwe munsi y’ubutegetsi bwiwe.",
+    "Ndi ikimonyo c’ico kiyaya; inyuma y’imburi yanje, twaciye twinjira mu bibanza twabamwo maze turahunga ugujanjagurwa kwari kudufata tutazi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Ikimonyo co mu kiyaya",
+        "Igikoko",
+        "Igisiga",
+        "Inzoka",
+        "Inyumbu"
+      ],
+      "answer": "Ikimonyo co mu kiyaya"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Imburi yarokoye umuryango w'ibimonyo",
+        "Gusaba impeta ku fi",
+        "Ugushaka intebe y'ubwami yabuze",
+        "Gukiza amaso yibwe",
+        "Ukwanka kurya ivyokurya vy’umutware ."
+      ],
+      "answer": "Imburi yarokoye umuryango w'ibimonyo"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Ikiyaya c'ibimonyo",
+        "Impeta y'ikidodo ya Sulayman",
+        "Ishati ya Yusufu yanduye amaraso",
+        "Inyana y'inzahabu yo mu Kuvayo",
+        "Inkoni ya Musa"
+      ],
+      "answer": "Ikiyaya c'ibimonyo"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Abanyagihugu bararokotse bamaze guhunga .",
+        "Umuryango warasambutse ata n'umwe yihishije .",
+        "Abanyagihugu bararokotse kuko ingabo zasubiye inyuma .",
+        "Abanyagihugu barahezagiwe no kugenzura izo nyoni .",
+        "Abanyagihugu bajanwa mu buja ku kirimba c'umwami ."
+      ],
+      "answer": "Abanyagihugu bararokotse bamaze guhunga ."
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

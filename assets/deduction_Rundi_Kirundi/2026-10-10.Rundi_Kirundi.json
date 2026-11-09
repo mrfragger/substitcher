@@ -1,0 +1,61 @@
+{
+  "title": "Umusuku w'amababa",
+  "intro": "Mu bwami burongowe n’umuntu yahawe ububasha ku miyaga, ku biremwa bitaboneka no ku biremwa vyo mw’ijuru, umunyamuryango umwe mutoyi kandi yihuta yarazimiye mu rwego — gusa kugira ngo agaruke afise amahishurirwa yohindura iherezo ry’ihanga ryo kure. Uwo mumenyeshamakuru w’amaso asongoye yarashize ahabona ukuri aho ubujuju bwari bwashinze imizi. Jewe ndi nde?",
+  "clues": [
+    "Nakoze mu rusengero aho abantu, ibiremwa bitaboneka be n’ibiremwa vyo mw’ijuru vyishura umutware umwe w’inkerebutsi yategeka imiyaga nyene.",
+    "Naramaze igihe ntariho ku kazi kanje, kandi uburake bw’umutware bwarasezeranywe iyo ntashobora gutanga imvo ihagije.",
+    "Ndi ikiremwa gitoyi gihunga, kizwi ko kibona neza, kandi ubwoko bwanje bwarateye iteka mu kwita amazina ataco akora mu mapaji y’ivyahishuriwe.",
+    "Maze kugaruka, nazanye inkuru y’igihugu ca kure aho abantu bapfukamira izuba, bahumye Uwaremye ijuru n’isi.",
+    "Nasanze umugore atwara ubwami bukomeye, yicaye ku ntebe y’ubwami y’agatangaza, atarigeze amenya ukuri mbere.",
+    "Ni jewe navumbuye ubwami bwa Saba’, n’ikete ry’ubutumire ku muhanuzi-umwami yahawe ububasha ku muyaga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Igikoko (Hudhud)",
+        "Ikimonyo co mu kiyaya ca Sulaimani",
+        "Asifu mwene Barkhiya",
+        "Ifrit aba Jini",
+        "Umumarayika w'intebe y'ubwami"
+      ],
+      "answer": "Igikoko (Hudhud)"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Urugendo rwo kuja mu Bwami bwa Saba’ (Sheba)",
+        "Uguhangana n’abapfumu ba Farawoni",
+        "Umwuzure w'Umuhanuzi Nuh .",
+        "Gutikizwa kw’Abantu bo muri ‘Ad .",
+        "Uguca ibice kw'Ikiyaga Gitukura ."
+      ],
+      "answer": "Urugendo rwo kuja mu Bwami bwa Saba’ (Sheba)"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Igihugu ca Saba’ (Sheba)",
+        "Umusozi Sinayi",
+        "Isandugu y'Umuhanuzi Nuh",
+        "Isenga rya Ashabu al-Kahf",
+        "Ingoro ya Farawoni"
+      ],
+      "answer": "Igihugu ca Saba’ (Sheba)"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Bilqis yaje mu kuyoboka urukiko rwa Sulaiman .",
+        "Farawo n'ingabo ziwe bararohama mu kiyaga .",
+        "Abantu b’i Adi barimbuwe n’umuyaga w’inkazi .",
+        "Abapfumu ba Farawoni barizera Umuhanuzi Musa .",
+        "Umwuzure mwinshi urigata abahakanyi ."
+      ],
+      "answer": "Bilqis yaje mu kuyoboka urukiko rwa Sulaiman ."
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

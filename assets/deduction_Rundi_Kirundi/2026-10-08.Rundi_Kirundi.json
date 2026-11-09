@@ -1,0 +1,61 @@
+{
+  "title": "Ababaji b’amabuye bo mu kiyaya ca kera",
+  "intro": "Tekereza ubutekerezi bwari bwaradutse mu biyaya vy’ibitandara vyo muri Arabiya, bwari bufise ubuhinga bwo kubaza amazu meza cane buva ku nkengera z’imisozi. Barateye imbere cane mu bijanye n’inkomezi be n’ubuhinga, yamara inkuru yabo irangwa no gutera ubwoba imburi y’Imana. Uko uzoba uriko urihweza inkuru yabo, uzobona abantu ubwibone bwabo bwatumye bazimangana burundu. None abo bari bande?",
+  "clues": [
+    "Twarazwe igihugu c’ibiyaya vy’ibitandara n’ibitandara biteye igomwe, aho twarubatse amazu yacu n’ubuhinga butagira uko bungana.",
+    "Twari tuzwi ko twabaza amazu atekanye mu misozi, tukaba twumva ko ata co twogirira nabi.",
+    "Intumwa yaraje iwacu ivuye muri twebwe, itwibutsa ubuntu bwa Allah, idugabisha ku gihano.",
+    "Twarasavye ikimenyetso, maze ingamiya y’ingore y’igitangaza irasohoka mu rutare, ikigeragezo gitomoye kivuye kuri Allah.",
+    "Twarateye akagere iyo ngabisho maze ducagura ingamiya y’ingore, dutwenga iyo ntumwa kandi turarwanya igihano.",
+    "Igisasu kimwe gusa caraduteye mu mihana yacu, maze mu gitondo turaryama dupfukamye, nk’aho tutari bwigere tubayo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Abantu b'i Tamudi",
+        "Abantu bo muri 'Ad",
+        "Abantu b'i Madyan",
+        "Abantu ba Nuh",
+        "Abantu ba Luti ."
+      ],
+      "answer": "Abantu b'i Tamudi"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Guca imitsi y'ingamiya y'ingore",
+        "Yaciye isabato",
+        "Yasenga inyana y'inzahabu .",
+        "Yishe umuhanuzi yabarungikiye .",
+        "Yubatse umunara kugira ngo ashike mw'ijuru ."
+      ],
+      "answer": "Guca imitsi y'ingamiya y'ingore"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Ingamiya y'ingore",
+        "Ubwato",
+        "Abakozi",
+        "Ikiganza cera",
+        "Man n'inkukuma ."
+      ],
+      "answer": "Ingamiya y'ingore"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Yasambuwe n'igisasu",
+        "Yakijijwe mu gutikizwa .",
+        "Yahindutse inkende",
+        "Yarohamye mu kiyaga .",
+        "Yamizwe n'isi ."
+      ],
+      "answer": "Yasambuwe n'igisasu"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

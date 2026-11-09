@@ -1,0 +1,61 @@
+{
+  "title": "Ropa Rokutanga Rakadururwa Mugodo",
+  "intro": "Fungidzira mazuva ekutanga evanhu, apo nyika yese yaive mhuri imwe chete. Unoona zvipiriso zviviri zvichiiswa pamberi paAllah - chimwe chichigamuchirwa, chimwe chichirambwa. Godo rinodzika midzi mumoyo, uye kutyisidzira kunozevezwa nehasha. Zvinotevera zvichasiya chiratidzo munhoroondo nekusingaperi, uye kunyange shiri diki ichava mudzidzisi.",
+  "clues": [
+    "Ndiri wemhuri yekutanga panyika.",
+    "Ndakapa mupiro kuna Allah, asi wangu hauna kugamuchirwa apo mumwe mupiro wakagamuchirwa.",
+    "Ndakataura negodo ndikatyisidzira kuti ndaizouraya munhu.",
+    "Ndakauraya vanhu vasina kururama kekutanga panyika.",
+    "Ndakaona gunguo richikwenya pasi kuti rindiratidze mavanzire emutumbi.",
+    "Ndakasara ndizere nekuzvidemba ndikava pakati pevakarasikirwa nezvakaitwa nemaoko angu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Qabil (Kaini), mwanakomana waAdhamu",
+        "Samiri, mugadziri wemhuru",
+        "Namrud, mudzvinyiriri akakakavadzana naIbrahim",
+        "Azar, mugadziri wezvifananidzo",
+        "Kan'an, mwanakomana waNuh akanyura mumvura"
+      ],
+      "answer": "Qabil (Kaini), mwanakomana waAdhamu"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kupondwa kwemunin'ina nekuda kwegodo mushure mekurambwa kwechipo",
+        "Kuvaka shongwe refu yekutarisa matenga",
+        "Kugadzira mhuru yegoridhe yekunamatwa",
+        "Kukumbira tafura yakapararira kubva kudenga",
+        "Kutungamira hondo yenzou kuparadza Kaaba"
+      ],
+      "answer": "Kupondwa kwemunin'ina nekuda kwegodo mushure mekurambwa kwechipo"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Gunguwo richikwenya ivhu kuratidza kuvigwa",
+        "Mhuru yegoridhe yakakotama",
+        "Areka huru pamusoro pemvura yemafashamo",
+        "Tsvimbo yakazova nyoka",
+        "Tafura yakawaridzwa chikafu chinobva kudenga"
+      ],
+      "answer": "Gunguwo richikwenya ivhu kuratidza kuvigwa"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akazvidemba uye ari pakati pevakarasikirwa",
+        "Akanyura mumafashamo makuru",
+        "Yakamedzwa nenyika nepfuma",
+        "Akarohwa nemaperembudzi kwemakore manomwe",
+        "Akapihwa umambo hune simba rekutonga mhepo"
+      ],
+      "answer": "Akazvidemba uye ari pakati pevakarasikirwa"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

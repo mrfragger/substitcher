@@ -1,0 +1,61 @@
+{
+  "title": "Adesoa a Ɛwɔ Akyɛde a Wɔapow So",
+  "intro": "Wɔ adesamma abakɔsɛm mfiase, bere a na asase da so ara yɛ abofra na wiase no kura ne home a edi kan no, ɔkra bi gyinaa Ɔbɔadeɛ no anim de ahobrɛase afɔrebɔ. Wɔkarii saa afɔrebɔ no wɔ ɔsoro gye a wogye tom no kari pɛ mu — na wohui sɛ ɛho nhia. Nea edii akyi bae no nyɛ bɔne fafiri ho asɛm, na mmom koma a ahoɔyaw ahyɛ no ma, a ɛde kɔ adeyɛ a wontumi nsakra a ɛbɛka bere nyinaa mu. Eyi yɛ obi a ne din bɛyɛɛ nea ɛne ntɛnkyea a emu yɛ den a edi kan a wɔyɛe pɛn no ho asɛm.",
+  "clues": [
+    "Mebaa ase sɛ mmofra a wodi kan koraa a wɔwoo wɔn pɛn no mu biako, a ɔwofo bi a wunim n’asɛm yiye na ɔwoo wɔn.",
+    "Bere bi mebɔɔ ​​afɔre maa Allah, nanso wɔannye antom amfi me hɔ — ɛwom sɛ wɔde adom gyee me nua afɔrebɔ no.",
+    "Ahoɔyaw ne abufuw gyee ntini wɔ me koma mu, na mihunahunaa me sɛ mɛma m’ankasa m’abusuafo nkwa aba awiei.",
+    "Me nua no bɔɔ me kɔkɔ sɛ mensuro Allah, nanso m’ahantan no amma mantie.",
+    "Wɔ mmerɛwyɛ a ɛyɛ hu bere tiaa bi mu no, meyɛɛ adeyɛ bi a wontumi nka ho asɛm wɔ m’ankasa me nuabarima so.",
+    "Ɛno akyi no, na minnim mpo sɛnea mede nea mayɛ besie — kosii sɛ wɔsomaa asase so abɔde bi sɛ ɔmmɛkyerɛkyerɛ me."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Qabil (Kain) .",
+        "Habil (Habil) .",
+        "Ɔkɔmhyɛni Nuh ba",
+        "Ɔkɔmhyɛni Isma'il",
+        "Ɔkɔmhyɛni Yusuf"
+      ],
+      "answer": "Qabil (Kain) ."
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Afɔrebɔ a wɔpowee, na ɛde awudi a edi kan no bae",
+        "Abantenten a ɛkorɔn a wɔresi na ama wɔadu ɔsoro",
+        "Sɛ wɔtow obi gu ogya a ano yɛ den mu esiane ne gyidi nti",
+        "Obi ankasa ba a wode ne ho to afɔrebɔ de yɛ osetie ma Allah",
+        "Mpataa kɛse bi a ɔbɛmene no esiane sɛ waguan afi n’asɛyɛde ho nti"
+      ],
+      "answer": "Afɔrebɔ a wɔpowee, na ɛde awudi a edi kan no bae"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Ɔkraman a Allah somaa no sɛ ɔmmɛkyerɛ asie",
+        "Nsuyiri kɛse bi a ɛmenee nnipa mũ nyinaa",
+        "Poma a ɛdanee ɔwɔ teasefo",
+        "Yoma ba a ofii abotan bepɔw bi so puei",
+        "Ahengua a ɛyɛ nwonwa a mframa a ano yɛ den soa"
+      ],
+      "answer": "Ɔkraman a Allah somaa no sɛ ɔmmɛkyerɛ asie"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Ɔbɛyɛɛ wɔn a wonu wɔn ho, a nsɛmmɔnedi a edi kan a wɔadi pɛn a wɔde adesoa too wɔn so no",
+        "Allah de kyɛɛ no ​​na wɔmaa no daa Paradise",
+        "Wɔmaa no kɔɔ nkɔmhyɛ ne nyansa gyinabea a ɛkorɔn",
+        "Wɔnam ɔsoro mmɔborohunu so gyee no nkwa bere a ɔteɛɛm fii sum mu bun mu akyi",
+        "Wɔmaa no tumi wɔ jinn, mframa, ne ɛpo so"
+      ],
+      "answer": "Ɔbɛyɛɛ wɔn a wonu wɔn ho, a nsɛmmɔnedi a edi kan a wɔadi pɛn a wɔde adesoa too wɔn so no"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

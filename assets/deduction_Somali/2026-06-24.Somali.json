@@ -1,0 +1,61 @@
+{
+  "title": "Ilaaliyaha Ololka Aan La Damin Karin",
+  "intro": "Qof ayaa taagan albaabka meesha ugu cabsida badan ee aan la arki karin, oo loo xilsaaray waajib aan lahayn rabitaan kale. Marka nafaha dhibaataysan ay u qayliyaan naxariis, jawaab adag ayaa ka soo baxaysa qolalka dabka. Ma ogaan kartaa aqoonsiga ilaaliyahan daa'imka ah?",
+  "clues": [
+    "Waxaan taaganahay albaabka meel ciqaab ah oo cabsi leh oo aan la arki karin.",
+    "Dab ololaya oo aan la damin karin ayaa ah udub-dhexaadka waajibkayga.",
+    "Nafihii dhibaataysnaa ayaa magacayga ku dhawaaqaya, iyagoo ka baryaya gargaar ka yimaada cadaabkooda aan dhammaadka lahayn.",
+    "Markay dacwoodaan, waxaan ku dhawaaqayaa inaysan weligood bixi doonin.",
+    "Anigu ma ihi bini'aadam, jinnina ma ihi - waxaan ahay qof la abuuray oo addeecid saafi ah leh.",
+    "Anigu waxaan ahay malaa'igta ugu sarreysa ee loo magacaabay ilaaliyaha weligeed ah ee Naarta Jahannamo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Maalik",
+        "Jibreel",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Maalik"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Dadka Jahannamo waxay ku baaqayaan in cadaabkooda la soo afjaro",
+        "Buunkii ayaa la afuufaa si loo calaamadiyo Maalinta Qiyaame",
+        "Qur'aanka waxaa lagu soo dejiyay qalbiga Nabiga.",
+        "Nebi waxaa dab weyn ku tuuray dadkoodii.",
+        "Derbi weyn ayaa la dhisay si loo xakameeyo qaran musuqmaasuq ah"
+      ],
+      "answer": "Dadka Jahannamo waxay ku baaqayaan in cadaabkooda la soo afjaro"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Naarta Jahannamo (Jahannamo)",
+        "Geedka Loodhka ee ku yaal xuduudda Jannada",
+        "Buun daloolin ah",
+        "Ul isu beddesha abeeso",
+        "Carshi rabbaani ah oo cajiib ah"
+      ],
+      "answer": "Naarta Jahannamo (Jahannamo)"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Dadka Naarta ku nool waxaa loo sheegay inay weligood sii jiri doonaan",
+        "Dadka Naarta Jahannamo waa la cafiyay oo la sii daayay",
+        "Dadka Naarta Jahannamo waxaa la siiyaa fursad labaad oo ay ku iimaansadaan",
+        "Dadka Jahannamo waxaa loo raray meel qabow",
+        "Dadka Naarta waxaa gebi ahaanba burburiyay onkod."
+      ],
+      "answer": "Dadka Naarta ku nool waxaa loo sheegay inay weligood sii jiri doonaan"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

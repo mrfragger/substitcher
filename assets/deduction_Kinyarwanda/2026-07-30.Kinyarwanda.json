@@ -1,0 +1,61 @@
+{
+  "title": "Abashyitsi badasanzwe b'Umujyi Ukikijwe n'Inkuta",
+  "intro": "Itsinda ry’abantu ryageze ku marembo y’umujyi abaturage bawo batari barigeze bamenya ukuri. Bazanye ubutumwa, ariko abaturage bahinduka abanzi, batera ubwoba. Nyamara, baturutse ahantu hatunguranye, ijwi rimwe ryarahagurutse rirengera abo batazi, ritegura ihinduka rikomeye ry’ibintu.",
+  "clues": [
+    "Twinjiye mu mujyi abantu bawo bari barembejwe no kutizera.",
+    "Baratureba bafite amakenga maze baravuga bati 'Muri ibiremwa bisanzwe nkatwe.'",
+    "Twarababuriye, ariko baduteye amabuye.",
+    "Umugabo yaturutse mu mpera z'umujyi yihuta cyane kugira ngo yemeze ukuri kwacu.",
+    "Yabwiye abantu be ati 'Kuki ntagomba gusenga uwandemye?'",
+    "Ukwanga kw'umujyi kwarangiye habayeho urusaku rumwe, maze haguma ituze aho bajyaga baseka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Turi bande?",
+      "options": [
+        "Intumwa za Ya-Sin",
+        "Abigishwa ba Isa",
+        "Abaturage bo mu mwobo",
+        "Abapfumu ba Farawo",
+        "Umwizera wa Ya-Sin"
+      ],
+      "answer": "Intumwa za Ya-Sin"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Kwangwa no guterwa amabuye",
+        "Gutabwa mu muriro ukaze",
+        "Ikizamini cyo kwihangana ku mwana wabuze",
+        "Ubusitani bwangiritse",
+        "Urugendo mu nyanja"
+      ],
+      "answer": "Kwangwa no guterwa amabuye"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Impera ya kure cyane y'umujyi",
+        "Inyanja Itukura",
+        "Umwobo w'umuriro",
+        "Ubuvumo bw'ubuhungiro",
+        "Gereza yo mu Misiri"
+      ],
+      "answer": "Impera ya kure cyane y'umujyi"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Umujyi warasenyutse kubera induru imwe gusa",
+        "Inyanja yaracitsemo kabiri maze irarohama ingabo",
+        "Umuriro wabaye nk'ukonje kandi nta kibazo",
+        "Ubusitani bwatwitswe n'umuriro wo mu ijuru",
+        "Ifi nini yasubije umuntu ku nkombe"
+      ],
+      "answer": "Umujyi warasenyutse kubera induru imwe gusa"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

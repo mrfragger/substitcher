@@ -1,0 +1,61 @@
+{
+  "title": "Obuggya Obw’okulya",
+  "intro": "Enfumo enkadde okusinga obwakabaka oba ebyawandiikibwa byonna —ekikangabwa ky’omuntu ekyasooka okuzaalibwa obuggya. Omwoyo gumu, omukulu w’abaana babiri abazaalibwa abazadde abaasooka, yatunuulira mu busungu nga muto we afuna ekisa ekyagaanibwa. Ekyaddirira kyali kisinga okuba ekizikiza mu kulonda, ne kireka omusaayi ogwasooka okuyiibwa ku nsi. Osobola okubikkula omuntu oyo, okugezesebwa, n’okwejjusa okw’amaanyi?",
+  "clues": [
+    "Nnazaalibwa abantu babiri abaasooka ennyo okutambulira ku nsi.",
+    "Lumu nakola ekiweebwayo eri Allah, naye nga tekikkirizibwa gyendi.",
+    "Ekiweebwayo muganda wange kyakkirizibwa, ate ekyange kyagaanibwa —ekintu kye nnali sisobola kugumiikiriza.",
+    "Natiisatiisa muganda wange yennyini okuzikirizibwa.",
+    "Nze nafuuka eyasooka okukola ettemu ku nsi eno, nga ntwala obulamu bwa muganda wange yennyini.",
+    "Allah yasindika ekitonde ky’ensi — ekinyonyi ekiddugavu nga kisima mu ttaka — okunjigiriza engeri y’okukweka bye nnali nkoze, era nasigala sirina kirala okuggyako okwejjusa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Kabil (Kayini) .",
+        "Habil (Abbeeri) .",
+        "Nabbi Yaqub",
+        "Nabbi Musa",
+        "Nabbi Adamu"
+      ],
+      "answer": "Kabil (Kayini) ."
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Ekiweebwayo ekigaanibwa Allah",
+        "Basuuliddwa mu muliro omunene",
+        "Yasuuliddwa nga bbebi mu mugga",
+        "Yagezesebwa n’obwakabaka obunene ennyo",
+        "Yalagirwa okusaddaaka omwana we"
+      ],
+      "answer": "Ekiweebwayo ekigaanibwa Allah"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Enkovu eyasindikibwa Allah",
+        "Ennyana eya zaabu",
+        "Essanduuko eri ku lusozi",
+        "Ekisaka ekyokya",
+        "Engamiya enkazi eyayolwa mu lwazi"
+      ],
+      "answer": "Enkovu eyasindikibwa Allah"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yafuuka ajjudde okwejjusa era mu baafiirwa",
+        "Emira mu nsi wamu n’eby’obugagga",
+        "Yafuuka omubaka wa Allah ow’ekitiibwa",
+        "Yayingira mu Jjana ng’ayita mu kusaasira okw’obwakatonda",
+        "Yafuga obwakabaka obutaliiko kye bufaanana"
+      ],
+      "answer": "Yafuuka ajjudde okwejjusa era mu baafiirwa"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ɔkra a Odi Kan a Ogyina hɔ",
+  "intro": "Bere tenten ansa na ɔbɔfo biara renantew asase so, ansa na wɔreda kyerɛwsɛm biara adi no, abɔde bi a ɔnte sɛ foforo biara bae. Wɔde ɔsoro nsa na ɛhyehyɛɛ ɔkra yi, wɔmaa no beae a ɛyɛ fɛ a ɛso bi nni, na wɔsɔɔ no hwɛe wɔ ɔkwan a ɛbɛka adesamma abakɔsɛm nyinaa mu. Nea edii akyi bae ne mmerɛwyɛ, adwensakra a efi komam, ne nkrabea a ɛbɛsakra adebɔ kwan koraa ho asɛm. So wubetumi asusuw onii ko a eyi yɛ ho?",
+  "clues": [
+    "Mmɔborɔhunufoɔ no nsa na ɛnam mfuturo a ɛwɔ fam no mu ankasa na ɛhyehyɛɛ me",
+    "Wɔmaa me ofie a ɛyɛ fɛ a ɛso bi nni, baabi a ɔkɔm anaa ɔbrɛ biara ntumi nka me",
+    "Wɔhyɛɛ me sɛ memmmɛn dua biako mpo da, efisɛ na wɔabara",
+    "Wɔdaadaa me ne me hokafoɔ no na yɛbɛn dua a wɔabara no, tiaa yɛn Awurade ahyɛdeɛ",
+    "Yɛsan de ahonu a ɛyɛ nokware san kɔɔ yɛn Awurade nkyɛn, na wɔde yɛn mmarato bɔne kyɛɛ yɛn",
+    "Yɛn mu na adesamma nyinaa fi bae; Me ne obi a odii kan nantew asase yi so"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Odiyifo Adam",
+        "Ɔkɔmhyɛni Musa",
+        "Ɔkɔmhyɛni Nuh",
+        "Ɔkɔmhyɛni Yusuf",
+        "Odiyifo Yes"
+      ],
+      "answer": "Odiyifo Adam"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Sɔhwɛ a ɛnam dua a wɔabara no so",
+        "Akasakasa a wɔne Farao dii",
+        "Adaka kɛse no a wɔresi",
+        "Ɔba a ɔdɔ no no afɔrebɔ",
+        "Wɔtow no gu ogya kɛse mu"
+      ],
+      "answer": "Sɔhwɛ a ɛnam dua a wɔabara no so"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Dua a Wɔabara no",
+        "Kwae a Ɛrehyew no",
+        "Sikakɔkɔɔ Poma no",
+        "Adaka Kɛse no",
+        "Sika Nantwi Ba no"
+      ],
+      "answer": "Dua a Wɔabara no"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wɔsomaa no baa asase so sɛ adesamma hwɛfo a odi kan",
+        "Farao ne n’asraafo no memee wɔ po no mu",
+        "Nsuyiri kɛse no sɛee abɔnefo",
+        "Ogya no bɛyɛɛ nwini na asomdwoe wom",
+        "Wɔmaa no tumi wɔ Misraim ahemman no so"
+      ],
+      "answer": "Wɔsomaa no baa asase so sɛ adesamma hwɛfo a odi kan"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

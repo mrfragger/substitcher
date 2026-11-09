@@ -1,0 +1,61 @@
+{
+  "title": "Ẹni Àkọ́kọ́ Tó Wá Ìdáríjì",
+  "intro": "Padà sí àkókò kan kí oòrùn tó bẹ̀rẹ̀, kí ẹnikẹ́ni tó lè rìn lórí ilẹ̀ ayé. Wọ́n fi àwọn ohun èlò tó rẹlẹ̀ jùlọ ṣe àwòrán kan, wọ́n fún un ní ipò tó ga ju àwọn áńgẹ́lì lọ, wọ́n sì gbé e sí ọgbà mímọ́ pẹ̀lú ìkìlọ̀ tó ṣe kedere. Síbẹ̀ ní ìṣẹ́jú kan, wọ́n ṣe yíyàn kan — èyí tí yóò dún ní gbogbo ìtàn ènìyàn. Ta ni àwòrán yìí?",
+  "clues": [
+    "A dá mi ní ọ̀nà tí kò yàtọ̀ sí ti ẹlòmíràn — a fi eruku ilẹ̀ ṣe é, a sì fún mi ní ẹ̀mí alààyè láti ọwọ́ Ẹlẹ́dàá.",
+    "Wọ́n fún mi ní ìmọ̀ tó jinlẹ̀ tó bẹ́ẹ̀ tí àwọn áńgẹ́lì pàápàá fi yà mí lẹ́nu.",
+    "Gbogbo ọ̀run ni a pàṣẹ fún láti tẹrí ba níwájú mi, gbogbo wọn sì tẹrí ba — àyàfi ẹnìkan, tí ó kọ̀ nítorí ìgbéraga.",
+    "Wọ́n gbé mi sí ọgbà mímọ́ kan, ibi ìtùnú àti ìpèsè ayérayé — ṣùgbọ́n pẹ̀lú ìkàléèwọ̀ kan tí ó le koko.",
+    "Mo gbàgbé, mo yọ́, mo sì ṣàìgbọràn — mo sì nímọ̀lára ìwúwo àṣìṣe mi gidigidi.",
+    "Mo yípadà sí Olúwa mi pẹ̀lú ọ̀rọ̀ ọkàn, Ó sì gba ìrònúpìwàdà mi, nítorí pé Òun ni Olùdáríjì jùlọ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Ádámù",
+        "Wòlíì Dáfídì",
+        "Wòlíì Muhammad",
+        "Iblis",
+        "Wòlíì Jákọ́bù"
+      ],
+      "answer": "Wòlíì Ádámù"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "A pàṣẹ fún àwọn áńgẹ́lì láti foríbalẹ̀",
+        "Wọ́n rán Ìkún Omi Ńlá náà",
+        "Iná ńlá kan ni a mú kí ó tutu tí ó sì ní ààbò",
+        "Alákòóso agbéraga kan rì sínú òkun",
+        "Wọ́n pa ẹgbẹ́ ọmọ ogun erin run"
+      ],
+      "answer": "A pàṣẹ fún àwọn áńgẹ́lì láti foríbalẹ̀"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ọgbà Ayọ̀",
+        "Òkè Sínáì",
+        "Mọ́sálásí Mímọ́",
+        "Odò Náílì",
+        "Ihò náà"
+      ],
+      "answer": "Ọgbà Ayọ̀"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Allah gba ironupiwada.",
+        "Mo rì sínú omi",
+        "Ẹja ńlá kan gbé mì",
+        "Orílẹ̀-èdè náà ní ìbúgbàù ńlá kan.",
+        "Afẹ́fẹ́ gbígbóná jó o"
+      ],
+      "answer": "Allah gba ironupiwada."
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

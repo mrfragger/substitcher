@@ -1,0 +1,61 @@
+{
+  "title": "Murazvo Wakaburitsa Nhaka",
+  "intro": "Munhoroondo yekuramba, pane munhu akamira ane zita rake rakava yambiro kusvika kumagumo. Munhu uyu akasarudza ruvengo pane hukama hwepedyo, kusateerera pane kuzviisa pasi, uye akamira achipikisa chikumbiro chetsitsi. Teererai zvakanaka kumashoko ekare sezvatinozivisa kuti mweya uyu une mukurumbira wakaita sei.",
+  "clues": [
+    "Ndakazvarirwa mumhuri imwe chete nemutumwa wekupedzisira waAllah, asi ndaimira ndichipikisana navo pese pandaienda.",
+    "Zita rangu raiva nerevo—zita rinoreva 'baba vemurazvo,' zita raizofanotaura ramangwana rangu risingaperi.",
+    "Ndakakuvadza mutakuri wechokwadi, uye kunyange mhuri yangu yakabatana mukurwisa uku kweutsinye.",
+    "Ndakashandisa pfuma yangu nesimba rangu kudzikamisa kudanwa kuna Allah, ndichitenda kuti mari inogona kudzima chiedza chaMwari.",
+    "Allah akanditsaurira chitsauko chose—chitsauko chipfupi zvekuti chinogona kuverengwa mumasekonzi mashoma, asi huremu hwacho hunoramba huripo kusvika paZuva reKutongwa.",
+    "Shamwari yangu muHupenyu Husingaperi inofamba iri shure kwangu, yakasungwa netambo yeshinda yakakomberedza mutsipa, yakatakura minzwa yayaiwanzoparadzira."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Waraqah ibn Nawfal",
+        "Umayyah ibn Khalaf",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Kutsanangura Kurwisana",
+      "options": [
+        "Kutungamira kupikisa Muporofita muMecca",
+        "Kutamira kuAbyssinia kuti vatize kutambudzwa",
+        "Kuvaka Kaaba neMuporofita Ibrahim",
+        "Kugamuchira Islam pamubhedha werufu",
+        "Kugadzira Chibvumirano cheHudaybiyyah"
+      ],
+      "answer": "Kutungamira kupikisa Muporofita muMecca"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Mudzimai akatakura minzwa nehuni",
+        "Tsvimbo yakashanduka kuita nyoka",
+        "Mhete ine chisimbiso chaSoromoni",
+        "Mhuru yegoridhe inonamatwa nevanhu",
+        "Chitubu chaiburitsa mvura yakawanda"
+      ],
+      "answer": "Mudzimai akatakura minzwa nehuni"
+    },
+    "outcome": {
+      "label": "Kuverenga Kwekupedzisira",
+      "options": [
+        "Surah yese yakazivisa kuparadzwa zvachose",
+        "Akava mutungamiri wenzanga yeMuslim",
+        "Akagamuchira ruregerero panguva yerufu",
+        "Vakavaka musikiti mukuru muMedina",
+        "Akamutswa pakati pevakarurama"
+      ],
+      "answer": "Surah yese yakazivisa kuparadzwa zvachose"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

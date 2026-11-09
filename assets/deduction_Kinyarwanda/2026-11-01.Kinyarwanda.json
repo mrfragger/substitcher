@@ -1,0 +1,61 @@
+{
+  "title": "Ijwi ryanze kwiheba",
+  "intro": "Jya mu rugo aho igihombo gikurikira igihombo, ariko ijwi rimwe rituje ntirigire icyo rigeraho. Guhamagara rimwe muri Korowani bihindura kwihangana mu mpinduka; ushobora gukurikirana ibimenyetso by'uwo muntu uri inyuma y'iryo jwi?",
+  "clues": [
+    "Nari ijwi ry'ukwihangana mu rugo aho imigisha yageragejwe n'ibyago.",
+    "Nagumye mu rugo rwari rudafite abantu benshi kubera kubura ubutunzi n'abana.",
+    "Nari nzi ko indwara na yo yari yarigeze gufata uwo mugenzi we, umubiri we wari urwaye.",
+    "Ubwo umubabaro wari ukomeye, nahamagaye nibutsa Allah.",
+    "Natanze itangazo rimwe: Allah ni Ukuri, bityo komeza kwihangana.",
+    "Nahamagaye Ayyub mu izina; nyuma yaho, Imana yakuyeho imibabaro kandi isubiza umuryango mu mutekano."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Umugore w'Intumwa Ayyub",
+        "Umugore w'Intumwa Nuh",
+        "Umugore w'Intumwa Ibrahim",
+        "Umugore w'Intumwa Ya'qub",
+        "Umukobwa wa Farawo"
+      ],
+      "answer": "Umugore w'Intumwa Ayyub"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Gugumana na Ayyub mu gihe cyo gupfusha no kurwara, hanyuma ugasaba kwihangana",
+        "Umuburo w'intumwa ikiranuka wo kureka umuryango wanduye",
+        "Gusengera ivuka ry'umuryango w'ejo hazaza",
+        "Gusobanura inzozi muri gereza y'ibwami",
+        "Gushaka umwana w'umubyeyi iruhande rw'umugezi"
+      ],
+      "answer": "Gugumana na Ayyub mu gihe cyo gupfusha no kurwara, hanyuma ugasaba kwihangana"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Gutangaza ko Allah ari Ukuri n'ukwihangana birakenewe",
+        "Igiti cy'umukindo kiri iruhande rw'isoko",
+        "Umuhamagaro wo kubaka ubwato kure y'imiraba",
+        "Inzozi z'inyenyeri cumi n'imwe n'izuba riva",
+        "Igitebo cyari gitwaye ku ruzi rwa Nili"
+      ],
+      "answer": "Gutangaza ko Allah ari Ukuri n'ukwihangana birakenewe"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Imibabaro ya Ayyub yarakuweho maze umuryango we usubizwa mu buzima bwe",
+        "Umwana wari utegerejwe igihe kirekire yahawe nyuma yo gusenga nk'ingumba",
+        "Umutware ukiri muto yasobanuye imyaka irindwi y'uburumbuke n'ubukene",
+        "Umwana w'umubyeyi yarokowe mu mazi atemba",
+        "Umuburo wabanjirije umwuzure wangiza"
+      ],
+      "answer": "Imibabaro ya Ayyub yarakuweho maze umuryango we usubizwa mu buzima bwe"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

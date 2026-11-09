@@ -1,0 +1,61 @@
+{
+  "title": "Asɛnnibea Akyidi",
+  "intro": "Wɔ tumidi akwan so no, onipa bi a ɔwɔ dibea a ɛkorɔn ani gyee akoa bi a n’ahoɔfɛ yɛ wiase foforo de ho. Saa akɔnnɔ yi de nsɛm a esisii toatoa so a ɛbɛsɔ nokwaredi ahwɛ, ada nokware ahorow a ahintaw adi, na awiei koraa no asi so dua sɛ akoa no ho nni asɛm no bae.",
+  "clues": [
+    "Na mete Nil asase so, ahemfie bi a na ɛwɔ nkɛntɛnso kɛse mu.",
+    "Aberanteɛ bi baa me fie, na n’anim no maa me wiase no yɛɛ basaa.",
+    "Mebɔɔ mmɔden sɛ mɛdaadaa no, nanso ɔhwehwɛɛ guankɔbea wɔ n’Awurade mu.",
+    "Metetew n’atade mu fii n’akyi, nanso adanse no kyerɛɛ me nnaadaa.",
+    "Nea ɛbɛyɛ na mmea anuonyamfo no nsɛmmɔne ayɛ komm no, metoo nsa frɛɛ wɔn kɔɔ nhyiam bi ase na mede nneɛma a ano yɛ nnam guu wɔn nsam.",
+    "Awiei koraa no, mekaa me mfomso wɔ baguam, na migyee nokware no toom wɔ ɔhene no anim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Al-Aziz Yere a ɔyɛ",
+        "Asiya (Farao yere) .",
+        "Bilqis (Seba Hemmaa) .",
+        "Maryam (Isa Maame) .",
+        "Musa Maame"
+      ],
+      "answer": "Al-Aziz Yere a ɔyɛ"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Ɔbɔɔ mmɔden sɛ ɔbɛdaadaa Ɔkɔmhyɛni Yusuf",
+        "Ɔbɔɔ mmɔden sɛ ɔbɛkum Ɔkɔmhyɛni Musa",
+        "Ɔkae sɛ ɔyɛ onyamewa",
+        "Ɔsii abantenten bi de twaa Allah mpoa",
+        "Ɔdii asraafoɔ anim tiaa Makkah"
+      ],
+      "answer": "Ɔbɔɔ mmɔden sɛ ɔbɛdaadaa Ɔkɔmhyɛni Yusuf"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Atade a wɔatetew afi akyi",
+        "Sikakɔkɔɔ nantwi ba",
+        "Poma a ɛdanee ɔwɔ",
+        "Yoma a ɔyɛ ɔbea",
+        "Kanea bi"
+      ],
+      "answer": "Atade a wɔatetew afi akyi"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Ɔkaa nokware na ogye toom",
+        "Wɔmenee no ne n’asraafo",
+        "Ɔdanee nkyene adum",
+        "Asase no menee no",
+        "Mframa a ɛteɛteɛm sɛee no"
+      ],
+      "answer": "Ɔkaa nokware na ogye toom"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

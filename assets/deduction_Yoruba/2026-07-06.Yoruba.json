@@ -1,0 +1,61 @@
+{
+  "title": "Ọkàn Tó Wà Lẹ́yìn Òrìṣà",
+  "intro": "Nínú òjìji ìjádelọ ńlá láti inú ìjẹgàba, ẹni ìjìnlẹ̀ yìí dúró ní aginjù. Nígbà tí olórí àwọn ènìyàn tí a yàn ń gun òkè mímọ́ kan fún ìjọ́sìn Ọlọ́run, ìdánwò ńlá kan dé bá àwọn tí wọ́n kù. Ẹni yìí lo àkókò náà láti tún ṣe ìgbàgbọ́ gbogbo àwùjọ kan. Nígbà tí olórí náà padà dé pẹ̀lú òtítọ́, wọ́n pàṣẹ ìyà aláìlẹ́gbẹ́ àti ayérayé kan. Ṣé o lè tú ẹni tí ọkàn oníjàgídíjàgan àti alárékérekè yìí jẹ́?",
+  "clues": [
+    "Mo rìnrìn àjò pẹ̀lú àwọn ènìyàn kan tí wọ́n ti gba òmìnira kúrò lọ́wọ́ ìnilára alágbára nípasẹ̀ àwọn àmì iṣẹ́ ìyanu.",
+    "Nígbà tí olórí wọn lọ sí orí òkè láti gba ìtọ́sọ́nà, mo dúró láàrín àwọn tí wọ́n dúró síbẹ̀.",
+    "Mo kó irin iyebíye jọ láti inú àwọn ohun ọ̀ṣọ́ wọn mo sì ṣe é sí ohun kan tí ó máa mú ìró jáde.",
+    "Nípasẹ̀ ìṣẹ̀dá yìí, mo yí gbogbo ìran kan lérò padà pé wọ́n ti rí ọlọ́run wọn ní aginjù.",
+    "Nígbà tí olórí náà padà dé, wọ́n dá mi lóhùn, wọ́n sì bi mí pé kí ló fà mí sí irú ẹ̀tàn bẹ́ẹ̀.",
+    "Ìyà mi ní ayé yìí ni pé ẹnikẹ́ni kò ní fọwọ́ kan mí tàbí sún mọ́ mi, àmì ìtìjú tí mo ń rù títí láé."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Àwọn Samiri",
+        "Wòlíì Mósà",
+        "Àwọn onídán Fáráò",
+        "Hámánì, ìránṣẹ́ Fáráò",
+        "Iblis, ẹni tí a kọ̀ sílẹ̀"
+      ],
+      "answer": "Àwọn Samiri"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ṣíṣe ère ọmọ màlúù wúrà",
+        "Ìjà pẹ̀lú Farao",
+        "Kíkọ́ ọkọ̀ ńlá kan",
+        "Kíkọ̀ láti tẹrí ba níwájú Ádámù",
+        "Ìparun àwọn ìlú Lọ́ọ̀tì"
+      ],
+      "answer": "Ṣíṣe ère ọmọ màlúù wúrà"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Òrìṣà ọmọ màlúù wúrà",
+        "Ọ̀pá tí ó di ejò",
+        "Abo ràkúnmí kan tó jáde láti inú àpáta",
+        "Ọkọ̀ ayọ́kẹ́lẹ́ kan tí a kọ́ sórí òkè ńlá kan",
+        "Ìtẹ́ tí a gbé sórí afẹ́fẹ́"
+      ],
+      "answer": "Òrìṣà ọmọ màlúù wúrà"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Wọ́n dá a lẹ́bi pé a kò lè fọwọ́ kàn án, wọ́n sì ń sọ pé ‘kò sí ìfọwọ́kan’ títí láé",
+        "Ó rì sínú omi pẹ̀lú apànìyàn àti àwọn ọmọ ogun rẹ̀",
+        "Ẹ jù ú sínú iná tí ó tutù tí ó sì ní àlàáfíà",
+        "Wọ́n fọ́jú nítorí pé wọ́n kọ̀ láti ṣòótọ́.",
+        "Àwọn owú tí wọ́n fi sílẹ̀ sínú ihò"
+      ],
+      "answer": "Wọ́n dá a lẹ́bi pé a kò lè fọwọ́ kàn án, wọ́n sì ń sọ pé ‘kò sí ìfọwọ́kan’ títí láé"
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

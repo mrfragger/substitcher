@@ -1,0 +1,61 @@
+{
+  "title": "Ahobrɛasefo a Wɔhwehwɛ Nokware",
+  "intro": "Wɔ tete tumi ne nkonyaayi asase so no, akasakasa kɛse bi si. Ɔfã biako de ɔsoro nsɛnkyerɛnne tumi di dwuma, bere a ɔfã foforo no bɔ mmɔden sɛ ɛne nea entumi nyɛ yiye no bɛyɛ pɛ. Nea ebefi mu aba no bɛsakra abakɔsɛm kwan daa. So wubetumi ahu nnipa a wohuu nokware a etwa to no na wɔbrɛɛ wɔn ho ase wɔ n’anim no?",
+  "clues": [
+    "Yehuu nsɛnkyerɛnne a ɛkɔɔ akyiri sen nkonyaayi nnaadaa",
+    "Yɛn nyinaa hwee ase wɔ nkotodwe mu, na yɛantumi annye nokware no",
+    "Yehui sɛ saa nsɛnkyerɛnne yi fi Nokware Nyankopɔn Baako no hɔ",
+    "Yɛn ne mpɔtam hɔfo a wodii kan gyee gyidi toom wɔ ɔkwan a ɛyɛ nwonwa saa so",
+    "Wɔhyɛɛ yɛn bɔ sɛ wɔbɛma yɛn paradise sɛ yɛn gyidi ho akatua",
+    "Yɛn nhama ne yɛn poma bɛyɛɛ awɔ wɔ yɛn ani so, nanso yɛpaw sɛ yɛbɛbrɛ yɛn ho ase"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Farao nkonyaayifo",
+        "Ɔkɔmhyɛni Ibrahim nkurɔfoɔ",
+        "Ahobrɛasefo a wɔhwehwɛ nokware no",
+        "Nnipa a Wɔte Ɔbodan no mu",
+        "Ɔhemmaa Bilqis man no"
+      ],
+      "answer": "Farao nkonyaayifo"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Nhyiamu a wɔne Ɔkɔmhyɛni Musa ne poma no hyiaeɛ",
+        "Ɔkɔmhyɛni Hud mframa no sɔhwɛ",
+        "Asɛnnennen a efi Ɔkɔmhyɛni Salih yoma a ɔyɛ ɔbea no hɔ",
+        "Nsuyiri kɛse no somaa odiyifo bi so",
+        "Odiyifo bi akwantu wɔ whale mu"
+      ],
+      "answer": "Nhyiamu a wɔne Ɔkɔmhyɛni Musa ne poma no hyiaeɛ"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Tete Misraim",
+        "Ofie kronkron a ɛwɔ Makkah no",
+        "Midian kuro no",
+        "Thamud sare so",
+        "Tetefo a wɔda ɔbodan"
+      ],
+      "answer": "Tete Misraim"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Paradise sɛ wɔn akatua",
+        "Asotwe wɔ ɔdamoa mu",
+        "Wɔn turo a ɛdɔɔso a wɔhwere",
+        "Ɔsɛe a asasewosow a ɛbae mpofirim de ba",
+        "Gye a wogye fi whale kɛse bi nsam"
+      ],
+      "answer": "Paradise sɛ wɔn akatua"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

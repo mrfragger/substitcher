@@ -1,0 +1,61 @@
+{
+  "title": "Abateze amatwi baturutse mu bitagaragara",
+  "intro": "Inyuma y'igitambaro cy'isi igaragara, iteraniro ryihishe ryateraniye mu mwijima, rikururwa n'urusaku rwamaganaga ibyo bari bazi byose. Bari bamaze imyaka myinshi bazerera nta buyobozi nyakuri, kugeza ubwo ijwi ryinjiye mu ituze ry'ubwami bwabo butagaragara rigakurura ikintu cyimbitse imbere muri bo. Iri joro, uratumiwe kurenga igicucu no kuvumbura uwo ari we wese, aho bahuye n'amagambo y'Imana yabasubije ku bantu babo nk'ababurira ukuri kutashoboraga gukumirwa.",
+  "clues": [
+    "Turi ibiremwa bya kera, twabayeho kera cyane mbere y’amahanga menshi wasomye, nyamara tuvugwa gake cyane mu nkuru z’abantu.",
+    "Kamere yacu itandukanye n'iyawe, yakozwe mu bintu bitagaragara, kandi dufite imbaraga zirwanya ibisanzwe.",
+    "Mu gihe cy'imyaka myinshi, twazereraga nta buyobozi nyakuri, kugeza ubwo ijwi ryatugezeho rituma tugira ikintu cyimbitse imbere.",
+    "Twumvise isubiramo ritavuzweho ikintu na kimwe twari twigeze twumva, amagambo afite uburemere burenze ubwo aribwo bwose.",
+    "Twakomeje kwihisha, dutegeka abacu guceceka, kandi iyo mirongo irangiye, ntitwashoboraga kuguma aho twari turi.",
+    "Twasubiye mu muryango wacu maze turavuga tuti: 'Yemwe bantu bacu, twumvise Igitabo cyahishuwe nyuma ya Musa, gihamya ibyari mbere yacyo, kiyobora ukuri.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Hawariyyun (Abigishwa ba Isa)",
+        "Amajini yemeye nyuma yo kumva Korowani",
+        "Abagenzi bo mu buvumo",
+        "Abamarayika bo mu ijuru ryo hasi cyane",
+        "Abantu ba Farawo bakurikiye inzira ye"
+      ],
+      "answer": "Amajini yemeye nyuma yo kumva Korowani"
+    },
+    "trial": {
+      "label": "Urubanza / Igikorwa",
+      "options": [
+        "Twarirukanywe kubera kwanga kunamira ikiremwa gishya",
+        "Twafungiwe mu buvumo imyaka magana atatu n'icyenda",
+        "Twategetswe kwambuka inyanja yacitsemo kabiri imbere yacu",
+        "Twaroherejwe mu gihugu cy'ubumaji kugira ngo twige ubumaji",
+        "Twateze amatwi isomo mu ibanga maze riduhindura"
+      ],
+      "answer": "Twateze amatwi isomo mu ibanga maze riduhindura"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Inyana ya zahabu yakozwe mu mitako y'ubwoko",
+        "Ubuvumo bwamaze imyaka myinshi businziriyemo",
+        "Abamarayika babiri i Babuloni bigishaga ubumenyi bubujijwe",
+        "Igitabo cyahishuwe nyuma ya Mose, gihamya Torah",
+        "Igihuru cyaka hejuru y'umusozi wera"
+      ],
+      "answer": "Igitabo cyahishuwe nyuma ya Mose, gihamya Torah"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Twavumwe kugeza ku munsi w'urubanza",
+        "Twahagurukiye umutegetsi ukomeye maze twubaka uruzitiro mu gihugu",
+        "Twahinduwe nk'inkende n'ingurube",
+        "Twasubiye mu bantu bacu nk'ababurira, dutangaza ukwemera",
+        "Twarohamye mu nyanja turi kumwe n'umuyobozi wacu"
+      ],
+      "answer": "Twasubiye mu bantu bacu nk'ababurira, dutangaza ukwemera"
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Weeqa Dagal Toobbe Xongolo",
+  "intro": "Atu zulmi madab tekkeh tan ayyuntak fayya inta xongolo taabbe. Faxe cayli mayballa weeqah gacsa mali; Wohuk muxxi, saanih essero Yalla guftaah, gacsi kaadu qibaadah sorkocô baxat radah. iyyaay too malkit abtem, manni essero kataytem, ​​kee manni numma diggowtem?",
+  "clues": [
+    "Anu inni dariifal yan marih zulmit taqbiteh.",
+    "Anu woo weeqa saanih Yalla fan cankah weeqah addat xongolo abe.",
+    "Yalli malkit yoobbeeh, anu innih elle aamineh an innal gexkalootut gacse.",
+    "gacsi esserem anu mannal radeyyo Yallal aaminem, usuk tiyaay, daga raaqa.",
+    "Anu tokkeek Yalli kaafiritte ummattah macah racmattam essere.",
+    "Anu Uzayir, Suurat Az-Zukhruf addal Yalli kay weeqa yoobbe numu axcuk muggaaqisne."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Anu miyyaay?",
+      "options": [
+        "Uzayir",
+        "Kaxxa weeqi amol doonik gexe waklenta",
+        "leeh amol gexa taama abeynit",
+        "xiina num gablah addat kalalimeh",
+        "Daqar fanah xaa baahe taama abeyna"
+      ],
+      "answer": "Uzayir"
+    },
+    "trial": {
+      "label": "Gibbatu/Tekkooka",
+      "options": [
+        "Yallat yakke zulmi wagittaamal malkit abaanama.",
+        "Caacayti uddur leeh amol gexaanam",
+        "Lee sinni weeqaytu fan xaa yakkuqeenimi.",
+        "kaxxa weeqi addat doonik amol gexaanam",
+        "mango gaddi fakeyna hargaanama"
+      ],
+      "answer": "Yallat yakke zulmi wagittaamal malkit abaanama."
+    },
+    "location": {
+      "label": "Lafa le liyyitte",
+      "options": [
+        "saanih yalla fan ruuba malkit.",
+        "Abeesa tekke taama abeynit",
+        "Diyyi xabca kee salaam bicse",
+        "weeqi leeh amol leeh amoh gexa doonik",
+        "kullumti taama abeynit yanxuqeh"
+      ],
+      "answer": "Saanih Yalla fan ruuba malkit."
+    },
+    "outcome": {
+      "label": "Xalu",
+      "options": [
+        "Yalli malkit yoobbeh tonnah qibaadah inkittiino kee daga raqta degelti diggoose.",
+        "Caacayti uddur leeh amol salaamah gexaanam",
+        "kaxxa weeqi salaamah tabsaanam doonik amol",
+        "Qagitaak mabla geytam kaxxiini daala",
+        "Ayro mawqaak ayro korma fan fidnaaneh tan reedanti hargaanama"
+      ],
+      "answer": "Yalli malkit yoobbeh tonnah qibaadah inkittiino kee daga raqta degelti diggoose."
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

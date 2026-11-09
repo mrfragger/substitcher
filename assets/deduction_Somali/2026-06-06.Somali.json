@@ -1,0 +1,61 @@
+{
+  "title": "Addoonkii Alle ee Sarreeya",
+  "intro": "Waxaad maqlaysaa hadallo ku saabsan qof waagii hore, addoon Alle ah oo loo qaaday boos ka sarreeya kan caadiga ah. Qofkan waxaa lagu yaqaanay dulqaad aan kala go 'lahayn iyo run sheegid buuxda, waxaana loo diray dad ka jeestay farriinta. Waa kuma ruuxan sharafta leh?",
+  "clues": [
+    "Alle ayaa ii doortay nebi, waxaana lagu xusay Qur'aanka Kariimka ah.",
+    "Waxaa la ii yaqaanay dulqaadkayga iyo runsheegnimadayda, sifooyinka uu Alle ammaano.",
+    "Waxaan dadkayga ugu yeeray inay caabudaan Ilaaha keliya, laakiin dad badan ayaa i diiday.",
+    "Waxaa kor u qaaday booskayga Alle, waxaana la ii siiyay darajo sare.",
+    "Badanaa waxaa la i xusaa iyadoo lala socdo nebiyo kale sida Ismaaciil iyo Dhul-Kifl.",
+    "Ilaahay wuxuu iga leeyahay: 'Waxaana u koryeelnay meel sare.' (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Idriis",
+        "Nebi Ilyaas",
+        "Nabi Dhu al-Kifl",
+        "Nabi Al-Yasa",
+        "Nabi Huud"
+      ],
+      "answer": "Nabi Idriis"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Wuxuu dadka ugu yeeray inay caabudaan Allaah",
+        "Doontii ayay dhisteen",
+        "Wuxuu la dagaallamay Fircoon",
+        "Waxaa lagu baaray xanuun daran",
+        "Dab ayaa lagu tuuray"
+      ],
+      "answer": "Wuxuu dadka ugu yeeray inay caabudaan Allaah"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Darajada sare/saldhigga sare",
+        "Sanduuqii",
+        "Shaqaalaha",
+        "Dabkii",
+        "Ceelka"
+      ],
+      "answer": "Darajada sare/saldhigga sare"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Sare loo qaaday heer sare",
+        "Daadku ku qarqiyay",
+        "Waxaa liqay nibiri",
+        "Laga badbaadiyay dabka",
+        "Wuxuu noqday boqor"
+      ],
+      "answer": "Sare loo qaaday heer sare"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

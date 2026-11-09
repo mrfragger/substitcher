@@ -1,0 +1,61 @@
+{
+  "title": "Omulanga Oguyitamu Emyaka",
+  "intro": "Teebereza emmeeme eyayimirira yokka ng’evuganya n’empuku yonna, ng’emaliridde okubalungamya okudda okuva mu kubuzaabuzibwa n’obumalirivu obutasalako. Okumala ebyasa bingi, obubaka obwo bwagaanibwa, ne busekererwa, era ne bugobwa —naye kaweefube oyo teyakoma. Oluvannyuma, okubalirira okunene kwajja, era batono bokka be baalinnya obulokozi ku mabbali g’omwoyo guno omunywevu. Osobola okuzuula omuwendo guno okuva mu Quran?",
+  "clues": [
+    "Nasindikibwa ng’omulabuzi eri abantu abaabuze mu makubo gaabwe.",
+    "Nabayita banoonye okusonyiyibwa n’okudda emabega okuva ku bibi byabwe, naye ne bakyuka.",
+    "Olw’okulagira Katonda, nnazimba ekibya ekinene ennyo ng’abantu bange bantunuulira era nga bansekerera.",
+    "Nakoowoola Mukama wange obutasalako — okukkakkana ng’addamu, era amazzi ne gayiika okuva mu bbanga nga gakulukuta.",
+    "Nalinnya eryato n’abo abakkiriza amazzi g’amataba bwe gaasituka waggulu w’ettaka.",
+    "Nakaabira omu eyali asigadde emabega, nga mbasaba baddukire ku lusozi, naye ekiragiro kyali kyayita dda."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Nabbi Nuh",
+        "Nabbi Ibrahim",
+        "Nabbi Musa",
+        "Nabbi Hud",
+        "Nabbi Salih"
+      ],
+      "answer": "Nabbi Nuh"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okuzimba eryato eddene n’okuwona amataba mu nsi yonna",
+        "Okusuulibwa mu muliro ogwaka",
+        "Okutunuulira omutyobooli n’abalogo be ab’amaanyi",
+        "Okumira ekyennyanja ekinene",
+        "Okulaba ng’eŋŋamira enkazi entukuvu ettibwa"
+      ],
+      "answer": "Okuzimba eryato eddene n’okuwona amataba mu nsi yonna"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Eryato ennene ennyo ey’embaawo ku mazzi agakulukuta",
+        "Ekiwonvu ekitukuvu nga kiriko amatongo ag’amayinja ag’edda",
+        "Empuku enzito nga banne basulanga okumala ebyasa bingi",
+        "Olubuto lw’ennyanja ekika kya whale ennene ennyo mu buziba bw’ennyanja",
+        "Olusozi oluwanvu olw’amayinja mu ddungu"
+      ],
+      "answer": "Eryato ennene ennyo ey’embaawo ku mazzi agakulukuta"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yalokoka n’abakkiriza abaali ku mmeeri",
+        "Yanunuddwa okuva mu muliro nga tafunye buzibu bwonna ng’ayita mu kiragiro kya Katonda",
+        "Yakulembera okusenguka okunene okuva mu bwakabaka obw’amaanyi",
+        "Suula okuva mu byennyanja ku lubalama olutaliiko bimera",
+        "Yakulembera abantu okuva mu bikolwa ebibi ng’ayita mu kabonero ak’ekyamagero"
+      ],
+      "answer": "Yalokoka n’abakkiriza abaali ku mmeeri"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

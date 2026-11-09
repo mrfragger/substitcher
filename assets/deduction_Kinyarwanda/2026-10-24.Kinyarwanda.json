@@ -1,0 +1,61 @@
+{
+  "title": "Umuburo uri munsi y'ubutaka",
+  "intro": "Tekereza uhagaze iruhande rw'ubucukuzi bwimbitse mu gihe amajwi azamuka aturutse hasi, isi yo hejuru igaceceka. Korowani ibi irabitse nk'umuburo: umuryango uhakana ibyo intumwa zizana, ibihano birahita birangira, ndetse n'urusaku rwawo rukaba igice cy'ubuhamya. Ni irihe tsinda rivuga muri iyo mirongo?",
+  "clues": [
+    "Muri Korowani twibukwa nk'itsinda ry'abantu bagereranywa n'iherezo rimwe aho kuba izina ry'umuntu ku giti cye.",
+    "Twanze ubutumwa bwazanywe n'intumwa, nubwo ibyo bavuze byari ukuri.",
+    "Irangamuntu yacu twibuka ifitanye isano n'ikintu cyo mu butaka, kandi icyo kintu cyabaye kimwe mu bigize izina ryacu.",
+    "Ku munsi wagenwe, twazanywe hanze tujyanwa ku muriro.",
+    "Ntitwashoboraga kwirwanaho ku gihano, kandi ntitwashoboraga kumva urusaku rwacyo.",
+    "Twahindukiriraga mu muriro, tukawujugunywamo; iyo tubazwaga, twavugaga ko turi mu batashoboraga gusubiza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Abagenzi bo mu muyoboro w'amazi",
+        "Ishyanga ryarokowe mu mwuzure ukomeye",
+        "Abasenga Inyana y'Izahabu",
+        "Itsinda ryihishe mu buvumo bwo mu misozi",
+        "Umuryango wakuwe mu itanura ry'umuriro"
+      ],
+      "answer": "Abagenzi bo mu muyoboro w'amazi"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Bakururwa bajugunywa mu muriro",
+        "Yakuwe mu itanura ry'umuriro",
+        "Yajyanywe mu mutekano mu gihe cy'umwuzure ukomeye",
+        "Yahungiwe mu buvumo imyaka amagana",
+        "Yarokowe nyuma yo gutabwa mu iriba"
+      ],
+      "answer": "Bakururwa bajugunywa mu muriro"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Umuyoboro cyangwa icyobo",
+        "Inyanja nini",
+        "Ubuvumo bwo mu misozi",
+        "Ingoro ndende",
+        "Iriba ryo mu butayu"
+      ],
+      "answer": "Umuyoboro cyangwa icyobo"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Kudashobora kwirwanaho no kumva urusaku rw'umuriro",
+        "Yarokowe kandi yemererwa kwinjira mu busitani bw'iteka",
+        "Yarokowe mu mutekano mu gihe cy'umwuzure wangiza",
+        "Kurindwa no gusinzira igihe kirekire mu buvumo",
+        "Ihabwe icyubahiro n'ubwami buhoraho"
+      ],
+      "answer": "Kudashobora kwirwanaho no kumva urusaku rw'umuriro"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

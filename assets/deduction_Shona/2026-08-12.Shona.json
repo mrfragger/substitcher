@@ -1,0 +1,61 @@
+{
+  "title": "Nhume dzeNgoni neSimba",
+  "intro": "Fungidzira masikati akanyarara akakanganiswa nekusvika kwevafambi vausingazive. Chitarisiko chavo hachina kujairika, asi chinangwa chavo hachina kufanana. Vanotakura shoko raMwari richachinja mafambiro emarudzi maviri, richiunza kuseka kumusha usina chinhu uye kutya muguta rine zvivi. Ndivanaani vaenzi ava vasinganzwisisike?",
+  "clues": [
+    "Takatumirwa kumuranda akazvipira waAllah, anozivikanwa nekugamuchira vaeni vake zvisina muganho.",
+    "Takasvika takaita sevanhu vatisingazive, asi mugamuchiri wedu akanzwa chimwe chinhu chisinganzwisisike nezvekuvapo kwedu.",
+    "Takaunza mashoko akaita kuti mumwe mukadzi mukuru aseke asingatende, achishamisika zvikuru.",
+    "Takapihwa basa rekuchengetedza mhuri yakarurama uku tichinayisa kuparadzwa muguta rakazara nehuori.",
+    "Takaramba kudya chikafu chatakapihwa, izvo zvakawedzera kufungira kwemuenzi wedu.",
+    "Takaratidza hunhu hwedu hwechokwadi tisati taenda, tichiti, 'Zvirokwazvo, tiri vatumwa vaIshe wako.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tiri vanaani?",
+      "options": [
+        "Vaenzi vaAbrahama",
+        "Vadzidzi vaJesu",
+        "Shamwari dzeBako",
+        "Hondo yaAbraha",
+        "Vatumwa veYa-Sin"
+      ],
+      "answer": "Vaenzi vaAbrahama"
+    },
+    "trial": {
+      "label": "Basa Redu",
+      "options": [
+        "Kuedza kutenda kwaAbrahama pamusoro pemwanakomana wake",
+        "Kuendesa rugwaro kuna Abrahama",
+        "Kuzivisa kuzvarwa kwaIsaka nekuparadzwa kwevanhu vaRoti",
+        "Kutungamira Abrahamu kuenda kuKaaba",
+        "Kununura Abhurahama kubva mumoto"
+      ],
+      "answer": "Kuzivisa kuzvarwa kwaIsaka nekuparadzwa kwevanhu vaRoti"
+    },
+    "location": {
+      "label": "Nzvimbo Yekuonekwa",
+      "options": [
+        "Munyika yeIjipiti",
+        "Muguta reUri",
+        "Kumba kwaAbrahama",
+        "Mubindu reEdheni",
+        "Patsime reZamzam"
+      ],
+      "answer": "Kumba kwaAbrahama"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Abrahamu akava mambo",
+        "Abrahama akavaka Kaaba",
+        "Sara akabereka Isaka uye vanhu vaRoti vakaparadzwa",
+        "Abrahama akatamira kuPalestine",
+        "Vanhu vaAbrahama vakaponeswa kubva mumafashamo makuru"
+      ],
+      "answer": "Sara akabereka Isaka uye vanhu vaRoti vakaparadzwa"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "woo seeco silayti dabaanitte",
+  "intro": "Inkih tan qasriino qagitak sooleh yan rooci cubbus, ken miraacisuh faatacimeh wadirih hoxat yan fidga luk. bool karmoomih, farmo cinnimteh, anqasak, kee bayteh—takkay immay macal masoolinna. Ellecaboh, kaxxa cisab yemeete, kee dubuk dago mari safarte wadih xaqut ta digga le rooci. Atu tama muuci Qur'aanak baxissam duuddaa?",
+  "clues": [
+    "Anu sinni gital bayte ummattah takkaawisah ruube.",
+    "Anu qafuuta gorrisaanam kee ken qellatak wadirih yadaaroonuh ken arcibiseh, takkay immay oson wadir yuduureenih.",
+    "Yallih amrih gubat, yi ummatta wagtak yoo anqasak sugte wak kaxxa merraytu xise.",
+    "Anu inni Rabbih seeco abeh soole sinnim—ellecabol usuk gacsa abeeh, lee qaraanak caxittaama.",
+    "Anu weeqi lee baaxok dagal tawqe wak yaamine mara lih markabat koreh.",
+    "Anu darrel raaqeh yan numuh weeqeh, qalel dabboh gexaanam essereeh, takkay immay amri naharal elle taturteh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Anu miyyaay?",
+      "options": [
+        "Nuuc farmoyti",
+        "Nabi ibraahim",
+        "Nabi Muusa",
+        "Huud farmoyti",
+        "Nabi Saalih"
+      ],
+      "answer": "Nuuc farmoyti"
+    },
+    "trial": {
+      "label": "Gibbatu/Tekkooka",
+      "options": [
+        "kaxxa doonik xisaanam kee baad weeqih addat cataanam",
+        "Girah addat qidaanam",
+        "qanxaffe le num kee kay caylale baab abeynit foocal",
+        "Kaxxa kullumti yanxuqe",
+        "is diini gaali qidimih sumaq"
+      ],
+      "answer": "kaxxa doonik xisaanam kee baad weeqih addat cataanam"
+    },
+    "location": {
+      "label": "Lafa le liyyitte",
+      "options": [
+        "weeqi leeh amol kaxxa caxxi doonik",
+        "dumaahi xaahih finqa le diini golo",
+        "waklentit bool liggiditte fan elle xiinah yan adda le gabla",
+        "Baddi addah addat tan kaxxa kullumti garba",
+        "Bacari addat tan xaahi qale"
+      ],
+      "answer": "weeqi leeh amol kaxxa caxxi doonik"
+    },
+    "outcome": {
+      "label": "Xalu",
+      "options": [
+        "markabat yani yaamineenit lih daanimte",
+        "Yalli amrit girak biyaakite kal cattiime",
+        "Caylale amoytiinuk kaxxa mawqa miraacise",
+        "kullumtak irol qida baddi caraatal",
+        "sinam qellat abtok assakat le astat miraacisa"
+      ],
+      "answer": "markabat yani yaamineenit lih daanimte"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

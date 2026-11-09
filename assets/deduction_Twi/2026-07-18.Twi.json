@@ -1,0 +1,61 @@
+{
+  "title": "Nea Nsu Sɔhwɛ Afiri Afiri Mu",
+  "intro": "Wɔ tete kyerɛwsɛm mu abakɔsɛm mu no, onipa bi a n’ani gye ho wɔ hɔ a ɛnyɛ anwonwade a ɛyɛ nwonwa anaa adiyisɛm a ɛyɛ aprannaa na efi ase, na mmom gyidi ho sɔhwɛ a ɛnyɛ den nanso emu dɔ. Ɔman bi gyinaa kwan a ɛtwam, hwehwɛɛ ɔsoro akwankyerɛ ma akanni. Nea ɛdaa adi no yɛ sɔhwɛ a anifere wom araa ma ɛbɛma wɔahu nokware gyidifo a wɔwɔ wɔn mu no. So wubetumi ahu ahintasɛm yi afi nsɛnkyerɛnne a wɔagyaw wɔ w’akyi no mu?",
+  "clues": [
+    "Mefiri abusua a nnipa no ani gyee ho mu, na Allah paw me maa atirimpɔw kronkron bi a wɔnntumi nte aseɛ.",
+    "Ná me nipadua kura nsonsonoe agyiraehyɛde bi a na afoforo nni, na ɛma migyinaa me nkurɔfo mu.",
+    "Bere a wɔpaee mu kae sɛ asubɔnten no yɛ sɔhwɛ no, dodow no ara san wɔn akyi —nanso mipiaa me kɔɔ m’anim, a gyidi a enhinhim wɔ Allah bɔhyɛ mu na ɛkanyan me.",
+    "Wɔhyɛɛ me sɛ mennom nsu a wɔabara da, nanso nsu a ɛtɔe biako guan fii m’ano—bɔne a ɛhaw me koma daa.",
+    "Allah hyɛɛ me sɛ mehyia oguanhwɛfoɔ kumaa bi a da bi ɔbɛbɛyɛ anansesɛm sɛ wakum ɔtamfo a ɔyɛ den.",
+    "Bere a asraafo no dii ako no, ɛnyɛ ɔtamfo no nsa na mehwee ase, na mmom ɔsoro ahyɛde so sɛ asotwe wɔ m’asoɔden wɔ asubɔnten no ho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Talut (Saul) – Bani Israel Hene a Odi Kan",
+        "Ɔkɔmhyɛni Dawud (David) – Oguanhwɛfo Hene",
+        "Goliat (Jalut) – Ɔbran a ɔwɔ Bani Israel",
+        "Ɔkɔmhyɛni Sulayman (Solomon) – Mframa ne Jinn Wura",
+        "Ɔhene Saul Ɔsahene a Ɔsoaa Adaka no"
+      ],
+      "answer": "Talut (Saul) – Bani Israel Hene a Odi Kan"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Pow a wɔpow sɛ wɔbɛnom Asubɔnten Nil mu wɔ Exodus bere mu",
+        "Asraafo no a wɔbɛsɔ wɔn ahwɛ denam ahyɛde a wɔde ma wɔn sɛ wɔnnom asubɔnten kronkron bi mu no so",
+        "Yerusalem Asɔredan a wɔkyekyee wɔ mfeɛ aduanan mu",
+        "Ɔne Amalekfoɔ no ne Ɔkɔmhyɛni Musa reko",
+        "Ahemfie a wɔresi ama Bilqis – Seba Hemmaa"
+      ],
+      "answer": "Asraafo no a wɔbɛsɔ wɔn ahwɛ denam ahyɛde a wɔde ma wɔn sɛ wɔnnom asubɔnten kronkron bi mu no so"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Asubɔnten Yordan a ɛbɛn Yerusalem",
+        "Asubɔnten a ɛwɔ Bɔhyɛ Asase no hye so no",
+        "Eufrate Asubɔnten a ɛwɔ Babilon no",
+        "Asubɔnten Nil a ɛwɔ Misraim",
+        "Nsu a atwa Yeriko kurow no ho ahyia no"
+      ],
+      "answer": "Asubɔnten a ɛwɔ Bɔhyɛ Asase no hye so no"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Mebɛyɛɛ ɔhene a ɔsen biara na mekyekyeree Yerusalem asɔrefie",
+        "Mehwee ase wɔ ɔko mu sɛ asotwe wɔ asoɔden biako a meyɛe no ho",
+        "Wɔnam me gyidie so gyee me nkwa na mebɛyɛɛ odiyifoɔ",
+        "M’asraafo dii wiase a wonim no nyinaa so nkonim",
+        "Metena ase huu me ba Salomo sɛ onya m’ahenni"
+      ],
+      "answer": "Mehwee ase wɔ ɔko mu sɛ asotwe wɔ asoɔden biako a meyɛe no ho"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

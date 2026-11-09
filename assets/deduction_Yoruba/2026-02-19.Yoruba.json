@@ -1,0 +1,61 @@
+{
+  "title": "Ìwà òmùgọ̀ ti Ìfẹ́ Ńlá",
+  "intro": "Bẹ̀rẹ̀ ìrìn àjò láti ṣàwárí ẹni tí ẹgbẹ́ kan jẹ́, tí àwọn èrò wọn tó lágbára sì parí láìròtẹ́lẹ̀. Ìtàn yìí ń ṣiṣẹ́ gẹ́gẹ́ bí ìrántí tó jinlẹ̀ nípa agbára Ọlọ́run àti àìlera agbára ayé nígbà tí ó bá tako ohun mímọ́. Tú àṣírí ẹgbẹ́ yìí, tí ìtàn wọn wà nínú Al-Quran gẹ́gẹ́ bí ìkìlọ̀ fún gbogbo àwọn tó fẹ́ ṣẹ̀.",
+  "clues": [
+    "A ní ìfẹ́ ọkàn ńlá, a gbàgbọ́ pé agbára wa kò láfiwé, a sì bẹ̀rẹ̀ ìrìn àjò pẹ̀lú ète ìparun tó ṣe kedere.",
+    "Aṣáájú wa, tí ó kún fún ìgbéraga, gbìyànjú láti ba Ilé mímọ́ tí ọ̀pọ̀ ènìyàn ń bọ̀wọ̀ fún jẹ́, ó ń gbìyànjú láti yí ìrìn àjò ìsìn padà sí ilé tí a kọ́.",
+    "Láti ilẹ̀ jíjìnnà, a rìn pẹ̀lú agbára ńlá, pẹ̀lú ìgbẹ́kẹ̀lé nínú agbára wa láti tú ilé àtijọ́ tí ó wà ní ìlú mímọ́ náà ká.",
+    "Ẹgbẹ́ ọmọ ogun wa lágbára gan-an, àwọn ẹ̀dá ńláńlá ló ń ṣáájú wọn, ìran kan tí àwọn olùgbé ilẹ̀ tí a gbógun ti kò fi bẹ́ẹ̀ rí nígbà tí wọ́n ń ṣe irú ìpolongo bẹ́ẹ̀.",
+    "Nígbà tí a dé ibi tí a ń lọ, ìdásí àtọ̀runwá kan wáyé; àwọn ẹ̀dá kéékèèké, tí wọ́n ní ìyẹ́ farahàn, wọ́n sì fi òkúta amọ̀ tí a yan sọ wá.",
+    "Gbogbo ìrìn àjò wa dé òpin ìparun, ó sì fi agbára wa tó lágbára sílẹ̀ pátápátá, bí koríko tí a ti jẹ, ètò wa tóbi sì di eruku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Àwọn ènìyàn Támúdì",
+        "Àwọn ènìyàn 'Ad",
+        "Àwọn ènìyàn Sódómù",
+        "Àwọn Ènìyàn Erin",
+        "Àwọn Ènìyàn Ọgbà"
+      ],
+      "answer": "Àwọn Ènìyàn Erin"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ìkún Omi Ńlá",
+        "Ipolongo lodi si Kaaba",
+        "Ìparun Àwọn Òrìṣà",
+        "Pípín Òkun Pínyà",
+        "Ìsẹ̀lẹ̀ Mídíánì"
+      ],
+      "answer": "Ipolongo lodi si Kaaba"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Àpótí náà",
+        "Òṣìṣẹ́ náà",
+        "Kaaba",
+        "Ọmọ màlúù wúrà náà",
+        "Iná náà"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ìgbàlà àtọ̀runwá",
+        "Àkókò gígùn ti aásìkí",
+        "Ìyípadà sí ẹ̀sìn Islam",
+        "Ìparun pátápátá",
+        "Ìgbèkùn kúrò ní ilẹ̀ wọn"
+      ],
+      "answer": "Ìparun pátápátá"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

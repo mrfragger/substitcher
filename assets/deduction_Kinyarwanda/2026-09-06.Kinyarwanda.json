@@ -1,0 +1,61 @@
+{
+  "title": "Igicibwa cy'inyana y'izahabu",
+  "intro": "Umuntu uvugwa muri Korowani yayoboye imbaga y’abantu mu nzira yo kuyobya ubwo umuhanuzi w’icyubahiro yari adafite Imana. Ikintu cyakozwe mu zahabu cyafashe imitima y’igihugu cyose - ariko inkuru y’uyu muntu irangirira mu bwigunge n’umuvumo udasanzwe. Uyu muntu ashobora kuba ari nde waciwe?",
+  "clues": [
+    "Navutse mu gihe umuhanuzi ukomeye yari adahari wari warazamutse kugira ngo ahabwe ubuyobozi bw'Imana.",
+    "Natumye imbaga y'abantu iyobya nkoresheje ikintu nakoze n'amaboko yanjye.",
+    "Igihangano cya zahabu nakoze cyasaga n'aho gifite ubuzima, kigakora amajwi yashimishije abagikurikiye.",
+    "Navuze ko nabonye ibyo abandi batashoboraga kubona - nk'aho nabonye ibitagaragara.",
+    "Nakuye ikintu mu nzira z'intumwa y'Imana maze ndagishyira mu cyuma gishongeshejwe.",
+    "Naciriwe urubanza rwo kuzerera ndi jyenyine, mfite umuvumo udasanzwe ko nta n'umwe washoboraga gukora ku ruhu rwanjye cyangwa ngo nanjye nkore ku ruhu rwe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Samiri",
+        "Hamani",
+        "Farawo (Firauni)",
+        "Abu Lahab",
+        "Intumwa Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Yaremye inyana ya zahabu yo gusenga",
+        "Yubatse umunara ugera mu ijuru",
+        "Yahigitse abapfumu bo mu Misiri",
+        "Yayoboye ingabo zifite inyamaswa ziguruka",
+        "Guca uku kwezi nk'ikimenyetso cy'ubuhanuzi"
+      ],
+      "answer": "Yaremye inyana ya zahabu yo gusenga"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Inyana ya zahabu",
+        "Inkoni yahindutse inzoka",
+        "Igihuru cyaka ku musozi",
+        "Ubwato buhagaze ku mpinga",
+        "Umuyoboro wuzuyemo umuriro ugurumana"
+      ],
+      "answer": "Inyana ya zahabu"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Kwirukanwa, kubuzwa gukorakoraho cyangwa gukora ku bandi",
+        "Barohamye mu nyanja hamwe n'ingabo",
+        "Yatwitswe ari muzima azira kwanga ukwemera",
+        "Yakubiswe n'umuyaga ukomeye kandi urimo urusaku",
+        "Yababariwe kandi azamurwa mu ntera ikomeye"
+      ],
+      "answer": "Kwirukanwa, kubuzwa gukorakoraho cyangwa gukora ku bandi"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

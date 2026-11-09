@@ -1,0 +1,61 @@
+{
+  "title": "Omubaka Eyayolekera Abasinza Ebifaananyi",
+  "intro": "Mu kiseera ng’okwewaayo kubuze, omubaka yasituka n’omulanga okudda mu kusinza Mukama w’ensi. Ekifaananyi kino kyayimirira nga kinywevu ku bantu abaali basimbye emirandira mu kusinza katonda ow’obulimba, nga babajjukiza Omutonzi waabwe ow’amazima era Mukama wa bajjajjaabwe. Naye abantu tebaafaayo era ne bagaana okulabula, ne bassaako akabonero ku nkomerero yaabwe. Ono eyakubira essimu atawuguka yali ani?",
+  "clues": [
+    "Nasindikibwa eri abantu abaali bavudde mu kkubo lya Katonda Omu ow’amazima.",
+    "Nabuuza abantu bange nti, \"Temujja kutya Allah?\"",
+    "Nnabayita balekere awo okusinza katonda ow’obulimba ayitibwa Baali.",
+    "Abantu bange baagaana omulanga gwange ne banywerera mu kusinza ebifaananyi byabwe.",
+    "Olw’okwegaana kwabwe, mazima bajja kuleetebwa okubonerezebwa.",
+    "Mukama wange yampa emirembe n’okujjukira okw’omukisa mu milembe egyaddirira."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Nabbi Ilyas",
+        "Nabbi Yahya",
+        "Nabbi Dhul-Kifl",
+        "Nabbi Yusuf",
+        "Nabbi Shu'ayb"
+      ],
+      "answer": "Nabbi Ilyas"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Yayita abantu be okulekawo Bbaali",
+        "Yazimba eryato okulokola abakkiriza",
+        "Yasuuliddwa mu muliro",
+        "Yadduka ku Falaawo omutyobooli",
+        "Yakuba olwazi okuvaamu amazzi"
+      ],
+      "answer": "Yayita abantu be okulekawo Bbaali"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Bbaali",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Bbaali"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yaweebwa emirembe n’okujjukira okw’omukisa",
+        "Okumira ensi",
+        "Yasaanawo olw’omuyaga ogw’amaanyi",
+        "Yafuuka ejjinja",
+        "Yabbira mu nnyanja"
+      ],
+      "answer": "Yaweebwa emirembe n’okujjukira okw’omukisa"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

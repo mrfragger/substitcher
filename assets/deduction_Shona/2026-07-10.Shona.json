@@ -1,0 +1,61 @@
+{
+  "title": "Mutakuri weZviratidzo Zvipfumbamwe",
+  "intro": "Munhu akasimuka kubva pakutanga chaipo, aine ramangwana rakanyorwa mukuda kwaMwari. Akavanzwa achiri mudiki uye akakurira mukati memadziro emutongi chaiye aitsvaga kuparadza vanhu vavo, mweya uyu wakazopedzisira wadanwa kubasa guru. Vakashongedzerwa nekutenda netsvimbo yemufudzi anozvininipisa, vakamira pamberi pemutongi ane simba kwazvo wenguva iyoyo ndokukumbira rusununguko kune avo vaiva muuranda. Nyika pachayo yakaita seyaifamba nekuraira kwavo - mvura yakakamurwa, matenga akataura, uye umambo hwakawa.",
+  "clues": [
+    "Mazuva angu ekutanga airatidza kutya — vacheche vakaita seni vaivhimwa pakuzvarwa nemutongi asina tsitsi aitya remangwana.",
+    "Ndakanunurwa nemvura ndikakurira mumuzinda wemutongi chaiye aida kundiparadza.",
+    "Ndakatiza munyika yangu mushure mechiitiko chakangoerekana chaitika, ndikava mufudzi anozvininipisa kunyika iri kure.",
+    "Ndakadzoka kuzosangana nemutongi ane simba uyu netsvimbo iri nyore neshoko rakajeka, ndichida kuti vanhu vangu vasunungurwe.",
+    "Ndakaparadzanisa mvura yakawanda kuti ndiwane avo vainditevera, uye ndakatarisa mvura idzodzo dzichimedza muvengi wangu wese.",
+    "Ndakakwira gomo dzvene kuti ndiwane gwara raMwari kubva kuna Allah, uye ndakapihwa zviratidzo zvipfumbamwe zvakajeka sehumbowo hwechokwadi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Musa",
+        "Muprofita Nuh",
+        "Muprofita Ibrahim",
+        "Muprofita Yusuf",
+        "Muporofita Lut"
+      ],
+      "answer": "Muprofita Musa"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kutarisana naFarao padare rake",
+        "Kuvaka Areka kuti ipone mafashamo makuru",
+        "Kukandwa mumoto unopfuta nevagadziri vezvifananidzo",
+        "Kudzikiswa mutsime rakadzika nehama dzangu",
+        "Kuedza kumisa vanhu vangu kuita zvinhu zvisina hunhu"
+      ],
+      "answer": "Kutarisana naFarao padare rake"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Tsvimbo yakashanduka kuita nyoka",
+        "Areka yaNuh",
+        "Chigaro cheushe chaBilqis",
+        "Mhete yaidzora mhepo nemajini",
+        "Makiyi epfuma yakachengetwa inorema kudaro"
+      ],
+      "answer": "Tsvimbo yakashanduka kuita nyoka"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Ndakatungamira vanhu vangu kuyambuka mvura dzakaparadzana kuenda kurusununguko",
+        "Akaponeswa kubva mumafashamo makuru ari muAreka",
+        "Akadzorerwa kuhutano hwakanaka nemhuri mushure mekutambura kukuru",
+        "Akakandwa kubva muhove huru ari mupenyu",
+        "Vakavaka nheyo dzeImba Tsvene"
+      ],
+      "answer": "Ndakatungamira vanhu vangu kuyambuka mvura dzakaparadzana kuenda kurusununguko"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

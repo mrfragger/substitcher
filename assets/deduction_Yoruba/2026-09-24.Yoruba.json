@@ -1,0 +1,61 @@
+{
+  "title": "Ọba Aláṣẹ Tí Ó Béèrè fún Ìwà Ọ̀run",
+  "intro": "Alákòóso alágbára àti onígberaga kan gbàgbọ́ pé kò sí ẹni tó dúró lórí ìtẹ́ wọn. Wọ́n lépa àwọn ènìyàn kan tó ń sá lọ kọjá omi ńlá kan, àmọ́ wọ́n parí pátápátá. Ìtàn ọba yìí tún dún ní ọ̀pọ̀lọpọ̀ ẹsẹ ìwé Al-Quran, ó sì jẹ́ ìkìlọ̀ fún gbogbo ènìyàn.",
+  "clues": [
+    "Mo jẹ́ alákòóso alágbára tí kò gbàgbọ́ pé kò sí aláṣẹ tó ju ti èmi lọ ní àwọn ilẹ̀ tí mo ń ṣàkóso.",
+    "Mo ní olùtọ́jú ilé kan tí a fọkàn tán tí orúkọ rẹ̀ ń jẹ́ Haman, ẹni tí ó ràn mí lọ́wọ́ láti ṣe àwọn iṣẹ́ àgbàyanu nípa ilé.",
+    "Mo pe àwọn onídán tó dára jùlọ ní ilẹ̀ mi láti pe àwọn àmì ìránṣẹ́ kan tó tako mi níjà.",
+    "Mo kọ̀ láti jẹ́ kí àwọn ènìyàn tí wọ́n ń kó ní ẹrú ní ìjọba mi lọ, láìka àwọn àjàkálẹ̀ àrùn àti ìkìlọ̀ tó ṣe kedere sí.",
+    "Mo lépa wọn kọjá òkun ńlá pẹ̀lú gbogbo ẹgbẹ́ ọmọ ogun mi àti kẹ̀kẹ́ ogun mi.",
+    "Òkun yẹn gan-an bò mí àti àwọn ọmọ ogun mi mọ́lẹ̀, ó sì rì gbogbo wa mọ́lẹ̀, nígbà tí wọ́n ń kọjá láìléwu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Fir'aun (Farao)",
+        "Namrud",
+        "Abu Lahab",
+        "Hámánì",
+        "Abu Jahl"
+      ],
+      "answer": "Fir'aun (Farao)"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Àwọn àjàkálẹ̀ àrùn àti ìforígbárí pẹ̀lú Mósè (Mósè)",
+        "Kíkọ́ ọkọ̀ ojú omi kí ìkún omi ńlá tó dé",
+        "Ogun lodi si Jalut ni afonifoji naa",
+        "Bí ẹja ńlá bá gbé e mì",
+        "Idaabobo awọn iwuwo iṣowo otitọ"
+      ],
+      "answer": "Àwọn àjàkálẹ̀ àrùn àti ìforígbárí pẹ̀lú Mósè (Mósè)"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Àwọn ilé gogoro gíga àti àwọn òpó igi",
+        "Apoti onigi nla kan",
+        "Ọmọ màlúù wúrà kan",
+        "Ọ̀pá tí ó di ejò",
+        "Ẹja ńlá kan"
+      ],
+      "answer": "Àwọn ilé gogoro gíga àti àwọn òpó igi"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Mo rì sínú òkun pẹ̀lú àwọn ọmọ ogun",
+        "A fi aanu ati suuru Allah gbala.",
+        "Mo tún padà sí ìdílé lẹ́yìn ọ̀pọ̀ ọdún ìṣòro",
+        "Ilẹ̀ gbé mì",
+        "Ó jó nínú iná"
+      ],
+      "answer": "Mo rì sínú òkun pẹ̀lú àwọn ọmọ ogun"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

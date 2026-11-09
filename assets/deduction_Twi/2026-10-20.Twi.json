@@ -1,0 +1,61 @@
+{
+  "title": "Atoro Apɛde Ho Ɔdansifo",
+  "intro": "Bere bi na onipa bi a ɔwɔ tumi kɛse som abakɔsɛm mu atirimɔdenfo a wɔagye dimmɔne sen biara wɔ tete Misraim no mu biako. Wɔde ahyɛde a ɛyɛ akokoduru hyɛɛ saa onipa yi nsa — sɛ ɔnsi ɔdan bi a wɔkyerɛ sɛ ɛbɛsɔre atia ɔsoro. Wɔn asɛm no gyina Kur’aan mu sɛ asuade a ɛyɛ nwonwa a ɛfa sɛnea osetie a anifuraefo yɛ ma ahantan no de ɔsɛe nkutoo kɔ.",
+  "clues": [
+    "Mesom wɔ sodifo bi a ɔwɔ tumi a ɔkyerɛ sɛ onyame wɔ nsase no so no asennibea.",
+    "Mikura asafo mu dibea a ɛkorɔn, na mitu otirimɔdenfo a ɔyɛ ahantan sen biara wɔ me bere so no fo.",
+    "Na me sodifo no ayɛ ma sɛ ɔbɛkasa atia Mose Nyankopɔn a wɔpowee sɛ wobegye no atom no.",
+    "Wɔhyɛɛ me sɛ mensi abantenten a wɔde birikisi a wɔde ogya ayɛ na ama me sodifoɔ no atumi aforo akɔ soro.",
+    "Abantenten no ankɔ soro da, na ahantan nkoa a meyɛe no maa m’anim ase daa.",
+    "Me ne nea midii n’akyi no sɛee, na me din bɛyɛɛ kɔkɔbɔ a ɛtra hɔ daa tiaa wɔn a wɔma atirimɔdenfo tumi yɛ adwuma no."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Haman",
+        "Azar (Ibrahim agya) .",
+        "Illyas (odiyifo bi) .",
+        "Dhu al-Kifl na ɔkyerɛwee",
+        "Harut (abɔfo baanu a wɔwɔ Babilon no mu biako) ."
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Wɔhyɛɛ no ​​sɛ wɔnsi ɔdan atenten bi a ɛbɛkɔ soro",
+        "Wɔsrɛɛ no ​​sɛ ɔnkyerɛ dae bi a wɔsomaa fi ɔsoro hɔ ase",
+        "Wɔtow gu ogya a ɛredɛw mu sɛ gyidi ho sɔhwɛ",
+        "Wɔhyɛ no sɛ ɔpaw ahengua ne nokware",
+        "Wɔkasa tiaa no wɔ nkonyaayi akansi bi mu"
+      ],
+      "answer": "Wɔhyɛɛ no ​​sɛ wɔnsi ɔdan atenten bi a ɛbɛkɔ soro"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Abantenten a wɔde birikisi a wɔde ogya ayɛ",
+        "Poma a ɛdanee ɔwɔ",
+        "Hyɛn bi a ɛnam nsuyiri kɛse bi mu",
+        "Turo bi a afasu atenten atwa ho ahyia",
+        "Ahengua a wɔde aboɔden abo ne sika asiesie"
+      ],
+      "answer": "Abantenten a wɔde birikisi a wɔde ogya ayɛ"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wɔmenee no wɔ ɔhyɛfo no nkyɛn wɔ po no mu",
+        "Ɔbɛyɛɛ ɔhene a ɔwɔ tumi wɔ nsase akɛse so",
+        "Oguan fii ogya a ɛrehyew mu a hwee anyɛ no",
+        "Ɔkyekyee nyansa ahenni a edi yiye",
+        "Wɔsan ne abusua boom wɔ nnommumfa mu mfe pii akyi"
+      ],
+      "answer": "Wɔmenee no wɔ ɔhyɛfo no nkyɛn wɔ po no mu"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

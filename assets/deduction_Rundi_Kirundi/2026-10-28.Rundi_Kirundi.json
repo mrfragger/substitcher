@@ -1,0 +1,61 @@
+{
+  "title": "Isezerano ryavuzwe hejuru y'inkwi",
+  "intro": "Uhagaze iruhande y’umuriro wo mu bugaragwa uko inkwi zawo zikwiragizwa witonze. Abashitsi barashika kugira ngo bahurire mu gacerere, ubutumwa bumwe gusa bugafungura inkuru y’isezerano, y’ugutangara, n’akazoza katararanguka.",
+  "clues": [
+    "Twarajabutse urugendo kugira ngo tugere ku musuku w’intahemuka wo mu bugaragwa.",
+    "Twarasavye ko boshira inkwi kugira ngo bategure umuriro.",
+    "Twaravuganye n’umwe yari yahamagaye urubeya kugira ngo hakonje kandi habeho umutekano.",
+    "Twarazaniye inkuru y’umwana aherutse kuvuka umuntu yari yararengeje imyaka yo kuvyara abana.",
+    "Uwo mwana w’isezerano twamwise Izahaki.",
+    "Twarazaniye Ibrahimu inkuru nziza y’umuhungu, iyo nkuru itangaje iratuma Ibrahimu atwenga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Abamarayika Bazaniye Iburahimu Inkuru Nziza ya Izahaki",
+        "Abamarayika Baburiye Luti .",
+        "Abamarayika Bitwaye Intebe y'Ubwami",
+        "Abamarayika bo muri Gehinomu",
+        "Abamarayika Barungikiwe Nowa ."
+      ],
+      "answer": "Abamarayika Bazaniye Iburahimu Inkuru Nziza ya Izahaki"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Kuzanira Iburahimu inkuru nziza y’ivuka rya Izahaki",
+        "Kugabisha Luti imbere y’uko abantu biwe bahanwa .",
+        "Kumenyesha ivuka rya Yahya kuri Zakariya .",
+        "Kwikorera Intebe y'ubwami ku musi w'urubanza .",
+        "Kumenyesha ivuka rya Isa kuri Mariyamu ."
+      ],
+      "answer": "Kuzanira Iburahimu inkuru nziza y’ivuka rya Izahaki"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Umuriro wateguwe ukoresheje inkwi zakwiragiye",
+        "Ubwato bureremba ku mazi y'umwuzure",
+        "Isenga ryugarijwe n'ibuye ry'agaciro .",
+        "Umusozi w’ibumba rikomejwe n’amazi y’umunyu .",
+        "Ingero ishika mw'ijuru"
+      ],
+      "answer": "Umuriro wateguwe ukoresheje inkwi zakwiragiye"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Inkuru nziza y'umuhungu yitwa Isaac",
+        "Inkuru nziza y'umuhungu yitwa Yahya",
+        "Gutorwa kwa Taluti ngo abe umutware wa bene Isirayeli .",
+        "Imburi imbere y’igihano c’abantu ba Luti",
+        "Itegeko ryo kwubaka ubwato imbere y’Umwuzure ."
+      ],
+      "answer": "Inkuru nziza y'umuhungu yitwa Isaac"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

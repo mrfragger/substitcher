@@ -1,0 +1,61 @@
+{
+  "title": "Chiratidzo Pakati Pematombo",
+  "intro": "Munyika umo makomo akavezwa kuita dzimba, mutumwa akasvika nechiratidzo chinoshamisa kubva kuna Allah. Vanhu vakakumbira humbowo, uye vakagamuchira chisikwa chakabva padombo rakasimba. Asi kuzvikudza kwavo kwakaita kuti vasateerere yambiro, zvichivhara mugumo wavo.",
+  "clues": [
+    "Ndakatumirwa kuvanhu vaigara mudzimba dzakacherwa mumakomo.",
+    "Vakandikurudzira kuti ndiuye nechiratidzo, saka ndakagadzira ngamera kubva padombo.",
+    "Ndakavarayira kuti varege ngamera inwe mvura yakawanda uye vasaikuvadza.",
+    "Havana kuteerera uye vakagura makumbo engamera, vachiramba yambiro yangu.",
+    "Ndakazivisa kuti chirango chaizouya mushure memazuva matatu.",
+    "Mangwanani, kurira kukuru kwakavaparadza, asi ini nevateveri vangu takaponeswa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Salih",
+        "Muporofita Hud",
+        "Muporofita Lut",
+        "Muporofita Shu'ayb",
+        "Muprofita Ibrahim"
+      ],
+      "answer": "Muprofita Salih"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kuda ngamera hadzi kubva padombo",
+        "Kuda mhuru yegoridhe",
+        "Kuda tafura yakapararira kubva kudenga",
+        "Kudiwa kwemafashamo",
+        "Kuda tsvimbo kuti ive nyoka"
+      ],
+      "answer": "Kuda ngamera hadzi kubva padombo"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Ngamera hadzi nemhuru yayo",
+        "Areka yaNoa",
+        "Tsvimbo yaMozisi",
+        "Mhuru Yegoridhe",
+        "Moto waIbrahim"
+      ],
+      "answer": "Ngamera hadzi nemhuru yayo"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Yakaparadzwa nekuputika kukuru",
+        "Kunyura mumafashamo",
+        "Yakamedzwa nenyika",
+        "Yakashanduka kuita tsoko",
+        "Yakaparadzwa nemhepo ine simba"
+      ],
+      "answer": "Yakaparadzwa nekuputika kukuru"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

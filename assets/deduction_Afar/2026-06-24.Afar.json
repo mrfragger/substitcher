@@ -1,0 +1,61 @@
+{
+  "title": "Barguse sinni gira dacrise",
+  "intro": "qarwali soolah waadol kaxxam meysitah yan arac ambullee wayta, dirki amaanat lem gersi ginook faxe waytaama. gandita roocitte racmatta weeqak, gibdi gacsi girah footimaamih addat qagaaqagita. Atu tama amotani dacrisah mamaxxaga baxxaqissam duuddaa?",
+  "clues": [
+    "Anu ambullee wayta digaalah bohoy le aracak culmeenal soola.",
+    "carara, barguse sinni gira yok dirkik gudet tan.",
+    "gandita rooci yi migaq seeca, xaaqimeh cato keenik gaba kalti sinni gadaamat.",
+    "oson xaaqimta wak, anu oson mageytiminna maybalaalaqa, umman.",
+    "Anu num hinniyo, jinni hinniyo — Anu ginook saytun ammirtima.",
+    "Anu jahannab girah amotani dacrise akkuk muggaaqime saqal malayka kinniyo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Anu miyyaay?",
+      "options": [
+        "Malik",
+        "Jibriil",
+        "Mika'el",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Gibbatu/Tekkooka",
+      "options": [
+        "Jahannam ummatta ken gadab soolissuh xaaqimta.",
+        "tuntulla ufuusak cokmi ayroh asta takkuh",
+        "Qhur-aan yallih farmoytih sorkocô baxat oobise.",
+        "Nabiyyi kaxxa girat ken ummatta qida",
+        "caylale gidaar xissimeh umaadoobe agat edde yabbixeenimi"
+      ],
+      "answer": "Jahannam ummatta ken gadab soolissuh xaaqimta."
+    },
+    "location": {
+      "label": "Lafa le liyyitte",
+      "options": [
+        "Jahannam gira (Jahannam)",
+        "Lote caxa gannat cuduudul tan",
+        "dooca tuntulla",
+        "Abeesa fan milaagimtah tan taama abeynit",
+        "Qaxmeqe yallih qarkayto"
+      ],
+      "answer": "Jahannam gira (Jahannam)"
+    },
+    "outcome": {
+      "label": "Xalu",
+      "options": [
+        "Jahannam sigmah amotani raaqelon iyyen.",
+        "Jahannam mari cabsu keenih yeqeenih.",
+        "Jahannam sigeenit imaanal nammeyhayto saami geen",
+        "Jahannam sigmah xamcin arac fan gexe.",
+        "Jahannam sigeenit inki gabuuk finqitteh cankaxi"
+      ],
+      "answer": "Jahannam sigmah amotani raaqelon iyyen."
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

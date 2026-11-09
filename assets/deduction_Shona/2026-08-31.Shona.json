@@ -1,0 +1,61 @@
+{
+  "title": "Inzwi Rakanyarara reMupata",
+  "intro": "Dzokera shure munguva iyoyo kune vanhu vane simba vakambogamuchira chishamiso chipenyu semuedzo. Kuzvikudza nekusindimara kwakasimbisa mugumo wavo. Unogona here kutevedzera nyaya yacho woona zvakaitika panguva iyi yekuchinja kukuru?",
+  "clues": [
+    "Ndakatumirwa semuedzo waMwari kuvanhu vane simba vanozivikanwa nesimba ravo uye kusateerera kwavo.",
+    "Ndakanga ndiri chishamiso chinoshamisa—vanhu vakaita seni vakanga vasati vamboonekwa pakati pavo.",
+    "Ndakagovana mvura yekunwa kubva mutsime nevanhu vangu pamazuva akasiyana.",
+    "Vakanyeverwa kuti chero chii zvacho chingandikuvadza chaizounza chirango chinokurumidza.",
+    "Vane ushingi hwakanyanya pakati pavo havana kuteerera yambiro yacho ndokundiruma chiuno.",
+    "Mushure mekufa kwangu, kuchema kamwe chete kwakabva kumusoro kwakaparadza vanhu vangu vese."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Ngamera Hadzi yaSalih",
+        "Mombe yaMusa",
+        "Ngarava yaNuh",
+        "Tsvimbo yaMusa",
+        "Chigaro cheushe chaBilqis"
+      ],
+      "answer": "Ngamera Hadzi yaSalih"
+    },
+    "trial": {
+      "label": "Mugumo Wangu",
+      "options": [
+        "Akachekwa chiuno ndokuurayiwa",
+        "Akaurayiwa sechibayiro",
+        "Yakashandurwa kuita nyoka",
+        "Yakachengetedzwa panguva yemafashamo makuru",
+        "Kuendeswa nekukurumidza muumambo"
+      ],
+      "answer": "Akachekwa chiuno ndokuurayiwa"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Tsime remvura",
+        "Hwendefa redombo",
+        "Gwenzi rinopfuta",
+        "Areka yematanda",
+        "Chigaro choushe chendarama nesirivha"
+      ],
+      "answer": "Tsime remvura"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Yakaparadzwa nekuchema kamwe chete",
+        "Kunyura mumafashamo makuru",
+        "Kupiswa nemvura yematombo",
+        "Yakarohwa nemhepo ine simba",
+        "Yakamedzwa nenyika"
+      ],
+      "answer": "Yakaparadzwa nekuchema kamwe chete"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

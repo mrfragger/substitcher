@@ -1,0 +1,61 @@
+{
+  "title": "Ogya Kronkron Ho Sɔhwɛ",
+  "intro": "Wɔ tete asase bi a na ahofama a wɔde ma abo a wɔasen no agye ntini wɔ ofie biara mu no, na ankorankoro biako gyina hɔ. Ɛdenam gyidi a enhinhim ne ɔsoro ahobammɔ so no, wohyiaa nea anka ɛsɛ sɛ ɛyɛ owu a ɛyɛ nokware — na wɔnantew kɔe a wɔampira. So wubetumi ahu onii ko a ɔkra nwonwaso yi yɛ?",
+  "clues": [
+    "Wɔtetee me wɔ nnipa a wɔkotow abosom a wɔde wɔn ankasa nsa adwene, a wogye di sɛ saa nneɛma yi kura ɔsoro tumi mu.",
+    "Bere a mekasa tiaa wɔn gyidi ahorow no, woyii me fii adwumam mfiase no, nanso na mintumi nyɛ komm wɔ nokware a minim no ho.",
+    "Da bi a wɔboaboaa wɔn ano no, mesɛee wɔn ahoni no, na ɛkaa nea ɛsõ sen biara no nkutoo.",
+    "Bere a wɔsan bae na wohuu nea mayɛ no, wɔn akannifo hyɛe sɛ wonsi ogya kɛse bi, a na wɔn adwene ne sɛ wɔbɛtow me agu ogyaframa no mu.",
+    "Wɔtow me guu ogya a ɛredɛw no mu, nanso wiase nyinaa Awurade hyɛɛ sɛ ɛnyɛ nwini na ahobammɔ mma me.",
+    "Mifii ogyaframa no mu a na mempira koraa, bere a wɔn a wɔbɔɔ pɔw tiaa me no hyiaa ɔsɛe koraa no."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Ibrahim",
+        "Ɔkɔmhyɛni Musa",
+        "Ɔkɔmhyɛni Nuh",
+        "Odiyifo Yes",
+        "Ɔkɔmhyɛni Yusuf"
+      ],
+      "answer": "Ɔkɔmhyɛni Ibrahim"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Wɔtow no gu ogya a ɛredɛw mu",
+        "Sɛ́ whale kɛse bi amene no",
+        "Nsuyiri kɛse bi a wobenya nkwa",
+        "Wɔtow no gu abura a emu dɔ mu",
+        "Ɔhene bi nkonyaayifo a wɔrehyia"
+      ],
+      "answer": "Wɔtow no gu ogya a ɛredɛw mu"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Ogya kɛse bi a wɔde nnua a ɛrehyew ayɛ",
+        "Nnua adaka kɛse bi",
+        "Sikakɔkɔɔ nantwi ba ohoni",
+        "Kɛntɛn a ɛsensɛn nsu mu wɔ asubɔnten bi so",
+        "Ahengua a ɛyɛ nwonwa"
+      ],
+      "answer": "Ogya kɛse bi a wɔde nnua a ɛrehyew ayɛ"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Allah maa ogya no dwoe na dwoodwoo",
+        "Adaka no sii bepɔw bi so dwoodwoo",
+        "Sika ohoni no nwene wɔ wɔn ani so",
+        "Otirimɔdenfo bi ne n’asraafo memee wɔ po no mu",
+        "Anifuraefo bi huu ade bio"
+      ],
+      "answer": "Allah maa ogya no dwoe na dwoodwoo"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ubugingo bw'Umuyoboro",
+  "intro": "Usubira mu gihe umutegetsi w’umugome yasabaga ko abantu biyegurira imana z’ibinyoma byimazeyo. Umuryango muto w’abantu biyeguriye Imana waranze, maze bahura n’igihano gikomeye cyane ku buryo cyahindutse umuvumo w’iteka ryose. Inkuru yabo iragaruka muri Korowani nk’igihamya cy’ukwizera kudacogora. Ese ushobora kumenya iri tsinda rihamye?",
+  "clues": [
+    "Twabaga mu gihugu cyari kiri munsi y'ubutegetsi bw'igitugu bwasabaga ko dusenga imana z'ibinyoma",
+    "Umuryango wacu wahuye n'ibitotezo bikomeye kubera ukwemera kwacu muri Allah gusa",
+    "Umutegetsi yategetse ko hacukurwa umuyoboro munini kandi ugatwikwa n'inkongi z'umuriro",
+    "Kubera ko twanze kwihakana ukwizera kwacu, twajugunywe muri urwo rwobo rugurumana umwe umwe",
+    "Inkuru yacu yabaye igice cya Korowani, kandi abadutotezaga baravumwe iteka ryose",
+    "Sura yanditse amakuba yacu yitiriwe ibimenyetso bikomeye byo mu kirere"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Turi bande?",
+      "options": [
+        "Abagenzi bo mu muyoboro (Ashab al-Ukhdud)",
+        "Abantu bo mu buvumo (Ashab al-Kahf)",
+        "Abantu b'Isabato",
+        "Abantu ba A'ad",
+        "Abantu bo muri Thamud"
+      ],
+      "answer": "Abagenzi bo mu muyoboro (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "Igeragezwa ryacu",
+      "options": [
+        "Gutwikwa ari muzima mu rwobo rw'umuriro",
+        "Gufungirwa mu buvumo imyaka myinshi",
+        "Kuroba ku munsi mutagatifu w'ikiruhuko",
+        "Gusenywa n'umuyaga uhuha cyane",
+        "Kwica ingamiya y'ingore yera"
+      ],
+      "answer": "Gutwikwa ari muzima mu rwobo rw'umuriro"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Umuyoboro w'umuriro ugurumana",
+        "Ubuvumo bwihishe hamwe n'imbwa y'indahemuka",
+        "Inkingi ndende z'umujyi wa kera wari waraciriweho iteka ryose",
+        "Inzu zo mu misozi zishushanyije mu bitare by'amabuye",
+        "Ikibaya gifunguye gitwarwa n'umuyaga mwinshi"
+      ],
+      "answer": "Umuyoboro w'umuriro ugurumana"
+    },
+    "outcome": {
+      "label": "Ibisubizo byacu",
+      "options": [
+        "Twarishwe kandi abadutotezaga baravumwe iteka ryose",
+        "Twakangutse nyuma yo gusinzira imyaka 309",
+        "Twahinduwe nk'inkende kubera ibyaha byacu",
+        "Umuyaga ukomeye cyane waradushenye twese",
+        "Induru imwe y'agahinda yashenye ubuzima bwacu"
+      ],
+      "answer": "Twarishwe kandi abadutotezaga baravumwe iteka ryose"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

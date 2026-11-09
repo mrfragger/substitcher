@@ -1,0 +1,61 @@
+{
+  "title": "Taajkii Caqabadda Ku Noqday Cirka",
+  "intro": "Waddooyinka boqortooyooyinkii hore, magaca hal taliye wuxuu noqday hal-ku-dheg loogu yeero kalitalisnimada iyo isla weynida. Markii addoon Alle oo is-hoosaysiiya uu yimid isagoo wata calaamado aan la dafiri karin, boqornimadan xoogga badan ayaa diiday inay runta isu dhiibto. Maanta, shaqadaadu waa inaad aqoonsato shakhsigan halyeeyga ah ee xukunkiisu burburay oo qaddarkiisuna uu ku xirnaa hirarka hoostiisa.",
+  "clues": [
+    "Waxaan ahay taliyaha ugu cabsida badan oo magaciisa weli u eg digniin qarniyo badan.",
+    "Waxaan amar ku bixiyay dad dhan inay ku shaqeeyaan silsilado, iyagoo taagaya taallooyin ku dhawaaqaya ammaantayda.",
+    "Markii rasuul Alle ii yimid isagoo wata calaamado aan la dafiri karin, waan diiday inaan sujuudo oo waxaan ugu yeeray sixir.",
+    "Waxaan amar ku bixiyay in wiilasha yaryar lagu dilo dad maxaabiis ah dhexdooda, anigoo rajeynaya inaan ruuxooda burburiyo ka hor intaysan soo bixin.",
+    "Waxaan hor istaagay maxkamaddayda oo waxaan ku dhawaaqay, 'Waxaan ahay sayidkiinna ugu sarreeya,' anigoo dalbanaya caabudid ilaah ahaan.",
+    "Iyada oo uu wasiirkaygii ugu sarreeyay ila joogo, waxaan dhisay dhisme dheer oo ujeeddadiisu tahay in aan ka gudbo cirka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Fircoon (Fir'auna)",
+        "Namrud",
+        "Haamaan",
+        "Abuu Lahab",
+        "Al-Walid ibnu Al-Mughira"
+      ],
+      "answer": "Fircoon (Fir'auna)"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Ku qaraqmay Badda Cas",
+        "Hashii loo diray reer Thamuud",
+        "Daadkii weynaa ee Nuux",
+        "Ciqaabta Asxaabta Godka",
+        "Burburkii ciidanka Abraha ee ay geysteen shimbiraha"
+      ],
+      "answer": "Ku qaraqmay Badda Cas"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Dhismaha dhaadheer ee lala dhisay Haman",
+        "Doontii ku dul maraysay daadka",
+        "Dibigii dahabka ahaa ee uu sameeyay Samiri",
+        "Carshiga Bilqis, Boqoradda Sheba",
+        "Godka dhalinyarada hurda"
+      ],
+      "answer": "Dhismaha dhaadheer ee lala dhisay Haman"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Badda ku qarqisay; meydka ayaa loo ilaaliyay digniin ahaan",
+        "La masaafuriyay oo lagu qasbay inuu ku wareego cidlada",
+        "Waxaa loo beddelay daayeer ciqaab ahaan",
+        "Dhulgariir xooggan ayaa ku dhuftay",
+        "Waxaa gubay roob dhagaxyo ah oo cirka ka soo da'ay"
+      ],
+      "answer": "Badda ku qarqisay; meydka ayaa loo ilaaliyay digniin ahaan"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

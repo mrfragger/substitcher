@@ -1,0 +1,61 @@
+{
+  "title": "Òtítọ́ tó pa Ilé Ẹjọ́ lẹ́nu mọ́",
+  "intro": "Nínú ààfin kan níbi tí ìkọ̀sílẹ̀ ti ń jọba tí agbára sì wà ní gbogbogbòò, àwọn onímọ̀ṣẹ́ tó mọṣẹ́ dúró níwájú ìpèníjà kan tí a kò retí. Afẹ́fẹ́ bẹ̀rẹ̀ sí í dún bí àwọn ọ̀nà èké àti òtítọ́ méjèèjì ṣe fẹ́rẹ̀ dojúkọ ara wọn. Àwọn tí wọ́n péjọ kò mọ̀ pé ìpàdé yìí yóò yí ìgbésí ayé wọn padà títí láé, yóò sì fi ìtàn wọn sínú ìwé mímọ́.",
+  "clues": [
+    "A mọ̀ wá fún ọgbọ́n wa nínú àwọn ìtàn àròsọ, a sì kó wa jọ láti ọ̀dọ̀ alákòóso alágbára kan láti kojú àwọn olùpèníjà kan.",
+    "Nígbà tí àkókò náà tó, a ju àwọn ohun èlò orin wa, a sì ń retí àbájáde rẹ̀, pẹ̀lú ìgbẹ́kẹ̀lé nínú iṣẹ́ ọwọ́ wa.",
+    "Ṣùgbọ́n ohun tí a rí mú kí àwọn ẹ̀rọ wa dà bí ohun ìṣeré lásán, ọkàn wa sì mọ òtítọ́ tí a kò lè sẹ́.",
+    "A wólẹ̀ sílẹ̀ ní ìtẹríba, a sì polongo ìgbàgbọ́ wa nínú Olúwa Mósè àti Áárónì, láìka ìbínú olórí náà sí.",
+    "Alákòóso náà halẹ̀ mọ́ wa pẹ̀lú ìyà tó burú jù, ó búra láti kàn wá mọ́ àgbélébùú àti láti gé ẹsẹ̀ wa ní ọ̀nà òdìkejì.",
+    "A dúró ṣinṣin, a sọ pé a fẹ́ràn ìdájọ́ Olúwa wa ju ohunkóhun tó bá ṣẹlẹ̀ sí ayé lọ, a sì pa wá nítorí ìgbàgbọ́ wa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Àwọn Oníṣẹ́-àjẹ́ Farao",
+        "Àwọn Ènìyàn Ihò Àpáta",
+        "Àwọn alábàákẹ́gbẹ́ Igbó",
+        "Àwọn ọmọ-ẹ̀yìn Isa",
+        "Àwọn Ènìyàn Erin"
+      ],
+      "answer": "Àwọn Oníṣẹ́-àjẹ́ Farao"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Idije idan lodi si Musa",
+        "Iná kan rọ̀ lé wọn lórí",
+        "Ìkún omi tó rì wọ́n mọ́lẹ̀",
+        "Ọ̀dá àti ìyàn",
+        "Ìsẹ̀lẹ̀ ilẹ̀"
+      ],
+      "answer": "Idije idan lodi si Musa"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Àwọn ọ̀pá àti okùn tí wọ́n di ejò",
+        "Igbó kan tó ń jó",
+        "Abo ràkúnmí kan",
+        "Ọkọ̀ igi kan",
+        "Ẹja whale kan"
+      ],
+      "answer": "Àwọn ọ̀pá àti okùn tí wọ́n di ejò"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Wọ́n pa á fún ìgbàgbọ́, wọ́n sì ṣèlérí Párádísè",
+        "Mo rì sínú omi",
+        "Wọ́n di alákòóso ilẹ̀ Íjíbítì",
+        "Àwọn ọmọlẹ́yìn Farao tí wọ́n ṣẹ́kù",
+        "Ó jogún ilẹ̀ náà"
+      ],
+      "answer": "Wọ́n pa á fún ìgbàgbọ́, wọ́n sì ṣèlérí Párádísè"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

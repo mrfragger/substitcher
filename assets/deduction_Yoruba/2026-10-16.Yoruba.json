@@ -1,0 +1,61 @@
+{
+  "title": "Àwùjọ Tí Ó Kéde Ọjọ́ Ìsinmi",
+  "intro": "Ẹ wọ inú ibùdó etíkun kan níbi tí àṣẹ àtọ̀runwá kan ti ya ọjọ́ kan sọ́tọ̀ fún ìjọsìn àti ìdènà. Ẹgbẹ́ kan láàárín àwùjọ yìí yàn láti dán ààlà àṣẹ náà wò pẹ̀lú ètò ọgbọ́n àrékérekè, èyí tí ó yọrí sí ìyípadà kan tí yóò máa dún ní gbogbo ọjọ́. Ta ni àwọn ọkàn wọ̀nyí, kí sì ni ó ṣẹlẹ̀ sí wọn?",
+  "clues": [
+    "A ń gbé nítòsí etíkun, níbi tí òkun ti ń pèsè oúnjẹ fún wa.",
+    "A pàṣẹ fún wa láti bu ọlá fún ọjọ́ kan nínú ọ̀sẹ̀, kí a yà á sọ́tọ̀ kúrò nínú àwọn ohun tí ayé ń lépa.",
+    "Ní ọjọ́ náà, ẹja náà wá sí ọ̀dọ̀ wa ní ọ̀pọ̀lọpọ̀, bí ẹni pé ó fẹ́ rú òfin náà.",
+    "A ṣe ètò kan láti dẹkùn mú ẹja ní alẹ́ ọjọ́ mímọ́ náà, lẹ́yìn náà a kó wọn jọ lẹ́yìn tí ó bá ti kọjá.",
+    "Nígbà tí àwọn kan lára ​​wa kìlọ̀ nípa ẹ̀tàn yìí, a kọ ìmọ̀ràn wọn sílẹ̀, a sì tẹra mọ́ ọn.",
+    "Nítorí ẹ̀ṣẹ̀ wa, a yípadà sí ọ̀bọ, a kẹ́gàn àti ẹni tí a kọ̀ sílẹ̀."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Àwọn Ènìyàn Sábáàtì",
+        "Àwọn Ènìyàn Inú Kòtò",
+        "Àwọn ènìyàn Igbó",
+        "Àwọn Ènìyàn Ọgbà",
+        "Àwọn Ènìyàn Erin"
+      ],
+      "answer": "Àwọn Ènìyàn Sábáàtì"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ẹja pípa ní ọjọ́ Sábáàtì",
+        "Kíkọ́ ilé gogoro gíga kan",
+        "Pípa abo ràkúnmí mímọ́ kan",
+        "Sísẹ́ wòlíì tí a rán sí wọn",
+        "Àìgbọràn nínú àwọn ìwọ̀n ìṣòwò"
+      ],
+      "answer": "Ẹja pípa ní ọjọ́ Sábáàtì"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Òkun àti ẹja rẹ̀",
+        "Iná tí wọ́n sọ di tútù",
+        "Ọ̀pá tí ó di ejò",
+        "Àpótí ìgbàlà",
+        "Àwọn wàláà òkúta"
+      ],
+      "answer": "Òkun àti ẹja rẹ̀"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A yípadà sí àwọn ọ̀bọ",
+        "Ilẹ̀ gbé mì",
+        "Afẹ́fẹ́ líle pa á run",
+        "Mo rì sínú omi",
+        "Òkúta tí òjò rọ̀ ló kọlù mí"
+      ],
+      "answer": "A yípadà sí àwọn ọ̀bọ"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

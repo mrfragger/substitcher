@@ -1,0 +1,61 @@
+{
+  "title": "Kutaura Kwesimba Risingaperi",
+  "intro": "Munguva dzekare, munhu ane simba akasimuka kuti atonge nyika yakakura nevagari vayo. Kutonga kwemunhu uyu kwakaratidzwa nekuzvikudza kukuru uye kushora kukuru simba raMwari. Gadzirira kufumura hunhu hwemweya une mugumo wekupedzisira wakava chidzidzo chisingaperi kuzvizvarwa zvese.",
+  "clues": [
+    "Ndakatonga umambo hwakasimba, uko shoko rangu raiva mutemo.",
+    "Ndakazviti ndini mwari mukuru, ndichida kuti vanhu vose vari pasi pehutongi hwangu vanamate.",
+    "Ndakadzvinyirira nzanga chaiyo, ndichivaita varanda uye ndikaraira kuurawa kwevana vavo vacheche vechirume.",
+    "Ndakasangana kakawanda nemutumwa waMwari aizvininipisa, uyo akaita zvishamiso zvakajeka pamberi pangu nevaroyi vangu.",
+    "Ndakaramba chokwadi nekukasira, ndichipomera mutumwa wehuroyi uye ndichironga kumuparadza iye nevateveri vake.",
+    "Ini neuto rangu rese takakomberedzwa negungwa patakaramba tichitevera avo vakanga vasunungurwa mumaoko angu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Nimrodhi",
+        "Abu Jahl",
+        "Iblis",
+        "Fir'awn",
+        "Hamani"
+      ],
+      "answer": "Fir'awn"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Mafashamo Makuru",
+        "Moto Unopisa",
+        "Kunyura kweMudzvinyiriri",
+        "Kuparadzwa Nemhepo",
+        "Kudengenyeka Kwenyika Kwekusatenda"
+      ],
+      "answer": "Kunyura kweMudzvinyiriri"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Areka yaNoa",
+        "Tsvimbo yaMozisi",
+        "Chidhori Chegoridhe",
+        "Tsime reZamzam",
+        "Chigaro cheushe chaBilqis"
+      ],
+      "answer": "Tsvimbo yaMozisi"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Yakapihwa umambo hukuru",
+        "Mutumbi wakachengetedzwa sechiratidzo",
+        "Kukanganwirwa mushure mekupfidza",
+        "Akakwidziridzwa kusvika pakuva muporofita",
+        "Vanhu vake vakava vatsvene"
+      ],
+      "answer": "Mutumbi wakachengetedzwa sechiratidzo"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Akra a Wɔte Amena no Mu",
+  "intro": "Wotu kwan san kɔ bere bi a sodifo bi a onni mmɔborohunu hwehwɛe sɛ wɔde wɔn ho ma atoro anyame koraa. Akra a wɔatu wɔn ho ama kuw ketewaa bi powee, na wohyiaa asotwe a emu yɛ den araa ma ɛbɛyɛɛ nnome daa. Wɔn asɛm no nam Kur’aan so ka sɛ gyidi a enhinhim ho adanse. So wubetumi ahu kuw a wogyina pintinn yi?",
+  "clues": [
+    "Ná yɛte asase bi a sodifo bi a ɔhwehwɛ sɛ wɔsom atoro anyame no atirimɔdensɛm ase so",
+    "Yɛn mpɔtam hɔfoɔ hyiaa ɔtaa a emu yɛ den wɔ yɛn gyidie a yɛwɔ wɔ Allah nko ara mu nko ara nti",
+    "Sodifo no hyɛe sɛ wontutu amena kɛse bi na wɔmfa ogyaframa a ano yɛ den nhyɛ mu",
+    "Esiane sɛ yɛampɛ sɛ yɛbɛpo yɛn gyidi nti, wɔtow yɛn guu saa amoa a ɛredɛw no mu mmiako mmiako",
+    "Yɛn asɛm no bɛyɛɛ Kur’aan no fã, na wɔadome wɔn a wɔtaa yɛn daa",
+    "Surah a ɛkyerɛw yɛn amanehunu no, wɔde ɔsoro nsɛnkyerɛnne akɛseɛ a ɛwɔ soro no din too so"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Yɛn Yɛ Henanom?",
+      "options": [
+        "Ahokafoɔ a wɔwɔ Amena no mu (Ashab al-Ukhdud) .",
+        "Nnipa a wɔwɔ Ɔbodan no mu (Ashab al-Kahf) .",
+        "Nnipa a wɔte Homeda",
+        "Nnipa a wɔwɔ A'ad",
+        "Nnipa a wɔwɔ Thamud"
+      ],
+      "answer": "Ahokafoɔ a wɔwɔ Amena no mu (Ashab al-Ukhdud) ."
+    },
+    "trial": {
+      "label": "Yɛn Sɔhwɛ",
+      "options": [
+        "Wɔhyew no nkwa mu wɔ ogya amoa mu",
+        "Wɔasɔ no ano wɔ ɔbodan bi mu mfe pii",
+        "Mpataayi da kronkron a wɔde gye wɔn ahome",
+        "Mframa a ɛrebɔ denneennen asɛe no",
+        "Yoma-bere kronkron a wokum no"
+      ],
+      "answer": "Wɔhyew no nkwa mu wɔ ogya amoa mu"
+    },
+    "location": {
+      "label": "Ade Titiriw no",
+      "options": [
+        "Ogya amena a ɛredɛw",
+        "Ɔbodan a ahintaw a ɔkraman nokwafo bi wom",
+        "Tete kurow bi a wɔasɛe no adum atenten",
+        "Mmepɔw so atrae a wɔasen ayɛ abotan",
+        "Asasetaw bi a ɛda hɔ a mframa a ano yɛ den abɔ so"
+      ],
+      "answer": "Ogya amena a ɛredɛw"
+    },
+    "outcome": {
+      "label": "Nea Efi Mu Ba",
+      "options": [
+        "Wokunkum yɛn wɔ gyidi mu na wɔdomee ɔtaafo no daa",
+        "Yɛsɔree bere a yɛdaa mfe 309 akyi",
+        "Wɔsakraa yɛn yɛɛ akraman esiane yɛn mmarato nti",
+        "Mframa a ɛbɔ denneennen sɛee yɛn nyinaa",
+        "Nteɛm biako pɛ a ɛyɛ hu sɛee yɛn asetra"
+      ],
+      "answer": "Wokunkum yɛn wɔ gyidi mu na wɔdomee ɔtaafo no daa"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

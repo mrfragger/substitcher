@@ -1,0 +1,61 @@
+{
+  "title": "Boqorkii Dalbaday Ilaahnimo",
+  "intro": "Taliye awood badan oo isla weyn ayaa aaminsanaa in uusan jirin cid ka sarraysa carshigooda. Waxay eryadeen koox cararaysa oo dhex martay biyo badan, laakiin waxay la kulmeen dhammaad lama filaan ah. Sheekadan boqorka ah waxay ka soo dhex muuqataa aayado badan oo Qur'aanka ah, taasoo u ah digniin dhammaan.",
+  "clues": [
+    "Waxaan ahaa taliye awood badan oo aaminsanaa in aan jirin wax awood ah oo ka sarraysa kuwa aan haysto ee ku nool dhulalka aan maamulayay.",
+    "Waxaan lahaa qof la aamini karo oo la yiraahdo Haman kaasoo iga caawiyay fulinta mashaariic waaweyn oo dhismaha ah.",
+    "Waxaan u yeeray sixiroolayaasha ugu fiican dhulkayga si ay uga hortagaan calaamadaha rasuul iga soo horjeeda.",
+    "Waan diiday inaan dad addoon ah oo ku jira dhulkayga ka baxo, inkastoo ay jiraan belaayooyin iyo digniino cad.",
+    "Waxaan ku daba galay bad weyn anigoo wata ciidankeyga oo dhan iyo gaadhifardoodkayga.",
+    "Baddaas ayaa aniga iyo ciidamadayda nagu xirtay, iyadoo dhammaanteen na qarqisay, iyagoo si nabad ah u gudbay."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Fircoon (Fircoon)",
+        "Namrud",
+        "Abuu Lahab",
+        "Haamaan",
+        "Abu Jahl"
+      ],
+      "answer": "Fircoon (Fircoon)"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Belaayo iyo iska hor imaad lala galay Muuse (Muuse)",
+        "Samaynta doon ka hor daad weyn",
+        "Dagaal ka dhan ah Jalut oo ka dhacay dooxada",
+        "In nibiri liqo",
+        "Difaaca miisaanka ganacsiga daacadda ah"
+      ],
+      "answer": "Belaayo iyo iska hor imaad lala galay Muuse (Muuse)"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Munaaradaha dhaadheer iyo tiirarka",
+        "Sanduuq alwaax ah oo weyn",
+        "Wur dahab ah",
+        "Ul abeeso noqotay",
+        "Nibiri weyn"
+      ],
+      "answer": "Munaaradaha dhaadheer iyo tiirarka"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Ciidan ayaa badda ku qaraqmay",
+        "Waxaa badbaadiyay naxariista iyo dulqaadka Alle oo abaal marinaya",
+        "Waxaan dib ula midoobay qoyska ka dib sannado dhibaato ah",
+        "Dhulku liqay",
+        "Dab ku gubay"
+      ],
+      "answer": "Ciidan ayaa badda ku qaraqmay"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

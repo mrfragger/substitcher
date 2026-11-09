@@ -1,0 +1,61 @@
+{
+  "title": "Ogyaframa a ɛwɔ ahantan ahemfie no mu",
+  "intro": "Ná onipa bi a ne koma kura ahintasɛm bi a ahemfo ahyɛde biara ntumi nsiw ano te tete wiase ahemfie a ɛwɔ tumi sen biara no afasu akɛse no akyi. Bere a atwa ho ahyia nyinaa kotow atoro anyame no, ɔkra yi maa gyidi a ɛyɛ komm a ɛredɛw wɔ ne mu. Saa asase no sodifo no gye dii sɛ wɔyɛ ɔsoro, nanso saa onipa yi paw nokware sen awerɛkyekye, ne ahofama sen ahobammɔ. Ɛnnɛ, w’adwuma ne sɛ wobɛhunu onipa ko a na ɔkra akokoɔduro yi, a n’asɛm da so ara yɛ gyidie a ɛnhinhim ho nhwɛsoɔ a tumi wom paa no mu baako.",
+  "clues": [
+    "Na mete beae a ahonyade kɛse ne kɛseyɛ a ɛso bi nni wɔ, baabi a na asase no sodifo wɔ tumi koraa wɔ biribiara so.",
+    "Bere a wɔn a wɔatwa me ho ahyia no kotow atoro anyame no, mede gyidi hann a ɛyɛ komm siee me koma mu.",
+    "Mehunuu na mefaa abofra bi a wode no baa me nkyɛn wo kwan soronko so - ennye awoo mu, na mmom enam asubɔnten kɛseɛ bi nsuo mu.",
+    "Mebɔɔ m’Awurade mpae, srɛɛ ofie a ɛbɛn No wɔ Paradise ne nkwagye mfi atirimɔdensɛm a atwa me ho ahyia no mu.",
+    "Abofra a metetee no no nyinii sɛ ɔbɛkasa atia sodifo ankasa a odii me nkrabea so no, na migyinaa me gyidi mu pintinn bere a wohunahuna me mpo no.",
+    "Me ne deɛ wɔhyɛ ne din anuonyam wɔ Kur’aan mu sɛ gyidie nhwɛsoɔ, na metenaa Farao ankasa ahemfie."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Asiya, Farao yere",
+        "Maryam, Yes",
+        "Bilqis, Seba Hemmaa",
+        "Ɔkɔmhyɛni Lut yere",
+        "Imran yere no"
+      ],
+      "answer": "Asiya, Farao yere"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Akokoaa bi a wɔagyaw no hɔ a ɔbɛyɛɛ odiyifo kɛse a wohuu no na wɔtetee no",
+        "Otirimɔdenfo bi a ɔtow no gu ogya kɛse mu",
+        "Nsuyiri kɛse bi a ɛsɛee nkurɔfo bi ho adanse",
+        "Date palm a wɔwosow no ho adanse na ɛma wonya aduannuru",
+        "Ɔbabarima a onyinsɛn ɛmfa ho sɛ ne mfe akɔ anim no"
+      ],
+      "answer": "Akokoaa bi a wɔagyaw no hɔ a ɔbɛyɛɛ odiyifo kɛse a wohuu no na wɔtetee no"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Ahemfie a ɛyɛ fɛ a ɛso bi nni",
+        "Hyɛn kɛse bi a wɔyɛe sɛnea ɛbɛyɛ a ebetumi agyina nsuyiri ano",
+        "Ɔbodan a emu dɔ a ahintaw wɔ mmepɔw so",
+        "Ogya a ɛredɛw a wɔasi wɔ bepɔw bi atifi",
+        "Turo bi a wɔde afasu atwa ho ahyia"
+      ],
+      "answer": "Ahemfie a ɛyɛ fɛ a ɛso bi nni"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wɔmaa ofie wɔ Paradise denam Allah pɛ so",
+        "Nsuyiri kɛse bi sɛee tete ɔman bi mu asɔretiafo",
+        "Wɔmaa ahenni a tumi ne tumi kɛse wom wɔ wiase yi mu",
+        "Nnomaa a wɔretu apete asraafo dɔm a wɔyɛ den",
+        "Wɔmenee otirimɔdenfo bi a na ɔkyerɛ sɛ ɔyɛ nyamesu wɔ po no mu"
+      ],
+      "answer": "Wɔmaa ofie wɔ Paradise denam Allah pɛ so"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

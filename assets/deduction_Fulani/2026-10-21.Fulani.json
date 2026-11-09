@@ -1,0 +1,61 @@
+{
+  "title": "Nelaaɗo gonɗo e rewooɓe sanamuuji",
+  "intro": "E jamaanu mo dewal majji, nulaaɗo ummii e noddaango ngam hootde e dewal joomiraawo adunaaji. Ndee ɗoo limre ina darii e leñol gonngol e dewal laamɗo fenaande, ina siftina ɗum en Tagɗo mum en goonga e Joomiraawo taaniraaɓe mum en. Kono yimɓe ɓee ngoppii, njaɓaani jeertinaango ngoo, ndartini koye mum en. Hol oo nodduɗo mo diwtataa?",
+  "clues": [
+    "Mi neldaama e leñol ngol ruttii e laawol Alla gooto Goonga oo.",
+    "Mi naamndiima leñol am “Mbele on kulataa Alla?”",
+    "Mi noddii ɓe yo ɓe ngoppu dewal laamɗo fenaande biyeteeɗo Baal.",
+    "Leñol am salii noddaango am, tiiɗnii e rewde sanamuuji mum en.",
+    "Sabu yeddude ma66e, sikke alaa e 6e njaltinaama ngam jukkungo.",
+    "Joomi am rokkii kam jam e siftorde barkinnde hakkunde yontaaji garooji."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol ko ngonmi?",
+      "options": [
+        "Annabi Ilyaas",
+        "Annabi Yahya",
+        "Annabi Zul-Kifl",
+        "Annabi Yuusuf",
+        "Annabi Shu'ayb"
+      ],
+      "answer": "Annabi Ilyaas"
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "Noddi yimɓe mum yo ngoppu Baal",
+        "Mahi laana ngam hisnugo nuddinɓe",
+        "Werlaama e nder yiite",
+        "Dogi e Firawna jom doole en",
+        "Fiyi haayre ngam yaltinde ndiyam"
+      ],
+      "answer": "Noddi yimɓe mum yo ngoppu Baal"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "Hokkaama jam e siftorde barkinnde",
+        "Leydi muusi ɗum",
+        "Halki ɗum ko henndu bonndu",
+        "Wayliima wonti haayre",
+        "Njokki e nder maayo"
+      ],
+      "answer": "Hokkaama jam e siftorde barkinnde"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

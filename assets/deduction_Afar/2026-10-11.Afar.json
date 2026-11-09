@@ -1,0 +1,61 @@
+{
+  "title": "dumaahi qiddeyti addat tan xongolo",
+  "intro": "Yallih naharsi farmoytit fanat, Qur'aanak migaq uxxuuk maqnale gurral iffoowak suge num suge. Tama num mango kaxxa farmoytit ruubaanamak naharal sugeeh, numma kee sabri luk suge. ken aydaadi uxxuk takkay immay ken raati amotani tasjiilih addat raaqele. Tah massakaxxale rooci miyyaay?",
+  "clues": [
+    "Anu dumaahi farmoytit fanak numuk teyna kinniyo, uxxuuk galab kak xaggiime uxih maqna luk Qur'aanal.",
+    "Yi kilqa baxxaaqimteh sugte nummah angoyya sinni gidmi.",
+    "Anu Yallih kitaabal Sabri kee Sabri le marah fanak kassiise.",
+    "Qur'aanak dagoo ux aayat dubuk yi aydaadu warsa.",
+    "Yalli yoo yassakaxxe gitay baxsa le yiimi, gersi farmoytit luk yangalem hinna.",
+    "Anu fayyale guddaaqa fan ugte, Qur'aanak dubuk tan kunnabna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Anu miyyaay?",
+      "options": [
+        "Nabi Idris",
+        "Nabiyyi Ilyas",
+        "Zuul-kifl",
+        "Nabi Alyasa",
+        "Aasiif ibnu barkhiya"
+      ],
+      "answer": "Nabi Idris"
+    },
+    "trial": {
+      "label": "Baxxaqsi uddur",
+      "options": [
+        "Anu Yalli Fayya le Caddol Beyyo.",
+        "Anu inni ummatta cattuh kaxxa doonik xisse.",
+        "Anu Firqawni baab abeynit gexkalooteh",
+        "Yok yitooboko boodoh addat yoo qide.",
+        "Anu inni baxah rookah intiita weeh"
+      ],
+      "answer": "Anu Yalli Fayya le Caddol Beyyo."
+    },
+    "location": {
+      "label": "Diini Mangeelah",
+      "options": [
+        "Suuratul anbiya",
+        "Suuratul kahfi",
+        "Suurat Taha",
+        "Suurat ashuqaara",
+        "Suurat Yaasiin"
+      ],
+      "answer": "Suuratul anbiya"
+    },
+    "outcome": {
+      "label": "Qilli Massakaxxa",
+      "options": [
+        "Fayya le guddaqta gersiimih inna hinna",
+        "Jinnii kee caacay amoytit",
+        "qeedaalisso sinni kunnabnale doolata",
+        "yi idoolinnak naggaari",
+        "Yallat axawah tan xagana"
+      ],
+      "answer": "Fayya le guddaqta gersiimih inna hinna"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

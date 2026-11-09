@@ -1,0 +1,61 @@
+{
+  "title": "Ijwi ry'ukuri ryo mu bihe bya kera",
+  "intro": "Muri Korowani hari roho ivuga inkuru yayo mu mirongo mike gusa, nyamara imico yayo myiza irabagirana neza cyane. Uyu mugaragu wa kera w’Imbabazi cyane, yashimwe n’Imana Ishoborabyose kubera ineza yayo yihariye, afite umwanya mu ipaji y’ibyahishuwe. Inshingano yawe ni ukumenya uyu muntu utangaje. Ese ushobora kwiyumvisha abo ari bo?",
+  "clues": [
+    "Ndi umuhanuzi wa Allah wabayeho mu bisekuruza bya mbere by’abantu.",
+    "Allah yanvuze mu gitabo cye hamwe n'abandi bahanuzi, bose bashimirwa imico myiza imwe.",
+    "Muri Korowani havugwamo ko ndi umuntu w'ukuri.",
+    "Allah yanzamuye mu mwanya wo hejuru abandi bake bagezeho.",
+    "Izina ryanjye rivugwa muri Surah Al-Anbiya, hamwe n'abandi bahanuzi babiri bashimwe kubera kwihangana kwabo.",
+    "Ndi Idris, umuhanuzi w'ukuri kandi wo hejuru."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Umuhanuzi Idris",
+        "Umuhanuzi Nuh",
+        "Intumwa Ibrahimu",
+        "Umuhanuzi Musa",
+        "Intumwa Ismail"
+      ],
+      "answer": "Umuhanuzi Idris"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Gukomeza kwihangana no kuba umunyakuri, hanyuma ukazamuka ukagera ku rwego rwo hejuru",
+        "Kubaka ubwato bunini kugira ngo burokore abizera umwuzure ukaze cyane",
+        "Gutabwa mu muriro ugurumana no kuvamo nta cyo byamutwaye rwose",
+        "Guhangana n'umwami ukomeye no gutsinda ingabo ze z'abapfumu",
+        "Kurokoka mu nda y'ifi nini mu bwihisho bw'inyanja"
+      ],
+      "answer": "Gukomeza kwihangana no kuba umunyakuri, hanyuma ukazamuka ukagera ku rwego rwo hejuru"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Ahantu ho hejuru kandi hashyizwe hejuru na Allah",
+        "Ubwato bunini bwubatswe mu mbaho ​​kandi bugaterwa lisansi",
+        "Umuriro ukaze watewe n'abasenga ibigirwamana b'umwami mubi",
+        "Inyanja nini yacitsemo inzira zumutse",
+        "Inda yijimye y'ifi nini iri munsi y'inyanja"
+      ],
+      "answer": "Ahantu ho hejuru kandi hashyizwe hejuru na Allah"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Yemerewe mu mbabazi za Allah nk'umwe mu bakiranutsi",
+        "Yarokowe hamwe n'abizera bose mu mwuzure w'isi yose",
+        "Yavuye mu muriro utakozweho n'umuriro",
+        "Yayoboye abana ba Isirayeli mu mutekano mu nzira y'ubwuzure bambuka inyanja",
+        "Yongeye guhura n'umuryango wabo bakunda nyuma y'imyaka myinshi y'ibibazo"
+      ],
+      "answer": "Yemerewe mu mbabazi za Allah nk'umwe mu bakiranutsi"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

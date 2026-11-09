@@ -1,0 +1,61 @@
+{
+  "title": "Sùúrù Ọkàn Tí A Ń Pọ́nlé",
+  "intro": "Nínú àkọsílẹ̀ ìtàn, ẹni kan wà tí orúkọ rẹ̀ ń jẹ́ ìfaradà. Wọ́n dán an wò pẹ̀lú pípadánù gbogbo ìtùnú ayé, síbẹ̀ ó ṣì jẹ́ ìránṣẹ́ olùfọkànsìn fún Ẹlẹ́dàá. Láti ọ̀pọ̀ ọdún ìnira àti àìsàn ara, ọkàn ọkàn yìí dúró nínú ìgbàgbọ́, ó sì ń pèsè ìmọ́lẹ̀ ìrètí fún gbogbo àwọn tí wọ́n dojú kọ ìpọ́njú.",
+  "clues": [
+    "Ìránṣẹ́ Olóhun ni mí, mo ní ọrọ̀ púpọ̀, ọ̀pọ̀lọpọ̀ ọmọ, àti ìlera tó dára.",
+    "Ìgbésí ayé mi yí padà nígbà tí wọ́n gba ọrọ̀ àti ìdílé mi lọ́wọ́ mi, tí ó sì fi mí sílẹ̀ pẹ̀lú ìgbàgbọ́ mi nìkan.",
+    "Àìsàn kan tó ń pẹ́ títí tó sì ń ro mí lára, tó sì ń dán agbára ìfaradà ènìyàn wò, ló ń ṣe mí.",
+    "Ní gbogbo ìgbà tí mo bá ní ìjìyà, mo kọ̀ láti kùn sí Olúwa mi, kódà nígbà tí ọ̀tá bá gbìyànjú láti fà mí sínú ìbànújẹ́.",
+    "Nígbà tí mo ké pe Olúwa mi nígbẹ̀yìn-gbẹ́yín, mi ò béèrè fún ọrọ̀, ṣùgbọ́n mo kàn gbà pé wàhálà ti kàn mí.",
+    "Wọ́n ní kí n fi ẹsẹ̀ mi lu ilẹ̀ ayé, láti inú rẹ̀ ni orísun omi tútù kan ti jáde láti wo ara mi sàn kí n sì pa òùngbẹ mi rẹ́."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Jákọ́bù",
+        "Wòlíì Ayyub",
+        "Wòlíì Zakariyyah",
+        "Wòlíì Yahya",
+        "Wòlíì Ṣúáíbù"
+      ],
+      "answer": "Wòlíì Ayyub"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Àwọn ọdún àìsàn líle àti àdánù",
+        "Jíjẹ́ tí wọ́n jù sínú kànga jíjìn kan",
+        "Ẹja ńlá kan gbé mì",
+        "Kíkojú apànìyàn nínú iná",
+        "Ìrìn àjò gígùn láti wá olùkọ́"
+      ],
+      "answer": "Àwọn ọdún àìsàn líle àti àdánù"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ọ̀pá kan tí ó pín òkun sí méjì",
+        "Aṣọ tí ó ní òórùn ilé",
+        "Orísun omi tó ń woni sàn",
+        "Òkè kan tí ó fọ́ sí eruku",
+        "Ihò oorun jíjìn kan"
+      ],
+      "answer": "Orísun omi tó ń woni sàn"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Di gomina ilẹ nla kan",
+        "Ṣíṣáájú ẹgbẹ́ ọmọ ogun sí ìṣẹ́gun",
+        "Ìmúpadàbọ̀sípò ìlera àti ìdílé",
+        "Kíkọ́ ilé ìjọsìn mímọ́ kan",
+        "Gbigba tabili ti a ta lati ọrun"
+      ],
+      "answer": "Ìmúpadàbọ̀sípò ìlera àti ìdílé"
+    }
+  },
+  "verseRef": "38:42",
+  "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ",
+  "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\" (38:42)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Munhu Akadzingwa Mubindu",
+  "intro": "Chisikwa chisinganzwisisike chaimbogara munzvimbo dzepamusoro dzezvisikwa, chiri pedyo naMwari kupfuura zvaifungwa nevakawanda. Asi kuzvikudza kwakadzika midzi, uye chiito chimwe chete chekusateerera chakachinja mararamiro ehupenyu. Zvino, chisikwa ichi chinodzungaira semuvengi akapika, chichitaura makuhwa uye chichiita manomano kusvika zuva rakavimbiswa rasvika. Unogona here kuburitsa pachena kuti uyu akawira pasi?",
+  "clues": [
+    "Ndaimbova mumwe weavo vaiva pedyo nekuvapo kwaMwari, vakasimudzirwa pamusoro pezvakawanda zvakasikwa.",
+    "Ndakasikwa kubva muchinhu chinopisa, kwete kubva muvhu kana ivhu.",
+    "Pandakarayirwa kuti ndikotamire chisikwa chitsva, ndakaramba — ndichitungamirirwa nezvandaitenda kuti ndizvo zvandaiva pamusoro pazvo.",
+    "Ndakadzingwa ndikatukwa, asi pakupedzisira ndakazorodzwa kusvika panguva yakatarwa inozivikanwa.",
+    "Ndakapika kuti ndaizotsausa vazhinji vangu, ndichiswedera kuvana vaAdhamu kubva kumativi ese.",
+    "Ndiri muvengi wevanhu vose, anotaurwa pachena, anogara achironga uye achizevezera kusvika pakuguma kwakatarwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Iblis",
+        "Harut",
+        "Samiri",
+        "Muprofita Ilyas",
+        "Abu Lahab"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Kutongwa / Chiitiko",
+      "options": [
+        "Kuramba kupfugama pamberi paAdhamu",
+        "Kuvaka mhuru yegoridhe kuti vanhu vanamate",
+        "Kudzidzisa uroyi kuvanhu veBhabhironi",
+        "Kupatsanura gungwa netsvimbo",
+        "Kutakura chigaro chaMambokadzi weShebha nekukasika"
+      ],
+      "answer": "Kuramba kupfugama pamberi paAdhamu"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Bindu reEdheni",
+        "Gomo reTur",
+        "Tsime reRass",
+        "Imba yaFarao",
+        "Bako revanorara"
+      ],
+      "answer": "Bindu reEdheni"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Zororo rinopihwa kusvika Zuva reKutongwa",
+        "Akanyura mugungwa neuto",
+        "Akavigwa ari mupenyu pasi peimba yamambo iri kuputsika",
+        "Yakashandurwa kuita tsoko kana tsoko",
+        "Akakwidziridzwa padanho repamusoro"
+      ],
+      "answer": "Zororo rinopihwa kusvika Zuva reKutongwa"
+    }
+  },
+  "verseRef": "15:39",
+  "arabic": "قَالَ رَبِّ بِمَآ أَغْوَيْتَنِى لَأُزَيِّنَنَّ لَهُمْ فِى ٱلْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ",
+  "verse": "[Iblees] said, \"My Lord, because You have put me in error, I will surely make [disobedience] attractive to them [i.e., mankind] on earth, and I will mislead them all (15:39)"
+}

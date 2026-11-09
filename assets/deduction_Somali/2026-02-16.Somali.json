@@ -1,0 +1,61 @@
+{
+  "title": "Sheegashada Awood Dhammaystiran",
+  "intro": "Waagii hore, qof awood leh ayaa u kacay inuu xukumo dhul ballaaran iyo dadkii degganaa. Boqortooyada qofkan waxaa lagu yaqaanay kibir aad u weyn iyo caqabad weyn oo ku wajahan awoodda rabbaaniga ah. Isu diyaari inaad soo bandhigto aqoonsiga nafta oo qaddarkeedu ugu dambeeya noqday cashar waara oo jiilalka oo dhan ah.",
+  "clues": [
+    "Waxaan xukumay boqortooyo xooggan, halkaas oo eraygaygu ahaa sharci.",
+    "Waxaan isku sheegay ilaahnimada ugu sarreysa, anigoo dalbanaya cibaadada dhammaan kuwa hoos yimaada xukunkayga.",
+    "Waxaan dulmiyay bulsho gaar ah, anigoo addoonsanaya oo amray in la dilo wiilasha yaryar ee ay dhaleen.",
+    "Waxaa si isdaba joog ah ii soo wajahay rasuul Ilaahay oo is-hoosaysiiya, kaasoo mucjisooyin cadcad hortayda iyo sixirroolayaashaydaba ​​sameeyay.",
+    "Si madax adag ayaan u diiday runta, anigoo rasuulka ku eedeeyay sixir, isla markaana qorsheynaya inaan burburiyo isaga iyo taageerayaashiisa.",
+    "Aniga iyo ciidankeyga oo dhan waxaa nagu soo dumay badda annagoo si aan kala joogsi lahayn u daba galnay kuwii gacantayda laga xoreeyay."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nimrod",
+        "Abu Jahl",
+        "Ibliis",
+        "Fircoon",
+        "Haamaan"
+      ],
+      "answer": "Fircoon"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Daadkii Weynaa",
+        "Dabka Gubanaya",
+        "QAMRITAANKA DADKA DADKA DULMARA",
+        "Burburkii Dabaysha",
+        "Dhulgariirkii Gaalnimada"
+      ],
+      "answer": "QAMRITAANKA DADKA DADKA DULMARA"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Doontii Nuux",
+        "Ushii Muuse",
+        "Sanamka Dahabka ah",
+        "Ceelka Zamzam",
+        "Carshiga Bilqis"
+      ],
+      "answer": "Ushii Muuse"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Waxaa la siiyay boqortooyo ballaaran",
+        "Jidhku waa la ilaaliyay calaamad ahaan",
+        "Waa la cafiyay ka dib toobad keenka",
+        "Waxaa kor loo qaaday nebinimada",
+        "Dadkiisii ​​waxay noqdeen kuwo cibaado leh"
+      ],
+      "answer": "Jidhku waa la ilaaliyay calaamad ahaan"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

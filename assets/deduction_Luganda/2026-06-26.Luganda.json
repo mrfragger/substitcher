@@ -1,0 +1,61 @@
+{
+  "title": "Omugugu gw’ekirabo ekigaanibwa",
+  "intro": "Mu ntandikwa y’ebyafaayo by’omuntu, ensi bwe yali ekyali nto era ng’ensi ekwata omukka gwayo ogusooka, emmeeme yayimirira mu maaso g’Omutonzi ng’ewaayo ekiweebwayo ekiwombeefu. Ekiweebwayo ekyo kyapimibwa mu minzaani y’okukkirizibwa okw’obwakatonda — era ne kizuulibwa nga kyabula. Ekyaddirira tekyali mboozi ya kusonyiwa, wabula ya mutima ogwali guweddewo obuggya, ne guviirako ekikolwa ekitakyuka ekyandiwulikika mu biseera byonna. Eno y’emboozi y’omuntu erinnya lye eryafuuka ekintu ekimu n’obutali bwenkanya obw’amaanyi obwasooka okukolebwa.",
+  "clues": [
+    "Najja mu bulamu ng’omu ku baana abaasooka ennyo okuzaalibwa, abazaalibwa omuzadde emboozi ye gy’omanyi obulungi.",
+    "Lumu nawaayo ssaddaaka eri Allah, naye ne kitakkirizibwa okuva gyendi — newankubadde nga ekiweebwayo kya muganda wange kyafunibwa n’ekisa.",
+    "Obuggya n’obusungu byasimba emirandira mu mutima gwange, era ne ntiisatiisa okumalawo obulamu bw’ab’eŋŋanda zange.",
+    "Muganda wange yandabula okutya Allah, naye amalala gange tegaandeka kuwuliriza.",
+    "Mu kaseera ak’obunafu obw’entiisa, nnakola ekikolwa ekitayinza kwogerwa ku muganda wange yennyini.",
+    "Oluvannyuma, saamanya na kukweka bye nnali nkoze — okutuusa ekitonde ky’ensi lwe kyasindikibwa okunjigiriza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Kabil (Kayini) .",
+        "Habil (Abbeeri) .",
+        "Mutabani wa Nabbi Nuh",
+        "Nabbi Isma'il",
+        "Nabbi Yusuf"
+      ],
+      "answer": "Kabil (Kayini) ."
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okuwaayo ssaddaaka eyagaanibwa, ekyaviirako ettemu eryasooka",
+        "Okuzimba omunaala omugulumivu okutuuka mu ggulu",
+        "Okusuulibwa mu muliro ogw’amaanyi olw’okukkiriza kwe",
+        "Okusaddaaka omwana we yennyini mu kugondera Allah",
+        "Okumira ekyennyanja ekinene olw’okudduka omulimu gw’omuntu"
+      ],
+      "answer": "Okuwaayo ssaddaaka eyagaanibwa, ekyaviirako ettemu eryasooka"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Enkovu eyasindikibwa Allah okulaga okuziika",
+        "Amataba amanene agabbira abantu bonna",
+        "Omuggo ogwafuuka omusota omulamu",
+        "Engamiya enkazi eyava mu lusozi olw’olwazi",
+        "Entebe ey’obwakabaka ey’ekitalo eyali esituddwa empewo ez’amaanyi"
+      ],
+      "answer": "Enkovu eyasindikibwa Allah okulaga okuziika"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yafuuka ow’okwejjusa, ng’azitoowereddwa omusango ogwasooka okukolebwa",
+        "Yasonyiwa Allah era n’aweebwa Ejanna ey’olubeerera",
+        "Yasitulwa okutuuka ku kifo eky’oku ntikko eky’obunnabbi n’amagezi",
+        "Yalokoka olw’okusaasira okw’obwakatonda oluvannyuma lw’okukoowoola okuva mu buziba bw’ekizikiza",
+        "Yaweebwa obuyinza ku majiini, empewo, n’ennyanja"
+      ],
+      "answer": "Yafuuka ow’okwejjusa, ng’azitoowereddwa omusango ogwasooka okukolebwa"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Olùkọ́lé Àwọn Ìdènà",
+  "intro": "Jákèjádò àwọn ilẹ̀ ńláńlá, ẹnìkan alágbára bẹ̀rẹ̀ ìrìn àjò, ó fún ní àṣẹ àti ọ̀nà tó pọ̀. Ọkàn yìí pàdé onírúurú àwùjọ, ó sì dojúkọ àwọn ìpèníjà àrà ọ̀tọ̀, ó fi àmì tó wà títí láé sílẹ̀ lórí ìtàn àti ìgbàgbọ́ nípasẹ̀ ìṣe àti ọgbọ́n wọn, gbogbo èyí sì ń jẹ́wọ́ orísun agbára wọn.",
+  "clues": [
+    "Wọ́n fún mi ní agbára àti ọgbọ́n lórí ohun gbogbo, mo sì tẹ̀lé ọ̀nà kan.",
+    "Ìrìn àjò mi mú mi lọ sí ibi tí oòrùn ti ń wọ̀, níbi tí mo ti rí àwọn ènìyàn kan.",
+    "Mo pàdé àwùjọ kan tí wọn kò mọ ọ̀rọ̀ dáadáa, tí wọ́n ń gbé láàárín òkè méjì.",
+    "Wọ́n ní kí n kọ́ ìdènà kan, kì í ṣe fún èrè ara ẹni, ṣùgbọ́n láti dáàbò bo ara mi kúrò lọ́wọ́ agbára apanirun.",
+    "Mo kéde pé agbára láti kọ́ odi ńlá yìí láti ọ̀dọ̀ Allah wá, yóò sì dúró títí di àkókò ìlérí kan.",
+    "Orúkọ mi, tí a sábà máa ń túmọ̀ sí 'Ẹni tí ó ní ìwo méjì,' túmọ̀ sí bí mo ṣe lè dé gbogbo ayé tàbí bóyá ìgbà méjì ọ̀tọ̀ọ̀tọ̀."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Mósà",
+        "Wòlíì Súláímọ́nì",
+        "Dhul-Qarnayn",
+        "Fáráò",
+        "Luqman"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Gbigba ifihan",
+        "Kíkojú apànìyàn",
+        "Kíkọ́ ọkọ̀ ojú omi ńlá kan",
+        "Kíkọ́ odi alágbára kan",
+        "Jíjẹ́ tí ẹja gbé mì"
+      ],
+      "answer": "Kíkọ́ odi alágbára kan"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Àpótí náà",
+        "Òṣìṣẹ́ náà",
+        "Ìdènà Irin",
+        "Odò Náílì",
+        "Ìtẹ́"
+      ],
+      "answer": "Ìdènà Irin"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ìgbàlà kúrò nínú ìkún omi",
+        "Láti di ìjọba ńlá",
+        "Ààbò fún àwọn ènìyàn kan",
+        "Ìparun aninilára",
+        "Ọgbọ́n tí ó wà pẹ́ títí"
+      ],
+      "answer": "Ààbò fún àwọn ènìyàn kan"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

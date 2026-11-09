@@ -1,0 +1,61 @@
+{
+  "title": "Umuhamya Ushikamye",
+  "intro": "Inkuru yimbitse irasohoka, igaragaza icyemezo kidakuka cy’umuryango mu gihe cy’ubutegetsi bw’igitugu bukabije. Inkuru yabo ni igihamya cy’ukwizera, ndetse no mu gihe bahanganye n’igitambo gikomeye. Iyi nkuru itwibutsa imbaraga z’ukwemera mu kurwanya ihohoterwa rikomeye.",
+  "clues": [
+    "Twari itsinda ry’abantu bavugwa mu nkuru yabo ngufi kandi ikomeye, iburira abantu ku itotezwa.",
+    "Twahanganye n'umutegetsi wifuzaga gukuraho ukwemera kwacu ku Mana Imwe Rukumbi, Umwami w'Intebe, Ukwiye Gushimwa.",
+    "Twahuye n'ikigeragezo gikomeye cyane cy'icyobo kinini cyacukuwe mu butaka.",
+    "Twarebye ukuntu abizera, harimo n'impinja, bajugunywa mu muriro ukaze muri uwo mwobo.",
+    "Abatubabazaga bavumwe kubera ibikorwa byabo, mu gihe twe twasezeranijwe igihembo gikomeye kubera kwihangana kwacu.",
+    "Ubushake bw'umutegetsi bwo kuzimya ukwemera kwacu bwakomeje umwanya wacu nk'abahowe Imana mu maso ya Allah, we muhamya wa byose."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Abantu bo muri Thamud",
+        "Abantu bo muri 'Ad",
+        "Abantu bo mu mwobo",
+        "Abantu ba Lut",
+        "Abantu b'inzovu"
+      ],
+      "answer": "Abantu bo mu mwobo"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Umwuzure Ukomeye",
+        "Igihuru Gitwika",
+        "Kurohama mu Nyanja",
+        "Urwobo rw'umuriro",
+        "Umutingito"
+      ],
+      "answer": "Urwobo rw'umuriro"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Isanduku",
+        "Abakozi",
+        "Umwobo",
+        "Umusozi",
+        "Iriba"
+      ],
+      "answer": "Umwobo"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Bahawe ubwami",
+        "Bakijijwe n'igitangaza",
+        "Yageze ku rupfu rw'umumaratiri n'i paradizo",
+        "Bari batatanye mu bihugu bitandukanye",
+        "Bahawe ubutunzi butagira ingano"
+      ],
+      "answer": "Yageze ku rupfu rw'umumaratiri n'i paradizo"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

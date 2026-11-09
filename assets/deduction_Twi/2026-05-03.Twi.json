@@ -1,0 +1,61 @@
+{
+  "title": "Nokware Hwehwɛfo a Wɔada",
+  "intro": "Fa w’adwene bu bere bi a wɔkasa tiaa gyidi, na akra kuw bi paw gyidi a enhinhim sen wiase awerɛkyekye. Esiane sɛ na wohyia ɔkwan a ɛyɛ hu a wɔbɛpaw nti, wɔhwehwɛɛ guankɔbea, na wofii akwantu bi a ɛde nna soronko bi ase. Wɔn asɛm no yɛ adanseɛ a ɛkyerɛ ɔsoro ahobanbɔ ne tumi a gyidie wɔ tia nhyɛsoɔ. So wubetumi ahu nnipa a wɔn ho yɛ nwonwa yi yɛ?",
+  "clues": [
+    "Ná yɛyɛ nhyiam ketewaa bi, na Ɔbɔadeɛ Baako no mu gyidi a emu dɔ na ɛka bom.",
+    "Yɛtenaa berɛ bi a sodifoɔ bi a ɔwɔ tumi hwehwɛ sɛ wɔsom obi foforɔ a ɛnyɛ Allah.",
+    "Nea ɛbɛyɛ na yɛakora yɛn gyidi so no, yesii gyinae sɛ yebegyaw yɛn afie hɔ aguan nhyɛso no.",
+    "Ɔhokafo nokwafo bi, asase so abɔde bi kaa yɛn ho wɔ yɛn akwantu no mu.",
+    "Yenyaa kronkronbea wo bea bi a atew ne ho, faako a Allah maa yekoo nna a emu ye den na ekyerekyeree mu.",
+    "Bere a yɛsɔree no, na yegye di sɛ da koro anaa da no fã bi pɛ na atwam, nanso mfehaha pii atwam ampa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Nnipa a Wɔte Asubɔnten no Mu",
+        "Nnipa a wɔwɔ Thamud",
+        "Nnipa a wofi Saba'.",
+        "Nnipa a Wɔte Ɔbodan no mu",
+        "Nnipa a Wɔte Madyan"
+      ],
+      "answer": "Nnipa a Wɔte Ɔbodan no mu"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Asase a ɛso yɛ kwa a wɔde bɛsɔ ahwɛ",
+        "Nsuyiri kɛse bi a wɔrehyia",
+        "Guankɔbea a wɔhwehwɛ fi sodifo otirimɔdenfo nkyɛn",
+        "Wɔtow no gu ogya a ɛredɛw mu",
+        "Nkonyaayifo nkonyaayi a wɔbɛkasa atia"
+      ],
+      "answer": "Guankɔbea a wɔhwehwɛ fi sodifo otirimɔdenfo nkyɛn"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Ahemfie kɛse bi",
+        "Hyɛn/adaka bi",
+        "Abura a emu dɔ",
+        "Ɔbodan bi",
+        "Bepɔw a ɛkorɔn"
+      ],
+      "answer": "Ɔbodan bi"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Ahenni a wɔama no",
+        "Anwonwakwan so nna a ɔdae mfehaha pii",
+        "Asase a ɛremene wɔn",
+        "Sɛ́ wobegye wɔn afi ahum a ɛsɛe ade mu",
+        "Ɔsoro pon a wɔde bɛma no"
+      ],
+      "answer": "Anwonwakwan so nna a ɔdae mfehaha pii"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

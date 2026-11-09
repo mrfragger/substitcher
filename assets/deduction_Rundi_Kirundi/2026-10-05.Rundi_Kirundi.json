@@ -1,0 +1,61 @@
+{
+  "title": "Icizigiro cashizwe ku ruzi .",
+  "intro": "Umushaha wari uhanganye n’itegeko ridashoboka, aho ubuzima bw’umwana aherutse kuvuka bwari bumanitse ku rugero. Iyobowe n’impwemu y’Imana, itegeko ry’ukwihebura ryarakurikijwe, kandi ibanga ry’agaciro ryarashizwe ku mazi, gusa riragaruka mu buryo butari bwitezwe.",
+  "clues": [
+    "Nabaye mu gitutu c’umunyagitugu yategeka ko abana b’igitsina-gabo bakiri bato bica.",
+    "Ivyiyumviro vy’Imana vyaje kuri jewe, binyigisha gukora ikintu giteye ubwoba kandi kibabaza umutima.",
+    "Nashize uruyoya rwanje rw’agaciro mu gasandugu, ndarushira hejuru y’uruzi rwariko ruratemba.",
+    "Umutima wanje waracitse ubusa, nca nshaka guhishura ibanga, ariko Allah yarakomeje umwiyemezo wanje.",
+    "Narungitse umuntu ngo akurikire urugendo rw’uwo mwana aja mu ruzi uko umuyaga wariko uratwara igifu.",
+    "Uwo mwana yaronswe n’urugo rw’uwo munyagitugu, amaherezo, nanje ndasubirana n’umwana wanje, nca mba umuvyeyi w’umuvyeyi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Nyina wa Muhanuzi Musa .",
+        "Asiya (Umugore wa Farawoni)",
+        "Mariyamu (Mama wa Muhanuzi Isa)",
+        "Umugore w’Umuhanuzi Luti .",
+        "Nyina wa Muhanuzi Yahya (umugore wa Zakariya)"
+      ],
+      "answer": "Nyina wa Muhanuzi Musa ."
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Yarashize umwana wiwe mu gasandugu, araheza amushira ku ruzi .",
+        "Yanyegeje umwana wiwe mw'isenga .",
+        "Yahevye umwana wiwe mu bugaragwa .",
+        "Yajugunye umwana wiwe mu muriro .",
+        "Yasize umwana wiwe ku muryango w'umusigiti ."
+      ],
+      "answer": "Yarashize umwana wiwe mu gasandugu, araheza amushira ku ruzi ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Isandugu yashizwe ku ruzi",
+        "Igisaka kigurumana",
+        "Inkoni yahindutse inzoka",
+        "Imeza yasazwe n'ibifungurwa bivuye mw'ijuru .",
+        "Ingamiya y’ingore yoherejwe nk’ikimenyetso"
+      ],
+      "answer": "Isandugu yashizwe ku ruzi"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Yarasubiye kubonana n'umwana wiwe araheza aramuyonsa .",
+        "Ntiyasubira kubona umwana wiwe .",
+        "Yishwe n'umunyagitugu .",
+        "Yaciye aba umwamikazi mu Misiri .",
+        "Yarimukiye mu kindi gihugu maze aba mu bunyagano ."
+      ],
+      "answer": "Yarasubiye kubonana n'umwana wiwe araheza aramuyonsa ."
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

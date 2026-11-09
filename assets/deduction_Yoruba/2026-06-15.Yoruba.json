@@ -1,0 +1,61 @@
+{
+  "title": "Ìjọba Afẹ́fẹ́ àti Iná",
+  "intro": "Fojú inú wo ìjọba kan níbi tí afẹ́fẹ́ fúnrarẹ̀ ti ń dáhùn sí aláṣẹ kan ṣoṣo, níbi tí ohùn àwọn ẹ̀dá kéékèèké gbé ẹrù, àti níbi tí a ti ń fi àwọn agbára tí a kò rí lójú gbogbo ènìyàn ṣe iṣẹ́ ìsìn pẹ̀lú ìṣọ́ra. Ẹni yìí jogún ìjọba àrà ọ̀tọ̀ kan láti ọ̀dọ̀ ẹni tí ó ṣáájú rẹ̀, tí ó ń lo agbára lórí àwọn afẹ́fẹ́ àti àwọn ẹ̀mí èṣù. Ṣùgbọ́n àṣẹ ńlá wá pẹ̀lú àwọn ìdánwò ńlá — àti ìgbà ìkẹyìn yóò ṣí ohun ìyanu kan payá nípa ìwà ìyè àti ikú fúnra rẹ̀.",
+  "clues": [
+    "Mo jogún ìjọba ńlá kan láti ọ̀dọ̀ òbí olùfẹ́ kan tí ó tún jẹ́ wòlíì àti ìránṣẹ́ Allah.",
+    "Allah fun mi ni aṣẹ lori afẹfẹ, o si fi ranṣẹ si awọn iṣẹ oṣu kan ni owurọ kan.",
+    "Àwọn ẹ̀dá tó kéré jùlọ pàápàá máa ń sọ̀rọ̀ nípa ọ̀nà tí mo gbà ń gbà mí, mo sì máa ń dúró díẹ̀ kí n lè ṣe kàyéfì nípa ìmọ̀ wọn.",
+    "Mo pàṣẹ fún ọ̀pọ̀lọpọ̀ ẹgbẹ́ ọmọ ogun jinni, ènìyàn àti ẹyẹ, gbogbo wọn sì wà ní ìpele títọ́ níwájú mi.",
+    "Aláṣẹ kan tó jìnnà réré wá láti fi ìpèníjà tó le dán mi wò, mo sì mú ìtẹ́ alákòóso náà wá sí ààfin mi kí àlejò náà tó lè dìde lórí ìjókòó.",
+    "Mo dúró ní ìdúró, mo gbára lé ọ̀pá kan, títí tí ẹ̀dá kékeré kan lórí ilẹ̀ fi jẹ ẹ́ tán — nígbà náà ni àwọn tó yí mi ká tó mọ̀ pé mo ti kọjá."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Súláímọ́nì (Sólómọ́nì)",
+        "Wòlíì Dáfídì (Dáfídì)",
+        "Wòlíì Isa (Jesu)",
+        "Ànábì Muhamadu ﷺ",
+        "Wòlíì Mósà (Mósà)"
+      ],
+      "answer": "Wòlíì Súláímọ́nì (Sólómọ́nì)"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Mímú ìtẹ́ ayaba tí ó jìnnà réré wá nípasẹ̀ àwọn ọ̀nà àdánidá",
+        "Jíjẹ́ ẹni tí a sọ̀ kalẹ̀ sínú kànga jíjìn gẹ́gẹ́ bí ọmọdé",
+        "Kíkojú àwọn onídán apànìyàn pẹ̀lú àwọn àmì ìyanu",
+        "Sísọ̀rọ̀ láti ibi tí wọ́n ti bímọ láti gbèjà ọlá ìyá kan",
+        "Gbigba iwe mimọ ikẹhin ti a fihan lori oke mimọ kan"
+      ],
+      "answer": "Mímú ìtẹ́ ayaba tí ó jìnnà réré wá nípasẹ̀ àwọn ọ̀nà àdánidá"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ọ̀pá igi kan tí àwọn kòkòrò kan jẹ ní àárín rẹ̀",
+        "Ọkọ̀ ńlá kan tí a kọ́ láti fi la ìkún omi kárí ayé já",
+        "Ọ̀pá tí ó yípadà sí ejò níwájú apànìyàn",
+        "Aṣọ tí a fi ń wo àwọn afọ́jú sàn",
+        "Ihò mímọ́ kan níbi tí a ti kọ́kọ́ gba ìfihàn kan"
+      ],
+      "answer": "Ọ̀pá igi kan tí àwọn kòkòrò kan jẹ ní àárín rẹ̀"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Alákòóso ọlọ́lá kan tó wá sílé ìwòsàn gba ìgbàgbọ́ lẹ́yìn tó rí àwọn àmì tó fi hàn",
+        "Ìkún omi ńlá pa gbogbo àwọn olóòótọ́ tó wà lórí ọkọ̀ àyàfi àwọn olóòótọ́ tó wà níbẹ̀",
+        "Fáráò àti àwọn ọmọ ogun rẹ̀ kú sínú òkun",
+        "A gbé alábàákẹ́gbẹ́ òdodo kan sókè sí ọ̀run",
+        "Wọ́n bì ọba alágbára kan àti ìlú rẹ̀ ṣubú, wọ́n sì pa á run"
+      ],
+      "answer": "Alákòóso ọlọ́lá kan tó wá sílé ìwòsàn gba ìgbàgbọ́ lẹ́yìn tó rí àwọn àmì tó fi hàn"
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

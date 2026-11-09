@@ -1,0 +1,61 @@
+{
+  "title": "Ojiṣẹ Tí Ó Kojú Àwọn Abọ̀rìṣà",
+  "intro": "Ní àkókò kan tí ìfọkànsìn ti yípadà, ìránṣẹ́ kan dìde pẹ̀lú ìpè láti padà sí ìjọsìn Olúwa gbogbo ayé. Ẹni yìí dúró ṣinṣin sí àwọn ènìyàn kan tí wọ́n ti fìdí múlẹ̀ nínú ìjọsìn òrìṣà èké, ó ń rán wọn létí Ẹlẹ́dàá wọn tòótọ́ àti Olúwa àwọn baba ńlá wọn. Síbẹ̀ àwọn ènìyàn náà kò kíyèsára wọ́n sì kọ̀ ìkìlọ̀ náà, wọ́n sì fi ìdí àyànmọ́ ara wọn múlẹ̀. Ta ni olùpè aláìdúróṣinṣin yìí?",
+  "clues": [
+    "Wọ́n rán mi sí àwọn ènìyàn kan tí wọ́n ti yípadà kúrò ní ọ̀nà Ọlọ́run tòótọ́ kan ṣoṣo.",
+    "Mo bi àwọn ènìyàn mi pé, “Ṣé ẹ kò ní bẹ̀rù Allāhu?”",
+    "Mo pè wọ́n láti fi ìjọsìn wọn fún òrìṣà èké tí orúkọ rẹ̀ ń jẹ́ Báálì sílẹ̀.",
+    "Àwọn ènìyàn mi kọ̀ láti gbọ́ ìpè mi, wọ́n sì tẹ̀síwájú nínú ìbọ̀rìṣà wọn.",
+    "Nítorí pé wọ́n sẹ́ wọn, dájúdájú a ó mú wọn wá fún ìyà.",
+    "Olúwa mi fún mi ní àlàáfíà àti ìrántí ìbùkún láàrín àwọn ìran tó tẹ̀lé e."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Ilyas",
+        "Wòlíì Yahya",
+        "Wòlíì Dhul-Kifl",
+        "Wòlíì Yúsọ́ọ̀fù",
+        "Wòlíì Ṣúáíbù"
+      ],
+      "answer": "Wòlíì Ilyas"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Pe awọn eniyan rẹ̀ lati fi Baali silẹ",
+        "Kọ́ ọkọ̀ ojú omi láti gba àwọn onígbàgbọ́ là",
+        "Wọ́n jù ú sínú iná",
+        "Sá kúrò lọ́wọ́ Fáráò apànìyàn",
+        "Lù àpáta láti mú omi jáde"
+      ],
+      "answer": "Pe awọn eniyan rẹ̀ lati fi Baali silẹ"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Báálì",
+        "Al-Lat",
+        "Al-Uzza",
+        "Mánátì",
+        "Hábálì"
+      ],
+      "answer": "Báálì"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A fun ni alaafia ati iranti ibukun kan",
+        "Ilẹ̀ gbé mì",
+        "Ìjì líle kan pa á run",
+        "Ó di òkúta",
+        "Mo rì sínú omi"
+      ],
+      "answer": "A fun ni alaafia ati iranti ibukun kan"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

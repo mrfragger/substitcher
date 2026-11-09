@@ -1,0 +1,61 @@
+{
+  "title": "Tete Mmere mu Nokware Nne",
+  "intro": "Ɔkra bi wɔ Kur’aan mu a wɔaka n’asɛm wɔ nkyekyem kakraa bi pɛ mu, nanso wɔn su a ɛkorɔn no hyerɛn pefee a ɛyɛ nwonwa. Ade Nyinaa so Tumfoɔ no kamfoo no wɔ suban pa soronko bi ho, na Mmɔborohunufo no tete akoa yi kura baabi wɔ adiyisɛm nkratafa mu. W’adwuma ne sɛ wubehu onipa a ɔyɛ nwonwa yi. So wubetumi asusuw nnipa ko a wɔyɛ ho?",
+  "clues": [
+    "Meyɛ Allah nkɔmhyɛni a metenaa ase wɔ adesamma awoɔ ntoatoasoɔ a ɛdi kan no mu.",
+    "Allah kaa me ho asɛm wɔ Ne Nwoma mu ne nkɔmhyɛfoɔ foforɔ, a wɔn nyinaa kamfoo wɔn wɔ suban pa a ɛyɛ animuonyam korɔ no ara ho.",
+    "Wɔka me ho asɛm sɛ ɔbarima a ɔwɔ nokware wɔ Kur’aan mu.",
+    "Allah maa me so kɔɔ gyinabea a ɛkorɔn a afoforo kakraa bi na wɔadu ho.",
+    "Wɔabobɔ me din wɔ Surah Al-Anbiya mu, a wɔaboaboa ano ne adiyifoɔ mmienu foforɔ a wɔkamfo wɔn wɔ wɔn boasetɔ ho.",
+    "Mene Idris, odiyifo a ɔka nokware na wɔama no so."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Idris",
+        "Ɔkɔmhyɛni Nuh",
+        "Ɔkɔmhyɛni Ibrahim",
+        "Ɔkɔmhyɛni Musa",
+        "Ɔkɔmhyɛni Ismail"
+      ],
+      "answer": "Ɔkɔmhyɛni Idris"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Boasetɔ ne nokware a wɔbɛkɔ so akura mu, afei wɔama so akɔ gyinabea a ɛkorɔn",
+        "Adaka kɛse a wɔresi de agye agyidifo no afi nsuyiri a ɛsɛe ade mu",
+        "Sɛ wɔtow no gu ogya a ɛredɛw mu na wopue a hwee nyɛɛ no ​​koraa",
+        "Ɔhene tumfoɔ bi a ɔne no bɛhyia na wadi ne nkonyaayifoɔ dɔm no so nkonim",
+        "Ɔtra ase wɔ apataa kɛse bi yafunu mu wɔ po mu bun mu"
+      ],
+      "answer": "Boasetɔ ne nokware a wɔbɛkɔ so akura mu, afei wɔama so akɔ gyinabea a ɛkorɔn"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Gyinabea a ɛkorɔn na ɛkorɔn a Allah de ma",
+        "Hyɛn kɛse bi a wɔde mpuran na ɛyɛe na wɔde tar asisi mu",
+        "Ogya a ano yɛ den a ɔhene bɔne bi abosonsomfo de hyew",
+        "Ɛpo kɛse bi a ɛpaapae yɛɛ akwan a ɛso yɛ kusuu",
+        "Whale kɛse bi yafunu a ɛyɛ tumm a ɛwɔ po ase"
+      ],
+      "answer": "Gyinabea a ɛkorɔn na ɛkorɔn a Allah de ma"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wogyee no too Allah mmoborohunu mu se ateneneefoo no mu baako",
+        "Wɔgyee no ne agyidifoɔ nyinaa firii wiase nyinaa nsuyiriɛ mu",
+        "Nantew fii ogyaframa no mu a ogya no nkaa no",
+        "Ɔdii Israel Mma no anim kɔɔ ahofadie mu dwoodwoo wɔ ɛpo no",
+        "Wɔsan ne wɔn abusua a wɔdɔ wɔn no boom wɔ mfe pii a wɔde ahokyere mu akyi"
+      ],
+      "answer": "Wogyee no too Allah mmoborohunu mu se ateneneefoo no mu baako"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

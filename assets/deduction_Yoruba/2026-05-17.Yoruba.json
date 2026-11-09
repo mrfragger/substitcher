@@ -1,0 +1,61 @@
+{
+  "title": "Àwọn Ayàwòrán Òkúta",
+  "intro": "Fojú inú wo bí ọ̀làjú alágbára kan, tí a fi agbára àti òye ṣe, tí ó ń gbẹ́ àwọn ilé ńláńlá sí ẹ̀bá òkè. Àwùjọ yìí ní ọrọ̀ ńlá àti agbára ìkọ́lé àrà ọ̀tọ̀. Síbẹ̀, láìka àwọn ìkìlọ̀ tó ṣe kedere sí, wọ́n yan ọ̀nà kan tí yóò yọrí sí ìparí àgbàyanu tí a kò lè gbàgbé. Ṣé o lè dá ẹgbẹ́ yìí mọ̀ tí ìtàn wọn jẹ́ ẹ̀kọ́ tó jinlẹ̀ fún gbogbo àwọn tó bá ronú jinlẹ̀?",
+  "clues": [
+    "A fún wa ní agbára àti òye, èyí tó mú kí a lè gbẹ́ àwọn ilé ńláńlá sínú àwọn òkè ńlá.",
+    "Wọ́n fún wa ní àmì kan tí ó ṣe kedere láti ọ̀dọ̀ Allah, ẹ̀dá aláìlẹ́gbẹ́ kan tí a gbọ́dọ̀ fi sílẹ̀ láìsí ìyọlẹ́nu láti jẹko.",
+    "Àwùjọ wa di onígberaga, wọ́n ń pe ìhìn-iṣẹ́ àtọ̀runwá tí ìránṣẹ́ kan láti àárín wa mú wá níjà.",
+    "A gbìmọ̀ láti ba àmì ìyanu náà jẹ́, láìka ìkìlọ̀ nípa ìyà tó le koko sí.",
+    "A kọ̀ láti jẹ́ kí ẹ̀dá pàtàkì náà mu omi láti inú kànga wa ní àwọn ọjọ́ mìíràn.",
+    "A pàdé òpin búburú kan, a sì fi ìbúgbàù kan ṣoṣo, tí ó bani lẹ́rù, lulẹ̀ lẹ́yìn ìwà àìtọ́ wa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni àwa?",
+      "options": [
+        "Àwọn ènìyàn 'Ad",
+        "Àwọn ènìyàn Midiani",
+        "Àwọn Ènìyàn Erin",
+        "Àwọn ènìyàn Támúdì",
+        "Àwọn ènìyàn Lúùtù"
+      ],
+      "answer": "Àwọn ènìyàn Támúdì"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀ Pàtàkì Wa",
+      "options": [
+        "Ìkún omi tó bo ilẹ̀ náà",
+        "Pípín òkun",
+        "Ìparun nípasẹ̀ ìbúgbàù/ìké kan ṣoṣo",
+        "Sísun ìlú kan",
+        "Ìyípadà òkè ńlá sí eruku"
+      ],
+      "answer": "Ìparun nípasẹ̀ ìbúgbàù/ìké kan ṣoṣo"
+    },
+    "location": {
+      "label": "Kókó Pàtàkì Nínú Ìtàn Wa",
+      "options": [
+        "Ọmọ màlúù wúrà kan",
+        "Abo ràkúnmí ìyanu kan",
+        "Igbó kan tó ń jó",
+        "Ẹyẹ tó ń sọ̀rọ̀",
+        "Ìtẹ́ ọlọ́lá kan"
+      ],
+      "answer": "Abo ràkúnmí ìyanu kan"
+    },
+    "outcome": {
+      "label": "Àbájáde Wa Tó Gbéṣẹ́",
+      "options": [
+        "Wọ́n fún un ní ọrọ̀ àti agbára ńláǹlà",
+        "A gbé e ga sí jíjẹ́ wòlíì",
+        "ìparun pátápátá nípasẹ̀ ìyà àtọ̀runwá",
+        "A dáríjì í lẹ́yìn ìrònúpìwàdà tòótọ́",
+        "A fọ́nká kiri gbogbo ayé láti rìn kiri"
+      ],
+      "answer": "ìparun pátápátá nípasẹ̀ ìyà àtọ̀runwá"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

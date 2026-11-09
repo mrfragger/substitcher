@@ -1,0 +1,61 @@
+{
+  "title": "Ìpè Láti Àfonífojì Mímọ́",
+  "intro": "Lẹ́yìn ojú ìwé ìtàn ni ìtàn ẹ̀mí kan tó dúró láàrín alákòóso alágbára àti gbogbo àwọn ènìyàn tí wọ́n ti di ẹrú wà. Wọ́n pè ẹni yìí láti gba orílẹ̀-èdè kan sílẹ̀ lọ́wọ́ ìkà, ó ń ṣe àwọn iṣẹ́ ìyanu tó lòdì sí gbogbo òfin àdánidá. Láti orí òkè mímọ́ sí iṣẹ́ ìyanu lórí omi, ìránṣẹ́ Allah yìí rí àwọn àmì tó máa ń dún ní gbogbo ọjọ́ ayé. Iṣẹ́ rẹ lónìí ni láti dá ẹni tó yanilẹ́nu yìí mọ̀, ẹni tí ogún rẹ̀ ṣe àgbékalẹ̀ ìtàn ènìyàn.",
+  "clues": [
+    "A bí mi ní àkókò kan tí àwọn ènìyàn mi dojúkọ àṣẹ búburú kan, ìdílé mi sì gbé mi sínú omi láti gba ẹ̀mí mi là.",
+    "Wọ́n rí mi, wọ́n sì tọ́ mi dàgbà ní ilé olórí tó pa irú mi.",
+    "Mo sá lọ sí òkè mímọ́ kan níbi tí mo ti rí iná lórí igi kan tí kò jóná, ohùn kan sì bá mi sọ̀rọ̀ láti inú rẹ̀.",
+    "Wọ́n dá mi padà sọ́dọ̀ alákòóso yẹn pẹ̀lú iṣẹ́ ìyanu, wọ́n ń béèrè fún òmìnira àwọn ènìyàn mi tí wọ́n ti kó lẹ́rú.",
+    "Mo fi ọ̀pá mi lu òkun, ó sì pín sí ọ̀nà gbígbẹ, mo sì gbé àwọn tí wọ́n ń lépa àwọn ènìyàn mi mì.",
+    "Mo bá Olúwa mi sọ̀rọ̀ lórí òkè kan fún ogójì òru, wọ́n sì fún mi ní àwọn tábìlì ìtọ́sọ́nà àtọ̀runwá."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Mósà",
+        "Wòlíì Hárún",
+        "Wòlíì Ibrahim",
+        "Wòlíì Yúsọ́ọ̀fù",
+        "Wòlíì Dáfídì"
+      ],
+      "answer": "Wòlíì Mósà"
+    },
+    "trial": {
+      "label": "Ìdánwò Ìtumọ̀ Mi",
+      "options": [
+        "Pípín Òkun",
+        "Kíkọ́ Ọkọ̀ Ńlá náà",
+        "Ìdánwò nípasẹ̀ Iná Tí Ń jó",
+        "Ìdènà nínú Ikùn Ẹja Whale kan",
+        "Ìfipamọ́ láti ọwọ́ Òṣìṣẹ́ kan ní Íjíbítì"
+      ],
+      "answer": "Pípín Òkun"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ọ̀pá Olùṣọ́ Àgùntàn",
+        "Ọkọ̀ Onígi Ńlá kan",
+        "Ihò kan níbi tí àkókò ti sùn",
+        "Ọgbà kan pẹ̀lú orísun omi méjì",
+        "Ìtẹ́ kan tí a fi wúrà ṣe lọ́ṣọ̀ọ́"
+      ],
+      "answer": "Ọ̀pá Olùṣọ́ Àgùntàn"
+    },
+    "outcome": {
+      "label": "Àbájáde náà",
+      "options": [
+        "Àwọn ènìyàn mi kọjá Òkun sí Ààbò",
+        "Ìkún Omi Ńlá Pa Àwọn Àìgbàgbọ́ Parun",
+        "Iná Aláìláàánú kan di tútù àti àlàáfíà",
+        "Òkun Tú Àwọn Ènìyàn Rẹ̀ Sí Etí Òkun",
+        "Àwọn tí wọ́n kó ní ìgbèkùn di olùtọ́jú owó ní Íjíbítì"
+      ],
+      "answer": "Àwọn ènìyàn mi kọjá Òkun sí Ààbò"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

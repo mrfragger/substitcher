@@ -1,0 +1,61 @@
+{
+  "title": "Afɔrebɔ a Ɛsakraa Nkrabea",
+  "intro": "Wɔ adesamma mfiase no, ɔkra bi de akyɛde bi ma a na ɔwɔ adwempa. Nanso, na ahoɔyaw ahintaw wɔ gye a wogye tom no sunsuma mu. Hwehwɛ saa onipa yi a ne nyamesom pa ne n’awiei a ɛyɛ awerɛhow no ayɛ nea enwu da wɔ ɔsoro adiyisɛm mu no ho asɛm.",
+  "clues": [
+    "Ná meka adesamma awo ntoatoaso a edi kan koraa no ho.",
+    "Mede afɔrebɔ ma m’Awurade, na wɔde adom gyee no.",
+    "Wɔpoo me nua no afɔrebɔ no, na ahoɔyaw maa ne koma yɛɛ sum.",
+    "Meka kyerɛɛ no ​​sɛ, ‘Sɛ woteɛ wo nsa kyerɛ me sɛ wobɛkum me a, merentene me nsa ankum wo; ampa ara se mesuro Allah, ewiase nyinaa Awurade.'",
+    "Mebɛyɛɛ obi a wodii awudisɛm a edi kan wɔ asase so.",
+    "Me mogya teɛɛm, na me ne obi a odi kan a owui sɛ me ho nni asɛm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Habil (Habil) .",
+        "Qabil (Kain) .",
+        "Ɔbarima a ofi Ya-Sin",
+        "Samirifo no",
+        "Luqman na ɔkyerɛwee"
+      ],
+      "answer": "Habil (Habil) ."
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Wogyee n’afɔrebɔ no toom, na ɛmaa ne nua no ani beree na wokum no",
+        "Wɔtow no guu fononoo a ɛredɛw mu nanso ofii adi a hwee anyɛ no",
+        "Ɔyɛɛ hyɛn kɛse bi wɔ ɔsoro akwankyerɛ ase",
+        "Apataa kɛseɛ bi menee no na ɔtenaa sum mu",
+        "Ɔde ne nkurɔfo faa po a emu apaapae mu"
+      ],
+      "answer": "Wogyee n’afɔrebɔ no toom, na ɛmaa ne nua no ani beree na wokum no"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Afɔrebɔ a wogye tom",
+        "Poma bi a ɛredan ɔwɔ",
+        "Yoma abeawa sɛ ɔsoro sɛnkyerɛnne",
+        "Hoopoe a ɛde amanneɛbɔ reba",
+        "Sika nantwi ba bi a wɔsom"
+      ],
+      "answer": "Afɔrebɔ a wogye tom"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Awudisɛm a edi kan wɔ abakɔsɛm mu; wɔbuu ne nua no fɔ",
+        "Asase ne n’ahonyade amene no",
+        "Wɔdan bonsu esiane mmara so bu nti",
+        "Mframa a ano yɛ den na ɛyɛ nsukyenee sɛee no",
+        "Wɔmenee no wɔ nsuyiri kɛse mu sɛ asotwe"
+      ],
+      "answer": "Awudisɛm a edi kan wɔ abakɔsɛm mu; wɔbuu ne nua no fɔ"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

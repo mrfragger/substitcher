@@ -1,0 +1,61 @@
+{
+  "title": "Digniinta Dhulka Hoostiisa",
+  "intro": "Bal qiyaas adigoo ag taagan qodis qoto dheer iyadoo codadku ka soo kacayaan hoos, dunida sarena ay aamusan tahay. Qur'aanku wuxuu muuqaalkan u ilaalinayaa digniin ahaan: bulsho ayaa diiddan waxa rasuulladu keenaan, ciqaabtuna way soo dhowdahay, xitaa qayladeeduna waxay qayb ka noqotaa marag-furka. Kooxdee ayaa ka hadashay aayadahaas?",
+  "clues": [
+    "Qur'aanka waxaa naloogu xasuustaa inaan nahay koox lagu qeexay hal qaddar oo la wadaago halkii laga isticmaali lahaa magac gaar ah.",
+    "Waan diidnay fariintii ay soo direen rasuullada, inkastoo waxa ay sheegeen ay run ahaayeen.",
+    "Aqoonsigayaga la xasuusto wuxuu ku xiran yahay jeexitaan qoto dheer oo dhulka ah, sifadaasina waxay noqotay qayb ka mid ah magacayaga.",
+    "Maalintii la ballansanaa, ayaa naloo soo saaray oo naloo jiiday dhinaca dabka.",
+    "Ciqaabta iskama difaaci karno, mana maqli karno guuxeeda.",
+    "Wajiyadayada waxaa lagu rogi doonaa dabka, waana la na gelin doonaa; marka la weydiiyo, waxaan dhihi lahayn waxaan ka mid nahay kuwa aan ka jawaabi karin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Asxaabta Godka",
+        "Qarankii Laga Soo Badbaadiyay Daadadkii Weynaa",
+        "Kuwa Caabuda Dibi Dahab ah",
+        "Kooxdu waxay ku hoydeen Godka Buurta Dhexdeeda",
+        "Bulshada laga soo saaray Foornada Dabka ka shidan"
+      ],
+      "answer": "Asxaabta Godka"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "La jiiday oo lagu tuuray Dabka",
+        "Foorno ololaysa ayaa laga soo saaray",
+        "Si nabad ah ayaa loo qaaday iyada oo loo marayo daad weyn",
+        "Qarniyo badan oo ku hoyday god gudahiisa",
+        "La badbaadiyay ka dib markii lagu tuuray ceel"
+      ],
+      "answer": "La jiiday oo lagu tuuray Dabka"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "God ama god",
+        "Bad weyn",
+        "God buureed",
+        "Qasri sare",
+        "Ceel lamadegaan ah"
+      ],
+      "answer": "God ama god"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Awood la'aan inay is difaacaan oo aysan maqli karin guuxa Dabka",
+        "La badbaadiyay oo la siiyay gelitaanka beeraha daa'imka ah",
+        "Si nabad ah ayaa loo soo gaarsiiyay daad burbursan",
+        "Waxaa ilaaliya hurdo dheer oo ku jirta god gudahiisa",
+        "Waxaa lagu sharfay boqortooyo weligeed ah"
+      ],
+      "answer": "Awood la'aan inay is difaacaan oo aysan maqli karin guuxa Dabka"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

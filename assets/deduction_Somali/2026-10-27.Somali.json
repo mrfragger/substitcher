@@ -1,0 +1,61 @@
+{
+  "title": "Go'doon Cirka Ka Dambeeya",
+  "intro": "Waxaad hor taagan tahay ciidan xooggan oo ku soo dhawaanaya meel ammaan ah oo la ixtiraamo, iyadoo hub kasta uu diyaar yahay oo guulna u muuqato mid hubaal ah. Kahor inta uusan weerarku bilaaban, awood lama filaan ah ayaa soo muuqata, tartankuna wuxuu qaadanayaa wareeg aan cidna horay u arag.",
+  "clues": [
+    "Waxaan ku soconnay kalsooni ah in aan awood dhuleed la ruxin karin.",
+    "Waxaan keennay maroodiyaal xoog badan, ciidankeennuna wuxuu u ekaa mid ku wareegsan.",
+    "Waxaan u nimid inaan dumino meel ammaan ah oo la ixtiraamo, annagoo aaminsan in guusheennu ay horeba u ahayd mid hubaal ah.",
+    "Markii aan gaarnay, waxaa cirka naga dul maray xabaalo.",
+    "Shimbiruhu waxay dhagaxyo dhoobo adag ku tuureen dagaalyahannadeenna.",
+    "Aad ayaa nalooga adkaaday ilaa ciidankeennii xoogga badnaa uu burburay oo u kala firdhay sida dambas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Dadka Maroodiga",
+        "Labada Amiir",
+        "Walaalihii Yuusuf",
+        "Addoonkii Alle ee Dhul-Kifl",
+        "Asxaabta Ninka Xaqa ah"
+      ],
+      "answer": "Dadka Maroodiga"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Weerarkii uu maroodiga ku qaaday Kacbada",
+        "Badda ayaa kala go'day ka hor koox la keenay",
+        "Qabsashada Doontii oo ay qabsadeen dad dulmi badan.",
+        "Safarka habeenka ah ee u dhexeeya laba masaajid",
+        "Bogsiinta barasle iyadoo la adeegsanayo awoodda rabbaaniga ah"
+      ],
+      "answer": "Weerarkii uu maroodiga ku qaaday Kacbada"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Shimbiraha sida kiniinno dhoobo ah",
+        "Doon laga sameeyay qoryo gopher ah",
+        "Ul baa isu beddeshay abeeso",
+        "Dhagax lagu shaabadeeyay calaamad",
+        "Geed gubanaya"
+      ],
+      "answer": "Shimbiraha sida kiniinno dhoobo ah"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Xooggoodii xoogga badnaa ayaa sida dambas u burburay",
+        "Si nabad ah ayay badda uga gudbeen",
+        "Waxay ku socdeen foorno ololaysa iyagoo aan waxba gaarin",
+        "Waxay Jannada ku galeen laba-labo",
+        "Waxay god ku seexdeen 309 sano"
+      ],
+      "answer": "Xooggoodii xoogga badnaa ayaa sida dambas u burburay"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

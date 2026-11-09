@@ -1,0 +1,61 @@
+{
+  "title": "Hawlgalkii Magaalada Qadiimiga ah",
+  "intro": "Magaalo qadiimi ah oo boodh badan, dadkeeduna ay ku dhex milmeen beenin, iyo digniin kama dambays ah oo aan la dhegaysan. Maanta, u gudub doorka kuwa uu Alle u soo diray inay farriin u gudbiyaan dad madax adag. Sheeko diidmo ah, cod keliya oo iimaan ah, iyo dhammaad lagu shaabadeeyay amar ba'an. Yaa ka hadlaya tilmaamahan?",
+  "clues": [
+    "Waxaa Alle noo diray magaalo dadkiisu ay ka leexdeen runta",
+    "Laba naga mid ah ayaa marka hore yimid, ka dibna mid saddexaad ayaa ku biiray si uu u xoojiyo hawlgalkeenna",
+    "Dadkii magaaladu way na diideen, iyagoo leh ma nihin dad iyaga la mid ah mooyee.",
+    "Naf keliya oo ka timid darafkii ugu fogaa magaalada ayaa orodday si ay dadka ugu sheegto inay na raacaan.",
+    "Waan la ballan qaadnay, laakiin way adkeeyeen qalbigooda oo way naga soo horjeesteen",
+    "Hal qaylo naxdin leh oo cirka ka timid, magaaladeenna oo dhan ayaa la aamusiyay"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Rasuulladii Magaalada ee ku jira Suurada Ya-Sin",
+        "Hawwariyyun (Xerta Ciisaha)",
+        "Saaxiriintii Maxkamaddii Fircoon",
+        "Asxaabta Sabtida",
+        "Dadka Maroodiga"
+      ],
+      "answer": "Rasuulladii Magaalada ee ku jira Suurada Ya-Sin"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Dadka magaaladu way diideen oo beenaale ayay ku tilmaameen",
+        "Ku gubay dab weyn oo ololaya",
+        "Waxaa liqay kalluun weyn oo badda qoto dheer ku jira",
+        "Waxaa lagu qasbay in la shaqeeyo iyadoo la dhisayo tiir dhaadheer",
+        "Lagu jirdilay god dab ah oo kulul"
+      ],
+      "answer": "Dadka magaaladu way diideen oo beenaale ayay ku tilmaameen"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Magaalada qadiimiga ah (al-Qaryah)",
+        "Foorno weyn oo ololaysa",
+        "Caloosha kalluunka weyn",
+        "Tiirka sare ee cirka taabanaya",
+        "Guriga Barakaysan (Kaaba)"
+      ],
+      "answer": "Magaalada qadiimiga ah (al-Qaryah)"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Magaalada waxaa burburiyay hal qaylo oo ba'an (Sayha)",
+        "Dambiilihii iyo ciidankiisii ​​ayaa ku qaraqmay badda kala qaybsan.",
+        "Dadkii waxaa loo beddelay daanyeer iyo daanyeer.",
+        "Roob dhagaxyo ah oo cirka ka soo da'ay ayaa burburiyay magaaladii",
+        "Daad xoog leh ayaa baabi'iyay bulshada oo dhan"
+      ],
+      "answer": "Magaalada waxaa burburiyay hal qaylo oo ba'an (Sayha)"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

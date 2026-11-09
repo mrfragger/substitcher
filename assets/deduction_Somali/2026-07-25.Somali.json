@@ -1,0 +1,61 @@
+{
+  "title": "Dadka Degan Labada Beerood",
+  "intro": "Dhul ay nimcooyinku si aad ah uga qulqulayeen, bulsho mar waxay ku raaxaysan jirtay laba beerood oo qurux badan. Noloshooda waxay caddayn u ahayd nimco rabbaani ah, haddana sheekadoodu waxay isbeddeshay markii mahadnaqu libdhay, taasoo horseeday isbeddel calaamad u noqon doona dhammaan kuwa fekera.",
+  "clues": [
+    "Waxaan ahayn dad ku mannaystay dhul raaxo iyo barwaaqo leh.",
+    "Rabbigeen wuxuu na siiyay laba beerood oo qurux badan, oo dhinac walba barwaaqo iyo midho leh.",
+    "Waxaa nala faray inaan mahadnaqno, laakiin waxaan doorannay gaalnimo oo waan ka jeesannay.",
+    "Biyo-xidheen weyn ayaa dib u celiyay biyaha nool ee dhulkeenna siiya.",
+    "Markii aan ku adkaysannay khaladkeenna, biyo-xidheenku wuu qarxay oo daadku wuu dhex maray.",
+    "Beeraheenna oo mar ahaa kuwo qurux badan ayaa lagu beddelay miro qadhaadh, tamarisk, iyo dhowr geed oo lote ah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Dadka reer Saba",
+        "Reer Thamuud",
+        "Dadka reer Madyan",
+        "Asxaabta Godka",
+        "Dadka Maroodiga"
+      ],
+      "answer": "Dadka reer Saba"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Dabaylo xooggan oo toddobo habeen ah",
+        "Roob dhagaxyo ah oo cirka ka soo da'ay",
+        "Daadad burbur ah oo ka dhashay biyo-xireen qarxay",
+        "Qaylo dheer oo cirka ka timid",
+        "Ku qaraqmay badda"
+      ],
+      "answer": "Daadad burbur ah oo ka dhashay biyo-xireen qarxay"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Biyo-xireenka weyn ee Ma'rib",
+        "Dooxada Wadi al-Qura",
+        "Beerta Iraam",
+        "Ceelka Zamzam",
+        "Buurta Siinay"
+      ],
+      "answer": "Biyo-xireenka weyn ee Ma'rib"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Beeraheenna waxaa lagu beddelay miro qadhaadh iyo geedo yaryar",
+        "Dhulgariir ayaa na liqay dhulgariirkii",
+        "Waxaa naloo beddelay daanyeerro iyo doofaarro",
+        "Waxaa naga qarqiyay daad weyn",
+        "Waxaa na burburiyay roob dhagaxyo ah"
+      ],
+      "answer": "Beeraheenna waxaa lagu beddelay miro qadhaadh iyo geedo yaryar"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

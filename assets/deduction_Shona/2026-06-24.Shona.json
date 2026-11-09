@@ -1,0 +1,61 @@
+{
+  "title": "Mutariri weMurazvo Usingadzimwi",
+  "intro": "Munhu anomira pamusuwo wenzvimbo inotyisa zvikuru munzvimbo isingaonekwe, akapiwa basa risingadiwi nemumwe munhu. Mweya inotambura painochema ichikumbira ngoni, mhinduro yakasimba inonzwika mumakamuri emoto. Unogona here kuburitsa pachena kuti ndiani muchengeti uyu asingaperi?",
+  "clues": [
+    "Ndinomira pamusuwo wenzvimbo inotyisa yekurangwa munzvimbo isingaonekwe.",
+    "Moto unopfuta, usingadzimwi ndiwo musimboti webasa rangu guru.",
+    "Mweya inotambura inodana zita rangu, ichikumbira zororo kubva mukutambudzwa kwayo kusingaperi.",
+    "Pavanokumbira, ndinozivisa kuti havazombobvi.",
+    "Handisi munhu, kana jinn — ndiri chisikwa chakasikwa chinoteerera Mwari.",
+    "Ndini ngirozi huru yakagadzwa semuchengeti wekusingaperi weGehena."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Malik",
+        "Jibreel",
+        "Mikaeri",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Vanhu veGehena vanokumbira kuti kutambudzwa kwavo kugumiswe",
+        "Hwamanda inoridzwa kuratidza Zuva reKutongwa",
+        "Korani yakazarurwa kumoyo weMuporofita",
+        "Muprofita anokandwa mumoto mukuru nevanhu vake",
+        "Rusvingo rwakasimba rwakavakwa kuti rudzivirire rudzi rwakaora"
+      ],
+      "answer": "Vanhu veGehena vanokumbira kuti kutambudzwa kwavo kugumiswe"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Moto weGehena (Jahannam)",
+        "Muti weLote uri pamuganhu weParadhiso",
+        "Hwamanda inobaya",
+        "Tsvimbo inoshanduka kuita nyoka",
+        "Chigaro choumambo chaMwari chinoshamisa"
+      ],
+      "answer": "Moto weGehena (Jahannam)"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Vagari veGehena vanoudzwa kuti vacharamba varipo nekusingaperi",
+        "Vagari veGehena vanoregererwa uye vanosunungurwa",
+        "Vagari veGehena vanopiwa mukana wechipiri wekutenda",
+        "Vagari veGehena vanotamisirwa kunzvimbo inotonhorera",
+        "Vagari veGehena vanoparadzwa zvachose nebhanan'ana"
+      ],
+      "answer": "Vagari veGehena vanoudzwa kuti vacharamba varipo nekusingaperi"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Daande Goonga Jamanuuji ɓooyɗi",
+  "intro": "Won ruuhu e nder Quraan mo daartol mum haalaa e aayeeji seeɗa tan, kono sifaaji mum en tedduɗi ina njalba e laaɓal jalboowal. Joom baawɗe yetti ɗum ngam moƴƴere teeŋtunde, ooɗoo maccuɗo ɓooyɗo yurmeende ina jogii nokku e nder kelle wahyu. Gollal maa ko anndude ndeeɗoo limoore teskinde. Mbele aɗa waawi teskaade hol ɓe ngoni?",
+  "clues": [
+    "Miin ko mi annabi Allah guurnooɗo hakkunde yontaaji gadani neɗɗaagu.",
+    "Alla siftinii kam e nder deftere mum e annabaaɓe woɗɓe, kamɓe fof ɓe njettaama e moƴƴere teddunde wootere.",
+    "Miɗo siforee neɗɗo gooŋɗinɗo e nder Quraan.",
+    "Allah umminii kam e darnde toownde nde seeɗa e woɗɓe keɓi.",
+    "Innde am ina siftinaa e Suura Al-Anbiya, hawrude e annabaaɓe ɗiɗo woɗɓe yettaaɓe e muñal mum en.",
+    "Miin ko mi Idris, annabi gooŋɗinɗo toowɗo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol ko ngonmi?",
+      "options": [
+        "Annabi Idriisa",
+        "Annabi Nuuhu",
+        "Annabi Ibraahiima",
+        "Annabi Muusaa",
+        "Annabi Ismaa’il"
+      ],
+      "answer": "Annabi Idriisa"
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "Siggude muñal e goonga, caggal ɗuum toownaa e darnde toownde",
+        "Mahde laana mawka ngam hisnude nuɗɗinɓe e ilam bonɗam",
+        "Wontude e nder yiite ngulnge, yaltude tawa alaa ko bonnata ɗum haa laaɓi",
+        "Haɓde e laamɗo baawɗo, foolde konu mum maagiyaŋkooɓe",
+        "Wuurde e nder reedu liɗɗi mawɗi e nder lugge maayo"
+      ],
+      "answer": "Siggude muñal e goonga, caggal ɗuum toownaa e darnde toownde"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Darnde toownde toownde toownde to Alla",
+        "Laana mawka mahraaka e leɗɗe, pittaali e tar",
+        "Yiite ɓuuɓnge ɗe rewooɓe sanamuuji laamɗo bonɗo ɓuuɓnata",
+        "Geec mawɗo feccii e laabi joorɗi",
+        "Reedu ɓaleeru baleejo mawɗo to les maayo"
+      ],
+      "answer": "Darnde toownde toownde toownde to Alla"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "Naataaɗo e yurmeende Alla ko gooto e moƴƴuɓe",
+        "Hisnaama wondude e goonɗinɓe fof e ilam adunaaru nduu",
+        "Yahi e nder ƴiiwoonde nde yiite memotaako",
+        "Ardii Ɓiɓɓe Isra'iila bee jam haa ndimu haa sera maayo",
+        "Hawri e galle maɓɓe giɗo caggal duuɓi juutɗi e caɗeele"
+      ],
+      "answer": "Naataaɗo e yurmeende Alla ko gooto e moƴƴuɓe"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

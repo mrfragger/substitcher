@@ -1,0 +1,61 @@
+{
+  "title": "Imbeya iri mu ngoro y'ubwibone",
+  "intro": "Inyuma y’inkuta nini z’ingoro y’ububasha kuruta izindi zo kw’isi ya kera hari umuntu umutima wiwe wari ufise ibanga ata tegeko ry’umwami ryari gushobora guceceka. Mu gihe hirya no hino yose yapfukamira imana z’ikinyoma, uwo mutima wagumye ufise ukwizera gutekanye gusha imbere. Umutware w’ico gihugu yarizera ko ari ubumana, yamara uwo muntu yahisemwo ukuri aho guhumurizwa, n’ukwihebera Imana aho gukingira. Uyu musi, igikorwa cawe ni ukumenya uwo mutima w’intwari uwo yari nde, inkuru yiwe iguma ari imwe mu ngero zikomeye cane z’ukwizera kudahungabana.",
+  "clues": [
+    "Nabaye ahantu hari ubutunzi bwinshi cane kandi hari ubukuru butagira uko bungana, aho umutware w’ico gihugu yari afise ububasha bwose kuri vyose.",
+    "Mu gihe abo bari bakikuje bapfukamira imana z’ikinyoma, jewe nagumye mfise umuco w’ukwizera ucereje mu mutima wanje.",
+    "Navumbuye kandi ndarera umwana yazanywe mu buryo budasanzwe - atari mu kuvuka, ariko biciye mu mazi y’uruzi runini.",
+    "Narasenze Umukama wanje, nsaba inzu iri hafi yiwe muri Paradizo n’agakiza k’ububisha bwari bunkikuje.",
+    "Umwana nareze yarakuze arwanya uwo mutware nyene yagenzura iherezo ryanje, kandi narashikamye mu kwizera kwanje mbere n’igihe natera ubwoba.",
+    "Ndi uwo izina ryiwe ryubahwa muri Korowani nk’akarorero k’ukwizera, kandi nabaye mu kirimba ca Farawoni ubwiwe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Asiya, umugore wa Farawoni .",
+        "Mariyamu, nyina wa Yesaya .",
+        "Bilikisi, Umwamikazi w’i Sheba",
+        "Umugore w’Umuhanuzi Luti .",
+        "Umugore wa Imran ."
+      ],
+      "answer": "Asiya, umugore wa Farawoni ."
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Kuvumbura no kurera uruyoya rwahebwe rwacitse umuhanuzi akomeye .",
+        "Gutererwa mu muriro munini n'umunyagitugu .",
+        "Kubona umwuzure munini watikije abantu .",
+        "Gushingira intahe igiti c'umusukoni kinyiganyiga no gutanga ingaburo",
+        "Gusama inda y'umuhungu naho nyene akuze"
+      ],
+      "answer": "Kuvumbura no kurera uruyoya rwahebwe rwacitse umuhanuzi akomeye ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Ingoro y'ubwami y'ubwiza butagira uko bungana",
+        "Ubwato bukomeye bwakozwe kugira ngo bushobore guhangana n'umwuzure .",
+        "Umwobo muremure wihishije mu misozi .",
+        "Umuriro ururumba wubatswe kw’isonga ry’umusozi .",
+        "Ubusitani bukikujwe n'inkuta"
+      ],
+      "answer": "Ingoro y'ubwami y'ubwiza butagira uko bungana"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Inzu yatanzwe muri Paradizo n'ubugombe bwa Allah .",
+        "Umwuzure ukomeye waratikije abahakanyi b’ihanga rya kera .",
+        "Ubwami bw’ububasha n’ubukuru bikomeye cane bwarahawe muri iyi si .",
+        "Ingabo z’inkomezi zasandajwe n’inyoni ziriko zirahunga .",
+        "Umunyagitugu yivugira ubumana yarohamye mu kiyaga ."
+      ],
+      "answer": "Inzu yatanzwe muri Paradizo n'ubugombe bwa Allah ."
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

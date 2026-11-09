@@ -1,0 +1,61 @@
+{
+  "title": "Mupi weUchenjeri Husingaperi",
+  "intro": "Munhu anoremekedzwa, anozivikanwa nekunzwisisa kwake kwakadzama uye mazano ane hungwaru, akambopa mazano asingaperi. Mashoko avo, akanyorwa mumagwaro matsvene, anotungamira vanhu pakutenda, mwoyo murefu, uye maitiro akarurama.",
+  "clues": [
+    "Ndakakomborerwa neuchenjeri, kwete huprofita.",
+    "Ndakapa mwana wangu zano pamusoro pechivi chikuru kupfuura zvimwe zvose: kusanganisa Allah nevamwe.",
+    "Ndakadzidzisa nezvehuremu hwemabasa, kunyangwe kukosha kwembeu yemasitadhi, uye kuti Allah achazviunza sei.",
+    "Ndakasimbisa kutenda Allah nevabereki, ndichibvuma matambudziko ekurera mwana.",
+    "Zano rangu raisanganisira kusimbisa munamato, kuraira zvakanaka, kurambidza zvakaipa, uye kutsungirira nemoyo murefu zvinowira munhu.",
+    "Chitsauko chiri muKorani chakanyorwa zita rangu, chine dzidziso dzangu nezvidzidzo zvandakagovana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Sulaiman",
+        "Muporofita Dhawud",
+        "Muprofita Yahya",
+        "Luqman",
+        "Muprofita Musa"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Dingindira Repakati",
+      "options": [
+        "Kuvaka Kaaba",
+        "Kupatsanura gungwa",
+        "Kupa uchenjeri",
+        "Kupona mafashamo",
+        "Kumedzwa nehove"
+      ],
+      "answer": "Kupa uchenjeri"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Areka",
+        "Vashandi",
+        "Gomo reTur",
+        "Mwanakomana Wake",
+        "Mhuru Yegoridhe"
+      ],
+      "answer": "Mwanakomana Wake"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Vanhu vake vakaparadzwa",
+        "Uchenjeri hwake hwakava mutungamiriri",
+        "Akapihwa umambo",
+        "Akakwidzwa kudenga",
+        "Akapihwa pfuma yakawanda"
+      ],
+      "answer": "Uchenjeri hwake hwakava mutungamiriri"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

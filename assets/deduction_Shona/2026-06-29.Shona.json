@@ -1,0 +1,61 @@
+{
+  "title": "Mweya Wemwoyo Murefu",
+  "intro": "Munhoroondo dzehuporofita, paiva nemweya une mwoyo murefu wakanyorwa muchimiro chavo. Nekuchema nenguva, vakabatirira patariro, vachiva muenzaniso usingaperi wekuvimba neuchenjeri hwaMwari. Unogona here kutsanangura chakavanzika chemunhu uyu asingazununguki?",
+  "clues": [
+    "Ndakazvarirwa mumhuri yevaprofita, asi muedzo wangu mukuru wakauya kuburikidza nemwana wandaida zvikuru.",
+    "Ndakanyeverwa nezvegodo kubva kuhope dzakataurwa nemwanakomana wangu, uye ndakatya kuchengetedzeka kwake.",
+    "Maziso angu akacheneruka nekusuwa, asi handina kumbobvira ndarasikirwa nekutenda mutsitsi dzaAllah.",
+    "Kunhuhwirira kwemwana wangu akanga asipo kwakandisvika kure, uye ipapo ndakaziva kuti kusanganazve kwakanga kwava pedyo.",
+    "Mhuri yangu yakakotama ichionga apo chiono chekare chakazadzikiswa, uye maziso angu akadzorerwa.",
+    "Ndini ndakapihwa hembe ine ropa, asi gare gare ndakazopihwa hembe yakazondiporesa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Ibrahim",
+        "Muprofita Ishaq",
+        "Muporofita Yaqub",
+        "Muprofita Yusuf",
+        "Muprofita Ayyub"
+      ],
+      "answer": "Muporofita Yaqub"
+    },
+    "trial": {
+      "label": "Kutongwa Kwakakosha",
+      "options": [
+        "Kuparadzana nemwana waunoda uye kurasikirwa nekuona",
+        "Kukandwa mumoto unopfuta",
+        "Kumedzwa nehove huru",
+        "Kutsungirira kurasikirwa nepfuma, vana, uye hutano",
+        "Kutengeswa nevanun'una vake ndokukandwa mutsime"
+      ],
+      "answer": "Kuparadzana nemwana waunoda uye kurasikirwa nekuona"
+    },
+    "location": {
+      "label": "Chinhu Chinofananidzira",
+      "options": [
+        "Hembe yakatanga kuvanza chokwadi ndokuzoiburitsa pachena",
+        "Tsvimbo yakazova nyoka",
+        "Hove huru yakamedza muporofita",
+        "Moto wakatonhora",
+        "Peya remashangu pagwenzi riri kupfuta"
+      ],
+      "answer": "Hembe yakatanga kuvanza chokwadi ndokuzoiburitsa pachena"
+    },
+    "outcome": {
+      "label": "Chisarudzo chaMwari",
+      "options": [
+        "Kusanganazve nemudiwa akarasika uye kudzorerwa kwekuona",
+        "Kununurwa kubva kurudzi rwekudzvinyirirwa",
+        "Kununurwa kubva mudumbu rehove",
+        "Ruponeso kubva mumoto unopfuta",
+        "Kukwira kuchigaro chikuru cheumambo"
+      ],
+      "answer": "Kusanganazve nemudiwa akarasika uye kudzorerwa kwekuona"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Okukkiriza Emabega Wa Nnamulondo",
+  "intro": "Emyoyo egimu tegigezesebwa muliro oba mataba, wabula puleesa empola ey’okubeera munda mu lubiri lw’omutyobooli. Ekifaananyi kino kyali kiyimiridde ku mabbali g’omufuzi eyali yeeyita Katonda ku bantu baabwe, naye nga mu nkukutu yeenywerera ku kukkiriza Katonda Omu ow’Amazima. Okwewaayo kwabwe bwe kwazuulibwa, okubonaabona kwajja — naye n’ekisuubizo eky’obwakatonda bwe kyali. Osobola okuteebereza ono ani?",
+  "clues": [
+    "Nnabeera wansi w’akasolya k’omufuzi asinga amaanyi mu nsi yange, mu kifo abatono kye baali basobola okulowoozaako.",
+    "Munnange yayimirira mu maaso g’abantu ne yeerangirira nga katonda — naye omutima gwange gwali gwa Mukama Omu Omutuufu.",
+    "Nawuuba essaala mu nkukutu, nga ntya ekibonerezo ekyatuuka ku bonna abaali bajeemera munnange.",
+    "Okukkiriza kwange bwe kwabikkulwa, nnakwatibwa era ne ntulugunyizibwa — naye olulimi lwange teruyogerangako kigambo kya butakkiriza.",
+    "Nafuka omutima gwange eri Mukama wange, nga nsaba ennyumba mu Jjana, ewala n’ebibi byonna.",
+    "Nze Asiya bint Muzahim — mukyala wa Falaawo eyawakanya Musa ne Harun."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Asiya bint Muzahim (Mukyala wa Falaawo) .",
+        "Hawwa (Eve), omukazi eyasooka",
+        "Saala, mukyala wa Ibrahim eyasooka",
+        "Agali nnyina wa Isimayiri",
+        "Maama wa Maryam (mukyala wa Imran) ."
+      ],
+      "answer": "Asiya bint Muzahim (Mukyala wa Falaawo) ."
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okugumiikiriza okutulugunyizibwa olw’okugaana okwegaana okukkiriza",
+        "Okuwona munda mu lubuto lw’ekyennyanja ekinene",
+        "Okuzimba eryato ennene ennyo okusobola okuwona amataba",
+        "Okusuulibwa mu muliro ogwaka",
+        "Okulaba okwawukana kw’ennyanja ennene"
+      ],
+      "answer": "Okugumiikiriza okutulugunyizibwa olw’okugaana okwegaana okukkiriza"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Ennyumba eyabazimbibwa mu Jjana",
+        "Omuggo ogwakyuka ne gufuuka omusota",
+        "Eryato eritisse ebibiri bibiri ebya buli kitonde",
+        "Ennyana eya zaabu esinzibwa eggwanga",
+        "Ensigo ekozesebwa okuwangula omulwanyi omunene"
+      ],
+      "answer": "Ennyumba eyabazimbibwa mu Jjana"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yassibwamu ekitiibwa n’okubeera mu Jjana ku mabbali g’abatuukirivu",
+        "Babbira wansi w’amayengo wamu n’eggye lyabwe",
+        "Yayokebwa mu muliro naye nga yawonyezebwa Katonda olw’okuyingira mu nsonga",
+        "Amira ekitonde ekinene olwo ne kisuulibwa ku lukalu",
+        "Yafuuka omuntu asinga obugagga mu kiseera kyabwe"
+      ],
+      "answer": "Yassibwamu ekitiibwa n’okubeera mu Jjana ku mabbali g’abatuukirivu"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

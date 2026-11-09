@@ -1,0 +1,61 @@
+{
+  "title": "Ciidankii ay la kulmeen Dhoobo Duulaysa",
+  "intro": "Waagii ka horreeyay Nabi Muxamed, hoggaamiye awood badan oo ka soo jeeda Yemen ayaa bilaabay olole milatari oo ujeedadiisu ahayd inuu burburiyo meel barakeysan oo Makka ku taal. Cadawgan ayaa hoggaaminayay ciidan aad u tiro badan oo wata maroodi dagaal, iyagoo ku kalsoon xooggooda iyo tiradooda. Si kastaba ha ahaatee, safarkoodu si lama filaan ah ayuu ku dhammaan lahaa markii ay la kulmeen faragelin rabbaani ah oo aan la filayn. Ma aqoonsan kartaa cidda la kulantay xisaabtan cajiibka ah?",
+  "clues": [
+    "Waxaan la soconnay ciidan aad u badan iyo maroodi dagaal oo awood badan oo u socda gurigii barakeysan.",
+    "Waxaan rabnay inaan xididada u siibno oo aan burburinno goob cibaado oo ay dhisteen addoommada Eebaha Raxmaanka ah",
+    "Waxaa naloo soo diray shimbiro yaryar oo dhagaxyo dhoobo ah ku sita afkooda iyo ciddiyahooda.",
+    "Waxaa nala soo gudboonaa cod dhagaxyo nagu tuuraya, oo naga dhigaya haraadigii la tuntay.",
+    "Waxaan ka imid dhulka Yaman waxaana ka hoos shaqeeyay taliye doonayay inuu ku noolaado meesha quduuska ah ee barakeysan",
+    "Waxaa nalooga dhigay tusaale kuwa ku dhiiran lahaa inay desafí ka dhigaan meesha quduuska ah ee Alle"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Ciidanka Abraha al-Ashram",
+        "Ciidamada Itoobiya",
+        "Guulaystayaasha Faaris",
+        "Ciidamada Roomaanka",
+        "Baadiyaha ayaa weerara"
+      ],
+      "answer": "Ciidanka Abraha al-Ashram"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Go'doomin qalcad lamadegaan ah",
+        "Duullaan lagu qaaday xarunta barakeysan ee Makkah",
+        "Dagaal badeed oo ka dhacay badda",
+        "Kacdoon ka dhan ah boqor kaligii talis ah",
+        "Raadinta nebi lumay"
+      ],
+      "answer": "Duullaan lagu qaaday xarunta barakeysan ee Makkah"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Dooxada Mina oo u dhow Makkah",
+        "Qasriga Sanca ee Yemen",
+        "Buuraha Tihamah",
+        "Magaalada qadiimiga ah ee Yeruusaalem",
+        "Xeebaha Badda Cas"
+      ],
+      "answer": "Dooxada Mina oo u dhow Makkah"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Guul iyo burbur gurigii barakeysan",
+        "Guul darro ay kala kulmeen shimbiro sita dhagaxyo dhoobo ah",
+        "Is-dhiibid iyo beddel nabadeed",
+        "Macaluul iyo masiibo dabiici ah",
+        "Dib u gurasho ay sabab u tahay roobab culus oo da'ay"
+      ],
+      "answer": "Guul darro ay kala kulmeen shimbiro sita dhagaxyo dhoobo ah"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

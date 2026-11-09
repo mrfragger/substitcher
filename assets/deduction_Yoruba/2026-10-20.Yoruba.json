@@ -1,0 +1,61 @@
+{
+  "title": "Olùṣètò Ìfẹ́kúfẹ̀ẹ́ Èké",
+  "intro": "Ẹni tí ó ní àṣẹ ńlá kan ti ṣiṣẹ́ fún ọ̀kan lára ​​àwọn aláṣẹ tí ó lókìkí jùlọ ní ìtàn ní Íjíbítì ìgbàanì. Wọ́n fi àṣẹ onígboyà lé ẹni yìí lọ́wọ́ — láti kọ́ ilé kan tí a ṣe láti tako àwọn ọ̀run. Ìtàn wọn dúró nínú Al-Quran gẹ́gẹ́ bí ẹ̀kọ́ tí ó yanilẹ́nu nípa bí ìgbọràn afọ́jú sí ìgbéraga ṣe ń yọrí sí ìparun.",
+  "clues": [
+    "Mo ṣiṣẹ́ ní ààfin aláṣẹ alágbára kan tó sọ pé òun ni Ọlọ́run lórí ilẹ̀ náà.",
+    "Mo wà ní ipò mínísítà gíga, mo ń gba àwọn aláṣẹ onígbèéraga jùlọ nímọ̀ràn nígbà ayé mi.",
+    "Olórí mi ti fi gbogbo agbára rẹ̀ gbé ìgbéjàko Ọlọ́run Mósè, ẹni tí wọ́n kọ̀ láti gbàgbọ́.",
+    "Wọ́n pàṣẹ fún mi láti kọ́ ilé ìṣọ́ kan pẹ̀lú bíríkì tí a fi iná sè kí alákòóso mi lè gòkè lọ sí ọ̀run.",
+    "Ilé ìṣọ́ náà kò dé ojú ọ̀run rárá, àti pé ìsìnrú ìgbéraga mi mú ìtìjú ayérayé wá fún mi.",
+    "Mo parẹ́ pẹ̀lú ẹni tí mo tẹ̀lé, orúkọ mi sì di ìkìlọ̀ pípẹ́ lòdì sí àwọn tí ó ń fún àwọn aláṣẹ ní agbára."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Hámánì",
+        "Azar (baba Ibrahim)",
+        "Wòlíì Ilya (wòlíì)",
+        "Dhu al-Kifl",
+        "Harut (ọ̀kan lára ​​àwọn áńgẹ́lì méjì ní Bábílónì)"
+      ],
+      "answer": "Hámánì"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Wọ́n pàṣẹ pé kí wọ́n kọ́ ilé gíga kan kí ó lè dé ọ̀run.",
+        "Wọ́n ní kí á túmọ̀ àlá tí a rán láti ọ̀dọ̀ Ọlọ́run",
+        "A jù wọ́n sínú iná tí ń jó bí ìdánwò ìgbàgbọ́",
+        "A fipá mú un láti yan láàárín ìtẹ́ àti òtítọ́",
+        "Wọ́n dojú ìjà kọ mí nínú ìdíje iṣẹ́ ajẹ́"
+      ],
+      "answer": "Wọ́n pàṣẹ pé kí wọ́n kọ́ ilé gíga kan kí ó lè dé ọ̀run."
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ilé gogoro tí wọ́n fi bíríkì tí wọ́n fi iná sè ṣe",
+        "Ọ̀pá tí ó di ejò",
+        "Ọkọ̀ ojú omi kan tí ń rìn la ìkún omi ńlá kan já",
+        "Ọgbà kan tí àwọn ògiri gíga yí ká",
+        "Ìtẹ́ tí a fi rúbíì àti wúrà ṣe lọ́ṣọ̀ọ́"
+      ],
+      "answer": "Ilé gogoro tí wọ́n fi bíríkì tí wọ́n fi iná sè ṣe"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Mo rì sínú omi pẹ̀lú aninilára ní òkun",
+        "Ó di ọba alágbára ní àwọn ilẹ̀ ńláńlá",
+        "Mo sá àsálà lọ́wọ́ iná tí ń jó láìfarapa",
+        "Kọ ijọba ọlọla ti ọgbọn kan",
+        "Mo tún padà sí ìdílé mi lẹ́yìn ọ̀pọ̀ ọdún ìgbèkùn"
+      ],
+      "answer": "Mo rì sínú omi pẹ̀lú aninilára ní òkun"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

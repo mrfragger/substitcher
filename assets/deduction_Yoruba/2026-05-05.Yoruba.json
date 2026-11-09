@@ -1,0 +1,61 @@
+{
+  "title": "Ìfẹ́ ayé",
+  "intro": "Ní àkókò àdánwò ńlá, a fún ẹni tí ó lókìkí ní ọrọ̀ ayé púpọ̀, ìdánwò ọpẹ́ àti ìrẹ̀lẹ̀. Ìrìn àjò ẹni yìí jẹ́ ẹ̀kọ́ tó jinlẹ̀ lórí bí àwọn ohun ìní ti ara ṣe ń pẹ́ tó àti àbájáde ìgbéraga. Ṣàwárí ẹni tí ẹ̀mí yìí jẹ́, ẹni tí ìtàn rẹ̀ wà lábẹ́ ilẹ̀ wa.",
+  "clues": [
+    "Mo gbé láàárín àwọn ènìyàn tí ìránṣẹ́ ńlá kan ń darí.",
+    "Allah fún mi ní ọrọ̀ tó pọ̀ tó bẹ́ẹ̀ tí kọ́kọ́rọ́ sí àwọn ìṣúra mi fi jẹ́ ẹrù tó wúwo fún ọ̀pọ̀lọpọ̀ àwọn alágbára.",
+    "Àwọn ènìyàn mi, tí wọ́n mọ ọrọ̀ mi, gbà mí nímọ̀ràn láti wá ibùgbé Ìkẹyìn pẹ̀lú ohun tí Allah fún mi, kí n má sì gbàgbé ìpín mi nínú ayé, kí n sì ṣe rere gẹ́gẹ́ bí Allah ti ṣe rere sí mi.",
+    "Mo fi ìgbéraga kéde pé ìmọ̀ àti ìsapá mi nìkan ni mo fi rí ọrọ̀ ńlá mi, tí mo sì kọ̀ láti gba ojúrere Ọlọ́run kankan.",
+    "Nígbà tí wọ́n ní kí n fi owó kún un tàbí kí n gbà pé Ọlọ́run ló fún mi, mo kọ̀ láti ṣe bẹ́ẹ̀, mo gbàgbọ́ pé èmi nìkan ni mo ní ohun ìní mi.",
+    "Nítorí ìgbéraga àti ìnilára mi tó ga jùlọ, Allah pàṣẹ fún ilẹ̀ láti ṣí mi àti ibùgbé mi kí ó sì gbé mi mì."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Fir’aun",
+        "Iblis",
+        "Hámánì",
+        "Abu Lahab",
+        "Kárún"
+      ],
+      "answer": "Kárún"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Jíjẹ́ tí a jù sínú iná",
+        "Rírì sínú omi",
+        "Jíjẹ́ ẹni tí a lé kúrò nínú ọgbà kan",
+        "Jíyípadà sí ọ̀bọ",
+        "Ilẹ̀ gbé mì"
+      ],
+      "answer": "Ilẹ̀ gbé mì"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ọmọ màlúù wúrà kan",
+        "Ọkọ̀ ayọ́kẹ́lẹ́ alágbára kan",
+        "Ẹyẹ tó ń sọ̀rọ̀",
+        "Ọpá ìyanu kan",
+        "Àwọn ìṣúra àti kọ́kọ́rọ́ ńláńlá"
+      ],
+      "answer": "Àwọn ìṣúra àti kọ́kọ́rọ́ ńláńlá"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Láti di olórí àgbà",
+        "Gbigba ifihan atọrunwa",
+        "Gíga lọ sí ọ̀run",
+        "Gbígbé ìgbé ayé gígùn pẹ̀lú ìfọkànsìn",
+        "Ìparun pátápátá nítorí ìgbéraga"
+      ],
+      "answer": "Ìparun pátápátá nítorí ìgbéraga"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

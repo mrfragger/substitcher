@@ -1,0 +1,61 @@
+{
+  "title": "Igihugu cyahanganye n'inzu ndende",
+  "intro": "Mu bihe bya kera, ishyanga rikomeye ryafashe icyemezo cyo gutera ahantu hera hyubahwaga n'abizera. Iri tsinda ryari rikize, rikomeye, kandi ryizeye imbaraga zaryo za gisirikare. Bazanye ikiremwa kinini cyari kuba intwaro yabo y'intambara. Intego yabo yari isobanutse: gusenya inzu ndende no gusenya ukwizera kw'abaturage bayo. Ariko ubwibone bwabo bwari bugiye guhura n'ingaruka mbi ziturutse hejuru. Iki gikorwa cy'amateka cyabaye ikimenyetso n'isomo ku bakurikiye bose. Ese ushobora kumenya iri tsinda ukurikije ibimenyetso byaryo?",
+  "clues": [
+    "Twari igihugu cyari gifite ubutunzi n'ubuhanga mu bya gisirikare.",
+    "Twakusanyije ingabo zacu maze tuzana inyamaswa nini cyane kugira ngo tuyikoreshe mu rugamba rwacu.",
+    "Intego yacu yari ahantu hera hatagatifu twifuzaga gusenya burundu.",
+    "Twizeraga ko imbaraga zacu zari zihagije kugira ngo dutsinde uburinzi ubwo ari bwo bwose bw'Imana.",
+    "Ariko Uwiteka yatwoherereje igihano kivuye mu ijuru tutari twiteze.",
+    "Twarimbutse mu kanya gato, dutatana nk'ibyatsi byamenetse."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Abantu b'inzovu",
+        "Abaturage ba Thamud",
+        "Abantu bo muri 'Ad",
+        "Abagenzi bo mu buvumo",
+        "Ishyanga ry'Intumwa Hud"
+      ],
+      "answer": "Abantu b'inzovu"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Gutembera inzovu yerekeza mu nzu ndende kugira ngo iyirimbure",
+        "Kubaka umunara kugira ngo ugere mu ijuru",
+        "Kubaka ikigirwamana cya zahabu cyo gusengeramo",
+        "Kwanga kumva intumwa ya Allah",
+        "Gucukura iriba kugira ngo bagirire nabi abemera"
+      ],
+      "answer": "Gutembera inzovu yerekeza mu nzu ndende kugira ngo iyirimbure"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Inzovu",
+        "Inyana y'izahabu",
+        "Inkoni ya Musa",
+        "Ifi ya Yunus",
+        "Icyuma cya Dawud"
+      ],
+      "answer": "Inzovu"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Barimbuwe n'imikumbi y'inyoni n'amabuye",
+        "Barohamye mu myuzure ikomeye",
+        "Bahinduwe inkende n'ingurube",
+        "Bashyinguwe munsi y'amabuye agwa ava ku musozi",
+        "Batwitswe n'umuriro uturutse mu ijuru"
+      ],
+      "answer": "Barimbuwe n'imikumbi y'inyoni n'amabuye"
+    }
+  },
+  "verseRef": "105:1-5",
+  "arabic": "",
+  "verse": "105:1-5"
+}

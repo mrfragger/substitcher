@@ -1,0 +1,61 @@
+{
+  "title": "Mashoko Anofadza Munguva Yekukwegura",
+  "intro": "Uri kuona nguva apo tariro inomutswazve. Vaviri, vapfuura zera rekuva vabereki, vanogamuchira vimbiso inopesana nemitemo yechisikigo. Pakati pavo pane munhu ane kuvapo kwake chiratidzo chetsitsi dzaMwari—mweya wakarongerwa kuva muprofita, wakatakura nhaka ichagara muzvizvarwa zvakawanda. Ndiani munhu uyu anoshamisa?",
+  "clues": [
+    "Ndakazvarwa nevabereki vakanga vakura uye vasina vana.",
+    "Kuzvarwa kwangu kwakaziviswa nengirozi dzakauya sevashanyi kumhuri yangu.",
+    "Ndakapihwa uchenjeri neuporofita, uye ndinotaurwa pakati pevarwere.",
+    "Baba vangu vainzi shamwari yaAllah, uye ini ndakava chipo kwavari mumakore avo ekupedzisira.",
+    "Ndaiva nemukoma wangu aivawo muporofita, uye tese takakomborerwa naIshe wedu.",
+    "Mwanakomana wangu aivewo muporofita, uye vana vangu vakapihwa magwaro nehuporofita."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Ishaq (Isaka)",
+        "Muporofita Ismail (Ishmael)",
+        "Muporofita Yaqub (Jakobho)",
+        "Muporofita Yahya (Johani)",
+        "Muprofita Uzair (Ezra)"
+      ],
+      "answer": "Muprofita Ishaq (Isaka)"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Akazvarwa nevabereki vakwegura",
+        "Kukandwa mumoto",
+        "Kupiwa umambo nepfuma",
+        "Akatungamirira vanhu vake kubva muIjipiti",
+        "Vakavaka areka kuti vaponese vatendi"
+      ],
+      "answer": "Akazvarwa nevabereki vakwegura"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Mashoko anofadza emwanakomana",
+        "Gwenzi riri kupfuta",
+        "Mhuru yegoridhe",
+        "Areka yesungano",
+        "Tsvimbo yehuporofita"
+      ],
+      "answer": "Mashoko anofadza emwanakomana"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akava muporofita ane dzinza revaprofita",
+        "Akava mambo akapfuma",
+        "Vanhu vake vakaparadzwa nekuda kwekusatenda",
+        "Akaponeswa kubva mumoto",
+        "Akapihwa simba rekutaura achiri mucheche"
+      ],
+      "answer": "Akava muporofita ane dzinza revaprofita"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

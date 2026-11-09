@@ -1,0 +1,61 @@
+{
+  "title": "Olùpín Ọgbọ́n Àìlópin",
+  "intro": "Ẹni tí a bọ̀wọ̀ fún, tí a mọ̀ fún ìmọ̀ jíjinlẹ̀ àti ìmọ̀ràn ọlọ́gbọ́n wọn, ti fúnni ní ìmọ̀ràn tí ó kọjá ìrandíran. Ọ̀rọ̀ wọn, tí a kọ sínú ìwé mímọ́, ń darí àwọn ènìyàn sí ọpẹ́, sùúrù, àti ìwà òdodo.",
+  "clues": [
+    "Ọgbọ́n ni mo fi bukun, kìí ṣe iṣẹ́ wòlíì.",
+    "Mo gba ọmọ mi nímọ̀ràn lórí ẹ̀ṣẹ̀ tó tóbi jùlọ: sísopọ̀ pẹ̀lú Allah.",
+    "Mo kọ́ni nípa ìwọ̀n iṣẹ́, àní ìníyelórí irúgbìn mustard kan, àti bí Allah yóò ṣe mú un jáde.",
+    "Mo tẹnu mọ́ ọpẹ́ sí Allah àti sí àwọn òbí ẹni, mo sì gbà pé ó yẹ kí a máa gbìyànjú láti tọ́ ọmọ dàgbà.",
+    "Ìmọ̀ràn mi ní nínú gbígbàdúrà, gbígbàṣẹ rere, gbígbà ìkàléèwọ̀ ibi, àti fífi sùúrù fara da ohun tí ó bá ṣẹlẹ̀ sí ènìyàn.",
+    "Orúkọ mi ni wọ́n sọ orí kan nínú Al-Quran, èyí tí ó ní àwọn ẹ̀kọ́ mi àti àwọn ẹ̀kọ́ tí mo pín."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Sùlámínì",
+        "Wòlíì Dáfídì",
+        "Wòlíì Yahya",
+        "Luqman",
+        "Wòlíì Mósà"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Àkòrí Àárín Gbùngbùn",
+      "options": [
+        "Kíkọ́ Kaaba",
+        "Pípín òkun níyà",
+        "Sísọ ọgbọ́n fúnni",
+        "Líla ìkún omi já",
+        "Jíjẹ́ tí ẹja gbé mì"
+      ],
+      "answer": "Sísọ ọgbọ́n fúnni"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Àpótí náà",
+        "Òṣìṣẹ́ náà",
+        "Òkè Túrì",
+        "Ọmọ Rẹ̀",
+        "Ọmọ màlúù wúrà náà"
+      ],
+      "answer": "Ọmọ Rẹ̀"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Àwọn ènìyàn rẹ̀ ni a parun",
+        "Ọgbọ́n rẹ̀ di amọ̀nà",
+        "A fún un ní ìjọba kan",
+        "A gbé e sókè sí ọ̀run",
+        "Wọ́n fún un ní ọrọ̀ ńláǹlà"
+      ],
+      "answer": "Ọgbọ́n rẹ̀ di amọ̀nà"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

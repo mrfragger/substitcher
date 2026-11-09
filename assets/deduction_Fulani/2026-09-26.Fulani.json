@@ -1,0 +1,61 @@
+{
+  "title": "Yeddude Hakkunde Keewceeral",
+  "intro": "Aɗa tawa hoore maa e nder leñol ngol luumooji mum en ina njuuti e njulaagu, kono teddeendi mum en ina ɓuuɓtoo ko aldaa e nuunɗal. Nelaaɗo arii e maɓɓe e jeertinaali laaɓtuɗi, kono ɓe njaltii, ɓe njirlotoo, ɓe ngoongɗinii ɓamtaare maɓɓe. Asamaan oo fuɗɗotoo niɓɓiɗde, kono ɓe njiyri ɗum ko barke toɓo. Hol ɓeeɗoo yimɓe?",
+  "clues": [
+    "En mbeltiima e leyɗeele njulaagu e keewal, kono ɓerɗe amen ɓeydii ɓuuɓde.",
+    "Nelaaɗo arii e men ina jogii maandeeji ummoraade e joom men, kono en njaltii e jeertinaango makko.",
+    "Min nganndiranoo ko njulaagu amen, kono min ndokki peeje juutɗe, min njuumtii ɓesngu nguu.",
+    "Min nguuri ko hakkunde leɗɗe ɓutte e leɗɗe ɓutte, kono min ƴettii barkeeji amen e dow majjere.",
+    "Nde duule ɓaleeje ɓadtii, min mbeltiima, min cikki maa ɗum addan toɓo e leyɗeele amen joorɗe.",
+    "E nder heen, oon ruulde yaltinii jukkungo ɓuuɓngo, min nanngaa e torla ñalawma ɗowdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol Enen?",
+      "options": [
+        "Ashab al-Aykah ( sahabaaɓe leɗɗe)",
+        "Yimɓe Samuuda",
+        "Yimɓe 'Ad",
+        "Yimɓe Luut",
+        "Yimɓe Nuuhu"
+      ],
+      "answer": "Ashab al-Aykah ( sahabaaɓe leɗɗe)"
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "Ɓe njaɓaani nelaaɗo maɓɓe, ɓe njuumri e njulaagu",
+        "Ɓe ndewi nagge kaŋŋe, ɓe majjinaama",
+        "Ɓe mbaɗatnoo ko sodomiya, ɓe njani e yahooɓe",
+        "Ɓe mahi cuuɗi toowɗi, ɓe luulndii Alla",
+        "Ɓe calii renndude ndiyam, ɓe bonni gelooɗi debbo"
+      ],
+      "answer": "Ɓe njaɓaani nelaaɗo maɓɓe, ɓe njuumri e njulaagu"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Ladde mawnde walla ɓuuɓri",
+        "Tufnde ŋeñɗi e hoɗorɗe",
+        "Wuro wonngo e maayo",
+        "Falnde jeereende ina waɗi ɓulli",
+        "Jardiin ɓuuɓɗo, keewɗo ɓiɓɓe"
+      ],
+      "answer": "Ladde mawnde walla ɓuuɓri"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "Halkaama e ruulde yiite ɓuuɓnde",
+        "Njokkii e ilam mawɗam",
+        "Muuɗi ɗum ko yerɓo leydi",
+        "Fiyaaɗo e henndu bonndu",
+        "Wayliima wonti haayre"
+      ],
+      "answer": "Halkaama e ruulde yiite ɓuuɓnde"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

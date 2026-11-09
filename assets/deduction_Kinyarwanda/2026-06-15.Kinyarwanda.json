@@ -1,0 +1,61 @@
+{
+  "title": "Ubutware bw'Umuyaga n'Umuriro",
+  "intro": "Tekereza ubwami aho umuyaga ubwawo wasubizaga umutegetsi umwe, aho amajwi y'ibiremwa bito cyane yaremereye, kandi aho imbaraga zitabonwa n'amaso asanzwe zafatwaga mu buryo bwitondewe. Uyu muntu yarazwe ubwami budasanzwe n'uwamubanjirije, ufite ububasha ku bidukikije n'amajini. Ariko ubutware bukomeye bwaje n'ibigeragezo bikomeye - kandi igihe cya nyuma cyagaragazaga ikintu gitangaje ku miterere y'ubuzima n'urupfu ubwarwo.",
+  "clues": [
+    "Narazwe ubwami bukomeye n'umubyeyi wanjye nkunda cyane, wari n'umuhanuzi akaba n'umugaragu wa Allah.",
+    "Imana yampaye ububasha ku muyaga, iwunyohereza mu rugendo rw'ukwezi mu gitondo kimwe.",
+    "Ndetse n'inyamaswa ntoya cyane zavugaga uburyo nkora, kandi nahagararaga gato kugira ngo ntangarire ubumenyi bwazo.",
+    "Nayoboye ingabo nini cyane z'amajini, abantu n'inyoni, zose ziteguye neza imbere yanjye.",
+    "Umutegetsi wa kure yaje kungerageza akoresheje ikibazo gikomeye, maze nterura intebe y'uwo mutegetsi ijya mu rugo rwanjye mbere y'uko umushyitsi ahaguruka ku ntebe.",
+    "Nagumye mpagaze, nishingikirije ku nkoni, kugeza igihe ikiremwa gito cyo mu isi cyayiriye — maze abari hafi yanjye bamenya ko nayirenzeho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Intumwa Sulayman (Salomo)",
+        "Intumwa Dawidi (Dawidi)",
+        "Umuhanuzi Isa (Yesu)",
+        "Intumwa Muhamadi ﷺ",
+        "Umuhanuzi Musa (Mose)"
+      ],
+      "answer": "Intumwa Sulayman (Salomo)"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Kuzana intebe y'umwamikazi uri kure hakoreshejwe uburyo budasanzwe",
+        "Gumanurwa mu mwobo muremure cyane nkiri umwana",
+        "Guhangana n'abapfumu b'umunyagitugu n'ibimenyetso by'igitangaza",
+        "Kuvuga kuva akiri umwana kugira ngo arengere icyubahiro cya nyina",
+        "Kwakira ibyanditswe bya nyuma byahishuwe ku musozi wera"
+      ],
+      "answer": "Kuzana intebe y'umwamikazi uri kure hakoreshejwe uburyo budasanzwe"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Inkoni y'igiti yarozwe n'umuswa",
+        "Ubwato bunini bwubatswe kugira ngo bushobore kurokoka umwuzure w’isi yose",
+        "Inkoni yahindutse inzoka imbere y'umunyagitugu",
+        "Igitambaro cyakoreshejwe mu gukiza impumyi",
+        "Ubuvumo bweranda aho ihishurirwa ryakiriwe bwa mbere"
+      ],
+      "answer": "Inkoni y'igiti yarozwe n'umuswa"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Umutegetsi w’icyubahiro wari wasuye yemeye ukwemera nyuma yo kubona ibimenyetso",
+        "Umwuzure ukomeye watsembye abantu bose uretse indahemuka bari mu bwato",
+        "Farawo n'ingabo ze baguye mu nyanja",
+        "Umugenzi w'umukiranutsi yazamuwe mu ijuru",
+        "Umwami w'umunyagitugu n'umujyi we byarasenyutse birasenywa"
+      ],
+      "answer": "Umutegetsi w’icyubahiro wari wasuye yemeye ukwemera nyuma yo kubona ibimenyetso"
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

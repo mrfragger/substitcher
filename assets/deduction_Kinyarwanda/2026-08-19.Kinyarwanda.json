@@ -1,0 +1,61 @@
+{
+  "title": "Igihugu cyanze gahunda karemano",
+  "intro": "Mu karere inkuru yabayeho mu bihe bitandukanye, hari umuryango wabayeho mu bwigomeke ku mugaragaro ku mategeko y’ubuziranenge. Ibikorwa byabo byari bidasanzwe ku buryo byibukwa nk'umuburo ku bantu bose. Abo bantu bari bande, kandi ni iki cyabagezeho?",
+  "clues": [
+    "Twatuye mu gihugu kiri hafi y'inzira abagenzi bakundaga kunyuramo, ariko urugendo rwabo twararugize akaga.",
+    "Twakoze ibikorwa by'ubuhemu nta muntu n'umwe wigeze akora mbere.",
+    "Intumwa yaturutse muri twe yaraduhamagaye ngo tureke inzira zacu, ariko twaramwanze kandi dusaba igihano niba yari umunyakuri.",
+    "Ubwo abashyitsi beza bazaga mu mujyi wacu, twashakaga kubatera, tutazi ko ari intumwa zo kurimbura.",
+    "Twaburiwe igihano gikomeye nitudacika intege, ariko twasetse umuburo maze tuguma mu byaha byacu.",
+    "Imvura y'amabuye yaturutse mu ijuru yaratuguyeho, amazu yacu arasenyuka, nta n'umwe wasize uretse ikimenyetso ku batekereza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Abantu ba Lut",
+        "Abantu bo muri Thamud",
+        "Abantu ba A'ad",
+        "Abantu bo muri Madyan",
+        "Abaturage ba Saba"
+      ],
+      "answer": "Abantu ba Lut"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Yakoze ubusambanyi budasanzwe n'imihanda idafite aho ihuriye",
+        "Yasengaga inyana ya zahabu",
+        "Yishe ingamiya y'ingore yera",
+        "Yashutswe mu bucuruzi kandi yagabanyije abaturage amafaranga",
+        "Yubatse umunara muremure kugira ngo agerageze ijuru"
+      ],
+      "answer": "Yakoze ubusambanyi budasanzwe n'imihanda idafite aho ihuriye"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Abamarayika bihinduye nk'abashyitsi beza",
+        "Ingamiya y'ingore iva mu rutare",
+        "Inkoni ihinduka inzoka",
+        "Ubwato bwubatswe ku musozi",
+        "Umuriro wabaye nk'ukonje kandi utuje"
+      ],
+      "answer": "Abamarayika bihinduye nk'abashyitsi beza"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Yasenywe n'imvura y'amabuye yaturutse mu ijuru",
+        "Yamizwe n'isi",
+        "Yarohamye mu myuzure ikomeye",
+        "Yakubiswe n'urusaku rw'induru",
+        "Yahinduwemo inguge"
+      ],
+      "answer": "Yasenywe n'imvura y'amabuye yaturutse mu ijuru"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

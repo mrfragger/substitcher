@@ -1,0 +1,60 @@
+{
+  "title": "Ikigeragezo kiri munsi y'imipfunda",
+  "intro": "Umuhanuzi umwe, yari aremerewe n’ubutumwa bwiwe, yafashe ingingo yamujanye kure y’abantu biwe, aja mu kigeragezo atari yiteze. Urugendo rwiwe rwahindutse cane, rugerageza ukwizera kwiwe n’ukwihangana kwiwe mu buryo bwimbitse kuruta ubundi bwose. Woba ushobora gutahura ido n’ido ry’ico kintu kidasanzwe ukoresheje ibimenyetso vyatanzwe?",
+  "clues": [
+    "Umuhanuzi yarungitswe ku bantu, ariko aragenda yihuta, yumva ababajwe no kwanka kwabo.",
+    "Urugendo rwiwe rwamushikanye ku kiyaga, aho yuriye ubwato bwari buremereye cane arondera aho yoca.",
+    "Haciye haba igihuhusi gikomeye, gitera ubwoba ubwato, maze hafatwa ingingo yo gutera umuntu umwe mu kiyaga kugira ngo umuzigo ureke, ivyo bikaba vyagenwa n’ubupfindo.",
+    "Yamizwe n’ikiremwa co mu mazi maremare, ikintu c’igitangaza categetswe n’ubugombe bw’Imana.",
+    "Mu nzira y’inda y’ico gikoko, yahamagaye Umukama wiwe, yihana, aninahaza Allah mu mwiza.",
+    "Inyuma y’igihe c’ugusenga cane, yaciye ajugunywa ku nkombe y’ikiyaga, afise intege nke ariko ari muzima, mu nyuma aragaruka asanga abantu biwe amaherezo barizeye."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Umuhanuzi/Umuntu",
+      "options": [
+        "Umuhanuzi Nuh",
+        "Umuhanuzi Luti",
+        "Umuhanuzi Musa",
+        "Umuhanuzi Yunusi",
+        "Umuhanuzi Yusufu"
+      ],
+      "answer": "Umuhanuzi Yunusi"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Umwuzure wa Nuh .",
+        "Ugutikizwa kwa Sodomu .",
+        "Urugendo mu nda y'ifi nini .",
+        "Uguca ibice kw'ikiyaga",
+        "Ihishurirwa ry'igisaka kigurumana"
+      ],
+      "answer": "Urugendo mu nda y’ifi nini ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Ubwato",
+        "Umusozi Sinayi",
+        "Inkoni ya Musa",
+        "Ifi nini",
+        "Iriba rya Yusufu"
+      ],
+      "answer": "Ifi nini"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Isezerano rishasha n'abantu .",
+        "Ivuka ry'igitangaza ku bantu biwe .",
+        "Ubwami bwashinzwe ku bw’uruvyaro rwiwe .",
+        "Kugaruka mu bantu biwe bari baciye bemera .",
+        "Intsinzi ku mutware w’umunyagitugu ."
+      ],
+      "answer": "Kugaruka mu bantu biwe bari baciye bemera ."
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

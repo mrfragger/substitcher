@@ -1,0 +1,61 @@
+{
+  "title": "Ɔfrɛ a Wɔantie wɔ Ahantan Asase no so",
+  "intro": "Wogyina anibuei a bere bi na ɛyɛ kɛse no amamfõ mu, baabi a na tumi ne ahantan nnim anohyeto biara. Ɔbɔfo bi nantew wɔn mu frɛɛ nokware no, nanso wɔn koma mu yɛɛ den. Wɔantie kɔkɔbɔ no, na wim ankasa bɛyɛɛ abufuw adwinnade. Hena ne saa ɔbɔfo yi, na dɛn na ɛbaa wɔn a wɔpoo ɔfrɛ no?",
+  "clues": [
+    "Wɔsomaa me kɔɔ nnipa bi a wɔn ahoɔden nsɛ na wɔkyekyeree nkaedum wɔ beae a ɛkorɔn biara.",
+    "Me nkurɔfo buu wɔn ho sɛ wontumi nni wɔn so nkonim na wɔkae sɛ, ‘Hena na ɔyɛ den sen yɛn wɔ ahoɔden mu?",
+    "Mefrɛɛ wɔn sɛ wɔnsom Allah nko ara, nanso wɔbɔɔ me soboɔ sɛ meyɛ nkwaseasɛm ne atoro.",
+    "Wɔtwaa me mpoa sɛ sɛ meka nokware a, memfa asotwe a mehyɛɛ bɔ no mmra.",
+    "Allah somaa mframa a ɛyɛ kwae a ennyae biribiara a ɛbaa so no baa wɔn so.",
+    "Me ne nkurafoa a wo ne me gye dii no, Allah ahummoboro so gyee me nkwa, wo abere a atiafoa no seee koraa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Odiyifo Hud",
+        "Ɔkɔmhyɛni Salih",
+        "Odiyifo Shuaib",
+        "Odiyifo Lut",
+        "Ɔkɔmhyɛni Nuh"
+      ],
+      "answer": "Odiyifo Hud"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Mframa a ɛyɛ hu sɛee wɔn a wonnye nni no",
+        "Nsuyiri kɛse bi kataa atiafo no so",
+        "Abo a ɛtɔe tɔe",
+        "Nteɛteɛm kɛse bi gyee wɔn a wonnye nni no",
+        "Asasewosow bi sii wɔn a wonnye nni no"
+      ],
+      "answer": "Mframa a ɛyɛ hu sɛee wɔn a wonnye nni no"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Mframa a ɛbɔ a ennyae",
+        "Nnua adaka",
+        "Yoma a ɔyɛ ɔbea",
+        "Osu a ɛyɛ dɔte abo",
+        "Ogya a ɛredɛw"
+      ],
+      "answer": "Mframa a ɛbɔ a ennyae"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wogyee Hud ne agyidifoa no nkwa, na wosɛee atiafoa no",
+        "Wɔmaa Hud kɔɔ gyinabea a ɛkorɔn",
+        "Hud na ne nkurɔfo kum no",
+        "Hud nkurɔfo no nuu wɔn ho na wɔannye wɔn",
+        "Hud gyaw ne nkurɔfo hɔ ansa na wɔretwe asotwe biara"
+      ],
+      "answer": "Wogyee Hud ne agyidifoa no nkwa, na wosɛee atiafoa no"
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

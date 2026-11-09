@@ -1,0 +1,61 @@
+{
+  "title": "Mwoyo Unotambudzika Une Mwoyo Murefu",
+  "intro": "Munhoroondo, mune munhu ane zita rinoenderana nekutsungirira. Munhu uyu akaedzwa nekurasikirwa nerunyararo rwese rwenyika, asi akaramba ari mushumiri akazvipira weMusiki. Mumakore ekutambudzika nekurwara kwemuviri, moyo wemweya uyu wakaramba wakabatirira mukutenda, uchipa chiedza chetariro kune vese vanosangana nematambudziko.",
+  "clues": [
+    "Ndakanga ndiri mushumiri waAllah akazvipira, ndakakomborerwa nepfuma yakawanda, vana vakawanda, uye hutano hwakanaka.",
+    "Hupenyu hwangu hwakachinja pandakatorerwa pfuma yangu nemhuri yangu, zvikandisiya ndisisina chimwe chinhu kunze kwekutenda kwangu.",
+    "Ndakarwara kwenguva refu uye ndairwadziwa, izvo zvaiedza miganhu chaiyo yekutsungirira kwevanhu.",
+    "Mukutambudzika kwangu kwose, ndakaramba kunyunyuta kuna Ishe wangu, kunyangwe muvengi paakaedza kundiita kuti ndipererwe netariro.",
+    "Pandakazopedzisira ndadana kuna Ishe wangu, handina kukumbira pfuma, asi ndakangobvuma kuti nhamo yakanga yandibata.",
+    "Ndakaudzwa kuti ndirove ivhu netsoka yangu, uye kubva mariri kwakabuda tsime remvura inotonhorera kuti ndiporese muviri wangu uye ndipedze nyota yangu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muporofita Yaqub",
+        "Muprofita Ayyub",
+        "Muprofita Zakaria",
+        "Muprofita Yahya",
+        "Muporofita Shu'ayb"
+      ],
+      "answer": "Muprofita Ayyub"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Makore ekurwara zvakanyanya nekurasikirwa",
+        "Kukandwa mutsime rakadzika",
+        "Kumedzwa nehove hombe",
+        "Kutarisana nemudzvinyiriri mumoto",
+        "Rwendo rurefu mukutsvaga mudzidzisi"
+      ],
+      "answer": "Makore ekurwara zvakanyanya nekurasikirwa"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Tsvimbo yakaparadzanisa gungwa",
+        "Hembe yainhuwirira kumba",
+        "Chitubu chemvura chinoporesa",
+        "Gomo rakaputsika kuita guruva",
+        "Bako rehope huru"
+      ],
+      "answer": "Chitubu chemvura chinoporesa"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kuva gavhuna wenyika huru",
+        "Kutungamira hondo kukunda",
+        "Kudzorerwa kwehutano nemhuri",
+        "Kuvaka imba tsvene yekunamatira",
+        "Kugamuchira tafura yakarongwa kubva kudenga"
+      ],
+      "answer": "Kudzorerwa kwehutano nemhuri"
+    }
+  },
+  "verseRef": "38:42",
+  "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ",
+  "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\" (38:42)"
+}

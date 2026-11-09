@@ -1,0 +1,61 @@
+{
+  "title": "Intumwa z'Imbabazi n'Ububasha",
+  "intro": "Tekereza ku gicamunsi cy'ituze cyahungabanyijwe n'abashyitsi batazi. Isura yabo ni iy'ibisanzwe, ariko intego yabo ni uko. Bafite ubutumwa bw'Imana buzahindura inzira y'amahanga abiri, bugatera urwenya mu rugo rw'ubutayu n'iterabwoba mu mujyi w'abanyabyaha. Aba bashyitsi b'amayobera ni bande?",
+  "clues": [
+    "Twatumwe ku mugaragu w’Imana w’indahemuka, uzwiho kwakira abashyitsi batagira imipaka.",
+    "Twahageze twifashe nk'abantu tutazi, nyamara uwatwakiriye yumvise ikintu kidasanzwe ku bijyanye no kuba turi aho.",
+    "Twazanye inkuru yatumye umugore ugeze mu za bukuru aseka cyane, yikubita mu maso atangaye cyane.",
+    "Twari dufite inshingano zo kurinda umuryango w’intungane mu gihe imvura yagwaga ku mujyi wuzuyemo ruswa.",
+    "Twanze gufata ifunguro twahawe, ibyo byatumye uwatwakiriye arushaho kugira amakenga.",
+    "Twahishuye kamere yacu nyayo mbere yo kugenda, tuti: 'Mu by'ukuri, turi intumwa z'Umwami wawe.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Turi bande?",
+      "options": [
+        "Abashyitsi ba Aburahamu",
+        "Abigishwa ba Yesu",
+        "Abagenzi bo mu buvumo",
+        "Ingabo za Abraha",
+        "Intumwa za Ya-Sin"
+      ],
+      "answer": "Abashyitsi ba Aburahamu"
+    },
+    "trial": {
+      "label": "Intego yacu",
+      "options": [
+        "Kugira ngo agerageze ukwizera kwa Aburahamu ku mwana we",
+        "Kugira ngo atange igitabo cy'Ibyanditswe kuri Aburahamu",
+        "Kumenyesha ivuka rya Isaka n'irimbuka ry'ubwoko bwa Loti",
+        "Kuyobora Aburahamu kuri Kaaba",
+        "Kugira ngo arokore Aburahamu mu muriro"
+      ],
+      "answer": "Kumenyesha ivuka rya Isaka n'irimbuka ry'ubwoko bwa Loti"
+    },
+    "location": {
+      "label": "Aho yagaragaraga",
+      "options": [
+        "Mu gihugu cya Egiputa",
+        "Mu mujyi wa Uri",
+        "Mu rugo rwa Aburahamu",
+        "Mu busitani bwa Edeni",
+        "Ku iriba rya Zamzam"
+      ],
+      "answer": "Mu rugo rwa Aburahamu"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Aburahamu yabaye umwami",
+        "Aburahamu yubatse Kaaba",
+        "Sara yabyaye Isaka maze abantu ba Loti bararimbuka",
+        "Aburahamu yimukiye muri Palesitina",
+        "Ubwoko bwa Aburahamu bwarokowe mu mwuzure ukomeye"
+      ],
+      "answer": "Sara yabyaye Isaka maze abantu ba Loti bararimbuka"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

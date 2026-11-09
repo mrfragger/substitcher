@@ -1,0 +1,61 @@
+{
+  "title": "Mugadziri wekuzvikudza",
+  "intro": "Munyika yekare yaitongwa nesimba rinopikisa, munhu akakosha aiva nechinzvimbo chekutonga. Mweya uyu wakashanda zvikuru muzvirongwa zvikuru zvemutongi, uchibatsira mukutonga kwavo kunodzvinyirira uye uchipikisa shoko raMwari. Nhaka yavo yakabatana nekutsvaga simba renyika uye kuramba chokwadi.",
+  "clues": [
+    "Ndakashandira mutongi ane simba uyo aidzvinyirira vanhu kwezvizvarwa nezvizvarwa.",
+    "Zita rangu rinotaurwa kakawanda muBhuku raMwari pamwe chete nemutungamiriri uyu ane simba.",
+    "Ndakapiwa basa guru rekuvaka, chivako chirefu chakagadzirirwa kusvika kudenga.",
+    "Ndakapa zano kuna tenzi wangu kuti auraye vanakomana vevana veIsraeri uye kuti vanasikana vavo vasaparadzwe.",
+    "Ndakanga ndichibatanidzwa muzvirongwa zvekuronga nekurangana pamusoro pemutumwa ane simba waAllah.",
+    "Mugumo wangu, pamwe chete natenzi wangu nehondo yake, wakasvika mumvura yegungwa guru."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Nimrodhi",
+        "Abhuraha",
+        "Goriyati",
+        "Iblis",
+        "Hamani"
+      ],
+      "answer": "Hamani"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kuedzwa nepfuma yakawanda",
+        "Kutungamira hondo kurwisa imba tsvene",
+        "Kuvaka shongwe yekusvika kuna Mwari",
+        "Kukandwa mumoto nekuda kwechitendero chavo",
+        "Kukandwa mutsime nevanun'una"
+      ],
+      "answer": "Kuvaka shongwe yekusvika kuna Mwari"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Areka",
+        "Vashandi",
+        "Gomo",
+        "Shongwe",
+        "Whale"
+      ],
+      "answer": "Shongwe"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kupiwa uchenjeri hukuru",
+        "Kuva muporofita",
+        "Kumedzwa nenyika",
+        "Kupiwa umambo",
+        "Kunyura mugungwa"
+      ],
+      "answer": "Kunyura mugungwa"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

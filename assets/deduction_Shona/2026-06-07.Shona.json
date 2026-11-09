@@ -1,0 +1,61 @@
+{
+  "title": "Mweya Wakatambudzwa weNire",
+  "intro": "Munguva yekudzvinyirirwa kukuru, apo mudzvinyiriri aitonga nyika neutsinye hwakanyanya, mweya mumwe chete wakasarudza nzira yekutenda pane kunyaradzwa neumambo. Munhu uyu aigara mumoyo wesimba asi akawana chokwadi mushoko remuporofita anozvininipisa. Rwendo rwavo rwaizova chidzidzo chisingaperi chekushivirira, kuzvipira, uye kutenda kusingazununguki. Unogona here kuziva munhu uyu anoshamisa aisarudza mufaro waMwari pane chinzvimbo chenyika?",
+  "clues": [
+    "Ndaigara mumuzinda une simba guru, asi moyo wangu wakawana chokwadi mumashoko ekuzvininipisa.",
+    "Ndakasarudza kutevedzera nhungamiro yaMusa, ndichiziva migumisiro yandaizosangana nayo.",
+    "Ndakanga ndaroorwa nemudzvinyiriri ane simba kupfuura vamwe vese panguva yangu, asi ndakaramba vanamwari vake venhema.",
+    "Kutambura kwangu kwakanga kwakanyanya, sezvo ndakarangwa nekuda kwekutenda kwangu muna Mwari Mumwe chete.",
+    "Handina kumbozununguka mukutenda kwangu, kunyangwe pandakasangana nekutambudzwa kwakanyanya.",
+    "Ishe wangu vakafadzwa nemoyo murefu wangu vakandisarudza kuti ndive nenzvimbo ine rukudzo muParadhiso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Amai vaMuporofita Musa",
+        "Mudzimai waFarao",
+        "Hanzvadzi yaMuporofita Musa",
+        "Mambokadzi weIjipiti yekare",
+        "Muranda wevaIsraeri"
+      ],
+      "answer": "Mudzimai waFarao"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kurwa muhondo yaAllah",
+        "Kutarisana naFarao uye kuzivisa kutenda kwake",
+        "Kuvaka nzvimbo dzekunamatira muIjipita",
+        "Kufamba mhiri kwegungwa naMusa",
+        "Kugamuchira zvakazarurwa kubva kuna Allah"
+      ],
+      "answer": "Kutarisana naFarao uye kuzivisa kutenda kwake"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Renje reMidhiani",
+        "Imba yamambo yeIjipiti",
+        "Mahombekombe eRwizi rwaNire",
+        "Gomo reSinai",
+        "Nyika yeKanani"
+      ],
+      "answer": "Imba yamambo yeIjipiti"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akava muporofita mushure memakore mazhinji",
+        "Akatungamirira vaIsraeri kubva muIjipiti",
+        "Akapihwa hutongi pamusoro peIjipita",
+        "Akafira kutenda uye akakudzwa naAllah",
+        "Akararama kusvika akwegura ari murunyararo"
+      ],
+      "answer": "Akafira kutenda uye akakudzwa naAllah"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

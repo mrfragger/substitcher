@@ -1,0 +1,61 @@
+{
+  "title": "Nkwagyeɛ Ɔdansifoɔ a Ɔyɛ Den",
+  "intro": "Ɔyɛ onipa a ɔwɔ boasetɔ kɛse ne gyidi a enhinhim, na ohyiraa mfe a enni ano maa ɔsoro asɛmpatrɛw adwuma, na ohyiaa animtiaabu ne pow a ennyae. Wɔn asɛm no yɛ gyidi ho adanse a tumi wom wɔ gyidi a wonni a ɛboro so anim, na ɛba awiei wɔ adeyɛ titiriw bi a ɛsan hyehyɛɛ wiase no mu.",
+  "clues": [
+    "Mehyiraa m’asetena mu bere tenten a ɛyɛ nwonwa so frɛɛ me nkurɔfo sɛ wɔmmɛsom Allah.",
+    "Me nkurɔfo dii me ho fɛw na wɔbɔɔ me sobo sɛ madi mfomso a ɛda adi na mabɔ dam.",
+    "Wɔhyɛɛ me sɛ minsi biribi a ɛte sɛ nea ɛyɛ soronko mma me mpɔtam a ɛnyɛ asase no.",
+    "Kakraa bi pɛ na wogye dii na wɔkaa me ne m’abusua ho wɔ adansi soronko yi mu.",
+    "Mesoaa abɔdeɛ a nkwa wom biara mmienu mmienu wɔ hyɛn no mu, sɛdeɛ Allah kyerɛɛ no.",
+    "Nsuyiri kɛse bi kataa asase no so, gyee wɔn a wɔka me ho wɔ m’ahina mu nkutoo, bere a m’ankasa me babarima no sɛee esiane ne gyidi a onnye nni nti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Salih",
+        "Odiyifo Hud",
+        "Ɔkɔmhyɛni Nuh",
+        "Ɔkɔmhyɛni Dawud",
+        "Ɔkɔmhyɛni Sulayman"
+      ],
+      "answer": "Ɔkɔmhyɛni Nuh"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Ɔsɛe a asasewosow de ba no",
+        "Ɛpo mu mpaapaemu",
+        "Nsuyiri kɛse no",
+        "Nimrod gya no",
+        "Mpɔtorɔ ɔyaredɔm"
+      ],
+      "answer": "Nsuyiri kɛse no"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Kwae a ɛrehyew no",
+        "Adaka no",
+        "Nsu abura",
+        "Sikakɔkɔɔ nantwi ba no",
+        "Tur bepɔw no so"
+      ],
+      "answer": "Adaka no"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Onyaa ahenni bi",
+        "Wɔdanee ne nkurɔfo bɛyɛɛ akraman",
+        "Wɔnam anwonwade bi so gyee ne nkurɔfo nkwa",
+        "Ne nkurɔfoɔ guu nsuo mu",
+        "Aprannaa bɔɔ ne nkurɔfo"
+      ],
+      "answer": "Ne nkurɔfoɔ guu nsuo mu"
+    }
+  },
+  "verseRef": "71:25",
+  "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+  "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers. (71:25)"
+}

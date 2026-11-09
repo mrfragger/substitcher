@@ -1,0 +1,61 @@
+{
+  "title": "Akéde Ìkún Omi Ńlá",
+  "intro": "Ẹni yìí dúró gẹ́gẹ́ bí òpó ìfaradà fún ọ̀pọ̀ ọ̀rúndún, ó ń pe àwùjọ aláìgbọràn sí ìmọ́lẹ̀ òtítọ́ nígbà tí ó ń dojúkọ ẹ̀gàn àti ìkọ̀sílẹ̀. Láìka àwọn ìṣòro ńlá àti ìwúwo ìhìn tí ó wà láàárín ìrandíran sí, ìránṣẹ́ yìí dúró ṣinṣin nínú iṣẹ́ wọn títí di ìgbà tí wọ́n fi àṣẹ ìkẹyìn jáde.",
+  "clues": [
+    "Mo lo ọgọ́rùn-ún mẹ́sàn-án ọdún ó lé àádọ́ta (950) tí mo ń pe àwọn ènìyàn mi sí ipa ọ̀nà òdodo, lọ́sàn-án àti lóru, ní ìkọ̀kọ̀ àti ní gbangba.",
+    "Mo kìlọ̀ fún àwọn ènìyàn mi nípa ìyà tó le koko, síbẹ̀ wọ́n fi ìka wọn sí etí wọn, wọ́n sì fi aṣọ wọn bo ara wọn pẹ̀lú ìgbéraga.",
+    "Wọ́n pàṣẹ fún mi láti kọ́ ohun ńlá kan lábẹ́ ojú Olúwa mi tí ó ń ṣọ́ mi, bó tilẹ̀ jẹ́ pé omi kò sí níbẹ̀.",
+    "Bí mo ṣe ń ṣiṣẹ́, àwọn olórí àwọn ènìyàn mi ń kọjá lọ wọ́n sì ń fi mí ṣe yẹ̀yẹ́, ṣùgbọ́n mo sọ fún wọn pé láìpẹ́ àwa ni a ó máa fi wọ́n ṣe ẹlẹ́yà.",
+    "Mo bẹ̀bẹ̀ fún ara àti ẹ̀jẹ̀ mi láti dara pọ̀ mọ́ mi, ṣùgbọ́n wọ́n yàn láti wá ààbò lórí òkè kan, wọ́n gbàgbọ́ pé yóò gbà wọ́n lọ́wọ́ ìṣàn omi tó ń pọ̀ sí i.",
+    "Lẹ́yìn náà ni ọkọ̀ ojú omi mi dúró sí orí Òkè Judi lẹ́yìn tí ilẹ̀ gbé omi rẹ̀ mì, tí òjò sì dáwọ́ dúró."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Húdì",
+        "Wòlíì Sálíh",
+        "Wòlíì Nóà",
+        "Wòlíì Lọ́ọ̀tì",
+        "Wòlíì Ṣúáíbù"
+      ],
+      "answer": "Wòlíì Nóà"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Àwọn Òṣìṣẹ́ Ìyípadà",
+        "Ìkún Omi Ńlá",
+        "Iná Itútù",
+        "Òkun Pínyà",
+        "Ràkúnmí Ọlọ́run"
+      ],
+      "answer": "Ìkún Omi Ńlá"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ọmọ màlúù wúrà náà",
+        "Òṣìṣẹ́ náà",
+        "Aṣọ náà",
+        "Àpótí náà",
+        "Òrùka náà"
+      ],
+      "answer": "Àpótí náà"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Wíwọlé sí Ilẹ̀ Ìlérí",
+        "Rírì nínú Òkun Pupa",
+        "Sinmi lori Oke Judi",
+        "Jíjẹ́ tí a jù sínú ihò kan",
+        "Gíga lọ sí Ọ̀run"
+      ],
+      "answer": "Sinmi lori Oke Judi"
+    }
+  },
+  "verseRef": "11:44",
+  "arabic": "وَقِيلَ يَـٰٓأَرْضُ ٱبْلَعِى مَآءَكِ وَيَـٰسَمَآءُ أَقْلِعِى وَغِيضَ ٱلْمَآءُ وَقُضِىَ ٱلْأَمْرُ وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ ۖ وَقِيلَ بُعْدًۭا لِّلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And it was said, \"O earth, swallow your water, and O sky, withhold [your rain].\" And the water subsided, and the matter was accomplished, and it [i.e., the ship] came to rest on the [mountain of] Jūdiyy. And it was said, \"Away with the wrongdoing people.\" (11:44)"
+}

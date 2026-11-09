@@ -1,0 +1,61 @@
+{
+  "title": "Akasarudzwa Ane Mashoko Akawanda",
+  "intro": "Mumumvuri wegomo rakaburuka mashoko aMwari, kutenda kwevanhu kwakazununguka pasi pekupenya kwegoridhe. Mumwe munhu, ane chipo chekutaura, akamira semutsigiri webasa guru, asi akatarisana nenguva yekuedzwa kukuru. Mutumwa akasarudzwa paakakwira kunzvimbo tsvene, munhu uyu akasara, achikumbira rudzi rusina rugare. Ndiani mweya uyu wakasimba une inzwi rakakwira richipikisa kunamata zvidhori?",
+  "clues": [
+    "Ndakasarudzwa naAllah kuti ndive muporofita, kunyange hazvo nyaya yangu ichitaurwa pamwe chete neimwe.",
+    "Ndakatumirwa kumutongi ane hutsinye, asi basa rangu raiva rekutsigira, kwete kutungamira.",
+    "Ndaive nechipo chekutaura zvakanaka, uye mashoko angu aireva kunyorovesa mwoyo.",
+    "Mumwe wangu paakaenda kumusangano mutsvene, ndakasiiwa kuti nditungamirire vanhu vasina kugadzikana.",
+    "Nekusashivirira kwavo, vakagadzira mufananidzo kubva muzvishongo zvavo, uye ndakavakumbira kuti varambe vakatendeka kuna Allah.",
+    "Shamwari yangu yakadzoka ikandibata, asi ndakatsanangura kuti vanhu vakandikunda uye vakada kundiuraya; ndakanga ndisiri mumwe wevaiti vezvakaipa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Musa",
+        "Muprofita Harun",
+        "Muprofita Isa",
+        "Muprofita Yahya",
+        "Muprofita Zakariya"
+      ],
+      "answer": "Muprofita Harun"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kukandwa mumoto",
+        "Kukandwa mutsime",
+        "Kutarisana nechiitiko chemhuru yegoridhe",
+        "Kuedzwa kwechirwere chakakomba",
+        "Muedzo wekurasikirwa nepfuma nevana"
+      ],
+      "answer": "Kutarisana nechiitiko chemhuru yegoridhe"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Mhuru yegoridhe",
+        "Vashandi",
+        "Areka yeSungano",
+        "Mapiritsi",
+        "Gwenzi riri kupfuta"
+      ],
+      "answer": "Mhuru yegoridhe"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kurangwa zvakanyanya",
+        "Kuregererwa uye kusunungurwa",
+        "Akaitwa mambo",
+        "Kuendeswa kudenga",
+        "Kupiwa rugwaro rutsva"
+      ],
+      "answer": "Kuregererwa uye kusunungurwa"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

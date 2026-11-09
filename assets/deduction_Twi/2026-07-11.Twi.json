@@ -1,0 +1,61 @@
+{
+  "title": "Akwantufo a Wɔte Verdant Field no mu",
+  "intro": "Tete no, na ankorankoro baanu hwɛ nsase a ɛbemmɛn hɔ so. Ná wɔn akwan no ayɛ biako, nanso na wɔn koma de wɔn kɔɔ mmeae ahorow a ɛsono emu biara koraa. Baako nantew ɔkwan tẽẽ no so, bere a ɔfoforo no wayera kɔɔ pow sum no mu. So wubetumi ahu otwa adwuma so ahwɛfo baanu yi ahintasɛm?",
+  "clues": [
+    "Ná mewɔ nnɔbae pii, nnɔbae a ɛyɛ fɛ a ɛmaa wɔn a wɔhwɛ no ani yɛ kusuu.",
+    "Ná me fipamfo wɔ adom kɛse mpo sen me, nanso na m’ani bere wɔn kyɛfa sen m’ankasa de.",
+    "Mehyɛɛ nyansa sɛ yɛnsɛe wɔn nnɔbae koraa, na yɛahyɛ biribiara a ɛhyɛ me tumi ase no mu den.",
+    "Mede ɔsɛe baa m’ankasa m’atwa adwuma nso so, na mesɛee biribiara wɔ me nkwaseasɛm mu.",
+    "Migyinaa hɔ a mintumi nyɛ hwee bere a m’adwuma no wow na m’ahonyade dan mfutuma anadwo biako no.",
+    "Na minni kyɛfa biara wɔ Daankwamma mu, na me tenabea a etwa to no bɛyɛɛ ogya a ɛredɛw amena."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔbarima a ɔpoo owusɔre ne atemmu",
+        "Sodifo a ɔhyɛɛ okuafo trenee so no",
+        "Asase wura a ɔyɛ ɔdefo a onni aseda",
+        "Okuafo a na n’ani bere wɔn yɔnko asase",
+        "Ɔhokafo osisifo a ɔbɔɔ ɔsɛe ho pɔw"
+      ],
+      "answer": "Okuafo a na n’ani bere wɔn yɔnko asase"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Ɔsoro adiyisɛm a wobenya ho sɔhwɛ",
+        "Ahonyade ne boasetɔ ho asɛnnennen",
+        "Sɔhwɛ a ɛne sɛ wɔbɛsɛe ɔtreneeni asetrade",
+        "Ahyɛde a ɛne sɛ wɔbɛkyekyɛ agyapade mu wɔ ɔkwan a ɛfata so",
+        "Apereperedi a wɔde ko tia otirimɔdenfo nhyɛso"
+      ],
+      "answer": "Sɔhwɛ a ɛne sɛ wɔbɛsɛe ɔtreneeni asetrade"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Paradise turo a ɛso yɛ frɔmfrɔm no",
+        "Mfuw abien a ɛbɛn hɔ a nnɔbae wom",
+        "Mmepɔw a wohuu ɔsɛe no",
+        "Makkah kronkronbea kronkron no",
+        "Asase a wɔahyira so asubɔnten ano"
+      ],
+      "answer": "Mfuw abien a ɛbɛn hɔ a nnɔbae wom"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Daa paradise sɛ trenee ho akatua",
+        "Otwa abien no nyinaa sɛe koraa wɔ asetra yi mu",
+        "Nnommumfa ne kyinkyin kosi owu mu",
+        "Bere tiaa mu yiyedi a daa ogya di akyi",
+        "Anwonwakwan so sanba ne akyɛde a ɛboro so mmɔho abien"
+      ],
+      "answer": "Otwa abien no nyinaa sɛe koraa wɔ asetra yi mu"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

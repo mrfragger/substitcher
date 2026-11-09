@@ -1,0 +1,61 @@
+{
+  "title": "Abarinzi b'Ubusitani",
+  "intro": "Mu busitani bwiza cyane, umuryango umwe warasezeranye cyane. Ariko icyemezo cyabo cyageragejwe ubwo ubushake bw'Imana bwagira icyo bukora, buhindura impano yabo igihugu cy'ubutayu.",
+  "clues": [
+    "Twahawe umugisha wo kugira ubusitani bwiza cyane, ariko twatangiye kwishyira hejuru.",
+    "Twafashe gahunda yo gusarura nta gusangira n'abakene.",
+    "Twatangiye urugendo kare mu gitondo, twizeye neza gahunda yacu.",
+    "Ariko tuhageze, twasanze ubusitani bwacu bwarangiritse mu ijoro rimwe.",
+    "Twabonye ikosa ryacu maze dutangira gushinjana amakosa.",
+    "Amaherezo twihannye, ariko isomo twaryigiyemo ryatinze."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Turi bande?",
+      "options": [
+        "Abantu bo mu busitani",
+        "Abantu bo mu buvumo",
+        "Abantu b'inzovu",
+        "Abantu bo muri Thamud",
+        "Abantu bo muri 'Ad"
+      ],
+      "answer": "Abantu bo mu busitani"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Ubusitani bwahindutse ivu",
+        "Umwuzure washenye byose",
+        "Inzara yibasiye igihugu",
+        "Ingabo z'inyoni zitera",
+        "Umuyaga ukomeye warashenye ibiti"
+      ],
+      "answer": "Ubusitani bwahindutse ivu"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Ubusitani",
+        "Ubuvumo",
+        "Ubwato",
+        "Umusozi",
+        "Ingoro"
+      ],
+      "answer": "Ubusitani"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Barihannye ariko batakaza ubusitani bwabo",
+        "Bararimbuwe burundu",
+        "Bahinduwe inkende",
+        "Bakijijwe n'ukwizera",
+        "Babaye abategetsi"
+      ],
+      "answer": "Barihannye ariko batakaza ubusitani bwabo"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

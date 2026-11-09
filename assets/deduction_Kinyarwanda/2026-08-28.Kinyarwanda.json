@@ -1,0 +1,61 @@
+{
+  "title": "Inzitizi mu nzu ya kera",
+  "intro": "Mu mujyi mutagatifu, umuntu ukomeye yari afite uburakari bwinshi ubwo ubutumwa bushya bwatangiraga gukwirakwira. Uyu muntu, izina rye ryaje kuba iry’abatavuga rumwe n’ukuri, yabonye ingaruka ze zisenyuka bitewe n’uburemere bw’ihishurirwa ry’Imana. Ni nde wari roho, amaherezo ye yari yarafunzwe mu musenyi w’urugamba ruzwi cyane?",
+  "clues": [
+    "Nari umutware mu bwoko bwanjye, nari nzi ko mfite ubutunzi n'ububasha mu mujyi wari ufite ahantu ha kera ho gusengera.",
+    "Ubwo umugabo wo mu bwoko bwanjye yatangiraga gutangaza ubutumwa bw'Imana imwe, namusetse n'ibyo yahishuye, mbivuga nk'inkuru z'ibyahise gusa.",
+    "Nahanganye n'uwo mugabo ubwo yasengeraga hafi y'inyubako ndende, nmutera ubwoba bwo guhagarika gusenga kwe ku ngufu nibiba ngombwa.",
+    "Nari mu bayobozi bateguye umugambi wo gucecekesha ukwemera gushya, barwanya abayoboke bako bakoresheje amagambo n'intwaro.",
+    "Nagiye n'ingabo ahantu hitwa Badr, nizeye ko tuzatsinda itsinda rito ry'abizera.",
+    "Ariko kuri urwo rugamba, ubuzima bwanjye bwararangiye, urupfu rwanjye rubera isomo abakomeza kutemera nyuma y'ibimenyetso bisobanutse neza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Abu Jahl",
+        "Abu Sufyan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umayyah ibn Khalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abu Jahl"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Kubuza Intumwa gusenga muri Kaaba",
+        "Kubaka Kaaba",
+        "Kwandika Korowani",
+        "Kuyobora ingabo z'inzovu",
+        "Gucamo ibice ukwezi"
+      ],
+      "answer": "Kubuza Intumwa gusenga muri Kaaba"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Kaaba",
+        "Isanduku y'Umuhanuzi Nuh",
+        "Inkoni y'Intumwa Musa",
+        "Inyana y'izahabu",
+        "Intebe y'Ubwami y'Umwamikazi w'i Sheba"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Yishwe mu ntambara ya Badr",
+        "Yihannye maze aba Umuyisilamu",
+        "Yahungiye muri Abisiniya",
+        "Yapfuye mu mwaka w'inzovu",
+        "Yabaye umusangirangendo w'Intumwa"
+      ],
+      "answer": "Yishwe mu ntambara ya Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

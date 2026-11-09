@@ -1,0 +1,61 @@
+{
+  "title": "Umugambanyi witwikiriye",
+  "intro": "Usanga uri imbere y'umuntu ukomeye wo mu gihe cy'ihishurirwa. Uyu muntu yari azwiho ubwenge bwe, ubutunzi bwe, n'icyubahiro cye mu bantu be. Igihe ibimenyetso bigaragara byazaga, bamenye ubwiza ariko bahitamo kwigomeka aho kuganduka. Ni iki cyatumye uyu muntu ategura umugambi mu mwijima, kandi amaherezo ye yari ayahe?",
+  "clues": [
+    "Nahawe umugisha wo kugira umutungo mwinshi n'ububasha bwinshi, bituma ijambo ryanjye rirushaho gukomera mu materaniro.",
+    "Igihe amagambo y'Imana yavugwaga, sinashoboraga guhakana ubuhanga bwayo bwo kuvuga, ariko ishema ryanjye ntiryanyemereraga kuyoboka.",
+    "Nakusanyije abajyanama banjye, nditandukanya kugira ngo ntekereze uburyo bwo gutesha agaciro ubutumwa.",
+    "Nyuma yo kubitekerezaho cyane, natangaje ko ari 'ubumaji bwahererekanyijwe kuva mu bihe byashize' kugira ngo abantu bahindukire.",
+    "Hanyuma iryo yerekwa ryambwiye mu buryo butaziguye riti: 'Ntererane uwo naremye wenyine.' Nashyizwe mu majwi kubera uburiganya bwanjye.",
+    "Vuba aha, umuriro naburiwe uzamfata ku gahanga, kandi sinzabasha kuwuhungira."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Yagambiriye kwica Intumwa",
+        "Yayoboye igikorwa cyo kwamagana Abayisilamu",
+        "Yakusanyije inama yo kwitirira Koran nk'ubumaji",
+        "Bateguye kwirukana Intumwa muri Makka",
+        "Yanze gusangira ubutunzi bwe n'imfubyi"
+      ],
+      "answer": "Yakusanyije inama yo kwitirira Koran nk'ubumaji"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Ibyahishuwe",
+        "Inama Njyanama",
+        "Ingofero",
+        "Ubutunzi",
+        "Ikaramu"
+      ],
+      "answer": "Ingofero"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Yihannye maze yemera Ubuyisilamu",
+        "Yimukiye muri Abyssinia",
+        "Yafashwe n'indwara yica",
+        "Yapfiriye mu ntambara yarwanaga n'Abayisilamu",
+        "Yaciriweho iteka ryo kujya mu muriro wa Gehinomu"
+      ],
+      "answer": "Yaciriweho iteka ryo kujya mu muriro wa Gehinomu"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

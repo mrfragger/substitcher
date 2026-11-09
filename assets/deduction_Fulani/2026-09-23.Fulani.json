@@ -1,0 +1,61 @@
+{
+  "title": "Noddaango ngo Weather Duuɓi",
+  "intro": "Miijo-ɗee ruuhu dariiɗo tan e siwil en fof, pellital ardude e maɓɓe e majjere e pellital ngal ustataako. Duuɓi teemeɗɗe, nulal ngal saliima, jaleeɗe, ƴaañii—kono darnde ndee meeɗaani dartinde. Haa jooni, hiisa mawɗo arii, ko seeɗa tan naati e kisnugol e sara ooɗoo ruuhu tiiɗɗo. Mbele aɗa waawi anndude ndee limoore e nder Quraan?",
+  "clues": [
+    "Mi neldaama jeertinoowo leñol majjungol e laabi mum.",
+    "Mi noddii ɓe yo ɓe ɗaɓɓu yaafuya, ɓe ngarta e bonanndeeji maɓɓe, kono ɓe ngarta.",
+    "E yamiroore Alla, mi mahii laana mawka, leñol am ina ndaara mi, ina jalee mi.",
+    "Mi noddii Joomiraacfo am haa mi 6eydi—haa jooni O jaabii, ndiyam 6uuccii e asamaan e nder 6uu6ol.",
+    "Mi naati e laana kaa e gooŋɗinɓe nde ndiyam ɗam ummii dow leydi.",
+    "Mi wulli gooto heddiiɓe caggal, miɗo ñaagii ɓe nde ɓe njuulata e dow tulde, kono yamiroore ndee yawtii."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol ko ngonmi?",
+      "options": [
+        "Annabi Nuuhu",
+        "Annabi Ibraahiima",
+        "Annabi Muusaa",
+        "Annabi Huudu",
+        "Annabi Saalihu"
+      ],
+      "answer": "Annabi Nuuhu"
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "Mahde laana mawka e daɗde e ilam winndere",
+        "Wereede e nder yiite ɓuuɓɗo",
+        "Haɓde e jom doole en e maagiyaŋkooɓe mum doole",
+        "Ko liɗɗi mawɗi ɓuuɓnata ɗum",
+        "Seedaade warngo gelooɗi debbo ceniiɗi"
+      ],
+      "answer": "Mahde laana mawka e daɗde e ilam winndere"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Laana mawka leɗɗe dow ndiyam ɓuuɓɗam",
+        "Falnde ceniinde, jogiinde ƴiye kaaƴe ɓooyɗe",
+        "Ngaska luggiɗka ɗo sehilaaɓe ɗaaninoo e nder teeminanɗe",
+        "Redu baleejo mawɗo e nder lugge geec",
+        "Koɗol kaaƴe toowngol e nder ladde"
+      ],
+      "answer": "Laana mawka leɗɗe dow ndiyam ɓuuɓɗam"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "Hisnaama e gooŋɗinɓe wonɓe e laana kaa",
+        "Hisnaama e yiite tawa alaa ko bonnata ɗum e yamiroore Alla",
+        "Ardiima eggugol mawngol e nder laamu doole",
+        "Werlo e liɗɗi ɗii e daande maayo ngo alaa ko woni",
+        "Ardiima yimɓe e bonannde rewrude e maande kaawis"
+      ],
+      "answer": "Hisnaama e gooŋɗinɓe wonɓe e laana kaa"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

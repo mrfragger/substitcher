@@ -1,0 +1,61 @@
+{
+  "title": "Ɔyarefo no",
+  "intro": "Bere tenten a atwam no, wɔ adesamma abakɔsɛm mfiase no, na akra abien gyina wɔn Bɔfo no anim de afɔrebɔde ma. Wogyee biako toom, na wɔannye biako. Nea edii akyi bae no bɛyɛ awerɛhosɛm kɛse a edi kan wɔ anuanom ntam - adeyɛ biako a ɛkyerɛ boasetɔ a wɔde hyɛ wɔn ho so ne adeyɛ biako a ɛkyerɛ aweredi a ɛyɛ yaw. So wubetumi ada onipa ko a meyɛ adi?",
+  "clues": [
+    "Wɔwoo me wɔ nnipa asetra wɔ asase so nna a edi kan koraa mu",
+    "Ná meyɛ nnipa baanu a wodi kan koraa a wɔnantew asase yi so pɛn no ba",
+    "Bere bi mebɔɔ ​​afɔre bi fii me nguankuw no mufo a wɔyɛ papa mu de sɔɔ me Bɔfo no ani",
+    "Wogyee m’afɔrebɔ no fii soro, bere a wɔpoo me nua afɔrebɔde no",
+    "Bere a wɔde owu hunahunaa me no, mepaw sɛ meremma me nsa so nhyɛ me nua no so",
+    "Mebɛyɛɛ onipa a odi kan wɔ adesamma abakɔsɛm nyinaa mu a obi foforo kum me wɔ ɔkwan a ɛnteɛ so"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Habil (Habel), Adam ba",
+        "Qabil (Kain), Adam babarima",
+        "Adam, onipa a odi kan",
+        "Nuh (Noa) .",
+        "Ibrahim (Abraham) ."
+      ],
+      "answer": "Habil (Habel), Adam ba"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Awudisɛm a edi kan wɔ adesamma abakɔsɛm mu",
+        "Nsuyiri kɛse a ɛbaa Nuh",
+        "Fir'awn asraafoɔ no sɛe",
+        "Ismail afɔrebɔ a Ibrahim de bɔɔ no",
+        "Ɔko a wɔko tiaa Jalut (Goliat) ."
+      ],
+      "answer": "Awudisɛm a edi kan wɔ adesamma abakɔsɛm mu"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Oguan bi a wɔde bɔɔ afɔre a ɛsɔ ani",
+        "Nnua adaka kɛse bi",
+        "Poma a ɛdanee ɔwɔ",
+        "Anomaa bi a ɔyɛ hoopoe a okura adehye nkrasɛm",
+        "Ogya amena a ɛredɛw"
+      ],
+      "answer": "Oguan bi a wɔde bɔɔ afɔre a ɛsɔ ani"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Ɔbɛyɛɛ obi a odi kan a wokum no wɔ adesamma abakɔsɛm mu",
+        "Onyaa ne ti didii mu wɔ nsuyiri kɛse bi mu wɔ nnua anwenne bi mu",
+        "Ná ɔte apataa kɛse bi yafunu mu",
+        "Odii jinn, nnipa, ne mframa so",
+        "Ɔkyinkyin mfe aduanan wɔ sare kɛse bi so"
+      ],
+      "answer": "Ɔbɛyɛɛ obi a odi kan a wokum no wɔ adesamma abakɔsɛm mu"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

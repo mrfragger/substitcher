@@ -1,0 +1,61 @@
+{
+  "title": "Eddoboozi Eryasoomooza Obufuzi bw'Ekifaananyi",
+  "intro": "Mu babaka b’Omuyinza w’Ebintu Byonna mwalimu omuweereza omunywevu eyasituka mu ggwanga ery’obukakanyavu okutuusa amazima. Abantu baabwe baali beettanira katonda omuyiiya, nga bava ku Mutonzi w’ebintu byonna ebiriwo. Mu bumalirivu obutasalako, ono ssekinnoomu yabakubira essimu — naye obubaka bwasisinkanibwa n’okwegaana n’okugaanibwa. Yitamu mu bikozesebwa okuzuula omuweereza ono eyeewaddeyo y’ani.",
+  "clues": [
+    "Nasindikibwa ng’omubaka eri abantu abakakanyavu abaali bataayaaya wala okuva ku kkubo eggolokofu.",
+    "Najja okujjukiza eggwanga lyange Oyo eyatonda byonna ebiriwo — asinga abatonzi bonna.",
+    "Abantu bange baali bakyuse ne badda ku kifaananyi eky’obulimba kye baasinzanga era ne bakoowoola emisana n’ekiro.",
+    "Nnabasoomooza n’obuvumu, nga mmubuuza lwaki bandisinza katonda omuyiiya ne basuula Mukama waabwe ow’amazima.",
+    "Banneegaana, ne bagaana okuwuliriza, ne banywerera ku bulimba bwabwe — naye Mukama wange yankuuma.",
+    "Nze Ilyas — era emirembe gyaweebwa ku nze, era nabalibwa mu baweereza abakkiriza ab’Omusaasizi ennyo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Nabbi Ilyas",
+        "Nabbi Idris",
+        "Nabbi Alyasa",
+        "Nabbi Dhul-Kifl",
+        "Nabbi Nuh"
+      ],
+      "answer": "Nabbi Ilyas"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okuyita abantu okuva mu kusinza Baali",
+        "Okwolekera omutyobooli eyeeyita katonda",
+        "Okulabula abantu ku mataba agagenda okubaawo",
+        "Okusuulibwa mu muliro omunene ogwaka",
+        "Okukulembera okuva mu nsi y’obuddu"
+      ],
+      "answer": "Okuyita abantu okuva mu kusinza Baali"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Ekifaananyi ekyatuumibwa Baali",
+        "Eryato eddene eryazimbibwa mu mbaawo ennywevu",
+        "Omuggo ogwayawulamu ennyanja ennene",
+        "Ekyambalo ekitukuvu ekijjudde omusaayi",
+        "Ekisaka ekyaka ku lusozi olutukuvu"
+      ],
+      "answer": "Ekifaananyi ekyatuumibwa Baali"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yawa emirembe era yabalibwa mu baddu ba Allah abalonde",
+        "Yakulemberwa mu jjana ate abalala bonna ne bazikirizibwa",
+        "Yanunuddwa okuva mu muliro omunene ogwafuuka omunnyogovu era nga tegulina bulabe",
+        "Okuweebwa obufuzi ku majiini, obuntu, n’empewo",
+        "Omubiri gukuumibwa ng’akabonero akawangaala okumala emyaka"
+      ],
+      "answer": "Yawa emirembe era yabalibwa mu baddu ba Allah abalonde"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

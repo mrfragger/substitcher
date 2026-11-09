@@ -1,0 +1,61 @@
+{
+  "title": "Àwọn Ohùn Ìfọkànsìn Lẹ́gbẹ̀ẹ́ Wòlíì kan",
+  "intro": "Ní ilẹ̀ jíjìnnà kan, ìránṣẹ́ ọlọ́lá kan dojúkọ ìkọ̀sílẹ̀ líle láti ọ̀dọ̀ àwọn agbára ìṣàkóso ìgbà náà. Síbẹ̀ àwùjọ àwọn ẹ̀mí díẹ̀ tí wọ́n jẹ́ olùfọkànsìn dúró lẹ́gbẹ̀ẹ́ ìránṣẹ́ Allah yìí, wọ́n ń fẹ́ láti dáhùn sí ìpè àtọ̀runwá. Ìdánilójú wọn tí kò lè jáfara yóò pín orílẹ̀-èdè alágbára kan níyà, yóò sì borí àwọn agbára àìnígbàgbọ́ nígbẹ̀yìn gbẹ́yín.",
+  "clues": [
+    "Àwùjọ kékeré kan tí a fi ọkàn balẹ̀ ni wá, tí a sì sopọ̀ mọ́ ìgbàgbọ́ àti ète.",
+    "A dúró lẹ́gbẹ̀ẹ́ ìránṣẹ́ ọlọ́lá kan tí àwọn aláṣẹ alágbára ilẹ̀ wọn kọ̀ sílẹ̀.",
+    "Nígbà tí ìránṣẹ́ yìí béèrè pé, ‘Ta ni àwọn olùrànlọ́wọ́ mi ní ọ̀nà Allah?’ a dáhùn láìsí iyèméjì.",
+    "A bẹ ojiṣẹ yii lati wa ase lati ọrun lati mu idaniloju wa si ọkan wa.",
+    "Láàrín àwọn ènìyàn ìgbà náà, àwọn kan gbàgbọ́ nípasẹ̀ ìhìn wa, àwọn mìíràn sì kọ̀ láti ṣe bẹ́ẹ̀, ṣùgbọ́n Allah fún àwọn onígbàgbọ́ lókun.",
+    "Àwa ni Hawwariyyun — àwọn ọmọ-ẹ̀yìn ìfọkànsìn Isa, tí a ti ṣẹ́gun nípasẹ̀ ìtìlẹ́yìn Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Awọn Hawwariyyun (Awọn ọmọ-ẹhin Isa)",
+        "Àwọn Alábàákẹ́gbẹ́ inú ihò náà",
+        "Ìyàwó Fáráò tó gbàgbọ́",
+        "Ìdílé Ọba ti Saba",
+        "Àwọn Onídán tí wọ́n gbàgbọ́ nínú ààfin Fáráò"
+      ],
+      "answer": "Awọn Hawwariyyun (Awọn ọmọ-ẹhin Isa)"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ṣíṣe ìlérí ìdúróṣinṣin gẹ́gẹ́ bí olùrànlọ́wọ́ iṣẹ́ wòlíì kan",
+        "Láti pa ara mọ́ nínú oorun nínú ihò àpáta tí a ti dí",
+        "Jíjẹ́ ẹni tí a jù sínú ihò iná nítorí ìgbàgbọ́",
+        "Bí a ṣe ń yege ìtàn ìparun nígbà tí a wà ní ọmọ ọwọ́",
+        "Ṣíṣe àkíyèsí bí àwọn òkun ṣe pínyà lábẹ́ àṣẹ wòlíì kan"
+      ],
+      "answer": "Ṣíṣe ìlérí ìdúróṣinṣin gẹ́gẹ́ bí olùrànlọ́wọ́ iṣẹ́ wòlíì kan"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Tábìlì tí a tẹ́ sórí tábìlì pẹ̀lú oúnjẹ ọ̀run láti ọ̀run",
+        "Ọkọ̀ ojú omi tí Ọlọ́run kọ́ tí ó dúró lórí òkè ńlá kan",
+        "Ọ̀pá kan tí ó jẹ agbára àwọn apànìyàn run",
+        "Àpáta kan tí ààbò Ọlọ́run dí pa",
+        "Abo ràkúnmí kan tó jáde láti inú àpáta líle"
+      ],
+      "answer": "Tábìlì tí a tẹ́ sórí tábìlì pẹ̀lú oúnjẹ ọ̀run láti ọ̀run"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A fi wọ́n ṣe olórí lórí àwọn tí wọ́n kọ̀ ìhìn iṣẹ́ náà",
+        "O sùn ni alaafia fun ọdunrun ọdunrun",
+        "A gbà wá là kúrò nínú omi ìkún omi ńlá kan",
+        "Ó rí bí ọba oníwà ipá kan àti àwọn ọmọ ogun rẹ̀ ṣe rì sínú omi",
+        "Wúrà àti ìṣúra tí a kò lè sọ iye wọn jọ, ṣùgbọ́n ìgbéraga pa wọ́n run"
+      ],
+      "answer": "A fi wọ́n ṣe olórí lórí àwọn tí wọ́n kọ̀ ìhìn iṣẹ́ náà"
+    }
+  },
+  "verseRef": "61:14",
+  "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوٓا۟ أَنصَارَ ٱللَّهِ كَمَا قَالَ عِيسَى ٱبْنُ مَرْيَمَ لِلْحَوَارِيِّـۧنَ مَنْ أَنصَارِىٓ إِلَى ٱللَّهِ ۖ قَالَ ٱلْحَوَارِيُّونَ نَحْنُ أَنصَارُ ٱللَّهِ ۖ فَـَٔامَنَت طَّآئِفَةٌۭ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ وَكَفَرَت طَّآئِفَةٌۭ ۖ فَأَيَّدْنَا ٱلَّذِينَ ءَامَنُوا۟ عَلَىٰ عَدُوِّهِمْ فَأَصْبَحُوا۟ ظَـٰهِرِينَ",
+  "verse": "O you who have believed, be supporters of Allāh, as when Jesus, the son of Mary, said to the disciples, \"Who are my supporters for Allāh?\" The disciples said, \"We are supporters of Allāh.\" And a faction of the Children of Israel believed and a faction disbelieved. So We supported those who believed against their enemy, and they became dominant. (61:14)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Diidmada Dhexdeeda Baahsanaanta",
+  "intro": "Waxaad isku aragtaa dad suuqyadooda ganacsigu ka buuxo, haddana miisaankoodu si aan daacad ahayn u daadanayo. Rasuul ayaa u yimid isagoo digniino cad wata, laakiin way qoslaan oo way jeedsadaan, iyagoo kalsooni ku qaba barwaaqadooda. Cirku wuxuu bilaabay inuu madoobaado, laakiin waxay u arkaan inay tahay nimco roob. Waa kuma dadkan?",
+  "clues": [
+    "Waxaan ku barbaarnay dhulal ganacsi iyo barwaaqo ah, haddana qalbiyadeennu way daaleen.",
+    "Rasuul baa noo yimid isagoo wata calaamado ka yimid Rabbigeen, laakiin waan ku jeesjeesnay digniintiisa.",
+    "Waxaa naloo yaqaannay ganacsigeenna, laakiin waxaan bixinnay qiyaas kooban oo dadka waan khiyaameynay.",
+    "Waxaan ku noolayn geedo cufan iyo dhir cagaaran dhexdooda, laakiin ducadeenna waxaan u qaadannay mid aan qiimo lahayn.",
+    "Markii daruur madow soo dhawaatay, waan ku faraxnay, annagoo u maleynayna inay roob ku soo dayn doonto dhulkeenna oo qalalan.",
+    "Taa beddelkeeda, daruurtaasi waxay soo saartay ciqaab kulul, waxaana na qabsaday cadaabkii maalinta hadhka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Yaan nahay?",
+      "options": [
+        "Asxaab al-Aykah (Saxaabada Kaynta)",
+        "Reer Thamuud",
+        "Dadka 'Ad'",
+        "Dadka reer Luut",
+        "Dadkii Nuux"
+      ],
+      "answer": "Asxaab al-Aykah (Saxaabada Kaynta)"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Way diideen rasuulkoodii oo way khiyaameeyeen ganacsigooda",
+        "Waxay caabudeen weyl dahab ah waana la marin habaabiyay",
+        "Waxay ku dhaqmeen galmo waxayna weerareen dadka safarka ah",
+        "Waxay dhiseen munaarado dhaadheer oo waxay ku caasiyeen Ilaah",
+        "Waxay diideen inay biyaha wadaagaan waxayna waxyeello u geysteen hashii"
+      ],
+      "answer": "Way diideen rasuulkoodii oo way khiyaameeyeen ganacsigooda"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Kayn ama kayn cufan",
+        "Buur loo xardhay guryo",
+        "Magaalo badda ku teedsan",
+        "Dooxo lamadegaan ah oo leh ceelal",
+        "Beer bacrin ah oo leh miro badan"
+      ],
+      "answer": "Kayn ama kayn cufan"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Waxaa burburiyay daruur dab ah oo hooska ah",
+        "Daad weyn ayaa qarqiyay",
+        "Dhulgariir ayaa liqay",
+        "Waxaa ku dhacday dabayl xoog leh",
+        "Dhagax isu beddelay"
+      ],
+      "answer": "Waxaa burburiyay daruur dab ah oo hooska ah"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

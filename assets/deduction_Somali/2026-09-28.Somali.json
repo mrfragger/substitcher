@@ -1,0 +1,61 @@
+{
+  "title": "Kow iyo Toban Xiddigood oo U sujuuday",
+  "intro": "Qof ka mid ah Qur'aanka ayaa la siiyay aragti qoto dheer carruurnimadiisii ​​- riyo ah meydadka cirka oo u sujuudaya si xushmad leh. Sannado ayaa dhex mari lahaa khiyaamo, kala tagga, eedayn been ah, iyo xabsi ka hor inta uusan aragtidan rumowdo. Waa kuma naftan adkeysiga leh oo sheekadeedu ku jirto cutubka ugu dheer Qur'aanka?",
+  "clues": [
+    "Mar waxaan ahaa qof yar, waxaana ku barakeeyey riyo cajiib ah oo xitaa aabahay uu iiga digay inaan qariyo.",
+    "Walaalahayga, oo ay indha la'yihiin xaasidnimo, ayaa shirqool igu sameeyay oo igu tuuray ceel qoto dheer oo mugdi ah.",
+    "Waxaa la ii qaaday dhul fog waxaana la ii iibiyay guriga sarkaal sharaf leh, halkaas oo aan ka helay raallinimo oo aan mas'uul ka noqday.",
+    "Eedayn been ah ayaa keentay xariggaygii aan xaqdarada ku xidhnaa, haddana meeshaas mugdiga ah waxaan ka helay nasasho duco iyo sujuud Alle.",
+    "Ilaahay wuxuu igu barakeeyay awoodda naadirka ah ee aan ku fasiro riyooyinka, taasoo ugu dambeyntii i hor keentay taliyaha dalka oo igu kordhisay boos kalsooni sare leh.",
+    "Ka dib sannado badan oo aan kala maqnaa, waxaan dib ula midoobay qoyskaygii aan jeclaa, riyadeydii carruurnimadayda ee ahayd kow iyo toban xiddigood, qorraxda, iyo dayaxa oo ii sujuuday ugu dambeyntii way rumowday."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Yuusuf",
+        "Nabi Saalix",
+        "Nabi Ilyaas",
+        "Tubba', taliyihii hore ee Ximyar",
+        "Adhijir hooseeya oo ka yimid buuraha Falastiin"
+      ],
+      "answer": "Nabi Yuusuf"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Walaalo xaasid ah oo ceel qoto dheer oo mugdi ah ku tuuraya",
+        "Waxaa liqay xayawaan weyn oo ka mid ah badaha qotoda dheer.",
+        "In lagu tuuro dab ololaya oo ay ku tuuraan kuwa caabuda cibaadada",
+        "Inay ku dhacdo dabaysha rabbaaniga ah ee halaagga",
+        "Ka badbaaday daad weyn oo daboolay dhulka oo dhan"
+      ],
+      "answer": "Walaalo xaasid ah oo ceel qoto dheer oo mugdi ah lagu tuuray"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Ceel qalalan oo ku yaal lamadegaanka halkaas oo laygu dayacay",
+        "Kalluun weyn oo badaha qotoda dheer ah",
+        "Markab weyn oo lagu dhisay amar rabbaani ah",
+        "Munaar loo dhisay si ay u gaarto cirka",
+        "Dab barakeysan oo diiday inuu gubo"
+      ],
+      "answer": "Ceel qalalan oo ku yaal lamadegaanka halkaas oo laygu dayacay"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Waxaan dib ula midoobay qoyska ka dib sannado kala maqnaa, waxaana noqday wasiir la aamini karo",
+        "Dadkeyga oo si weyn uga soo qaxay badda kala qaybsan",
+        "Umaddayda uga digay masiibo soo socota oo baabi'inaysa",
+        "Waxay dhistay guri barakeysan oo noqday meel quduus ah oo loogu talagalay dhammaan dadka",
+        "Saddex maalmood ka dib si nabad ah ayuu uga soo baxay caloosha makhluuqa weyn"
+      ],
+      "answer": "Waxaan dib ula midoobay qoyska ka dib sannado kala maqnaa, waxaana noqday wasiir la aamini karo"
+    }
+  },
+  "verseRef": "12:21",
+  "arabic": "وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+  "verse": "And the one from Egypt who bought him said to his wife, \"Make his residence comfortable. Perhaps he will benefit us, or we will adopt him as a son.\" And thus, We established Joseph in the land that We might teach him the interpretation of events [i.e., dreams]. And Allāh is predominant over His affair, but most of the people do not know. (12:21)"
+}

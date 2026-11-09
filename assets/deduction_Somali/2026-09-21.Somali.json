@@ -1,0 +1,61 @@
+{
+  "title": "Oohinta Qotoda Dheer",
+  "intro": "Addoonkii Raxmaanka ahaa wuu ka daalay qaran madax adag wuxuuna baxay ka hor inta aan la siin ogolaansho. Qofkani wuxuu ku dhammaaday meel aan aadanuhu waligiis joogin, halkaas oo wicitaanka Ilaahnimadu uu si la yaab leh uga dhawaaqo lakab mugdi ah. Soo ifbaxaya daciifnimo laakiin isbeddelay, naftani waxay noqotay cashar aan waqti lahayn oo ku saabsan dulqaadka, toobad keenka daacadda ah, iyo naxariista aan xadka lahayn ee Abuuraha. Ma furi kartaa sirta?",
+  "clues": [
+    "Waxaa la ii soo diray rasuul ahaan dadkayga, laakiin waxay dhaafeen xuduud kasta iyagoo gaaloobaya oo diiday inay dhegaystaan.",
+    "Waan ka xanaaqay diidmadooda, waxaana ka cararay dadkaygii ka hor inta uusan amarka Alle imaan.",
+    "Waxaan raacay markab aan qaadi karin, waxaana u qoondeynay inaan ogaano cidda laga tuuri doono markabka.",
+    "Waxaa laygu tuuray badda kacsan, kalluun weyn ayaana liqay.",
+    "Saddex lakab oo mugdi ah - caloosha, badda qoto dheer, iyo dhulka hoose - ayaan u yeedhay Rabbigeyga anigoo toobad keenaya.",
+    "Waxaan ka soo baxay kalluunka xeebta furan, anigoo daciif ah oo daalan, geed gourd ahna wuu igu soo baxay. Dadkaygu, boqol kun ama ka badan, ugu dambeyntii way rumaysteen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Yuunis",
+        "Nabi Ayuub",
+        "Nabi Yuusuf",
+        "Nabi Muuse",
+        "Nabi Sulaymaan"
+      ],
+      "answer": "Nabi Yuunis"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Waxaa liqay kalluun weyn",
+        "Dab lagu tuuray dab ololaya",
+        "Ku xayiran salka ceel",
+        "Daad weyn ayaa ku dhuftay",
+        "Boqor si aan xaq ahayn u xidhay"
+      ],
+      "answer": "Waxaa liqay kalluun weyn"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Caloosha kalluunka weyn",
+        "Dooxada barakeysan ee u dhow Kacbada",
+        "Markab buur dul saaran",
+        "Ul abeeso noqotay",
+        "Carshi weyn oo aan la barbar dhigi karin"
+      ],
+      "answer": "Caloosha kalluunka weyn"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Dadkiisii, boqol kun ama ka badan, ayaa rumaystay",
+        "Kor loogu qaaday samada isagoo nool",
+        "Wuxuu noqday taliye boqortooyo aan la tartami karin",
+        "Waxaa burburiyay qaylo cirka ka timid oo daloolisay",
+        "Dhulgariir ba'an oo ku dhuftay dhulgariir aad u ba'an"
+      ],
+      "answer": "Dadkiisii, boqol kun ama ka badan, ayaa rumaystay"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

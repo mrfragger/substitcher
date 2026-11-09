@@ -1,0 +1,61 @@
+{
+  "title": "Uddural taamineh tan magaala",
+  "intro": "yallih racmattah aydaadih addat, ayyuntay maynaqi ximmo kobox cediyyih uddur sugte. Atu ken xaagu tablem faxxa—gersi agattiinah qadar keenik baxsa le gurral, toobokeeh, tooboke kee qanxaffe le xaagu.",
+  "clues": [
+    "Nanu farmoyti akak ruuben ummattak sugneeh, kay seecok wadir nek wadir nek wadirih gacneh sugne.",
+    "yamaate digaalah astooti qaddowte wak, nanu kay maabitinah numma cedneh.",
+    "Nanu ninni Rabbih fan nuduurem baguuk toobitteeh, ni imaan oggolimteh.",
+    "Nel heen digaala ni imaan sabbatah ugutte.",
+    "Ni aydaadi digaala yubleenik geera yeemeneh yan magaaloolih fanak baxsale gurral tescessimeh tan.",
+    "Nanu kullumti yanxuqeh yan nabiyyih ummattak sugne, uxih finqak catneh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Anu miyyaay?",
+      "options": [
+        "Yuunus ummatta",
+        "Nuuh ummatta",
+        "Huud ummatta",
+        "Salih ummatta",
+        "Luut ummatta"
+      ],
+      "answer": "Yuunus ummatta"
+    },
+    "trial": {
+      "label": "Gibbatu/Tekkooka",
+      "options": [
+        "finqa le weeqi",
+        "Kaxxa silayti caacay",
+        "xayyowteh sugte qaybi digaala",
+        "Baaxo kenni yanxuqe",
+        "Xaahi rob"
+      ],
+      "answer": "xayyowteh sugte qaybi digaala"
+    },
+    "location": {
+      "label": "Lafa le liyyitte",
+      "options": [
+        "Doonik",
+        "is-gaali",
+        "Bool alfi yakke magaala",
+        "Muusa taama abeynit",
+        "Qarun kobxiseyna"
+      ],
+      "answer": "Bool alfi yakke magaala"
+    },
+    "outcome": {
+      "label": "Xalu",
+      "options": [
+        "Oson inki gabuuk finqisen",
+        "Oson waktih rufto yomcowweh sugen",
+        "oson damaaqe fanah milaagimeenih yenen",
+        "Oson leet culeenih sugen",
+        "Oson baaxol yanxuqen."
+      ],
+      "answer": "Oson waktih rufto yomcowweh sugen"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

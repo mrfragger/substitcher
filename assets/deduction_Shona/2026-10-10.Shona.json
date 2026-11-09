@@ -1,0 +1,61 @@
+{
+  "title": "Musikana Ane Nhenga",
+  "intro": "Mukati meumambo hwaitongwa nemunhu akapihwa simba pamusoro pemhepo, zvisikwa zvisingaonekwe, nezvisikwa zvekudenga, nhengo imwe diki uye inokurumidza yakanyangarika kubva pachigaro - yozodzoka nezvakazarurwa zvaizochinja mugumo werudzi rwuri kure. Mupi wezano uyu ane maziso akapinza akaunza chokwadi pachena uko kusaziva kwakanga kwadzika midzi. Ndiri ani?",
+  "clues": [
+    "Ndakashanda mudare umo vanhu, zvisikwa zvisingaonekwi, nezvisikwa zvekudenga zvaipindura mutongi mumwe chete akachenjera aitonga mhepo chaiyo.",
+    "Ndakanga ndisipo pabasa rangu kwenguva yakati, uye hasha dzemutongi dzakavimbiswa kana ndikatadza kupa chikonzero chinogutsa.",
+    "Ndiri chisikwa chidiki chinobhururuka, chinozivikanwa nekuona zvinhu nemaziso akajeka, uye rudzi rwangu rwakakudzwa nekupiwa mazita akananga mumapeji ezvakazarurwa.",
+    "Pandakadzoka, ndakauya nenhau dzenyika iri kure uko vanhu vakakotama vachitarira zuva, vasingaoni Uyo akasika denga nenyika.",
+    "Ndakawana mukadzi achitonga umambo hukuru, akagara pachigaro cheumambo chakanaka kwazvo, asina kumbobvira aziva chokwadi.",
+    "Ndini ndakawana umambo hweSaba' ndikatakura tsamba yekukoka kubva kumuporofita-mambo akapihwa simba pamusoro pemhepo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Hudhud (Hudhud)",
+        "Svosve rinobva kuMupata waSulaiman",
+        "Asif ibn Barkhiya",
+        "Ifrit the Jinn",
+        "Ngirozi yeChigaro choUmambo"
+      ],
+      "answer": "Hudhud (Hudhud)"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Rwendo rwekuenda kuHumambo hweSaba' (Sheba)",
+        "Kusangana nevaroyi vaFarao",
+        "Mafashamo eMuporofita Nuh",
+        "Kuparadzwa kwevanhu ve'Ad",
+        "Kupatsanurwa kweGungwa Dzvuku"
+      ],
+      "answer": "Rwendo rwekuenda kuHumambo hweSaba' (Sheba)"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Nyika yeSaba' (Sheba)",
+        "Gomo reSinai",
+        "Areka yeMuporofita Nuh",
+        "Bako raAshab al-Kahf",
+        "Imba yaFarao"
+      ],
+      "answer": "Nyika yeSaba' (Sheba)"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Bilqis akazviisa pasi pedare raSulaiman",
+        "Farao neuto rake vakanyura mugungwa",
+        "Vanhu ve'Ad vakaparadzwa nemhepo ine simba",
+        "Varoyi vaFarao vaitenda muna Muporofita Musa",
+        "Mafashamo makuru akaparadza vasingatendi"
+      ],
+      "answer": "Bilqis akazviisa pasi pedare raSulaiman"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

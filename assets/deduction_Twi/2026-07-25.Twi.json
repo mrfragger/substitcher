@@ -1,0 +1,61 @@
+{
+  "title": "Turo Abien no Mufo",
+  "intro": "Wɔ asase bi a nhyira pii sen so so no, bere bi na ɔmanfo bi ani gye turo abien a ɛyɛ nwonwa a ɛdɔɔso no ho. Na wɔn abrabɔ yɛ ɔsoro adom ho adanse, nanso wɔn asɛm no danee bere a aseda so tewee, na ɛde nsakrae a ɛbɛyɛ sɛnkyerɛnne a ɛtra hɔ daa ama wɔn a wosusuw nneɛma ho nyinaa bae.",
+  "clues": [
+    "Na yɛyɛ nkurɔfo a wɔahyira yɛn asase a ɛyɛ mmerɛw na ɛdɔɔso.",
+    "Yɛn Awurade maa yɛn turo akɛseɛ mmienu a ɛyɛ frɔmfrɔm na ɛsow aba wɔ afã biara.",
+    "Wɔhyɛɛ yɛn sɛ yɛnda ase, nanso yɛpaw anisɔ a yenni na yɛdan yɛn ho.",
+    "Atare kɛse bi siw nsu a ɛmaa yɛn asase no nkwa no ano.",
+    "Bere a yɛkɔɔ so yɛɛ yɛn bɔne no, abura no paee na nsuyiri no faa mu.",
+    "Wɔde nnuaba a ɛyɛ nwononwono, tamarisk, ne lote nnua kakraa bi besii yɛn turo a bere bi na ɛyɛ frɔmfrɔm no ananmu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Nnipa a Wɔte Saba",
+        "Nnipa a wɔwɔ Thamud",
+        "Nnipa a Wɔte Madyan",
+        "Ɔbodan no mu Ahokafo",
+        "Nnipa a Wɔyɛ Asono"
+      ],
+      "answer": "Nnipa a Wɔte Saba"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Mframa a ano yɛ den bɔɔ anadwo ason",
+        "Abo a ɛtɔ fi soro",
+        "Nsuyiri a ɛsɛe ade a efi abura bi a ɛrepae mu",
+        "Nteɛteɛm kɛse bi a efi wim",
+        "Nsu a ɛremene wɔ po mu"
+      ],
+      "answer": "Nsuyiri a ɛsɛe ade a efi abura bi a ɛrepae mu"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Ma'rib abura kɛseɛ no",
+        "Wadi al-Qura bon no mu",
+        "Iram turo no",
+        "Zamzam abura no",
+        "Sinai bepɔw so"
+      ],
+      "answer": "Ma'rib abura kɛseɛ no"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wɔde nnuaba a ɛyɛ nwononwono ne nnua a ɛso yɛ hare sii yɛn turo no ananmu",
+        "Asasewosow bi menee yɛn",
+        "Wɔdanee yɛn yɛɛ akraman ne mprako",
+        "Nsuyiri kɛse bi memee yɛn",
+        "Abo a ɛtɔe sɛee yɛn"
+      ],
+      "answer": "Wɔde nnuaba a ɛyɛ nwononwono ne nnua a ɛso yɛ hare sii yɛn turo no ananmu"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

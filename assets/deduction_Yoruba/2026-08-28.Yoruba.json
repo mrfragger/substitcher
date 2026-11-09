@@ -1,0 +1,61 @@
+{
+  "title": "Ìdènà ní Ilé Àtijọ́",
+  "intro": "Ní ìlú mímọ́ náà, ẹni alágbára kan gbóná pẹ̀lú ìbínú bí ìhìn tuntun kan ṣe bẹ̀rẹ̀ sí í tàn kálẹ̀. Ẹni yìí, tí orúkọ rẹ̀ di ohun tí a mọ̀ sí àtakò sí òtítọ́, rí i tí agbára wọn ń wó lulẹ̀ lábẹ́ ìṣípayá àtọ̀runwá. Ta ni ẹ̀mí yìí, tí a fi ìkángun rẹ̀ dì mọ́ inú iyanrìn ojú ogun olókìkí kan?",
+  "clues": [
+    "Mo jẹ́ olórí láàrin àwọn ènìyàn mi, mo mọ̀ fún ọrọ̀ àti agbára mi ní ìlú kan tí ó ní ibi ìpamọ́ ìgbàanì.",
+    "Nígbà tí ọkùnrin kan láti ẹ̀yà mi bẹ̀rẹ̀ sí í kéde ìhìn Ọlọ́run kan ṣoṣo, mo fi í ṣe ẹlẹ́yà àti àwọn ìṣípayá rẹ̀, mo pè wọ́n ní ìtàn àtijọ́ lásán.",
+    "Mo dojúkọ ọkùnrin náà bí ó ti ń gbàdúrà nítòsí ilé mímọ́ náà, mo sì ń halẹ̀ mọ́ ọn pé òun yóò dá ìjọsìn rẹ̀ dúró pẹ̀lú agbára bí ó bá pọndandan.",
+    "Mo wà lára ​​àwọn olórí tí wọ́n gbìmọ̀ láti pa ẹ̀sìn tuntun náà lẹ́nu mọ́, tí wọ́n ń fi ọ̀rọ̀ àti ohun ìjà tako àwọn ọmọlẹ́yìn rẹ̀.",
+    "Mo rìn pẹ̀lú ẹgbẹ́ ọmọ ogun kan lọ sí ibì kan tí a ń pè ní Badr, pẹ̀lú ìgbẹ́kẹ̀lé pé a ó pa àwọn ọmọ ẹgbẹ́ kékeré tí wọ́n jẹ́ onígbàgbọ́ run.",
+    "Ṣùgbọ́n ní ojú ogun yẹn, ìgbésí ayé mi parí, ikú mi sì di ẹ̀kọ́ fún àwọn tí wọ́n ń tẹ̀síwájú nínú àìnígbàgbọ́ lẹ́yìn àwọn àmì tí ó hàn gbangba."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Abu Jahl",
+        "Abu Sufyan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umayyah ibn Khalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abu Jahl"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Dídínà fún Wòlíì láti gbàdúrà ní Kaaba",
+        "Kíkọ́ Kaaba",
+        "Kíkọ Al-Quran",
+        "Ṣíṣáájú ẹgbẹ́ ọmọ ogun erin",
+        "Pípín òṣùpá"
+      ],
+      "answer": "Dídínà fún Wòlíì láti gbàdúrà ní Kaaba"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Kaaba",
+        "Ọkọ̀ Àpótí Wòlíì Nóà",
+        "Ọ̀pá Wòlíì Musa",
+        "Ọmọ màlúù wúrà náà",
+        "Ìtẹ́ Ayaba Ṣeba"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A pa á ní ogun Badr",
+        "Ó ronúpìwàdà, ó sì di Mùsùlùmí",
+        "Sá lọ sí Abyssinia",
+        "Kú ní ọdún erin",
+        "Ó di alábàákẹ́gbẹ́ Wòlíì"
+      ],
+      "answer": "A pa á ní ogun Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Mmɔborohunu ne Tumi Asomafoɔ",
+  "intro": "Fa no sɛ awiabere bi a ɛhɔ yɛ dinn a akwantufo a wonnim wɔn a wɔbae no twaa mu. Wɔn honam ani hwɛbea yɛ nea ɛyɛ mmerɛw, nanso wɔn atirimpɔw yɛ biribiara gye sɛ. Wɔkura ɔsoro nkrasɛm a ɛbɛsakra aman abien kwan, na ɛde serew aba ofie a ɛso yɛ obonin mu na ɛde ehu aba kurow a bɔne wom mu. Henanom ne ahɔho a wɔyɛ ahintasɛm yi?",
+  "clues": [
+    "Wɔsomaa yɛn kɔɔ Allah akoa bi a ɔde ne ho ama, a wonim no sɛ ɔyɛ ahɔhoyɛ a enni ano.",
+    "Yɛde ahɔho a yɛyɛ yɛn ho sɛ yeduu hɔ, na nanso yɛn ahɔhoyɛfo no tee biribi a ɛyɛ wiase foforo nka wɔ yɛn ba a yɛaba no ho.",
+    "Yɛde nsɛm a ɛmaa ɔbea panyin bi serewee a onnye nni, na ɔde ahodwiriw bɔɔ n’ankasa anim bae.",
+    "Wɔde adwuma hyɛɛ yɛn nsa sɛ yɛmmɔ abusua trenee ho ban bere a yɛde ɔsɛe retɔ kurow bi a adifudepɛ ahyɛ mu ma so no.",
+    "Yɛpowee sɛ yebedi aduan a wɔde maa yɛn no mu kyɛfa, na ɛno maa yɛn ahɔhoyɛfo no adwenem naayɛ yɛɛ kɛse.",
+    "Yɛdaa yɛn su ankasa adi ansa na yɛrekɔ nko ara, na yɛkaa sɛ, 'Ampa ara, yɛyɛ w'Awurade asomafo.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Yɛn Yɛ Henanom?",
+      "options": [
+        "Abraham Ahɔho",
+        "Yesu Asuafo no",
+        "Ɔbodan no mu Ahokafo",
+        "Abraha Asraafoɔ",
+        "Ya-Sin Asomafoɔ no"
+      ],
+      "answer": "Abraham Ahɔho"
+    },
+    "trial": {
+      "label": "Yɛn Asɛmpatrɛw",
+      "options": [
+        "Sɛ ɔbɛsɔ Abraham gyidi ahwɛ wɔ ne ba no ho",
+        "Sɛ ɔde kyerɛwsɛm no bɛkɔ akɔma Abraham",
+        "Sɛ wɔbɛbɔ Isak awo ne Lot nkurɔfo sɛe ho amanneɛ",
+        "Sɛ ɔbɛkyerɛ Abraham kwan akɔ Kaaba",
+        "Sɛnea ɛbɛyɛ a obegye Abraham afi ogya no mu"
+      ],
+      "answer": "Sɛ wɔbɛbɔ Isak awo ne Lot nkurɔfo sɛe ho amanneɛ"
+    },
+    "location": {
+      "label": "Beae a Wɔda ne ho adi",
+      "options": [
+        "Wɔ Misraim asase so",
+        "Wɔ Ur kurow mu",
+        "Wɔ Abraham fie",
+        "Wɔ Eden turo mu",
+        "Wɔ Zamzam abura no ho"
+      ],
+      "answer": "Wɔ Abraham fie"
+    },
+    "outcome": {
+      "label": "Nea Efi Mu Ba",
+      "options": [
+        "Abraham bɛyɛɛ ɔhene",
+        "Abraham na ɔkyekyeree Kaaba",
+        "Sara woo Isak na wɔsɛee Lot nkurɔfo",
+        "Abraham tu kɔɔ Palestina",
+        "Wogyee Abraham nkurɔfo fii nsuyiri kɛse bi mu"
+      ],
+      "answer": "Sara woo Isak na wɔsɛee Lot nkurɔfo"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

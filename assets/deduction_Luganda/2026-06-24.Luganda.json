@@ -1,0 +1,61 @@
+{
+  "title": "Omukuumi w’Ennimi z’omuliro ezitazikira",
+  "intro": "Ekifaananyi kiyimiridde ku mulyango gw’ekifo ekisinga okutiibwa mu bitalabika, nga kikwasiddwa omulimu ekitonde kirala kyonna ky’ayagala. Emyoyo egibonaabona bwe gikaaba nga gisaba okusaasirwa, okuddamu okw’amaanyi kuwulikika okuyita mu bisenge by’omuliro. Osobola okubikkula omukuumi ono ow’olubeerera?",
+  "clues": [
+    "Nnyimiridde ku mulyango gw’ekifo eky’entiisa eky’okubonereza mu bitalabika.",
+    "Omuliro oguyaka era ogutazikira gwe gusinga obukulu mu mulimu gwange ogw’ekitiibwa.",
+    "Emyoyo egibonaabona giyita erinnya lyange, nga gisaba obuweerero okuva mu kubonyaabonyezebwa kwabwe okutaggwaawo.",
+    "Bwe beegayirira, ntegeeza nti tebajja kuvaawo, emirembe gyonna.",
+    "Siri muntu, wadde majiini — ndi kitonde kya buwulize bulongoofu.",
+    "Nze malayika omukulu eyalondebwa ng’omukuumi w’omuliro ogw’olubeerera."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Malik",
+        "Jibreel",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Abantu ba Geyeena beegayirira okubonyaabonyezebwa kwabwe kukome",
+        "Ekkondeere lifuuwa okulaga olunaku lw’enkomerero",
+        "Quran ebikkulirwa ku mutima gwa Nabbi",
+        "Nabbi asuulibwa mu muliro omunene abantu baabwe",
+        "Bbugwe ow’amaanyi azimbibwa okusobola okubeera n’eggwanga eryonoonese"
+      ],
+      "answer": "Abantu ba Geyeena beegayirira okubonyaabonyezebwa kwabwe kukome"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Omuliro gwa Geyeena (Jahannam) .",
+        "Omuti gwa Lote ku nsalo y’Ejjana",
+        "Ekkondeere erifumita",
+        "Omuggo ogukyuka ne gufuuka omusota",
+        "Entebe ey’obwakatonda ey’ekitalo"
+      ],
+      "answer": "Omuliro gwa Geyeena (Jahannam) ."
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Abatuuze mu Jahannam bategeezebwa nti bajja kusigala emirembe gyonna",
+        "Abatuuze mu Jahannam basonyiyibwa era ne basumululwa",
+        "Abatuuze mu Ggeyeena baweebwa omukisa ogw’okubiri ogw’okukkiriza",
+        "Abatuuze mu Ggeyeena basengulwa ne batwalibwa mu kifo ekiyonjo",
+        "Abatuuze mu Ggeyeena bazikirizibwa ddala olw’okubwatuka kw’okubwatuka"
+      ],
+      "answer": "Abatuuze mu Jahannam bategeezebwa nti bajja kusigala emirembe gyonna"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Kudarika Pamhenderekedzo yeGungwa",
+  "intro": "Unomira pamusoro pejecha remahombekombe akakanganikwa, uko mafungu anonzwika sevanhu vakaedzwa nemurairo waMwari. Mhepo yakazara nekurangarira kutyorwa kwakakonzera shanduko inoshamisa. Mweya iyi yaiva vanaani, uye chii chaive rudzi rwemuedzo wavo?",
+  "clues": [
+    "Taiva nzanga yakagamuchira murairo wakajeka kubva kuna Ishe wedu, asi takawana nzira dzekuuramba.",
+    "Taigara pedyo nemvura, uye raramo yedu yaitsamira pazvisikwa zvayo.",
+    "Muedzo wakauya kwatiri pazuva ratakarayirwa kuti tirege kuita zvinhu zvenyika.",
+    "Zvisikwa zvemumvura zvakauya kwatiri zvakawanda pazuva iroro, zvikatiedza zvisingagoni kutsungiririka.",
+    "Takaronga manomano ekunyengera kuti tidzivise murayiro waMwari, tichifunga kuti taigona kukunda murayiro wacho.",
+    "Kudarika kwedu kwakatungamira pakushanduka kunonyadzisa; takava tsoko dzinoshoreka nemurairo waAllah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Vanhu veSabata",
+        "Vanhu veRass",
+        "Vanhu veTubba",
+        "Vanhu veBako",
+        "Shamwari dzemuGomba"
+      ],
+      "answer": "Vanhu veSabata"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kuonekwa kwehove paSabata",
+        "Gore rekusanaya kwemvura kwakanyanya",
+        "Hondo yeshiri yakatumirwa kuzorwa navo",
+        "Mafashamo akavafukidza",
+        "Kudengenyeka kwenyika kwakasimba"
+      ],
+      "answer": "Kuonekwa kwehove paSabata"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Gungwa",
+        "Gomo",
+        "Bako",
+        "Mupata werenje",
+        "Guta rakakomberedzwa"
+      ],
+      "answer": "Gungwa"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Yakashanduka kuita tsoko",
+        "Yakamedzwa nenyika",
+        "Yakaparadzwa nemhepo inorira",
+        "Kunyura mugungwa",
+        "Kurohwa nedonhwe rematombo"
+      ],
+      "answer": "Yakashanduka kuita tsoko"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

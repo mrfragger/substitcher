@@ -1,0 +1,61 @@
+{
+  "title": "Ekifo eky’okuwummulamu eky’omuntu omu",
+  "intro": "Mu bitabo by’ebyafaayo eby’okusiimibwa Katonda, waliwo emmeeme ey’obulongoofu obutaliiko kye bufaanana, eyawuddwa ku bantu baabwe okunoonya obwannamunigina mu kkubo ettukuvu. Tebaamanya nti okweyawula kuno kwandireese akabonero eri ensi zonna, okugezesebwa okw’okukkiriza okwandibadde okwogerwako emirembe gyonna.",
+  "clues": [
+    "Nnali neewaddeyo okubeera mu bulamu obw’obuweereza nga sinnazaalibwa.",
+    "Nateekebwa wansi w’obukuumi bwa nnabbi ow’ekitiibwa.",
+    "Nayimirizibwa n’eby’okulya okuva ewa Allah ebyawuniikiriza omukuumi wange.",
+    "Nnava mu maka gange ne ngenda mu kifo ekimu eky’ebuvanjuba.",
+    "Malayika yandabikira mu ngeri y’omuntu atuukiridde, ng’aleeta amawulire g’omwana omulongoofu.",
+    "Bwe nakomawo n’omwana wange omuwere, abantu bange banvunaana, naye omwana omuwere n’ayogera nga yeewozaako."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Maryam (Maliya) .",
+        "Asiyah (mukyala wa Falaawo) .",
+        "Hajar (maama wa Ismail) .",
+        "Saala (mukyala wa Ibrahim) .",
+        "Maama wa Musa"
+      ],
+      "answer": "Maryam (Maliya) ."
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okufuna olubuto mu ngeri ey’ekyamagero n’okuzaalibwa omwana ow’obulenzi",
+        "Okusuulibwa mu muliro",
+        "Okumira ekyennyanja ekinene ennyo",
+        "Okuzimba eryato eddene",
+        "Okusomoka ennyanja"
+      ],
+      "answer": "Okufuna olubuto mu ngeri ey’ekyamagero n’okuzaalibwa omwana ow’obulenzi"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Ekifo ekyesudde mu buvanjuba",
+        "Ekisaka ekyokya",
+        "Ennyanja Emmyufu",
+        "Olwazi amazzi mwe gaakulukuta",
+        "Ennyanja ekika kya whale"
+      ],
+      "answer": "Ekifo ekyesudde mu buvanjuba"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Omwana omuwere yayogedde nga yeewozaako maama",
+        "Ennyanja yayawukana",
+        "Omuliro gwafuuka nnyogovu era nga tegulina bulabe",
+        "Whale eno yasesema ku lubalama lw’ennyanja",
+        "Eryato yatuuka ku lusozi"
+      ],
+      "answer": "Omwana omuwere yayogedde nga yeewozaako maama"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

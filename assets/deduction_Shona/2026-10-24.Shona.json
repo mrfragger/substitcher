@@ -1,0 +1,61 @@
+{
+  "title": "Nyevero Pasi Pevhu",
+  "intro": "Fungidzira wakamira padivi penzvimbo yakadzama apo manzwi anokwira kubva pasi uye nyika iri pamusoro yakanyarara. Korani inochengetedza chiitiko ichi seyambiro: nzanga inoramba zvinounzwa nevatumwa, chirango chinovhara, uye kunyange ruzha rwayo runova chikamu cheuchapupu. Ndeipi boka rinotaura kuburikidza nendima idzodzo?",
+  "clues": [
+    "Tinorangarirwa muKorani seboka revanhu vanotsanangurwa nemugumo mumwe chete pane zita remunhu mumwe chete.",
+    "Takaramba shoko rakaunzwa nenhume, kunyangwe zvavakataura zvaive zvechokwadi.",
+    "Kuzivikanwa kwedu kwatinoyeuka kwakabatana negomba rakadzika muvhu, uye chimiro ichocho chakava chikamu chezita redu.",
+    "Pazuva rakatarwa, takaburitswa kunze tikadhonzwa kumoto.",
+    "Hatina kukwanisa kuzvidzivirira kubva mukurangwa, uye hatina kukwanisa kunzwa kurira kwacho.",
+    "Zviso zvedu zvaizotendeutswa mumoto, uye taizodzingwa mukati mawo; patakabvunzwa, taiti tiri pakati peavo vaisagona kupindura."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Shamwari dzeMugero",
+        "Rudzi Rwakanunurwa Kubva MuMafashamo Makuru",
+        "Vanamati veMhuru yeGoridhe",
+        "Boka Rakadzivirirwa Mukati Mebako Regomo",
+        "Nharaunda Inonunurwa Kubva Muchoto Chemoto"
+      ],
+      "answer": "Shamwari dzeMugero"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Akadhonzwa ndokukandwa muMoto",
+        "Kununurwa kubva muchoto chinopisa",
+        "Kutakurwa zvakachengeteka kuburikidza nemafashamo makuru",
+        "Yakadzivirirwa kwemazana emakore mubako",
+        "Akanunurwa mushure mekukandwa mutsime"
+      ],
+      "answer": "Akadhonzwa ndokukandwa muMoto"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Mugero kana gomba",
+        "Gungwa guru",
+        "Bako regomo",
+        "Imba yamambo yakakwirira",
+        "Tsime rerenje"
+      ],
+      "answer": "Mugero kana gomba"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kutadza kuzvidzivirira uye kusakwanisa kunzwa kurira kweMoto",
+        "Akanunurwa ndokubvumirwa kupinda muminda isingaperi",
+        "Kununurwa zvakachengeteka kuburikidza nemafashamo anoparadza",
+        "Kudzivirirwa nekurara kwenguva refu mubako",
+        "Kukudzwa neumambo husingaperi"
+      ],
+      "answer": "Kutadza kuzvidzivirira uye kusakwanisa kunzwa kurira kweMoto"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

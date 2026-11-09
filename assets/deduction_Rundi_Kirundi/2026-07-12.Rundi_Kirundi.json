@@ -1,0 +1,61 @@
+{
+  "title": "Igisagara cazimiye c'ubuninahazwa butagira uko bungana",
+  "intro": "Ubuhinga bukomeye bwari bwaraganje ibice bininibinini vyo kw’isi, bukaba bwari buzwi cane kubera inyubakwa ziteye igomwe zishika mw’ijuru. Yamara munsi y’ubwo bukuru, hariho ukwihakana kw’ubutagondwa kwakuze — kwanka kwumviriza umugabisha w’Imana yarungitswe avuye mu kibano ubwaco. Ubwibone n’ubwibone vyari vuba gutuma haba igihano nk’ico isi canke ijuru bitari bwigere bibona.",
+  "clues": [
+    "Twarigeze gutwara ibice bininibinini vy’isi, twirata inkomezi twizera ko ata yindi nteguro yoshobora kuzigereranya.",
+    "Ubwami bwacu bwari buzwi cane kubera inyubakwa ziteye igomwe zifise inkingi zikomeye zari zihagaze ata n’umwe azigereranya mu gihugu cose cari kizwi.",
+    "Umugabisha wo mu kibano cacu bwite yarahagurutse, ahimiriza umwe wese muri twebwe kuyobokera Umuremyi umwe wenyene.",
+    "Twarahakanye ubutumwa twashikirijwe, twanka guheba inzira twarazwe.",
+    "Umuyaga w’uburake, uboroga cane w’ubukazi burengeje urugero waraduteye, maze turadusiga ata co twikingira.",
+    "Twarasigaye nk’ibiti vy’imisukoni vyitoboye, bitataniye kandi vyibagiwe, nk’icigwa ku ruvyaro rwose ruzokurikira."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Abantu b'i A'ad",
+        "Abantu ba Nuh",
+        "Abantu ba Luti .",
+        "Abantu b'i Madyan",
+        "Abantu b’i Tubba’."
+      ],
+      "answer": "Abantu b'i A'ad"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Umuyaga w’igihano gikomeye udatezuka",
+        "Umwuzure wapfutse isonga ryose ry’umusozi .",
+        "Imvura y'amabuye y'ibumba aturutse iva hejuru .",
+        "Induru imwe gusa iteye ubwoba ivuye mw’ijuru .",
+        "Umutingito w’ubukazi waciye ibice igihugu ."
+      ],
+      "answer": "Umuyaga w’igihano gikomeye udatezuka"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Iramu, igisagara c’inkingi zihanitse",
+        "Ubwato bunini cane bw’ibiti bubatswe ku musozi .",
+        "Ingamiya y’ingore yasohotse mw’ibuye ku gitangaro .",
+        "Umusozi Sinayi aho amabwirizwa y'Imana yamanukira .",
+        "Ingoro y'amabuye y'agaciro n'ibirahuri vyiza cane iraba amazi atemba ."
+      ],
+      "answer": "Iramu, igisagara c’inkingi zihanitse"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Basigaye nk’ibiti vy’imisukoni vyitoboye, binyanyagiye kandi ata buzima bifise .",
+        "Yarohamye munsi y’imipfunda myinshi y’umwuzure munini .",
+        "Yahindutse ibiremwa bisa n'inkende n'ingurube .",
+        "Yajanjaguritse munsi y’imvura y’amabuye y’ibumba akomeye",
+        "Yarimbuwe n’akarira kamwe gatera amatwi gatoboye umutima ."
+      ],
+      "answer": "Basigaye nk’ibiti vy’imisukoni vyitoboye, binyanyagiye kandi ata buzima bifise ."
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

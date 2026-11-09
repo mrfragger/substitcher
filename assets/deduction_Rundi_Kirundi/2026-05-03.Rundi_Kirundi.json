@@ -1,0 +1,61 @@
+{
+  "title": "Abarondera Ukuri Basinziriye",
+  "intro": "Tekereza igihe ukwemera kwari gushirwako urugamba, maze umugwi w’imitima ugahitamwo ukwemera kudahungabana kuruta ihumure ryo mw’isi. Kubera ko bari bafise amahitamwo ateye ubwoba, bararondeye ubuhungiro, batangura urugendo rwatumye basinzira bidasanzwe. Inkuru yabo ni igihe c’uburinzi bw’Imana n’ububasha bw’ukwizera bwo kurwanya agahahazo. Woba ushobora gutahura akaranga k’abo bantu badasanzwe?",
+  "clues": [
+    "Twari ikoraniro ritoyi, ryunze ubumwe n’ukwemera gukomeye Umuremyi umwe.",
+    "Twabaye mu gihe umutware w’inkomezi yasaba gusenga uwundi atari Allah.",
+    "Kugira ngo tuzigame ukwizera kwacu, twahisemwo guheba amazu yacu maze tugahunga agahahazo.",
+    "Umugenzi w’intahemuka, ikiremwa co kw’isi, yaraduherekeje mu rugendo rwacu.",
+    "Twararonse ubuhungiro ahantu h’ibanga, aho Allah yatumye twinjira mu mva ndende kandi iramba.",
+    "Igihe twavyuka, twari twizera ko umusi umwe gusa canke igice c’umusi cari caraheze, ariko vy’ukuri hari haciye ibinjana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Abantu bo mu Mugende",
+        "Abantu b'i Tamudi .",
+        "Abantu b’i Saba’.",
+        "Abantu bo mu mwobo",
+        "Abantu bo muri Madiyani"
+      ],
+      "answer": "Abantu bo mu mwobo"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Kugeragezwa n'igihugu c'ingumba .",
+        "Guhangana n'umwuzure munini .",
+        "Kurondera ubuhungiro ku mutware w’umunyagitugu .",
+        "Kujugunywa mu muriro ururumba .",
+        "Guhangana n'ubupfumu bw'umupfumu"
+      ],
+      "answer": "Kurondera ubuhungiro ku mutware w’umunyagitugu ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Ingoro nini cane",
+        "Ubwato",
+        "Iriba rirerire",
+        "Umwobo",
+        "Umusozi muremure"
+      ],
+      "answer": "Umwobo"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Guhabwa ubwami .",
+        "Gusinzira kw'igitangaza mu binjana n'ibindi",
+        "Kumirwa n'isi .",
+        "Gukizwa igihuhusi co gutikiza .",
+        "Kuba yaronkejwe ameza yo mw’ijuru ."
+      ],
+      "answer": "Gusinzira kw'igitangaza mu binjana n'ibindi"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

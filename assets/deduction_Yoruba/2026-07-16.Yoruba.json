@@ -1,0 +1,61 @@
+{
+  "title": "Ohùn Tí Ó Pe Ìjọba Òrìṣà Kan Níjà",
+  "intro": "Láàrin àwọn ìránṣẹ́ Olódùmarè ni ìránṣẹ́ kan tí ó dúró ṣinṣin tí ó dìde láàrín orílẹ̀-èdè alágídí láti fi òtítọ́ hàn. Àwọn ènìyàn wọn ti gba òrìṣà àfọwọ́kọ kan, wọ́n ń yípadà sí Ẹlẹ́dàá gbogbo ohun tí ó wà. Pẹ̀lú ìpinnu tí kò ṣeé yẹ̀ sílẹ̀, ẹni yìí pè wọ́n padà — ṣùgbọ́n ìhìn náà dojúkọ ìkọ̀sílẹ̀ àti ìkọ̀sílẹ̀. Ṣe àgbéyẹ̀wò àwọn àmì láti ṣàwárí ẹni tí ìránṣẹ́ olùfọkànsìn yìí jẹ́.",
+  "clues": [
+    "Wọ́n rán mi gẹ́gẹ́ bí ìránṣẹ́ sí àwọn ènìyàn alágídí kan tí wọ́n ti rìn jìnnà sí ọ̀nà títọ́.",
+    "Mo wá láti rán orílẹ̀-èdè mi létí Ẹni tí ó dá gbogbo ohun tí ó wà — ẹni tí ó dára jùlọ nínú gbogbo àwọn olùdá.",
+    "Àwọn ènìyàn mi ti yí padà sí ère èké tí wọ́n ń bọ̀wọ̀ fún tí wọ́n sì ń ké pè lọ́sàn-án àti lóru.",
+    "Mo fi ìgboyà ko wọn níjà, mo bi wọn léèrè ìdí tí wọn yóò fi máa sin òrìṣà tí wọ́n ṣe tí wọ́n sì fi Olúwa wọn tòótọ́ sílẹ̀.",
+    "Wọ́n sẹ́ mi, wọ́n kọ̀ láti fetísílẹ̀, wọ́n sì di irọ́ wọn mú — síbẹ̀ Olúwa mi pa mí mọ́.",
+    "Èmi ni Ilyas — àlàáfíà sì wà lórí mi, a sì kà mí sí ọ̀kan lára ​​àwọn ìránṣẹ́ onígbàgbọ́ ti Àṣàkẹ́-ọ̀run jùlọ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Ilyas",
+        "Wòlíì Idris",
+        "Wòlíì Alyasa",
+        "Wòlíì Dhul-Kifl",
+        "Wòlíì Nóà"
+      ],
+      "answer": "Wòlíì Ilyas"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Pípè àwọn ènìyàn kan kúrò nínú ìjọsìn Báálì",
+        "Lílo agbára ìkà kan tó sọ pé òun jẹ́ ọlọ́run",
+        "Ìkìlọ̀ fún àwọn ènìyàn nípa ìkún omi tó ń bọ̀",
+        "Jíjẹ́ tí a jù sínú iná ńlá tí ń jó",
+        "Ṣíṣáájú ìjádelọ kúrò ní ilẹ̀ ìgbèkùn"
+      ],
+      "answer": "Pípè àwọn ènìyàn kan kúrò nínú ìjọsìn Báálì"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Òrìṣà tí a ń pè ní Báálì",
+        "Ọkọ̀ ńlá kan tí a fi igi líle kọ́",
+        "Ọ̀pá kan tí ó pín òkun ńlá kan sí méjì",
+        "Aṣọ mímọ́ tí a fi ẹ̀jẹ̀ kùn",
+        "Igbó kan tí ń jó lórí òkè mímọ́ kan"
+      ],
+      "answer": "Òrìṣà tí a ń pè ní Báálì"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A fun ni alaafia ati pe a ka wọn si ọkan ninu awọn iranṣẹ Allah ti a yan",
+        "A mu wọn lọ sinu paradise nigba ti gbogbo awọn miiran ti parun",
+        "A gbà wá lọ́wọ́ iná ńlá kan tí ó tutù tí ó sì ní ààbò",
+        "A fun ni agbara lori jinni, eda eniyan, ati afẹfẹ",
+        "Ara tí a pa mọ́ gẹ́gẹ́ bí àmì pípẹ́ títí láé fún ọ̀pọ̀lọpọ̀ ọdún"
+      ],
+      "answer": "A fun ni alaafia ati pe a ka wọn si ọkan ninu awọn iranṣẹ Allah ti a yan"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

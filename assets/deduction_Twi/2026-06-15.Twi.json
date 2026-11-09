@@ -1,0 +1,61 @@
+{
+  "title": "Mframa ne Ogya Tumidi",
+  "intro": "Fa w’adwene bu tumidi bi a mframa no ankasa bua sodifo biako, baabi a abɔde nketewa nne soa emu duru, na wɔde tumi ahorow a aniwa a ɛyɛ mpapahwekwa nhu no kura ɔsom a wɔde ahwɛyiye mu. Saa onipa yi nyaa ahenni soronko bi fii obi a odii n’anim a ɔdɔ no hɔ, na na ɔwɔ tumi wɔ wim tebea ne jinn so. Nanso tumi kɛseɛ de sɔhwɛ akɛseɛ baeɛ — na berɛ a ɛtwa toɔ bɛda biribi a ɛyɛ nwonwa adi wɔ nkwa ne owuo ankasa su ho.",
+  "clues": [
+    "Me nyaa ahennie kesee bi firii ɔwofoɔ a medɔ no a ɔno nso yɛ nkɔmhyɛni ne Allah somfo hɔ.",
+    "Allah maa me tumi wɔ mframa so, somaa no kɔ nnwuma a ɛfa bosome akwantuo ho wɔ anɔpa baako mu.",
+    "Ná abɔde nketewa mpo bɛka ɔkwan a mefa so no ho asɛm, na na migyina kakra de wɔn ho dwiriw me wɔ sɛnea wohu no no ho.",
+    "Ná mehyɛ jinn, nnipa, ne nnomaa dɔm kɛse bi so, na na wɔn nyinaa hyehyɛ wɔn ho nnidiso nnidiso nnidiso nnidiso wɔ m’anim.",
+    "Sodifo bi a ɔwɔ akyirikyiri bae sɛ ɔde asɛnnennen a emu yɛ den bɛsɔ me ahwɛ, na memaa wɔde saa sodifo no ahengua baa m’ahemfie ansa na ɔhɔho no atumi asɔre afi akongua bi so mpo.",
+    "Mekɔɔ so gyinaa hɔ, de me ho too poma so, kosii sɛ asase so abɔde ketewaa bi kesee no — na ɛno ansa na wɔn a wɔatwa me ho ahyia no hui sɛ matwam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Sulayman (Solomon) .",
+        "Ɔkɔmhyɛni Dawud (Dawid) .",
+        "Odiyifo Isa (Yesu) .",
+        "Ɔkɔmhyɛni Muhammad صلى الله عليه وسلم",
+        "Ɔkɔmhyɛni Musa (Mose) ."
+      ],
+      "answer": "Ɔkɔmhyɛni Sulayman (Solomon) ."
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Ɔhemmaa a ɛwɔ akyirikyiri ahengua a wɔde bɛba denam akwan a ɛboro nnipa de so so",
+        "Wɔde no sian kɔɔ abura a emu dɔ mu bere a na ɔyɛ abofra no",
+        "Anwonwade nsɛnkyerɛnne a wɔde behyia otirimɔdenfo nkonyaayifo",
+        "Ɔkasa a wofi akokoaa so de bɔ ɛna nidi ho ban",
+        "Kyerɛwsɛm a etwa to a wɔada no adi no a wobegye wɔ bepɔw kronkron bi so"
+      ],
+      "answer": "Ɔhemmaa a ɛwɔ akyirikyiri ahengua a wɔde bɛba denam akwan a ɛboro nnipa de so so"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Nnua poma bi a wɔfrɛ no termite hwim mu",
+        "Adaka kɛse bi a wɔasi sɛ wɔde bɛtra so afi wiase nyinaa nsuyiri bi mu",
+        "Poma a ɛdanee ɔwɔ wɔ otirimɔdenfo bi anim",
+        "Ntama asinasin a wɔde sa anifuraefo yare",
+        "Ɔbodan kronkron bi a wodii kan gyee adiyisɛm bi wɔ hɔ"
+      ],
+      "answer": "Nnua poma bi a wɔfrɛ no termite hwim mu"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Sodifo bi a ɔyɛ ɔhotefo a ɔsra hɔ gyee gyidi toom bere a ohuu nsɛnkyerɛnne akyi",
+        "Nsuyiri kɛse bi sɛee wɔn nyinaa gye anokwafo a na wɔte adaka so no",
+        "Farao bi ne n’asraafo wuwui wɔ po no mu",
+        "Wɔmaa ɔhokafo trenee bi so kɔɔ soro",
+        "Wotutuu ɔhene otirimɔdenfo bi ne ne kurow no gui na wɔsɛee no"
+      ],
+      "answer": "Sodifo bi a ɔyɛ ɔbadwemma a ɔsra hɔ gyee gyidi toom bere a ohuu nsɛnkyerɛnne akyi"
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

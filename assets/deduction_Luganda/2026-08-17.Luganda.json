@@ -1,0 +1,61 @@
+{
+  "title": "Okusobya ku lubalama lw’ennyanja",
+  "intro": "Oyimiridde ku musenyu gw’olubalama lw’ennyanja olwerabirwa, amayengo gye gawuubaala ng’ekitundu ekigezeseddwa ekiragiro eky’obwakatonda. Empewo nzitowa olw’okujjukira okumenya amateeka okwavaako enkyukakyuka eyeewuunyisa. Emyoyo gino gyali baani, era okugezesebwa kwabwe kwali kutya?",
+  "clues": [
+    "Twali kitundu ekyafuna ekiragiro ekitegeerekeka obulungi okuva ewa Mukama waffe, naye ne tufuna engeri gye tukisomooza.",
+    "Twabeeranga kumpi n’ekifo eky’amazzi, era eby’okubeezaawo obulamu bwaffe byali bisinziira ku bitonde ebirimu.",
+    "Ekigezo kyatujja ku lunaku lwe twalagirwa okwewala emirimu gy’ensi.",
+    "Ebitonde by’amazzi byajja gye tuli mu bungi ku lunaku olwo lwennyini, ne bitukema okusukka okugumiikiriza.",
+    "Twayiiya akakodyo ak’obukuusa okwetoloola enteekateeka ya Katonda, nga tulowooza nti tusobola okusinga ekiragiro ekyo mu ngeri ey’amagezi.",
+    "Okusobya kwaffe kwaleetawo enkyukakyuka eswaza; twafuuka enkima ezinyoomebwa olw’ekiragiro kya Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Abantu ba Ssabbiiti",
+        "Abantu b’e Rass",
+        "Abantu b’e Tubba",
+        "Abantu b'Empuku",
+        "Ba Swahaaba b’Omukutu"
+      ],
+      "answer": "Abantu ba Ssabbiiti"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okulabika kw’ebyennyanja ku Ssabbiiti",
+        "Omwaka gumu ogw’ekyeya eky’amaanyi",
+        "Eggye ly’ebinyonyi lyasindikibwa okubalumba",
+        "Amataba agaababuutikidde",
+        "Musisi ow’amaanyi"
+      ],
+      "answer": "Okulabika kw’ebyennyanja ku Ssabbiiti"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Ennyanja",
+        "Olusozi",
+        "Empuku",
+        "Ekiwonvu eky’eddungu",
+        "Ekibuga ekiriko ebigo"
+      ],
+      "answer": "Ennyanja"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yafuuka enkima",
+        "Okumira ensi",
+        "Yasaanawo olw’empewo eyali ekuba enduulu",
+        "Yabbira mu nnyanja",
+        "Yakubiddwa enkuba y’amayinja"
+      ],
+      "answer": "Yafuuka enkima"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

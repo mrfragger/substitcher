@@ -1,0 +1,61 @@
+{
+  "title": "Igeragezwa ry'Urutare Rudafite Imbuto",
+  "intro": "Umuryango w’abahanga n’abibone, washyize umurage wabo mu misozi. Ariko igihe bawohererezwaga ikimenyetso gisobanutse, ikizamini cy’ukwizera no kwifata, ubwibone bwabo bwabagejeje mu nzira yo kudasubira inyuma. Ese ushobora kumenya iri tsinda n’ingaruka zo kwigomeka kwabo?",
+  "clues": [
+    "Twari abahanga mu by'amabuye, dushushanya amazu meza cyane mu misozi.",
+    "Intumwa yo mu bwoko bwacu yaje iwacu, iduhamagarira gusenga Imana Imwe y'Ukuri.",
+    "Twasabye ikimenyetso cyo kwemeza amagambo ye, maze havuka ikiremwa kidasanzwe nk'ikizamini kuri twe.",
+    "Twahawe itegeko ryoroshye: gusangira isoko y'amazi yacu n'iki kiremwa, tukakireka kikanywa ku munsi wacyo wagenwe.",
+    "Mu bwibone bwacu, bake muri twe baragambanye maze twirengagiza umuburo, bica ikiremwa cyari kigenewe kuba ikimenyetso cyacu.",
+    "Twahawe iminsi itatu mbere y'uko imperuka igera, hanyuma igisasu gikomeye kidufata mu ngo zacu, kidusiga turi bazima kandi tuguruka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Turi bande?",
+      "options": [
+        "Abantu bo muri 'Ad",
+        "Abantu bo muri Madyan",
+        "Abantu bo muri Thamud",
+        "Abaturage ba Saba",
+        "Abantu ba Lut"
+      ],
+      "answer": "Abantu bo muri Thamud"
+    },
+    "trial": {
+      "label": "Ni ikihe cyari ikizamini cyacu cy'ibanze?",
+      "options": [
+        "Kubaka ubwato kugira ngo burokoke umwuzure",
+        "Kurwanya icyifuzo cyo kuroba ku Isabato",
+        "Kureka ubucuruzi bw'uburiganya",
+        "Kurinda ingamiya y'ingore y'igitangaza",
+        "Kwihanganira inzara y'imyaka irindwi"
+      ],
+      "answer": "Kurinda ingamiya y'ingore y'igitangaza"
+    },
+    "location": {
+      "label": "Ni iki cyari igice cy'ingenzi cy'inkuru yacu?",
+      "options": [
+        "Inyana y'izahabu",
+        "Ingamiya y'Ingore",
+        "Inkoni y'Intumwa Musa",
+        "Urugomero Runini rwa Ma'rib",
+        "Ameza Yasenyutse Aturutse mu Ijuru"
+      ],
+      "answer": "Ingamiya y'Ingore"
+    },
+    "outcome": {
+      "label": "Ni iyihe ntego yacu ya nyuma?",
+      "options": [
+        "Yarohamye mu myuzure ikomeye",
+        "Yahindutse inkende n'ingurube",
+        "Yarenzwe n'umuyaga mwinshi cyane",
+        "Yatatanye n'iruka ry'urugomero",
+        "Yashenywe n'igisasu gikomeye/umutingito w'isi"
+      ],
+      "answer": "Yashenywe n'igisasu gikomeye/umutingito w'isi"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

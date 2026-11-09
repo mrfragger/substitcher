@@ -1,0 +1,61 @@
+{
+  "title": "Ɛnne a Ɛwɔ Tete Anhwea Mu",
+  "intro": "Wɔ Allah asomafoɔ a wɔdii kan no mu no, obi wɔ hɔ a ne din hyerɛn tiawa nanso nteaseɛ wɔ mu wɔ Kur’aan mu. Saa onipa yi tenaa ase kyɛe ansa na wɔresoma adiyifoɔ akɛseɛ bebree, na na wonim no sɛ ɔyɛ nokorɛ ne boasetɔ a ɛnhinhim. Wɔn asɛm no yɛ tiawa nanso wɔn agyapadeɛ no da so ara wɔ daa kyerɛwtohɔ no mu. Hena ne ɔkra anuonyam yi?",
+  "clues": [
+    "Meyɛ abɔfoɔ a wɔdii kan no mu baako, a wɔabɔ me din tiawa nanso nteaseɛ wom wɔ Kur’aan mu.",
+    "Wɔnam nokware ho ahofama a enhinhim so na ɛkyerɛkyerɛɛ me suban mu.",
+    "Wokae me wo Allah nwoma no mu wo nkurafoa a na wogyina pintinn na wobo boasere no mu.",
+    "Nkyekyem ntiantiaa kakraa bi pɛ wɔ Kur’aan mu na ɛka m’asɛm.",
+    "Allah hyɛɛ me anuonyam wɔ ɔkwan soronko bi so a ɛyɛ me dea soronko, a ɛnnye nkɔmhyɛfoɔ foforɔ nkyɛ.",
+    "Wɔtetee me kɔɔ gyinabea a ɛkorɔn, anuonyam biako pɛ wɔ Kur’aan mu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Idris",
+        "Odiyifo Ilyas",
+        "Dhul-Kifl na ɔkyerɛwee",
+        "Ɔkɔmhyɛni Alyasa",
+        "Asif ibn Barkhiya na ɔkyerɛwee"
+      ],
+      "answer": "Ɔkɔmhyɛni Idris"
+    },
+    "trial": {
+      "label": "Bere a Wɔkyerɛkyerɛ Mu",
+      "options": [
+        "Allah na ɔmaa me so kɔɔ gyinabea a ɛkorɔn",
+        "Meyɛɛ adaka kɛse bi de gyee me nkurɔfo nkwa",
+        "Mekasa tiaa Farao nkonyaayifo no",
+        "Me nuanom na wɔtow me guu amoa bi mu",
+        "Mehweree m’ani esiane awerɛhow a midii wɔ me ba no ho nti"
+      ],
+      "answer": "Allah na ɔmaa me so kɔɔ gyinabea a ɛkorɔn"
+    },
+    "location": {
+      "label": "Nkyerɛkyerɛmu Kronkron",
+      "options": [
+        "Surah Al-Anbiya a ɛwɔ hɔ",
+        "Surah Al-Kahf a ɛwɔ hɔ",
+        "Surah Taha a ɛwɔ hɔ",
+        "Surah Ash-Shu'ara a ɛwɔ hɔ",
+        "Surah Yasin na ɔkyerɛwee"
+      ],
+      "answer": "Surah Al-Anbiya a ɛwɔ hɔ"
+    },
+    "outcome": {
+      "label": "Ɔsoro Nidi",
+      "options": [
+        "Gyinabea a ɛkorɔn a ɛnte sɛ gyinabea foforo biara",
+        "Jinn ne mframa so tumidi",
+        "Ahenni a anuonyam a ɛso bi nni",
+        "Ɔdedifo fi me nkwakoraabere mu",
+        "Ahyɛmu a wɔasɔ ano ne Allah"
+      ],
+      "answer": "Gyinabea a ɛkorɔn a ɛnte sɛ gyinabea foforo biara"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ogya a Wontumi Ndum no Sohwɛfo",
+  "intro": "Obi gyina beae a wosuro sen biara wɔ nea wonhu mu no aboboano, na wɔde asɛyɛde bi ahyɛ ne nsa a abɔde foforo biara mpɛ. Sɛ akra a wɔrehu amane teɛm hwehwɛ mmɔborohunu a, mmuae a emu yɛ den bi gyegye wɔ ogya adan no mu. So wubetumi ahu onii ko a ɔwɛmfo a ɔtra hɔ daa yi yɛ?",
+  "clues": [
+    "Migyina beae bi a ɛyɛ hu a wɔde asotwe ma wɔ baabi a wonhu no ano.",
+    "Ogya a ɛredɛw na entumi dum ne ade titiriw wɔ m’asɛyɛde a anibere wom no mu.",
+    "Akra a wɔrehu amane frɛ me din, srɛsrɛ ahotɔ mfi wɔn ayayade a enni awiei no mu.",
+    "Sɛ wɔsrɛ a, mepae mu ka sɛ wɔrenkɔ, da.",
+    "Mennyɛ onipa, anaase jinn — meyɛ abɔdeɛ a wɔabɔ a mewɔ osetie kronkron.",
+    "Me ne ɔbɔfoɔ panin a wɔayi no sɛ Hellgya no sohwɛfoɔ a ɔte hɔ daa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Malik na ɔkyerɛwee",
+        "Jibreel na ɔkyerɛwee",
+        "Mikael na ɔkyerɛwee",
+        "Harut na ɔkyerɛwee",
+        "Marut na ɔkyerɛwee"
+      ],
+      "answer": "Malik na ɔkyerɛwee"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Hell nkurɔfoɔ srɛ sɛ wɔmma wɔn ayayadeɛ no ntwa",
+        "Wɔhyɛn torobɛnto no de kyerɛ Atemmu Da no",
+        "Wɔayi Kur’aan no adi akyerɛ Ɔkɔmhyɛni no akoma",
+        "Wɔn nkurɔfoɔ tow Nkɔmhyɛni bi gu ogya kɛseɛ mu",
+        "Wɔasi ɔfasu a ɛyɛ den ma ɔman a asɛe"
+      ],
+      "answer": "Hell nkurɔfoɔ srɛ sɛ wɔmma wɔn ayayadeɛ no ntwa"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Hellgya (Jahannam) no .",
+        "Lote Dua a ɛwɔ Paradise hye so no",
+        "Torobɛnto a ɛbɔ",
+        "Poma a ɛdannan ɔwɔ",
+        "Ɔsoro ahengua a ɛyɛ nwonwa"
+      ],
+      "answer": "Hellgya (Jahannam) no ."
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wɔka kyerɛ wɔn a wɔte Hell sɛ wɔbɛtena hɔ daa",
+        "Wɔde wɔn a wɔte Hell no kyɛ wɔn na wogyae wɔn",
+        "Wɔma Hellfo hokwan a ɛto so abien sɛ wobenya gyidi",
+        "Wɔde Hellfo a wɔte hɔ no kɔ baabi a ɛhɔ yɛ nwini",
+        "Wɔn a wɔte Hell no, aprannaa asɛe wɔn koraa"
+      ],
+      "answer": "Wɔka kyerɛ wɔn a wɔte Hell sɛ wɔbɛtena hɔ daa"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

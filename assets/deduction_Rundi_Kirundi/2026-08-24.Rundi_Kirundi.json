@@ -1,0 +1,61 @@
+{
+  "title": "Abamwumviriza Binyegeje Bemeye .",
+  "intro": "Mu guceceka kw’ikoraniro ryeranda, ikoraniro ridasanzwe ryarashitse rivuye mu karere kataboneka. Bakwegerewe n’ugusemerera kw’ikintu gitangaje, bumviriza ugusubiramwo kwobaye gukingira iherezo ryabo ibihe bidahera. Intahe yabo iguma ari imwe mu nzira zidasanzwe mu vyanditswe vy’Imana.",
+  "clues": [
+    "Turi ibiremwa biva mu karere benshi batabona, kandi twaje nk’umugwi.",
+    "Twarafashe urugendo tuja aho hari ikoraniro kugira ngo twumve ikintu kidasanzwe.",
+    "Twashitseyo, twumvirije ivy’ugusubiramwo vyadutangaje.",
+    "Twararemeye ku mugaragaro ko muri twebwe hari abagororotsi abandi na bo batagororotse.",
+    "Twari tuzi ko tutashobora guhunga itegeko ry’Imana kw’isi, canke mu guhunga tuja mw’ijuru.",
+    "Twumvise ubuyobozi, twabuvyemera; uwo wese yizeye Umukama wiwe ntazotinya guhomba canke umutwaro."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umugwi w'aba Jinn",
+        "Abantu b'i Iramu",
+        "Abantu b’i Tubba’.",
+        "Ubwami bw'Uburoma",
+        "Umuryango wa Qurayshi"
+      ],
+      "answer": "Umugwi w'aba Jinn"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Umviriza igisomwa ceranda .",
+        "Kubaka inkingi ndende mu gisagara cacu .",
+        "Guhiga ingamiya y'ingore nziza cane",
+        "Kurandurwa kubera kwica abahanuzi bacu .",
+        "Kugwiza ubutunzi birenze urugero"
+      ],
+      "answer": "Umviriza igisomwa ceranda ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Ikoraniro ryo gusoma ivyeranda",
+        "Igisagara c’inkingi ndende (Iramu) .",
+        "Iriba ryo mu bugaragwa",
+        "Ingoro nini y'inzahabu",
+        "Isenga ryeranda ryo mu misozi ."
+      ],
+      "answer": "Ikoraniro ryo gusoma ivyeranda"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Twemeye kandi turagabisha abantu bacu .",
+        "Yasambuwe n’igisasu gikomeye kivuye mw’ijuru .",
+        "Guhanwa n’umuyaga uturitsa, usambura .",
+        "Yahawe ubutunzi n'ububasha vyinshi cane",
+        "Yagumye ashikamye mu kutizera ."
+      ],
+      "answer": "Twemeye kandi turagabisha abantu bacu ."
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

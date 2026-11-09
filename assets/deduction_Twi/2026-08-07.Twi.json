@@ -1,0 +1,61 @@
+{
+  "title": "Gyidi a Ɛwɔ Ahengua no Akyi",
+  "intro": "Ɛnyɛ ogya anaa nsuyiri na ɛsɔ akra binom hwɛ, na mmom nhyɛso a ɛne sɛ wɔbɛtra otirimɔdenfo ahemfie mu nkakrankakra. Ná saa onipa yi gyina sodifo bi a ɔkyerɛ sɛ ɔyɛ onyame wɔ wɔn nkurɔfo so, nanso wɔbata Nokware Nyankopɔn Baako no mu gyidi ho wɔ kokoam no nkyɛn. Bere a wohuu wɔn ahofama no, amanehunu bae — nanso ɔsoro bɔhyɛ bi nso bae. So wubetumi asusuw onii ko a eyi yɛ ho?",
+  "clues": [
+    "Ná mete m’asase so sodifo a ɔwɔ tumi sen biara no atifi, wɔ gyinabea a nnipa kakraa bi betumi asusuw ho.",
+    "Me hokafoɔ gyinaa nkurɔfoɔ no anim na ɔkaa sɛ ɔyɛ onyame — nanso na m’akoma yɛ Nokware Awurade Baako no dea.",
+    "Mebɔɔ mpae wɔ kokoam, na na misuro asotwe a ɛba wɔn a wɔsɔre tia me hokafo nyinaa so no.",
+    "Bere a wɔdaa me gyidi adi no, wɔkyeree me na wɔyɛɛ me ayayade — nanso me tɛkrɛma anka asɛm biara a ɛkyerɛ sɛ minnye nni da.",
+    "Mehwiee m’akoma mu kyerɛɛ m’Awurade, srɛɛ ofie wɔ Paradise, a ɛne bɔne nyinaa ntam kwan ware.",
+    "Me ne Asiya bint Muzahim — Farao yere a ɔsɔre tiaa Musa ne Harun."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Asiya bint Muzahim (Farao yere) .",
+        "Hawawa (Eve), ɔbaa a ɔdi kan",
+        "Sarah, Ibrahim yere a odi kan",
+        "Hagar, Ismail maame",
+        "Maryam (Imran yere) maame ."
+      ],
+      "answer": "Asiya bint Muzahim (Farao yere) ."
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Ayayade a wogyinaa ano esiane sɛ wɔpow sɛ wɔbɛpo gyidi nti",
+        "Ɔtra ase wɔ apataa kɛse bi yafunu mu",
+        "Wɔresi adaka kɛse bi de aguan nsuyiri",
+        "Wɔtow no gu ogya a ɛredɛw mu",
+        "Ɛpo kɛse bi a ɛpaapae no ho adanse"
+      ],
+      "answer": "Ayayade a wogyinaa ano esiane sɛ wɔpow sɛ wɔbɛpo gyidi nti"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Ofie a wosii maa wɔn wɔ Paradise",
+        "Poma a ɛdanee ɔwɔ",
+        "Adaka a ɛkura abɔdeɛ biara mmienu mmienu",
+        "Sika nantwi ba a ɔman bi som",
+        "Agyan a wɔde di ɔkofo kɛse bi so nkonim"
+      ],
+      "answer": "Ofie a wosii maa wɔn wɔ Paradise"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wɔhyɛɛ no ​​anuonyam de trae wɔ Paradise a ɛka atreneefo ho",
+        "Wɔmemee wɔ asorɔkye no ase ka wɔn asraafo no ho",
+        "Wɔhyew no wɔ ogyaframa mu nanso ɔsoro de ne ho gyee mu gyee no nkwa",
+        "Abɔde kɛse bi menee no afei wɔtow guu mpoano",
+        "Ɔbɛyɛɛ obi a na ɔwɔ sika sen biara wɔ wɔn bere so"
+      ],
+      "answer": "Wɔhyɛɛ no ​​anuonyam de trae wɔ Paradise a ɛka atreneefo ho"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Test Haayre Barre",
+  "intro": "Renndo, karallaagal e mawnikinaare, ƴetti lefol mum en e nder koye mum en tigi. Kono nde maande laaɓnde neldaa e maɓɓe, jarribo goonɗinal e reentaade, mawnikinaare maɓɓe ardi e maɓɓe e laawol ngol ngartataa. Mbele aɗa waawi anndude ndee fedde e batte mum ?",
+  "clues": [
+    "Min ngonnoo ko joom en kaaƴe, min njuɓɓinta koɗorɗe mawɗe to bannge koɗli.",
+    "Nelaaɗo e nder leñol men arii e men, ina noddi en yoo en ndew Alla gooto Goonga oo.",
+    "Min ɗaɓɓi maande ngam hollirde konngol makko, tagoore wootere yaltinaa ngam jarribaade min.",
+    "En ndokkaama yamiroore laaɓtunde : renndinde ɓuuɓri ndiyam men e ooɗoo tagoore, ɗaccude ɗum yara e ñalawma mum toɗɗaaɗo.",
+    "E nder mawnikinaare amen, seeɗa e amen mbaɗi feere, min ndartini jeertinaango ngoo, min mberli tagoore nde fotnoo wonde maande amen.",
+    "Min ndokkaama balɗe tati ko adii halkaare amen, ndeen ɓuuɓol mawngol nanngi min e nder galleeji amen, acci min ngalaa nguurndam, min njippii."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol Enen?",
+      "options": [
+        "Yimɓe 'Ad",
+        "Yimɓe Madyanaaɓe",
+        "Yimɓe Samuuda",
+        "Yimɓe Saba",
+        "Yimɓe Luut"
+      ],
+      "answer": "Yimɓe Samuuda"
+    },
+    "trial": {
+      "label": "Hol ko wonnoo jarribo men adanngo?",
+      "options": [
+        "Mahde laana ngam daɗde e ilam",
+        "Haɓde e yiɗde liggaade e ñalawma sabaabu",
+        "Woppude golle njulaagu fenaande",
+        "Reende gelooɗi debbo kaawis",
+        "Muñde heege duuɓi jeeɗiɗi"
+      ],
+      "answer": "Reende gelooɗi debbo kaawis"
+    },
+    "location": {
+      "label": "Hol ko wonnoo Cakkital Daartol Men?",
+      "options": [
+        "Nagge kaŋŋe",
+        "Gelooɗi debbo oo",
+        "Lefol Annabi Muusa",
+        "Dammbugal mawngal Ma'rib",
+        "Tabalde ndee Yaaji gila Asamaan"
+      ],
+      "answer": "Gelooɗi debbo oo"
+    },
+    "outcome": {
+      "label": "Hol ko wonnoo darnde men timmunde?",
+      "options": [
+        "Njokkii e ilam mawɗam",
+        "Wayliima wonti apes e baali",
+        "Henndu tikkere ina ɓuuɓna ɗum",
+        "Caaktaa ko e ɓuuɓgol baraas",
+        "Halki ɗum ko ɓuuɓol/yerɓo leydi mawngol"
+      ],
+      "answer": "Halki ɗum ko ɓuuɓol/yerɓo leydi mawngol"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

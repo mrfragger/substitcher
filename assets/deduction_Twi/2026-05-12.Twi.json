@@ -1,0 +1,61 @@
+{
+  "title": "Tumi a Ɛnyɛ Den no",
+  "intro": "Wɔ tete nsase so no, bere bi na tumidi bi a ɔwɔ tumi di tumi, na ɔhyɛɛ nneɛma akɛse ne ankorankoro a wontumi nkan wɔn nkwa. Ɛmfa ho sɛnkyerɛnne ne kɔkɔbɔ ahorow a emu da hɔ no, sodifo yi paw ɔkwan bi a ɔbɛfa so asɔre atia, na ɛde akasakasa a emu dɔ a ɛbɛka wɔ bere mu bae.",
+  "clues": [
+    "Mekae sɛ mewɔ tumi ne tumi a etwa to wɔ tumidi kɛse bi so.",
+    "Mekasa tiaa ɔbɔfo bi a ɔbrɛ ne ho ase a ahemman nyinaa Awurade somaa no.",
+    "Ná wonim me nkurɔfo sɛ wonim adan akɛse ne asubɔnten a ɛma yɛn anibuei kɔ so tra hɔ no yiye.",
+    "Na meyɛ anwonwade nsɛnkyerɛnne pii ho adanse, a poma a ɛdannan ɔwɔ ne nsa a ɛhyerɛn hyerɛn ka ho.",
+    "Mepowee sɛ mɛma nnipa kuw bi a wɔayɛ nkoa afi m’asase so, ɛmfa ho sɛ na ɔsoro ahyɛde ahorow no.",
+    "Nnipa a wɔrefi hɔ no akyi a midii no maa me ne m’asraafo kɔɔ po bi a emu apaapae mu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Yusuf",
+        "Ɔhene Talut",
+        "Fir'awn (Farao) .",
+        "Ɔkɔmhyɛni Dawud",
+        "Namrud na ɔyɛ"
+      ],
+      "answer": "Fir'awn (Farao) ."
+    },
+    "trial": {
+      "label": "Akasakasa Titiriw",
+      "options": [
+        "Nsuyiri a ɛkataa asase no so no",
+        "Ɛpo mu mpaapaemu",
+        "Kwae a ɛrehyew no",
+        "Kaaba no adansi no",
+        "Ɔsɛe a mframa a ano yɛ den de ba no"
+      ],
+      "answer": "Ɛpo mu mpaapaemu"
+    },
+    "location": {
+      "label": "Afã a Wɔkyerɛkyerɛ Mu",
+      "options": [
+        "Aboa a ɔkasa",
+        "Poma ne nsa a ɛhyerɛn",
+        "Anwonwa kwan so awo",
+        "Kapet a ɛtu",
+        "Ahengua kɛse bi a ɛwɔ nsu so"
+      ],
+      "answer": "Poma ne nsa a ɛhyerɛn"
+    },
+    "outcome": {
+      "label": "Nkrabea a Etwa To",
+      "options": [
+        "Ɔforo kɔɔ soro",
+        "Asase amene no",
+        "Wɔmenee no wɔ po mu",
+        "Wɔdan no yɛɛ no ​​ape",
+        "Wɔde ahonyade ne tumi kɛse ama no"
+      ],
+      "answer": "Wɔmenee no wɔ po mu"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

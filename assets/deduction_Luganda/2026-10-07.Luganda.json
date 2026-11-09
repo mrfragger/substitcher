@@ -1,0 +1,61 @@
+{
+  "title": "Ennimi z’omuliro eziri munda mu lubiri lw’amalala",
+  "intro": "Emabega wa bbugwe omunene ow’olubiri olw’amaanyi ennyo mu nsi ey’edda mwalimu ekifaananyi omutima gwe ogwali gukutte ekyama nga tewali kiragiro kya kabaka kyali kisobola kusirisa. Nga okwetooloola bonna bafukamidde bakatonda ab’obulimba, emmeeme eno yakuuma okukkiriza okusirise nga kwaka munda. Omufuzi w’ensi eyo baali bakkiriza nti baali ba Katonda, naye ate omuntu ono yalonda amazima okusinga okubudaabudibwa, n’okwewaayo okusinga obukuumi. Leero, omulimu gwo kwe kuzuula ani gwe yali emmeeme eno omuvumu, ng’emboozi ye esigadde nga kye kimu ku byokulabirako eby’amaanyi eby’okukkiriza okutakyukakyuka.",
+  "clues": [
+    "Nnabeera mu kifo eky’obugagga obw’ekitalo n’obukulu obutagigeraageranya, omufuzi w’ensi gye yalina obuyinza obujjuvu ku byonna.",
+    "Nga abo abaali banneetoolodde bafukamidde bakatonda ab’obulimba, nnakuuma ekitangaala ekisirifu eky’okukkiriza mu mutima gwange.",
+    "Nazuula era ne nfuna omwana eyandeetebwa mu ngeri etali ya bulijjo - si mu kuzaalibwa, wabula okuyita mu mazzi g’omugga omunene.",
+    "Nasaba Mukama wange, nga nsaba amaka okumpi naye mu Jjana n’obulokozi okuva mu bukambwe obwali bunneetoolodde.",
+    "Omwana gwe nnakuza yakula n’asomooza omufuzi yennyini eyafuga enkomerero yange, era nnayimirira nga nnywevu mu kukkiriza kwange ne bwe nnatiisibwatiisibwa.",
+    "Nze erinnya lye eriweebwa ekitiibwa mu Quran ng’ekyokulabirako ky’okukkiriza, era nnabeeranga mu lubiri lwa Falaawo yennyini."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Asiya, mukyala wa Falaawo",
+        "Maliyamu nnyina wa Isa",
+        "Bilqis, Nnabagereka w’e Seba",
+        "Mukyala wa Nabbi Lut",
+        "Mukyala wa Imran"
+      ],
+      "answer": "Asiya, mukyala wa Falaawo"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okuzuula n’okukuza omwana omuwere eyasuulibwa eyafuuka nnabbi omukulu",
+        "Okusuulibwa mu muliro omunene omutyobooli",
+        "Okulaba amataba amanene agaasaanyaawo abantu",
+        "Okulaba nga date palm shake n’okuwa ebiriisa",
+        "Okufuna olubuto lw’omwana ow’obulenzi wadde nga akaddiye"
+      ],
+      "answer": "Okuzuula n’okukuza omwana omuwere eyasuulibwa eyafuuka nnabbi omukulu"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Olubiri lw’obwakabaka olw’ekitiibwa ekitaliiko kye kifaanana",
+        "Emmeeri ennene eyazimbibwa okusobola okugumira amataba",
+        "Empuku enzito eyeekwese mu nsozi",
+        "Omuliro oguyaka ennyo ogwazimbibwa ku ntikko y’olusozi",
+        "Olusuku oluzingiddwako bbugwe"
+      ],
+      "answer": "Olubiri lw’obwakabaka olw’ekitiibwa ekitaliiko kye kifaanana"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Ennyumba yaweebwa mu Jjana olw’okwagala kwa Allah",
+        "Amataba amanene gaasaanyaawo abatakkiriza b’eggwanga ery’edda",
+        "Obwakabaka obw’amaanyi n’obuyinza obw’ekitalo bwaweebwa mu nsi eno",
+        "Eggye ery’amaanyi lyasaasaanyizibwa ebinyonyi nga bibuuka",
+        "Omutyobooli eyali yeeyita Katonda yabbira mu nnyanja"
+      ],
+      "answer": "Ennyumba yaweebwa mu Jjana olw’okwagala kwa Allah"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

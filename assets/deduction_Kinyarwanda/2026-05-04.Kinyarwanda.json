@@ -1,0 +1,61 @@
+{
+  "title": "Umuhanga mu by'Ubwibone",
+  "intro": "Mu gihugu cya kera cyategekwaga n'ubutegetsi bw'intagondwa, umuntu w'ingenzi yari afite umwanya ukomeye. Uyu muntu yagize uruhare runini mu migambi ikomeye y'umutegetsi, agira uruhare mu butegetsi bwe bw'igitugu no mu kurwanya ubutumwa bw'Imana. Umurage wabo ufitanye isano no gukurikirana imbaraga z'isi no guhakana ukuri.",
+  "clues": [
+    "Nakoreye umutegetsi ukomeye wakandamije ubwoko mu bisekuruza byinshi.",
+    "Izina ryanjye rikunze kuvugwa mu gitabo cy'Imana hamwe n'uyu muyobozi ukomeye.",
+    "Nahawe inshingano yo kubaka umushinga munini, inyubako ndende yagenewe kugera mu ijuru.",
+    "Nagiriye inama databuja yo kwica abahungu b'Abisirayeli no kurokora abakobwa babo.",
+    "Nagize uruhare mu migambi mibi n'ubugambanyi bwo kurwanya intumwa ikomeye ya Allah.",
+    "Iherezo ryanjye, hamwe n'umwami wanjye n'ingabo ze, ryageze mu mazi y'inyanja nini."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Nimurodi",
+        "Aburahamu",
+        "Goliyati",
+        "Ibilisi",
+        "Hamani"
+      ],
+      "answer": "Hamani"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Kugeragezwa n'ubutunzi butagira ingano",
+        "Kuyobora ingabo zirwanya inzu ndende",
+        "Kubaka umunara kugira ngo ugere ku Mana",
+        "Bajugunywa mu muriro kubera ukwemera kwabo",
+        "Abavandimwe bajugunywe mu iriba"
+      ],
+      "answer": "Kubaka umunara kugira ngo ugere ku Mana"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Isanduku",
+        "Abakozi",
+        "Umusozi",
+        "Umunara",
+        "Ifi nini"
+      ],
+      "answer": "Umunara"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Guhabwa ubwenge buhambaye",
+        "Kuba umuhanuzi",
+        "Kumirwa n'isi",
+        "Guhabwa ubwami",
+        "Kurohama mu nyanja"
+      ],
+      "answer": "Kurohama mu nyanja"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

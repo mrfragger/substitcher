@@ -1,0 +1,61 @@
+{
+  "title": "Umurinzi w'umuriro utazima",
+  "intro": "Umuntu ahagaze ku muryango w’ahantu hateye ubwoba cyane mu bitagaragara, yahawe inshingano idafite ikindi kiremwa cyifuza. Iyo imitima ibabaye itaka imbabazi, igisubizo gikomeye cyumvikana mu byumba by’umuriro. Ese ushobora kumenya uwo murinzi w’iteka ryose?",
+  "clues": [
+    "Mpagaze ku muryango w'ahantu hateye ubwoba ho guhanwa mu bitagaragara.",
+    "Umuriro ugurumana kandi utazima ni wo mushinga w'inshingano zanjye zikomeye.",
+    "Abantu bababaye bahamagara izina ryanjye, bansaba koroherwa no kubabazwa kwabo guhoraho.",
+    "Iyo basabye imbabazi, ndababwira ko batazigera bavayo.",
+    "Sindi umuntu, kandi sindi jini — ndi ikiremwa cyaremwe gifite ubudahemuka busesuye.",
+    "Ndi umumarayika mukuru washyizweho nk'umurinzi w'iteka ry'umuriro wa Gehinomu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Maliki",
+        "Jibreel",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Maliki"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Abantu bo mu muriro barasaba ko imibabaro yabo irangira",
+        "Impanda iravuzwa kugira ngo igaragaze ko Umunsi w'Urubanza ugeze",
+        "Korowani yahishuriwe umutima w'Intumwa",
+        "Umuhanuzi ajugunywa mu muriro ukomeye n'abantu babo",
+        "Urukuta rukomeye rwubakwa kugira ngo rurinde igihugu cyangiritse"
+      ],
+      "answer": "Abantu bo mu muriro barasaba ko imibabaro yabo irangira"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Umuriro wa Jahannamu (Jahannamu)",
+        "Igiti cya Lote ku rugabano rwa Paradizo",
+        "Impanda itobora",
+        "Inkoni ihinduka inzoka",
+        "Intebe y'ubwami y'Imana ihebuje"
+      ],
+      "answer": "Umuriro wa Jahannamu (Jahannamu)"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Abatuye ikuzimu babwirwa ko bazagumaho iteka ryose",
+        "Abatuye mu muriro barababariwe kandi bararekurwa",
+        "Abatuye ikuzimu bahabwa amahirwe ya kabiri yo kwizera",
+        "Abatuye ikuzimu bimurirwa ahantu hakonje",
+        "Abatuye ikuzimu barimbuwe burundu n'inkuba"
+      ],
+      "answer": "Abatuye ikuzimu babwirwa ko bazagumaho iteka ryose"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

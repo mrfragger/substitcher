@@ -1,0 +1,61 @@
+{
+  "title": "Kaxxiina baaxol ankacime wayte seeco",
+  "intro": "Atu elle soltam inki adda kaxxa qasriinoh finqa, cayla kee kaxxiina waado elle aaxige waytakkel. Farmoyti ken fanat gexe, nummat seecak, takkay immay ken sorkocô baxitte maqarrowteh. Maabitina ankacisak masuginnaay, qaran isih naqabih silac yekke. A farmoyti miyyak sugteeh, seeco cinne marak maca tekkeeh?",
+  "clues": [
+    "Anu maqaral qeedaalisso sinni ummattah ruubeeh, kulli fayyale aracal hawweenâ xisne abte.",
+    "Yi ummatta sinnih gacse waytam lowsiisak, ' miyyaay nek caylale cayla?",
+    "Anu Yalla cabta gidih ken seeceeh immay oson yoo weequuqunnaa kee diraabat yoo essereenih.",
+    "oson yoo gexkalooten digaala baahuh anu xagana cule numma tekkek.",
+    "Yalli keenil ruube silaytuy amol amaatele tu maraaqinna.",
+    "yoo kee yollih yeemene mara Yallih racmatta catneh, koros inki gabuuk baysen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Anu miyyaay?",
+      "options": [
+        "Huud farmoyti",
+        "Nabi Saalih",
+        "Nabi Shuyeb",
+        "Nabiyyi Luut",
+        "Nuuc farmoyti"
+      ],
+      "answer": "Huud farmoyti"
+    },
+    "trial": {
+      "label": "Gibbatu/Tekkooka",
+      "options": [
+        "Fiqasle silayti kaafiritte bayseh.",
+        "Kaafir mara kaxxa weeqi edde rade.",
+        "Xaahi kaqalyo rob rade",
+        "Kaxxa qiyto kaafiritte tibbixe",
+        "Baaxoh angoyyi kaafirittet rade."
+      ],
+      "answer": "Fiqasle silayti kaafiritte bayseh."
+    },
+    "location": {
+      "label": "Lafa le liyyitte",
+      "options": [
+        "Cabsu sinni caacay",
+        "coox doonik",
+        "is-gaali",
+        "kallayto xaahih rob",
+        "Carra le gira"
+      ],
+      "answer": "Cabsu sinni caacay"
+    },
+    "outcome": {
+      "label": "Xalu",
+      "options": [
+        "Huud kee moominiin cattiimeh, kaafiritte baxseenih.",
+        "Hud fayyale guddaqta fan ugte",
+        "Huud isi ummattat qide.",
+        "Huud ummatta toobitteh cattimte",
+        "Hud faxe digaalak naharal isi ummatta cabeh"
+      ],
+      "answer": "Huud kee moominiin cattiimeh, kaafiritte baxseenih."
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

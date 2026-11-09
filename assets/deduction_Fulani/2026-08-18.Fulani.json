@@ -1,0 +1,61 @@
+{
+  "title": "Oon mo o dañi suura",
+  "intro": "Miijo-ɗee ruuhu lesɗikiniiɗo ina ɓadii gooto e Nelaaɓe Alla e ɓernde heewnde nuunɗal e yiɗde janngude no feewi. Tee e oon sahaa tigi, neɗɗo jom jawdi e darnde ina joginoo hakkille Nelaaɗo, gite mum ina njuuti e ɗaɓɓoowo oo. Ko rewi heen koo, alaa ko ustata so wonaa suura Quraan timmuɗo, nelaaɗo ngam feewnude Nelaaɗo e teddinde ruuhu garɗo ɗaɓɓude.",
+  "clues": [
+    "Mi arii e Nelaaɗo Alla e ɓernde udditiinde e yiɗde ardaade",
+    "Mi alaa darnde aduna nde mbaawmi rokkude, ko ruuhu lesɗikiniiɗo tan ɗaɓɓoowo goonga",
+    "Gite am ɓalli njiyataa, kono gite am ruuhu ina laaɓi",
+    "Mi arii e sahaa mo weltaaki, nde Nelaaɗo ina jokkondiri e neɗɗo baawɗo wonde fof",
+    "Ɓoorno-ɗaa wutte am, kono Alla jaabtii mi e peewal diine",
+    "Miin woni Abdullaah bin Umm Maktum, sehil dewondirɗo mo daartol mum jibini suura Abasa"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol ko ngonmi?",
+      "options": [
+        "Abdullaah bun Ummu Maktuum",
+        "Bilaal ɓiɗɗo Raaba",
+        "Mu'ad ɓiɗɗo Jaabal",
+        "Zayd ɓiɗɗo Saabit",
+        "Salmaan Faarisi"
+      ],
+      "answer": "Abdullaah bun Ummu Maktuum"
+    },
+    "trial": {
+      "label": "Ñaawoore / Kewu",
+      "options": [
+        "Wontude Nelaaɗo ngam neɗɗo alɗuɗo",
+        "Woppude e yiite ɓuuɓɗo e juuɗe añɓe",
+        "Yeeyeede e torleede no maccuɗo nii",
+        "Wontude luulndiiɗo duel e jaambaaro doole",
+        "Ko liɗɗi mawɗi ɓuuɓnata ɗum"
+      ],
+      "answer": "Wontude Nelaaɗo ngam neɗɗo alɗuɗo"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Suura Quraan fuɗɗotooɗo e ɓuuɓri (Suura Abasa)",
+        "Yiite waɗaaɗo cooyɗo e kisal",
+        "Sawru fecciindu maayo mawngo",
+        "Laana ndiwoowa mahaa e dow tulde toownde",
+        "Birniwol gonngol e loope tiiɗɗe"
+      ],
+      "answer": "Suura Quraan fuɗɗotooɗo e ɓuuɓri (Suura Abasa)"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "Alla jippinii suura Quraan ina fadi mi",
+        "Alla waɗi yiite cooynde e kisal wonande am",
+        "Alla renndini maayo ngam danndude mi e rewde",
+        "Allah hokki yam laamu mawngu e hakkilantaaku",
+        "Allah nawi kam asjan mi maayaani"
+      ],
+      "answer": "Alla jippinii suura Quraan ina fadi mi"
+    }
+  },
+  "verseRef": "80:2",
+  "arabic": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+  "verse": "Because there came to him the blind man, [interrupting]. (80:2)"
+}

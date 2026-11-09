@@ -1,0 +1,61 @@
+{
+  "title": "Vagari vemuMinda Miviri",
+  "intro": "Munyika maive nemakomborero akawanda, nzanga yaimbofadzwa nemiti miviri yakanaka kwazvo. Hupenyu hwavo hwaiva humbowo hwenyasha dzaMwari, asi nyaya yavo yakachinja apo kutenda kwakadzikira, zvichikonzera shanduko yaizova chiratidzo chisingaperi kune vese vanofungisisa.",
+  "clues": [
+    "Taiva vanhu vakakomborerwa nenyika yekuzorora uye yehupfumi.",
+    "Ishe wedu akatipa minda miviri yakanaka kwazvo, ine miti yakawanda uye ine michero kumativi ese.",
+    "Takarayirwa kuti tive vanoonga, asi takasarudza kusatenda ndokuramba.",
+    "Dhamu guru rakadzivirira mvura yakapa hupenyu kunyika yedu.",
+    "Patakaramba tichiita zvakaipa, dhamu rakaputika uye mvura zhinji yakafashamira.",
+    "Minda yedu yaimbova yakasvibira yakatsiviwa nemichero inovava, matamariski, nemiti mishoma yemiti yemuroti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Vanhu veSaba",
+        "Vanhu veThamud",
+        "Vanhu vekuMadyan",
+        "Shamwari dzeBako",
+        "Vanhu veNzou"
+      ],
+      "answer": "Vanhu veSaba"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Mhepo ine simba kwehusiku hunomwe",
+        "Mvura yematombo inobva kudenga",
+        "Mafashamo anoparadza anobva mudhamu rakaputika",
+        "Kuchema kukuru kubva kudenga",
+        "Kunyura mugungwa"
+      ],
+      "answer": "Mafashamo anoparadza anobva mudhamu rakaputika"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Dhamu guru reMa'rib",
+        "Mupata weWadi al-Qura",
+        "Bindu reIramu",
+        "Tsime reZamzam",
+        "Gomo reSinai"
+      ],
+      "answer": "Dhamu guru reMa'rib"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Minda yedu yakatsiviwa nemichero inovava nemiti mishoma",
+        "Takamedzwa nenyika mukudengenyeka kwenyika",
+        "Takashandurwa kuita tsoko nenguruve",
+        "Takanyura mumafashamo makuru",
+        "Takaparadzwa nemvura zhinji yematombo"
+      ],
+      "answer": "Minda yedu yakatsiviwa nemichero inovava nemiti mishoma"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

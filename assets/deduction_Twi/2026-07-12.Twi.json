@@ -1,0 +1,61 @@
+{
+  "title": "Kurow a Ayera a Ɛwɔ Anuonyam a Ɛnsɛ Nso",
+  "intro": "Bere bi na anibuei a ɛyɛ den di asase a ɛtrɛw, a na wodi ho afahyɛ wɔ adan atenten a ɛkɔ soro kodu soro ho. Nanso wɔ saa kɛseyɛ yi ase no, pow a ɛyɛ den nyin — pow a wɔpow sɛ wobetie ɔsoro kɔkɔbɔfo a wɔsomaa no fii mpɔtam hɔ ankasa no. Ɛrenkyɛ na ahantan ne ahantan de asotwe bi a asase anaa ɔsoro nhuu bi da.",
+  "clues": [
+    "Bere bi na yedi asase a ɛtrɛw so, na yɛde ahoɔden bi a yegye di sɛ anibuei foforo biara rentumi ne no nsɛ hoahoa yɛn ho.",
+    "Ná yɛn ahemman no agye din wɔ adan atenten a adum akɛse wom a egyina hɔ a obiara ntumi nsi wɔ asase biara a wonim so no ho.",
+    "Ɔbɔfo bi a ofi yɛn ankasa mpɔtam hɔ sɔree, na ɔhyɛɛ yɛn mu biara sɛ ɔmfa ne ho nhyɛ Ɔbɔadeɛ Baako no nkutoo ase.",
+    "Yɛpoo nkrasɛm a wɔde kɔmaa yɛn no na yɛpowee sɛ yebegyae ɔkwan a yenya fii awo mu no.",
+    "Mframa a ano yɛ den a ɛrebɔ denneennen a emu yɛ den kɛse baa yɛn so, na ɛmaa yɛantumi ammɔ yɛn ho ban koraa.",
+    "Wogyaw yɛn te sɛ mmɛdua nnua a ɛyɛ tokuru, a wɔahwete na wɔn werɛ afi, sɛ asuade ma awo ntoatoaso biara a edi hɔ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Nnipa a wɔwɔ A'ad",
+        "Nnipa a wɔwɔ Nuh",
+        "Nnipa a wɔwɔ Lut",
+        "Nnipa a wɔwɔ Madyanfo",
+        "Nnipa a wote Tubba'."
+      ],
+      "answer": "Nnipa a wɔwɔ A'ad"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Mframa a ano yɛ den a ennyae a ɛde asotwe a emu yɛ den ma",
+        "Nsuyiri a ɛkataa bepɔw biara atifi",
+        "Osu a ɛyɛ dɔte abo a ɛredɛw fi soro",
+        "Nteɛteɛm biako pɛ a ɛyɛ hu a efi soro",
+        "Asasewosow a ano yɛ den a ɛpaapaee asase no mu"
+      ],
+      "answer": "Mframa a ano yɛ den a ennyae a ɛde asotwe a emu yɛ den ma"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Iram, kurow a adum a ɛkorɔn wom",
+        "Adaka kɛse bi a wɔde nnua ayɛ a wɔasi wɔ bepɔw bi so",
+        "Yoma ba a ofii ɔbo mu puei anwonwakwan so",
+        "Bepɔw Sinai a ɔsoro ahyɛde ahorow sian bae no",
+        "Ahemfie a wɔde ahwehwɛ ne ahwehwɛ pa ayɛ a ɛhwɛ nsu a ɛsen"
+      ],
+      "answer": "Iram, kurow a adum a ɛkorɔn wom"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wogyaw no te sɛ mmɛ nnua ntini a ɛyɛ tokuru, a apete na nkwa nnim",
+        "Wɔmenee wɔ nsuyiri kɛse bi asorɔkye a ɛboro so ase",
+        "Wɔsakraa wɔn yɛɛ wɔn abɔde a wɔte sɛ akraman ne mprako",
+        "Wɔabubu wɔ dɔte abo a ayɛ den osu a ɛtɔ ase",
+        "Wɔmenee no wɔ nteɛm biako pɛ a ɛyɛ asotiw a ɛbɔɔ ɔkra no mu"
+      ],
+      "answer": "Wogyaw no te sɛ mmɛ nnua ntini a ɛyɛ tokuru, a apete na nkwa nnim"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Chishamiso cheUchapupu Husina Kunyarara",
+  "intro": "Unosangana nenyaya yakafukidzwa nechifananidzo chekupindira kwaMwari. Nyaya yekupa zvinhu zvinoshamisa uye dziviriro isina kutaura inodzokorora kuburikidza nenguva. Unogona here kuziva kuti ndiani akatarisana nemuedzo uyu unoshamisa?",
+  "clues": [
+    "Ndakagamuchira meseji yaMwari yakandisiya ndakashamisika",
+    "Vanhu vangu vakabvunza kuchena kwangu pandakadzoka nemwana",
+    "Ndakarayirwa kuti nditsanye kwenguva yakati ndisati ndataura",
+    "Chitubu chemvura nemadhirezi zvakanditsigira panguva yekutongwa kwangu",
+    "Ishe wangu vakaita kuti muti uzununguswe zvinoshamisa kuti undipe zvekudya",
+    "Ngirozi yakaonekwa kwandiri iri muchimiro chemunhu akakwana"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Maryam",
+        "Asia",
+        "Hawa",
+        "Sara",
+        "Khadijah"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kubereka ari ega pasi pemuti wemuchindwe",
+        "Kutarisana nenzara inouraya",
+        "Kukandwa mugomba remoto",
+        "Kutiza mutongi ane hutsinye",
+        "Kuchengetedza chisaririra chitsvene"
+      ],
+      "answer": "Kubereka ari ega pasi pemuti wemuchindwe"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Muti wemuchindwe",
+        "Gwenzi rinopfuta",
+        "Tembere yematombo",
+        "Rwizi rwaNire",
+        "Gomo reSinai"
+      ],
+      "answer": "Muti wemuchindwe"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kusava nemhosva kwangu kwakaratidzwa apo mwanakomana wangu mucheche akataura",
+        "Ndakava mambokadzi anoremekedzwa",
+        "Vanhu vangu vakaparadzwa nechirango chaMwari",
+        "Ndakatungamira rudzi rwangu kukunda",
+        "Tsime rinoshamisa rakaonekwa zvachose"
+      ],
+      "answer": "Kusava nemhosva kwangu kwakaratidzwa apo mwanakomana wangu mucheche akataura"
+    }
+  },
+  "verse": "Then he called her from below her, 'Do not grieve; your Lord has provided beneath you a stream. And shake toward you the trunk of the palm tree; it will drop upon you ripe, fresh dates.' (Maryam 19:24-25)",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَا أَلَّا تَحْزَنِي قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا ﴿٢٤﴾ وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ تُسَاقِطْ عَلَيْكِ رُطَبًا جَنِيًّا ﴿٢٥﴾"
+}

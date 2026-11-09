@@ -1,0 +1,61 @@
+{
+  "title": "Okusembeza abagenyi Okwaleeta Okutya",
+  "intro": "Mu kibuga ekyali kiweddewo olw’obubi, omuweereza omwesigwa yafuna abagenyi be yali tasuubira. Olw’okuba yali afaayo ku bulamu bwabwe, omuntu ono ssekinnoomu yawaayo obukuumi, naye abantu b’omu kibuga ne baagala ekintu ekiswaza. Olw’okulabulwa ku kuzikirizibwa okwali kugenda okubaawo, omuweereza oyo yadduka n’ab’omu maka ge nga babikkiddwa ekizikiza, n’aleka ekibuga ekyali kiwandiikiddwako okuzikirizibwa. Ono omukkiriza yekka y’ani?",
+  "clues": [
+    "Nasindikibwa ng’omubaka eri abantu abaali beenyigira mu bikolwa eby’ensonyi.",
+    "Abagenyi be nnali sisuubira bajjanga mu maka gange, era nnali mweraliikirivu nnyo olw’obukuumi bwabwe okusinga obwange.",
+    "Abantu bange baali baagala okulaba abagenyi bange olw’ebigendererwa ebibi, era nnagezaako okukubaganya ebirowoozo nabo.",
+    "Abagenyi bange beeyoleka nga bamalayika ne bandagira okutwala ab’omu maka gange tugende mu kiro.",
+    "Mukyala wange teyafaayo ku mulanga gwa kudduka era yayolekagana n’okuzikirizibwa kwe kumu n’abantu bange.",
+    "Ekibuga kyange kyafuumuuka n’enkuba y’amayinja ag’ebbumba erya layeri, ebitundu byakyo ebisinga waggulu byaleeta wansi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Nabbi Lut",
+        "Nabbi Musa",
+        "Nabbi Ibrahim",
+        "Nabbi Nuh",
+        "Nabbi Hud"
+      ],
+      "answer": "Nabbi Lut"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okwetaaga kw’abantu bange okutuukirira abagenyi bange mu ngeri embi",
+        "Okwawukana kw’ennyanja okuwona omutyobooli",
+        "Okuzimba eryato eddene wakati mu kusekererwa",
+        "Ssaddaaka y’omwana wange mu kugezesebwa okw’okukkiriza",
+        "Obumanyirivu bw’okumira ekyennyanja ekinene"
+      ],
+      "answer": "Okwetaaga kw’abantu bange okutuukirira abagenyi bange mu ngeri embi"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Ekibuga eky’abantu bange ekyamenyese",
+        "Olusozi mwe nnafunira okwogera okw’obwakatonda",
+        "Eryato eryayita mu mataba amangi",
+        "Engamiya enkazi eyava mu lwazi",
+        "Olusuku nga luliko omugenyi omutuukirivu akwese"
+      ],
+      "answer": "Ekibuga eky’abantu bange ekyamenyese"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Nnalokoka n’ab’omu maka gange ng’ekibuga kyange tekinnamenyebwa",
+        "Nakulembera abantu bange okutuuka mu ddembe emitala w’ennyanja",
+        "Nnazimba eryato eddene era ne nwona amataba ag’amaanyi",
+        "Naweebwa obuyinza ku mpewo ne majinni",
+        "Nnagumiikiriza okubonaabona era ne nsasulwa n’ab’omu maka"
+      ],
+      "answer": "Nnalokoka n’ab’omu maka gange ng’ekibuga kyange tekinnamenyebwa"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Impeshi iri munsi y'umusenyi",
+  "intro": "Mu bitabu vy’ivya kera vya Korowani, umuntu yihangana cane yarashikiwe n’ikigeragezo comenagura imitima y’abantu bakomeye kuruta abandi bose. Ivyo vyose vyaranyazwe - ubutunzi, umuryango, n’amagara. Yamara rero, kuva mu kwihebura gukomeye, isengesho ry’ukwicisha bugufi ryarishuwe mu buryo butari bwitezwe kuruta ubundi bwose. Woba ushobora kumenya uwo mutima inkuru yawo y’ugusubirana isubiramwo mu bihe vyose?",
+  "clues": [
+    "Narageragejwe n’ikigeragezo gikomeye cane ku buryo cibukwa mu bihe vyose.",
+    "Natakaje vyose vyari bihambaye - ubutunzi bwanje, abana banje, n’amagara yanje.",
+    "Umubiri wanje wari wuzuye ibisebe bibabaje, kandi bose baranyirukana.",
+    "Mu kwihebura kwanje, nahamagaye Allah, mvuga ko Shetani yankozeko n’ingorane n’imibabaro.",
+    "Allah aranyishura, antegeka gukubita isi n’ikirenge canje.",
+    "Aho nyene, isoko ry’amazi ry’agahomerabunwa ryaraturitse, maze Allah asubiza umuryango wanje, arawugwiza kabiri nk’ikigongwe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umuhanuzi Ayyub",
+        "Umuhanuzi Musa",
+        "Umuhanuzi Ilyasi",
+        "Umuhanuzi Sulemani",
+        "Umuhanuzi Dawudi"
+      ],
+      "answer": "Umuhanuzi Ayyub"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Indwara zikomeye no gutakaza umuryango n’ubutunzi .",
+        "Kumirwa n'ikiyaga kinini",
+        "Uguhunga kuva mu gisagara ca Makka .",
+        "Gufungwa mw'iriba rirerire .",
+        "Guhangana n'umutware w'ubwibone"
+      ],
+      "answer": "Indwara zikomeye no gutakaza umuryango n’ubutunzi ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Isôko ritonyoroye riva mw'isi .",
+        "Ubwato buri hejuru y'umwuzure munini .",
+        "Inkoni yasaduye ikiyaga",
+        "Intebe y'ubwami y'ikiyo",
+        "Umwobo ukikujwe n'inkuta wo kuryamamwo"
+      ],
+      "answer": "Isôko ritonyoroye riva mw'isi ."
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Umuryango n'ubutunzi vyaragarutse kandi vyiyongera incuro zibiri .",
+        "Sohoka mu nda y'ifi",
+        "Guca mu mazi atandukanye ata nkomanzi",
+        "Ubwami bwahawe ngo buganze .",
+        "Ivuka ry’umuhungu ku gitangaro mu busaza"
+      ],
+      "answer": "Umuryango n'ubutunzi vyaragarutse kandi vyiyongera incuro zibiri ."
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

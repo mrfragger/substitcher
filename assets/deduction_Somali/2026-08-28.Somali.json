@@ -1,0 +1,61 @@
+{
+  "title": "Caqabadda Gurigii Hore",
+  "intro": "Magaalada barakeysan, qof awood leh ayaa caro ka qaaday markii farriin cusub ay bilaabatay inay faafto. Qofkan, oo magaciisa la mid noqday mucaaradnimada runta, ayaa daawaday saameyntooda oo ku burburtay culayska muujinta rabbaaniga ah. Yaa ahaa naftan, oo qaddarkeedu ku xirnaa ciidda goob dagaal oo caan ah?",
+  "clues": [
+    "Waxaan ahaa madax ka mid ah dadkayga, oo lagu yaqaanay maalkayga iyo saameyntayda magaalo ay ku taallo meel qadiimi ah.",
+    "Markii nin ka tirsan qabiilkayga uu bilaabay inuu ku dhawaaqo farriin Ilaah keliya ah, waan ku jeesjeesay isaga iyo waxyigiisa, anigoo ugu yeeray sheekooyin waagii hore oo keliya.",
+    "Waxaan la kulmay ninkaas isagoo ku tukanaya meel u dhow dhismaha barakeysan, anigoo ku hanjabaya inaan xoog ku joojin doono cibaadadiisa haddii loo baahdo.",
+    "Waxaan ka mid ahaa hoggaamiyeyaasha maleegay inay aamusiyaan diinta cusub, iyagoo taageerayaashoodu ku diidan yihiin hadal iyo hub labadaba.",
+    "Waxaan ciidan la socday u dhaqaaqay meel la yiraahdo Badar, anigoo kalsooni ku qaba inaan burburin doonno kooxda yar ee mu'miniinta ah.",
+    "Laakiin goobta dagaalkaas, noloshaydu way dhammaatay, geeridayduna waxay noqotay cashar loogu talagalay kuwa ku adkeysta gaalnimada ka dib calaamado cadcad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Abu Jahl",
+        "Abuu Sufyaan ibn Xarb",
+        "Al-Nadr ibnu Al-Xarith",
+        "Umayyah ibnu Khalaf",
+        "Cutbah ibnu Rabiica"
+      ],
+      "answer": "Abu Jahl"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Ka hortagga Nabiga inuu ku tukado Kacbada",
+        "Dhismaha Kacbada",
+        "Qorista Qur'aanka",
+        "Hoggaaminaya ciidanka maroodiga",
+        "Kala qaybinta dayaxa"
+      ],
+      "answer": "Ka hortagga Nabiga inuu ku tukado Kacbada"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Kacbada",
+        "Doontii Nebi Nuux",
+        "Usha Nabi Muuse",
+        "Keeggii Dahabka ahaa",
+        "Carshiga Boqoradda Sheba"
+      ],
+      "answer": "Kacbada"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Waxaa lagu dilay dagaalkii Badar",
+        "Toobad keenay oo Muslim noqday",
+        "Waxay u carareen Xabashida",
+        "Wuxuu ku dhintay Sannadkii Maroodiga",
+        "Wuxuu noqday saaxiibka Nabiga"
+      ],
+      "answer": "Waxaa lagu dilay dagaalkii Badar"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

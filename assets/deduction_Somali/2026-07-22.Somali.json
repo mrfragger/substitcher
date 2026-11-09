@@ -1,0 +1,61 @@
+{
+  "title": "Laga soo bilaabo Qoto dheer ee Ceelka",
+  "intro": "Safarka nafta yar wuxuu ku bilaabmay aragti xooggan oo ah meydadka cirka oo si xushmad leh u foorarsanaya. Nolosha qofkan waxaa lagu calaamadeeyay khiyaanada ugu qoto dheer ee ka timid kuwa ugu dhow, waxaana ku xigay sannado addoonsi iyo xabsi aan habboonayn. Haddana iyada oo loo marayo iimaan aan kala go 'lahayn iyo hanuun rabbaani ah, qofkani wuxuu ka soo kacay godka ugu hooseeya si uu u noqdo mid ka mid ah dadka ugu awoodda badan boqortooyo weyn. Ma soo bandhigi kartaa aqoonsiga addoonkan cajiibka ah ee Alle?",
+  "clues": [
+    "Waxaa la i tusay riyo ka kooban kow iyo toban xiddigood, qorraxda, iyo dayaxa oo hortayda sujuudsan.",
+    "Waxaan ahaa cunugga waalidkay oo aad loo jeclaa, kaas oo hinaaso ku beeray walaalahay.",
+    "Walaalahay ayaa i qabtay, dharkaygiina way iga fureen, oo waxaa laygu tuuray ceel qoto dheer oo mugdi ah",
+    "Waxaa la ii iibiyay badeecad ahaan suuq, waxaana la iga qaaday meel ka fog dhulkaygii hooyo.",
+    "Haweeney awood badan ayaa isku dayday inay sharafteyda waxyeeleyso, waxaana la ii xiray xabsi ka dib markii aan diiday dalabaadkeeda.",
+    "Waxaa la ii barakeeyay hadiyadda fasiraadda riyada, waxaana ka soo kacay maxbuus la ilaaway ilaa aan ka gaaray wasiirka ugu sarreeya Masar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Yuusuf",
+        "Nabi Muuse",
+        "Nabi Daa'uud",
+        "Nabi Ayuub",
+        "Nabi Sulaymaan"
+      ],
+      "answer": "Nabi Yuusuf"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Walaalihiis ayaa ku tuuray ceel qoto dheer",
+        "Ka badbaaday daad weyn oo adduunka oo dhan ah",
+        "In lagu tuuro foorno ololaysa",
+        "Dagaal ka dhan ah dagaalyahan weyn oo ku sugan goob dagaal",
+        "Kalluun weyn oo liqaya"
+      ],
+      "answer": "Walaalihiis ayaa ku tuuray ceel qoto dheer"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Ceel qoto dheer oo qalalan oo ku yaal cidlada",
+        "Doon weyn oo alwaax ah oo saaran buur dusheeda ah",
+        "Ul isu beddeshay abeeso",
+        "Carshi weyn oo qurux badan",
+        "Shabaq iyo shan dhagax oo siman"
+      ],
+      "answer": "Ceel qoto dheer oo qalalan oo ku yaal cidlada"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Wuxuu noqday ra'iisul wasaarihii ugu horreeyay ee Masar, wuxuuna dib ula midoobay qoyskii la jeclaa",
+        "Markab weyn ayuu dhisay, dadkana wuxuu ugu yeeray iimaan",
+        "Masar waxay ka soo saartay quruun dhan addoonsigii Masar",
+        "Waxaa la siiyay boqortooyo iyo xukun aan la arki karin",
+        "Waxaa la siiyay dulqaad xanuun daran, waana la bogsiiyay"
+      ],
+      "answer": "Wuxuu noqday ra'iisul wasaarihii ugu horreeyay ee Masar, wuxuuna dib ula midoobay qoyskii la jeclaa"
+    }
+  },
+  "verseRef": "40:34",
+  "arabic": "وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَـٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ",
+  "verse": "And Joseph had already come to you before with clear proofs, but you remained in doubt of that which he brought to you, until when he died, you said, 'Never will Allāh send a messenger after him.' Thus does Allāh leave astray he who is a transgressor and skeptic.\" (40:34)"
+}

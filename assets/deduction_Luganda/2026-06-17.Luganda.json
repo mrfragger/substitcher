@@ -1,0 +1,61 @@
+{
+  "title": "Echo Okuva Ku Mpenda y'Ekibuga",
+  "intro": "Mu kibuga ekyava ku bulagirizi bwa Katonda, omuntu eyali yekka yava ku njegoyego, ng’adduka n’obubaka obw’essuubi n’okulabula. Omwoyo guno ogwerabirwa gwandifuuse akabonero akataggwaawo ak’okukkiriza okunywevu.",
+  "clues": [
+    "Nalaba ababaka nga basindikibwa mu kibuga kyange, naye abantu bange ne babagoba ng’abantu ba bulijjo.",
+    "Nakkiririza mu bubaka bwabwe era nawulira amazima nga gawulikika mu bulamu bwange.",
+    "Nakoowoola abantu bange okugondera ababaka abaasaba empeera yonna.",
+    "Nadduka okuva ku nkomerero y’ekibuga esinga okuba ewala, nga ngezaako mu bwangu okubalaga ensonga.",
+    "Abantu bange ne banziyiza, ne nttibwa, naye ne nfuna emirembe emirembe gyonna.",
+    "Allah n’aŋŋamba nti, ‘Yingira ejjana,’ era ne njagala abantu bange babeere bajulizi ku kitiibwa ekyampeereddwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Omukkiriza wa Ya-Sin",
+        "Uzair Omubuuzi",
+        "Al-Khidr Omulungamya",
+        "Omukkiriza w'amaka ga Falaawo",
+        "Namrud Omutyobooli"
+      ],
+      "answer": "Omukkiriza wa Ya-Sin"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okwolekera abantu abatakkiriza abaamutta",
+        "Okusuulibwa mu muliro ogwaka",
+        "Okumira ekyennyanja ekinene",
+        "Okuzimba eryato eddene ennyo",
+        "Okudduka eggye ly’omutyobooli"
+      ],
+      "answer": "Okwolekera abantu abatakkiriza abaamutta"
+    },
+    "location": {
+      "label": "Ekifo Ekikulu",
+      "options": [
+        "Enkomerero y’ekibuga esinga okuba ewala",
+        "Olusozi lwa Tur",
+        "Ekiwonvu ky’enseenene",
+        "Embalama z’omugga Kiyira",
+        "Empuku y’empuku"
+      ],
+      "answer": "Enkomerero y’ekibuga esinga okuba ewala"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Obujulizi n’okuyingira amangu mu Jjana",
+        "Okutoloka n’obulokozi",
+        "Okulinnya mu ggulu",
+        "Okubbira mu nnyanja",
+        "Okufuuka ejjinja"
+      ],
+      "answer": "Obujulizi n’okuyingira amangu mu Jjana"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

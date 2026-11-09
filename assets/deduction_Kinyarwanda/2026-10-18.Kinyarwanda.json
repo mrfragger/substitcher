@@ -1,0 +1,61 @@
+{
+  "title": "Inkuru Nziza mu Busaza",
+  "intro": "Urimo kubona igihe aho icyizere cyongera kugaruka. Umugabo n'umugore barengeje igihe cyo kuba ababyeyi, bahabwa isezerano rinyuranyije n'amategeko agenga kamere. Hagati yabo hari umuntu ufite ubuzima bwe bwite nk'ikimenyetso cy'imbabazi z'Imana—ubugingo bwagenewe kuba umuhanuzi, bufite umurage uzahoraho mu bisekuruza byose. Ni nde uyu muntu utangaje?",
+  "clues": [
+    "Navutse ku babyeyi bari bageze mu zabukuru kandi nta bana bari bafite.",
+    "Ivuka ryanjye ryatangajwe n'abamarayika baje nk'abashyitsi mu muryango wanjye.",
+    "Nahawe ubwenge n'ubuhanuzi, kandi ndavugwa mu barwayi.",
+    "Data yitwaga inshuti ya Allah, nanjye namubereye impano mu myaka ye ya nyuma.",
+    "Nari mfite umuvandimwe wanjye wari n'umuhanuzi, kandi twembi twahawe umugisha n'Umwami wacu.",
+    "Umwana wanjye na we yari umuhanuzi, kandi urubyaro rwanjye rwahawe igitabo n'ubuhanuzi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Intumwa Ishaq (Isaka)",
+        "Intumwa Ismail (Ismail)",
+        "Intumwa Yakub (Yakobo)",
+        "Umuhanuzi Yahya (Yohana)",
+        "Umuhanuzi Uzair (Ezra)"
+      ],
+      "answer": "Intumwa Ishaq (Isaka)"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Yavukiye ku babyeyi bageze mu za bukuru",
+        "Yajugunywe mu muriro",
+        "Yahawe ubwami n'ubutunzi",
+        "Yakuye ubwoko bwe mu Misiri",
+        "Yubatse ubwato kugira ngo arokore abizera"
+      ],
+      "answer": "Yavukiye ku babyeyi bageze mu za bukuru"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Inkuru nziza y'umuhungu",
+        "Igihuru cyakaga",
+        "Inyana ya zahabu",
+        "Isanduku y'isezerano",
+        "Inkoni y'ubuhanuzi"
+      ],
+      "answer": "Inkuru nziza y'umuhungu"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Yabaye umuhanuzi ufite umuryango w'abahanuzi",
+        "Yabaye umwami w'umukire",
+        "Abantu be barimbuwe bazira kutizera",
+        "Yarokowe mu muriro",
+        "Yahawe ubushobozi bwo kuvuga akiri uruhinja"
+      ],
+      "answer": "Yabaye umuhanuzi ufite umuryango w'abahanuzi"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

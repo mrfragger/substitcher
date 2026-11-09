@@ -1,0 +1,61 @@
+{
+  "title": "Ẹni tí ó wà níwájú rẹ̀ tí àwọn àmì ìjọba kan tẹrí ba fún",
+  "intro": "Ìrìn àjò àgbàyanu kan ń dúró dè àwọn tí wọ́n ní ìgboyà láti yanjú àṣírí yìí. Nínú ìwé Ìṣípayá, ọba kan wà tí ìpàdé rẹ̀ pẹ̀lú wòlíì kan yóò tún ṣe àtúnṣe orílẹ̀-èdè kan. Ẹni yìí ṣàkóso láti ìtẹ́ jíjìnnà kan, tí àṣà àtijọ́ ń darí, títí di ìgbà àrà ọ̀tọ̀ ti òtítọ́ àtọ̀runwá kan fi yí olùṣàkóso àti ìjọba padà títí láé. Ṣé ìwọ yóò ṣàwárí ẹni tí ó jẹ́ ẹni àrà ọ̀tọ̀ yìí tí ìtàn rẹ̀ so àwọn ohun àrà ọ̀tọ̀ àti ohun jíjinlẹ̀ pọ̀ mọ́?",
+  "clues": [
+    "Mo ṣàkóso orílẹ̀-èdè aláásìkí kan ní orí omi jíjìnnà, tí a mọ̀ fún ọgbà wa àti ààfin gíga wa.",
+    "Aṣẹ mi ga julọ, sibẹ ijọba nla kan wa lati koju aye ati idanimọ wa.",
+    "Ẹyẹ kékeré kan gbé ìhìn iṣẹ́ àrà ọ̀tọ̀ kan jáde, àwọn iṣẹ́ ìyanu tí ó tẹ̀lé e sì fọ́ gbogbo èrò mi nípa agbára.",
+    "Nígbà tí mo rí ìtẹ́ kan tí ó yípadà níwájú mi, mo mọ̀ pé kò sí ẹni tí ó lè ní irú agbára bẹ́ẹ̀.",
+    "Mo kéde ìtẹríba mi fún Olúwa kan ṣoṣo ti ọ̀run àti ayé, mo sì fi gbogbo ohun tí mo ti kà sí pàtàkì tẹ́lẹ̀ sílẹ̀.",
+    "Àwa, gẹ́gẹ́ bí orílẹ̀-èdè kan, yípadà kúrò nínú ìjọsìn oòrùn ìgbàanì, a sì gba òtítọ́ tí ó yí ohun gbogbo padà."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Bilqis – Ayaba Sheba",
+        "Ayaba Madyan",
+        "Ìyàwó Wòlíì Yósù",
+        "Ayaba Íjíbítì",
+        "Ọmọ-ọbabìnrin Bábílónì"
+      ],
+      "answer": "Bilqis – Ayaba Sheba"
+    },
+    "trial": {
+      "label": "Ìdánwò Ńlá",
+      "options": [
+        "Ìkún omi tó ń pa ìjọba run",
+        "Gbigba ifiranṣẹ aṣiwère nipasẹ ẹyẹ alailẹgbẹ kan",
+        "Ogun kan lodi si awọn ọmọ-ogun Annabi Sulayman",
+        "Ọgbọ̀n ọdún ti ọ̀dá líle àti ìnira",
+        "Ìsẹ̀lẹ̀ ilẹ̀ tó gbé ààfin ọba mì"
+      ],
+      "answer": "Gbigba ifiranṣẹ aṣiwère nipasẹ ẹyẹ alailẹgbẹ kan"
+    },
+    "location": {
+      "label": "Ipò Pàtàkì",
+      "options": [
+        "Odò Náílì ní Íjíbítì ìgbàanì",
+        "Ibi Mímọ́ ti Makkah",
+        "Àgbàlá Wòlíì Dáúdù",
+        "Yemen àti àwọn ọgbà olókìkí rẹ̀",
+        "Àwọn pẹ̀tẹ́lẹ̀ Jerúsálẹ́mù"
+      ],
+      "answer": "Àgbàlá Wòlíì Dáúdù"
+    },
+    "outcome": {
+      "label": "Àbájáde náà",
+      "options": [
+        "A pa ìjọba run gẹ́gẹ́ bí ìyà fún àìgbàgbọ́",
+        "Mo fẹ́ Wòlíì Súláímọ́nì mo sì ń gbé ní Jerúsálẹ́mù",
+        "A juwọ́ sílẹ̀ fún Allah, a sì gba ìgbàgbọ́ òdodo",
+        "Mo pada si ori itẹ mi mo si tesiwaju lati se akoso bi ti atijo.",
+        "Wọ́n gba orílẹ̀-èdè náà, wọ́n sì gbà á sínú ìjọba mìíràn"
+      ],
+      "answer": "A juwọ́ sílẹ̀ fún Allah, a sì gba ìgbàgbọ́ òdodo"
+    }
+  },
+  "verseRef": "38:32",
+  "arabic": "فَقَالَ إِنِّىٓ أَحْبَبْتُ حُبَّ ٱلْخَيْرِ عَن ذِكْرِ رَبِّى حَتَّىٰ تَوَارَتْ بِٱلْحِجَابِ",
+  "verse": "And he said, \"Indeed, I gave preference to the love of good [things] over the remembrance of my Lord until it [i.e., the sun] disappeared into the curtain [of darkness].\" (38:32)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ogya no Dansefo",
+  "intro": "Ankorankoro bi a emu dɔ, a wahyira ne ho so sɛ obehu nokwasɛm a etwa to no, fii akwantu bi ase sɛ obehu honhom mu nneɛma. Wɔn gyidi a enhinhim no ma wɔkasa tiaa gyinapɛn ahorow a wɔde asi hɔ, na wohyiaa sɔhwɛ akɛse a ɛsɔɔ gyidi anohyeto ahorow hwɛe. Saa ɔkra yi asɛm no yɛ ɔsoro ahobanbɔ ne akwankyerɛ ho adanse.",
+  "clues": [
+    "Wɔde abodin soronko bi a efi m’Awurade hɔ hyiraa me, a ɛkyerɛ abusuabɔ a emu dɔ na ɛyɛ soronko.",
+    "Me mfitiaseɛ nkwa nna wɔ nnipa bi a wɔkotow ahoni a wɔde nsa ayɛ mu, nanso na me koma kɔn dɔ Nokware Nyankopɔn Baako no.",
+    "Mehwɛɛ ɔsoro abɔdeɛ, owia, bosome, ne nsoromma, dwennwen wɔn sɔre ne wɔn asehweɛ ho, na mede baa awieeɛ sɛ wɔrentumi nyɛ m’Awurade.",
+    "Wɔ adeyɛ bi a mede tia nyame pii som a atrɛw mu no, me ne atoro anyame no hyiae, na migyaw obi a ɔyɛ ankonam, ɔsõ sen biara sɛ obi a ɔbɔ sobo a ɔyɛ komm.",
+    "Abosonsom a mekasa tiae no ma wɔde asotwe a emu yɛ den baa me so, bere a wobuu me fɔ sɛ wɔmfa me nto ogyaframa a ano yɛ den mu no.",
+    "Nanso, ɛdenam me Bɔfo ahyɛde so no, ogyaframa a ano yɛ den no danee onwini ne ahobammɔ fibea, na ɛkoraa me nkwa so."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Musa",
+        "Ɔkɔmhyɛni Nuh",
+        "Ɔkɔmhyɛni Ibrahim",
+        "Odiyifo Yes",
+        "Ɔkɔmhyɛni Yusuf"
+      ],
+      "answer": "Ɔkɔmhyɛni Ibrahim"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Po Kɔkɔɔ no a wɔretwa",
+        "Nsuyiri no",
+        "Ɔba Afɔrebɔ",
+        "Ogya Ahokyere no",
+        "Whale no Yafunu"
+      ],
+      "answer": "Ogya Ahokyere no"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Adaka no",
+        "Adwumayɛfo no",
+        "Totorobɛnto no",
+        "Ogya no",
+        "Abura no"
+      ],
+      "answer": "Ogya no"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Ɔde nkurɔfo kɔɔ baabi a ahobammɔ wɔ",
+        "Onyaa ahenni kɛse bi fii awo mu",
+        "Ɔpataa bi menee no",
+        "Wogyee no fii ɔhyew mu",
+        "Wogyee abopon no"
+      ],
+      "answer": "Wogyee no fii ɔhyew mu"
+    }
+  },
+  "verseRef": "37:97",
+  "arabic": "قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَـٰنًۭا فَأَلْقُوهُ فِى ٱلْجَحِيمِ",
+  "verse": "They said, \"Construct for him a structure [i.e., furnace] and throw him into the burning fire.\" (37:97)"
+}

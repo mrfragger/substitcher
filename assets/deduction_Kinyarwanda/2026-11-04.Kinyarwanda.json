@@ -1,0 +1,61 @@
+{
+  "title": "Ubutunzi bwarohamye mu bwibone",
+  "intro": "Tekereza uhagaze imbere y’ubutunzi bwinshi cyane ku buryo gutwara imfunguzo gusa byananiza itsinda ry’abantu bakomeye. Hafi yawe, amajwi agushishikariza kwicisha bugufi no kwibuka, ariko ubwibone burushaho kwiyongera kuruta gushima. Bigenda bite iyo impano ibaye ikizamini kandi ubwibone bugashyira mu gaciro umusaruro?",
+  "clues": [
+    "Nari uwo mu bantu ba Musa, ariko narabacumuyeho.",
+    "Nahawe ubutunzi bunini cyane ku buryo imfunguzo zabwo zaremereraga itsinda ry'abagabo b'intwari.",
+    "Abantu banjye bangiriye inama yo kutishima no gushaka ubuzima bw'imperuka batibagiwe umugabane wanjye muri iyi si.",
+    "Navuze ko ibyo nari mfite nabihawe kubera ubumenyi nari mfite gusa.",
+    "Nari imbere y'abantu banjye mu mwenda mwiza, kandi abashakaga ubuzima bwo ku isi bifuzaga nk'ubwo nari mfite.",
+    "Namizwe n'ubutaka hamwe n'aho nari ndi, kandi nta n'umwe washoboraga kumfasha cyangwa ngo ngire icyo nimarira."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Qarun",
+        "Namrud",
+        "Jalut",
+        "Azar",
+        "Qabil"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Yirataga ubutunzi kandi yanga ineza ya Allah nubwo yamugiriye inama",
+        "Yabajije Ibrahim ku bijyanye no gutanga ubuzima n'urupfu",
+        "Yayoboye ingabo zirwanya Talut na Dawud",
+        "Ibigirwamana byabajwe kugira ngo abantu basenge",
+        "Yishe umuvandimwe kubera ishyari kubera igitambo"
+      ],
+      "answer": "Yirataga ubutunzi kandi yanga ineza ya Allah nubwo yamugiriye inama"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Imfunguzo z'ubutunzi butagira ingano",
+        "Isanduku y'Isezerano",
+        "Inyana y'izahabu y'imitako",
+        "Urugomero ruri hagati y'imisozi ibiri",
+        "Inyenyeri cumi n'imwe mu nzozi"
+      ],
+      "answer": "Imfunguzo z'ubutunzi butagira ingano"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Isi yamizwe n'ubuturo n'ubutunzi",
+        "Yarohamye mu nyanja ubwo yakurikiranaga Musa",
+        "Yakubiswe n'ibuye ryaturutse ku muhumetso wa Dawidi",
+        "Yashenywe n'igisasu gikomeye kubera gukubita ingamiya y'ingore amaguru",
+        "Yahinduwe inkende kubera kwica Isabato"
+      ],
+      "answer": "Isi yamizwe n'ubuturo n'ubutunzi"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

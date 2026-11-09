@@ -1,0 +1,61 @@
+{
+  "title": "Dhisaha Caqabadaha",
+  "intro": "Dhulal ballaaran, qof awood leh ayaa galay safarro taxane ah, isagoo siiyay awood iyo hab aad u weyn. Naftani waxay la kulantay bulshooyin kala duwan waxayna la kulantay caqabado gaar ah, iyagoo taariikh iyo iimaan ku reebaya ficilladooda iyo xigmaddooda, iyagoo dhammaantood qiraya isha dhabta ah ee xooggooda.",
+  "clues": [
+    "Waxaa la i siiyay awood iyo awood wax walba, waxaana raacay waddo.",
+    "Safarkaygu wuxuu i geeyay meeshii qorraxdu ka dhacday, halkaas oo aan ka helay dad.",
+    "Waxaan la kulmay bulsho aan si fiican u fahmi karin hadalka, oo ku nool laba buurood dhexdooda.",
+    "Waxaa la iga codsaday inaan dhiso xayndaab, oo aan ahayn dano shaqsiyeed, laakiin inaan ka ilaaliyo xoog wax dumiya.",
+    "Waxaan ku dhawaaqay in xoogga lagu dhisayo derbigan weyn uu ka yimid Alle, wuxuuna taagnaan doonaa ilaa waqti ballan ah.",
+    "Magacayga, oo inta badan loo turjumo 'Kan Laba Gees leh,' wuxuu tilmaamayaa inaan gaaro dhulka oo dhan ama laga yaabee laba xilli oo kala duwan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Muuse",
+        "Nabi Sulaymaan",
+        "Dhul-Qarnayn",
+        "Fircoon",
+        "Luqman"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Helitaanka muujinta",
+        "Wajahidda kaligii-taliye",
+        "Dhisidda markab weyn",
+        "Dhisidda xayndaab weyn",
+        "Kalluun oo liqay"
+      ],
+      "answer": "Dhisidda xayndaab weyn"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Sanduuqa",
+        "Shaqaalaha",
+        "Caqabadda Birta",
+        "Webiga Niil",
+        "Carshiga"
+      ],
+      "answer": "Caqabadda Birta"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Badbaadinta daadka",
+        "Noqoshada boqortooyo weyn",
+        "Ilaalinta dadka",
+        "Burburinta dulmiilaha",
+        "Xigmad waarta"
+      ],
+      "answer": "Ilaalinta dadka"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

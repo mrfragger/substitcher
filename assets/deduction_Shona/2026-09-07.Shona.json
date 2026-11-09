@@ -1,0 +1,61 @@
+{
+  "title": "Shamwari Yakatendeuka",
+  "intro": "Wava kuda kuburitsa nyaya yemweya waigara mumumvuri weuporofita asi wakasarudza nzira yaienda kukuparadzwa. Munhu uyu aigara musha nemumwe wevatumwa vakasarudzwa naAllah asi akakundikana muedzo wekutenda. Ndiani shamwari iyi yakarasika?",
+  "clues": [
+    "Ndakagara pakati pevanhu vakaramba kudanwa kwekururama, uye handina kuvapikisa.",
+    "Ndakanga ndakaroorwa nemuporofita waAllah, asi ndaisatendawo izvozvo.",
+    "Nhume padzakauya kumba kwangu dzichindinyevera, handina kuzvitenda.",
+    "Mudzimai wangu akarayirwa kuti abve muguta pamwe chete nevatendi, uye ini ndakanga ndisiri pakati pavo.",
+    "Kurangwa kwakawira vanhu vangu, uye ndakaparadzwa pamwe chete navo.",
+    "Ndakataurwa muQuran semuenzaniso wekusatenda, pamwe chete nemukadzi waNuh, muSurah At-Tahrim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Mudzimai weMuporofita Nuh",
+        "Mudzimai weMuporofita Lut",
+        "Mudzimai weMuporofita Ibrahim",
+        "Mudzimai waMuporofita Musa",
+        "Mudzimai weMuporofita Ayyub"
+      ],
+      "answer": "Mudzimai weMuporofita Lut"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Akatengesa murume wake nekusatenda",
+        "Akaramba shoko reMuporofita Hud",
+        "Zvidhori zvainamatwa pachena muKaaba",
+        "Akarongerwa kupikisana nebasa remurume wake",
+        "Akaramba kugamuchira uporofita hwemwanakomana wake"
+      ],
+      "answer": "Akatengesa murume wake nekusatenda"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Guta reSodhoma",
+        "Guta reMadyan",
+        "Guta reIram",
+        "Guta reBhabhironi",
+        "Guta reJerusarema"
+      ],
+      "answer": "Guta reSodhoma"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akaponeswa nemurume wake",
+        "Kuparadzwa pamwe chete nevasingatendi",
+        "Kutapwa kunyika iri kure",
+        "Akapfidza uye akaregererwa",
+        "Akazova mutendi gare gare"
+      ],
+      "answer": "Kuparadzwa pamwe chete nevasingatendi"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Munsi y'igitutu c'umusukoni",
+  "intro": "Inkuru ivuga ivy’umutima washizwe ku ruhande imbere y’uko uvuka, ugaburirwa mu bihome vyeranda, ugatoranywa kugira ngo ushire ikimenyetso isi itari bwigere ibona. Igihe ikirego cava mu mpande zose, ijwi ryava ahantu hatashoboka cane kugira ngo riceceke amakenga yose. Woba ushobora kumenya uwagendeye munsi y’igitutu c’ico giti c’umusukoni?",
+  "clues": [
+    "Nari niyemeje gukorera Ishoboravyose imbere y’uko nsubira guhumeka ubwa mbere, indagano yatanzwe n’uwantwaye.",
+    "Nakuriye mu kwitwararikwa n’umurinzi w’umugororotsi mu vyumba vyeranda vy’ahantu ho gusengera.",
+    "Igihe cose uwujejwe kuncungera yaza mu cumba canje, yasanga ndi kumwe n’ibifungurwa vyo mu bihe vy’umwaka bitari bikwiye kubaho.",
+    "Nararonse inkuru nziza y’umuhungu, naho nyene ivyanje vyari bitasigaye ikibanza c’ivyo nari narasezeranye.",
+    "Naciye nsubira inyuma nja ahantu kure, maze ng’aho igiti c’umusukoni campa igitutu mu gihe umugezi wariko uratemba munsi.",
+    "Igihe ikirego caza kandi ibibazo bikankikuza, narerekanye umwana wanje aherutse kuvuka — aca avuga ari mu nda kugira ngo acereze amakenga yose."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Mariya",
+        "Sara",
+        "Hawwa",
+        "Ummu Musa",
+        "Umugore wa Nuh"
+      ],
+      "answer": "Mariya"
+    },
+    "trial": {
+      "label": "Ikigeragezo / Ivyabaye",
+      "options": [
+        "Kuvyara umuhungu w'igitangaza ari wenyene .",
+        "Gutabwa mu muriro ururumba n’abasenga ibigirwamana .",
+        "Kurokoka umwuzure munini turi kumwe n’abantu bakeyi batoranijwe .",
+        "Gutandukanywa n'uruyoya rwajugunywe mu ruzi .",
+        "Guhangana n’umutware w’inkomezi wa Misiri ."
+      ],
+      "answer": "Kuvyara umuhungu w'igitangaza ari wenyene ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Igiti c'umusukoni n'uruzi rutemba munsi yaco",
+        "Ubwato bukomeye buri hejuru y’imiraba miremire .",
+        "Inkoni igabanya ikiyaga kinini mu bice bibiri .",
+        "Umuriro waka wari ugamije guturira umutima w’umwizigirwa .",
+        "Intebe y’ubwami y’inzahabu isharije amabuye y’agaciro ."
+      ],
+      "answer": "Igiti c'umusukoni n'uruzi rutemba munsi yaco"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Yubahwa nk'uwashizwe hejuru kuruta abagore bose .",
+        "Yasubiye kubonana n'umwana akundwa inyuma y'igihe kirekire batandukanye .",
+        "Yakuye ihanga ryose mu buja bw’umunyagitugu .",
+        "Yagabishije abantu bazimiye mu busambanyi .",
+        "Yemerewe kuganza amajini, abantu n’imiyaga ."
+      ],
+      "answer": "Yubahwa nk'uwashizwe hejuru kuruta abagore bose ."
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

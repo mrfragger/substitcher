@@ -1,0 +1,61 @@
+{
+  "title": "Ìwákiri Starlit fún Ìdánilójú",
+  "intro": "Fojú inú wo bí ó ṣe dúró lábẹ́ òfuurufú alẹ́ ńlá kan, tó ń wo ìmọ́lẹ̀ tó ń tàn yanranyanran tó ń yọ, tó sì ń parẹ́ bí ó ti ń wá ohun tó yẹ fún ìfọkànsìn. Ní àyíká rẹ, àwọn ère gbígbẹ́ tí kò dákẹ́ ń gba ìyìn àti ẹbọ, síbẹ̀ ìdí tó ṣe kedere ń bi agbára wọn léèrè. Ohùn aláìbẹ̀rù kan fẹ́rẹ̀ pe àṣà àjogúnbá níjà, ó sì ń tọ́ka sí Ẹlẹ́dàá ọ̀run àti ayé.",
+  "clues": [
+    "Mo wo awọn irawọ, oṣupa, ati oorun, mo si ro pe wọn ko le jẹ Oluwa mi nitori wọn n wo o ti n parẹ.",
+    "Mo kọ ohun tí àwọn ènìyàn mi ń jọ́sìn yàtọ̀ sí Allah ní gbangba, mo sì pè wọ́n láti jọ́sìn fún Ẹlẹ́dàá nìkan ṣoṣo.",
+    "Mo jiyàn lórí alákòóso kan tó ń fọ́nnu tó sọ pé òun ló ń fúnni ní ìyè àti ikú, mo sì dáhùn nípa sísọ nípa mímẹ́nu kan Allāhu tó ń mú oòrùn wá láti ìlà oòrùn.",
+    "Mo lu àwọn ère náà, mo sì fọ́ wọn túútúú, àwọn tó tóbi jùlọ nínú wọn nìkan ló kù kí àwọn ènìyàn lè padà síbẹ̀.",
+    "Àwọn ènìyàn mi gbá mi mú, wọ́n sì dá mi lẹ́bi, wọ́n sì sọ pé kí n kọ́ ilé kan kí n sì jù mí sínú iná tí ń jó.",
+    "Mo gbàlà nígbà tí Allah pàṣẹ pé kí iná jẹ́ ìtútù àti ààbò fún mi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Ibrahim (Abrahamu)",
+        "Wòlíì Yahya (Jòhánù)",
+        "Wòlíì Al-Yasa (Eliṣa)",
+        "Àwọn Samiri",
+        "Namrud (Nimrọd)"
+      ],
+      "answer": "Wòlíì Ibrahim (Abrahamu)"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Wọ́n dojúkọ ìjọsìn òrìṣà, wọ́n sì ń jiyàn lórí ìtumọ̀ àwọn ohun tí ó wà ní ọ̀run",
+        "Ẹja ńlá kan gbé e mì lẹ́yìn tí ó fi ìbínú lọ kúrò níbẹ̀",
+        "A dari awọn ọmọlẹhin la okun ti Allah ya sọtọ kọja",
+        "A jí i dìde láàyè sí ọ̀run láìtọ́ ikú wò",
+        "Mo sùn ninu ihò pẹlu awọn ẹlẹgbẹ mi fun ọpọlọpọ ọdun"
+      ],
+      "answer": "Wọ́n dojúkọ ìjọsìn òrìṣà, wọ́n sì ń jiyàn lórí ìtumọ̀ àwọn ohun tí ó wà ní ọ̀run"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Iná tí ó ń jó tí Allāhu mú kí ó tutu tí ó sì ní ààbò",
+        "Ọkọ̀ tí ó gbé àwọn onígbàgbọ́ la ìkún omi já",
+        "Ọ̀pá tí ó di ejò",
+        "Tábìlì náà tàn ká láti ọ̀run",
+        "Rakunmi náà rán gẹ́gẹ́ bí àmì"
+      ],
+      "answer": "Iná tí ó ń jó tí Allāhu mú kí ó tutu tí ó sì ní ààbò"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A dáàbò bò ó kúrò lọ́wọ́ iná a sì fún un ní àwọn ọmọ olódodo",
+        "Àwọn olùsẹ́yìn rì sínú omi ńlá kan",
+        "A yípadà fún rírú ọjọ́ ìsinmi",
+        "Àwọn ẹyẹ tí wọ́n gbé òkúta amọ̀ parun",
+        "Ilẹ̀ gbé e mì pẹ̀lú àwọn ìṣúra"
+      ],
+      "answer": "A dáàbò bò ó kúrò lọ́wọ́ iná a sì fún un ní àwọn ọmọ olódodo"
+    }
+  },
+  "verseRef": "6:75",
+  "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+  "verse": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]. (6:75)"
+}

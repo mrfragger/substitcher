@@ -1,0 +1,61 @@
+{
+  "title": "Eddoboozi Okuva Ebweru",
+  "intro": "Oyimiridde mu kibuga ababaka basatu mwe bazze n’obubonero obweyoleka, naye abantu ne babasekerera ne banywerera ku makubo gaabwe ag’edda. Okuva mu kitundu eky’ewala ennyo eky’ekibuga, ekifaananyi kidduka emisinde ng’egenda eri abantu, nga kissa omukka era nga mumalirivu, okwogera amazima ng’ayolekedde okugaanibwa. Omwoyo guno ogwassa buli kimu mu kabi olw’obubaka obutali bwabwe y’ani?",
+  "clues": [
+    "Nnabeera mu bantu abaali bafunye ababaka abalina obubonero obutegeerekeka obulungi, naye ne bakyuka nga beegulumiza.",
+    "Najja nga nziruka okuva ewala ennyo mu kibuga ne mpulira omulanga gw’ababaka.",
+    "Nagamba abantu bange nti, ‘Abange, mugoberere ababaka. Mugoberere abo abatakusaba mpeera, kubanga balung’amibwa bulungi.’",
+    "Nze saali nnabbi, wabula nakkiririza mu babaka era ne nkubiriza abantu bange okukola kye kimu.",
+    "Abantu bange baasekerera amagezi gange era ne banlumiriza nti ndi muyitirivu.",
+    "Bwe banzita, Allah yang’amba okuyingira ejjana, era nayagala nnyo abantu bange bamanye okusonyiyibwa n’ekitiibwa kye nnafuna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Omusajja okuva ewala ennyo mu kibuga (Ya-Sin) .",
+        "Omu ku babaka abasatu abaasindikibwa mu kibuga",
+        "Omusuubuzi omututumufu mu kibuga ekyo",
+        "Omufuzi w’ekibuga",
+        "Omukulembeze w’abatakkiriza"
+      ],
+      "answer": "Omusajja okuva ewala ennyo mu kibuga (Ya-Sin) ."
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okubuulira abantu be okugoberera ababaka",
+        "Okuzimba emmeeri okutaasa abakkiriza okuva mu mataba",
+        "Okusuulibwa mu muliro olw’okukkiriza",
+        "Okumira ennyonyi ekika kya whale",
+        "Okuweebwa obwakabaka n’amagezi"
+      ],
+      "answer": "Okubuulira abantu be okugoberera ababaka"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Ekitundu ekisinga okuba ewala mu kibuga",
+        "Essanduuko",
+        "Oluzzi",
+        "Ekisaka ekyokya",
+        "Empuku"
+      ],
+      "answer": "Ekitundu ekisinga okuba ewala mu kibuga"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yayingira mu Jjana n’ayagala abantu be basobole okumanya okusonyiyibwa kwe",
+        "Yabbira mu mazzi n’abantu be olw’okugaana obubaka",
+        "Yaweebwa ekyamagero ky’engamiya enkazi",
+        "Yafuuka omufuzi oluvannyuma lw’okuwozesebwa",
+        "Yalokoka Allah n’asigala n’abantu be"
+      ],
+      "answer": "Yayingira mu Jjana n’ayagala abantu be basobole okumanya okusonyiyibwa kwe"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

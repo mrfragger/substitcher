@@ -1,0 +1,61 @@
+{
+  "title": "Chichemo Chanzwikwa Pamusoro Peruzha",
+  "intro": "Unonzwa inzwi richikwira kubva munharaunda umo kudzvinyirirwa kwave tsika. Hapana kuratidzwa kwesimba kunopindura kunyunyuta; panzvimbo pezvo, chikumbiro chakananga chinosvika kuna Allah, uye mhinduro yacho inobaya pamoyo pekunamata pachako. Ndiani akanyunyuta kudaro, mubvunzo upi wakatevera, uye chokwadi chipi chakasimbiswa?",
+  "clues": [
+    "Ndakatanga kunetseka nekudzvinyirirwa kwevanhu vakandipoteredza.",
+    "Ndakataura chichemo ichocho zvakananga kuna Allah munyunyuto yangu.",
+    "Allah akanzwa kunyunyuta uye akapindura nepfungwa pamusoro pezvandaitenda.",
+    "Mhinduro yacho yakabvunza kuti ndaizotadza sei kutenda muna Allah, uyo ari Mumwe chete uye Mukurusa.",
+    "Ndakabva ndabvunza kuti sei Allah achifanira kupa vanhu vasingatendi nyasha.",
+    "Ndini Uzair, ndakatumidzwa muSurah Az-Zukhruf kuti ndini ndakanzwa kunyunyuta kwangu naAllah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Uzair",
+        "Shamwari yake yakafamba nechikepe pamafashamo makuru",
+        "Muranda akafamba pamusoro pemvura",
+        "Munhu akarara akadzivirirwa mubako",
+        "Muranda akaunza matombo kurwizi"
+      ],
+      "answer": "Uzair"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kunyunyuta kuna Allah nezvekudzvinyirirwa kwevanhu",
+        "Kufamba pamusoro pemvura panguva yedutu",
+        "Kutakura matombo kuenda kurwizi rwakanga rusina mvura",
+        "Kufamba nechikepe nepakati pemafashamo makuru muAreka",
+        "Kugamuchira kiyi yepfuma huru"
+      ],
+      "answer": "Kunyunyuta kuna Allah nezvekudzvinyirirwa kwevanhu"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Chichemo chakananga kuna Allah",
+        "Tsvimbo yakazova nyoka",
+        "Choto chakagadzirwa kuti chitonhore uye chinyararire",
+        "Areka iri kuyangarara pamusoro pemvura yemafashamo",
+        "Hove iri kumedza mushandi"
+      ],
+      "answer": "Chichemo chakananga kuna Allah"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Allah akanzwa kunyunyuta uye akasimbisa Kubatana kwaMwari uye Hushe Hwepamusoro",
+        "Kufamba zvakanaka pamusoro pemvura panguva yedutu",
+        "Kuyambuka mafashamo makuru vakachengeteka vari muAreka",
+        "Kuonazve mukati memuzinda wekuzvikudza",
+        "Kugamuchira hutongi hunotangira kumabvazuva kusvika kumadokero"
+      ],
+      "answer": "Allah akanzwa kunyunyuta uye akasimbisa Kubatana kwaMwari uye Hushe Hwepamusoro"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

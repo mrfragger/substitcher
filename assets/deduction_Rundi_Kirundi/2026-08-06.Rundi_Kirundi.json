@@ -1,0 +1,61 @@
+{
+  "title": "Umutima uri maso ku nkengera y'uruzi",
+  "intro": "Umutima mutoyi warajejwe igikorwa c’ibanga, co kwihweza ari kure cane ingene iherezo ryariko rigenda ku mazi. Ico kigereranyo kitabonetse kandi kitakekwa, cogira uruhara runini mu guhindura ingendo y’amateka y’igihugu.",
+  "clues": [
+    "Narahawe igikorwa na mawe, igikorwa cari gisaba kwiba no kuba maso.",
+    "Amaso yanje yakurikiye akazu gatoyi kariko karagendagenda ku mugezi, umutima wanje uremerewe n'amaganya.",
+    "Igihe ryaboneka n’umugwi utari witeze, narayegereye, mfise ubwoba bwinshi.",
+    "Nabonye ukuntu bihebuye kubera uwuzobabungabunga maze ndababwira umuti ntavuze ukuri.",
+    "Ugufasha kwanje ku gihe kwatumye umutima wonsa usubira ku wuwukeneye cane.",
+    "Mu ngoro z’abakomeye, naravuze nti: ‘None ndabayobore mu muryango uzomugaburira kandi uzomurera neza?’."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Mushiki wa Musa .",
+        "Nyina wa Musa .",
+        "Umugore wa Farawoni .",
+        "Umuvyazi",
+        "Umukobwa wa Shu’aib ."
+      ],
+      "answer": "Mushiki wa Musa ."
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Guta umwana mu ruzi .",
+        "Ugutandukana kw'ikiyaga",
+        "Guturira inyana .",
+        "Ubwubatsi bw'ubwato .",
+        "Ikiza c'inzige ."
+      ],
+      "answer": "Guta umwana mu ruzi ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Uruzi",
+        "Ubugaragwa",
+        "Umusozi",
+        "Ingoro",
+        "Umuriro"
+      ],
+      "answer": "Uruzi"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Yaciye asubira guhura n'uwo mwana na nyina wiwe .",
+        "Yarirokoye abasoda ba Farawo .",
+        "Yaciye aba umwamikazi .",
+        "Yarahanwe kubera ubutasi .",
+        "Ni we yarongoye Abisirayeli + ."
+      ],
+      "answer": "Yaciye asubira guhura n'uwo mwana na nyina wiwe ."
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

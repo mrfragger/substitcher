@@ -1,0 +1,61 @@
+{
+  "title": "Naqshadeeyayaasha Dhagaxa",
+  "intro": "Bal qiyaas ilbaxnimo xooggan, oo hibo iyo xirfad leh, oo guryo waaweyn ku xardhay buuraha. Kooxdani waxay lahayd barwaaqo aad u weyn iyo karti dhisme oo gaar ah. Haddana, inkastoo ay heleen digniino cad, haddana waxay doorteen waddo horseedi karta gabagabo cajiib ah oo aan la ilaawi karin. Ma aqoonsan kartaa kooxdan oo sheekadoodu u noqoto cashar qoto dheer dhammaan kuwa ka fikira?",
+  "clues": [
+    "Waxaa naloo siiyay xoog iyo xirfad, taasoo noo suurta gelisay inaan guryo qurux badan si toos ah ugu qorno buuraha.",
+    "Waxaa Alle na siiyay calaamad cad, makhluuqaad gaar ah oo aan la dhibin karin si aan u daaqno.",
+    "Bulshadeennu waxay noqotay mid kibir badan, iyagoo ka hor yimid farriinta rabbaaniga ah ee uu keenay rasuul naga mid ah.",
+    "Waxaan shirqool u dhignay inaan waxyeellayno calaamadda mucjisada ah, inkastoo digniinaha ciqaabta daran ay jiraan.",
+    "Waxaan ka hor imaanay amarkii ahaa in xayawaanka gaarka ah laga cabbo ceelkeena maalmo kale.",
+    "Waxaan la kulannay dhammaad ba'an, waxaana ku dhacay qarax cabsi leh oo keliya ka dib falkeennii xadgudubka ahaa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Yaan nahay?",
+      "options": [
+        "Dadka 'Ad'",
+        "Dadka reer Midyaan",
+        "Dadka Maroodiga",
+        "Reer Thamuud",
+        "Dadka reer Luut"
+      ],
+      "answer": "Reer Thamuud"
+    },
+    "trial": {
+      "label": "Tijaabadayada Weyn/Dhacdadeena",
+      "options": [
+        "Daadkii dhulka qabsaday",
+        "Kala qaybsanaanta badda",
+        "Burburka hal qarax/qaylo",
+        "Gubashada magaalo",
+        "Buur isu beddeshay ciid"
+      ],
+      "answer": "Burburka hal qarax/qaylo"
+    },
+    "location": {
+      "label": "Qayb Muhiim ah oo ku jirta Sheekadeena",
+      "options": [
+        "Wur dahab ah",
+        "Hashii cajiibka ahayd",
+        "Geed gubanaya",
+        "Shimbir hadlaysa",
+        "Carshi weyn"
+      ],
+      "answer": "Hashii cajiibka ahayd"
+    },
+    "outcome": {
+      "label": "Natiijadayada Ugu Dambeysa",
+      "options": [
+        "Waxaa la siiyay maal iyo awood aad u badan",
+        "Waxaa kor loo qaaday nebinimada",
+        "Baabi'in cad oo ciqaab rabbaani ah",
+        "Waa la cafiyay ka dib toobad dhab ah",
+        "Ku kala firdhay dhulka oo dhan si ay u wareegaan"
+      ],
+      "answer": "Baabi'in cad oo ciqaab rabbaani ah"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

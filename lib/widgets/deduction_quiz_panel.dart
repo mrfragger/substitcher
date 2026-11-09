@@ -484,7 +484,10 @@ class _DeductionQuizPanelState extends State<DeductionQuizPanel> {
   // Languages written right-to-left. Reuses the app-wide set and adds the two
   // translation names it doesn't cover (Kurdish_Sorani, Yiddish).
   bool _isRtlLanguage(String lang) =>
-      isRtlQuranLanguage(lang) || lang == 'Kurdish_Sorani' || lang == 'Yiddish';
+      isRtlQuranLanguage(lang) ||
+      lang == 'Kurdish_Sorani' ||
+      lang == 'Yiddish' ||
+      lang == 'Dhivehi';
 
   Widget _buildQuiz() {
     return Directionality(

@@ -1,0 +1,61 @@
+{
+  "title": "Ubwiza bwarohamye",
+  "intro": "Iyumvire iki kintu: umutima wambaye impuzu nziza kandi ukikujwe n’ubutunzi burengeye ubw’umuntu yokwiyumvira. Uwo muntu yarizera ko ubutunzi bwabo buronswa biciye ku bukerebutsi bwabo bwite, ntiyigera yemera isoko y’ibifungurwa vy’ukuri. Uwo muntu yagendagenda mu bayoboke b’umuhanuzi w’inkomezi, yaranse umuhamagaro wose wo kwicisha bugufi. Uyu musi, turahishura akaranga k’umuntu ubutunzi bwiwe bwiza cane bwacitse ikibanza cabo co kuruhukiramwo ca nyuma.",
+  "clues": [
+    "Nabayeho mu gihe c’umuhanuzi yahamagaye ihanga ry’inkozi z’ikibi ku kuri.",
+    "Nari mu bagize umuryango watoranijwe, yamara umutima wanje warahindukiriye ubutumwa.",
+    "Inzahabu n’ifeza vyarankwegereye kuruta itegeko ryose ry’Imana.",
+    "Ivyumba vyanje vy’ubutunzi vyarakuze cane ku buryo umugwi w’abantu ukomeye wari ushobora guterura imfunguruzo ata co bimaze.",
+    "Nararata nti ubutunzi bwanje nabuhawe kubera ubumenyi bwanje bwite.",
+    "Amaherezo, jewe n’aho mba hose twamizwe n’isi nk’imburi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Qarun",
+        "Hamani",
+        "Samiri",
+        "Bilikisi",
+        "Taluti (Sawuli)"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Ubwibone ku butunzi no kwanka ubugiraneza",
+        "Guhingura ikigirwamana c'inzahabu mu mabuye y'agaciro",
+        "Kumenyesha ubumana ku bwami bukomeye .",
+        "Gutoteza abemera ba mbere i Makka .",
+        "Kurongora igikorwa co gusenya Inzu Nyeranda ."
+      ],
+      "answer": "Ubwibone ku butunzi no kwanka ubugiraneza"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Itunga imfunguruzo zaryo zari ziremereye abagabo benshi b’inkomezi .",
+        "Inyana y’inzahabu yasohoka ijwi .",
+        "Intebe y'ubwami y'ubuninahazwa ivuye mu gihugu ca kure .",
+        "Umugende wuzuye umuriro ururumba",
+        "Ingabo zikomeye z'inzovu z'intambara ."
+      ],
+      "answer": "Itunga imfunguruzo zaryo zari ziremereye abagabo benshi b’inkomezi ."
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Imizwe n'isi hamwe n'aho iba .",
+        "Yarohamye mu kiyaga ari kumwe n'ingabo .",
+        "Yaturiwe ari muzima mu cobo c'umuriro .",
+        "Yasambuwe n’umuyaga uboroga kandi ukaze",
+        "Gukubitwa n’igisasu kimwe gikomeye"
+      ],
+      "answer": "Imizwe n'isi hamwe n'aho iba ."
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

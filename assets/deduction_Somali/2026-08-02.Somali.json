@@ -1,0 +1,61 @@
+{
+  "title": "Dhulka iyo Cirka dhexdooda",
+  "intro": "Naf sir ah ayaa ku sugeysa bogagga barakeysan ee taariikhda rabbaaniga ah, iyadoo wadata calaamado iyo yaabab weli soo noqnoqda qarniyo badan. Markaad raacdo raadadka tilmaamaha, waxaad dhex mari doontaa sheeko lagu calaamadeeyay mucjisooyin - laga bilaabo bilow mucjiso ah ilaa kor u kaca cirka. Ma aqoonsan kartaa addoonkan barakaysan ka hor tilmaanta kama dambaysta ah?",
+  "clues": [
+    "Waxaa la ii soo diray rasuul reer binu Israa'iil ah oo ii sheegaya war naxariis iyo iftiin leh.",
+    "Dhalashadaydu waxay ahayd calaamad mucjiso ah — waxaan dunidan ku imid aabbe la'aan, amarka Ilaaha Qaadirka ah.",
+    "Waxaan hadlay anigoo weli ilmo yar ah, anigoo difaacaya sharafta hooyaday eedaha dadkeeda.",
+    "Idanka Alle, waxaan shimbiraha ka sameeyay dhoobo oo aan ku neefsaday nolol - way duuleen iyagoo indhaha kuwa daawanayay hortooda.",
+    "Waxaan bogsiiyay kuwii indha la'aanta ku dhashay, waxaan bogsiiyay baraska, xitaa waan soo nooleeyay kuwii dhintay - haddana mucjiso kasta waxay ahayd idanka Alle, ee ma ahayn tii aan sameeyay.",
+    "Markii cadawgaygu ay qorsheeyeen inay i burburiyaan, Alle ayaa kor ii qaaday samada, wuxuuna ii ballan qaaday inaan soo laaban doono ka hor Maalinta Qiyaamaha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nebi Ciise (Ciise)",
+        "Nabi Muuse (Nabi Muuse)",
+        "Nabi Ibraahim (Ibraahiim)",
+        "Nabi Muxamed",
+        "Nabi Yuusuf (Yuusuf)"
+      ],
+      "answer": "Nebi Ciise (Ciise)"
+    },
+    "trial": {
+      "label": "Waqtiga Qeexitaanka",
+      "options": [
+        "Waxaa la ii qaaday samada",
+        "Waxaa laygu tuuray dab ololaya",
+        "Waxaan la kulmay ciidankii xoogga badnaa ee Fircoon",
+        "Waxaa i liqay nibiri weyn",
+        "Waxaan doonni ka dhisay buurta"
+      ],
+      "answer": "Waxaa la ii qaaday samada"
+    },
+    "location": {
+      "label": "Calaamadda Barakaysan ee la sameeyay",
+      "options": [
+        "Waxaan shimbiraha ka sameeyay dhoobo",
+        "Ul ayaan u beddelay abeeso",
+        "Dayaxa waxaan u qaybiyay laba",
+        "Waxaan amray dabaysha iyo jinka",
+        "Waxaan dhagax ka soo saaray hashii geel"
+      ],
+      "answer": "Waxaan shimbiraha ka sameeyay dhoobo"
+    },
+    "outcome": {
+      "label": "Maxaa iga noqday",
+      "options": [
+        "Samada kor loogu qaaday; ballanqaaday inuu soo laaban doono",
+        "Wuxuu noqday taliye weyn oo boqortooyo ah",
+        "Dadkaygii maxaabiista ka soo saaray",
+        "Waxaa la siiyay hanti dhuleed oo aan la barbar dhigi karin",
+        "Waxaan dib ula midoobay qoyskayga ka dib kala tag dheer"
+      ],
+      "answer": "Samada kor loogu qaaday; ballanqaaday inuu soo laaban doono"
+    }
+  },
+  "verseRef": "43:59",
+  "arabic": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+  "verse": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel. (43:59)"
+}

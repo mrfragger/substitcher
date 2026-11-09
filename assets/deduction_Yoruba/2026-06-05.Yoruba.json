@@ -1,0 +1,61 @@
+{
+  "title": "Àwọn Olùwá Òtítọ́ Onírẹ̀lẹ̀",
+  "intro": "Ní ilẹ̀ agbára àti iṣẹ́ àjẹ́ àtijọ́, ìjà ńlá kan bẹ̀rẹ̀. Ẹgbẹ́ kan lo agbára àwọn àmì àtọ̀runwá, nígbà tí èkejì gbìyànjú láti bá ohun tí kò ṣeé ṣe mu. Àbájáde náà yóò yí ìtàn padà títí láé. Ṣé o lè ṣàwárí ẹni tí ó jẹ́rìí òtítọ́ tí ó ga jùlọ tí ó sì rẹ ara rẹ̀ sílẹ̀ níwájú rẹ̀?",
+  "clues": [
+    "A rí àwọn àmì tó kọjá àwọn ọgbọ́n àjẹ́",
+    "Gbogbo wa ni a tẹriba, a ko le sẹ otitọ naa",
+    "A mọ̀ pé àwọn àmì wọ̀nyí wá láti ọ̀dọ̀ Ọlọ́run Tòótọ́ Kan ṣoṣo",
+    "Àwa ni àwùjọ àkọ́kọ́ láti gba ìgbàgbọ́ ní ọ̀nà tó yanilẹ́nu bẹ́ẹ̀",
+    "A ṣe ìlérí párádísè fún wa gẹ́gẹ́ bí èrè wa fún ìgbàgbọ́ wa",
+    "Okùn àti ọ̀pá wa di ejò níwájú wa, síbẹ̀ a yan ìtẹríba"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Àwọn onídán Fáráò",
+        "Àwọn ènìyàn Annabi Ibrahim",
+        "Àwọn olùwá òtítọ́ onírẹ̀lẹ̀",
+        "Àwọn Ènìyàn Ihò Àpáta",
+        "Orílẹ̀-èdè Ayaba Bilqis"
+      ],
+      "answer": "Àwọn onídán Fáráò"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ìpàdé pẹ̀lú àwọn òṣìṣẹ́ Annabi Musa",
+        "Idanwo afẹfẹ Anabi Hud",
+        "Ìpèníjà láti ọ̀dọ̀ abo ràkúnmí Wòlíì Sáílì",
+        "Ìkún omi ńlá tí a rán sí wòlíì kan",
+        "Ìrìn àjò wòlíì kan nínú ẹja ńlá"
+      ],
+      "answer": "Ìpàdé pẹ̀lú àwọn òṣìṣẹ́ Annabi Musa"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Íjíbítì àtijọ́",
+        "Ilé mímọ́ ní Makkah",
+        "Ìlú Mídíánì",
+        "Aṣálẹ̀ Támúdì",
+        "Ihò àwọn ẹni tí wọ́n ń sùn ní ìgbàanì"
+      ],
+      "answer": "Íjíbítì àtijọ́"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Párádísè gẹ́gẹ́ bí èrè wọn",
+        "Ìjìyà nínú ibojì",
+        "Pípàdánù ọgbà wọn tó pọ̀ gan-an",
+        "Ìparun nípasẹ̀ ìsẹ̀lẹ̀ òjijì",
+        "Ìgbàlà lọ́wọ́ ẹja ńlá kan"
+      ],
+      "answer": "Párádísè gẹ́gẹ́ bí èrè wọn"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

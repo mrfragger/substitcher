@@ -1,0 +1,61 @@
+{
+  "title": "Dhamu Rakaputsa Umambo",
+  "intro": "Nyika ine nzizi dzinoyerera, minda miviri yakasvibira, uye kubudirira kusingaenzaniswi — asi vagari vayo vakarega kuteerera Iye akavaropafadza. Zviyeuchidzo pazvakauya zvichivadana kuti vadzoke, vakatendeuka. Chirango chakatevera chaive chichiri kurira senyevero. Ndiani aive nzanga yekare iyi?",
+  "clues": [
+    "Taigara munyika yakakomborerwa zvekuti musha wedu waiva pakati peminda miviri yakasvibira.",
+    "Takanakidzwa nenzizi dzaiyerera dzichipfuura nemuminda yedu uye goho guru richizadza dzimba dzedu.",
+    "Asi patakadaidzwa kuti titende uye titeerere Ishe wedu, takatendeuka nekudada.",
+    "Pfuma yedu nekugara zvakanaka kwedu zvakatiita kuti tikanganwe Iye akapa zvese.",
+    "Ipapo kwakauya mvura zhinji yakangoerekana yapinda nemuchipingamupinyi chikuru chatakanga tavimba nacho.",
+    "Isu tiri vanhu veSaba', vane nyika yaizivikanwa neMa'rib Dam guru."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tiri vanaani?",
+      "options": [
+        "Vanhu veSaba",
+        "Vanhu veMugero",
+        "Shamwari dzeTsime",
+        "Vanhu veTubba'",
+        "Vanhu veMidhiani"
+      ],
+      "answer": "Vanhu veSaba"
+    },
+    "trial": {
+      "label": "Kudonha Kwedu",
+      "options": [
+        "Mafashamo anobva padhamu rakaputika",
+        "Mhepo ine simba inobva kudenga",
+        "Kupisa mugomba remoto",
+        "Kudengenyeka kwenyika kukuru",
+        "Kunyura mumafashamo makuru"
+      ],
+      "answer": "Mafashamo anobva padhamu rakaputika"
+    },
+    "location": {
+      "label": "Nzvimbo yeKiyi",
+      "options": [
+        "Dhamu reMa'rib",
+        "Gomo reSinai",
+        "Bako reVanomwe Vakarara",
+        "Gwenzi Rinopfuta",
+        "Kutsemuka kweGungwa"
+      ],
+      "answer": "Dhamu reMa'rib"
+    },
+    "outcome": {
+      "label": "Mugumo Wedu",
+      "options": [
+        "Mapindu maviri ane shungu akatsiva edu ane miti yakawanda",
+        "Minda yedu yakawedzera kusviba",
+        "Nyika yakanyura pasi pegungwa",
+        "Takavigwa mumadota egomo rinoputika",
+        "Rudzi rwedu rwakapatsanurwa kuita madzinza gumi nemaviri"
+      ],
+      "answer": "Mapindu maviri ane shungu akatsiva edu ane miti yakawanda"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

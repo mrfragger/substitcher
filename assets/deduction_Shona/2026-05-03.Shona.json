@@ -1,0 +1,61 @@
+{
+  "title": "Vanotsvaga Chokwadi Vari Kurara",
+  "intro": "Fungidzira nguva apo kutenda kwakapikiswa, uye boka revanhu vakasarudza kutenda kusingazununguki pane nyaradzo yenyika. Vakatarisana nesarudzo yakaoma, vakatsvaga pekugara, vakatanga rwendo rwakavaendesa kuhope dzinoshamisa. Nyaya yavo iuchapupu hwedziviriro yaMwari nesimba rekutenda kubva mukudzvinyirirwa. Unogona here kuona kuti vanhu ava vanoshamisa ndivanaani?",
+  "clues": [
+    "Taiva boka diki, takabatana nekutenda kwakadzama muna Musiki Mumwe chete.",
+    "Tairarama munguva apo mutongi ane simba aida kuti kunamatwa kwemumwe munhu asiri Allah.",
+    "Kuti tichengetedze kutenda kwedu, takasarudza kusiya misha yedu ndokutiza kudzvinyirirwa.",
+    "Shamwari yakavimbika, chisikwa chepasi, yakatiperekedza parwendo rwedu.",
+    "Takawana nzvimbo yekupotera munzvimbo yakavanzika, uko Allah akatiita kuti tipinde muhope huru, dzakareba.",
+    "Patakamuka, taitenda kuti zuva rimwe chete kana chikamu chezuva chakanga chapfuura, asi mazana emakore akanga apfuura zvechokwadi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Vanhu veMugodhi",
+        "Vanhu veThamud",
+        "Vanhu veSaba'",
+        "Vanhu veBako",
+        "Vanhu vekuMadyan"
+      ],
+      "answer": "Vanhu veBako"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kuedzwa nenyika isina chinhu",
+        "Kutarisana nemafashamo makuru",
+        "Kutsvaga kupotera kubva kumutongi ane hutsinye",
+        "Kukandwa mumoto unopfuta",
+        "Kupikisa mashiripiti emuroyi"
+      ],
+      "answer": "Kutsvaga kupotera kubva kumutongi ane hutsinye"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Imba huru yamambo",
+        "Ngarava/areka",
+        "Tsime rakadzika",
+        "Bako",
+        "Gomo refu"
+      ],
+      "answer": "Bako"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kupiwa umambo",
+        "Kurara kunoshamisa kwemazana emakore",
+        "Kumedzwa nenyika",
+        "Kuponeswa kubva mudutu rinoparadza",
+        "Kupiwa tafura yekudenga"
+      ],
+      "answer": "Kurara kunoshamisa kwemazana emakore"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

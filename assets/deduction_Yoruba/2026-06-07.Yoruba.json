@@ -1,0 +1,61 @@
+{
+  "title": "Ọkàn Ìrora ti Nile",
+  "intro": "Ní àkókò ìnilára ńlá, nígbà tí apànìyàn kan ń ṣàkóso ilẹ̀ náà pẹ̀lú ìwà ìkà pátápátá, ọkàn kan yan ọ̀nà ìgbàgbọ́ ju ìtùnú ọba lọ. Ẹni yìí ń gbé ní ọkàn agbára ṣùgbọ́n ó rí òtítọ́ nínú ìhìn wòlíì onírẹ̀lẹ̀ kan. Ìrìn àjò wọn yóò di ẹ̀kọ́ tí kò ní àbùkù nípa sùúrù, ìrúbọ, àti ìgbàgbọ́ tí kò lè yẹ̀. Ṣé o lè dá ẹni pàtàkì yìí mọ̀ tí ó fẹ́ràn ìgbádùn Ọlọ́run ju ipò ayé lọ?",
+  "clues": [
+    "Mo gbé ní ààfin alágbára ńlá, síbẹ̀ ọkàn mi rí òtítọ́ nínú ìhìn rere kan.",
+    "Mo yan lati tẹle itọsọna Musa, mo mọ abajade ti emi yoo dojuko.",
+    "Mo fẹ́ alákòóso tó lágbára jùlọ ní àkókò mi, síbẹ̀ mo kọ àwọn òrìṣà èké rẹ̀ sílẹ̀.",
+    "Ìjìyà mi le gan-an, nítorí wọ́n fìyà jẹ mí nítorí ìgbàgbọ́ mi nínú Ọlọ́run kan ṣoṣo.",
+    "Mi ò jìnnà nínú ìgbàgbọ́ mi rí, kódà nígbà tí mo bá dojú kọ ìyà tó le koko jù.",
+    "Inú Olúwa mi dùn sí sùúrù mi, ó sì yàn mí fún ipò ọlá ní Párádísè."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Ìyá Ànábì Mùsà",
+        "Aya Farao",
+        "Arabinrin Anabi Musa",
+        "Ayaba Íjíbítì ìgbàanì",
+        "Ìránṣẹ́ àwọn ọmọ Ísírẹ́lì"
+      ],
+      "answer": "Aya Farao"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Jíjà fún ẹ̀sìn Allāhu pẹ̀lú ẹgbẹ́ ọmọ ogun kan",
+        "Bí wọ́n ṣe kojú Fáráò, tí wọ́n sì polongo ìgbàgbọ́ rẹ̀",
+        "Kíkọ́ àwọn ibi ìjọsìn ní Íjíbítì",
+        "Rin irin ajo kọja okun pẹlu Musa",
+        "Gbigba ifihan lati ọdọ Allah"
+      ],
+      "answer": "Bí wọ́n ṣe kojú Fáráò, tí wọ́n sì polongo ìgbàgbọ́ rẹ̀"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Aginjù Mídíánì",
+        "Ààfin ọba Íjíbítì",
+        "Etí Odò Náílì",
+        "Òkè Sínáì",
+        "Ilẹ̀ Kénáánì"
+      ],
+      "answer": "Ààfin ọba Íjíbítì"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ó di wòlíì lẹ́yìn ọ̀pọ̀lọpọ̀ ọdún",
+        "Ó mú àwọn ọmọ Ísírẹ́lì jáde kúrò ní Íjíbítì",
+        "Wọ́n fún wọn ní ìjọba lórí Íjíbítì",
+        "Allah ló ṣe ikú rẹ̀, ó sì bu ọlá fún un",
+        "Mo gbé títí di ọjọ́ ogbó mi pẹ̀lú ìtùnú"
+      ],
+      "answer": "Wọ́n pa á, wọ́n sì fi ọlá fún un láti ọ̀dọ̀ Allah"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

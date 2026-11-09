@@ -1,0 +1,61 @@
+{
+  "title": "Amaboko yavumwe",
+  "intro": "Uhagaze mu nzira zigoramye zo muri Makka ya kera, aho umutima w’ububasha n’ubutunzi wigeze guhindukira ukava ku guhamagarwa n’ukuri. Inkuru y’uwo mubare ni ikitwibutsa cane yuko amabohero y’amaraso adashobora gutsinda iminyororo y’ubwibone. None uwo izina ryiwe rivugana n’umuriro urindiriye ni nde?",
+  "clues": [
+    "Nagendagenda mu mabarabara y’i Makka mfise ubwibone bwampumishije ukuri, naho iyo ntumwa yari iyo mu maraso yanje bwite.",
+    "Ivyo nari mfise vyari vyinshi cane, ariko vyacitse umuvumo aho kuba ingabo.",
+    "Igitabo c’ubuyobozi kivuga ivy’ugusenyuka kwanje, kimenyesha ko amaboko yanje n’umuntu wanje bizohona.",
+    "Uwo twubakanye yarifatanije n’igikorwa canje c’urwanko, akorakoranya amahwa ngo ayakwiragize mu nzira y’uwahamagara Allah.",
+    "Ku musi w’urubanza, nzokwinjizwa mu muriro w’imbeya zigurumana, uwo twubakanye azoba afise umugozi w’insinga z’imisukoni mw’izosi.",
+    "Nzwi kw’izina risobanura ‘se w’urubeya’ — izina rivuga imbere y’igihe aho nzoba ndi ibihe bidahera."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Abu Lahabu",
+        "Abu Yahli",
+        "Abu Talibu",
+        "Abu Sufiyani",
+        "Al-Walidi ibn al-Mughira"
+      ],
+      "answer": "Abu Lahabu"
+    },
+    "trial": {
+      "label": "Ikigeragezo canke Ivyabaye",
+      "options": [
+        "Yarwanye Nkurunziza kandi yaravumwe muri Korowani .",
+        "Yarongoye ingabo zo gusenya Kaaba .",
+        "Yagerageje kwica Umuhanuzi mu kumutera amabuye .",
+        "Yanse kwemera ko ukwezi guca ibice .",
+        "Yubatse umunara kugira ngo ashike mw'ijuru ."
+      ],
+      "answer": "Yarwanye Nkurunziza kandi yaravumwe muri Korowani ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Umuriro w'ikuzimu",
+        "Inkoni ya Musa",
+        "Isandugu ya Nuh",
+        "Iriba rya Zamzamu",
+        "Inyana y'inzahabu"
+      ],
+      "answer": "Umuriro w'ikuzimu"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Azokwinjira mu muriro waka, kandi itunga ryiwe nta co rizomumarira .",
+        "Yarihanye aca aba umwizera + .",
+        "Yarababariwe amaze kwisubirako .",
+        "Yapfuye ari umumaratiri .",
+        "Yaraduzwe mw’ijuru + ."
+      ],
+      "answer": "Azokwinjira mu muriro waka, kandi itunga ryiwe nta co rizomumarira ."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

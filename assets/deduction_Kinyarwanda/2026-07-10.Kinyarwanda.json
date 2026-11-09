@@ -1,0 +1,61 @@
+{
+  "title": "Uwazanye ibimenyetso icyenda",
+  "intro": "Umuntu wavutse ava mu ntangiriro ntoya cyane, afite iherezo ryanditse mu bushake bw'Imana. Ubwo yari yihishe akiri umwana muto kandi akurira mu nkuta z'umutegetsi washakaga kurimbura abantu be, amaherezo uyu muntu yahamagariwe ubutumwa bukomeye. Bafite ukwizera gusa n'inkoni y'umushumba iciye bugufi, bahagaze imbere y'umutegetsi ukomeye cyane w'icyo gihe maze basaba umudendezo ku bari mu bucakara. Isi ubwayo yasaga n'aho igenda ku itegeko ryabo - amazi yaratandukanye, ijuru riravuga, maze ubwami buragwa.",
+  "clues": [
+    "Iminsi yanjye ya mbere yaranzwe n'ubwoba — abana nkanjye bahigwaga bakivuka n'umutegetsi utagira impuhwe watinyaga ahazaza.",
+    "Narokowe n'amazi maze nkurira mu ngoro y'umutegetsi washakaga kunrimbura.",
+    "Nahunze igihugu cyanjye nyuma y’impanuka itunguranye, mba umushumba woroheje mu gihugu cya kure.",
+    "Nagarutse guhangana n'uwo mutegetsi ukomeye mfite inkoni yoroheje n'ubutumwa busobanutse, nsaba ko abaturage banjye barekurwa.",
+    "Nagabanyije amazi menshi kugira ngo abankurikiye banyice, kandi ndeba ukuntu ayo mazi yamiraga umwanzi wanjye wese.",
+    "Nazamutse umusozi mutagatifu kugira ngo mbone ubuyobozi buturutse ku Mana, kandi nahawe ibimenyetso icyenda bisobanutse nk'ikimenyetso cy'ukuri."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Umuhanuzi Musa",
+        "Umuhanuzi Nuh",
+        "Intumwa Ibrahimu",
+        "Intumwa y'Imana Yusufu",
+        "Umuhanuzi Lut"
+      ],
+      "answer": "Umuhanuzi Musa"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Guhangana na Farawo mu rugo rwe",
+        "Kubaka ubwato kugira ngo burokoke umwuzure ukomeye",
+        "Gutabwa mu muriro ugurumana n'abakora ibishushanyo",
+        "Bavandimwe banjye bamanuwe mu iriba rinini",
+        "Kugerageza kubuza abantu banjye imyitwarire mibi"
+      ],
+      "answer": "Guhangana na Farawo mu rugo rwe"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Inkoni yahindutse inzoka",
+        "Isanduku ya Nuhu",
+        "Intebe y'Ubwami ya Bilqis",
+        "Impeta yagenzuraga umuyaga n'amajini",
+        "Imfunguzo z'ubutunzi buhunitswe buremereye cyane"
+      ],
+      "answer": "Inkoni yahindutse inzoka"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Nayoboye abantu banjye bambuka amazi atandukanye bajya mu bwisanzure",
+        "Yarokowe mu myuzure ikomeye yari mu bwato",
+        "Yasubijwe mu buzima bwiza n'umuryango nyuma y'imibabaro ikomeye",
+        "Yajugunywe mu ifi nini ari muzima",
+        "Yubatse ishingiro ry'Ingoro Ntagatifu"
+      ],
+      "answer": "Nayoboye abantu banjye bambuka amazi atandukanye bajya mu bwisanzure"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

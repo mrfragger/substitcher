@@ -1,0 +1,61 @@
+{
+  "title": "Àworán Tí Ó Dé Ìtẹ́",
+  "intro": "Ẹni tí ó ní ẹrù kan sún mọ́ ibi ìjọ́ba ìdájọ́ òdodo, ohùn wọn kì í ṣe pẹ̀lú ìbẹ̀rù ṣùgbọ́n pẹ̀lú ìrètí. Ọ̀ràn náà jẹ́ ti ara ẹni, síbẹ̀ ìpinnu rẹ̀ yóò dún bí àkókò ti ń lọ, yóò sì fọ́ àṣà ìnilára náà túútúú. Ta ni ẹ̀mí yìí tí wọ́n gbọ́ ẹ̀dùn rẹ̀ kọjá àwọn ìràwọ̀?",
+  "clues": [
+    "Mo wá pẹ̀lú ọkàn líle, mo ń wá ìdájọ́ òdodo nínú ọ̀ràn tí ó so ahọ́n mi pọ̀.",
+    "Ẹ̀bẹ̀ mi kì í ṣe sí ìránṣẹ́ kan lásán; ó gòkè lọ sí ọ̀dọ̀ Ẹni tí ó gbọ́ gbogbo nǹkan.",
+    "Àwọn ọ̀rọ̀ tí wọ́n sọ sí mi dà bí ẹ̀wọ̀n ìgbàanì.",
+    "Mo jiyàn, mo sì ronú jinlẹ̀, pẹ̀lú omijé àti pẹ̀lú ọgbọ́n, fún iyì mi.",
+    "Ìfihàn kan sọ̀kalẹ̀, ó pa àwọn ọ̀nà àtijọ́ lẹ́nu mọ́, ó sì jẹ́wọ́ ìrora mi.",
+    "Wọ́n pè mí ní ẹni tí ó ń jiyàn nípa ọkọ mi, orúkọ mi sì di orúkọ mìíràn pẹ̀lú orí tí ó dá mi sílẹ̀."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Iyawo Imran (Iya Mariam)",
+        "Obìnrin Tó Jà Àríyànjiyàn Nípa Ọkọ Rẹ̀ (Khawla bint Tha'laba)",
+        "Ayaba Sheba (Bilqis)",
+        "Ìyá Mose",
+        "Ìyàwó Fáráò (Asiyah)"
+      ],
+      "answer": "Obìnrin Tó Jà Àríyànjiyàn Nípa Ọkọ Rẹ̀ (Khawla bint Tha'laba)"
+    },
+    "trial": {
+      "label": "Ìdánwò tàbí Ìṣẹ̀lẹ̀ náà",
+      "options": [
+        "Wọ́n fi ẹ̀sùn èké kan án pé ó jẹ́ oníwà àìmọ́",
+        "Ó yàgàn, ó sì ń fẹ́ ọmọ.",
+        "Ó dojú kọ àṣà ìkọ̀sílẹ̀ tí ó burú jáì",
+        "Ó jẹ́ ayaba tí ó ń bá wòlíì kan ṣe àdéhùn",
+        "Ó fi ọmọ rẹ̀ pamọ́ kúrò lọ́wọ́ apànìyàn"
+      ],
+      "answer": "Ó dojú kọ àṣà ìkọ̀sílẹ̀ tí ó burú jáì"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ọmọ màlúù wúrà kan",
+        "Ìtẹ́ àgbàyanu kan",
+        "Àṣà Zihar",
+        "Agbọ̀n kan nínú odò náà",
+        "Ẹ̀jẹ́ mímọ́ ti ìyàsímímọ́"
+      ],
+      "answer": "Àṣà Zihar"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A fi ọmọ kan bukun fun un ni ọjọ ogbó",
+        "Wọ́n gbà á lọ́wọ́ ìrì omi",
+        "Ó gba ìfihàn àtọ̀runwá kan tí ó pa àṣà náà rẹ́",
+        "Ó di ayaba lẹ́yìn ìdánwò kan",
+        "Wọ́n fún un ní ọmọkùnrin kan tí ó di wòlíì"
+      ],
+      "answer": "Ó gba ìfihàn àtọ̀runwá kan tí ó pa àṣà náà rẹ́"
+    }
+  },
+  "verseRef": "58:1",
+  "arabic": "قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَـٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسْمَعُ تَحَاوُرَكُمَآ ۚ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
+  "verse": "Certainly has Allāh heard the speech of the one who argues [i.e., pleads] with you, [O Muḥammad], concerning her husband and directs her complaint to Allāh. And Allāh hears your dialogue; indeed, Allāh is Hearing and Seeing. (58:1)"
+}

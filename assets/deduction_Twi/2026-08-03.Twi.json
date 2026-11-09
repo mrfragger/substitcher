@@ -1,0 +1,61 @@
+{
+  "title": "Ahohuru Bere a Ɛwɔ Anhwea Ase",
+  "intro": "Wɔ Kur’aan abakɔsɛm mu no, onipa bi a ɔwɔ abotare kɛse hyiaa sɔhwɛ bi a ɛbɛbubu koma a ɛyɛ den sen biara. Woyii biribiara firii - ahonyadee, abusua, ne akwahosan. Nanso efi abasamtu a emu dɔ mu no, wobuaa ahobrɛase mu mpaebɔ bi wɔ ɔkwan a na wɔnhwɛ kwan koraa so. So wubetumi ahu ɔkra yi a n’asɛm a ɛfa sanba ho no ka wɔ mfe pii mu no?",
+  "clues": [
+    "Wɔde sɔhwɛ bi a emu yɛ den araa ma wɔkae wɔ mfe no nyinaa mu sɔɔ me hwɛe.",
+    "Mehweree biribiara a ehia - m'ahonyade, me mma, ne m'akwahosan.",
+    "Ná akuru a ɛyɛ yaw akata me nipadua so, na na obiara kwati me.",
+    "Wɔ m’abasamtuo mu no, mefrɛɛ Allah, kaa sɛ Satan de ahokyere ne ayayadeɛ aka me.",
+    "Allah buaa me na ɔhyɛɛ me sɛ memfa me nan mmɔ asaase no.",
+    "Efi saa bea no ara mu no, asubura a nwini bi paee, na Allah san de m'abusua san bae na oboo won mmɔho mmienu sɛ mmɔborɔhunu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Ayyuub",
+        "Ɔkɔmhyɛni Musa",
+        "Odiyifo Ilyas",
+        "Ɔkɔmhyɛni Sulayman",
+        "Ɔkɔmhyɛni Dawud"
+      ],
+      "answer": "Ɔkɔmhyɛni Ayyuub"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Yare a emu yɛ den ne abusua ne ahonyade a wɔhwere",
+        "Sɛ́ whale kɛse bi amene no",
+        "Nnommumfa mu fi Makkah kuropɔn mu",
+        "Afiase a wɔde no bɛto abura a emu dɔ mu",
+        "Akasakasa a wɔne sodifo a ɔyɛ ahantan"
+      ],
+      "answer": "Yare a emu yɛ den ne abusua ne ahonyade a wɔhwere"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Asubura a ɛyɛ nwini a efi asase so",
+        "Ɔkorow bi a ɛwɔ nsuyiri kɛse bi so",
+        "Poma a ɛpaapae po no mu",
+        "Ahengua a ɛkorɔn a wɔde ahwehwɛ ayɛ",
+        "Ɔbodan a wɔato ho afasu a wɔde da"
+      ],
+      "answer": "Asubura a ɛyɛ nwini a efi asase so"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Abusua ne ahonyade san bae na ɛboroo mmɔho abien",
+        "Fi adi fi apataa yafunu mu",
+        "Nsu a emu apaapae mu a wɔbɛfa so dwoodwoo",
+        "Ahenni a wɔde ama sɛ wonni so",
+        "Ɔbabarima bi awo anwonwakwan so wɔ onyin mu"
+      ],
+      "answer": "Abusua ne ahonyade san bae na ɛboroo mmɔho abien"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

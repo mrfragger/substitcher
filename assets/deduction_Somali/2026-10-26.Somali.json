@@ -1,0 +1,61 @@
+{
+  "title": "FANKA Dabaysha",
+  "intro": "Bal qiyaas dhul ay wax aan la arki karin iyo waxa la arko isku xiran yihiin, oo aad hor taagan tahay qof ku sugan bartamaha boqortooyo aan la mid ahayn kuwa kale. Naftani waxay leedahay aqoon aan la gaari karin oo ka baxsan kuwa caadiga ah, oo ah awood ay dadka kale qiyaasi karaan oo keliya. Haddana, xitaa kuwa ugu xoogga badan waxaa hoos u dhigi kara makhluuq yar, runtuna waxay ahaan kartaa mid qarsoon ilaa wakhtiga loo cayimay. Waa kuma qofkan dhaxalkiisu uu soo noqnoqdo wakhtiyo badan?",
+  "clues": [
+    "Waxaa la i siiyay boqortooyo aan cid dambe oo iga dambaysa yeelan doonin.",
+    "Waxaan ka dhaxlay aqoon iyo xigmad waalid aan jeclahay.",
+    "Dabayshu waxay hoos imaanaysay amarkayga, iyadoo ku socota amarkayga meel kasta oo aan rabo.",
+    "Waan fahmi karay hadalka shimbiraha, waxayna ka mid ahaayeen ciidankayga.",
+    "Waxaan ka helay war shimbir yar oo ku saabsan boqorad caabudi jirtay qorraxda.",
+    "Geeridaydu waxay ahayd mid qarsoon ilaa xayawaan dhulka ka mid ah uu cunay ushaydii, markaas ayay jinnigu ogaadeen inaysan garanayn waxa aan la arki karin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Sulaymaan (nabi Sulaymaan)",
+        "Nabi Daa'uud (Daa'uud)",
+        "Nabi Muuse (Nabi Muuse)",
+        "Nebi Ciise (Ciise)",
+        "Nabi Nuux (Nuux)"
+      ],
+      "answer": "Nabi Sulaymaan (nabi Sulaymaan)"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Booqashadii Boqoradda Sheba",
+        "In lagu tuuro dab",
+        "Kala qaybsanaanta badda",
+        "Dhisidda doon",
+        "In nibiri liqo"
+      ],
+      "answer": "Booqashadii Boqoradda Sheba"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Ushii uu cunay xayawaan dhulka ka mid ah",
+        "Ushii abeeso noqotay",
+        "Hashii",
+        "Sanduuqii",
+        "nibiriga"
+      ],
+      "answer": "Ushii uu cunay xayawaan dhulka ka mid ah"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Geeridiisa waxaa laga qariyay jinka ilaa ushiisa la cuno",
+        "Isaga oo nool ayaa samada loo qaaday isagoo nool",
+        "Waxaa laga badbaadiyay dabka amarkii Alle.",
+        "Waxaa la siiyay Tawreed",
+        "Wuu ka badbaaday nibiriga"
+      ],
+      "answer": "Geeridiisa waxaa laga qariyay jinka ilaa ushiisa la cuno"
+    }
+  },
+  "verseRef": "34:14",
+  "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+  "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Urugomero rwasenye ubwami",
+  "intro": "Igihugu cy'imigezi itemba, ubusitani bubiri bwiza, n'uburumbuke butagereranywa - ariko abaturage baho birengagije Uwabahaga umugisha. Iyo inzibutso zazaga zibahamagara, barahindukiraga. Icyakurikiyeho ni igihano kikivuga nk'umuburo. Ni bande bari batuye muri uwo muryango wa kera?",
+  "clues": [
+    "Twabaye mu gihugu cyari gifite umugisha mwinshi ku buryo inzu yacu yari hagati y’ubusitani bubiri bwiza.",
+    "Twishimiye imigezi itemba mu butaka bwacu n'umusaruro mwinshi wuzuye amazu yacu.",
+    "Nyamara igihe twahamagarirwaga gushimira no kumvira Umwami wacu, twahindukiriye Imana twirata.",
+    "Ubukire bwacu n'ubworoherane bwacu byatumye twibagirwa Uwabiduhaye byose.",
+    "Hanyuma haza umugezi utunguranye wanyuze mu ruzitiro runini twari twishingikirijeho.",
+    "Turi abaturage ba Saba, igihugu cyabo cyari kizwiho urugomero runini rwa Ma'rib."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Turi bande?",
+      "options": [
+        "Abaturage ba Saba",
+        "Abantu bo mu muyoboro",
+        "Abagenzi b'Iriba",
+        "Abantu bo muri Tubba'",
+        "Abantu b'Abamidiyani"
+      ],
+      "answer": "Abaturage ba Saba"
+    },
+    "trial": {
+      "label": "Gutsindwa kwacu",
+      "options": [
+        "Umwuzure uturutse ku rugomero rwaturitse",
+        "Umuyaga ukomeye uturutse mu kirere",
+        "Gutwika mu mwobo w'umuriro",
+        "Umutingito ukomeye",
+        "Kurohama mu myuzure ikomeye"
+      ],
+      "answer": "Umwuzure uturutse ku rugomero rwaturitse"
+    },
+    "location": {
+      "label": "Aho urufunguzo ruherereye",
+      "options": [
+        "Urugomero rwa Ma'rib",
+        "Umusozi wa Sinayi",
+        "Ubuvumo bw'Abasinzira Barindwi",
+        "Igihuru Gitwika",
+        "Inyanja Igatandukana"
+      ],
+      "answer": "Urugomero rwa Ma'rib"
+    },
+    "outcome": {
+      "label": "Iherezo ryacu",
+      "options": [
+        "Ubusitani bubiri busharira bwasimbuye ubw'ubusitani bwacu bwiza cyane",
+        "Ubusitani bwacu bwarushijeho kuba bwiza",
+        "Igihugu cyarohamye munsi y'inyanja",
+        "Twashyinguwe mu ivu ry'ibirunga",
+        "Igihugu cyacu cyagabanijwemo amoko cumi n'abiri"
+      ],
+      "answer": "Ubusitani bubiri busharira bwasimbuye ubw'ubusitani bwacu bwiza cyane"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

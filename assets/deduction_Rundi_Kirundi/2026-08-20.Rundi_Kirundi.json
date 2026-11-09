@@ -1,0 +1,61 @@
+{
+  "title": "Ijwi ry'Ukurwanya",
+  "intro": "Kera cane imbere y’uko umuntu wa mbere agenda kw’isi, hari ikiremwa c’ububasha burengeye urugero cari gihagaze mu karere k’amahoro atunganye, gikikujwe n’abantu bihebeye Imana kuruta abandi bose. Iyo hatanzwe itegeko rimwe, ijwi ryose ryarapfukama mu kuyoboka—ariko ijwi rimwe ryaraduga mu gutera umugongo, kandi ukwo gutera umugongo kwari gusubiramwo mu bihe vyose gushika ku Musi wa nyuma. None uwo muntu yaguye ni nde?",
+  "clues": [
+    "Naremwe n’ikintu caka cane, mu gihe abandi bari iruhande yanje baremwe n’ivyo bagendeyeko.",
+    "Nabaye ahantu heranda hagati y’ibiremwa vyihebeye Imana, gushika aho itegeko rimwe rihinduye vyose.",
+    "Itegeko ryaje, umuntu wese arapfukama kiretse jewe; kwanka kwanje kwavutse ku bwibone.",
+    "Naciye nirukanwa muri ico kibanza ceranda, nshirwako ikimenyetso c’umuvumo uzogumaho ibihe bidahera.",
+    "Narasenga ngo bampe umwanya gushika ku musi w’Izuka, barampa. Narahiye kwegera umutima wose nkawuzimiza.",
+    "Inzumbete niyavuga, abankurikiye bazosangira iherezo ryanje, bazokwifatanya nanje mu muriro ururumba aho ata mufasha ashobora kubakiza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Iblisi",
+        "Farawoni (Firawuni)",
+        "Namurudi",
+        "Abu Lahabu",
+        "Azari (se wa Iburahimu)"
+      ],
+      "answer": "Iblisi"
+    },
+    "trial": {
+      "label": "Igihe gisobanura",
+      "options": [
+        "Kwanka gupfukama imbere ya Adamu .",
+        "Kwigarurira ubumana ku bwami bukomeye .",
+        "Gutegura umugambi wo gutera umugororotsi mu muriro .",
+        "Kuyobora abantu gusenga igishushanyo c'inzahabu .",
+        "Kuroha ingabo nyinshi mu kiyaga ."
+      ],
+      "answer": "Kwanka gupfukama imbere ya Adamu ."
+    },
+    "location": {
+      "label": "Ikibanza ceranda",
+      "options": [
+        "Jannah (Iparadizo)",
+        "Ingoro nziza cane iri ku ruzi Nili .",
+        "Umunara w’amatafari ushika mu kirere .",
+        "Inyana y'inzahabu ikozwe mu vyo gushariza",
+        "Ifuru y'umuriro waka"
+      ],
+      "answer": "Jannah (Iparadizo)"
+    },
+    "outcome": {
+      "label": "Iherezo ryanyuma",
+      "options": [
+        "Nimwirukanwe, muruhuke gushika ku musi w’isezerano .",
+        "Yarohamye n'ingabo munsi y'imiraba .",
+        "Yajanjaguwe n’amabuye yaterewe avuye mw’ijuru .",
+        "Yataburuwe n'imigwi y'inyoni ziriko zirahunga",
+        "Iriwe n'igisasu kimwe gikomeye"
+      ],
+      "answer": "Nimwirukanwe, muruhuke gushika ku musi w’isezerano ."
+    }
+  },
+  "verseRef": "17:62",
+  "arabic": "قَالَ أَرَءَيْتَكَ هَـٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًۭا",
+  "verse": "[Iblees] said, \"Do You see this one whom You have honored above me? If You delay me [i.e., my death] until the Day of Resurrection, I will surely destroy his descendants, except for a few.\" (17:62)"
+}

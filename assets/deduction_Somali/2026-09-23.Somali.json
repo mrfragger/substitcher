@@ -1,0 +1,61 @@
+{
+  "title": "Baaqa Da'da Ka Hortagay",
+  "intro": "Bal qiyaas naf kaligeed ka soo horjeedda ilbaxnimo dhan, oo go'aansatay inay ka soo celiso marin habaabinta iyagoo leh go'aan aan kala go 'lahayn. Qarniyo badan, farriinta waa la diiday, la jeesjeesay, oo la iska indho tiray - haddana dadaalku waligiis ma joogsan. Ugu dambeyntii, waxaa yimid xisaab weyn, oo dhowr qof oo keliya ayaa badbaadadeeda la socday oo ay weheliyaan naftan adag. Ma ka aqoonsan kartaa qofkan Qur'aanka?",
+  "clues": [
+    "Waxaa la ii soo diray inaan u digo dad ku lumay jidkooda.",
+    "Waxaan ku casuumay inay cafis raadsadaan oo ay ka noqdaan khaladaadkooda, laakiin way ka jeesteen.",
+    "Amar Eebbe ayaan ku bixiyay, waxaan dhisay markab weyn iyadoo dadkaygu ay i daawanayaan oo ay igu jeesjeesayaan.",
+    "Waxaan u baryay Rabbigeyga si aan kala joogsi lahayn—ugu dambeyntii wuu ka jawaabay, oo biyo ayaa cirka ka soo daatay iyagoo daadad wata.",
+    "Waxaan doonta la raacay kuwii rumaysnaa markii daadku uu dhulka ka kacay.",
+    "Waxaan u qayliyey mid ka mid ah dadkii ku haray, anigoo ka codsaday inay ku magan galaan buur, laakiin amarkii hore ayuu u dhaqan galay."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Nuux",
+        "Nabi Ibraahim",
+        "Nabi Muuse",
+        "Nabi Huud",
+        "Nabi Saalix"
+      ],
+      "answer": "Nabi Nuux"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Dhisidda doon weyn iyo ka badbaadidda daad adduunka oo dhan ah",
+        "In lagu tuuro dab ololaya",
+        "La kulanka kaligii-taliye iyo sixirkiisa xoogga badan",
+        "Kalluun weyn oo liqaya",
+        "Markhaati ka noqoshada dilka hashii barakeysanayd"
+      ],
+      "answer": "Dhisidda doon weyn iyo ka badbaadidda daad adduunka oo dhan ah"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Doon weyn oo alwaax ah oo dul saaran daadad xooggan",
+        "Dooxo barakeysan oo leh burbur dhagaxyo qadiimi ah",
+        "God qoto dheer oo ay asxaabtu ku seexan jireen qarniyo badan",
+        "Caloosha nibiriga weyn ee qoto dheer ee badda",
+        "Buur dhagax ah oo dheer oo ku taal cidlada"
+      ],
+      "answer": "Doon weyn oo alwaax ah oo dul saaran daadad xooggan"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Waxaa la badbaadiyay mu'miniinta saaran markabka",
+        "Waxaa laga badbaadiyay dabka isagoon waxba gaarin amar Ilaah ah",
+        "Hogaamiye ka soo qax weyn oo ka soo baxay boqortooyo awood leh",
+        "Kalluunka laga tuuro xeeb cidla ah",
+        "Dadka ka fogeeyay xumaanta iyada oo loo marayo calaamad mucjiso ah"
+      ],
+      "answer": "Waxaa la badbaadiyay mu'miniinta saaran markabka"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

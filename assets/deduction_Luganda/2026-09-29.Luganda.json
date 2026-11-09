@@ -1,0 +1,61 @@
+{
+  "title": "Nabbi w’ensozi eziyooleddwa",
+  "intro": "Mu ddungu ery’amaanyi ery’omu Buwalabu obw’edda, waliwo ekifaananyi kyavaayo mu bantu abaali bamanyiddwa olw’obukugu bwabwe obw’ekitalo. Amaka gaabwe gaali gasituka okuva mu mayinja amagumu, naye emitima gyabwe gyali gikaluba okusinga ensozi ze baayoola. Omubaka ow’obwakatonda yatuuka n’akabonero kamu, ak’ekyamagero — naye amalala n’okujeemera byaviirako ebivaamu eby’amangu era eby’entiisa. Osobola okuzuula omuweereza ow’ekitiibwa abantu be gwe baalondawo okuzikirizibwa okusinga obulagirizi?",
+  "clues": [
+    "Nasindikibwa ng’omulabuzi eri abantu bange, nga mbayita okusinza Katonda Omu.",
+    "Abantu bange baali babeera wakati mu mayinja ag’ekitalo, nga bayoola ebifo eby’okubeeramu eby’ekitalo mu nsozi.",
+    "Engamiya enkazi ey’ekyamagero yava mu lwazi olunywevu mu kusaba kwange, akabonero akategeerekeka okuva eri Omuyinza w’Ebintu Byonna.",
+    "Nagamba abantu bange amazzi bagabane n’engamiya eno enkazi so si kugikolako bulabe.",
+    "Abantu bange baakola olukwe okulwanyisa engamiya enkazi ne bagisala ebisambi, ne bassaako akabonero ku kuzikirizibwa kwabwe.",
+    "Musisi ow’entiisa yakuba abantu bange, ne basigala nga bagudde mu bifo mwe babeera nga tebatambula."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Nabbi Salih",
+        "Nabbi Hud",
+        "Nabbi Shu'ayb",
+        "Nabbi Nuh",
+        "Nabbi Musa"
+      ],
+      "answer": "Nabbi Salih"
+    },
+    "trial": {
+      "label": "Omusango ogwali gutegeeza?",
+      "options": [
+        "Ensigo y’eŋŋamira enkazi ey’ekyamagero",
+        "Okuzimba eryato eddene wakati mu kusekererwa",
+        "Okwolekera Falaawo omutyobooli",
+        "Okusuulibwa mu muliro ogwaka",
+        "Okumenya endagaano ya Ssabbiiti"
+      ],
+      "answer": "Ensigo y’eŋŋamira enkazi ey’ekyamagero"
+    },
+    "location": {
+      "label": "Ekintu ekyali wakati kyali ki?",
+      "options": [
+        "Engamiya enkazi eyava mu lwazi",
+        "Essanduuko ennene ey’embaawo",
+        "Omuggo ogwawula ennyanja",
+        "Ennyanja ekika kya whale ennene ennyo",
+        "Olusozi oluwaniriddwa waggulu"
+      ],
+      "answer": "Engamiya enkazi eyava mu lwazi"
+    },
+    "outcome": {
+      "label": "Enkomerero yaabwe yali etya?",
+      "options": [
+        "Musisi ow’amangu ng’ava mu ggulu",
+        "Yabbira mu mataba ag’amaanyi",
+        "Ebibuga byabwe byamenyeka olw’ekiragiro kya Katonda",
+        "Yayokebwa empewo eyakaayakana",
+        "Okumira ensi"
+      ],
+      "answer": "Musisi ow’amangu ng’ava mu ggulu"
+    }
+  },
+  "verseRef": "22:42",
+  "arabic": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَعَادٌۭ وَثَمُودُ",
+  "verse": "And if they deny you, [O Muḥammad] - so, before them, did the people of Noah and ʿAad and Thamūd deny [their prophets], (22:42)"
+}

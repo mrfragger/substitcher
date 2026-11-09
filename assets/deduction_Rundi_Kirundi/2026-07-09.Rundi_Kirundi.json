@@ -1,0 +1,61 @@
+{
+  "title": "Umutima witanze w'imbeya nyeranda",
+  "intro": "Imbere yawe hari inkuru y’ubutwari budasanzwe, aho umuntu umwe yateye ubwoba bwo gutera umukono ku vyizerwa vyashinze imizi kuruta ibindi vyose mu gihugu cose. Kurikiza ivyo bivugo vyo mu bihe vya kera, uzoca ubona ubuzima burangwa n’ukwizera kutagira aho guhera, ukurokoka kw’igitangaza, n’ugushinga imishinge yotuma urugendo rw’impwemu rw’abantu amamiliyaridi bagira. Gukurikirana neza ikimenyetso cose — umuriro mweranda uracaribuka.",
+  "clues": [
+    "Navukiye mu rugo rwubaha ibiremwa vyo mw’ijuru be n’ibigirwamana bibajwe, yamara hari ikintu kiri imbere muri jewe canka ivyo basenga.",
+    "Nahagaze ndwanya umutware w’igihugu canje akomeye kuruta abandi bose, ndamenagura ibigirwamana nyene abantu banje bapfukamira, ndamenyesha ko Umuremyi w’ijuru ari we wenyene akwiye gusengwa.",
+    "Hategetswe umuriro w’umuriro mw’izina ryanje, ariko namenyesheje ko Uwo nkorera wenyene ari we azonkiza — kandi imbeya zategetswe gukonja kandi zitekanye.",
+    "Nasize inyuma ivyo nari nzi vyose ku itegeko ry’Imana, ngendagenda mu biyaya vy’amabuye n’umuryango wanje, nizigiye intunganyo ntari narigeze mbona.",
+    "Twarahagaze iruhande y’umuhungu wanje w’imfura mu kiyaya c’ubugaragwa, twashize hamwe imishinge y’inzu nyeranda, ahantu heranda hagenewe abayoboka bose.",
+    "Nzwi kw’izina rya Khalilullah — umugenzi somambike w’Umunyambabazi — kandi izina ryanje ryaciye rifatanya ibihe bidahera n’ukwizera kwo kwitanga no kwiyorosha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umuhanuzi Iburahimu (Aburahamu)",
+        "Umuhanuzi Musa (Musa)",
+        "Umuhanuzi Nuh (Nowa)",
+        "Umuhanuzi Isa (Yesu)",
+        "Umuhanuzi Muhamadi صلى الله عليه وسلم"
+      ],
+      "answer": "Umuhanuzi Iburahimu (Aburahamu)"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Gujugunywa mu muriro ururumba n'umunyagitugu .",
+        "Kumirwa imbere mu fi nini mu kiyaga .",
+        "Kumanurwa mu cobo n'abavukanyi b'ishari .",
+        "Kutwarwa hejuru ku kiremwa gifise amababa .",
+        "Kwihanganira umwuzure munini mu gitereko c'ibiti ."
+      ],
+      "answer": "Gujugunywa mu muriro ururumba n'umunyagitugu ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Inzu nyeranda (Kaaba)",
+        "Igikoresho kinini c'ibiti cubatswe ku musozi .",
+        "Inkoni yashobora gusambura ikiyaga .",
+        "Umwobo w'itiro rirerire n'imbwa y'intahemuka",
+        "Umuzingo w’ivyagezwe vyahishuriwe washizwe ku musozi ."
+      ],
+      "answer": "Inzu nyeranda (Kaaba)"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Yamenyekanye kw’izina rya Khalilullah, umugenzi somambike wa Allah .",
+        "Yarongoye abantu bajabuka ikiyaga cacitsemwo ibice kugira ngo baje mu mutekano",
+        "Yarahawe ububasha ku miyaga no ku nguvu zitaboneka .",
+        "Yabaye umuvuzi ahezagiwe n'ugukira kw'igitangaza .",
+        "Guhuza imiryango cumi n'ibiri yasanzaye munsi y'isezerano rimwe"
+      ],
+      "answer": "Yamenyekanye kw’izina rya Khalilullah, umugenzi somambike wa Allah ."
+    }
+  },
+  "verseRef": "6:79",
+  "arabic": "إِنِّى وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ حَنِيفًۭا ۖ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ",
+  "verse": "Indeed, I have turned my face [i.e., self] toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allāh.\" (6:79)"
+}

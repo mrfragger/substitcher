@@ -1,0 +1,61 @@
+{
+  "title": "Ijwi ryashitse ku ntebe y'ubwami .",
+  "intro": "Igishushanyo c’umuzigo caje kwegera intebe y’ubutungane, ijwi ryabo ntiryajungabana kubera ubwoba ahubwo ryari rijugumira kubera icizigiro. Ico kibazo cari ic’umuntu ku giti ciwe, yamara rero, ukuntu cotorerwa umuti cosubirwamwo mu gihe, kigasenyura umugenzo w’agahahazo. None uwo mutima ukwidodomba kwiwe kwumvikanye hirya y’inyenyeri yari nde?",
+  "clues": [
+    "Naje n’umutima uremereye, nshaka ubutungane mu kibazo caboshe ururimi rwanje.",
+    "Ivyo nasaba ntivyari ku ntumwa gusa; ryaraduze hirya no hino, ry’Uwumva vyose.",
+    "Amajambo bamvuze yari nk’iminyororo y’ivya kera.",
+    "Naraharira kandi niyumvira, n’amarira kandi n’ubwenge, kubera icubahiro canje.",
+    "Ihishurirwa ryamanutse, ricecekesha inzira za kera kandi ryemera umubabaro wanje.",
+    "Bamwita uwo yahakana ku bijanye n’umugabo wanje, izina ryanje rica riba rimwe n’igice canbohoye."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umugore wa Imran (Mama wa Maryam)",
+        "Umugore Yaharira ku Mugabo Wiwe (Khawla bint Tha’laba)",
+        "Umwamikazi w’i Sheba (Bilqis)",
+        "Nyina wa Musa .",
+        "Umugore wa Farawoni (Asiya)"
+      ],
+      "answer": "Umugore Yaharira ku Mugabo Wiwe (Khawla bint Tha’laba)"
+    },
+    "trial": {
+      "label": "Ikigeragezo canke Ivyabaye",
+      "options": [
+        "Yaragirijwe ibinyoma ko ari umusambanyi .",
+        "Yari ingumba kandi yipfuza cane umwana .",
+        "Yarashikiwe n’umugenzo wo kwahukana ukandamiza .",
+        "Yari umwamikazi ariko araganira n'umuhanuzi .",
+        "Yanyegeje umwana wiwe umunyagitugu ."
+      ],
+      "answer": "Yarashikiwe n’umugenzo wo kwahukana ukandamiza ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Inyana y'inzahabu",
+        "Intebe y'ubwami nziza cane",
+        "Umugenzo wa Zihari .",
+        "Igiseke kiri mu ruzi",
+        "Umuhigo mweranda wo kwiyegurira Imana ."
+      ],
+      "answer": "Umugenzo wa Zihari ."
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Yarahezagiwe n'umwana mu busaza .",
+        "Yarakijijwe kurohama .",
+        "Yaronse ihishurirwa ry’Imana rikuraho uwo mugenzo .",
+        "Yabaye umwamikazi inyuma y'ikigeragezo",
+        "Yarahawe umuhungu aba umuhanuzi ."
+      ],
+      "answer": "Yaronse ihishurirwa ry’Imana rikuraho uwo mugenzo ."
+    }
+  },
+  "verseRef": "58:1",
+  "arabic": "قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَـٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسْمَعُ تَحَاوُرَكُمَآ ۚ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
+  "verse": "Certainly has Allāh heard the speech of the one who argues [i.e., pleads] with you, [O Muḥammad], concerning her husband and directs her complaint to Allāh. And Allāh hears your dialogue; indeed, Allāh is Hearing and Seeing. (58:1)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Qofka aan ruxnayn ee u yeedha runta",
+  "intro": "Rasuul ayaa keligiis taagan dad madax adag, isagoo ugu yeeraya Ilaaha runta ah ee keliya iyagoo ku dheggan sanamyada beenta ah. Nebigani wuxuu wataa magac u eg macne xooggan - 'kan raadinaya ilaalin' - haddana wuxuu helaa diidmo iyo diidmo oo keliya. Iyada oo loo marayo qancin jilicsan iyo digniin adag, naftani waxay siddaa farriin rabbaani ah oo caalamku ugu dambeyntii caddeyn doono. Ma aqoonsan kartaa qofkan adag ee matalaya mid ka mid ah sheekooyinka ugu da'da weyn ee ku jira kitaabka Islaamka?",
+  "clues": [
+    "Dadkaygu waxay caabudi jireen ilaahyo badan, halka aan ugu yeeray inay u adeegaan Kan abuuray cirka iyo dhulka.",
+    "Waxaan hor istaagay qarankayga oo waxaan ku dhawaaqay inaan wax abaalmarin ah ka raadin doonin iyaga—rabitaankaygu wuxuu ahaa hagitaankooda xaqa ah.",
+    "Dabayl weyn ayaa lagu soo riday dadkayga iyadoo ciqaab rabbaani ah, dabayl Quraanku ka hadlayo qaabab badan iyo kuwo dheddig labadaba.",
+    "Si ka duwan nebiyada qaar, lama siin xaas ama carruur si cad loogu sheegay sheekadayda, waayo ujeeddadaydu waxay ahayd inaan dadkayga keligood isugu yeero.",
+    "Magacaygu wuxuu xambaarsan yahay macno qoto dheer—oo la xiriira fikradda ilaalinta iyo magangelyada uu qofku raadsado.",
+    "Dadkayga waxaa loo yaqaanay erey juqraafiyeed gaar ah oo loogu talagalay dooxada ay ku nool yihiin, dhulkoodana waxaa si gaar ah loogu tilmaamay mid aan lahayn dhir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Huud",
+        "Nabi Saalix",
+        "Nabi Shucayb",
+        "Nabi Nuux",
+        "Nabi Xudayb"
+      ],
+      "answer": "Nabi Huud"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Daadkii dhulka",
+        "Dabaysha kulul",
+        "Dhulgariirkii burburka",
+        "Abaarta iyo macaluusha",
+        "Ku qaraqmay badda"
+      ],
+      "answer": "Dabaysha kulul"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Dooxada bacrin ah ee Yaman",
+        "Saxaraha ciidda ah ee Midyaan",
+        "Dooxada Dhagaxa ah ee Thamuud",
+        "Dhulkii hore ee dadka 'Ad'",
+        "Gobolka xeebta ee Masar"
+      ],
+      "answer": "Dhulkii hore ee dadka 'Ad'"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Dadkaygu waxay toobad keeneen oo ay galeen janno",
+        "Midna dadkayga kama badbaadin ciqaabta",
+        "Waxaa la i qaaday anigoo nool sida walaalkay Yunus oo kale",
+        "Waxaan la guuray taageerayaasheyda dhul barakeysan oo aan ku noolaa.",
+        "Dabayshu waxay burburisay gaalada oo keliya halka mu'miniintu ay badbaadeen"
+      ],
+      "answer": "Midna dadkayga kama badbaadin ciqaabta"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

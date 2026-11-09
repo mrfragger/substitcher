@@ -1,0 +1,61 @@
+{
+  "title": "Olusuku olwabula mu kiro kimu",
+  "intro": "Kuba akafaananyi ng’olusuku olujjudde ebibala, oluzitowa ebibala ebikungudde era nga lwetooloddwa emiti emiwanvu. Abo abaali bagulabirira baali beefuula abagezigezi, nga bateekateeka amakungula gaabwe mu ssaawa ezisirifu ng’obudde tebunnakya, nga tebuliimu maaso g’abo abali mu bwetaavu. Naye Oyo atasula yalina enteekateeka endala ez’obugabi bwabwe obukwese. Osobola okuteebereza ani ayimiridde emabega w’olugero luno olw’okwegendereza okuva mu Quran?",
+  "clues": [
+    "Lumu twalina olusuku olujjudde ebimera era nga lujjudde nnyo ne lufuuka obuggya eri bonna abaali bayitawo.",
+    "Mu nteekateeka yaffe, twayombagana ku makya ennyo, nga tulangirira nti tewali mwoyo gwa bwetaavu gwali gugenda kukkirizibwa kuyingira ku lunaku olwo.",
+    "Twali bantu ba bugagga, era emitima gyaffe gyali gizibye amaaso nga tetulaba ddembe ly’abaavu abaali batwetoolodde.",
+    "Enkya y’amakungula gye twali tugenderera bwe yatuuka, twasemberera olusuku lwaffe ne tusanga nga lufuuse amatongo agaddugala mu kiro kimu.",
+    "Ekiragiro eky’amaanyi kyabuna, ne kitalekawo kintu kirala okuggyako evvu ebibinja by’ebibala ebikungu we byali biwanikiddwa edda.",
+    "Enfumo yaffe kulabula kwa maanyi okwawandiikibwa mu Quran, gye tumanyiddwa nga bannannyini lusuku abaagaana abali mu bwetaavu obuzirakisa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Bannannyini Lusuku",
+        "Abantu b'Empuku",
+        "Abayigirizwa ba Is",
+        "Abaswahaba b’Enku",
+        "Abagenyi ba Ibrahim"
+      ],
+      "answer": "Bannannyini Lusuku"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okukungula ebibala mu nkukutu n’okuziyiza abaavu",
+        "Okwebaka okumala ebyasa bingi munda mu mpuku",
+        "Okugaana okuvaamu engamiya enkazi okuva mu mayinja",
+        "Nga basinza ennyana eya zaabu ku Lusozi Sinaayi",
+        "Okuzimba eryato eddene okusobola okuwona amataba"
+      ],
+      "answer": "Okukungula ebibala mu nkukutu n’okuziyiza abaavu"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Olusuku oluliko bbugwe nga lujjudde enkindu n’emizabbibu",
+        "Empuku enzikivu mu buziba bw’ensozi",
+        "Ekibuga ekyatuukiddwako omuyaga ogw’obwakatonda",
+        "Ekiwonvu ekitukuvu okumpi n’Enyumba ya Allah",
+        "Embalama z’omugga ogukulukuta"
+      ],
+      "answer": "Olusuku oluliko bbugwe nga lujjudde enkindu n’emizabbibu"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Olusuku lwayokebwa ekiragiro eky’omuliro ekyava mu ggulu",
+        "Baasula mu mirembe okumala emyaka 309 egy’omwezi",
+        "Enkuba y’amayinja yabatonnye",
+        "Zabbira wansi w’amayengo g’amataba amangi",
+        "Baasaasaanyizibwa empewo ennyogovu era eyali efuukuuse"
+      ],
+      "answer": "Olusuku lwayokebwa ekiragiro eky’omuliro ekyava mu ggulu"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ijwi ry'Ukwemera Kwihishijwe",
+  "intro": "Mu mutima w’urukiko rw’ububisha, aho ukutemera kwari itegeko ry’igihugu, umutima uri wenyene waragenda umugozi ukomeye w’ukwizera n’ubwoba. Uwo muntu, yari hafi y’aho ububasha bushingiye, yarumviriza igihe ubutumwa bw’umuhanuzi bwashikirwa n’agasuzuguro n’ugutera ubwoba. Igihe c’ukuri carashitse, kigobera uwo muntu guhitamwo hagati yo kwikingira mu gacerere no kuvuga ukuri guteye akaga. Woba ushobora guhishura uwo muvugizi w’intwari uwo ari we?",
+  "clues": [
+    "Nabaye mu rugo rw’umunyagitugu nyene, nkibonera ubwanje ubwibone bwanka ibimenyetso vy’Imana.",
+    "Ukwemera kwanje nagumye ari ibanga, ubutunzi bwanyegejwe mu ngoro y’ugusenga ibigirwamana.",
+    "Numva umurongozi nakorera agira umugambi wo kwica intumwa ya Allah, umuntu yitwa Musa.",
+    "Narashidikanya ku vyerekeye ivyiyumviro vyabo, ndabibutsa iherezo ry’abantu b’i Nuh, Ad na Thamud.",
+    "Nabajije abantu banje ikibazo gikomeye cane: ‘Nimba ari umubeshi, ikinyoma ciwe kiri kuri we; ariko nimba ari umunyakuri, bimwe mu vyo asezerana bizokukubita.’",
+    "Inkuru yanje ivugwa nk’akarorero k’ukwizera muri sura yitwa ‘Umubabazi,’ aho nagabishije abantu banje ku migambi y’abanyabubasha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umwizera wo mu muryango wa Fir’awn",
+        "Hamani",
+        "Abapfumu bo muri Fir’awn",
+        "Qarun",
+        "Abasamari"
+      ],
+      "answer": "Umwizera wo mu muryango wa Fir’awn"
+    },
+    "trial": {
+      "label": "None Ikigeragezo Canje Cari Ikihe?",
+      "options": [
+        "Kuburanira Umuhanuzi Musa mu rubanza rw'umunyagitugu",
+        "Kubaka umunara muremure kugira ngo ushikire mw’ijuru .",
+        "Kujugunywa mu muriro ururumba",
+        "Kumirwa n'ifi nini",
+        "Gutakaza ubutunzi bwose n'amagara yose ."
+      ],
+      "answer": "Kuburanira Umuhanuzi Musa mu rubanza rw'umunyagitugu"
+    },
+    "location": {
+      "label": "None Insiguro y’Impamvu Yanje Yari Iyihe?",
+      "options": [
+        "Inkurikizi yo kwanka ubutumwa bw’umuhanuzi",
+        "Gusaba ikimenyetso kiva ku giti ceranda .",
+        "Irema ry'inyana rivuye mu mabuye y'agaciro",
+        "Igitangaza c'ingamiya ivuye mu rutare",
+        "Insobanuro y'indoto z'umutware"
+      ],
+      "answer": "Inkurikizi yo kwanka ubutumwa bw’umuhanuzi"
+    },
+    "outcome": {
+      "label": "None Vyavuyemwo Iki?",
+      "options": [
+        "Allah yararokoye uwo muntu mu mugambi mubi wabo .",
+        "Urukiko rwose rwaciye rwemera ubuyisilamu .",
+        "Uwo munyagitugu yarihana mu gihe co kurohama .",
+        "Uwo munyagitugu yamizwe n'isi .",
+        "Uwo muntu yarajanywe mu gihugu ca kure ."
+      ],
+      "answer": "Allah yararokoye uwo muntu mu mugambi mubi wabo ."
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

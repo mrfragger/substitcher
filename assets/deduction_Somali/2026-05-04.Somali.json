@@ -1,0 +1,61 @@
+{
+  "title": "Naqshadeeyaha Kibirka",
+  "intro": "Dhul qadiimi ah oo ay xukumaan awood caasi ah, qof muhiim ah ayaa haystay boos saameyn leh. Naftani waxay door muhiim ah ka ciyaartay qorshayaasha waaweyn ee taliyaha, iyadoo gacan ka geysatay xukunkooda dulmiga ah iyo caqabadda farriinta rabbaaniga ah. Dhaxalkoodu wuxuu la xiriiraa raadinta awoodda adduun iyo beeninta runta.",
+  "clues": [
+    "Waxaan u adeegay taliye cabsi leh oo dad dulmiyay jiilal badan.",
+    "Magacayga waxaa si joogto ah loogu xusaa Kitaabka Rabbaaniga ah iyadoo lala socdo hoggaamiyahan awoodda badan.",
+    "Waxaa la ii xilsaaray mashruuc dhisme oo weyn, dhisme dhaadheer oo loogu talagalay inuu gaaro samada.",
+    "Waxaan sayidkayga kula taliyay inuu dilo wiilasha reer binu Israa'iil oo uu gabdhahooda daayo.",
+    "Waxaan ku lug lahaa shirqoollo iyo shirqoollo ka dhan ah rasuul weyn oo Alle ah.",
+    "Dhammaadkaygii, oo ay weheliyaan sayidkayga iyo ciidankiisii, waxay ku soo galeen biyaha bad weyn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nimrod",
+        "Ibraahim",
+        "Goli'ad",
+        "Ibliis",
+        "Haamaan"
+      ],
+      "answer": "Haamaan"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "In lagu tijaabiyo hanti aad u badan",
+        "Hoggaamin ciidan oo ka dhan ah guri barakeysan",
+        "Dhisidda munaarad si loo gaaro Ilaah",
+        "In lagu tuuro dab iimaankooda awgiis",
+        "Walaalo ceel ku tuuraya"
+      ],
+      "answer": "Dhisidda munaarad si loo gaaro Ilaah"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Sanduuqa",
+        "Shaqaalaha",
+        "Buurta",
+        "Munaaradda",
+        "Nibiriga"
+      ],
+      "answer": "Munaaradda"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "In la siiyo xigmad aad u badan",
+        "Nebi noqoshada",
+        "Dhulku wuxuu liqaa",
+        "In boqortooyo la siiyo",
+        "Ku qaraqmay badda"
+      ],
+      "answer": "Ku qaraqmay badda"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

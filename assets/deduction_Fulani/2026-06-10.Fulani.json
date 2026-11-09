@@ -1,0 +1,61 @@
+{
+  "title": "Gardiiɗo Jardiin oo",
+  "intro": "E nder jarne ɓuuɓɗo, renndo waɗii hunnde mawnde. Kono pellital maɓɓe jarribaama nde yiɗde Alla naati, wayli ngalu maɓɓe e leydi ndi alaa ko woni e mum.",
+  "clues": [
+    "En keɓii barke e gesa keewɗo, kono en ngonti mawnikinaare.",
+    "Min mbaɗii peeje ngam dañde ko min ndenndi e miskineeɓe.",
+    "Min njalti subaka law, min ngoongɗini peeje amen.",
+    "Kono nde min njottii, min tawi gesa amen oo ina yani e jamma gooto.",
+    "Min paami majjere amen, min puɗɗii aybinde koye amen.",
+    "En tuubniima haa laaɓi, kono janngo ngoo janngaama haa ɓooyi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol Enen?",
+      "options": [
+        "Yimɓe Jardiin",
+        "Yimɓe Cave",
+        "Yimɓe Kuuɓal",
+        "Yimɓe Samuuda",
+        "Yimɓe 'Ad"
+      ],
+      "answer": "Yimɓe Jardiin"
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "Jardiin gooto wayliima wonti ndoondi",
+        "Ilam mbonnooɗam kala huunde",
+        "Heege yaɓɓunde e leydi",
+        "Konu colli ina njana",
+        "Henndu mawndu ɓuuɓndu leɗɗe"
+      ],
+      "answer": "Jardiin gooto wayliima wonti ndoondi"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Jardiin",
+        "Ngaska",
+        "Laana ndiwoowa",
+        "Koɗol",
+        "Palas"
+      ],
+      "answer": "Jardiin"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "Ɓe tuubi kono ɓe keɓii gesa maɓɓe",
+        "Ɓe mbonnaa haa laaɓi",
+        "Ɓe mbaɗtaa ko apes",
+        "Ɓe kisnaama ngam goonɗinki",
+        "Ɓe ngonti laamɓe"
+      ],
+      "answer": "Ɓe tuubi kono ɓe keɓii gesa maɓɓe"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

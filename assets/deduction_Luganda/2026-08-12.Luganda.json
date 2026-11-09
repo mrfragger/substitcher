@@ -1,0 +1,61 @@
+{
+  "title": "Ababaka b’Ekisa n’Amaanyi",
+  "intro": "Teeberezaamu akawungeezi akasirifu nga kataataaganyizibwa abatambuze b’atamanyi okutuuka. Endabika yaabwe ya bulijjo, naye ekigendererwa kyabwe kintu kyonna wabula... Batambuza obubaka obw’obwakatonda obujja okukyusa ekkubo ly’amawanga abiri, ne buleeta enseko mu maka agataliiko bimera n’entiisa mu kibuga eky’ekibi. Abagenyi bano ab’ekyama be baani?",
+  "clues": [
+    "Twasindikibwa eri omuweereza wa Allah eyeewaddeyo, amanyiddwa olw’okusembeza abagenyi okutaliiko kkomo.",
+    "Twatuuka nga twefudde abantu be tutamanyi, era naye omugenyi waffe yawulira ekintu eky’ensi endala ku kubeerawo kwaffe.",
+    "Twaleeta amawulire agaaseka omukyala omukadde mu butakkiriza, nga yeekuba mu maaso olw’okwewuunya.",
+    "Twaweebwa omulimu gw’okukuuma amaka amatuukirivu nga bwe tutonnyesa okuzikirizibwa ku kibuga ekyali kijjudde obuli bw’enguzi.",
+    "Twagaana okulya ku mmere gye baatuweebwa, ekyayongera okumwekengera kw’oyo eyatukyaza.",
+    "Twabikkula obutonde bwaffe obw’amazima nga tetunnasimbula, nga tugamba nti, ‘Mazima tuli babaka ba Mukama wammwe.’"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ffe Tuli Baani?",
+      "options": [
+        "Abagenyi ba Ibulayimu",
+        "Abayigirizwa ba Yesu",
+        "Ba Swahaaba b’Empuku",
+        "Eggye lya Ibulayimu",
+        "Ababaka ba Ya-Sin"
+      ],
+      "answer": "Abagenyi ba Ibulayimu"
+    },
+    "trial": {
+      "label": "Obubaka bwaffe",
+      "options": [
+        "Okugezesa okukkiriza kwa Ibulayimu ku bikwata ku mutabani we",
+        "Okutuusa ekyawandiikibwa eri Ibulayimu",
+        "Okulangirira okuzaalibwa kwa Isaaka n'okuzikirizibwa kw'abantu ba Lutti",
+        "Okulungamya Ibulayimu okutuuka e Kaaba",
+        "Okununula Ibulayimu okuva mu muliro"
+      ],
+      "answer": "Okulangirira okuzaalibwa kwa Isaaka n'okuzikirizibwa kw'abantu ba Lutti"
+    },
+    "location": {
+      "label": "Ekifo ky’Okulabikira",
+      "options": [
+        "Mu nsi y’e Misiri",
+        "Mu kibuga Uli",
+        "Mu maka ga Ibulayimu",
+        "Mu lusuku Adeni",
+        "Ku luzzi lwa Zamzam"
+      ],
+      "answer": "Mu maka ga Ibulayimu"
+    },
+    "outcome": {
+      "label": "Ebyavuddemu",
+      "options": [
+        "Ibulayimu yafuuka kabaka",
+        "Ibulayimu yazimba Kaaba",
+        "Saala yazaala Isaaka era abantu ba Lutti ne bazikirizibwa",
+        "Ibulayimu yasenguka n’agenda mu Palesitina",
+        "Abantu ba Ibulayimu baalokoka okuva mu mataba amangi"
+      ],
+      "answer": "Saala yazaala Isaaka era abantu ba Lutti ne bazikirizibwa"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Umumenyeshamakuru w'Icaha Kitari bwigere kibaho",
+  "intro": "Inkuru zimwe zimwe zo muri Korowani zirerekana uburebure bw’ibiturire igihugu cose gishobora kugwamwo. Uwo ntumwa yari ahagaze wenyene, asenga abantu bari barohamye mu kugoramya ata hanga ryari rigeze rikurikira. Naho hari imyaka myinshi bariko baragabisha, imitima yagumye ikomeye, kandi itegeko ry’Imana ryarashitse mu buryo buteye ubwoba cane. Woba ushobora kumenya iyo ntumwa y’icubahiro ya Allah?",
+  "clues": [
+    "Narungitswe nk’umugabisha ku bantu barimbuwe n’ubugoramye ata hanga ryari rigeze rikora imbere yabo.",
+    "Abantu banje baranyita umubeshi, baratera ubwoba ko bazokwirukana jewe n’abayoboke banje mu gihugu.",
+    "Abashitsi b’icubahiro baraza i muhira iwanje mu buryo bw’abasore bariko barakubita, kandi narababaye cane kubera umutekano wabo.",
+    "Abantu banje basavye ko mbahebera abashitsi banje, batazi ko abo bashitsi ari abamarayika boherejwe na Allah.",
+    "Uwo twubakanye ubwiwe ntiyasangiye ukwizera kwanje kandi yahisemwo kuguma inyuma n’abazocirwa urubanza.",
+    "Narakijijwe n’abakobwa banje mu gatondo, igihe imvura y’amabuye y’agahomerabunwa yagwa, ibisagara vyacu bikatembagazwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umuhanuzi Luti",
+        "Umuhanuzi Shu'aib",
+        "Umuhanuzi Hudi",
+        "Umuhanuzi Nuh",
+        "Umuhanuzi Salih"
+      ],
+      "answer": "Umuhanuzi Luti"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Umwuzure munini upfutse isi .",
+        "Gutakaza amaso kubera umubabaro muremure",
+        "Umunyagitugu yivugira ko ari ubumana .",
+        "Kujugunywa mu muriro ururumba .",
+        "Gusabwa gutanga abashitsi b'icubahiro"
+      ],
+      "answer": "Gusabwa gutanga abashitsi b'icubahiro"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Ubwato bunini bubatswe n'amaboko .",
+        "Inkoni yasaduye ikiyaga",
+        "Ingamiya y’ingore y’igitangaza",
+        "Umuriro ururumba",
+        "Ibisagara vyatembagajwe"
+      ],
+      "answer": "Ibisagara vyatembagajwe"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Yarohamye igihe yariko akurikira abemera .",
+        "Yakijijwe mw’itanure ry’umuriro ata co yakoze .",
+        "Baduzwa mw’ijuru ari bazima .",
+        "Umuryango wazimiye mu mwuzure mwinshi",
+        "Umuryango warakijijwe kiretse umugore w'umuhemu ."
+      ],
+      "answer": "Umuryango warakijijwe kiretse umugore w'umuhemu ."
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

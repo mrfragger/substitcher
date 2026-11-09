@@ -1,0 +1,61 @@
+{
+  "title": "Kuratidzwa Kweunyengeri",
+  "intro": "Chisungo cheukama chakaedzwa negodo guru. Hurongwa hwepachivande hwakarongwa, huchitanga zviitiko zvakawanda zvaizotora makore akawanda zvichiyambuka daro refu. Zviito zveboka iri zvakakonzera kuparadzana kukuru nekusuwa, asi nyaya yacho haina kugumira ipapo. Inyaya yekunyengera, kuzvidemba, uye kuzarurwa kwehurongwa hwaMwari. Unogona here kutsanangura kuti vanhu ava vane sarudzo dzakafanana nedzezvizvarwa nezvizvarwa?",
+  "clues": [
+    "Takakundwa negodo nekuda kwerudo rwakaratidzwa kune mumwe wedu.",
+    "Negodo redu, takarangana pamwe chete ndokukanda munin'ina wedu murima retsime.",
+    "Kuti tivanze zvatakaita, takapa baba vedu nguo, yakasvibiswa neropa renhema.",
+    "Makore akazotevera, nzara huru yakatimanikidza kuenda kuIjipiti tichinotsvaga zvekudya.",
+    "Ikoko, takaenda pamberi pegavhuna ane simba, uyo, tisingazive, ndiye mukoma kana munun'una watakanga tatadzira.",
+    "Muedzo wedu wekupedzisira waive wekuunza munin'ina wedu mudiki, Binyamin, izvo zvakaita kuti nhoroondo yedu yekare izivikanwe uye baba vedu vari Muporofita Ya'qub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tiri vanaani?",
+      "options": [
+        "Vanakomana vaAdhamu (Qabil naHabil)",
+        "Vadzidzi vaMuporofita Isa",
+        "Vanun'una vaMuporofita Yusuf",
+        "Vanhu vekuMadyan",
+        "Varoyi vaFirauni"
+      ],
+      "answer": "Vanun'una vaMuporofita Yusuf"
+    },
+    "trial": {
+      "label": "Chii chatakaita pakutanga?",
+      "options": [
+        "Kuvaka mhuru yendarama yekunamatira",
+        "Kuda kuona Allah zvakananga",
+        "Kuseka muporofita nekuda kwekuvaka areka",
+        "Kunyengera baba vedu nekusiya munin'ina wedu",
+        "Kuputsa Sabata nekubata hove"
+      ],
+      "answer": "Kunyengera baba vedu nekusiya munin'ina wedu"
+    },
+    "location": {
+      "label": "Chinangwa chipi chaive chikuru pakunyengedzwa kwedu?",
+      "options": [
+        "Seti yemahwendefa akanyorwa",
+        "Hembe yakasanganiswa neropa renhema",
+        "Mhuru yendarama",
+        "Shiri yakanaka (Hoodle)",
+        "Tsvimbo yakashanduka kuita nyoka"
+      ],
+      "answer": "Hembe yakasanganiswa neropa renhema"
+    },
+    "outcome": {
+      "label": "Chii chakaguma chaitika munyaya yedu?",
+      "options": [
+        "Takaparadzwa nemafashamo makuru",
+        "Takashandurwa kuita tsoko",
+        "Takamedzwa nenyika",
+        "Takaregererwa tikazosanganazve nemhuri yedu",
+        "Takanyura mugungwa"
+      ],
+      "answer": "Takaregererwa tikazosanganazve nemhuri yedu"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

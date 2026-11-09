@@ -1,0 +1,61 @@
+{
+  "title": "Àròyé Ẹ̀tàn",
+  "intro": "Wọ́n dán ìṣọ̀kan ìbátan wò nípasẹ̀ ìbísí owú. Wọ́n gbé ètò ìkọ̀kọ̀ kan kalẹ̀, èyí tó gbé àwọn ìṣẹ̀lẹ̀ tó máa gba ọdún púpọ̀ kọjá, tó sì máa rìn jìnnà réré. Àwọn ìgbésẹ̀ ẹgbẹ́ yìí yọrí sí ìyàsọ́tọ̀ àti ìbànújẹ́ ńláǹlà, ṣùgbọ́n ìtàn náà kò parí síbẹ̀. Ìtàn ẹ̀tàn, ìbànújẹ́, àti ìṣípayá ètò àtọ̀runwá ni. Ṣé o lè tú àṣírí àwọn ènìyàn wọ̀nyí tí àwọn ìpinnu wọn ń dún ní ìrandíran?",
+  "clues": [
+    "Owú ti mú wa gbóná nítorí ìfẹ́ tí a fi hàn sí ẹnìkan lára ​​wa.",
+    "Nínú owú wa, a dìtẹ̀ pọ̀, a sì jù àbúrò wa sínú òkùnkùn kanga kan.",
+    "Láti fi iṣẹ́ wa pamọ́, a fi aṣọ kan fún baba wa, tí ẹ̀jẹ̀ èké ti kùn.",
+    "Ní ọ̀pọ̀ ọdún lẹ́yìn náà, ìyàn líle kan mú wa láti rìnrìn àjò lọ sí Íjíbítì láti wá oúnjẹ.",
+    "Níbẹ̀, a wá síwájú gómìnà alágbára kan, ẹni tí a kò mọ̀ sí, ó jẹ́ ọmọ ìyá kan náà tí a ti ṣẹ̀.",
+    "Ìdánwò ìkẹyìn wa ni láti mú àbúrò wa ọkùnrin, Bẹ́ńjámínì, wá, èyí tí ó mú kí a rí ìtàn àtijọ́ wa, àti pé bàbá wa ni Wòlíì Jákọ́bù."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni àwa?",
+      "options": [
+        "Àwọn ọmọ Adam (Qabil àti Habil)",
+        "Àwọn ọmọ-ẹ̀yìn Wòlíì Ísà",
+        "Àwọn arákùnrin Wòlíì Yúsù",
+        "Àwọn ènìyàn Madyan",
+        "Àwọn Onídán ti Fir‘aon"
+      ],
+      "answer": "Àwọn arákùnrin Wòlíì Yúsù"
+    },
+    "trial": {
+      "label": "Kí ni àṣìṣe pàtàkì wa?",
+      "options": [
+        "Kíkọ́ ọmọ màlúù wúrà fún ìjọsìn",
+        "Mo n beere lati ri Allah taara",
+        "Wọ́n ń fi wòlíì ṣe yẹ̀yẹ́ fún kíkọ́ ọkọ̀ ojú omi",
+        "Fífi baba wa tàn jẹ àti fífi arákùnrin wa sílẹ̀",
+        "Rírú Sábáàtì nípa pípa ẹja"
+      ],
+      "answer": "Fífi baba wa tàn jẹ àti fífi arákùnrin wa sílẹ̀"
+    },
+    "location": {
+      "label": "Èrò wo ló ṣe pàtàkì nínú ìtànjẹ wa?",
+      "options": [
+        "Àkójọ àwọn tábìlì tí a kọ nǹkan sí",
+        "Aṣọ tí ẹ̀jẹ̀ èké ti bò mọ́lẹ̀",
+        "Ọmọ màlúù wúrà kan",
+        "Ẹyẹ ẹlẹ́wà kan (Hoopoe)",
+        "Ọ̀pá tí ó di ejò"
+      ],
+      "answer": "Aṣọ tí ẹ̀jẹ̀ èké ti bò mọ́lẹ̀"
+    },
+    "outcome": {
+      "label": "Kí ni àbájáde ìkẹyìn ìtàn wa?",
+      "options": [
+        "Ìkún omi ńlá pa wá run",
+        "Wọ́n sọ wá di ọ̀bọ",
+        "Ayé gbé wa mì",
+        "A dáríjì wá, a sì tún padà wà pẹ̀lú ìdílé wa",
+        "A rì sínú omi òkun"
+      ],
+      "answer": "A dáríjì wá, a sì tún padà wà pẹ̀lú ìdílé wa"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

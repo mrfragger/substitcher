@@ -1,0 +1,61 @@
+{
+  "title": "Kutongwa kweMurazvo Mutsvene",
+  "intro": "Munyika yekare umo kuzvipira kumatombo akavezwa kwakanga kwadzika midzi mudzimba dzese, munhu mumwe chete akamira akasiyana. Nekutenda kusingazununguki uye dziviriro yaMwari, vakatarisana nerufu rwaifanira kunge rwaiva rwechokwadi - ndokuenda vasina kukuvara. Unogona kuburitsa pachena hunhu hwemweya uyu unoshamisa here?",
+  "clues": [
+    "Ndakakurira pakati pevanhu vaipfugamira zvifananidzo zvavaive vagadzira nemaoko avo, vachitenda kuti zvinhu izvi zvine simba raMwari.",
+    "Pandakapikisa zvavaitenda, pakutanga vakandiramba, asi handina kukwanisa kuramba ndakanyarara nezvechokwadi chandaiziva.",
+    "Pazuva ravakaungana, ndakaparadza zvidhori zvavo, ndikasiya chikuru chete chisina kubatwa.",
+    "Pavakadzoka vakaona zvandakanga ndaita, vatungamiriri vavo vakarayira kuti pavakwe murwi mukuru, vachida kundikanda mumoto.",
+    "Vakandikanda mumoto unopfuta, asi Ishe wenyika vakarayira kuti utonhore uye ugare wakachengeteka kwandiri.",
+    "Ndakabuda mumoto ndisina kukuvara zvachose, asi avo vaironga kundirwisa vakasangana nekuparadzwa kukuru."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Ibrahim",
+        "Muprofita Musa",
+        "Muprofita Nuh",
+        "Muprofita Isa",
+        "Muprofita Yusuf"
+      ],
+      "answer": "Muprofita Ibrahim"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kukandwa mumoto unopfuta",
+        "Kumedzwa nehove huru",
+        "Kupona mafashamo makuru",
+        "Kukandwa mutsime rakadzika",
+        "Kutarisana nevaroyi vamambo"
+      ],
+      "answer": "Kukandwa mumoto unopfuta"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Huni dzinopfuta dzakaita semoto",
+        "Areka huru yematanda",
+        "Chifananidzo chemhuru yegoridhe",
+        "Dengu rinoyangarara parwizi",
+        "Chigaro choumambo chakanaka kwazvo"
+      ],
+      "answer": "Huni dzinopfuta dzakaita semoto"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Mwari vakaita kuti moto utonhore uye ugare wakachengeteka",
+        "Areka yakagara zvakanaka pagomo",
+        "Chifananidzo chegoridhe chakanyunguduka pamberi pavo",
+        "Mudzvinyiriri neuto rake vakanyura mugungwa",
+        "Bofu rakasvinudzwa"
+      ],
+      "answer": "Mwari vakaita kuti moto utonhore uye ugare wakachengeteka"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

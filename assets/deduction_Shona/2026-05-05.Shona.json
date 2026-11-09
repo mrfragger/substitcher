@@ -1,0 +1,61 @@
+{
+  "title": "Kugamuchira Kwenyika",
+  "intro": "Munguva yemiedzo mikuru, munhu ane mukurumbira akapihwa zvakawanda zvenyika, muedzo wekuonga nekuzvininipisa. Rwendo rwemunhu uyu rwunoshanda sechidzidzo chakadzama pamusoro pehunhu hwezvinhu zvenyama hupfupi uye mhedzisiro yekuzvikudza. Fungidzira hunhu hwemweya uyu une nyaya yakacherwa pasi pedu.",
+  "clues": [
+    "Ndakagara pakati pevanhu vaitungamirirwa nemutumwa mukuru.",
+    "Mwari vakandipa pfuma yakakura zvekuti makiyi epfuma yangu aive mutoro unorema kune vanhu vazhinji vane simba.",
+    "Vanhu vangu, vachiziva pfuma yangu, vakandipa zano rekuti nditsvage pekugara kweHupenyu Husingaperi nezvandakapihwa naAllah uye ndisakanganwe mugove wangu wenyika, uye kuti ndiite zvakanaka sezvandakaitwa naAllah zvakanaka.",
+    "Ndakazvikudza ndikati pfuma yangu yakawanda yakawanikwa kuburikidza neruzivo rwangu nesimba rangu, ndichiramba chero nyasha dzaMwari.",
+    "Pandakakumbirwa kupa kana kubvuma chipo chaAllah, ndakaramba nekuzvikudza, ndichitenda kuti zvinhu zvangu ndezvangu chete.",
+    "Nekuda kwekuzvikudza kwangu kwakanyanya uye kudzvinyirira, Allah vakarayira nyika kuti ivhurike ikandimedze ini neimba yangu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Fir'awn",
+        "Iblis",
+        "Hamani",
+        "Abu Lahab",
+        "Qarun"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kukandwa mumoto",
+        "Kunyura mugungwa",
+        "Kudzingwa mubindu",
+        "Kuchinjwa kuita tsoko",
+        "Kumedzwa nenyika"
+      ],
+      "answer": "Kumedzwa nenyika"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Mhuru yendarama",
+        "Areka ine simba guru",
+        "Shiri inotaura",
+        "Tsvimbo inoshamisa",
+        "Pfuma huru nemakiyi"
+      ],
+      "answer": "Pfuma huru nemakiyi"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kuva mutongi mukuru",
+        "Kugamuchira zvakazarurwa naMwari",
+        "Kukwira kudenga",
+        "Kurarama hupenyu hurefu hwekunamata Mwari",
+        "Kuparadzwa zvachose nekuda kwekuzvikudza"
+      ],
+      "answer": "Kuparadzwa zvachose nekuda kwekuzvikudza"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

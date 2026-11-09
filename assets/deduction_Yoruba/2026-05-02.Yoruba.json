@@ -1,0 +1,61 @@
+{
+  "title": "Olùgbé ìhìn-iṣẹ́ tó ṣókùnkùn",
+  "intro": "A rán ọkàn olódodo láti tọ́ àwọn ènìyàn kan tí wọ́n sọnù nínú ìrékọjá tí a kò rí rí. Ońṣẹ́ yìí dúró ṣinṣin, ó ń kìlọ̀ gidigidi nípa ìbàjẹ́ tí ó lòdì sí ìlànà àdánidá. Láìka ẹ̀bẹ̀ sí, àwùjọ náà rì sínú òkùnkùn jinlẹ̀ sí i, ó sì ṣètò ìṣírò àtọ̀runwá tí kò yàtọ̀ sí èyíkéyìí mìíràn. Ṣé o lè dá ìránṣẹ́ Allah tí ó dúró ṣinṣin yìí mọ̀?",
+  "clues": [
+    "Mo jẹ́ ìbátan wòlíì ńlá mìíràn, mo sì bá a ṣí lọ, mo sì fi ìlú wa sílẹ̀.",
+    "Wọ́n rán mi sí àwọn ènìyàn tí ìwà ibi wọn yàtọ̀ síra, tí ẹ̀ṣẹ̀ kankan kò tíì wáyé ṣáájú wọn.",
+    "Ìdílé mi pín sí méjì; mẹ́ḿbà ìdílé kan fara mọ́ àwọn aláìgbàgbọ́ ní ìkọ̀kọ̀.",
+    "Àwọn áńgẹ́lì, ní ìrísí àwọn ọ̀dọ́mọkùnrin arẹwà, wá sí ilé mi gẹ́gẹ́ bí àlejò, wọ́n sì ń fa ìbànújẹ́ ńlá fún mi fún ààbò wọn.",
+    "Mo fi àwọn ọmọbìnrin mi fún àwọn ènìyàn mi ní ìyàwó pẹ̀lú ìgbìyànjú láti yí wọn padà kúrò nínú ìwà ìtìjú wọn.",
+    "Àwọn ènìyàn mi parun nípasẹ̀ igbe búburú àti òjò òkúta amọ̀ tí a fi amọ̀ ṣe, nígbà tí èmi àti ìdílé mi, àyàfi ọ̀kan, ni a gbà là nípa fífi sílẹ̀ ní òru."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Ṣúáíbù",
+        "Wòlíì Sálíh",
+        "Wòlíì Lọ́ọ̀tì",
+        "Wòlíì Húdì",
+        "Wòlíì Nóà"
+      ],
+      "answer": "Wòlíì Lọ́ọ̀tì"
+    },
+    "trial": {
+      "label": "Kí Ni Ìdánwò Àkọ́kọ́ Mi?",
+      "options": [
+        "Láti yí ọba alátakò kan lérò padà pé kí ó má ​​fi iná sun mí.",
+        "Bí mo ṣe ń kojú owú àwọn arákùnrin mi àti bí wọ́n ṣe jù mí sínú kànga kan.",
+        "Kíkojú àwọn ènìyàn tí wọ́n ń ṣe ìṣekúṣe tí kò tíì ṣẹlẹ̀ rí.",
+        "N mu awon eniyan mi jade kuro ninu igbekun lati owo Farao alagbara kan.",
+        "Kíkọ́ ọkọ̀ ojú omi ńlá kan láti gba àwọn onígbàgbọ́ là kúrò nínú ìkún omi ńlá."
+      ],
+      "answer": "Kíkojú àwọn ènìyàn tí wọ́n ń ṣe ìṣekúṣe tí kò tíì ṣẹlẹ̀ rí."
+    },
+    "location": {
+      "label": "Ibo Ni Ipò Iṣẹ́ Àyànfúnni Mi Wà?",
+      "options": [
+        "Ìlú Madíánì",
+        "Ìlú àtijọ́ ti Iram",
+        "Ilẹ̀ Íjíbítì lábẹ́ Farao",
+        "Àwọn ìlú Sodomu àti Gomorra",
+        "Ìlú Nínéfè"
+      ],
+      "answer": "Àwọn ìlú Sodomu àti Gomorra"
+    },
+    "outcome": {
+      "label": "Kí Ni Àbájáde Gíga Jùlọ?",
+      "options": [
+        "Àwọn ìlú náà wó lulẹ̀, wọ́n sì fi òkúta amọ̀ rọ̀ wọ́n.",
+        "Ilẹ̀ gbé àwọn ènìyàn mi mì pẹ̀lú olórí ọlọ́rọ̀ wọn.",
+        "Afẹ́fẹ́ líle kan pa àwọn ènìyàn mi run fún òru méje àti ọjọ́ mẹ́jọ.",
+        "Àwọn ènìyàn mi ní àrùn bí eṣú, iná, àti ọ̀pọ̀lọ́.",
+        "Ẹja ńlá kan gbé mi mì lẹ́yìn tí mo fi iṣẹ́ mi sílẹ̀."
+      ],
+      "answer": "Àwọn ìlú náà wó lulẹ̀, wọ́n sì fi òkúta amọ̀ rọ̀ wọ́n."
+    }
+  },
+  "verseRef": "11:82",
+  "arabic": "فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةًۭ مِّن سِجِّيلٍۢ مَّنضُودٍۢ",
+  "verse": "So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were] (11:82)"
+}

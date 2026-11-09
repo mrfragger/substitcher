@@ -1,0 +1,61 @@
+{
+  "title": "Omukago Atakyukakyuka mu Kugezesa Zaabu",
+  "intro": "Mu kisiikirize kya nnabbi omukulu, omwoyo ogw’okwogera obulungi n’okukkiriza gwalondebwa okuyambako mu butume obw’ekijjukizo. Omuwendo guno gwayimirira nga gunywevu ng’abantu abangi bawuubaala, nga babuulira okulwanyisa okusobya okw’amaanyi okwali kutiisa omusingi gwennyini ogw’okukkiriza Katonda omu. Nabbi bwe yakomawo okulaba ng’abantu basobeddwa, okwewozaako kw’omusajja ono tekwali kwa musango wabula kwa mulimu n’okutya okwawukana. Ono omuddu wa Allah eyeewaddeyo y’ani?",
+  "clues": [
+    "Nalondebwa Allah okukola omulimu omutukuvu ku mabbali g’omulala, era omulimu gwange gwali gwa kuwagira na kulangirira.",
+    "Nnaweebwa okwogera okutegeerekeka obulungi, era ne nwerekera omubaka okutunuulira omunyigiriza ow’amaanyi.",
+    "Mu lugendo oluzibu, omubaka yalinnya olusozi yekka, n’andeka nga ntunula abantu.",
+    "Bwe baali tebaliiwo, abantu baakola ekifaananyi ekya zaabu, era ne mbagayirira okusigala nga beesigwa, naye ne bagaana okubuulirira kwange.",
+    "Omubaka bwe yakomawo, ng’ajjudde obusungu n’ennaku, nnakwatibwa, naye ne bannyonyola nti nnali nfunye amaanyi era nga ntya okuleeta obutakkaanya mu bo.",
+    "Nze nnabbi eyayimirira ku mabbali ga Musa muganda wange, nga agabana omugugu gwe era nga nnywevu ku kusinza ebifaananyi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Nabbi Haruni",
+        "Nabbi Musa",
+        "Nabbi Isa",
+        "Nabbi Dawud",
+        "Nabbi Zakariyya"
+      ],
+      "answer": "Nabbi Haruni"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Abantu baasinzanga ennyana eya zaabu wadde nga baali balabuddwa",
+        "Abantu bansuula mu muliro ogwakaayakana",
+        "Namira ekyennyanja ekinene",
+        "Nnasibibwa ku misango egy’obulimba",
+        "Nnagobwa mu kibuga kyange olw’okubuulira"
+      ],
+      "answer": "Abantu baasinzanga ennyana eya zaabu wadde nga baali balabuddwa"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Ennyana ya Zaabu",
+        "Ekisaka Ekyokya",
+        "Omuggo ogwafuuka omusota",
+        "Ebipande by’Endagaano",
+        "Essanduuko y’Endagaano"
+      ],
+      "answer": "Ennyana ya Zaabu"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Naggyibwako omusango era ne ngenda mu maaso n’obutume bwange obw’obunnabbi",
+        "Nabonerezebwa olw’ekibi ky’abantu",
+        "Nnaweebwa eggwanga eppya okulungamya",
+        "Natwalibwa mu ggulu nga ndi mulamu",
+        "Nnafuulibwa omufuzi w’obwakabaka"
+      ],
+      "answer": "Naggyibwako omusango era ne ngenda mu maaso n’obutume bwange obw’obunnabbi"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

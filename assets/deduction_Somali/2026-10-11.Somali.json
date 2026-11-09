@@ -1,0 +1,61 @@
+{
+  "title": "Codkii Ciidda Hore",
+  "intro": "Rasuulladii ugu horreeyay ee Alle, waxaa jiray mid magaciisa si kooban u iftiimiyay Qur'aanka. Qofkani wuxuu noolaa waqti dheer ka hor inta aan la soo dirin nebiyo badan oo waaweyn, waxaana lagu yaqaanay run sheegid iyo dulqaad aan kala go 'lahayn. Sheekadoodu waa mid kooban laakiin dhaxalkoodu wuxuu ku jiraa diiwaanka weligeed ah. Waa kuma ruuxan sharafta leh?",
+  "clues": [
+    "Waxaan ka mid ahay rasuulladii ugu horreeyay, oo si kooban loogu sheegay Qur'aanka, haddana macno leh.",
+    "Dabeecaddayda waxaa lagu qeexay ballanqaad aan kala go 'lahayn oo ku aaddan runta.",
+    "Waxaa kitaabka Alle igu xasuusanayaa kuwa dulqaadka iyo dulqaadka badnaa.",
+    "Aayado kooban oo kooban oo ku jira Qur'aanka ayaa sheekadayda sheegaya.",
+    "Ilaahay wuxuu igu sharfay si gaar ah oo aan ula wadaago nebiyada kale.",
+    "Waxaa la ii soo koriyay darajo sare, sharaf gaar ah oo ku jirta Qur'aanka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Idriis",
+        "Nabi Ilyaas",
+        "Dhul-Kifl",
+        "Nabi Alyasa",
+        "Asif ibn Barkhiya"
+      ],
+      "answer": "Nabi Idriis"
+    },
+    "trial": {
+      "label": "Qeexida Daqiiqada",
+      "options": [
+        "Waxaa la ii soo qaaday boos sare Alle ha i siiyo",
+        "Waxaan dhisay doon weyn si aan dadkayga u badbaadiyo",
+        "Waxaan la tartamay sixirroolayaasha Fircoon",
+        "Walaalahay ayaa god igu tuuray",
+        "Waxaan indhahayga ka waayay murugada wiilkayga ka dhalatay"
+      ],
+      "answer": "Waxaa la ii soo qaaday boos sare Alle ha i siiyo"
+    },
+    "location": {
+      "label": "Tixraaca Barakaysan",
+      "options": [
+        "Suurada Al-Anbiya",
+        "Suurada Al-Kahf",
+        "Suurada Taha",
+        "Suurada Ash-Shu'ara",
+        "Suurada Yaasiin"
+      ],
+      "answer": "Suurada Al-Anbiya"
+    },
+    "outcome": {
+      "label": "Sharaf Rabbaani ah",
+      "options": [
+        "Saldhig sare oo aan ka duwanayn kuwa kale",
+        "Xukunka Jinka iyo Dabaylaha",
+        "Boqortooyo ammaan aan la barbar dhigi karin",
+        "Dhaxal laga dhaxlay da'dayda gabowday",
+        "Heshiis lala galay Alle"
+      ],
+      "answer": "Saldhig sare oo aan ka duwanayn kuwa kale"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

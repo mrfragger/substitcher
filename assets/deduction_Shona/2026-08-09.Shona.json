@@ -1,0 +1,61 @@
+{
+  "title": "Izwi Rechokwadi Renguva Dzekare",
+  "intro": "Mune mweya muKorani une nyaya inotaurwa mundima shoma chete, asi hunhu hwavo hwakanaka hunopenya zvakajeka. Achirumbidzwa neWemasimbaose nekuda kwehunhu hwake hwakanaka, muranda wekare uyu weNyasha ane nzvimbo mumapeji ezvakazarurwa. Basa rako nderekuziva munhu uyu anoshamisa. Ungafungidzira here kuti ndivanaani?",
+  "clues": [
+    "Ndiri muporofita waAllah akararama pakati pezvizvarwa zvekutanga zvevanhu.",
+    "Allah akanditaura mubhuku rake pamwe chete nevamwe vaprofita, vose vakarumbidzwa nekuda kwehunhu hwakanaka hwakafanana.",
+    "Ndinotsanangurwa semunhu anotaura chokwadi muQuran.",
+    "Allah vakandisimudzira panzvimbo yakakwirira iyo vamwe vashoma vakasvika.",
+    "Zita rangu rinotaurwa muSurah Al-Anbiya, pamwe chete nevamwe vaprofita vaviri vakarumbidzwa nekuda kwemwoyo murefu wavo.",
+    "Ndini Idris, muporofita wechokwadi uye akakwidziridzwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Idris",
+        "Muprofita Nuh",
+        "Muprofita Ibrahim",
+        "Muprofita Musa",
+        "Muprofita Ismail"
+      ],
+      "answer": "Muprofita Idris"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kuramba uine mwoyo murefu uye chokwadi, wobva wakwidziridzwa panzvimbo yakakwirira",
+        "Kuvaka areka huru yekuponesa vatendi kubva mumafashamo anoparadza",
+        "Kukandwa mumoto unopfuta uye kubuda asina kukuvara zvachose",
+        "Kutarisana namambo ane simba uye kukunda hondo yake yemashiripiti",
+        "Kurarama mukati medumbu rehove huru pasi pegungwa"
+      ],
+      "answer": "Kuramba uine mwoyo murefu uye chokwadi, wobva wakwidziridzwa panzvimbo yakakwirira"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Nzvimbo yakakwirira uye yakakwidziridzwa naAllah",
+        "Ngarava hombe yakavakwa nemapuranga ndokumiswa netara",
+        "Moto unopisa wakakuchidzirwa nevanamati vezvifananidzo vamambo akaipa",
+        "Gungwa guru rakapatsanurwa kuita nzira dzakaoma",
+        "Dumbu dema rehove huru pasi pegungwa"
+      ],
+      "answer": "Nzvimbo yakakwirira uye yakakwidziridzwa naAllah"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akagamuchirwa munyasha dzaAllah semumwe wevakarurama",
+        "Akaponeswa pamwe chete nevatendi vose kubva mumafashamo epasi rose",
+        "Akabuda mumoto usina kubatwa nemoto",
+        "Akatungamirira vana veIsraeri kurusununguko rwakachengeteka mhiri kwegungwa",
+        "Vakabatanazve nemhuri yavo yavanoda mushure memakore akawanda ekutambudzika"
+      ],
+      "answer": "Akagamuchirwa munyasha dzaAllah semumwe wevakarurama"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

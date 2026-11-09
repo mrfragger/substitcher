@@ -1,0 +1,61 @@
+{
+  "title": "Umugaragu wa Allah ukomeye",
+  "intro": "Umva amagambo ahwihwisa y'umuntu wo mu bihe bya kera, umugaragu wa Allah wazamuwe mu mwanya urenze uw'abandi. Uyu muntu yari azwiho kwihangana gukomeye no kuba umunyakuri rwose, kandi yoherejwe ku bantu banze ubutumwa. Ni nde uyu muntu wo mu ijuru?",
+  "clues": [
+    "Natowe na Allah nk'umuhanuzi kandi ndavugwa muri Korowani Ntagatifu.",
+    "Nari nziho kwihangana no kuba umunyakuri, imico Imana ishima.",
+    "Nahamagaye ubwoko bwanjye ngo busenge Imana imwe rukumbi, ariko benshi baranyanze.",
+    "Ahantu hawe hazamuwe n'Imana, kandi nahawe urwego rwo hejuru.",
+    "Nkunze kuvugwa hamwe n'abandi bahanuzi nka Ismail na Dhul-Kifl.",
+    "Allah aravuze kuri njye ati: 'Kandi twamuzamuye mu mwanya wo hejuru.' (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Umuhanuzi Idris",
+        "Umuhanuzi Eliya",
+        "Intumwa Dhu al-Kifl",
+        "Intumwa Al-Yasa",
+        "Umuhanuzi Hud"
+      ],
+      "answer": "Umuhanuzi Idris"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Abantu bahamagarirwa gusenga Allah",
+        "Yubatse inkuge",
+        "Yarwanye na Farawo",
+        "Yapimwe indwara ikomeye",
+        "Yajugunywe mu muriro"
+      ],
+      "answer": "Abantu bahamagarirwa gusenga Allah"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Urwego rwo hejuru/ikibanza cyo hejuru",
+        "Inkuge",
+        "Abakozi",
+        "Umuriro",
+        "Iriba"
+      ],
+      "answer": "Urwego rwo hejuru/ikibanza cyo hejuru"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Yazamuwe ku rwego rwo hejuru",
+        "Yarohamye mu myuzure",
+        "Yamizwe n'ifi nini",
+        "Yarokowe mu muriro",
+        "Yabaye umwami"
+      ],
+      "answer": "Yazamuwe ku rwego rwo hejuru"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

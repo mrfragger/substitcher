@@ -1,0 +1,61 @@
+{
+  "title": "Mutendi Akafukidzirwa Mudare reMudzvinyiriri",
+  "intro": "Mukati medzimba dzegoridhe dzemutongi anozvikudza zvikuru anozivikanwa muQuran — uko kusateerera Mwari kwaitsanangura murairo wese — mweya mumwe chete waifamba pakati pevane ropafadzo, uchiviga zvakavanzika zvine njodzi zvikuru pamberi pevanhu. Munhu uyu aive nekutenda kwakarambidzwa mukati memadziro iwayo zvekuti kuwanikwa kwako kwaizoreva rufu rwechokwadi. Asi kutenda kwaipisa semurazvo pasi pemadota, uye nguva yacho payakasvika, chokwadi chakanzwika neushingi hwakazunungusa nheyo yemuzinda wemudzvinyiriri.",
+  "clues": [
+    "Ndaigara pakati pemutongi ane simba uye anozvikudza wenguva yangu, ndakakomberedzwa neumbozha uye simba.",
+    "Ndakavanza zvandaitenda zvechokwadi mukati memoyo wangu, ndichitya hupenyu hwangu kubva kune avo vaitonga nehutsinye nekudzvinyirira.",
+    "Vanhu vangu pavakava vasina chokwadi uye vakatsunga kutaura chokwadi, ndakaenda mberi kuti ndivanyevere nezvematambudziko akaipisisa akanga awira marudzi ekare akaramba vatumwa vaIshe wavo.",
+    "Ndakayeuchidza vanhu vangu nezvenyaya yemuroti wechidiki aidiwa akakandwa pasi nehama dzake asi akasvika pakuva nesimba guru kunyika iri kure.",
+    "Ndakakurudzira vanhu vangu kuti vasateerere mutongi akavatsausa, panzvimbo pezvo ndichivakoka kuti vanditevere munzira yekururama nenhungamiro.",
+    "Ndakataura chokwadi pachena kunyangwe vateveri vemudzvinyiriri vakandityisidzira kuti vaizonditema nematombo kana kundidzinga munyika."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Mutendi Akavanzwa kubva kumhuri yaFarao",
+        "Musoro wemhuri wemwoyo murefu akachema ari bofu kusvika mwanakomana wake adzoka",
+        "Muranda Akatendeka Ane Chirwere Cheganda Chakazorapwa",
+        "Mwanakomana Mutadzi Akaramba Kukokwa kweMuprofita Kuti Akwire muAreka",
+        "Mudzvinyiriri Asina Tsitsi Aizviti Ndiye Mwari"
+      ],
+      "answer": "Mutendi Akavanzwa kubva kumhuri yaFarao"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kuvanza kutenda mudare remudzvinyiriri",
+        "Kutambura neupofu nekuda kwemakore ekuchema",
+        "Kuedzwa nekurasikirwa nemhuri uye kutambudzika kukuru",
+        "Kuvaka ngarava huru uchisekwa",
+        "Kutsungirira kupisa kukuru kwemoto mukuru"
+      ],
+      "answer": "Kuvanza kutenda mudare remudzvinyiriri"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Imba yaFarao",
+        "Nhongonya yegomo pakavakwa areka",
+        "Mupata mutsvene pasi peGomo reSinai",
+        "Bindu rakanaka kwazvo rine hova mbiri dzinoyerera",
+        "Chigaro cheumambo chekristaro chiri pamusoro perwizi rwepasi pevhu"
+      ],
+      "answer": "Imba yaFarao"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Dziviriro yaMwari apo vadzvinyiriri vaiparadzwa",
+        "Akabatanazve nemhuri mushure memakumi emakore ekuparadzana",
+        "Akapihwa mwoyo murefu, hutano hwakanaka, uye mhuri yakakura",
+        "Akaponeswa ari muchikepe asi vamwe vose pasi rose vakanyura",
+        "Akanunurwa asina kukuvara kubva mumoto nemurairo waAllah"
+      ],
+      "answer": "Dziviriro yaMwari apo vadzvinyiriri vaiparadzwa"
+    }
+  },
+  "verseRef": "40:38",
+  "arabic": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "verse": "And he who believed said, \"O my people, follow me; I will guide you to the way of right conduct. (40:38)"
+}

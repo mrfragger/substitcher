@@ -1,0 +1,61 @@
+{
+  "title": "Ọkàn Àkọ́kọ́ Láti Dúró",
+  "intro": "Kí ìránṣẹ́ kankan tó rìn lórí ilẹ̀ ayé, kí a tó fi ìwé mímọ́ hàn, ẹ̀dá kan tí kò yàtọ̀ sí ẹlòmíràn wà. A fi ọwọ́ Ọlọ́run ṣe ẹ̀dá ọkàn yìí, a fún un ní ibi ẹwà tí kò láfiwé, a sì dán an wò lọ́nà tí yóò dún ní gbogbo ìtàn ènìyàn. Ohun tó tẹ̀lé e ni ìtàn àìlera, ìrònúpìwàdà tòótọ́, àti àyànmọ́ kan tí yóò yí ipa ọ̀nà ìṣẹ̀dá padà títí láé. Ǹjẹ́ o lè mọ ẹni tí èyí jẹ́?",
+  "clues": [
+    "Ọwọ́ Aláàánú jùlọ ni a fi dá mi láti inú eruku ilẹ̀ gan-an",
+    "Wọ́n fún mi ní ilé ẹlẹ́wà tí kò láfiwé, níbi tí ebi tàbí àárẹ̀ kò ti lè kàn mí.",
+    "Wọ́n pàṣẹ fún mi pé kí n má ṣe sún mọ́ igi kan ṣoṣo, nítorí pé wọ́n kà á léèwọ̀.",
+    "Èmi àti alábàákẹ́gbẹ́ mi ni wọ́n tàn jẹ, a sì sún mọ́ igi tí a kà léèwọ̀, lòdì sí àṣẹ Olúwa wa.",
+    "A pada si Oluwa wa pẹlu ironupiwada otitọ, a si dariji ẹṣẹ wa",
+    "Láti ọ̀dọ̀ wa ni gbogbo ènìyàn ti wá; Èmi ni ẹni àkọ́kọ́ tí ó rìn lórí ilẹ̀ ayé yìí"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Ádámù",
+        "Wòlíì Mósà",
+        "Wòlíì Nóà",
+        "Wòlíì Yúsọ́ọ̀fù",
+        "Wòlíì Ísà"
+      ],
+      "answer": "Wòlíì Ádámù"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ìdẹwò nípasẹ̀ igi tí a kà léèwọ̀",
+        "Ìjà pẹ̀lú Fáráò",
+        "Kíkọ́ Ọkọ̀ Ńlá náà",
+        "Ẹbọ ọmọ ayanfẹ",
+        "Jíjẹ́ tí a jù sínú iná ńlá"
+      ],
+      "answer": "Ìdẹwò nípasẹ̀ igi tí a kà léèwọ̀"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Igi tí a kà léèwọ̀",
+        "Igbó Tí Ń jóná",
+        "Ọpá wúrà náà",
+        "Ọkọ̀ Ńlá",
+        "Ọmọ màlúù wúrà náà"
+      ],
+      "answer": "Igi tí a kà léèwọ̀"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ránṣẹ́ sí ayé gẹ́gẹ́ bí olùtọ́jú àkọ́kọ́ aráyé",
+        "Farao àti àwọn ọmọ ogun rẹ̀ rì sínú òkun",
+        "Ìkún omi ńlá náà pa àwọn ènìyàn búburú run",
+        "Iná náà di tútù àti àlàáfíà",
+        "Wọ́n fún un ní àṣẹ lórí ìjọba Íjíbítì"
+      ],
+      "answer": "Ránṣẹ́ sí ayé gẹ́gẹ́ bí olùtọ́jú àkọ́kọ́ aráyé"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

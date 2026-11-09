@@ -1,0 +1,61 @@
+{
+  "title": "Saaxiibka aan ruxnayn ee ku jira Tijaabada Dahabka ah",
+  "intro": "Hooska nebi weyn, waxaa la doortay naf aftahannimo iyo iimaan leh si ay uga caawiso hawlgal weyn. Qofkani wuxuu taagnaa markii dadweynuhu ay lulayeen, iyagoo wacdinaya xadgudub cad oo halis gelinaya xudunta tawxiidka. Markii nebigu soo laabtay si uu u arko burburka dadka, difaaca qofkani ma ahayn mid dambi ah laakiin waa waajib iyo cabsi kala qaybsanaan. Waa kuma addoonkan Alle ee daacadda ah?",
+  "clues": [
+    "Waxaa Alle ii doortay waajib muqaddas ah oo ay weheliso mid kale, doorkayguna wuxuu ahaa mid taageero iyo baaq ah.",
+    "Waxaa la ii ogolaaday caddeynta hadalka, waxaana la socday farriin si aan ula kulmo dulmiile awood badan.",
+    "Intii lagu jiray safar xasaasi ah, rasuulku keligiis ayuu fuulay buur, taasoo iga dhigtay inaan dadka ilaaliyo.",
+    "Markii ay maqnaayeen, dadku waxay sameeyeen sawir dahab ah, aniguna waxaan ka baryay inay daacad ahaadaan, laakiin way diideen taladaydii.",
+    "Markii uu soo laabtay farriintii, anigoo cadhaysan oo murugaysan, waa la i qabtay, laakiin waxaan u sharraxay in la iga adkaaday oo aan ka baqay in khilaaf dhex maro.",
+    "Anigu waxaan ahay nebigii ag taagnaa Muuse, walaalkay, anigoo la wadaagaya culayskiisa oo ka soo horjeeda sanam caabudidda."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Haaruun",
+        "Nabi Muuse",
+        "Nebi Ciise",
+        "Nabi Daa'uud",
+        "Nabi Zakariya"
+      ],
+      "answer": "Nabi Haaruun"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Dadku waxay caabudi jireen weyl dahab ah inkastoo digniino la siiyay",
+        "Dadku waxay igu tuureen dab ololaya",
+        "Waxaa i liqay kalluun weyn",
+        "Waxaa la i xiray eedeymo been abuur ah awgood",
+        "Waxaa magaaladaydii laga masaafuriyay wacdi awgiis"
+      ],
+      "answer": "Dadku waxay caabudi jireen weyl dahab ah inkastoo digniino la siiyay"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Keeggii Dahabka ahaa",
+        "Geedka Gubanaya",
+        "Ushii abeeso isu beddeshay",
+        "Looxyada Axdiga",
+        "Sanduuqii Axdiga"
+      ],
+      "answer": "Keeggii Dahabka ahaa"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Waa la iga cafiyay oo waxaan sii watay hawshii nebinimadayda",
+        "Waxaa la ii ciqaabay dembiga dadka awgiis",
+        "Waxaa la i siiyay qaran cusub si aan u hago",
+        "Waxaa la ii qaaday samada anigoo nool",
+        "Waxaa la iga dhigay taliye boqortooyo"
+      ],
+      "answer": "Waa la iga cafiyay oo waxaan sii watay hawshii nebinimadayda"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

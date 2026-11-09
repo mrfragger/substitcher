@@ -1,0 +1,61 @@
+{
+  "title": "Ìrìn Àjò Ọkàn Tí A Gbà",
+  "intro": "Ní àkókò kan tí àwọn ìlànà àwùjọ ń gbilẹ̀, ẹnìkan tí ó yàtọ̀ ní ìrírí ìyípadà ńlá nínú ìdílé aláyọ̀ kan. Ìtàn wọn, tí a fi ìdè ìfẹ́ àti àṣẹ àtọ̀runwá hàn, ṣàfihàn bí àwọn àṣà àtijọ́ ṣe ń bàjẹ́ àti bí a ṣe ń gbé àwọn ìlànà òdodo tuntun kalẹ̀. Ìtàn yìí tẹnu mọ́ pàtàkì òtítọ́ ju àṣà àti ọgbọ́n tí ó wà lẹ́yìn àṣẹ Allah lọ.",
+  "clues": [
+    "Mo ti jẹ́ ẹlẹ́wọ̀n tẹ́lẹ̀, ṣùgbọ́n nípasẹ̀ ìṣètò àtọ̀runwá, mo rí ilé àti ìdílé tuntun.",
+    "Mo fẹ́ràn ara mi gan-an débi pé nígbà tí wọ́n fún mi ní àṣàyàn láàárín ìdílé tí mo bí àti olùtọ́jú tí mo gbà, mo yàn láti dúró pẹ̀lú ìdílé kejì.",
+    "Orúkọ mi ti jẹ́ mọ́ olùtọ́jú tí mo gbà, àṣà kan tí ó wọ́pọ̀ ní àwùjọ mi.",
+    "Èmi nìkan ni alábàákẹ́gbẹ́ Ànábì ìkẹyìn tí Allah mẹ́nu kàn orúkọ rẹ̀ ní kedere nínú Al-Quran.",
+    "Mo fẹ́ obìnrin ọlọ́lá kan tí ó jẹ́ ìbátan Wòlíì, ṣùgbọ́n ìgbéyàwó wa kò pẹ́.",
+    "Lẹ́yìn ìkọ̀sílẹ̀ mi, Allah fúnra rẹ̀ pàṣẹ pé kí ìyàwó mi àtijọ́ fẹ́ Wòlíì, nípa bẹ́ẹ̀ ó fagilé àṣà ìgbàanì nípa ìtọ́jú ọmọ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Bilal ibn Rabah",
+        "Salman al-Farsi",
+        "Abu Bakr al-Siddiq",
+        "Zayd ibn Harithah",
+        "Usama ibn Zayd"
+      ],
+      "answer": "Zayd ibn Harithah"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ṣíṣáájú ẹgbẹ́ ọmọ ogun nígbà tí ó wà ní kékeré",
+        "Lílo ìjìyà nítorí ìgbàgbọ́",
+        "Ogun Ìyàrá Ìlà",
+        "Òfin Ọlọ́run nípa ìgbéyàwó àti ìkọ̀sílẹ̀ mi",
+        "Ìṣílọ sí Abyssinia"
+      ],
+      "answer": "Òfin Ọlọ́run nípa ìgbéyàwó àti ìkọ̀sílẹ̀ mi"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Àṣà ìwúwo owó",
+        "Ìjọsìn àwọn ère",
+        "Àṣà ìgbàṣọmọ àti àwọn ìtumọ̀ rẹ̀",
+        "Ìdènà ọtí líle",
+        "Ìtọ́jú àwọn ọmọ aláìníbaba"
+      ],
+      "answer": "Àṣà ìgbàṣọmọ àti àwọn ìtumọ̀ rẹ̀"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ó di ìwé ìsìn àkọ́kọ́ nínú ẹ̀sìn Islam",
+        "Ìdásílẹ̀ Kaaba",
+        "Ìparẹ́ àṣà kí ó tó di ìgbà ẹ̀sìn Islam ti ‘pípe àwọn ọmọ tí a gbà ṣọmọ gẹ́gẹ́ bí ọmọ tí a bí ní ọmọ’",
+        "Ifihan Surah Al-Fatiha",
+        "Yíyàn ẹni tí yóò gba ipò Wòlíì"
+      ],
+      "answer": "Ìparẹ́ àṣà kí ó tó di ìgbà ẹ̀sìn Islam ti ‘pípe àwọn ọmọ tí a gbà ṣọmọ gẹ́gẹ́ bí ọmọ tí a bí ní ọmọ’"
+    }
+  },
+  "verseRef": "33:37",
+  "arabic": "وَإِذْ تَقُولُ لِلَّذِىٓ أَنْعَمَ ٱللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَٱتَّقِ ٱللَّهَ وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ أَن تَخْشَىٰهُ ۖ فَلَمَّا قَضَىٰ زَيْدٌۭ مِّنْهَا وَطَرًۭا زَوَّجْنَـٰكَهَا لِكَىْ لَا يَكُونَ عَلَى ٱلْمُؤْمِنِينَ حَرَجٌۭ فِىٓ أَزْوَٰجِ أَدْعِيَآئِهِمْ إِذَا قَضَوْا۟ مِنْهُنَّ وَطَرًۭا ۚ وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًۭا",
+  "verse": "And [remember, O Muḥammad], when you said to the one on whom Allāh bestowed favor and you bestowed favor, \"Keep your wife and fear Allāh,\" while you concealed within yourself that which Allāh is to disclose. And you feared the people, while Allāh has more right that you fear Him. So when Zayd had no longer any need for her, We married her to you in order that there not be upon the believers any discomfort [i.e., guilt] concerning the wives of their claimed [i.e., adopted] sons when they no longer have need of them. And ever is the command [i.e., decree] of Allāh accomplished. (33:37)"
+}

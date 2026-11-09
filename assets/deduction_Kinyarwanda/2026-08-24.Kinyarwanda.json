@@ -1,0 +1,61 @@
+{
+  "title": "Abateze amatwi bihishe bizeraga",
+  "intro": "Mu ituze ry’iteraniro ryera, haje ikoraniro ritangaje riturutse mu ijuru ritagaragara. Bakuruwe n’amagambo y’ikintu gitangaje, bumvise amagambo y’imvugo yari guhamya iherezo ryabo iteka ryose. Ubuhamya bwabo buracyari bumwe mu buryo bwihariye mu byanditswe byera by’Imana.",
+  "clues": [
+    "Turi ibiremwa bikomoka mu isi itabonwa na benshi, kandi twaje turi itsinda.",
+    "Twagiye mu ikoraniro kugira ngo twumve ikintu gitangaje.",
+    "Tuhageze, twumvise isomo ryadutangaje cyane.",
+    "Twemeye ku mugaragaro ko bamwe muri twe ari intungane abandi atari zo.",
+    "Twari tuzi ko tudashobora guhunga itegeko ry’Imana ku isi, cyangwa ngo duhungire mu kirere.",
+    "Ubwo twumvise ubuyobozi, twarabwemeye; uwizera Umwami we ntazatinya igihombo cyangwa umutwaro."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Itsinda ry'Abajini",
+        "Abaturage ba Iramu",
+        "Abaturage ba Tubba'",
+        "Ubwami bw'Abaroma",
+        "Umuryango w'Abakurayishi"
+      ],
+      "answer": "Itsinda ry'Abajini"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Gutega amatwi isomo ryera",
+        "Kubaka inkingi ndende mu mujyi wacu",
+        "Guhiga ingamiya nziza cyane",
+        "Kurimbuka kubera kwica abahanuzi bacu",
+        "Kugwiza ubutunzi burenze urugero"
+      ],
+      "answer": "Gutega amatwi isomo ryera"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Igiterane cy'imvugo zera",
+        "Umujyi w'inkingi ndende (Iramu)",
+        "Iriba riri mu butayu",
+        "Ingoro nini y'izahabu",
+        "Ubuvumo butagatifu mu misozi"
+      ],
+      "answer": "Igiterane cy'imvugo zera"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Twemeye kandi twaburiye abantu bacu",
+        "Yasenyutse kubera guturika gukomeye kwaturutse mu ijuru",
+        "Ahanwa n'umuyaga utwika kandi urimbura",
+        "Yahawe ubutunzi n'ububasha bitagira ingano",
+        "Nakomeje gushikama mu kutemera"
+      ],
+      "answer": "Twemeye kandi twaburiye abantu bacu"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

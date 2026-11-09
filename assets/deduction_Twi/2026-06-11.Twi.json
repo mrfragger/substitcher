@@ -1,0 +1,61 @@
+{
+  "title": "Akuraa a Ɛwɔ Asɛnnibea Mpoano",
+  "intro": "Wuhu wo ho wɔ mpoano akuraa bi ase, baabi a asorɔkye nnyigyei ne nnipa bi a wɔn werɛ afi wɔn nsɛm a ɛyɛ sereserew fra. Wɔmaa wɔn ahyɛde sɛ wɔnhome, nanso wɔn adifudepɛ no ma wɔde asotwe bi a wɔda so ara ka ho asɛm wɔ nne a ɛyɛ komm mu bae. So wubetumi ahu nnipa ko a na wɔyɛ?",
+  "clues": [
+    "Ná yɛte mpoano hɔ na wɔmaa yɛn ahyɛde sɛ yenni ahomegye da bi.",
+    "Saa da no, na mpataa ba yɛn nkyɛn bebree, nanso wɔbaraa yɛn sɛ yɛmfa.",
+    "Yɛn mu binom bɔɔ kɔkɔ wɔ mmarato ho, nanso afoforo bɔɔ pɔw sɛ wɔbɛkyere mpataa ɔkwan biara so.",
+    "Yebuu ahyɛde kronkron no so na yɛde asotwe a emu yɛ den baa yɛn ho so.",
+    "Ná yɛn asotwe no yɛ nsakrae a ɛmaa yɛn nipadua sɛee na yɛn anim ase.",
+    "Wɔdanee yɛn akraman, sɛnkyerɛnne ma wɔn a wɔbɛba akyi nyinaa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Nnipa a wɔte Homeda",
+        "Nnipa a wɔwɔ Thamud",
+        "Nnipa a wɔwɔ ‘Ad",
+        "Nnipa a Wɔte Ɔbodan no mu",
+        "Nnipa a Wɔyɛ Asono"
+      ],
+      "answer": "Nnipa a wɔte Homeda"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Mpataayi wɔ Homeda",
+        "Sika nantwi ba a wɔsom",
+        "Hud nkrasɛm a wɔpow",
+        "Yoma-bere a wokum no",
+        "Abantenten a wɔresi akɔ soro"
+      ],
+      "answer": "Mpataayi wɔ Homeda"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Mpataa no",
+        "Yoma a ɔyɛ ɔbea",
+        "Adwumayɛfo bi",
+        "Ɔkorow bi",
+        "Turo bi"
+      ],
+      "answer": "Mpataa no"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wɔdanee no akraman",
+        "Nsuyiri sɛee no",
+        "Ogya a ɛredɛw sɛee no",
+        "Asase amene no",
+        "Mframa bi abɔ apete"
+      ],
+      "answer": "Wɔdanee no akraman"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

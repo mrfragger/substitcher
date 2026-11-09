@@ -1,0 +1,61 @@
+{
+  "title": "Ìkìlọ̀ Tó Wà Lábẹ́ Ilẹ̀",
+  "intro": "Fojú inú wo bí a ṣe dúró lẹ́gbẹ̀ẹ́ ibi ìwakọ̀ jíjìn kan bí àwọn ohùn ṣe ń jáde láti ìsàlẹ̀, tí ayé tí ó wà lókè sì dákẹ́. Al-Quran pa ìṣẹ̀lẹ̀ yìí mọ́ gẹ́gẹ́ bí ìkìlọ̀: àwùjọ kan kọ̀ ohun tí àwọn ìránṣẹ́ mú wá, ìyà ti dé, àti pé ariwo rẹ̀ pàápàá di ara ẹ̀rí. Ẹgbẹ́ wo ló ń sọ̀rọ̀ nípasẹ̀ àwọn ẹsẹ wọ̀nyẹn?",
+  "clues": [
+    "A ranti wa ninu Al-Quran gẹgẹbi ẹgbẹ kan ti a tumọ nipasẹ ayanmọ kanṣoṣo dipo orukọ ẹni kọọkan.",
+    "A kọ ìhìn tí àwọn ońṣẹ́ mú wá, bó tilẹ̀ jẹ́ pé òótọ́ ni ohun tí wọ́n sọ.",
+    "Ìdámọ̀ wa tí a rántí ni a so mọ́ ìgé ilẹ̀ tó jinlẹ̀, àmì yẹn sì di ara orúkọ wa.",
+    "Ní ọjọ́ tí a yàn, wọ́n mú wa jáde, wọ́n sì fà wá lọ sí ibi iná.",
+    "A kò lè gbèjà ara wa kúrò lọ́wọ́ ìyà náà, a kò sì gbọ́ ìró rẹ̀.",
+    "A ó yí ojú wa padà nínú iná, a ó sì gbé wa sínú rẹ̀; tí a bá bi wọ́n léèrè, a ó sọ pé a wà lára ​​àwọn tí kò lè dáhùn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Àwọn Alábàákẹ́gbẹ́ ní Ìgòkè",
+        "Orílẹ̀-èdè náà ni a gbà là kúrò nínú ìkún omi ńlá náà",
+        "Àwọn Olùjọ́sìn Ọmọ màlúù Wúrà",
+        "Ẹgbẹ́ náà pamọ́ sínú ihò òkè ńlá náà",
+        "Àwùjọ tí a gbà láti inú Iná Iná"
+      ],
+      "answer": "Àwọn Alábàákẹ́gbẹ́ ní Ìgòkè"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Wọ́n fà wọ́n, wọ́n sì jù wọ́n sínú iná",
+        "A gbà á kúrò nínú iná ìléru",
+        "A gbé wa la ìkún omi ńlá já láìléwu",
+        "Wọ́n ṣọ́ sínú ihò àpáta fún ọ̀pọ̀ ọ̀rúndún",
+        "Wọ́n gbà á là lẹ́yìn tí wọ́n jù ú sínú kànga kan"
+      ],
+      "answer": "Wọ́n fà wọ́n, wọ́n sì jù wọ́n sínú iná"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Kòtò tàbí ihò",
+        "Òkun ńlá kan",
+        "Ihò òkè ńlá kan",
+        "Ààfin gíga kan",
+        "Kànga aṣálẹ̀ kan"
+      ],
+      "answer": "Kòtò tàbí ihò"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Àìlè gbèjà ara wọn, wọn kò sì lè gbọ́ ariwo iná náà",
+        "A gbà á là, a sì fún un ní ìwọlé sínú ọgbà ayérayé",
+        "A gbà á là láìléwu nígbà ìkún omi apanirun kan",
+        "Oòrùn gígùn nínú ihò àpáta kan dáàbò bò ó",
+        "A fi ìjọba ayérayé bọ̀wọ̀ fún un"
+      ],
+      "answer": "Àìlè gbèjà ara wọn, wọn kò sì lè gbọ́ ariwo iná náà"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

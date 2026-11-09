@@ -1,0 +1,61 @@
+{
+  "title": "Umujyi wizeraga igihe",
+  "intro": "Mu nkuru z’imbabazi z’Imana, hari umuryango wagize ihinduka rikomeye mu buryo rusange. Ugiye kuvumbura inkuru yabo—inkuru y’umuburo, kwihana, no guhosha ibintu bibatandukanya n’ibyago by’andi mahanga.",
+  "clues": [
+    "Twari ubwoko bwatumweho intumwa, kandi twabanje kwirengagiza umuhamagaro wayo.",
+    "Igihe ibimenyetso by'igihano cyari cyegereje byagaragaraga neza, twabonye ukuri kw'umuburo we.",
+    "Twahindukiriye Umwami wacu twihannye by'ukuri, kandi ukwizera kwacu kwemerwa.",
+    "Igihano cyari cyaratanzwe kuri twe cyakuweho kubera ukwemera kwacu.",
+    "Inkuru yacu ivugwa nk'idasanzwe mu mijyi yizeye nyuma yo kubona igihano.",
+    "Twari ubwoko bw'umuhanuzi wamizwe n'ifi nini, nyamara twarakijijwe kurimbuka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Abantu ba Yunus",
+        "Abantu ba Nuh",
+        "Abantu ba Hud",
+        "Abantu ba Salih",
+        "Abantu ba Lut"
+      ],
+      "answer": "Abantu ba Yunus"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Umwuzure ukaze cyane",
+        "Inkubi y'umuyaga ikomeye",
+        "Igihano cy'isoni cyari cyegereje cyari cyarakumiriwe",
+        "Isi irabamira",
+        "Imvura y'amabuye"
+      ],
+      "answer": "Igihano cy'isoni cyari cyegereje cyari cyarakumiriwe"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Inkuge",
+        "Ingamiya y'ingore",
+        "Umujyi w'abantu ibihumbi ijana",
+        "Inkoni ya Musa",
+        "Ubutunzi bwa Qarun"
+      ],
+      "answer": "Umujyi w'abantu ibihumbi ijana"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Bararimbuwe burundu",
+        "Bahawe ibyishimo by'igihe gito",
+        "Bahinduwe nk'inkende",
+        "Bari barohamye",
+        "Bamizwe n'isi"
+      ],
+      "answer": "Bahawe ibyishimo by'igihe gito"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

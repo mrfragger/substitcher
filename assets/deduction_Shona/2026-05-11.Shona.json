@@ -1,0 +1,61 @@
+{
+  "title": "Zvapupu Zvakasimba",
+  "intro": "Fungidzira nguva apo kutenda kwakaedzwa nemoto, uye kutenda kusingazununguki kwakava kupandukira kukuru. Une basa rekutsvaga kuzivikanwa kweboka rine nyaya inorondedzerwa muKorani, nyaya yekutenda kwakadzama kurwisa hudzvanyiriri hwakakura. Fungidzira zviratidzo kuti uwane kuti mweya iyi yaive vanaani, uye mamiriro ezvinhu anoshamisa avaitarisana nawo.",
+  "clues": [
+    "Takamira takasimba mukutenda kwedu, pasinei nekumanikidzwa kukuru kuti tirambe kutenda kwedu.",
+    "Takanangwa nemutongi ane simba aida kudzima chiedza chekutenda muna Mwari mumwe chete.",
+    "Takaona zviratidzo zvikuru nezvishamiso, asi vadzvinyiriri vedu vakaramba vasina hanya.",
+    "Takatsungirira nzira inotyisa yekutambudzwa yakagadzirirwa kutyisidzira vamwe kuti vazviise pasi.",
+    "Takakandwa mumoto unopisa, asi kusimba kwedu kwakatipa nzvimbo yakakwirira kuna Allah.",
+    "Nyaya yedu inorondedzerwa muSurah yakatumidzwa zita remapoka enyeredzi ekudenga, ichinyevera nezveramangwana reavo vanotambudza vatendi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tiri vanaani?",
+      "options": [
+        "Vanhu veThamud",
+        "Vanhu ve'Ad",
+        "Vanhu veMugodhi",
+        "Vanhu veMidhiani",
+        "Vanhu veNzou"
+      ],
+      "answer": "Vanhu veMugodhi"
+    },
+    "trial": {
+      "label": "Kutambudzwa Kwedu",
+      "options": [
+        "Kunyudzwa mumafashamo",
+        "Kupedzwa nemhepo inopisa",
+        "Kukandwa mugomba rinopfuta moto",
+        "Kumedzwa nenyika",
+        "Kushandurwa kuita tsoko"
+      ],
+      "answer": "Kukandwa mugomba rinopfuta moto"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Mafashamo makuru",
+        "Kudengenyeka kwenyika kukuru",
+        "Mugero wakadzika, unopfuta",
+        "Chidhori chine simba",
+        "Kusanaya kwemvura kunoparadza"
+      ],
+      "answer": "Mugero wakadzika, unopfuta"
+    },
+    "outcome": {
+      "label": "Mugumo Wedu Mukuru",
+      "options": [
+        "Vakapihwa umambo panyika.",
+        "Vakaponeswa nekupukunyuka kunoshamisa.",
+        "Vakawana mubairo wekufa uye mubairo usingaperi.",
+        "Dzakachinjwa kuita mhando yakasiyana.",
+        "Vakapihwa pfuma yakawanda uye kubudirira."
+      ],
+      "answer": "Vakawana mubairo wekufa uye mubairo usingaperi."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

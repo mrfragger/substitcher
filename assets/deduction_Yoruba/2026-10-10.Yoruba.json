@@ -1,0 +1,61 @@
+{
+  "title": "Skátẹ́nì Oníyẹ́",
+  "intro": "Nínú ìjọba kan tí ẹnìkan tí a fún ní àṣẹ lórí afẹ́fẹ́, àwọn ẹ̀dá tí a kò rí, àti àwọn ẹ̀dá ojú ọ̀run ń ṣàkóso, ọmọ ẹgbẹ́ kékeré kan tí ó yára pòórá kúrò nínú ẹgbẹ́ náà — kí ó tó padà wá pẹ̀lú àwọn ìfihàn tí yóò tún ṣe àtúnṣe àyànmọ́ orílẹ̀-èdè kan tí ó jìnnà réré. Onímọ̀ràn tí ó ní ojú tó jinlẹ̀ yìí mú òtítọ́ wá sí ìmọ́lẹ̀ níbi tí àìmọ̀kan ti fìdí múlẹ̀. Ta ni èmi?",
+  "clues": [
+    "Mo ṣiṣẹ́ ní ààfin kan níbi tí àwọn ènìyàn, àwọn ẹ̀dá tí a kò rí, àti àwọn ẹ̀dá ojú ọ̀run ti ń dáhùn sí aláṣẹ ọlọ́gbọ́n kan ṣoṣo tí ó ń darí afẹ́fẹ́.",
+    "Mo ti fi ipo mi silẹ fun igba diẹ, a si ti ṣe ileri ibinu olori naa ti emi ko ba pese idi to peye.",
+    "Ẹ̀dá kékeré kan tí ó ń fò ni mí, tí a mọ̀ fún ríran kedere, a sì fi orúkọ tààrà fún irú mi nínú àwọn ojú ìwé ìfihàn.",
+    "Nígbà tí mo padà dé, mo mú ìròyìn nípa ilẹ̀ jíjìn kan wá níbi tí àwọn ènìyàn ti ń forí balẹ̀ fún oòrùn, tí wọ́n sì fọ́jú sí Ẹni tí ó dá ọ̀run àti ayé.",
+    "Mo rí obìnrin kan tí ó ń ṣàkóso ìjọba ńlá kan, tí ó jókòó lórí ìtẹ́ ńlá kan, tí kò tíì mọ òtítọ́ rí.",
+    "Èmi ni mo ṣàwárí ìjọba Saba’ tí mo sì mú ìwé ìkésíni láti ọ̀dọ̀ wòlíì ọba kan tí wọ́n fún ní àṣẹ lórí afẹ́fẹ́ wá."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Hoopoe (Hudhud)",
+        "Ehoro láti Àfonífojì Sulaiman",
+        "Asif ibn Barkhiya",
+        "Ifrit Jinn",
+        "Áńgẹ́lì Ìtẹ́ kan"
+      ],
+      "answer": "Hoopoe (Hudhud)"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ìrìnàjò lọ sí ìjọba Saba' (Sheba)",
+        "Ìjà pẹ̀lú àwọn oníṣẹ́ oṣó Fáráò",
+        "Ìkún omi Wòlíì Núù",
+        "Ìparun àwọn ènìyàn 'Ad",
+        "Pípín Òkun Pupa"
+      ],
+      "answer": "Ìrìnàjò lọ sí ìjọba Saba' (Sheba)"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ilẹ̀ Sábà (Ṣébà)",
+        "Òkè Sínáì",
+        "Ọkọ̀ Àpótí Wòlíì Nóà",
+        "Ihò Ashab al-Kahf",
+        "Ààfin Fáráò"
+      ],
+      "answer": "Ilẹ̀ Sábà (Ṣébà)"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Bilqis wá sí ilé ẹjọ́ Sulaiman ní ìtẹríba",
+        "Farao àti àwọn ọmọ ogun rẹ̀ rì sínú òkun",
+        "Afẹ́fẹ́ líle kan pa àwọn ènìyàn 'Ad run",
+        "Àwọn oníṣẹ́dá Fáráò gbàgbọ́ nínú Wòlíì Mósà",
+        "Ìkún omi ńlá kan jẹ àwọn aláìgbàgbọ́ run"
+      ],
+      "answer": "Bilqis wá sí ilé ẹjọ́ Sulaiman ní ìtẹríba"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

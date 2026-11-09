@@ -1,0 +1,61 @@
+{
+  "title": "Ɛnne a Ɛkasa tiaa Abosom Ahenni",
+  "intro": "Ná akoa bi a ogyina pintinn a ɔsɔre wɔ ɔman a wɔn tirim yɛ den mu sɛ ɔde nokware no bɛma no ka Ade Nyinaa so Tumfoɔ no abɔfo no ho. Ná wɔn nkurɔfo agye onyame bi a wɔayɛ no atoro, na wɔatwe wɔn ho afi nea ɛwɔ hɔ nyinaa Bɔfo no ho. Ɔde botae a enhinhim, saa onipa yi frɛɛ wɔn san — nanso wɔde pow ne pow hyiaa nkrasɛm no. Fa wo ho to nsɛnkyerɛnne no mu na hu onii ko a na ɔyɛ akoa a ɔde ne ho ama yi.",
+  "clues": [
+    "Wɔsomaa me sɛ ɔbɔfo kɔɔ nnipa a wɔn tirim yɛ den a wɔakyinkyin akyirikyiri wɔ ɔkwan a ɛyɛ tẽẽ no nkyɛn.",
+    "Mebaa sɛ merebɛkae me man Onipa a ɔbɔɔ nea ɛwɔ hɔ nyinaa — nea oye sen adebɔfo nyinaa.",
+    "Ná me nkurɔfo adan akɔ atoro ohoni bi a wɔsom no na wɔfrɛ no awia ne anadwo so.",
+    "Mede akokoduru twaa wɔn mpoa, bisaa nea enti a wɔbɛsom onyame bi a wɔayɛ no na wɔagyaw wɔn nokware Awurade no.",
+    "Wɔpoo me, wɔpowee sɛ wɔbɛtie, na wɔkuraa wɔn atosɛm no mu denneennen — nanso m’Awurade kora me so.",
+    "Mene Ilyas — na womaa me asomdwoe, na wokan me kaa Mmoborohunufoo no nkoa agyidifoo no ho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Odiyifo Ilyas",
+        "Ɔkɔmhyɛni Idris",
+        "Ɔkɔmhyɛni Alyasa",
+        "Ɔkɔmhyɛni Dhul-Kifl",
+        "Ɔkɔmhyɛni Nuh"
+      ],
+      "answer": "Odiyifo Ilyas"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Nkurɔfo bi a wɔbɛfrɛ wɔn afiri Baal som ho",
+        "Otirimɔdenfo bi a ɔkyerɛ sɛ ɔyɛ onyame a ɔne no hyia",
+        "Nsuyiri bi a ɛreba ho kɔkɔbɔ a wɔde ma nkurɔfo",
+        "Wɔtow no gu ogya kɛse a ɛredɛw mu",
+        "Tukɔ a wofi nkoasom asase so di anim"
+      ],
+      "answer": "Nkurɔfo bi a wɔbɛfrɛ wɔn afiri Baal som ho"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Abosom a wɔtoo din Baal no",
+        "Adaka kɛse bi a wɔde nnua a ɛyɛ den na ɛyɛe",
+        "Poma a ɛpaapaee po kɛse bi mu",
+        "Atade kronkron a mogya ayɛ ho fĩ",
+        "Nnua a ɛredɛw wɔ bepɔw kronkron bi so"
+      ],
+      "answer": "Abosom a wɔtoo din Baal no"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Ɔmaa asomdwoeɛ na wɔkan no kaa Allah nkoa a wɔapaw wɔn no ho",
+        "Wɔde no kɔɔ paradise bere a wɔsɛee afoforo nyinaa",
+        "Wogyee no fii ogya kɛse bi a ɛbɛyɛɛ nwini na ahobammɔ wom mu",
+        "Wɔama no tumi wɔ jinn, adesamma, ne mframa so",
+        "Nipadua a wɔakora so sɛ sɛnkyerɛnne a ɛtra hɔ daa ma mfe no"
+      ],
+      "answer": "Ɔmaa asomdwoeɛ na wɔkan no kaa Allah nkoa a wɔapaw wɔn no ho"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

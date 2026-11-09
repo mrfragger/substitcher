@@ -1,0 +1,61 @@
+{
+  "title": "Nafta Naxariista Badan Ee Ka Dhex Jirta Nabiyada.",
+  "intro": "Cod u yeeraya xaqnimada ayaa ka soo yeeraya aayadaha Qur'aanka Kariimka ah. Naftan barakaysan waxaa la siiyay nebi iyo qorniinka rabbaaniga ah xilligii hanuunka loogu baahnaa reer binu Israa'iil. Qofkani wuxuu si toos ah ula hadlay dadkooda, isagoo ku boorriyay inay xusaan Rabbigood. Samir iyo daacadnimo awgeed, waxay noqdeen iftiin iftiin leh oo sheekadiisu iftiiminayso bogagga kitaabka quduuska ah. Ma aqoonsan kartaa qofkan cajiibka ah ee magaciisa lagu sharfay Qur'aanka iyo Injiilka labadaba?",
+  "clues": [
+    "Waxaa sharaf ii ahayd nebinimo iyo kitaab jannada ah xilligii ay dadkaygu u baahnaayeen.",
+    "Hooyaday waxay igu dhashay si cajiib ah, iyadoo amarka rabbaaniga ah ee Alle oo keliya ku timid.",
+    "Waxaan la hadlay dadkaygii, anigoo ku leh 'Bani Israa'iilow! Waxaan ahay rasuulkii Alle ee idiin soo diray, anigoo xaqiijinaya wixii iga horreeyay.'",
+    "Waxaan la imid calaamooyin cadcad oo ka yimid Rabbigiin, anigoo ugu bishaaraynaya nebi magaciisa la odhan doono Axmed.",
+    "Hooyaday waxay ahayd haweeney wanaagsan oo i hibeysay adeegga Alle tan iyo yaraantaydii.",
+    "Ilaahay wuxuu i baray Qur'aanka wuxuuna iga dhigay mid naxariis badan oo u naxariista hooyaday, mana aanan kibrinayn ama caasi ahayn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Zakariya",
+        "Nabi Ciise ibnu Maryam",
+        "Nabi Muxamed ﷺ",
+        "Nabi Daa'uud",
+        "Nabi Yuunis"
+      ],
+      "answer": "Nabi Ciise ibnu Maryam"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Macbadka ka dhisay Yeruusaalem",
+        "Isagoo ilmo yar ah ayuu sariirta ku hadlay isagoo sariirta jiifa",
+        "Sanduuqii Axdiga ayuu siday",
+        "Hoggaamiyey dadkii reer Midyaan",
+        "Wuxuu u safray Nineweh"
+      ],
+      "answer": "Isagoo ilmo yar ah ayuu sariirta ku hadlay isagoo sariirta jiifa"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Magaalada Yeruusaalem",
+        "Gobolka Beytlaxam",
+        "Reer Zakariya",
+        "Buur Siinay",
+        "Dooxada Baca"
+      ],
+      "answer": "Reer Zakariya"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Waxaa kor loogu qaaday samada jidh ahaan",
+        "Sannado badan ayaa laga baarayay cudurka baraska",
+        "Macbad weyn oo loogu talagalay cibaadada ayaa la dhisay",
+        "Reer binu Israa'iil waxay dib ugu soo celiyeen iimaanka",
+        "Badda ayuu ul ku qaybiyay"
+      ],
+      "answer": "Waxaa kor loogu qaaday samada jidh ahaan"
+    }
+  },
+  "verseRef": "61:6",
+  "arabic": "وَإِذْ قَالَ عِيسَى ٱبْنُ مَرْيَمَ يَـٰبَنِىٓ إِسْرَٰٓءِيلَ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُم مُّصَدِّقًۭا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَمُبَشِّرًۢا بِرَسُولٍۢ يَأْتِى مِنۢ بَعْدِى ٱسْمُهُۥٓ أَحْمَدُ ۖ فَلَمَّا جَآءَهُم بِٱلْبَيِّنَـٰتِ قَالُوا۟ هَـٰذَا سِحْرٌۭ مُّبِينٌۭ",
+  "verse": "And [mention] when Jesus, the son of Mary, said, \"O Children of Israel, indeed I am the messenger of Allāh to you confirming what came before me of the Torah and bringing good tidings of a messenger to come after me, whose name is Aḥmad.\" But when he came to them with clear evidences, they said, \"This is obvious magic.\" (61:6)"
+}

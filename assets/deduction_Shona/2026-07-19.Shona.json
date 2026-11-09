@@ -1,0 +1,61 @@
+{
+  "title": "Inzwi Risina Kuteererwa reMazana Emakore",
+  "intro": "Munguva refu maguta makuru asati amuka, mweya wega wakasimuka pakati pevanhu vakanga vasiya chokwadi. Kuoma kwavo kwaienderana chete nekushivirira kwemunhu uyu aidaidza ari ega, uyo akakumbira muzvizvarwa zvakawanda asingarasikirwe nepfungwa dzake. Nyevero dzese padzakawira pasi, kurangarira kusati kwamboitika kwakachinja nyika pachayo. Nhasi, manzwi enyaya iyoyo achiri kunzwika mukuverenga kwega kwega. Unogona kuziva mweya uyu wakatsunga here?",
+  "clues": [
+    "Ndakakurira pakati pevanhu vainamata zvifananidzo zvenhema uye vaifuratira zviratidzo zvaivapoteredza, asi ndakasarudzwa kuti ndivamutse kubva pakusateerera kwavo.",
+    "Ndakadana vanhu vangu kakawanda, asi vakandipomera mhosva yekuti ndiri munhu akafanana navo, vachiseka shoko rangu uye vachivhara nzeve dzavo.",
+    "Usiku nemasikati, ndakavakumbira neuchenjeri uye zviyeuchidzo zvinyoro, asi mashoko angu airatidzika kunge anyangarika, asina kunzwiwa uye asina kuteererwa.",
+    "Ndichitungamirirwa naMwari, ndakavaka chikepe chikuru chematanda nemapuranga panyika yakaoma, uye vanhu vangu vakandiseka semunhu akanga asina pfungwa.",
+    "Mafashamo makuru paakauya sezvakavimbiswa, mwanakomana wangu akaramba kukwira muchikepe neni, achitenda kuti gomo raizomudzivirira kubva mumvura yaikwira.",
+    "Ndakava tateguru wekutanga patsva panyika, uye nyaya yangu yakachengetedzwa muchitsauko cheKorani chine zita rangu chairo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Nuh",
+        "Muprofita Ibrahim",
+        "Muprofita Musa",
+        "Muporofita Lut",
+        "Muporofita Hud"
+      ],
+      "answer": "Muprofita Nuh"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Mafashamo Makuru akachinja nyika",
+        "Kukandwa mumoto unopfuta nevanonamata zvidhori",
+        "Kusangana nevaroyi vaFarao pamuzinda",
+        "Kuparadzwa kweminda yakabudirira nedutu rekudenga",
+        "Kupidigurwa kwevagari vemumakomba"
+      ],
+      "answer": "Mafashamo Makuru akachinja nyika"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Areka yakavakwa nematanda nemapuranga",
+        "Imba tsvene yakavakwa panheyo dzekare",
+        "Tsvimbo yakashanduka kuita nyoka",
+        "Bako revechidiki vakarara",
+        "Chigaro choumambo chakatakurwa nechisikwa chine simba"
+      ],
+      "answer": "Areka yakavakwa nematanda nemapuranga"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Vasingatendi vakanyura apo vatendi vakaponeswa vari muchikepe",
+        "Moto wakabva watonhora uye wakachengeteka, uye munhu akafona akabuda asina kukuvara",
+        "Varoyi vakawira pasi vakatenda",
+        "Bindu rakapihwa kune muvakidzani akarurama panzvimbo paro",
+        "Vakarara vakamuka mushure memazana emakore, vashandurwa"
+      ],
+      "answer": "Vasingatendi vakanyura apo vatendi vakaponeswa vari muchikepe"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ekiweebwayo Ekyakyusa Enkomerero",
+  "intro": "Mu nnaku ez’olubereberye ez’obuntu, emmeeme yawaayo ekirabo n’ebigendererwa ebirongoofu. Kyokka, obuggya bwakweka mu kisiikirize ky’okukkirizibwa. Zuula emboozi y’omuntu ono ng’okutya Katonda n’enkomerero ye ey’ekikangabwa tebifa mu kubikkulirwa okw’obwakatonda.",
+  "clues": [
+    "Nnali omu ku milembe gy’abantu egyasooka ennyo.",
+    "Nawaayo ekiweebwayo eri Mukama wange, ne kiyanirizibwa n’ekisa.",
+    "Ekiweebwayo kya muganda wange kyagaanibwa, era obuggya bwamuzikiza omutima.",
+    "Namugamba nti, ‘Bw’ongolola omukono gwo gye ndi okunzita, sijja kugolola mukono gwange kukutta; mazima ntya Allah, Mukama w’ensi.’",
+    "Nnafuuka omukosefu w’ekikolwa eky’obutemu ekyasooka ku nsi.",
+    "Omusaayi gwange gwakaaba, era nze omujulizi eyasooka olw’obutaliiko musango."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Habil (Abbeeri) .",
+        "Kabil (Kayini) .",
+        "Omusajja okuva e Ya-Sin",
+        "Abasamiri",
+        "Luqman"
+      ],
+      "answer": "Habil (Abbeeri) ."
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Ekiweebwayo kye kyakkirizibwa, ekyaleetera muganda we obuggya n’okumutta",
+        "Yasuuliddwa mu kyokero ekiyaka omuliro kyokka n’avaayo nga tafunye buzibu",
+        "Yazimba emmeeri ennene ennyo ng’alagirwa Katonda",
+        "Yamira ekyennyanja ekinene n’asigala mu kizikiza",
+        "Yakulembera abantu be okuyita mu nnyanja eyawukana"
+      ],
+      "answer": "Ekiweebwayo kye kyakkirizibwa, ekyaleetera muganda we obuggya n’okumutta"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Ekiweebwayo ekikkirizibwa",
+        "Omuggo nga gufuuka omusota",
+        "Engamiya enkazi ng’akabonero ak’obwakatonda",
+        "Hoopoe ng’aleeta amawulire",
+        "Ennyana eya zaabu eyasinzibwa"
+      ],
+      "answer": "Ekiweebwayo ekikkirizibwa"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Ettemu eryasooka mu byafaayo; muganda we yasalirwa omusango",
+        "Amira ensi wamu n’obugagga bwe",
+        "Yakyusibwa n’afuuka enkima olw’okusobya",
+        "Yasaanawo olw’empewo ey’amaanyi era ey’omuzira",
+        "Yabbira mu mataba amanene ng’ekibonerezo"
+      ],
+      "answer": "Ettemu eryasooka mu byafaayo; muganda we yasalirwa omusango"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

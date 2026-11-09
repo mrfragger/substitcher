@@ -1,0 +1,61 @@
+{
+  "title": "Ijwi riturutse ku nkengero z'Umujyi",
+  "intro": "Mu mujyi wateye umugongo ubuyobozi bw'Imana, umuntu umwe rukumbi yavuye mu nkengero z'umujyi, yirukana ubutumwa bw'ibyiringiro n'umuburo. Uyu bugingo bwibagiranye bwazaba ikimenyetso cy'ukwizera gukomeye iteka ryose.",
+  "clues": [
+    "Nabonye intumwa zoherezwa mu mujyi wanjye, ariko abaturage banjye bazibona nk'abantu basanzwe.",
+    "Nizeraga ubutumwa bwabo kandi numva ukuri kunkora ku mutima.",
+    "Nasabye abantu banjye kumvira intumwa zitasabye ibihembo.",
+    "Narirutse mva ku mpera y'umujyi, ngerageza kubabwira impamvu zumvikana.",
+    "Abantu banjye barampagurukiye, ndapfa, ariko nabonye amahoro ahoraho.",
+    "Allah yarambwiye ati: 'Injira muri Paradizo,' kandi nifuzaga ko abantu banjye bazabona icyubahiro nahawe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Umwizera wa Ya-Sin",
+        "Uzair Ubaza",
+        "Al-Khidr Umuyobozi",
+        "Umwizera wo mu muryango wa Farawo",
+        "Namrud Umunyagitugu"
+      ],
+      "answer": "Umwizera wa Ya-Sin"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Guhangana n'abantu batemera Imana bamwishe",
+        "Gutabwa mu muriro ugurumana",
+        "Kumirwa n'ifi nini",
+        "Kubaka ubwato bunini cyane",
+        "Guhunga ingabo z'umunyagitugu"
+      ],
+      "answer": "Guhangana n'abantu batemera Imana bamwishe"
+    },
+    "location": {
+      "label": "Aho urufunguzo ruherereye",
+      "options": [
+        "Impera ya kure cyane y'umujyi",
+        "Umusozi wa Tur",
+        "Ikibaya cy'Ibinyoni",
+        "Inkombe za Nili",
+        "Ubuvumo bw'ubuvumo"
+      ],
+      "answer": "Impera ya kure cyane y'umujyi"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Kwicwa mu rupfu no kwinjira muri Paradizo ako kanya",
+        "Guhunga no gukizwa",
+        "Kuzamuka mu ijuru",
+        "Kurohama mu nyanja",
+        "Guhinduka ibuye"
+      ],
+      "answer": "Kwicwa mu rupfu no kwinjira muri Paradizo ako kanya"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

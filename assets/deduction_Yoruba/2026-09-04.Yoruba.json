@@ -1,0 +1,61 @@
+{
+  "title": "Orin Ayọ̀ Tí Ó Gbé Àwọn Òkè Kù",
+  "intro": "O fẹ́rẹ̀ ṣí ìtàn ìránṣẹ́ Allah kan tó yanilẹ́nu. Ní ilẹ̀ àwọn ìránṣẹ́ àti àwọn alákòóso, ẹni yìí ní ìwé àtọ̀runwá, ohùn alágbára, àti agbára lórí irin. Bí o ṣe ń ka àwọn àmì náà, ṣé o lè mọ ẹni tí èyí lè jẹ́?",
+  "clues": [
+    "Ìránṣẹ́ Allah ni mí tí wọ́n fún ní ìwé pàtàkì kan.",
+    "Ohùn mi lẹ́wà gan-an, ìyìn mi sì dùn gan-an débi pé àwọn òkè ńlá àti àwọn ẹyẹ pàápàá dara pọ̀ mọ́ mi.",
+    "Mo dojúkọ alátakò alágbára kan nínú ogun olókìkí kan, bó tilẹ̀ jẹ́ pé mo kéré sí i, mo borí.",
+    "Wọ́n mú kí irin rọrùn fún mi, èyí sì jẹ́ kí n lè fi ọwọ́ mi ṣe ìhámọ́ra.",
+    "Wọ́n fi mí ṣe alákòóso lórí orílẹ̀-èdè ńlá kan, ọgbọ́n mi nínú ìdájọ́ sì di mímọ̀.",
+    "Ọmọ mi, tí òun náà jẹ́ wòlíì, ni wọ́n fún ní àṣẹ lórí afẹ́fẹ́ àti àwọn ẹ̀mí èṣù."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Dáfídì (Dáfídì)",
+        "Wòlíì Sólómọ́nì (Sólómọ́nì)",
+        "Wòlíì Mósà (Mósà)",
+        "Wòlíì Hárún (Áárọ́nì)",
+        "Wòlíì Ìláyà (Èlíyà)"
+      ],
+      "answer": "Wòlíì Dáfídì (Dáfídì)"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Gòláyátì tí wọ́n ṣẹ́gun (Jalut)",
+        "Ó pín òkun sí méjì",
+        "Ó ye ẹja náà",
+        "Wọ́n jù ú sínú iná",
+        "Kíkọ́ Ọkọ̀ náà"
+      ],
+      "answer": "Gòláyátì tí wọ́n ṣẹ́gun (Jalut)"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Súbúrì (Sáàmù)",
+        "Torah (Towrat)",
+        "Ìhìnrere (Injili)",
+        "Àwọn Ìwé Ibrahim",
+        "Al-Quran"
+      ],
+      "answer": "Súbúrì (Sáàmù)"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ó di wòlíì àti ọba Ísírẹ́lì",
+        "Ó di alákòóso ilẹ̀ Íjíbítì",
+        "A gbé e sókè sí ọ̀run",
+        "Ìjì kan pa á run",
+        "Ó di alábàákẹ́gbẹ́ ihò náà"
+      ],
+      "answer": "Ó di wòlíì àti ọba Ísírẹ́lì"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ijwi Ryanse Kwihebura",
+  "intro": "Intambwe mu rugo aho ugutakaza gukurikira ugutakaza, yamara ijwi rimwe rituje ryanse kwihebura. Ihamagara rimwe gusa muri Korowani rihindura ukwihangana guhinduka ihinduka; woshobora gukurikirana ibimenyetso vy’umuntu ari inyuma y’iryo jwi?",
+  "clues": [
+    "Nari ijwi ry’ukwihangana mu rugo aho imihezagiro yageragezwa n’ivyago.",
+    "Nagumye mu rugo rwari rufise ubusa kubera ukubura ubutunzi n’abana.",
+    "Nari nzi ko indwara yari yarateye n’uwo mugenzi, umubiri wiwe wari ubabaye.",
+    "Igihe umubabaro wariko urakomera cane, narahamagara n’ukwibutsa Allah.",
+    "Natanze itangazo rimwe: Allah ni Ukuri, rero mugumye mwihanganye.",
+    "Nahamagaye Ayyub mw’izina; hanyuma, Allah akuraho iyo mibabaro, asubizaho umuryango."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umugore w'Umuhanuzi Ayyub",
+        "Umugore w'Umuhanuzi Nuh",
+        "Umugore w'Umuhanuzi Ibrahimu",
+        "Umugore w'Umuhanuzi Ya'qub",
+        "Umukobwa wa Farawo"
+      ],
+      "answer": "Umugore w'Umuhanuzi Ayyub"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Gusigarana na Ayyub biciye mu gutakaza no kurwara, hanyuma ugasaba ukwihangana .",
+        "Kugabisha intumwa igororotse ngo ihebe umuryango w'abanyagitugu",
+        "Gusenga ngo havuke uruvyaro ruzoza .",
+        "Gusobanura indoto mw'ibohero ry'umwami",
+        "Kuronka umwana wizigiwe iruhande y'uruzi"
+      ],
+      "answer": "Gusigarana na Ayyub biciye mu gutakaza no kurwara, hanyuma ugasaba ukwihangana ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Itangazo ry'uko Allah ari Ukuri n'ukwihangana birakenewe .",
+        "Igiti c'umusukoni kiri iruhande y'isoko",
+        "Ihamagara ryo kwubaka ubwato kure y'imiraba .",
+        "Indoto y'inyenyeri cumi n'imwe n'izuba rirashe",
+        "Igiseke catwarwa ku ruzi Nili ."
+      ],
+      "answer": "Itangazo ry'uko Allah ari Ukuri n'ukwihangana birakenewe ."
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Umubabaro wa Ayyub warakuweho maze umuryango wiwe urasubirana .",
+        "Umwana yari amaze igihe kirekire arindiriwe yarahawe inyuma y'isengesho ry'ingumba .",
+        "Umutware akiri muto yasobanuye imyaka indwi y’umusesekara n’ubukene .",
+        "Umwana yari yizigiwe yararokowe mu mazi atemba .",
+        "Imburi yari imbere y’umwuzure wo gutikiza ."
+      ],
+      "answer": "Umubabaro wa Ayyub warakuweho maze umuryango wiwe urasubirana ."
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

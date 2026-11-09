@@ -1,0 +1,61 @@
+{
+  "title": "Nsoromma Dubiako a Wɔkotow",
+  "intro": "Wɔmaa onipa bi a ofi Kur’aan mu anisoadehunu a emu dɔ wɔ ne mmofraase — ɔsoro abɔdeɛ a wɔkotow wɔ obu mu ho daeɛ. Ná mfe pii bɛtwam wɔ atoro, ntetewmu, atoro sobo, ne afiasenna mu ansa na anisoadehu yi abam. Hena ne saa ɔkra a otumi gyina tebea horow ano yi a n’asɛm no gye Kur’aan ti a ɛware sen biara no?",
+  "clues": [
+    "Bere bi na meyɛ abofra, na wɔahyira me wɔ dae bi a ɛyɛ nwonwa a m’ankasa m’agya mpo bɔɔ me kɔkɔ sɛ memfa nsie.",
+    "M’ankasa me nuanom a ahoɔyaw ama wɔn ani afura no bɔɔ me pɔw na wɔtow me guu abura bi a emu dɔ na esum mu.",
+    "Wɔde me kɔɔ akyirikyiri asase bi so na wɔtɔn me kɔɔ ɔpanyin bi a ɔyɛ ɔdehye fie, faako a minyaa anim dom na mesɔree wɔ asɛyɛde mu.",
+    "Atoro soboɔ maa mede me too afiase a ɛntene, nanso wɔ saa beaeɛ a ɛyɛ sum no mu no, menyaa awerɛkyekyerɛ wɔ mpaebɔ ne kotow mu.",
+    "Allah hyiraa me wɔ tumi a ɛntaa nsi a mede bɛkyerɛ daeɛ ase, na awieeɛ koraa no ɛde me baa asaase no sodifoɔ no anim na ɛmaa me so kɔɔ dibea a ɛkorɔn a ɛwɔ ahotosoɔ.",
+    "Mfe pii a metetew mu akyi no, me ne m’abusua a medɔ no no san boom, na awiei koraa no, me mmofraberem dae a ɛfa nsoromma dumien, owia, ne ɔsram a ɛbɛkotow me ho no baa mu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Yusuf",
+        "Ɔkɔmhyɛni Salih",
+        "Odiyifo Ilyas",
+        "Tubba’, tete Himyar sodifo",
+        "Oguanhwɛfo a ɔbrɛ ne ho ase a ofi Palestina nkoko so"
+      ],
+      "answer": "Ɔkɔmhyɛni Yusuf"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Anuanom a wɔn ani beree de wɔn tow abura a emu dɔ na emu yɛ sum mu",
+        "Po a emu dɔ mu abɔde kɛse bi amene no",
+        "Abosonsomfo a wɔtow wɔn guu ogya a ɛredɛw mu",
+        "Ɔsoro mframa a ɛde ɔsɛe bɛpra no akɔ",
+        "Nsuyiri kɛse a ɛkataa asase no nyinaa so a wonyaa wɔn ti didii mu"
+      ],
+      "answer": "Anuanom a wɔn ani beree de wɔn tow abura a emu dɔ na emu yɛ sum mu"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Abura bi a ɛso yɛ kusuu wɔ sare so baabi a wogyaw me hɔ",
+        "Mpataa kɛse bi a ofi po a emu dɔ mu",
+        "Adaka kɛse bi a wɔasi wɔ ɔsoro ahyɛde so",
+        "Abantenten a wɔasi sɛnea ɛbɛyɛ a ɛbɛkɔ soro",
+        "Ogya kronkron a ɛpowee sɛ ɛbɛhyew"
+      ],
+      "answer": "Abura bi a ɛso yɛ kusuu wɔ sare so baabi a wogyaw me hɔ"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Ɔsan ne abusua boom wɔ mfe pii a wɔtetew mu akyi na ɔbɛyɛɛ ɔsomfo a wogye no di",
+        "Di me nkurɔfo atu kɛse bi anim twaa po a emu apaapae",
+        "Ɔbɔɔ me man kɔkɔ wɔ ɔsɛe a ɛreba a ɛmee wɔn no ho",
+        "Osii fie kronkron a ɛbɛyɛɛ obiara kronkronbea",
+        "Epuei dwoodwoo fii abɔde kɛse bi yafunu mu wɔ nnansa akyi"
+      ],
+      "answer": "Ɔsan ne abusua boom wɔ mfe pii a wɔtetew mu akyi na ɔbɛyɛɛ ɔsomfo a wogye no di"
+    }
+  },
+  "verseRef": "12:21",
+  "arabic": "وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+  "verse": "And the one from Egypt who bought him said to his wife, \"Make his residence comfortable. Perhaps he will benefit us, or we will adopt him as a son.\" And thus, We established Joseph in the land that We might teach him the interpretation of events [i.e., dreams]. And Allāh is predominant over His affair, but most of the people do not know. (12:21)"
+}

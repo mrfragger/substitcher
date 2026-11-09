@@ -1,0 +1,61 @@
+{
+  "title": "Ẹni tí ó gbé àmì mẹ́sàn-án",
+  "intro": "Àwòrán kan dìde láti ìbẹ̀rẹ̀ tó rẹlẹ̀ jùlọ, pẹ̀lú àyànmọ́ kan tí a kọ sínú ìfẹ́ Ọlọ́run. Nígbà tí wọ́n wà ní ọmọdé, tí wọ́n sì gbé e kalẹ̀ sínú ògiri alákòóso náà tó fẹ́ pa àwọn ènìyàn wọn run, ọkàn yìí wá sí iṣẹ́ pàtàkì kan nígbẹ̀yìn gbẹ́yín. Nígbà tí wọ́n ti múra sílẹ̀ pẹ̀lú ìgbàgbọ́ àti ọ̀pá olùṣọ́ àgùntàn onírẹ̀lẹ̀, wọ́n dúró níwájú alákòóso tó lágbára jùlọ láyé ìgbà náà, wọ́n sì béèrè fún òmìnira fún àwọn tí wọ́n ti di ẹrú. Ayé fúnra rẹ̀ dà bí ẹni pé ó ń rìn ní àṣẹ wọn — omi pínyà, ọ̀run sọ̀rọ̀, ìjọba kan sì ṣubú.",
+  "clues": [
+    "Àwọn ọjọ́ ìbí mi ní ìbẹ̀rù — àwọn ọmọ ọwọ́ bíi tèmi ni a máa ń wá kiri nígbà tí a bí wọn láti ọwọ́ alákòóso aláìláàánú kan tí ó ń bẹ̀rù ọjọ́ iwájú.",
+    "Omi gbà mí là, mo sì dàgbà nínú ààfin alákòóso tó ń wá ìparun mi.",
+    "Mo sá kúrò ní ìlú ìbílẹ̀ mi lẹ́yìn ìṣẹ̀lẹ̀ òjijì kan, mo sì di olùṣọ́ àgùntàn onírẹ̀lẹ̀ ní ilẹ̀ jíjìnnà kan.",
+    "Mo padà láti kojú aláṣẹ alágbára yẹn pẹ̀lú ọ̀pá lásán àti ìhìn tí ó ṣe kedere, tí ó ń béèrè fún òmìnira àwọn ènìyàn mi.",
+    "Mo pín omi púpọ̀ fún àwọn tó tẹ̀lé mi, mo sì ń wo bí omi wọ̀nyẹn ṣe gbé ọ̀tá mi mì pátápátá.",
+    "Mo gun òkè mímọ́ kan láti gba ìtọ́sọ́nà láti ọ̀dọ̀ Allah, wọ́n sì fún mi ní àmì mẹ́sàn-án tí ó ṣe kedere gẹ́gẹ́ bí ẹ̀rí òtítọ́."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Mósà",
+        "Wòlíì Nóà",
+        "Wòlíì Ibrahim",
+        "Wòlíì Yúsọ́ọ̀fù",
+        "Wòlíì Lọ́ọ̀tì"
+      ],
+      "answer": "Wòlíì Mósà"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ó dojúkọ Farao ní ààfin rẹ̀",
+        "Kíkọ́ Ọkọ̀ láti la ìkún omi ńlá já",
+        "Àwọn abọ̀rìṣà tí wọ́n jù sínú iná tí ń jó",
+        "Àwọn arákùnrin mi tí wọ́n sọ mí di ìsàlẹ̀ sínú kànga jíjìn kan",
+        "Mo n gbiyanju lati da awọn eniyan mi duro kuro ninu iwa aiṣododo"
+      ],
+      "answer": "Ó dojúkọ Farao ní ààfin rẹ̀"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ọ̀pá tí ó di ejò",
+        "Ọkọ̀ Nóà",
+        "Ìtẹ́ Bilqis",
+        "Òrùka tó ń darí afẹ́fẹ́ àti jinni",
+        "Àwọn kọ́kọ́rọ́ sí àwọn ìṣúra tí a kó jọ pọ̀ tó bẹ́ẹ̀"
+      ],
+      "answer": "Ọ̀pá tí ó di ejò"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Mo mú àwọn ènìyàn mi kọjá omi tí ó pín sí méjì lọ sí òmìnira",
+        "Ó gbà mí là kúrò nínú ìkún omi ńlá kan nínú Ọkọ̀",
+        "Ó padà sí ìlera àti ìdílé lẹ́yìn ìjìyà jíjinlẹ̀",
+        "Wọ́n lé e jáde kúrò nínú ẹja ńlá kan láàyè",
+        "Ti kọ́ ipilẹ Ile Mimọ naa"
+      ],
+      "answer": "Mo mú àwọn ènìyàn mi kọjá omi tí ó pín sí méjì lọ sí òmìnira"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

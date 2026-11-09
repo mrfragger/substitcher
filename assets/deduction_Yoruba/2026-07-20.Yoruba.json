@@ -1,0 +1,61 @@
+{
+  "title": "Ẹni tí a dárúkọ ní ilé Wòlíì",
+  "intro": "Nínú ilé ìránṣẹ́ ìkẹyìn, ọkàn kan wà tí ìtàn ara rẹ̀ di ẹ̀kọ́ àtọ̀runwá fún gbogbo àwọn onígbàgbọ́. Ìgbésí ayé ẹni yìí ní ìsopọ̀ mọ́ àṣẹ ìyípadà kan tí ó yí àṣà àwùjọ padà títí láé, èyí tí ó ṣàfihàn ìyípadà ńlá nínú bí ìgbàgbọ́ yóò ṣe túmọ̀ ìdílé àti ohun ìní.",
+  "clues": [
+    "Orúkọ mi ti so mọ́ ìran ọlọ́lá kan rí, ṣùgbọ́n òtítọ́ gíga kan yóò mú kí ìdè ìgbàgbọ́ tòótọ́ yéni nígbà tó bá yá.",
+    "Mo jẹ́ ẹni tí ó gba oore-ọ̀fẹ́ ńlá láti ọ̀dọ̀ Allah àti ojiṣẹ Rẹ̀, oore-ọ̀fẹ́ tí a kéde ní gbangba nínú Ìwé.",
+    "Ìgbésí ayé ìgbéyàwó mi di ìdánwò pàtàkì kan tí yóò yí ojú ìwòye nípa àjọṣepọ̀ tí a gbà padà títí láé.",
+    "Èmi ni ẹni tí ìdánwò ara ẹni rẹ̀ yọrí sí àṣẹ àtọ̀runwá tí ó fún Wòlíì láyè láti fẹ́ obìnrin lẹ́yìn tí mo ti lọ.",
+    "Láti inú ìtàn mi, ìyàtọ̀ láàárín ìdílé àbínibí àti ìdílé tí a yàn hàn kedere fún gbogbo ìran.",
+    "Èmi nìkan ṣoṣo ni mo wà láàrín àwọn ẹgbẹ́ mi tí orúkọ rẹ̀ hàn gbangba nínú ìṣípayá ìkẹyìn, kì í ṣe gẹ́gẹ́ bí wòlíì, ṣùgbọ́n gẹ́gẹ́ bí ìránṣẹ́ tí a dán wò tí a sì bọ̀wọ̀ fún."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Zaid ibn Thabit",
+        "Abdullah ibn Mas'ud",
+        "Zaid ibn Haritha",
+        "Abu Bakr al-Siddiq",
+        "Ali ibn Abi Talib"
+      ],
+      "answer": "Zaid ibn Haritha"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ogun Badr",
+        "Ìṣẹ̀lẹ̀ Ọrùn",
+        "Ìgbéyàwó pẹ̀lú Zainab",
+        "Àdéhùn Hudaybiyyah",
+        "Ìrìn Àjò Alẹ́"
+      ],
+      "answer": "Ìgbéyàwó pẹ̀lú Zainab"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ìfihàn Ìjogún",
+        "Ìfihàn Ìgbàgbà",
+        "Ìfihàn Àdúrà",
+        "Ìfihàn Ààwẹ̀",
+        "Ìfihàn Jihad"
+      ],
+      "answer": "Ìfihàn Ìgbàgbà"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ìparẹ́ ìgba ọmọ gẹ́gẹ́ bí ọ̀nà láti dá ìbátan ẹ̀jẹ̀ sílẹ̀",
+        "Igbekale ijọba Islamu akọkọ",
+        "Ìṣíkiri sí Madinah",
+        "Ìṣẹ́gun Makkah",
+        "Àkójọpọ̀ Al-Quran"
+      ],
+      "answer": "Ìparẹ́ ìgba ọmọ gẹ́gẹ́ bí ọ̀nà láti dá ìbátan ẹ̀jẹ̀ sílẹ̀"
+    }
+  },
+  "verseRef": "33:37",
+  "arabic": "وَإِذْ تَقُولُ لِلَّذِىٓ أَنْعَمَ ٱللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَٱتَّقِ ٱللَّهَ وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ أَن تَخْشَىٰهُ ۖ فَلَمَّا قَضَىٰ زَيْدٌۭ مِّنْهَا وَطَرًۭا زَوَّجْنَـٰكَهَا لِكَىْ لَا يَكُونَ عَلَى ٱلْمُؤْمِنِينَ حَرَجٌۭ فِىٓ أَزْوَٰجِ أَدْعِيَآئِهِمْ إِذَا قَضَوْا۟ مِنْهُنَّ وَطَرًۭا ۚ وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًۭا",
+  "verse": "And [remember, O Muḥammad], when you said to the one on whom Allāh bestowed favor and you bestowed favor, \"Keep your wife and fear Allāh,\" while you concealed within yourself that which Allāh is to disclose. And you feared the people, while Allāh has more right that you fear Him. So when Zayd had no longer any need for her, We married her to you in order that there not be upon the believers any discomfort [i.e., guilt] concerning the wives of their claimed [i.e., adopted] sons when they no longer have need of them. And ever is the command [i.e., decree] of Allāh accomplished. (33:37)"
+}

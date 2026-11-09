@@ -1,0 +1,61 @@
+{
+  "title": "Vazhinji Vakaparara",
+  "intro": "Unomira pamberi pemanzwi enharaunda ine nyaya yakanyorwa mumafungu. Mweya iyi yakanzwa kudanwa, yakasarudza kusateerera, uye yakatarisana nemugumisiro wakachinja nyika. Ndivanaani, uye chii chakazoitika kunyika yavo?",
+  "clues": [
+    "Takararama kare kare, uye mutumwa akauya kwatiri achibva pakati pedu.",
+    "Takanamata zvidhori zvishanu uye takaramba kuzvisiya.",
+    "Takaseka mutumwa uye takamupomera kuti akarasika.",
+    "Takamukumbira kuti ape chirango kana akataura chokwadi.",
+    "Takaona denga richidurura mvura uye nyika ichitumbuka zvitubu.",
+    "Takakwira kunzvimbo dzakakwirira kuti titize, asi mafungu akatibata."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tiri vanaani?",
+      "options": [
+        "Vanhu veNuh",
+        "Vanhu ve'Ad",
+        "Vanhu veThamud",
+        "Vanhu veLut",
+        "Vanhu vekuMadyan"
+      ],
+      "answer": "Vanhu veNuh"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Takanyura mumafashamo makuru",
+        "Takaparadzwa nedutu guru",
+        "Takaurayiwa nekuputika kukuru",
+        "Takamedzwa nenyika",
+        "Takapotserwa nematombo kubva kudenga"
+      ],
+      "answer": "Takanyura mumafashamo makuru"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Mafashamo makuru",
+        "Mhepo ine simba",
+        "Mvura yematombo",
+        "Kuputika kwemoto",
+        "Kudengenyeka kwenyika"
+      ],
+      "answer": "Mafashamo makuru"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Tose takaparara kunze kwevatendi pamwe naNuh",
+        "Takashandurwa kuita tsoko",
+        "Takasiyiwa sematongo evafambi",
+        "Takachinjwa kuita munyu",
+        "Takapihwa zororo"
+      ],
+      "answer": "Tose takaparara kunze kwevatendi pamwe naNuh"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

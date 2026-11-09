@@ -1,0 +1,61 @@
+{
+  "title": "Umujyi Wazimiye w'Ubuhanga Budasanzwe",
+  "intro": "Umuco ukomeye wahoze wiganje mu bice binini by'isi, uzwiho inyubako ndende zageraga mu kirere. Nyamara munsi y'ubu bwiza, habayeho guhakana gukomeye - kwanga kumvira umuburo w'Imana woherejwe uturutse mu muryango ubwawo. Ubwibone n'ubwibone byahitaga bitanga igihano nk'icyo isi cyangwa ijuru bitari byarigeze bibona.",
+  "clues": [
+    "Twigeze gutegeka isi nini cyane, twirata imbaraga twizeraga ko nta yindi mico yadusanisha.",
+    "Ubwami bwacu bwari buzwiho inyubako ndende zifite inkingi zikomeye zari zihagaze neza mu bihugu byose bizwi.",
+    "Umuburo wo mu muryango wacu warahagurutse, ashishikariza buri wese muri twe kugandukira Umuremyi umwe rukumbi.",
+    "Twahakanye ubutumwa twahawe kandi twanze kureka inzira twari twarazwe.",
+    "Umuyaga ukaze kandi ukaze cyane waraduturutseho, utuma tubura ubwirinzi na gato.",
+    "Twasigaye tumeze nk'ibiti by'imikindo bifite ubuvumo, dutatanye kandi twibagiranye, nk'isomo ku bantu bose bazakurikiraho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Abantu ba A'ad",
+        "Abantu ba Nuh",
+        "Abantu ba Lut",
+        "Abantu bo muri Madyan",
+        "Abantu bo muri Tubba'"
+      ],
+      "answer": "Abantu ba A'ad"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Umuyaga ukaze w'igihano gikomeye",
+        "Umwuzure watwikiriye imisozi yose",
+        "Imvura y'amabuye y'ibumba yaka iturutse hejuru",
+        "Induru imwe iteye ubwoba iturutse mu ijuru",
+        "Umutingito ukomeye waciyemo ibice byinshi"
+      ],
+      "answer": "Umuyaga ukaze w'igihano gikomeye"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Iramu, umujyi w'inkingi ndende",
+        "Inkuge nini y'ibiti yubatswe ku musozi",
+        "Ingamiya y'ingore yavuye mu ibuye mu buryo bw'igitangaza",
+        "Umusozi wa Sinayi aho amategeko y'Imana yamanukiye",
+        "Ingoro y'ikirahure n'ibirahuri byiza ireba amazi atemba"
+      ],
+      "answer": "Iramu, umujyi w'inkingi ndende"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Basigaye nk'ibiti by'imikindo bifite ubuvumo, bitatanye kandi nta buzima",
+        "Yarohamye munsi y'imiraba ikomeye y'umwuzure ukomeye",
+        "Yahindutse ibiremwa bisa n'inkende n'ingurube",
+        "Yashenywe n'imvura y'amabuye y'ibumba akomeye",
+        "Yakoreshejwe n'ijwi rimwe ry'agahinda ryinjira mu mutima"
+      ],
+      "answer": "Basigaye nk'ibiti by'imikindo bifite ubuvumo, bitatanye kandi nta buzima"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

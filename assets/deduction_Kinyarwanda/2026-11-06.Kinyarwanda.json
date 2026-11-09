@@ -1,0 +1,61 @@
+{
+  "title": "Amaraso ya mbere yamenetse mu ishyari",
+  "intro": "Tekereza iminsi ya mbere y’abantu, igihe isi yose yari umuryango umwe. Ureba amaturo abiri ashyirwa imbere y’Imana - rimwe ryemerwa, irindi rikanga. Ishyari rishinga imizi mu mutima, kandi iterabwoba rivugishwa mu burakari. Ibikurikiraho bizasiga ikimenyetso mu mateka iteka ryose, ndetse n’inyoni nto izaba umwigisha.",
+  "clues": [
+    "Ndi uwo mu muryango wa mbere ku isi.",
+    "Natanze ituro imbere y'Imana, ariko iryanjye ntiryakiriwe mu gihe irindi turo ryari ryemejwe.",
+    "Navuze mfite ishyari kandi nshaka kwica umuntu.",
+    "Ninjye wakoze ubwicanyi bwa mbere butari bwo ku isi.",
+    "Nabonye igikona kirimo gukurura hasi kugira ngo kinyereke uko nahisha umurambo.",
+    "Nasigaye nicuza cyane maze mba mu batsinzwe n'ibyo amaboko yanjye yari yakoze."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Qabil (Kayini), mwene Adamu",
+        "Samiri, umuhinzi w'inyana",
+        "Namrud, umunyagitugu watonganye na Ibrahim",
+        "Azar, umuhinzi w'ibishushanyo mbonera",
+        "Kan'an, umuhungu wa Nuh warohamye"
+      ],
+      "answer": "Qabil (Kayini), mwene Adamu"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Kwica umuvandimwe kubera ishyari nyuma yo kwangwa igitambo",
+        "Kubaka umunara muremure wo kureba ijuru",
+        "Gushushanya inyana ya zahabu yo gusengwa",
+        "Gusaba ameza aturutse mu ijuru",
+        "Kuyobora ingabo z'inzovu kugira ngo zisenye Kaaba"
+      ],
+      "answer": "Kwica umuvandimwe kubera ishyari nyuma yo kwangwa igitambo"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Igikona kirimo gukurura ubutaka kugira ngo yerekane ko cyashyinguwe",
+        "Inyana y'izahabu yavugije ijwi",
+        "Ubwato bunini hejuru y'amazi y'umwuzure",
+        "Inkoni yahindutse inzoka",
+        "Ameza ateretseho ibiryo biturutse mu ijuru"
+      ],
+      "answer": "Igikona kirimo gukurura ubutaka kugira ngo yerekane ko cyashyinguwe"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Yabaye umuntu wicuza kandi ari mu batsinzwe",
+        "Yarohamye mu myuzure ikomeye",
+        "Yamizwe n'isi n'ubutunzi",
+        "Yakubiswe ibibembe imyaka irindwi",
+        "Yahawe ubwami bugenzura umuyaga"
+      ],
+      "answer": "Yabaye umuntu wicuza kandi ari mu batsinzwe"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

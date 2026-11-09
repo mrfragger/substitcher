@@ -1,0 +1,61 @@
+{
+  "title": "Guardian a Ɛwɔ Asubɔnten no ano",
+  "intro": "Wɔ asase bi a otirimɔdenfo ahyɛde de awerɛhow baa afie pii mu so no, ɔkra bi nsa kaa nkrasɛm bi a ɛne ehu nyinaa nhyia. Wɔde koma a ahotoso ahyɛ mu ma no, wofii gyidi adeyɛ bi a ɛbɛsakra ɔman bi kwan ase. Bere a nsu no soa adesoa a ɛsom bo no, anidaso ne nsu a ɛreworo so no frafrae.",
+  "clues": [
+    "Metenaa nhyɛso ne ehu bere mu.",
+    "Minyaa ɔsoro nhyɛso a ɛmaa minyaa akokoduru.",
+    "Wɔhyɛɛ me sɛ ɛnsɛ sɛ mesuro na menni awerɛhoɔ.",
+    "Mede me ba no too adaka bi mu de sii nsu no so.",
+    "Sodifo no fiefo na wohuu me ba no, nanso me ba foforo no dii n’akyi.",
+    "Wɔsan kaa me ne me ba no boom sɛ mɛma no nufu, sɛdeɛ Allah hyɛɛ bɔ no ara pɛ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Mose Maame",
+        "Farao Yere",
+        "Mose Nuabea",
+        "Yesu Maame",
+        "Seba Hemmaa no"
+      ],
+      "answer": "Mose Maame"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Wɔde honhom kaa no ma wɔtow abofra bi ngu asubɔnten mu",
+        "Sɛ́ wɔbɛsɔ no ahwɛ wɔ nkonyaayi ho duel ho",
+        "Asraafo dɔm bi a wɔtaa wɔn akyi",
+        "Po bi a ɛpaapae a wɔretwa",
+        "Ofie kronkron a wɔbɛkyekye"
+      ],
+      "answer": "Wɔde honhom kaa no ma wɔtow abofra bi ngu asubɔnten mu"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Adaka bi a wɔde ahyɛ asubɔnten no mu",
+        "Kwae a ɛrehyew",
+        "Poma a ɛdanee ɔwɔ",
+        "Sikakɔkɔɔ nantwi ba",
+        "Ahengua bi"
+      ],
+      "answer": "Adaka bi a wɔde ahyɛ asubɔnten no mu"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wɔsan de abofra no kɔɔ ɔyarehwɛfo nkyɛn dwoodwoo",
+        "Abofra no yerae koraa",
+        "Wɔde abofra no kɔɔ akyirikyiri asase bi so",
+        "Abofra no bɛyɛɛ sodifo ntɛm ara",
+        "Oguadifo bi a ɔwɔ sika na ɔfaa abofra no sɛ ne ba"
+      ],
+      "answer": "Wɔsan de abofra no kɔɔ ɔyarehwɛfo nkyɛn dwoodwoo"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

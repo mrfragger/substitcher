@@ -1,0 +1,61 @@
+{
+  "title": "Zuva reKuratidzwa Kwekupedzisira",
+  "intro": "Vashevedzwa kuti varatidze simba guru, boka revanhu vane hunyanzvi vakazviwana vakatarisana nechokwadi chisingatarisirwi chaizochinja hupenyu hwavo nekusingaperi.",
+  "clues": [
+    "Taizivikanwa nehunyanzvi hwedu, nyanzvi dzekufungidzira uye dzekunyengera.",
+    "Takadanwa nemutongi kuti tinosangana nemunhu aikwikwidza netsvimbo yake.",
+    "Patakaona chokwadi, takawira pasi tichigwadama, tichizivisa kutenda muna Ishe wenyika.",
+    "Mudzvinyiriri akatityisidzira nekurangwa kwakaoma, asi hatina kuzununguka.",
+    "Taiva pakati pevakatanga kutenda mushoko iri mushure mekunge taona chiratidzo chakajeka.",
+    "Takafira kutenda kwedu, asi tichava vekutanga kupinda muParadhiso nevakarurama."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tiri vanaani?",
+      "options": [
+        "Varoyi vaFarao",
+        "VaIsraeri",
+        "Vanhu veThamud",
+        "Vadzidzi vaIsa",
+        "Hondo yaAbraha"
+      ],
+      "answer": "Varoyi vaFarao"
+    },
+    "trial": {
+      "label": "Kutongwa / Chiitiko",
+      "options": [
+        "Kukwikwidzana naMuporofita Musa",
+        "Kuvaka Shongwe",
+        "Mafashamo Makuru",
+        "Dambudziko reMhashu",
+        "Gungwa Rinotsemuka"
+      ],
+      "answer": "Kukwikwidzana naMuporofita Musa"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Zuva reMutambo",
+        "Mupata weTuwa",
+        "Guta reIram",
+        "Bindu Rekusingaperi",
+        "Bani reArafat"
+      ],
+      "answer": "Zuva reMutambo"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Vakarovererwa pamuchinjikwa pachena",
+        "Vakanyura mugungwa",
+        "Vakaitwa vateveri vemuporofita",
+        "Vakaendeswa kuutapwa",
+        "Vakapiswa nemoto"
+      ],
+      "answer": "Vakarovererwa pamuchinjikwa pachena"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

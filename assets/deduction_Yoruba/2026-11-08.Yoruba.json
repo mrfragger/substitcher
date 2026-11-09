@@ -1,0 +1,61 @@
+{
+  "title": "Àjọṣepọ̀ Tí Ó Pe Àwọn Ènìyàn Sí Ìparun",
+  "intro": "Fojú inú wo bí a ṣe fi ara pamọ́ sí abẹ́ òrùlé kan náà gẹ́gẹ́ bí ìfihàn, síbẹ̀ tí a yan ìdúróṣinṣin mìíràn. Ẹni yìí gbé ní ìtòsí òtítọ́ àti àsọtẹ́lẹ̀, ṣùgbọ́n ó yípadà sí àwọn tí ó kọ̀ ọ́. Ìtàn wọn dúró gẹ́gẹ́ bí ìkìlọ̀ pàtàkì pé ìsúnmọ́ òdodo nìkan kò lè gba ọkàn tí ó bá fi ìgbẹ́kẹ̀lé náà hàn là.",
+  "clues": [
+    "Mo gbé ní ilé wòlíì kan tí Allah yàn.",
+    "Mo mọ òtítọ́ tí ọkọ mi ń sọ, síbẹ̀ mi ò gbà á gbọ́ ní tòótọ́.",
+    "Mo da ìgbẹ́kẹ̀lé rẹ̀ nípa gbígbà láti tẹ̀lé àwọn ènìyàn tí ó kọ̀ sílẹ̀ àti láti ràn wọ́n lọ́wọ́ lòdì sí i.",
+    "Wọ́n mẹ́nu kàn mí pẹ̀lú ìyàwó wòlíì mìíràn tí ó tún dalẹ̀, gẹ́gẹ́ bí àpẹẹrẹ fún àwọn aláìgbàgbọ́.",
+    "Ìtàn mi ni a sọ nínú Surah At-Tahrim gẹ́gẹ́ bí ìkìlọ̀ pé ìbátan pẹ̀lú àwọn wòlíì kò ní ààbò kankan.",
+    "Mo kú pẹ̀lú àwọn aláìṣòótọ́ nígbà tí Allah pa àwọn ènìyàn Lọ́ọ̀tì run, tí ó fi sílẹ̀ pẹ̀lú àwọn tí ó kù."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Iyawo Anabi Lutu",
+        "Asia, Iyawo Farao",
+        "Iyawo Imran",
+        "Sara, Iyawo Anabi Ibrahim",
+        "Ìyàwó Al-Aziz"
+      ],
+      "answer": "Iyawo Anabi Lutu"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ó da wòlíì náà nípa ríran àwọn aláìgbàgbọ́ lọ́wọ́ sí i.",
+        "Jí ọmọ ọwọ́ sínú apẹ̀rẹ̀ láti gbà á là",
+        "Wọ́n ní kí wọ́n kọ́ ère ọmọ màlúù wúrà nígbà tí wòlíì náà kò sí níbẹ̀.",
+        "Ó fi ẹ̀sùn kan ìránṣẹ́ òdodo kan pé ó hùwà àìtọ́, ó sì fi í sẹ́wọ̀n",
+        "Ṣáájú ẹgbẹ́ ọmọ ogun erin láti pa Kaaba run"
+      ],
+      "answer": "Ó da wòlíì náà nípa ríran àwọn aláìgbàgbọ́ lọ́wọ́ sí i."
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Àwọn ìlú tí ó yípadà ti àwọn ènìyàn Lọ́ọ̀tì",
+        "Àpótí tí a kọ́ lábẹ́ àṣẹ Ọlọ́run",
+        "Iná náà mú kí ó tutù fún Ibrahim",
+        "Ihò ààbò fún àwọn ọ̀dọ́ tí wọ́n ń sùn",
+        "Odò tí wọ́n ti rí apẹ̀rẹ̀ ọmọ ọwọ́ náà"
+      ],
+      "answer": "Àwọn ìlú tí ó yípadà ti àwọn ènìyàn Lọ́ọ̀tì"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ó ṣègbé pẹ̀lú àwọn aláìgbàgbọ́ pẹ̀lú ìgbéyàwó pẹ̀lú wòlíì kan",
+        "Ó gbàlà pẹ̀lú àwọn onígbàgbọ́, ó sì wọ Párádísè ní àlàáfíà",
+        "A yípadà sí ọwọ̀n gẹ́gẹ́ bí àmì fún àwọn ìran tí ń bọ̀",
+        "Ilẹ̀ gbé e mì pẹ̀lú àwọn ìṣúra ńláńlá",
+        "Wọ́n fún un ní ọmọ ìyanu nígbà tí ó darúgbó"
+      ],
+      "answer": "Ó ṣègbé pẹ̀lú àwọn aláìgbàgbọ́ pẹ̀lú ìgbéyàwó pẹ̀lú wòlíì kan"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

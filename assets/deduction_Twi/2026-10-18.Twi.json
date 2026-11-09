@@ -1,0 +1,61 @@
+{
+  "title": "Anigyesɛm a Ɛfa Mpanyinyɛ Mu",
+  "intro": "Woredi bere bi a anidaso asan akanyan no ho adanse. Awarefo bi a wɔadi mfe a wɔde bɛyɛ awofo bere tenten no nya bɔhyɛ bi a ɛne abɔde mu mmara nhyia. Wɔn mfinimfini gyina hɔ ma onipa bi a ne ba a waba ankasa yɛ ɔsoro mmɔborohunu ho sɛnkyerɛnne —ɔkra a wɔahyɛ sɛ ɔbɛyɛ nkɔmhyɛ, a okura agyapade a ɛbɛtrɛw awo ntoatoaso ahorow mu. Hena ne onipa a ɔyɛ nwonwa yi?",
+  "clues": [
+    "Awofo a na wɔadu mpanyin afe so na wonni mma na wɔwoo me.",
+    "Abɔfo a wɔbaa m’abusua nkyɛn sɛ ahɔho na wɔbɔɔ m’awo ho amanneɛ.",
+    "Wɔmaa me nyansa ne nkɔmhyɛ, na wɔka me ho asɛm wɔ ɔyarefo no ho.",
+    "Wɔfrɛɛ m’agya sɛ Allah adamfo, na na meyɛ akyɛdeɛ ma no wɔ ne mfeɛ a ɛdi akyire no mu.",
+    "Na mewɔ onua bi a ɔno nso yɛ odiyifoɔ, na yɛn Awurade hyiraa yɛn mmienu nyinaa.",
+    "Na me babarima nso yɛ odiyifoɔ, na wɔmaa m’asefoɔ kyerɛwsɛm ne nkɔmhyɛni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Odiyifo Ishaq (Isak) .",
+        "Ɔkɔmhyɛni Ismail (Ishmael) .",
+        "Ɔkɔmhyɛni Yaqub (Jacob) .",
+        "Ɔkɔmhyɛni Yahya (Yohane) .",
+        "Odiyifo Usair (Esra) ."
+      ],
+      "answer": "Odiyifo Ishaq (Isak) ."
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Wɔwoo no maa awofo a wɔn mfe akɔ anim",
+        "Wɔtow gu ogya mu",
+        "Wɔama no ahenni ne ahonyade",
+        "Ɔdii ne nkurɔfoɔ anim firii Misraim",
+        "Ɔsii adaka de gyee agyidifoɔ nkwa"
+      ],
+      "answer": "Wɔwoo no maa awofo a wɔn mfe akɔ anim"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Ɔbabarima bi ho asɛmpa a ɛyɛ anigye",
+        "Kwae a ɛrehyew no",
+        "Sikakɔkɔɔ nantwi ba no",
+        "Apam adaka no",
+        "Nkɔmhyɛ poma"
+      ],
+      "answer": "Ɔbabarima bi ho asɛmpa a ɛyɛ anigye"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Ɔbɛyɛɛ odiyifo a ɔwɔ adiyifo abusua",
+        "Ɔbɛyɛɛ ɔhene a ɔwɔ sika",
+        "Wɔsɛee ne nkurɔfo esiane gyidi a wonni nti",
+        "Wogyee no fii ogya no mu",
+        "Wɔmaa no tumi a ɔde bɛkasa bere a na ɔyɛ akokoaa"
+      ],
+      "answer": "Ɔbɛyɛɛ odiyifo a ɔwɔ adiyifo abusua"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

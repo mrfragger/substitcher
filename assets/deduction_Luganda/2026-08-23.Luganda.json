@@ -1,0 +1,61 @@
+{
+  "title": "Ekibinja ky’Abantu Ababula",
+  "intro": "Oyimirira mu maaso g’amaloboozi g’ekitundu emboozi yaakyo ewandiikiddwa mu mayengo. Emyoyo gino gyawulira omulanga, ne gilonda okujeemera, era ne boolekagana n’ekiddirira ekyaddamu okubumba ensi. Baani, era kiki ekyatuuka ku nsi yaabwe?",
+  "clues": [
+    "Twawangaala edda, era omubaka yajja gye tuli okuva mu ffe.",
+    "Twasinzanga ebifaananyi bitaano ne tugaana okubisuula.",
+    "Twasekerera omubaka ne tumulumiriza nti yali abuze.",
+    "Twasaba aleete ekibonerezo singa aba amazima.",
+    "Twalaba eggulu nga litonnya enkuba ate ensi ng’ekulukuta ensulo.",
+    "Twalinnya mu bifo ebiwanvu okusobola okudduka, naye amayengo ne gatuyitako."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ffe Tuli Baani?",
+      "options": [
+        "Abantu b’e Nuh",
+        "Abantu ba 'Ad",
+        "Abantu b’e Thamud",
+        "Abantu ba Lut",
+        "Abantu b’e Madyan"
+      ],
+      "answer": "Abantu b’e Nuh"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Twabbira mu mataba amangi",
+        "Twasaanawo olw’omuyaga",
+        "Twattibwa okubwatuka okw’amaanyi",
+        "Twamira ensi",
+        "Twakubwa amayinja okuva mu bbanga"
+      ],
+      "answer": "Twabbira mu mataba amangi"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Amataba amanene",
+        "Empewo ey’amaanyi",
+        "Enkuba y’amayinja",
+        "Okubwatuka kw’omuliro",
+        "Musisi"
+      ],
+      "answer": "Amataba amanene"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Ffenna twazikirizibwa okujjako abakkiriza ne Nuh",
+        "Twakyusibwa ne tufuuka enkima",
+        "Twalekebwa ng’amatongo g’abatambuze",
+        "Twafuulibwa omunnyo",
+        "Twaweebwa obudde obw’okuwummula"
+      ],
+      "answer": "Ffenna twazikirizibwa okujjako abakkiriza ne Nuh"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

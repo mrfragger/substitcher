@@ -1,0 +1,61 @@
+{
+  "title": "Ademude a Ɛmemee Wɔ Ahantan Ase",
+  "intro": "Fa no sɛ wugyina ahonyade akuwakuw a ɛsõ araa ma sɛ wosoa nsafe no ara kwa a, ɛbɛma ankorankoro kuw bi a wɔn ho yɛ den abrɛ. Atwa wo ho ahyia no, nne ahorow hyɛ ahobrɛase ne nkae ho nkuran, nanso ahantan nyin yɛ den sen aseda. Dɛn na ɛba bere a ayamye bɛyɛ sɔhwɛ na ahantan hyɛ nea ebefi mu aba no ano no?",
+  "clues": [
+    "Na mefiri Musa nkurɔfoɔ no mu, nanso mebuu wɔn mmara so.",
+    "Wɔmaa me ademude a ɛsõ araa ma na nsafe a wɔde bɛhyɛ mu no bɛma mmarima a wɔn ho yɛ den kuw bi ayɛ adesoa.",
+    "Me nkurɔfoɔ tuu me fo sɛ mma ɛnsɛ sɛ m’ani nnye na menhwehwɛ Daankwamma a me werɛ mfiri me kyɛfa wɔ wiase yi mu.",
+    "Mekae sɛ nea mewɔ no, nimdeɛ a mewɔ nkutoo nti na wɔde maa me.",
+    "Mede ahosiesie dii me nkurɔfo anim, na wɔn a wɔpɛ wiase asetra no pɛe sɛ wobenya nea na mewɔ no.",
+    "Asase no menee me kaa me tenabea ho, na obiara antumi mmoa me na saa ara nso na mintumi mmoa me ho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Qarun na ɔyɛ",
+        "Namrud na ɔyɛ",
+        "Jalut na ɛyɛ",
+        "Azar",
+        "Qabil na ɔkyerɛwee"
+      ],
+      "answer": "Qarun na ɔyɛ"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Ɔhoahoaa ne ho wɔ ahonyadeɛ ho na ɔpoo Allah adom ɛmfa ho afotuo",
+        "Ɔtwaa Ibrahim mpoa wɔ nkwa ne owuo a ɔde bɛma no ho",
+        "Ɔdii asraafoɔ anim tiaa Talut ne Dawud",
+        "Abosom a wɔasen ama nkurɔfo no sɛ wɔbɛsom",
+        "Okum onua bi esiane afɔrebɔ bi ho ahoɔyaw nti"
+      ],
+      "answer": "Ɔhoahoaa ne ho wɔ ahonyadeɛ ho na ɔpoo Allah adom ɛmfa ho afotuo"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Nneɛma atitiriw a ɛma wonya ademude akɛse",
+        "Apam Adaka no",
+        "Sika nantwi ba a wɔde ahosiesie ayɛ",
+        "Atare bi a ɛda mmepɔw abien ntam",
+        "Nsoromma du-baako wɔ dae mu"
+      ],
+      "answer": "Nneɛma atitiriw a ɛma wonya ademude akɛse"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Asase a ɛwɔ tenabea ne ahonyade amene no",
+        "Memenee no wɔ ɛpo mu bere a na ɔredi Musa akyi no",
+        "Ɔbo bi a efi Dawud agyan mu bɔɔ no",
+        "Wɔsɛee no denam ɔtopae a ano yɛ den so esiane sɛ ɔde ne ho bɔɔ yomabere bi akyi nti",
+        "Wɔdanee akraman esiane Homeda a wobuu so nti"
+      ],
+      "answer": "Asase a ɛwɔ tenabea ne ahonyade amene no"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

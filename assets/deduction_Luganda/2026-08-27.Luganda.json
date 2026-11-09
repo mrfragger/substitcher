@@ -1,0 +1,61 @@
+{
+  "title": "Oyo Alondeddwa Omulambulukufu",
+  "intro": "Mu kisiikirize ky’olusozi ebigambo eby’obwakatonda mwe byakka, okukkiriza kw’abantu kwakankana wansi w’okumasamasa kwa zaabu. Omwoyo gumu, ogwalina ekirabo ky’okwogera obulungi, gwayimirira ng’omuwagizi eri obutume obusingako, naye nga gwolekagana n’akaseera ak’okugezesebwa okw’amaanyi. Omubaka omulonde bwe yalinnya mu kifo ekitukuvu, omuwendo guno gwasigala mabega, nga yeegayirira eggwanga eryali litaali miteredde. Omwoyo guno omunywevu eddoboozi lye lyasituka okulwanyisa okusinza ebifaananyi y’ani?",
+  "clues": [
+    "Nalondebwa Allah okubeera nnabbi, wadde ng’emboozi yange etera okunyumibwa wamu n’endala.",
+    "Nnasindikibwa eri omufuzi omutyobooli, naye omulimu gwange gwali gwa kuwagira so si kukulembera.",
+    "Nnalina ekirabo ky’okwogera obulungi, era ebigambo byange byali bigendereddwamu kugonza mitima.",
+    "Munnange bwe yasitula okugenda ku ssaawa entukuvu, nnalekebwa okulungamya abantu abaali batateredde.",
+    "Mu butagumiikiriza bwabwe, baayiiya ekifaananyi okuva mu by’okwewunda byabwe, era ne mbagayirira okusigala nga beesigwa eri Allah.",
+    "Munnange yakomawo n’ankwata, naye ne mmunnyonnyola nti abantu baali bansingako katono banzita; Nze nali siri omu ku baali bakola ebibi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Nabbi Musa",
+        "Nabbi Haruni",
+        "Nabbi Isa",
+        "Nabbi Yahya",
+        "Nabbi Zakariya"
+      ],
+      "answer": "Nabbi Haruni"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okusuulibwa mu muliro",
+        "Okusuulibwa mu luzzi",
+        "Okwolekera ensonga y'ennyana eya zaabu",
+        "Okukebera obulwadde obw’amaanyi",
+        "Ekigezo ky’okufiirwa obugagga n’abaana"
+      ],
+      "answer": "Okwolekera ensonga y'ennyana eya zaabu"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Ennyana eya zaabu",
+        "Abakozi",
+        "Essanduuko y’Endagaano",
+        "Ebipande ebyo",
+        "Ekisaka ekyokya"
+      ],
+      "answer": "Ennyana eya zaabu"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Babonerezebwa nnyo",
+        "Asonyiyibwa era n’aggyibwako omusango",
+        "Yakola kabaka",
+        "Batwaliddwa mu ggulu",
+        "Aweereddwa ekyawandiikibwa ekipya"
+      ],
+      "answer": "Asonyiyibwa era n’aggyibwako omusango"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

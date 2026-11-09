@@ -1,0 +1,61 @@
+{
+  "title": "Ingwati y'Inda",
+  "intro": "Mu vyumba vy’umutima wihebeye Ubumana vy’agacerere, ni ho havutse umuhigo mweranda. Uwo muhigo wari ushingiye ku buzima bwari butaraheza guhumeka, kandi iranguka ryawo ryohinduye inzira y’iragi ryo mu vy’impwemu ibihe bidahera. Intambwe mu mvange y’umutima umuhango wawo wasubiyemwo gushika ibihe bidahera.",
+  "clues": [
+    "Nabaye mu rugo ruzwi ko rusenga Imana, kandi nari nshaka cane ingabirano yotuma nkwegera Allah.",
+    "Nagiranye isezerano rikomeye n’Umukama wanje ku bijanye n’ivyo nari binyegeje muri jewe, ndahira ko nzobihebera vyose mu gikorwa ciwe.",
+    "Igihe co guhishurirwa kigeze, ivyo naronse vyari ntavyiteze, ariko ikibazo nacishize mu maboko y’Umuzi vyose.",
+    "Narahaye umwana wanje izina ryerekana ukwihebera Imana, kandi ndamusaba ngo we n’abamukomokako bakingirwe uwo yavumwe.",
+    "Umwana wanje yashizwe ahantu heranda, arindwa n’umuhanuzi wo mu muryango wa Aroni.",
+    "Umukobwa wanje yaramenyekanye kubera ubusuku bwiwe kandi yatowe hejuru y’abagore bose, mu nyuma aba nyina w’umuhanuzi akomeye, naho nyene yagumye ataco akora."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umugore wa Imran .",
+        "Nyina wa Musa .",
+        "Umugore wa Farawoni .",
+        "Umugore wa Al-Aziz",
+        "Nyina wa Yesaya ."
+      ],
+      "answer": "Umugore wa Imran ."
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Indagano yo kwegurira urusengero umwana wiwe ataravuka .",
+        "Ikigeragezo c'ukwihangana biciye mu ndwara ndende",
+        "Urugendo rwo kuja mu gihugu ca kure kubera ukwizera .",
+        "Guhangana n'umwami w'umunyagitugu",
+        "Intunganyo y’igitangaza y’ibifungurwa biva mw’ijuru ."
+      ],
+      "answer": "Indagano yo kwegurira urusengero umwana wiwe ataravuka ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Uwo mwana yitwa Maryam .",
+        "Inkoni yahindutse inzoka",
+        "Inyana y'inzahabu",
+        "Iriba rya Zazamu .",
+        "Ubwato bwa Nowa ."
+      ],
+      "answer": "Uwo mwana yitwa Maryam ."
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Umwana wiwe yaremewe na Allah, akura yitwararitswe n'ubuhanuzi .",
+        "Umwana wiwe yabaye umuhanuzi aronka icanditswe .",
+        "Umwana wiwe yaraduzwe aja mw'ijuru .",
+        "Umwana wiwe yubatse inzu nyeranda .",
+        "Umwana wiwe yahawe ubwenge n'ubutunzi vyinshi cane ."
+      ],
+      "answer": "Umwana wiwe yaremewe na Allah, akura yitwararitswe n'ubuhanuzi ."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

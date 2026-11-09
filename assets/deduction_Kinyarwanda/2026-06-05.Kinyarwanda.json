@@ -1,0 +1,61 @@
+{
+  "title": "Abashaka Ukuri Bicisha Bugufi",
+  "intro": "Mu gihugu cy’imbaraga n’ubupfumu bya kera, habayeho guhangana gukomeye. Uruhande rumwe rufite ububasha bw’ibimenyetso by’Imana, mu gihe urundi rugerageza guhuza n’ibidashoboka. Ingaruka zizahindura amateka iteka ryose. Ese ushobora kuvumbura abo babonye ukuri kw’ikirenga kandi bakicisha bugufi imbere yako?",
+  "clues": [
+    "Twabonye ibimenyetso birenga amayeri y'ubupfumu",
+    "Twese twaguye mu cyunamo, ntitwashoboraga guhakana ukuri",
+    "Twamenye ko ibi bimenyetso byaturutse ku Mana Imwe y'Ukuri",
+    "Twari umuryango wa mbere wakiriye ukwemera mu buryo butangaje nk'ubwo",
+    "Twasezeranijwe paradizo nk'impongano yacu ku bw'imyizerere yacu",
+    "Imigozi yacu n'inkoni zacu byahindutse inzoka imbere y'amaso yacu, nyamara twahisemo kuyoboka"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Abapfumu ba Farawo",
+        "Abantu b'umuhanuzi Ibrahim",
+        "Abashaka ukuri bicisha bugufi",
+        "Abantu bo mu buvumo",
+        "Igihugu cy'Umwamikazi Bilqis"
+      ],
+      "answer": "Abapfumu ba Farawo"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Guhura n'inkoni y'umuhanuzi Musa",
+        "Ikigeragezo cy'umuyaga w'Intumwa Hud",
+        "Ikibazo cyavuye ku ngamiya y'ingore y'Umuhanuzi Salih",
+        "Umwuzure ukomeye woherejwe ku muhanuzi",
+        "Urugendo rw'umuhanuzi uri mu ifi nini"
+      ],
+      "answer": "Guhura n'inkoni y'umuhanuzi Musa"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Misiri ya kera",
+        "Inzu ndende i Maka",
+        "Umujyi wa Midiyani",
+        "Ubutayu bwa Thamud",
+        "Ubuvumo bw'abasinziriye kera"
+      ],
+      "answer": "Misiri ya kera"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Paradizo nk'ingororano yabo",
+        "Igihano mu mva",
+        "Gutakaza ubusitani bwabo bunini",
+        "Isenywa ryatewe n'umutingito utunguranye",
+        "Gukizwa ifi nini cyane"
+      ],
+      "answer": "Paradizo nk'ingororano yabo"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

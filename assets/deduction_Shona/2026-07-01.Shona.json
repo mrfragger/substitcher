@@ -1,0 +1,61 @@
+{
+  "title": "Mweya Usina Zita Wakamira Uchirwisa Rudzi Rusina Kururama",
+  "intro": "Mumapeji eKorani, mune vanhu vane mazita asina kunyorwa kuti tifungisise nezvezvidzidzo zvavo. Mumwe munhu akadaro akaberekerwa pakati perudzi rwakanga rwaramba vatumwa varwo, asi munhu uyu aive nekutenda kwakavanzika kwakavasiyanisa. Pakange pava pedyo nekuparadzwa, munhu uyu akamira akasimba mukutenda kwake kwakavanzika. Ungawana here kuti munhu uyu akavanzika anonyevera vanhu vake asati aziviswa?",
+  "clues": [
+    "Ndakagara pakati pevanhu vakaramba kakawanda vatumwa vakatumwa kwavari naAllah.",
+    "Kusiyana nerudzi rwangu, ndakaona chokwadi apo mutumwa akasvika nezviratidzo zvakajeka kubva kuna Ishe wangu.",
+    "Ndakavanza kutenda kwangu kubva kuvadzvinyiriri vangu, ndichiziva kuti vaizondikuvadza kana vakawana zvandinotenda.",
+    "Pakaswedera murairo wekurangwa, ndakazivisa pachena kuti ndakavimbika uye ndakanyevera vanhu vangu kuti vazviponese.",
+    "Ndakavayeuchidza kuti ndiri mutumwa akavimbika, handina kusiyana neavo vakatumwa kare, uye kuti havafanirwe kunamata kunze kwaAllah.",
+    "Vanhu vangu vakandipomera uroyi nekupenga, asi chirango chavakanyeverwa nezvacho chakazovabata pakupedzisira."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muporofita Hud, mutumwa kuvanhu veAad",
+        "Murume anotenda kubva kurudzi rweMuporofita Hud uyo akaurayiwa",
+        "Mutongi wevanhu veAad vakaramba chokwadi",
+        "Shamwari yaMuporofita Salih uyo aisava nechokwadi nezviratidzo zvaMwari",
+        "Ngirozi yakatumwa kuzoparadza vanhu veAad"
+      ],
+      "answer": "Murume anotenda kubva kurudzi rweMuporofita Hud uyo akaurayiwa"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Muedzo wekusanaya kwemvura nenzara wakaedza mwoyo murefu wavo",
+        "Kutongwa kwekuzivisa kutenda pamberi perudzi rusingatendi runodzvinyirira",
+        "Kuedzwa kwekuvaka ngarava kuti ipukunyuke mafashamo makuru",
+        "Muedzo wekukandwa mumoto nekuda kwekutenda muna Allah",
+        "Muedzo wekuedzwa nepfuma nekubudirira"
+      ],
+      "answer": "Kutongwa kwekuzivisa kutenda pamberi perudzi rusingatendi runodzvinyirira"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Guta reMakkah kwakavakirwa imba tsvene",
+        "Mapani erenje erudzi rwakaramba mutumwa wavo",
+        "Makomo eMidhiani kwakatumirwa Muporofita Shu'aib",
+        "Mupata werwizi rweIjipita kwakawanikwa Muporofita Musa",
+        "Mupata wevanhu veAad, wakarohwa nemhepo ine simba"
+      ],
+      "answer": "Mapani erenje erudzi rwakaramba mutumwa wavo"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Ndakaponeswa muchikepe ndikararama kusvika Mwari vada",
+        "Vanhu vangu vakatenda mushure mangu uye vakatungamirirwa munzira yakarurama",
+        "Ndakaurayiwa nevanhu vangu asi mweya wangu wakatorwa netsitsi dzaAllah",
+        "Ndakapfidza mushure mekuedzwa uye Allah akagamuchira kupfidza kwangu",
+        "Ndakachinjwa kuita chifananidzo chinonamatwa nevanhu vangu mushure mekufa kwangu"
+      ],
+      "answer": "Ndakaurayiwa nevanhu vangu asi mweya wangu wakatorwa netsitsi dzaAllah"
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Vavezi veMatombo veMupata Wekare",
+  "intro": "Fungidzira budiriro yakasimuka mumipata ine matombo yeArabia, ine hunyanzvi hwekuveza dzimba dzakanaka kubva mumakomo. Vakabudirira nesimba uye neunyanzvi, asi nyaya yavo inoratidzwa nekusateerera yambiro yaMwari kunotyisa. Sezvaunonyatsoongorora nyaya yavo, uchaona vanhu vane kuzvikudza kwakaita kuti vaparadzwe zvachose. Vaiva vanaani?",
+  "clues": [
+    "Takagara nhaka nyika ine matombo nemawere marefu, kwatakavaka dzimba dzedu nehunyanzvi husina muganho.",
+    "Taizivikanwa nekugadzira dzimba dzakachengeteka mumakomo, tichinzwa takachengeteka kubva pakukuvadzwa kupi zvako.",
+    "Mutumwa akauya kwatiri achibva pakati pedu, achitiyeuchidza nezvenyasha dzaAllah uye achitinyevera nezvechirango.",
+    "Takakumbira chiratidzo, ngamera hadzi inoshamisa ikabuda mudombo, bvunzo yakajeka kubva kuna Allah.",
+    "Takateerera yambiro tikagura makumbo engamera diki, tichiseka mutumwa uye tichipikisa chirango.",
+    "Kubhomba kamwe chete kwakatibata mudzimba dzedu, uye mangwanani takarara pasi, sekunge hatina kumbobvira tagara imomo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Vanhu veThamud",
+        "Vanhu ve'Ad",
+        "Vanhu vekuMadyan",
+        "Vanhu veNuh",
+        "Vanhu veLut"
+      ],
+      "answer": "Vanhu veThamud"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Akaruma ngamera hadzi netambo",
+        "Akaputsa Sabata",
+        "Akanamata mhuru yendarama",
+        "Akauraya muporofita akatumwa kwavari",
+        "Akavaka shongwe kuti asvike kudenga"
+      ],
+      "answer": "Akaruma ngamera hadzi netambo"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Ngamera hadzi",
+        "Areka",
+        "Vashandi",
+        "Ruoko ruchena",
+        "Mana nezvihuta"
+      ],
+      "answer": "Ngamera hadzi"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Yakaparadzwa nekuputika",
+        "Kuponeswa kubva mukuparadzwa",
+        "Yakashanduka kuita tsoko",
+        "Kunyura mugungwa",
+        "Yakamedzwa nenyika"
+      ],
+      "answer": "Yakaparadzwa nekuputika"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

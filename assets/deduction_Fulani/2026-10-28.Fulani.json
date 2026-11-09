@@ -1,0 +1,61 @@
+{
+  "title": "Fodoore Haalaaɗo Dow Embers",
+  "intro": "Aɗa darii sara yiite jeereende nde ƴiye mum njaltata e hakkille. Yillotooɓe ina ngara ngam hawritde e nder deeƴre, e nulal gootal ina uddita daartol fodoore, haayre, e ko arata yeeso ko timmaani tawo.",
+  "clues": [
+    "Min tacci laawol ngol haa min njottii maccuɗo koolaaɗo e nder jeereende.",
+    "Min ñaagii yo ƴiye njaltinee ngam feewnude yiite.",
+    "Min kaaldi e gooto nodduɗo lewru ngam coofgol e kisal.",
+    "Min ngaddi kabaaru jibinaaɗo keso e neɗɗo mo duuɓi mum njahrata e jibinde.",
+    "Min inniri 6icfcfo fodanoocfo oo Ishaq.",
+    "Min ngaddi Ibraahiima kabaaru belɗo ɓiɗɗo gorko, kabaaru kaawningol ngol acci Ibraahiima ina jalee."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol ko ngonmi?",
+      "options": [
+        "Maleykaaji Adduɗi Kabaruuji Ishaaga e Ibraahiima",
+        "Maleykaaji jeertinɗi Luudu",
+        "Maleykaaji Jolɗi Jappeere",
+        "Maleykaaji Jahannama",
+        "Maleykaaji Nelaaɗi to Nuuhu"
+      ],
+      "answer": "Maleykaaji Adduɗi Kabaruuji Ishaaga e Ibraahiima"
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "Addude kabaaru belɗo jibineede Ishaq e Ibraahiima",
+        "Jeertinaango Luudu ko adii jukkungo leñol mum",
+        "Anndinde jibinannde Yahya to Zakariyya",
+        "Gawtugol Jappeere Ñalnde Ñalawma Ñalawma",
+        "Anndinde jibinannde Iisaa e Maryam"
+      ],
+      "answer": "Addude kabaaru belɗo jibineede Ishaq e Ibraahiima"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Yiite peewniraaɗe e ƴiye cakkitiiɗe",
+        "Laana ina ɓuuɓtoo e dow ndiyam ilam",
+        "Ngaska ka haayre ɓuuɓnde siifi",
+        "Tufnde loope tiiɗnde e ɓuuɓri",
+        "Laabi njaajɗi haa asamaan"
+      ],
+      "answer": "Yiite peewniraaɗe e ƴiye cakkitiiɗe"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "Kabaaru belɗo ɓiɗɗo gorko ina wiyee Ishaq",
+        "Kabaaru belɗo e ɓiɗɗo gorko ina wiyee Yahya",
+        "Suɓagol Talut ngam wonde laamɗo dow Ɓiɓɓe Isra'iila",
+        "Jeertinaango ko adii jukkungo leñol Luut",
+        "Yamiroore mahde laana ko adii Ilam"
+      ],
+      "answer": "Kabaaru belɗo ɓiɗɗo gorko ina wiyee Ishaq"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

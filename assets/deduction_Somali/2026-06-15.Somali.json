@@ -1,0 +1,61 @@
+{
+  "title": "Xukunka Dabaysha iyo Ololka",
+  "intro": "Bal qiyaas xukun ay dabayshu lafteedu u jawaabto hal taliye, halkaas oo codadka makhluuqaadka ugu yar ay culeys ku qaadeen, iyo halkaas oo xoogagga aan la arki karin ee indhaha caadiga ah lagu hayay si taxaddar leh. Shaygani wuxuu dhaxlay boqortooyo aan caadi ahayn oo ka timid ka horraysa oo la jecel yahay, isagoo awood u leh cufnaanta iyo jinniyada. Laakiin awood weyn ayaa la timid imtixaanno waaweyn - daqiiqadda ugu dambeysana waxay muujin doontaa wax la yaab leh oo ku saabsan dabeecadda nolosha iyo dhimashada lafteeda.",
+  "clues": [
+    "Waxaan boqortooyo weyn ka dhaxlay waalid la jecel yahay oo sidoo kale ahaa nebi iyo addoon Alle.",
+    "Ilaahay wuxuu i siiyay awood uu ku maamulo dabaysha, isagoo u diray safar bil ah subaxdii.",
+    "Xitaa makhluuqaadka ugu yar ayaa ka hadli jiray habka aan u socdo, aniguna waan joojin jiray si aan ula yaabo wacyigooda.",
+    "Waxaan taliye ka ahaa ciidan badan oo jinni, dad iyo shimbiro ah, dhammaantoodna si habsami leh ayay hortayda ugu diyaarsan yihiin.",
+    "Nin taliye ah oo fog ayaa ii yimid si uu iigu tijaabiyo caqabad adag, waxaana kursiga taliyaha la ii keenay maxkamaddayda ka hor inta uusan booqdaha xitaa ka soo kicin kursiga.",
+    "Waan taagnaa, anigoo ku tiirsan ul, ilaa xayawaan yar oo dhulka ka mid ah uu qaniinay - markaas ayay dadkii hareerahayga joogay ogaadeen inaan dhaafay."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Sulaymaan (nabi Sulaymaan)",
+        "Nabi Daa'uud (Daa'uud)",
+        "Nebi Ciise (Ciise)",
+        "Nabi Muxamed ﷺ",
+        "Nabi Muuse (Nabi Muuse)"
+      ],
+      "answer": "Nabi Sulaymaan (nabi Sulaymaan)"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Keenista carshiga boqoradda fog iyada oo loo marayo habab aan caadi ahayn",
+        "In ilmo ahaan loo dhigo ceel qoto dheer",
+        "La kulanka sixirroolayaasha kaligii-taliska ah oo wata calaamado mucjiso ah",
+        "Isagoo ka hadlaya dhalashadiisa si uu u difaaco sharafta hooyo",
+        "Helitaanka qoraalka ugu dambeeya ee la muujiyay oo ku yaal buur quduus ah"
+      ],
+      "answer": "Keenista carshiga boqoradda fog iyada oo loo marayo habab aan caadi ahayn"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Ul alwaax ah oo uu qaniinay cayayaan",
+        "Markab weyn oo loo sameeyay inuu ka gudbo daad adduunka oo dhan ah",
+        "Ul isu beddeshay abeeso ka hor kaligii taliye",
+        "Maro loo isticmaalo in lagu bogsiiyo dadka indhaha la'",
+        "God barakeysan oo markii ugu horreysay la helay waxyi"
+      ],
+      "answer": "Ul alwaax ah oo uu qaniinay cayayaan"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Taliye booqasho sharaf leh ayaa iimaan qaatay ka dib markii uu arkay calaamado",
+        "Daad weyn ayaa baabi'iyay dhammaan dadkii aaminka ahaa marka laga reebo kuwa ku jiray doontii",
+        "Fircoon iyo ciidankiisii ​​waxay ku dhinteen badda dhexdeeda",
+        "Saaxiib xaq ah ayaa samada loo qaaday",
+        "Boqor kaligii taliye ah iyo magaaladiisii ​​ayaa la rogay oo la burburiyay"
+      ],
+      "answer": "Taliye booqasho sharaf leh ayaa iimaan qaatay ka dib markii uu arkay calaamado"
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

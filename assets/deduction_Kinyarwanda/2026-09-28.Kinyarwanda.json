@@ -1,0 +1,61 @@
+{
+  "title": "Inyenyeri Cumi n'Imwe Zarapfukamye",
+  "intro": "Umuntu wo muri Korowani yahawe iyerekwa rikomeye akiri umwana - inzozi z'ibinyabutabire byo mu kirere bikubita hasi mu cyubahiro. Imyaka yashiraga mu guhemukirwa, gutandukana, gushinjwa ibinyoma no gufungwa mbere y'uko iri yerekwa riba impamo. Ni nde uyu muntu uhamye ufite inkuru irambuye mu gice kirekire cya Korowani?",
+  "clues": [
+    "Nari nkiri muto, mfite inzozi zitangaje ndetse na data yamburiye ngo nzigire ibanga.",
+    "Bene data, bahumwe n'ishyari, bangiriye inama yo kungirira nabi banjugunya mu iriba ryijimye kandi rinini.",
+    "Najyanywe mu gihugu cya kure maze ndagurishwa mu rugo rw'umutware w'icyubahiro, aho nagiriwe ubuntu maze mpaguruka mu nshingano.",
+    "Gushinjwa ibinyoma byatumye mfungwa mu buryo bunyuranyije n'amategeko, nyamara muri ako gace k'umwijima nabonye ihumure mu gusenga no kunamira Imana.",
+    "Allah yampaye umugisha wo gusobanura inzozi mu buryo budasanzwe, amaherezo byanjyanye imbere y'umutegetsi w'igihugu kandi binshyira mu mwanya wo hejuru w'icyizere.",
+    "Nyuma y'imyaka myinshi yo gutandukana, nongeye guhura n'umuryango wanjye nkunda, kandi inzozi zanjye zo mu bwana z'inyenyeri cumi n'imwe, izuba n'ukwezi birambaramira zarasohoye."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Intumwa y'Imana Yusufu",
+        "Intumwa Salih",
+        "Intumwa Ilyas",
+        "Tubba ', umutegetsi wa Himyar ya kera",
+        "Umushumba woroheje wo mu misozi ya Palestina"
+      ],
+      "answer": "Intumwa y'Imana Yusufu"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Abavandimwe b'abanyamururumba bajugunywa mu iriba ryinshi kandi ryijimye",
+        "Kumirwa n'ikiremwa kinini cyo mu nyanja ndende",
+        "Gutabwa mu muriro ugurumana n'abasenga ibigirwamana",
+        "Gutwarwa n'umuyaga w'Imana wo kurimbura",
+        "Kurokoka umwuzure ukomeye watwikiriye igihugu cyose"
+      ],
+      "answer": "Abavandimwe b'abanyamururumba bajugunywa mu iriba ryinshi kandi ryijimye"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Iriba ryumye mu butayu aho natereranywe",
+        "Ifi nini yo mu nyanja nini",
+        "Inkuge nini cyane yubatswe ku itegeko ry'Imana",
+        "Umunara wubatswe kugira ngo ugere mu ijuru",
+        "Umuriro mutagatifu wanze gushya"
+      ],
+      "answer": "Iriba ryumye mu butayu aho natereranywe"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Yongeye guhura n'umuryango nyuma y'imyaka myinshi atandukanye maze aba umupasiteri wizeye",
+        "Yayoboye urugendo rukomeye rw'abantu banjye bambuka inyanja yari yaragabanutse",
+        "Naburiye igihugu cyanjye ku byago byari bigiye kubarimbura",
+        "Yubatse inzu ndende yahindutse ahantu heza ho gusengera bose",
+        "Yavuye mu nda y'ikiremwa kinini mu mahoro nyuma y'iminsi itatu"
+      ],
+      "answer": "Yongeye guhura n'umuryango nyuma y'imyaka myinshi atandukanye maze aba umupasiteri wizeye"
+    }
+  },
+  "verseRef": "12:21",
+  "arabic": "وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+  "verse": "And the one from Egypt who bought him said to his wife, \"Make his residence comfortable. Perhaps he will benefit us, or we will adopt him as a son.\" And thus, We established Joseph in the land that We might teach him the interpretation of events [i.e., dreams]. And Allāh is predominant over His affair, but most of the people do not know. (12:21)"
+}

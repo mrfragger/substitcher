@@ -1,0 +1,61 @@
+{
+  "title": "Rwiyo Rwakafambisa Makomo",
+  "intro": "Wava kuda kuburitsa pachena nyaya yemuranda anoshamisa waAllah. Munyika yevatumwa nevatongi, munhu uyu akakomborerwa nebhuku raMwari, izwi rine simba, uye simba kupfuura simbi. Sezvaunoverenga zviratidzo, unogona kuona kuti uyu angave ani?",
+  "clues": [
+    "Ndakanga ndiri mushumiri waAllah akapihwa bhuku rakakosha.",
+    "Ndaiva nenzwi rakanaka, uye rumbidzo yangu yaidiwa zvekuti kunyange zvikomo neshiri zvakandibatanawo.",
+    "Ndakasangana nemuvengi ane simba muhondo yakakurumbira, uye pasinei nekuti ndaiva mudiki, ndakakunda.",
+    "Simbi yakaitwa kuti iome kwandiri, zvikandibvumira kugadzira nhumbi dzehondo nemaoko angu.",
+    "Ndakaitwa mutongi pamusoro perudzi rukuru, uye uchenjeri hwangu mukutonga hwakazivikanwa.",
+    "Mwanakomana wangu, uyo aivewo muporofita, akapihwa simba pamusoro pemhepo nemajini."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muporofita Dawud (Dhavhidhi)",
+        "Muporofita Sulaiman (Soromoni)",
+        "Muporofita Musa (Mosesi)",
+        "Muporofita Harun (Aroni)",
+        "Muprofita Ilyas (Eria)"
+      ],
+      "answer": "Muporofita Dawud (Dhavhidhi)"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Akakundwa naGoriyati (Jalut)",
+        "Yakaparadzanisa gungwa",
+        "Akapona whale",
+        "Yakakandwa mumoto",
+        "Vakavaka Areka"
+      ],
+      "answer": "Akakundwa naGoriyati (Jalut)"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Mapisarema (Mapisarema)",
+        "Torah (Tawrat)",
+        "Evhangeri (Injil)",
+        "Mipumburu yaIbrahim",
+        "Korani"
+      ],
+      "answer": "Mapisarema (Mapisarema)"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akava muporofita uye mambo weIsraeri",
+        "Akava mutongi weIjipiti",
+        "Akakwidzwa kudenga",
+        "Yakaparadzwa nedutu",
+        "Akava shamwari yebako"
+      ],
+      "answer": "Akava muporofita uye mambo weIsraeri"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

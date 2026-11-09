@@ -1,0 +1,61 @@
+{
+  "title": "Eddoboozi Esirifu mu Kisenge",
+  "intro": "Okusaba kwawulikika mu busirise bw’ekisenge ekitukuvu edda ennyo, nga esituka okuva mu mwoyo ogwakaddiwa nga gwegomba ekyo ensi kye yali etegeezezza nti tekisoboka. Omuwendo guno, ogwakula mu myaka era nga guzitoowereddwa okweraliikirira ebiseera eby’omu maaso, gwakyukira Mukama waabwe n’okwegayirira okw’obuntu. Ekyaddirira kyali kuddamu kwa Katonda okwasomooza buli kisuubirwa eky’obutonde —obujulizi obw’okusaasira kw’Oyo addamu omulanga ogw’okuggwaamu essuubi.",
+  "clues": [
+    "Nakoowoola Mukama wange mu kyama, nga nvaayo ne nzira mu kisenge mwe neewaayo okusinza kwe.",
+    "Nakkiriza eri Mukama wange nti natya olw’abo abaali bagenda okungoberera, nga nneeraliikirivu olw’obulagirizi bw’abantu bange olumu nga nvuddewo.",
+    "Obukadde bwali buntuuse —amagumba gange gaali ganafuye era enviiri enjeru zaali zibunye ku mutwe gwange.",
+    "Munnange yali abadde mugumba obulamu bwe bwonna, naye nga nkyasaba Mukama wange ampe omusika okuva mu maaso ge.",
+    "Nasaba akabonero, era Mukama wange n’addamu ng’anziyiza okwogera n’omuntu yenna okumala ekiro ssatu, so nga nsigala nga nnywevu mu mubiri.",
+    "Nasuubizibwa omwana ow’obulenzi ng’erinnya lye lyandibadde Yahya, erinnya Mukama wange lye yalangirira nti teriweebwangako muntu yenna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Nabbi Zakariya",
+        "Nabbi Nuh",
+        "Nabbi Musa",
+        "Nabbi Yusuf",
+        "Nabbi Dawud"
+      ],
+      "answer": "Nabbi Zakariya"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okusabira omusika mu bukadde n’omufumbo omugumba",
+        "Okusuulibwa mu muliro ogwaka",
+        "Okumira ekyennyanja ekinene mu kizikiza",
+        "Okugumira okufiirwa amaka, obugagga, n’obulamu",
+        "Olw’okulagirwa okuzimba eryato eddene"
+      ],
+      "answer": "Okusabira omusika mu bukadde n’omufumbo omugumba"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Ekisenge ky’okusabiramu (mihrab) .",
+        "Omuggo ogwakyuka ne gufuuka omusota",
+        "Essanduuko ennene ey’embaawo",
+        "Olusuku olulimu ensulo ey’enjawulo",
+        "Olusozi ebinyonyi mwe byakuŋŋaanira"
+      ],
+      "answer": "Ekisenge ky’okusabiramu (mihrab) ."
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yaweebwa omwana ow’obulenzi eyatuumibwa erinnya mu ngeri ey’ekyamagero wadde nga nkaddiye nnyo",
+        "Yawonyezebwa okuva mu muliro ogwaka olw’ekiragiro kya Katonda",
+        "Amataba amanene gaasaanyaawo abatakkiriza",
+        "Okuzzibwa mu maka, mu bugagga, n’obulamu oluvannyuma lw’okugumiikiriza",
+        "Falaawo n’eggye lye babbira mu nnyanja"
+      ],
+      "answer": "Yaweebwa omwana ow’obulenzi eyatuumibwa erinnya mu ngeri ey’ekyamagero wadde nga nkaddiye nnyo"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

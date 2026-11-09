@@ -1,0 +1,61 @@
+{
+  "title": "Codka Runta ah ee Waagii Hore",
+  "intro": "Waxaa Qur'aanka ku jirta naf sheekadeeda lagu sheegay aayado yar, haddana sifooyinkooda sharafta leh ayaa si cad u iftiimaya. Iyada oo Ilaaha Qaadirka ah uu ku ammaanay wanaag gaar ah, addoonkan hore ee Raxmaanka ah wuxuu boos ka haystaa bogagga waxyiga. Shaqadaadu waa inaad aqoonsato qofkan cajiibka ah. Ma qiyaasi kartaa cidda ay yihiin?",
+  "clues": [
+    "Waxaan ahay nebi Alle oo ku noolaa jiilalka hore ee aadanaha.",
+    "Alle wuxuu kitaabkiisa igu xusay nebiyo kale, dhammaantoodna lagu ammaanay isla wanaagga sharafta leh.",
+    "Waxaa Qur'aanka lagu tilmaamay nin run sheeg ah.",
+    "Ilaahay wuxuu i gaarsiiyay boos sare oo ay dad yar oo kale gaareen.",
+    "Magacayga waxaa lagu xusay Suuradda Al-Anbiya, iyadoo lagu soo daray laba nebi oo kale oo lagu ammaanay dulqaadkooda.",
+    "Waxaan ahay Idriis, nebi run ah oo kor loo qaaday."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Idriis",
+        "Nabi Nuux",
+        "Nabi Ibraahim",
+        "Nabi Muuse",
+        "Nabi Ismaaciil"
+      ],
+      "answer": "Nabi Idriis"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Joogteynta dulqaadka iyo runta, ka dibna loo qaado boos sare",
+        "Dhisidda doon weyn si aad u badbaadiso mu'miniinta daad ba'an oo soo food saaray",
+        "In lagu tuuro dab ololaya oo soo baxaya iyada oo aan wax dhaawac ah gaarin",
+        "La dagaallanka boqor xoog leh iyo jabinta ciidankiisa sixirroolayaasha ah",
+        "Ku nool caloosha kalluun weyn oo ku jira moolka dheer ee badda"
+      ],
+      "answer": "Joogteynta dulqaadka iyo runta, ka dibna loo qaado boos sare"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Saldhig sare oo sare leh oo Alle bixiyo",
+        "Markab weyn oo laga sameeyay looxyo oo lagu rakibay daamur",
+        "Dab kulul oo ay shideen kuwa caabuda boqor shar leh",
+        "Bad weyn oo u kala qaybsan waddooyin qalalan",
+        "Caloosha mugdiga ah ee nibiriga weyn ee ku yaal salka badda"
+      ],
+      "answer": "Saldhig sare oo sare leh oo Alle bixiyo"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Naxariista Alle ayaa la geliyay isagoo ka mid ah kuwa wanaagsan",
+        "Iyada oo lala badbaadiyay dhammaan rumaystayaasha daad caalami ah",
+        "Ka soo baxay ololka aan dabka taaban",
+        "Reer binu Israa'iil waxay si nabad ah ugu hoggaamiyeen xorriyadda badda iyagoo ka gudbaya badda",
+        "Waxay dib ula midoobeen qoyskoodii ay jeclaayeen sannado badan oo dhibaato ah ka dib"
+      ],
+      "answer": "Naxariista Alle ayaa la geliyay isagoo ka mid ah kuwa wanaagsan"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

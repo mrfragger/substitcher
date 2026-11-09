@@ -1,0 +1,61 @@
+{
+  "title": "Kuedzwa kweMweya Unoramba Uchienderera Mberi",
+  "intro": "Mweya unomira panguva yekuedzwa kwaMwari, uchitsvaga nhungamiro nekuzvininipisa. Iye anoziva zvese anodzinga munhu uyu anotsvaga, ozozozivisa gare gare kuti uyu waiva muedzo wemoyo. Kuburikidza nekutaurirana uku kusinganzwisisike, chidzidzo pamusoro peuchenjeri hwaMwari chinozarurwa pamberi peavo vanofungisisa. Unogona here kuona munhu uyu kubva munyaya yeKorani?",
+  "clues": [
+    "Ndakatsvaga ruzivo nenhungamiro kubva kumutumwa waAllah anodiwa",
+    "Ndakauya ndichitsvaga chokwadi, ndichishevedza Muporofita nechido chechokwadi",
+    "Ndakatsiurwa ndikadzoserwa shure, nekuti huchenjeri hwaAllah hwaive nedzimwe hurongwa panguva iyoyo",
+    "Asi handina kuora mwoyo—panzvimbo pezvo, ndakaenderera mberi nekutsvaga kwangu",
+    "Iye anoziva zvese akataura kuti izvi zvaive kuyedzwa kwemoyo uye yambiro",
+    "Ndaive mumwe weavo Korani inozivisa nezvavo kuti: 'Akafinyamisa chiso ndokutendeuka, nekuti bofu rakauya kwaari'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Munyengeri Ari Kutsvaga Kusava Nechokwadi",
+        "Munhu Anotsvaga Chokwadi Ari Bofu",
+        "Munamati weZvifananidzo weMakkah",
+        "Munhu Asingatendi Achiseka Muprofita",
+        "Mufambi anobva kuYemen"
+      ],
+      "answer": "Munhu Anotsvaga Chokwadi Ari Bofu"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kutsiurwa neMuporofita Muhammad panguva yekunamata",
+        "Kuedzwa kwekushaya mvura nenzara muMakkah",
+        "Kudzingwa pamasuo eparadhiso",
+        "Kurambwa nevanhu vekwako nekuda kwekutenda",
+        "Kuedzwa nepfuma nevana"
+      ],
+      "answer": "Kutsiurwa neMuporofita Muhammad panguva yekunamata"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Mukati meKaaba panguva yerwendo rwekushanya",
+        "Pamberi peMuporofita panguva yekuverenga",
+        "Pamusoro peGomo reSafa panguva dzemangwanani",
+        "Mumusika weMakka wakakomberedzwa nevasingatendi",
+        "Pedyo netsime reZamzam panguva yeHajj"
+      ],
+      "answer": "Pamberi peMuporofita panguva yekuverenga"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Mutsvaki akaurayiwa nevaQuraysh nekuda kwekutenda kwake",
+        "Chiitiko ichi chakanyorwa semuedzo nechidzidzo cheUmmah",
+        "Mutsvaki akava shamwari uye mutungamiri",
+        "Pfuma yemunhu aitsvaga yakapetwa kagumi",
+        "Mutsvaki akadzokera pakusatenda"
+      ],
+      "answer": "Chiitiko ichi chakanyorwa semuedzo nechidzidzo cheUmmah"
+    }
+  },
+  "verseRef": "80:1-2",
+  "arabic": "",
+  "verse": "80:1-2"
+}

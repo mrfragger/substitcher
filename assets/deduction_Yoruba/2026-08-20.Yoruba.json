@@ -1,0 +1,61 @@
+{
+  "title": "Ohùn Ìtakò",
+  "intro": "Kí ènìyàn àkọ́kọ́ tó rìn lórí ilẹ̀ ayé, ẹ̀dá alágbára ńlá kan dúró ní agbègbè àlàáfíà pípé, tí àwọn ọkàn tí ó jẹ́ olùfọkànsìn jùlọ yí ká. Nígbà tí a bá fún ni àṣẹ kan ṣoṣo, gbogbo ohùn tẹrí ba fún ìtẹríba—ṣùgbọ́n ohùn kan dìde ní ìtakora, ìtakora náà yóò sì dún ní gbogbo ọjọ́ ayé títí di ọjọ́ ìkẹyìn. Ta ni ẹ̀dá tí ó ṣubú yìí?",
+  "clues": [
+    "A dá mi láti inú ohun tí ó ń jóná dáradára, nígbà tí àwọn mìíràn lẹ́gbẹ̀ẹ́ mi ni a dá láti inú ohun tí wọ́n rìn lórí rẹ̀.",
+    "Mo gbé ní ibi mímọ́ láàrin àwọn ẹ̀dá mímọ́, títí tí àṣẹ kan fi yí ohun gbogbo padà.",
+    "Nígbà tí àṣẹ dé, gbogbo ọkàn tẹrí ba àyàfi fún mi; ìkọ̀sílẹ̀ mi ni ìgbéraga bí.",
+    "Wọ́n lé mi jáde kúrò ní ibi mímọ́ yẹn, wọ́n sì fi ègún tí yóò wà títí láé sàmì sí mi.",
+    "Mo bẹ̀bẹ̀ fún àkókò títí di ọjọ́ ajinde, a sì fún mi ní àṣẹ. Mo jẹ́jẹ̀ẹ́ láti tọ gbogbo ọkàn lọ kí n sì ṣì wọ́n lọ́nà.",
+    "Nígbà tí fèrè bá dún, àwọn tí wọ́n tẹ̀lé mi yóò pín ìpín mi, wọn yóò dara pọ̀ mọ́ mi nínú iná tí ń jó níbi tí kò sí olùrànlọ́wọ́ tí ó lè gbà wọ́n là."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Iblis",
+        "Fáráò (Fáráò)",
+        "Namrud",
+        "Abu Lahab",
+        "Azar (baba Ibrahim)"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Àkókò Ìtumọ̀",
+      "options": [
+        "Kíkọ̀ láti foríbalẹ̀ níwájú Ádámù",
+        "Lílo agbára Ọlọ́run lórí ìjọba ńlá kan",
+        "Pírò láti sọ olódodo sínú iná",
+        "Ṣíṣáájú àwọn ènìyàn láti jọ́sìn ère wúrà kan",
+        "Tí mo bá rì ẹgbẹ́ ọmọ ogun ńlá sínú òkun"
+      ],
+      "answer": "Kíkọ̀ láti foríbalẹ̀ níwájú Ádámù"
+    },
+    "location": {
+      "label": "Ibi Mímọ́",
+      "options": [
+        "Jannah (Párádísè)",
+        "Ààfin àgbàyanu kan lórí odò Náílì",
+        "Ilé gogoro bíríkì kan tó nà sí ojú ọ̀run",
+        "Ọmọ màlúù wúrà tí a fi ohun ọ̀ṣọ́ ṣe",
+        "Iná iná tó ń jó"
+      ],
+      "answer": "Jannah (Párádísè)"
+    },
+    "outcome": {
+      "label": "Àyànmọ́ Ìkẹyìn",
+      "options": [
+        "Lè lé e jáde, pẹ̀lú ìsinmi títí di ọjọ́ ìlérí kan",
+        "Àwọn ọmọ ogun rì sínú omi lábẹ́ ìgbì omi",
+        "Àwọn òkúta tí wọ́n jù láti ojú ọ̀run fọ́ mọ́lẹ̀",
+        "Àwọn ẹyẹ tí wọ́n ń fò ti ya sọ́tọ̀ọ̀tọ̀",
+        "Ó jẹ ẹ́ run nípasẹ̀ ìbúgbàù ńlá kan ṣoṣo"
+      ],
+      "answer": "Lè lé e jáde, pẹ̀lú ìsinmi títí di ọjọ́ ìlérí kan"
+    }
+  },
+  "verseRef": "17:62",
+  "arabic": "قَالَ أَرَءَيْتَكَ هَـٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًۭا",
+  "verse": "[Iblees] said, \"Do You see this one whom You have honored above me? If You delay me [i.e., my death] until the Day of Resurrection, I will surely destroy his descendants, except for a few.\" (17:62)"
+}

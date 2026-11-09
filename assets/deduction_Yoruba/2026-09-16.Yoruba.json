@@ -1,0 +1,61 @@
+{
+  "title": "Ìjọ́ba tí a dán wò nípasẹ̀ odò kan",
+  "intro": "Aṣáájú kan dìde nípasẹ̀ àṣẹ Ọlọ́run ní ìgbàanì. Ìjọba alákòóso yìí kò bẹ̀rẹ̀ pẹ̀lú ògo ṣùgbọ́n pẹ̀lú ìdánwò nípasẹ̀ omi tí ń ṣàn. Ọ̀tá alágbára kan yóò pe ẹgbẹ́ ọmọ ogun wọn níjà, àbájáde rẹ̀ yóò sì tún ṣe àtúnṣe ìtàn. Ṣé o lè mọ ẹni tí ẹni yìí jẹ́?",
+  "clues": [
+    "Wọ́n yàn mí láti ṣe olórí orílẹ̀-èdè ńlá kan, ṣùgbọ́n ìyànsípò náà wá láti òkè, kì í ṣe láti ọ̀dọ̀ àwọn ènìyàn.",
+    "Wọ́n dá ohun mímọ́ kan padà fún àwọn ènìyàn mi gẹ́gẹ́ bí àmì tí ó ń fi hàn pé mo ń ṣe òfin mi.",
+    "Mo dán àwọn ọmọ ogun mi wò pẹ̀lú odò kan — ọ̀pọ̀lọpọ̀ mu nínú rẹ̀, wọ́n sì kùnà.",
+    "Jagunjagun alágbára kan tí orúkọ rẹ̀ ń jẹ́ Jalut wá sí wa pẹ̀lú ẹgbẹ́ ọmọ ogun ńlá kan.",
+    "Ọ̀dọ́mọkùnrin kan láti ẹgbẹ́ mi, tí ó ní ohun kan tí ó ju ìgbàgbọ́ lọ, lu Jalut.",
+    "Lẹ́yìn ìṣẹ́gun wa, ìjọba náà wá wà ní ìkáwọ́ aṣíwájú ọ̀dọ́mọdé yẹn nígbẹ̀yìn gbẹ́yín."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Talut (Saulu)",
+        "Jalut (Goliath)",
+        "Wòlíì Dáfídì",
+        "Wòlíì Mósà",
+        "Wòlíì Hárún"
+      ],
+      "answer": "Talut (Saulu)"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "A dán an wò pẹ̀lú odò kan",
+        "A jù wọ́n sínú iná tí ń jóná",
+        "A pàṣẹ pé kí a fi ọmọkùnrin rúbọ",
+        "A pàṣẹ fún wọn láti kọ́ ọkọ̀ ńlá kan",
+        "Ẹja ńlá kan gbé mì"
+      ],
+      "answer": "A dán an wò pẹ̀lú odò kan"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Àpótí Májẹ̀mú",
+        "Ọ̀pá tí ó pín òkun níyà",
+        "Kànkàn àti àwọn òkúta dídán",
+        "Òrìṣà ọmọ màlúù wúrà",
+        "Ìtẹ́ àgbàyanu kan"
+      ],
+      "answer": "Àpótí Májẹ̀mú"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ìjọba ti gbé fún aṣiwaju ọ̀dọ́mọdé (Dawud)",
+        "Mo rì mọ́lẹ̀ pẹ̀lú àwọn ọmọ ogun nínú òkun",
+        "A yọ ọ́ kúrò nínú iná tó ń jó láìsí ewu",
+        "Ilẹ̀ gbé e mì pẹ̀lú àwọn ìṣúra",
+        "Wọ́n jó mi láàyè nínú kòtò tí ń jóná"
+      ],
+      "answer": "Ìjọba ti gbé fún aṣiwaju ọ̀dọ́mọdé (Dawud)"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

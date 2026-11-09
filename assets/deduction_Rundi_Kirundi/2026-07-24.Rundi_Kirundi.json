@@ -1,0 +1,61 @@
+{
+  "title": "Uwo Mugambi Yitwikiriye",
+  "intro": "Usanga uri imbere y’umuntu w’ububasha wo mu misi y’ivyahishuriwe. Uwo muntu yari azwi kubera ubwenge bwiwe, ubutunzi bwiwe n’ikibanza yari afise mu bantu biwe. Igihe ibimenyetso bigaragara vyaza, baramenye ubwiza ariko bahisemwo gutera umugongo aho kuyoboka. Ni igiki catumye uwo mutima ugira umugambi mu mwiza, kandi ni igiki cabashikiye?",
+  "clues": [
+    "Narahezagiwe n’ubutunzi bwinshi be n’ububasha bwinshi, bituma ijambo ryanje riremerera mu makoraniro.",
+    "Igihe amajambo y’ubumana yasomwa, sinari gushobora guhakana ubuhinga bwabo bwo kuvuga, ariko ubwibone bwanje ntibwari kunyemerera kuyoboka.",
+    "Nakoranije abajanama banje, nditandukanya n’abandi kugira ngo nzirikane uburyo bwo gusenyura ubutumwa.",
+    "Nahejeje kwiyumvira cane, nta kindi namenyesheje atari ‘ubupfumu bwavuye muri kahise’ bwo guhindura abantu.",
+    "Iryo hishurwa rero ryarambwiye ata guca ku ruhande riti: 'Nsige n'uwo naremye jenyene.' Naratowe kubera umugambi wanje.",
+    "Vuba, uwo muriro nyene nagabishijwe uzompagarika ku rubavu, nta n’aho nzoba nshobora guhunga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Al-Walidi ibn al-Mughira",
+        "Abu Lahabu",
+        "Abu Yahli",
+        "Uqbah mwene Abi Muayt",
+        "Nadiri mwene Harisi"
+      ],
+      "answer": "Al-Walidi ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Bagira umugambi wo kwica Umuhanuzi .",
+        "Yarongoye igikorwa co guhagarika ibikorwa vy'abayisilamu .",
+        "Yakoranije inama yo gushiramwo ikimenyetso ca Korowani nk'ubupfumu",
+        "Bateguye kwirukana Umuhanuzi i Makka .",
+        "Yanse gusangira ubutunzi bwiwe n'impfuvyi ."
+      ],
+      "answer": "Yakoranye inama yo gushiramwo ikimenyetso ca Korowani nk'ubupfumu"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Ivyahishuwe",
+        "Inama",
+        "Imbere",
+        "Ubutunzi",
+        "Ikaramu"
+      ],
+      "answer": "Imbere"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Yarihanye aca yemera ubuyisilamu .",
+        "Yarimukiye muri Abisiniya .",
+        "Yaratewe n'indwara yica + .",
+        "Yapfuye mu ntambara yarwanye n'abayisilamu .",
+        "Yaciriwe urubanza rwo kuja mu muriro w'iteka ."
+      ],
+      "answer": "Yaciriwe urubanza rwo kuja mu muriro w'iteka ."
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Emikono Egikolimiddwa",
+  "intro": "Oyimiridde mu makubo agayiringisibwa mu Makkah ey’edda, emmeeme ey’obuyinza n’obugagga gye yava edda okuva ku mulanga gw’amazima. Emboozi ya ffiga eno ejjukiza nnyo nti ensiba z’omusaayi teziyinza kuvvuunuka njegere z’amalala. Ono ani erinnya lye eriwuuma n’omuliro ogulindiridde?",
+  "clues": [
+    "Natambula mu nguudo z’e Makkah n’amalala aganziba amaaso nga simanyi mazima, wadde ng’omubaka yali wa musaayi gwange.",
+    "Ebintu byange byali binene nnyo, naye byafuuka ekikolimo okusinga engabo.",
+    "Ekitabo eky’obulagirizi kyogera ku kuzikirizibwa kwange, nga kirangirira nti emikono gyange n’omuntu wange bijja kuzikirizibwa.",
+    "Munnange yeegatta ku kampeyini yange ey’obulabe, ng’akuŋŋaanya amaggwa okubuna mu kkubo ly’oyo eyakowoola Allah.",
+    "Ku lunaku olw’omusango, ndisuulibwa mu muliro ogw’ennimi z’omuliro eziyaka, era munnange ajja kuba n’omuguwa ogw’enkindu mu bulago.",
+    "Nmanyiddwa erinnya eritegeeza ‘taata w’ennimi z’omuliro’ — erinnya eritegeeza ekifo kyange eky’olubeerera."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira, omuwandiisi w’ebitabo"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Okugezesebwa oba Ekintu Ekikulu",
+      "options": [
+        "Yawakanya Nabbi era yakolimirwa mu Quran",
+        "Yakulembera eggye okusaanyaawo Kaaba",
+        "Yagezezzaako okutta Nabbi nga akuba amayinja",
+        "Yagaana okukkiriza mu kwawukana kw’omwezi",
+        "Yazimba omunaala okutuuka mu ggulu"
+      ],
+      "answer": "Yawakanya Nabbi era yakolimirwa mu Quran"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Omuliro gwa Geyeena ogwaka",
+        "Abakozi ba Musa",
+        "Essanduuko ya Nuu",
+        "Oluzzi lwa Zamzam",
+        "Ennyana ya Zaabu"
+      ],
+      "answer": "Omuliro gwa Geyeena ogwaka"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Aliyingira mu muliro oguyaka, n’obugagga bwe tebumugasa",
+        "Yenenya n’afuuka omukkiriza",
+        "Yasonyiyibwa oluvannyuma lw’okwewaggula",
+        "Yafa ng’omujulizi",
+        "Yatwalibwa mu ggulu"
+      ],
+      "answer": "Aliyingira mu muliro oguyaka, era obugagga bwe tebumugasa"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

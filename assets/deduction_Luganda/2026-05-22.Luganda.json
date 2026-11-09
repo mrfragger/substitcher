@@ -1,0 +1,61 @@
+{
+  "title": "Okulinnya kw'Omuloosi",
+  "intro": "Omwoyo ogwali gutegekeddwa obukulu, naye nga gugezesebwa okugezesebwa okw’amaanyi, gwatandika olugendo olw’ekitalo. Ekkubo ly’omuntu ono lyali lirimu obuggya, okwawukana, n’okubonaabona okutali kwa bwenkanya, kyokka n’atuuka ku ntikko mu kifo eky’obuvunaanyizibwa obw’amaanyi ennyo n’okuddamu okukwatagana okw’amaanyi. Osobola okuzuula omuwendo guno ogw’ekitalo okuva mu Quran?",
+  "clues": [
+    "Lumu nnakwatibwa obuggya abo abaali basinga okumpi nange, ekyaviirako okwawukana ennyo ne muzadde wange n’awaka.",
+    "Nnafuna ekiseera eky’obuzibu obw’amaanyi, nga mw’otwalidde n’okutundibwa ku bbeeyi entono abatambuze.",
+    "Nnavunaanibwa mu ngeri etali ya bwenkanya nti nnakola ebibi era nnamala emyaka mingi mu kkomera, naye okukkiriza kwange kwasigala nga tekuwuguka.",
+    "Nnaweebwa obusobozi obw’enjawulo obw’okutaputa okwolesebwa okuzibu, era nga kino kyayamba nnyo mu kkubo lyange erigenda mu ddembe.",
+    "Amagezi gange n’obugolokofu bwange byatuuka n’okuntuusa mu kifo eky’obuyinza obw’amaanyi n’okwesiga ensi engwira.",
+    "Okuyita mu bintu ebiddiriŋŋana, nnaddamu okukwatagana ne muzadde wange omukadde ne baganda bange oluvannyuma lw’okumala ebbanga eddene nga siriiwo era nga nnuma."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Nabbi Sulaiman",
+        "Nabbi Isa",
+        "Nabbi Yusuf",
+        "Nabbi Dawud",
+        "Nabbi Yahya"
+      ],
+      "answer": "Nabbi Yusuf"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okumira ekyennyanja ekinene",
+        "Okuzimba Essanduuko okutaasa obutonde",
+        "Okugumira ebigambibwa eby’obulimba n’okusibwa",
+        "Okutunuulira omufuzi omutyobooli n’ebyamagero",
+        "Okukeberebwa n’obulwadde obw’amaanyi n’okufiirwa"
+      ],
+      "answer": "Okugumira ebigambibwa eby’obulimba n’okusibwa"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Ekisaka ekyokya",
+        "Ekinyonyi ekyogera",
+        "Oluzzi",
+        "Omuggo nga gufuuka omusota",
+        "Engamiya enkazi ng’akabonero"
+      ],
+      "answer": "Oluzzi"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Okukulembera okusenguka okugenda mu nsi ensuubize",
+        "Okufuuka omuweereza ow’amaanyi mu Misiri",
+        "Okufuna omusango ogw’obwakatonda ku bantu ab’amalala",
+        "Okufuga obwakabaka obunene ennyo n’amagezi n’obwenkanya",
+        "Okulinnya mu ggulu"
+      ],
+      "answer": "Okufuuka omuweereza ow’amaanyi mu Misiri"
+    }
+  },
+  "verseRef": "12:4",
+  "arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+  "verse": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\" (12:4)"
+}

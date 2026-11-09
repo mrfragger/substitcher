@@ -1,0 +1,61 @@
+{
+  "title": "Igicucu kiri inyuma y'Intebe",
+  "intro": "Uhagaze mu ngoro z'ubwami bukomeye bwa kera, aho umutegetsi ukomeye yiyise imana ku bantu bose. Iruhande rw'uyu mutware hari umugaragu w'indahemuka, wahawe inshingano zikomeye z'ubwami. Bafatanyije gutegura no gutegura, banga kumvira imiburo y'intumwa yoherejwe kubayobora. Ese ushobora kumenya uwo mugaragu w'indahemuka yari we?",
+  "clues": [
+    "Nabaye mu bwami bukomeye buyobowe n'umuntu ukomeye wiyitaga Imana kurusha abantu bose.",
+    "Nabaye umukozi w’uyu mutegetsi wizewe, nshyira mu bikorwa ibyo yashakaga byose n’ibyo yategetse.",
+    "Ubwo intumwa ya Allah yazaga mu gihugu cyacu iduhamagarira ukuri, njye n'umutegetsi wanjye twanze kumva.",
+    "Nategetswe gucana umuriro mwinshi no gutegura amatafari y'ibumba kugira ngo yubakwe mu buryo bukomeye.",
+    "Umutegetsi wanjye yashakaga kubaka inyubako ndende cyane ku buryo yagera mu ijuru ubwaryo.",
+    "Amaherezo, umutegetsi wanjye, ingabo zacu, nanjye twatwawe n'amazi maze turohama mu nyanja."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Hamani",
+        "Dhul-Kifl",
+        "Jibreel",
+        "Mikail",
+        "Harut"
+      ],
+      "answer": "Hamani"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Kubaka umunara kugira ngo ugere mu ijuru",
+        "Gutabwa mu muriro ugurumana",
+        "Gukangura abantu kuva ku gusenga ibigirwamana by'amabuye",
+        "Gucamo ibice ukwezi nk'ikimenyetso cy'Imana",
+        "Kwigarurira umujyi ukomeye ku itegeko ry'Imana"
+      ],
+      "answer": "Kubaka umunara kugira ngo ugere mu ijuru"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Umunara w'amatafari y'ibumba yatetse",
+        "Inda y'ifi nini",
+        "Isoko ryera mu butayu",
+        "Igihuru cyaka ku musozi wera",
+        "Ubwato butwaye umuryango watoranijwe"
+      ],
+      "answer": "Umunara w'amatafari y'ibumba yatetse"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Yarohamye mu busitani bw'inyanja",
+        "Yazamuwe mu ngoro nziza cyane ikamushyira mu mutekano",
+        "Narokowe mu nda y'ifi nini",
+        "Yahawe icyubahiro cy'ubwami n'ubwenge bw'Imana",
+        "Yahindutse ivumbi kubera induru ikomeye"
+      ],
+      "answer": "Yarohamye mu busitani bw'inyanja"
+    }
+  },
+  "verseRef": "40:37",
+  "arabic": "أَسْبَـٰبَ ٱلسَّمَـٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَـٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَـٰذِبًۭا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ ۚ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍۢ",
+  "verse": "The ways into the heavens - so that I may look at the deity of Moses; but indeed, I think he is a liar.\" And thus was made attractive to Pharaoh the evil of his deed, and he was averted from the [right] way. And the plan of Pharaoh was not except in ruin. (40:37)"
+}

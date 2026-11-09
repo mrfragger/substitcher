@@ -1,0 +1,61 @@
+{
+  "title": "Umukama yajabutse impera z’isi",
+  "intro": "Tekereza umutware akomeye, yahawe inkomezi n’ububasha ku gihugu. Uwo mubare waratanguye ingendo zidasanzwe, ashika aho izuba rirenga n’aho rirasa, ahura n’abantu b’abanyamahanga kandi ahura n’ingorane ikomeye ivuye mu mahanga abiri yononekaye. None uwo murongozi w’amayobera ni nde?",
+  "clues": [
+    "Nari umutware yahawe ububasha n’uburyo bwo gushika mu mfuruka za kure cane z’isi.",
+    "Naciye mfata urugendo nja mu burengero maze mbona izuba rirenga mw’isoko ry’amazi ry’umuco.",
+    "Nahuye n’abantu bari hafi y’izuba rirashe batagira aho bokwikingira ubushuhe bwaryo.",
+    "Uwundi mubano warasavye imfashanyo yanje kurwanya amahanga abiri yononekaye azwi nka Gogi na Magogi.",
+    "Narubatse uruzitiro nkoresheje icuma n’umuringa ushonze kugira ngo nshobore kuzibika.",
+    "Namenyesheje ko iyo nzitizi ari ikigongwe c’Umukama wanje, kandi izogumaho gushika igihe cashinzwe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Zuli-Karnayini",
+        "Umuhanuzi Sulemani",
+        "Qarun",
+        "Taluti",
+        "Namurudi"
+      ],
+      "answer": "Zuli-Karnayini"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Kubaka uruzitiro rwo kurwanya Gogi na Magogi .",
+        "Kurokoka umwuzure munini",
+        "Kujugunywa mu muriro .",
+        "Kujabuka ikiyaga",
+        "Kurwanya igihangange"
+      ],
+      "answer": "Kubaka uruzitiro rwo kurwanya Gogi na Magogi ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Inzitizi y'icuma n'umuringa",
+        "Inkoni yahindutse inzoka .",
+        "Ubwato bw'ibiti .",
+        "Ingoro y'ibirahuri",
+        "Umurima w'imisukoni"
+      ],
+      "answer": "Inzitizi y'icuma n'umuringa"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Gogi na Magogi barazibiwe gushika igihe cashinzwe .",
+        "Yaciye aba umuhanuzi + .",
+        "Yahanwe kubera ubwibone .",
+        "Yanesheje isi yose .",
+        "Yarabayeho ibihe vyose + ."
+      ],
+      "answer": "Gogi na Magogi barazibiwe gushika igihe cashinzwe ."
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

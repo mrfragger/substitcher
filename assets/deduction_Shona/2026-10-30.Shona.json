@@ -1,0 +1,61 @@
+{
+  "title": "Mhirizhonga yeVafirwa",
+  "intro": "Wava kuda kusangana nemweya wakaedzwa nekuparadzana kukuru, une maziso aiziva mutauro wemisodzi asi mwoyo wake usina kumborasikirwa netariro. Munyaya yekunyepedzera, kushuvira, uye kusanganazve, muranda uyu akakurumbira waAllah akava chiratidzo chekushivirira kwenguva dzose. Ndiani akatsungirira makore ekurwadziwa kwakavanzika, asi kuona nemufaro zvakadzorerwa munguva imwe chete?",
+  "clues": [
+    "Ndiri muporofita ane zita rakava chiratidzo chekushivirira mukurasikirwa kukuru.",
+    "Ndakakomborerwa nevanakomana vakawanda, asi mumwe akatorwa kubva kwandiri nekuda kwegodo revamwe.",
+    "Rudo rwangu kune akarasika rwaive rwakakura zvekuti maziso angu akachinja kuva machena nekuda kwekusuwa, asi handina kumbonyunyuta kunze kwaAllah.",
+    "Ndakatuma vanakomana vangu kuti vadzokere kunotsvaga wandakanga ndarasikirwa naye nemunin'ina wake, ndichivakurudzira kuti vasarasikirwa netariro.",
+    "Mutakuri wemashoko akanaka paakasvika, hembe yakafukidzwa kumeso kwangu, uye kamwe kamwe nyika yakava pachena zvakare.",
+    "Ndinozivikanwa saIsraeri, uye kubva kuvanakomana vangu gumi nevaviri kwakabva madzinza gumi nemaviri erudzi rukuru."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muporofita Ya'qub (Jakobho)",
+        "Muporofita Yusuf (Josefa)",
+        "Muprofita Ishaq (Isaka)",
+        "Muporofita Ibrahim (Abrahama)",
+        "Muprofita Ayyub (Jobho)"
+      ],
+      "answer": "Muporofita Ya'qub (Jakobho)"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kuparadzana nemwanakomana wangu wandinoda kwemakore mazhinji",
+        "Kukandwa mumoto unopfuta",
+        "Yakamedzwa nehove huru",
+        "Kurwara nechirwere cheganda chakakomba",
+        "Kusava nemwana kusvika pakukwegura"
+      ],
+      "answer": "Kuparadzana nemwanakomana wangu wandinoda kwemakore mazhinji"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Hembe yaYusuf",
+        "Tsvimbo yaMusa",
+        "Areka yaNuh",
+        "Ngamera hadzi yaSalih",
+        "Mhete yaSulayman"
+      ],
+      "answer": "Hembe yaYusuf"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akadzorerwa kuona ndokusanganazve nemwanakomana wake",
+        "Akapihwa kukunda pamusoro pamambo ane hutsinye",
+        "Akasimudzwa kudenga ari mupenyu",
+        "Akagadzwa kuva mutongi weIjipiti",
+        "Kupiwa mwanakomana muukweguru sechishamiso"
+      ],
+      "answer": "Akadzorerwa kuona ndokusanganazve nemwanakomana wake"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

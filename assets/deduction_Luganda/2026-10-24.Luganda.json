@@ -1,0 +1,61 @@
+{
+  "title": "Okulabula Wansi w’Ensi",
+  "intro": "Teebereza ng’oyimiridde ku mabbali g’ekifo ekisimiddwa ekinene ng’amaloboozi gasituka okuva wansi ate ensi waggulu n’esirika. Qur’an ekuuma ekifo kino ng’okulabula: ekibiina kigaana ababaka bye baleeta, ekibonerezo kiggalawo, era n’okuwuluguma kwakyo kufuuka ekitundu ku bujulizi. Kibiina ki eky’omuggundu ekyogera okuyita mu nnyiriri ezo?",
+  "clues": [
+    "Tujjukirwa mu Qur’an ng’ekibiina ekitegeezebwa enkomerero emu gye tugabana okusinga erinnya ly’omuntu kinnoomu.",
+    "Twagaana obubaka obwaleeteddwa ababaka, wadde nga bye baayogera byali bituufu.",
+    "Obumanyirivu bwaffe obujjukirwa busibiddwa ku kitundu ekinene ekisaliddwa mu nsi, era ekintu ekyo kyafuuka ekitundu ku linnya lyaffe.",
+    "Ku lunaku olwalagirwa, baatuggyayo ne batusikambula okutuuka ku muliro.",
+    "Tetwasobola kwewozaako ku kibonerezo ekyo, era tetwasobola kuwulira kuwuuma kwakyo.",
+    "Amaaso gaffe gandikyusiddwa mu muliro, ne tugobebwa mu muliro; bwe twabuuzibwanga, twagamba nti tuli mu abo abatasobola kuddamu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Ba Swahaaba b’Omukutu",
+        "Eggwanga Linunulibwa mu Mataba Amanene",
+        "Abasinza Ennyana ya Zaabu",
+        "Ekibinja Kyakwese Munda Mu Mpuku y’Olusozi",
+        "Ekitundu Ekituusibwa okuva mu Kikoomi eky'Omuliro"
+      ],
+      "answer": "Ba Swahaaba b’Omukutu"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Basikambula ne basuulibwa mu Muliro",
+        "Yatuusibwa okuva mu kyokero ekirimu omuliro",
+        "Yasitulibwa bulungi okuyita mu mataba amanene",
+        "Yakuumibwa okumala ebyasa bingi munda mu mpuku",
+        "Yanunuddwa oluvannyuma lw’okusuulibwa mu luzzi"
+      ],
+      "answer": "Basikambula ne basuulibwa mu Muliro"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Omukutu oba ekinnya",
+        "Ennyanja ennene",
+        "Empuku ey’oku nsozi",
+        "Olubiri oluwanvu",
+        "Oluzzi lw’eddungu"
+      ],
+      "answer": "Omukutu oba ekinnya"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Nga tebasobola kwewozaako era nga tebasobola kuwulira kuwuuma kwa Muliro",
+        "Yanunuddwa era n’akkirizibwa okuyingira mu nsuku ezitaggwaawo",
+        "Yatuusibwa bulungi nga bayita mu mataba agasaanyaawo",
+        "Ekuumibwa otulo otuwanvu munda mu mpuku",
+        "Yassibwamu ekitiibwa n’obwakabaka obutaggwaawo"
+      ],
+      "answer": "Nga tebasobola kwewozaako era nga tebasobola kuwulira kuwuuma kwa Muliro"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

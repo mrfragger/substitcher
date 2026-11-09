@@ -1,0 +1,61 @@
+{
+  "title": "Codka Aamusnaanta ee Dooxada",
+  "intro": "Dib ugu noqo waqtigii dad awood badan oo mar helay yaab nool oo tijaabo ah. Kibir iyo madax adayg ayaa shaabadeeyay qaddarkooda. Ma raadraaci kartaa sheekada oo ma ogaan kartaa waxa ka dhacay marxaladdan isbeddelka ah ee cajiibka ah?",
+  "clues": [
+    "Waxaa la ii soo diray tijaabo rabbaani ah oo loo diray dad xoog badan oo loo yaqaan xooggooda iyo caasinimadooda.",
+    "Waxaan ahaa yaab gaar ah—kuwa aniga ila midka ah weligood kama soo muuqan dhexdooda.",
+    "Waxaan dadkayga la wadaagi jiray biyo laga cabbo ceel maalmaha kale.",
+    "Waxaa looga digay in wax kasta oo dhibaato ah oo iga soo gaara ay keeni doonto ciqaab degdeg ah.",
+    "Kuwii ugu geesisanaa ayaa iska indho tiray digniinta oo i dilay.",
+    "Geeridayda ka dib, qaylo onkod ah oo kor ka timid ayaa burburisay dadkii oo dhan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Hashii Saalix",
+        "Saca Muuse",
+        "Markabkii Nuux",
+        "Usha Muuse",
+        "Carshiga Bilqis"
+      ],
+      "answer": "Hashii Saalix"
+    },
+    "trial": {
+      "label": "Qaddarkayga",
+      "options": [
+        "Jidh dil ah oo la dilay",
+        "La qalay sidii allabari ahaan",
+        "Wuxuu isu beddelay abeeso",
+        "Laga badbaadiyay daad weyn",
+        "Si dhakhso ah ayaa loogu soo wareejiyay boqortooyo"
+      ],
+      "answer": "Jidh dil ah oo la dilay"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Ceel biyo ah",
+        "Loox dhagax ah",
+        "Geed gubanaya",
+        "Sanduuq alwaax ah",
+        "Carshi dahab iyo lacag ah"
+      ],
+      "answer": "Ceel biyo ah"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Waxaa burburiyay hal qaylo",
+        "Daad weyn ayaa ku qaraqmay",
+        "Waxaa gubay roob dhagaxyo ah",
+        "Waxaa burburisay dabayl xoog leh",
+        "Dhulku liqay"
+      ],
+      "answer": "Waxaa burburiyay hal qaylo"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

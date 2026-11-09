@@ -1,0 +1,61 @@
+{
+  "title": "Munyengeteri weNzvimbo Tsvene",
+  "intro": "Munguva dzehusiku dzakanyarara, mweya wakazvipira wakadana kuna Mwari weTsitsi mukati memasvingo matsvene enzvimbo tsvene. Makore ekutenda kusingazununguki nemoyo murefu akanga ava kuda kupiwa chishamiso chaizounza mufaro nenhaka yehuporofita.",
+  "clues": [
+    "Ndakapedza mazuva angu nehusiku hwangu ndichizvipira munzvimbo tsvene, ndichinyengetera kuna Ishe wangu nguva dzose.",
+    "Ndakakwegura, uye mudzimai wangu akanga asina mbereko, asi handina kumborasikirwa netariro mutsitsi dzaAllah.",
+    "Ndakapiwa mwanakomana, ainzi Yahya, uyo akava muporofita uye chiedza chekururama.",
+    "Ini pachangu ndaiva muporofita, ndakatumwa kuzotungamira vana veIsraeri.",
+    "Ndaiva wedzinza reMuporofita Harun uye ndaishanda semupristi muTembere.",
+    "Ndakapiwa basa rekutarisira Maryam, amai vaIsa, uye ndakaona zvishamiso zvake."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Zakaria",
+        "Muprofita Yahya",
+        "Muprofita Ilyas",
+        "Muprofita Ishaq",
+        "Muporofita Ya'qub"
+      ],
+      "answer": "Muprofita Zakaria"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Akazvarirwa mwanakomana akwegura",
+        "Kuponeswa kubva kumoto unopfuta",
+        "Kununurwa kubva mudumbu rehove",
+        "Akapona mafashamo makuru",
+        "Akaporeswa chirwere chakakomba"
+      ],
+      "answer": "Akazvarirwa mwanakomana akwegura"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Mihrab (nzvimbo yemunamato)",
+        "Kaaba",
+        "Gwenzi Rinopfuta",
+        "Areka yeSungano",
+        "Bako reVanomwe Vakarara"
+      ],
+      "answer": "Mihrab (nzvimbo yemunamato)"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akapihwa mwanakomana akarurama akazova muporofita",
+        "Yakaparadzwa nedutu rine simba",
+        "Kunyura mugungwa",
+        "Akaponeswa kuti asapiswe",
+        "Vakadzokera kuvanhu vavo mushure mekuponeswa kubva kuhove"
+      ],
+      "answer": "Akapihwa mwanakomana akarurama akazova muporofita"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

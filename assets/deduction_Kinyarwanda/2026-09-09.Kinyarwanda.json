@@ -1,0 +1,61 @@
+{
+  "title": "Ubugingo bwa Mbere bwahagaze",
+  "intro": "Kera cyane mbere yuko intumwa iyo ari yo yose ibaho ku isi, mbere yuko ibyanditswe byera bihishurwa, habayeho ikiremwa kidasanzwe. Ubu bugingo bwaremwe n'amaboko y'Imana, buhabwa ahantu h'ubwiza budasanzwe, kandi bwageragejwe mu buryo bwashoboraga kugaragara mu mateka yose y'abantu. Icyakurikiyeho ni inkuru y'intege nke, ukwihana kw'ukuri, n'iherezo ryahinduraga inzira y'irema burundu. Ushobora kwiyumvisha uwo ari we?",
+  "clues": [
+    "Naremwe n'amaboko y'Imbabazi nyinshi mu mukungugu wo hasi",
+    "Nahawe urugo rwiza rudasanzwe, aho nta nzara cyangwa umunaniro byashoboraga kunkoraho",
+    "Nategetswe kutigera negera igiti na kimwe, kuko cyari kibujijwe",
+    "Jye na mugenzi wanjye twarashutswe maze twegera igiti cyabujijwe, tunyuranyije n'itegeko ry'Umwami wacu",
+    "Twasubiye ku Mwami wacu twihannye by'ukuri, kandi tubabarirwa ibyaha byacu",
+    "Abantu bose baturutse kuri twe; ndi uwa mbere wanyuze kuri iyi si"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Umuhanuzi Adamu",
+        "Umuhanuzi Musa",
+        "Umuhanuzi Nuh",
+        "Intumwa y'Imana Yusufu",
+        "Umuhanuzi Isa"
+      ],
+      "answer": "Umuhanuzi Adamu"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Igishuko cy'igiti cyabujijwe",
+        "Guhangana na Farawo",
+        "Kubaka Isanduku nini",
+        "Igitambo cy'umwana ukundwa",
+        "Gutabwa mu muriro ukomeye"
+      ],
+      "answer": "Igishuko cy'igiti cyabujijwe"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Igiti Kibujijwe",
+        "Igihuru Gitwika",
+        "Abakozi ba Zahabu",
+        "Ubwato Bunini",
+        "Inyana y'izahabu"
+      ],
+      "answer": "Igiti Kibujijwe"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Yoherejwe ku isi nk'umurinzi wa mbere w'ikiremwamuntu",
+        "Farawo n'ingabo ze barohamye mu nyanja",
+        "Umwuzure ukomeye warimbuye ababi",
+        "Umuriro wabaye nk'ukonje kandi utuje",
+        "Yahawe ububasha ku bwami bwa Egiputa"
+      ],
+      "answer": "Yoherejwe ku isi nk'umurinzi wa mbere w'ikiremwamuntu"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

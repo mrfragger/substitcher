@@ -1,0 +1,61 @@
+{
+  "title": "Láti inú ìjìnlẹ̀ kànga náà",
+  "intro": "Ìrìn àjò ọkàn ọ̀dọ́ kan bẹ̀rẹ̀ pẹ̀lú ìran alágbára ti àwọn ẹ̀dá ọ̀run tí wọ́n tẹrí ba fún ọ̀wọ̀. Ìgbésí ayé ẹni yìí ni a fi ìwà ọ̀dàlẹ̀ tó jinlẹ̀ jùlọ láti ọ̀dọ̀ àwọn tí ó sún mọ́ ọn jùlọ hàn, lẹ́yìn náà ni wọ́n fi ọ̀pọ̀ ọdún ṣe ẹrú àti ìfisẹ́wọ̀n àìtọ́. Síbẹ̀ nípasẹ̀ ìgbàgbọ́ aláìlágbára àti ìtọ́sọ́nà Ọlọ́run, ẹni yìí dìde láti inú ihò ìsàlẹ̀ láti di ọ̀kan lára ​​àwọn ènìyàn alágbára jùlọ ní ìjọba ńlá kan. Ṣé o lè ṣàwárí ẹni tí ìránṣẹ́ Allah tó yanilẹ́nu yìí jẹ́?",
+  "clues": [
+    "Wọ́n fi ìran ìràwọ̀ mọ́kànlá, oòrùn, àti òṣùpá hàn mí tí wọ́n ń wólẹ̀ níwájú mi",
+    "Èmi ni ọmọ tí òbí mi fẹ́ràn gidigidi, èyí tí ó mú owú wá láàrín àwọn arákùnrin mi",
+    "Àwọn arákùnrin mi gbá mi mú, wọ́n bọ́ aṣọ mi, wọ́n sì jù mí sínú kànga jíjìn kan tí ó ṣókùnkùn biribiri kan",
+    "Wọ́n tà mí gẹ́gẹ́ bí ọjà ní ọjà kan, wọ́n sì gbé mi lọ sí ibi jíjìnnà sí ìlú ìbílẹ̀ mi.",
+    "Obìnrin alágbára kan gbìyànjú láti ba ọlá mi jẹ́, wọ́n sì jù mí sẹ́wọ̀n fún kíkọ̀ láti kọ̀ láti fi ẹ̀sùn kàn án.",
+    "Mo ní ẹ̀bùn ìtumọ̀ àlá, mo sì dìde láti ẹlẹ́wọ̀n tí a gbàgbé sí olórí mẹ́ḿbà ìjọba Íjíbítì"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Yúsọ́ọ̀fù",
+        "Wòlíì Mósà",
+        "Wòlíì Dáfídì",
+        "Wòlíì Ayyub",
+        "Wòlíì Súláímọ́nì"
+      ],
+      "answer": "Wòlíì Yúsọ́ọ̀fù"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Àwọn arákùnrin ẹni tó jù ú sínú kànga jíjìn kan",
+        "La ìkún omi ńlá kárí ayé já",
+        "Jíjẹ́ tí a jù sínú iná ìléru",
+        "Bí a ṣe ń bá jagunjagun ńlá kan jà ní ojú ogun",
+        "Jíjẹ́ tí ẹja ńlá gbé mì"
+      ],
+      "answer": "Àwọn arákùnrin ẹni tó jù ú sínú kànga jíjìn kan"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Kànga jíjìn kan tí ó gbẹ ní aginjù kan",
+        "Ọkọ̀ ńlá onígi kan lórí òkè ńlá kan",
+        "Ọ̀pá tí ó di ejò",
+        "Ìtẹ́ ológo ńlá tí ó ní ẹwà ńlá",
+        "Ọkọ̀ kan àti òkúta márùn-ún dídán"
+      ],
+      "answer": "Kànga jíjìn kan tí ó gbẹ ní aginjù kan"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ó di olórí mẹ́ńbà ìjọba Íjíbítì, ó sì tún padà sí ìdílé àyànfẹ́ rẹ̀",
+        "Kọ́ ọkọ̀ ojú omi ńlá kan, ó sì pe àwọn ènìyàn sí ìgbàgbọ́",
+        "Ó mú gbogbo orílẹ̀-èdè kan jáde kúrò ní oko ẹrú ní Íjíbítì",
+        "A fún un ní ìjọba àti agbára lórí ohun tí a kò rí",
+        "Wọ́n fún ni ní sùúrù nínú àìsàn líle, wọ́n sì wòsàn"
+      ],
+      "answer": "Ó di olórí mẹ́ńbà ìjọba Íjíbítì, ó sì tún padà sí ìdílé àyànfẹ́ rẹ̀"
+    }
+  },
+  "verseRef": "40:34",
+  "arabic": "وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَـٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ",
+  "verse": "And Joseph had already come to you before with clear proofs, but you remained in doubt of that which he brought to you, until when he died, you said, 'Never will Allāh send a messenger after him.' Thus does Allāh leave astray he who is a transgressor and skeptic.\" (40:34)"
+}

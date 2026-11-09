@@ -1,0 +1,60 @@
+{
+  "title": "Kutongwa Pasi Pemafungu",
+  "intro": "Muprofita, akaremerwa nebasa rake, akaita sarudzo yakamuendesa kure nevanhu vake ndokupinda mumuedzo usingatarisirwi. Rwendo rwake rwakachinja zvinoshamisa, ruchiedza kutenda kwake nemwoyo murefu wake nenzira yakadzama. Unogona here kuwana ruzivo rwechiitiko ichi chinoshamisa kubva pazviratidzo zvakapihwa?",
+  "clues": [
+    "Muprofita akatumwa kuvanhu, asi akabva nekukurumidza, achinzwa kusafara nekurambwa kwavo.",
+    "Rwendo rwake rwakamuendesa kugungwa, kwaakakwira chikepe chakaremerwa zvikuru chichitsvaga nzira yekuyambuka.",
+    "Dutu guru rakamuka, richityisidzira chikepe, uye sarudzo yakaitwa yekukanda munhu mumwe chete mumvura kuti mutoro ureruke, zvakasarudzwa nemijenya.",
+    "Akamedzwa nechisikwa chepakadzika, chiitiko chinoshamisa chakarongwa nekuda kwaMwari.",
+    "Ari mukati medumbu rechisikwa, akadana kuna Ishe wake, achipfidza uye achikudza Allah murima.",
+    "Mushure menguva yekukumbira zvikuru, akakandwa pamhenderekedzo isina chinhu, asina simba asi ari mupenyu, uye gare gare akadzoka akawana vanhu vake vatenda pakupedzisira."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Muporofita/Munhu",
+      "options": [
+        "Muprofita Nuh",
+        "Muporofita Lut",
+        "Muprofita Musa",
+        "Muprofita Yunus",
+        "Muprofita Yusuf"
+      ],
+      "answer": "Muprofita Yunus"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Mafashamo aNuh",
+        "Kuparadzwa kweSodhoma",
+        "Rwendo mudumbu rehove huru",
+        "Kupatsanurwa kwegungwa",
+        "Kuzarurwa kwegwenzi rinopfuta"
+      ],
+      "answer": "Rwendo mudumbu rehove huru"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Areka",
+        "Gomo reSinai",
+        "Tsvimbo yaMusa",
+        "Hove Huru",
+        "Tsime raYusuf"
+      ],
+      "answer": "Hove Huru"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Sungano itsva nevanhu",
+        "Kuzvarwa kunoshamisa kwevanhu vake",
+        "Umambo hwakagadzwa nokuda kwedzinza rake",
+        "Kudzokera kuvanhu vake avo vakazotenda",
+        "Kukunda mutongi ane hutsinye"
+      ],
+      "answer": "Kudzokera kuvanhu vake avo vakazotenda"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

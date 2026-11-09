@@ -1,0 +1,61 @@
+{
+  "title": "Ɔfrɛ a Ɛbaa Mmere Ahorow no Mu",
+  "intro": "Fa no sɛ ɔkra bi a ɔno nkutoo gyinaa anibuei mũ bi anim, a wasi ne bo sɛ ɔde botae a enhinhim bɛkyerɛ wɔn kwan asan afi akwankyerɛ a ɛnteɛ mu. Wɔ mfehaha pii mu no, wɔpoo nkrasɛm no, wodii ho fɛw, na wɔpoo—nanso mmɔdenbɔ no annyae da. Awiei koraa no, akontaabu kɛse bi bae, na nnipa kakraa bi pɛ na wɔforoo nkwagye kaa ɔkra a ogyina pintinn yi ho. So wobɛtumi ahunu saa akontabuo yi afiri Kur’aan mu?",
+  "clues": [
+    "Wɔsomaa me sɛ kɔkɔbɔfoɔ maa nkurɔfoɔ a wɔayera wɔ wɔn ankasa akwan so.",
+    "Metoo nsa frɛɛ wɔn sɛ wɔnhwehwɛ bɔne fafiri na wɔnsan wɔn akyi mfi wɔn bɔne ho, nanso wɔdanee wɔn ho.",
+    "Wɔ ɔsoro ahyɛde ase no, meyɛɛ anwenne kɛse bi bere a na me nkurɔfo rehwɛ me na wɔredi me ho fɛw no.",
+    "Mefrɛɛ m’Awurade a mennyae —awiei koraa no Ɔbuaa, na nsuo hwie gui firii wim yɛɛ asuten.",
+    "Me ne wɔn a wogye dii no foroo po so hyɛn no bere a nsuyiri no kɔɔ soro sen asase no.",
+    "Meteɛɛm frɛɛ obi a waka akyi, ka kyerɛɛ wɔn sɛ wɔnkɔ guankɔbea wɔ bepɔw bi so, nanso na ahyɛde no aba dedaw."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Nuh",
+        "Ɔkɔmhyɛni Ibrahim",
+        "Ɔkɔmhyɛni Musa",
+        "Odiyifo Hud",
+        "Ɔkɔmhyɛni Salih"
+      ],
+      "answer": "Ɔkɔmhyɛni Nuh"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Adaka kɛse a wɔreyɛ na wɔanya nkwa wɔ wiase nyinaa nsuyiri mu",
+        "Wɔtow no gu ogya a ɛredɛw mu",
+        "Otirimɔdenfo bi ne ne nkonyaayifo a wɔwɔ tumi a ɔne no hyia",
+        "Mpataa kɛse bi a ɔbɛmene no",
+        "Yoma babere kronkron bi a wokum no ho adanse"
+      ],
+      "answer": "Adaka kɛse a wɔreyɛ na wɔanya nkwa wɔ wiase nyinaa nsuyiri mu"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Nnua adaka kɛse bi a ɛwɔ nsuyiri a ɛrehuruw so",
+        "Bon kronkron bi a tete abo amamfõ wom",
+        "Ɔbodan a emu dɔ a na ahokafo dae mfehaha pii",
+        "Whale kɛse bi yafunu a ɛwɔ po mu bun mu",
+        "Abo bepɔw a ɛkorɔn wɔ sare so"
+      ],
+      "answer": "Nnua adaka kɛse bi a ɛwɔ nsuyiri a ɛrehuruw so"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wɔne gyidifo a wɔwɔ po so hyɛn no mu gyee wɔn nkwa",
+        "Wɔnam ɔsoro ahyɛde so gyee no fii ogya no mu a hwee anyɛ no",
+        "Di atubrafo kɛse bi anim fii ahenni a tumi wom mu",
+        "Tow fi mpataa no mu kɔ mpoano a ɛso yɛ kwa",
+        "Ɔnam anwonwade sɛnkyerɛnne bi so dii nkurɔfo kwan fii bɔneyɛ ho"
+      ],
+      "answer": "Wɔne gyidifo a wɔwɔ po so hyɛn no mu gyee wɔn nkwa"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

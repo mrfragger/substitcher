@@ -1,0 +1,61 @@
+{
+  "title": "Markhaatiyaasha Aan Xasiloonayn",
+  "intro": "Bal qiyaas waqti iimaanka lagu tijaabiyay dab, kalsooni aan kala go 'lahaynina ay noqotay caasinimada ugu dambeysa. Waxaa laguu xilsaaray inaad soo bandhigto aqoonsiga koox sheekadooda lagu sheegay Qur'aanka, sheeko iimaan qoto dheer oo ka dhan ah kalitalisnimada xad dhaafka ah. Soo bandhig tilmaamaha si aad u ogaato cidda ay ahaayeen nafahan, iyo duruufaha aan caadiga ahayn ee ay la kulmeen.",
+  "clues": [
+    "Waxaan ku adkeysanay kalsoonideenna, inkastoo cadaadis weyn la saaray inaan ka noqonno iimaankeenna.",
+    "Waxaa na bartilmaameedsaday taliye awood leh oo doonayay inuu damiyo iftiinka tawxiidka.",
+    "Waxaan aragnay calaamado iyo mucjisooyin waaweyn, haddana kuwa na dulmiyay waxay ahaayeen kuwo aan taxaddar lahayn.",
+    "Waxaan u adkaysannay hab xun oo cadaadis ah oo loogu talagalay in lagu cabsi geliyo dadka kale inay is dhiibaan.",
+    "Waxaa naloogu tuuray dab ololaya, haddana adkaysigeennu wuxuu na siiyay boos sare oo aan la leenahay Alle.",
+    "Sheekadeenna waxaa lagu sheegay Suurad loogu magac daray xiddigaha cirka, iyadoo ka digaysa qaddarka kuwa dhibaateeya mu'miniinta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Yaan nahay?",
+      "options": [
+        "Reer Thamuud",
+        "Dadka 'Ad'",
+        "Dadka Godka ku nool",
+        "Reer Midyaan",
+        "Dadka Maroodiga"
+      ],
+      "answer": "Dadka Godka ku nool"
+    },
+    "trial": {
+      "label": "Cadaadiskayaga",
+      "options": [
+        "In lagu qarqiyo daad",
+        "Dabaysha kulul oo ku gubtay",
+        "In lagu tuuro god dab ah",
+        "Dhulku wuxuu liqaa",
+        "In loo beddelo daayeerro"
+      ],
+      "answer": "In lagu tuuro god dab ah"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Daad aad u weyn",
+        "Dhulgariir weyn",
+        "God qoto dheer oo gubanaya",
+        "Sanam xoog badan",
+        "Abaar ba'an oo dhacday"
+      ],
+      "answer": "God qoto dheer oo gubanaya"
+    },
+    "outcome": {
+      "label": "Qaddarkeenna Ugu Dambeeya",
+      "options": [
+        "Waxaa la siiyay boqortooyo dhulka ah.",
+        "Waxaa badbaadiyay baxsasho mucjiso ah.",
+        "Waxay gaareen shahiidnimo iyo abaalmarin waarta.",
+        "Waxaa loo beddelay nooc ka duwan.",
+        "Waxaa la siiyay hanti iyo barwaaqo aad u badan."
+      ],
+      "answer": "Waxay gaareen shahiidnimo iyo abaalmarin waarta."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

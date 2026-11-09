@@ -1,0 +1,61 @@
+{
+  "title": "Alábàákẹ́gbẹ́ Àìyẹ́yìn Nínú Ìdánwò Wúrà",
+  "intro": "Nínú òjìji wòlíì ńlá kan, wọ́n yan ẹ̀mí ọ̀rọ̀ sísọ àti ìgbàgbọ́ láti ran àwọn ènìyàn lọ́wọ́ nínú iṣẹ́ pàtàkì kan. Ẹni yìí dúró ṣinṣin nígbà tí àwọn ènìyàn ń ṣiyèméjì, wọ́n ń wàásù lòdì sí ẹ̀ṣẹ̀ tó hàn gbangba tó ń halẹ̀ mọ́ ohun tó jẹ́ ìpìlẹ̀ ìgbàgbọ́ Ọlọ́run kan ṣoṣo. Nígbà tí wòlíì náà padà wá láti rí ìparẹ́ àwọn ènìyàn, ààbò ẹni yìí kì í ṣe ti ẹ̀bi bí kò ṣe ti iṣẹ́ àti ìbẹ̀rù ìpínyà. Ta ni ìránṣẹ́ Allah onífọkànsìn yìí?",
+  "clues": [
+    "Allah yan mi fun ojuse mimọ pẹlu omiran, ati pe ipa mi jẹ ti atilẹyin ati ikede.",
+    "Wọ́n fún mi ní òye tó ṣe kedere nípa ọ̀rọ̀ sísọ, mo sì tẹ̀lé ìránṣẹ́ kan láti kojú alátakò alágbára kan.",
+    "Nígbà ìrìn àjò pàtàkì kan, ìránṣẹ́ náà nìkan gun òkè kan, ó sì fi mí sílẹ̀ láti máa ṣọ́ àwọn ènìyàn náà.",
+    "Nígbà tí wọn kò sí níbẹ̀, àwọn ènìyàn náà ṣe ère wúrà kan, mo sì bẹ̀ wọ́n pé kí wọ́n dúró ṣinṣin, ṣùgbọ́n wọ́n kọ̀ láti gbà mí nímọ̀ràn.",
+    "Nígbà tí ìránṣẹ́ náà padà dé, pẹ̀lú ìbínú àti ìbànújẹ́, wọ́n mú mi, ṣùgbọ́n mo ṣàlàyé pé agbára mi ti pọ̀ jù, mo sì bẹ̀rù láti fa ìyapa láàárín wọn.",
+    "Èmi ni wòlíì tí ó dúró lẹ́gbẹ̀ẹ́ Mósè, arákùnrin mi, tí ó ń pín ẹrù rẹ̀, tí ó sì dúró ṣinṣin lòdì sí ìbọ̀rìṣà."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Hárún",
+        "Wòlíì Mósà",
+        "Wòlíì Ísà",
+        "Wòlíì Dáfídì",
+        "Wòlíì Zakariyya"
+      ],
+      "answer": "Wòlíì Hárún"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Àwọn ènìyàn jọ́sìn ère ọmọ màlúù wúrà láìka ìkìlọ̀ sí",
+        "Àwọn ènìyàn gbé mi sínú iná tí ń jóná",
+        "Ẹja ńlá kan gbé mi mì",
+        "Wọ́n fi ẹ̀sùn èké kàn mí ní àtìmọ́lé",
+        "Wọ́n lé mi kúrò ní ìlú mi nítorí ìwàásù"
+      ],
+      "answer": "Àwọn ènìyàn jọ́sìn ère ọmọ màlúù wúrà láìka ìkìlọ̀ sí"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ọmọ màlúù wúrà náà",
+        "Igbó Tí Ń jóná",
+        "Ọ̀pá tí ó di ejò",
+        "Àwọn Tábìlì Májẹ̀mú",
+        "Àpótí Májẹ̀mú"
+      ],
+      "answer": "Ọmọ màlúù wúrà náà"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Wọ́n dá mi sílẹ̀, mo sì tẹ̀síwájú iṣẹ́ ìránṣẹ́ mi",
+        "Wọ́n fìyà jẹ mí nítorí ẹ̀ṣẹ̀ àwọn ènìyàn náà",
+        "Wọ́n fún mi ní orílẹ̀-èdè tuntun láti tọ́ mi sọ́nà",
+        "A gbé mi lọ sí ọ̀run láàyè",
+        "Wọ́n fi mí ṣe alákòóso lórí ìjọba kan"
+      ],
+      "answer": "Wọ́n dá mi sílẹ̀, mo sì tẹ̀síwájú iṣẹ́ ìránṣẹ́ mi"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

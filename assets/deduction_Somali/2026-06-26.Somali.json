@@ -1,0 +1,61 @@
+{
+  "title": "Culayska Hadiyad La Diiday",
+  "intro": "Bilowgii taariikhda aadanaha, markii dhulku uu weli yar yahay oo adduunkuna neeftiisii ​​ugu horreysay qabtay, naf ayaa hor istaagtay Abuuraha iyadoo la bixinayo qurbaan hooseeya. Qurbaankaas waxaa lagu miisaamay dheelitirka aqbalaadda rabbaaniga ah - waxaana la ogaaday inuu liitay. Waxa xigay ma ahayn sheeko cafis ah, laakiin waa qalbi uu masayrku cunay, taasoo horseeday fal aan laga noqon karin oo soo noqnoqon doona wakhti kasta. Kani waa sheekada qof magaciisa la mid noqday caddaalad-darrada ugu weyn ee abid la sameeyo.",
+  "clues": [
+    "Waxaan soo ifbaxay anigoo ka mid ah carruurtii ugu horreysay ee abid dhasha, oo uu dhalay waalid aad si fiican u taqaan sheekadiisa.",
+    "Mar ayaan allabaryo u bixiyay Alle, laakiin igama aqbalin — inkastoo hadiyadda walaalkay si nimco leh loo aqbalay.",
+    "Xasad iyo caro ayaa qalbigayga ku xididaystay, waxaana ku hanjabay inaan soo afjari doono nolosha qaraabadayda.",
+    "Walaalkay ayaa iiga digay inaan Alle ka cabsado, laakiin kibirkaygu ma ii ogolaanayo inaan dhegeysto.",
+    "Daqiiqad daciifnimo daran ah, waxaan ku sameeyay fal aan la sheegi karin walaalkay.",
+    "Dabadeed, xitaa ma aanan aqoon sida loo qariyo waxa aan sameeyay - ilaa la ii soo diray xayawaan dhulka ka mid ah si uu wax ii baro."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Qabiil (Qaa'in)",
+        "Haabiil (Haabiil)",
+        "Wiilkii Nabi Nuux",
+        "Nabi Ismaaciil",
+        "Nabi Yuusuf"
+      ],
+      "answer": "Qabiil (Qaa'in)"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Bixinta allabari la diiday, taasoo keentay dilkii ugu horreeyay",
+        "Dhisidda munaarad dheer si ay u gaarto samada",
+        "In lagu tuuro dab kulul oo iimaankiisa awgiis ah",
+        "Inaad wiilkeeda u hurto addeecidda Alle.",
+        "Kalluun weyn oo uu liqo isagoo ka cararaya waajibkiisa awgeed"
+      ],
+      "answer": "Bixinta allabari la diiday, taasoo keentay dilkii ugu horreeyay"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Tuke uu Alle soo diray si uu u muujiyo aaska",
+        "Daad weyn oo dad dhan qarqiyay",
+        "Ul isu beddeshay abeeso nool",
+        "Hashii oo ka soo baxday buur dhagax ah",
+        "Carshi weyn oo ay qaadeen dabaylo xooggan"
+      ],
+      "answer": "Tuke uu Alle soo diray si uu u muujiyo aaska"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Ka mid noqday dadkii ka xumaaday, oo ay culays ku noqotay dambigii ugu horreeyay ee abid la galo",
+        "Alle ayaa cafiyay oo Janno waarta siiyay",
+        "Waxaa loo qaaday boos sare oo wax sii sheegid iyo xigmad ah",
+        "Waxaa lagu badbaadiyay naxariista rabbaaniga ah ka dib markii laga soo yeeray mugdiga qoto dheer",
+        "Waxaa la siiyay xukunka jinka, dabaysha, iyo badaha"
+      ],
+      "answer": "Ka mid noqday dadkii ka xumaaday, oo ay culays ku tahay dambigii ugu horreeyay ee abid la galo"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

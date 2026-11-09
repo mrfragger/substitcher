@@ -1,0 +1,61 @@
+{
+  "title": "diini raqti",
+  "intro": "wakti dunes darret, tokkel dirab aydaadu aggiriqqe sinni kibal kee amaanat kaxxam qilsa too rooci quuka tet yiggilem duudak yen. Ummatta folli kee dahab fanah gacte wak, inki num diggalsimak suge—ken qagitaak seeco abak, sabri keenih xaaqimak, qusba xaganah qilsa luk suge. tah inki numuy doorime numih aydaadu, waziyer, kee diini raqti uddur diini dacrise. Atu tama diggale roocih mamaxxaga baxxaqissam duuddaa?",
+  "clues": [
+    "Anu kaxxa nabiyyih qabala tasgallem too doorime Yalla lih saanih yaabam diini qalel.",
+    "Yi toobokoyti inki adda Yalla xaaqimeh catotta qaduk yaabam kaxxa zulmi.",
+    "Anu Yalli dooreh sugem yi toobokoh xaqut cateyna kee waziir akkuk sooluh.",
+    "itta luk nanu foocal qanxaffe le miraacay fayyale goytitteh seeco essera.",
+    "Yi toobokoyti qalel Yalla lih walalen wak, ni ummatta sinni dahabak sanam sinnih bicsen.",
+    "Anu Muusah toobokoyta kinniyo, Yalli kay wazirih kaa hee, Qur'aanak migaq kak galab kak xage."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Anu miyyaay?",
+      "options": [
+        "Nabiyyi Harun (Aaron)",
+        "Nabi Muusa",
+        "Nabi Dawuud",
+        "Nabi Yaqub",
+        "Nabi Ishaq"
+      ],
+      "answer": "Nabiyyi Harun (Aaron)"
+    },
+    "trial": {
+      "label": "Gibbatu/Tekkooka",
+      "options": [
+        "Ruga qibaadah taqabi",
+        "Nuuc kaxxa weeqi",
+        "Badri qedeb",
+        "Samud Baysi",
+        "Sodoomuk finqa"
+      ],
+      "answer": "Ruga qibaadah taqabi"
+    },
+    "location": {
+      "label": "Lafa le liyyitte",
+      "options": [
+        "dahab ruga",
+        "Nuuc Doonik",
+        "cararta garbo",
+        "Hira gabla",
+        "Sheebah Taaqeh"
+      ],
+      "answer": "dahab ruga"
+    },
+    "outcome": {
+      "label": "Xalu",
+      "options": [
+        "Carbi sinna Yalli Diggoose",
+        "Firqawni Yaqbime",
+        "Kaabak Xisne.",
+        "Baddi Amaanah Tabiyyi",
+        "Jannat fanah yawqeenimi"
+      ],
+      "answer": "Carbi sinna Yalli Diggoose"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

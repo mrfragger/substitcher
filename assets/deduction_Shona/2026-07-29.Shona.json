@@ -1,0 +1,61 @@
+{
+  "title": "Kutsvaga Kwedare",
+  "intro": "Munzira dzesimba, munhu ane chinzvimbo chepamusoro akafarira muranda ane runako rwakafanana nerwenyika. Kufarira uku kwakatungamira kune zviitiko zvakatevedzana zvaizoedza kuvimbika, kuburitsa chokwadi chakavanzika, uye pakupedzisira kusimbisa kusava nemhosva kwemuranda.",
+  "clues": [
+    "Ndaigara munyika yeNire, mumuzinda une simba guru.",
+    "Jaya rakauya mumba mangu, uye kuvapo kwaro kwakavhiringidza nyika yangu.",
+    "Ndakaedza kumunyengedza, asi akatsvaga utiziro kuna Ishe wake.",
+    "Ndakabvarura nguo yake kubva kumashure, asi humbowo hwakaratidza kuti ndainyengera.",
+    "Kuti ndinyaradze makuhwa evakadzi vepamusoro, ndakavakoka kumusangano ndokuvaisa zvinhu zvakapinza mumaoko avo.",
+    "Pakupedzisira, ndakabvuma pachena mhosva yangu, ndichibvuma chokwadi pamberi pamambo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Mudzimai waAl-Aziz",
+        "Asiya (Mukadzi waFarao)",
+        "Bilqis (Mambokadzi weShebha)",
+        "Maryam (Amai vaIsa)",
+        "Amai vaMusa"
+      ],
+      "answer": "Mudzimai waAl-Aziz"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Akaedza kunyengedza Muporofita Yusuf",
+        "Akaedza kuuraya Muporofita Musa",
+        "Akataura kuti ndimwarikadzi",
+        "Akavaka shongwe yekupikisa Allah",
+        "Akatungamira hondo kurwisa Makkah"
+      ],
+      "answer": "Akaedza kunyengedza Muporofita Yusuf"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Hembe yakabvaruka kubva kumashure",
+        "Mhuru yendarama",
+        "Tsvimbo yakashanduka kuita nyoka",
+        "Ngamera hadzi",
+        "Rambi"
+      ],
+      "answer": "Hembe yakabvaruka kubva kumashure"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akabvuma chokwadi uye akabvuma",
+        "Akanyura pamwe chete neuto rake",
+        "Akashanduka kuita shongwe yemunyu",
+        "Akamedzwa nenyika",
+        "Akaparadzwa nemhepo inorira"
+      ],
+      "answer": "Akabvuma chokwadi uye akabvuma"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Dadkii Baaba'ay",
+  "intro": "Waxaad hor taagan tahay dhawaaqyada bulsho sheekadoodu ku qoran tahay hirarka. Naftu waxay maqleen baaq, waxay doorteen diidmo, waxayna la kulmeen cawaaqib dib u qaabeeyay dhulka. Waa kuma, maxaase ku dhacay adduunkooda?",
+  "clues": [
+    "Waagii hore ayaan noolayn, waxaana naga yimid rasuul naga mid ah.",
+    "Waxaan caabudnay shan sanam, waana diidnay inaan ka tagno.",
+    "Waan ku jeesjeesannay rasuulka oo waxaan ku eedaynay inuu marin habaabiyay.",
+    "Waxaan ka dalbanay inuu ciqaabta keeno haddii uu run sheegayo.",
+    "Waxaan aragnay cirka oo roob da'aya iyo dhulku oo soo da'aya ilo.",
+    "Waxaan fuulnay meelaha sare si aan u baxno, laakiin hirarku way naga soo gaadheen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Yaan nahay?",
+      "options": [
+        "Dadkii Nuux",
+        "Dadka 'Ad'",
+        "Reer Thamuud",
+        "Dadka reer Luut",
+        "Dadka reer Madiina"
+      ],
+      "answer": "Dadkii Nuux"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Waxaa naga qarqiyay daad weyn",
+        "Waxaa na burburiyay duufaan xooggan",
+        "Waxaa naga dhintay qarax weyn",
+        "Dhulku wuu na liqay",
+        "Dhagaxyo ayaa nalaga soo tuuray cirka"
+      ],
+      "answer": "Waxaa naga qarqiyay daad weyn"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Daad weyn",
+        "Dabaylo xoog leh",
+        "Roob dhagaxyo ah",
+        "Qarax kulul",
+        "Dhulgariir"
+      ],
+      "answer": "Daad weyn"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Dhammaanteen waan halaagnay marka laga reebo mu'miniinta Nuux.",
+        "Waxaa naloo beddelay daanyeer",
+        "Waxaa nalooga tagay sidii burbur u ah dadka safarka ah",
+        "Waxaa naloo rogay cusbo",
+        "Nasasho ayaa naloo siiyay"
+      ],
+      "answer": "Dhammaanteen waan halaagnay marka laga reebo mu'miniinta Nuux."
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

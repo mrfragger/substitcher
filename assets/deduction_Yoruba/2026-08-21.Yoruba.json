@@ -1,0 +1,61 @@
+{
+  "title": "Òjìji Lẹ́yìn Ìtẹ́",
+  "intro": "O dúró láàárín ààfin ìjọba àtijọ́ alágbára kan, níbi tí alákòóso alágbára kan ti kéde ara rẹ̀ gẹ́gẹ́ bí ọlọ́run lórí gbogbo ènìyàn. Ẹgbẹ́ alákòóso yìí ni ìránṣẹ́ olùfọkànsìn kan dúró sí, tí a fi àwọn ìfẹ́-ọkàn ńláńlá ìjọba lé lọ́wọ́. Wọ́n papọ̀ ń gbèrò àti gbèrò, wọ́n kọ̀ láti fetí sí ìkìlọ̀ ìránṣẹ́ kan tí a rán láti tọ́ wọn sọ́nà. Ṣé o lè ṣàwárí ẹni tí ìránṣẹ́ olóòótọ́ yìí jẹ́?",
+  "clues": [
+    "Mo gbé ní ìjọba alágbára kan tí ẹni alágbára kan ń ṣàkóso, tí ó sọ pé òun ni Ọlọ́run lórí gbogbo ènìyàn.",
+    "Mo ṣiṣẹ́ gẹ́gẹ́ bí òjíṣẹ́ tí a fọkàn tán fún ọba yìí, mo sì ń ṣe gbogbo ohun tí wọ́n fẹ́ àti àṣẹ wọn.",
+    "Nígbà tí ojiṣẹ Allah kan dé ilẹ̀ wa tí ó ń pè wá sí òtítọ́, èmi àti alákòóso mi kọ̀ láti gbọ́.",
+    "Wọ́n pàṣẹ fún mi láti dá iná ńlá kan kí n sì pèsè àwọn bíríkì amọ̀ sílẹ̀ fún ìkọ́lé ńlá kan.",
+    "Alákòóso mi fẹ́ gbé ilé gíga kan kalẹ̀ tó bẹ́ẹ̀ tí yóò fi dé ọ̀run fúnra rẹ̀.",
+    "Níkẹyìn, a gbá alákòóso mi, àwọn ọmọ ogun wa, àti èmi lọ, a sì rì sínú omi òkun."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Hámánì",
+        "Dhul-Kifl",
+        "Jibreel",
+        "Mikail",
+        "Harut"
+      ],
+      "answer": "Hámánì"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Kíkọ́ ilé gogoro kan láti dé ọ̀run",
+        "Jíjẹ́ tí a jù sínú iná tí ń jó",
+        "Jíjí àwọn ènìyàn kan dìde kúrò nínú ìjọsìn àwọn ère òkúta",
+        "Pípín òṣùpá gẹ́gẹ́ bí àmì àtọ̀runwá",
+        "Ṣíṣẹ́gun ìlú ńlá kan nípasẹ̀ àṣẹ Ọlọ́run"
+      ],
+      "answer": "Kíkọ́ ilé gogoro kan láti dé ọ̀run"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ilé gogoro tí wọ́n fi àwọn bíríkì amọ̀ yan",
+        "Ikùn ẹja ńlá kan",
+        "Orisun omi mímọ́ kan ní aṣálẹ̀",
+        "Igbó kan tí ń jó lórí òkè mímọ́ kan",
+        "Ọkọ̀ ayọ́kẹ́lẹ́ kan tó gbé ìdílé tí a yàn"
+      ],
+      "answer": "Ilé gogoro tí wọ́n fi àwọn bíríkì amọ̀ yan"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Tí a rì sínú ibú omi òkun",
+        "Wọ́n gbé e sókè sí ààbò nínú ààfin àgbàyanu kan",
+        "A gbà á kúrò nínú ikùn ẹja ńlá kan",
+        "A fi ọlá ọba àti ọgbọ́n àtọ̀runwá bọlá fún wọn",
+        "Ó di eruku nípasẹ̀ igbe tí ó lù ú"
+      ],
+      "answer": "Tí a rì sínú ibú omi òkun"
+    }
+  },
+  "verseRef": "40:37",
+  "arabic": "أَسْبَـٰبَ ٱلسَّمَـٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَـٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَـٰذِبًۭا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ ۚ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍۢ",
+  "verse": "The ways into the heavens - so that I may look at the deity of Moses; but indeed, I think he is a liar.\" And thus was made attractive to Pharaoh the evil of his deed, and he was averted from the [right] way. And the plan of Pharaoh was not except in ruin. (40:37)"
+}

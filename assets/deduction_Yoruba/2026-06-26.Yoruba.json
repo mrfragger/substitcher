@@ -1,0 +1,61 @@
+{
+  "title": "Ẹrù Ẹ̀bùn Tí A Kọ̀",
+  "intro": "Ní ìbẹ̀rẹ̀ ìtàn ènìyàn, nígbà tí ilẹ̀ ayé ṣì wà ní kékeré tí ayé sì gba ẹ̀mí àkọ́kọ́ rẹ̀, ọkàn kan dúró níwájú Ẹlẹ́dàá pẹ̀lú ẹbọ rírẹlẹ̀. Wọ́n wọn ẹbọ náà ní ìwọ̀n ìtẹ́wọ́gbà Ọlọ́run — wọ́n sì rí i pé kò ní sí. Ohun tó tẹ̀lé e kò jẹ́ ìtàn ìdáríjì, bí kò ṣe ti ọkàn tí owú ti gbá, èyí tó yọrí sí ìṣe tí kò ṣeé yípadà tí yóò máa dún ní gbogbo ìgbà. Ìtàn ẹni tí orúkọ rẹ̀ di ohun tí a mọ̀ sí àìṣòdodo àkọ́kọ́ tí a tíì ṣe rí.",
+  "clues": [
+    "Mo wa ni aye gege bi ọkan ninu awọn ọmọ akọkọ ti a bi, ti a bi nipasẹ obi kan ti o mọ itan rẹ daradara.",
+    "Mo ti rubọ si Allah lẹẹkan ri, ṣugbọn wọn ko gba a lọwọ mi — botilẹjẹpe a gba ọrẹ arakunrin mi pẹlu oore-ọfẹ.",
+    "Ìlara àti ìbínú gbòòrò sí ọkàn mi, mo sì halẹ̀ mọ́ pé mo máa pa àwọn ìbátan mi run.",
+    "Ẹ̀gbọ́n mi kìlọ̀ fún mi pé kí n bẹ̀rù Allah, ṣùgbọ́n ìgbéraga mi kò jẹ́ kí n gbọ́.",
+    "Nínú àìlera ńlá kan, mo ṣe ohun tí kò ṣeé sọ sí arákùnrin mi.",
+    "Lẹ́yìn náà, mi ò tilẹ̀ mọ bí mo ṣe lè fi ohun tí mo ti ṣe pamọ́ — títí di ìgbà tí wọ́n rán ẹ̀dá ayé kan láti kọ́ mi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Qabil (Kaini)",
+        "Hábẹ́lì (Ábẹ́lì)",
+        "Ọmọ Ànábì Nuh",
+        "Wòlíì Ismail",
+        "Wòlíì Yúsọ́ọ̀fù"
+      ],
+      "answer": "Qabil (Kaini)"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Rírú ẹbọ tí wọ́n kọ̀, èyí tí ó yọrí sí ìpànìyàn àkọ́kọ́",
+        "Kíkọ́ ilé gogoro gíga kan láti dé ọ̀run",
+        "Jíjẹ́ ẹni tí a jù sínú iná gbígbóná nítorí ìgbàgbọ́ rẹ̀",
+        "Fífi ọmọ ẹni rúbọ ní ìgbọràn sí Allah",
+        "Ẹja ńlá gbé mì nítorí pé ó sá fún iṣẹ́ rẹ̀."
+      ],
+      "answer": "Rírú ẹbọ tí wọ́n kọ̀, èyí tí ó yọrí sí ìpànìyàn àkọ́kọ́"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ẹyẹ kan tí Allah rán láti fi ìsìnkú hàn",
+        "Ìkún omi ńlá kan tó rì gbogbo ènìyàn kan sínú omi",
+        "Ọ̀pá tí ó di ejò alààyè",
+        "Abo ràkúnmí kan tó jáde láti orí òkè àpáta",
+        "Ìtẹ́ àgbàyanu tí afẹ́fẹ́ ńlá ń gbé"
+      ],
+      "answer": "Ẹyẹ kan tí Allah rán láti fi ìsìnkú hàn"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ó di ẹni tí ó kábàámọ̀, tí ẹ̀ṣẹ̀ àkọ́kọ́ tí a ṣe rí wúwo lé lórí",
+        "Allah dáríjì wọ́n, ó sì fún wọn ní Párádísè ayérayé",
+        "Wọ́n gbé e ga sí ipò gíga ti àsọtẹ́lẹ̀ àti ọgbọ́n",
+        "A gbà á là nípa àánú Ọlọ́run lẹ́yìn tí ó ké jáde láti inú òkùnkùn biribiri",
+        "Wọ́n fún ni ní àṣẹ lórí àwọn jinni, afẹ́fẹ́ àti òkun"
+      ],
+      "answer": "Ó di ẹni tí ó kábàámọ̀, tí ẹ̀ṣẹ̀ àkọ́kọ́ tí a ṣe rí wúwo lé lórí"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

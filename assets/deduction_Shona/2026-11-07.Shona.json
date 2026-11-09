@@ -1,0 +1,61 @@
+{
+  "title": "Kutsvaga Kwechokwadi Nechiedza",
+  "intro": "Fungidzira wakamira pasi pedenga guru rehusiku, uchiona mwenje inopenya ichibuda yozodzima uchitsvaga chakakodzera kunamata. Wakakupoteredza, mifananidzo yakavezwa yakanyarara inogamuchira rumbidzo nezvipiriso, asi chikonzero chakajeka chinopokana nesimba rayo. Inzwi risingatyi rava kuda kupikisa tsika dzakagara nhaka uye rinonongedzera kuMusiki wedenga nenyika.",
+  "clues": [
+    "Ndakatarisa nyeredzi, mwedzi, nezuva, ndikati hazvigone kuva Ishe wangu nekuti zvinonyura zvonyangarika.",
+    "Ndakaramba pachena zvainamatwa nevanhu vangu kunze kwaAllah ndikavati vanamate Musiki chete.",
+    "Ndakakakavadzana nemutongi anozvikudza aiti ndiye anopa hupenyu nerufu, uye ndakapindura ndichitaura nezvaAllah anounza zuva kubva kumabvazuva.",
+    "Ndakarova zvifananidzo ndikazvipwanya-pwanya, ndikasiya chikuru pakati pazvo chete kuitira kuti vanhu vadzokere kwazviri.",
+    "Ndakabatwa ndikatongwa nevanhu vangu, vakati ndivake chivako ndikandire mumoto unopfuta.",
+    "Ndakaponeswa apo Allah vakarayira moto kuti uve nzvimbo inotonhorera uye yakachengeteka kwandiri."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muporofita Ibrahim (Abrahama)",
+        "Muporofita Yahya (Johani)",
+        "Muprofita Al-Yasa (Erisha)",
+        "VaSamiri",
+        "Namrud (Nimrod)"
+      ],
+      "answer": "Muporofita Ibrahim (Abrahama)"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Ndakatarisana nekunamata zvidhori uye ndakakurukura zvinorehwa nemitumbi yekudenga",
+        "Akamedzwa nehove huru mushure mekuenda nehasha",
+        "Vateveri vakatungamirirwa kuburikidza negungwa rakaparadzaniswa naAllah",
+        "Akamutswa ari mupenyu kudenga asina kuravira rufu",
+        "Ndakarara mubako neshamwari kwemakore mazhinji"
+      ],
+      "answer": "Ndakatarisana nekunamata zvidhori uye ndakakurukura zvinorehwa nemitumbi yekudenga"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Moto unopfuta wakaitwa kuti utonhore uye wakachengeteka naAllah",
+        "Areka yakatakura vatendi kuburikidza nemafashamo",
+        "Tsvimbo yakazova nyoka",
+        "Tafura yakapararira kubva kudenga",
+        "Ngamera hadzi yakatumirwa sechiratidzo"
+      ],
+      "answer": "Moto unopfuta wakaitwa kuti utonhore uye wakachengeteka naAllah"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akadzivirirwa kubva kumoto uye akapihwa vana vakarurama",
+        "Kunyudzwa nevanoramba mumafashamo makuru",
+        "Akachinjwa nekuda kwekutyora Sabata",
+        "Yakaparadzwa neshiri dzakatakura matombo evhu",
+        "Yakamedzwa nenyika nepfuma"
+      ],
+      "answer": "Akadzivirirwa kubva kumoto uye akapihwa vana vakarurama"
+    }
+  },
+  "verseRef": "6:75",
+  "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+  "verse": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]. (6:75)"
+}

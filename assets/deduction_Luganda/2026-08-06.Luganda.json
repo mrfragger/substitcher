@@ -1,0 +1,61 @@
+{
+  "title": "Omwoyo Ogukuuma ku lubalama lw’Omugga",
+  "intro": "Omwoyo omuto gwakwasibwa omulimu ogw’ekyama, okwetegereza ng’oli wala nnyo ng’enkomerero bwe yeeyongera ku mazzi. Omuwendo guno nga tegulabibwa era nga teguteeberezebwa, gwandikoze kinene nnyo mu kukyusa enkola y’ebyafaayo by’eggwanga.",
+  "clues": [
+    "Nnaweebwa omulimu maama, ogwetaagisa okubba n’okubeera obulindaala.",
+    "Amaaso gange gaali gagoberera akatandaalo akatono akaali kakulukuta ku mugga, ng’omutima gwange guzitowa olw’okweraliikirira.",
+    "Bwe kyazuulibwa ekibiina kye nnali sisuubira, nnasemberera, nga nzijudde okukankana.",
+    "Nalaba nga baggwaamu essuubi eri omulabirira era ne mpaayo eky’okugonjoola ekizibu kino nga sibikkudde mazima.",
+    "Okuyingira kwange mu budde kwazza emmeeme eyonsa eri oyo eyali asinga okugyetaaga.",
+    "Mu kkooti z’ab’amaanyi, nnayogera nti: ‘Nkulung’amya mu maka agajja okumuliisa n’okumulabirira n’obwegendereza?’"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Mwannyina wa Musa",
+        "Maama wa Musa",
+        "Mukyala wa Falaawo",
+        "Omuzaalisa",
+        "Muwala wa Suyayibu"
+      ],
+      "answer": "Mwannyina wa Musa"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okusuula omwana mu mugga",
+        "Okwawukana kw’ennyanja",
+        "Okwokya ennyana",
+        "Okuzimba eryato",
+        "Kawumpuli w’enzige"
+      ],
+      "answer": "Okusuula omwana mu mugga"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Omugga",
+        "Eddungu",
+        "Olusozi",
+        "Olubiri",
+        "Omuliro"
+      ],
+      "answer": "Omugga"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yazzeemu okugatta omwana ne nnyina",
+        "Yeewonya abaserikale ba Falaawo",
+        "Yafuuka nnaabagereka",
+        "Yabonerezebwa olw’okuketta",
+        "Yakulembera Abaisiraeri"
+      ],
+      "answer": "Yazzeemu okugatta omwana ne nnyina"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

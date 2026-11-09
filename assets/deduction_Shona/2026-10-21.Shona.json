@@ -1,0 +1,61 @@
+{
+  "title": "Mutumwa Akarwisana Nevanonamata Zvidhori",
+  "intro": "Munguva iyo kuzvipira kwakanga kwatsauka, mutumwa akasimuka achidana kuti vadzokere kunamatwa kwaIshe wenyika. Munhu uyu akamira akasimba achipikisa vanhu vakanga vakadzika midzi mukunamata mwari wenhema, achivayeuchidza nezveMusiki wavo wechokwadi naIshe wemadzitateguru avo. Asi vanhu havana kuteerera uye vakaramba yambiro, vachisimbisa mugumo wavo. Ndiani uyu aishevedzera asingazununguki?",
+  "clues": [
+    "Ndakatumwa kuvanhu vakanga vatsauka kubva munzira yaMwari Mumwe Chete Wechokwadi.",
+    "Ndakabvunza vanhu vangu, \"Hamungatyi Mwari here?\"",
+    "Ndakavakurudzira kuti vasiye kunamata mwari wenhema anonzi Bhaari.",
+    "Vanhu vangu vakaramba kudanwa kwangu vakaramba vachinamata zvidhori zvavo.",
+    "Nekuda kwekurambwa kwavo, vachaunzwa pachena kuti varangwe.",
+    "Ishe wangu vakandipa rugare nekurangarira kwakakomborerwa pakati pezvizvarwa zvinotevera."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Ilyas",
+        "Muprofita Yahya",
+        "Muporofita Dhul-Kifl",
+        "Muprofita Yusuf",
+        "Muporofita Shu'ayb"
+      ],
+      "answer": "Muprofita Ilyas"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Akaudza vanhu vake kuti vasiye Bhaari",
+        "Vakavaka areka kuti vaponese vatendi",
+        "Yakakandwa mumoto",
+        "Akatiza Farao ane hutsinye",
+        "Akarova dombo kuti ribudise mvura"
+      ],
+      "answer": "Akaudza vanhu vake kuti vasiye Bhaari"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Bhaari",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Bhaari"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Rugare rwakapihwa uye chiyeuchidzo chakakomborerwa",
+        "Yakamedzwa nenyika",
+        "Yakaparadzwa nedutu rine simba",
+        "Yakashandurwa kuita dombo",
+        "Kunyura mugungwa"
+      ],
+      "answer": "Rugare rwakapihwa uye chiyeuchidzo chakakomborerwa"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

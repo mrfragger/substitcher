@@ -1,0 +1,61 @@
+{
+  "title": "Turo a Ɛyerae Anadwo Biara",
+  "intro": "Fa turo bi a ɛso yɛ frɔmfrɔm, a nnuaba a ɛbere ayɛ mu duru na nnua atenten atwa ho ahyia ho mfonini wɔ w’adwenem. Wɔn a wɔhwɛɛ so no susuwii sɛ wɔyɛ anifere, na wɔyɛɛ wɔn nnɔbae ho nhyehyɛe wɔ nnɔnhwerew a ɛhɔ yɛ dinn ansa na ade asa no mu, a na wɔn a wohia mmoa no ani nnye ho. Nanso na Nea ɔnna da no wɔ nhyehyɛe afoforo ma wɔn adom a ahintaw no. So wubetumi asusuw hena na ogyina kɔkɔbɔ asɛm yi akyi a efi Kur’aan mu?",
+  "clues": [
+    "Bere bi na yɛwɔ turo bi a ɛso yɛ frɔmfrɔm na ɛdɔɔso araa ma ɛbɛyɛɛ wɔn a wɔretwam nyinaa anibere.",
+    "Wɔ yɛn nhyehyɛe mu no, yɛbɔɔ yɛn ho yɛn ho aseresɛm anɔpatutuutu, na yɛpaee mu kae sɛ wɔremma ɔkra biara a ohia no kwan mma ɔnkɔ mu saa da no.",
+    "Ná yɛyɛ nnipa a yɛwɔ adefo, na na yɛn koma afuw wɔ hokwan ahorow a ahiafo a wɔatwa yɛn ho ahyia no wɔ no ho.",
+    "Bere a otwa a na yɛpɛ sɛ yebenya no duu hɔ no, yɛkɔɔ yɛn turo no nkyɛn na yehui sɛ adan amamfõ a ayɛ tuntum anadwo biako pɛ.",
+    "Mmara bi a ɛyɛ hu baa mu, na wɔannyaw biribiara gye nsõ wɔ baabi a bere bi na nnuaba a abere akuwakuw asɛn hɔ no.",
+    "Yɛn anansesɛm no yɛ kɔkɔbɔ a emu yɛ den a wɔakyerɛw wɔ Kur’aan mu, faako a wonim yɛn sɛ turo no wuranom a wɔde adɔe siee ahiafo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Turo no Wuranom",
+        "Nnipa a Wɔte Ɔbodan no mu",
+        "Yes",
+        "Nnua no mu Ahokafoɔ",
+        "Ibrahim Ahɔhoɔ no"
+      ],
+      "answer": "Turo no Wuranom"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Nnuaba a wotwa wɔ kokoam na wɔbara ahiafo",
+        "Ɔbodan bi mu a wɔdae mfehaha pii",
+        "Pow a wɔpow sɛ wɔde ɔbo bɛwo yoma ba",
+        "Wɔresom sika nantwi ba wɔ Bepɔw Sinai so",
+        "Wɔresi adaka kɛse bi de aguan nsuyiri"
+      ],
+      "answer": "Nnuaba a wotwa wɔ kokoam na wɔbara ahiafo"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Turo bi a wɔato ho afasu a mmɛw ne bobe nnua ahyɛ mu ma",
+        "Ɔbodan a emu yɛ sum a ɛwɔ mmepɔw no mu tɔnn",
+        "Kurow a ɔsoro ahum bi twaa mu",
+        "Bon kronkron bi a ɛbɛn Allah Fie",
+        "Asubɔnten bi a ɛsen fa hɔ"
+      ],
+      "answer": "Turo bi a wɔato ho afasu a mmɛw ne bobe nnua ahyɛ mu ma"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Ahyɛde bi a ɛyɛ hyew a efi soro na ɛhyew turo no",
+        "Wɔdaa asomdwoe mu mfe 309 wɔ ɔsram so",
+        "Abo a ɛtɔe no bubuu wɔn",
+        "Wɔmenee wɔ nsuyiri kɛse bi asorɔkye ase",
+        "Mframa a ɛyɛ nwini na ɛbɔ denneennen bɔɔ wɔn apete"
+      ],
+      "answer": "Ahyɛde bi a ɛyɛ hyew a efi soro na ɛhyew turo no"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

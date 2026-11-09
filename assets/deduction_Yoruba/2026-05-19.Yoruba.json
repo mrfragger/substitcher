@@ -1,0 +1,61 @@
+{
+  "title": "Aṣáájú Orílẹ̀-èdè kan tí a yàn",
+  "intro": "Ní àkókò ìpèníjà ńlá àti ìbànújẹ́ fún àwọn ènìyàn kan, wọ́n yan ẹni yìí láti ọ̀dọ̀ Ọlọ́run. Ọlọ́run yan ẹni yìí, tí ọ̀pọ̀ ènìyàn kò fojú fo ní àkọ́kọ́, láti darí orílẹ̀-èdè kan lòdì sí ọ̀tá alágbára kan. Ìtàn wọn jẹ́ ẹ̀rí agbára ìgbàgbọ́ àti ọgbọ́n tí ó wà lẹ́yìn àṣẹ Ọlọ́run, èyí tí ó fihàn pé a kì í rí ìtọ́sọ́nà tòótọ́ ní àwọn ibi tí a retí nígbà gbogbo.",
+  "clues": [
+    "Allah yan mi lati je olori fun awon eniyan mi nigbati won n wa olori lati ja fun eto Re.",
+    "Àwọn ènìyàn mi kọ́kọ́ béèrè ìbéèrè nípa yíyàn mi, wọ́n rò pé àwọn ẹlòmíràn yẹ fún ipò wọn nítorí ọrọ̀ tàbí ìran wọn.",
+    "Àmì ìtọ́sọ́nà mi tó tọ́ ni bí àpótí mímọ́ kan ṣe padà wá, tó ní àwọn ohun ìránnilétí láti ọ̀dọ̀ àwọn wòlíì tó ti kọjá, èyí tó mú ìfọ̀kànbalẹ̀ wá.",
+    "Mo darí àwọn ọmọ ogun mi lọ sí odò kan, níbi tí mo ti dán ìgbọràn wọn wò nípa kíkọ̀ wọ́n láti mu ju ìgò omi kan lọ.",
+    "Láìka iye àwọn tó dúró ṣinṣin lẹ́yìn ìdánwò náà sí, a dojúkọ jagunjagun alágbára kan àti ẹgbẹ́ ọmọ ogun wọn.",
+    "Lábẹ́ àṣẹ mi, ọ̀dọ́mọkùnrin kan láti inú ẹgbẹ́ ọmọ ogun mi, tí kì í ṣe jagunjagun olókìkí, fi ìgboyà kojú akíkanjú ọ̀tá alágbára náà, ó sì ṣẹ́gun rẹ̀."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Yúsọ́ọ̀fù",
+        "Wòlíì Mósà",
+        "Wòlíì Dáfídì",
+        "Wòlíì Sùlámínì",
+        "Talut"
+      ],
+      "answer": "Talut"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Pípín òkun",
+        "Ìpèníjà àwọn oníṣẹ́ oṣó",
+        "Ìyàn gẹ́gẹ́ bí olórí lòdì sí òmìrán kan",
+        "Ìkún omi tó bo ilẹ̀ náà",
+        "Ilé Kaaba"
+      ],
+      "answer": "Ìyàn gẹ́gẹ́ bí olórí lòdì sí òmìrán kan"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Igbó tí ń jó náà",
+        "Àpótí (Tabut)",
+        "Àwọn òṣìṣẹ́ (a)",
+        "Ọmọ màlúù wúrà",
+        "Kànga Zamzam"
+      ],
+      "answer": "Àpótí (Tabut)"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A gbé ìjọba kan kalẹ̀ pẹ̀lú ọrọ̀ àti agbára ńlá.",
+        "Àwọn ènìyàn náà kú sínú ìkún omi ńlá kan.",
+        "A ṣẹ́gun aṣíwájú ọ̀tá náà, Ọlọ́run sì fún un ní ìṣẹ́gun.",
+        "Ọ̀dá ńlá kan lù ilẹ̀ náà fún ọ̀pọ̀ ọdún.",
+        "Ẹranko ńlá kan gbé olórí náà mì."
+      ],
+      "answer": "A ṣẹ́gun aṣíwájú ọ̀tá náà, Ọlọ́run sì fún un ní ìṣẹ́gun."
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

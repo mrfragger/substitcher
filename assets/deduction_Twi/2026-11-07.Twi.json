@@ -1,0 +1,61 @@
+{
+  "title": "Nsoromma a Ɛhyerɛn a Wɔhwehwɛ sɛ Wobenya Awerɛhyem",
+  "intro": "Fa w’adwene bu sɛ wugyina wim kɛse bi ase anadwo, rehwɛ akanea a ɛhyerɛn a ɛsɔre na afei ɛreyera bere a worehwehwɛ nea ɛfata ahofama ankasa no. Atwa wo ho ahyia no, ahoni a wɔasen no komm nya ayeyi ne afɔrebɔ, nanso ntease a emu da hɔ gye wɔn tumi ho kyim. Ɛnne bi a onsuro reyɛ akasa atia atetesɛm a wonya fii awo mu no na ɛkyerɛ ɔsoro ne asase Bɔfo no.",
+  "clues": [
+    "Mehwɛɛ nsoromma, bosome, ne owia, na mesusuu sɛ wɔrentumi nyɛ m’Awurade ɛfiri sɛ wɔkɔtɔ na wɔyera.",
+    "Mepoo dee me nkurofoo som kaa Allah ho pefee na mefrɛɛ wɔn sɛ wɔnsom Ɔbɔadeɛ no nko ara.",
+    "Megyee sodifoɔ bi a ɔhoahoa ne ho a ɔka sɛ ɔma nkwa ne owuo ho akyinnyeɛ, na mebuaa denam Allah a ɔde owia firi apueeɛ baeɛ no a mekaa ho asɛm no so.",
+    "Mebɔɔ abosom no na mebubuu wɔn, na ɛkaa wɔn mu akɛseɛ nko ara sɛdeɛ ɛbɛyɛ a nkurɔfoɔ no bɛsan akɔ hɔ.",
+    "Me nkurɔfo na wɔkyeree me na wɔkasa tiaa me, na wɔkae sɛ wɔnsi ɔdan bi na wɔntow me ngu ogya a ɛredɛw no mu.",
+    "Wogyee me nkwa bere a Allah hyɛe sɛ egya no nyɛ onwini ne ahobanbɔ mma me."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Ibrahim (Abraham) .",
+        "Ɔkɔmhyɛni Yahya (Yohane) .",
+        "Ɔkɔmhyɛni Al-Yasa (Elisa) .",
+        "Samirifo no",
+        "Namrud (Nimrod) ."
+      ],
+      "answer": "Ɔkɔmhyɛni Ibrahim (Abraham) ."
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Ohyiaa abosonsom na ogyee nea ɔsoro abɔde kyerɛ ho akyinnye",
+        "Apataa kɛse bi menee no bere a ɔde abufuw kɔe no",
+        "Di akyidifo anim faa po bi a Allah apaapae mu",
+        "Wɔnyanee no nkwa mu kɔɔ soro a wanka owu anhwɛ",
+        "Ɔne n’ahokafo daa ɔbodan bi mu mfe pii"
+      ],
+      "answer": "Ohyiaa abosonsom na ogyee nea ɔsoro abɔde kyerɛ ho akyinnye"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Ogya a ɛredɛw a Allah maa ɛyɛɛ nwini na ahobammɔ wom",
+        "Adaka a ɛde agyidifo faa nsuyiri no mu no",
+        "Poma a ɛbɛyɛɛ ɔwɔ",
+        "Pono no trɛw fii soro",
+        "Yoma ba a wɔsomaa no sɛ sɛnkyerɛnne"
+      ],
+      "answer": "Ogya a ɛredɛw a Allah maa ɛyɛɛ nwini na ahobammɔ wom"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wɔbɔɔ wɔn ho ban fi ogya ho na wɔmaa wɔn asefo trenee",
+        "Wɔde wɔn a wɔpow no memee wɔ nsuyiri kɛse bi mu",
+        "Wɔsakraa no esiane sɛ obuu Homeda so nti",
+        "Nnomaa a wɔsoa dɔte abo sɛee no",
+        "Asase a ademude amene no"
+      ],
+      "answer": "Wɔbɔɔ wɔn ho ban fi ogya ho na wɔmaa wɔn asefo trenee"
+    }
+  },
+  "verseRef": "6:75",
+  "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+  "verse": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]. (6:75)"
+}

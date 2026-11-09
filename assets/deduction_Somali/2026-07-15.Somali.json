@@ -1,0 +1,61 @@
+{
+  "title": "Dib-u-noqoshada Keli-talisnimada",
+  "intro": "Qormada nimcada rabbaaniga ah, waxaa ku jira naf daahirnimo aan la barbar dhigi karin, oo laga soocay dadkooda si ay u raadsadaan kalinimo jihada quduuska ah. Wax yar ayay ka ogaayeen in kalinimadani ay calaamad u keeni doonto dhammaan adduunyada, tijaabo iimaan oo weligeed laga hadli doono.",
+  "clues": [
+    "Waxaan u heellanaa nolol adeeg ah ka hor dhalashadayda.",
+    "Waxaa la i siiyay ilaalin nabi sharaf leh.",
+    "Waxaa la ii raaxaysiiyay arsaaqyo ka yimid Alle oo yaabiyay mas'uulkayga.",
+    "Waxaan ka baxay qoyskaygii oo aan u guuray meel bari ah.",
+    "Malaa'ig ayaa ii muuqatay iyadoo nin qumman ah, oo war u keenaysa wiil daahir ah.",
+    "Markii aan la soo laabtay ilmahaygii dhashay, dadkaygu way i dacweeyeen, laakiin ilmaha yar ayaa i difaacay."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Maryam (Maryan)",
+        "Aasiya (xaaskii Fircoon)",
+        "Haajar (hooyadii Ismaaciil)",
+        "Saarah (xaaskii Ibraahim)",
+        "Hooyadii Muuse"
+      ],
+      "answer": "Maryam (Maryan)"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Riyo mucjiso ah iyo dhalashadii wiil",
+        "In lagu tuuro dab",
+        "Kalluun weyn oo liqay",
+        "Dhisidda doon weyn",
+        "Badda oo laga gudbayo"
+      ],
+      "answer": "Riyo mucjiso ah iyo dhalashadii wiil"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Meel bari ah oo cidlo ah",
+        "Geedka gubanaya",
+        "Badda Cas",
+        "Dhagaxa ay biyuhu ka soo da'een",
+        "nibiriga"
+      ],
+      "answer": "Meel bari ah oo cidlo ah"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Ilmo yar ayaa hadlay isagoo difaacaya hooyo",
+        "Badda ayaa la kala qaybiyay",
+        "Dabku wuxuu noqday mid qabow oo ammaan ah",
+        "Nibirigii ayaa ku matagay xeebta",
+        "Doontii waxay ku degtay buur"
+      ],
+      "answer": "Ilmo yar ayaa hadlay isagoo difaacaya hooyo"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Abateze amatwi bavuye mu bitaboneka .",
+  "intro": "Hirya y’igitambaro c’isi iboneka, hari ikoraniro ryihishije ryari rikoraniye mu mwiza, ryikwegerewe n’ijwi ryari riteye akagere ivyo bari bazi vyose. Bari bamaze imyaka myinshi bagendagenda ata buyobozi nyakuri bafise, gushika aho ijwi ryitobekeranya mu gacerere k’aho bari bataboneka, rikavyura ikintu kiri imbere cane. Ijoro ry’uyu musi, muratumiwe gutera intambwe kure y’ibitutu no guhishura akaranga k’uwo mugwi w’akabanga, uwo guhura kwawo n’amajambo y’Imana kwatumye basubira mu bantu babo nk’ababuzi b’ukuri kutashobora guhagarara.",
+  "clues": [
+    "Turi ibiremwa vya kera, vyabayeho kera cane imbere y’amahanga menshi mwasomye, yamara rero ntituvugwa cane mu nkuru z’abantu.",
+    "Kamere yacu itandukanye n’iyawe, iboshe mu bintu bitaboneka, kandi dufise ububasha butera ubwoba ibisanzwe.",
+    "Twaramaze imyaka myinshi tugendagenda ata buyobozi nyakuri dufise, gushika aho ijwi ridushikira rivyura ikintu kiri imbere cane.",
+    "Twumvise ugusubiramwo nk’aho ata co twigeze twumva, amajambo yari afise uburemere burenze invugo iyo ari yo yose.",
+    "Twarafatanya mu mpisho, tugategeka abacu guceceka, kandi iyo imirongo irangira, ntitwashobora guhagarara.",
+    "Twarasubiye ku bantu bacu, tuvuga tuti: «Ewe bantu bacu, twumvise Igitabu cahishuriwe inyuma ya Musa, cemeza ivyari imbere yaco, kiyobora ku kuri.»"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Aba Hawariyyun (Abigishwa ba Isa)",
+        "Aba Jinn bemeye bamaze kwumva Korowani .",
+        "Abagenzi b'Isenga",
+        "Abamarayika bo mw’ijuru ryo hasi cane .",
+        "Abantu ba Farawoni bakurikiye inzira yiwe ."
+      ],
+      "answer": "Aba Jinn bemeye bamaze kwumva Korowani ."
+    },
+    "trial": {
+      "label": "Ikigeragezo / Ivyabaye",
+      "options": [
+        "Twarakuwe hanze kubera twanka gupfukama imbere y'ikiremwa gishasha caremwe .",
+        "Twarapfungiwe mu mwobo imyaka amajana atatu n'icenda .",
+        "Twarategetswe kujabuka ikiyaga cacitsemwo ibice imbere yacu .",
+        "Twarungitswe mu gihugu c'ubupfumu kwiga ubupfumu .",
+        "Twumvirije ugusoma mu mpisho maze turahindurwa na kwo ."
+      ],
+      "answer": "Twumvirije ugusoma mu mpisho maze turahindurwa na kwo ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Inyana y’inzahabu ikozwe mu vyo gushariza vy’abantu .",
+        "Umwobo aho itiro ryamara imyaka n'imyaka .",
+        "Abamarayika babiri i Babiloni bigisha ubumenyi bwabujijwe .",
+        "Igitabo cahishuriwe inyuma ya Musa, cemeza Torah .",
+        "Igisaka kigurumana kiri hejuru y'umusozi mweranda"
+      ],
+      "answer": "Igitabo cahishuriwe inyuma ya Musa, cemeza Torah ."
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Twaravumwe gushika ku musi w'urubanza .",
+        "Twarahagurukiye umutware w’inkomezi, twubaka uruzitiro mu gihugu .",
+        "Twarahinduwe inkende n'ingurube",
+        "Twarasubiye ku bantu bacu nk’abagabisha, tumenyesha ivyo twemera .",
+        "Twararohamye mu kiyaga iruhande y'umurongozi wacu ."
+      ],
+      "answer": "Twarasubiye ku bantu bacu nk’abagabisha, tumenyesha ivyo twemera ."
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

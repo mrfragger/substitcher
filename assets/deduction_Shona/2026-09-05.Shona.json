@@ -1,0 +1,61 @@
+{
+  "title": "Kubwinya Kwakanyura",
+  "intro": "Fungidzira izvi: mweya wakaputirwa nenguo dzakanaka uye wakakomberedzwa nepfuma isingagoni kufungidzira. Munhu uyu aitenda kuti pfuma yake yaiwanikwa kuburikidza neuchenjeri hwake, asingambozivi kuti ndipo panobva zvinhu zvechokwadi. Achifamba pakati pevateveri vemuporofita ane simba, munhu uyu akaramba kudanwa kwese kwekuzvininipisa. Nhasi, tinoona kuti ndiani ane pfuma yake yakanaka yakava nzvimbo yake yekupedzisira yekuzorora.",
+  "clues": [
+    "Ndakararama munguva yemuporofita aidana rudzi rwakasindimara kuti rutende chokwadi.",
+    "Ndaiva chikamu chevanhu vakasarudzwa, asi mwoyo wangu wakafuratira shoko racho.",
+    "Ndarama nesirivha zvakandibata kupfuura chero murairo waMwari.",
+    "Nzvimbo dzangu dzepfuma dzakakura zvekuti boka guru revarume rakatadza kusimudza makiyi.",
+    "Ndakazvikudza kuti pfuma yangu yakapihwa kwandiri nekuda kweruzivo rwangu.",
+    "Pakupedzisira, ini neimba yangu yese takamedzwa nenyika seyambiro."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Qarun",
+        "Hamani",
+        "Samiri",
+        "Bilqis",
+        "Talut (Sauro)"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kuzvikudza pamusoro pepfuma uye kuramba rubatsiro",
+        "Kugadzira chifananidzo chegoridhe kubva muzvishongo zvakanyungudutswa",
+        "Kuzivisa huMwari pamusoro peumambo hune simba",
+        "Kutambudza vatendi vepakutanga muMakkah",
+        "Kutungamira mushandirapamwe wekuparadza Imba Tsvene"
+      ],
+      "answer": "Kuzvikudza pamusoro pepfuma uye kuramba rubatsiro"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Pfuma ine makiyi airemedza varume vazhinji vane simba",
+        "Mhuru yegoridhe yaiburitsa ruzha",
+        "Chigaro choumambo chinobwinya chinobva kunyika iri kure",
+        "Mugero wakazadzwa nemoto unopfuta",
+        "Hondo ine simba yenzou dzehondo"
+      ],
+      "answer": "Pfuma ine makiyi airemedza varume vazhinji vane simba"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Yakamedzwa nenyika pamwe chete nenzvimbo yekugara",
+        "Akanyura mugungwa neuto",
+        "Kupiswa ari mupenyu mugomba remoto",
+        "Yakaparadzwa nemhepo inovhuvhuta, ine simba",
+        "Yakarohwa nekuputika kukuru kamwe chete"
+      ],
+      "answer": "Yakamedzwa nenyika pamwe chete nenzvimbo yekugara"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

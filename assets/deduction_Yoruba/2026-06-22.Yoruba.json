@@ -1,0 +1,61 @@
+{
+  "title": "Onigbagbọ ti o farasin",
+  "intro": "Nínú àwọn ilé agbára olókìkí, níbi tí àìnígbàgbọ́ àti ìkàsínilára ti gbilẹ̀, ohùn òtítọ́ kan ṣoṣo kan sọ̀rọ̀ láti ibi tí a kò retí. Ẹni yìí pe aláṣẹ láti dáàbò bo ìránṣẹ́ kan níjà, ó sì fi ààbò ara rẹ̀ wewu láti kéde òtítọ́.",
+  "clues": [
+    "Mo gbé ní ilẹ̀ ìkàsínilára ńlá, mo ń sin alákòóso kan tí ó sọ pé òun ni Ọlọ́run.",
+    "Mo fi àwọn ìgbàgbọ́ tòótọ́ mi pamọ́ fún ọ̀pọ̀ ọdún, mo sì ń bẹ̀rù àbájáde tí ó lè ṣẹlẹ̀ nígbà tí mo bá ṣí wọn payá.",
+    "Nígbà tí ìránṣẹ́ kan bá dé pẹ̀lú àwọn àmì tó hàn gbangba, mo gbàgbọ́, ṣùgbọ́n àwọn ènìyàn mi dìtẹ̀ sí i.",
+    "Mo dúró níwájú apànìyàn àti ìgbìmọ̀ rẹ̀, mo ń jiyàn pé wọn kò gbọdọ̀ pa ìránṣẹ́ aláìlẹ́ṣẹ̀.",
+    "Mo kìlọ̀ fún wọn nípa ìyà àwọn orílẹ̀-èdè ìgbàanì tí wọ́n kọ̀ òtítọ́ sílẹ̀, bíi àwọn ènìyàn Nóà àti Ádì.",
+    "Allah gbà mí lọ́wọ́ àwọn èrò ibi wọn, mo sì rí ìparun ìjọba ìnilára náà."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Onígbàgbọ́ ìdílé Fáráò",
+        "Onídán Fáráò",
+        "Olùṣọ́ Farao",
+        "Ìyàwó Fáráò",
+        "Olùtọ́jú owó Farao"
+      ],
+      "answer": "Onígbàgbọ́ ìdílé Fáráò"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Gbígbèjà wòlíì kan lòdì sí pípa ẹni ní ìpakúpa",
+        "Ṣíṣe àtakò sí àwọn ọgbọ́n àrékérekè onídán",
+        "Kíkọ́ ilé gogoro kan láti dé ojú ọ̀run",
+        "Pípín òkun fún àsálà",
+        "Ìtumọ̀ àlá ọba"
+      ],
+      "answer": "Gbígbèjà wòlíì kan lòdì sí pípa ẹni ní ìpakúpa"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ààfin Farao",
+        "Igbó tí ń jó náà",
+        "Ọmọ màlúù wúrà",
+        "Kànga Madyan",
+        "Ọkọ̀ Wòlíì Nóà"
+      ],
+      "answer": "Ààfin Farao"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A gbà á lọ́wọ́ ewu nígbà tí wọ́n pa àwọn aninilára run",
+        "Ó di alákòóso alágbára",
+        "Wọ́n jù ú sínú iná, ó sì jáde láìfarapa",
+        "Ayé gbé e mì",
+        "Rìn kiri ninu aginju fun ogoji ọdun"
+      ],
+      "answer": "A gbà á lọ́wọ́ ewu nígbà tí wọ́n pa àwọn aninilára run"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

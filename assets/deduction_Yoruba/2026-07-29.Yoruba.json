@@ -1,0 +1,61 @@
+{
+  "title": "Ìlépa Ilé Ẹjọ́",
+  "intro": "Ní àwọn ọ̀nà agbára, ẹni tí ó ní ipò gíga kan di ẹni tí ó nífẹ̀ẹ́ sí ìránṣẹ́ kan tí ẹwà rẹ̀ jẹ́ ti ayé mìíràn. Ìfẹ́kúfẹ̀ẹ́ yìí yọrí sí ọ̀pọ̀lọpọ̀ ìṣẹ̀lẹ̀ tí yóò dán ìdúróṣinṣin wò, tí yóò fi òtítọ́ tí ó farasin hàn, tí yóò sì fi hàn nígbẹ̀yìn gbẹ́yín pé ìránṣẹ́ náà jẹ́ aláìlẹ́bi.",
+  "clues": [
+    "Mo gbé ní ilẹ̀ odò Náílì, nínú ààfin tó ní ipa ńlá.",
+    "Ọ̀dọ́mọkùnrin kan wá sí ilé mi, wíwà rẹ̀ sì da ayé mi rú.",
+    "Mo gbìyànjú láti tàn án jẹ, ṣùgbọ́n ó wá ààbò lọ́dọ̀ Olúwa rẹ̀.",
+    "Mo fa aṣọ rẹ̀ ya láti ẹ̀yìn, ṣùgbọ́n ẹ̀rí fi hàn pé ẹ̀tàn mi ni.",
+    "Láti pa ọ̀rọ̀ àhesọ àwọn ọlọ́lá lẹ́nu mọ́, mo pè wọ́n sí àpérò kan mo sì gbé àwọn nǹkan mímú sí ọwọ́ wọn.",
+    "Níkẹyìn, mo jẹ́wọ́ ẹ̀ṣẹ̀ mi ní gbangba, mo sì jẹ́wọ́ òtítọ́ níwájú ọba."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Ìyàwó Al-Aziz",
+        "Asia (Iyawo Farao)",
+        "Bilqis (Ayaba Sheba)",
+        "Màrímà (Ìyá Ísà)",
+        "Ìyá Mósè"
+      ],
+      "answer": "Ìyàwó Al-Aziz"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ó gbìyànjú láti tan Wòlíì Yósù jẹ",
+        "Ó gbìyànjú láti pa Ànábì Musa",
+        "Ó sọ pé òun jẹ́ abo ọlọ́run kan",
+        "Ó kọ́ ilé gogoro kan láti pe Allah níjà",
+        "Ó ṣáájú ẹgbẹ́ ọmọ ogun sí Makkah"
+      ],
+      "answer": "Ó gbìyànjú láti tan Wòlíì Yósù jẹ"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Aṣọ tí a fà kúrò lẹ́yìn",
+        "Ọmọ màlúù wúrà kan",
+        "Ọ̀pá tí ó di ejò",
+        "Abo ràkúnmí kan",
+        "Fìtílà kan"
+      ],
+      "answer": "Aṣọ tí a fà kúrò lẹ́yìn"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ó jẹ́wọ́, ó sì gba òtítọ́, ó sì jẹ́wọ́ rẹ̀",
+        "Ó rì sínú omi pẹ̀lú àwọn ọmọ ogun rẹ̀",
+        "Ó di ọ̀wọ̀n iyọ̀",
+        "Ilẹ̀ gbé e mì",
+        "Afẹ́fẹ́ ńlá kan pa á run"
+      ],
+      "answer": "Ó jẹ́wọ́, ó sì gba òtítọ́, ó sì jẹ́wọ́ rẹ̀"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

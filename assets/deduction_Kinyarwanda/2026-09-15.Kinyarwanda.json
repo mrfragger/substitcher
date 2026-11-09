@@ -1,0 +1,61 @@
+{
+  "title": "Ubwiza bw'abashyitsi bwazanye ubwoba",
+  "intro": "Mu mujyi wari wuzuyemo ububi, umugaragu wizerwa yakiriye abashyitsi batari babyiteze umunsi umwe. Kubera impungenge z'umutekano wabo, uwo muntu yabahaye uburinzi, ariko abaturage b'uwo mujyi bamusaba ikintu giteye isoni. Amaze kuburirwa ibyago byari bigiye kuza, umugaragu yahunze umuryango we wihishe inyuma y'umwijima, asiga umujyi wari ugenewe kurimbuka. Ni nde uyu mwizera wenyine?",
+  "clues": [
+    "Natumwe kuba intumwa ku bantu bakoze ibikorwa by'urukozasoni.",
+    "Abashyitsi batunguranye baje iwanjye, kandi nari mfite impungenge z'umutekano wabo kuruta uwanjye.",
+    "Abantu banjye basabye kubonana n'abashyitsi banjye kubera imigambi mibi, kandi nagerageje kubasobanurira.",
+    "Abashyitsi banjye bigaragaje ko ari abamarayika, bantegeka kujyana umuryango wanjye tukagenda nijoro.",
+    "Umugore wanjye ntiyumviye ubutumwa bwo gutoroka maze ahura n'irimbuka nk'iryo abantu banjye bahuye naryo.",
+    "Umujyi wanjye warasenyutse n'imvura y'amabuye y'ibumba, ibice byawo byo hejuru bigabanuka cyane."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Umuhanuzi Lut",
+        "Umuhanuzi Musa",
+        "Intumwa Ibrahimu",
+        "Umuhanuzi Nuh",
+        "Umuhanuzi Hud"
+      ],
+      "answer": "Umuhanuzi Lut"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Gusaba abantu banjye kwegera abashyitsi banjye mu buryo bubi",
+        "Gucikamo kabiri kw'inyanja kugira ngo umuntu ahunge umutegetsi w'igitugu",
+        "Kubaka ubwato bunini hagati y'agashinyaguro",
+        "Igitambo cy'umuhungu wanjye mu igeragezwa ry'ukwizera",
+        "Ubunararibonye bwo kumirwa n'ifi nini"
+      ],
+      "answer": "Gusaba abantu banjye kwegera abashyitsi banjye mu buryo bubi"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Umujyi w'abantu banjye washenywe",
+        "Umusozi aho nakiriye ijambo ry'Imana",
+        "Ubwato bwanyuze mu myuzure ikomeye",
+        "Ingamiya y'ingore yavuye mu rutare",
+        "Ubusitani burimo umushyitsi ukiranuka wihishe"
+      ],
+      "answer": "Umujyi w'abantu banjye washenywe"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Narokowe n'umuryango wanjye mbere y'uko umujyi wanjye utembagazwa",
+        "Nayoboye abantu banjye mu bwisanzure hakurya y'inyanja",
+        "Nakoze ubwato bunini kandi narokotse umwuzure ukomeye",
+        "Nahawe ubutware ku miyaga n'amajini",
+        "Nahanganye n'imibabaro nihanganye kandi nahawe ingororano yo kubona umuryango"
+      ],
+      "answer": "Narokowe n'umuryango wanjye mbere y'uko umujyi wanjye utembagazwa"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

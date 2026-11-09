@@ -1,0 +1,61 @@
+{
+  "title": "Hooska Timirta",
+  "intro": "Sheeko ayaa ka hadlaysa naf la kala saaray ka hor dhalashada, oo lagu koriyay derbiyada quduuska ah, oo loo doortay inay calaamad u noqoto in dunidu aysan waligood arag. Markii eedayntu ka soo baxday dhinac kasta, cod ayaa ka yimid meelaha ugu aan macquul ahayn si loo aamusiyo shaki kasta. Ma ogaan kartaa cidda hoos martay hooska timirta?",
+  "clues": [
+    "Waxaan u hibeeyay u adeegidda Ilaaha Qaadirka ah ka hor intaanan neeftaydii ugu horreysay qaadin, nidar uu sameeyay kii i qaaday.",
+    "Waxaan ku koray daryeel taxaddar leh oo uu i siiyay ilaaliye qumman oo ku jira qolalka barakeysan ee goob cibaado.",
+    "Mar kasta oo mas'uulkaygu qolkayga yimaado, wuxuu ila heli jiray raashin xilliyo ah oo aan loo baahnayn.",
+    "Waxaa la ii bishaareeyay wiil, inkastoo duruufahaygu aysan meel u bannayn wixii la ii ballanqaaday.",
+    "Waxaan u baxay meel fog, halkaasna geed timireed ayaa hadh ii dhigay halka durdur hoos ka qulqulayo.",
+    "Markii eedayn timid oo su'aalo igu hareereeyeen, waxaan farta ku fiiqay ilmahayga dhashay - wuuna ka hadlay markuu dhasho si uu u aamusiyo shaki kasta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Maryam",
+        "Saarah",
+        "Hawa",
+        "Ummu Muuse",
+        "Xaaskii Nuux"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Tijaabo / Dhacdo",
+      "options": [
+        "Dhalista wiil mucjiso ah oo go'doon ku jira",
+        "Inay ku dhex tuuraan dab ololaya kuwa caabuda cibaadada",
+        "Ka badbaashada daadka weyn iyadoo la adeegsanayo dhowr qof oo la doortay",
+        "In laga sooco ilmo yar oo lagu tuuray webiga",
+        "La dagaallanka taliyihii xoogga badnaa ee Masar"
+      ],
+      "answer": "Dhalista wiil mucjiso ah oo go'doon ku jira"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Timir iyo durdur socda oo hoos yimaada",
+        "Doon weyn oo hirarka dhaadheer saaran",
+        "Ul u kala qaybisay bad weyn laba qaybood",
+        "Dab ololaya oo loogu talagalay inuu cuno naf aamin ah",
+        "Carshi dahab ah oo lagu qurxiyey dhagaxyo qaali ah"
+      ],
+      "answer": "Timir iyo durdur socda oo hoos yimaada"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Waxaa loo sharfay inay tahay tan ugu sharafta badan dumarka oo dhan",
+        "Waxaan dib ula midoobay ilmo aan jeclaa ka dib kala tag dheer oo aan la kulmay",
+        "Qaran dhan ayuu ka soo saaray addoonsiga kaligii-taliye",
+        "Wuxuu uga digay dad ku lumay anshax xumo",
+        "Waxaa la siiyay xukunka jinka, aadanaha, iyo dabaysha"
+      ],
+      "answer": "Waxaa loo sharfay inay tahay tan ugu sharafta badan dumarka oo dhan"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

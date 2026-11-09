@@ -1,0 +1,61 @@
+{
+  "title": "Bindu Rakanyangarika Usiku Hwese",
+  "intro": "Fungidzira bindu rakasvibira, rine michero yakaibva uye rakakomberedzwa nemiti mirefu. Avo vairiritira vaifunga kuti vakangwara, vachironga kukohwa kwavo munguva dzakanyarara mambakwedza asati asvika, kure nemaziso evanoshaya. Asi Uyo asingamborari aiva nedzimwe hurongwa hwepfuma yavo yakavanzwa. Ungafungidzira here kuti ndiani ari shure kwenyaya iyi yekunyevera kubva muKorani?",
+  "clues": [
+    "Taimbova nebindu rine miti yakawanda zvekuti rakazove godo revanhu vese vaipfuura napo.",
+    "Mukuronga kwedu, takataurirana nekazevezeve mangwanani-ngwanani, tichizivisa kuti hapana mweya unoshayiwa waizobvumirwa kupinda pazuva iroro.",
+    "Taiva vanhu vane pfuma, uye mwoyo yedu yakanga yatopofumadzwa kukodzero dzevarombo vakatipoteredza.",
+    "Pakasvika mambakwedza ekukohwa kwataida, takasvika pedyo nebindu redu ndokuwana rashanduka kuita matongo usiku hwose.",
+    "Murairo unoparadza wakauya, usingasiyi chinhu kunze kwemadota apo paimbova nemasumbu emichero yakaibva.",
+    "Nyaya yedu inyevero yakasimba yakanyorwa muKorani, uko tinozivikanwa sevaridzi vebindu vakanyima rubatsiro kune vanoshaya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Varidzi veBindu",
+        "Vanhu veBako",
+        "Vadzidzi vaIsa",
+        "Shamwari dzeMasango",
+        "Vaenzi vaIbrahim"
+      ],
+      "answer": "Varidzi veBindu"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kukohwa michero muchivande uye kurambidza varombo",
+        "Kurara kwemazana emakore mubako",
+        "Kuramba kugadzira ngamera hadzi kubva padombo",
+        "Kunamata mhuru yegoridhe paGomo reSinai",
+        "Kuvaka areka huru kutiza mafashamo"
+      ],
+      "answer": "Kukohwa michero muchivande uye kurambidza varombo"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Bindu rakakomberedzwa nemadziro rakazara nemichindwe nemizambiringa",
+        "Bako rerima riri mukati memakomo",
+        "Guta rakakundwa nedutu guru",
+        "Mupata mutsvene uri pedyo neImba yaAllah",
+        "Mahombekombe erwizi runoyerera"
+      ],
+      "answer": "Bindu rakakomberedzwa nemadziro rakazara nemichindwe nemizambiringa"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Bindu rakaparadzwa nemurairo unopisa wakabva kudenga",
+        "Vakarara murunyararo kwemakore mazana matatu nemapfumbamwe emwedzi",
+        "Vakapwanywa nemvura yematombo",
+        "Vakanyura pasi pemafungu emvura zhinji",
+        "Vakapararira nemhepo inotonhora, ine simba"
+      ],
+      "answer": "Bindu rakaparadzwa nemurairo unopisa wakabva kudenga"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

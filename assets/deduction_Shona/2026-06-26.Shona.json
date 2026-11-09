@@ -1,0 +1,61 @@
+{
+  "title": "Mutoro Wechipo Chakarambwa",
+  "intro": "Pakutanga kwenhoroondo yevanhu, nyika payakanga ichiri diki uye nyika yakagara pasi, mweya wakamira pamberi peMusiki nechipo chinozvininipisa. Chipo ichocho chakayerwa muchiyero chekugamuchirwa naMwari - uye chakawanikwa chisina kukwana. Chakatevera chaisava nyaya yekukanganwira, asi yemoyo wakadyiwa negodo, zvichitungamira kuchiito chisingachinjiki chaizogara chichidzokororwa. Iyi inyaya yemumwe ane zita rakafanana nekusaruramisira kwekutanga kwakakura kwakaitwa.",
+  "clues": [
+    "Ndakavapo ndiri mumwe wevana vekutanga kuzvarwa, ndakaberekerwa nemubereki ane nyaya yaunoziva zvakanaka.",
+    "Ndakambopa chibayiro kuna Allah, asi hachina kugamuchirwa kubva kwandiri — kunyange zvazvo chipo chemukoma wangu chakagamuchirwa nenyasha.",
+    "Shanje nehasha zvakadzika midzi mumoyo mangu, uye ndakatyisidzira kugumisa hupenyu hwehama dzangu.",
+    "Mukoma wangu akandiyambira kuti nditye Allah, asi kuzvikudza kwangu kwakaramba kunditendera kuteerera.",
+    "Munguva yekuneta kukuru, ndakaita chiito chisingatsananguriki pahama yangu.",
+    "Mushure mezvo, handina kana kuziva kuti ndovanza sei zvandakanga ndaita — kusvikira chisikwa chepasi chatumirwa kuzondidzidzisa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Qabil (Kaini)",
+        "Habhiri (Abheri)",
+        "Mwanakomana weMuporofita Nuh",
+        "Muprofita Isma'il",
+        "Muprofita Yusuf"
+      ],
+      "answer": "Qabil (Kaini)"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kupa chibayiro chakarambwa, zvichikonzera kuponda kwekutanga",
+        "Kuvaka shongwe refu kusvika kumatenga",
+        "Kukandwa mumoto unopisa nekuda kwekutenda kwemunhu",
+        "Kupira mwanakomana wako pachako mukuteerera Allah",
+        "Kumedzwa nehove huru nekuda kwekutiza basa rako"
+      ],
+      "answer": "Kupa chibayiro chakarambwa, zvichikonzera kuponda kwekutanga"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Gunguwo rakatumwa naAllah kuzoratidza kuvigwa",
+        "Mafashamo makuru akanyudza vanhu vose",
+        "Tsvimbo yakashanduka kuita nyoka mhenyu",
+        "Ngamera hadzi yakabuda mugomo redombo",
+        "Chigaro choumambo chakanaka kwazvo chakatakurwa nemhepo ine simba"
+      ],
+      "answer": "Gunguwo rakatumwa naAllah kuzoratidza kuvigwa"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akava wevanozvidemba, akaremerwa nemhosva yekutanga yakaitwa",
+        "Akaregererwa naAllah uye akapihwa Paradhiso isingaperi",
+        "Akakwidziridzwa pakakwirira sechiporofita neuchenjeri",
+        "Akaponeswa netsitsi dzaMwari mushure mekushevedzera kubva murima guru",
+        "Akapiwa simba pamusoro pemajini, mhepo, negungwa"
+      ],
+      "answer": "Akava wevanozvidemba, akaremerwa nemhosva yekutanga yakaitwa"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

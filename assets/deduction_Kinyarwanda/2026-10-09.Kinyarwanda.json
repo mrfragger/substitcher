@@ -1,0 +1,61 @@
+{
+  "title": "Umuhamagaro Utarasobanuwe mu Gihugu cy'Ubwirasi",
+  "intro": "Uhagaze mu matongo y’umuco wahoze ari ukomeye, aho imbaraga n’ubwibone bitagiraga imipaka. Intumwa yagendaga hagati yabo, ihamagara ukuri, ariko imitima yabo yaranangiye. Umuburo ntiwubahirizwaga, maze ijuru ubwaryo riba igikoresho cy’uburakari. Ni nde wari intumwa, kandi ni iki cyabaye ku banze umuhamagaro?",
+  "clues": [
+    "Noherejwe ku bantu badafite imbaraga nk'izo kandi bubatse urwibutso ku birunga byose.",
+    "Abantu banjye bibwiraga ko ari bo badashobora gutsinda, maze baravuga bati 'Ni nde uturusha imbaraga mu mbaraga?'",
+    "Nabahamagariye gusenga Allah wenyine, ariko banshinja ubupfapfa no kubeshya.",
+    "Barampamagaye ngo nzazane igihano nasezeranye niba mvugisha ukuri.",
+    "Imana yabatumyeho umuyaga w'umukungugu utarokoye ikintu na kimwe wabayeho.",
+    "Njye n'abo nemeye hamwe nanjye twarokowe n'imbabazi za Allah, mu gihe abatizera barimbuwe burundu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Umuhanuzi Hud",
+        "Intumwa Salih",
+        "Intumwa Shuaib",
+        "Umuhanuzi Lut",
+        "Umuhanuzi Nuh"
+      ],
+      "answer": "Umuhanuzi Hud"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Umuyaga ukaze cyane washenye abatizera",
+        "Umwuzure ukomeye watwikiriye abatizera",
+        "Imvura y'amabuye yaguye",
+        "Induru ikomeye yafashe abatizera",
+        "Umutingito wibasiye abatizera"
+      ],
+      "answer": "Umuyaga ukaze cyane washenye abatizera"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Umuyaga udashira",
+        "Inkuge y'ibiti",
+        "Ingamiya y'ingore",
+        "Imvura y'amabuye y'ibumba",
+        "Umuriro ugurumana"
+      ],
+      "answer": "Umuyaga udashira"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Hud n'abizera barakijijwe, kandi abatizera bararimbuka",
+        "Hud yazamuwe mu ntera ikomeye",
+        "Hud yishwe n'abantu be",
+        "Abantu ba Hud barihannye maze bararokoka",
+        "Hud yavuye mu bantu be mbere y'uko hagira igihano icyo ari cyo cyose"
+      ],
+      "answer": "Hud n'abizera barakijijwe, kandi abatizera bararimbuka"
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

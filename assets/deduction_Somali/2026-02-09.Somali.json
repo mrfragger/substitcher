@@ -1,0 +1,60 @@
+{
+  "title": "Tijaabada Hirarka Hoostiisa",
+  "intro": "Nebi, oo uu culays ku saaray hawshiisa, ayaa qaatay go'aan ka fogeeyay dadkiisa oo galay imtixaan aan la filayn. Safarkiisu wuxuu galay isbeddel cajiib ah, isagoo tijaabiyay iimaankiisa iyo dulqaadkiisa si qoto dheer. Ma ka soo saari kartaa faahfaahinta dhacdadan aan caadiga ahayn tilmaamaha la bixiyay?",
+  "clues": [
+    "Nebi ayaa loo diray dad, laakiin si degdeg ah ayuu u baxay, isagoo dareemaya niyad jab ka dhashay diidmadooda.",
+    "Safarkiisii ​​wuxuu ku geeyay badda, halkaas oo uu ku fuulay markab aad u culus oo raadinaya marin.",
+    "Duufaan weyn ayaa kacday, taasoo halis gelisay markabka, waxaana la go'aansaday in hal qof la tuuro si loo fududeeyo culeyska, iyadoo lagu go'aaminayo saami.",
+    "Waxaa liqay xayawaan qoto dheer, dhacdo mucjiso ah oo ku timid doonista Ilaah.",
+    "Isagoo ku jira caloosha makhluuqa, ayuu u yeedhay Rabbigiis, isagoo toobad keenaya oo Alle ku ammaanaya mugdiga dhexdiisa.",
+    "Ka dib muddo duco xooggan, waxaa lagu tuuray xeeb cidla ah, isagoo daciif ah laakiin nool, ka dibna wuu soo laabtay si uu u ogaado in dadkiisu ugu dambeyntii rumaysteen."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Nabi/Qof",
+      "options": [
+        "Nabi Nuux",
+        "Nabi Luut",
+        "Nabi Muuse",
+        "Nabi Yuunis",
+        "Nabi Yuusuf"
+      ],
+      "answer": "Nabi Yuunis"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Daadkii Nuux",
+        "Burburkii Sodom",
+        "Safarka caloosha kalluunka weyn",
+        "Kala qaybsanaanta badda",
+        "Muujinta kaynta gubanaysa"
+      ],
+      "answer": "Safarka caloosha kalluunka weyn"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Sanduuqa",
+        "Buur Siinay",
+        "Usha Muuse",
+        "Kalluunka Weyn",
+        "Ceelkii Yuusuf"
+      ],
+      "answer": "Kalluunka Weyn"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Axdi cusub oo lala galay aadanaha",
+        "Dhalasho mucjiso ah oo u dhalatay dadkiisa",
+        "Boqortooyo loo aasaasay abtirsiintiisa",
+        "Ku soo laabashadii dadkiisii ​​oo markaas rumaysnaa",
+        "Guul laga gaaray taliye kaligii talis ah"
+      ],
+      "answer": "Ku soo laabashadii dadkiisii ​​oo markaas rumaysnaa"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

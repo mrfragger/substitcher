@@ -1,0 +1,61 @@
+{
+  "title": "Kurow a Ɛgyee Bere Di",
+  "intro": "Wɔ ɔsoro mmɔborohunu ho abakɔsɛm mu no, mpɔtam bi wɔ hɔ a na wɔn nsakrae yɛ bere a wɔbom hui. Worebɛda wɔn asɛm no adi —asɛm a ɛfa kɔkɔbɔ, adwensakra, ne bere a wɔde gye wɔn ahome a ɛma wɔda nsow wɔ aman afoforo nkrabea ho.",
+  "clues": [
+    "Na yɛyɛ nkurɔfo a wɔsomaa ɔbɔfo kɔ yɛn nkyɛn, na mfiase no yɛdan yɛn ho fii ne frɛ no ho.",
+    "Bere a asotwe a ɛreba ho sɛnkyerɛnne daa adi pefee no, yehuu nokware a ne kɔkɔbɔ no yɛ.",
+    "Yɛde ahonu a efi komam danee yɛn Awurade nkyɛn, na wogyee yɛn gyidi toom.",
+    "Woyii asotwe a na wɔhyɛɛ yɛn so no fii hɔ esiane yɛn gyidi nti.",
+    "Wɔfa yɛn asɛm no ka sɛ ɛyɛ soronko wɔ nkurow a wogye dii bere a wohuu asotwe no akyi no mu.",
+    "Na yɛyɛ odiyifo a whale no menee no no nkurɔfo, nanso wogyee yɛn fii ɔsɛe mu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Nnipa a wɔwɔ Yunus",
+        "Nnipa a wɔwɔ Nuh",
+        "Nnipa a wɔwɔ Hud",
+        "Nnipa a wɔwɔ Salih",
+        "Nnipa a wɔwɔ Lut"
+      ],
+      "answer": "Nnipa a wɔwɔ Yunus"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Nsuyiri a ɛsɛee ade kɛse",
+        "Mframa a ano yɛ den a ɛbɔ",
+        "Aniwu asotwe a na ɛreba a wɔasiw ano",
+        "Asase a ɛremene wɔn",
+        "Abo a ɛtɔ gu fam"
+      ],
+      "answer": "Aniwu asotwe a na ɛreba a wɔasiw ano"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Adaka no",
+        "Yoma a ɔyɛ ɔbea no",
+        "Kurow a emufo yɛ mpem ɔha",
+        "Musa adwumayɛfoɔ no",
+        "Qarun akoraeɛ no"
+      ],
+      "answer": "Kurow a emufo yɛ mpem ɔha"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wɔsɛee wɔn koraa",
+        "Wɔmaa wɔn anigye kosii bere bi",
+        "Wɔdanee wɔn yɛɛ akraman",
+        "Wɔmenee wɔn",
+        "Asase no menee wɔn"
+      ],
+      "answer": "Wɔmaa wɔn anigye kosii bere bi"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Indahiro y'inda",
+  "intro": "Mu byumba by'umutima wiyeguriye Imana, habayeho isezerano ryera. Iri sezerano ryari rishingiye ku buzima butaragera, kandi isohozwa ryaryo ryahindura inzira y'umurage w'umwuka iteka ryose. Injira mu ibanga ry'ubugingo isezerano rye risubiramo iteka ryose.",
+  "clues": [
+    "Nabaga mu rugo ruzwiho kubaha Imana, kandi nifuzaga impano yanyegereza Allah.",
+    "Nagiranye isezerano rikomeye n'Umwami wanjye ku byerekeye ibyari bihishe muri njye, ndahiye kubyegurira umurimo we byuzuye.",
+    "Igihe cyo kumenyekanisha inkuru kigeze, ibyo nakiriye byari bitunguranye, ariko nabihaye Umumenyi w’Ibintu Byose.",
+    "Nahaye umwana wanjye izina rigaragaza ubwitange, kandi namusabye kurindwa n'abamukomokaho n'uwavumwe.",
+    "Umwana wanjye yashyizwe mu buturo bwera, ayobowe n'umuhanuzi wo mu muryango wa Aroni.",
+    "Umukobwa wanjye yamenyekanye kubera ubuziranenge bwe, atoranywa kurusha abandi bagore bose, nyuma aba nyina w'umuhanuzi ukomeye, nubwo atabayemo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Umugore wa Imran",
+        "Nyina wa Musa",
+        "Umugore wa Farawo",
+        "Umugore wa Al-Aziz",
+        "Nyina wa Isa"
+      ],
+      "answer": "Umugore wa Imran"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Umuhigo wo kwegurira umwana we utaravuka ku rusengero",
+        "Ikizamini cyo kwihangana mu gihe cy'uburwayi bumaze igihe kirekire",
+        "Urugendo rugana mu gihugu cya kure kubera ukwizera",
+        "Guhangana n'umwami w'umunyagitugu",
+        "Ifunguro riturutse mu ijuru ritangwa mu buryo bw'igitangaza"
+      ],
+      "answer": "Umuhigo wo kwegurira umwana we utaravuka ku rusengero"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Umwana witwa Mariyamu",
+        "Inkoni yahindutse inzoka",
+        "Inyana ya zahabu",
+        "Iriba rya Zamzam",
+        "Ubwato bwa Nowa"
+      ],
+      "answer": "Umwana witwa Mariyamu"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Umwana we yakiriwe na Allah maze akurira mu bwitonzi bw'ubuhanuzi",
+        "Umwana we yabaye umuhanuzi kandi yahawe igitabo cy'Ibyanditswe",
+        "Umwana we yazamuwe mu ijuru",
+        "Umwana we yubatse inzu ndende",
+        "Umwana we yahawe ubwenge n'ubutunzi butagira ingano"
+      ],
+      "answer": "Umwana we yakiriwe na Allah maze akurira mu bwitonzi bw'ubuhanuzi"
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

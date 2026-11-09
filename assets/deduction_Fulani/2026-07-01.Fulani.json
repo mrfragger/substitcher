@@ -1,0 +1,61 @@
+{
+  "title": "Ruuhu mo Innde mum alaa, mo darii e leñol ngol fotaani",
+  "intro": "E nder kelle Qur’aana, ina woodi limooje ɗe inɗe mum en ndartinaa ngam miijaade e jaŋdeeji mum en. Gooto e ɗeen ruuhuuji jibinaa ko e nder leñol ngol jaɓaani nulaaɓe mum, tee oo neɗɗo ina joginoo hoolaare suuɗnde seerndi ɗum en. Nde halkaare ari, oo neɗɗo dariima e goongɗingol maɓɓe sirlu. Mbele aɗa waawi udditaade sifaa ooɗoo sifaa sirlu jeertinoowo leñol mum en hade yamiroore sakkitiinde jippaade ?",
+  "clues": [
+    "Mi hoɗii e leñol keewngol yeddude nelaaɓe ɓe Alla neli e mum en.",
+    "Mi nanndaani e leñol am, mi anndi goonga nde nulaaɗo ari e maandeeji laaɓtuɗi ummoraade e Joomiraawo am.",
+    "Mi suuɗii gooŋɗinal am e tooñooɓe am, miɗo anndi ɓe mbonnat mi so ɓe njiytii gooŋɗinal am.",
+    "Nde yamiroore jukkungo ɓadtii, mi hollitii e peeñcu am, mi jeertinii leñol am yo hisnu koye mum en.",
+    "Mi siftinii 6e wonde miin ko mi nulaaɗo koolaaɗo, mi seerndaani e nelaa6e ko adii, kadi 6e poti ko rewde so wonaa Alla.",
+    "Yimɓe am ina tuuma mi e majjere e majjere, kono tan jukkungo ngo ɓe njeertinaa ngo, haa jooni ina jokki e maɓɓe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol ko ngonmi?",
+      "options": [
+        "Annabi Huudu, nulaaɗo faade e yimɓe Aad",
+        "Gorko gooŋɗinɗo jeyaaɗo e leñol Annabi Huudu cokaaɗo",
+        "Laamɗo leñol Aad caliiɗo goonga",
+        "Sehil Annabi Saalihu sikkitiiɗo maandeeji Alla",
+        "Maleyka nelaaɗo ngam halkude yimɓe Aad"
+      ],
+      "answer": "Gorko gooŋɗinɗo jeyaaɗo e leñol Annabi Huudu cokaaɗo"
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "Ñaawoore yooro e heege jarriborde muñal maɓɓe",
+        "Ñaawoore bayyinde iimanaagal yeeso leñol keefeero tooñoowo",
+        "Ñaawoore mahde laana ngam daɗde e ilam mawɗam",
+        "Ñaawoore werteede e yiite ngam goorɗinde Alla",
+        "Ñaawoore jarribeede e jawdi e ɓamtaare"
+      ],
+      "answer": "Ñaawoore bayyinde iimanaagal yeeso leñol keefeero tooñoowo"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Wuro Makka ɗo suudu teddundu ndu mahiraa",
+        "Laddeeji jeereende leñol jeddi nelaaɗo mum en",
+        "Koɗli Madiyan ɗo Annabi Shu'aybu neldaa",
+        "Daande maayo Misra ɗo Annabi Muusaa tawaa ɗoo",
+        "Falnde yimɓe Aad, fiyi ɗum henndu ɓuuɓndu"
+      ],
+      "answer": "Laddeeji jeereende leñol jeddi nelaaɗo mum en"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "Mi dañaama e laana nguurmi haa Alla yiɗi",
+        "Yimɓe am ngoongɗinii caggal am, njiidaama e laawol peewal",
+        "Mbari-mi ko leñol am kono yurmeende Alla ƴetti ruuhu am",
+        "Mi tuubnii caggal nde jarribaama Allah jaɓi tuubu am",
+        "Mi waylitaama, mi wonti sanamu mo leñol am rewatnoo caggal maayde am"
+      ],
+      "answer": "Mbari-mi ko leñol am kono yurmeende Alla ƴetti ruuhu am"
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

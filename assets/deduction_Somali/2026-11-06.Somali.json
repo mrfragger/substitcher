@@ -1,0 +1,61 @@
+{
+  "title": "Dhiiggii Ugu Horreeyay Ee Xasad Ku Daatay",
+  "intro": "Bal qiyaas maalmihii ugu horreeyay ee aadanaha, markii adduunku uu ahaa hal qoys. Waxaad daawanaysaa iyadoo laba allabaryo la hor dhigayo Alle - mid la aqbalay, kan kalena la diiday. Xaasidnimadu waxay xidid ku leedahay qalbi, hanjabaadna waxaa lagu xanshaashaadaa caro. Waxa xiga waxay taariikhdu calaamad u reebi doontaa weligeed, xitaa shimbir yar ayaa macallin noqon doonta.",
+  "clues": [
+    "Waxaan ka mid ahay qoyska ugu horreeya adduunka.",
+    "Waxaan u soo bandhigay Alle qurbaan, laakiin taydii lama aqbalin halka tan kale la aqbalay.",
+    "Waxaan si xaasidnimo leh u hadlay oo ku hanjabay inaan dili doono qof.",
+    "Dilkii ugu horreeyay ee aan xaqdarada ahayn ayaan dhulka ku geystay.",
+    "Waxaan arkay tuke dhulka xoqaya si uu ii tuso sida loo qariyo meydka.",
+    "Waxaan ka qoomameeyay oo aan ka mid noqday kuwa khasaaray wixii ay gacmahaygu sameeyeen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Qabiil (Qaa'in), ina Aadan",
+        "Samiri, sameeyaha weysha",
+        "Namrud, kaligii-taliyihii la dooday Ibraahim.",
+        "Azar, oo ahaa sameeyaha sanamyada",
+        "Kan'an, wiilkii Nuux ee qarqiyay"
+      ],
+      "answer": "Qabiil (Qaa'in), ina Aadan"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Dil walaalkiis oo loo geystay xaasidnimo ka dib markii la diiday dalabkii la soo bandhigay",
+        "Dhisidda munaarad dheer si aad u eegto samada",
+        "Samaynta weyl dahab ah oo loo sameeyo cibaadada",
+        "Dalbashada miis samada ka soo go'ay",
+        "Hogaaminaya ciidan maroodi ah si ay u burburiyaan Kacbada"
+      ],
+      "answer": "Dil walaalkiis oo loo geystay xaasidnimo ka dib markii la diiday dalabkii la soo bandhigay"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Tuke dhulka xoqaya si uu u muujiyo aaska",
+        "Wuu yar oo dahab ah oo hoos u dhacay",
+        "Doon weyn oo biyaha daadka dul saaran",
+        "Ul abeeso noqotay",
+        "Miis lagu dul fidiyay cunto samada ka timid"
+      ],
+      "answer": "Tuke dhulka xoqaya si uu u muujiyo aaska"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Wuxuu noqday mid qoomameynaya oo ka mid ah kuwa khasaaray",
+        "Waxaa ku qaraqmay daad weyn",
+        "Dhulku wuxuu liqay khasnad",
+        "Waxaa ku dhacay baras muddo toddobo sano ah",
+        "Waxaa la siiyay boqortooyo leh xakamaynta dabaysha"
+      ],
+      "answer": "Wuxuu noqday mid qoomameynaya oo ka mid ah kuwa khasaaray"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

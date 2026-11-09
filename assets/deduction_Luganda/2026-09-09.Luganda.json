@@ -1,0 +1,61 @@
+{
+  "title": "Omwoyo Ogusooka Okuyimirira",
+  "intro": "Edda ennyo ng’omubaka yenna tannatambula ku nsi, ng’ekyawandiikibwa kyonna tekinnabikkulwa, ekitonde ekitali kifaanana kirala kyonna kyabaawo. Omwoyo guno gwabumbibwa emikono egy’obwakatonda, ne guweebwa ekifo eky’obulungi obutafaanana, era ne gugezesebwa mu ngeri egenda okuwulikika mu byafaayo by’omuntu byonna. Ekyaddirira kyali mboozi ya bunafu, okwenenya mu bwesimbu, n’enkomerero eyandikyusizza ekkubo ly’obutonzi emirembe gyonna. Osobola okuteebereza ono ani?",
+  "clues": [
+    "Nabumbibwa emikono gy’Omusaasizi ennyo okuva mu nfuufu yennyini ey’ettaka",
+    "Nnaweebwa amaka ag’obulungi obutafaanana, nga tewali njala wadde obukoowu buyinza kunkwatako",
+    "Nalagirwa obutasemberera muti gumu, kubanga gwali gugaaniddwa",
+    "Nze ne munnange twalimbibwa ne tusemberera omuti ogwagaanibwa, nga tumenya ekiragiro kya Mukama waffe",
+    "Twaddayo eri Mukama waffe n’okwenenya okw’amazima, ne tusonyiyibwa okusobya kwaffe",
+    "Mu ffe, obuntu bwonna bwava; Nze asoose nnyo okutambulira ku nsi eno"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Nabbi Adamu",
+        "Nabbi Musa",
+        "Nabbi Nuh",
+        "Nabbi Yusuf",
+        "Nabbi Isa"
+      ],
+      "answer": "Nabbi Adamu"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okukemebwa omuti ogugaaniddwa",
+        "Okulwanagana ne Falaawo",
+        "Okuzimba Essanduuko ennene",
+        "Ssaddaaka y’omwana omwagalwa",
+        "Okusuulibwa mu muliro omunene"
+      ],
+      "answer": "Okukemebwa omuti ogugaaniddwa"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Omuti Ogugaanibwa",
+        "Ekisaka Ekyokya",
+        "Omuggo gwa Zaabu",
+        "Essanduuko Ennene",
+        "Ennyana ya Zaabu"
+      ],
+      "answer": "Omuti Ogugaanibwa"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yasindikibwa wansi ku nsi ng’omulabirira w’obuntu eyasooka",
+        "Falaawo n’eggye lye babbira mu nnyanja",
+        "Amataba amanene gaasaanyaawo ababi",
+        "Omuliro gwafuuka nnyogovu era nga gwa mirembe",
+        "Yaweebwa obuyinza ku bwakabaka bwa Misiri"
+      ],
+      "answer": "Yasindikibwa wansi ku nsi ng’omulabirira w’obuntu eyasooka"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

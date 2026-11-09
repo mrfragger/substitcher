@@ -1,0 +1,61 @@
+{
+  "title": "Ọkàn Tí A Fi Sílẹ̀ ti Iná Mímọ́",
+  "intro": "Kí o tó dé, ìtàn ìgboyà àrà ọ̀tọ̀ kan wà níbẹ̀, níbi tí ẹnìkan ti gbìyànjú láti tako àwọn ìgbàgbọ́ tó fìdí múlẹ̀ jùlọ nínú gbogbo àṣà ìbílẹ̀ kan. Tẹ̀lé àwọn ọ̀rọ̀ ìfọ̀rọ̀wérọ̀ wọ̀nyí láti ìgbà àtijọ́, ìwọ yóò sì ṣàwárí ìgbésí ayé kan tí ìgbàgbọ́ aláìdúróṣinṣin, ìgbàlà ìyanu, àti fífi ìpìlẹ̀ lélẹ̀ tí yóò ṣe àtúnṣe ìrìn àjò ẹ̀mí àwọn bílíọ̀nù ènìyàn. Tẹ̀lé gbogbo àmì náà dáadáa — iná mímọ́ náà ṣì ń rántí.",
+  "clues": [
+    "A bí mi sí ilé kan tí ó ń bọ̀wọ̀ fún àwọn ẹ̀dá ọ̀run àti àwọn ère gbígbẹ́, síbẹ̀ ohun kan nínú mi kò gba ohun tí wọ́n ń sìn.",
+    "Mo dojú ìjà kọ alákòóso alágbára jùlọ ní ilẹ̀ mi, mo fọ́ àwọn ère tí àwọn ènìyàn mi ń forí balẹ̀ fún túútúú, mo sì kéde pé Ẹlẹ́dàá ọ̀run nìkan ló yẹ kí wọ́n fi ara wọn fún.",
+    "Wọ́n pàṣẹ iná kan ní orúkọ mi, ṣùgbọ́n mo kéde pé Ẹni tí mo ń sìn nìkan ni yóò gbà mí là — wọ́n sì pàṣẹ pé kí iná náà tutù kí ó sì wà ní ààbò.",
+    "Mo fi gbogbo ohun tí mo mọ̀ nípa àṣẹ Ọlọ́run sílẹ̀, mo ń rìn kiri láàrín àwọn àfonífojì gbígbẹ pẹ̀lú ìdílé mi, mo gbẹ́kẹ̀lé ìpèsè kan tí mi ò tíì rí.",
+    "A dúró lẹ́gbẹ̀ẹ́ àkọ́bí ọmọkùnrin mi ní àfonífojì aláìlágbára kan, a sì gbé ìpìlẹ̀ ilé mímọ́ kan ró papọ̀, ibi mímọ́ tí a yàn fún gbogbo àwọn tí wọ́n bá fara mọ́.",
+    "Wọ́n mọ̀ mí sí Khalilullah — ọ̀rẹ́ tímọ́tímọ́ ti Aláàánú jùlọ — orúkọ mi sì di èyí tí a so mọ́ ìgbàgbọ́ ìfarabalẹ̀ àti ìtẹríba títí láé."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Ibrahim (Abrahamu)",
+        "Wòlíì Mósà (Mósà)",
+        "Wòlíì Nóà (Nóà)",
+        "Wòlíì Isa (Jesu)",
+        "Ànábì Muhamadu ﷺ"
+      ],
+      "answer": "Wòlíì Ibrahim (Abrahamu)"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Jíjẹ́ tí a gbé sínú iná tí ń jó láti ọwọ́ apànìyàn kan",
+        "Jíjẹ́ tí a gbé mì nínú ẹja ńlá kan ní òkun",
+        "Àwọn arákùnrin owú tí wọ́n sọ wọ́n sí ihò",
+        "Tí a bá gbé e sókè lórí ẹ̀dá abìyẹ́ kan",
+        "Lílo ìkún omi ńlá nínú ohun èlò igi"
+      ],
+      "answer": "Jíjẹ́ tí a gbé sínú iná tí ń jó láti ọwọ́ apànìyàn kan"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ilé Mímọ́ (Kaaba)",
+        "Ohun èlò ńlá onígi tí a kọ́ sórí òkè kan",
+        "Ọ̀pá tí ó lè pín òkun sí méjì",
+        "Àpáta oorun gígùn pẹ̀lú ajá olóòtítọ́ kan",
+        "Àkájọ òfin tí a fi hàn tí a gbé sórí òkè kan"
+      ],
+      "answer": "Ilé Mímọ́ (Kaaba)"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Wọ́n mọ̀ ọ́n sí Khalilullah, ọ̀rẹ́ tímọ́tímọ́ Allah",
+        "Ó darí àwọn ènìyàn kan kọjá òkun kan tí ó pín sí méjì sí ibi ààbò",
+        "Wọ́n fún un ní àṣẹ lórí afẹ́fẹ́ àti agbára àìrí",
+        "Ó di oníwòsàn tí a fi àwọn ìwòsàn ìyanu bùkún",
+        "Ṣọkan awọn ẹya mejila ti o tuka labẹ majẹmu kan"
+      ],
+      "answer": "Wọ́n mọ̀ ọ́n sí Khalilullah, ọ̀rẹ́ tímọ́tímọ́ Allah"
+    }
+  },
+  "verseRef": "6:79",
+  "arabic": "إِنِّى وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ حَنِيفًۭا ۖ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ",
+  "verse": "Indeed, I have turned my face [i.e., self] toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allāh.\" (6:79)"
+}

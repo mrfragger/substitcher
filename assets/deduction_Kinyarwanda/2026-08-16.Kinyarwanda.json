@@ -1,0 +1,61 @@
+{
+  "title": "Ijwi Rituje mu Cyumba",
+  "intro": "Isengesho ryasubiwemo mu ituze ryo mu cyumba cyera kera cyane, riva mu mutima ushaje urarikira ibyo isi yari yavuze ko bidashoboka. Uyu muntu, wari umaze imyaka myinshi kandi uremerewe n'ibibazo by'ejo hazaza, yiyambaje Umwami wabo yinginga. Icyakurikiyeho ni igisubizo cy'Imana cyarenze ibyo abantu bose bari biteze—igihamya cy'imbabazi z'Uwitabye umuhamagaro w'ibyihebe.",
+  "clues": [
+    "Nahamagaye Umwami wanjye mu ibanga, niherera mu cyumba aho niyeguriye kumuramya.",
+    "Nemereye Umwami wanjye ko natinyaga abazaba nyuma yanjye, nhangayikishijwe no kuyoborwa n'abantu banjye nimara kugenda.",
+    "Ubusaza bwari bwaramfashe—amagufwa yanjye yari yaracitse intege kandi umusatsi w'umweru wari warakwirakwiriye ku mutwe wanjye.",
+    "Uwo twashakanye yari ingumba ubuzima bwe bwose, ariko nakomeje gusaba Umwami wanjye kumpa umuragwa uturuka imbere ye.",
+    "Nasabye ikimenyetso, maze Umwami wanjye aransubiza ambuza kuvugana n'umuntu uwo ari we wese mu gihe cy'amajoro atatu, mu gihe nari nkiri muzima.",
+    "Nasezeranijwe ko nzabyara umuhungu uzitwa Yahya, izina Umwami wanjye yavuze ko ritigeze rihabwa undi muntu uwo ari we wese mbere."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Intumwa Zakariya",
+        "Umuhanuzi Nuh",
+        "Umuhanuzi Musa",
+        "Intumwa y'Imana Yusufu",
+        "Intumwa Dawidi"
+      ],
+      "answer": "Intumwa Zakariya"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Gusengera umuragwa mu zabukuru ufite uwo bashakanye w'ingumba",
+        "Gutabwa mu muriro ugurumana",
+        "Kumirwa n'ifi nini mu mwijima",
+        "Kwihanganira gutakaza umuryango, ubutunzi n'ubuzima",
+        "Ategetswe kubaka ubwato bunini"
+      ],
+      "answer": "Gusengera umuragwa mu zabukuru ufite uwo bashakanye w'ingumba"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Icyumba cyo gusenga (mihrab)",
+        "Inkoni yahindutse inzoka",
+        "Inkuge nziza y'ibiti",
+        "Ubusitani bufite isoko idasanzwe",
+        "Umusozi aho inyoni ziteranira"
+      ],
+      "answer": "Icyumba cyo gusenga (mihrab)"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Yahawe izina ry'umuhungu mu buryo bw'igitangaza nubwo yari ageze mu zabukuru zikabije",
+        "Nakijijwe umuriro ugurumana n'itegeko ry'Imana",
+        "Umwuzure ukomeye washenye abatizera",
+        "Gusubizwa mu muryango, ubutunzi, n'ubuzima bwiza nyuma yo kwihangana",
+        "Farawo n'ingabo ze barohamye mu nyanja"
+      ],
+      "answer": "Yahawe izina ry'umuhungu mu buryo bw'igitangaza nubwo yari ageze mu zabukuru zikabije"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

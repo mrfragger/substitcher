@@ -1,0 +1,61 @@
+{
+  "title": "Ìṣúra Tí Ó Rọ Sílẹ̀ Lábẹ́ Ìgbéraga",
+  "intro": "Fojú inú wo bí o ṣe dúró níwájú òkìtì ọrọ̀ tó pọ̀ tó bẹ́ẹ̀ tí gbígbé kọ́kọ́rọ́ nìkan yóò fi mú kí àwùjọ àwọn alágbára kan rẹ̀wẹ̀sì. Ní àyíká rẹ, ohùn ń rọni láti ní ìrẹ̀lẹ̀ àti ìrántí, síbẹ̀ ìgbéraga máa ń pọ̀ ju ọpẹ́ lọ. Kí ló máa ń ṣẹlẹ̀ nígbà tí ọrọ̀ bá di ìdánwò tí ìgbéraga sì máa ń pa àbájáde rẹ̀ mọ́?",
+  "clues": [
+    "Mo jẹ́ ọ̀kan lára ​​àwọn ènìyàn Mùsà, síbẹ̀ mo ṣẹ̀ sí wọn.",
+    "Wọ́n fún mi ní ìṣúra tó pọ̀ tó bẹ́ẹ̀ tí kọ́kọ́rọ́ wọn fi di ẹrù fún àwọn ọkùnrin alágbára.",
+    "Àwọn ènìyàn mi gbà mí nímọ̀ràn pé kí n má ṣe yọ̀, kí n sì máa wá Ìgbẹ̀yìn ayé láì gbàgbé ìpín mi nínú ayé yìí.",
+    "Mo sọ pé ìmọ̀ tí mo ní nìkan ni wọ́n fi fún mi ní ohun tí mo ní.",
+    "Mo rìn lọ síwájú àwọn ènìyàn mi nínú ọ̀ṣọ́, àwọn tí wọ́n sì fẹ́ ayé ayé sì fẹ́ irú ohun tí mo ní.",
+    "Ilẹ̀ gbé mi mì pẹ̀lú ilé mi, kò sí ẹni tí ó lè ràn mí lọ́wọ́, bẹ́ẹ̀ ni èmi kò lè ran ara mi lọ́wọ́."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Kárún",
+        "Namrud",
+        "Jalut",
+        "Àsà",
+        "Qabil"
+      ],
+      "answer": "Kárún"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ó ń ṣògo nípa ọrọ̀, ó sì kọ̀ láti gba ojúrere Ọlọ́run láìka ìmọ̀ràn sí.",
+        "Ó pe Ibrahim níjà nípa fífi ẹ̀mí àti ikú fúnni.",
+        "Ó kó ẹgbẹ́ ọmọ ogun lọ sí Talut àti Dawud",
+        "Àwọn ère gbígbẹ́ fún àwọn ènìyàn láti máa jọ́sìn",
+        "Pa arakunrin kan nitori ilara lori ẹbọ kan"
+      ],
+      "answer": "Ó ń ṣògo nípa ọrọ̀, ó sì kọ̀ láti gba ojúrere Ọlọ́run láìka ìmọ̀ràn sí."
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Àwọn kọ́kọ́rọ́ sí àwọn ìṣúra ńláńlá",
+        "Àpótí Májẹ̀mú",
+        "Ọmọ màlúù wúrà tí a fi ohun ọ̀ṣọ́ ṣe",
+        "Ìdá omi kan láàrín àwọn òkè méjì",
+        "Ìràwọ̀ mọ́kànlá nínú àlá kan"
+      ],
+      "answer": "Àwọn kọ́kọ́rọ́ sí àwọn ìṣúra ńláńlá"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ilẹ̀ gbé e mì pẹ̀lú ibùgbé àti ọrọ̀",
+        "Mo rì sínú òkun nígbà tí mo ń lépa Mósè",
+        "Òkúta kan láti inú kànnàkànnà Dáfídì lù ú lulẹ̀",
+        "Afẹ́fẹ́ ńlá pa á run nítorí pé ó lù ràkúnmí kan ní ìdí",
+        "Ó di ọ̀bọ fún rírú ọjọ́ ìsinmi"
+      ],
+      "answer": "Ilẹ̀ gbé e mì pẹ̀lú ibùgbé àti ọrọ̀"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

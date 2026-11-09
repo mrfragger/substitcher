@@ -1,0 +1,61 @@
+{
+  "title": "Abashitsi badasanzwe bo mu gisagara gikikujwe n'inkuta",
+  "intro": "Hari umugwi washitse ku marembo y’igisagara abantu baco batigeze bamenya ukuri. Bazana ubutumwa, ariko abahatuye barahinduka abansi, batera ubwoba ko bazogira ubukazi. Yamara, ijwi rimwe ryaradutse rivuye ahantu umuntu atari yiteze kugira ngo arwanire abo banyamahanga, ivyo bikaba vyatumye ibintu bihinduka bitangaje.",
+  "clues": [
+    "Twinjiye mu gisagara abantu baco bari barengewe n’ukutemera.",
+    "Baraturaba bacika intege, bati: 'Muri ibiremwa bisanzwe nkatwe.'",
+    "Twarababuriye, ariko baradutera amabuye.",
+    "Umuntu umwe yarirutse avuye ku mpera y’igisagara ya kure cane kugira ngo yemeze ukuri kwacu.",
+    "Yabwiye abantu biwe ati: 'Kubera iki ntasenga Uwandemye?'",
+    "Ukwihakana kw’igisagara kwarangiye n’igisasu kimwe, maze aho bari bahora batwengera mw’ijigo haba uguceceka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Twebwe Turi Bande?",
+      "options": [
+        "Intumwa za Ya-Sin .",
+        "Abigishwa ba Yesaya .",
+        "Abantu bo mu mwobo",
+        "Abapfumu ba Farawoni",
+        "Uwizera Ya-Sin"
+      ],
+      "answer": "Intumwa za Ya-Sin ."
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Kwanka no gutera ubwoba ko bazoterwa amabuye",
+        "Kujugunywa mu muriro ukaze .",
+        "Ikigeragezo co kwihanganira umwana yazimiye",
+        "Itongo ryasambutse .",
+        "Urugendo rwo mu kiyaga"
+      ],
+      "answer": "Kwanka no gutera ubwoba ko bazoterwa amabuye"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Iherezo rya kure cane ry'igisagara",
+        "Ikiyaga Gitukura",
+        "Umugende w'umuriro",
+        "Isenga ry'ubuhungiro",
+        "Imbohe yo muri Egiputa ."
+      ],
+      "answer": "Iherezo rya kure cane ry'igisagara"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Igisagara carasambutse n'induru imwe gusa .",
+        "Ikiyaga cagabanutse kiroha ingabo .",
+        "Umuriro warakonje kandi uratekanye .",
+        "Iryo tongo ryaturiwe n'umuriro wo mw'ijuru .",
+        "Iyo balene yasubije uwo muntu ku nkombe"
+      ],
+      "answer": "Igisagara carasambutse n'induru imwe gusa ."
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

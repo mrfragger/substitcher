@@ -1,0 +1,61 @@
+{
+  "title": "Musha uri pamhenderekedzo yekutongwa",
+  "intro": "Unozviwana uri mumusha uri pamhenderekedzo yegungwa, uko ruzha rwemafungu runosanganiswa neruzha rwevanhu vakanganikwa. Vakapihwa murairo wekuzorora, asi makaro avo akatungamira kuchirango chichiri kutaurwa nezvacho nenzwi rakanyarara. Unogona kuziva kuti vaiva vanaani?",
+  "clues": [
+    "Taigara pamhenderekedzo yegungwa uye takapihwa murairo wekuchengeta zuva rekuzorora.",
+    "Pazuva iroro, hove dzaiuya kwatiri dzakawanda, asi takarambidzwa kudzitora.",
+    "Vamwe vedu takanyevera nezvekutadza, asi vamwe vakaronga kubata hove zvakadaro.",
+    "Takatyora murairo mutsvene uye takazviunzira chirango chakakomba.",
+    "Chirango chedu chaive shanduko yakatisiya takaora mwoyo uye takanyadziswa.",
+    "Takashandurwa kuita tsoko, chiratidzo kune vese vaizotevera."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Vanhu veSabata",
+        "Vanhu veThamud",
+        "Vanhu ve'Ad",
+        "Vanhu veBako",
+        "Vanhu veNzou"
+      ],
+      "answer": "Vanhu veSabata"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kubata hove paSabata",
+        "Kunamata mhuru yendarama",
+        "Kuramba shoko raHud",
+        "Kuuraya ngamera hadzi",
+        "Kuvaka shongwe kuenda kudenga"
+      ],
+      "answer": "Kubata hove paSabata"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Hove",
+        "Ngamera hadzi",
+        "Mushandi",
+        "Chikepe",
+        "Bindu"
+      ],
+      "answer": "Hove"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Yakashanduka kuita tsoko",
+        "Yakaparadzwa nemafashamo",
+        "Yakaparadzwa nemoto unopfuta",
+        "Yakamedzwa nenyika",
+        "Yakaparadzirwa nemhepo"
+      ],
+      "answer": "Yakashanduka kuita tsoko"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

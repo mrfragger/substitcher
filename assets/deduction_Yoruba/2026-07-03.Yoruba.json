@@ -1,0 +1,61 @@
+{
+  "title": "Akéde Ẹ̀ṣẹ̀ Àìrí-rí",
+  "intro": "Àwọn ìtàn kan nínú Al-Quran fi bí ìwà ìbàjẹ́ tí gbogbo àwùjọ lè kó sí hàn. Ońṣẹ́ yìí dúró nìkan, ó ń bẹ̀bẹ̀ fún àwọn ènìyàn kan tí wọ́n rì sínú ìwà ìbàjẹ́ tí orílẹ̀-èdè kan kò tíì lépa rí. Láìka ọ̀pọ̀ ọdún ìkìlọ̀ sí, ọkàn wọn le, àṣẹ Ọlọ́run sì dé ní ọ̀nà tí ó bani lẹ́rù jùlọ. Ṣé o lè dá ońṣẹ́ ọlọ́lá Allah yìí mọ̀?",
+  "clues": [
+    "Wọ́n rán mi gẹ́gẹ́ bí olùkìlọ̀ sí àwọn ènìyàn tí ìwà ìbàjẹ́ ti jẹ run tí orílẹ̀-èdè kan kò tíì ṣe rí ṣáájú wọn.",
+    "Àwọn ènìyàn mi pè mí ní òpùrọ́, wọ́n sì halẹ̀ mọ́ mi láti lé àwọn ọmọlẹ́yìn mi àti èmi kúrò ní ilẹ̀ náà.",
+    "Àwọn àlejò tí wọ́n ní ọlá wá sí ilé mi ní ìrísí àwọn ọ̀dọ́mọkùnrin tí wọ́n ń lù, mo sì nímọ̀lára ìbànújẹ́ gidigidi fún ààbò wọn.",
+    "Àwọn ènìyàn mi ní kí n fi àwọn àlejò mi lé wọn lọ́wọ́, láì mọ̀ pé àwọn àlejò wọ̀nyí jẹ́ àwọn áńgẹ́lì tí Allah rán.",
+    "Ọkọ mi kò fara mọ́ ẹ̀sìn mi, ó sì yàn láti dúró pẹ̀lú àwọn tí wọ́n ti kú.",
+    "Wọ́n gbà mí là pẹ̀lú àwọn ọmọbìnrin mi ní òwúrọ̀, bí òjò òkúta ṣe ń rọ̀ tí àwọn ìlú wa sì ń wó lulẹ̀."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Lọ́ọ̀tì",
+        "Wòlíì Ṣúáíbù",
+        "Wòlíì Húdì",
+        "Wòlíì Nóà",
+        "Wòlíì Sálíh"
+      ],
+      "answer": "Wòlíì Lọ́ọ̀tì"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ìkún omi ńlá kan bo ilẹ̀ ayé",
+        "Pípàdánù ojú láti inú ìjìyà gígùn",
+        "Aláìlágbára kan tó ń sọ pé òun ni Ọlọ́run",
+        "Jíjẹ́ tí a jù sínú iná tí ń jó",
+        "A n beere lati fi awọn alejo ti o ni ọla silẹ"
+      ],
+      "answer": "A n beere lati fi awọn alejo ti o ni ọla silẹ"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ọkọ̀ ńlá tí a fi ọwọ́ kọ́",
+        "Ọ̀pá tí ó pín òkun níyà",
+        "Abo ràkúnmí ìyanu kan",
+        "Iná tó ń jó",
+        "Àwọn ìlú tí wọ́n wó lulẹ̀"
+      ],
+      "answer": "Àwọn ìlú tí wọ́n wó lulẹ̀"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Mo rì sínú omi nígbà tí mo ń lé àwọn onígbàgbọ́ kiri",
+        "A gbà á lọ́wọ́ iná tí kò ní ìpalára",
+        "A gbé e sókè ọ̀run láàyè",
+        "Ìdílé kú nínú ìkún omi ńlá kan",
+        "Ìdílé ni a gbà là àyàfi aya aláìṣòótọ́ kan"
+      ],
+      "answer": "Ìdílé ni a gbà là àyàfi aya aláìṣòótọ́ kan"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

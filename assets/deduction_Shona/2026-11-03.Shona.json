@@ -1,0 +1,61 @@
+{
+  "title": "Kurara kweVakarurama",
+  "intro": "Munguva iyo kutenda kwaiva nengozi uye vane simba vakaedza kuputsa kutenda, boka diki revanhu vechidiki rakaita sarudzo yaizogara ichidzokororwa kwemakore. Vachitiza zvese zvavaiziva, vakatsvaga utiziro murima rakavanzika regomo uye vakaisa chivimbo chavo chose muna Allah. Zvakazoitika zvaizova chiratidzo chisingaperi kune avo vanofungisisa.",
+  "clues": [
+    "Taiva boka revechidiki vaitenda munaShe wedu, uye Iye akatiwedzera mukutungamira.",
+    "Takamira pamberi pevanhu vedu tikazivisa kuti hatizombofi takadana mumwe mwari kunze kwaAllah.",
+    "Takatsvaga pokugara mubako, tichiti, 'Ishe wedu, tipei tsitsi kubva kwamuri uye mutitungamirire zvakanaka munyaya yedu.'",
+    "Takarara kwemakore akawanda, uye zuva raizobva pabako redu risatibata.",
+    "Imbwa yedu yakanga yakarara yakarara pamusuwo webako, ichitirinda sokunge yairinda.",
+    "Patakamutswa, takashamisika kuti takanga tagara kwenguva yakareba sei, uye mumwe wedu akatumwa nemari yesirivha kunotenga chikafu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Vanhu veBako",
+        "Vanhu veMugero",
+        "Vanhu veSabata",
+        "Vanhu veNzou",
+        "Shamwari dzeMatanda"
+      ],
+      "answer": "Vanhu veBako"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Vakatizira kubako kuti vatize kutambudzwa nekuda kwekutenda kwavo",
+        "Yakaparadzwa nemhepo ine simba",
+        "Yakamedzwa nenyika",
+        "Kunyura mugungwa",
+        "Kurohwa nedutu rematombo"
+      ],
+      "answer": "Vakatizira kubako kuti vatize kutambudzwa nekuda kwekutenda kwavo"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Imbwa iri kuchengetedza suo rebako",
+        "Areka huru",
+        "Tsvimbo yakashanduka kuita nyoka",
+        "Shiri ine hudyu",
+        "Mhuru yendarama"
+      ],
+      "answer": "Imbwa iri kuchengetedza suo rebako"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Vakaramba vari mubako kwemakore mazana matatu nemapfumbamwe uye vakazorerwa sechiratidzo",
+        "Vakashandurwa kuita tsoko",
+        "Vakaparadzwa nemafashamo",
+        "Vakaitirwa kuti vayambuke gungwa",
+        "Vakapihwa umambo"
+      ],
+      "answer": "Vakaramba vari mubako kwemakore mazana matatu nemapfumbamwe uye vakazorerwa sechiratidzo"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Dacayrih arac essere num",
+  "intro": "bar tibba le saaqoota, rooci seeco iroh racmatta le gidaaritte diini aracal. Sanootah aggiriqqe sinni imaan kee sabri rufto kee nabiyyih raddi bahtah tan muqjizat acwa geytuh sugte.",
+  "clues": [
+    "Anu inni ayroora kee baritte qibaadah addat tatruse, garuq sinnim inni Rabbih xaaqo abak.",
+    "Anu idaaliteh, yi barra xalay luk sugte, takkay immay Yallih racmatta qaago weeh maaxiga.",
+    "Anu baxa gee, Yahya migaq luk, usuk nabiyyi yekkeeh, nummah iffonta yekke.",
+    "Anu innih nabiyyih suge, Israa-eel xaylo miraacisuh ruube.",
+    "Anu nabiyyi Harun samadak sugeeh, qibaadah aracal kaysi akkuk taamitak suge.",
+    "Anu Isa ina Maryam hanaawih amaanat luk sugeeh, tet miraaciino ubleh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Anu miyyaay?",
+      "options": [
+        "Nabi Zakariyya",
+        "Nabi Yacya",
+        "Nabiyyi Ilyas",
+        "Nabi Ishaq",
+        "Nabi Yaqub"
+      ],
+      "answer": "Nabi Zakariyya"
+    },
+    "trial": {
+      "label": "Gibbatu/Tekkooka",
+      "options": [
+        "idaltuh baxa acwa yeceen",
+        "Carra girak cattimte",
+        "Kullumti baguk cattiimeh",
+        "Kaxxa weeqak cattiimeh",
+        "Kaxxa biyaakak ureh."
+      ],
+      "answer": "idaltuh baxa acwa yeceen"
+    },
+    "location": {
+      "label": "Lafa le liyyitte",
+      "options": [
+        "Mihrab (salat araca)",
+        "Kaaba",
+        "cararta garbo",
+        "xaganah sandug",
+        "Malcina xiinih gabla."
+      ],
+      "answer": "Mihrab (salat araca)"
+    },
+    "outcome": {
+      "label": "Xalu",
+      "options": [
+        "Nabiyyi yekkeh yan qadli le baxi oggoleh",
+        "finqiteh caylale caacayti",
+        "Baddi addat cule",
+        "cararoowuk cattimte",
+        "Kullumti catak lakal sinni ummatta fan yuduuren."
+      ],
+      "answer": "Nabiyyi yekkeh yan qadli le baxi oggoleh"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

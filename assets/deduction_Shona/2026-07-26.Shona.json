@@ -1,0 +1,61 @@
+{
+  "title": "Korona Yakakwikwidza Matenga",
+  "intro": "Munzira dzeumambo hwekare, zita remumwe mutongi rakava chirahwe chehudzvanyiriri nekuzvikudza. Muranda anozvininipisa waAllah paakasvika aine zviratidzo zvisingarambiki, mambo uyu ane simba akaramba kubvuma chokwadi. Nhasi, basa rako nderekuziva munhu uyu ane mukurumbira ane hutongi hwakaputsika uye mugumo wake wakavharirwa pasi pemafungu.",
+  "clues": [
+    "Ndini mutongi anotyiwa zvikuru ane zita richiri kutaurwa senyevero kwemakore akawanda.",
+    "Ndakarayira vanhu vose kuti vashande vakasungwa necheni, vachigadzira zvifananidzo zvaizivisa kubwinya kwangu.",
+    "Mutumwa waAllah paakauya pamberi pangu nezviratidzo zvisingarambiki, ndakaramba kukotama ndikati uroyi.",
+    "Ndakarayira kuurayiwa kwevanakomana vacheche pakati pevanhu vakatapwa, ndichitarisira kuvadzvinyirira vasati vamuka.",
+    "Ndakamira pamberi pedare rangu ndikati, 'Ndiri ishe wenyu wepamusoro-soro,' ndichida kunamatwa samwari.",
+    "Gurukota rangu guru riri padivi pangu, ndakavaka chivako chakareba chakagadzirirwa kukwira kupfuura matenga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Farao (Firauni)",
+        "Namrud",
+        "Hamani",
+        "Abu Lahab",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Farao (Firauni)"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kunyura muGungwa Dzvuku",
+        "Ngamera hadzi yakatumirwa kuvanhu veThamud",
+        "Mafashamo makuru aNuh",
+        "Chirango cheVafambidzani veMugero",
+        "Kuparadzwa kwehondo yaAbraha neshiri"
+      ],
+      "answer": "Kunyura muGungwa Dzvuku"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Chivako chirefu chakavakwa naHamani",
+        "Areka yakafamba pamusoro pemafashamo",
+        "Mhuru yegoridhe yakagadzirwa nevaSamiri",
+        "Chigaro chaBilqis, Mambokadzi weShebha",
+        "Bako revechidiki vakarara"
+      ],
+      "answer": "Chivako chirefu chakavakwa naHamani"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kunyura mugungwa; mutumbi wakachengetedzwa seyambiro",
+        "Kutapwa uye kumanikidzwa kudzungaira murenje",
+        "Yakashandurwa kuita tsoko sechirango",
+        "Yakarohwa nekudengenyeka kwenyika kwakasimba",
+        "Yakapiswa nemvura yematombo kubva kudenga"
+      ],
+      "answer": "Kunyura mugungwa; mutumbi wakachengetedzwa seyambiro"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

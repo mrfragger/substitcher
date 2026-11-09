@@ -1,0 +1,61 @@
+{
+  "title": "Ukwihangana kwarengeye intuntu",
+  "intro": "Umukurambere ukwihangana kwiwe kwacitse inkuru z’imigani, iyerekwa ryiwe ryazimiye kubera umubabaro, yamara ukwizera kwiwe mu mugambi w’Imana ntikwigeze guhungabana. Uwo muntu yarabonye abahungu cumi n’ababiri bakura bacika imishinge y’imiryango, ababazwa n’ugutakaza umwana akundwa cane, aca aba ikimenyetso kidahera c’ukwihangana kwiza mu gihe c’intuntu irengeje urugero. Umutima wubahwa inkuru yawo ivugwa hirya no hino ku mapaji y’ivyahishuriwe. Woba ushobora kumenya uwo mubare muri Korowani?",
+  "clues": [
+    "Nari umuhanuzi inkuru yiwe ivugwa mu buryo burambuye muri surah nini ya Korowani.",
+    "Nari mfise abahungu cumi na babiri babaye ba sekuruza b’imiryango ya Bani Isirayeli.",
+    "Nabwiye abahungu banje ngo binjire baciye mu marembo atandukanye, kugira ngo ntibamenyekane ko ari ubwoko bumwe.",
+    "Amaso yanje yarakeye kubera kurira ubudasiba kubera umwana nkunda cane bankuyeko.",
+    "Naranse kwihebura n’igihe abandi bahungu banje bansaba, bati n’ukwidodomba kuri Allah gusa.",
+    "Ndi se w’umuhanuzi Yusufu, izina ryiwe nyene risobanura ‘uwongerera’ mu carabu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umuhanuzi Yaqub (Yakobo)",
+        "Umuhanuzi Yusufu",
+        "Umuhanuzi Ibrahimu",
+        "Umuhanuzi Musa",
+        "Umuhanuzi Dawudi"
+      ],
+      "answer": "Umuhanuzi Yaqub (Yakobo)"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Kubura umuhungu akundwa mw'iriba .",
+        "Umwuzure munini wateye abantu bose .",
+        "Ukwimuka kuva mu bwami busenga umuriro .",
+        "Uguhangana n’umunyagitugu w’inkomezi wo muri Misiri .",
+        "Ugujanwa mu nda y'ikiyaga"
+      ],
+      "answer": "Gutakaza umuhungu akundwa mw'iriba ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Ishati yandujwe n'amaraso y'ikinyoma",
+        "Inkoni yahindutse inzoka .",
+        "Ubwato bubatswe ku musozi .",
+        "Ingamiya y’ingore ibajwe mu rutare",
+        "Inyana y'inzahabu"
+      ],
+      "answer": "Ishati yandujwe n'amaraso y'ikinyoma"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Ukubona kwagarutse igihe ishati y’umuhungu akundwa yashirwa mu maso",
+        "Agakiza amaze guterwa mu nda y'ifi nini .",
+        "Kwakira izina ry'icubahiro rya Khalilullah rivuye kuri Allah .",
+        "Kujabuka ikiyaga turi kumwe n'abantu babohowe mu buja .",
+        "Umunywamazi uboneka nk’ikimenyetso c’icizigiro inyuma y’umwuzure"
+      ],
+      "answer": "Ukubona kwagarutse igihe ishati y’umuhungu akundwa yashirwa mu maso"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ohùn Tí Ó Pe sí Òdodo",
+  "intro": "Ní ilẹ̀ Mídíánì àtijọ́, níbi tí ìṣòwò ti gbilẹ̀ tí àwọn arìnrìn-àjò sì ń rìnrìn-àjò la aṣálẹ̀ ńlá já, wòlíì Ọlọ́run kan dìde láàrín àwọn ènìyàn tí wọ́n ti ṣáko kúrò ní ọ̀nà ìdájọ́ òdodo. A rán ìránṣẹ́ Ọlọ́run yìí pẹ̀lú iṣẹ́ àtọ̀runwá tí yóò dán ìgbàgbọ́ gbogbo àwùjọ wò. Nípasẹ̀ àwọn ìdánwò sùúrù àti ìfaradà, ọkàn yìí dúró ṣinṣin ní fífúnni ní ìkìlọ̀ kan tí yóò máa dún jákèjádò ìtàn. Ṣé o lè tú àṣírí ìránṣẹ́ aláìdúróṣinṣin yìí?",
+  "clues": [
+    "Allah yan mi lati dari awon eniyan ti won ti gbagbe awon ilana ododo ati otito ninu ise won.",
+    "Mo fi ifiranṣẹ kan ranṣẹ pe awọn ara ilu mi lati ma sin ẹnikẹni ayafi Allah ati lati sọ pẹlu otitọ ninu gbogbo ọrọ.",
+    "Mo kìlọ̀ ní pàtó nípa ìwà ìbàjẹ́ ti jíjẹ ọrọ̀ nípasẹ̀ àwọn ọ̀nà àìtọ́, mo sì tẹnu mọ́ ìjẹ́pàtàkì ìwọ̀n àti ìwọ̀n tó tọ́.",
+    "Àwọn ènìyàn mi fi ẹ̀gàn dáhùn sí ìkìlọ̀ mi, wọ́n halẹ̀ mọ́ mi pé wọn yóò lé mi kúrò ní ilẹ̀ wọn tí mo bá tẹ̀síwájú nínú iṣẹ́ mi.",
+    "Mo dúró ṣinṣin nínú iṣẹ́ mi láìka ìkórìíra wọn sí, mo sì ń kéde pé èrè mi wà lọ́dọ̀ Allah nìkan.",
+    "Ìyà búburú gbá àwọn ènìyàn mi mú nígbà tí àánú Olúwa mi gbà mí là, bí iṣẹ́ mi ti ṣẹ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Ṣúáíbù",
+        "Wòlíì Húdì",
+        "Wòlíì Sálíh",
+        "Wòlíì Lọ́ọ̀tì",
+        "Ànábì Muhamadu ﷺ"
+      ],
+      "answer": "Wòlíì Ṣúáíbù"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Kíkojú àwọn ènìyàn tí wọ́n kọ òtítọ́ sílẹ̀ tí wọ́n sì halẹ̀ mọ́ ìyà fún pípa ìránṣẹ́ Allah.",
+        "Ní rírí Ìkún Omi Ńlá tí ó pa àwọn aláìgbàgbọ́ orílẹ̀-èdè kan run",
+        "Gbigba ifihan nigba ti o n rin irin ajo la afonifoji ti Apunirun kọja",
+        "Ìdánwò ìgbàgbọ́ nígbà tí alákòóso kan tí ó ni ìkà gbìyànjú láti pa ìpè sí ìgbàgbọ́ Ọlọ́run kan ṣoṣo rẹ́",
+        "Orílẹ̀-èdè kan ń béèrè fún òjò nígbà ọ̀dá líle lẹ́yìn ọ̀pọ̀ ọdún àìgbọ́ràn"
+      ],
+      "answer": "Kíkojú àwọn ènìyàn tí wọ́n kọ òtítọ́ sílẹ̀ tí wọ́n sì halẹ̀ mọ́ ìyà fún pípa ìránṣẹ́ Allah."
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ilẹ̀ Mídíánì, níbi tí àwọn ènìyàn mi ti ń ṣe ìṣòwò àti ìṣòwò wọn",
+        "Pẹpẹ ọkọ̀ ojú omi ńlá kan tí ó gba àwọn onígbàgbọ́ là kúrò nínú ìkún omi oníjàǹbá kan",
+        "Àpáta kan nínú òkè àpáta kan níbi tí àwọn ọ̀dọ́ méje ti wá ibi ìsádi kúrò lọ́wọ́ inúnibíni",
+        "Ìlú mímọ́ ti Jerúsálẹ́mù níbi tí wọ́n ti mú mi lọ sí ìrìn àjò alẹ́ kan",
+        "Ààfin kan ní Ṣébà níbi tí ìjọba ńlá kan ti múra sílẹ̀ láti rí àmì àtọ̀runwá kan"
+      ],
+      "answer": "Ilẹ̀ Mídíánì, níbi tí àwọn ènìyàn mi ti ń ṣe ìṣòwò àti ìṣòwò wọn"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ìyà búburú gbá àwọn ènìyàn mi mú nígbà tí wọ́n gbà mí là, nítorí mo ti ṣe ojúṣe mi sí Allah,",
+        "Àwọn aláìgbàgbọ́ ni a sọ di ọ̀bọ bí wọ́n ṣe rú ààlà mímọ́ ti Allah.",
+        "Àwọn ọ̀tá mi gba ìgbàgbọ́ lẹ́yìn tí wọ́n rí ìyípadà ìyanu kan",
+        "Ilẹ̀ náà kún fún òjò àti ọrọ̀ púpọ̀ lẹ́yìn tí àwọn ènìyàn ronú pìwàdà",
+        "Àwọn ènìyàn mi pa mí nítorí pé mo kọ̀ láti fi iṣẹ́ mi sílẹ̀"
+      ],
+      "answer": "Ìyà búburú gbá àwọn ènìyàn mi mú nígbà tí wọ́n gbà mí là, nítorí mo ti ṣe ojúṣe mi sí Allah,"
+    }
+  },
+  "verseRef": "26:177",
+  "arabic": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ",
+  "verse": "When Shuʿayb said to them, \"Will you not fear Allāh? (26:177)"
+}

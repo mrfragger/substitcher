@@ -1,0 +1,61 @@
+{
+  "title": "Izwi Rakanyarara Mukamuri",
+  "intro": "Munamato wakadzokororwa murunyararo rwekamuri dzvene kare kare, uchimuka kubva kumweya wakwegura uchishuva izvo nyika yakanga yati hazvigoneki. Munhu uyu, akwegura uye akaremerwa nekuzvidya mwoyo nezveramangwana, akatendeukira kuna Ishe wavo nekukumbira. Zvakatevera kwaive mhinduro yaMwari yaipesana nezvaitarisirwa zvechisikigo—uchapupu hwetsitsi dzaIye anopindura kudanwa kwacho kwakashata.",
+  "clues": [
+    "Ndakadana Ishe wangu ndiri ndoga, ndichienda mukamuri mandakazvitsaurira kunamatwa kwake.",
+    "Ndakabvuma kuna Ishe wangu kuti ndaitya avo vaizouya shure kwangu, ndichitya kutungamirirwa nevanhu vangu kana ndaenda.",
+    "Kukwegura kwakanga kwandibata—mapfupa angu akanga asisina simba uye bvudzi jena rakanga rapararira mumusoro mangu.",
+    "Mukadzi wangu akanga asina mbereko hupenyu hwake hwese, asi ndakakumbira Ishe wangu kuti vandipe mugari wenhaka kubva pamberi pavo.",
+    "Ndakakumbira chiratidzo, uye Ishe wangu vakandipindura nekundidzivisa kutaura nemunhu kwehusiku hutatu, ndichiri munhu akasimba mumuviri.",
+    "Ndakavimbiswa mwanakomana ainzi Yahya, zita rakataurwa naIshe wangu kuti harina kumbobvira rapihwa chero ani zvake."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Zakariya",
+        "Muprofita Nuh",
+        "Muprofita Musa",
+        "Muprofita Yusuf",
+        "Muporofita Dhawud"
+      ],
+      "answer": "Muprofita Zakariya"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kunyengeterera mugari wenhaka mukukwegura ane murume asina mbereko",
+        "Kukandwa mumoto unopfuta",
+        "Kumedzwa nehove huru murima",
+        "Kutsungirira kurasikirwa nemhuri, pfuma, uye hutano",
+        "Kurayirwa kuvaka areka huru"
+      ],
+      "answer": "Kunyengeterera mugari wenhaka mukukwegura ane murume asina mbereko"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Imba yekunamatira (mihrab)",
+        "Tsvimbo yakashanduka kuita nyoka",
+        "Areka huru yematanda",
+        "Bindu rine chitubu chakasiyana",
+        "Gomo raiungana shiri"
+      ],
+      "answer": "Imba yekunamatira (mihrab)"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akapihwa mwanakomana zita rinoshamisa kunyangwe akwegura zvakanyanya",
+        "Kuponeswa kubva mumoto unopfuta nemurairo waMwari",
+        "Mafashamo makuru akaparadza vasingatendi",
+        "Kudzorerwa kumhuri, pfuma, uye hutano mushure mekushivirira",
+        "Farao neuto rake vakanyura mugungwa"
+      ],
+      "answer": "Akapihwa mwanakomana zita rinoshamisa kunyangwe akwegura zvakanyanya"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Iṣẹ́ Ìránṣẹ́ ní Ìlú Àtijọ́",
+  "intro": "Ìlú àtijọ́ tí ó kún fún eruku, àwọn ènìyàn rẹ̀ tí wọ́n ti fìdí múlẹ̀ nínú ìkọ̀sílẹ̀, àti ìkìlọ̀ ìkẹyìn tí a kò gbọ́. Lónìí, ẹ gbé ìgbésẹ̀ àwọn tí Allah rán láti fi ìránṣẹ́ ránṣẹ́ sí àwọn ènìyàn alágídí. Ìtàn ìkọ̀sílẹ̀, ohùn ìgbàgbọ́ kan ṣoṣo, àti òpin tí a fi àṣẹ búburú dì. Ta ni ó ń sọ̀rọ̀ nípasẹ̀ àwọn àmì wọ̀nyí?",
+  "clues": [
+    "Allah rán wa lọ sí ìlú kan tí àwọn ènìyàn rẹ̀ ti yípadà kúrò nínú òtítọ́",
+    "Àwa méjì ló kọ́kọ́ dé, lẹ́yìn náà, ẹ̀kẹta dara pọ̀ mọ́ wa láti mú iṣẹ́ wa lágbára sí i",
+    "Àwọn ará ìlú kọ̀ wá sílẹ̀, wọ́n ní àwa kì í ṣe ènìyàn bí wọn rárá.",
+    "Ọkàn kan láti ìpẹ̀kun ìlú náà sáré láti sọ fún àwọn ènìyàn pé kí wọ́n tẹ̀lé wa",
+    "A bá wọn sọ̀rọ̀, ṣùgbọ́n wọ́n le ọkàn wọn, wọ́n sì yípadà sí wa",
+    "Nínú igbe ìbànújẹ́ kan láti ọ̀run, gbogbo ìlú wa parọ́rọ́"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Àwọn Òjíṣẹ́ Ìlú náà nínú Surah Ya-Sin",
+        "Awọn Hawwariyyun (Awọn ọmọ-ẹhin Isa)",
+        "Àwọn Oníṣẹ́ Àjẹ́ ní Ààfin Fáráò",
+        "Àwọn Alábàákẹ́gbẹ́ Ọjọ́ Ìsinmi",
+        "Àwọn Ènìyàn Erin"
+      ],
+      "answer": "Àwọn Òjíṣẹ́ Ìlú náà nínú Surah Ya-Sin"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Àwọn ará ìlú kọ̀ wọ́n, wọ́n sì pè wọ́n ní òpùrọ́",
+        "Wọ́n jó o láàyè nínú iná ńlá kan tí ń jó",
+        "Ẹja ńlá kan gbé mì nínú òkun jíjìn",
+        "Wọ́n fipá mú wọn ṣiṣẹ́ kíkọ́ òpó gíga kan",
+        "Wọ́n dá a lóró nínú kòtò iná tó ń jó bí iná"
+      ],
+      "answer": "Àwọn ará ìlú kọ̀ wọ́n, wọ́n sì pè wọ́n ní òpùrọ́"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ìlú àtijọ́ (al-Qaryah)",
+        "Iná ìléru ńlá kan tó ń jó",
+        "Ikùn ẹja ńlá kan",
+        "Ọwọ̀n gíga tó ń kan ojú ọ̀run",
+        "Ilé mímọ́ (Kaaba)"
+      ],
+      "answer": "Ìlú àtijọ́ (al-Qaryah)"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ìlú náà parun nípasẹ̀ igbe ìparun kan ṣoṣo (Sayha)",
+        "Aláìláàánú àti àwọn ọmọ ogun rẹ̀ rì sínú òkun tí ó pínyà",
+        "Àwọn ènìyàn náà yí padà sí ọ̀bọ àti ọ̀bọ",
+        "Òjò òkúta láti ojú ọ̀run ba ìlú náà jẹ́",
+        "Ìkún omi líle gbá gbogbo àwùjọ náà lọ"
+      ],
+      "answer": "Ìlú náà parun nípasẹ̀ igbe ìparun kan ṣoṣo (Sayha)"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

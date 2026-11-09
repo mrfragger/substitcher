@@ -1,0 +1,61 @@
+{
+  "title": "Ubutumwa mu Mujyi wa Kera",
+  "intro": "Umurwa wa kera wuzuye ivumbi, abaturage bawo bahora mu guhakana, n'umuburo wa nyuma utitaweho. Uyu munsi, jya mu mwanya w'aboherejwe na Allah gutanga ubutumwa ku bantu b'intagondwa. Inkuru yo kwangwa, ijwi ry'ukwemera, n'iherezo rifunze n'itegeko risenya. Ni nde uvuga binyuze muri ibi bimenyetso?",
+  "clues": [
+    "Imana yatwohereje mu mujyi abantu bawo bari barataye ukuri",
+    "Babiri muri twe ni bo babanje, hanyuma uwa gatatu arafatanya kugira ngo dukomeze ubutumwa bwacu",
+    "Abaturage bo mu mujyi baratwanze, bavuga ko turi abantu nka bo gusa",
+    "Umuntu umwe rukumbi waturutse ku mpera y'umujyi yiruka abwira abantu ngo badukurikire",
+    "Twarabasabye imbabazi, ariko bakojeje imitima yabo baraduhindukirana",
+    "Mu ijwi rimwe ribabaje riturutse mu ijuru, umujyi wacu wose waratuje"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Intumwa z'Umujyi muri Surah Ya-Sin",
+        "Hawwariyyun (Abigishwa ba Isa)",
+        "Abapfumu bo mu rugo rwa Farawo",
+        "Abasangirangendo b'Isabato",
+        "Abantu b'inzovu"
+      ],
+      "answer": "Intumwa z'Umujyi muri Surah Ya-Sin"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Abaturage bo mu mujyi banze kandi bise abanyabinyoma",
+        "Yatwitswe ari muzima mu muriro ukomeye ugurumana",
+        "Yamizwe n'ifi nini mu nyanja nini",
+        "Bahatiwe gukora imirimo yo kubaka inkingi ndende",
+        "Yababajwe mu mwobo w'umuriro ukaze"
+      ],
+      "answer": "Abaturage bo mu mujyi banze kandi bise abanyabinyoma"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Umujyi wa kera (al-Qaryah)",
+        "Itanura rikomeye rigurumana",
+        "Inda y'ifi nini",
+        "Inkingi ndende ikora ku kirere",
+        "Inzu Ntagatifu (Kaaba)"
+      ],
+      "answer": "Umujyi wa kera (al-Qaryah)"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Umujyi warasenyutse kubera ijwi rimwe ryangizaga (Sayha)",
+        "Uwo mugome n'ingabo ze barohamye mu nyanja yari yaragabanutse",
+        "Abantu bahindutse inkende n'inkende",
+        "Imvura y'amabuye yaturutse mu ijuru yasenye umujyi",
+        "Umwuzure ukomeye wahitanye umuryango wose"
+      ],
+      "answer": "Umujyi warasenyutse kubera ijwi rimwe ryangizaga (Sayha)"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

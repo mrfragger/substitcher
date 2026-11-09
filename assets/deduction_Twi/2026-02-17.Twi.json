@@ -1,0 +1,61 @@
+{
+  "title": "Ntawntawdi Aba",
+  "intro": "Ansa na wiase no rehu sɛ ntawntawdi atrɛw no, gyidi ne osetie ho sɔhwɛ a emu dɔ bi daa adi. Saa asɛm yi hwehwɛ nneɛma a ankorankoro bi paw, a ne nneyɛe yɛ nhwɛso ma awo ntoatoaso a ɛbɛba daakye no mu. Siesie wo ho sɛ wobɛpae ɔkra bi a ɔrepere ahoɔyaw kɛse ne nea efi mu ba a ɛyɛ hu ho asɛm no mu.",
+  "clues": [
+    "Ná meka mma a wodii kan nantew asase so no ho, na na meyɛ adesamma baanu a wodi kan koraa no ba.",
+    "Wɔhyɛɛ me ne me nua sɛ yɛmmɔ afɔre mma Allah, a ɛyɛ yɛn nokwaredi ho sɔhwɛ.",
+    "Wɔannye m’afɔrebɔ no antom, bere a wɔannye me nua de no, na ɛno maa nkate a ɛyɛ hu hyɛɛ me koma ma.",
+    "Mekaa ahunahuna nsɛm kyerɛɛ me nuabarima, a pow a ɛyɛ yaw no na ɛkanyan me.",
+    "Me nua no de nyansa ne nyamesom pa buaa me, na ɔkaee me Allah atɛntrenee ne Ne suro.",
+    "Ɛmfa ho sɛ me nuabarima no kaa nsɛm brɛoo ne ɔpɛ a na ɔwɔ sɛ ɔde bɔne firi no, migyee nkwa, na mebɛyɛɛ wɔn a wɔhweree no no mu biako."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Odiyifo Adam",
+        "Iblis na ɔkyerɛwee",
+        "Ɔkɔmhyɛni Nuh",
+        "Qabil (Kain) .",
+        "Fir'awn na ɛyɛ"
+      ],
+      "answer": "Qabil (Kain) ."
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Nsuyiri kɛse no",
+        "Ɛpo mu mpaapaemu",
+        "Kaaba dan no",
+        "Afɔrebɔ afɔrebɔ",
+        "Sɔhwɛ a ɛwɔ Turo no mu"
+      ],
+      "answer": "Afɔrebɔ afɔrebɔ"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Adaka no",
+        "Adwumayɛfo no",
+        "Safa Bepɔw no",
+        "Afɔrebɔ no",
+        "Kwae a Ɛrehyew no"
+      ],
+      "answer": "Afɔrebɔ no"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Ɔbɛyɛɛ ɔbɔfo",
+        "Wɔmenee no",
+        "Ɔkyekyee ahenni kɛse",
+        "Bɛyɛɛ ahonu ho nhwɛso",
+        "Wɔmaa no ahonyade kɛse"
+      ],
+      "answer": "Bɛyɛɛ ahonu ho nhwɛso"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

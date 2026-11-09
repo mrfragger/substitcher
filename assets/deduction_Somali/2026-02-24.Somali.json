@@ -1,0 +1,61 @@
+{
+  "title": "Echo of Khiyaanada",
+  "intro": "Xidhiidh qaraabonimo ayaa lagu tijaabiyay hinaasnimo. Qorshe qarsoodi ah ayaa la sameeyay, kaas oo dhaqaajiyey silsilad dhacdooyin ah oo sannado badan socon doona oo masaafooyin badan dhaafi doona. Ficillada kooxdani waxay horseedeen kala tag iyo murugo qoto dheer, laakiin sheekadu halkaas kuma dhammaan. Waa sheeko khiyaamo, qoomamo, iyo daahfurka ugu dambeeya ee qorshe rabbaani ah. Ma kala furfuri kartaa aqoonsiga shakhsiyaadkan oo doorashadoodu ay jiilal badan ka soo noqnoqotay?",
+  "clues": [
+    "Waxaa na qabsaday xaasidnimo ka dhalatay jacaylka aan u qabno midkeen.",
+    "Xasadkeenna awgeed, waxaan si wada jir ah u shirqoolnay oo walaalkeen ku tuurnay mugdiga ceel.",
+    "Si aan u qarinno falkeenna, waxaan aabbahay u soo bandhignay dhar, oo dhiig been ah lagu shubay.",
+    "Sannado ka dib, macaluul daran ayaa nagu qasabtay inaan u safarno Masar si aan u helno cunto.",
+    "Halkaas, waxaan hor nimid guddoomiye awood leh oo, annaga oo aan garanayn, ahaa walaalkii aan dulminay.",
+    "Tijaabadii ugu dambeysay waxay ahayd inaan keenno walaalkeen Binyamin, taasoo keentay in la ogaado waayihii hore iyo aabbahay oo ahaa Nabi Yacquub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Yaan nahay?",
+      "options": [
+        "Wiilashii Aadam (Qabil iyo Haabiil)",
+        "Xertii Nebi Ciise",
+        "Walaalaha Nabi Yuusuf",
+        "Dadka reer Madyan",
+        "Sixiroolayaashii Fircoon"
+      ],
+      "answer": "Walaalaha Nabi Yuusuf"
+    },
+    "trial": {
+      "label": "Maxay ahayd qaladkii ugu weynaa ee aanu galnay?",
+      "options": [
+        "Dhisidda weyl dahab ah oo loogu talagalay cibaadada",
+        "Dalbashada inaan si toos ah u arko Allah",
+        "Ku jeesjeesaya nebi markuu dhisayay doon",
+        "Khiyaamaynta aabbahay iyo ka tagista walaalkeen",
+        "Jebinta Sabtida iyadoo kalluumeysaneysa"
+      ],
+      "answer": "Khiyaamaynta aabbahay iyo ka tagista walaalkeen"
+    },
+    "location": {
+      "label": "Shaygee ayaa udub dhexaad u ahaa khiyaanadayada?",
+      "options": [
+        "Kiniinno qoran oo la qoray",
+        "Shaadh dhiig been ah lagu rinjiyeeyay",
+        "Wur dahab ah",
+        "Shimbir qurux badan (Hoopoe)",
+        "Ul abeeso noqotay"
+      ],
+      "answer": "Shaadh dhiig been ah lagu rinjiyeeyay"
+    },
+    "outcome": {
+      "label": "Maxay ahayd natiijada kama dambaysta ah ee sheekadeenna?",
+      "options": [
+        "Waxaa na burburiyay daad xooggan",
+        "Waxaa naloo rogay daanyeer",
+        "Dhulku wuu na liqay",
+        "Waa nala cafiyay oo dib ayaan ula midownay qoyskayagii",
+        "Badda ayaa nalagu qarqiyay"
+      ],
+      "answer": "Waa nala cafiyay oo dib ayaan ula midownay qoyskayagii"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

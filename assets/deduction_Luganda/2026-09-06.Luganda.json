@@ -1,0 +1,61 @@
+{
+  "title": "Omugobe w’Ennyana ya Zaabu",
+  "intro": "Ekifaananyi ekyogerwako mu Quran kyaleetera ekibiina ekinene okukyama mu kiseera nga nnabbi ow’ekitiibwa teyaliiwo. Ekintu ekyakolebwa mu zaabu kyakwata emitima gy’eggwanga lyonna — naye emboozi y’omuntu ono ssekinnoomu ekoma mu kweyawula n’ekikolimo ekyewuunyisa. Omugobe ono ayinza okuba ani?",
+  "clues": [
+    "Navaayo mu kiseera nga tewali nnabbi omukulu eyali alinnye okufuna obulagirizi obw’obwakatonda.",
+    "Nabuzaabuza ekibiina ekinene n’ekintu kye nnayiiya n’emikono gyange.",
+    "Ekitonde ekya zaabu kye nnafulumya kyalabika ng’ekirina obulamu, nga kifulumya amaloboozi agawuniikiriza abo abaakigoberera.",
+    "Nagamba nti nnalaba abalala bye bataasobola kutegeera — akabonero akalaga ebitalabika.",
+    "Nasika ekintu okuva mu bigere by’omubaka ow’obwakatonda ne nkisuula mu kyuma ekisaanuuse.",
+    "Nasalirwa omusango okutaayaaya nzekka, nga nnina ekikolimo eky’enjawulo nti tewali ayinza kukwata ku lususu lwange wadde nze okukwata ku lwabwe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Samiri",
+        "Kamani",
+        "Falaawo (Fir'awn) .",
+        "Abu Lahab",
+        "Nabbi Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Yatonda ennyana eya zaabu okusinza",
+        "Yazimba omunaala ogutuuka mu ggulu",
+        "Yasoomooza abalogo b’e Misiri",
+        "Yakulembera eggye n’ensolo ezibuuka",
+        "Yawulamu omwezi ng’obukakafu obw’obunnabbi"
+      ],
+      "answer": "Yatonda ennyana eya zaabu okusinza"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Ennyana eya zaabu",
+        "Omuggo ogwafuuka omusota",
+        "Ekisaka ekyaka ku lusozi",
+        "Eryato ewummudde ku ntikko",
+        "Omukutu ogwali gujjudde omuliro ogwaka"
+      ],
+      "answer": "Ennyana eya zaabu"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Okuwang’anguse, okugaanibwa okukwatibwako oba okukwata ku balala",
+        "Yabbira mu nnyanja wamu n’eggye",
+        "Yayokebwa nga mulamu olw’okugaana okukkiriza",
+        "Yakubwa wansi empewo ey’amaanyi era eyali ewuuma",
+        "Asonyiyibwa era n’asitulwa okutuuka ku siteegi eya waggulu"
+      ],
+      "answer": "Okuwang’anguse, okugaanibwa okukwatibwako oba okukwata ku balala"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ohùn Òtítọ́ ti Àkókò Àtijọ́",
+  "intro": "Ẹ̀mí kan wà nínú Al-Quran tí ìtàn rẹ̀ wà ní ẹsẹ díẹ̀, síbẹ̀ àwọn ànímọ́ rẹ̀ tó dára ń tàn yanranyanran pẹ̀lú òye tó jinlẹ̀. Alágbára Gíga fún ìwà rere pàtàkì kan, ìránṣẹ́ Àlàáfíà yìí ní ipò kan nínú àwọn ojú ìwé ìfihàn. Iṣẹ́ rẹ ni láti dá ẹni tó yanilẹ́nu yìí mọ̀. Ṣé o lè mọ ẹni tí wọ́n jẹ́?",
+  "clues": [
+    "Èmi ni wòlíì Allah tí ó gbé láàrín àwọn ìran ìṣáájú ènìyàn.",
+    "Allah dárúkọ mi nínú Ìwé Rẹ̀ pẹ̀lú àwọn wòlíì mìíràn, gbogbo wọn ni a yìn fún ìwà rere kan náà.",
+    "Wọ́n ṣe àpèjúwe mi gẹ́gẹ́ bí ọkùnrin olóòótọ́ nínú Al-Quran.",
+    "Allah gbé mi ga sí ipò gíga tí àwọn ènìyàn díẹ̀ ti dé.",
+    "A mẹnuba orukọ mi ninu Surah Al-Anbiya, a si so o pẹlu awọn wolii meji miiran ti a yin fun suuru wọn.",
+    "Èmi ni Idris, wòlíì olóòótọ́ àti ẹni gíga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Idris",
+        "Wòlíì Nóà",
+        "Wòlíì Ibrahim",
+        "Wòlíì Mósà",
+        "Wòlíì Ísmáẹ́lì"
+      ],
+      "answer": "Wòlíì Idris"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Dídúró ní sùúrù àti òtítọ́, lẹ́yìn náà a gbé e ga sí ipò gíga",
+        "Kíkọ́ ọkọ̀ ńlá kan láti gba àwọn onígbàgbọ́ là kúrò nínú ìkún omi búburú kan",
+        "Jíjẹ́ tí a jù sínú iná tí ń jó tí ó sì ń yọ jáde láìfarapa rárá",
+        "Ó dojúkọ ọba alágbára kan, ó sì ṣẹ́gun ẹgbẹ́ ọmọ ogun àwọn onídán rẹ̀",
+        "Ó wà láàyè nínú ikùn ẹja ńlá kan nínú ibú òkun"
+      ],
+      "answer": "Dídúró ní sùúrù àti òtítọ́, lẹ́yìn náà a gbé e ga sí ipò gíga"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ibùdó gíga àti gíga láti ọ̀dọ̀ Allah",
+        "Ọkọ̀ ojú omi ńlá kan tí a fi pákó kọ́ tí a sì fi ọ̀dà rọ̀ sí",
+        "Iná gbígbóná tí àwọn abọ̀rìṣà ọba búburú kan ń dáná",
+        "Òkun ńlá kan tí ó pín sí ipa ọ̀nà gbígbẹ",
+        "Ikùn dúdú ẹja ńlá kan ní ìsàlẹ̀ òkun"
+      ],
+      "answer": "Ibùdó gíga àti gíga láti ọ̀dọ̀ Allah"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Wọ́n gbà á sínú àánú Allāhu gẹ́gẹ́ bí ọ̀kan lára ​​àwọn olódodo",
+        "A gbà á là pẹ̀lú gbogbo àwọn onígbàgbọ́ kúrò nínú ìkún omi kárí ayé",
+        "Rìn jáde kúrò nínú iná tí iná náà kò kàn",
+        "A darí àwọn ọmọ Israẹli sí òmìnira ní ìkọjá òkun láìléwu",
+        "Wọ́n tún padà sí ìdílé wọn ọ̀wọ́n lẹ́yìn ọ̀pọ̀ ọdún ìṣòro"
+      ],
+      "answer": "Wọ́n gbà á sínú àánú Allāhu gẹ́gẹ́ bí ọ̀kan lára ​​àwọn olódodo"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

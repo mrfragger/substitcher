@@ -1,0 +1,61 @@
+{
+  "title": "Olùṣẹ́gun Láàárín Àwọn Ìpele Méjì",
+  "intro": "Nínú ìwé ìtàn ìtọ́sọ́nà Ọlọ́run, ẹni kan yàtọ̀ sí ara wọn gẹ́gẹ́ bí alákòóso alágbára àti ìránṣẹ́ onírẹ̀lẹ̀ ti Allah. Ẹni yìí rìnrìn àjò lọ sí ibi jíjìnnà jùlọ ní ayé, ó rí bí oòrùn ṣe ń yọ lórí àwọn ènìyàn àrà ọ̀tọ̀ kan tí ó sì wọ̀ sínú ìsun omi dúdú kan tí ó dúdú. Èyí tí ó yani lẹ́nu jùlọ ni pé, wọ́n yan ìránṣẹ́ yìí láti kọ́ ààbò àrà ọ̀tọ̀ sí orílẹ̀-èdè tí ó ní ìwà ibi ńlá. Ṣé o lè dá ẹni ìtàn àròsọ yìí mọ̀ láti inú Al-Quran?",
+  "clues": [
+    "Aláàánú jùlọ fún mi ní agbára àti agbára lórí ilẹ̀ ayé",
+    "Mo rìnrìn àjò lọ sí ibi tí oòrùn ti ń yọ àti ibi tí ó ti ń wọ̀",
+    "Mo dé ọ̀dọ̀ àwọn ènìyàn tí wọn kò lè lóye ọ̀rọ̀ kan dáadáa",
+    "Wọ́n pàṣẹ fún mi láti fi irin kọ́ ìdènà ńlá kan",
+    "Mo fi irin dídì bo ààyè tó wà láàrín àwọn òkè gíga méjì pẹ̀lú irin dídì",
+    "Èmi kì í ṣe áńgẹ́lì tàbí wòlíì, ṣùgbọ́n èmi jẹ́ ẹrú tí Allāhu fi àánú fún."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Dhu al-Qarnayn (Ẹni tí ó ní ìwo méjì)",
+        "Ọba Suleiman (Solomoni)",
+        "Wòlíì Dhul-Kifl",
+        "Dhu al-Nun (Ẹgbẹ́ Ẹja)",
+        "Áńgẹ́lì Ààbò"
+      ],
+      "answer": "Dhu al-Qarnayn (Ẹni tí ó ní ìwo méjì)"
+    },
+    "trial": {
+      "label": "Iṣẹ́ Ńlá náà",
+      "options": [
+        "Kíkọ́ ilé gogoro sí ọ̀run",
+        "Kíkọ́ odi irin ńlá kan sí Yajuj àti Majuj",
+        "Ṣíṣẹ̀dá ìtẹ́ wúrà fún ìdájọ́",
+        "Wíwa kànga jíjìn fún àwọn olódodo",
+        "Kíkọ́ ọkọ̀ ojú omi nígbà ìkún omi ńlá kan"
+      ],
+      "answer": "Kíkọ́ odi irin ńlá kan sí Yajuj àti Majuj"
+    },
+    "location": {
+      "label": "Ìṣètò náà",
+      "options": [
+        "Ilẹ̀ Uzair láàrín àwọn odò méjì",
+        "Ibi tí oòrùn ti ń yọ àti orísun omi dúdú ẹlẹ́rẹ̀",
+        "Àfonífojì mímọ́ ti Makkah",
+        "Aṣálẹ̀ Madiyan",
+        "Erékùsù Kípírọ́sì"
+      ],
+      "answer": "Ibi tí oòrùn ti ń yọ àti orísun omi dúdú ẹlẹ́rẹ̀"
+    },
+    "outcome": {
+      "label": "Ìlérí Àtọ̀runwá",
+      "options": [
+        "Párádísè ayérayé tí a fúnni lẹ́sẹ̀kẹsẹ̀",
+        "Afẹ́fẹ́ gbígbóná pa orílẹ̀-èdè náà run",
+        "Ìdènà náà yóò wà títí di ọjọ́ ìdájọ́",
+        "Òmìnira kúrò lọ́wọ́ ikú fún gbogbo onígbàgbọ́",
+        "Ìjọba ayérayé tí kò lópin"
+      ],
+      "answer": "Ìdènà náà yóò wà títí di ọjọ́ ìdájọ́"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

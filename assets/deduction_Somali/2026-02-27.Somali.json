@@ -1,0 +1,61 @@
+{
+  "title": "Codka Aan La Arag",
+  "intro": "Qormada xidhiidhka rabbaaniga ah, qof ayaa ka soo muuqday sheekadiisa oo lagu tolay calaamado mucjiso ah iyo iimaan adag. Qofkani wuxuu helay muujin gaar ah oo caqabad ku noqotay caadooyinka wakhtigooda, isagoo ka hadlaya daaha ka baxsan aragtida caadiga ah. Fariintu ma ahayn mid dhaqameed laakiin waxay ku timid xidhiidh qoto dheer oo ka hor imanaya fahamka aadanaha, isagoo dadka ugu yeeraya inay runta aqoonsadaan siyaabo aan la filayn. Safarka addoonkan Alle wuxuu markhaati u yahay sida hagitaanku uga muuqan karo xaaladaha ugu aan caadiga ahayn, isagoo soo dhawaynaya milicsiga dabeecadda muujinta lafteeda.",
+  "clues": [
+    "Waxaa la i siiyay farriin cod sir ah oo ka timid ilo aan la arki karin.",
+    "Dadkaygu markii hore way diideen fariintaydii, iyagoo dalbanaya caddayn caadi ah oo muujinaysa runnimadayda.",
+    "Waxaan ku dhiirri geliyay inay soo saaraan wax la mid ah wixii aan helay, laakiin ma aysan awoodin.",
+    "Muujintii aan keenay waxaa lagu tilmaamay inay yihiin aayado cadcad oo runta caddaynaya.",
+    "Waxaan dadkayga uga digay ciqaab daran haddii ay sii wadaan gaalnimadooda iyo isla weynidooda.",
+    "Sheekadayda waxaa lagu xusay iyadoo lala socdo rasuullo kale oo ku jira suurad xoojinaysa calaamadaha awoodda Alle."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Huud",
+        "Nabi Saalix",
+        "Nabi Shucayb",
+        "Mu'min ka soo jeeda Qoyska Fircoon",
+        "Nabi Muuse"
+      ],
+      "answer": "Nabi Saalix"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "In lagu tuuro foorno dab ah",
+        "La kulanka dulmiga taliye kaligii talis ah",
+        "Soo saarista hasha si ay u noqoto calaamad mucjiso ah",
+        "Ka badbaada daad weyn",
+        "In lagu tuurayo badda sanduuq"
+      ],
+      "answer": "Soo saarista hasha si ay u noqoto calaamad mucjiso ah"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Dooxada Tuwa",
+        "Magaalada Madiina",
+        "Dhulkii Thamuud",
+        "Maxkamaddii Fircoon",
+        "Godka Hira"
+      ],
+      "answer": "Dhulkii Thamuud"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "answer": "Dadkaygii waxaa lagu burburiyay dilkii awrta mucjisada ah",
+      "options": [
+        "Dadkaygu way toobad keeneen oo way badbaadeen",
+        "Waxaa la ii qaaday samada anigoo nool",
+        "Dadkaygii waxaa lagu burburiyay dilkii awrta mucjisada ah",
+        "Waxaan noqday taliye weyn",
+        "Waxaa la i badbaadiyay markii la i saaray doon"
+      ]
+    }
+  },
+  "verseRef": "26:154",
+  "arabic": "مَآ أَنتَ إِلَّا بَشَرٌۭ مِّثْلُنَا فَأْتِ بِـَٔايَةٍ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "You are but a man like ourselves, so bring a sign, if you should be of the truthful.\" (26:154)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Abazimbi b’Empagi Engulumivu",
+  "intro": "Oyimiridde mu maaso g’amatongo g’ekibuga eky’edda ekinene ennyo, nga kati empagi zaakyo empanvu zigudde. Empewo ewowoggana mu nguudo ezitaliimu bantu, ng’etwala ekijjukizo ky’abantu ab’amaanyi abaali bafuga ensi zino. Baali baani?",
+  "clues": [
+    "Twali bantu ba maanyi nnyo n’obukugu, abamanyiddwa olw’ebizimbe byaffe ebinene n’empukuuka ey’omulembe.",
+    "Twabeera mu nsi erimu ebiwonvu by’omusenyu n’obusozi obw’amayinja, era twakkiriza nti tewali ayinza kutuwangula.",
+    "Omubaka yajja gye tuli okuva mu b’eŋŋanda zaffe, ng’atuyita tusinza Allah yekka, naye ne tumugaana era ne tumusekerera.",
+    "Twewaana nti, ‘Ani atusinga amaanyi?’. ne tweyongerayo mu kwegulumiza kwaffe n’okusinza ebifaananyi.",
+    "Allah yatusindikira empewo ey’obusungu eyafuuwa ekiro musanvu n’ennaku munaana, n’esaanyawo buli kimu.",
+    "Ffe twali bantu ba ‘Adi, abazimbi ba Iramu, era enkomerero yaffe yafuuka okulabula eri bonna abajja oluvannyuma."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Abantu ba 'Ad",
+        "Abantu b’e Thamud",
+        "Abantu b’e Madyan",
+        "Abantu b'e Tubba'.",
+        "Abantu b’e al-Rass"
+      ],
+      "answer": "Abantu ba 'Ad"
+    },
+    "trial": {
+      "label": "Kibonerezo ki ekyabasindikibwa?",
+      "options": [
+        "Empewo esaanyaawo ebintu",
+        "Enkuba y’amayinja",
+        "Okubwatuka okw’amaanyi",
+        "Okubbira mu mazzi olw’amataba",
+        "Okumira ensi"
+      ],
+      "answer": "Empewo esaanyaawo ebintu"
+    },
+    "location": {
+      "label": "Ekibuga kyabwe eky’olugero kiyitibwa ki?",
+      "options": [
+        "Iram",
+        "Sodomu",
+        "Midiyaani",
+        "Babel",
+        "Petra"
+      ],
+      "answer": "Iram"
+    },
+    "outcome": {
+      "label": "Enkomerero yaabwe yali etya?",
+      "options": [
+        "Baasaanyizibwawo era ebisigalira byabwe ne bifuuka eky’okuyiga",
+        "Ne beenenya era ne balokolebwa",
+        "Zaakyusibwa ne zifuuka enkima",
+        "Babbira mu nnyanja",
+        "Baziikiddwa wansi w’ettaka eryabumbulukuka"
+      ],
+      "answer": "Baasaanyizibwawo era ebisigalira byabwe ne bifuuka eky’okuyiga"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

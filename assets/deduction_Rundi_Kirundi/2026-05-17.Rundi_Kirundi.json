@@ -1,0 +1,61 @@
+{
+  "title": "Abahinga mu vy'ubwubatsi bw'amabuye",
+  "intro": "Tekereza ubutekerezi bukomeye, bufise ingabire y’inkomezi n’ubuhinga, bubaza amazu maninimanini mu misozi. Iryo shirahamwe ryari rifise ubutunzi bwinshi cane be n’ubuhinga budasanzwe bwo kwubaka. Yamara, naho bari bararonse imburi zitomoye, bahisemwo inzira yotuma bashika ku nsozero itangaje kandi itazokwibagirana. Woba ushobora kumenya uwo mugwi inkuru yawo itanga icigwa gikomeye ku bantu bose bazirikana?",
+  "clues": [
+    "Twarahawe inkomezi n’ubuhinga, ivyo bikaba vyatuma dushobora kubaza amazu meza cane ata guca ku ruhande mu misozi.",
+    "Twarahawe ikimenyetso gitomoye kivuye kuri Allah, ikiremwa kidasanzwe cari gikwiye gusigara kitahungabanijwe kugira ngo kiragire.",
+    "Umuryango wacu waracitse ubwibone, urwanya ubutumwa bw’Imana bwazanywe n’intumwa ivuye muri twebwe.",
+    "Twaragiranye umugambi wo gukora nabi ico kimenyetso c’igitangaza, naho nyene twari twagabishijwe ko twohanwa bikomeye.",
+    "Twarateye akagere itegeko ryo kureka ico gikoko kidasanzwe kikanywa mw’iriba ryacu ku misi ihinduka.",
+    "Twarahuye n’iherezo ry’agahomerabunwa, dukubitwa n’igisasu kimwe gusa giteye ubwoba inyuma y’igikorwa cacu co gucumura."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Twebwe Turi Bande?",
+      "options": [
+        "Abantu bo muri 'Ad",
+        "Abantu b'i Midiyani",
+        "Abantu b'inzovu",
+        "Abantu b'i Tamudi",
+        "Abantu ba Luti ."
+      ],
+      "answer": "Abantu b'i Tamudi"
+    },
+    "trial": {
+      "label": "Ikigeragezo/Ivyabaye vyacu bikomeye",
+      "options": [
+        "Umwuzure wapfutse igihugu .",
+        "Uguca ibice kw'ikiyaga",
+        "Ugusambura n'igisasu kimwe/ugusemerera",
+        "Guturirwa kw'igisagara .",
+        "Guhindura umusozi inkungugu ."
+      ],
+      "answer": "Ugusambura n'igisasu kimwe/ugusemerera"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru mu nkuru yacu",
+      "options": [
+        "Inyana y'inzahabu",
+        "Ingamiya y’ingore y’igitangaza",
+        "Igisaka kigurumana",
+        "Inyoni ivuga",
+        "Intebe y'ubwami y'agaciro"
+      ],
+      "answer": "Ingamiya y’ingore y’igitangaza"
+    },
+    "outcome": {
+      "label": "Inyishu yacu y'iherezo",
+      "options": [
+        "Yahawe ubutunzi n'ububasha vyinshi cane",
+        "Yashizwe hejuru mu buhanuzi .",
+        "Gutikizwa burundu n'igihano c'Imana",
+        "Kubabarirwa inyuma yo kwihana ata buryarya .",
+        "Basanzaye kw'isi kugira ngo bazerere ."
+      ],
+      "answer": "Gutikizwa burundu n'igihano c'Imana"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

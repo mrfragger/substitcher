@@ -1,0 +1,61 @@
+{
+  "title": "Ẹni tí ó ń kùn sí Wúrà ní aginjù",
+  "intro": "Fojú inú wo àgọ́ aṣálẹ̀ ńlá kan ní ìṣẹ́jú ìdúró àti àìdánilójú. Aṣíwájú ńlá kan ti lọ sí ìpàdé pẹ̀lú Ọlọ́run, ó sì fi àwùjọ kan sílẹ̀ tí wọ́n ń fẹ́ ohun kan tí ó ṣeé fojú rí láti di mú. Nínú ìdákẹ́jẹ́ẹ́ àìbalẹ̀ yẹn, ẹni tí ó ń yí ènìyàn lérò padà ń tẹ̀síwájú pẹ̀lú àwọn ìlérí dídán àti ẹ̀dá ọlọ́gbọ́n tí ó dàbí ẹni pé ó wà láàyè.",
+  "clues": [
+    "Mo wà lára ​​àwọn tó fi Íjíbítì sílẹ̀ pẹ̀lú Musa, tí wọ́n rí i pé òkun pínyà fún àsálà wa.",
+    "Mo wo ìgbà tí olórí wa lọ sí orí òkè fún ogójì òru láti gba ìtọ́sọ́nà.",
+    "Mo kó àwọn ohun ọ̀ṣọ́ jọ láti ọ̀dọ̀ àwọn ènìyàn, mo sì fi ọwọ́ mi ṣe wọ́n.",
+    "Mo ṣẹ̀dá ọmọ màlúù kan tí ó ń dún bí ẹni pé ó ń pariwo, mo sì pe àwọn ènìyàn náà sí ibẹ̀.",
+    "Mo mú erùpẹ̀ díẹ̀ láti inú ipa ọ̀nà ìránṣẹ́ náà mo sì sọ ọ́ sínú ohun tí mo ṣe.",
+    "Wọ́n dojúkọ mí pẹ̀lú Musa, wọ́n sì dá mi lẹ́bi pé kí n sọ pé ‘má ṣe fọwọ́ kan mí’ kí n sì máa gbé níyàtọ̀, pẹ̀lú ìlérí ìpàdé tí wọ́n ṣe fún ìdájọ́."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "As-Samiri",
+        "Abu Lahab",
+        "Namrud",
+        "Hámánì",
+        "Kárún"
+      ],
+      "answer": "As-Samiri"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ìjọsìn tí a béèrè fún gẹ́gẹ́ bí olúwa gíga jùlọ ní Íjíbítì",
+        "Kọ ọkọ̀ ojú omi kan láti la ìkún omi ńlá náà já",
+        "Paṣẹ fun ina nla lati jo Ibrahim",
+        "Ó ṣe ère ọmọ màlúù wúrà kan tó ṣi àwọn ọmọ Ísírẹ́lì lọ́nà",
+        "Wọ́n gbèrò láti pa Muhammad níbi ìṣíkiri"
+      ],
+      "answer": "Ó ṣe ère ọmọ màlúù wúrà kan tó ṣi àwọn ọmọ Ísírẹ́lì lọ́nà"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Àwọn wàláà òkúta tí ó wà nínú ìwé Tórà",
+        "Ẹ̀kúnwọ́ eruku láti ojú ọ̀nà ìránṣẹ́ náà",
+        "Iná tútù tí a pèsè sílẹ̀ fún Ibrahim",
+        "Ìtẹ́ alágbára náà mú kí ojú rẹ̀ ṣókùnkùn díẹ̀",
+        "Àpótí onígi tí a fi pákó àti ìṣó kọ́"
+      ],
+      "answer": "Ẹ̀kúnwọ́ eruku láti ojú ọ̀nà ìránṣẹ́ náà"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ilẹ̀ gbé e mì pẹ̀lú àwọn ìṣúra",
+        "Afẹ́fẹ́ ńlá láti ojú ọ̀run pa á run",
+        "Ó di ọ̀bọ fún rírú ọjọ́ ìsinmi",
+        "Mo rì sínú òkun pẹ̀lú àwọn ọmọ ogun tí ń lépa mi",
+        "Wọ́n dá a lẹ́bi pé kí ó sọ pé ‘má ṣe fọwọ́ kan mí’ ní ìdádúró ìdájọ́."
+      ],
+      "answer": "Wọ́n dá a lẹ́bi pé kí ó sọ pé ‘má ṣe fọwọ́ kan mí’ ní ìdádúró ìdájọ́."
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

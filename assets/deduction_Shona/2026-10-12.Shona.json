@@ -1,0 +1,61 @@
+{
+  "title": "Mhiko yeVasati Vaberekwa",
+  "intro": "Mweya wechokwadi wakaita vimbiso tsvene mwana asati asvika. Nyaya yemunhu uyu inobuda mukati memadziro enzvimbo tsvene, uko kuzvipira kunogamuchirwa naMwari. Ndiani uyu mushandiri waAllah?",
+  "clues": [
+    "Ndaiva wemhuri inoremekedzwa muQuran.",
+    "Ndakapika mhiko huru yekutsaurira mwana wangu asati aberekwa kubasa raAllah.",
+    "Pandakazvara mwana, ndakashamisika kuona kuti aive mwanasikana, kunyange zvazvo ndaitarisira kuva nemwanakomana.",
+    "Ndakatumidza mwana wangu zita rekuti Maryam, zita rinoratidza kuzvipira uye kushumira.",
+    "Ndakakumbira dziviriro kuna Allah yemwana wangu nevana vake kubva kuna Satani akatukwa.",
+    "Mwana wangu akagamuchirwa naShe ndokuiswa pasi pekutarisirwa kwaMuporofita Zakariya munzvimbo tsvene."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Mudzimai waImran (Amai vaMaryam)",
+        "Asiya, mudzimai waFarao",
+        "Maryam, amai vaIsa",
+        "Amai vaMuporofita Musa",
+        "Mambokadzi weShebha"
+      ],
+      "answer": "Mudzimai waImran (Amai vaMaryam)"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kupika kupira mwana wake kutemberi",
+        "Kukandwa mumoto",
+        "Kuyambuka gungwa panyika yakaoma",
+        "Kuvaka areka huru",
+        "Kumedzwa nehove hombe"
+      ],
+      "answer": "Kupika kupira mwana wake kutemberi"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Nzvimbo tsvene (mihrab) apo mwana wake akaiswa",
+        "Areka yesungano",
+        "Mhuru yegoridhe",
+        "Tsvimbo yakashanduka kuita nyoka",
+        "Muchindwe wemuti waakazorora pasi pawo"
+      ],
+      "answer": "Nzvimbo tsvene (mihrab) apo mwana wake akaiswa"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Mwana wake akagamuchirwa ndokuiswa pasi pekutarisirwa kwaProphet Zakariya",
+        "Akaponeswa kubva mukurangwa kwemudzvinyiriri",
+        "Akapihwa mwanakomana ainzi Yahya",
+        "Vanhu varo vakaparadzwa nedutu",
+        "Akava mambokadzi pamusoro peumambo hukuru"
+      ],
+      "answer": "Mwana wake akagamuchirwa ndokuiswa pasi pekutarisirwa kwaProphet Zakariya"
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

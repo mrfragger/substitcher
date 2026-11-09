@@ -1,0 +1,61 @@
+{
+  "title": "Omugobe w’Eggulu",
+  "intro": "Ekitonde eky’ekyama kiyimiridde ku nkulungo y’obutonzi n’okugaanibwa. Emboozi yaabwe y’emu ey’amalala agataliiko kye gafaanana era n’okujeemera ekiragiro kya Katonda ekisembayo. Okulonda kwabwe kuddamu okuyita mu buli mulembe, ne kufuuka ekigezo eri buli mwoyo oguzaalibwa mu nsi eno. Osobola okutegeera omulabe ono ow’olubeerera?",
+  "clues": [
+    "Naliwo ku mukolo ogw’amakulu ag’omu bwengula, ekitonde ekipya bwe kyatondebwa okuva mu bbumba ne kiweebwa obulamu Omukka gw’Omusaasizi.",
+    "Nze kennyini naleetebwa okuva mu kintu kimu ekiyaka, obutafaananako kitonde ekyo eky’enfuufu.",
+    "Ekiragiro kyanweebwa kye nnalaba nga kiri wansi wa siteegi yange.",
+    "Amalala gazimba munda mu nze, era nnagaana nnyo okugoberera ekiragiro ekyo.",
+    "Okulwawo okutuusa Olunaku oluteereddwawo lwe lwanweebwa, nsobole okugoberera ekigendererwa kyange kye nnalangirira eky’okubuzaabuza abalala.",
+    "Nze mulabe alangiriddwa wa bonna abatambulira ku nsi, nga bawuuba obulimba era nga babasendasenda okuva mu kkubo eggolokofu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Iblis (Sitaani) .",
+        "Falaawo (Fir'awn) .",
+        "Kamani",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Sitaani) ."
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Yagaana okufukamira mu maaso ga Adamu",
+        "Yeewozaako nti ye bwakatonda mu bukyamu",
+        "Yajingirira ennyana eya zaabu okusinza",
+        "Yatta muganda we olw’obuggya",
+        "Yakulembera oludda oluvuganya abashirika e Makkah"
+      ],
+      "answer": "Yagaana okufukamira mu maaso ga Adamu"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Ejjana (Jannah) .",
+        "Olubiri lwa Falaawo mu Misiri",
+        "Ekiwonvu ekitukuvu ekya Tuwa",
+        "Obuziba bw’ennyanja",
+        "Olusuku lwa Seba"
+      ],
+      "answer": "Ejjana (Jannah) ."
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yaweebwa okuwummula okutuusa ku lunaku lw’enkomerero",
+        "Yabbira wamu n’amagye mu nnyanja",
+        "Emira ensi wamu n’eby’obugagga",
+        "Yakyusibwa n’afuuka enkima olw’okumenya Ssabbiiti",
+        "Yayokebwa amayinja agasuuliddwa okuva mu bbanga"
+      ],
+      "answer": "Yaweebwa okuwummula okutuusa ku lunaku lw’enkomerero"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

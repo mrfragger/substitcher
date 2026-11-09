@@ -1,0 +1,61 @@
+{
+  "title": "Qaranal bood yekke taaqe",
+  "intro": "dumaahi doolatittek korridoritteh addat, inki amoytiini migaq qanxaffe kee kaxxiinih qangara yekke. Yalli rammitle taama abeyna saddam sinni asta quukak gufe way, ta caylale amoyti nummah gaba yaceenim cineh. asaaku, ku taama baxxaaqissam ta legendarih muuci miyyay doolat finqittem kee kay sarrimaane mooyat gubal alfimteh sugte.",
+  "clues": [
+    "Anu kaxxam meysitah yan miraaca kinniyo kay migaq uxih dabaanitteh addat maabitina innal qagaaqagitak geytima.",
+    "Anu inkih tan ummatta silsilatih addat taamitoonuh amriseh, yi kunnabna yaybeleeleqeh tan hawweenaani ugusak.",
+    "Yallih farmoyti sadda sinni astooti luk yok foocal yemeete waqdi, anu sujuumut cineeh, baab teetih exce.",
+    "Anu urri lab xaylo qidaanam amrise ummattah fanat, oson ugtaamak naharal ken rooci baysaanam niyaata.",
+    "Anu inni cokmih buxah foocal sooleh, 'Anu kok fayyale degelti kinniyo,' yallih innal qibaadah essera.",
+    "yok naharsi malaak inni xaqut, anu fayyale xisne xiseh qaraanak darrel yawqeenimih hadaf le."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Anu miyyaay?",
+      "options": [
+        "Firqawni (firqawna)",
+        "Namruud",
+        "Hamaan",
+        "Abu Lahaab",
+        "Al-waaliid ibnu al-mugiira"
+      ],
+      "answer": "Firqawni (firqawna)"
+    },
+    "trial": {
+      "label": "Gibbatu/Tekkooka",
+      "options": [
+        "Qasa Badih addat culma.",
+        "is-gaali Samuud ummattah rubte",
+        "Nuucuk kaxxa weeqi",
+        "Digaala sahaba le boodo",
+        "Ibraahâ qande kimbirit baysaanam"
+      ],
+      "answer": "Qasa Badih addat culma."
+    },
+    "location": {
+      "label": "Lafa le liyyitte",
+      "options": [
+        "Hamaan lih xissiime fayyale rikkisso",
+        "weeqi amol gexxe doonik",
+        "dahabak tan ruga saamiri bicse",
+        "Sheeba malikah tan Bilqis taqeeh",
+        "Xiinih yan qunxaaneyti gabla ."
+      ],
+      "answer": "Hamaan lih xissiime fayyale rikkisso"
+    },
+    "outcome": {
+      "label": "Xalu",
+      "options": [
+        "Baddi addat cule; dagar maabitina innal daccarsimteh",
+        "diiriyo kee dirkiseh bacar wes",
+        "Digaalah innal damaaqe fanah milaagimte",
+        "caylale ardi angoyyit rade",
+        "Qaranak rade xaahi rob carare"
+      ],
+      "answer": "Baddi addat cule; dagar maabitina innal daccarsimteh"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

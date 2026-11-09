@@ -1,0 +1,61 @@
+{
+  "title": "Ekiziyiza mu Nnyumba ey’Edda",
+  "intro": "Mu kibuga ekitukuvu, omuntu ow’amaanyi yabuguma olw’obusungu ng’obubaka obupya butandika okusaasaana. Omuntu ono ssekinnoomu, erinnya lye eryafuuka ekintu ekimu n’okuwakanya amazima, yalaba obuyinza bwabwe nga bumenyeka wansi w’obuzito bw’okubikkulirwa okw’obwakatonda. Omwoyo guno, enkomerero yaayo eyassibwako akabonero mu musenyu gw’olutalo olumanyiddwa ennyo yali ani?",
+  "clues": [
+    "Nnali mulangira mu bantu bange, nga mmanyiddwa olw’obugagga bwange n’obuyinza mu kibuga ekyalimu ekifo ekitukuvu eky’edda.",
+    "Omusajja okuva mu kika kyange bwe yatandika okulangirira obubaka bwa Katonda omu, nnamusekerera n’okubikkulirwa kwe, nga mbiyita nfumo zokka ez’edda.",
+    "Nayolekagana n’omusajja oyo ng’asaba okumpi n’ekizimbe ekitukuvu, ng’atiisatiisa okukomya okusinza kwe n’amaanyi bwe kiba kyetaagisa.",
+    "Nnali omu ku bakulembeze abaakola olukwe lw’okusirisa enzikiriza empya, nga bawakanya abagoberezi baayo n’ebigambo n’ebyokulwanyisa.",
+    "Natambula n’eggye okutuuka mu kifo ekiyitibwa Badr, nga ndi mukakafu nti tujja kumenyaamenya akabinja akatono ak’abakkiriza.",
+    "Naye mu lutalo olwo, obulamu bwange bwakoma, era okufa kwange kwafuuka eky’okuyiga eri abo abagumiikiriza mu butakkiriza oluvannyuma lw’obubonero obw’olwatu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Abu Jahl",
+        "Abu Sufyan ibn Harb",
+        "Al-Nadr ibn al-Harith, omuwandiisi w’ebitabo",
+        "Umayyah ibn Khalaf",
+        "Utbah ibn Rabi’ah nga bwe kiri"
+      ],
+      "answer": "Abu Jahl"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okulemesa Nabbi okusaala ku Kaaba",
+        "Okuzimba Kaaba",
+        "Okuwandiika Quran",
+        "Okukulembera eggye ly’enjovu",
+        "Okukutula omwezi"
+      ],
+      "answer": "Okulemesa Nabbi okusaala ku Kaaba"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Aba Kaaba",
+        "Essanduuko ya Nabbi Nuh",
+        "Omuggo gwa Nabbi Musa",
+        "Ennyana ya Zaabu",
+        "Nnamulondo ya Nnabagereka w’e Seeba"
+      ],
+      "answer": "Aba Kaaba"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yattibwa mu lutalo lw’e Badr",
+        "Yenenya n’afuuka Omusiraamu",
+        "Yaddukira mu Abyssinia",
+        "Yafiira mu mwaka gw'enjovu",
+        "Yafuuka munne wa Nabbi"
+      ],
+      "answer": "Yattibwa mu lutalo lw’e Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

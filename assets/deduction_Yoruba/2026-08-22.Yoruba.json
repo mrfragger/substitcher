@@ -1,0 +1,61 @@
+{
+  "title": "Ìlú Tí Ó Gbàgbọ́ Nínú Àkókò",
+  "intro": "Nínú àkọsílẹ̀ àánú Ọlọ́run, àwùjọ kan wà tí àkókò ìyípadà rẹ̀ jẹ́ àkókò ìjìnlẹ̀ gbogbo ènìyàn. O fẹ́rẹ̀ ṣí ìtàn wọn payá—ìtàn ìkìlọ̀, ìrònúpìwàdà, àti ìsinmi tí ó yà wọ́n sọ́tọ̀ kúrò nínú àyànmọ́ àwọn orílẹ̀-èdè mìíràn.",
+  "clues": [
+    "A jẹ́ ènìyàn tí a rán ìránṣẹ́ sí, a sì kọ̀ láti pe ìpè rẹ̀ ní àkọ́kọ́.",
+    "Nígbà tí àwọn àmì ìyà tó ń bọ̀ wá hàn kedere, a rí òtítọ́ ìkìlọ̀ rẹ̀.",
+    "A yipada si Oluwa wa pẹlu ironupiwada otitọ, a si gba igbagbọ wa.",
+    "Ìyà tí a ti pàṣẹ fún wa ni a mú kúrò nítorí ìgbàgbọ́ wa.",
+    "Ìtàn wa ni a tọ́ka sí gẹ́gẹ́ bí àyọkà láàrín àwọn ìlú tí wọ́n gbàgbọ́ lẹ́yìn tí wọ́n rí ìyà náà.",
+    "Àwa ni àwọn ènìyàn wòlíì tí ẹja ńlá gbé mì, síbẹ̀ a gbà wá là kúrò nínú ìparun."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Àwọn ènìyàn Yunus",
+        "Àwọn ènìyàn Nóà",
+        "Àwọn ènìyàn Hud",
+        "Àwọn ènìyàn Salih",
+        "Àwọn ènìyàn Lúùtù"
+      ],
+      "answer": "Àwọn ènìyàn Yunus"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ìkún omi tó ń pa ayé run",
+        "Ìjì líle kan",
+        "Ìyà ìtìjú tó ń bọ̀ tí wọ́n yẹra fún",
+        "Ilẹ̀ gbé wọn mì",
+        "Òjò òkúta"
+      ],
+      "answer": "Ìyà ìtìjú tó ń bọ̀ tí wọ́n yẹra fún"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Àpótí náà",
+        "Abo ràkúnmí",
+        "Ìlú ẹgbẹ̀rún lọ́nà ọgọ́rùn-ún",
+        "Àwọn òṣìṣẹ́ Mósè",
+        "Àkójọpọ̀ Qarun"
+      ],
+      "answer": "Ìlú ẹgbẹ̀rún lọ́nà ọgọ́rùn-ún"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Wọ́n pa wọ́n run pátápátá",
+        "Wọ́n fún wọn ní ìgbádùn fún ìgbà díẹ̀",
+        "Wọ́n yí wọn padà sí ọ̀bọ",
+        "Wọ́n rì sínú omi",
+        "Ayé gbé wọn mì"
+      ],
+      "answer": "Wọ́n fún wọn ní ìgbádùn fún ìgbà díẹ̀"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

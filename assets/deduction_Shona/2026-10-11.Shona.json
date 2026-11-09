@@ -1,0 +1,61 @@
+{
+  "title": "Inzwi Mujecha Rekare",
+  "intro": "Pakati pevatumwa vekutanga vaAllah, paiva nemumwe ane zita rake rinopenya kwenguva pfupi asi rine zvarinoreva muKorani. Munhu uyu akararama kare kare vaprofita vakuru vasati vatumwa, uye aizivikanwa nekutaura chokwadi uye mwoyo murefu usingazununguki. Nyaya yavo ipfupi asi nhaka yavo inogara munhoroondo isingaperi. Ndiani mweya uyu wakanaka?",
+  "clues": [
+    "Ndiri mumwe wevatumwa vekutanga, vakataurwa muchidimbu asi zvine musoro muKorani.",
+    "Hunhu hwangu hwakaratidzwa nekuzvipira kuchokwadi kusingazununguki.",
+    "Ndinorangarirwa mubhuku raAllah pakati peavo vaive vakashinga uye vane mwoyo murefu.",
+    "Ndima pfupi shoma dziri muQuran dzinotsanangura nyaya yangu.",
+    "Allah vakandikudza nenzira yangu yakasiyana, isina kugoverwa nevamwe vaprofita.",
+    "Ndakakwidziridzwa pachinzvimbo chepamusoro, kukudzwa kunoshamisa muQuran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Idris",
+        "Muprofita Ilyas",
+        "Dhul-Kifl",
+        "Muprofita Alyasa",
+        "Asif ibn Barkhiya"
+      ],
+      "answer": "Muprofita Idris"
+    },
+    "trial": {
+      "label": "Kutsanangura Nguva",
+      "options": [
+        "Ndakakwidziridzwa pachigaro chepamusoro naAllah",
+        "Ndakavaka areka huru kuti ndiponese vanhu vangu",
+        "Ndakapikisa varoyi vaFarao",
+        "Ndakakandwa mugomba nevanun'una vangu",
+        "Ndakarasikirwa nemaziso angu nekuda kwekusuwa mwanakomana wangu"
+      ],
+      "answer": "Ndakakwidziridzwa pachigaro chepamusoro naAllah"
+    },
+    "location": {
+      "label": "Chirevo Chitsvene",
+      "options": [
+        "Surah Al-Anbiya",
+        "Surah Al-Kahf",
+        "Surah Taha",
+        "Surah Ash-Shu'ara",
+        "Surah Yasin"
+      ],
+      "answer": "Surah Al-Anbiya"
+    },
+    "outcome": {
+      "label": "Kukudzwa kwaMwari",
+      "options": [
+        "Nzvimbo yepamusoro isina kufanana nedzimwe",
+        "Kutonga pamusoro pemajini nemhepo",
+        "Humambo hune kubwinya kusingaenzaniswi",
+        "Mugari wenhaka kubva pakukwegura kwangu",
+        "Chibvumirano chakasimbiswa naAllah"
+      ],
+      "answer": "Nzvimbo yepamusoro isina kufanana nedzimwe"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

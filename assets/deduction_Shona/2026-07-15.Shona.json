@@ -1,0 +1,61 @@
+{
+  "title": "Nzvimbo Yokuzorora Yega",
+  "intro": "Munhoroondo dzenyasha dzaMwari, mune mweya wakachena zvikuru, wakaparadzaniswa nevanhu vavo kuti vatsvage kuva vega munzira tsvene. Vaisaziva kuti kuva vega uku kwaizounza chiratidzo kunyika dzese, muedzo wekutenda waizotaurwa nezvawo nekusingaperi.",
+  "clues": [
+    "Ndakanga ndakazvipira kuhupenyu hwangu hwekushandira Mwari ndisati ndaberekwa.",
+    "Ndakaiswa pasi pekuchengetedzwa kwemuporofita ane chiremera.",
+    "Ndakatsigirwa nezvinhu zvakabva kuna Allah zvakashamisa muchengeti wangu.",
+    "Ndakasiya mhuri yangu ndikaenda kunzvimbo yekumabvazuva.",
+    "Ngirozi yakaonekwa kwandiri iri muchimiro chemunhu akakwana, ichindiunzira nhau dzemwanakomana akachena.",
+    "Pandakadzoka nemwana wangu achangoberekwa, vanhu vangu vakandipomera mhosva, asi mwana wacho akataura achindidzivirira."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Maryam (Maria)",
+        "Asiyah (mukadzi waFarao)",
+        "Hajar (amai vaIsmail)",
+        "Sara (mukadzi waIbrahim)",
+        "Amai vaMusa"
+      ],
+      "answer": "Maryam (Maria)"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kubata pamuviri kunoshamisa uye kuberekwa kwemwanakomana",
+        "Kukandwa mumoto",
+        "Kumedzwa nehove hombe",
+        "Kuvaka areka huru",
+        "Kuyambuka gungwa"
+      ],
+      "answer": "Kubata pamuviri kunoshamisa uye kuberekwa kwemwanakomana"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Nzvimbo yakavanzika yekumabvazuva",
+        "Gwenzi riri kupfuta",
+        "Gungwa Dzvuku",
+        "Dombo rakabuda mvura",
+        "Hove huru"
+      ],
+      "answer": "Nzvimbo yakavanzika yekumabvazuva"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kacheche kakataura kachidzivirira amai",
+        "Gungwa rakakamurwa",
+        "Moto wakava wakadzikama uye wakachengeteka",
+        "Whale yakarutsira pamhenderekedzo yegungwa",
+        "Areka yakamhara pagomo"
+      ],
+      "answer": "Kacheche kakataura kachidzivirira amai"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

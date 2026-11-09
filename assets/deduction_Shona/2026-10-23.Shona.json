@@ -1,0 +1,61 @@
+{
+  "title": "Basa Muguta Rekare",
+  "intro": "Guta rekare rine guruva, vanhu varo vakaramba zvakasimba, uye yambiro yekupedzisira isina kuteererwa. Nhasi, pinda mubasa reavo vakatumwa naAllah kuti vaendese shoko kuvanhu vakaoma musoro. Nyaya yekurambwa, inzwi rekutenda rimwe chete, uye mugumo wakasimbiswa nemurairo unoparadza. Ndiani anotaura kuburikidza nezviratidzo izvi?",
+  "clues": [
+    "Takatumwa naAllah kuguta rine vanhu vakanga vatsauka kubva pachokwadi.",
+    "Vaviri vedu ndivo vakatanga kuuya, uye wechitatu akabatana kuti tisimbise basa redu",
+    "Vanhu vemutaundi vakatiramba, vachiti takanga tiri vanhu vakaita saivo chete",
+    "Mumwe munhu aibva kumagumo eguta akamhanya kunoudza vanhu kuti vatitevere",
+    "Takavakumbira ruregerero, asi vakaomesa mwoyo yavo vakatipandukira",
+    "Mukuchema kumwe chete kunorwadza kubva kudenga, guta redu rese rakanyaradzwa"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Vatumwa veGuta muSurah Ya-Sin",
+        "The Hawwariyyun (Vadzidzi vaIsa)",
+        "Varoyi veDare raFarao",
+        "Shamwari dzeSabata",
+        "Vanhu veNzou"
+      ],
+      "answer": "Vatumwa veGuta muSurah Ya-Sin"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Akarambwa uye akanzi varevi venhema nevanhu vemuguta",
+        "Kupiswa vari vapenyu mumoto mukuru unopfuta",
+        "Yakamedzwa nehove huru mugungwa rakadzika",
+        "Kumanikidzwa kushanda nesimba kuvaka mbiru refu",
+        "Kutambudzwa mugomba remoto unopisa"
+      ],
+      "answer": "Akarambwa uye akanzi varevi venhema nevanhu vemuguta"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Guta rekare (al-Qaryah)",
+        "Choto chikuru chinopfuta",
+        "Dumbu rehove huru",
+        "Mbiru refu inobata denga",
+        "Imba tsvene (Kaaba)"
+      ],
+      "answer": "Guta rekare (al-Qaryah)"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Guta rakaparadzwa nekuchema kumwe chete kunoparadza (Sayha)",
+        "Mudzvinyiriri neuto rake vakanyura mugungwa rakakamurwa",
+        "Vanhu vakachinjwa kuita tsoko netsoko",
+        "Mvura yematombo yakabva kudenga yakaparadza guta",
+        "Mafashamo ane simba akaparadza nharaunda yese"
+      ],
+      "answer": "Guta rakaparadzwa nekuchema kumwe chete kunoparadza (Sayha)"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}
