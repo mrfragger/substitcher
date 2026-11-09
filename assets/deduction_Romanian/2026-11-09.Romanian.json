@@ -1,0 +1,61 @@
+{
+  "title": "Șoptitorul aurului în pustiu",
+  "intro": "Imaginează-ți o vastă tabără în deșert, într-un moment de așteptare și incertitudine. Un mare lider a plecat pentru o întâlnire cu Divinul, lăsând în urmă o comunitate dornică de ceva tangibil de care să se agațe. În acea pauză neliniștită, o figură persuasivă pășește înainte cu promisiuni strălucitoare și o creație ingenioasă ce pare vie.",
+  "clues": [
+    "Am fost printre cei care au părăsit Egiptul cu Musa, martori la cum marea s-a despărțit pentru a ne evada.",
+    "Am privit când conducătorul nostru a mers la munte timp de patruzeci de nopți pentru a primi îndrumare.",
+    "Am adunat ornamente de la oameni și le-am modelat cu propriile mele mâini.",
+    "Am făcut un vițel care mugea și am chemat poporul la el.",
+    "Am luat o mână de praf de pe urmele mesagerului și am aruncat-o în ceea ce am făcut.",
+    "Am fost confruntat de Musa și condamnat să spun „nu mă atinge” și să trăiesc separat, cu o întâlnire promisă pentru judecată."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "As-Samiri",
+        "Abu Lahab",
+        "Namrud",
+        "Haman",
+        "Qarun"
+      ],
+      "answer": "As-Samiri"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "A cerut venerarea ca cel mai înalt stăpân al Egiptului",
+        "A construit o arcă pentru a supraviețui marelui potop",
+        "A ordonat un foc mare pentru a-l arde pe Ibrahim",
+        "A făurit un vițel de aur care i-a indus în eroare pe israeliți",
+        "A complotat să-l ucidă pe Muhammad la migrație"
+      ],
+      "answer": "A făurit un vițel de aur care i-a indus în eroare pe israeliți"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Tablele de piatră ale Torei",
+        "O mână de praf de pe urma mesagerului",
+        "Focul rece pregătit pentru Ibrahim",
+        "Tronul puternic a adus într-o clipă",
+        "Arca de lemn construită din scânduri și cuie"
+      ],
+      "answer": "O mână de praf de pe urma mesagerului"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Înghițit de pământ cu comori",
+        "Distrus de o explozie puternică din cer",
+        "Transformați în maimuțe pentru încălcarea Sabatului",
+        "Înecat în mare cu armata care îl urmărea",
+        "Condamnat să spună „nu mă atinge” în izolare, așteptând judecata"
+      ],
+      "answer": "Condamnat să spună „nu mă atinge” în izolare, așteptând judecata"
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

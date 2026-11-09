@@ -3,7 +3,7 @@
 set -e
 
 APP_NAME="substitcher"
-APP_VERSION="26.11.08"
+APP_VERSION="26.11.09"
 BUILD_DIR="build/linux/x64/release/bundle"
 APPDIR="AppDir"
 
@@ -90,6 +90,30 @@ iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAL
 ICONEOF
 
 cp $APPDIR/substitcher.png $APPDIR/usr/share/icons/hicolor/256x256/apps/
+
+echo "Creating AppStream metadata..."
+mkdir -p $APPDIR/usr/share/metainfo
+cat > $APPDIR/usr/share/metainfo/$APP_NAME.appdata.xml << EOF
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>$APP_NAME</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>MIT</project_license>
+  <name>SubStitcher</name>
+  <summary>Audiobook encoder and player with subtitle support</summary>
+  <description>
+    <p>SubStitcher is an audiobook encoder and player with subtitle support.</p>
+  </description>
+  <launchable type="desktop-id">$APP_NAME.desktop</launchable>
+  <url type="homepage">https://github.com/mrfragger/substitcher</url>
+  <provides>
+    <binary>substitcher</binary>
+  </provides>
+  <releases>
+    <release version="$APP_VERSION" date="$(date +%F)"/>
+  </releases>
+</component>
+EOF
 
 echo "Creating AppRun script..."
 cat > $APPDIR/AppRun << 'EOF'

@@ -1,0 +1,61 @@
+{
+  "title": "Kulla sosistaja kõnnumaal",
+  "intro": "Kujutage ette tohutut kõrbelaagrit ootamise ja ebakindluse hetkes. Suur juht on läinud kohtuma jumalikuga, jättes maha kogukonna, mis igatseb midagi käegakatsutavat, millest kinni hoida. Selles rahutus pausis astub esile veenev tegelane säravate lubaduste ja nutika loominguga, mis näib elavana.",
+  "clues": [
+    "Olin nende seas, kes lahkusid Egiptusest koos Moosega ja nägin, kuidas meri meie põgenemiseks lahknes.",
+    "Ma vaatasin pealt, kuidas meie juht läks neljakümneks ööks mäele juhatust saama.",
+    "Kogusin inimestelt ehteid ja vormisin need oma kätega.",
+    "Ma meisterdasin vasika, mis andis ammuvat häält, ja kutsusin rahva selle juurde.",
+    "Võtsin peotäie tolmu sõnumitooja jälgedest ja viskasin selle oma loomingusse.",
+    "Musa astus mulle vastu ja mõistis mind mõistma, et pean ütlema \"ära mind puutu\" ja elama lahus, lubades kohtumist kohtuotsuse langetamiseks."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "As-Samiri",
+        "Abu Lahab",
+        "Namrud",
+        "Haman",
+        "Qarun"
+      ],
+      "answer": "As-Samiri"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Nõudis kummardamist Egiptuse kõrgeima isandana",
+        "Ehitas laeva, et suur veeuputus üle elada",
+        "Käskis Ibrahimi põletamiseks suure tule süüdata.",
+        "Valmistas kuldvasika, mis eksitas iisraellasi",
+        "Plaanis Muhamedi tappa rände ajal"
+      ],
+      "answer": "Valmistas kuldvasika, mis eksitas iisraellasi"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Toora kivitahvlid",
+        "Peotäis tolmu sõnumitooja rajalt",
+        "Ibrahimile ettevalmistatud jahe tuli",
+        "Võimas troon tõi silmapilgutuse sisse",
+        "Laudadest ja naeltest ehitatud puidust laev"
+      ],
+      "answer": "Peotäis tolmu sõnumitooja rajalt"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Maa aaretega alla neelatud",
+        "Hävitatud võimsa taevast tulnud plahvatuse poolt",
+        "Muutusid ahvideks hingamispäeva rikkumise pärast",
+        "Uppus merre jälitava armeega",
+        "Mõistetud üksinda kohtuotsust oodates ütlema \"ära puutu mind\""
+      ],
+      "answer": "Mõistetud üksinda kohtuotsust oodates ütlema \"ära puutu mind\""
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

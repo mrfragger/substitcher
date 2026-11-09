@@ -1,0 +1,61 @@
+{
+  "title": "O Sussurrador de Ouro no Deserto",
+  "intro": "Imagine um vasto acampamento no deserto, num momento de espera e incerteza. Um grande líder partiu para um encontro com o Divino, deixando para trás uma comunidade ávida por algo tangível a que se agarrar. Nessa pausa inquietante, uma figura persuasiva surge com promessas brilhantes e uma criação engenhosa que parece ganhar vida.",
+  "clues": [
+    "Eu estava entre aqueles que deixaram o Egito com Moisés, testemunhando o mar se abrir para nossa fuga.",
+    "Eu observei quando nosso líder foi para a montanha por quarenta noites para receber orientação.",
+    "Recolhi ornamentos das pessoas e os moldei com minhas próprias mãos.",
+    "Modelei um bezerro que emitia um mugido e chamei as pessoas até ele.",
+    "Peguei um punhado de poeira do rastro do mensageiro e a lancei naquilo que eu havia criado.",
+    "Fui confrontado por Musa e condenado a dizer \"não me toques\" e a viver à parte, com a promessa de um encontro para julgamento."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "As-Samiri",
+        "Abu Lahab",
+        "Namrud",
+        "Haman",
+        "Qarun"
+      ],
+      "answer": "As-Samiri"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Exigia-se adoração como o senhor supremo do Egito.",
+        "Construíram uma arca para sobreviver ao grande dilúvio.",
+        "Ordenou que um grande incêndio queimasse Ibrahim.",
+        "Criaram um bezerro de ouro que enganou os israelitas.",
+        "Planejaram matar Maomé durante a migração."
+      ],
+      "answer": "Criaram um bezerro de ouro que enganou os israelitas."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "As tábuas de pedra da Torá",
+        "Um punhado de poeira da trilha do mensageiro.",
+        "O fogo frio preparado para Ibrahim",
+        "O poderoso trono surgiu num piscar de olhos",
+        "A arca de madeira construída com tábuas e pregos."
+      ],
+      "answer": "Um punhado de poeira da trilha do mensageiro."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Engolidos pela terra com seus tesouros",
+        "Destruído por uma poderosa explosão vinda do céu.",
+        "Transformados em macacos por violarem o sábado.",
+        "Afogado no mar com o exército em perseguição",
+        "Condenado a dizer \"não me toque\" em isolamento enquanto aguarda julgamento."
+      ],
+      "answer": "Condenado a dizer \"não me toque\" em isolamento enquanto aguarda julgamento."
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

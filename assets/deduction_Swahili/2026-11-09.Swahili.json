@@ -1,0 +1,61 @@
+{
+  "title": "Mnong'onezi wa Dhahabu Jangwani",
+  "intro": "Fikiria kambi kubwa ya jangwa katika wakati wa kusubiri na kutokuwa na uhakika. Kiongozi mkuu ameenda kukutana na Mungu, akiacha nyuma jamii yenye hamu ya kitu kinachoonekana cha kushikilia. Katika ukimya huo usiotulia, mtu mwenye ushawishi anasonga mbele akiwa na ahadi zinazong'aa na kiumbe mwerevu anayeonekana kuwa hai.",
+  "clues": [
+    "Nilikuwa miongoni mwa wale walioondoka Misri pamoja na Musa, tukishuhudia bahari ikitenganishwa kwa ajili ya kutoroka kwetu.",
+    "Nilitazama kiongozi wetu alipoenda mlimani kwa usiku arobaini ili kupokea mwongozo.",
+    "Nilikusanya mapambo kutoka kwa watu na kuyatengeneza kwa mikono yangu mwenyewe.",
+    "Nilitengeneza ndama aliyetoa sauti ya mlio, nami niliwaita watu kwake.",
+    "Nilichukua konzi ya vumbi kutoka kwenye njia ya mjumbe na kulitupa ndani ya kile nilichotengeneza.",
+    "Nilikabiliwa na Musa na kuhukumiwa kusema 'usiniguse' na kuishi kando, huku mkutano ukiahidiwa kwa hukumu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "As-Samiri",
+        "Abu Lahab",
+        "Namrud",
+        "Hamani",
+        "Qarun"
+      ],
+      "answer": "As-Samiri"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Alidai kuabudiwa kama bwana mkuu zaidi nchini Misri",
+        "Alijenga safina ili kuokoka gharika kuu",
+        "Aliamuru moto mkubwa umchome Ibrahim",
+        "Alitengeneza ndama wa dhahabu aliyewapotosha Waisraeli",
+        "Walipanga kumuua Muhammad wakati wa uhamiaji"
+      ],
+      "answer": "Alitengeneza ndama wa dhahabu aliyewapotosha Waisraeli"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Vibao vya mawe vya Torati",
+        "Vumbi dogo kutoka kwenye njia ya mjumbe",
+        "Moto baridi ulioandaliwa kwa ajili ya Ibrahim",
+        "Kiti cha enzi chenye nguvu kilileta mng'ao",
+        "Safina ya mbao iliyojengwa kwa mbao na misumari"
+      ],
+      "answer": "Vumbi dogo kutoka kwenye njia ya mjumbe"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Imemezwa na dunia na hazina",
+        "Imeharibiwa na mlipuko mkubwa kutoka angani",
+        "Aligeuka kuwa nyani kwa kuvunja Sabato",
+        "Kuzama baharini na jeshi linalowafuatilia",
+        "Ahukumiwa kusema 'usiniguse' peke yake akisubiri hukumu"
+      ],
+      "answer": "Ahukumiwa kusema 'usiniguse' peke yake akisubiri hukumu"
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

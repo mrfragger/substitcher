@@ -1,0 +1,61 @@
+{
+  "title": "O susurrador de ouro no deserto",
+  "intro": "Imaxina un vasto campamento no deserto nun momento de espera e incerteza. Un gran líder marchou para unha reunión co Divino, deixando atrás unha comunidade ansiosa por algo tanxible ao que aferrarse. Nesa pausa inqueda, unha figura persuasiva dá un paso adiante con promesas brillantes e unha creación intelixente que parece viva.",
+  "clues": [
+    "Eu fun entre os que deixaron Exipto con Musa, presenciando como o mar se abría para a nosa fuga.",
+    "Observei cando o noso líder foi á montaña durante corenta noites para recibir guía.",
+    "Recollín adornos da xente e déilles forma coas miñas propias mans.",
+    "Fixen un becerro que muxía e chamei á xente a el.",
+    "Collín un puñado de po do rastro do mensaxeiro e boteino no que fixen.",
+    "Fun confrontado por Musa e condenado a dicir \"non me toques\" e vivir separado, cunha reunión prometida para o xuízo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "As-Samiri",
+        "Abu Lahab",
+        "Namrud",
+        "Amán",
+        "Qarun"
+      ],
+      "answer": "As-Samiri"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Esixía adoración como o señor máis alto de Exipto",
+        "Construíu unha arca para sobrevivir ao gran diluvio",
+        "Ordenou un gran lume para queimar a Ibrahim",
+        "Fabricou un becerro de ouro que enganou aos israelitas",
+        "Conspiraron para matar a Mahoma na migración"
+      ],
+      "answer": "Fabricou un becerro de ouro que enganou aos israelitas"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "As táboas de pedra da Torá",
+        "Un puñado de po da pegada do mensaxeiro",
+        "O lume fresco preparado para Ibrahim",
+        "O poderoso trono trouxo nun abrir e pechar de ollos",
+        "A arca de madeira construída con táboas e cravos"
+      ],
+      "answer": "Un puñado de po da pegada do mensaxeiro"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Tragado pola terra con tesouros",
+        "Destruído por unha poderosa explosión do ceo",
+        "Convertidos en simios por romper o sábado",
+        "Afogado no mar cun exército perseguidor",
+        "Condenados a dicir \"non me toques\" illados á espera de xuízo"
+      ],
+      "answer": "Condenados a dicir \"non me toques\" illados á espera de xuízo"
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

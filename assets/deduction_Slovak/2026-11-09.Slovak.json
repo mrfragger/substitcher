@@ -1,0 +1,61 @@
+{
+  "title": "Šepkač zlata v divočine",
+  "intro": "Predstavte si rozsiahly púštny tábor v momente čakania a neistoty. Veľký vodca odišiel na stretnutie s Božstvom a zanechal za sebou komunitu túžiacu po niečom hmatateľnom, čoho by sa mohla držať. V tejto nepokojnej pauze vykročí vpred presvedčivá postava so žiarivými sľubmi a dômyselným výtvorom, ktorý sa zdá byť živý.",
+  "clues": [
+    "Bol som medzi tými, ktorí opustili Egypt s Músom a boli svedkami toho, ako sa more rozostúpilo, aby sme mohli utiecť.",
+    "Sledoval som, ako náš vodca odišiel na štyridsať nocí na horu, aby prijal vedenie.",
+    "Zbieral som ozdoby od ľudí a vytvaroval som ich vlastnými rukami.",
+    "Vytvoril som teľa, ktoré bučalo, a zavolal som k nemu ľudí.",
+    "Vzal som hrsť prachu zo stopy posla a hodil som ho do toho, čo som vytvoril.",
+    "Konfrontoval ma Músa a odsúdil ma povedať „nedotýkaj sa ma“ a žiť oddelene, pričom mi bolo sľúbené stretnutie, na ktorom bude súd."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "As-Samiri",
+        "Abú Laháb",
+        "Namrud",
+        "Háman",
+        "Qarun"
+      ],
+      "answer": "As-Samiri"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Vyžadoval uctievanie ako najvyšší pán v Egypte",
+        "Postavil archu, aby prežil veľkú potopu",
+        "Prikázal založiť veľký oheň, aby spálili Ibrahima",
+        "Vytvoril zlaté teľa, ktoré zviedlo Izraelitov",
+        "Plánoval zabiť Mohameda počas migrácie"
+      ],
+      "answer": "Vytvoril zlaté teľa, ktoré zviedlo Izraelitov"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Kamenné tabuľky Tóry",
+        "Hrsť prachu z posla",
+        "Chladný oheň pripravený pre Ibrahima",
+        "Mocný trón priniesol v okamihu",
+        "Drevená archa postavená z dosiek a klincov"
+      ],
+      "answer": "Hrsť prachu z posla"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Pohltený zemou s pokladmi",
+        "Zničený mohutným výbuchom z neba",
+        "Premenili sa na opice za porušenie Sabatu",
+        "Utopil sa v mori s prenasledujúcou armádou",
+        "Odsúdený v izolácii hovoriť „nedotýkaj sa ma“ a čakať na súd"
+      ],
+      "answer": "Odsúdený v izolácii hovoriť „nedotýkaj sa ma“ a čakať na súd"
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

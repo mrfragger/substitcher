@@ -1,0 +1,61 @@
+{
+  "title": "Az arany suttogója a vadonban",
+  "intro": "Képzelj el egy hatalmas sivatagi tábort a várakozás és a bizonytalanság pillanatában. Egy nagy vezető elment, hogy találkozzon az istenivel, maga mögött hagyva egy közösséget, amely valami kézzelfoghatóra vágyik, amihez kapaszkodhat. Ebben a nyugtalan szünetben egy meggyőző alak lép elő ragyogó ígéretekkel és egy okos, élőnek tűnő alkotással.",
+  "clues": [
+    "Én is azok között voltam, akik Mózessel együtt elhagyták Egyiptomot, és tanúja voltam annak, ahogy a tenger kettévált, hogy megszökhessünk.",
+    "Láttam, amikor a vezetőnk negyven éjszakára a hegyre ment útmutatást kérni.",
+    "Díszeket gyűjtöttem az emberektől, és saját kezemmel formáztam meg őket.",
+    "Készítettem egy bőgő hangot adó borjút, és odahívtam az embereket.",
+    "Fogtam egy marék port a hírvivő nyomából, és beleszórtam, amit alkottam.",
+    "Mózes szembesített, és arra ítélt, hogy azt mondjam: „ne érj hozzám”, és külön éljek, miközben megígérte, hogy találkozom az ítélettel."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "As-Szamiri",
+        "Abu Laháb",
+        "Namrud",
+        "Hámán",
+        "Qarun"
+      ],
+      "answer": "As-Szamiri"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Egyiptom legfőbb urának követelte az imádatot",
+        "Bárkát építettek, hogy túléljék a nagy özönvizet",
+        "Nagy tüzet rendelt el Ibrahim elégetésére",
+        "Aranyborjút készített, amely félrevezette az izraelitákat",
+        "Mohamed megölését tervezték a vándorlás során"
+      ],
+      "answer": "Aranyborjút készített, amely félrevezette az izraelitákat"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A Tóra kőtáblái",
+        "Egy marék por a hírvivő nyomáról",
+        "A hűvös tűz Ibrahimnak készült",
+        "A hatalmas trón egy szempillantás alatt",
+        "A deszkákból és szögekből épített bárka"
+      ],
+      "answer": "Egy marék por a hírvivő nyomáról"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "A föld kincsekkel nyelte el",
+        "Egy hatalmas égi robbanás pusztította el",
+        "Majmokká változtak a szombat megszegéséért",
+        "Tengerbe fulladt az üldöző sereggel",
+        "Arra ítéltettem, hogy egyedül, ítéletre várva azt mondja: „ne érj hozzám”"
+      ],
+      "answer": "Arra ítéltettem, hogy egyedül, ítéletre várva azt mondja: „ne érj hozzám”"
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

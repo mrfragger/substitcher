@@ -1,0 +1,737 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَسْمَاءُ اللَّهِ تَعَالَى",
+        "nameEn": "Names of Allah",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "اللَّهَ",
+            "en": "Allah",
+            "ref": "8:51",
+            "verse": "ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ ٱللَّهَ لَيْسَ بِظَلَّـٰمٍۢ لِّلْعَبِيدِ",
+            "verseEn": "That is for what your hands have put forth [of evil] and because Allāh is not ever unjust to [His] servants.\""
+          },
+          {
+            "ar": "الْغَفُورُ",
+            "en": "(is) the Oft-Forgiving",
+            "ref": "46:8",
+            "verse": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ إِنِ ٱفْتَرَيْتُهُۥ فَلَا تَمْلِكُونَ لِى مِنَ ٱللَّهِ شَيْـًٔا ۖ هُوَ أَعْلَمُ بِمَا تُفِيضُونَ فِيهِ ۖ كَفَىٰ بِهِۦ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ ۖ وَهُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+            "verseEn": "Or do they say, \"He has invented it\"? Say, \"If I have invented it, you will not possess for me [the power of protection] from Allāh at all. He is most knowing of that in which you are involved. Sufficient is He as Witness between me and you, and He is the Forgiving, the Merciful.\""
+          },
+          {
+            "ar": "رَبِّ",
+            "en": "Lord",
+            "ref": "69:43",
+            "verse": "تَنزِيلٌۭ مِّن رَّبِّ ٱلْعَـٰلَمِينَ",
+            "verseEn": "[It is] a revelation from the Lord of the worlds."
+          },
+          {
+            "ar": "الْعَزِيزُ",
+            "en": "(is) the All-Mighty",
+            "ref": "26:122",
+            "verse": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+            "verseEn": "And indeed, your Lord - He is the Exalted in Might, the Merciful."
+          }
+        ]
+      },
+      {
+        "name": "أَلْفَاظُ الْعَذَابِ",
+        "nameEn": "Words denoting divine punishment",
+        "color": "green",
+        "items": [
+          {
+            "ar": "وَيْلٌ",
+            "en": "Woe",
+            "ref": "77:40",
+            "verse": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+            "verseEn": "Woe, that Day, to the deniers."
+          },
+          {
+            "ar": "بِعَذَابٍ",
+            "en": "of a punishment",
+            "ref": "84:24",
+            "verse": "فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ",
+            "verseEn": "So give them tidings of a painful punishment,"
+          },
+          {
+            "ar": "جَهَنَّمَ",
+            "en": "(of) Hell",
+            "ref": "40:49",
+            "verse": "وَقَالَ ٱلَّذِينَ فِى ٱلنَّارِ لِخَزَنَةِ جَهَنَّمَ ٱدْعُوا۟ رَبَّكُمْ يُخَفِّفْ عَنَّا يَوْمًۭا مِّنَ ٱلْعَذَابِ",
+            "verseEn": "And those in the Fire will say to the keepers of Hell, \"Supplicate your Lord to lighten for us a day from the punishment.\""
+          },
+          {
+            "ar": "الْعِقَابِ",
+            "en": "(in) the penalty",
+            "ref": "8:52",
+            "verse": "كَدَأْبِ ءَالِ فِرْعَوْنَ ۙ وَٱلَّذِينَ مِن قَبْلِهِمْ ۚ كَفَرُوا۟ بِـَٔايَـٰتِ ٱللَّهِ فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمْ ۗ إِنَّ ٱللَّهَ قَوِىٌّۭ شَدِيدُ ٱلْعِقَابِ",
+            "verseEn": "[Theirs is] like the custom of the people of Pharaoh and of those before them. They disbelieved in the signs of Allāh, so Allāh seized them for their sins. Indeed, Allāh is Powerful and severe in penalty."
+          }
+        ]
+      },
+      {
+        "name": "أَصْنَافُ النَّاسِ بِالْإِيمَانِ وَالْعَمَلِ",
+        "nameEn": "Collective labels for people by belief and conduct",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "الْمُؤْمِنِينَ",
+            "en": "believing",
+            "ref": "37:81",
+            "verse": "إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
+            "verseEn": "Indeed, he was of Our believing servants."
+          },
+          {
+            "ar": "الْمُجْرِمُونَ",
+            "en": "the criminals",
+            "ref": "26:99",
+            "verse": "وَمَآ أَضَلَّنَآ إِلَّا ٱلْمُجْرِمُونَ",
+            "verseEn": "And no one misguided us except the criminals."
+          },
+          {
+            "ar": "الْمُقَرَّبِينَ",
+            "en": "those brought near",
+            "ref": "56:88",
+            "verse": "فَأَمَّآ إِن كَانَ مِنَ ٱلْمُقَرَّبِينَ",
+            "verseEn": "And if he [i.e., the deceased] was of those brought near [to Allāh],"
+          },
+          {
+            "ar": "الْمُعَوِّقِينَ",
+            "en": "those who hinder",
+            "ref": "33:18",
+            "verse": "۞ قَدْ يَعْلَمُ ٱللَّهُ ٱلْمُعَوِّقِينَ مِنكُمْ وَٱلْقَآئِلِينَ لِإِخْوَٰنِهِمْ هَلُمَّ إِلَيْنَا ۖ وَلَا يَأْتُونَ ٱلْبَأْسَ إِلَّا قَلِيلًا",
+            "verseEn": "Already Allāh knows the hinderers among you and those [hypocrites] who say to their brothers, \"Come to us,\" and do not go to battle, except for a few,"
+          }
+        ]
+      },
+      {
+        "name": "اَلْأَقَارِبُ وَالْأَهْلُ",
+        "nameEn": "Family relatives",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "أَزْوَاجِكُم",
+            "en": "your mates",
+            "ref": "26:166",
+            "verse": "وَتَذَرُونَ مَا خَلَقَ لَكُمْ رَبُّكُم مِّنْ أَزْوَٰجِكُم ۚ بَلْ أَنتُمْ قَوْمٌ عَادُونَ",
+            "verseEn": "And leave what your Lord has created for you as mates? But you are a people transgressing.\""
+          },
+          {
+            "ar": "آبَاءَهُمْ",
+            "en": "their fathers",
+            "ref": "37:69",
+            "verse": "إِنَّهُمْ أَلْفَوْا۟ ءَابَآءَهُمْ ضَآلِّينَ",
+            "verseEn": "Indeed they found their fathers astray."
+          },
+          {
+            "ar": "الْبَنَاتُ",
+            "en": "(are) daughters",
+            "ref": "52:39",
+            "verse": "أَمْ لَهُ ٱلْبَنَـٰتُ وَلَكُمُ ٱلْبَنُونَ",
+            "verseEn": "Or has He daughters while you have sons?"
+          },
+          {
+            "ar": "أَهْلِهِ",
+            "en": "his family",
+            "ref": "75:33",
+            "verse": "ثُمَّ ذَهَبَ إِلَىٰٓ أَهْلِهِۦ يَتَمَطَّىٰٓ",
+            "verseEn": "And then he went to his people, swaggering [in pride]."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "منذر",
+    "display": "مُنذِرٌ",
+    "hint": "One tasked with warning people of consequences to come",
+    "verseRef": "13:7",
+    "arabicVerse": "وَيَقُولُ ٱلَّذِينَ كَفَرُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ ءَايَةٌۭ مِّن رَّبِّهِۦٓ ۗ إِنَّمَآ أَنتَ مُنذِرٌۭ ۖ وَلِكُلِّ قَوْمٍ هَادٍ",
+    "verse": "13:7 - And those who disbelieved say, \"Why has a sign not been sent down to him from his Lord?\" You are only a warner, and for every people is a guide."
+  },
+  "scramble": {
+    "verseRef": "20:132",
+    "reference": "Ta-Ha (20:132)",
+    "segments": [
+      "وَأْمُرْ أَهْلَكَ",
+      "بِالصَّلَاةِ وَاصْطَبِرْ",
+      "عَلَيْهَا لَا نَسْأَلُكَ",
+      "رِزْقًا نَّحْنُ نَرْزُقُكَ",
+      "وَالْعَاقِبَةُ لِلتَّقْوَىٰ"
+    ],
+    "translations": [
+      "And enjoin (on) your family the prayer",
+      "and be steadfast therein Not",
+      "We ask you (for) provision",
+      "We provide (for) you",
+      "and the outcome (is) for the righteous[ness]"
+    ],
+    "hint": "Command to uphold prayer with patience; Allah provides and success belongs to the God-conscious",
+    "arabic": "وَأْمُرْ أَهْلَكَ بِٱلصَّلَوٰةِ وَٱصْطَبِرْ عَلَيْهَا ۖ لَا نَسْـَٔلُكَ رِزْقًۭا ۖ نَّحْنُ نَرْزُقُكَ ۗ وَٱلْعَـٰقِبَةُ لِلتَّقْوَىٰ",
+    "words": [
+      "وَأْمُرْ أَهْلَكَ بِٱلصَّلَوٰةِ",
+      "وَٱصْطَبِرْ عَلَيْهَا ۖ لَا",
+      "نَسْـَٔلُكَ رِزْقًۭا ۖ",
+      "نَّحْنُ نَرْزُقُكَ ۗ",
+      "وَٱلْعَـٰقِبَةُ لِلتَّقْوَىٰ"
+    ],
+    "verseEn": "And enjoin prayer upon your family [and people] and be steadfast therein. We ask you not for provision; We provide for you, and the [best] outcome is for [those of] righteousness."
+  },
+  "roothive": {
+    "center": "ر",
+    "outer": [
+      "ج",
+      "ي",
+      "ه",
+      "و",
+      "م",
+      "ا"
+    ],
+    "root": {
+      "letters": "جري",
+      "display": "ج ر ي",
+      "translit": "j-r-y",
+      "meaning": "The core idea is smooth, onward movement like water flowing. Ships, running streams and a set course all grow from that image of something gliding forward.",
+      "occurrences": 64,
+      "lemmaCount": 4
+    },
+    "words": [
+      {
+        "w": "اجر",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَجْر",
+            "gloss": "reward",
+            "type": "noun",
+            "root": "أجر",
+            "count": 105,
+            "ref": "3:136",
+            "pos": 14,
+            "alt": [
+              "payment",
+              "any payment"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اري",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَرَيْ",
+            "gloss": "show",
+            "type": "verb",
+            "root": "رأي",
+            "count": 40,
+            "ref": "6:75",
+            "pos": 2,
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "امر",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَمْر",
+            "gloss": "command",
+            "type": "noun",
+            "root": "أمر",
+            "count": 166,
+            "ref": "2:117",
+            "pos": 6,
+            "alt": [
+              "matter",
+              "affair"
+            ]
+          },
+          {
+            "lemma": "أَمَرَ",
+            "gloss": "commands",
+            "type": "verb",
+            "root": "أمر",
+            "count": 77,
+            "ref": "2:27",
+            "pos": 10,
+            "alt": [
+              "commanded",
+              "has ordered"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "جار",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "جار",
+            "gloss": "neighbor",
+            "type": "noun",
+            "root": "جور",
+            "count": 3,
+            "ref": "8:48",
+            "pos": 14
+          }
+        ]
+      },
+      {
+        "w": "جرم",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "جَرَم",
+            "gloss": "doubt",
+            "type": "noun",
+            "root": "جرم",
+            "count": 5,
+            "ref": "11:22",
+            "pos": 2,
+            "alt": [
+              "no doubt"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "جري",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "جَرَيْ",
+            "gloss": "flow",
+            "type": "verb",
+            "root": "جري",
+            "count": 57,
+            "ref": "2:25",
+            "pos": 9,
+            "alt": [
+              "flows",
+              "flowing"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "جهر",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "جَهْر",
+            "gloss": "public mention",
+            "type": "noun",
+            "root": "جهر",
+            "count": 7,
+            "ref": "4:148",
+            "pos": 4,
+            "alt": [
+              "what you make public",
+              "loudness"
+            ]
+          },
+          {
+            "lemma": "جَهَرَ",
+            "gloss": "publicizes",
+            "type": "verb",
+            "root": "جهر",
+            "count": 5,
+            "ref": "13:10",
+            "pos": 7,
+            "alt": [
+              "be loud",
+              "speak aloud"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "راي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "رَأَى",
+            "gloss": "see",
+            "type": "verb",
+            "root": "رأي",
+            "count": 271,
+            "ref": "2:55",
+            "pos": 8,
+            "alt": [
+              "saw",
+              "seen"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "رَأْى",
+            "gloss": "sight",
+            "type": "noun",
+            "root": "رأي",
+            "count": 2,
+            "ref": "3:13",
+            "pos": 17
+          }
+        ]
+      },
+      {
+        "w": "رجم",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "رَجَمْ",
+            "gloss": "stone",
+            "type": "verb",
+            "root": "رجم",
+            "count": 5,
+            "ref": "11:91",
+            "pos": 14,
+            "alt": [
+              "would have stoned",
+              "surely, i will stone"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "رمي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "رَمَى",
+            "gloss": "throws",
+            "type": "verb",
+            "root": "رمي",
+            "count": 9,
+            "ref": "4:112",
+            "pos": 7,
+            "alt": [
+              "threw",
+              "throws up"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "مرج",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَرَجَ",
+            "gloss": "released",
+            "type": "verb",
+            "root": "مرج",
+            "count": 2,
+            "ref": "25:53",
+            "pos": 3,
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "مره",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَرَّة",
+            "gloss": "time",
+            "type": "noun",
+            "root": "مرر",
+            "count": 20,
+            "ref": "2:229",
+            "pos": 2,
+            "alt": [
+              "twice",
+              "times"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "وري",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "وُۥرِيَ",
+            "gloss": "to hide",
+            "type": "verb",
+            "root": "وري",
+            "count": 4,
+            "ref": "5:31",
+            "pos": 9,
+            "alt": [
+              "was concealed",
+              "covers"
+            ],
+            "form": 3
+          }
+        ]
+      },
+      {
+        "w": "اجرم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَجْرَمُ",
+            "gloss": "committed crimes",
+            "type": "verb",
+            "root": "جرم",
+            "count": 5,
+            "ref": "6:124",
+            "pos": 21,
+            "alt": [
+              "crimes you commit",
+              "sins we committed"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "امري",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "امْرِئ",
+            "gloss": "person",
+            "type": "noun",
+            "root": "مرأ",
+            "count": 5,
+            "ref": "24:11",
+            "pos": 16,
+            "alt": [
+              "man"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اهجر",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "اهْجُرْ",
+            "gloss": "avoid",
+            "type": "verb",
+            "root": "هجر",
+            "count": 5,
+            "ref": "4:34",
+            "pos": 26,
+            "alt": [
+              "forsake",
+              "leave"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "جهره",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "جَهْرَة",
+            "gloss": "manifestly",
+            "type": "noun",
+            "root": "جهر",
+            "count": 3,
+            "ref": "2:55",
+            "pos": 10,
+            "alt": [
+              "openly"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "جوار",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "جَوار",
+            "gloss": "run",
+            "type": "active participle",
+            "root": "جري",
+            "count": 3,
+            "ref": "42:32",
+            "pos": 3,
+            "alt": [
+              "ships"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "رجيم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "رَجِيم",
+            "gloss": "accursed",
+            "type": "adjective",
+            "root": "رجم",
+            "count": 6,
+            "ref": "15:17",
+            "pos": 5,
+            "alt": [
+              "expelled"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "رميم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "رَمِيم",
+            "gloss": "decomposed",
+            "type": "noun",
+            "root": "رمم",
+            "count": 2,
+            "ref": "36:78",
+            "pos": 11
+          }
+        ]
+      },
+      {
+        "w": "مجرم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مُجْرِم",
+            "gloss": "criminals",
+            "type": "active participle",
+            "root": "جرم",
+            "count": 52,
+            "ref": "7:133",
+            "pos": 13,
+            "alt": [
+              "criminal"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مجري",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "مَجْرى",
+            "gloss": "course",
+            "type": "noun",
+            "root": "جري",
+            "count": 1,
+            "ref": "11:41",
+            "pos": 6
+          }
+        ]
+      },
+      {
+        "w": "مريه",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مِرْيَة",
+            "gloss": "doubt",
+            "type": "noun",
+            "root": "مري",
+            "count": 5,
+            "ref": "11:17",
+            "pos": 29
+          }
+        ]
+      },
+      {
+        "w": "هاجر",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "هاجَرَ",
+            "gloss": "emigrates",
+            "type": "verb",
+            "root": "هجر",
+            "count": 16,
+            "ref": "4:100",
+            "pos": 2,
+            "alt": [
+              "emigrated"
+            ],
+            "form": 3
+          }
+        ]
+      },
+      {
+        "w": "جاريه",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "جارِيَة",
+            "gloss": "flowing",
+            "type": "active participle",
+            "root": "جري",
+            "count": 3,
+            "ref": "88:12",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "مهاجر",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مُهاجِر",
+            "gloss": "emigrant",
+            "type": "active participle",
+            "root": "هجر",
+            "count": 7,
+            "ref": "4:100",
+            "pos": 16,
+            "alt": [
+              "emigrating"
+            ]
+          }
+        ]
+      }
+    ],
+    "otherFamily": [],
+    "maxScore": 49,
+    "featuredRoot": "جري"
+  }
+}

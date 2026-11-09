@@ -1,0 +1,61 @@
+{
+  "title": "Guldviskaren i vildmarken",
+  "intro": "Föreställ dig ett vidsträckt ökenläger i ett ögonblick av väntan och osäkerhet. En stor ledare har gett sig av för ett möte med det Gudomliga och lämnat efter sig ett samhälle som är ivrigt efter något konkret att hålla fast vid. I den rastlösa pausen träder en övertygande figur fram med lysande löften och en smart skapelse som verkar levande.",
+  "clues": [
+    "Jag var bland dem som lämnade Egypten med Musa och bevittnade hur havet delade sig för vår flykt.",
+    "Jag såg när vår ledare gick till berget i fyrtio nätter för att få vägledning.",
+    "Jag samlade ornament från folket och formade dem med mina egna händer.",
+    "Jag tillverkade en kalv som gav ifrån sig ett vrålande ljud, och jag kallade folket till den.",
+    "Jag tog en näve stoft från budbärarens spår och gjöt det i det jag skapade.",
+    "Jag konfronterades av Musa och dömdes att säga \"rör mig inte\" och leva avskild, med ett möte utlovat för dom."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "As-Samiri",
+        "Abu Lahab",
+        "Namrud",
+        "Haman",
+        "Qarun"
+      ],
+      "answer": "As-Samiri"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Krävde dyrkan som den högste herren i Egypten",
+        "Byggde en ark för att överleva den stora syndafloden",
+        "Beordrade en stor eld för att bränna Ibrahim",
+        "Tillverkade en guldkalv som vilseledde israeliterna",
+        "Planerade att döda Muhammed vid migrationen"
+      ],
+      "answer": "Tillverkade en guldkalv som vilseledde israeliterna"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Torans stentavlor",
+        "En handfull damm från budbärarens spår",
+        "Den svala elden som förbereddes för Ibrahim",
+        "Den mäktiga tronen förde med sig ett ögonblick",
+        "Träarken byggd av plankor och spikar"
+      ],
+      "answer": "En handfull damm från budbärarens spår"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Uppslukade av jorden med skatter",
+        "Förstört av en mäktig explosion från himlen",
+        "Förvandlades till apor för att de bröt sabbaten",
+        "Drunknade i havet med förföljande armé",
+        "Dömd att säga \"rör mig inte\" i isolering i väntan på dom"
+      ],
+      "answer": "Dömd att säga \"rör mig inte\" i isolering i väntan på dom"
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

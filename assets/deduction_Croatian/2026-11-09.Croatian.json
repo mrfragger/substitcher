@@ -1,0 +1,61 @@
+{
+  "title": "Šaptač zlata u divljini",
+  "intro": "Zamislite golemi pustinjski logor u trenutku čekanja i neizvjesnosti. Veliki vođa otišao je na sastanak s Božanskim, ostavljajući za sobom zajednicu željnu nečeg opipljivog za što bi se mogla uhvatiti. U toj nemirnoj stanci, uvjerljiva figura istupa naprijed s blistavim obećanjima i pametnim stvorenjem koje djeluje živo.",
+  "clues": [
+    "Bio sam među onima koji su napustili Egipat s Musom, svjedočeći kako se more razdvaja za naš bijeg.",
+    "Gledao sam kako je naš vođa otišao na planinu četrdeset noći kako bi primio vodstvo.",
+    "Skupljala sam ukrase od ljudi i oblikovala ih vlastitim rukama.",
+    "Napravio sam tele koje je mukalo i pozvao ljude k njemu.",
+    "Uzeo sam šaku prašine s glasnikovog traga i bacio je u ono što sam napravio.",
+    "Suočio me je Musa i osudio me da kažem 'ne diraj me' i živim odvojeno, uz obećanje susreta radi suda."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "As-Samiri",
+        "Ebu Lehab",
+        "Namrud",
+        "Haman",
+        "Karun"
+      ],
+      "answer": "As-Samiri"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Zahtijevao je štovanje kao najviši gospodar u Egiptu",
+        "Izgradio je arku kako bi preživio veliki potop",
+        "Naredio je veliku vatru da spale Ibrahima",
+        "Napravio je zlatno tele koje je zavelo Izraelce",
+        "Planirali su ubiti Muhameda tijekom migracije"
+      ],
+      "answer": "Napravio je zlatno tele koje je zavelo Izraelce"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Kamene ploče Tore",
+        "Šaka prašine s glasnikovog traga",
+        "Hladna vatra pripremljena za Ibrahima",
+        "Moćno prijestolje donijelo je u treptaju",
+        "Drvena arka izgrađena od dasaka i čavala"
+      ],
+      "answer": "Šaka prašine s glasnikovog traga"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Progutana zemljom s blagom",
+        "Uništen snažnim udarom s neba",
+        "Pretvoreni u majmune zbog kršenja Sabata",
+        "Utopio se u moru s vojskom koja ga je progonila",
+        "Osuđen da u izolaciji kaže 'ne diraj me' čekajući sud"
+      ],
+      "answer": "Osuđen da u izolaciji kaže 'ne diraj me' čekajući sud"
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

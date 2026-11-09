@@ -1,0 +1,61 @@
+{
+  "title": "Çölde Altın Fısıldayan",
+  "intro": "Bekleyiş ve belirsizlik anında, uçsuz bucaksız bir çöl kampını hayal edin. Büyük bir lider, Tanrı ile buluşmak için uzaklaşmış ve geride somut bir şeye tutunmak isteyen bir topluluk bırakmıştır. Bu huzursuz bekleme anında, ikna edici bir figür, parlak vaatlerle ve canlı gibi görünen zekice bir yaratımla öne çıkar.",
+  "clues": [
+    "Musa ile birlikte Mısır'dan ayrılanlar arasındaydım ve kaçışımız için denizin ikiye ayrıldığına şahit oldum.",
+    "Liderimizin rehberlik almak için kırk gece dağa gittiğini izledim.",
+    "İnsanlardan süs eşyaları topladım ve onları kendi ellerimle şekillendirdim.",
+    "Ben de böğüren bir buzağı yaptım ve insanları onun yanına çağırdım.",
+    "Habercinin bıraktığı izden bir avuç toz aldım ve yaptığım şeye kattım.",
+    "Musa ile karşı karşıya geldim ve bana 'bana dokunma' demem ve ayrı yaşamam emredildi; yargılama için bir araya geleceğimiz sözü verildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "As-Samiri",
+        "Ebu Lahab",
+        "Namrud",
+        "Haman",
+        "Karun"
+      ],
+      "answer": "As-Samiri"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Mısır'da en yüce efendi olarak tapınmayı talep etti.",
+        "Büyük tufandan kurtulmak için bir gemi inşa ettiler.",
+        "İbrahim'i yakmak için büyük bir ateş yakılmasını emretti.",
+        "İsrailoğullarını yanıltan altın bir buzağı yaptılar.",
+        "Hicret sırasında Muhammed'i öldürmeyi planladılar."
+      ],
+      "answer": "İsrailoğullarını yanıltan altın bir buzağı yaptılar."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Tora'nın taş tabletleri",
+        "Habercinin izinden bir avuç toz",
+        "İbrahim için hazırlanan serin ateş",
+        "Muhteşem taht bir anda ortaya çıktı.",
+        "Tahtadan ve çivilerden yapılmış ahşap gemi"
+      ],
+      "answer": "Habercinin izinden bir avuç toz"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Hazinelerle dolu toprak tarafından yutuldu",
+        "Gökyüzünden gelen müthiş bir patlamayla yok edildi.",
+        "Şabat gününü ihlal ettikleri için maymuna dönüştürüldüler.",
+        "Peşinden gelen ordunun gölgesinde denizde boğuldu.",
+        "Hüküm beklerken tecrit altında 'bana dokunma' demeye mahkum edildi."
+      ],
+      "answer": "Hüküm beklerken tecrit altında 'bana dokunma' demeye mahkum edildi."
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

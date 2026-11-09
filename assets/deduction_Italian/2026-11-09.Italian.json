@@ -1,0 +1,61 @@
+{
+  "title": "Il sussurratore d'oro nel deserto",
+  "intro": "Immaginate un vasto accampamento nel deserto, immerso in un momento di attesa e incertezza. Un grande leader è partito per un incontro con il Divino, lasciando dietro di sé una comunità desiderosa di qualcosa di tangibile a cui aggrapparsi. In quella pausa inquieta, una figura carismatica si fa avanti con promesse luminose e un'ingegnosa creazione che sembra prendere vita.",
+  "clues": [
+    "Ero tra coloro che lasciarono l'Egitto con Musa, e fui testimone dell'apertura del mare per permetterci di fuggire.",
+    "Ho assistito al ritiro del nostro capo in montagna per quaranta notti, durante il quale ha ricevuto una guida spirituale.",
+    "Ho raccolto ornamenti dalle persone e li ho modellati con le mie mani.",
+    "Ho creato un vitello che muggiva e ho chiamato la gente a sé.",
+    "Ho preso una manciata di polvere dalle tracce del messaggero e l'ho gettata in ciò che ho creato.",
+    "Sono stato affrontato da Musa e condannato a dire \"non mi toccare\" e a vivere in disparte, con la promessa di un incontro per il giudizio."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "As-Samiri",
+        "Abu Lahab",
+        "Namrud",
+        "Haman",
+        "Qarun"
+      ],
+      "answer": "As-Samiri"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Esigeva di essere venerato come il signore supremo in Egitto.",
+        "Costruirono un'arca per sopravvivere al grande diluvio",
+        "Ordinò un grande fuoco per bruciare Ibrahim",
+        "Crearono un vitello d'oro che ingannò gli Israeliti",
+        "Avevano complottato per uccidere Maometto durante la migrazione"
+      ],
+      "answer": "Crearono un vitello d'oro che ingannò gli Israeliti"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Le tavole di pietra della Torah",
+        "Una manciata di polvere proveniente dal percorso del messaggero",
+        "Il fuoco fresco preparato per Ibrahim",
+        "Il possente trono portò un battito di ciglia",
+        "L'arca di legno costruita con assi e chiodi"
+      ],
+      "answer": "Una manciata di polvere proveniente dal percorso del messaggero"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Inghiottita dalla terra con tesori",
+        "Distrutto da una potente esplosione dal cielo",
+        "Trasformati in scimmie per aver violato il sabato",
+        "Annegato in mare con l'esercito all'inseguimento",
+        "Condannato a dire \"non mi toccare\" in isolamento in attesa del giudizio"
+      ],
+      "answer": "Condannato a dire \"non mi toccare\" in isolamento in attesa del giudizio"
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

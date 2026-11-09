@@ -1,0 +1,61 @@
+{
+  "title": "Kullan kuiskaaja erämaassa",
+  "intro": "Kuvittele valtava aavikkoleiri odottamisen ja epävarmuuden hetkellä. Suuri johtaja on lähtenyt tapaamaan jumalallista, jättäen jälkeensä yhteisön, joka kaipaa innokkaasti jotakin konkreettista, johon pitää kiinni. Tuossa levottomassa tauossa vakuuttava hahmo astuu esiin loistavien lupausten ja nerokkaan luomuksen kera, joka vaikuttaa elävältä.",
+  "clues": [
+    "Olin niiden joukossa, jotka lähtivät Egyptistä Moosen kanssa, ja todistin meren jakautuvan pakoomme.",
+    "Katselin, kun johtajamme meni vuorelle neljäksikymmeneksi yöksi saamaan opastusta.",
+    "Keräsin koristeita ihmisiltä ja muovailin niitä omin käsin.",
+    "Tein vasikan, joka antoi ammuvan äänen, ja kutsuin ihmiset sen luokse.",
+    "Otin kourallisen tomua sanansaattajan jäljiltä ja heitin sen siihen, mitä tein.",
+    "Musa kohtasi minut ja tuomitsi minut sanomaan \"älä koske minuun\" ja elämään erillään, ja minulle luvattiin tapaaminen tuomiota varten."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "As-Samiri",
+        "Abu Lahab",
+        "Namrud",
+        "Haman",
+        "Qarun"
+      ],
+      "answer": "As-Samiri"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Vaati palvontaa Egyptin korkeimpana herrana",
+        "Rakensi arkin selviytyäkseen suuresta vedenpaisumuksesta",
+        "Käskin sytyttää suuren tulen Ibrahimin polttamiseksi",
+        "Teki kultaisen vasikan, joka johti israelilaiset harhaan",
+        "Suunnitelmissa Muhammedin tappamiseksi muuttoliikkeen aikana"
+      ],
+      "answer": "Teki kultaisen vasikan, joka johti israelilaiset harhaan"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Tooran kivitaulut",
+        "Kourallinen pölyä sanansaattajan jäljiltä",
+        "Viileä tuli valmisteltiin Ibrahimia varten",
+        "Mahtava valtaistuin toi silmänräpäyksessä",
+        "Puinen arkki, joka on rakennettu lankuista ja nauloista"
+      ],
+      "answer": "Kourallinen pölyä sanansaattajan jäljiltä"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Maan nielaisema aarteineen",
+        "Tuhoutui mahtavan taivaanräjähdyksen seurauksena",
+        "Muuttuivat apinoiksi sapatin rikkomisesta",
+        "Hukkui mereen takaa-ajavan armeijan kanssa",
+        "Tuomittu sanomaan \"älä koske minuun\" yksin odottaen tuomiota"
+      ],
+      "answer": "Tuomittu sanomaan \"älä koske minuun\" yksin odottaen tuomiota"
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

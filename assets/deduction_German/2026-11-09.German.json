@@ -1,0 +1,61 @@
+{
+  "title": "Der Goldflüsterer in der Wildnis",
+  "intro": "Stell dir ein riesiges Lager in der Wüste vor, in dem eine Zeit des Wartens und der Ungewissheit herrscht. Ein großer Anführer ist zu einer göttlichen Begegnung aufgebrochen und hat eine Gemeinschaft zurückgelassen, die sich nach etwas Greifbarem sehnt, an dem sie sich festhalten kann. In dieser rastlosen Stille tritt eine charismatische Gestalt hervor, die mit glänzenden Versprechungen und einer raffinierten, lebendig wirkenden Schöpfung aufwartet.",
+  "clues": [
+    "Ich gehörte zu denen, die zusammen mit Musa Ägypten verließen und miterlebten, wie sich das Meer für unsere Flucht teilte.",
+    "Ich habe es miterlebt, als unser Anführer vierzig Nächte lang auf den Berg ging, um Rat zu erhalten.",
+    "Ich sammelte Schmuckstücke von den Leuten und formte sie mit meinen eigenen Händen.",
+    "Ich habe ein Kalb erschaffen, das ein Muhen von sich gab, und ich habe die Leute zu ihm gerufen.",
+    "Ich nahm eine Handvoll Staub von den Spuren des Boten und streute ihn in das, was ich geschaffen hatte.",
+    "Ich wurde von Musa konfrontiert und dazu verurteilt, „Rühre mich nicht an“ zu sagen und getrennt zu leben, wobei mir ein Treffen zur Urteilsfindung versprochen wurde."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "As-Samiri",
+        "Abu Lahab",
+        "Namrud",
+        "Haman",
+        "Qarun"
+      ],
+      "answer": "As-Samiri"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Er wurde als höchster Herr Ägyptens verehrt.",
+        "Er baute eine Arche, um die große Flut zu überleben.",
+        "Er befahl, ein großes Feuer zu entzünden, um Ibrahim zu verbrennen.",
+        "Er fertigte ein goldenes Kalb an, das die Israeliten in die Irre führte.",
+        "Sie planten, Mohammed bei der Migration zu töten."
+      ],
+      "answer": "Er fertigte ein goldenes Kalb an, das die Israeliten in die Irre führte."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die Steintafeln der Tora",
+        "Eine Handvoll Staub von der Spur des Boten",
+        "Das kühle Feuer, das für Ibrahim vorbereitet war",
+        "Der mächtige Thron brachte einen Wimpernschlag",
+        "Die hölzerne Arche, gebaut aus Brettern und Nägeln"
+      ],
+      "answer": "Eine Handvoll Staub von der Spur des Boten"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Von der Erde mit Schätzen verschluckt",
+        "Zerstört durch eine gewaltige Explosion vom Himmel",
+        "Wegen Sabbatbruchs in Affen verwandelt",
+        "Im Meer ertrunken, verfolgt von der Armee",
+        "Verurteilt dazu, in Isolation und während der Erwartung des Urteils „Rühre mich nicht an“ zu sagen."
+      ],
+      "answer": "Verurteilt dazu, in Isolation und während der Erwartung des Urteils „Rühre mich nicht an“ zu sagen."
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

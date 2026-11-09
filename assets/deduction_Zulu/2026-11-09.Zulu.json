@@ -1,0 +1,61 @@
+{
+  "title": "Umhlebi Wegolide Ehlane",
+  "intro": "Cabanga ngekamu elikhulu elisehlane ngesikhathi sokulinda nokungaqiniseki. Umholi omkhulu uye waya emhlanganweni noNkulunkulu, eshiya umphakathi olangazelela okuthile okuphathekayo angakubamba. Kulokho kuthula okungapheli, umuntu okholisayo uya phambili enezithembiso ezikhazimulayo kanye nesidalwa esihlakaniphile esibonakala siphila.",
+  "clues": [
+    "Ngangiphakathi kwalabo abashiya iGibhithe noMose, ngibona ulwandle luhlukana ukuze sibaleke.",
+    "Ngabuka lapho umholi wethu eya entabeni ubusuku obungamashumi amane ukuze athole isiqondiso.",
+    "Ngaqoqa imihlobiso kubantu futhi ngayibumba ngezandla zami.",
+    "Ngakha ithole elalikhipha umsindo wokubhonga, futhi ngabiza abantu ukuba beze kulo.",
+    "Ngathatha uthuli oluncane emzileni wesithunywa ngaluphonsa kulokho engangikwenzile.",
+    "Ngabhekana noMusa futhi ngagwetshwa ukuthi ngithi 'ungangithinti' futhi nihlale ngokwehlukana, ngesithembiso somhlangano wokwahlulela."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "I-As-Samiri",
+        "Abu Lahab",
+        "I-Namrud",
+        "UHamani",
+        "I-Qarun"
+      ],
+      "answer": "I-As-Samiri"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukukhulekelwa okufunwayo njengenkosi ephakeme kunazo zonke eGibhithe",
+        "Wakha umkhumbi ukuze asinde kuzamcolo omkhulu",
+        "Wayala umlilo omkhulu ukuba ushise u-Ibrahim",
+        "Wakha ithole legolide eladukisa ama-Israyeli",
+        "Kuhlelwe ukubulala uMuhammad ngesikhathi sokufuduka"
+      ],
+      "answer": "Wakha ithole legolide eladukisa ama-Israyeli"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Izibhebhe zamatshe zeTorah",
+        "Uthuli oluncane oluvela emzileni wesithunywa",
+        "Umlilo opholile olungiselelwe u-Ibrahim",
+        "Isihlalo sobukhosi esinamandla saletha ukukhanya",
+        "Umkhumbi wokhuni owakhiwe ngamapulangwe nezipikili"
+      ],
+      "answer": "Uthuli oluncane oluvela emzileni wesithunywa"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Kugwinywe umhlaba ngengcebo",
+        "Wabhujiswa ukuqhuma okukhulu okuvela esibhakabhakeni",
+        "Waphenduka izinkawu ngenxa yokwephula iSabatha",
+        "Ngicwile olwandle nebutho elixoshayo",
+        "Ugwetshwe ukuthi athi 'ungangithinti' eyedwa elinde isahlulelo"
+      ],
+      "answer": "Ugwetshwe ukuthi athi 'ungangithinti' eyedwa elinde isahlulelo"
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

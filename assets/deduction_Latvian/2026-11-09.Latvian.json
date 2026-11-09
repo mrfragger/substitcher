@@ -1,0 +1,61 @@
+{
+  "title": "Zelta čukstētājs tuksnesī",
+  "intro": "Iztēlojieties plašu tuksneša nometni gaidīšanas un nenoteiktības brīdī. Dižens vadītājs ir devies uz tikšanos ar Dievišķo, atstājot aiz sevis kopienu, kas alkst pēc kaut kā taustāma, pie kā pieturēties. Šajā nemierīgajā pauzē uz priekšu sper pārliecinoša figūra ar mirdzošiem solījumiem un gudru radījumu, kas šķiet dzīvs.",
+  "clues": [
+    "Es biju starp tiem, kas kopā ar Musu pameta Ēģipti, un biju liecinieks tam, kā jūra pāršķēlās, lai mēs varētu glābties.",
+    "Es vēroju, kā mūsu vadītājs devās uz kalnu uz četrdesmit naktīm, lai saņemtu vadību.",
+    "Es savācu rotājumus no cilvēkiem un veidoju tos ar savām rokām.",
+    "Es izveidoju teļu, kas mauca, un aicināju ļaudis pie tā.",
+    "Es paņēmu sauju putekļu no vēstneša pēdām un iemetu tos tajā, ko biju radījis.",
+    "Mani konfrontēja Musa un nosodīja teikt: \"Neaiztiec mani\" un dzīvot šķirti, apsolot tikšanos spriedumam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "As-Samiri",
+        "Abu Lahābs",
+        "Namrud",
+        "Hamans",
+        "Koruns"
+      ],
+      "answer": "As-Samiri"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Pieprasīja pielūgsmi kā augstākais valdnieks Ēģiptē",
+        "Uzbūvēja šķirstu, lai pārdzīvotu lielos plūdus",
+        "Pavēlēja iekurt lielu uguni, lai sadedzinātu Ibrahimu",
+        "Izgatavoja zelta teļu, kas maldināja izraēliešus",
+        "Plānoja nogalināt Muhamedu migrācijas laikā"
+      ],
+      "answer": "Izgatavoja zelta teļu, kas maldināja izraēliešus"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Toras akmens plāksnes",
+        "Sauja putekļu no vēstneša pēdām",
+        "Vēsā ugunskura sagatavotā Ibrahim",
+        "Varenais tronis acumirklī ienesa",
+        "Koka šķirsts, kas celts no dēļiem un naglām"
+      ],
+      "answer": "Sauja putekļu no vēstneša pēdām"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Zeme aprijusi dārgumus",
+        "Iznīcināts ar spēcīgu sprādzienu no debesīm",
+        "Pārvērtās par pērtiķiem par sabata pārkāpšanu",
+        "Noslīka jūrā kopā ar vajājošo armiju",
+        "Nolemts teikt \"neaiztiec mani\", izolācijā gaidot spriedumu"
+      ],
+      "answer": "Nolemts teikt \"neaiztiec mani\", izolācijā gaidot spriedumu"
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

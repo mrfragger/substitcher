@@ -20,21 +20,21 @@ jobs:
           channel: "stable"
 
       - name: Download arm64 FFmpeg
-        uses: dawidd6/action-download-artifact@v11
+        uses: dawidd6/action-download-artifact@v21
         with:
           workflow: build_ffmpeg.yml
           name: ffmpeg-macos
           path: macos/Runner/Resources/bin/
 
       - name: Download arm64 Whisper
-        uses: dawidd6/action-download-artifact@v11
+        uses: dawidd6/action-download-artifact@v21
         with:
           workflow: build_whisper.yml
           name: whisper-macos-arm64
           path: macos/Runner/Resources/whisper/
 
       - name: Download arm64 DeepFilter
-        uses: dawidd6/action-download-artifact@v11
+        uses: dawidd6/action-download-artifact@v21
         with:
           workflow: build_deepfilter.yml
           name: deepfilter-macos-arm64
@@ -42,7 +42,7 @@ jobs:
           if_no_artifact_found: fail
 
       - name: Download arm64 vtracer
-        uses: dawidd6/action-download-artifact@v11
+        uses: dawidd6/action-download-artifact@v21
         with:
           workflow: build_vtracer.yml
           name: vtracer-macos-arm64
@@ -67,7 +67,7 @@ jobs:
             "build/macos/Build/Products/Release/SubStitcher.app"
 
       - name: Upload macOS artifact
-        uses: actions/upload-artifact@v5
+        uses: actions/upload-artifact@v7
         with:
           name: macos-build
           path: SubStitcher-macOS-arm64.dmg
@@ -87,21 +87,21 @@ jobs:
           sudo apt-get install -y clang cmake ninja-build pkg-config libgtk-3-dev liblzma-dev libmpv-dev mpv
 
       - name: Download Linux FFmpeg
-        uses: dawidd6/action-download-artifact@v11
+        uses: dawidd6/action-download-artifact@v21
         with:
           workflow: build_ffmpeg.yml
           name: ffmpeg-linux
           path: temp-bin/
 
       - name: Download Linux Whisper
-        uses: dawidd6/action-download-artifact@v11
+        uses: dawidd6/action-download-artifact@v21
         with:
           workflow: build_whisper.yml
           name: whisper-linux
           path: temp-whisper/
 
       - name: Download Linux DeepFilter
-        uses: dawidd6/action-download-artifact@v11
+        uses: dawidd6/action-download-artifact@v21
         with:
           workflow: build_deepfilter.yml
           name: deepfilter-linux-x64
@@ -131,7 +131,7 @@ jobs:
           ./scripts/build_appimage.sh
 
       - name: Upload Linux AppImage artifact
-        uses: actions/upload-artifact@v5
+        uses: actions/upload-artifact@v7
         with:
           name: linux-appimage-build
           path: substitcher-*.AppImage
@@ -146,21 +146,21 @@ jobs:
           channel: "stable"
 
       - name: Download Windows FFmpeg
-        uses: dawidd6/action-download-artifact@v11
+        uses: dawidd6/action-download-artifact@v21
         with:
           workflow: build_ffmpeg.yml
           name: ffmpeg-windows
           path: temp-bin/
 
       - name: Download Windows Whisper
-        uses: dawidd6/action-download-artifact@v11
+        uses: dawidd6/action-download-artifact@v21
         with:
           workflow: build_whisper.yml
           name: whisper-windows
           path: temp-whisper/
 
       - name: Download Windows DeepFilter
-        uses: dawidd6/action-download-artifact@v11
+        uses: dawidd6/action-download-artifact@v21
         with:
           workflow: build_deepfilter.yml
           name: deepfilter-windows-x64
@@ -187,7 +187,7 @@ jobs:
           Compress-Archive -Path build\windows\x64\runner\Release\* -DestinationPath SubStitcher-Windows-x64.zip
 
       - name: Upload Windows ZIP
-        uses: actions/upload-artifact@v5
+        uses: actions/upload-artifact@v7
         with:
           name: windows-build
           path: SubStitcher-Windows-x64.zip
@@ -203,10 +203,10 @@ jobs:
     if: startsWith(github.ref, 'refs/tags/')
     steps:
       - name: Download all artifacts
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v8
 
       - name: Create Release
-        uses: softprops/action-gh-release@v2
+        uses: softprops/action-gh-release@v3
         with:
           files: |
             macos-build/SubStitcher-macOS-arm64.dmg
@@ -232,7 +232,7 @@ jobs:
           echo "version=$VERSION" >> $GITHUB_OUTPUT
 
       - name: Download AppImage artifact
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v8
         with:
           name: linux-appimage-build
           path: artifacts
@@ -293,7 +293,7 @@ jobs:
           echo "version=$VERSION" >> $GITHUB_OUTPUT
 
       - name: Download DMG artifact
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v8
         with:
           name: macos-build
           path: artifacts

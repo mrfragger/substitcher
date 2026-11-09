@@ -1,0 +1,61 @@
+{
+  "title": "Szepczący złoto na pustkowiu",
+  "intro": "Wyobraź sobie rozległy obóz na pustyni w chwili oczekiwania i niepewności. Wielki przywódca wyruszył na spotkanie z Bogiem, zostawiając za sobą społeczność spragnioną czegoś namacalnego, czego mogłaby się uchwycić. W tej niespokojnej ciszy, przekonująca postać wysuwa się naprzód z błyszczącymi obietnicami i sprytnym dziełem, które wydaje się żywe.",
+  "clues": [
+    "Byłem wśród tych, którzy opuścili Egipt z Musą, będąc świadkiem rozstąpienia się morza, które umożliwiło nam ucieczkę.",
+    "Obserwowałem, jak nasz przywódca udał się w góry na czterdzieści nocy, aby otrzymać wskazówki.",
+    "Zebrałam ozdoby od ludzi i własnoręcznie je uformowałam.",
+    "Uformowałem cielę, które wydawało ryczący dźwięk i przywołałem do niego ludzi.",
+    "Wziąłem garść pyłu ze śladu posłańca i wrzuciłem go w to, co stworzyłem.",
+    "Musa stanął przed mną twarzą w twarz i kazał mi powiedzieć „nie dotykaj mnie” oraz żyć w odosobnieniu, obiecując mi spotkanie w celu osądzenia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "As-Samiri",
+        "Abu Lahab",
+        "Namrud",
+        "Haman",
+        "Karun"
+      ],
+      "answer": "As-Samiri"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Żądał czci jako najwyższy władca w Egipcie",
+        "Zbudował arkę, aby przetrwać wielki potop",
+        "Rozkazano rozpalić wielki ogień, żeby spalić Ibrahima",
+        "Stworzył złotego cielca, który wprowadził Izraelitów w błąd",
+        "Zaplanowano zabójstwo Mahometa podczas migracji"
+      ],
+      "answer": "Stworzył złotego cielca, który wprowadził Izraelitów w błąd"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Kamienne tablice Tory",
+        "Garść kurzu ze śladu posłańca",
+        "Chłodny ogień przygotowany dla Ibrahima",
+        "Potężny tron ​​pojawił się w mgnieniu oka",
+        "Drewniana arka zbudowana z desek i gwoździ"
+      ],
+      "answer": "Garść kurzu ze śladu posłańca"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Pochłonięty przez ziemię wraz ze skarbami",
+        "Zniszczony przez potężny wybuch z nieba",
+        "Zamienieni w małpy za łamanie szabatu",
+        "Utonął w morzu, ścigany przez armię",
+        "Skazany na powiedzenie „nie dotykaj mnie” w izolacji, oczekując na wyrok"
+      ],
+      "answer": "Skazany na powiedzenie „nie dotykaj mnie” w izolacji, oczekując na wyrok"
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Te Kaikōrero Kōura i te Koraha",
+  "intro": "Whakaarohia tētahi puni nui o te koraha i roto i tētahi wā tatari me te koretake. Kua riro atu tētahi rangatira nui ki tētahi hui ki te Atua, ā, kua mahue iho tētahi hapori e hiahia ana ki tētahi mea hei pupuri. I roto i taua wā okiokinga korekore, ka hikoi whakamua tētahi tangata whakapati me ngā kupu whakaari kanapa me tētahi mea hanga mohio e ahua ora ana.",
+  "clues": [
+    "I roto ahau i te hunga i wehe atu i Ihipa me Mohi, me te mātakitaki i te wehenga o te moana hei mawhiti mō mātou.",
+    "I mātakitaki ahau i te haerenga o tō mātou rangatira ki te maunga mō ngā pō e whā tekau ki te tiki aratohu.",
+    "I kohia e au ngā whakapaipai mai i te iwi, ā, i whakairohia e au ki ōku ake ringaringa.",
+    "Na hanga ana e ahau tetahi kuao kau, he tangi tangi, a karangatia ana te iwi ki reira.",
+    "I tangohia e ahau tētahi ringa puehu i te ara o te karere, ā, maka ana e ahau ki runga ki taku i hanga ai.",
+    "I tū atu ahau ki te aroaro o Mohi, ā, i whakahengia ahau kia mea atu 'kaua e pā mai ki ahau' engari kia noho motuhake, me te whakarite kia hui te wā whakawa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Ās-Samiri",
+        "Āpu Rāhapi",
+        "Namrud",
+        "Hāmana",
+        "Karauna"
+      ],
+      "answer": "Ās-Samiri"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I tono kia karakiatia te ariki nui rawa atu o Ihipa",
+        "I hanga e ia he āka hei oranga mō te waipuke nui",
+        "I whakahaua he ahi nui hei tahu i a Ihāpera",
+        "I hanga he kuao kau koura i whakapohehe i ngā Iharaira",
+        "I whakatakoto mahere kia patua a Muhammad i te hekenga"
+      ],
+      "answer": "I hanga he kuao kau koura i whakapohehe i ngā Iharaira"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Ngā papa kōhatu o te Torah",
+        "He ringa puehu mai i te ara o te karere",
+        "Te ahi matao i whakaritea mō Ibrahim",
+        "I kawea mai e te torona nui te kimo",
+        "Ko te āka rakau i hangaia ki ngā papa me ngā whao"
+      ],
+      "answer": "He ringa puehu mai i te ara o te karere"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Horomia ana e te whenua me ngā taonga",
+        "I whakangaromia e te pahūtanga nui mai i te rangi",
+        "I hurihia hei makimaki mō te takahi i te Hāpati",
+        "I toremi ki te moana me te ope taua e whai ana",
+        "Ka whakahēngia kia kī atu 'kaua e pā mai ki ahau' i a ia e noho motuhake ana, e tatari ana kia whakawakia"
+      ],
+      "answer": "Ka whakahēngia kia kī atu 'kaua e pā mai ki ahau' i a ia e noho motuhake ana, e tatari ana kia whakawakia"
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Cogaradóir an Óir sa Fhásach",
+  "intro": "Samhlaigh campa ollmhór fásaigh i nóiméad feithimh agus éiginnteachta. Tá ceannaire mór imithe le haghaidh cruinnithe leis an Diaga, ag fágáil pobal ina dhiaidh atá fonnmhar ar rud éigin inláimhsithe le greim a choinneáil air. Sa sos suaimhneach sin, tagann figiúr mealltach chun cinn le gealltanais lonracha agus cruthú cliste a bhfuil an chuma air go bhfuil sé beo.",
+  "clues": [
+    "Bhí mé i measc na ndaoine a d’fhág an Éigipt le Músa, agus mé ag feiceáil an fharraige ag scoilteadh dár n-éalú.",
+    "D’fhéach mé nuair a chuaigh ár gceannaire go dtí an sliabh ar feadh daichead oíche chun treoir a fháil.",
+    "Bhailigh mé ornáidí ó na daoine agus mhúnlaigh mé iad le mo lámha féin.",
+    "Rinne mé lao a thug fuaim béicíl, agus ghlaoigh mé ar na daoine chuige.",
+    "Thóg mé dornán deannaigh ó rian an teachtaire agus chaith mé isteach sa rud a rinne mé é.",
+    "Chuir Músa aghaidh orm agus tugadh an daoradh dom a rá 'ná bain liom' agus maireachtáil ar leithligh, agus cruinniú geallta le haghaidh breithiúnais."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "As-Samiri",
+        "Abu Lahab",
+        "Namrud",
+        "Haman",
+        "Qarún"
+      ],
+      "answer": "As-Samiri"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "D'éiligh sé adhradh mar an tiarna is airde san Éigipt",
+        "Thóg sé áirc chun maireachtáil ón tuile mhór",
+        "D'ordaigh tine mhór chun Ibrahim a dhó",
+        "Rinne lao órga a chuir na hIosraeilítigh amú",
+        "Plota chun Muhammad a mharú ag an imirce"
+      ],
+      "answer": "Rinne lao órga a chuir na hIosraeilítigh amú"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Táibléid chloiche an Torah",
+        "Dornán deannaigh ó rian an teachtaire",
+        "An tine fhionnuar ullmhaithe d'Ibrahim",
+        "Thug an ríchathaoir chumhachtach isteach i gcnapán",
+        "An áirc adhmaid tógtha as plancanna agus tairní"
+      ],
+      "answer": "Dornán deannaigh ó rian an teachtaire"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Slogtha ag an talamh le seoda",
+        "Scriosta ag pléascadh mór ón spéir",
+        "Iompú ina n-apaí as briseadh na Sabóide",
+        "Báite sa bhfarraige leis an arm a lean",
+        "Daoradh chun a rá 'ná bain liom' ina n-aonar ag fanacht le breithiúnas"
+      ],
+      "answer": "Daoradh chun a rá 'ná bain liom' ina n-aonar ag fanacht le breithiúnas"
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

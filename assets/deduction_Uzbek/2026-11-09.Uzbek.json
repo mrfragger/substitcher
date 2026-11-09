@@ -1,0 +1,61 @@
+{
+  "title": "Cho'lda oltin pichirlovchi",
+  "intro": "Kutish va noaniqlik lahzasidagi ulkan cho'l lagerini tasavvur qiling. Buyuk bir rahbar Ilohiy bilan uchrashuvga jo'nab ketdi va ortida aniq bir narsani ushlab turishga intilayotgan jamoani qoldirib ketdi. Bu notinch sukutda, yorqin va'dalar va tirikdek tuyulgan aqlli ijod bilan ishonarli bir shaxs oldinga qadam tashlaydi.",
+  "clues": [
+    "Men Muso bilan Misrdan chiqib ketganlar orasida edim, dengizning qochishimiz uchun ikkiga bo'linganiga guvoh bo'ldim.",
+    "Men rahbarimiz qirq kechaga yo'l-yo'riq olish uchun tog'ga borganini kuzatdim.",
+    "Men odamlardan bezaklarni yig'ib, ularga o'z qo'llarim bilan shakl berdim.",
+    "Men bo'kiradigan buzoqni yasab, odamlarni unga chaqirdim.",
+    "Men xabarchining izidan bir hovuch tuproq olib, uni o'zim yasagan narsaga tashladim.",
+    "Men Muso bilan to'qnash keldim va \"menga tegmang\" deyishga va alohida yashashga mahkum bo'ldim, uchrashuv esa hukm uchun va'da qilingan edi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "As-Samiriy",
+        "Abu Lahab",
+        "Namrud",
+        "Xomon",
+        "Qorun"
+      ],
+      "answer": "As-Samiriy"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Misrda eng oliy lord sifatida sajda qilishni talab qildi",
+        "Buyuk to'fondan omon qolish uchun kema qurdi",
+        "Ibrohimni yoqish uchun katta olov yoqishni buyurdi",
+        "Isroilliklarni yo'ldan ozdirgan oltin buzoq yasadi",
+        "Hijrat paytida Muhammadni o'ldirish uchun fitna uyushtirilgan"
+      ],
+      "answer": "Isroilliklarni yo'ldan ozdirgan oltin buzoq yasadi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Tavrotning tosh lavhalari",
+        "Xabarchining izidan bir hovuch chang",
+        "Ibrohim uchun sovuq olov tayyorlandi",
+        "Qudratli taxt bir zumda ko'zni qamashtirdi",
+        "Taxta va mixlardan qurilgan yog'och kema"
+      ],
+      "answer": "Xabarchining izidan bir hovuch chang"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Yer xazinalar bilan yutib yuborilgan",
+        "Osmondan kuchli portlash bilan vayron qilingan",
+        "Shabbat kunini buzgani uchun maymunga aylandi",
+        "Ta'qib qiluvchi qo'shin bilan dengizda cho'kib ketdi",
+        "Hukmni kutib, yolg'izlikda \"menga tegmang\" deyishga mahkum etilgan"
+      ],
+      "answer": "Hukmni kutib, yolg'izlikda \"menga tegmang\" deyishga mahkum etilgan"
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

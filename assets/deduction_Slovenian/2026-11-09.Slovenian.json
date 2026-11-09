@@ -1,0 +1,61 @@
+{
+  "title": "Šepetalec zlata v divjini",
+  "intro": "Predstavljajte si obsežen puščavski tabor v trenutku čakanja in negotovosti. Veliki voditelj se je odpravil na srečanje z Božanskim in za seboj pustil skupnost, ki hrepeni po nečem oprijemljivem, česar bi se lahko oklenila. V tem nemirnem premoru stopi naprej prepričljiva figura s sijočimi obljubami in pametno stvaritvijo, ki se zdi živa.",
+  "clues": [
+    "Bil sem med tistimi, ki so z Muso zapustili Egipt in bili priča, kako se je morje razprlo za naš pobeg.",
+    "Gledal sem, kako je naš vodja štirideset noči odšel na goro, da bi prejel vodstvo.",
+    "Zbrala sem okraske od ljudi in jih oblikovala z lastnimi rokami.",
+    "Izdelal sem tele, ki je mukalo, in k njemu poklical ljudi.",
+    "Vzel sem pest prahu s poti sel in ga vrgel v to, kar sem naredil.",
+    "Soočil me je Musa in me obsodil, naj rečem 'ne dotikaj se me' in živim ločeno, z obljubo srečanja za sodbo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "As-Samiri",
+        "Abu Lahab",
+        "Namrud",
+        "Haman",
+        "Karun"
+      ],
+      "answer": "As-Samiri"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Zahteval je čaščenje kot najvišji gospodar v Egiptu",
+        "Zgradil je barko, da bi preživel veliko poplavo",
+        "Ukazal je velik ogenj, da bi sežgali Ibrahima",
+        "Izdelal je zlato tele, ki je zavajalo Izraelce",
+        "Načrtovali so umor Mohameda med selitvijo"
+      ],
+      "answer": "Izdelal je zlato tele, ki je zavajalo Izraelce"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Kamnite plošče Tore",
+        "Peščica prahu s poti sel",
+        "Hladen ogenj, pripravljen za Ibrahima",
+        "Mogočni prestol je v trenutku prinesel",
+        "Lesena barka, zgrajena iz desk in žebljev"
+      ],
+      "answer": "Peščica prahu s poti sel"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Požrta od zemlje z zakladi",
+        "Uničeno zaradi močnega udara z neba",
+        "Spremenili so se v opice zaradi kršenja sobote",
+        "Utopil se je v morju z zasledovalno vojsko",
+        "Obsojen, da v osami reče \"ne dotikaj se me\" in čaka na sodbo"
+      ],
+      "answer": "Obsojen, da v osami reče \"ne dotikaj se me\" in čaka na sodbo"
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}
