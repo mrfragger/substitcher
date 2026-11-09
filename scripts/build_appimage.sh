@@ -85,9 +85,21 @@ EOF
 cp $APPDIR/$APP_NAME.desktop $APPDIR/usr/share/applications/
 
 echo "Creating icon..."
-cat > $APPDIR/substitcher.png << 'ICONEOF'
-iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEwAACxMBAJqcGAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAIoSURBVHic7doxAQAgDMCwgX/P4UBCCL1WZg4g67oHAN8YAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJgZAJj9Y+kCJ/bqQiEAAAAASUVORK5CYII=
-ICONEOF
+ICON_SRC="assets/icon.png"
+if [ ! -f "$ICON_SRC" ]; then
+    echo "ERROR: $ICON_SRC not found"
+    exit 1
+fi
+
+# Downscale 1024x1024 -> 256x256 (recommended size); fall back to the original if no ImageMagick
+if command -v magick >/dev/null 2>&1; then
+    magick "$ICON_SRC" -resize 256x256 $APPDIR/substitcher.png
+elif command -v convert >/dev/null 2>&1; then
+    convert "$ICON_SRC" -resize 256x256 $APPDIR/substitcher.png
+else
+    echo "ImageMagick not found, using original icon size"
+    cp "$ICON_SRC" $APPDIR/substitcher.png
+fi
 
 cp $APPDIR/substitcher.png $APPDIR/usr/share/icons/hicolor/256x256/apps/
 
@@ -101,11 +113,16 @@ cat > $APPDIR/usr/share/metainfo/$APP_NAME.appdata.xml << EOF
   <project_license>MIT</project_license>
   <name>SubStitcher</name>
   <summary>Audiobook encoder and player with subtitle support</summary>
+  <developer id="io.github.mrfragger">
+    <name>mrfragger</name>
+  </developer>
   <description>
-    <p>SubStitcher is an audiobook encoder and player with subtitle support.</p>
+    <p>SubStitcher is an audiobook encoder and player with subtitle support, bundling FFmpeg, Whisper transcription and DeepFilter noise reduction.</p>
   </description>
   <launchable type="desktop-id">$APP_NAME.desktop</launchable>
   <url type="homepage">https://github.com/mrfragger/substitcher</url>
+  <url type="bugtracker">https://github.com/mrfragger/substitcher/issues</url>
+  <content_rating type="oars-1.1"/>
   <provides>
     <binary>substitcher</binary>
   </provides>
