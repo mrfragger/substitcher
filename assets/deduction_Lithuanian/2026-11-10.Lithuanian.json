@@ -1,0 +1,61 @@
+{
+  "title": "Veidrodinio stiklo rūmai",
+  "intro": "Įsivaizduokite tolimą turtų ir spindesio šalį, kurioje vietoj jos Kūrėjo garbinama saulė. Atkeliauja laiškas su kvietimu, kurio neįmanoma ignoruoti, ir prasideda kelionė į didingesnį dvarą nei bet kas anksčiau. Ten iliuzijas demaskuos akis apgausiančios grindys, o aiškumo akimirka viską pakeis.",
+  "clues": [
+    "Aš valdžiau klestinčią šalį, kurios žmonės lenkėsi saulei, o ne Alachui.",
+    "Gavau kilnų laišką, kuriame buvau raginamas ne aukštinti save, o paklusti Alachui.",
+    "Pasikonsultavau su savo taryba ir pirmiausia pasirinkau diplomatiją, siųsdamas dovaną, kad patikrinčiau siuntėją.",
+    "Atvykau į Suleimaną, ir man buvo pristatytas mano paties sostas, užmaskuotas, siekiant patikrinti, ar esu atpažįstamas.",
+    "Įžengiau į didingus rūmus, kurių lygias stiklines grindis palaikiau giliu vandeniu.",
+    "Kartu su Sulaymanu paskelbiau savo paklusnumą Alachui, pasaulių Viešpačiui."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Musos sesuo",
+        "Abu Lahabo žmona",
+        "Nuho žmona",
+        "Bilqis, Sabos valdovas",
+        "Zulaikha, Al-Azizo žmona"
+      ],
+      "answer": "Bilqis, Sabos valdovas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Prarytas didelės žuvies jūros gelmėse",
+        "Ištiktas metų metus trukusios ligos ir šeimos netekties",
+        "Įsakyta paaukoti mylimą vaiką sapne",
+        "Išbandytas užmaskuoto sosto ir stiklo rūmų",
+        "Įmestas į liepsnojančią ugnį už stabų sudaužymą"
+      ],
+      "answer": "Išbandytas užmaskuoto sosto ir stiklo rūmų"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Arka pastatyta ant vandenų",
+        "Miegančiųjų prieglobsčio ola",
+        "Krištolinių rūmų grindys (Sarh)",
+        "Nilo upė išėjimo metu",
+        "Stabmeldžių paruošta ugnis"
+      ],
+      "answer": "Krištolinių rūmų grindys (Sarh)"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Buvau prarytas žemės su mano lobiais",
+        "Liko netikėjimo ir buvo sunaikintas kartu su savo žmonėmis",
+        "Kartu su Sulaymanu pakluso Alachui, pasaulių Viešpačiui",
+        "Nuskendo jūroje, persekiodamas tikinčiuosius",
+        "Buvo paverstas akmeniu už sabato laužymą"
+      ],
+      "answer": "Kartu su Sulaymanu pakluso Alachui, pasaulių Viešpačiui"
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ààfin Gilasi Onídìrí",
+  "intro": "Fojú inú wo ilẹ̀ jíjìnnà kan tí ọrọ̀ àti ògo wà, níbi tí wọ́n ti ń jọ́sìn oòrùn dípò Ẹlẹ́dàá rẹ̀. Lẹ́tà kan dé pẹ̀lú ìpè kan tí a kò lè gbójú fo, ìrìn àjò kan sì bẹ̀rẹ̀ sí í lọ sí ààfin kan tí ó ju èyí tí a ti rí tẹ́lẹ̀ lọ. Níbẹ̀, ilẹ̀ kan tí ó ń tan ojú jẹ yóò tú àṣírí ìtànjẹ, ìṣẹ́jú kan tí ó mọ́lẹ̀ yóò sì yí ohun gbogbo padà.",
+  "clues": [
+    "Mo jọba lórí ilẹ̀ aláásìkí kan tí àwọn ènìyàn rẹ̀ ń wólẹ̀ fún oòrùn dípò Allah.",
+    "Mo gba lẹ́tà ọlọ́lá kan tí ó ń pè mí láti má ṣe gbé ara mi ga bí kò ṣe láti wá ní ìtẹríba fún Allah.",
+    "Mo kan si igbimọ mi mo si yan ipo-ofin akọkọ, mo si fi ẹbun ranṣẹ lati dan ẹni ti o fi ranṣẹ wò.",
+    "Mo wá sí ọ̀dọ̀ Sulayman, wọ́n sì gbé ìtẹ́ mi kalẹ̀ fún mi pẹ̀lú ìbòjú láti dán ìjẹ́wọ́ mi wò.",
+    "Mo wọ inú ààfin gíga kan tí mo rò pé ilẹ̀ dígí tí ó mọ́lẹ̀ ni mo fi ń pè ní omi jíjìn.",
+    "Mo kéde ìtẹríba mi pẹ̀lú Sulayman sí Allah, Olúwa gbogbo ayé."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Arabinrin Mose",
+        "Ìyàwó Abu Lahab",
+        "Ìyàwó Nóà",
+        "Bilqis, Alákòóso Saba",
+        "Zulaikha, Iyawo Al-Aziz"
+      ],
+      "answer": "Bilqis, Alákòóso Saba"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ẹja ńlá kan gbé mì ní ìsàlẹ̀ òkun",
+        "Ọ̀pọ̀ ọdún àìsàn àti pípadánù ìdílé mi ló kó mi ní ìbànújẹ́",
+        "A pàṣẹ fún un láti fi ọmọ ayanfẹ kan rúbọ nínú àlá",
+        "Ìtẹ́ tí a fi bò àti ààfin dígí dán an wò",
+        "A gbé e sínú iná tí ń jó fún fífọ́ àwọn ère"
+      ],
+      "answer": "Ìtẹ́ tí a fi bò àti ààfin dígí dán an wò"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ọkọ̀ ojú omi tí a kọ́",
+        "Ihò ààbò fún àwọn tí wọ́n ń sùn",
+        "Ilẹ̀ ààfin kírísítálísì (Sarh)",
+        "Odò Náílì ní àkókò ìjádelọ náà",
+        "Iná tí àwọn abọ̀rìṣà pèsè"
+      ],
+      "answer": "Ilẹ̀ ààfin kírísítálísì (Sarh)"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ilẹ̀ gbé mi mì pẹ̀lú àwọn ìṣúra mi",
+        "Mo dúró nínú àìnígbàgbọ́ mo sì parun pẹ̀lú àwọn ènìyàn mi",
+        "Wọ́n fi ara wọn fún Ọlọ́run pẹ̀lú Sulayman, Olúwa gbogbo ayé",
+        "Mo rì sínú òkun nígbà tí mo ń lé àwọn onígbàgbọ́ kiri",
+        "Wọ́n yí i padà sí òkúta nítorí pé wọ́n rú ọjọ́ ìsinmi"
+      ],
+      "answer": "Wọ́n fi ara wọn fún Ọlọ́run pẹ̀lú Sulayman, Olúwa gbogbo ayé"
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

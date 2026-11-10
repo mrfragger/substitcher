@@ -1,0 +1,61 @@
+{
+  "title": "De Palais vum Spigelglas",
+  "intro": "Stellt Iech e wäit Land vu Räichtum a Pracht vir, wou d'Sonn amplaz vun hirem Schëpfer veréiert gëtt. E Bréif kënnt mat engem Ruff, deen net ignoréiert ka ginn, an eng Rees fänkt un Richtung engem Haff, deen méi grouss ass wéi jee virdrun. Do gëtt d'Illusioun duerch e Buedem opgedeckt, deen d'Aen täuscht, an e Moment vu Kloerheet wäert alles änneren.",
+  "clues": [
+    "Ech hunn iwwer e räicht Land regéiert, deem seng Leit sech der Sonn amplaz vun Allah ënnerworf hunn.",
+    "Ech krut e Bréif, deen mech opgeruff huet, mech net ze erhiewen, mä mech dem Allah ze ënnerwerfen.",
+    "Ech hunn mäi Conseil konsultéiert a fir d'éischt Diplomatie gewielt, andeems ech e Kaddo geschéckt hunn fir den Absender ze testen.",
+    "Ech sinn op Sulayman komm, a mäin eegenen Troun gouf mir verkleed presentéiert, fir meng Erkennung ze testen.",
+    "Ech sinn an e héije Palais eragaangen, deem säi glatte Glasbuedem ech fir déift Waasser gehalen hunn.",
+    "Ech hunn meng Ënneruerdnung mam Sulayman dem Allah, dem Här vun de Welten, erkläert."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "D'Schwëster vum Musa",
+        "D'Fra vum Abu Lahab",
+        "D'Fra vum Nuh",
+        "Bilqis, den Herrscher vu Saba",
+        "Zulaikha, d'Fra vum Al-Aziz"
+      ],
+      "answer": "Bilqis, den Herrscher vu Saba"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Verschléckt vun engem grousse Fësch an den Déiften vum Mier",
+        "Getroffen duerch Joere vu Krankheet a Verloscht vun der Famill",
+        "Uerder ginn, e beléifte Kand an engem Dram ze opferen",
+        "Getest vum verstoppten Troun an dem Palais aus Glas",
+        "An e brennend Feier gehäit fir zerstéiert Gëtzendénger"
+      ],
+      "answer": "Getest vum verstoppten Troun an dem Palais aus Glas"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Ark, déi op de Waasser gebaut gouf",
+        "D'Höhl vum Schutz fir d'Schlofer",
+        "De Buedem vum Kristallpalast (Sarh)",
+        "Den Nil zum Zäitpunkt vum Exodus",
+        "D'Feier, dat vun den Ofgottdénger virbereet gouf"
+      ],
+      "answer": "De Buedem vum Kristallpalast (Sarh)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Gouf vun der Äerd mat menge Schätz verschléckt",
+        "Am Ongleewe bliwwen a gouf mat mengem Vollek zerstéiert",
+        "Mat dem Sulayman dem Allah, dem Här vun de Welten, ënnerworf",
+        "Am Mier erdronk, während hien d'Gleeweger verfollegt huet",
+        "Gouf zu Steen verwandelt fir de Sabbat ze briechen"
+      ],
+      "answer": "Mat dem Sulayman dem Allah, dem Här vun de Welten, ënnerworf"
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

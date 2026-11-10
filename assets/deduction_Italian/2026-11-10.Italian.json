@@ -1,0 +1,61 @@
+{
+  "title": "Il Palazzo degli Specchi",
+  "intro": "Immaginate una terra lontana, ricca e splendente, dove si venera il sole anziché il suo Creatore. Giunge una lettera recante una chiamata che non può essere ignorata, e inizia un viaggio verso una corte più grandiosa di qualsiasi altra vista prima. Lì, l'illusione verrà smascherata da un pavimento che inganna lo sguardo, e un momento di chiarezza cambierà tutto.",
+  "clues": [
+    "Ho governato una terra prospera il cui popolo si prostrava al sole invece che ad Allah.",
+    "Ho ricevuto una lettera nobile che mi invitava non a esaltare me stesso, ma a sottomettermi ad Allah.",
+    "Ho consultato il mio consiglio e ho scelto prima la via diplomatica, inviando un dono per mettere alla prova il mittente.",
+    "Giunsi da Sulayman, e il mio trono mi fu presentato sotto mentite spoglie per mettere alla prova il mio riconoscimento.",
+    "Entrai in un palazzo maestoso il cui pavimento di vetro liscio mi sembrò una distesa d'acqua profonda.",
+    "Ho dichiarato la mia sottomissione ad Allah, Signore dei mondi, insieme a Sulayman."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "La sorella di Musa",
+        "La moglie di Abu Lahab",
+        "La moglie di Nuh",
+        "Bilqis, il sovrano di Saba",
+        "Zulaikha, la moglie di Al-Aziz"
+      ],
+      "answer": "Bilqis, il sovrano di Saba"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Inghiottito da un grosso pesce nelle profondità del mare",
+        "Colpito da anni di malattia e dalla perdita della famiglia",
+        "In sogno gli fu ordinato di sacrificare un figlio amato.",
+        "Messo alla prova dal trono camuffato e dal palazzo di vetro",
+        "Gettato in un fuoco ardente per aver distrutto gli idoli"
+      ],
+      "answer": "Messo alla prova dal trono camuffato e dal palazzo di vetro"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "L'arca costruita sulle acque",
+        "La grotta rifugio per i dormienti",
+        "Il pavimento del palazzo di cristallo (Sarh)",
+        "Il fiume Nilo all'epoca dell'esodo",
+        "Il fuoco preparato dagli idolatri"
+      ],
+      "answer": "Il pavimento del palazzo di cristallo (Sarh)"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Fui inghiottito dalla terra insieme ai miei tesori",
+        "Rimasi incredulo e fui distrutto insieme al mio popolo.",
+        "Presentato con Sulayman ad Allah, Signore dei mondi",
+        "Annegato in mare mentre inseguiva i credenti",
+        "Fu trasformato in pietra per aver violato il sabato."
+      ],
+      "answer": "Presentato con Sulayman ad Allah, Signore dei mondi"
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

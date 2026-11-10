@@ -1,0 +1,61 @@
+{
+  "title": "Le Palais des Miroirs",
+  "intro": "Imaginez une contrée lointaine, riche et splendide, où l'on vénère le soleil plutôt que son Créateur. Une lettre arrive, porteuse d'un appel irrésistible, et un voyage commence vers une cour plus grandiose que tout ce que l'on a jamais vu. Là, l'illusion sera dévoilée par un sol trompeur, et un instant de lucidité changera tout.",
+  "clues": [
+    "J'ai régné sur une terre prospère dont les habitants se prosternaient devant le soleil au lieu d'Allah.",
+    "J'ai reçu une lettre noble m'appelant non pas à m'exalter, mais à me soumettre à Allah.",
+    "J'ai consulté mon conseil et j'ai opté pour la diplomatie en premier lieu, en envoyant un cadeau pour tester l'expéditeur.",
+    "Je suis arrivé à Sulayman, et mon propre trône m'a été présenté déguisé pour tester ma reconnaissance.",
+    "Je suis entré dans un palais imposant dont j'ai pris le sol de verre lisse pour de l'eau profonde.",
+    "J'ai proclamé ma soumission avec Sulayman à Allah, Seigneur des mondes."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "La sœur de Moussa",
+        "L'épouse d'Abu Lahab",
+        "La femme de Noé",
+        "Bilqis, la souveraine de Saba",
+        "Zulaikha, l'épouse d'Al-Aziz"
+      ],
+      "answer": "Bilqis, la souveraine de Saba"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Avalé par un grand poisson dans les profondeurs de la mer",
+        "Frappée par des années de maladie et la perte de sa famille",
+        "L'ordre de sacrifier un enfant bien-aimé en rêve",
+        "Éprouvé par le trône dissimulé et le palais de verre",
+        "Jeté dans un brasier pour avoir brisé des idoles"
+      ],
+      "answer": "Éprouvé par le trône dissimulé et le palais de verre"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "L'arche construite sur les eaux",
+        "La grotte refuge des dormeurs",
+        "Le sol du palais de cristal (Sarh)",
+        "Le Nil au moment de l'exode",
+        "Le feu préparé par les idolâtres"
+      ],
+      "answer": "Le sol du palais de cristal (Sarh)"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "J'ai été englouti par la terre avec mes trésors",
+        "Je suis resté incrédule et j'ai péri avec mon peuple.",
+        "Soumis avec Sulayman à Allah, Seigneur des mondes",
+        "Noyés en mer en poursuivant les croyants",
+        "Il fut transformé en pierre pour avoir enfreint le sabbat."
+      ],
+      "answer": "Soumis avec Sulayman à Allah, Seigneur des mondes"
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

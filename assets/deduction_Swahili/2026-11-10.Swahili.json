@@ -1,0 +1,61 @@
+{
+  "title": "Jumba la Kioo Kilicho na Vioo",
+  "intro": "Fikiria nchi ya mbali yenye utajiri na fahari ambapo jua linaabudiwa badala ya Muumba wake. Barua inafika ikiwa na wito ambao hauwezi kupuuzwa, na safari inaanza kuelekea mahakamani kubwa kuliko yoyote iliyowahi kuonekana hapo awali. Huko, udanganyifu utafichuliwa na sakafu inayodanganya macho, na wakati wa uwazi utabadilisha kila kitu.",
+  "clues": [
+    "Nilitawala nchi yenye ustawi ambayo watu wake walisujudu jua badala ya Mwenyezi Mungu.",
+    "Nilipokea barua tukufu ikiniita nisijitukuze bali nijinyenyekeze kwa Mwenyezi Mungu.",
+    "Nilishauriana na baraza langu na kuchagua diplomasia kwanza, nikituma zawadi ili kumjaribu mtumaji.",
+    "Nilikuja kwa Sulayman, na kiti changu cha enzi kikawasilishwa kwangu kikiwa kimejificha ili kujaribu utambuzi wangu.",
+    "Niliingia katika jumba refu ambalo sakafu yake laini ya kioo nilidhani ni maji ya kina kirefu.",
+    "Nilitangaza kujisalimisha kwangu kwa Sulayman kwa Mwenyezi Mungu, Mola wa walimwengu wote."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Dada wa Musa",
+        "Mke wa Abu Lahab",
+        "Mke wa Nuh",
+        "Bilqis, Mtawala wa Saba",
+        "Zulaikha, Mke wa Al-Aziz"
+      ],
+      "answer": "Bilqis, Mtawala wa Saba"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Imemezwa na samaki mkubwa katika vilindi vya bahari",
+        "Nimekumbwa na miaka mingi ya ugonjwa na kupoteza familia",
+        "Aliamriwa kumtoa mtoto mpendwa katika ndoto",
+        "Imejaribiwa na kiti cha enzi kilichojificha na jumba la kioo",
+        "Alitupwa kwenye moto unaowaka kwa kuvunja sanamu"
+      ],
+      "answer": "Imejaribiwa na kiti cha enzi kilichojificha na jumba la kioo"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Safina iliyojengwa juu ya maji",
+        "Pango la kimbilio kwa wanaolala",
+        "Sakafu ya jumba la kioo (Sarh)",
+        "Mto Nile wakati wa Kutoka",
+        "Moto uliotayarishwa na waabudu masanamu"
+      ],
+      "answer": "Sakafu ya jumba la kioo (Sarh)"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Nilimezwa na dunia pamoja na hazina zangu",
+        "Nilibaki katika kutoamini na nikaangamizwa pamoja na watu wangu",
+        "Alijisalimisha kwa Sulayman kwa Mwenyezi Mungu, Mola wa walimwengu wote.",
+        "Alizama baharini huku akiwafuatilia waumini",
+        "Aligeuzwa kuwa jiwe kwa kuvunja Sabato"
+      ],
+      "answer": "Alijisalimisha pamoja na Sulayman kwa Mwenyezi Mungu, Mola wa walimwengu wote."
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

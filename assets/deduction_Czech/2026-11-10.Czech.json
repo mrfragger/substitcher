@@ -1,0 +1,61 @@
+{
+  "title": "Palác zrcadlového skla",
+  "intro": "Představte si vzdálenou zemi bohatství a nádhery, kde je slunce uctíváno místo svého Stvořitele. Dorazí dopis s výzvou, kterou nelze ignorovat, a začíná cesta k dvoru většímu, než jaký jste dosud neviděli. Tam bude iluze odhalena podlahou, která klame oči, a okamžik jasnosti všechno změní.",
+  "clues": [
+    "Vládl jsem nad prosperující zemí, jejíž lidé se klaněli slunci místo Alláhovi.",
+    "Dostal jsem ušlechtilý dopis, který mě vyzýval, abych se nepovyšoval, ale abych se podřídil Alláhovi.",
+    "Poradil jsem se se svou radou a nejdříve zvolil diplomacii, přičemž jsem poslal dar, abych odesílatele otestoval.",
+    "Přišel jsem k Sulajmánovi a můj vlastní trůn mi byl předložen v přestrojení, aby se ověřilo, zda ho rozpoznávám.",
+    "Vstoupil jsem do vznešeného paláce, jehož hladkou skleněnou podlahu jsem si spletl s hlubokou vodou.",
+    "Prohlásil jsem svou oddanost spolu se Sulajmánem Alláhovi, Pánu světů."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Sestra Músy",
+        "Manželka Abu Lahaba",
+        "Manželka Nuhova",
+        "Bilqis, vládce Saby",
+        "Zulaikha, manželka Al-Azize"
+      ],
+      "answer": "Bilqis, vládce Saby"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Spolknuta velkou rybou v hlubinách moře",
+        "Zasažen roky nemoci a ztrátou rodiny",
+        "Nařízeno obětovat milované dítě ve snu",
+        "Zkoušen převlečeným trůnem a skleněným palácem",
+        "Vhozen do planoucího ohně za rozbití idolů"
+      ],
+      "answer": "Zkoušen převlečeným trůnem a skleněným palácem"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Archa postavená na vodách",
+        "Jeskyně útočiště pro spáče",
+        "Podlaha Křišťálového paláce (Sarh)",
+        "Řeka Nil v době exodu",
+        "Oheň připravený modláři"
+      ],
+      "answer": "Podlaha Křišťálového paláce (Sarh)"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Byla pohlcena zemí i s mými poklady",
+        "Zůstal jsem v nevíře a byl jsem zničen se svými lidmi",
+        "Předloženo se Sulajmánem Alláhovi, Pánu světů",
+        "Utopil se v moři při pronásledování věřících",
+        "Byl proměněn v kámen za porušení Sabatu"
+      ],
+      "answer": "Předloženo se Sulajmánem Alláhovi, Pánu světů"
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

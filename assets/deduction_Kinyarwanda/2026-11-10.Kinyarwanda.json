@@ -1,0 +1,61 @@
+{
+  "title": "Ingoro y'ikirahure cy'indorerwamo",
+  "intro": "Tekereza igihugu cya kure cy’ubutunzi n’ubwiza aho izuba risengwa aho gusenga Umuremyi waryo. Ibaruwa iraza ifite ubutumwa budashobora kwirengagizwa, maze urugendo rutangira rwerekeza mu rukiko ruruta izindi zose zabayeho mbere. Aho ngaho, uburiganya buzashyirwa ahagaragara n’ahantu hashuka amaso, kandi akanya ko gusobanukirwa neza kazahindura byose.",
+  "clues": [
+    "Nategetse igihugu gikize cyane, abantu bacyo bapfukamiraga izuba aho kuramya Imana.",
+    "Nakiriye ibaruwa nziza impamagarira kutishyira hejuru ahubwo ko ngomba kugandukira Imana.",
+    "Nagishije inama inama njyanama yanjye maze mbanza guhitamo dipolomasi, nohereza impano yo kugerageza uwayitumye.",
+    "Nageze kwa Sulayman, maze intebe yanjye bwite inyerezwa inyihishe kugira ngo imenyekane ko ndi Imana.",
+    "Ninjiraga mu ngoro ndende cyane, aho hasi h’ibirahure byoroshye nibwiraga ko ari amazi maremare.",
+    "Natangaje ko niyeguriye Imana, Umwami w’isi yose, na Sulayman."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Mushiki wa Musa",
+        "Umugore wa Abu Lahab",
+        "Umugore wa Nuh",
+        "Bilqis, Umutegetsi wa Saba",
+        "Zulaikha, Umugore wa Al-Aziz"
+      ],
+      "answer": "Bilqis, Umutegetsi wa Saba"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Yamizwe n'ifi nini mu nda y'inyanja",
+        "Yahuye n'uburwayi n'urupfu rw'umuryango we imyaka myinshi",
+        "Yategetswe gutamba umwana we akunda mu nzozi",
+        "Byageragejwe n'intebe y'ubwami yihishe n'ingoro y'ibirahure",
+        "Yajugunywe mu muriro ugurumana azira kumenagura ibigirwamana"
+      ],
+      "answer": "Byageragejwe n'intebe y'ubwami yihishe n'ingoro y'ibirahure"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Ubwato bwubatswe hejuru y'amazi",
+        "Ubuvumo bw'ubuhungiro bw'abasinziriye",
+        "Inzu y'ingoro y'amakristale (Sarh)",
+        "Uruzi rwa Nili mu gihe cyo kuva mu Misiri",
+        "Umuriro wateguriwe n'abasenga ibigirwamana"
+      ],
+      "answer": "Inzu y'ingoro y'amakristale (Sarh)"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Namizwe n'isi hamwe n'ubutunzi bwanjye",
+        "Nagumye mu bujiji kandi narimbuwe n'abantu banjye",
+        "Yashyikirijwe na Sulayman kuri Allah, Umwami w'isi yose",
+        "Yarohamye mu nyanja ubwo yakurikiranaga abizera",
+        "Yahinduwe ibuye kubera kwica Isabato"
+      ],
+      "answer": "Yashyikirijwe na Sulayman kuri Allah, Umwami w'isi yose"
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

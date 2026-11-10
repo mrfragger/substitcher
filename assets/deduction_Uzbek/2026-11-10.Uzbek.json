@@ -1,0 +1,61 @@
+{
+  "title": "Ko'zguli oynalar saroyi",
+  "intro": "Quyosh Yaratuvchisiga emas, balki unga sig'inadigan boylik va ulug'vorlikka to'la uzoq yurtni tasavvur qiling. E'tiborsiz qoldirib bo'lmaydigan chaqiriq bilan xat keladi va avvalgidan ham ulug'vorroq saroyga sayohat boshlanadi. U yerda ko'zlarni aldaydigan pol illyuziyani fosh qiladi va bir lahzalik aniqlik hamma narsani o'zgartiradi.",
+  "clues": [
+    "Men xalqi Allohga emas, quyoshga sajda qilgan farovon yurt ustidan hukmronlik qildim.",
+    "Men o'zimni yuksaltirishga emas, balki Allohga bo'ysunishga chaqiruvchi olijanob bir maktub oldim.",
+    "Men kengashim bilan maslahatlashdim va avval diplomatiyani tanladim, jo'natuvchini sinab ko'rish uchun sovg'a yubordim.",
+    "Men Sulaymon huzuriga keldim va tanib olishimni sinab ko'rish uchun o'z taxtimni menga niqoblangan holda ko'rsatishdi.",
+    "Men baland bir saroyga kirdim, uning silliq shisha polini chuqur suv deb adashtirdim.",
+    "Men Sulaymon bilan birga olamlarning Parvardigori Allohga taslim bo'ldim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Musoning singlisi",
+        "Abu Lahabning xotini",
+        "Nuhning xotini",
+        "Bilqis, Saba' hukmdori",
+        "Al-Azizning xotini Zulayho"
+      ],
+      "answer": "Bilqis, Saba' hukmdori"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Dengiz tubida ulkan baliq yutib yubordi",
+        "Yillar davomida kasallik va oilasini yo'qotishdan aziyat chekdi",
+        "Tushida sevimli bolasini qurbon qilishga buyurildi",
+        "Niqoblangan taxt va shisha saroy tomonidan sinovdan o'tkazildi",
+        "Butlarni sindirish uchun alangali olovga tashlandi"
+      ],
+      "answer": "Niqoblangan taxt va shisha saroy tomonidan sinovdan o'tkazildi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Kema suvlar ustida qurilgan",
+        "Uxlab yotganlar uchun boshpana g'ori",
+        "Kristall saroy poli (Sarh)",
+        "Chiqish paytida Nil daryosi",
+        "Mushriklar tomonidan tayyorlangan olov"
+      ],
+      "answer": "Kristall saroy poli (Sarh)"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Xazinalari bilan yer yutib yuborildi",
+        "Kufrda qoldi va qavmim bilan birga yo'q qilindi",
+        "Sulaymon bilan birga olamlarning Parvardigori Allohga taslim bo'ldi",
+        "Mo'minlarni ta'qib qilib, dengizga cho'kib ketdi",
+        "Shabbatni buzgani uchun toshga aylandi"
+      ],
+      "answer": "Sulaymon bilan birga olamlarning Parvardigori Allohga taslim bo'ldi"
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

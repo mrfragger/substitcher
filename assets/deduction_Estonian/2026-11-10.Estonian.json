@@ -1,0 +1,61 @@
+{
+  "title": "Peegelklaasi palee",
+  "intro": "Kujutage ette kauget rikkuse ja hiilguse maad, kus kummardatakse päikest selle Looja asemel. Saabub kiri kutsega, mida ei saa ignoreerida, ja algab teekond õukonda, mis on võimsam kui ükski varem nähtud. Seal paljastab illusioonid põrand, mis petab silmi, ja selguse hetk muudab kõike.",
+  "clues": [
+    "Ma valitsesin jõuka maa üle, mille rahvas kummardas päikese ees Allahi asemel.",
+    "Sain ülla kirja, mis kutsus mind üles mitte ennast ülendama, vaid Allahile alistuma.",
+    "Pidasin nõu oma nõukoguga ja valisin esmalt diplomaatia, saates kingituse saatja proovilepanekuks.",
+    "Ma tulin Sulaymani ja minu enda troon ulatati mulle maskeerituna, et proovida mu äratundmist.",
+    "Sisenesin kõrgesse paleesse, mille siledat klaaspõrandat pidasin sügavaks veeks.",
+    "Ma kuulutasin koos Sulaymaniga välja oma alistumise Allahile, maailmade Isandale."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Musa õde",
+        "Abu Lahabi naine",
+        "Nuhi naine",
+        "Bilqis, Saba valitseja",
+        "Zulaikha, Al-Azizi naine"
+      ],
+      "answer": "Bilqis, Saba valitseja"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Suur kala neelas alla mere sügavustes",
+        "Tabatud aastatepikkuse haiguse ja perekonna kaotuse poolt",
+        "Käskis unes ohverdada armastatud laps",
+        "Varjatud trooni ja klaaspalee poolt proovile pandud",
+        "Viskatud lõõmavasse tulle ebajumalate purustamise eest"
+      ],
+      "answer": "Varjatud trooni ja klaaspalee poolt proovile pandud"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Vee peale ehitatud laev",
+        "Magajate pelgupaiga koobas",
+        "Kristallpalee korrus (Sarh)",
+        "Niiluse jõgi väljarände ajal",
+        "Ebajumalakummardajate valmistatud tuli"
+      ],
+      "answer": "Kristallpalee korrus (Sarh)"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Maa neelas mind koos minu aaretega alla",
+        "Jäin uskmatusse ja hävisin koos oma rahvaga",
+        "Koos Sulaymaniga alistatud Allahile, maailmade Isandale",
+        "Uppus merre usklikke jälitades",
+        "Muutus kiviks hingamispäeva rikkumise pärast"
+      ],
+      "answer": "Koos Sulaymaniga alistatud Allahile, maailmade Isandale"
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

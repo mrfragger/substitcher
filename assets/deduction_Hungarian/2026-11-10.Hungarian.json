@@ -1,0 +1,61 @@
+{
+  "title": "A tükörüveg palotája",
+  "intro": "Képzelj el egy távoli, gazdagsággal és pompával teli földet, ahol a napot imádják a Teremtője helyett. Egy levél érkezik egy figyelmen kívül hagyhatatlan hívást hozó levéllel, és megkezdődik az utazás egy olyan udvar felé, amelynél soha nem láttunk még soha. Ott az illúziót leleplezi egy olyan padló, amely megtévesztő a szemnek, és egy pillanatnyi tisztaság mindent megváltoztat.",
+  "clues": [
+    "Egy virágzó föld felett uralkodtam, melynek népe Allah helyett a nap előtt borult le.",
+    "Kaptam egy nemes levelet, amelyben arra szólítottak fel, hogy ne magasztaljam fel magam, hanem hódoljak meg Allahnak.",
+    "Konzultáltam a tanácsommal, és először a diplomáciát választottam, ajándékot küldve, hogy próbára tegyem a feladót.",
+    "Szulejmánba érkeztem, és a saját trónom álruhában mutatták meg nekem, hogy próbára tegyék a felismerhetőségemet.",
+    "Beléptem egy magas palotába, melynek sima üvegpadlóját mély víznek hittem.",
+    "Szulejmánnal együtt kijelentettem, hogy alávetem magam Allahnak, a világok Urának."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Mózes nővére",
+        "Abu Laháb felesége",
+        "Nuh felesége",
+        "Bilqis, Saba uralkodója",
+        "Zulaikha, Al-Aziz felesége"
+      ],
+      "answer": "Bilqis, Saba uralkodója"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Egy nagy hal nyelte el a tenger mélyén",
+        "Évekig tartó betegség és családtag elvesztése sújtotta",
+        "Egy szeretett gyermek feláldozására utasították álmában",
+        "Az álcázott trón és az üvegpalota próbája",
+        "Lángoló tűzbe vetették bálványok összetöréséért"
+      ],
+      "answer": "Az álcázott trón és az üvegpalota próbája"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A bárka a vízen épült",
+        "Az alvók menedékének barlangja",
+        "A kristálypalota padlója (Sarh)",
+        "A Nílus folyó a kivonulás idején",
+        "A bálványimádók által készített tűz"
+      ],
+      "answer": "A kristálypalota padlója (Sarh)"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Elnyelt a föld a kincseimmel együtt",
+        "Hitetlenkedve maradtam és népemmel együtt elpusztultam",
+        "Szulejmánnal együtt alávetve Allahnak, a világok Urának",
+        "A tengerbe fulladt, miközben a hívőket üldözte",
+        "Kővé változott, mert megszegte a szombatot"
+      ],
+      "answer": "Szulejmánnal együtt alávetve Allahnak, a világok Urának"
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

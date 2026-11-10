@@ -1,0 +1,61 @@
+{
+  "title": "Palais ya verre ya talatala",
+  "intro": "Kanisá naino mokili moko ya mosika oyo ezali na bozwi mpe na nkembo epai basambelaka moi na esika ya kosambela Mozalisi na yango. Mokanda moko ekomi ememi libiangi oyo ekoki koboya te, mpe mobembo ebandi epai ya esambiselo monene koleka oyo emonanaki liboso. Kuna, illusion ekobima na etaze oyo ekosaka miso, mpe mwa ntango ya polele ekobongola makambo nyonso.",
+  "clues": [
+    "Nayangelaki mabele ya bomengo oyo bato na yango bafukamaki liboso ya moi na esika ya Allah.",
+    "Nazwaki mokanda moko ya lokumu oyo ezalaki kobenga ngai namitombola te kasi naya na botosi epai ya Allah.",
+    "Natunaki conseil na ngai mpe naponaki liboso diplomatie, natindaki likabo mpo na komeka motindi.",
+    "Nayaki na Sulayman, mpe kiti na ngai moko ya bokonzi elakisamaki epai na ngai na kobombama mpo na komeka koyeba na ngai.",
+    "Nakɔtaki na ndako moko ya mokonzi oyo etombwaná oyo mabelé na yango ya vitre ya pɛtɛɛ nakanisaki ete ezali mai ya mozindo.",
+    "Nasakolaki botosi na ngai elongo na Sulayman epai ya Allah, Nkolo ya mokili."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Soeur ya Musa",
+        "Mwasi ya Abu Lahab",
+        "Mwasi ya Nuh",
+        "Bilqis, Mokonzi ya Saba",
+        "Zulaikha, Mwasi ya Al-Aziz"
+      ],
+      "answer": "Bilqis, Mokonzi ya Saba"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Emelamaki na mbisi monene na bozindo ya mbu",
+        "Abɛtamaki na bambula mingi ya maladi mpe kobungisa libota",
+        "Apesameli mitindo ya kopesa mwana oyo alingaka mingi mbeka na ndoto",
+        "Emekami na kiti ya bokonzi oyo ebombami mpe na ndako ya mokonzi ya vitre",
+        "Babwakami na mɔ́tɔ oyo ezali kopela mpo na kobuka bikeko"
+      ],
+      "answer": "Emekami na kiti ya bokonzi oyo ebombamaki mpe na ndako ya mokonzi ya vitre"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Sanduku etongaki likoló ya mai",
+        "Libulu ya ekimelo mpo na bato oyo balali",
+        "Etanda ya ndako ya mokonzi oyo esalemi na cristal (Sarh) .",
+        "Ebale Nil na ntango ya kobima ya bato",
+        "Mɔtɔ oyo basambeli ya bikeko babongisaki"
+      ],
+      "answer": "Etanda ya ndako ya mokonzi oyo esalemi na cristal (Sarh) ."
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Emelamaki na mabele na biloko na ngai ya motuya",
+        "Atikalaka na kozanga kondima mpe abebisamaki elongo na bato na ngai",
+        "Soumise na Sulayman na Allah, Nkolo ya mokili",
+        "Azindaki na mbu ntango azalaki kolanda bandimi",
+        "Akómaki libanga mpo abukaki Sabata"
+      ],
+      "answer": "Soumise na Sulayman na Allah, Nkolo ya mokili"
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

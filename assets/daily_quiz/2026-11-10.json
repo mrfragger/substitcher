@@ -1,0 +1,442 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "جَمَاعَاتٌ مِنَ النَّاسِ",
+        "nameEn": "Groups of people mentioned in the Qur'an",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "قَوْمُكَ",
+            "en": "Your people",
+            "ref": "43:57",
+            "verse": "۞ وَلَمَّا ضُرِبَ ٱبْنُ مَرْيَمَ مَثَلًا إِذَا قَوْمُكَ مِنْهُ يَصِدُّونَ",
+            "verseEn": "And when the son of Mary was presented as an example, immediately your people laughed aloud."
+          },
+          {
+            "ar": "أَهْلَهُ",
+            "en": "and his family",
+            "ref": "37:76",
+            "verse": "وَنَجَّيْنَـٰهُ وَأَهْلَهُۥ مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ",
+            "verseEn": "And We saved him and his family from the great affliction."
+          },
+          {
+            "ar": "الْأَوَّلِينَ",
+            "en": "(of) the former (people)",
+            "ref": "37:71",
+            "verse": "وَلَقَدْ ضَلَّ قَبْلَهُمْ أَكْثَرُ ٱلْأَوَّلِينَ",
+            "verseEn": "And there had already strayed before them most of the former peoples,"
+          },
+          {
+            "ar": "الْمُقْتَسِمِينَ",
+            "en": "those who divided",
+            "ref": "15:90",
+            "verse": "كَمَآ أَنزَلْنَا عَلَى ٱلْمُقْتَسِمِينَ",
+            "verseEn": "Just as We had revealed [scriptures] to the separators"
+          }
+        ]
+      },
+      {
+        "name": "أَفْعَالُ الْقَوْلِ وَالسُّؤَالِ",
+        "nameEn": "Verbs of speech and questioning in the Qur'an",
+        "color": "green",
+        "items": [
+          {
+            "ar": "قَالَ",
+            "en": "said",
+            "ref": "26:177",
+            "verse": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ",
+            "verseEn": "When Shuʿayb said to them, \"Will you not fear Allāh?"
+          },
+          {
+            "ar": "يَتَسَآءَلُونَ",
+            "en": "questioning one another",
+            "ref": "37:27",
+            "verse": "وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَسَآءَلُونَ",
+            "verseEn": "And they will approach one another asking [i.e., blaming] each other."
+          },
+          {
+            "ar": "يَصِفُونَ",
+            "en": "they attribute",
+            "ref": "37:159",
+            "verse": "سُبْحَـٰنَ ٱللَّهِ عَمَّا يَصِفُونَ",
+            "verseEn": "Exalted is Allāh above what they describe,"
+          },
+          {
+            "ar": "فَاسْتَفْتِهِمْ",
+            "en": "Then ask them",
+            "ref": "37:149",
+            "verse": "فَٱسْتَفْتِهِمْ أَلِرَبِّكَ ٱلْبَنَاتُ وَلَهُمُ ٱلْبَنُونَ",
+            "verseEn": "So inquire of them, [O Muḥammad], \"Does your Lord have daughters while they have sons?"
+          }
+        ]
+      },
+      {
+        "name": "الكُفْرُ وَالتَّكْذِيبُ وَالفِتْنَةُ",
+        "nameEn": "Acts and agents of disbelief and misguidance",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "كَذَّبَتْ",
+            "en": "Denied",
+            "ref": "26:160",
+            "verse": "كَذَّبَتْ قَوْمُ لُوطٍ ٱلْمُرْسَلِينَ",
+            "verseEn": "The people of Lot denied the messengers"
+          },
+          {
+            "ar": "فَكَفَرُوا",
+            "en": "But they disbelieved",
+            "ref": "37:170",
+            "verse": "فَكَفَرُوا۟ بِهِۦ ۖ فَسَوْفَ يَعْلَمُونَ",
+            "verseEn": "But they disbelieved in it, so they are going to know."
+          },
+          {
+            "ar": "بِفَاتِنِينَ",
+            "en": "can tempt away (anyone)",
+            "ref": "37:162",
+            "verse": "مَآ أَنتُمْ عَلَيْهِ بِفَـٰتِنِينَ",
+            "verseEn": "You cannot tempt [anyone] away from Him"
+          },
+          {
+            "ar": "الشَّيَاطِينُ",
+            "en": "the devils",
+            "ref": "26:210",
+            "verse": "وَمَا تَنَزَّلَتْ بِهِ ٱلشَّيَـٰطِينُ",
+            "verseEn": "And the devils have not brought it [i.e., the revelation] down."
+          }
+        ]
+      },
+      {
+        "name": "صِيَغُ جَمْعِ الْمُذَكَّرِ السَّالِمِ فِي الْقُرْآنِ",
+        "nameEn": "Words with masculine plural endings (-ūn/-īn) in the Qur'an",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "شَاهِدُونَ",
+            "en": "(were) witnesses",
+            "ref": "37:150",
+            "verse": "أَمْ خَلَقْنَا ٱلْمَلَـٰٓئِكَةَ إِنَـٰثًۭا وَهُمْ شَـٰهِدُونَ",
+            "verseEn": "Or did We create the angels as females while they were witnesses?\""
+          },
+          {
+            "ar": "تَحْكُمُونَ",
+            "en": "you judge",
+            "ref": "37:154",
+            "verse": "مَا لَكُمْ كَيْفَ تَحْكُمُونَ",
+            "verseEn": "What is [wrong] with you? How do you make judgement?"
+          },
+          {
+            "ar": "تَذَكَّرُونَ",
+            "en": "you pay heed",
+            "ref": "37:155",
+            "verse": "أَفَلَا تَذَكَّرُونَ",
+            "verseEn": "Then will you not be reminded?"
+          },
+          {
+            "ar": "السَّاجِدِينَ",
+            "en": "those who prostrate",
+            "ref": "26:219",
+            "verse": "وَتَقَلُّبَكَ فِى ٱلسَّـٰجِدِينَ",
+            "verseEn": "And your movement among those who prostrate."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "تشاء",
+    "display": "تَشَاءُ",
+    "hint": "Divine prerogative over who receives authority and honor",
+    "verseRef": "3:26",
+    "arabicVerse": "قُلِ ٱللَّهُمَّ مَـٰلِكَ ٱلْمُلْكِ تُؤْتِى ٱلْمُلْكَ مَن تَشَآءُ وَتَنزِعُ ٱلْمُلْكَ مِمَّن تَشَآءُ وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُ ۖ بِيَدِكَ ٱلْخَيْرُ ۖ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+    "verse": "3:26 - Say, \"O Allāh, Owner of Sovereignty, You give sovereignty to whom You will and You take sovereignty away from whom You will. You honor whom You will and You humble whom You will. In Your hand is [all] good. Indeed, You are over all things competent."
+  },
+  "scramble": {
+    "verseRef": "11:112",
+    "reference": "Surah Hud (11:112)",
+    "segments": [
+      "فَاسْتَقِمْ كَمَا أُمِرْتَ",
+      "وَمَن تَابَ مَعَكَ",
+      "وَلَا تَطْغَوْا",
+      "إِنَّهُ بِمَا تَعْمَلُونَ",
+      "بَصِيرٌ"
+    ],
+    "translations": [
+      "So stand firm as you are commanded",
+      "and (those) who turn (in repentance) with you",
+      "and (do) not transgress",
+      "Indeed, He of what",
+      "you do (is) All-Seer"
+    ],
+    "hint": "A command for steadfastness and obedience without excess, with reminder of Allah's watchfulness",
+    "arabic": "فَٱسْتَقِمْ كَمَآ أُمِرْتَ وَمَن تَابَ مَعَكَ وَلَا تَطْغَوْا۟ ۚ إِنَّهُۥ بِمَا تَعْمَلُونَ بَصِيرٌۭ",
+    "words": [
+      "فَٱسْتَقِمْ كَمَآ أُمِرْتَ",
+      "وَمَن تَابَ مَعَكَ",
+      "وَلَا تَطْغَوْا۟ ۚ",
+      "إِنَّهُۥ بِمَا",
+      "تَعْمَلُونَ بَصِيرٌۭ"
+    ],
+    "verseEn": "So remain on a right course as you have been commanded, [you] and those who have turned back with you [to Allāh], and do not transgress. Indeed, He is Seeing of what you do."
+  },
+  "roothive": {
+    "center": "ف",
+    "outer": [
+      "ط",
+      "ن",
+      "و",
+      "ي",
+      "ا",
+      "ه"
+    ],
+    "root": {
+      "letters": "طوف",
+      "display": "ط و ف",
+      "translit": "ṭ-w-f",
+      "meaning": "The core idea is moving around something in a circle or going all around it. From this come a group set apart together, circling in worship or service, a thought circling the mind, and a flood covering everything.",
+      "occurrences": 41,
+      "lemmaCount": 6
+    },
+    "words": [
+      {
+        "w": "انف",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَنف",
+            "gloss": "nose",
+            "type": "noun",
+            "root": "أنف",
+            "count": 2,
+            "ref": "5:45",
+            "pos": 9
+          }
+        ]
+      },
+      {
+        "w": "طاف",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "طافَ",
+            "gloss": "be circulated",
+            "type": "verb",
+            "root": "طوف",
+            "count": 8,
+            "ref": "37:45",
+            "pos": 1,
+            "alt": [
+              "circulate"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "فيه",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "فِئَة",
+            "gloss": "company",
+            "type": "noun",
+            "root": "فأي",
+            "count": 10,
+            "ref": "2:249",
+            "pos": 51,
+            "alt": [
+              "group",
+              "two hosts"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "وفي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "وَفَّى",
+            "gloss": "be repaid in full",
+            "type": "verb",
+            "root": "وفي",
+            "count": 18,
+            "ref": "2:272",
+            "pos": 24,
+            "alt": [
+              "repaid in full",
+              "is repaid in full"
+            ],
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "اطفا",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَطْفَأَ",
+            "gloss": "extinguished",
+            "type": "verb",
+            "root": "طفأ",
+            "count": 3,
+            "ref": "5:64",
+            "pos": 38,
+            "alt": [
+              "extinguish",
+              "to put out"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "اوفي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَوْفَى",
+            "gloss": "fulfill",
+            "type": "verb",
+            "root": "وفي",
+            "count": 20,
+            "ref": "2:40",
+            "pos": 10,
+            "alt": [
+              "fulfills",
+              "more faithful"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "طايف",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "طائِف",
+            "gloss": "visitation",
+            "type": "active participle",
+            "root": "طوف",
+            "count": 4,
+            "ref": "7:201",
+            "pos": 6,
+            "alt": [
+              "evil thought"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "طواف",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "طَوّاف",
+            "gloss": "moving about",
+            "type": "noun",
+            "root": "طوف",
+            "count": 1,
+            "ref": "24:58",
+            "pos": 37
+          }
+        ]
+      },
+      {
+        "w": "نطفه",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "نُطْفَة",
+            "gloss": "semen-drop",
+            "type": "noun",
+            "root": "نطف",
+            "count": 12,
+            "ref": "16:4",
+            "pos": 4,
+            "alt": [
+              "minute quantity of semen"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "افواه",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "أَفْواه",
+            "gloss": "mouths",
+            "type": "noun",
+            "root": "فوه",
+            "count": 12,
+            "ref": "3:118",
+            "pos": 19
+          }
+        ]
+      },
+      {
+        "w": "طايفه",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "طائِفَة",
+            "gloss": "party",
+            "type": "noun",
+            "root": "طوف",
+            "count": 24,
+            "ref": "3:69",
+            "pos": 2,
+            "alt": [
+              "group",
+              "two parties"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "طوفان",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "طُوفان",
+            "gloss": "flood",
+            "type": "noun",
+            "root": "طوف",
+            "count": 2,
+            "ref": "7:133",
+            "pos": 3
+          }
+        ]
+      }
+    ],
+    "otherFamily": [
+      {
+        "lemma": "يَطَّوَّفَ",
+        "gloss": "walks",
+        "type": "verb",
+        "root": "طوف",
+        "count": 2,
+        "ref": "2:158",
+        "pos": 16,
+        "form": 5
+      }
+    ],
+    "maxScore": 33,
+    "featuredRoot": "طوف"
+  }
+}

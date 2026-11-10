@@ -1,0 +1,61 @@
+{
+  "title": "El Palacio del Cristal Espejado",
+  "intro": "Imagina una tierra lejana de riqueza y esplendor donde se venera al sol en lugar de a su Creador. Llega una carta con una invitación irresistible, y comienza un viaje hacia una corte más grandiosa que ninguna otra. Allí, la ilusión quedará al descubierto tras un suelo que engaña a la vista, y un instante de lucidez lo cambiará todo.",
+  "clues": [
+    "Gobernaba una tierra próspera cuyo pueblo se postraba ante el sol en lugar de ante Alá.",
+    "Recibí una noble carta que me exhortaba no a enaltecerme, sino a someterme a Alá.",
+    "Consulté con mi consejo y opté primero por la diplomacia, enviando un regalo para poner a prueba al remitente.",
+    "Llegué a Sulayman, y me presentaron mi propio trono disfrazado para poner a prueba mi capacidad de reconocimiento.",
+    "Entré en un palacio imponente cuyo liso suelo de cristal confundí con aguas profundas.",
+    "Declaré mi sumisión junto con Sulayman a Allah, Señor de los mundos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "La hermana de Musa",
+        "La esposa de Abu Lahab",
+        "La esposa de Nuh",
+        "Bilqis, la gobernante de Saba",
+        "Zulaikha, la esposa de Al-Aziz"
+      ],
+      "answer": "Bilqis, la gobernante de Saba"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Engullido por un gran pez en las profundidades del mar.",
+        "Afectado por años de enfermedad y pérdida de familia",
+        "Ordenado sacrificar a un niño amado en un sueño.",
+        "Probado por el trono disfrazado y el palacio de cristal.",
+        "Arrojados a una hoguera por romper ídolos."
+      ],
+      "answer": "Probado por el trono disfrazado y el palacio de cristal."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El Arca construida sobre las aguas",
+        "La cueva de refugio para los durmientes",
+        "El suelo del palacio de cristal (Sarh)",
+        "El río Nilo en la época del éxodo",
+        "El fuego preparado por los idólatras"
+      ],
+      "answer": "El suelo del palacio de cristal (Sarh)"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "La tierra me engulló junto con mis tesoros.",
+        "Permaneció incrédulo y fue destruido con mi pueblo.",
+        "Sometido con Sulayman a Allah, Señor de los mundos.",
+        "Se ahogó en el mar mientras perseguía a los creyentes.",
+        "Fue convertido en piedra por quebrantar el sábado."
+      ],
+      "answer": "Sometido con Sulayman a Allah, Señor de los mundos."
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

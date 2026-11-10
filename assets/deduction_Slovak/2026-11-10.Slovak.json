@@ -1,0 +1,61 @@
+{
+  "title": "Palác zrkadlového skla",
+  "intro": "Predstavte si vzdialenú krajinu bohatstva a nádhery, kde je slnko uctievané namiesto svojho Stvoriteľa. Prichádza list s výzvou, ktorú nemožno ignorovať, a začína sa cesta k dvoru, ktorý je väčší ako ktorýkoľvek predtým. Tam bude ilúzia odhalená podlahou, ktorá klame oči, a chvíľa jasnosti všetko zmení.",
+  "clues": [
+    "Vládol som nad prosperujúcou krajinou, ktorej ľudia sa klaňali slnku namiesto Alahovi.",
+    "Dostal som vznešený list, ktorý ma vyzýval, aby som sa nepovyšoval, ale aby som sa podriadil Alahovi.",
+    "Poradil som sa so svojou radou a najprv som zvolil diplomaciu, pričom som poslal dar, aby som preveril odosielateľa.",
+    "Prišiel som k Sulajmánovi a môj vlastný trón mi bol predstavený v prestrojení, aby sa otestovalo, či ho poznajú.",
+    "Vstúpil som do vznešeného paláca, ktorého hladkú sklenenú podlahu som si pomýlil s hlbokou vodou.",
+    "Vyhlásil som svoju oddanosť spolu so Sulajmánom Alahovi, Pánovi svetov."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Sestra Músu",
+        "Manželka Abu Lahaba",
+        "Manželka Nuha",
+        "Bilqis, vládca Saby",
+        "Zulaikha, manželka Al-Aziza"
+      ],
+      "answer": "Bilqis, vládca Saby"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Prehltnutý veľkou rybou v hlbinách mora",
+        "Zasiahnutý rokmi choroby a stratou rodiny",
+        "Nariadené obetovať milované dieťa vo sne",
+        "Skúšaný prezlečeným trónom a skleneným palácom",
+        "Uvrhnutý do plápolajúceho ohňa za rozbíjanie modiel"
+      ],
+      "answer": "Skúšaný prezlečeným trónom a skleneným palácom"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Archa postavená na vodách",
+        "Jaskyňa útočiska pre spiacich",
+        "Poschodie krištáľového paláca (Sarh)",
+        "Rieka Níl v čase exodu",
+        "Oheň pripravený modloslužobníkmi"
+      ],
+      "answer": "Poschodie krištáľového paláca (Sarh)"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Pohltila ma zem spolu s mojimi pokladmi",
+        "Zostal som v nevere a bol som zničený spolu s mojimi ľuďmi",
+        "Odovzdané so Sulaymanom Alahovi, Pánovi svetov",
+        "Utopil sa v mori pri prenasledovaní veriacich",
+        "Bol premenený na kameň za porušenie Sabatu"
+      ],
+      "answer": "Odovzdané so Sulaymanom Alahovi, Pánovi svetov"
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

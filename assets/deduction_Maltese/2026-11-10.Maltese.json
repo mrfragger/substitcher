@@ -1,0 +1,61 @@
+{
+  "title": "Il-Palazz tal-Ħġieġ Mirrorjat",
+  "intro": "Immaġina art imbiegħda ta’ għana u splendur fejn ix-xemx hija meqjuma minflok il-Ħallieq tagħha. Tasal ittra b’sejħa li ma tistax tiġi injorata, u jibda vjaġġ lejn qorti akbar minn kwalunkwe waħda li dehret qabel. Hemmhekk, l-illużjoni se tiġi esposta minn art li tqarraq bl-għajnejn, u mument ta’ ċarezza se jibdel kollox.",
+  "clues": [
+    "Jiena ħkemt fuq art għanja li n-nies tagħha kienu jinxteħtu quddiem ix-xemx minflok ma' Alla.",
+    "Irċevejt ittra nobbli li ssejjaħli biex ma ngħollix lili nnifsi iżda biex nissottometti ruħi lejn Alla.",
+    "Ikkonsultajt mal-kunsill tiegħi u għażilt id-diplomazija l-ewwel, billi bgħatt rigal biex nittestja lil min jibgħatu.",
+    "Ġejt għand Sulayman, u t-tron tiegħi stess ġie ppreżentat lili moħbi biex nittestja r-rikonoxximent tiegħi.",
+    "Dħalt f’palazz għoli li l-art tal-ħġieġ lixx tiegħu ħsibt li kienet ilma fond.",
+    "Iddikjarajt is-sottomissjoni tiegħi ma' Sulayman lejn Alla, il-Mulej tad-dinjiet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Oħt Musa",
+        "Il-Mara ta' Abu Lahab",
+        "Il-Mara ta’ Nuh",
+        "Bilqis, il-Ħakkiem ta’ Saba",
+        "Zulaikha, il-Mara ta' Al-Aziz"
+      ],
+      "answer": "Bilqis, il-Ħakkiem ta’ Saba"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Mibela’ minn ħuta kbira fil-fond tal-baħar",
+        "Milqut minn snin ta’ mard u telf ta’ familja",
+        "Ordnat biex jissagrifika tifel maħbub f'ħolma",
+        "Ittestjat mit-tron moħbi u l-palazz tal-ħġieġ",
+        "Mitfugħ f’nar qawwi talli kiser l-idoli"
+      ],
+      "answer": "Ittestjat mit-tron moħbi u l-palazz tal-ħġieġ"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "L-Arka mibnija fuq l-ilmijiet",
+        "L-għar ta’ kenn għall-irqad",
+        "L-art tal-palazz tal-kristall (Sarh)",
+        "Ix-Xmara Nil fi żmien l-eżodu",
+        "In-nar imħejji mill-idolatri"
+      ],
+      "answer": "L-art tal-palazz tal-kristall (Sarh)"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Bela’ mill-art mat-teżori tiegħi",
+        "Baqa’ ma nemminx u ġejt meqrud man-nies tiegħi",
+        "Sottomess ma' Sulayman lil Alla, Sid tad-dinjiet",
+        "Għerqet fil-baħar waqt li kienet qed issegwi lill-fidili",
+        "Inbidel f’ġebla talli kiser is-Sabat"
+      ],
+      "answer": "Sottomess ma' Sulayman lil Alla, Sid tad-dinjiet"
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

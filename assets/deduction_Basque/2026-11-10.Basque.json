@@ -1,0 +1,61 @@
+{
+  "title": "Ispiluzko Kristalezko Jauregia",
+  "intro": "Imajinatu aberastasun eta distira handiko lurralde urrun bat, non eguzkia gurtzen den bere Sortzailea baino. Gutun bat iristen da, ezinbestean baztertu daitekeen dei batekin, eta bidaia bat hasten da inoiz ikusi gabeko gorte handiago baterantz. Han, ilusioa begiak engainatzen dituen zoru batek agerian utziko du, eta argitasun une batek dena aldatuko du.",
+  "clues": [
+    "Lurralde oparotsu batean gobernatu nuen, non jendea Ala-ren ordez eguzkiari ahuspeztzen zen.",
+    "Gutun noble bat jaso nuen, neure burua ez goratzeko, baizik eta Ala-ri men egiteko deia eginez.",
+    "Nire kontseiluan kontsultatu eta diplomazia aukeratu nuen lehenik, bidaltzailea probatzeko opari bat bidaliz.",
+    "Sulaymanera etorri nintzen, eta neure tronua mozorrotuta aurkeztu zidaten nire ezagutza frogatzeko.",
+    "Jauregi garai batean sartu nintzen, eta haren beirazko zorua ur sakontzat hartu nuen.",
+    "Sulaymanekin batera, Ala-ri, munduen Jaunari, men egiten nion."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Musaren arreba.",
+        "Abu Lahaben emaztea",
+        "Nuh-ren emaztea",
+        "Bilqis, Sabako agintaria",
+        "Zulaikha, Al-Azizen emaztea"
+      ],
+      "answer": "Bilqis, Sabako agintaria"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Itsasoaren sakonean arrain handi batek irentsia",
+        "Urteetako gaixotasunak eta familia galtzeak jota",
+        "Amets batean maite duzun haur bat sakrifikatzeko agindua eman zioten",
+        "Tronu mozorrotuak eta beirazko jauregiak probatuta",
+        "Idoloak hausteagatik su bizian botata"
+      ],
+      "answer": "Tronu mozorrotuak eta beirazko jauregiak probatuta"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Uren gainean eraikitako Arka",
+        "Lotan daudenentzako babesleku kobazuloa",
+        "Kristalezko jauregiko zorua (Sarh)",
+        "Nilo ibaia exodoaren garaian",
+        "Idoloatrak prestatutako sua"
+      ],
+      "answer": "Kristalezko jauregiko zorua (Sarh)"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Lurrak irentsi ninduen nire altxorrekin batera",
+        "Sinesgaitz geratu nintzen eta nire herriarekin batera suntsitu nintzen",
+        "Sulaymanekin batera aurkeztua Ala-ri, munduen Jaunari",
+        "Itsasoan ito zen sinestunen atzetik zihoala",
+        "Sabbatua hausteagatik harri bihurtu zen"
+      ],
+      "answer": "Sulaymanekin batera aurkeztua Ala-ri, munduen Jaunari"
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

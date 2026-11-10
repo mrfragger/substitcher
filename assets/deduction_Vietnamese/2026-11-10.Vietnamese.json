@@ -1,0 +1,61 @@
+{
+  "title": "Cung điện bằng kính tráng gương",
+  "intro": "Hãy tưởng tượng một vùng đất xa xôi giàu sang và tráng lệ, nơi người ta tôn thờ mặt trời thay vì Đấng Tạo Hóa. Một lá thư đến mang theo lời kêu gọi không thể phớt lờ, và một cuộc hành trình bắt đầu hướng đến một cung điện vĩ đại hơn bất kỳ nơi nào từng thấy. Ở đó, ảo ảnh sẽ bị vạch trần bởi một sàn nhà đánh lừa thị giác, và một khoảnh khắc sáng suốt sẽ thay đổi tất cả.",
+  "clues": [
+    "Tôi cai trị một vùng đất thịnh vượng, nơi người dân quỳ lạy mặt trời thay vì Allah.",
+    "Tôi nhận được một bức thư cao quý, kêu gọi tôi không nên tự tôn mình mà hãy quy phục Allah.",
+    "Tôi đã tham khảo ý kiến ​​cố vấn và chọn cách ngoại giao trước tiên, gửi một món quà để thăm dò người gửi.",
+    "Tôi đến Sulayman, và ngai vàng của chính mình được trưng bày dưới hình thức ngụy trang để thử khả năng nhận biết của tôi.",
+    "Tôi bước vào một cung điện nguy nga tráng lệ, mà sàn nhà bằng kính nhẵn bóng khiến tôi nhầm tưởng đó là một vùng nước sâu thẳm.",
+    "Tôi cùng Sulayman tuyên bố quy phục Allah, Chúa tể của muôn loài."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Người chị gái của Musa",
+        "Vợ của Abu Lahab",
+        "Vợ của Nuh",
+        "Bilqis, người cai trị Saba",
+        "Zulaikha, vợ của Al-Aziz"
+      ],
+      "answer": "Bilqis, người cai trị Saba"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Bị một con cá lớn nuốt chửng dưới đáy biển.",
+        "Bị giày vò bởi nhiều năm bệnh tật và mất mát người thân.",
+        "Trong giấc mơ, tôi nhận lệnh phải hi sinh đứa con yêu quý của mình.",
+        "Bị thử thách bởi ngai vàng ngụy trang và cung điện thủy tinh.",
+        "Bị ném vào lửa cháy dữ dội vì tội phá hủy thần tượng"
+      ],
+      "answer": "Bị thử thách bởi ngai vàng ngụy trang và cung điện thủy tinh."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Con tàu Noah được đóng trên mặt nước.",
+        "Hang động trú ẩn cho những người đang ngủ",
+        "Sàn cung điện pha lê (Sarh)",
+        "Sông Nile vào thời điểm cuộc xuất hành",
+        "Ngọn lửa do những kẻ thờ thần tượng chuẩn bị"
+      ],
+      "answer": "Sàn cung điện pha lê (Sarh)"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Tôi bị đất nuốt chửng cùng với kho báu của mình.",
+        "Tôi vẫn không tin và đã bị tiêu diệt cùng với dân tộc mình.",
+        "Cùng với Sulayman, tôi quy phục Allah, Chúa tể của muôn loài.",
+        "Chết đuối trên biển khi đang truy đuổi những người có đức tin.",
+        "Bị hóa đá vì vi phạm ngày Sa-bát."
+      ],
+      "answer": "Cùng với Sulayman, tôi quy phục Allah, Chúa tể của muôn loài."
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

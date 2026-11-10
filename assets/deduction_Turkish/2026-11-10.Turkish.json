@@ -1,0 +1,61 @@
+{
+  "title": "Aynalı Cam Sarayı",
+  "intro": "Zenginlik ve ihtişam dolu, uzak bir diyarı hayal edin; burada Yaratıcı yerine güneşe tapılır. Göz ardı edilemeyecek bir çağrı içeren bir mektup gelir ve daha önce hiç görülmemiş bir saraya doğru bir yolculuk başlar. Orada, gözleri aldatan bir zeminle yanılsama açığa çıkarılacak ve bir anlık aydınlanma her şeyi değiştirecektir.",
+  "clues": [
+    "Ben, halkı Allah'a değil güneşe secde eden, refah içinde bir ülkeye hükmettim.",
+    "Bana, kendimi yüceltmemem, aksine Allah'a teslim olmam gerektiğini bildiren mübarek bir mektup aldım.",
+    "Danışmanlarıma danıştım ve öncelikle diplomasiyi seçtim, göndereni test etmek için bir hediye gönderdim.",
+    "Süleyman'a geldim ve tanınırlığımı test etmek amacıyla kendi tahtım kılık değiştirilerek bana sunuldu.",
+    "Yüksek tavanlı bir saraya girdim; pürüzsüz cam zeminini derin su sandım.",
+    "Süleyman ile birlikte âlemlerin Rabbi olan Allah'a teslimiyetimi bildirdim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Musa'nın Kız Kardeşi",
+        "Ebu Lahab'ın karısı",
+        "Nuh'un Karısı",
+        "Saba Hükümdarı Bilqis",
+        "Züleyha, Aziz'in karısı"
+      ],
+      "answer": "Saba Hükümdarı Bilqis"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Denizin derinliklerinde büyük bir balık tarafından yutuldu.",
+        "Yıllarca süren hastalık ve aile kayıplarının etkisiyle sarsıldı.",
+        "Bir rüyada sevgili çocuğunu kurban etmesi emredildi.",
+        "Gizlenmiş taht ve cam saray tarafından sınandı",
+        "Putları kırdığı için alev alev yanan bir ateşe atıldı."
+      ],
+      "answer": "Gizlenmiş taht ve cam saray tarafından sınandı"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Nuh'un Gemisi sular üzerine inşa edildi.",
+        "Uyuyanlar için sığınak mağarası",
+        "Kristal sarayın zemini (Sarh)",
+        "Mısır'dan Çıkış zamanında Nil Nehri",
+        "Putperestlerin hazırladığı ateş"
+      ],
+      "answer": "Kristal sarayın zemini (Sarh)"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Hazinelerimle birlikte toprak beni yuttu.",
+        "İnanamayarak halkımla birlikte yok oldum.",
+        "Süleyman ile birlikte âlemlerin Rabbi Allah'a teslim olmuş.",
+        "Müminleri kovalarken denizde boğuldu.",
+        "Şabat gününü ihlal ettiği için taşa dönüştürüldü."
+      ],
+      "answer": "Süleyman ile birlikte âlemlerin Rabbi Allah'a teslim olmuş."
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

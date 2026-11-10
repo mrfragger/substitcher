@@ -1,0 +1,61 @@
+{
+  "title": "Spoguļstikla pils",
+  "intro": "Iztēlojieties tālu bagātības un krāšņuma zemi, kur saule tiek pielūgta tās Radītāja vietā. Pienāk vēstule ar aicinājumu, ko nevar ignorēt, un sākas ceļojums uz pagalmu, kas ir varenāks par jebkuru iepriekš redzētu. Tur ilūzijas atmaskos grīda, kas maldina acis, un skaidrības mirklis visu mainīs.",
+  "clues": [
+    "Es valdīju pār pārtikušu zemi, kuras iedzīvotāji pielūdza sauli Allāha vietā.",
+    "Es saņēmu cēlu vēstuli, kurā mani aicināja nevis paaugstināt sevi, bet gan pakļauties Allāham.",
+    "Es konsultējos ar savu padomi un vispirms izvēlējos diplomātiju, nosūtot dāvanu, lai pārbaudītu sūtītāju.",
+    "Es ierados Suleimanā, un man tika pasniegts mans paša tronis, maskēts, lai pārbaudītu manu atpazīstamību.",
+    "Es iegāju augstā pilī, kuras gludo stikla grīdu es sajaucu ar dziļu ūdeni.",
+    "Es kopā ar Sulaimanu paziņoju par savu pakļaušanos Allāham, pasauļu Kungam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Mūsas māsa",
+        "Abu Lahaba sieva",
+        "Nū sieva",
+        "Bilqis, Sabas valdnieks",
+        "Zulaikha, Al-Aziza sieva"
+      ],
+      "answer": "Bilqis, Sabas valdnieks"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Liela zivs norīts jūras dzīlēs",
+        "Pārņemti ar gadiem ilgu slimību un ģimenes zaudējumu",
+        "Pavēlēts sapnī upurēt mīļoto bērnu",
+        "Pārbaudīts pie maskētā troņa un stikla pils",
+        "Iemests liesmojošā ugunī par elku sagraušanu"
+      ],
+      "answer": "Pārbaudīts pie maskētā troņa un stikla pils"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Šķirsts, kas celts uz ūdeņiem",
+        "Guļošo patvēruma ala",
+        "Kristāla pils grīda (Sarh)",
+        "Nīlas upe izceļošanas laikā",
+        "Elku pielūdzēju sagatavotā uguns"
+      ],
+      "answer": "Kristāla pils grīda (Sarh)"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Tika aprīts zemē kopā ar maniem dārgumiem",
+        "Palika neticībā un tika iznīcināts kopā ar savu tautu",
+        "Kopā ar Sulaimanu pakļāvās Allāham, pasaules Kungam",
+        "Noslīka jūrā, vajājot ticīgos",
+        "Pārvērtās akmenī par sabata pārkāpšanu"
+      ],
+      "answer": "Kopā ar Sulaimanu pakļāvās Allāham, pasaules Kungam"
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

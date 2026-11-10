@@ -1,0 +1,61 @@
+{
+  "title": "Te Whare Ariki o te Karāhe Whakaata",
+  "intro": "Whakaarohia tētahi whenua tawhiti o te taonga me te ataahua, e karakiatia ana te rā, kaua ko tōna Kaihanga. Ka tae mai tētahi reta me te karanga e kore e taea te wareware, ā, ka tīmata tētahi haerenga ki tētahi marae nui atu i ngā mea katoa i kitea i mua. I reira, ka hurahia te mānukanuka e tētahi papa e tinihanga ana i ngā kanohi, ā, ka huri ngā mea katoa i tētahi wā o te māramatanga.",
+  "clues": [
+    "I noho ahau hei rangatira mō tētahi whenua whai rawa, ko tōna iwi i piko ki te rā, kaua ki a Allah.",
+    "I tae mai tētahi reta rangatira ki ahau, e karanga ana kia kaua ahau e whakakake i ahau anō, engari kia ngohengohe ki a Allah.",
+    "I kōrero ahau ki taku kaunihera, ā, i whiriwhiria e au te kaupapa tōrangapū i te tuatahi, mā te tuku koha hei whakamātautau i te kaituku.",
+    "I haere mai ahau ki a Sulaiman, ā, i whakakitea mai tōku torona ki ahau i roto i te āhua kē hei whakamātautau i tōku mōhio ki a ia.",
+    "I tomo ahau ki tētahi whare rangatira teitei, ā, i pohehe ahau he wai hohonu tōna papa karāhe maeneene.",
+    "I whakapuakina e māua ko Sulaimana taku tukunga iho ki a Allah, te Ariki o ngā ao."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te Tuahine o Musa",
+        "Te Wahine a Abu Lahab",
+        "Te Wahine a Noa",
+        "Ko Bilqis te rangatira o Saba",
+        "Zulaikha, te wahine a Al-Aziz"
+      ],
+      "answer": "Ko Bilqis te rangatira o Saba"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I horomia e te ika nui i te hohonutanga o te moana",
+        "I pāngia e ngā tau maha o te mate me te ngaronga o te whānau",
+        "I whakahaua kia patua he tamaiti aroha i roto i te moemoeā",
+        "I whakamatautauria e te torona huna me te whare karāhe",
+        "Ka maka ki roto i te ahi mura hei wawahi i ngā whakapakoko"
+      ],
+      "answer": "I whakamatautauria e te torona huna me te whare karāhe"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Āka i hangaia i runga i te wai",
+        "Te ana piringa mō te hunga moe",
+        "Te papa o te whare kingi karaihe (Sarh)",
+        "Te awa o te Nile i te wā o te wehenga atu",
+        "Te ahi i whakaritea e ngā kaikarakia whakapakoko"
+      ],
+      "answer": "Te papa o te whare kingi karaihe (Sarh)"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I horomia e te whenua me aku taonga",
+        "I noho tonu i roto i te whakaponokore, ā, i whakangaromia tahitia me tōku iwi",
+        "I tukua tahitia rāua ko Sulaimana ki a Allah, ki te Ariki o ngā ao",
+        "I toremi ki te moana i a ia e whai ana i te hunga whakapono",
+        "I hurihia hei kōhatu mō te takahi i te Hāpati"
+      ],
+      "answer": "I tukua tahitia rāua ko Sulaimana ki a Allah, ki te Ariki o ngā ao"
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

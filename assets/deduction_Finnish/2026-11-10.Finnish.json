@@ -1,0 +1,61 @@
+{
+  "title": "Peililasin palatsi",
+  "intro": "Kuvittele kaukainen vaurauden ja loiston täyttämä maa, jossa aurinkoa palvotaan sen Luojan sijaan. Saapuu kirje, jossa on kutsu, jota ei voi sivuuttaa, ja alkaa matka kohti ennennäkemättömän suurta hovia. Siellä lattia, joka pettää silmät, paljastaa illuusion, ja selkeyden hetki muuttaa kaiken.",
+  "clues": [
+    "Hallitsin vaurasta maata, jonka kansa kumarsi aurinkoa Allahin sijaan.",
+    "Sain jalon kirjeen, jossa minua kehotettiin alistumaan Allahille, ei korottamaan itseäni.",
+    "Neuvottelin neuvonantajaani ja valitsin ensin diplomatian, lähettämällä lahjan testatakseni lähettäjää.",
+    "Tulin Sulaymaniin, ja oma valtaistuimeni esiteltiin minulle naamioituna testatakseni tunnistamistani.",
+    "Astuin korkeaan palatsiin, jonka sileän lasilattian luulin syväksi vedeksi.",
+    "Julistin Sulaymanin kanssa alistuvani Allahille, maailmojen Herralle."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Musan sisar",
+        "Abu Lahabin vaimo",
+        "Nuhin vaimo",
+        "Bilqis, Saban hallitsija",
+        "Zulaikha, Al-Azizin vaimo"
+      ],
+      "answer": "Bilqis, Saban hallitsija"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Suuri kala nielaisi meren syvyyksissä",
+        "Vuosien sairauden ja perheen menetyksen kourissa",
+        "Käskettiin uhraamaan rakastettu lapsi unessa",
+        "Naamioidun valtaistuimen ja lasipalatsin koettelema",
+        "Heitetty roihuavaan tuleen epäjumalien murskaamisesta"
+      ],
+      "answer": "Naamioidun valtaistuimen ja lasipalatsin koettelema"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Arkki rakennettiin vesille",
+        "Nukkujien turvapaikka",
+        "Kristallipalatsin lattia (Sarh)",
+        "Niilijoki muuton aikaan",
+        "Epäjumalanpalvelijoiden valmistama tuli"
+      ],
+      "answer": "Kristallipalatsin lattia (Sarh)"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Maa nielaisi minut aarteineen",
+        "Epäuskoisena pysyin ja tuhouduin kansani kanssa",
+        "Alistui Sulaymanin kanssa Allahille, maailmojen Herralle",
+        "Hukkui mereen uskovia takaa ajaessaan",
+        "Muuttui kiveksi sapatin rikkomisesta"
+      ],
+      "answer": "Alistui Sulaymanin kanssa Allahille, maailmojen Herralle"
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}
