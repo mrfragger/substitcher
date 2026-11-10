@@ -385,7 +385,8 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 ### Quiz (deduction)
 - Who Am I? Trial/Event, Key Element, Outcome from https://github.com/sudosar/quraniq-source
 - once solved then Quran verse is revealed, choose your language to show verse in language either in vtt or tafsir
-- translated in 132 languages using https://tools.newzone.top/en/json-translate (translate selected fields only) [title,intro,clues[*],label,options[*],answer]
+- translated in 132 languages using https://tools.newzone.top/en/json-translate 
+- (translate selected fields only) `[title,intro,clues[*],label,options[*],answer]`
 - Acehnese, Afar, Afrikaans, Albanian, Amharic, Arabic, Armenian, Assamese, Aymara, Azerbaijani, Bashkir, Basque, Belarusian, Bengali, Bhojpuri, Bosnian, Breton, Bulgarian, Burmese, Cantonese, Catalan, Cebuano, Chinese_Simplified, Chinese_Traditional, Croatian, Czech, Danish, Dari, Dhivehi, Dutch, English, Esperanto, Estonian, Filipino_Tagalog, Finnish, Fulani, French, Galician, Georgian, German, Greek, Guarani, Gujarati, Haitian_Creole, Hausa, Hebrew, Hindi, Hungarian, Icelandic, Igbo, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Kapampangan, Kazakh, Khmer, Kinyarwanda, Konkani, Korean, Kurdish_Kurmanji, Kurdish_Sorani, Kyrgyz, Lao, Latin, Latvian, Lingala, Lithuanian, Lombard, Luganda, Luxembourgish, Macedonian, Maithili, Malagasy, Malay, Malayalam, Maltese, Maori, Marathi, Mongolian, Nepali, Norwegian, Occitan, Odia_Oriya, Oromo, Pangasinan, Pashto, Persian, Polish, Portuguese_Brazil, Portuguese_Portugal, Punjabi, Quechua, Romanian, Rundi_Kirundi, Russian, Sanskrit, Serbian, Shona, Sicilian, Sinhala, Slovak, Slovenian, Somali, Southern_Sotho, Spanish, Sundanese, Swahili, Swedish, Tajik, Tamil, Tatar, Telugu, Thai, Tsonga, Tswana, Turkish, Turkmen, Twi, Ukrainian, Urdu, Uyghur, Uzbek, Vietnamese, Welsh, Wolof, Xhosa, Yiddish, Yoruba, Zulu
 
 ### Related (same source as Quiz)
