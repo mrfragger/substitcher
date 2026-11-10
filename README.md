@@ -382,6 +382,21 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - from https://hadeethenc.com and takes up 203 MB but worth it for all the following languages:
 - Albanian, Amharic, Arabic, Assamese, Bangla, Bosnian, Burmese, Chinese, Dutch, English, Filipino, French, Georgian, German, Gujarati, Hausa, Hindi, Hungarian, Indonesian, Italian, Japanese, Kannada, Khmer, Kurdish, Macedonian, Malagasy, Malayalam, Marathi, Mossi, Pashto, Persian, PersianAfghan, Portuguese, Punjabi, Romanian, Russian, Serbian, Sinhala, Spanish, Swahili, Swedish, Tamil, Telugu, Thai, Turkish, Ukrainian, Urdu, Uyghur, Vietnamese
 
+### Quiz (deduction)
+- Who Am I? Trial/Event, Key Element, Outcome from https://github.com/sudosar/quraniq-source
+- once solved then Quran verse is revealed, choose your language to show verse in language either in vtt or tafsir
+- translated in 132 languages using https://tools.newzone.top/en/json-translate (translate selected fields only) [title,intro,clues[*],label,options[*],answer]
+- Acehnese, Afar, Afrikaans, Albanian, Amharic, Arabic, Armenian, Assamese, Aymara, Azerbaijani, Bashkir, Basque, Belarusian, Bengali, Bhojpuri, Bosnian, Breton, Bulgarian, Burmese, Cantonese, Catalan, Cebuano, Chinese_Simplified, Chinese_Traditional, Croatian, Czech, Danish, Dari, Dhivehi, Dutch, English, Esperanto, Estonian, Filipino_Tagalog, Finnish, Fulani, French, Galician, Georgian, German, Greek, Guarani, Gujarati, Haitian_Creole, Hausa, Hebrew, Hindi, Hungarian, Icelandic, Igbo, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Kapampangan, Kazakh, Khmer, Kinyarwanda, Konkani, Korean, Kurdish_Kurmanji, Kurdish_Sorani, Kyrgyz, Lao, Latin, Latvian, Lingala, Lithuanian, Lombard, Luganda, Luxembourgish, Macedonian, Maithili, Malagasy, Malay, Malayalam, Maltese, Maori, Marathi, Mongolian, Nepali, Norwegian, Occitan, Odia_Oriya, Oromo, Pangasinan, Pashto, Persian, Polish, Portuguese_Brazil, Portuguese_Portugal, Punjabi, Quechua, Romanian, Rundi_Kirundi, Russian, Sanskrit, Serbian, Shona, Sicilian, Sinhala, Slovak, Slovenian, Somali, Southern_Sotho, Spanish, Sundanese, Swahili, Swedish, Tajik, Tamil, Tatar, Telugu, Thai, Tsonga, Tswana, Turkish, Turkmen, Twi, Ukrainian, Urdu, Uyghur, Uzbek, Vietnamese, Welsh, Wolof, Xhosa, Yiddish, Yoruba, Zulu
+
+### Related (same source as Quiz)
+- Match each term to four categories, once complete reveals verse
+- Tap words to verse order
+- reveal Arabic word in ayah
+
+### Alif
+- learn Arabic alphabet with a study mode 
+- guess mode (Start Quiz) shows 16 random letters to choose from
+
 ### Edit Captions vtt subs on images
 - copy to clipboard or save to file as avif, jpg, png
 - paste ctrl+v, cmd+v any image from clipboard
