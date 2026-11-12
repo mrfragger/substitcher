@@ -105,10 +105,12 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     _quranService = QuranPipelineService(tokenizers: _tokenizers, log: _quranLogAdd);
     _loadSavedRoot();
     _loadLastQuranColumns();
+    HardwareKeyboard.instance.addHandler(_onGlobalKey);
   }
 
   @override
   void dispose() {
+    HardwareKeyboard.instance.removeHandler(_onGlobalKey);
     _scrollController.dispose();
     _csvScrollController.dispose();
     _titleController.dispose();
@@ -535,6 +537,12 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
           ),
         );
       }
+    } on MissingVersesException catch (e) {
+      setState(() {
+        _isProcessing = false;
+        _processingStatus = '${e.missing.length} verse audio file(s) missing';
+      });
+      _toast(e.message, color: Colors.red, duration: const Duration(seconds: 15));
     } on FirstAyahCopiedException catch (e) {
       setState(() {
         _isProcessing = false;
@@ -695,6 +703,31 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
       ),
     );
   }
+
+  /// Global Enter = click "Create Audiobook" when it is enabled. Registered on
+  /// HardwareKeyboard so it works wherever focus currently is (after a file
+  /// picker, a button click, or no focus at all), which a Focus widget can't.
+  bool _onGlobalKey(KeyEvent event) {
+    if (event is! KeyDownEvent) return false;
+    if (event.logicalKey != LogicalKeyboardKey.enter &&
+        event.logicalKey != LogicalKeyboardKey.numpadEnter) {
+      return false;
+    }
+    if (!mounted || !_canConvert) return false;
+    // Only when this screen is on top (not under a dialog / dropdown menu).
+    if (ModalRoute.of(context)?.isCurrent != true) return false;
+    _startConversion();
+    return true;
+  }
+
+  /// True when the Create Audiobook button is enabled (READY state).
+  bool get _canConvert =>
+      (_apkgFilePath != null || _csvOnlyMode) &&
+      _outputDirectory != null &&
+      _frontColumn != null &&
+      _backColumn != null &&
+      _audioColumn != null &&
+      !_isProcessing;
 
   Future<Uint8List> _loadTranslationsZip() async {
     final data = await rootBundle.load('assets/quranversebyverse/versebyversequran.zip');
@@ -1328,7 +1361,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                 child: const Text('Unzip 85 Quran Translations'),
               ),
               Tooltip(
-                message: 'One translation so Split vtt cues works',
+                message: 'Two English translations so Split vtt cues works, may delete afterwards',
                 waitDuration: const Duration(milliseconds: 400),
                 preferBelow: false,
                 child: ElevatedButton(
@@ -2610,12 +2643,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   }
 
   Widget _buildConversionControls() {
-    final canConvert = (_apkgFilePath != null || _csvOnlyMode) &&
-        _outputDirectory != null &&
-        _frontColumn != null &&
-        _backColumn != null &&
-        _audioColumn != null &&
-        !_isProcessing;
+    final canConvert = _canConvert;
 
     return Column(
       children: [
@@ -2645,7 +2673,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                 onPressed: canConvert ? _startConversion : null,
                 icon: const Icon(Icons.play_arrow, size: 24),
                 label: const Text(
-                  'Create Audiobook',
+                  'Create Audiobook (ENTER)',
                   style: TextStyle(fontSize: 16),
                 ),
                 style: ElevatedButton.styleFrom(

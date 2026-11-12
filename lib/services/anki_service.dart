@@ -17,6 +17,14 @@ class FirstAyahCopiedException implements Exception {
   String toString() => message;
 }
 
+class MissingVersesException implements Exception {
+  final List<String> missing;
+  final String message;
+  MissingVersesException(this.missing, this.message);
+  @override
+  String toString() => message;
+}
+
 class AnkiService {
   final FFmpegService _ffmpeg = FFmpegService();
 
@@ -450,6 +458,7 @@ class AnkiService {
       print('Reading from columns: Front=${columns[frontColumn]}, Back=${columns[backColumn]}, Audio=${columns[audioColumn]}');
 
       final chapters = <Map<String, dynamic>>[];
+      final missingAudio = <String>[];
       final maxNotes = sampleMode ? 50 : csvData.length - 1;
 
       onProgress('Processing notes...', 0.1);
@@ -481,6 +490,7 @@ class AnkiService {
 
           if (!await File(audioPath).exists()) {
             print('Warning: Audio file not found: $audioPath');
+            missingAudio.add(path.basename(audioPath));
             continue;
           }
           final resolvedAudioFile = path.basename(audioPath);
@@ -500,6 +510,29 @@ class AnkiService {
 
       if (chapters.isEmpty) {
         throw Exception('No valid chapters found.\nFront: ${columns[frontColumn]}\nBack: ${columns[backColumn]}\nAudio: ${columns[audioColumn]}');
+      }
+
+      // Quran verse by verse: every verse audio must exist, except 001001
+      // which is handled below by copying the bundled file.
+      if (suraColumn != null && ayaColumn != null) {
+        final isFirstAyah = RegExp(r'^001_?001$');
+        // Ayah 000 (bismillah) files are optional, never part of this check.
+        final isAyahZero = RegExp(r'^\d{3}_?000$');
+        final missingVerses = missingAudio
+            .where((f) {
+              final n = path.basenameWithoutExtension(f);
+              return !isFirstAyah.hasMatch(n) && !isAyahZero.hasMatch(n);
+            })
+            .toSet()
+            .toList()
+          ..sort();
+        if (missingVerses.isNotEmpty) {
+          throw MissingVersesException(
+            missingVerses,
+            'Quran Verse by Verse not created. ${missingVerses.length} verse audio '
+            'file(s) missing in $resolvedMediaDir: ${missingVerses.join(', ')}',
+          );
+        }
       }
 
       if (RegExp(r'001-006').hasMatch(path.basename(csvPath))) {
