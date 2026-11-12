@@ -60,9 +60,10 @@ class _DeductionQuizPanelState extends State<DeductionQuizPanel> {
     _init();
   }
 
+  //red, pink, purple, deepPurple, indigo, blue, lightBlue, cyan, teal, green, lightGreen, lime, yellow, amber, orange, deepOrange, brown, grey, and blueGrey
   static const List<Color> _categoryColors = [
     Colors.amber,
-    Colors.green,
+    Colors.pink, //trial/event
     Colors.lightBlueAccent,
     Color(0xFFCB93F5),
   ];

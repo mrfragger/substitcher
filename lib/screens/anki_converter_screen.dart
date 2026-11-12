@@ -25,7 +25,11 @@ class AnkiConverterScreen extends StatefulWidget {
   State<AnkiConverterScreen> createState() => _AnkiConverterScreenState();
 }
 
-class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
+class _AnkiConverterScreenState extends State<AnkiConverterScreen>
+  with WidgetsBindingObserver {
+
+  double _savedScrollOffset = 0;
+
   static const int MAX_PREVIEW_ROWS = 200;
   static const int MAX_PREVIEW_COLS = 120;
   final AnkiService _ankiService = AnkiService();
@@ -81,6 +85,18 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   static String? _lastQuranRoot;
   String? _lastOutputFilename;
 
+  // Auto-create the remaining Quran ranges after the first one.
+  bool _autoChain = true;
+  bool _chainRunning = false;
+  bool _chainStopRequested = false;
+  bool _chainSkipWait = false;
+  bool _firstAyahCopied = false;
+  int _chainSecondsLeft = 0;
+  String? _chainNextRange;
+  final TextEditingController _chainPauseController =
+      TextEditingController(text: '90');
+  static final RegExp _rangeRe = RegExp(r'\d{3}-\d{3}');
+
   bool _useSuraAyah = false;
   int? _suraColumn;
   int? _ayaColumn;
@@ -101,25 +117,56 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   @override
   void initState() {
     super.initState();
+    WidgetsBinding.instance.addObserver(this);
     _tokenizers = QuranTokenizers(log: _quranLogAdd);
     _quranService = QuranPipelineService(tokenizers: _tokenizers, log: _quranLogAdd);
     _loadSavedRoot();
     _loadLastQuranColumns();
     HardwareKeyboard.instance.addHandler(_onGlobalKey);
+
+    _scrollController.addListener(() {
+      if (_scrollController.hasClients) {
+        _savedScrollOffset = _scrollController.offset;
+      }
+    });
   }
 
   @override
   void dispose() {
+    WidgetsBinding.instance.removeObserver(this);
     HardwareKeyboard.instance.removeHandler(_onGlobalKey);
     _scrollController.dispose();
     _csvScrollController.dispose();
     _titleController.dispose();
     _authorController.dispose();
+    _chainPauseController.dispose();
     _tokenizers.dispose();
     _logTimer?.cancel();
     _quranElapsedTimer?.cancel();
     super.dispose();
   }
+
+  @override
+    void didChangeAppLifecycleState(AppLifecycleState state) {
+      if (state == AppLifecycleState.resumed) {
+        // If the chain is still running (or processing), keep the user at the bottom.
+        if (_chainRunning || _isProcessing) {
+          WidgetsBinding.instance.addPostFrameCallback((_) {
+            if (!mounted || !_scrollController.hasClients) return;
+            _scrollController.jumpTo(_scrollController.position.maxScrollExtent);
+          });
+        } else {
+          // Otherwise restore the last known position.
+          WidgetsBinding.instance.addPostFrameCallback((_) {
+            if (!mounted || !_scrollController.hasClients) return;
+            final max = _scrollController.position.maxScrollExtent;
+            _scrollController.jumpTo(
+              _savedScrollOffset.clamp(0.0, max),
+            );
+          });
+        }
+      }
+    }
 
   Future<void> _selectCsvFile() async {
     final startDir = (_quranRoot != null && await Directory(_quranRoot!).exists())
@@ -140,8 +187,12 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
       initialDirectory: startDir,
     );
 
-    if (file != null) {
-      final filePath = file.path!;
+    if (file != null) await _loadCsv(file.path!);
+  }
+
+  /// Loads [filePath] as the current CSV (used by the picker and by the Quran
+  /// auto-chain). Returns true on success.
+  Future<bool> _loadCsv(String filePath) async {
       _lastCsvDirectory = path.dirname(filePath);
 
       setState(() {
@@ -209,6 +260,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
             ),
           );
         }
+        return true;
       } catch (e) {
         setState(() {
           _csvPath = null;
@@ -223,8 +275,8 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
             ),
           );
         }
+        return false;
       }
-    }
   }
 
   /// (last, next) ranges from the last finished audiobook, e.g. ('001-006', '007-015').
@@ -416,25 +468,170 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     });
   }
 
+  String? _rangeOfPath(String? p) {
+    if (p == null) return null;
+    final m = _rangeRe.firstMatch(path.basenameWithoutExtension(p));
+    if (m == null) return null;
+    return QuranPipelineService.ranges.contains(m.group(0)) ? m.group(0) : null;
+  }
+
+  String _csvPathForRange(String csvPath, String range) {
+    final base = path
+        .basenameWithoutExtension(csvPath)
+        .replaceFirst(_rangeRe, range);
+    return path.join(path.dirname(csvPath), '$base${path.extension(csvPath)}');
+  }
+
+  /// Checks every remaining range's CSV and verse audio up front. Returns one
+  /// problem line per range (empty list = all good).
+  Future<List<String>> _preflightChain(String startRange) async {
+    final problems = <String>[];
+    final ranges = QuranPipelineService.ranges;
+    for (var i = ranges.indexOf(startRange); i < ranges.length; i++) {
+      final r = ranges[i];
+      final csv = _csvPathForRange(_csvPath!, r);
+      if (!await File(csv).exists()) {
+        problems.add('$r: ${path.basename(csv)} not found');
+        continue;
+      }
+      final missing = await _ankiService.missingAudio(
+        csvPath: csv,
+        audioColumn: _audioColumn!,
+        matchByRange: _matchByRange,
+      );
+      if (missing.isEmpty) continue;
+      final shown = missing.take(15).join(', ');
+      problems.add('$r: $shown${missing.length > 15 ? ' (+${missing.length - 15} more)' : ''}');
+    }
+    return problems;
+  }
+
+  /// Cool-down between ranges. Returns false if the chain should stop.
+  Future<bool> _chainWait(String next) async {
+    final secs = (int.tryParse(_chainPauseController.text.trim()) ?? 90).clamp(0, 3600);
+    _chainSkipWait = false;
+    if (mounted) setState(() => _chainNextRange = next);
+    for (var s = secs; s > 0; s--) {
+      if (!mounted || _chainStopRequested || _chainSkipWait) break;
+      setState(() => _chainSecondsLeft = s);
+      _pinToBottomIfProcessing();
+      await Future<void>.delayed(const Duration(seconds: 1));
+    }
+    if (mounted) setState(() => _chainSecondsLeft = 0);
+    return mounted && !_chainStopRequested;
+  }
+
+  Future<bool> _loadChainCsv(String range) async {
+    final f = _frontColumn, b = _backColumn, a = _audioColumn;
+    final s = _suraColumn, y = _ayaColumn;
+    final ok = await _loadCsv(_csvPathForRange(_csvPath!, range));
+    if (!ok || !mounted) return false;
+    setState(() {
+      _frontColumn = f;
+      _backColumn = b;
+      _audioColumn = a;
+      _suraColumn = s;
+      _ayaColumn = y;
+      _useSuraAyah = true;
+    });
+    return true;
+  }
+
+  /// Create Audiobook. For a Quran range csv with "Auto-create" ticked, checks
+  /// all remaining ranges first, then builds this range and every following
+  /// range with a cool-down pause in between.
   Future<void> _startConversion() async {
+    if (_chainRunning || _isProcessing) return;
+    final startRange = _rangeOfPath(_csvPath);
+    final chain = _autoChain &&
+        _useSuraAyah &&
+        _csvOnlyMode &&
+        startRange != null &&
+        _audioColumn != null;
+    if (!chain) {
+      await _runConversion();
+      return;
+    }
+    if (_sampleMode) {
+      _showError('Turn off Sample Mode to auto-create the remaining Quran ranges');
+      return;
+    }
+
+    setState(() {
+      _chainRunning = true;
+      _chainStopRequested = false;
+      _chainSkipWait = false;
+      _chainSecondsLeft = 0;
+      _chainNextRange = null;
+      _processingStatus = 'Checking verse audio for all remaining ranges...';
+    });
+
+    var allDone = false;
+    try {
+      final problems = await _preflightChain(startRange);
+      if (problems.isNotEmpty) {
+        if (mounted) setState(() => _processingStatus = 'Missing verse audio, nothing created');
+        _toast(
+          'Nothing created. Missing verse audio found:\n${problems.join('\n')}',
+          color: Colors.red,
+          duration: const Duration(seconds: 25),
+        );
+        return;
+      }
+
+      var ok = await _runConversion();
+      if (!ok && _firstAyahCopied && !_chainStopRequested) {
+        ok = await _runConversion();
+      }
+      while (ok && mounted && !_chainStopRequested) {
+        final ranges = QuranPipelineService.ranges;
+        final i = ranges.indexOf(_rangeOfPath(_csvPath) ?? '');
+        if (i < 0) break;
+        if (i + 1 >= ranges.length) {
+          allDone = true;
+          break;
+        }
+        final next = ranges[i + 1];
+        if (!await _chainWait(next)) break;
+        if (!await _loadChainCsv(next)) break;
+        ok = await _runConversion();
+      }
+    } finally {
+      if (mounted) {
+        setState(() {
+          _chainRunning = false;
+          _chainSecondsLeft = 0;
+          _chainNextRange = null;
+        });
+        if (allDone) {
+          _beep();
+          _toast('All remaining Quran Verse by Verse audiobooks are complete',
+              duration: const Duration(seconds: 10));
+        }
+      }
+    }
+  }
+
+  Future<bool> _runConversion() async {
+    _firstAyahCopied = false;
     if ((_apkgFilePath == null && !_csvOnlyMode) || _outputDirectory == null) {
       _showError('Please select an .apkg or (Quran) CSV file');
-      return;
+      return false;
     }
 
     if (_frontColumn == null || _backColumn == null || _audioColumn == null) {
       _showError('Please select Front, Back, and Audio columns');
-      return;
+      return false;
     }
 
     if (_useSuraAyah && (_suraColumn == null || _ayaColumn == null)) {
       _showError('Please select Sura and Aya columns');
-      return;
+      return false;
     }
 
     if (_author.isEmpty || _title.isEmpty) {
       _showError('Please enter Language (Artist) and Title (Album)');
-      return;
+      return false;
     }
 
     final String csvPathToUse;
@@ -468,20 +665,13 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
 
     setState(() {
       _isProcessing = true;
+      _scrollToBottomOnStart();
       _processingStatus = 'Starting conversion...';
       _processingProgress = 0.0;
       _processingStartTime = DateTime.now();
     });
 
-    WidgetsBinding.instance.addPostFrameCallback((_) {
-      if (_scrollController.hasClients) {
-        _scrollController.animateTo(
-          _scrollController.position.maxScrollExtent,
-          duration: const Duration(milliseconds: 500),
-          curve: Curves.easeOutCubic,
-        );
-      }
-    });
+    _pinToBottomIfProcessing();
 
     try {
       await _ankiService.createAudiobook(
@@ -508,6 +698,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
               _processingStatus = status;
               _processingProgress = progress;
             });
+            if (_chainRunning) _pinToBottomIfProcessing();
           }
         },
       );
@@ -536,6 +727,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
             backgroundColor: Colors.green,
           ),
         );
+        return true;
       }
     } on MissingVersesException catch (e) {
       setState(() {
@@ -547,6 +739,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
       setState(() {
         _isProcessing = false;
         _processingStatus = '001001.mp3 was missing, copied';
+        _firstAyahCopied = true;
       });
       _toast(e.message, color: Colors.teal, duration: const Duration(seconds: 10));
     } catch (e) {
@@ -557,6 +750,28 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
 
       _showError('Conversion failed: $e');
     }
+    return false;
+  }
+
+  void _scrollToBottomOnStart() {
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      if (!mounted || !_scrollController.hasClients) return;
+      _scrollController.animateTo(
+        _scrollController.position.maxScrollExtent,
+        duration: const Duration(milliseconds: 500),
+        curve: Curves.easeOutCubic,
+      );
+    });
+  }
+
+  void _pinToBottomIfProcessing() {
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      if (!mounted || !_scrollController.hasClients) return;
+      final pos = _scrollController.position;
+      if (pos.maxScrollExtent - pos.pixels < 400) {
+        _scrollController.jumpTo(pos.maxScrollExtent);
+      }
+    });
   }
 
   void _showError(String message) {
@@ -727,7 +942,8 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
       _frontColumn != null &&
       _backColumn != null &&
       _audioColumn != null &&
-      !_isProcessing;
+      !_isProcessing &&
+      !_chainRunning;
 
   Future<Uint8List> _loadTranslationsZip() async {
     final data = await rootBundle.load('assets/quranversebyverse/versebyversequran.zip');
@@ -1361,7 +1577,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                 child: const Text('Unzip 85 Quran Translations'),
               ),
               Tooltip(
-                message: 'Two English translations so Split vtt cues works, may delete afterwards',
+                message: 'One English translation so Split vtt cues works, may delete afterwards',
                 waitDuration: const Duration(milliseconds: 400),
                 preferBelow: false,
                 child: ElevatedButton(
@@ -1831,7 +2047,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
             runSpacing: 8,
             children: [
               ElevatedButton(
-                onPressed: _isProcessing ? null : _selectApkgFile,
+                onPressed: (_isProcessing || _chainRunning) ? null : _selectApkgFile,
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Colors.cyan.shade900,
                   foregroundColor: Colors.white,
@@ -1847,7 +2063,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                 child: const Text('Select root folder'),
               ),
               ElevatedButton(
-                onPressed: _isProcessing ? null : _selectCsvFile,
+                onPressed: (_isProcessing || _chainRunning) ? null : _selectCsvFile,
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Colors.cyan.shade900,
                   foregroundColor: Colors.white,
@@ -2349,224 +2565,280 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   }
 
   Widget _buildConfigurationSection() {
-      return Container(
-        padding: const EdgeInsets.all(20),
-        decoration: BoxDecoration(
-          color: const Color(0xFF2A2A2A),
-          borderRadius: BorderRadius.circular(12),
-          border: Border.all(color: Colors.white12),
-        ),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Row(
-              children: [
-                const Icon(Icons.settings, color: Colors.deepPurple, size: 20),
-                const SizedBox(width: 8),
-                const Text(
-                  'Audiobook Configuration - Quran Arabic / Quran English / Quran quranenc Language',
-                  style: TextStyle(
-                    color: Colors.white,
-                    fontSize: 16,
-                    fontWeight: FontWeight.bold,
-                  ),
+    return Container(
+      padding: const EdgeInsets.all(20),
+      decoration: BoxDecoration(
+        color: const Color(0xFF2A2A2A),
+        borderRadius: BorderRadius.circular(12),
+        border: Border.all(color: Colors.white12),
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Row(
+            children: [
+              const Icon(Icons.settings, color: Colors.deepPurple, size: 20),
+              const SizedBox(width: 8),
+              const Text(
+                'Audiobook Configuration - Quran Arabic / Quran English / Quran quranenc Language',
+                style: TextStyle(
+                  color: Colors.white,
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
                 ),
-              ],
-            ),
-            const SizedBox(height: 6),
-            Row(
-              children: [
-                Expanded(
-                  child: Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      const Text(
-                        'Language (Artist & Album Artist)',
-                        style: TextStyle(color: Colors.white70, fontSize: 14),
-                      ),
-                      const SizedBox(height: 8),
-                      TextField(
-                        controller: _authorController,
-                        style: const TextStyle(color: Colors.white),
-                        decoration: const InputDecoration(
-                          filled: true,
-                          fillColor: Colors.black26,
-                          border: OutlineInputBorder(),
-                          hintText: 'e.g., Spanish, Japanese, Arabic',
-                          hintStyle: TextStyle(color: Colors.white38),
-                        ),
-                        onChanged: (value) => setState(() => _author = value),
-                      ),
-                    ],
-                  ),
-                ),
-                const SizedBox(width: 16),
-                Expanded(
-                  child: Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      const Text(
-                        'Title (Title & Album)',
-                        style: TextStyle(color: Colors.white70, fontSize: 14),
-                      ),
-                      const SizedBox(height: 8),
-                      TextField(
-                        controller: _titleController,
-                        style: const TextStyle(color: Colors.white),
-                        decoration: const InputDecoration(
-                          filled: true,
-                          fillColor: Colors.black26,
-                          border: OutlineInputBorder(),
-                          hintText: 'e.g., Core 1k Sentences',
-                          hintStyle: TextStyle(color: Colors.white38),
-                        ),
-                        onChanged: (value) => setState(() => _title = value),
-                      ),
-                    ],
-                  ),
-                ),
-              ],
-            ),
-            const SizedBox(height: 6),
-                      Row(
-                        children: [
-                          Expanded(
-                            child: Column(
-                              crossAxisAlignment: CrossAxisAlignment.start,
-                              children: [
-                                const Text('Audio Repetitions', style: TextStyle(color: Colors.white70, fontSize: 14)),
-                                const SizedBox(height: 8),
-                                DropdownButtonFormField<int>(
-                                   initialValue: _audioRepetitions,
-                                  decoration: const InputDecoration(filled: true, fillColor: Colors.black26, border: OutlineInputBorder()),
-                                  dropdownColor: const Color(0xFF1E1E1E),
-                                  style: const TextStyle(color: Colors.white),
-                                  items: const [
-                                    DropdownMenuItem(value: 1, child: Text('1 time: front 1x only')),
-                                    DropdownMenuItem(value: 2, child: Text('2 times: front 1x, back 1x')),
-                                    DropdownMenuItem(value: 3, child: Text('3 times: front 2x, back 1x')),
-                                    DropdownMenuItem(value: 4, child: Text('4 times: front 2x, back 2x')),
-                                    DropdownMenuItem(value: 5, child: Text('5 times: front 3x, back 2x')),
-                                    DropdownMenuItem(value: 6, child: Text('6 times: front 3x, back 3x')),
-                                  ],
-                                  onChanged: (value) => setState(() => _audioRepetitions = value!),
-                                ),
-                              ],
-                            ),
-                          ),
-                          const SizedBox(width: 16),
-                          Expanded(
-                            child: Column(
-                              crossAxisAlignment: CrossAxisAlignment.start,
-                              children: [
-                                const Text('Bitrate', style: TextStyle(color: Colors.white70, fontSize: 14)),
-                                const SizedBox(height: 8),
-                                DropdownButtonFormField<int>(
-                                  initialValue: _bitrate,
-                                  decoration: const InputDecoration(filled: true, fillColor: Colors.black26, border: OutlineInputBorder()),
-                                  dropdownColor: const Color(0xFF1E1E1E),
-                                  style: const TextStyle(color: Colors.white),
-                                  items: [12, 32].map((bitrate) {
-                                    return DropdownMenuItem(value: bitrate, child: Text('$bitrate kbps'));
-                                  }).toList(),
-                                  onChanged: (value) => setState(() => _bitrate = value!),
-                                ),
-                              ],
-                            ),
-                          ),
-                          const SizedBox(width: 16),
-                          Expanded(
-                            child: Column(
-                              crossAxisAlignment: CrossAxisAlignment.start,
-                              children: [
-                                const Text('Quick Preset', style: TextStyle(color: Colors.white70, fontSize: 14)),
-                                const SizedBox(height: 4),
-                                CheckboxListTile(
-                                  contentPadding: EdgeInsets.zero,
-                                  controlAffinity: ListTileControlAffinity.leading,
-                                  title: const Text(
-                                    'Quran Presets',
-                                    style: TextStyle(color: Colors.white, fontSize: 13),
-                                  ),
-                                  value: _quranPreset,
-                                  onChanged: _applyQuranPreset,
-                                  activeColor: Colors.deepPurple,
-                                ),
-                              ],
-                            ),
-                          ),
-                          const Expanded(child: SizedBox()),
-                          const Expanded(child: SizedBox()),
-                        ],
-                      ),
-                      const SizedBox(height: 8),
-                      Row(
-                        children: [
-                          Expanded(
-                            child: CheckboxListTile(
-                              title: const Text('Use filename as chapter name', style: TextStyle(color: Colors.white)),
-                              subtitle: const Text('e.g. chapter named 001004 instead of 0001 (CSV mode only)', style: TextStyle(color: Colors.white54, fontSize: 11)),
-                              value: _useFilenameAsChapterName,
-                              onChanged: (value) => setState(() => _useFilenameAsChapterName = value!),
-                              activeColor: Colors.deepPurple,
-                            ),
-                          ),
-                          Expanded(
-                            child: CheckboxListTile(
-                              title: const Text('Sample Mode (50 entries)', style: TextStyle(color: Colors.white)),
-                              subtitle: const Text('Uncheck to process entire deck', style: TextStyle(color: Colors.white54, fontSize: 11)),
-                              value: _sampleMode,
-                              onChanged: (value) => setState(() => _sampleMode = value!),
-                              activeColor: Colors.deepPurple,
-                            ),
-                          ),
-                          Expanded(
-                            child: CheckboxListTile(
-                              title: const Text('Prepend Sura/Aya to subtitles', style: TextStyle(color: Colors.white)),
-                              subtitle: const Text('Adds "1,0 " prefix to each subtitle line', style: TextStyle(color: Colors.white54, fontSize: 11)),
-                              value: _useSuraAyah,
-                              onChanged: (value) => setState(() => _useSuraAyah = value!),
-                              activeColor: Colors.deepPurple,
-                            ),
-                          ),
-                          Expanded(
-                            child: CheckboxListTile(
-                              title: const Text('Match media by range', style: TextStyle(color: Colors.white)),
-                              subtitle: const Text('e.g. 001-006 in CSV matches 001-006 _chapters dir', style: TextStyle(color: Colors.white54, fontSize: 11)),
-                              value: _matchByRange,
-                              onChanged: (value) => setState(() => _matchByRange = value!),
-                              activeColor: Colors.deepPurple,
-                            ),
-                          ),
-                        ],
-                      ),
-            if (_csvPath != null) ...[
-              const SizedBox(height: 6),
-              Container(
-                padding: const EdgeInsets.all(12),
-                decoration: BoxDecoration(
-                  color: Colors.blue.withValues(alpha: 0.1),
-                  borderRadius: BorderRadius.circular(8),
-                  border: Border.all(color: Colors.blue.withValues(alpha: 0.3)),
-                ),
-                child: Row(
+              ),
+            ],
+          ),
+          const SizedBox(height: 6),
+          Row(
+            children: [
+              Expanded(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    const Icon(Icons.table_chart, color: Colors.blue, size: 16),
-                    const SizedBox(width: 8),
-                    Expanded(
-                      child: Text(
-                        'CSV: $_csvPath',
-                        style: const TextStyle(color: Colors.white70, fontSize: 12),
+                    const Text(
+                      'Language (Artist & Album Artist)',
+                      style: TextStyle(color: Colors.white70, fontSize: 14),
+                    ),
+                    const SizedBox(height: 8),
+                    TextField(
+                      controller: _authorController,
+                      style: const TextStyle(color: Colors.white),
+                      decoration: const InputDecoration(
+                        filled: true,
+                        fillColor: Colors.black26,
+                        border: OutlineInputBorder(),
+                        hintText: 'e.g., Spanish, Japanese, Arabic',
+                        hintStyle: TextStyle(color: Colors.white38),
                       ),
+                      onChanged: (value) => setState(() => _author = value),
+                    ),
+                  ],
+                ),
+              ),
+              const SizedBox(width: 16),
+              Expanded(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    const Text(
+                      'Title (Title & Album)',
+                      style: TextStyle(color: Colors.white70, fontSize: 14),
+                    ),
+                    const SizedBox(height: 8),
+                    TextField(
+                      controller: _titleController,
+                      style: const TextStyle(color: Colors.white),
+                      decoration: const InputDecoration(
+                        filled: true,
+                        fillColor: Colors.black26,
+                        border: OutlineInputBorder(),
+                        hintText: 'e.g., Core 1k Sentences',
+                        hintStyle: TextStyle(color: Colors.white38),
+                      ),
+                      onChanged: (value) => setState(() => _title = value),
                     ),
                   ],
                 ),
               ),
             ],
+          ),
+          const SizedBox(height: 6),
+          Row(
+            children: [
+              Expanded(
+                flex: 2,
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    const Text('Audio Repetitions', style: TextStyle(color: Colors.white70, fontSize: 14)),
+                    const SizedBox(height: 8),
+                    DropdownButtonFormField<int>(
+                      initialValue: _audioRepetitions,
+                      decoration: const InputDecoration(filled: true, fillColor: Colors.black26, border: OutlineInputBorder()),
+                      dropdownColor: const Color(0xFF1E1E1E),
+                      style: const TextStyle(color: Colors.white),
+                      items: const [
+                        DropdownMenuItem(value: 1, child: Text('1 time: front 1x only')),
+                        DropdownMenuItem(value: 2, child: Text('2 times: front 1x, back 1x')),
+                        DropdownMenuItem(value: 3, child: Text('3 times: front 2x, back 1x')),
+                        DropdownMenuItem(value: 4, child: Text('4 times: front 2x, back 2x')),
+                        DropdownMenuItem(value: 5, child: Text('5 times: front 3x, back 2x')),
+                        DropdownMenuItem(value: 6, child: Text('6 times: front 3x, back 3x')),
+                      ],
+                      onChanged: (value) => setState(() => _audioRepetitions = value!),
+                    ),
+                  ],
+                ),
+              ),
+              const SizedBox(width: 16),
+              Expanded(
+                flex: 1,
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    const Text('Bitrate', style: TextStyle(color: Colors.white70, fontSize: 14)),
+                    const SizedBox(height: 8),
+                    DropdownButtonFormField<int>(
+                      initialValue: _bitrate,
+                      decoration: const InputDecoration(filled: true, fillColor: Colors.black26, border: OutlineInputBorder()),
+                      dropdownColor: const Color(0xFF1E1E1E),
+                      style: const TextStyle(color: Colors.white),
+                      items: [12, 32].map((bitrate) {
+                        return DropdownMenuItem(value: bitrate, child: Text('$bitrate kbps'));
+                      }).toList(),
+                      onChanged: (value) => setState(() => _bitrate = value!),
+                    ),
+                  ],
+                ),
+              ),
+              const SizedBox(width: 16),
+              Expanded(
+                flex: 3,
+                child: Row(
+                  crossAxisAlignment: CrossAxisAlignment.end,
+                  children: [
+                    // Quran Presets (Always visible)
+                    SizedBox(
+                      width: 150,
+                      height: 56,
+                      child: CheckboxListTile(
+                        contentPadding: EdgeInsets.zero,
+                        controlAffinity: ListTileControlAffinity.leading,
+                        title: const Text(
+                          'Quran Presets',
+                          style: TextStyle(color: Colors.white, fontSize: 13),
+                          maxLines: 1,
+                          overflow: TextOverflow.visible,
+                        ),
+                        value: _quranPreset,
+                        onChanged: _applyQuranPreset,
+                        activeColor: Colors.deepPurple,
+                      ),
+                    ),
+                    // Auto-create & Cool-down (Only visible when Quran Presets is checked)
+                    if (_quranPreset) ...[
+                      const SizedBox(width: 8),
+                      SizedBox(
+                        width: 160,
+                        height: 56,
+                        child: Tooltip(
+                          message: 'After this range finishes, pause, then load and create the next quran_saheehXXX-XXX.csv through 070-114.\n'
+                                   'All verse audio is checked first (needs Sample Mode off).',
+                          waitDuration: const Duration(milliseconds: 400),
+                          child: CheckboxListTile(
+                            contentPadding: EdgeInsets.zero,
+                            controlAffinity: ListTileControlAffinity.leading,
+                            title: const Text(
+                              'Auto-Create',
+                              style: TextStyle(color: Colors.white, fontSize: 13),
+                              maxLines: 1,
+                              overflow: TextOverflow.visible,
+                            ),
+                            value: _autoChain,
+                            onChanged: _chainRunning ? null : (v) => setState(() => _autoChain = v!),
+                            activeColor: Colors.deepPurple,
+                          ),
+                        ),
+                      ),
+                      const SizedBox(width: 8),
+                      Tooltip(
+                        message: 'Seconds to wait before starting the next Quran range to lower CPU temperature',
+                        waitDuration: const Duration(milliseconds: 400),
+                        child: SizedBox(
+                          width: 100, // Narrow width for up to 3 digits
+                          height: 56,
+                          child: TextField(
+                            controller: _chainPauseController,
+                            enabled: !_chainRunning && _autoChain,
+                            keyboardType: TextInputType.number,
+                            inputFormatters: [FilteringTextInputFormatter.digitsOnly],
+                            style: const TextStyle(color: Colors.white, fontSize: 13),
+                            decoration: const InputDecoration(
+                              filled: true,
+                              fillColor: Colors.black26,
+                              border: OutlineInputBorder(),
+                              labelText: 'Cool-down',
+                              labelStyle: TextStyle(color: Colors.white70, fontSize: 13),
+                              contentPadding: EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                            ),
+                          ),
+                        ),
+                      ),
+                    ],
+                  ],
+                ),
+              ),
+            ],
+          ),
+          const SizedBox(height: 8),
+          Row(
+            children: [
+              Expanded(
+                child: CheckboxListTile(
+                  title: const Text('Use filename as chapter name', style: TextStyle(color: Colors.white)),
+                  subtitle: const Text('e.g. chapter named 001004 instead of 0001 (CSV mode only)', style: TextStyle(color: Colors.white54, fontSize: 11)),
+                  value: _useFilenameAsChapterName,
+                  onChanged: (value) => setState(() => _useFilenameAsChapterName = value!),
+                  activeColor: Colors.deepPurple,
+                ),
+              ),
+              Expanded(
+                child: CheckboxListTile(
+                  title: const Text('Sample Mode (50 entries)', style: TextStyle(color: Colors.white)),
+                  subtitle: const Text('Uncheck to process entire deck', style: TextStyle(color: Colors.white54, fontSize: 11)),
+                  value: _sampleMode,
+                  onChanged: (value) => setState(() => _sampleMode = value!),
+                  activeColor: Colors.deepPurple,
+                ),
+              ),
+              Expanded(
+                child: CheckboxListTile(
+                  title: const Text('Prepend Sura/Aya to subtitles', style: TextStyle(color: Colors.white)),
+                  subtitle: const Text('Adds "1,0 " prefix to each subtitle line', style: TextStyle(color: Colors.white54, fontSize: 11)),
+                  value: _useSuraAyah,
+                  onChanged: (value) => setState(() => _useSuraAyah = value!),
+                  activeColor: Colors.deepPurple,
+                ),
+              ),
+              Expanded(
+                child: CheckboxListTile(
+                  title: const Text('Match media by range', style: TextStyle(color: Colors.white)),
+                  subtitle: const Text('e.g. 001-006 in CSV matches 001-006 _chapters dir', style: TextStyle(color: Colors.white54, fontSize: 11)),
+                  value: _matchByRange,
+                  onChanged: (value) => setState(() => _matchByRange = value!),
+                  activeColor: Colors.deepPurple,
+                ),
+              ),
+            ],
+          ),
+          if (_csvPath != null) ...[
+            const SizedBox(height: 6),
+            Container(
+              padding: const EdgeInsets.all(12),
+              decoration: BoxDecoration(
+                color: Colors.blue.withValues(alpha: 0.1),
+                borderRadius: BorderRadius.circular(8),
+                border: Border.all(color: Colors.blue.withValues(alpha: 0.3)),
+              ),
+              child: Row(
+                children: [
+                  const Icon(Icons.table_chart, color: Colors.blue, size: 16),
+                  const SizedBox(width: 8),
+                  Expanded(
+                    child: Text(
+                      'CSV: $_csvPath',
+                      style: const TextStyle(color: Colors.white70, fontSize: 12),
+                    ),
+                  ),
+                ],
+              ),
+            ),
           ],
-        ),
-      );
-    }
+        ],
+      ),
+    );
+  }
 
   Widget _buildProcessingProgress() {
     String elapsedTime = '';
@@ -2645,8 +2917,52 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   Widget _buildConversionControls() {
     final canConvert = _canConvert;
 
+    final chainMsg = _chainSecondsLeft > 0
+        ? 'Cooling down: $_chainNextRange starts in ${_chainSecondsLeft}s'
+        : _isProcessing
+            ? 'Auto-create is on: the remaining Quran ranges follow automatically'
+            : _processingStatus;
+
     return Column(
       children: [
+        if (_chainRunning) ...[
+          Container(
+            padding: const EdgeInsets.all(12),
+            decoration: BoxDecoration(
+              color: Colors.deepPurple.withValues(alpha: 0.15),
+              borderRadius: BorderRadius.circular(8),
+              border: Border.all(color: Colors.deepPurple),
+            ),
+            child: Row(
+              children: [
+                const Icon(Icons.autorenew, color: Colors.deepPurpleAccent, size: 20),
+                const SizedBox(width: 8),
+                Expanded(
+                  child: Text(chainMsg,
+                      style: const TextStyle(color: Colors.white, fontSize: 14)),
+                ),
+                if (_chainSecondsLeft > 0) ...[
+                  ElevatedButton(
+                    onPressed: () => setState(() => _chainSkipWait = true),
+                    child: const Text('Start now'),
+                  ),
+                  const SizedBox(width: 8),
+                ],
+                ElevatedButton(
+                  onPressed: () => setState(() => _chainStopRequested = true),
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: Colors.red.shade900,
+                    foregroundColor: Colors.white,
+                  ),
+                  child: Text(_chainStopRequested
+                      ? 'Stopping...'
+                      : (_chainSecondsLeft > 0 ? 'Stop chain' : 'Stop after this one')),
+                ),
+              ],
+            ),
+          ),
+          const SizedBox(height: 8),
+        ],
         Row(
           children: [
             ElevatedButton.icon(
@@ -2673,7 +2989,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                 onPressed: canConvert ? _startConversion : null,
                 icon: const Icon(Icons.play_arrow, size: 24),
                 label: const Text(
-                  'Create Audiobook (ENTER)',
+                  'Create Audiobook (press ENTER)',
                   style: TextStyle(fontSize: 16),
                 ),
                 style: ElevatedButton.styleFrom(
@@ -2689,6 +3005,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
               ElevatedButton.icon(
                 onPressed: () {
                   setState(() {
+                    _chainStopRequested = true;
                     _isProcessing = false;
                     _processingStatus = 'Cancelled';
                   });

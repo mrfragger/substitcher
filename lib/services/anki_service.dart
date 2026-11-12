@@ -811,6 +811,61 @@ class AnkiService {
       onProgress('Complete!', 1.0);
     }
 
+    /// Scans [csvPath]'s audio column and returns the basenames of audio files
+    /// that don't exist in the media dir. Mirrors the missing-audio detection in
+    /// [createAudiobook] so the preflight check matches the real run.
+    Future<List<String>> missingAudio({
+      required String csvPath,
+      required int audioColumn,
+      bool matchByRange = false,
+    }) async {
+      final resolvedMediaDir = _findMediaDir(csvPath, matchByRange: matchByRange);
+
+      final csvFile = File(csvPath);
+      final csvBytes = await csvFile.readAsBytes();
+      String csvContent;
+      try {
+        csvContent = utf8.decode(csvBytes);
+      } catch (_) {
+        csvContent = latin1.decode(csvBytes);
+      }
+
+      final csvData = Csv().decode(csvContent);
+      if (csvData.isEmpty) return [];
+
+      final missing = <String>[];
+      for (int i = 1; i < csvData.length; i++) {
+        final row = csvData[i];
+        if (audioColumn >= row.length) continue;
+
+        final audioList = row[audioColumn].toString().trim();
+        if (audioList.isEmpty) continue;
+
+        final audioFiles = audioList
+            .split(';')
+            .map((s) => s.trim())
+            .where((s) => s.isNotEmpty);
+
+        for (final audioFile in audioFiles) {
+          final audioPath = _resolveAudioPath(resolvedMediaDir, audioFile);
+          if (!await File(audioPath).exists()) {
+            missing.add(path.basename(audioPath));
+          }
+        }
+      }
+
+      // Filter out optional Bismillah (000) files, except for 001 (Surah Al-Fatiha)
+      final isFirstAyah = RegExp(r'^001_?001$');
+      final isAyahZero = RegExp(r'^\d{3}_?000$');
+
+      final filtered = missing.where((f) {
+        final n = path.basenameWithoutExtension(f);
+        return !isAyahZero.hasMatch(n) || isFirstAyah.hasMatch(n);
+      }).toSet().toList()..sort();
+
+      return filtered;
+    }
+
     Future<void> _deleteDirectoryWithRetry(
       Directory dir, {
       int maxAttempts = 5,
