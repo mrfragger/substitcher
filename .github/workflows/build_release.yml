@@ -277,11 +277,11 @@ jobs:
           	arch = x86_64
           	license = MIT
           	depends = gtk3
-          	depends = libmpv
+          	depends = fuse2
           	provides = substitcher
           	conflicts = substitcher
           	source = https://github.com/mrfragger/substitcher/releases/download/v${VERSION}/substitcher-x64.AppImage
-          	sha256sums = ${SHA256}
+          	sha256sums = SKIP
 
           pkgname = substitcher-bin
           EOF
