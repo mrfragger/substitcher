@@ -255,6 +255,10 @@ class _QuranPanelState extends State<QuranPanel> {
   Map<String, Set<int>> _reciterJuz = {};
   static const String _lastReciterKey = 'reciter_last_clicked';
   String? _lastReciter;
+  static const String _trackedReciterKey = 'reciter_tracked_list';
+  List<String> _trackedReciters = [];
+  final TextEditingController _reciterPickerController =
+      TextEditingController();
 
   static const Map<String, String> _scriptRanges = {
     'latin': r'a-zA-ZÀ-ÿçÇğĞıİöÖşŞüÜɔɛƆƐɣŋʒƔŊƷɩƖʋƲ',
@@ -383,6 +387,7 @@ class _QuranPanelState extends State<QuranPanel> {
     _tafsirSearchScrollController.dispose();
     _rangeRepeatCountController.dispose();
     _rangeRepeatCountFocusNode.dispose();
+    _reciterPickerController.dispose();
     super.dispose();
   }
 
@@ -594,41 +599,61 @@ class _QuranPanelState extends State<QuranPanel> {
     };
   }
 
-  //83 recitations 20261104
+  // Master list of available recitations (143 as of 20261113).
   static const List<String> _reciters = [
     '[sahih english] Ibrahim Walk',
     'Abdul Hamid Ghraio',
+    'Abdulaziz Al-Turki',
+    'Abdulaziz Az-Zahrani',
+    'Abdulbadi Ghailan',
+    'Abdulbari Mohammed',
     'Abdulbasit Abdulsamad [mujawwad]',
     'Abdulbasit Abdulsamad',
+    'Abdulhadi Kanakeri',
+    'Abdulkareem Al-Hazmi',
+    'Abdullah Abdal',
     'Abdullah Al-Buaijan',
+    'Abdullah Al-Kandari',
+    'Abdullah Al-Khalaf',
+    'Abdullah Al-Mousa',
     'Abdullah Ali Jabir',
     'Abdullah Awad Al-Juhani',
     'Abdullah Basfar',
+    'Abdullah Ghailan',
     'Abdullah Kamel',
+    'Abdulmohsin Al-Harthy',
     'Abdulmohsin Al-Qasim',
+    'Abdulrahman Al-Majed',
+    'Abdulrahman Al-Oosi',
     'Abdulrahman Al-Sudais',
+    'Abdulrahman bin Abdul Razzaq Al-Badr',
     'Abdulwadood Haneef',
+    'Abdulwali Al-Arkani',
     'Abdur Rashid Sufi',
     'Abu Bakr Al-Shatri',
     'Adel Al-Kalbani',
     'Adel Al-Karbalaei',
     'Ahed Zaino',
-    'Ahmad Al-Ajmi',
-    'Ahmad Al-Nufais',
     'Ahmad Naseem Ali Ahmad',
     'Ahmed Abdurahman Darar',
+    'Ahmed Al-Ajmi',
+    'Ahmed Al-Hawashi',
+    'Ahmed Al-Nufais',
     'Ahmed Al-Suwailem',
     'Ahmed Amer',
     'Ahmed Galal Al-Shalabi',
     'Ahmed Issa Al-Maasaraawi',
     'Ahmed Kaseb',
+    'Ahmed Khader Al-Trabulsi',
     'Ahmed Khalil Shaheen',
     'Ahmed Nuayna',
+    'Ahmed Saber',
     'Akram Al-Alaqmi',
     'Alaa Aqel',
     'Ali al Huthaifi',
     'Ali Hajjaj Al-Souasi',
     'Alijon Qari',
+    'Alzain Mohammed Ahmed',
     'Anas Al-Emadi',
     'Anas Al-Miman',
     'Ayman Suwayd',
@@ -636,55 +661,96 @@ class _QuranPanelState extends State<QuranPanel> {
     'Badr al Turki',
     'Bandar Baleela',
     'Bilal Ataki',
+    'Faisal Al-Hajry',
     'Fares Abbad',
     'Fatih Seferagic',
+    'Fouad Al-Khamri',
     'Ghassan Al-Shorbagi',
     'Hady Toure',
     'Haitham al Dukhain',
     'Hani Al-Rifai',
+    'Hassan Al-Daghriri',
     'Hatem Fareed Al-Waer',
     'Ibrahim al Akhdar',
+    'Ibrahim Al-Dosari',
+    'Ibrahim Al-Jarmy',
     'Idrees Abkar',
     'Imad Zuhair Hafez',
+    'Issa Omar Sanankoua',
+    'Jamaan Al-Osaimi',
+    'Jamal Shaker Abdullah',
     'Khalefa Al-Tunaiji',
+    'Khalid Abdulkafi',
     'Khalid al Mohana',
     'Khalid Al-Qahtani',
+    'Khalid Mohammadi',
     'Maher al Muaiqly [mujawwad]',
-    'Maher Al-Muaiqly',
+    'Maher al Muaiqly',
+    'Maher Shakhashero',
     'Mahmoud Abdul Hakam',
+    'Mahmoud Al-Rifai',
     'Mahmoud Ali Al-Banna',
     'Mahmoud Khalil Al-Husary [muallim]',
     'Mahmoud Khalil Al-Husary',
     'Majed Al-Zamil',
+    'Malallah Abdulrahman Al-Jaber',
+    'Mansour Al-Salemi',
     'Mishary Rashid Al-Afasy',
+    'Moeedh Al-Harthi',
     'Mohammed Abdulkareem',
+    'Mohammed Al-Bukheet',
     'Mohammed Al-Ghazali',
     'Mohammed Al-Luhaidan',
+    'Mohammed Al-Zubaidi',
     'Mohammed Burhaji',
+    'Mohammed Jibreel',
+    'Mohammed Othman Khan',
+    'Mohammed Rashad Al-Sharif',
+    'Mohammed Saleh Alim Shah',
     'Mohammed Siddiq Al-Minshawi [mujawwad]',
     'Mohammed Siddiq Al-Minshawi',
+    'Mousa Bilal',
+    'Muftah Al-Sultani',
     'Muhammad Ayyub',
     'Mukhtar Al-Haj',
     'Mustafa Ismail',
+    'Mustafa Raad Al-Azzawi',
     'Nabil Al-Rifai',
     'Nasser al Qatami',
+    'Nasser Al-Osfor',
+    'Nathier Al-Malki',
     'Peshawa Qadir Al-Kurdi',
     'Raad Al-Kurdi',
+    'Rami Al-Deais',
     'Saad Al-Ghamdi',
     'Saber Abdulhakam',
+    'Saeed Ramadan',
     'Sahl Yassin',
     'Salah Al-Budair',
+    'Salah Al-Hashim',
+    'Salah Bukhatir',
+    'Saleh Al-Habdan',
+    'Saleh Al-Quraishi',
+    'Saleh Al-Sahood ',
+    'Salman Al-Sadeiq',
     'Saud Al-Shuraim',
+    'Sayed Ahmed Hashemi',
+    'Shirazad Taher',
     'Tawfiq As-Sayegh',
     'Wadie Al-Yamani',
     'Walid Atef',
+    'Yahya Hawwa',
     'Yasser Al-Dosari',
+    'Yasser Al-Qurashi',
+    'Yasser Salamah',
+    'Yusuf Alshoaey',
   ];
 
   Future<void> _loadReciterProgress() async {
     final prefs = await SharedPreferences.getInstance();
     final raw = prefs.getString(_reciterProgressKey);
     final last = prefs.getString(_lastReciterKey);
+    final savedTracked = prefs.getStringList(_trackedReciterKey);
     Map<String, Set<int>>? map;
     if (raw != null) {
       try {
@@ -701,8 +767,36 @@ class _QuranPanelState extends State<QuranPanel> {
       setState(() {
         if (map != null) _reciterJuz = map;
         _lastReciter = last;
+        if (savedTracked != null) {
+          _trackedReciters = savedTracked;
+        } else {
+          _trackedReciters = _reciters
+              .where((r) => (_reciterJuz[r]?.isNotEmpty ?? false))
+              .toList();
+        }
       });
     }
+  }
+
+  Future<void> _saveTrackedReciters() async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setStringList(_trackedReciterKey, _trackedReciters);
+  }
+
+  void _trackReciter(String reciter) {
+    if (_trackedReciters.contains(reciter)) return;
+    setState(() {
+      _trackedReciters.insert(0, reciter);
+      _lastReciter = reciter;
+    });
+    _saveTrackedReciters();
+    SharedPreferences.getInstance()
+        .then((prefs) => prefs.setString(_lastReciterKey, reciter));
+  }
+
+  void _untrackReciter(String reciter) {
+    setState(() => _trackedReciters.remove(reciter));
+    _saveTrackedReciters();
   }
 
   Future<void> _saveReciterProgress() async {
@@ -2616,7 +2710,7 @@ class _QuranPanelState extends State<QuranPanel> {
                                 fontWeight: FontWeight.w600)),
                         const SizedBox(width: 10),
                         Text(
-                          '${_reciters.where(_isReciterComplete).length}/${_reciters.length} complete',
+                          '${_trackedReciters.where(_isReciterComplete).length}/${_trackedReciters.length} complete',
                           style: const TextStyle(
                               color: Colors.yellow, fontSize: 12),
                         ),
@@ -2632,8 +2726,22 @@ class _QuranPanelState extends State<QuranPanel> {
                     ),
                   ),
                   const Divider(color: Colors.white12, height: 1),
+                  _buildReciterPicker(setDialogState),
+                  const Divider(color: Colors.white12, height: 1),
                   Expanded(
-                    child: LayoutBuilder(
+                    child: _trackedReciters.isEmpty
+                        ? const Center(
+                            child: Padding(
+                              padding: EdgeInsets.all(24),
+                              child: Text(
+                                'No reciters tracked yet.\nUse the dropdown above to add one.',
+                                textAlign: TextAlign.center,
+                                style: TextStyle(
+                                    color: Colors.white38, fontSize: 13),
+                              ),
+                            ),
+                          )
+                        : LayoutBuilder(
                       builder: (context, constraints) {
                         const cardWidth = 292.0;
                         const spacing = 10.0;
@@ -2643,10 +2751,11 @@ class _QuranPanelState extends State<QuranPanel> {
                             1,
                             ((available + spacing) / (cardWidth + spacing))
                                 .floor());
-                        final rowCount = (_reciters.length / perRow).ceil();
+                        final rowCount =
+                            (_trackedReciters.length / perRow).ceil();
                         final lastIdx = _lastReciter == null
                             ? -1
-                            : _reciters.indexOf(_lastReciter!);
+                            : _trackedReciters.indexOf(_lastReciter!);
                         final initialRow = lastIdx == -1 ? 0 : lastIdx ~/ perRow;
 
                         return ScrollablePositionedList.builder(
@@ -2658,15 +2767,15 @@ class _QuranPanelState extends State<QuranPanel> {
                           itemCount: rowCount,
                           itemBuilder: (_, row) {
                             final start = row * perRow;
-                            final end =
-                                math.min(start + perRow, _reciters.length);
+                            final end = math.min(
+                                start + perRow, _trackedReciters.length);
                             return Padding(
                               padding: const EdgeInsets.only(bottom: spacing),
                               child: Row(
                                 crossAxisAlignment: CrossAxisAlignment.start,
                                 children: [
                                   for (final reciter
-                                      in _reciters.sublist(start, end))
+                                      in _trackedReciters.sublist(start, end))
                                     Padding(
                                       padding:
                                           const EdgeInsets.only(right: spacing),
@@ -2692,6 +2801,85 @@ class _QuranPanelState extends State<QuranPanel> {
 
   bool _isReciterComplete(String reciter) =>
       (_reciterJuz[reciter]?.length ?? 0) == 30;
+
+  Widget _buildReciterPicker(StateSetter setDialogState) {
+    final available =
+        _reciters.where((r) => !_trackedReciters.contains(r)).toList();
+    return Padding(
+      padding: const EdgeInsets.fromLTRB(16, 8, 16, 8),
+      child: Row(
+        children: [
+          Expanded(
+            child: LayoutBuilder(
+              builder: (context, constraints) => DropdownMenu<String>(
+                key: ValueKey(_trackedReciters.length),
+                controller: _reciterPickerController,
+                width: constraints.maxWidth,
+                menuHeight: 320,
+                enableFilter: true,
+                requestFocusOnTap: true,
+                leadingIcon:
+                    const Icon(Icons.search, color: Colors.white54, size: 18),
+                hintText: available.isEmpty
+                    ? 'All reciters are tracked'
+                    : 'Add a reciter to track (${available.length} available)…',
+                enabled: available.isNotEmpty,
+                textStyle: const TextStyle(color: Colors.white, fontSize: 13),
+                inputDecorationTheme: InputDecorationTheme(
+                  isDense: true,
+                  filled: true,
+                  fillColor: Colors.black26,
+                  hintStyle:
+                      const TextStyle(color: Colors.white38, fontSize: 13),
+                  contentPadding:
+                      const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                  border: OutlineInputBorder(
+                    borderRadius: BorderRadius.circular(6),
+                    borderSide: BorderSide(color: Colors.teal.withAlpha(120)),
+                  ),
+                  enabledBorder: OutlineInputBorder(
+                    borderRadius: BorderRadius.circular(6),
+                    borderSide: BorderSide(color: Colors.teal.withAlpha(120)),
+                  ),
+                  focusedBorder: OutlineInputBorder(
+                    borderRadius: BorderRadius.circular(6),
+                    borderSide: const BorderSide(color: Colors.teal),
+                  ),
+                ),
+                menuStyle: const MenuStyle(
+                  backgroundColor: WidgetStatePropertyAll(Color(0xFF2A2A2A)),
+                ),
+                dropdownMenuEntries: [
+                  for (final r in available)
+                    DropdownMenuEntry<String>(
+                      value: r,
+                      label: r.trim(),
+                      style: const ButtonStyle(
+                        foregroundColor: WidgetStatePropertyAll(Colors.white),
+                      ),
+                      trailingIcon: (_reciterJuz[r]?.isNotEmpty ?? false)
+                          ? Tooltip(
+                              message:
+                                  'Saved progress: ${_reciterJuz[r]!.length}/30',
+                              child: const Icon(Icons.history,
+                                  size: 16, color: Colors.tealAccent),
+                            )
+                          : null,
+                    ),
+                ],
+                onSelected: (value) {
+                  if (value == null) return;
+                  _trackReciter(value);
+                  _reciterPickerController.clear();
+                  setDialogState(() {});
+                },
+              ),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
 
   Widget _buildReciterCard(String reciter, StateSetter setDialogState) {
     final done = _reciterJuz[reciter] ?? const <int>{};
@@ -2744,6 +2932,20 @@ class _QuranPanelState extends State<QuranPanel> {
                   ),
                 ),
               ],
+              const SizedBox(width: 6),
+              Tooltip(
+                message: done.isEmpty
+                    ? 'Stop tracking'
+                    : 'Stop tracking (progress is kept)',
+                child: GestureDetector(
+                  onTap: () {
+                    _untrackReciter(reciter);
+                    setDialogState(() {});
+                  },
+                  child: const Icon(Icons.close,
+                      size: 14, color: Colors.white38),
+                ),
+              ),
             ],
           ),
           const SizedBox(height: 6),
