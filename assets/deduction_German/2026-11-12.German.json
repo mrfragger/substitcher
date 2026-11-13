@@ -1,0 +1,61 @@
+{
+  "title": "Der erste Vertrauensbruch im Paradies",
+  "intro": "Stell dir vor, du stehst in einem Garten vollkommenen Friedens, erhaben über die gesamte Schöpfung, mit nur einer Grenze, die es zu achten gilt. Ein Flüstern verheißt Ewigkeit, eine einzige Entscheidung verändert alles, und doch öffnet die Gnade einen Weg zurück. Wer spricht seit Anbeginn der Menschheit?",
+  "clues": [
+    "Ich wurde von Allah aus Lehm erschaffen und mit göttlicher Sorgfalt geformt.",
+    "Ich fühlte mich geehrt, als Allah den Engeln befahl, sich vor mir niederzuwerfen.",
+    "Ich wohnte im Paradies mit meinem Ehepartner und konnte alles genießen, außer einem einzigen Baum.",
+    "Ich wurde vom Flüstern Satans getäuscht, der schwor, ein aufrichtiger Ratgeber zu sein.",
+    "Ich aß vom verbotenen Baum und mir wurde beschämt die Decke abgenommen.",
+    "Ich lernte Worte der Reue von meinem Herrn, und Allah wandte sich mir in Barmherzigkeit zu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Jalut (Goliath)",
+        "Dhul-Kifl",
+        "Namrud",
+        "Prophet Adam",
+        "Prophet Yahya"
+      ],
+      "answer": "Prophet Adam"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Aus Angst weigerten sie sich, das Heilige Land zu betreten.",
+        "Er forderte, dass das Feuer als Gott verehrt werde.",
+        "Er tötete seinen Bruder aus Neid wegen eines Opfers.",
+        "Er aß vom verbotenen Baum, nachdem Satan ihm ins Ohr geflüstert hatte.",
+        "Er argumentierte, dass Ahnenidole verehrt werden müssten."
+      ],
+      "answer": "Er aß vom verbotenen Baum, nachdem Satan ihm ins Ohr geflüstert hatte."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Der Nil",
+        "Die Arche",
+        "Das Heilige Tal von Tuwa",
+        "Paradies (Jannah)",
+        "Die Höhle von Hira"
+      ],
+      "answer": "Paradies (Jannah)"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Ich bin in der großen Sintflut mit den Ungläubigen ertrunken.",
+        "Allah lehrte mich Worte der Reue und vergab mir.",
+        "Ich wurde vom Blitz getroffen, weil ich verlangte, Allah zu sehen.",
+        "Ich wurde von einem riesigen Fisch verschluckt, weil ich im Zorn gegangen war.",
+        "Ich wurde zusammen mit meinem Volk wegen des Bruchs des Sabbats verwandelt."
+      ],
+      "answer": "Allah lehrte mich Worte der Reue und vergab mir."
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

@@ -88,6 +88,9 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen>
   // Auto-create the remaining Quran ranges after the first one.
   bool _autoChain = true;
   bool _chainRunning = false;
+  Duration _chainEncoding = Duration.zero;
+  Duration _chainCooldown = Duration.zero;
+  String? _chainSummary;
   bool _chainStopRequested = false;
   bool _chainSkipWait = false;
   bool _firstAyahCopied = false;
@@ -122,19 +125,11 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen>
     _quranService = QuranPipelineService(tokenizers: _tokenizers, log: _quranLogAdd);
     _loadSavedRoot();
     _loadLastQuranColumns();
-    HardwareKeyboard.instance.addHandler(_onGlobalKey);
-
-    _scrollController.addListener(() {
-      if (_scrollController.hasClients) {
-        _savedScrollOffset = _scrollController.offset;
-      }
-    });
   }
 
   @override
   void dispose() {
     WidgetsBinding.instance.removeObserver(this);
-    HardwareKeyboard.instance.removeHandler(_onGlobalKey);
     _scrollController.dispose();
     _csvScrollController.dispose();
     _titleController.dispose();
@@ -147,26 +142,24 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen>
   }
 
   @override
-    void didChangeAppLifecycleState(AppLifecycleState state) {
-      if (state == AppLifecycleState.resumed) {
-        // If the chain is still running (or processing), keep the user at the bottom.
-        if (_chainRunning || _isProcessing) {
-          WidgetsBinding.instance.addPostFrameCallback((_) {
-            if (!mounted || !_scrollController.hasClients) return;
-            _scrollController.jumpTo(_scrollController.position.maxScrollExtent);
-          });
-        } else {
-          // Otherwise restore the last known position.
-          WidgetsBinding.instance.addPostFrameCallback((_) {
-            if (!mounted || !_scrollController.hasClients) return;
-            final max = _scrollController.position.maxScrollExtent;
-            _scrollController.jumpTo(
-              _savedScrollOffset.clamp(0.0, max),
-            );
-          });
-        }
+  void didChangeAppLifecycleState(AppLifecycleState state) {
+    if (state != AppLifecycleState.resumed) {
+      // Leaving: remember where we were and drop focus, so focus restoration
+      // can't scroll a text field at the top into view when we return.
+      if (_scrollController.hasClients) {
+        _savedScrollOffset = _scrollController.offset;
       }
+      FocusManager.instance.primaryFocus?.unfocus();
+      return;
     }
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      if (!mounted || !_scrollController.hasClients) return;
+      final max = _scrollController.position.maxScrollExtent;
+      _scrollController.jumpTo(
+        (_chainRunning || _isProcessing) ? max : _savedScrollOffset.clamp(0.0, max),
+      );
+    });
+  }
 
   Future<void> _selectCsvFile() async {
     final startDir = (_quranRoot != null && await Directory(_quranRoot!).exists())
@@ -394,24 +387,29 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen>
     }
   }
 
-  void _beep() {
-    try {
-      if (Platform.isMacOS) {
-        Process.run('afplay', ['/System/Library/Sounds/Glass.aiff']);
-      } else if (Platform.isWindows) {
-        Process.run('powershell', ['-c', '[console]::beep(800,300)']);
-      } else if (Platform.isLinux) {
-        Process.run('sh', [
-          '-c',
-          'paplay /usr/share/sounds/freedesktop/stereo/complete.oga '
-              '|| canberra-gtk-play -i complete '
-              '|| printf "\\a"'
-        ]);
-      } else {
+  Future<void> _beep([int times = 1]) async {
+    for (var i = 0; i < times; i++) {
+      try {
+        if (Platform.isMacOS) {
+          await Process.run('afplay', ['/System/Library/Sounds/Glass.aiff']);
+        } else if (Platform.isWindows) {
+          await Process.run('powershell', ['-c', '[console]::beep(800,300)']);
+        } else if (Platform.isLinux) {
+          await Process.run('sh', [
+            '-c',
+            'paplay /usr/share/sounds/freedesktop/stereo/complete.oga '
+                '|| canberra-gtk-play -i complete '
+                '|| printf "\\a"'
+          ]);
+        } else {
+          SystemSound.play(SystemSoundType.alert);
+        }
+      } catch (_) {
         SystemSound.play(SystemSoundType.alert);
       }
-    } catch (_) {
-      SystemSound.play(SystemSoundType.alert);
+      if (i < times - 1) {
+        await Future<void>.delayed(const Duration(milliseconds: 250));
+      }
     }
   }
 
@@ -508,15 +506,20 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen>
 
   /// Cool-down between ranges. Returns false if the chain should stop.
   Future<bool> _chainWait(String next) async {
+    FocusManager.instance.primaryFocus?.unfocus();
     final secs = (int.tryParse(_chainPauseController.text.trim()) ?? 90).clamp(0, 3600);
     _chainSkipWait = false;
     if (mounted) setState(() => _chainNextRange = next);
+    _scrollToBottomOnStart();
+    final sw = Stopwatch()..start();
     for (var s = secs; s > 0; s--) {
       if (!mounted || _chainStopRequested || _chainSkipWait) break;
       setState(() => _chainSecondsLeft = s);
       _pinToBottomIfProcessing();
       await Future<void>.delayed(const Duration(seconds: 1));
     }
+    sw.stop();
+    _chainCooldown += sw.elapsed;
     if (mounted) setState(() => _chainSecondsLeft = 0);
     return mounted && !_chainStopRequested;
   }
@@ -543,11 +546,8 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen>
   Future<void> _startConversion() async {
     if (_chainRunning || _isProcessing) return;
     final startRange = _rangeOfPath(_csvPath);
-    final chain = _autoChain &&
-        _useSuraAyah &&
-        _csvOnlyMode &&
-        startRange != null &&
-        _audioColumn != null;
+    FocusManager.instance.primaryFocus?.unfocus();
+    final chain = _autoChain && _useSuraAyah && startRange != null;
     if (!chain) {
       await _runConversion();
       return;
@@ -563,9 +563,13 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen>
       _chainSkipWait = false;
       _chainSecondsLeft = 0;
       _chainNextRange = null;
+      _chainEncoding = Duration.zero;
+      _chainCooldown = Duration.zero;
+      _chainSummary = null;
       _processingStatus = 'Checking verse audio for all remaining ranges...';
     });
 
+    final chainWatch = Stopwatch()..start();
     var allDone = false;
     try {
       final problems = await _preflightChain(startRange);
@@ -597,16 +601,25 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen>
         ok = await _runConversion();
       }
     } finally {
+      chainWatch.stop();
       if (mounted) {
         setState(() {
           _chainRunning = false;
           _chainSecondsLeft = 0;
           _chainNextRange = null;
+          if (allDone) {
+            _chainSummary = 'Elapsed Total Times: '
+                'Encoding ${_formatDuration(_chainEncoding)}, '
+                'Cool-down ${_formatDuration(_chainCooldown)}, '
+                'Overall ${_formatDuration(chainWatch.elapsed)}';
+          }
         });
         if (allDone) {
-          _beep();
-          _toast('All remaining Quran Verse by Verse audiobooks are complete',
-              duration: const Duration(seconds: 10));
+          _toast(
+            'All remaining Quran Verse by Verse audiobooks are complete\n$_chainSummary',
+            duration: const Duration(seconds: 30),
+          );
+          unawaited(_beep(6));
         }
       }
     }
@@ -614,15 +627,6 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen>
 
   Future<bool> _runConversion() async {
     _firstAyahCopied = false;
-    if ((_apkgFilePath == null && !_csvOnlyMode) || _outputDirectory == null) {
-      _showError('Please select an .apkg or (Quran) CSV file');
-      return false;
-    }
-
-    if (_frontColumn == null || _backColumn == null || _audioColumn == null) {
-      _showError('Please select Front, Back, and Audio columns');
-      return false;
-    }
 
     if (_useSuraAyah && (_suraColumn == null || _ayaColumn == null)) {
       _showError('Please select Sura and Aya columns');
@@ -665,13 +669,12 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen>
 
     setState(() {
       _isProcessing = true;
-      _scrollToBottomOnStart();
       _processingStatus = 'Starting conversion...';
       _processingProgress = 0.0;
       _processingStartTime = DateTime.now();
     });
 
-    _pinToBottomIfProcessing();
+    _scrollToBottomOnStart();
 
     try {
       await _ankiService.createAudiobook(
@@ -718,8 +721,8 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen>
               : '${minutes}m ${seconds}s';
           _lastOutputFilename = '$_author - $_title.opus';
         });
-
-        _beep();
+        if (_chainRunning) _chainEncoding += elapsed;
+        if (!_chainRunning) _beep();
 
         ScaffoldMessenger.of(context).showSnackBar(
           const SnackBar(
@@ -917,22 +920,6 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen>
         ),
       ),
     );
-  }
-
-  /// Global Enter = click "Create Audiobook" when it is enabled. Registered on
-  /// HardwareKeyboard so it works wherever focus currently is (after a file
-  /// picker, a button click, or no focus at all), which a Focus widget can't.
-  bool _onGlobalKey(KeyEvent event) {
-    if (event is! KeyDownEvent) return false;
-    if (event.logicalKey != LogicalKeyboardKey.enter &&
-        event.logicalKey != LogicalKeyboardKey.numpadEnter) {
-      return false;
-    }
-    if (!mounted || !_canConvert) return false;
-    // Only when this screen is on top (not under a dialog / dropdown menu).
-    if (ModalRoute.of(context)?.isCurrent != true) return false;
-    _startConversion();
-    return true;
   }
 
   /// True when the Create Audiobook button is enabled (READY state).
@@ -2893,7 +2880,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen>
                 Text(
                   'Elapsed Time: $elapsedTime',
                   style: const TextStyle(
-                    color: Colors.redAccent,
+                    color: Colors.deepPurpleAccent,
                     fontSize: 14,
                     fontFamily: 'CustomFonts',
                     fontFeatures: [FontFeature.tabularFigures()],
@@ -2951,7 +2938,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen>
                 ElevatedButton(
                   onPressed: () => setState(() => _chainStopRequested = true),
                   style: ElevatedButton.styleFrom(
-                    backgroundColor: Colors.red.shade900,
+                    backgroundColor: Colors.purple,
                     foregroundColor: Colors.white,
                   ),
                   child: Text(_chainStopRequested
@@ -2989,7 +2976,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen>
                 onPressed: canConvert ? _startConversion : null,
                 icon: const Icon(Icons.play_arrow, size: 24),
                 label: const Text(
-                  'Create Audiobook (press ENTER)',
+                  'Create Audiobook',
                   style: TextStyle(fontSize: 16),
                 ),
                 style: ElevatedButton.styleFrom(
@@ -3065,6 +3052,22 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen>
                   ),
                 ),
               ],
+            ),
+          ),
+        ],
+        if (_chainSummary != null && !_chainRunning) ...[
+          const SizedBox(height: 8),
+          Container(
+            width: double.infinity,
+            padding: const EdgeInsets.all(12),
+            decoration: BoxDecoration(
+              color: Colors.deepPurple.withValues(alpha: 0.15),
+              borderRadius: BorderRadius.circular(8),
+              border: Border.all(color: Colors.deepPurple),
+            ),
+            child: SelectableText(
+              _chainSummary!,
+              style: const TextStyle(color: Colors.white, fontSize: 14),
             ),
           ),
         ],

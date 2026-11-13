@@ -1,0 +1,61 @@
+{
+  "title": "První důvěra zlomená v ráji",
+  "intro": "Představte si, že stojíte v zahradě dokonalého míru, ctěni nade vše stvoření, s jedinou hranicí, kterou je třeba respektovat. Šepot slibuje věčnost, jediná volba mění vše a přesto milosrdenství otevírá cestu zpět. Kdo mluví od počátku lidstva?",
+  "clues": [
+    "Byl jsem stvořen Alláhem z hlíny a utvářen s božskou péčí.",
+    "Byl jsem poctěn, když Alláh přikázal andělům, aby se mi poklonili.",
+    "Přebýval jsem v ráji se svým manželem/manželkou a mohl jsem si užívat všeho kromě jednoho stromu.",
+    "Byl jsem oklamán šeptem Satana, který přísahal, že je upřímným rádcem.",
+    "Jedl jsem ze zakázaného stromu a můj oděv byl v hanbě odstraněn.",
+    "Naučil jsem se od svého Pána slovům pokání a Alláh se ke mně slitoval."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Džalut (Goliáš)",
+        "Dhul-Kifl",
+        "Namrud",
+        "Prorok Adam",
+        "Prorok Jahja"
+      ],
+      "answer": "Prorok Adam"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Ze strachu odmítl vstoupit do Svaté země",
+        "Požadoval, aby byl oheň uctíván jako bůh",
+        "Zabil bratra ze závisti kvůli obětině",
+        "Jedl jsem ze zakázaného stromu po Satanově zašeptání",
+        "Tvrdil, že modly předků musí být uctívány"
+      ],
+      "answer": "Jedl jsem ze zakázaného stromu po Satanově zašeptání"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Řeka Nil",
+        "Archa",
+        "Posvátné údolí Tuwa",
+        "Ráj (Džanna)",
+        "Jeskyně Hira"
+      ],
+      "answer": "Ráj (Džanna)"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Byl jsem utopen ve velké potopě s nevěřícími",
+        "Alláh mě naučil slovům pokání a odpustil mi",
+        "Zasáhl mě blesk, protože jsem požadoval setkání s Alláhem",
+        "Spolkla mě velká ryba, protože jsem v hněvu odešel",
+        "Byl jsem proměněn se svým lidem za porušení Sabatu"
+      ],
+      "answer": "Alláh mě naučil slovům pokání a odpustil mi"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

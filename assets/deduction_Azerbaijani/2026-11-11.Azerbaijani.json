@@ -1,0 +1,61 @@
+{
+  "title": "Mərhəmətlə Qəbul Edilən Qurban",
+  "intro": "Gözlərinizi yumun və imanın son həddinə qədər sınandığı geniş, səssiz bir vadini təsəvvür edin. Ağlasığmaz bir əmr qarşısında sakit təslim olması sınaq anını əbədi itaətkarlıq və ilahi mərhəmət simvoluna çevirən bir şəxslə qarşılaşacaqsınız.",
+  "clues": [
+    "Mən Quranda səbirlə dözənlərlə birlikdə xatırlanıram.",
+    "Mən Allahın əmrinə təslim olmağı sınayan bir görüntünün mərkəzində idim.",
+    "Gördüyüm yuxunu eşidəndə dedim ki, əmr olunduğu kimi et, məni xəstə olanların arasında tapacaqsan.",
+    "Mən qurban kəsmək üçün qoyulmuşdum, amma Allah görüntünün yerinə yetdiyini bildirdi.",
+    "Allah məni böyük bir fədakarlıqla fidyə etdi və sonrakı nəsillər arasında mənə şərəf və ehtiram qoydu.",
+    "Mən İbrahimlə birlikdə Beytül-Həramın təməlini ucaldan, salehlərdən İdris və Zül-Kifl ilə birlikdə adı çəkilən İsmayılam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Şüeyb peyğəmbər",
+        "İsmayıl peyğəmbər (İsmayıl)",
+        "Peyğəmbər Zül-Kifl",
+        "Peyğəmbər Əl-Yəsa (Elişa)",
+        "Hud peyğəmbər"
+      ],
+      "answer": "İsmayıl peyğəmbər (İsmayıl)"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Alovlu bir oda atılmaq",
+        "Allahın izni ilə ölüləri dirildir",
+        "Ticarətdə ölçü və tarazlığı inkar etmək",
+        "Əmr edilən qurban və könüllü təslimiyyət",
+        "Böyük bir balığın udması"
+      ],
+      "answer": "Əmr edilən qurban və könüllü təslimiyyət"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Su ilə fışqıran soba",
+        "İlana çevrilən bir əsa",
+        "Qeybdə ibadət edilən qızıl buzov",
+        "Daşqında taxta bir gəmi",
+        "Fidyə olaraq göndərilən böyük bir qoç"
+      ],
+      "answer": "Fidyə olaraq göndərilən böyük bir qoç"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Dişi dəvəni rədd etdiyinə görə güclü bir səslə vuruldu",
+        "Qanun pozuntusu üçün meymuna çevrildi",
+        "Səbirli və saleh peyğəmbərlər arasında təriflənmişdir",
+        "Təkəbbür üzündən yer üzünə udulmuş",
+        "Möminləri təqib edərkən dənizdə boğuldu"
+      ],
+      "answer": "Səbirli və saleh peyğəmbərlər arasında təriflənmişdir"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

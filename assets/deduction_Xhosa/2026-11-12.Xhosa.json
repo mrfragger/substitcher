@@ -1,0 +1,61 @@
+{
+  "title": "Ukwaphulwa Kwethemba Lokuqala EParadesi",
+  "intro": "Khawucinge nje umi emyezweni woxolo olupheleleyo, uhlonitshwe ngaphezu kwayo yonke indalo, unomda omnye kuphela wokuhlonitshwa. Ilizwi eliphantsi lithembisa ubuphakade, ukhetho olunye lutshintsha yonke into, kodwa inceba ivula indlela yokubuyela umva. Ngubani othetha ukususela ekuqaleni koluntu?",
+  "clues": [
+    "Ndadalwa nguAllah ngodongwe kwaye ndenziwe ngononophelo lukaThixo.",
+    "Ndazukiswa xa uAllah wayalela iingelosi ukuba ziqubude kum.",
+    "Ndahlala eParadesi nomyeni wam, ndikhululekile ukunandipha zonke izinto ngaphandle komthi omnye.",
+    "Ndakhohliswa kukusebeza kukaSathana owafunga ukuba ungumcebisi onyanisekileyo.",
+    "Nditye kumthi owalelweyo kwaye isigqubuthelo sam sasuswa ngenxa yeentloni.",
+    "Ndifunde amazwi okuguquka eNkosini yam, waza uAllah wajika wandinceda ngenceba."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "UJalut (uGoliyati)",
+        "Dhul-Kifl",
+        "INamrud",
+        "Umprofeti uAdam",
+        "Umprofeti uYahya"
+      ],
+      "answer": "Umprofeti uAdam"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Wenqaba ukungena kwiLizwe eliNgcwele ngenxa yokoyika",
+        "Umlilo ofunwayo mawunqulwe njengothixo",
+        "Wabulala umntakwabo ngenxa yomona ngomnikelo",
+        "Ndatya kumthi owalelweyo emva kokuhleba kukaSathana",
+        "Baphikisana ngelithi izithixo zookhokho kufuneka zinqulwe"
+      ],
+      "answer": "Ndatya kumthi owalelweyo emva kokuhleba kukaSathana"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "UMlambo iNayile",
+        "Ityeya",
+        "Intlambo Engcwele yaseTuwa",
+        "IParadesi (iJannah)",
+        "Umqolomba waseHira"
+      ],
+      "answer": "IParadesi (iJannah)"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Ndatshona kumkhukula omkhulu kunye nabangakholwayo",
+        "UAllah undifundise amazwi okuguquka waza wandixolela",
+        "Ndabethwa ngumbane ngenxa yokufuna ukubona uAllah",
+        "Ndiginywe yintlanzi enkulu ngenxa yokumka ndinomsindo",
+        "Ndaguquka nabantu bam ngenxa yokwaphula iSabatha"
+      ],
+      "answer": "UAllah undifundise amazwi okuguquka waza wandixolela"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

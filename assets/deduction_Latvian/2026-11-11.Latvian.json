@@ -1,0 +1,61 @@
+{
+  "title": "Žēlsirdībā pieņemtais upuris",
+  "intro": "Aizveriet acis un iztēlojieties plašu, klusu ieleju, kur ticība tiek pārbaudīta līdz robežai. Jūs tūlīt satiksiet tēlu, kura mierīgā pakļaušanās neiedomājamas pavēles priekšā pārvērta pārbaudījuma mirkli par mūžīgu paklausības un dievišķās žēlsirdības simbolu.",
+  "clues": [
+    "Korānā mani atceras starp tiem, kas izturēja ar nelokāmu pacietību.",
+    "Es biju vīzijas centrā, kas pārbaudīja pakļaušanos Allāha pavēlei.",
+    "Kad man pastāstīja par vīziju, es teicu, lai daru, kā pavēlēts, un jūs mani atradīsiet starp pacientiem.",
+    "Mani guldīja upurēšanai, bet Allāhs sauca, lai vīzija piepildītos.",
+    "Allāhs mani izpirka ar lielu upuri, atstājot man godu nākamajām paaudzēm.",
+    "Es esmu Ismaīls, kurš kopā ar Ibrahimu lika pamatus Svētajam namam, kas līdzās Idrisam un Dhul-Kiflam tiek pieminēts taisnīgo vidū."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Šuajbs",
+        "Pravietis Ismaēls (Išmaēls)",
+        "Pravietis Dhul-Kifls",
+        "Pravietis Al-Jasa (Elīsa)",
+        "Pravietis Huds"
+      ],
+      "answer": "Pravietis Ismaēls (Išmaēls)"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Tiekot iemests liesmojošā ugunī",
+        "Mirušo atgriešana dzīvē ar Allāha atļauju",
+        "Tirdzniecības pasākuma un līdzsvara noliegšana",
+        "Pavēlētais upuris un labprātīga pakļaušanās",
+        "Tikt norītai lielai zivij"
+      ],
+      "answer": "Pavēlētais upuris un labprātīga pakļaušanās"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Cepšanas krāsns, kas mutuļo ar ūdeni",
+        "Persona, kas pārvērtās par čūsku",
+        "Zelta teļš pielūgts prombūtnē",
+        "Koka šķirsts plūdos",
+        "Liels auns, kas sūtīts kā izpirkuma maksa"
+      ],
+      "answer": "Liels auns, kas sūtīts kā izpirkuma maksa"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Spēcīga sprādziena dēļ, ka atraidīja kamieļmāti,",
+        "Pārvērtās par pērtiķi par pārkāpumu",
+        "Slavēts starp pacietīgajiem un taisnīgajiem praviešiem",
+        "Zeme norīja augstprātības dēļ",
+        "Noslīka jūrā, vajājot ticīgos"
+      ],
+      "answer": "Slavēts starp pacietīgajiem un taisnīgajiem praviešiem"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

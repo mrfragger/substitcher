@@ -1,0 +1,61 @@
+{
+  "title": "Cennette Kırılan İlk Güven",
+  "intro": "Kusursuz bir huzur bahçesinde durduğunuzu, tüm yaratılışın üzerinde yüceltildiğinizi, saygı duyulması gereken tek bir sınırın olduğunu hayal edin. Bir fısıltı sonsuzluğu vaat ediyor, tek bir seçim her şeyi değiştiriyor ve yine de merhamet bir geri dönüş yolu açıyor. İnsanlığın başlangıcından beri kim konuşuyor?",
+  "clues": [
+    "Ben Allah tarafından topraktan yaratıldım ve ilahi bir özenle şekillendirildim.",
+    "Allah'ın meleklere bana secde etmelerini emretmesi benim için büyük bir şeref oldu.",
+    "Eşimle birlikte cennette yaşıyordum, tek bir ağaç dışında her şeyin tadını çıkarıyorduk.",
+    "Bana samimi bir danışman olacağına yemin eden Şeytan'ın fısıltılarıyla aldatıldım.",
+    "Yasak ağacından yedim ve utanç içinde örtüm kaldırıldı.",
+    "Rabbimden tövbe sözleri öğrendim ve Allah bana merhamet etti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Jalut (Goliath)",
+        "Zülkifl",
+        "Namrud",
+        "Peygamber Adem",
+        "Peygamber Yahya"
+      ],
+      "answer": "Peygamber Adem"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Korkudan dolayı Kutsal Topraklara girmeyi reddetti.",
+        "Ateşin tanrı olarak tapılmasını talep etti.",
+        "Bir kurban sunumu yüzünden kardeşini kıskançlıktan öldürdü.",
+        "Şeytanın fısıltısından sonra yasak ağaçtan yedim.",
+        "Ataların putlarına tapınılması gerektiğini savundu."
+      ],
+      "answer": "Şeytanın fısıltısından sonra yasak ağaçtan yedim."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Nil Nehri",
+        "Nuh'un Gemisi",
+        "Tuwa Kutsal Vadisi",
+        "Cennet (Cennet)",
+        "Hira Mağarası"
+      ],
+      "answer": "Cennet (Cennet)"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Ben de kâfirlerle birlikte büyük tufanda boğuldum.",
+        "Allah bana tövbe sözlerini öğretti ve beni affetti.",
+        "Allah'ı görmek istediğim için yıldırım çarptı bana.",
+        "Öfkeyle ayrıldığım için büyük bir balık tarafından yutuldum.",
+        "Şabat gününü ihlal ettiğim için halkımla birlikte dönüşüme uğradım."
+      ],
+      "answer": "Allah bana tövbe sözlerini öğretti ve beni affetti."
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

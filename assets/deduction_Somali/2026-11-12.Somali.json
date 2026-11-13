@@ -1,0 +1,61 @@
+{
+  "title": "Kalsoonidii Ugu Horreysay Ee Jannada Ku Jabtay",
+  "intro": "Bal qiyaas inaad istaagto beer nabad buuxda leh, oo ka sarraysa abuurka oo dhan, oo leh hal xuduud oo keliya oo ixtiraam ah. Hadalku wuxuu ballan qaadayaa weligiis, hal doorasho ayaa wax walba beddesha, haddana naxariistu waxay furaysaa waddo dib loogu laabto. Yaa ka hadlaya bilowgii aadanaha?",
+  "clues": [
+    "Alle ayaa iga abuuray dhoobo, waxaana la ii sameeyay daryeel rabbaani ah.",
+    "Waxaa sharaf ii ahayd markii Alle ku amray malaa'igta inay ii sujuudaan.",
+    "Waxaan Jannada kula noolaa xaaskayga, anigoo xor u ah inaan ku raaxaysto dhammaantood marka laga reebo hal geed.",
+    "Waxaa i khiyaaneeyey shaydaanka oo ku dhaartay inuu noqon doono la-taliye daacad ah.",
+    "Waxaan ka cunay geedkii la mamnuucay, ceeb awgeedna waxaa la iga qaaday daboolkii.",
+    "Waxaan ka bartay Erayada toobadda Rabbigeyga, Allena wuu ii soo jeestay naxariis."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Jalut (Goliath)",
+        "Dhul-Kifl",
+        "Namrud",
+        "Nabi Aadam",
+        "Nabi Yaxya"
+      ],
+      "answer": "Nabi Aadam"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Cabsi awgeed ayuu diiday inuu galo Dhulka Barakaysan",
+        "Dabka la dalbaday in loo caabudo sidii ilaah",
+        "Walaal ayuu u dilay xaasidnimo darteed qurbaan uu bixiyay awgeed",
+        "Geedkii la mamnuucay ka dib markii Shaydaan hoos u hadlay",
+        "Waxaa lagu dooday in sanamyada awowayaasha la caabudo"
+      ],
+      "answer": "Geedkii la mamnuucay ka dib markii Shaydaan hoos u hadlay"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Webiga Niil",
+        "Sanduuqa",
+        "Dooxada Barakaysan ee Tuwa",
+        "Jannada (Janna)",
+        "Godka Hira"
+      ],
+      "answer": "Jannada (Janna)"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Waxaa igu qarqiyay daad weyn oo aan la galay gaalada.",
+        "Allaah wuxuu i baray erayo toobad keenis ah, wuuna i cafiyay",
+        "Waxaa i qabsaday hillaac markaan dalbaday inaan arko Allah",
+        "Kalluun weyn ayaa i liqay anigoo xanaaqsan oo aan baxay.",
+        "Waxaan la beddelay dadkayga markii aan jebiyey Sabtida awgeed"
+      ],
+      "answer": "Allaah wuxuu i baray erayo toobad keenis ah, wuuna i cafiyay"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

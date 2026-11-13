@@ -1,0 +1,61 @@
+{
+  "title": "Allabariga Naxariista Lagu Aqbalay",
+  "intro": "Indhahaaga xidh oo sawir dooxo weyn oo aamusan oo iimaanku ku jiro oo la tijaabiyo ilaa xadkiisa. Waxaad ku dhowdahay inaad la kulanto qof is-hoosaysiintiisa deggan iyadoo la wajahayo amar aan la qiyaasi karin u beddelay daqiiqad tijaabo ah astaan ​​​​waarta oo ah addeecid iyo naxariis rabbaani ah.",
+  "clues": [
+    "Qur'aanka waxaa lagu xasuustaa kuwa dulqaadka badan la kulmay.",
+    "Waxaan ku jiray bartamaha aragti tijaabinaysa isu-hoggaansiga amarka Alle.",
+    "Markii la ii sheegay aragtida, waxaan idhi samee sida la ii faray oo waxaad iga heli doontaa bukaanka dhexdiisa.",
+    "Waxaan u jiifay allabarigii, laakiin Alle wuxuu ku dhawaaqay in aragtidii la rumoobay.",
+    "Ilaahay wuxuu igu furtay allabari weyn, isagoo sharaf iiga tagay jiilalka dambe.",
+    "Anigu waxaan ahay Ismaaciil, oo Ibraahim la kor u qaaday aasaaska Guriga Xurmada leh, oo lagu xusay Idiris iyo Dhul-Kifl oo ka mid ah kuwa wanaagsan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Shucayb",
+        "Nabi Ismaaciil (Ismaaciil)",
+        "Nabi Dhul-Kifl",
+        "Nabi Al-Yasa (Eliisha)",
+        "Nabi Huud"
+      ],
+      "answer": "Nabi Ismaaciil (Ismaaciil)"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "In lagu tuuro dab ololaya",
+        "In dadkii dhintay dib loogu soo nooleeyo idanka Alle.",
+        "Diidmada cabbirka iyo dheelitirka ganacsiga",
+        "Allabariga la amray iyo addeecidda rabitaanka ah",
+        "Kalluun weyn oo liqaya"
+      ],
+      "answer": "Allabariga la amray iyo addeecidda rabitaanka ah"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Foorno dubis ah oo biyo ka soo qulqulaya",
+        "Ul abeeso noqotay",
+        "Dibi dahab ah oo la caabudi jiray isagoo maqan",
+        "Doon alwaax ah oo daad ku jirta",
+        "Wan weyn oo madax furasho ahaan loo soo diray"
+      ],
+      "answer": "Wan weyn oo madax furasho ahaan loo soo diray"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Waxaa ku dhacay qarax xooggan oo ka dhashay diidmada awrta",
+        "Waxay isu beddeshay daanyeer xadgudub awgiis",
+        "Waxaa lagu ammaanay nebiyada samirka iyo kuwa xaqa ah dhexdooda",
+        "Dhulku kibir dartiis ayuu u liqay",
+        "Badda ayuu ku qarqiyay isagoo raadinaya mu'miniinta"
+      ],
+      "answer": "Waxaa lagu ammaanay nebiyada samirka iyo kuwa xaqa ah dhexdooda"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

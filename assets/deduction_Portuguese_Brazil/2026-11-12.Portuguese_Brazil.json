@@ -1,0 +1,61 @@
+{
+  "title": "A Primeira Confiança Quebrada no Paraíso",
+  "intro": "Imagine-se num jardim de paz perfeita, reverenciado acima de toda a criação, com apenas um limite a respeitar. Um sussurro promete a eternidade, uma única escolha muda tudo, e ainda assim a misericórdia abre um caminho de volta. Quem fala desde o início da humanidade?",
+  "clues": [
+    "Fui criado por Alá a partir do barro e moldado com cuidado divino.",
+    "Senti-me honrado quando Alá ordenou aos anjos que se prostrassem diante de mim.",
+    "Eu habitava o Paraíso com meu cônjuge, livre para desfrutar de tudo, exceto de uma árvore.",
+    "Fui enganado pelos sussurros de Satanás, que jurou ser um conselheiro sincero.",
+    "Comi do fruto proibido e, envergonhada, retirei meu véu.",
+    "Aprendi palavras de arrependimento com meu Senhor, e Alá se voltou para mim em misericórdia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Jalut (Golias)",
+        "Dhul-Kifl",
+        "Namrud",
+        "Profeta Adão",
+        "Profeta Yahya"
+      ],
+      "answer": "Profeta Adão"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Recusaram-se a entrar na Terra Santa por medo.",
+        "Exigiram que o fogo fosse adorado como um deus.",
+        "Matou um irmão por inveja de uma oferenda.",
+        "Comi do fruto da árvore proibida após o sussurro de Satanás.",
+        "Argumentou que os ídolos dos ancestrais devem ser adorados."
+      ],
+      "answer": "Comi do fruto da árvore proibida após o sussurro de Satanás."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "O Rio Nilo",
+        "A Arca",
+        "O Vale Sagrado de Tuwa",
+        "Paraíso (Jannah)",
+        "A Caverna de Hira"
+      ],
+      "answer": "Paraíso (Jannah)"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Fui afogado no grande dilúvio com os incrédulos.",
+        "Alá me ensinou palavras de arrependimento e me perdoou.",
+        "Fui atingido por um raio por exigir ver Alá.",
+        "Fui engolido por um peixe enorme por ter saído com raiva.",
+        "Fui transformado junto com meu povo por violar o sábado."
+      ],
+      "answer": "Alá me ensinou palavras de arrependimento e me perdoou."
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

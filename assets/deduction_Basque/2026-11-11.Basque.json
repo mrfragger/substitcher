@@ -1,0 +1,61 @@
+{
+  "title": "Errukian onartutako sakrifizioa",
+  "intro": "Itxi begiak eta imajinatu fedea mugara arte probatzen den haran zabal eta isil bat. Agindu imajinaezin baten aurrean men egiteak une bat obedientziaren eta jainkozko errukiaren betiko sinbolo bihurtu zuen pertsonaia batekin topo egitear zaude.",
+  "clues": [
+    "Koranean gogoratzen naute pazientzia irmoz jasan zutenen artean.",
+    "Alaren aginduarekiko men egitea proban jartzen zuen ikuspegi baten erdian nengoen.",
+    "Ikuskariaren berri eman zidatenean, agindutakoa egiteko esan nien, eta pazienteen artean aurkituko nauzue.",
+    "Sakrifiziorako etzanda nengoen, baina Alak ikuspena bete zela oihu egin zuen.",
+    "Ala-k sakrifizio handi batekin erreskatatu ninduen, ondorengo belaunaldien artean ohorea utziz niretzat.",
+    "Ismail naiz, Ibrahimekin batera Etxe Sakratuaren oinarriak eraiki nituena, Idris eta Dhul-Kifl-ekin batera aipatua zuzenen artean."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Shu'ayb profeta",
+        "Ismail (Ismael) profeta",
+        "Dhul-Kifl profeta",
+        "Al-Yasa (Eliseo) profeta",
+        "Hud profeta"
+      ],
+      "answer": "Ismail (Ismael) profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Su bizian botata egotea",
+        "Hildakoak bizitzara itzultzea Allahren baimenarekin",
+        "Merkataritzan neurria eta oreka ukatzea",
+        "Agindutako sakrifizioa eta borondatezko men egitea",
+        "Arrain handi batek irentsi izana"
+      ],
+      "answer": "Agindutako sakrifizioa eta borondatezko men egitea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Labea urez beteta",
+        "Suge bihurtu zen makila",
+        "Urrezko txahal bat absentzian gurtua",
+        "Egurrezko arka bat uholdeetan",
+        "Erreskate gisa bidalitako ahari handi bat"
+      ],
+      "answer": "Erreskate gisa bidalitako ahari handi bat"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Gamelu emea baztertzeagatik eztanda handi batek jota",
+        "Transgresioagatik tximino bihurtuta",
+        "Profeta paziente eta zuzenen artean goraipatua",
+        "Lurrak irentsia harrokeriagatik",
+        "Itsasoan ito zen sinestunen atzetik zihoala"
+      ],
+      "answer": "Profeta paziente eta zuzenen artean goraipatua"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

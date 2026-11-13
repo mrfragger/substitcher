@@ -1,0 +1,61 @@
+{
+  "title": "Cənnətdə İlk Qırılan Etibar",
+  "intro": "Təsəvvür edin ki, mükəmməl bir sülh bağçasında dayanırsınız, bütün yaradılışlardan daha çox hörmət edilir, hörmət üçün yalnız bir sərhəd var. Bir pıçıltı əbədiyyət vəd edir, tək bir seçim hər şeyi dəyişir, amma mərhəmət geriyə yol açır. Bəşəriyyətin başlanğıcından kim danışır?",
+  "clues": [
+    "Mən Allah tərəfindən palçıqdan yaradılmışam və ilahi qayğı ilə formalaşmışam.",
+    "Allah mələklərə mənə səcdə etməyi əmr etdikdə şərəfləndim.",
+    "Mən Cənnətdə həyat yoldaşımla birlikdə yaşadım, bir ağacdan başqa hər şeydən zövq almaqda sərbəst idim.",
+    "Səmimi məsləhətçi olmağa and içən Şeytanın pıçıltısına aldandım.",
+    "Qadağan olunmuş ağacdan yedim və utancdan örtüyüm çıxarıldı.",
+    "Rəbbimdən tövbə sözlərini öyrəndim və Allah məni rəhmətlə qəbul etdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Cəlut (Qoliat)",
+        "Zül-Kifl",
+        "Nəmrud",
+        "Adəm peyğəmbər",
+        "Yəhya peyğəmbər"
+      ],
+      "answer": "Adəm peyğəmbər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Qorxudan Müqəddəs Torpağa girməkdən imtina etdi",
+        "Oda tanrı kimi ibadət edilməsini tələb etdi",
+        "Qurbanlıq paxıllıq üzündən qardaşını öldürdü",
+        "Şeytanın vəsvəsəsindən sonra qadağan olunmuş ağacdan yedim",
+        "Əcdadların bütlərinə ibadət edilməli olduğunu iddia etdi"
+      ],
+      "answer": "Şeytanın vəsvəsəsindən sonra qadağan olunmuş ağacdan yedim"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Nil çayı",
+        "Gəmi",
+        "Müqəddəs Tuva Vadisi",
+        "Cənnət (Cənnət)",
+        "Hira Mağarası"
+      ],
+      "answer": "Cənnət (Cənnət)"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Mən kafirlərlə birlikdə böyük bir tufanda boğuldum.",
+        "Allah mənə tövbə sözlərini öyrətdi və məni bağışladı",
+        "Allahı görməyi tələb etdiyim üçün ildırım vurdu",
+        "Qəzəblə ayrıldığım üçün böyük bir balıq tərəfindən uduldum",
+        "Şənbə gününü pozduğum üçün xalqımla birlikdə dəyişdim"
+      ],
+      "answer": "Allah mənə tövbə sözlərini öyrətdi və məni bağışladı"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

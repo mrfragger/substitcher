@@ -1,0 +1,61 @@
+{
+  "title": "Paradiisis purunenud esimene usaldus",
+  "intro": "Kujutage ette, et seisate täiusliku rahu aias, austatuna kogu loodu üle, austades vaid ühte piiri. Sosin lubab igavikku, üksainus valik muudab kõike, kuid halastus avab tee tagasi. Kes räägib inimkonna algusest peale?",
+  "clues": [
+    "Allah lõi mind savist ja vormis jumaliku hoolega.",
+    "Mulle avaldati au, kui Allah käskis inglitel minu ees kummardada.",
+    "Ma elasin paradiisis koos oma abikaasaga, vabalt nautides kõike peale ühe puu.",
+    "Mind pettis Saatana sosin, kes vandus olla siiras nõuandja.",
+    "Ma sõin keelatud puust ja mu kate võeti häbi pärast ära.",
+    "Ma õppisin oma Issandalt meeleparanduse sõnu ja Allah pöördus minu poole halastusega."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Jalut (Koliat)",
+        "Dhul-Kifl",
+        "Namrud",
+        "Prohvet Aadam",
+        "Prohvet Jahja"
+      ],
+      "answer": "Prohvet Aadam"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Keeldus hirmust Pühale Maale sisenemast",
+        "Nõuti tule kummardamist jumalana",
+        "Tapis ohvriandi pärast kadedusest venna",
+        "Sõi keelatud puust pärast Saatana sosistamist",
+        "Väideti, et esivanemate ebajumalaid tuleb kummardada"
+      ],
+      "answer": "Sõi keelatud puust pärast Saatana sosistamist"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Niiluse jõgi",
+        "Laegas",
+        "Tuwa püha org",
+        "Paradiis (Jannah)",
+        "Hira koobas"
+      ],
+      "answer": "Paradiis (Jannah)"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Mind uppus suurde veeuputusse koos uskmatutega",
+        "Allah õpetas mulle meeleparanduse sõnu ja andestas mulle",
+        "Mind lõi välk, kuna nõudsin Allahi nägemist",
+        "Mind neelas alla suur kala, sest ma lahkusin vihaselt",
+        "Ma muutusin koos oma rahvaga hingamispäeva murdmise pärast"
+      ],
+      "answer": "Allah õpetas mulle meeleparanduse sõnu ja andestas mulle"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

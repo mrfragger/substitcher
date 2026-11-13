@@ -1,0 +1,61 @@
+{
+  "title": "The First Trust Broken in Paradise",
+  "intro": "Imagine standing in a garden of perfect peace, honored above all creation, with only one boundary to respect. A whisper promises eternity, a single choice changes everything, and yet mercy opens a way back. Who speaks from the beginning of humanity?",
+  "clues": [
+    "I was created by Allah from clay and fashioned with divine care.",
+    "I was honored when Allah commanded the angels to prostrate to me.",
+    "I dwelled in Paradise with my spouse, free to enjoy all except one tree.",
+    "I was deceived by the whispering of Satan who swore to be a sincere advisor.",
+    "I ate from the forbidden tree and my covering was removed in shame.",
+    "I learned words of repentance from my Lord, and Allah turned to me in mercy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Jalut (Goliath)",
+        "Dhul-Kifl",
+        "Namrud",
+        "Prophet Adam",
+        "Prophet Yahya"
+      ],
+      "answer": "Prophet Adam"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Refused to enter the Holy Land out of fear",
+        "Demanded fire be worshipped as a god",
+        "Killed a brother out of envy over an offering",
+        "Ate from the forbidden tree after Satan's whispering",
+        "Argued that idols of ancestors must be worshipped"
+      ],
+      "answer": "Ate from the forbidden tree after Satan's whispering"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "The River Nile",
+        "The Ark",
+        "The Sacred Valley of Tuwa",
+        "Paradise (Jannah)",
+        "The Cave of Hira"
+      ],
+      "answer": "Paradise (Jannah)"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "I was drowned in the great flood with the disbelievers",
+        "Allah taught me words of repentance and forgave me",
+        "I was struck with lightning for demanding to see Allah",
+        "I was swallowed by a great fish for leaving in anger",
+        "I was transformed with my people for breaking the Sabbath"
+      ],
+      "answer": "Allah taught me words of repentance and forgave me"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

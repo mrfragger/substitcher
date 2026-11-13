@@ -1,0 +1,61 @@
+{
+  "title": "Pierwsze zaufanie złamane w raju",
+  "intro": "Wyobraź sobie, że stoisz w ogrodzie idealnego spokoju, czczony ponad wszelkim stworzeniem, z jedną tylko granicą do respektowania. Szept obiecuje wieczność, jeden wybór zmienia wszystko, a jednak miłosierdzie otwiera drogę powrotną. Kto przemawia od początku ludzkości?",
+  "clues": [
+    "Zostałem stworzony przez Allaha z gliny i ukształtowany z boską troską.",
+    "Poczułem się zaszczycony, gdy Allah nakazał aniołom, aby mi się pokłonili.",
+    "Mieszkałem w Raju z moim małżonkiem i mogłem cieszyć się wszystkim, oprócz jednego drzewa.",
+    "Zostałem oszukany przez podszepty Szatana, który przysięgał, że jest szczerym doradcą.",
+    "Zjadłem owoc z zakazanego drzewa i ze wstydu zdjęto ze mnie okrycie.",
+    "Nauczyłem się od mojego Pana słów pokuty, a Allah zwrócił się ku mnie z miłosierdziem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Dżalut (Goliat)",
+        "Dhul-Kifl",
+        "Namrud",
+        "Prorok Adam",
+        "Prorok Yahya"
+      ],
+      "answer": "Prorok Adam"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Odmówił wejścia do Ziemi Świętej ze strachu",
+        "Zażądał, aby ogień był czczony jako bóg",
+        "Zabił brata z zazdrości o ofiarę",
+        "Zjadłem owoc z zakazanego drzewa po szeptach Szatana",
+        "Twierdził, że należy czcić bożki przodków"
+      ],
+      "answer": "Zjadłem owoc z zakazanego drzewa po szeptach Szatana"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Rzeka Nil",
+        "Arka",
+        "Święta Dolina Tuwa",
+        "Raj (Jannah)",
+        "Jaskinia Hira"
+      ],
+      "answer": "Raj (Jannah)"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Utonąłem w wielkiej powodzi wraz z niewiernymi",
+        "Bóg nauczył mnie słów pokuty i mi przebaczył",
+        "Zostałem uderzony piorunem, gdy zażądałem zobaczenia Allaha",
+        "Zostałem połknięty przez wielką rybę za odejście w gniewie",
+        "Zostałem przemieniony wraz ze swoim ludem za złamanie szabatu"
+      ],
+      "answer": "Bóg nauczył mnie słów pokuty i mi przebaczył"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

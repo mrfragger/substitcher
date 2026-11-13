@@ -1,0 +1,61 @@
+{
+  "title": "Žrtva prihvaćena u milosti",
+  "intro": "Zatvorite oči i zamislite prostranu, tihu dolinu u kojoj se vjera testira do krajnjih granica. Uskoro ćete upoznati osobu čija je mirna pokornost pred nezamislivom naredbom pretvorila trenutak iskušenja u vječni simbol poslušnosti i božanske milosti.",
+  "clues": [
+    "U Kur'anu sam spomenut među onima koji su strpljivo i uporno izdržali.",
+    "Bio sam u središtu vizije koja je testirala pokornost Allahovoj naredbi.",
+    "Kada su mi rekli za viziju, rekao sam da uradiš kako ti je naređeno i naći ćeš me među strpljivima.",
+    "Bio sam položen za žrtvu, ali Allah je objavio da se vizija ispunila.",
+    "Allah me je otkupio velikom žrtvom, ostavljajući mi čast među kasnijim generacijama.",
+    "Ja sam Ismail, koji je s Ibrahimom podigao temelje Svete kuće, spomenutog uz Idrisa i Zul-Kifl među pravednicima."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Poslanik Šu'ajb",
+        "Poslanik Ismail (Išmael)",
+        "Poslanik Zul-Kifl",
+        "Poslanik Al-Yasa (Eliša)",
+        "Poslanik Hud"
+      ],
+      "answer": "Poslanik Ismail (Išmael)"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Biti bačen u plamteću vatru",
+        "Oživljavanje mrtvih uz Allahovu dozvolu",
+        "Negiranje mjere i ravnoteže u trgovini",
+        "Zapovijeđena žrtva i dobrovoljna predaja",
+        "Biti progutan od strane velike ribe"
+      ],
+      "answer": "Zapovijeđena žrtva i dobrovoljna predaja"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Pećnica iz koje šiklja voda",
+        "Štap koji se pretvorio u zmiju",
+        "Zlatno tele obožavano u odsustvu",
+        "Drvena arka u poplavi",
+        "Veliki ovan poslan kao otkupnina"
+      ],
+      "answer": "Veliki ovan poslan kao otkupnina"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Pogođen snažnim udarom jer je odbio devu",
+        "Pretvoren u majmuna zbog prekršaja",
+        "Hvaljen među strpljivim i pravednim prorocima",
+        "Progutala ga je zemlja zbog arogancije",
+        "Utopio se u moru dok je progonio vjernike"
+      ],
+      "answer": "Hvaljen među strpljivim i pravednim prorocima"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

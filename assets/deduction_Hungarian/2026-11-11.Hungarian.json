@@ -1,0 +1,61 @@
+{
+  "title": "Az irgalmasságban elfogadott áldozat",
+  "intro": "Hunyd be a szemed, és képzelj el egy hatalmas, csendes völgyet, ahol a hited a végsőkig próbára van téve. Egy olyan alakkal fogsz találkozni, akinek nyugodt engedelmessége egy elképzelhetetlen parancs ellenére a megpróbáltatás pillanatát az engedelmesség és az isteni irgalmasság örök szimbólumává változtatta.",
+  "clues": [
+    "A Koránban azok között emlékeznek rám, akik rendíthetetlen türelemmel kitartottak.",
+    "Egy olyan látomás középpontjában álltam, amely próbára tette az Allah parancsának való engedelmességet.",
+    "Amikor hallottam a látomásról, azt mondtam, tegyem a parancsot, és a betegek között talál majd engem.",
+    "Áldozatul fektettek le, de Allah kiáltott, hogy a látomás beteljesedett.",
+    "Allah nagy áldozattal váltott meg engem, tiszteletet hagyva nekem a későbbi nemzedékek között.",
+    "Én vagyok Iszmáil, aki Ibrahimmal együtt raktam le a Szent Ház alapjait, akit Idrisszel és Dhul-Kifllel együtt említenek az igazak között."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Suajb próféta",
+        "Iszmáil próféta (Izmael)",
+        "Dhul-Kifl próféta",
+        "Al-Jásza (Elizeus) próféta",
+        "Hud próféta"
+      ],
+      "answer": "Iszmáil próféta (Izmael)"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Lángoló tűzbe vetve",
+        "A halottak életre hívása Allah engedélyével",
+        "A kereskedelemben az intézkedés és az egyensúly tagadása",
+        "A parancsolt áldozat és az önkéntes behódolás",
+        "Egy nagy hal lenyelte"
+      ],
+      "answer": "A parancsolt áldozat és az önkéntes behódolás"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy vízzel teli sütőkemencében",
+        "Egy bot, ami kígyóvá változott",
+        "Egy aranyborjút távollétében imádtak",
+        "Egy fa bárka az árvízben",
+        "Egy hatalmas kos váltságdíjként küldve"
+      ],
+      "answer": "Egy hatalmas kos váltságdíjként küldve"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Hatalmas robbanás érte, mert elutasította a nőstény tevét",
+        "Majommá változott a vétkéért",
+        "Dicsérik a türelmes és igaz próféták között",
+        "Elnyelte a föld az arroganciája miatt",
+        "Tengerbe fulladt, miközben hívőket üldözött"
+      ],
+      "answer": "Dicsérik a türelmes és igaz próféták között"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

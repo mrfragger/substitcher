@@ -1,0 +1,61 @@
+{
+  "title": "Pirmā uzticība, kas salauzta paradīzē",
+  "intro": "Iedomājieties, ka stāvat pilnīga miera dārzā, godināts pāri visai radībai, ar tikai vienu robežu, kas jārespektē. Čuksts sola mūžību, viena izvēle visu maina, un tomēr žēlsirdība paver ceļu atpakaļ. Kas runā kopš cilvēces pirmsākumiem?",
+  "clues": [
+    "Mani radīja Allāhs no māla un veidoja ar dievišķu rūpību.",
+    "Man tika piešķirta gods, kad Allāhs pavēlēja eņģeļiem paklanīties manā priekšā.",
+    "Es dzīvoju Paradīzē kopā ar savu dzīvesbiedru, brīvi baudot visu, izņemot vienu koku.",
+    "Mani pievīla Sātana čuksti, kurš zvērēja būt patiess padomdevējs.",
+    "Es ēdu no aizliegtā koka, un mana sega tika noņemta aiz kauna.",
+    "Es no sava Kunga iemācījos grēku nožēlas vārdus, un Allāhs pievērsās man žēlastībā."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Džaluts (Goliāts)",
+        "Dhul-Kifl",
+        "Namrud",
+        "Pravietis Ādams",
+        "Pravietis Jahja"
+      ],
+      "answer": "Pravietis Ādams"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Baiļu dēļ atteicās ieiet Svētajā zemē",
+        "Pieprasīja, lai uguns tiktu pielūgta kā dievs",
+        "Nogalināja brāli aiz skaudības par upuri",
+        "Ēda no aizliegtā koka pēc Sātana čukstēšanas",
+        "Apgalvoja, ka ir jāpielūdz senču elki"
+      ],
+      "answer": "Ēda no aizliegtā koka pēc Sātana čukstēšanas"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Nīlas upe",
+        "Arka",
+        "Tuvas svētā ieleja",
+        "Paradīze (Jannah)",
+        "Hiras ala"
+      ],
+      "answer": "Paradīze (Jannah)"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Es noslīku lielajā plūdā kopā ar neticīgajiem",
+        "Allāhs man iemācīja grēku nožēlas vārdus un piedeva man",
+        "Mani iespēra zibens, jo pieprasīju redzēt Allāhu.",
+        "Mani aprija liela zivs, jo dusmās aizgāju",
+        "Es tiku pārveidots kopā ar saviem ļaudīm par Sabata pārkāpšanu"
+      ],
+      "answer": "Allāhs man iemācīja grēku nožēlas vārdus un piedeva man"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

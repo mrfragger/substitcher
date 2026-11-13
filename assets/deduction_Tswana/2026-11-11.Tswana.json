@@ -1,0 +1,61 @@
+{
+  "title": "Setlhabelo se se Amogelwang ka Kutlwelobotlhoko",
+  "intro": "Tswala matlho mme o akanye ka mokgatšha o mogolo o o didimetseng koo tumelo e lekwang teng go fitlha kwa bokhutlong jwa yone. O tloga o kopana le setshwantsho se go ineela ga sone go go ritibetseng fa se lebane le taelo e e sa akanngweng go neng ga fetola motsotso wa teko go nna letshwao le le sa khutleng la kutlo le kutlwelobotlhoko ya bomodimo.",
+  "clues": [
+    "Ke gakologelwa mo Quran mo gare ga ba ba neng ba itshoka ka bopelotelele jo bo tlhomameng.",
+    "Ke ne ke le mo gare ga pono e e neng e leka go ineela mo taolong ya ga Allah.",
+    "Fa ke bolelelwa ka pono, ka re dira jaaka o laetswe mme o tla mphitlhela mo gare ga molwetse.",
+    "Ke ne ka bewa fa fatshe go dira setlhabelo, mme Allah o ne a bitsa gore pono e diragaditswe.",
+    "Allah o ne a nthekolola ka setlhabelo se segolo, a ntlogela tlotlo mo dikokomaneng tsa moragonyana.",
+    "Ke nna Ismail, yo le Ibrahim a neng a tsholetsa metheo ya Ntlo e e Boitshepo, e e umakilweng mmogo le Idris le Dhul-Kifl mo gare ga basiami."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Shu'ayb",
+        "Moporofeta Isemaele (Isemaele)",
+        "Moporofeti Dul-Kifl",
+        "Moporofeti Al-Yasa (Elisa)",
+        "Moporofeti Hud"
+      ],
+      "answer": "Moporofeta Isemaele (Isemaele)"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go latlhelwa mo molelong o o tukang",
+        "Go bitsa baswi gape mo botshelong ka tetla ya ga Allah",
+        "Go gana selekanyo le tekatekano mo kgwebisanong",
+        "Setlhabelo se se laetsweng le go ineela ka go rata",
+        "Go mediwa ke tlhapi e kgolo"
+      ],
+      "answer": "Setlhabelo se se laetsweng le go ineela ka go rata"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Ofo ya go baka e e tletseng metsi",
+        "Lore lo lo neng lwa fetoga noga",
+        "Namane ya gauta e e neng e obamelwa e seyo",
+        "Areka ya logong mo morwaleleng",
+        "Phelefu e kgolo e e rometsweng go nna thekololo"
+      ],
+      "answer": "Phelefu e kgolo e e rometsweng go nna thekololo"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "O itewa ke go thunya go go maatla ka ntlha ya go gana kamela e namagadi",
+        "O fetotswe tshwene ka ntlha ya tlolomolao",
+        "A bokwa gareng ga baporofeti ba ba pelotelele le ba ba siameng",
+        "O meditswe ke lefatshe ka ntlha ya boikgogomoso",
+        "A nwela mo lewatleng fa a ntse a latelela badumedi"
+      ],
+      "answer": "A bokwa gareng ga baporofeti ba ba pelotelele le ba ba siameng"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

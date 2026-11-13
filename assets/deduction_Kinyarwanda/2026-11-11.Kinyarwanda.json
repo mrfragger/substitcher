@@ -1,0 +1,61 @@
+{
+  "title": "Igitambo cyemerwa mu mbabazi",
+  "intro": "Funga amaso yawe maze wiyumvire ikibaya kinini kandi gituje aho ukwizera kugeragezwa kugeza aho kugarukira. Ugiye guhura n'umuntu wicishije bugufi imbere y'itegeko ritagereranywa wahinduye igihe cy'ikigeragezo ikimenyetso cy'iteka cy'ukuganduka n'imbabazi z'Imana.",
+  "clues": [
+    "Muri Korowani ndibukwa mu bantu bihanganye bashikamye.",
+    "Nari mu iyerekwa ryagerageje kugandukira itegeko rya Allah.",
+    "Ubwo nabwirwaga iby'iyerekwa, naramubwiye ngo ukore nk'uko byategetswe uzansanga mu barwayi.",
+    "Nari narashyizwe mu gitambo, ariko Allah yavuze ko iryo yerekwa ryasohojwe.",
+    "Imana yancunguye mu gitambo gikomeye, insigira icyubahiro mu bisekuruza bizaza.",
+    "Ndi Ismail, hamwe na Ibrahim wazamuye ishingiro ry'Ingoro Ntagatifu, wavuzwe hamwe na Idris na Dhul-Kifl mu bakiranutsi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Intumwa Shu'ayb",
+        "Intumwa Ismail (Ismail)",
+        "Intumwa Dhul-Kifl",
+        "Intumwa Al-Yasa (Elisha)",
+        "Umuhanuzi Hud"
+      ],
+      "answer": "Intumwa Ismail (Ismail)"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Gutabwa mu muriro ugurumana",
+        "Guhamagara abapfuye ngo basubire mu buzima ku bw'uburenganzira bwa Allah",
+        "Guhakana igipimo n'uburinganire mu bucuruzi",
+        "Igitambo cyategetswe no kuganduka ku bushake",
+        "Kumirwa n'ifi nini"
+      ],
+      "answer": "Igitambo cyategetswe no kuganduka ku bushake"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Ifuru yo gutekeshamo amazi yuzuye",
+        "Inkoni yahindutse inzoka",
+        "Inyana y'izahabu yasengwaga idafite",
+        "Ubwato bw'ibiti mu gihe cy'umwuzure",
+        "Imfizi y'intama nini yoherejwe nk'incungu"
+      ],
+      "answer": "Imfizi y'intama nini yoherejwe nk'incungu"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Yakubiswe n'igisasu gikomeye kubera kwanga ingamiya y'ingore",
+        "Yahinduwe nk'inkende kubera kurenga ku mategeko",
+        "Ashimwa mu bahanuzi bihangana kandi b'intungane",
+        "Yamizwe n'isi kubera ubwibone",
+        "Yarohamye mu nyanja ubwo yakurikiranaga abizera"
+      ],
+      "answer": "Ashimwa mu bahanuzi bihangana kandi b'intungane"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

@@ -1,0 +1,820 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَلْفَاظُ الْقَوْلِ وَالْكَلَامِ",
+        "nameEn": "Words for speech and utterances in the Qur'an",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "حَدِيثُ",
+            "en": "(the) narration",
+            "ref": "51:24",
+            "verse": "هَلْ أَتَىٰكَ حَدِيثُ ضَيْفِ إِبْرَٰهِيمَ ٱلْمُكْرَمِينَ",
+            "verseEn": "Has there reached you the story of the honored guests of Abraham? -"
+          },
+          {
+            "ar": "الذِّكْرُ",
+            "en": "the Reminder",
+            "ref": "15:6",
+            "verse": "وَقَالُوا۟ يَـٰٓأَيُّهَا ٱلَّذِى نُزِّلَ عَلَيْهِ ٱلذِّكْرُ إِنَّكَ لَمَجْنُونٌۭ",
+            "verseEn": "And they say, \"O you upon whom the message has been sent down, indeed you are mad."
+          },
+          {
+            "ar": "قَوْلَ",
+            "en": "(the) saying",
+            "ref": "3:181",
+            "verse": "لَّقَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ فَقِيرٌۭ وَنَحْنُ أَغْنِيَآءُ ۘ سَنَكْتُبُ مَا قَالُوا۟ وَقَتْلَهُمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّۢ وَنَقُولُ ذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ",
+            "verseEn": "Allāh has certainly heard the statement of those [Jews] who said, \"Indeed, Allāh is poor, while we are rich.\" We will record what they said and their killing of the prophets without right and will say, \"Taste the punishment of the Burning Fire."
+          },
+          {
+            "ar": "الْكَلِمَ",
+            "en": "the words",
+            "ref": "4:46",
+            "verse": "مِّنَ ٱلَّذِينَ هَادُوا۟ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا وَٱسْمَعْ غَيْرَ مُسْمَعٍۢ وَرَٰعِنَا لَيًّۢا بِأَلْسِنَتِهِمْ وَطَعْنًۭا فِى ٱلدِّينِ ۚ وَلَوْ أَنَّهُمْ قَالُوا۟ سَمِعْنَا وَأَطَعْنَا وَٱسْمَعْ وَٱنظُرْنَا لَكَانَ خَيْرًۭا لَّهُمْ وَأَقْوَمَ وَلَـٰكِن لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًۭا",
+            "verseEn": "Among the Jews are those who distort words from their [proper] places [i.e., usages] and say, \"We hear and disobey\" and \"Hear but be not heard\" and \"Rāʿinā,\" twisting their tongues and defaming the religion. And if they had said [instead], \"We hear and obey\" and \"Wait for us [to understand],\" it would have been better for them and more suitable. But Allāh has cursed them for their disbelief, so they believe not, except for a few."
+          }
+        ]
+      },
+      {
+        "name": "أَعْدَادٌ مَذْكُورَةٌ فِي الْقُرْآنِ",
+        "nameEn": "Numbers mentioned in the Qur'an",
+        "color": "green",
+        "items": [
+          {
+            "ar": "بِعَشْرِ",
+            "en": "ten",
+            "ref": "11:13",
+            "verse": "أَمْ يَقُولُونَ افْتَرَاهُ ۖ قُلْ فَأْتُوا۟ بِعَشْرِ سُوَرٍۢ مِّثْلِهِۦ مُفْتَرَيَـٰتٍۢ وَٱدْعُوا۟ مَنِ ٱسْتَطَعْتُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَـٰدِقِينَ",
+            "verseEn": "Or do they say, \"He invented it\"? Say, \"Then bring ten sūrahs like it that have been invented and call upon [for assistance] whomever you can besides Allāh, if you should be truthful.\""
+          },
+          {
+            "ar": "وَالْخَامِسَةُ",
+            "en": "And the fifth",
+            "ref": "24:7",
+            "verse": "وَٱلْخَـٰمِسَةُ أَنَّ لَعْنَتَ ٱللَّهِ عَلَيْهِ إِن كَانَ مِنَ ٱلْكَـٰذِبِينَ",
+            "verseEn": "And the fifth [oath will be] that the curse of Allāh be upon him if he should be of the liars."
+          },
+          {
+            "ar": "إِحْدَى",
+            "en": "one",
+            "ref": "8:7",
+            "verse": "وَإِذْ يَعِدُكُمُ ٱللَّهُ إِحْدَى ٱلطَّآئِفَتَيْنِ أَنَّهَا لَكُمْ وَتَوَدُّونَ أَنَّ غَيْرَ ذَاتِ ٱلشَّوْكَةِ تَكُونُ لَكُمْ وَيُرِيدُ ٱللَّهُ أَن يُحِقَّ ٱلْحَقَّ بِكَلِمَـٰتِهِۦ وَيَقْطَعَ دَابِرَ ٱلْكَـٰفِرِينَ",
+            "verseEn": "[Remember, O believers], when Allāh promised you one of the two groups - that it would be yours - and you wished that the unarmed one would be yours. But Allāh intended to establish the truth by His words and to eliminate the disbelievers"
+          },
+          {
+            "ar": "مِّثْلَيْهَا",
+            "en": "twice of it",
+            "ref": "3:165",
+            "verse": "أَوَلَمَّآ أَصَـٰبَتْكُم مُّصِيبَةٌۭ قَدْ أَصَبْتُم مِّثْلَيْهَا قُلْتُمْ أَنَّىٰ هَـٰذَا ۖ قُلْ هُوَ مِنْ عِندِ أَنفُسِكُمْ ۗ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+            "verseEn": "Why [is it that] when a [single] disaster struck you [on the day of Uḥud], although you had struck [the enemy in the battle of Badr] with one twice as great, you said, \"From where is this?\" Say, \"It is from yourselves [i.e., due to your sin].\" Indeed, Allāh is over all things competent."
+          }
+        ]
+      },
+      {
+        "name": "مَا نُسِبَ إِلَى اللَّهِ بَاطِلًا مِنَ الْوَلَدِ وَالشُّرَكَاءِ",
+        "nameEn": "Offspring and partners falsely ascribed to Allah",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "بِالْبَنِينَ",
+            "en": "sons",
+            "ref": "17:40",
+            "verse": "أَفَأَصْفَىٰكُمْ رَبُّكُم بِٱلْبَنِينَ وَٱتَّخَذَ مِنَ ٱلْمَلَـٰٓئِكَةِ إِنَـٰثًا ۚ إِنَّكُمْ لَتَقُولُونَ قَوْلًا عَظِيمًۭا",
+            "verseEn": "Then, has your Lord chosen you for [having] sons and taken [i.e., adopted] from among the angels daughters? Indeed, you say a grave saying."
+          },
+          {
+            "ar": "إِنَاثًا",
+            "en": "females",
+            "ref": "43:19",
+            "verse": "وَجَعَلُوا۟ ٱلْمَلَـٰٓئِكَةَ ٱلَّذِينَ هُمْ عِبَـٰدُ ٱلرَّحْمَـٰنِ إِنَـٰثًا ۚ أَشَهِدُوا۟ خَلْقَهُمْ ۚ سَتُكْتَبُ شَهَـٰدَتُهُمْ وَيُسْـَٔلُونَ",
+            "verseEn": "And they described the angels, who are servants of the Most Merciful, as females. Did they witness their creation? Their testimony will be recorded, and they will be questioned."
+          },
+          {
+            "ar": "وَلَدًا",
+            "en": "a son",
+            "ref": "21:26",
+            "verse": "وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَـٰنُ وَلَدًۭا ۗ سُبْحَـٰنَهُۥ ۚ بَلْ عِبَادٌۭ مُّكْرَمُونَ",
+            "verseEn": "And they say, \"The Most Merciful has taken a son.\" Exalted is He! Rather, they are [but] honored servants."
+          },
+          {
+            "ar": "شُرَكَاؤُكُمُ",
+            "en": "your partners",
+            "ref": "6:22",
+            "verse": "وَيَوْمَ نَحْشُرُهُمْ جَمِيعًۭا ثُمَّ نَقُولُ لِلَّذِينَ أَشْرَكُوٓا۟ أَيْنَ شُرَكَآؤُكُمُ ٱلَّذِينَ كُنتُمْ تَزْعُمُونَ",
+            "verseEn": "And [mention, O Muḥammad], the Day We will gather them all together; then We will say to those who associated others with Allāh, \"Where are your 'partners' that you used to claim [with Him]?\""
+          }
+        ]
+      },
+      {
+        "name": "أَمَاكِنُ مَذْكُورَةٌ فِي الْقُرْآنِ",
+        "nameEn": "Places and realms mentioned in the Qur'an",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "السَّمَاوَاتِ",
+            "en": "(of) the heavens",
+            "ref": "19:65",
+            "verse": "رَّبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا فَٱعْبُدْهُ وَٱصْطَبِرْ لِعِبَـٰدَتِهِۦ ۚ هَلْ تَعْلَمُ لَهُۥ سَمِيًّۭا",
+            "verseEn": "Lord of the heavens and the earth and whatever is between them - so worship Him and have patience for His worship. Do you know of any similarity to Him?\""
+          },
+          {
+            "ar": "الْأَرْضِ",
+            "en": "the earth",
+            "ref": "29:20",
+            "verse": "قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ بَدَأَ ٱلْخَلْقَ ۚ ثُمَّ ٱللَّهُ يُنشِئُ ٱلنَّشْأَةَ ٱلْـَٔاخِرَةَ ۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+            "verseEn": "Say, [O Muḥammad], \"Travel through the land and observe how He began creation. Then Allāh will produce the final creation [i.e., development]. Indeed Allāh, over all things, is competent.\""
+          },
+          {
+            "ar": "بَلْدَةً",
+            "en": "(to) a land",
+            "ref": "25:49",
+            "verse": "لِّنُحْـِۧىَ بِهِۦ بَلْدَةًۭ مَّيْتًۭا وَنُسْقِيَهُۥ مِمَّا خَلَقْنَآ أَنْعَـٰمًۭا وَأَنَاسِىَّ كَثِيرًۭا",
+            "verseEn": "That We may bring to life thereby a dead land and give it as drink to those We created of numerous livestock and men."
+          },
+          {
+            "ar": "الْمَسْجِدِ",
+            "en": "Al-Masjid",
+            "ref": "8:34",
+            "verse": "وَمَا لَهُمْ أَلَّا يُعَذِّبَهُمُ ٱللَّهُ وَهُمْ يَصُدُّونَ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ وَمَا كَانُوٓا۟ أَوْلِيَآءَهُۥٓ ۚ إِنْ أَوْلِيَآؤُهُۥٓ إِلَّا ٱلْمُتَّقُونَ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+            "verseEn": "But why should Allāh not punish them while they obstruct [people] from al-Masjid al-Ḥarām and they were not [fit to be] its guardians? Its [true] guardians are not but the righteous, but most of them do not know."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "اتى",
+    "display": "أَتَىٰ",
+    "hint": "Describes the arrival of a divine decree that should not be hastened",
+    "verseRef": "16:1",
+    "arabicVerse": "أَتَىٰٓ أَمْرُ ٱللَّهِ فَلَا تَسْتَعْجِلُوهُ ۚ سُبْحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا يُشْرِكُونَ",
+    "verse": "16:1 - The command of Allāh is coming, so be not impatient for it. Exalted is He and high above what they associate with Him."
+  },
+  "scramble": {
+    "verseRef": "48:28",
+    "reference": "Al-Fath (48:28)",
+    "segments": [
+      "هُوَ الَّذِي",
+      "أَرْسَلَ رَسُولَهُ",
+      "بِالْهُدَى وَدِينِ",
+      "الْحَقِّ لِيُظْهِرَهُ عَلَى",
+      "الدِّينِ كُلِّهِ",
+      "وَكَفَى بِاللَّهِ شَهِيدًا"
+    ],
+    "translations": [
+      "He (is) the One Who (has) sent",
+      "His Messenger with guidance and (the) religion",
+      "the true that He (may) make it prevail",
+      "over the religions",
+      "all And sufficient is",
+      "Allah (as) a Witness"
+    ],
+    "hint": "Allah sent His Messenger with guidance and truth to prevail over all religions",
+    "arabic": "هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ ۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًۭا",
+    "words": [
+      "هُوَ ٱلَّذِىٓ أَرْسَلَ",
+      "رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ",
+      "ٱلْحَقِّ لِيُظْهِرَهُۥ",
+      "عَلَى ٱلدِّينِ",
+      "كُلِّهِۦ ۚ وَكَفَىٰ",
+      "بِٱللَّهِ شَهِيدًۭا"
+    ],
+    "verseEn": "It is He who sent His Messenger with guidance and the religion of truth to manifest it over all religion. And sufficient is Allāh as Witness."
+  },
+  "roothive": {
+    "center": "ن",
+    "outer": [
+      "ه",
+      "ا",
+      "م",
+      "ت",
+      "ي",
+      "و"
+    ],
+    "root": {
+      "letters": "امن",
+      "display": "ا م ن",
+      "translit": "ʾ-m-n",
+      "meaning": "The core idea is safety, trust and freedom from fear. Believing means placing trust in God, while being secure or trustworthy means giving that same safety to others.",
+      "occurrences": 879,
+      "lemmaCount": 15
+    },
+    "words": [
+      {
+        "w": "امن",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "آمَنَ",
+            "gloss": "believe",
+            "type": "verb",
+            "root": "أمن",
+            "count": 537,
+            "ref": "2:13",
+            "pos": 6,
+            "alt": [
+              "believed",
+              "believes"
+            ],
+            "form": 4
+          },
+          {
+            "lemma": "أَمِنَ",
+            "gloss": "entrusts",
+            "type": "verb",
+            "root": "أمن",
+            "count": 20,
+            "ref": "2:283",
+            "pos": 11,
+            "alt": [
+              "feel secure"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "آمِن",
+            "gloss": "secure",
+            "type": "active participle",
+            "root": "أمن",
+            "count": 16,
+            "ref": "2:126",
+            "pos": 8,
+            "alt": [
+              "safe",
+              "safely"
+            ]
+          },
+          {
+            "lemma": "أَمْن",
+            "gloss": "security",
+            "type": "noun",
+            "root": "أمن",
+            "count": 5,
+            "ref": "24:55",
+            "pos": 26
+          }
+        ]
+      },
+      {
+        "w": "نهي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "نُهَى",
+            "gloss": "intelligence",
+            "type": "noun",
+            "root": "نهي",
+            "count": 2,
+            "ref": "20:54",
+            "pos": 9
+          }
+        ]
+      },
+      {
+        "w": "نوم",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "نَوْم",
+            "gloss": "sleep",
+            "type": "noun",
+            "root": "نوم",
+            "count": 3,
+            "ref": "2:255",
+            "pos": 12
+          }
+        ]
+      },
+      {
+        "w": "هون",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "هُون",
+            "gloss": "humiliation",
+            "type": "noun",
+            "root": "هون",
+            "count": 4,
+            "ref": "16:59",
+            "pos": 11
+          }
+        ]
+      },
+      {
+        "w": "هين",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "هَيِّن",
+            "gloss": "easy for",
+            "type": "noun",
+            "root": "هون",
+            "count": 3,
+            "ref": "19:9",
+            "pos": 7,
+            "alt": [
+              "easy",
+              "insignificant"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "وهن",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "وَهَنَ",
+            "gloss": "weakened",
+            "type": "verb",
+            "root": "وهن",
+            "count": 5,
+            "ref": "19:4",
+            "pos": 4,
+            "form": 1
+          },
+          {
+            "lemma": "وَهْن",
+            "gloss": "weakness",
+            "type": "noun",
+            "root": "وهن",
+            "count": 2,
+            "ref": "31:14",
+            "pos": 6
+          }
+        ]
+      },
+      {
+        "w": "امنه",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "أَمَنَة",
+            "gloss": "security",
+            "type": "noun",
+            "root": "أمن",
+            "count": 2,
+            "ref": "3:154",
+            "pos": 7
+          },
+          {
+            "lemma": "آمِنَة",
+            "gloss": "secure",
+            "type": "active participle",
+            "root": "أمن",
+            "count": 1,
+            "ref": "16:112",
+            "pos": 6
+          }
+        ]
+      },
+      {
+        "w": "امين",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "أَمِين",
+            "gloss": "trustworthy",
+            "type": "adjective",
+            "root": "أمن",
+            "count": 14,
+            "ref": "7:68",
+            "pos": 7,
+            "alt": [
+              "trusted",
+              "secure"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "انيه",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "آنِيَة",
+            "gloss": "boiling",
+            "type": "active participle",
+            "root": "أني",
+            "count": 2,
+            "ref": "88:5",
+            "pos": 4
+          }
+        ]
+      },
+      {
+        "w": "اهان",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَهانَ",
+            "gloss": "allah humiliates",
+            "type": "verb",
+            "root": "هون",
+            "count": 2,
+            "ref": "22:18",
+            "pos": 27,
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "ايمن",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَيْمَن",
+            "gloss": "right",
+            "type": "adjective",
+            "root": "يمن",
+            "count": 3,
+            "ref": "19:52",
+            "pos": 5
+          }
+        ]
+      },
+      {
+        "w": "مامن",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "مَأْمَن",
+            "gloss": "place of safety",
+            "type": "noun",
+            "root": "أمن",
+            "count": 1,
+            "ref": "9:6",
+            "pos": 13
+          }
+        ]
+      },
+      {
+        "w": "متين",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَتِين",
+            "gloss": "firm",
+            "type": "noun",
+            "root": "متن",
+            "count": 3,
+            "ref": "7:183",
+            "pos": 5
+          }
+        ]
+      },
+      {
+        "w": "منام",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَنام",
+            "gloss": "dream",
+            "type": "noun",
+            "root": "نوم",
+            "count": 4,
+            "ref": "8:43",
+            "pos": 5,
+            "alt": [
+              "sleep"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مهين",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مُهِين",
+            "gloss": "humiliating",
+            "type": "active participle",
+            "root": "هون",
+            "count": 14,
+            "ref": "2:90",
+            "pos": 27
+          },
+          {
+            "lemma": "مَهِين",
+            "gloss": "despised",
+            "type": "adjective",
+            "root": "مهن",
+            "count": 4,
+            "ref": "32:8",
+            "pos": 8,
+            "alt": [
+              "insignificant",
+              "worthless"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مومن",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "مُؤْمِن",
+            "gloss": "believers",
+            "type": "active participle",
+            "root": "أمن",
+            "count": 202,
+            "ref": "2:91",
+            "pos": 30,
+            "alt": [
+              "believer",
+              "believing"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "نايم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "نائِم",
+            "gloss": "asleep",
+            "type": "active participle",
+            "root": "نوم",
+            "count": 2,
+            "ref": "7:97",
+            "pos": 9,
+            "alt": [
+              "were asleep"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "هنيي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "هَنِيئ",
+            "gloss": "satisfaction",
+            "type": "noun",
+            "root": "هنأ",
+            "count": 4,
+            "ref": "4:4",
+            "pos": 13
+          }
+        ]
+      },
+      {
+        "w": "يمين",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "يَمِين",
+            "gloss": "oaths",
+            "type": "noun",
+            "root": "يمن",
+            "count": 65,
+            "ref": "5:108",
+            "pos": 12,
+            "alt": [
+              "right"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "امانت",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "أَمانَت",
+            "gloss": "trust",
+            "type": "noun",
+            "root": "أمن",
+            "count": 2,
+            "ref": "2:283",
+            "pos": 17
+          }
+        ]
+      },
+      {
+        "w": "امانه",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "أَمانَة",
+            "gloss": "trusts",
+            "type": "noun",
+            "root": "أمن",
+            "count": 4,
+            "ref": "4:58",
+            "pos": 6
+          }
+        ]
+      },
+      {
+        "w": "امنيت",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "أُمْنِيَّت",
+            "gloss": "wishful thinking",
+            "type": "noun",
+            "root": "مني",
+            "count": 6,
+            "ref": "2:78",
+            "pos": 7,
+            "alt": [
+              "desire"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "انتهي",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "انتَهَى",
+            "gloss": "desist",
+            "type": "verb",
+            "root": "نهي",
+            "count": 16,
+            "ref": "19:46",
+            "pos": 9,
+            "alt": [
+              "cease",
+              "desists"
+            ],
+            "form": 8
+          }
+        ]
+      },
+      {
+        "w": "اوتمن",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "اؤْتُمِنَ",
+            "gloss": "is entrusted",
+            "type": "verb",
+            "root": "أمن",
+            "count": 1,
+            "ref": "2:283",
+            "pos": 16,
+            "form": 8
+          }
+        ]
+      },
+      {
+        "w": "ايمان",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "إِيمان",
+            "gloss": "faith",
+            "type": "verbal noun",
+            "root": "أمن",
+            "count": 45,
+            "ref": "3:173",
+            "pos": 12
+          }
+        ]
+      },
+      {
+        "w": "مامون",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "مَأْمُون",
+            "gloss": "to be felt secure",
+            "type": "passive participle",
+            "root": "أمن",
+            "count": 1,
+            "ref": "70:28",
+            "pos": 5
+          }
+        ]
+      },
+      {
+        "w": "ممنون",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مَمْنُون",
+            "gloss": "ending",
+            "type": "passive participle",
+            "root": "منن",
+            "count": 4,
+            "ref": "41:8",
+            "pos": 9,
+            "alt": [
+              "never ending",
+              "end"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "منتهي",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مُنتَهَى",
+            "gloss": "utmost boundary",
+            "type": "passive participle",
+            "root": "نهي",
+            "count": 3,
+            "ref": "53:14",
+            "pos": 3,
+            "alt": [
+              "final goal",
+              "finality"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مهيمن",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مُهَيْمِن",
+            "gloss": "guardian",
+            "type": "active participle",
+            "root": "همن",
+            "count": 2,
+            "ref": "5:48",
+            "pos": 11
+          }
+        ]
+      },
+      {
+        "w": "مومنه",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "مُؤْمِنَة",
+            "gloss": "believing",
+            "type": "active participle",
+            "root": "أمن",
+            "count": 28,
+            "ref": "2:221",
+            "pos": 7,
+            "alt": [
+              "believing woman",
+              "believers"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ميمنه",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مَيْمَنَة",
+            "gloss": "right",
+            "type": "noun",
+            "root": "يمن",
+            "count": 3,
+            "ref": "56:8",
+            "pos": 2
+          }
+        ]
+      }
+    ],
+    "otherFamily": [],
+    "maxScore": 90,
+    "featuredRoot": "أمن"
+  }
+}

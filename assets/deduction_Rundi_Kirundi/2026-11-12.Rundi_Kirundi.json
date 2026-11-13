@@ -1,0 +1,61 @@
+{
+  "title": "Icizigiro ca mbere cavunitse mw'iparadizo",
+  "intro": "Ibaze ko uhagaze mw’itongo ry’amahoro atunganye, ryubahwa kuruta ivyaremwe vyose, rifise urubibi rumwe gusa rwo kwubahiriza. Ukwongora gusezerana ubudasiba, uguhitamwo kumwe gusa guhindura vyose, yamara imbabazi zifungura inzira yo gusubirayo. Ni nde avuga kuva mu ntango y’abantu?",
+  "clues": [
+    "Naremwe na Allah mw’ibumba kandi ndabumbabumba n’ukwitwararika kw’Imana.",
+    "Narateye iteka igihe Allah yategeka abamarayika kunpfukamira.",
+    "Nabaye muri Paradizo n’uwo twubakanye, mfise umwidegemvyo wo kwinovora vyose kiretse igiti kimwe.",
+    "Narihendanywe n’ukwongorera kwa Shetani yarahiye ko ari umujanama w’ukuri.",
+    "Nariye ku giti cabujijwe maze igipfukisho canje kirakurwako kubera isoni.",
+    "Narize amajambo yo kwihana ku Mukama wanje, Allah arahindukira mu mbabazi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Jaluti (Goliyati)",
+        "Zuli-Kifl",
+        "Namurudi",
+        "Umuhanuzi Adamu",
+        "Umuhanuzi Yahya"
+      ],
+      "answer": "Umuhanuzi Adamu"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Yanse kwinjira mu Gihugu Cera kubera ubwoba .",
+        "Umuriro usabwa gusengwa nk’imana .",
+        "Yishe umuvukanyi kubera ishari ry’ishikanwa .",
+        "Yariye ku giti cari kibujijwe inyuma y’aho Shetani amuvugiye mu gacerere",
+        "Yavuze yuko ibigirwamana vya ba sogokuruza bitegerezwa gusengwa ."
+      ],
+      "answer": "Yariye ku giti cari kibujijwe inyuma y’aho Shetani amuvugiye mu gacerere"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Uruzi Nili",
+        "Ubwato",
+        "Ikiyaya ceranda c'i Tuwa .",
+        "Iparadizo (Yana)",
+        "Isenga rya Hira"
+      ],
+      "answer": "Iparadizo (Yana)"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Narohamye mu mwuzure ukomeye ndi kumwe n'abahakanyi .",
+        "Allah yanyigishije amajambo yo kwihana kandi arambabarira .",
+        "Nakubiswe n'umuravyo kubera nasaba kubona Allah .",
+        "Namizwe n'ifi nini kubera gusohoka n'ishavu .",
+        "narahinduwe hamwe n'abantu banje kubera guca mw'isabato + ."
+      ],
+      "answer": "Allah yanyigishije amajambo yo kwihana kandi arambabarira ."
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

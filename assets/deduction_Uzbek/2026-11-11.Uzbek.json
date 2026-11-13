@@ -1,0 +1,61 @@
+{
+  "title": "Rahm-shafqat bilan qabul qilingan qurbonlik",
+  "intro": "Ko'zlaringizni yuming va imon chegarasigacha sinovdan o'tadigan keng, jimjit vodiyni tasavvur qiling. Siz tasavvur qilib bo'lmaydigan buyruq oldida xotirjam itoatkorligi sinov lahzasini abadiy itoatkorlik va ilohiy rahm-shafqat ramziga aylantirgan shaxs bilan uchrashmoqchisiz.",
+  "clues": [
+    "Qur'onda men sabr-toqat bilan bardosh berganlar qatorida eslanaman.",
+    "Men Allohning amriga bo'ysunishni sinovdan o'tkazadigan bir vahiyning markazida edim.",
+    "Vahiy haqida menga aytishganida, buyurilganidek qiling, shunda meni sabrlilar orasidan topasiz, dedim.",
+    "Men qurbonlik uchun qo'yilgan edim, lekin Alloh vahiyning amalga oshganini aytdi.",
+    "Alloh meni buyuk qurbonlik bilan fido qildi va keyingi avlodlar orasida menga sharaf qoldirdi.",
+    "Men Ibrohim bilan birga Baytul-Harom poydevorini qurgan, solihlar qatorida Idris va Zul-Kifl bilan birga zikr qilingan Ismoilman."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Shu'ayb",
+        "Payg'ambar Ismoil (Ismoil)",
+        "Payg'ambar Zul-Kifl",
+        "Payg'ambar Al-Yasa (Elishay)",
+        "Payg'ambar Hud"
+      ],
+      "answer": "Payg'ambar Ismoil (Ismoil)"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Yonayotgan olovga tashlanmoqda",
+        "Allohning izni bilan o'liklarni tiriltirish",
+        "Savdoda o'lchov va muvozanatni inkor etish",
+        "Buyruq qilingan qurbonlik va ixtiyoriy itoatkorlik",
+        "Katta baliq tomonidan yutib yuborilmoqda"
+      ],
+      "answer": "Buyruq qilingan qurbonlik va ixtiyoriy itoatkorlik"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Suv bilan to'lib-toshgan pishiriq pechi",
+        "Ilonga aylangan tayoq",
+        "Yo'qligida sig'inilgan oltin buzoq",
+        "To'fondagi yog'och kema",
+        "To'lov sifatida yuborilgan katta qo'chqor"
+      ],
+      "answer": "To'lov sifatida yuborilgan katta qo'chqor"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Urg'ochi tuyani rad etgani uchun kuchli zarba oldi",
+        "Gunoh qilish uchun maymunga aylandi",
+        "Sabrli va solih payg'ambarlar orasida maqtovga sazovor bo'lgan",
+        "Mag'rurlik uchun yerga yutildi",
+        "Mo'minlarni ta'qib qilayotganda dengizda cho'kib ketdi"
+      ],
+      "answer": "Sabrli va solih payg'ambarlar orasida maqtovga sazovor bo'lgan"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

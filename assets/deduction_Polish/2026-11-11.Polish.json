@@ -1,0 +1,61 @@
+{
+  "title": "Ofiara przyjęta w miłosierdziu",
+  "intro": "Zamknij oczy i wyobraź sobie rozległą, cichą dolinę, gdzie wiara wystawiana jest na próbę. Za chwilę spotkasz postać, której spokojne poddanie się niewyobrażalnemu rozkazowi przemieniło chwilę próby w wieczny symbol posłuszeństwa i boskiego miłosierdzia.",
+  "clues": [
+    "Jestem wymieniony w Koranie wśród tych, którzy wytrwali z niezachwianą cierpliwością.",
+    "Znalazłem się w centrum wizji, która testowała posłuszeństwo wobec nakazów Allaha.",
+    "Kiedy opowiedziano mi tę wizję, powiedziałem, żebym wykonał polecenie, a znajdę się wśród pacjentów.",
+    "Zostałem złożony w ofierze, lecz Allah oznajmił, że wizja się spełniła.",
+    "Bóg wykupił mnie wielką ofiarą, zapewniając mi chwałę wśród przyszłych pokoleń.",
+    "Jestem Ismail, który wraz z Ibrahimem wzniósł fundamenty Świętego Domu, wymieniony obok Idrisa i Dhul-Kifla wśród sprawiedliwych."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Szuajb",
+        "Prorok Ismail (Izmael)",
+        "Prorok Dhul-Kifl",
+        "Prorok Al-Yasa (Elizeusz)",
+        "Prorok Hud"
+      ],
+      "answer": "Prorok Ismail (Izmael)"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Wrzucenie do płonącego ognia",
+        "Przywracanie zmarłych do życia za pozwoleniem Allaha",
+        "Zaprzeczanie miarom i równowadze w handlu",
+        "Nakazane poświęcenie i dobrowolne poddanie się",
+        "Być połkniętym przez wielką rybę"
+      ],
+      "answer": "Nakazane poświęcenie i dobrowolne poddanie się"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Piekarnik tryskający wodą",
+        "Laska, która stała się wężem",
+        "Złoty cielec czczony w czasie nieobecności",
+        "Drewniana Arka w potopie",
+        "Wielki baran wysłany jako okup"
+      ],
+      "answer": "Wielki baran wysłany jako okup"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Uderzony potężnym uderzeniem za odrzucenie wielbłądzicy",
+        "Zamieniony w małpę za wykroczenie",
+        "Chwalony wśród cierpliwych i sprawiedliwych proroków",
+        "Pochłonięty przez ziemię za arogancję",
+        "Utonął w morzu, ścigając wierzących"
+      ],
+      "answer": "Chwalony wśród cierpliwych i sprawiedliwych proroków"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "D'Affer, dat a Barmhäerzegkeet ugeholl gouf",
+  "intro": "Maach d'Aen zou a stellt Iech e grousst, rouegt Dall vir, wou de Glawen bis un d'Grenze vun der Welt gepréift gëtt. Dir wäert eng Persoun begéinen, där hir roueg Ënneruerdnung virun engem onvirstellbare Kommando aus engem Moment vun der Prüfung en éiwegt Symbol vu Gehorsam a gëttlecher Barmhäerzegkeet gemaach huet.",
+  "clues": [
+    "Ech ginn am Koran ënner deenen erënnert, déi mat Gedold ausgehalen hunn.",
+    "Ech stoung am Zentrum vun enger Visioun, déi d'Ënnerwerfung dem Gebot vum Allah op d'Prouf gestallt huet.",
+    "Wéi ech Iech vun der Visioun erzielt hunn, hunn ech gesot, Dir sollt maachen, wéi et Iech opgedroe gouf, an Dir wäert mech ënnert de Gedëllege fannen.",
+    "Ech gouf fir d'Affer geluecht, awer Allah huet geruff, datt d'Visioun erfëllt war.",
+    "Allah huet mech mat engem grousse Affer befreit a mir Éier ënnert de spéidere Generatiounen hannerlooss.",
+    "Ech sinn den Ismail, deen zesumme mam Ibrahim d'Fundamenter vum Hellegen Haus geluecht huet, deen zesumme mam Idris an dem Dhul-Kifl ënner de Gerechten ernimmt gëtt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "De Prophet Schou'ayb",
+        "De Prophet Ismail (Ishmael)",
+        "Prophet Dhul-Kifl",
+        "De Prophet Al-Yasa (Elisha)",
+        "Prophet Hud"
+      ],
+      "answer": "De Prophet Ismail (Ishmael)"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "An e brennend Feier gehäit ginn",
+        "Déi Doudeg mat der Erlaabnes vun Allah zum Liewen erwächen",
+        "D'Moossnam an d'Gläichgewiicht am Handel ofleenen",
+        "Dat gebuedent Affer an déi fräiwëlleg Ënnerwerfung",
+        "Vun engem grousse Fësch verschléckt ginn"
+      ],
+      "answer": "Dat gebuedent Affer an déi fräiwëlleg Ënnerwerfung"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "E Bakuewen, deen mat Waasser iwwerschwemmt",
+        "E Staff, deen zu enger Schlaang gouf",
+        "E gëllene Kalb, deen an der Absenz veréiert gouf",
+        "Eng hëlze Ark an der Iwwerschwemmung",
+        "E grousse Widder, deen als Léisegeld geschéckt gouf"
+      ],
+      "answer": "E grousse Widder, deen als Léisegeld geschéckt gouf"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Vun engem mächtege Kraach getraff, well se d'Kamel refuséiert huet",
+        "An en Aaff fir Iwwertriedung verwandelt",
+        "Gelueft ënner de gedëllege a gerechte Prophéiten",
+        "Vun der Äerd verschléckt fir Arroganz",
+        "Am Mier erdronk, während hien Gleeweger verfollegt huet"
+      ],
+      "answer": "Gelueft ënner de gedëllege a gerechte Prophéiten"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

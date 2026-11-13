@@ -1,0 +1,61 @@
+{
+  "title": "Kotyela motema ya liboso oyo ebukani na Paladiso",
+  "intro": "Kanisá ete otɛlɛmi na elanga ya kimya ya kokoka, oyo ekumisami koleka bikelamu nyonso, oyo ezali kaka na ndelo moko oyo esengeli komemya. Mongongo ya nse elaki boseko, boponi moko ebongoli makambo nyonso, mpe atako bongo mawa efungoli nzela ya kozonga. Nani alobaka banda ebandeli ya bomoto?",
+  "clues": [
+    "Nakelamaki na Allah na mabele ya lima mpe nasalamaki na bokebi ya bonzambe.",
+    "Nazwaki lokumu ntango Allah atindaki banzelu báfukama liboso na ngai.",
+    "Nafandaki na Paladiso elongo na molongani na ngai, na bonsomi ya kosepela na biloko nyonso longola kaka nzete moko.",
+    "Nakosamaki na mongongo ya nse ya Satana oyo alapaki ndai ete akozala mopesi toli ya motema sembo.",
+    "Nalyaki mbuma ya nzete oyo epekisamaki mpe ezipeli na ngai elongolamaki na nsɔni.",
+    "Nayekolaki maloba ya boyamboli epai ya Nkolo na ngai, mpe Allah abalukaki epai na ngai na ngolu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Jalut (Goliate) .",
+        "Dhul-Kifl azali moto ya mayele",
+        "Namrud, oyo azali",
+        "Mosakoli Adama",
+        "Mosakoli Yahya"
+      ],
+      "answer": "Mosakoli Adama"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Aboyaki kokota na Mokili Mosantu mpo na bobangi",
+        "Asengaki mɔ́tɔ esambelama lokola nzambe",
+        "Abomaki ndeko moko mpo na zuwa mpo na likabo moko",
+        "Aliaki mbuma ya nzete oyo epekisamaki nsima ya kolobaloba ya Satana na mongongo ya nse",
+        "Alobaki ete esengeli kosambela bikeko ya bankɔkɔ"
+      ],
+      "answer": "Aliaki mbuma ya nzete oyo epekisamaki nsima ya kolobaloba ya Satana na mongongo ya nse"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Ebale Nil",
+        "Sanduku",
+        "Lobwaku Mosantu ya Tuwa",
+        "Paladiso (Jannah) .",
+        "Libulu ya Hira"
+      ],
+      "answer": "Paladiso (Jannah) ."
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Nazindaki na mpela monene elongo na bato oyo bazangi kondima",
+        "Allah ateyaki ngai maloba ya boyamboli mpe alimbisaki ngai",
+        "Nabɛtaki nkake mpo nasɛngaki komona Allah",
+        "Namelamaki na mbisi moko monene mpo nalongwaki na nkanda",
+        "Nabongwanaki elongo na bato na ngai mpo na kobuka Saba"
+      ],
+      "answer": "Allah ateyaki ngai maloba ya boyamboli mpe alimbisaki ngai"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

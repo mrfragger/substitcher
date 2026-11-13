@@ -1,0 +1,61 @@
+{
+  "title": "La première confiance brisée au paradis",
+  "intro": "Imaginez-vous dans un jardin de paix absolue, honoré plus que toute la création, avec une seule limite à respecter. Un murmure promet l'éternité, un seul choix change tout, et pourtant la miséricorde ouvre un chemin de retour. Qui parle depuis l'aube de l'humanité ?",
+  "clues": [
+    "J'ai été créé par Allah à partir d'argile et façonné avec une attention divine.",
+    "J'ai été honoré lorsqu'Allah a ordonné aux anges de se prosterner devant moi.",
+    "Je vivais au paradis avec mon époux, libre de profiter de tout sauf d'un seul arbre.",
+    "J'ai été trompé par les murmures de Satan qui prétendait être un conseiller sincère.",
+    "J'ai mangé du fruit défendu et on m'a ôté mon voile par honte.",
+    "J'ai appris de mon Seigneur les paroles du repentir, et Allah s'est tourné vers moi avec miséricorde."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Jalut (Goliath)",
+        "Dhul-Kifl",
+        "Namrud",
+        "Le prophète Adam",
+        "Prophète Yahya"
+      ],
+      "answer": "Le prophète Adam"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Ils ont refusé d'entrer en Terre sainte par peur.",
+        "Il exigea que le feu soit vénéré comme un dieu",
+        "Il a tué son frère par jalousie à propos d'une offrande",
+        "Elle mangea du fruit défendu après les murmures de Satan",
+        "Il a soutenu que les idoles des ancêtres devaient être vénérées."
+      ],
+      "answer": "Elle mangea du fruit défendu après les murmures de Satan"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Le Nil",
+        "L'Arche",
+        "La Vallée Sacrée de Tuwa",
+        "Paradis (Jannah)",
+        "La grotte de Hira"
+      ],
+      "answer": "Paradis (Jannah)"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "J'ai été englouti par le grand déluge avec les incrédules.",
+        "Allah m'a enseigné les paroles du repentir et m'a pardonné.",
+        "J'ai été frappé par la foudre pour avoir exigé de voir Allah",
+        "J'ai été englouti par un grand poisson pour être parti en colère.",
+        "J'ai été transformé avec mon peuple pour avoir transgressé le sabbat."
+      ],
+      "answer": "Allah m'a enseigné les paroles du repentir et m'a pardonné."
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

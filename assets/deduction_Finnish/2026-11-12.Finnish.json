@@ -1,0 +1,61 @@
+{
+  "title": "Ensimmäinen luottamus rikottu paratiisissa",
+  "intro": "Kuvittele seisovasi täydellisen rauhan puutarhassa, kaiken luomakunnan yläpuolella, kunnioitettuna, vain yhtä rajaa kunnioitettavana. Kuiskaus lupaa ikuisuuden, yksi ainoa valinta muuttaa kaiken, ja silti armo avaa tien takaisin. Kuka puhuu ihmiskunnan alusta asti?",
+  "clues": [
+    "Allah loi minut savesta ja muovasi minut jumalallisella huolenpidolla.",
+    "Minulle annettiin kunnia, kun Allah käski enkelien kumartaa edessäni.",
+    "Asuin paratiisissa puolisoni kanssa ja sain nauttia kaikesta muusta paitsi yhdestä puusta.",
+    "Minut petti Saatanan kuiskaukset, joka vannoi olevansa vilpitön neuvonantaja.",
+    "Söin kielletystä puusta, ja häpeästäni peitteeni riisuttiin.",
+    "Opin katumuksen sanoja Herraltani, ja Allah kääntyi puoleeni armollisesti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Jalut (Goljat)",
+        "Dhul-Kifl",
+        "Namrud",
+        "Profeetta Aadam",
+        "Profeetta Jahja"
+      ],
+      "answer": "Profeetta Aadam"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Kieltäytyi pelosta astumasta Pyhään maahan",
+        "Vaati tulen palvomista jumalana",
+        "Tappoi veljen kateudesta uhrilahjan vuoksi",
+        "Söi kielletystä puusta Saatanan kuiskauksen jälkeen",
+        "Väitti, että esi-isien epäjumalia on palvottava"
+      ],
+      "answer": "Söi kielletystä puusta Saatanan kuiskauksen jälkeen"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Niili",
+        "Arkki",
+        "Tuwan pyhä laakso",
+        "Paratiisi (Jannah)",
+        "Hiran luola"
+      ],
+      "answer": "Paratiisi (Jannah)"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Minut hukkui suureen tulvaan epäuskoisten kanssa",
+        "Allah opetti minulle katumuksen sanoja ja antoi minulle anteeksi",
+        "Minuun iski salama, koska vaadin nähdä Allahin",
+        "Suuri kala nielaisi minut, koska lähdin vihaisena",
+        "Muutuin kansani kanssa, koska rikoin sapatin"
+      ],
+      "answer": "Allah opetti minulle katumuksen sanoja ja antoi minulle anteeksi"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

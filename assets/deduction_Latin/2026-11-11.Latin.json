@@ -1,0 +1,61 @@
+{
+  "title": "Sacrificium in Misericordia Acceptum",
+  "intro": "Claude oculos et imagina te vallem vastam silentemque ubi fides ad extremum probatur. Mox figuram tibi occurres cuius tranquilla submissio, ante iussum inimaginabilem, momentum tentationis in aeternum symbolum oboedientiae et divinae misericordiae convertit.",
+  "clues": [
+    "In Corano memoror inter eos qui perseveraverunt cum perseverantia.",
+    "In medio visionis eram quae subiectionem imperio Allah probabat.",
+    "Cum de visione narrata esset, dixi ut faceres quod iussum erat et me inter aegros invenies.",
+    "Ad sacrificium prostratus sum, sed Deus clamavit visionem impletam esse.",
+    "Allah me magno sacrificio redemit, mihi honorem relinquens inter generationes posteriores.",
+    "Ego sum Ismail, qui cum Ibrahim fundamenta Sacrae Domus erexit, una cum Idris et Dhul-Kifl inter iustos memoratus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Shu'ayb",
+        "Propheta Ismail (Ismael)",
+        "Propheta Dhul-Kifl",
+        "Propheta Al-Yasa (Eliseus)",
+        "Propheta Hud"
+      ],
+      "answer": "Propheta Ismail (Ismael)"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "In ignem ardentem coniectus",
+        "Mortuos ad vitam revocans, permissu Dei",
+        "Negando mensuram et aequilibrium in commercio",
+        "Sacrificium mandatum et submissio voluntaria",
+        "Ab magno pisce deglutitus"
+      ],
+      "answer": "Sacrificium mandatum et submissio voluntaria"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Clibanus aqua scatens",
+        "Baculus qui in serpentem factus est",
+        "Vitulus aureus absente adoratus",
+        "Arca lignea in diluvio",
+        "Aries magnus missus pro redemptione"
+      ],
+      "answer": "Aries magnus missus pro redemptione"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Ingenti flatu percussus ob camelam repudiandam",
+        "In simiam propter transgressionem conversus",
+        "Laudatus inter patientes et iustos prophetas",
+        "A terra propter arrogantiam absorptus",
+        "In mari submersus dum fideles persequitur"
+      ],
+      "answer": "Laudatus inter patientes et iustos prophetas"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

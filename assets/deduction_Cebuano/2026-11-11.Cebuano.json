@@ -1,0 +1,61 @@
+{
+  "title": "Ang Halad nga Gidawat sa Kalooy",
+  "intro": "Piyonga ang imong mga mata ug handurawa ang usa ka halapad ug hilom nga walog diin ang pagtuo gisulayan hangtod sa kinutuban niini. Hapit na nimo mahimamat ang usa ka tawo kansang kalmado nga pagpasakop atubangan sa usa ka dili mahunahuna nga sugo naghimo sa usa ka gutlo sa pagsulay nga usa ka walay katapusan nga simbolo sa pagkamasinugtanon ug balaan nga kalooy.",
+  "clues": [
+    "Nahinumduman ako sa Quran nga usa sa mga tawo nga nakalahutay uban ang makanunayong pailub.",
+    "Naa ko sa sentro sa usa ka panan-awon nga nagsulay sa pagpasakop sa sugo sa Allah.",
+    "Sa dihang gisultihan ako bahin sa panan-awon, ako miingon nga buhaton ko ang gisugo ug makita ninyo ako nga usa sa mga mapailubon.",
+    "Gihigda ako alang sa sakripisyo, apan si Allah mitawag nga ang panan-awon natuman.",
+    "Gitubos ako ni Allah pinaagi sa usa ka dakong sakripisyo, nga nagbilin ug dungog alang kanako taliwala sa ulahi nga mga henerasyon.",
+    "Ako si Ismail, kinsa uban ni Ibrahim nagpatindog sa mga pundasyon sa Sagradong Balay, nga gihisgutan uban ni Idris ug Dhul-Kifl lakip sa mga matarong."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Propeta Shu'ayb",
+        "Propeta Ismail (Ishmael)",
+        "Propeta Dhul-Kifl",
+        "Propeta Al-Yasa (Eliseo)",
+        "Propeta Hud"
+      ],
+      "answer": "Propeta Ismail (Ishmael)"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Gilabay ngadto sa nagdilaab nga kalayo",
+        "Ang pagtawag sa mga patay balik sa kinabuhi pinaagi sa pagtugot ni Allah",
+        "Paglimud sa sukod ug balanse sa pamatigayon",
+        "Ang gisugo nga sakripisyo ug kinabubut-ong pagpasakop",
+        "Gitulon sa usa ka dakong isda"
+      ],
+      "answer": "Ang gisugo nga sakripisyo ug kinabubut-ong pagpasakop"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Usa ka hudno nga nagbukal ug tubig",
+        "Usa ka sungkod nga nahimong bitin",
+        "Usa ka bulawan nga nating baka nga gisimba bisan wala",
+        "Usa ka kahoy nga Arka sa panahon sa baha",
+        "Usa ka dakong karnero nga gipadala isip lukat"
+      ],
+      "answer": "Usa ka dakong karnero nga gipadala isip lukat"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Naigo sa kusog nga pagbuto tungod sa pagsalikway sa bayeng kamelyo",
+        "Nahimong unggoy tungod sa kalapasan",
+        "Gidayeg taliwala sa mapailubon ug matarong nga mga propeta",
+        "Gilamoy sa yuta tungod sa pagkamapahitas-on",
+        "Nalumos sa dagat samtang naggukod sa mga tumutuo"
+      ],
+      "answer": "Gidayeg taliwala sa mapailubon ug matarong nga mga propeta"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

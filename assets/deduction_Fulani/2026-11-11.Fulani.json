@@ -1,0 +1,61 @@
+{
+  "title": "Sadak Jaɓaaɗo e Yurmeende",
+  "intro": "Uddit gite maa, ƴeewto-ɗaa falnde mawnde, deƴƴunde ɗo iimanaagal jarribee haa keerol mum. Aɗa jogori hawrude e limre nde ɗooftaare mum deeƴnde e yeeso yamiroore nde miijaaka, wayli sahaa jarribo, wonti maande duumiinde ɗooftaare e yurmeende Alla.",
+  "clues": [
+    "Miɗo siftoree e nder Quraan e nder muñɓe e muñal tiiɗngal.",
+    "Miɗo wonnoo e hakkunde njillu jarriborgu ɗooftaare yamiroore Alla.",
+    "Nde kaaldaa e gite ɗee, mbi’mi waɗ no yamiraa nii, aɗa tawa mi e nder muñɓe.",
+    "Mi lelnaama e sadak, kono Alla noddii wonde yi’annde ndee timmii.",
+    "Alla soodi mi e sadak mawɗo, acciri mi teddungal e nder yontaaji garooji.",
+    "Miin woni Ismaa’il, mo Ibraahiima umminii tuugnorgal suudu cemmbinndu, ciftoraaɗo e bannge Idris e Dhul-Kifl e nder moƴƴuɓe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol ko ngonmi?",
+      "options": [
+        "Annabi Shu'ayb",
+        "Annabi Ismaa'il (Ismaa'il)",
+        "Annabi Zul kifl",
+        "Annabi Al-Yasa (Elisa)",
+        "Annabi Huudu"
+      ],
+      "answer": "Annabi Ismaa'il (Ismaa'il)"
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "Werde e nder yiite ɓuuɓɗo",
+        "Noddude maayɓe e nguurndam e dow yamiroore Alla",
+        "Yeddude peeje e balans e nder njulaagu",
+        "Sadak yamiraa e ɗooftaare yiɗde",
+        "Ko liɗɗi mawɗi ɓuuɓnata ɗum"
+      ],
+      "answer": "Sadak yamiraa e ɗooftaare yiɗde"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Foor bakkaat ina ɓuuɓna ndiyam",
+        "Sawru ndu wonti mboddi",
+        "Nagge kaŋŋe reweteeɗo tawa alaa",
+        "Laana leɗɗe e nder ilam",
+        "Jawdi mawndi neldaa ngam coodgu"
+      ],
+      "answer": "Jawdi mawndi neldaa ngam coodgu"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "Fiyaaɗo e ɓuuɓri mawndi ngam salaade gelooɗi debbo",
+        "Wayliima wonti ape ngam tooñannge",
+        "Mantaaɗo e nder annabaaɓe muñɓe e peewɓe",
+        "Muuɗi leydi ngam mawnikinaare",
+        "Njokkii e maayo ina rewa gooŋɗinɓe"
+      ],
+      "answer": "Mantaaɗo e nder annabaaɓe muñɓe e peewɓe"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

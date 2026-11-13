@@ -1,0 +1,61 @@
+{
+  "title": "Ikimazi cakiriwe mu mbabazi .",
+  "intro": "Funga amaso maze wiyumvire ikiyaya kinini kandi kicereje aho ukwizera kugeragezwa gushika aho kugarukira. Ugiye guhura n’umuntu ukuyoboka kwiwe gutuje imbere y’itegeko ritashobora kwiyumvirwa kwahinduye umwanya w’ikigeragezo ikimenyetso c’ibihe bidahera c’ukugamburuka n’ikigongwe c’Imana.",
+  "clues": [
+    "Ndibuka muri Korowani mu bihanganye n’ukwihangana gukomeye.",
+    "Nari hagati y’iyerekwa ryagerageza ukuyobokera itegeko rya Allah.",
+    "Babwiwe ivy’iyerekwa, ndavuga nti mukore nk’uko mwategetswe muzosanga ndi mu barwayi.",
+    "Narashizwe hasi kubera ikimazi, ariko Allah arahamagara ngo iyerekwa ryarangutse.",
+    "Allah yarancunguye n’ikimazi gikomeye, ansiga icubahiro mu mayaruka azoza.",
+    "Ndi Ismail, uwo na Ibrahim twashizeho imishinge y’Inzu Nyeranda, ivugwa iruhande ya Idris na Dhul-Kifl mu bagororotsi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umuhanuzi Shuhaybu",
+        "Umuhanuzi Isimayeli (Ishimayeli)",
+        "Umuhanuzi Zul-Kifl",
+        "Umuhanuzi Al-Yasa (Elisa)",
+        "Umuhanuzi Hudi"
+      ],
+      "answer": "Umuhanuzi Isimayeli (Ishimayeli)"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Kujugunywa mu muriro ururumba .",
+        "Guhamagara abapfuye ngo basubire kubaho ku ruhusha rwa Allah",
+        "Guhakana ingero n'uburinganire mu bucuruzi",
+        "Ikimazi categetswe be n’ukuyoboka n’umutima ukunze .",
+        "Kumirwa n'ifi nini ."
+      ],
+      "answer": "Ikimazi categetswe be n’ukuyoboka n’umutima ukunze ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Ifuru yo guteka imikate ivuye amazi",
+        "Inkoni yahindutse inzoka .",
+        "Inyana y'inzahabu isengwa iyo atahari .",
+        "Ubwato bw'ibiti mu mwuzure .",
+        "Impfizi y’intama nini yarungitswe ngo ibe incungu ."
+      ],
+      "answer": "Impfizi y’intama nini yarungitswe ngo ibe incungu ."
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Yakubiswe n’igisasu gikomeye kubera yanse ingamiya y’ingore .",
+        "Yahindutse ikimazi kubera icaha",
+        "Yashimagijwe mu bahanuzi bihanganye kandi bagororotse .",
+        "Yamizwe n'isi kubera ubwibone .",
+        "Yarohamye mu kiyaga mu gihe yariko akurikira abemera ."
+      ],
+      "answer": "Yashimagijwe mu bahanuzi bihanganye kandi bagororotse ."
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

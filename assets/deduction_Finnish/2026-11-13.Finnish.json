@@ -1,0 +1,61 @@
+{
+  "title": "Viisauteen kaiverrettu neuvo",
+  "intro": "Kuvittele seisovasi hahmon vieressä, joka ei tunneta ihmeistään tai valtakunnistaan, vaan sanoista, jotka edelleen ohjaavat sydämiä. Tämä Allahin palvelija sai kallisarvoisen lahjan ja vuodatti kiitollisuutta jokaiseen neuvoon, jonka hän antoi rakkaalle nuorelle oppilaalleen.",
+  "clues": [
+    "Allah siunasi minua viisaudella ja käski minua olemaan siitä kiitollinen.",
+    "Puhuin pojalleni lempeällä kehotuksella, varoituksella rakkaudella ja huolenpidolla.",
+    "Sanoin pojalleni, että Allahin rinnalle asettaminen on valtava väärin.",
+    "Neuvoin poikaani rukoilemaan, kehottamaan hyvään, kieltämään pahasta ja olemaan kärsivällinen.",
+    "Varoitin poikaani, ettei hän käännä poskeaan ylpeydessä eikä kävele maan päällä ylimielisenä.",
+    "Opetin poikaani kulkemaan kohtuullisesti ja madaltamaan ääntä, sillä karkein ääni on aasien hirnahdus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Dhul-Kifl, potilas",
+        "Luqman Viisas",
+        "Kahden puutarhan mies",
+        "Tubba, hallitsija",
+        "Khidr-opas"
+      ],
+      "answer": "Luqman Viisas"
+    },
+    "trial": {
+      "label": "Suurin neuvoni",
+      "options": [
+        "Neuvoin lastani olemaan asettamatta kumppaneita Allahin rinnalle",
+        "Arkin rakentaminen selviytymään suuresta vedenpaisumuksesta",
+        "Hallitsijan unen tulkinta vankilassa",
+        "Faaraon kohtaaminen ihmeellisten merkkien kanssa",
+        "Suuren kalan nielaisu meressä"
+      ],
+      "answer": "Neuvoin lastani olemaan asettamatta kumppaneita Allahin rinnalle"
+    },
+    "location": {
+      "label": "Minulle annettu lahja",
+      "options": [
+        "Sauva, josta tuli käärme",
+        "Viisautta ja kiitollisuutta Allahille",
+        "Valtaistuin kannetaan silmänräpäyksessä",
+        "Gofer-puusta tehty arkki",
+        "Taatelipalmujen ja viiniköynnösten puutarha"
+      ],
+      "answer": "Viisautta ja kiitollisuutta Allahille"
+    },
+    "outcome": {
+      "label": "Miten minut muistetaan",
+      "options": [
+        "Kuin yksi hukkui tulvaan epäuskonsa vuoksi",
+        "Kuin maan ylpeyden vuoksi nielaisema",
+        "Kiitollisuuden ja viisaiden vanhempien neuvojen mallina",
+        "Kuin taivaalta tulleesta mahtavasta räjähdyksestä tuhoutunut",
+        "Kuten sapatin rikkomisesta muuttunut"
+      ],
+      "answer": "Kiitollisuuden ja viisaiden vanhempien neuvojen mallina"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Imani ya Kwanza Iliyovunjwa Peponi",
+  "intro": "Hebu fikiria umesimama katika bustani yenye amani kamilifu, ukiheshimiwa kuliko viumbe vyote, ukiwa na mpaka mmoja tu wa kuheshimu. Mnong'ono unaahidi umilele, chaguo moja hubadilisha kila kitu, na bado rehema hufungua njia ya kurudi. Nani anayesema tangu mwanzo wa ubinadamu?",
+  "clues": [
+    "Niliumbwa na Mwenyezi Mungu kwa udongo na kuumbwa kwa uangalifu wa kimungu.",
+    "Niliheshimiwa Mwenyezi Mungu alipowaamuru malaika kunisujudia.",
+    "Niliishi Paradiso na mwenzi wangu, huru kufurahia yote isipokuwa mti mmoja.",
+    "Nilidanganywa na minong'ono ya Shetani aliyeapa kuwa mshauri mwaminifu.",
+    "Nilikula kutoka kwenye mti uliokatazwa na kifuniko changu kikaondolewa kwa aibu.",
+    "Nilijifunza maneno ya toba kutoka kwa Mola wangu, na Mwenyezi Mungu akanigeukia kwa rehema."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Jaluti (Goliathi)",
+        "Dhul-Kifl",
+        "Namrud",
+        "Nabii Adamu",
+        "Nabii Yahya"
+      ],
+      "answer": "Nabii Adamu"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Alikataa kuingia katika Nchi Takatifu kwa sababu ya hofu",
+        "Moto unaodaiwa kuabudiwa kama mungu",
+        "Alimuua ndugu kwa wivu kwa ajili ya sadaka",
+        "Nilikula kutoka kwenye mti uliokatazwa baada ya kunong'ona kwa Shetani",
+        "Walibishana kwamba sanamu za mababu lazima ziabudiwe"
+      ],
+      "answer": "Nilikula kutoka kwenye mti uliokatazwa baada ya kunong'ona kwa Shetani"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Mto Nile",
+        "Sanduku",
+        "Bonde Takatifu la Tuwa",
+        "Paradiso (Jannah)",
+        "Pango la Hira"
+      ],
+      "answer": "Paradiso (Jannah)"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Nilizama katika mafuriko makubwa pamoja na makafiri",
+        "Mwenyezi Mungu alinifundisha maneno ya toba na akanisamehe",
+        "Nilipigwa na radi kwa kudai kumuona Mwenyezi Mungu",
+        "Nilimezwa na samaki mkubwa kwa kuondoka kwa hasira",
+        "Nilibadilishwa na watu wangu kwa kuvunja Sabato"
+      ],
+      "answer": "Mwenyezi Mungu alinifundisha maneno ya toba na akanisamehe"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Amaanaa Jalqabaa Jannata Keessatti Cabe",
+  "intro": "Mee iddoo biqiltuu nagaa guutuu qabu, uumama hundumaa caalaa kabajamee, daangaa tokko qofa kabajuu qabu keessa dhaabbattee yaadi. Xuxxuquun bara baraa waadaa seena, filannoo tokko waan hunda jijjiira, ta’us araarri karaa duubatti deebi’uu bana. Jalqaba dhala namaa irraa eenyutu dubbata?",
+  "clues": [
+    "Rabbiin suphee irraa uume, of eeggannoo waaqaatiin kan na fakkeesse.",
+    "Rabbiin malaaykonni akka naaf sujuudanitti ajajetti kabajaan argadhe.",
+    "Muka tokko malee hundatti gammaduudhaaf bilisa taʼee, haadha manaa koo wajjin Jannata keessa jiraadhe.",
+    "Gorsaa garaa qulqulluu ta'uuf kakate Seexana hasaasaan na gowwoomse.",
+    "Muka haraama irraa nyaadhee haguuggiin koo qaanii irraa buqqa'e.",
+    "Jechoota tawbaa Gooftaa kiyya irraan baradhe, Rabbiinis rahmata natti deebi’e."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Jalut (Goliyaad) .",
+        "Dhul-Kifl jedhamuun beekama",
+        "Namrud jedhamuun beekama",
+        "Nabi Addaam",
+        "Nabi Yahyaa"
+      ],
+      "answer": "Nabi Addaam"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Sodaa irraa kan ka'e Biyya Qulqulleettii seenuu dide",
+        "Ibiddi akka waaqatti akka waaqeffamu gaafate",
+        "Aarsaa irratti hinaaffaa irraa kan ka'e obboleessa tokko ajjeese",
+        "Seexanni erga hasaasee booda muka dhorkame irraa nyaate",
+        "Waaqolii tolfamoo abbootii waaqeffamuu qabu jechuun falme"
+      ],
+      "answer": "Seexanni erga hasaasee booda muka dhorkame irraa nyaate"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Laga Abbayyaa",
+        "Taabota",
+        "Gammoojjii Qulqulluu Tuwaa",
+        "Jannata (Jannaa) .",
+        "Holqa Hiraa"
+      ],
+      "answer": "Jannata (Jannaa) ."
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Kaafiroota waliin lolaa guddaa sana keessatti liqimfame",
+        "Rabbiin jechoota towbaa na barsiisee naaf araarama",
+        "Rabbiin arguuf gaafachuu kootiin balaqqeessaan rukutame",
+        "Aariidhaan waanan ba'eef qurxummii guddaan liqimfame",
+        "Sanbata cabsuu kootiin saba koo waliin jijjiirame"
+      ],
+      "answer": "Rabbiin jechoota towbaa na barsiisee naaf araarama"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Bilgelikle İşlenmiş Öğüt",
+  "intro": "Mucizeleriyle veya krallıklarıyla değil, bugün bile kalplere yol gösteren sözleriyle tanınan bir şahsiyetin yanında durduğunuzu hayal edin. Allah'ın bu kulu, kıymetli bir hediye aldı ve sevgili genç bir öğrencisine verdiği her öğüde şükranını kattı.",
+  "clues": [
+    "Allah bana bilgelik bahşetti ve bunun için şükretmeyi emretti.",
+    "Oğlumla şefkatle, sevgi ve endişeyle nasihat ederek konuştum.",
+    "Oğluma Allah'a ortak koşmanın çok büyük bir yanlış olduğunu söyledim.",
+    "Oğluma namazı kılmasını, iyiliği emretmesini, kötülüğü yasaklamasını ve sabretmesini öğütledim.",
+    "Oğlumu kibirle yüzünü çevirmemesi ve yeryüzünde küstahça yürümemesi konusunda uyardım.",
+    "Oğluma temposunu ayarlamayı ve sesini alçaltmayı öğrettim, çünkü en sert ses eşeklerin anırmasıdır."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Hasta Zül-Kifl",
+        "Bilge Lukman",
+        "İki Bahçenin Adamı",
+        "Hükümdar Tubba",
+        "Rehber Hızır"
+      ],
+      "answer": "Bilge Lukman"
+    },
+    "trial": {
+      "label": "En Büyük Tavsiyem",
+      "options": [
+        "Çocuğuma Allah'a ortak koşmaması konusunda nasihatte bulunmak.",
+        "Büyük tufandan kurtulmak için bir gemi inşa etmek",
+        "Hükümdarın hapishanedeyken gördüğü rüyayı yorumlamak",
+        "Firavun'u mucizevi işaretlerle yüzleştirmek",
+        "Denizde büyük bir balık tarafından yutulmak"
+      ],
+      "answer": "Çocuğuma Allah'a ortak koşmaması konusunda nasihatte bulunmak."
+    },
+    "location": {
+      "label": "Bana Verilen Hediye",
+      "options": [
+        "Yılana dönüşen bir asa",
+        "Hikmet ve Allah'a şükür",
+        "Göz açıp kapayıncaya kadar taşınan bir taht",
+        "Gopher ağacından yapılmış bir gemi",
+        "Hurma ağaçları ve üzüm bağlarından oluşan bir bahçe."
+      ],
+      "answer": "Hikmet ve Allah'a şükür"
+    },
+    "outcome": {
+      "label": "Nasıl Hatırlanıyorum",
+      "options": [
+        "İnançsızlık yüzünden selde boğulanlardan biri",
+        "Gurur yüzünden yer tarafından yutulan biri gibi",
+        "Minnettarlığın ve bilge ebeveyn tavsiyesinin bir modeli olarak",
+        "Gökyüzünden gelen müthiş bir patlamayla yok edilenlerden biri gibi",
+        "Şabat gününü ihlal ettiği için dönüşüme uğrayan biri gibi"
+      ],
+      "answer": "Minnettarlığın ve bilge ebeveyn tavsiyesinin bir modeli olarak"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

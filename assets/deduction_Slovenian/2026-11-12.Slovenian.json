@@ -1,0 +1,61 @@
+{
+  "title": "Prvo zaupanje, zlomljeno v raju",
+  "intro": "Predstavljajte si, da stojite v vrtu popolnega miru, spoštovani nad vsem stvarstvom, z eno samo mejo, ki jo je treba spoštovati. Šepet obljublja večnost, ena sama izbira spremeni vse, a vendar usmiljenje odpira pot nazaj. Kdo govori od začetka človeštva?",
+  "clues": [
+    "Alah me je ustvaril iz gline in oblikoval z božjo skrbnostjo.",
+    "Počaščen sem bil, ko je Alah ukazal angelom, naj se mi poklonijo.",
+    "Z možem sem živel v raju in užival v vsem, razen v enem drevesu.",
+    "Prevaral me je šepet Satana, ki je prisegel, da je iskren svetovalec.",
+    "Jedel sem s prepovedanega drevesa in od sramu sem slekel svoj odej.",
+    "Od svojega Gospodarja sem se naučil besed kesanja in Allah se je usmilil mene."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Džalut (Goljat)",
+        "Zul-kifl",
+        "Namrud",
+        "Prerok Adam",
+        "Prerok Jahja"
+      ],
+      "answer": "Prerok Adam"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Zaradi strahu ni hotel vstopiti v Sveto deželo",
+        "Zahteval je, da se ogenj časti kot bog",
+        "Iz zavisti zaradi daritve je ubil brata",
+        "Jedel je s prepovedanega drevesa po Satanovem šepetanju",
+        "Trdil je, da je treba častiti idole prednikov"
+      ],
+      "answer": "Jedel je s prepovedanega drevesa po Satanovem šepetanju"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Reka Nil",
+        "Skrinja",
+        "Sveta dolina Tuwa",
+        "Raj (Džana)",
+        "Jama Hira"
+      ],
+      "answer": "Raj (Džana)"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Utopil sem se v veliki poplavi z neverniki",
+        "Allah me je naučil besed kesanja in mi odpustil",
+        "Zadela me je strela, ker sem zahteval, da vidim Alaha",
+        "Požrla me je velika riba, ker sem jezno odšel",
+        "Spremenil sem se skupaj s svojim ljudstvom, ker sem kršil soboto"
+      ],
+      "answer": "Allah me je naučil besed kesanja in mi odpustil"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

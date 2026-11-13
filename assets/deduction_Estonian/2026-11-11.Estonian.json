@@ -1,0 +1,61 @@
+{
+  "title": "Halastuses vastuvõetud ohver",
+  "intro": "Sulgege silmad ja kujutage ette avarat, vaikset orgu, kus usku proovile pannakse viimse piirini. Te kohtute peagi tegelasega, kelle rahulik alistumine kujuteldamatu käsu ees muutis katsumuse hetke igaveseks kuulekuse ja jumaliku halastuse sümboliks.",
+  "clues": [
+    "Koraanis mäletatakse mind nende seas, kes pidasid vastu vankumatu kannatlikkusega.",
+    "Olin nägemuse keskmes, mis pani proovile kuuletumise Allahi käsule.",
+    "Kui mulle nägemusest räägiti, ütlesin ma, et teeksin nii, nagu kästud, ja te leiate mind kannatlike seast.",
+    "Mind pandi ohvriks, aga Allah hüüdis, et nägemus täitus.",
+    "Allah lunastas mind suure ohvriga, jättes mulle au tulevaste põlvede seas.",
+    "Mina olen Ismail, kes koos Ibrahimiga rajas Püha Maja vundamendi, keda on õigete seas mainitud koos Idrise ja Dhul-Kifliga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Šu'ayb",
+        "Prohvet Ismail (Ismael)",
+        "Prohvet Dhul-Kifl",
+        "Prohvet Al-Yasa (Eliisa)",
+        "Prohvet Hud"
+      ],
+      "answer": "Prohvet Ismail (Ismael)"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Lõõmavasse tulle visatud",
+        "Surnute ellu kutsumine Allahi loal",
+        "Mõõtme ja kaubanduse tasakaalu eitamine",
+        "Käsklus ohverdusest ja vabatahtlikust alistumisest",
+        "Suure kala poolt alla neelatud"
+      ],
+      "answer": "Käsklus ohverdusest ja vabatahtlikust alistumisest"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Küpsetusahi, mis purskab vett",
+        "Personali, mis muutus maoks",
+        "Kuldvasikas kummardati eemalolekul",
+        "Puidust laev üleujutuses",
+        "Lunarahaks saadetud suur jäär"
+      ],
+      "answer": "Lunarahaks saadetud suur jäär"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Tabatud võimsa hoobiga emase kaameli tagasilükkamise eest",
+        "Muutus üleastumise pärast ahviks",
+        "Kiidetud kannatlike ja õiglaste prohvetite seas",
+        "Maa neelas ülbuse pärast alla",
+        "Uppus merre usklikke taga ajades"
+      ],
+      "answer": "Kiidetud kannatlike ja õiglaste prohvetite seas"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

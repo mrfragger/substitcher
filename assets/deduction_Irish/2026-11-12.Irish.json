@@ -1,0 +1,61 @@
+{
+  "title": "An Chéad Mhuinín Briste i bParthas",
+  "intro": "Samhlaigh go seasfá i ngairdín na síochána foirfe, á onóiriú os cionn gach cruthaithe, agus gan ach teorainn amháin le hurramú. Geallann cogar síoraíocht, athraíonn rogha aonair gach rud, agus fós osclaíonn trócaire bealach ar ais. Cé a labhraíonn ó thús na daonnachta?",
+  "clues": [
+    "Cruthaíodh mé ag Allah as cré agus rinneadh mé a mhúnlú le cúram diaga.",
+    "Tugadh onóir dom nuair a d’ordaigh Allah do na haingil umhlaíocht a dhéanamh dom.",
+    "Bhí cónaí orm i bParthas le mo chéile, saor chun taitneamh a bhaint as gach rud seachas crann amháin.",
+    "Cuireadh mealladh orm le cogarnach Shátain a mhionnaigh go mbeadh sé i mo chomhairleoir ó chroí.",
+    "D'ith mé ón gcrann toirmiscthe agus baineadh mo chlúdach díom i náire.",
+    "D'fhoghlaim mé focail aithrí ó mo Thiarna, agus chas Allah chugam le trócaire."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Jalut (Goliath)",
+        "Dhul-Kifl",
+        "Namrud",
+        "Fáidh Ádhamh",
+        "An Fáidh Yahya"
+      ],
+      "answer": "Fáidh Ádhamh"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Dhiúltaigh siad dul isteach sa Talamh Naofa de bharr eagla",
+        "D'éiligh sé go ndéanfaí adhradh don tine mar dhia",
+        "Mharaigh deartháir as éad faoi ofráil",
+        "D'ith ón gcrann toirmiscthe i ndiaidh cogarnaigh Shátan",
+        "D'áitigh gur cheart adhradh a dhéanamh d'íodail na sinsear"
+      ],
+      "answer": "D'ith ón gcrann toirmiscthe i ndiaidh cogarnaigh Shátan"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Abhainn na Níle",
+        "An Áirc",
+        "Gleann Naofa Tuwa",
+        "Parthas (Jannah)",
+        "Uaimh Hira"
+      ],
+      "answer": "Parthas (Jannah)"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Báthadh mé sa tuile mhór leis na heaschreidmhigh",
+        "Mhúin Allah focail aithrí dom agus mhaith sé dom",
+        "Buaileadh mé le tintreach as ucht éileamh a dhéanamh Allah a fheiceáil",
+        "Shlog iasc mór mé as imeacht i bhfeirg",
+        "Rinneadh claochlú orm féin agus ar mo mhuintir as briseadh na Sabóide"
+      ],
+      "answer": "Mhúin Allah focail aithrí dom agus mhaith sé dom"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

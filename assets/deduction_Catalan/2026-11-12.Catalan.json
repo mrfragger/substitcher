@@ -1,0 +1,61 @@
+{
+  "title": "La primera confiança trencada al paradís",
+  "intro": "Imagineu-vos estar en un jardí de pau perfecta, honorat per sobre de tota la creació, amb només un límit a respectar. Un xiuxiueig promet l'eternitat, una sola elecció ho canvia tot, i tanmateix la misericòrdia obre un camí de retorn. Qui parla des del principi de la humanitat?",
+  "clues": [
+    "Vaig ser creat per Al·là d'argila i modelat amb cura divina.",
+    "Vaig sentir honor quan Al·là va ordenar als àngels que es prosternessin davant meu.",
+    "Vaig viure al Paradís amb el meu cònjuge, lliure de gaudir de tot excepte d'un arbre.",
+    "Vaig ser enganyat pels xiuxiueigs de Satanàs, que va jurar ser un conseller sincer.",
+    "Vaig menjar de l'arbre prohibit i em van treure la roba de vergonya.",
+    "Vaig aprendre paraules de penediment del meu Senyor, i Al·là es va girar cap a mi amb misericòrdia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Jalut (Goliat)",
+        "Dhul-Kifl",
+        "Namrud",
+        "Profeta Adam",
+        "Profeta Yahya"
+      ],
+      "answer": "Profeta Adam"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Es va negar a entrar a Terra Santa per por",
+        "Va exigir que el foc fos adorat com un déu",
+        "Va matar un germà per enveja per una ofrena",
+        "Va menjar de l'arbre prohibit després dels xiuxiuejos de Satanàs",
+        "Argumentava que s'havien d'adorar els ídols dels avantpassats"
+      ],
+      "answer": "Va menjar de l'arbre prohibit després dels xiuxiuejos de Satanàs"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "El riu Nil",
+        "L'Arca",
+        "La Vall Sagrada de Tuwa",
+        "Paradís (Jannah)",
+        "La cova d'Hira"
+      ],
+      "answer": "Paradís (Jannah)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Em vaig ofegar en la gran inundació amb els incrèduls",
+        "Al·là em va ensenyar paraules de penediment i em va perdonar",
+        "Em va colpejar un llamp per exigir veure Al·là",
+        "Em va engolir un gran peix per marxar enfadat",
+        "Em vaig transformar amb el meu poble per haver trencat el dissabte"
+      ],
+      "answer": "Al·là em va ensenyar paraules de penediment i em va perdonar"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

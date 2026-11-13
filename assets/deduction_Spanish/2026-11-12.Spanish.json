@@ -1,0 +1,61 @@
+{
+  "title": "La primera confianza rota en el paraíso",
+  "intro": "Imagina estar en un jardín de paz absoluta, honrado por encima de toda la creación, con un único límite que respetar. Un susurro promete la eternidad, una sola elección lo cambia todo, y sin embargo, la misericordia abre un camino de regreso. ¿Quién habla desde el principio de la humanidad?",
+  "clues": [
+    "Fui creado por Alá del barro y moldeado con cuidado divino.",
+    "Me sentí honrado cuando Alá ordenó a los ángeles que se postraran ante mí.",
+    "Vivía en el Paraíso con mi cónyuge, libre para disfrutar de todo excepto de un árbol.",
+    "Me dejé engañar por los susurros de Satanás, que juró ser un consejero sincero.",
+    "Comí del árbol prohibido y me quitaron la ropa avergonzado.",
+    "Aprendí palabras de arrepentimiento de mi Señor, y Alá se volvió hacia mí con misericordia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Jalut (Goliat)",
+        "Dhul-Kifl",
+        "Namrud",
+        "El profeta Adán",
+        "Profeta Yahya"
+      ],
+      "answer": "El profeta Adán"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Se negaron a entrar en Tierra Santa por miedo.",
+        "Exigió que el fuego fuera adorado como un dios.",
+        "Mató a un hermano por envidia durante una ofrenda.",
+        "Comió del árbol prohibido tras los susurros de Satanás.",
+        "Argumentó que se debe adorar a los ídolos de los antepasados."
+      ],
+      "answer": "Comió del árbol prohibido tras los susurros de Satanás."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El río Nilo",
+        "El Arca",
+        "El Valle Sagrado de Tuwa",
+        "Paraíso (Jannah)",
+        "La cueva de Hira"
+      ],
+      "answer": "Paraíso (Jannah)"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Me ahogué en el gran diluvio con los incrédulos.",
+        "Alá me enseñó palabras de arrepentimiento y me perdonó.",
+        "Me cayó un rayo por exigir ver a Alá.",
+        "Me tragó un gran pez por irme enfadado.",
+        "Fui transformado junto con mi pueblo por quebrantar el sábado."
+      ],
+      "answer": "Alá me enseñó palabras de arrepentimiento y me perdonó."
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

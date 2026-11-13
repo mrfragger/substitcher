@@ -1,0 +1,61 @@
+{
+  "title": "La prima fiducia tradita in paradiso",
+  "intro": "Immaginate di trovarvi in ​​un giardino di pace assoluta, onorati al di sopra di ogni altra creazione, con un solo confine da rispettare. Un sussurro promette l'eternità, una singola scelta cambia tutto, eppure la misericordia apre una via di ritorno. Chi parla dall'inizio dell'umanità?",
+  "clues": [
+    "Sono stato creato da Allah dall'argilla e plasmato con cura divina.",
+    "Mi sono sentito onorato quando Allah ha comandato agli angeli di prostrarsi davanti a me.",
+    "Vivevo in Paradiso con il mio coniuge, libero di godere di tutto tranne che di un albero.",
+    "Sono stato ingannato dai sussurri di Satana, che giurava di essere un consigliere sincero.",
+    "Ho mangiato dall'albero proibito e il mio velo è stato tolto per la vergogna.",
+    "Ho appreso dal mio Signore parole di pentimento e Allah si è rivolto a me con misericordia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Jalut (Golia)",
+        "Dhul-Kifl",
+        "Namrud",
+        "Profeta Adamo",
+        "Profeta Yahya"
+      ],
+      "answer": "Profeta Adamo"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Si rifiutò di entrare in Terra Santa per paura",
+        "Pretesero che il fuoco fosse adorato come un dio",
+        "Uccise un fratello per invidia a causa di un'offerta",
+        "Mangiai dall'albero proibito dopo che Satana mi sussurrò",
+        "Sosteneva che gli idoli degli antenati devono essere adorati"
+      ],
+      "answer": "Mangiai dall'albero proibito dopo che Satana mi sussurrò"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Il fiume Nilo",
+        "L'Arca",
+        "La Valle Sacra di Tuwa",
+        "Paradiso (Jannah)",
+        "La grotta di Hira"
+      ],
+      "answer": "Paradiso (Jannah)"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Sono annegato nel grande diluvio insieme agli increduli",
+        "Allah mi ha insegnato le parole del pentimento e mi ha perdonato",
+        "Sono stato colpito da un fulmine per aver chiesto di vedere Allah.",
+        "Sono stato inghiottito da un grosso pesce per essere andato via arrabbiato",
+        "Sono stato trasformato insieme al mio popolo per aver violato il sabato."
+      ],
+      "answer": "Allah mi ha insegnato le parole del pentimento e mi ha perdonato"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

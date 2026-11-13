@@ -1,0 +1,61 @@
+{
+  "title": "Le sacrifice accepté par miséricorde",
+  "intro": "Fermez les yeux et imaginez une vaste vallée silencieuse où la foi est mise à rude épreuve. Vous allez rencontrer un personnage dont la soumission sereine face à un ordre inimaginable a transformé un moment d'épreuve en un symbole éternel d'obéissance et de miséricorde divine.",
+  "clues": [
+    "Je suis mentionné dans le Coran parmi ceux qui ont enduré avec une patience inébranlable.",
+    "J'étais au centre d'une vision qui mettait à l'épreuve la soumission au commandement d'Allah.",
+    "Quand on m'a fait part de cette vision, j'ai dit : « Faites ce qu'on vous a ordonné, et vous me trouverez parmi les patients. »",
+    "J'étais destiné au sacrifice, mais Allah a proclamé que la vision était accomplie.",
+    "Allah m'a racheté par un grand sacrifice, me assurant ainsi l'honneur pour les générations futures.",
+    "Je suis Ismaïl, qui avec Ibrahim a posé les fondations de la Maison Sacrée, mentionné aux côtés d'Idris et de Dhul-Kifl parmi les justes."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Prophète Shu'ayb",
+        "Le prophète Ismaël",
+        "Prophète Dhul-Kifl",
+        "Prophète Al-Yasa (Élisée)",
+        "Prophète Hud"
+      ],
+      "answer": "Le prophète Ismaël"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Être jeté dans un feu ardent",
+        "Rappeler les morts à la vie par la permission d'Allah",
+        "Nier la mesure et l'équilibre dans le commerce",
+        "Le sacrifice commandé et la soumission volontaire",
+        "Être avalé par un grand poisson"
+      ],
+      "answer": "Le sacrifice commandé et la soumission volontaire"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Un four à pain débordant d'eau",
+        "Un bâton qui se transforma en serpent",
+        "Un veau d'or adoré en l'absence",
+        "Une arche en bois dans les eaux",
+        "Un grand bélier envoyé en rançon"
+      ],
+      "answer": "Un grand bélier envoyé en rançon"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Frappé par une puissante explosion pour avoir rejeté la chamelle",
+        "Transformé en singe pour sa transgression",
+        "Loué parmi les prophètes patients et justes",
+        "Englouti par la terre pour arrogance",
+        "Noyés en mer alors qu'ils poursuivaient des croyants"
+      ],
+      "answer": "Loué parmi les prophètes patients et justes"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

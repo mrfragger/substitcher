@@ -1,0 +1,61 @@
+{
+  "title": "An Íobairt Glactha i dTrócaire",
+  "intro": "Dún do shúile agus samhlaigh gleann fairsing, ciúin ina ndéantar tástáil ar an gcreideamh go dtí a theorainn. Tá tú ar tí bualadh le duine a raibh a géilleadh socair i bhfianaise ordaithe dochreidte tar éis nóiméad trialach a iompú ina shiombail shíoraí umhlaíocht agus trócaire dhiaga.",
+  "clues": [
+    "Cuimhnítear orm sa Choran i measc na ndaoine a d'fhan go foighneach.",
+    "Bhí mé i lár fís a chuir géilleadh d'ordú Allah faoi thástáil.",
+    "Nuair a dúradh liom faoin bhfís, dúirt mé leat déanamh mar a ordaíodh duit agus gheobhaidh tú mé i measc na foighneach.",
+    "Leagadh síos mé don íobairt, ach ghlaoigh Allah amach gur comhlíonadh an fhís.",
+    "D’fhuascail Allah mé le híobairt mhór, ag fágáil onóra dom i measc na nglún atá le teacht.",
+    "Is mise Ismail, a thóg bunús an Tí Naofa in éineacht le Ibrahim, a luaitear in éineacht le Idris agus Dhul-Kifl i measc na bhfíréan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Shu'ayb",
+        "An Fáidh Ismail (Ismael)",
+        "Fáidh Dhul-Kifl",
+        "An Fáidh Al-Yasa (Elisha)",
+        "Fáidh Hud"
+      ],
+      "answer": "An Fáidh Ismail (Ismael)"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Á chaitheamh isteach i tine lasrach",
+        "Ag glaoch ar ais ar na mairbh le cead Allah",
+        "Ag diúltú don bheart agus don chothromaíocht sa trádáil",
+        "An íobairt ordaithe agus an géilleadh toilteanach",
+        "Á shlogadh ag iasc mór"
+      ],
+      "answer": "An íobairt ordaithe agus an géilleadh toilteanach"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Oigheann bácála ag stealladh le huisce",
+        "Sloinne a d’éirigh ina nathair",
+        "Lao órga adhraithe in éagmais",
+        "Áirc adhmaid sa tuile",
+        "Reithe mór seolta mar fhuascailt"
+      ],
+      "answer": "Reithe mór seolta mar fhuascailt"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Buailte ag pléasc mór as diúltú don chamall baineann",
+        "Iompú ina apa as sárú",
+        "Moladh i measc na bhfáithe foighneacha agus fíréanta",
+        "Slogtha ag an talamh as uabhar",
+        "Bádh sa bhfarraige agus é ag tóraíocht creidmheach"
+      ],
+      "answer": "Moladh i measc na bhfáithe foighneacha agus fíréanta"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Sehlabelo se Amoheloang ka Mohau",
+  "intro": "Kwala mahlo a hao 'me u nahane ka phula e kholo, e khutsitseng moo tumelo e lekoang ho fihlela moeling oa eona. U se u le mothating oa ho kopana le motho eo boikokobetso ba hae bo khutsitseng ka pel'a taelo e sa nahaneheng bo ileng ba fetola motsotso oa teko hore e be letšoao la ka ho sa feleng la kutlo le mohau oa bomolimo.",
+  "clues": [
+    "Ke hopoloa ka hare ho Quran har'a ba ileng ba mamella ka mamello e tiileng.",
+    "Ke ne ke le bohareng ba pono e neng e leka boikokobetso taelong ea Allah.",
+    "Ha ke bolelloa ka pono, ke itse ke etse kamoo ke laetsoeng kateng 'me u tla mphumana ke le har'a bakuli.",
+    "Ke ne ke beiloe bakeng sa sehlabelo, empa Allah a hoeletsa hore pono e phethahetse.",
+    "Allah o mpholositse ka sehlabelo se seholo, a ntšiela tlhompho har'a meloko e tlang.",
+    "Ke 'na Ismail, eo hammoho le Ibrahim a ileng a phahamisa metheo ea Ntlo e Halalelang, ea boletsoeng hammoho le Idris le Dhul-Kifl har'a ba lokileng."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Moprofeta Shu'ayb",
+        "Moprofeta Ismail (Ishmaele)",
+        "Moprofeta Dhul-Kifl",
+        "Moprofeta Al-Yasa (Elisha)",
+        "Moprofeta Hud"
+      ],
+      "answer": "Moprofeta Ismail (Ishmaele)"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Ho lahleloa mollong o tukang",
+        "Ho bitsa bafu hore ba phele hape ka tumello ea Allah",
+        "Ho hana tekanyo le tekano khoebong",
+        "Sehlabelo se laetsoeng le boikokobetso bo ithaopileng",
+        "Ho metsoa ke tlhapi e kholo"
+      ],
+      "answer": "Sehlabelo se laetsoeng le boikokobetso bo ithaopileng"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Onto ea ho baka e phallang ka metsi",
+        "Lere le ileng la fetoha noha",
+        "Namane ea khauta e rapeloang ha e le sieo",
+        "Areka ea lehong moroallong",
+        "Pheleu e kholo e rometsoe e le thekollo"
+      ],
+      "answer": "Pheleu e kholo e rometsoe e le thekollo"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "O ile a otloa ke ho phatloha ho matla ka lebaka la ho hana kamele e tšehali",
+        "E fetohile tšoene bakeng sa tlōlo ea molao",
+        "Ho rorisoa har'a baprofeta ba nang le mamello le ba lokileng",
+        "E metsoa ke lefats'e ka lebaka la boikhohomoso",
+        "Ba khangoa ke metsi leoatleng ha ba ntse ba lelekisa balumeli"
+      ],
+      "answer": "Ho rorisoa har'a baprofeta ba nang le mamello le ba lokileng"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

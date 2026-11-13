@@ -1,0 +1,61 @@
+{
+  "title": "Prvo povjerenje slomljeno u raju",
+  "intro": "Zamislite da stojite u vrtu savršenog mira, poštovani iznad svega stvorenog, sa samo jednom granicom koju treba poštovati. Šapat obećava vječnost, jedan jedini izbor mijenja sve, a ipak milost otvara put nazad. Ko govori od početka čovječanstva?",
+  "clues": [
+    "Allah me je stvorio od gline i oblikovao s božanskom pažnjom.",
+    "Bio sam počašćen kada je Allah naredio anđelima da mi se poklone.",
+    "Živio sam u Raju sa svojim suprugom, slobodan da uživam u svemu osim jednog drveta.",
+    "Prevarilo me šaputanje Sotone koji se zakleo da je iskreni savjetnik.",
+    "Jeo sam sa zabranjenog drveta i od srama sam skinuo svoj pokrivač.",
+    "Naučio sam riječi pokajanja od svog Gospodara, a Allah mi se smilovao."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Džalut (Golijat)",
+        "Zul-kifl",
+        "Namrud",
+        "Poslanik Adam",
+        "Poslanik Jahja"
+      ],
+      "answer": "Poslanik Adam"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Odbio je ući u Svetu zemlju iz straha",
+        "Zahtijevao je da se vatra obožava kao bog",
+        "Ubio je brata iz zavisti zbog prinosa",
+        "Jeo sam sa zabranjenog drveta nakon Sotoninog šaputanja",
+        "Tvrdio je da se idoli predaka moraju obožavati"
+      ],
+      "answer": "Jeo sam sa zabranjenog drveta nakon Sotoninog šaputanja"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Rijeka Nil",
+        "Kovčeg",
+        "Sveta dolina Tuwa",
+        "Raj (Džennet)",
+        "Pećina Hira"
+      ],
+      "answer": "Raj (Džennet)"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Utopio sam se u velikoj poplavi s nevjernicima",
+        "Allah me je naučio riječima pokajanja i oprostio mi",
+        "Udarila me je munja jer sam zahtijevao da vidim Allaha",
+        "Progutala me velika riba jer sam otišao u ljutnji.",
+        "Preobrazio sam se sa svojim narodom zbog kršenja subote"
+      ],
+      "answer": "Allah me je naučio riječima pokajanja i oprostio mi"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

@@ -1,0 +1,748 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَسْمَاءُ اللَّهِ الْحُسْنَى",
+        "nameEn": "Names of Allah in the Qur'an",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "الرَّحْمَٰنُ",
+            "en": "the Most Gracious",
+            "ref": "25:59",
+            "verse": "ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍۢ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۚ ٱلرَّحْمَـٰنُ فَسْـَٔلْ بِهِۦ خَبِيرًۭا",
+            "verseEn": "He who created the heavens and the earth and what is between them in six days and then established Himself above the Throne - the Most Merciful, so ask about Him one well informed [i.e., the Prophet (ﷺ)]."
+          },
+          {
+            "ar": "الْعَزِيزِ",
+            "en": "(of) the All-Mighty",
+            "ref": "34:6",
+            "verse": "وَيَرَى ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ ٱلَّذِىٓ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ هُوَ ٱلْحَقَّ وَيَهْدِىٓ إِلَىٰ صِرَٰطِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+            "verseEn": "And those who have been given knowledge see that what is revealed to you from your Lord is the truth, and it guides to the path of the Exalted in Might, the Praiseworthy."
+          },
+          {
+            "ar": "سَمِيعًا",
+            "en": "All-Hearing",
+            "ref": "4:134",
+            "verse": "مَّن كَانَ يُرِيدُ ثَوَابَ ٱلدُّنْيَا فَعِندَ ٱللَّهِ ثَوَابُ ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ ۚ وَكَانَ ٱللَّهُ سَمِيعًۢا بَصِيرًۭا",
+            "verseEn": "Whoever desires the reward of this world - then with Allāh is the reward of this world and the Hereafter. And ever is Allāh Hearing and Seeing."
+          },
+          {
+            "ar": "بَصِيرٌ",
+            "en": "(is) All-Seer",
+            "ref": "3:156",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَكُونُوا۟ كَٱلَّذِينَ كَفَرُوا۟ وَقَالُوا۟ لِإِخْوَٰنِهِمْ إِذَا ضَرَبُوا۟ فِى ٱلْأَرْضِ أَوْ كَانُوا۟ غُزًّۭى لَّوْ كَانُوا۟ عِندَنَا مَا مَاتُوا۟ وَمَا قُتِلُوا۟ لِيَجْعَلَ ٱللَّهُ ذَٰلِكَ حَسْرَةًۭ فِى قُلُوبِهِمْ ۗ وَٱللَّهُ يُحْىِۦ وَيُمِيتُ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌۭ",
+            "verseEn": "O you who have believed, do not be like those who disbelieved and said about their brothers when they traveled through the land or went out to fight, \"If they had been with us, they would not have died or have been killed,\" so Allāh makes that [misconception] a regret within their hearts. And it is Allāh who gives life and causes death, and Allāh is Seeing of what you do."
+          }
+        ]
+      },
+      {
+        "name": "عُقُوبَاتٌ فِي الْقُرْآنِ",
+        "nameEn": "Punishments mentioned in the Qur'an",
+        "color": "green",
+        "items": [
+          {
+            "ar": "عَذَابٌ",
+            "en": "(is) a punishment",
+            "ref": "13:34",
+            "verse": "لَّهُمْ عَذَابٌۭ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَشَقُّ ۖ وَمَا لَهُم مِّنَ ٱللَّهِ مِن وَاقٍۢ",
+            "verseEn": "For them will be punishment in the life of [this] world, and the punishment of the Hereafter is more severe. And they will not have from Allāh any protector."
+          },
+          {
+            "ar": "اللَّعْنَةُ",
+            "en": "(is) the curse",
+            "ref": "40:52",
+            "verse": "يَوْمَ لَا يَنفَعُ ٱلظَّـٰلِمِينَ مَعْذِرَتُهُمْ ۖ وَلَهُمُ ٱللَّعْنَةُ وَلَهُمْ سُوٓءُ ٱلدَّارِ",
+            "verseEn": "The Day their excuse will not benefit the wrongdoers, and they will have the curse, and they will have the worst home [i.e., Hell]."
+          },
+          {
+            "ar": "الْخِزْيُ",
+            "en": "(is) the disgrace",
+            "ref": "9:63",
+            "verse": "أَلَمْ يَعْلَمُوٓا۟ أَنَّهُۥ مَن يُحَادِدِ ٱللَّهَ وَرَسُولَهُۥ فَأَنَّ لَهُۥ نَارَ جَهَنَّمَ خَـٰلِدًۭا فِيهَا ۚ ذَٰلِكَ ٱلْخِزْىُ ٱلْعَظِيمُ",
+            "verseEn": "Do they not know that whoever opposes Allāh and His Messenger - that for him is the fire of Hell, wherein he will abide eternally? That is the great disgrace."
+          },
+          {
+            "ar": "النَّارِ",
+            "en": "the Fire",
+            "ref": "6:27",
+            "verse": "وَلَوْ تَرَىٰٓ إِذْ وُقِفُوا۟ عَلَى ٱلنَّارِ فَقَالُوا۟ يَـٰلَيْتَنَا نُرَدُّ وَلَا نُكَذِّبَ بِـَٔايَـٰتِ رَبِّنَا وَنَكُونَ مِنَ ٱلْمُؤْمِنِينَ",
+            "verseEn": "If you could but see when they are made to stand before the Fire and will say, \"Oh, would that we could be returned [to life on earth] and not deny the signs of our Lord and be among the believers.\""
+          }
+        ]
+      },
+      {
+        "name": "وَسَائِلُ الْهِدَايَةِ",
+        "nameEn": "Vehicles of Divine Guidance Mentioned in the Qur'an",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "رَّسُولٍ",
+            "en": "Messenger",
+            "ref": "15:11",
+            "verse": "وَمَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+            "verseEn": "And no messenger would come to them except that they ridiculed him."
+          },
+          {
+            "ar": "الْكِتَابَ",
+            "en": "the Scripture",
+            "ref": "19:12",
+            "verse": "يَـٰيَحْيَىٰ خُذِ ٱلْكِتَـٰبَ بِقُوَّةٍۢ ۖ وَءَاتَيْنَـٰهُ ٱلْحُكْمَ صَبِيًّۭا",
+            "verseEn": "[Allāh said], \"O John, take the Scripture [i.e., adhere to it] with determination.\" And We gave him judgement [while yet] a boy"
+          },
+          {
+            "ar": "آيَاتِنَا",
+            "en": "Our Signs",
+            "ref": "20:56",
+            "verse": "وَلَقَدْ أَرَيْنَـٰهُ ءَايَـٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ",
+            "verseEn": "And We certainly showed him [i.e., Pharaoh] Our signs - all of them - but he denied and refused."
+          },
+          {
+            "ar": "بَيِّنَةٍ",
+            "en": "(the) clear proof",
+            "ref": "11:28",
+            "verse": "قَالَ يَـٰقَوْمِ أَرَءَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍۢ مِّن رَّبِّى وَءَاتَىٰنِى رَحْمَةًۭ مِّنْ عِندِهِۦ فَعُمِّيَتْ عَلَيْكُمْ أَنُلْزِمُكُمُوهَا وَأَنتُمْ لَهَا كَـٰرِهُونَ",
+            "verseEn": "He said, \"O my people, have you considered: if I should be upon clear evidence from my Lord while He has given me mercy from Himself but it has been made unapparent to you, should we force it upon you while you are averse to it?"
+          }
+        ]
+      },
+      {
+        "name": "صِلَاتُ الْقَرَابَةِ وَالنَّسْلِ فِي الْقُرْآنِ",
+        "nameEn": "Kinship and Descendant Terms in the Qur'an",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "ذُرِّيَّةَ",
+            "en": "Offsprings",
+            "ref": "17:3",
+            "verse": "ذُرِّيَّةَ مَنْ حَمَلْنَا مَعَ نُوحٍ ۚ إِنَّهُۥ كَانَ عَبْدًۭا شَكُورًۭا",
+            "verseEn": "O descendants of those We carried [in the ship] with Noah. Indeed, he was a grateful servant."
+          },
+          {
+            "ar": "لِأُخْتِهِ",
+            "en": "to his sister",
+            "ref": "28:11",
+            "verse": "وَقَالَتْ لِأُخْتِهِۦ قُصِّيهِ ۖ فَبَصُرَتْ بِهِۦ عَن جُنُبٍۢ وَهُمْ لَا يَشْعُرُونَ",
+            "verseEn": "And she said to his sister, \"Follow him\"; so she watched him from a distance while they perceived not."
+          },
+          {
+            "ar": "آبَائِهِمْ",
+            "en": "their fathers",
+            "ref": "6:87",
+            "verse": "وَمِنْ ءَابَآئِهِمْ وَذُرِّيَّـٰتِهِمْ وَإِخْوَٰنِهِمْ ۖ وَٱجْتَبَيْنَـٰهُمْ وَهَدَيْنَـٰهُمْ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
+            "verseEn": "And [some] among their fathers and their descendants and their brothers - and We chose them and We guided them to a straight path."
+          },
+          {
+            "ar": "عَقِبِهِ",
+            "en": "his descendents",
+            "ref": "43:28",
+            "verse": "وَجَعَلَهَا كَلِمَةًۢ بَاقِيَةًۭ فِى عَقِبِهِۦ لَعَلَّهُمْ يَرْجِعُونَ",
+            "verseEn": "And he made it a word remaining among his descendants that they might return [to it]."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "تحية",
+    "display": "تَحِيَّة",
+    "hint": "The welcoming exchange offered with peace in Paradise",
+    "verseRef": "10:10",
+    "arabicVerse": "دَعْوَىٰهُمْ فِيهَا سُبْحَـٰنَكَ ٱللَّهُمَّ وَتَحِيَّتُهُمْ فِيهَا سَلَـٰمٌۭ ۚ وَءَاخِرُ دَعْوَىٰهُمْ أَنِ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+    "verse": "10:10 - Their call therein will be, \"Exalted are You, O Allāh,\" and their greeting therein will be, \"Peace.\" And the last of their call will be, \"Praise to Allāh, Lord of the worlds!\""
+  },
+  "scramble": {
+    "verseRef": "40:44",
+    "reference": "Surah Ghafir (40:44)",
+    "segments": [
+      "وَأُفَوِّضُ أَمْرِي",
+      "إِلَى اللَّهِ",
+      "إِنَّ اللَّهَ",
+      "بَصِيرٌ",
+      "بِالْعِبَادِ"
+    ],
+    "translations": [
+      "And you will remember what I say",
+      "to you and I entrust my affair",
+      "to Allah",
+      "Indeed Allah",
+      "(is) All-Seer of (His) slaves"
+    ],
+    "hint": "A statement of tawakkul — entrusting all affairs to Allah who sees His servants",
+    "arabic": "فَسَتَذْكُرُونَ مَآ أَقُولُ لَكُمْ ۚ وَأُفَوِّضُ أَمْرِىٓ إِلَى ٱللَّهِ ۚ إِنَّ ٱللَّهَ بَصِيرٌۢ بِٱلْعِبَادِ",
+    "words": [
+      "فَسَتَذْكُرُونَ مَآ أَقُولُ",
+      "لَكُمْ ۚ وَأُفَوِّضُ أَمْرِىٓ",
+      "إِلَى ٱللَّهِ ۚ",
+      "إِنَّ ٱللَّهَ",
+      "بَصِيرٌۢ بِٱلْعِبَادِ"
+    ],
+    "verseEn": "And you will remember what I [now] say to you, and I entrust my affair to Allāh. Indeed, Allāh is Seeing of [His] servants.\""
+  },
+  "roothive": {
+    "center": "ه",
+    "outer": [
+      "ي",
+      "ك",
+      "ل",
+      "م",
+      "ت",
+      "ا"
+    ],
+    "root": {
+      "letters": "هلك",
+      "display": "ه ل ك",
+      "translit": "h-l-k",
+      "meaning": "The core idea is perishing and complete loss. Its forms describe dying, causing ruin, and the people or places that bring or suffer it.",
+      "occurrences": 68,
+      "lemmaCount": 8
+    },
+    "words": [
+      {
+        "w": "اله",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "إِلٰه",
+            "gloss": "god",
+            "type": "noun",
+            "root": "أله",
+            "count": 147,
+            "ref": "2:133",
+            "pos": 23,
+            "alt": [
+              "gods",
+              "one god"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "امه",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أُمَّة",
+            "gloss": "nation",
+            "type": "noun",
+            "root": "أمم",
+            "count": 64,
+            "ref": "2:128",
+            "pos": 7,
+            "alt": [
+              "community",
+              "nations"
+            ]
+          },
+          {
+            "lemma": "أَمَة",
+            "gloss": "bondwoman",
+            "type": "noun",
+            "root": "أمو",
+            "count": 2,
+            "ref": "2:221",
+            "pos": 6,
+            "alt": [
+              "female slaves"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اهل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَهْل",
+            "gloss": "worthy",
+            "type": "noun",
+            "root": "أهل",
+            "count": 127,
+            "ref": "2:105",
+            "pos": 6,
+            "alt": [
+              "people",
+              "people of the book"
+            ]
+          },
+          {
+            "lemma": "أُهِلَّ",
+            "gloss": "has been dedicated",
+            "type": "verb",
+            "root": "هلل",
+            "count": 4,
+            "ref": "2:173",
+            "pos": 9,
+            "alt": [
+              "dedicated"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "ايه",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "آيَة",
+            "gloss": "sign",
+            "type": "noun",
+            "root": "أيي",
+            "count": 382,
+            "ref": "2:99",
+            "pos": 4,
+            "alt": [
+              "verses",
+              "signs"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "كهل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "كَهْل",
+            "gloss": "maturity",
+            "type": "noun",
+            "root": "كهل",
+            "count": 2,
+            "ref": "3:46",
+            "pos": 5
+          }
+        ]
+      },
+      {
+        "w": "مله",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مِلَّة",
+            "gloss": "religion",
+            "type": "noun",
+            "root": "ملل",
+            "count": 15,
+            "ref": "2:130",
+            "pos": 4
+          }
+        ]
+      },
+      {
+        "w": "مهل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مُهْل",
+            "gloss": "like molten brass",
+            "type": "noun",
+            "root": "مهل",
+            "count": 3,
+            "ref": "18:29",
+            "pos": 22,
+            "alt": [
+              "like the murky oil",
+              "like molten copper"
+            ]
+          },
+          {
+            "lemma": "مَهِّلِ",
+            "gloss": "allow them respite",
+            "type": "verb",
+            "root": "مهل",
+            "count": 2,
+            "ref": "73:11",
+            "pos": 5,
+            "alt": [
+              "give respite"
+            ],
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "هات",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "هاتُ",
+            "gloss": "bring",
+            "type": "verb",
+            "root": "هات",
+            "count": 4,
+            "ref": "2:111",
+            "pos": 14,
+            "alt": [
+              "bring forth"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "هلك",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "هَلَكَ",
+            "gloss": "died",
+            "type": "verb",
+            "root": "هلك",
+            "count": 5,
+            "ref": "4:176",
+            "pos": 9,
+            "alt": [
+              "destroyed",
+              "is gone"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "هلم",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "هَلُمّ",
+            "gloss": "come",
+            "type": "noun",
+            "root": "هلم",
+            "count": 2,
+            "ref": "6:150",
+            "pos": 2,
+            "alt": [
+              "bring forward"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اكمه",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَكْمَه",
+            "gloss": "blind",
+            "type": "noun",
+            "root": "كمه",
+            "count": 2,
+            "ref": "3:49",
+            "pos": 25,
+            "alt": [
+              "born blind"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "الله",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "اللَّه",
+            "gloss": "besides allah",
+            "type": "proper noun",
+            "root": "أله",
+            "count": 2699,
+            "ref": "1:1",
+            "pos": 2,
+            "alt": [
+              "allah",
+              "allah lets go astray"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "الهي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَلْهَى",
+            "gloss": "diverted",
+            "type": "verb",
+            "root": "لهو",
+            "count": 4,
+            "ref": "15:3",
+            "pos": 4,
+            "alt": [
+              "distracts",
+              "divert"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "اهلك",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "أَهْلَكَ",
+            "gloss": "destroy",
+            "type": "verb",
+            "root": "هلك",
+            "count": 51,
+            "ref": "5:17",
+            "pos": 20,
+            "alt": [
+              "be destroyed",
+              "destroyed"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "كلمه",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "كَلِمَة",
+            "gloss": "word",
+            "type": "noun",
+            "root": "كلم",
+            "count": 42,
+            "ref": "2:37",
+            "pos": 5,
+            "alt": [
+              "words",
+              "word of your lord"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ليله",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "لَيْلَة",
+            "gloss": "night",
+            "type": "noun",
+            "root": "ليل",
+            "count": 8,
+            "ref": "2:51",
+            "pos": 5,
+            "alt": [
+              "nights"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مايه",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مِائَة",
+            "gloss": "hundred",
+            "type": "noun",
+            "root": "مأي",
+            "count": 10,
+            "ref": "2:259",
+            "pos": 19,
+            "alt": [
+              "two hundred",
+              "one hundred"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مهلك",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "مُهْلِك",
+            "gloss": "one who destroys",
+            "type": "active participle",
+            "root": "هلك",
+            "count": 5,
+            "ref": "6:131",
+            "pos": 6,
+            "alt": [
+              "one to destroy",
+              "going to destroy"
+            ]
+          },
+          {
+            "lemma": "مَهْلِك",
+            "gloss": "destruction",
+            "type": "noun",
+            "root": "هلك",
+            "count": 2,
+            "ref": "27:49",
+            "pos": 11
+          },
+          {
+            "lemma": "مُهْلَك",
+            "gloss": "were destroyed",
+            "type": "passive participle",
+            "root": "هلك",
+            "count": 1,
+            "ref": "23:48",
+            "pos": 4
+          }
+        ]
+      },
+      {
+        "w": "ميته",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَيْتَة",
+            "gloss": "dead",
+            "type": "noun",
+            "root": "موت",
+            "count": 6,
+            "ref": "6:139",
+            "pos": 14
+          }
+        ]
+      },
+      {
+        "w": "هالك",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "هالِك",
+            "gloss": "destroyed",
+            "type": "active participle",
+            "root": "هلك",
+            "count": 2,
+            "ref": "28:88",
+            "pos": 13
+          }
+        ]
+      },
+      {
+        "w": "هييه",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "هَيْئَة",
+            "gloss": "like the shape",
+            "type": "noun",
+            "root": "هيأ",
+            "count": 2,
+            "ref": "3:49",
+            "pos": 16,
+            "alt": [
+              "like the form"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اللهم",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "اللَّهُمَّ",
+            "gloss": "o allah",
+            "type": "proper noun",
+            "root": "أله",
+            "count": 5,
+            "ref": "3:26",
+            "pos": 2
+          }
+        ]
+      },
+      {
+        "w": "تهلكه",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "تَهْلُكَة",
+            "gloss": "destruction",
+            "type": "noun",
+            "root": "هلك",
+            "count": 1,
+            "ref": "2:195",
+            "pos": 9
+          }
+        ]
+      },
+      {
+        "w": "كامله",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "كامِلَة",
+            "gloss": "all",
+            "type": "active participle",
+            "root": "كمل",
+            "count": 2,
+            "ref": "2:196",
+            "pos": 58,
+            "alt": [
+              "full"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "كلاله",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "كَلالَة",
+            "gloss": "no parent or child",
+            "type": "noun",
+            "root": "كلل",
+            "count": 2,
+            "ref": "4:12",
+            "pos": 54
+          }
+        ]
+      },
+      {
+        "w": "مهلكي",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "مُهْلِكِي",
+            "gloss": "one to destroy",
+            "type": "noun",
+            "root": "هلك",
+            "count": 1,
+            "ref": "28:59",
+            "pos": 16
+          }
+        ]
+      }
+    ],
+    "otherFamily": [],
+    "maxScore": 59,
+    "featuredRoot": "هلك"
+  }
+}

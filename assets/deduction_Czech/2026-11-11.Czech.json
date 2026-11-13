@@ -1,0 +1,61 @@
+{
+  "title": "Oběť přijatá z milosrdenství",
+  "intro": "Zavřete oči a představte si rozlehlé, tiché údolí, kde je víra zkoušena na hranici svých možností. Chystáte se setkat s postavou, jejíž klidná podřízenost tváří v tvář nepředstavitelnému příkazu proměnila okamžik zkoušky ve věčný symbol poslušnosti a božského milosrdenství.",
+  "clues": [
+    "V Koránu jsem uveden mezi těmi, kdož vytrvali s neochvějnou trpělivostí.",
+    "Byl jsem uprostřed vidění, které prověřovalo podřízení se Alláhovu příkazu.",
+    "Když mi bylo řečeno o vidění, řekl jsem, ať udělám, co mi bylo přikázáno, a najdeš mě mezi trpělivými.",
+    "Byl jsem položen k oběti, ale Alláh zvolal, že se vidění naplnilo.",
+    "Alláh mě vykoupil velikou obětí a zanechal mi čest mezi pozdějšími generacemi.",
+    "Já jsem Ismáíl, který s Ibráhímem položil základy Posvátného domu, zmíněného spolu s Idrísem a Dhul-Kiflem mezi spravedlivými."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Šu'ajb",
+        "Prorok Ismail (Išmael)",
+        "Prorok Zul-Kifl",
+        "Prorok Al-Yása (Eliša)",
+        "Prorok Hud"
+      ],
+      "answer": "Prorok Ismail (Išmael)"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Být vhozen do planoucího ohně",
+        "Vzkříšení mrtvých zpět k životu s Alláhovým svolením",
+        "Popření míry a rovnováhy v obchodu",
+        "Přikázaná oběť a dobrovolné podřízení se",
+        "Být spolknut velkou rybou"
+      ],
+      "answer": "Přikázaná oběť a dobrovolné podřízení se"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Pečící pec tryskající vodou",
+        "Hůl, která se proměnila v hada",
+        "Zlaté tele uctívané v nepřítomnosti",
+        "Dřevěná archa v potopě",
+        "Velký beran poslán jako výkupné"
+      ],
+      "answer": "Velký beran poslán jako výkupné"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Zasažen mocným výbuchem za odmítnutí velbloudice",
+        "Proměněn v opici za přestupek",
+        "Chválen mezi trpělivými a spravedlivými proroky",
+        "Pohlceni zemí pro aroganci",
+        "Utopil se v moři při pronásledování věřících"
+      ],
+      "answer": "Chválen mezi trpělivými a spravedlivými proroky"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

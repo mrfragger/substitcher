@@ -1,0 +1,61 @@
+{
+  "title": "Afɔrebɔ a Wogye tom wɔ Mmɔborohunu mu",
+  "intro": "Mum w’ani na yɛ bon kɛse bi a ɛhɔ yɛ dinn a wɔasɔ gyidi ahwɛ akodu ne hye so ho mfonini wɔ w’adwenem. Worebɛhyia onipa bi a ne ho a ɔde brɛɛ ne ho ase brɛoo wɔ ahyɛde bi a wontumi nsusuw ho anim no danee sɔhwɛ bere tiaa bi bɛyɛɛ osetie ne ɔsoro mmɔborohunu daa sɛnkyerɛnne.",
+  "clues": [
+    "Wɔkae me wɔ Kur’aan mu wɔ wɔn a wɔde boasetɔ a ɛyɛ pintinn gyinaa mu no mu.",
+    "Na mewɔ anisoadehunu bi a ɛsɔɔ ahobrɛaseɛ ma Allah ahyɛdeɛ hwɛeɛ no mfimfini.",
+    "Bere a wɔkaa anisoadehu no ho asɛm kyerɛɛ me no, mekae sɛ monyɛ sɛnea wɔahyɛ no na mubehu me wɔ ɔyarefo no mu.",
+    "Wɔde me too fam maa afɔrebɔ no, nanso Allah frɛɛ sɛ anisoadehunu no aba mu.",
+    "Allah de afɔrebɔ kɛseɛ gyee me, na ɔgyaa animuonyam maa me wɔ awoɔ ntoatoasoɔ a ɛdi akyire no mu.",
+    "Me ne Ismail, a ɔne Ibrahim maa Fie Kronkron no fapem so, a wɔkaa ne ho asɛm kaa Idris ne Dhul-Kifl ho wɔ ateneneefoɔ mu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Shu'ayb",
+        "Ɔkɔmhyɛni Ismail (Ishmael) .",
+        "Ɔkɔmhyɛni Dhul-Kifl",
+        "Ɔkɔmhyɛni Al-Yasa (Elisa) .",
+        "Odiyifo Hud"
+      ],
+      "answer": "Ɔkɔmhyɛni Ismail (Ishmael) ."
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Wɔtow no gu ogya a ɛredɛw mu",
+        "Awufoɔ a wɔbɛsan afrɛ wɔn aba nkwa mu denam Allah kwan so",
+        "Pow a wɔpow susudua ne kari pɛ wɔ aguadi mu",
+        "Afɔrebɔ ne ɔpɛ mu ahobrɛase a wɔahyɛ no",
+        "Mpataa kɛse bi a ɔbɛmene no"
+      ],
+      "answer": "Afɔrebɔ ne ɔpɛ mu ahobrɛase a wɔahyɛ no"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Fononoo a wɔde paanoo paanoo a nsu retu",
+        "Poma a ɛbɛyɛɛ ɔwɔ",
+        "Sika nantwi ba a wɔsom bere a onni hɔ",
+        "Nnua Adaka bi a ɛwɔ nsuyiri mu",
+        "Odwennini kɛse bi a wɔsomaa no sɛ agyede"
+      ],
+      "answer": "Odwennini kɛse bi a wɔsomaa no sɛ agyede"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Ɔpae a ano yɛ den bɔɔ no esiane sɛ ɔpoo yoma ba no nti",
+        "Wɔdanee no ape a ɔyɛ mmarato",
+        "Wɔkamfo no wɔ adiyifo a wɔwɔ abotare ne treneefo mu",
+        "Asase amene no esiane ahantan nti",
+        "Memenee no wɔ ɛpo mu bere a na ɔredi agyidifo akyi no"
+      ],
+      "answer": "Wɔkamfo no wɔ adiyifo a wɔwɔ abotare ne treneefo mu"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

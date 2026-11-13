@@ -1,0 +1,61 @@
+{
+  "title": "Jennetde ilkinji ynamyň döwülmegi",
+  "intro": "Ähli ýaradylanlardan has hormatlanýan, diňe bir çäkli bolan kämil parahatçylyk bagynda durandygyňyzy göz öňüne getiriň. Pyşyrdama ebediligi wada berýär, ýekeje saýlaw hemme zady üýtgedýär, ýöne rehim yzyna gaýdyp barýan ýol açýar. Adamzadyň başlangyjyndan kim gürleýär?",
+  "clues": [
+    "Men Alla tarapyndan palçykdan ýaradyldym we ilahi ideg bilen şekillendirildim.",
+    "Allatagala perişdelere maňa sežde etmegi buýranda, men hormatlandym.",
+    "Men Jennetde aýalym bilen ýaşadym, bir agaçdan başga ähli agaçlardan erkin peýdalanyp bilýärdim.",
+    "Men ak ýürekden maslahatçy bolmaga ant içen Şeýtanyň pyşyrdawyna aldandym.",
+    "Men gadagan edilen agaçdan iýdim we utançdan örtügim aýryldy.",
+    "Men Rebbimden toba sözlerini öwrendim we Allatagala maňa rehim bilen ýüz tutdy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Jalut (Goliat)",
+        "Zul-Kifl",
+        "Namrud",
+        "Adam pygamber",
+        "Ýahýa pygamber"
+      ],
+      "answer": "Adam pygamber"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Gorkudan Mukaddes Topraga girmekden ýüz öwürdi",
+        "Oda hudaý hökmünde sežde edilmegini talap etdi",
+        "Sadaka üçin göriplik edip, doganyny öldürdi",
+        "Şeýtanyň pyşyrdamagyndan soň gadagan edilen agaçdan iýdi",
+        "Ata-babalaryň butlaryna sežde edilmelidigini öňe sürdi"
+      ],
+      "answer": "Şeýtanyň pyşyrdamagyndan soň gadagan edilen agaçdan iýdi"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Nil derýasy",
+        "Sandyk",
+        "Tuwanyň mukaddes jülgesi",
+        "Jennet (Jennet)",
+        "Hira mağarasy"
+      ],
+      "answer": "Jennet (Jennet)"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Men kapyrlar bilen bilelikde uly silde gark boldum",
+        "Alla maňa toba sözlerini öwretdi we meni bagyşlady",
+        "Allany görmegi talap edenim üçin meni ýyldyrym urdy",
+        "Gahar bilen gidenim üçin uly balyk meni ýuwutdy",
+        "Men Sabat günini bozandygym üçin halkym bilen birlikde özgerdim"
+      ],
+      "answer": "Alla maňa toba sözlerini öwretdi we meni bagyşlady"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

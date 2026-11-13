@@ -1,0 +1,61 @@
+{
+  "title": "Dhabihu Iliyokubaliwa kwa Rehema",
+  "intro": "Funga macho yako na ufikirie bonde kubwa, kimya ambapo imani inajaribiwa hadi kikomo chake. Unakaribia kukutana na mtu ambaye utiifu wake tulivu mbele ya amri isiyofikirika uligeuza wakati wa majaribu kuwa ishara ya milele ya utii na rehema ya Mungu.",
+  "clues": [
+    "Ninakumbukwa katika Quran miongoni mwa wale waliovumilia kwa uvumilivu thabiti.",
+    "Nilikuwa katikati ya maono yaliyojaribu utiifu kwa amri ya Mwenyezi Mungu.",
+    "Nilipoambiwa kuhusu maono hayo, nilisema ufanye kama ulivyoamriwa na utanikuta miongoni mwa wagonjwa.",
+    "Niliwekwa chini kwa ajili ya kafara, lakini Mwenyezi Mungu alisema kwamba maono hayo yametimia.",
+    "Mwenyezi Mungu alinikomboa kwa kafara kubwa, akiniachia heshima miongoni mwa vizazi vilivyofuata.",
+    "Mimi ni Ismail, ambaye pamoja na Ibrahim niliinua misingi ya Nyumba Takatifu, nikitajwa pamoja na Idris na Dhul-Kifl miongoni mwa watu wema."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Shu'ayb",
+        "Nabii Ismail (Ishmaeli)",
+        "Nabii Dhul-Kifl",
+        "Nabii Al-Yasa (Elisha)",
+        "Nabii Hud"
+      ],
+      "answer": "Nabii Ismail (Ishmaeli)"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kutupwa kwenye moto unaowaka",
+        "Kuwaita wafu warudi kwenye uhai kwa idhini ya Mwenyezi Mungu",
+        "Kukataa kipimo na usawa katika biashara",
+        "Dhabihu iliyoamriwa na utii wa hiari",
+        "Kumezwa na samaki mkubwa"
+      ],
+      "answer": "Dhabihu iliyoamriwa na utii wa hiari"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Tanuri ya kuokea inayobubujika maji",
+        "Fimbo iliyogeuka kuwa nyoka",
+        "Ndama wa dhahabu anayeabudiwa bila kuwepo",
+        "Safina ya mbao katika mafuriko",
+        "Kondoo dume mkubwa aliyetumwa kama fidia"
+      ],
+      "answer": "Kondoo dume mkubwa aliyetumwa kama fidia"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Kupigwa na mlipuko mkubwa kwa kukataa ngamia jike",
+        "Aligeuka kuwa nyani kwa ajili ya uvunjaji wa sheria",
+        "Anasifiwa miongoni mwa manabii wenye subira na wema",
+        "Kumezwa na ardhi kwa kiburi",
+        "Kuzama baharini huku akiwafuatilia waumini"
+      ],
+      "answer": "Anasifiwa miongoni mwa manabii wenye subira na wema"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

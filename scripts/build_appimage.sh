@@ -3,7 +3,7 @@
 set -e
 
 APP_NAME="substitcher"
-APP_VERSION="26.11.10"
+APP_VERSION="26.11.13"
 BUILD_DIR="build/linux/x64/release/bundle"
 APPDIR="AppDir"
 APP_ID="io.github.mrfragger.substitcher"

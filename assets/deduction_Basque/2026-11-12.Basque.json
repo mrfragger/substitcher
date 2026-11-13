@@ -1,0 +1,61 @@
+{
+  "title": "Paradisuan hautsitako lehen konfiantza",
+  "intro": "Imajinatu bake perfektuko lorategi batean zutik zaudela, sorkuntza guztiaren gainetik ohoratua, errespetatu beharreko muga bakarrarekin. Xuxurla batek betikotasuna agintzen du, aukera bakar batek dena aldatzen du, eta hala ere, errukiak atzera egiteko bidea irekitzen du. Nork hitz egiten du gizateriaren hasieratik?",
+  "clues": [
+    "Alak buztinez sortu eta jainkozko arretaz moldatu ninduen.",
+    "Ohore handia izan nuen Alak aingeruei nire aurrean ahuspeztzeko agindu zienean.",
+    "Paradisuan bizi nintzen nire ezkontidearekin, zuhaitz bat izan ezik denaz gozatzeko askatasuna nuen.",
+    "Satanasen xuxurlak engainatu ninduen, aholkulari zintzoa izango zela zin egin baitzuen.",
+    "Debekatutako zuhaitzetik jan nuen eta lotsaz estalkia kendu zidaten.",
+    "Damuzko hitzak ikasi nituen nire Jaunarengandik, eta Ala errukiz begiratu zidan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Jalut (Goliat)",
+        "Dhul-Kifl",
+        "Namrud",
+        "Adam profeta",
+        "Yahya profeta"
+      ],
+      "answer": "Adam profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Beldurragatik uko egin zioten Lur Santura sartzeari",
+        "Sua jainko gisa gurtzea eskatu zuen",
+        "Eskaintza baten inbidiaz anaia bat hil zuen",
+        "Satanasen xuxurla egin ondoren debekatutako zuhaitzetik jan zuen",
+        "Arbasoen idoloak gurtu behar zirela argudiatu zuen"
+      ],
+      "answer": "Satanasen xuxurla egin ondoren debekatutako zuhaitzetik jan zuen"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Nilo ibaia",
+        "Arka",
+        "Tuwako Haran Sakratua",
+        "Paradisua (Jannah)",
+        "Hirako kobazuloa."
+      ],
+      "answer": "Paradisua (Jannah)"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Uholde handian ito nintzen sinesgabeekin batera",
+        "Ala-k damuaren hitzak irakatsi zizkidan eta barkatu zidan",
+        "Tximista batek jo ninduen Ala ikusteko eskatzeagatik",
+        "Arrain handi batek irentsi ninduen haserre alde egiteagatik",
+        "Sabbatua hausteagatik nire herriarekin batera eraldatu nintzen"
+      ],
+      "answer": "Ala-k damuaren hitzak irakatsi zizkidan eta barkatu zidan"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

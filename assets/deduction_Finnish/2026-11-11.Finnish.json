@@ -1,0 +1,61 @@
+{
+  "title": "Armossa hyväksytty uhri",
+  "intro": "Sulje silmäsi ja kuvittele mielessäsi valtava, hiljainen laakso, jossa uskoa koetellaan äärimmilleen. Olet kohtaamassa hahmon, jonka tyyni alistuminen käsittämättömän käskyn edessä muutti koettelemuksen hetken ikuiseksi kuuliaisuuden ja jumalallisen armon symboliksi.",
+  "clues": [
+    "Minut muistetaan Koraanissa niiden joukossa, jotka kestivät järkkymättömän kärsivällisesti.",
+    "Olin keskellä näyn, joka koetteli alistumista Allahin käskyille.",
+    "Kun minulle kerrottiin näystä, sanoin, että tehkää niin kuin käskettiin, ja löydätte minut kärsivien joukosta.",
+    "Minut asetettiin makuulle uhria varten, mutta Allah huusi, että näky oli täyttynyt.",
+    "Allah lunasti minut suurella uhrilla, jättäen minulle kunnian tuleville sukupolville.",
+    "Minä olen Ismail, joka yhdessä Ibrahimin kanssa perusti Pyhän Talon, josta mainitaan Idrisin ja Dhul-Kiflin rinnalla vanhurskaiden joukossa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Shu'ayb",
+        "Profeetta Ismail (Ismael)",
+        "Profeetta Dhul-Kifl",
+        "Profeetta Al-Yasa (Elisa)",
+        "Profeetta Hud"
+      ],
+      "answer": "Profeetta Ismail (Ismael)"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Heitetään liekehtivään tuleen",
+        "Kuolleiden kutsuminen takaisin elämään Allahin luvalla",
+        "Kaupan toimenpiteen ja tasapainon kieltäminen",
+        "Kästetty uhraus ja halukas alistuminen",
+        "Suuren kalan nielaisemaksi joutuminen"
+      ],
+      "answer": "Kästetty uhraus ja halukas alistuminen"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Leivinuuni pursuaa vettä",
+        "Sauva, josta tuli käärme",
+        "Kultaista vasikkaa palvottiin poissa ollessa",
+        "Puinen arkki tulvassa",
+        "Suuri lunnaiksi lähetetty pässi"
+      ],
+      "answer": "Suuri lunnaiksi lähetetty pässi"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Mahtavan pamauksen iskiessä naaraskamelin hylkäämisestä",
+        "Muuttui apinaksi rikkomuksen vuoksi",
+        "Ylistetty kärsivällisten ja vanhurskaiden profeettojen keskuudessa",
+        "Maan nielaisema ylimielisyyden vuoksi",
+        "Hukkui mereen uskovia takaa-ajaessaan"
+      ],
+      "answer": "Ylistetty kärsivällisten ja vanhurskaiden profeettojen keskuudessa"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

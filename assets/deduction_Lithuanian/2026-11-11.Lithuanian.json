@@ -1,0 +1,61 @@
+{
+  "title": "Auka priimta su gailestingumu",
+  "intro": "Užmerkite akis ir įsivaizduokite didžiulį, tylų slėnį, kuriame tikėjimas išbandomas iki ribos. Jūs tuoj sutiksite asmenį, kurio ramus paklusnumas neįsivaizduojamo įsakymo akivaizdoje išbandymo akimirką pavertė amžinu paklusnumo ir dieviškojo gailestingumo simboliu.",
+  "clues": [
+    "Korane esu prisimenamas tarp tų, kurie ištvėrė su nepalaužiama kantrybe.",
+    "Buvau regėjimo, kuris išbandė paklusnumą Alacho įsakymui, centre.",
+    "Kai man papasakojo apie regėjimą, pasakiau, kad darytum, kaip įsakyta, ir rasi mane tarp pacientų.",
+    "Buvau paguldytas aukai, bet Alachas pašaukė, kad vizija išsipildė.",
+    "Alachas išpirko mane didele auka, palikdamas man garbę vėlesnėms kartoms.",
+    "Aš esu Ismailas, kuris kartu su Ibrahimu padėjo Šventųjų Namų pamatus, minimus kartu su Idrisu ir Dhul-Kiflu tarp teisiųjų."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Šuayb",
+        "Pranašas Ismailas (Izmaelis)",
+        "Pranašas Dhul-Kifl",
+        "Pranašas Al-Yasa (Eliziejus)",
+        "Pranašas Hudas"
+      ],
+      "answer": "Pranašas Ismailas (Izmaelis)"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Įmestas į liepsnojančią ugnį",
+        "Mirusiųjų prikėlimas gyvenimui Alacho leidimu",
+        "Prekybos priemonės ir pusiausvyros neigimas",
+        "Įsakyta auka ir savanoriškas paklusnumas",
+        "Praryti didelės žuvies"
+      ],
+      "answer": "Įsakyta auka ir savanoriškas paklusnumas"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Kepimo krosnis, trykštanti vandeniu",
+        "Lazdelė, kuri virto gyvate",
+        "Auksinis veršis garbinamas nedalyvaujant",
+        "Medinė arka potvynio metu",
+        "Didelis avinas, atsiųstas kaip išpirka"
+      ],
+      "answer": "Didelis avinas, atsiųstas kaip išpirka"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Sutriuškintas galingo sprogimo už tai, kad atmetė kupranugarę",
+        "Už nusižengimą pavirto beždžione",
+        "Giriamas tarp kantrių ir teisių pranašų",
+        "Prarytas žemės dėl arogancijos",
+        "Nuskendo jūroje, persekiodamas tikinčiuosius"
+      ],
+      "answer": "Giriamas tarp kantrių ir teisių pranašų"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

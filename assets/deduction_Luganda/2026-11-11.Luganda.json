@@ -1,0 +1,61 @@
+{
+  "title": "Ssaddaaka Ekkirizibwa mu Kusaasira",
+  "intro": "Ggala amaaso go era okobe ekifaananyi ky’ekiwonvu ekinene era ekisirifu okukkiriza mwe kugezesebwa okutuuka ku kkomo lyakwo. Ogenda okusisinkana ffiga eyagondera mu bukkakkamu mu maaso g’ekiragiro ekitayinza kulowoozebwako kyafuula akaseera ak’okugezesebwa akabonero akataggwaawo ak’obuwulize n’okusaasira okw’obwakatonda.",
+  "clues": [
+    "Njjukirwa mu Quran mu abo abaagumiikiriza n’obugumiikiriza obunywevu.",
+    "Nali wakati mu kwolesebwa okwagezesa okugondera ekiragiro kya Allah.",
+    "Bwe nnabuulirwa okwolesebwa, nagamba nti mukole nga bwe balagiddwa era mujja kunsanga mu mulwadde.",
+    "Nagalamizibwa ku ssaddaaka, naye Allah n’akoowoola nti okwolesebwa kutuukiridde.",
+    "Allah yannunula ne ssaddaaka ennene, n’andekera ekitiibwa mu milembe egyaddirira.",
+    "Nze Ismail, eyasitula ne Ibrahim emisingi gy’Ennyumba Entukuvu, eyogerwako ku mabbali ga Idris ne Dhul-Kifl mu batuukirivu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Nabbi Shu'ayb",
+        "Nabbi Ismail (Ishmael) .",
+        "Nabbi Dhul-Kifl",
+        "Nabbi Al-Yasa (Elisa) .",
+        "Nabbi Hud"
+      ],
+      "answer": "Nabbi Ismail (Ishmael) ."
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okusuulibwa mu muliro ogwaka",
+        "Okuyita abafu okudda mu bulamu nga Allah akkirizza",
+        "Okwegaana ekipimo ne bbalansi mu by’obusuubuzi",
+        "Okwewaayo okwalagirwa n’okugondera kyeyagalire",
+        "Okumira ekyennyanja ekinene"
+      ],
+      "answer": "Okwewaayo okwalagirwa n’okugondera kyeyagalire"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Oven y’okufumba ng’ekulukuta amazzi",
+        "Omuggo ogwafuuka omusota",
+        "Ennyana eya zaabu eyasinzibwa nga tewali",
+        "Essanduuko ey’embaawo mu mataba",
+        "Endiga ennume ennene eyasindikibwa ng’ekinunulo"
+      ],
+      "answer": "Endiga ennume ennene eyasindikibwa ng’ekinunulo"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yakubwa okubwatuka okw’amaanyi olw’okugaana engamiya enkazi",
+        "Yafuuka enkima olw’okusobya",
+        "Atenderezebwa mu bannabbi abagumiikiriza era abatuukirivu",
+        "Okumira ensi olw’amalala",
+        "Babbira mu nnyanja nga bagoberera abakkiriza"
+      ],
+      "answer": "Atenderezebwa mu bannabbi abagumiikiriza era abatuukirivu"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

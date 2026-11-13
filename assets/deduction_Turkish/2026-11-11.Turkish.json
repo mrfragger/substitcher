@@ -1,0 +1,61 @@
+{
+  "title": "Merhametle Kabul Edilen Kurban",
+  "intro": "Gözlerinizi kapatın ve inancın sınırlarına kadar sınandığı uçsuz bucaksız, sessiz bir vadiyi hayal edin. Hayal edilemez bir emre karşı gösterdiği sakin teslimiyetle, bir sınav anını itaat ve ilahi merhametin ebedi bir sembolüne dönüştüren bir figürle tanışmak üzeresiniz.",
+  "clues": [
+    "Kur'an'da, sarsılmaz sabırla tahammül edenler arasında anılıyorum.",
+    "Allah'ın emrine teslimiyeti sınayan bir vizyonun merkezindeydim.",
+    "Bana bu görümden bahsedildiğinde, \"Emredildiği gibi yapın, beni hastaların arasında bulacaksınız\" dedim.",
+    "Kurban edilmek üzere yere yatırılmıştım, fakat Allah rüyamın gerçekleştiğini bildirdi.",
+    "Allah beni büyük bir fedakarlıkla kurtardı ve gelecek nesiller arasında bana şeref bıraktı.",
+    "Ben, İbrahim ile birlikte Kutsal Ev'in temellerini atan, İdris ve Zülkifl ile birlikte salihler arasında anılan İsmail'im."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Şuayb",
+        "Peygamber İsmail (İşmael)",
+        "Peygamber Zül-Kifl",
+        "Peygamber El-Yasa (Elişa)",
+        "Peygamber Hud"
+      ],
+      "answer": "Peygamber İsmail (İşmael)"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Alev alev yanan bir ateşe atılmak",
+        "Allah'ın izniyle ölüleri hayata geri çağırmak",
+        "Ticarette ölçü ve dengeyi reddetmek",
+        "Emredilen fedakarlık ve gönüllü teslimiyet",
+        "Büyük bir balık tarafından yutulmak"
+      ],
+      "answer": "Emredilen fedakarlık ve gönüllü teslimiyet"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Su fışkıran bir fırın.",
+        "Yılana dönüşen bir asa",
+        "Yokluğunda tapılan altın buzağı",
+        "Tufan sırasında tahta bir Nuh'un Gemisi",
+        "fidye olarak gönderilen büyük bir koç"
+      ],
+      "answer": "fidye olarak gönderilen büyük bir koç"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Dişi deveyi reddettiği için şiddetli bir rüzgarla vuruldu.",
+        "Suç işlediği için maymuna dönüştürüldü.",
+        "Sabırlı ve salih peygamberler arasında övülen",
+        "Kibir yüzünden toprak tarafından yutuldu.",
+        "İnananları kovalarken denizde boğuldu."
+      ],
+      "answer": "Sabırlı ve salih peygamberler arasında övülen"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

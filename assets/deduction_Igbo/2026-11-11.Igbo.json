@@ -1,0 +1,61 @@
+{
+  "title": "A Nabatara Àjà n'Ebere",
+  "intro": "Mechie anya gị ma lee anya n'ugwu dị ukwuu, nke na-adịghị ekwu okwu ebe a na-anwale okwukwe ruo n'ókè ya. Ị na-achọ izute onye nrubeisi ya dị jụụ n'ihu iwu a na-apụghị ichetụ n'echiche gbanwere oge ọnwụnwa ka ọ bụrụ ihe nnọchianya ebighị ebi nke nrubeisi na ebere Chineke.",
+  "clues": [
+    "A na-echeta m n'ime Quran n'ime ndị tachiri obi na ndidi siri ike.",
+    "Anọ m n'etiti ọhụụ nke nwalere nrubeisi nye iwu Allah.",
+    "Mgbe a gwara m ọhụụ ahụ, m kwuru ka m mee ihe e nyere m n'iwu, ị ga-ahụkwa m n'etiti onye ọrịa ahụ.",
+    "E dinaara m ala maka àjà ahụ, mana Allah kpọrọ oku ka ọhụụ ahụ mezuo.",
+    "Allah ji nnukwu àjà gbapụta m, wee hapụ nsọpụrụ nye m n'etiti ọgbọ ndị ga-abịa.",
+    "Abụ m Ismail, onye ya na Ibrahim weliri ntọala nke Ụlọ Nsọ ahụ, nke a kpọtụrụ aha ya na Idris na Dhul-Kifl n'etiti ndị ezi omume."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Onye Amụma Shuaib",
+        "Onye Amụma Ismail (Ishmael)",
+        "Onye Amụma Dhul-Kifl",
+        "Onye Amụma Al-Yasa (Elisha)",
+        "Onye Amụma Hud"
+      ],
+      "answer": "Onye Amụma Ismail (Ishmael)"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Ịtụba n'ime ọkụ na-ere ọkụ",
+        "Ịkpọ ndị nwụrụ anwụ ka ha dị ndụ site n'ikike Allah",
+        "Ịjụ nha na nguzozi n'azụmaahịa",
+        "Àjà e nyere n'iwu na nrubeisi n'obi",
+        "Ịbụ onye azụ̀ dị egwu loro"
+      ],
+      "answer": "Àjà e nyere n'iwu na nrubeisi n'obi"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Oven na-eme achịcha na-agbapụta mmiri",
+        "Mkpanaka nke ghọrọ agwọ",
+        "Ehi ọlaedo a na-efe mgbe ọ nọghị ya",
+        "Igbe osisi n'ime idei mmiri",
+        "Ebule ukwu e zigara dị ka ihe mgbapụta"
+      ],
+      "answer": "Ebule ukwu e zigara dị ka ihe mgbapụta"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "Mgbọ dị egwu tụrụ m n'anya maka ịjụ nne kamel ahụ",
+        "Aghọgharịrị enwe maka mmebi iwu",
+        "A na-eto ya n'etiti ndị amụma nwere ndidi na ezi omume",
+        "Ala loro ya maka mpako",
+        "Mmiri mikpuru m n'oké osimiri ka m na-achụ ndị kwere ekwe"
+      ],
+      "answer": "A na-eto ya n'etiti ndị amụma nwere ndidi na ezi omume"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

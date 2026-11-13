@@ -1,0 +1,61 @@
+{
+  "title": "La prima fiducia rotta in paradis",
+  "intro": "Figürate de star in pè in d’un giardin de pas parfet, onorà sora tüta la creaziun, cunt sultant un cunfin de rispetà. Un susurro promet l’eternità, una sola scelta cambia tüt, e ancamò la misericordia derva la strada indrèe. Chi parla del principi del òmm?",
+  "clues": [
+    "Sun stà creà de Allah de argila e furmà cun cura divina.",
+    "Mi sun stà onorà quand Allah g’ha cumandà ai angel de prostrass a mi.",
+    "Abitavi in ​​del Paradis cun la me coniug, liber de goder de tüt, trann un alber.",
+    "Mi sun stà ingannà del sussurro de Satana che g’ha giurà de vèss un cunsilier sincer.",
+    "Ho magnà del alber proibì e la me rivestiment l’è stada cavà per vergügnass.",
+    "Ho imparad parolle de pentiment del me Signor, e Allah s’è voltad a mi con misericordia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Jalut (Goliat)",
+        "Zul-Kifl",
+        "Namrud",
+        "Profeta Adam",
+        "Profeta Yahya"
+      ],
+      "answer": "Profeta Adam"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Refudà de entrà in de la Terra Santa per paura",
+        "Dumandava che el fœuch l’era venerà cuma un dé",
+        "G’ha copà un fradel per invidia per un’oferta",
+        "G’ha mangià del alber proibì dopu che Satana g’ha sussurrà",
+        "Sustegneva che i idol di antenà g’havevan de vèss venerà"
+      ],
+      "answer": "G’ha mangià del alber proibì dopu che Satana g’ha sussurrà"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "El fiumm Nilo",
+        "L'Arca",
+        "La Sacra Val de Tuwa",
+        "Paradis (Gianna)",
+        "La Grotta de Hira"
+      ],
+      "answer": "Paradis (Gianna)"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Son stà affogad in del grand diluvi cunt i incredul",
+        "Allah m’ha insegnad parolle de pentiment e m’ha perdonad",
+        "Sun stà colpì de un fulmin perché g’ho dumandà de vedè Allah",
+        "Sun stà inglutì de un grand pess perché l’eri partì in rabbia",
+        "Sun stà trasfurmà cunt el me popul perché g’ho violad el Sabat"
+      ],
+      "answer": "Allah m’ha insegnad parolle de pentiment e m’ha perdonad"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ẹbọ tí a gbà nínú àánú",
+  "intro": "Di ojú rẹ kí o sì fojú inú wo àfonífojì ńlá kan tí ó dákẹ́ jẹ́ẹ́ níbi tí a ti ń dán ìgbàgbọ́ wò dé òpin rẹ̀. O fẹ́rẹ̀ pàdé ẹni kan tí ìtẹríba rẹ̀ jẹ́jẹ́ ní ojú àṣẹ tí a kò lè fojú rí yí ìgbà ìdánwò kan padà sí àmì ìgbọràn àti àánú Ọlọ́run títí láé.",
+  "clues": [
+    "A ranti mi ninu Al-Quran laarin awon ti o farada pelu suuru ti o duro ṣinṣin.",
+    "Mo wà ní àárín ìran kan tí ó dán ìtẹríba sí àṣẹ Allah wò.",
+    "Nígbà tí wọ́n sọ ìran náà fún mi, mo ní kí n ṣe bí wọ́n ṣe pàṣẹ fún mi, ìwọ yóò sì rí mi láàrín àwọn aláìsàn.",
+    "Wọ́n tẹ́ mi sílẹ̀ fún ẹbọ náà, ṣùgbọ́n Allah kéde pé ìran náà ti ṣẹ.",
+    "Allah fi ẹbọ ńlá rà mí padà, ó sì fi ọlá sílẹ̀ fún mi láàrín àwọn ìran tó ń bọ̀.",
+    "Èmi ni Ismail, ẹni tí ó gbé ìpìlẹ̀ Ilé Mímọ́ náà ga pẹ̀lú Ibrahim, tí a mẹ́nu kàn pẹ̀lú Idris àti Dhul-Kifl láàrín àwọn olódodo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Ṣúáíbù",
+        "Wòlíì Íṣímáẹ́lì (Íṣímáẹ́lì)",
+        "Wòlíì Dhul-Kifl",
+        "Wòlíì Al-Yasa (Eliṣa)",
+        "Wòlíì Húdì"
+      ],
+      "answer": "Wòlíì Íṣímáẹ́lì (Íṣímáẹ́lì)"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Jíjẹ́ tí a jù sínú iná tí ń jó",
+        "Pípè àwọn òkú padà sí ìyè nípasẹ̀ àṣẹ Allāhu",
+        "Sísẹ́ ìwọ̀n àti ìwọ́ntúnwọ̀nsì nínú ìṣòwò",
+        "Ẹbọ tí a pàṣẹ àti ìtẹríba àtọkànwá",
+        "Jíjẹ́ tí ẹja ńlá gbé mì"
+      ],
+      "answer": "Ẹbọ tí a pàṣẹ àti ìtẹríba àtọkànwá"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ààrò yíyan tí omi ń tàn",
+        "Ọ̀pá tí ó di ejò",
+        "Ọmọ màlúù wúrà tí wọ́n ń jọ́sìn láìsí ibìkan",
+        "Ọkọ̀ onígi kan nínú ìkún omi",
+        "Àgbò ńlá kan tí a rán gẹ́gẹ́ bí ìràpadà"
+      ],
+      "answer": "Àgbò ńlá kan tí a rán gẹ́gẹ́ bí ìràpadà"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ìró ńlá kan dún mí nítorí pé ó kọ̀ láti ràkúnmí náà",
+        "Ó di ọ̀bọ fún ẹ̀ṣẹ̀",
+        "A yin láàrín àwọn wòlíì onísùúrù àti olódodo",
+        "Ilẹ̀ gbé e mì nítorí ìgbéraga",
+        "Mo rì sínú òkun nígbà tí mo ń lépa àwọn onígbàgbọ́"
+      ],
+      "answer": "A yin láàrín àwọn wòlíì onísùúrù àti olódodo"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

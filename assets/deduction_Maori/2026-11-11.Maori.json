@@ -1,0 +1,61 @@
+{
+  "title": "Te Patunga Tapu i Manakohia i roto i te Aroha",
+  "intro": "Katia ō kanohi, ka whakaaroaro ki tētahi awaawa nui, puku hoki e whakamatautauria ai te whakapono ki tōna mutunga. Kei te tata koe te tūtaki ki tētahi tangata nāna i ngohengohe mārire i te aroaro o tētahi whakahau e kore e taea te whakaaro, ā, nā tōna ngohengohe mārire i tahuri te wā o te whakamātautau hei tohu mutunga kore o te ngohengohe me te aroha noa o te Atua.",
+  "clues": [
+    "E maumaharatia ana ahau i roto i te Quran i roto i te hunga i whakamanawanui me te manawanui.",
+    "I waenganui ahau o tētahi moemoeā i whakamātautau i te ngohengohe ki te whakahau a Allah.",
+    "I taku rongonga i te kitenga, ka mea atu ahau kia meatia taku i whakahau ai, ā, ka kitea ahau e koe i roto i te hunga manawanui.",
+    "I whakatakotoria ahau mō te patunga tapu, engari i karanga a Allah kua tutuki te moemoeā.",
+    "I hokona ahau e Allah ki tētahi patunga tapu nui, ā, i waiho mai he honore mōku i roto i ngā whakatupuranga o muri mai.",
+    "Ko ahau a Ismail, nā rāua ko Ibrahim i whakaara ngā turanga o te Whare Tapu, i whakahuatia tahitia me Idris rāua ko Dhul-Kifli i roto i te hunga tika."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti Shu'ayb",
+        "Poropiti a Ihimaera (Ihimaera)",
+        "Poropiti a Dhul-Kifl",
+        "Poropiti Al-Yasa (Eriha)",
+        "Poropiti a Hūta"
+      ],
+      "answer": "Poropiti a Ihimaera (Ihimaera)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Ka makaia ki roto i te ahi mura",
+        "Te karanga i te hunga mate ki te ora anō i runga i te whakaaetanga a Allah",
+        "Te whakakahore i te mehua me te taurite i roto i te hokohoko",
+        "Ko te patunga tapu me te ngohengohe hihiko i whakahaua",
+        "Te horomia e te ika nui"
+      ],
+      "answer": "Ko te patunga tapu me te ngohengohe hihiko i whakahaua"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He oumu tunu e pupū ana i te wai",
+        "He tokotoko i huri hei nakahi",
+        "He kuao kau koura i karakiatia i te ngaro",
+        "He āaka rakau i te waipuke",
+        "He hipi toa nui i tukuna hei utu"
+      ],
+      "answer": "He hipi toa nui i tukuna hei utu"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I pāngia e te pahūtanga nui mō te whakakorenga i te kamera uha",
+        "I hurihia hei makimaki mō te takahi ture",
+        "I whakanuia i roto i ngā poropiti manawanui me te hunga tika",
+        "Horomia e te whenua mō te whakapehapeha",
+        "I toremi ki te moana i a ia e whai ana i ngā whakapono"
+      ],
+      "answer": "I whakanuia i roto i ngā poropiti manawanui me te hunga tika"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

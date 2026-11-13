@@ -1,0 +1,61 @@
+{
+  "title": "Umhlatshelo Wamukelwa Ngesihe",
+  "intro": "Vala amehlo akho bese ubona ngeso lengqondo isigodi esikhulu nesithule lapho ukholo luvivinywa khona kuze kube sekupheleni. Usuzohlangana nomuntu okuzithoba kwakhe okuzolile lapho ebhekene nomyalo ongacabangeki kwaguqula umzuzu wokulingwa kwaba uphawu lwaphakade lokulalela nesihe saphezulu.",
+  "clues": [
+    "Ngikhunjulwa eQuran phakathi kwalabo ababekezela ngokubekezela.",
+    "Ngangiphakathi kombono owawuvivinya ukuzithoba emyalweni ka-Allah.",
+    "Lapho ngitshelwa ngombono, ngathi ngenze njengoba ngiyaliwe futhi uzongithola ngiphakathi kwesiguli.",
+    "Ngangibekwe phansi ukuze nginikele ngomhlatshelo, kodwa u-Allah wamemezela ukuthi umbono usugcwalisekile.",
+    "UNkulunkulu wangihlenga ngomhlatshelo omkhulu, wangishiyela udumo phakathi kwezizukulwane ezizayo.",
+    "Ngingu-Ismail, owaphakamisa izisekelo zeNdlu Engcwele no-Ibrahim, okukhulunywa ngaye kanye no-Idris noDhul-Kifl phakathi kwabalungile."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi uShu'ayb",
+        "Umprofethi u-Ismail (u-Ishmael)",
+        "Umprofethi uDhul-Kifl",
+        "Umprofethi u-Al-Yasa (u-Elisha)",
+        "Umprofethi uHud"
+      ],
+      "answer": "Umprofethi u-Ismail (u-Ishmael)"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukuphonswa emlilweni ovuthayo",
+        "Ukubiza abafileyo babuye baphile ngemvume ka-Allah",
+        "Ukwenqaba isilinganiso kanye nebhalansi kwezohwebo",
+        "Umhlatshelo oyalelwe kanye nokuzithoba ngokuzithandela",
+        "Ukugwinywa yinhlanzi enkulu"
+      ],
+      "answer": "Umhlatshelo oyalelwe kanye nokuzithoba ngokuzithandela"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Ihhavini lokubhaka eligcwele amanzi",
+        "Intonga eyaba yinyoka",
+        "Ithole legolide elikhulekelwa lingekho",
+        "Umkhumbi wokhuni ngesikhathi sikazamcolo",
+        "Inqama enkulu ethunyelwe njengesihlengo"
+      ],
+      "answer": "Inqama enkulu ethunyelwe njengesihlengo"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Ushaywe ukuqhuma okukhulu ngenxa yokwenqaba ikamela lensikazi",
+        "Yaphenduka inkawu yokuphula umthetho",
+        "Kudunyiswa phakathi kwabaprofethi abanesineke nabalungile",
+        "Ugwinywe umhlaba ngenxa yokuzikhukhumeza",
+        "Wacwila olwandle ngenkathi exosha amakholwa"
+      ],
+      "answer": "Kudunyiswa phakathi kwabaprofethi abanesineke nabalungile"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

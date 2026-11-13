@@ -1,0 +1,61 @@
+{
+  "title": "Dat éischt Vertrauen, dat am Paradäis gebrach ass",
+  "intro": "Stellt Iech vir, Dir stinn an engem Gaart vu perfektem Fridden, deen iwwer all Schöpfung geéiert gëtt, mat nëmmen enger Grenz ze respektéieren. E Geflüster versprécht d'Éiwegkeet, eng eenzeg Wiel ännert alles, an awer mécht d'Barmhäerzegkeet e Wee zréck op. Wien schwätzt vun Ufank un vun der Mënschheet?",
+  "clues": [
+    "Ech gouf vun Allah aus Lehm geschaf a mat göttlecher Suergfalt geformt.",
+    "Ech gouf geéiert, wéi Allah den Engelen gebueden huet, sech mir ze néierbéien.",
+    "Ech hunn am Paradäis mat mengem Mann gewunnt, fräi fir alles ausser engem Bam ze genéissen.",
+    "Ech gouf vum Geflüster vum Satan bedrunn, deen geschwuer huet, e éierleche Beroder ze sinn.",
+    "Ech hunn vum verbuedene Bam giess a mäi Mantel gouf aus Schimmt ewechgeholl.",
+    "Ech hunn Wierder vun der Reue vu mengem Här geléiert, an Allah huet sech mat Barmhäerzegkeet zu mir gedréint."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Jalut (Goliath)",
+        "Dhul-Kifl",
+        "Namrud",
+        "Prophet Adam",
+        "De Prophet Yahya"
+      ],
+      "answer": "Prophet Adam"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Aus Angscht wollt hien net an d'Hellegt Land kommen",
+        "Fuerdert datt Feier als Gott veréiert soll ginn",
+        "Huet e Brudder aus Näid iwwer en Offer ëmbruecht",
+        "Huet vum verbuedene Bam giess nodeems de Satan geflüstert huet",
+        "Argumentéiert datt d'Idoler vun den Vorfahren veréiert musse ginn"
+      ],
+      "answer": "Huet vum verbuedene Bam giess nodeems de Satan geflüstert huet"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Den Nil",
+        "D'Ark",
+        "Dat Hellegt Dall vun Tuwa",
+        "Paradäis (Jannah)",
+        "D'Höhl vun Hira"
+      ],
+      "answer": "Paradäis (Jannah)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ech sinn an der grousser Iwwerschwemmung mat den Ongleewegen erdronk",
+        "Allah huet mir Wierder vun der Reue geléiert a mir verginn",
+        "Ech gouf vum Blëtz getraff, well ech gefuerdert hunn, Allah ze gesinn",
+        "Ech gouf vun engem grousse Fësch verschléckt, well ech a Roserei fortgaange sinn",
+        "Ech sinn zesumme mat mengem Vollek transforméiert ginn, well ech de Sabbat gebrach hunn"
+      ],
+      "answer": "Allah huet mir Wierder vun der Reue geléiert a mir verginn"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

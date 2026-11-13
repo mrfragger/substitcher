@@ -1,0 +1,61 @@
+{
+  "title": "Jannatda birinchi buzilgan ishonch",
+  "intro": "Tasavvur qiling-a, mukammal tinchlik bog'ida turibsiz, barcha mavjudotlardan ustun, hurmatga faqat bitta chegara bor. Pichirlash abadiyatni va'da qiladi, bitta tanlov hamma narsani o'zgartiradi, ammo rahm-shafqat orqaga qaytish yo'lini ochadi. Insoniyatning boshidan kim gapiradi?",
+  "clues": [
+    "Men Alloh tomonidan loydan yaratilganman va ilohiy g'amxo'rlik bilan shakllantirilganman.",
+    "Alloh farishtalarga menga sajda qilishni buyurganida, men sharaflandim.",
+    "Men jannatda turmush o'rtog'im bilan birga yashardim, bitta daraxtdan tashqari hamma narsadan bahramand bo'lishga erkin edim.",
+    "Men samimiy maslahatchi bo'lishga qasam ichgan shaytonning pichirlashiga aldandim.",
+    "Men taqiqlangan daraxtdan yedim va uyatdan choyshabimni yechdim.",
+    "Men Robbimdan tavba kalimalarini o'rgandim va Alloh menga rahm qildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Jalut (Goliath)",
+        "Zul-Kifl",
+        "Namrud",
+        "Payg'ambar Odam",
+        "Yahyo payg'ambar"
+      ],
+      "answer": "Payg'ambar Odam"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Qo'rquv tufayli Muqaddas Yerga kirishdan bosh tortdi",
+        "Olovga xudo sifatida sig'inishni talab qildi",
+        "Qurbonlikka hasad qilib, akasini o'ldirdi",
+        "Shaytonning vasvasasidan keyin taqiqlangan daraxtdan yedi",
+        "Ajdodlarning butlariga sig'inish kerak, deb ta'kidlagan"
+      ],
+      "answer": "Shaytonning vasvasasidan keyin taqiqlangan daraxtdan yedi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Nil daryosi",
+        "Kema",
+        "Tuvaning muqaddas vodiysi",
+        "Jannat (Jannat)",
+        "Hiro g'ori"
+      ],
+      "answer": "Jannat (Jannat)"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Men kofirlar bilan birga buyuk to'fonda g'arq bo'ldim",
+        "Alloh menga tavba kalimalarini o'rgatdi va meni kechirdi",
+        "Allohni ko'rishni talab qilganim uchun chaqmoq urdi",
+        "G'azab bilan ketganim uchun katta baliq meni yutib yubordi",
+        "Shabbat kunini buzganim uchun xalqim bilan birga o'zgardim"
+      ],
+      "answer": "Alloh menga tavba kalimalarini o'rgatdi va meni kechirdi"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

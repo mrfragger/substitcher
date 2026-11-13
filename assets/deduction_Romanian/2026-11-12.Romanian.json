@@ -1,0 +1,61 @@
+{
+  "title": "Prima încredere ruptă în Paradis",
+  "intro": "Imaginează-ți că stai într-o grădină a păcii perfecte, onorată mai presus de toată creația, cu o singură graniță de respectat. O șoaptă promite eternitatea, o singură alegere schimbă totul și totuși mila deschide o cale înapoi. Cine vorbește de la începutul umanității?",
+  "clues": [
+    "Am fost creat de Allah din lut și modelat cu grijă divină.",
+    "Am fost onorat când Allah le-a poruncit îngerilor să mi se prosterneze.",
+    "Am locuit în Paradis cu soțul meu, liber să mă bucur de toate, cu excepția unui singur copac.",
+    "Am fost înșelat de șoaptele Satanei care jurase să fie un sfătuitor sincer.",
+    "Am mâncat din pomul oprit și mi-a fost scoasă învelitoarea de rușine.",
+    "Am învățat cuvinte de pocăință de la Domnul meu, iar Allah S-a întors către mine cu milă."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Jalut (Goliat)",
+        "Dhul-Kifl",
+        "Namrud",
+        "Profetul Adam",
+        "Profetul Yahya"
+      ],
+      "answer": "Profetul Adam"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "A refuzat să intre în Țara Sfântă de frică",
+        "A cerut ca focul să fie venerat ca un zeu",
+        "A ucis un frate din invidie pentru o ofrandă",
+        "A mâncat din pomul interzis după șoaptele lui Satan",
+        "A susținut că idolii strămoșilor trebuie venerați"
+      ],
+      "answer": "A mâncat din pomul interzis după șoaptele lui Satan"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Fluviul Nil",
+        "Arca",
+        "Valea Sacră a Tuwai",
+        "Paradis (Jannah)",
+        "Peștera din Hira"
+      ],
+      "answer": "Paradis (Jannah)"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "M-am înecat în marele potop împreună cu necredincioșii",
+        "Allah m-a învățat cuvinte de pocăință și m-a iertat",
+        "Am fost lovit de fulger pentru că am cerut să-l văd pe Allah",
+        "Am fost înghițit de un pește mare pentru că am plecat furios.",
+        "M-am schimbat împreună cu poporul meu pentru că am încălcat Sabatul"
+      ],
+      "answer": "Allah m-a învățat cuvinte de pocăință și m-a iertat"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

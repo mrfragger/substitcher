@@ -1,0 +1,61 @@
+{
+  "title": "Te Whakawhirinakitanga Tuatahi i Pakaru i Pararaiha",
+  "intro": "Whakaarohia te tū i roto i tētahi māra o te rangimārie tino pai, e whakahonoretia ana i runga ake i ngā mea hanga katoa, me te rohe kotahi anake hei whakaute. He kōrero mā te hāhā mō te mutunga kore, he kōwhiringa kotahi e whakarerekē ana i ngā mea katoa, engari ko te aroha e whakatuwhera ana i te ara hoki. Ko wai e kōrero mai i te tīmatanga o te tangata?",
+  "clues": [
+    "I hangaia ahau e Allah i te paru, ā, i whakaahuatia ahau me te atawhai Atua.",
+    "I whakahonoretia ahau i te wā i whakahau ai a Allah i ngā anahera kia piko ki ahau.",
+    "I noho māua ko taku hoa rangatira ki Pararaiha, e wātea ana māua ki te kai i ngā mea katoa engari kotahi te rākau.",
+    "I tinihangatia ahau e te kōrero hāhā a Hātana, i oati nei he kaitohutohu pono ia.",
+    "I kai ahau i te hua o te rākau tapu, ā, i tangohia atu tōku hipoki i te whakama.",
+    "I ako ahau i ngā kupu ripeneta mai i tōku Ariki, ā, ka tahuri mai a Allah ki ahau me te aroha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Jalut (Koriata)",
+        "Dhul-Kifli",
+        "Namrud",
+        "Poropiti Arama",
+        "Poropiti a Yahya"
+      ],
+      "answer": "Poropiti Arama"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I whakakahore ki te tomo ki te Whenua Tapu i te wehi",
+        "I tono kia karakiatia te ahi hei atua",
+        "I patua e ia tōna teina i te hae mō te whakahere",
+        "I kai i te hua o te rākau tapu i muri i te hāhā a Hātana",
+        "I tautohetia me karakia ngā whakapakoko o ngā tūpuna"
+      ],
+      "answer": "I kai i te hua o te rākau tapu i muri i te hāhā a Hātana"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Awa o te Nile",
+        "Te Āraka",
+        "Te Raorao Tapu o Tūwa",
+        "Pararaiha (Jannah)",
+        "Te Ana o Hira"
+      ],
+      "answer": "Pararaiha (Jannah)"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I toremi ahau i roto i te waipuke nui me te hunga whakaponokore",
+        "I whakaakona ahau e Allah ki ngā kupu o te ripeneta, ā, i murua hoki e ia ōku hara",
+        "I pāngia ahau e te uira i taku tono kia kite i a Allah",
+        "I horomia ahau e te ika nui mō taku wehenga atu me te riri",
+        "I puta ke ahau me tōku iwi mō te takahi i te Hāpati"
+      ],
+      "answer": "I whakaakona ahau e Allah ki ngā kupu o te ripeneta, ā, i murua hoki e ia ōku hara"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

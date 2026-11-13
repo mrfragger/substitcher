@@ -1,0 +1,61 @@
+{
+  "title": "Prima Fides Fracta in Paradiso",
+  "intro": "Finge te stare in horto pacis perfectae, super omnem creationem honoratum, uno tantum limite observando. Susurrus aeternitatem promittit, una electio omnia mutat, et tamen misericordia viam retro aperit. Quis loquitur ab initio humanitatis?",
+  "clues": [
+    "Ex luto ab Allah creatus et divina cura formatus sum.",
+    "Honoratus sum cum Allah angelis imperavit ut mihi prosternerent.",
+    "In Paradiso cum coniuge meo habitavi, liber omnibus praeter unam arborem fruendi.",
+    "Deceptus sum susurris Satanae qui se consiliarium sincerum fore iuravit.",
+    "De ligno vetito comedi, et velamen meum prae pudore ablatum est.",
+    "Verba paenitentiae a Domino meo didici, et Deus ad me cum misericordia conversus est."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Jalut (Goliath)",
+        "Dhul-Kifl",
+        "Namrud",
+        "Propheta Adamus",
+        "Propheta Yahya"
+      ],
+      "answer": "Propheta Adamus"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Terram Sanctam intrare recusavit metu",
+        "Ignem tamquam deum colendum postulavit",
+        "Invidia ob oblationem fratrem occidit",
+        "De arbore vetita post susurrationem Satanae comedit",
+        "Contendebat idola maiorum colenda esse"
+      ],
+      "answer": "De arbore vetita post susurrationem Satanae comedit"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Nilus flumen",
+        "Arca",
+        "Vallis Sacra Tuwae",
+        "Paradisus (Jannah)",
+        "Antrum Hirae"
+      ],
+      "answer": "Paradisus (Jannah)"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "In magno diluvio cum infidelibus submersus sum",
+        "Allah me verba paenitentiae docuit et mihi ignovit",
+        "Fulmine percussus sum quod Allah videre petivi.",
+        "A magno pisce devoratus sum quod iratus discessi",
+        "Transformatus sum cum populo meo propter violationem sabbati"
+      ],
+      "answer": "Allah me verba paenitentiae docuit et mihi ignovit"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

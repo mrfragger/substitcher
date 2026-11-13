@@ -1,0 +1,61 @@
+{
+  "title": "Ny Sorona Ekena Amin'ny Famindram-po",
+  "intro": "Akimpio ny masonao ary alaivo sary an-tsaina ny lohasaha midadasika sy mangina izay itsapana ny finoana hatramin'ny fetrany. Hihaona amin'olona iray izay nanova ny fotoam-pitsapana ho mariky ny fankatoavana sy ny famindram-pon'Andriamanitra ny fanekeny tony teo anatrehan'ny baiko tsy azo eritreretina.",
+  "clues": [
+    "Tsaroana ao amin'ny CORAN aho ho isan'ireo izay niaritra tamim-paharetana tsy mety lefy.",
+    "Teo afovoan'ny fahitana iray izay nitsapa ny fanekena ny didin'i Allah aho.",
+    "Rehefa nilazana momba ilay fahitana aho dia nilaza taminao hoe: Ataovy araka ny nandidianao dia ho hitanao fa anisan'ireo marary aho.",
+    "Napetraka hatao sorona aho, saingy niantso i Allah fa tanteraka ny fahitana.",
+    "Namonjy ahy tamin'ny sorona lehibe Andriamanitra, namela voninahitra ho ahy teo amin'ireo taranaka taty aoriana.",
+    "Izaho no Ismail, izay niara-nanorina tamin'i Ibrahim ny fototry ny Trano Masina, izay voatonona miaraka amin'i Idris sy Dhul-Kifl ho isan'ireo olo-marina."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Shu'ayb",
+        "Mpaminany Ismail (Ismaela)",
+        "Mpaminany Dhul-Kifl",
+        "Mpaminany Al-Yasa (Elisa)",
+        "Mpaminany Hoda"
+      ],
+      "answer": "Mpaminany Ismail (Ismaela)"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Atsipy ao anaty afo mirehitra",
+        "Fiantsoana ny maty ho amin'ny fiainana indray noho ny fahazoan-dàlan'i Allah",
+        "Mandà ny fandrefesana sy ny fifandanjana eo amin'ny varotra",
+        "Ny sorona sy ny fanekena an-tsitrapo no nandidy",
+        "Voatelina trondro lehibe"
+      ],
+      "answer": "Ny sorona sy ny fanekena an-tsitrapo no nandidy"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Lafaoro fanaova-mofo miboiboika rano",
+        "Tehina izay lasa menarana",
+        "Ombilahy kely volamena no nivavahana rehefa tsy teo",
+        "Sambofiara hazo tao anatin'ny safodrano",
+        "Ondrilahy lehibe nalefa ho avotra"
+      ],
+      "answer": "Ondrilahy lehibe nalefa ho avotra"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Tratran'ny fipoahana mahery vaika noho ny fandavany ny ramevavavy",
+        "Niova ho rajako noho ny fandikan-dalàna",
+        "Noderaina teo anivon'ireo mpaminany manam-paharetana sy marina",
+        "Voatelin'ny tany noho ny avonavona",
+        "Nilentika tao an-dranomasina raha nanenjika ireo mpino"
+      ],
+      "answer": "Noderaina teo anivon'ireo mpaminany manam-paharetana sy marina"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

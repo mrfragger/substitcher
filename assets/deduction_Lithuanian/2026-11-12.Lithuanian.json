@@ -1,0 +1,61 @@
+{
+  "title": "Pirmasis pasitikėjimas sugriautas rojuje",
+  "intro": "Įsivaizduokite, kad stovite tobulos ramybės sode, gerbiami labiau už visą kūriniją, turintys tik vieną ribą, kurią reikia gerbti. Šnabždesys žada amžinybę, vienas pasirinkimas pakeičia viską, o gailestingumas atveria kelią atgal. Kas kalba nuo žmonijos pradžios?",
+  "clues": [
+    "Mane sukūrė Alachas iš molio ir su dieviška priežiūra nulipdė.",
+    "Man buvo pagerbta, kai Alachas įsakė angelams man nusilenkti.",
+    "Gyvenau rojuje su savo sutuoktiniu, galėdamas mėgautis viskuo, išskyrus vieną medį.",
+    "Mane apgavo Šėtono, prisiekusio būti nuoširdžiu patarėju, šnabždesys.",
+    "Valgiau nuo uždrausto medžio, ir mano apdangalas buvo nuimtas iš gėdos.",
+    "Iš savo Viešpaties išmokau atgailos žodžių, ir Alachas su pasigailėjimu atsigręžė į mane."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Džalutas (Galijotas)",
+        "Dhul-Kifl",
+        "Namrudas",
+        "Pranašas Adomas",
+        "Pranašas Jahja"
+      ],
+      "answer": "Pranašas Adomas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Iš baimės atsisakė įžengti į Šventąją Žemę",
+        "Reikalavo garbinti ugnį kaip dievybę",
+        "Iš pavydo nužudė brolį dėl aukos",
+        "Valgė nuo uždrausto medžio po šėtono šnabždesio",
+        "Teigė, kad reikia garbinti protėvių stabus"
+      ],
+      "answer": "Valgė nuo uždrausto medžio po šėtono šnabždesio"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Nilo upė",
+        "Arka",
+        "Šventasis Tuvos slėnis",
+        "Rojus (Džana)",
+        "Hiros urvas"
+      ],
+      "answer": "Rojus (Džana)"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Mane nuskendo didžiulis potvynis su netikinčiais",
+        "Alachas išmokė mane atgailos žodžių ir man atleido",
+        "Mane trenkė žaibas, nes pareikalavau pamatyti Alachą",
+        "Mane prarijo didelė žuvis, nes supykęs išėjau",
+        "Buvau perkeistas kartu su savo žmonėmis, nes laužiau sabatą"
+      ],
+      "answer": "Alachas išmokė mane atgailos žodžių ir man atleido"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

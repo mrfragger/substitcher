@@ -1,0 +1,61 @@
+{
+  "title": "Prvá dôvera zlomená v raji",
+  "intro": "Predstavte si, že stojíte v záhrade dokonalého pokoja, uctievaní nadovšetko stvorené, s jedinou hranicou, ktorú treba rešpektovať. Šepot sľubuje večnosť, jediné rozhodnutie mení všetko a predsa milosrdenstvo otvára cestu späť. Kto hovorí od počiatku ľudstva?",
+  "clues": [
+    "Bol som stvorený Alahom z hliny a vyformovaný s božskou starostlivosťou.",
+    "Bol som poctený, keď Alah prikázal anjelom, aby sa mi poklonili.",
+    "Býval som v raji so svojím manželom/manželkou a mohol som si užívať všetko okrem jedného stromu.",
+    "Oklamal ma šepot Satana, ktorý prisahal, že je úprimným radcom.",
+    "Jedol som zo zakázaného stromu a od hanby mi zhodili odev.",
+    "Od svojho Pána som sa naučil slová pokánia a Alah sa ku mne zmiloval."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Džalut (Goliáš)",
+        "Dhul-Kifl",
+        "Namrud",
+        "Prorok Adam",
+        "Prorok Jahja"
+      ],
+      "answer": "Prorok Adam"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Zo strachu odmietol vstúpiť do Svätej zeme",
+        "Požadoval uctievanie ohňa ako boha",
+        "Zabil brata zo závisti kvôli obeti",
+        "Jedol som zo zakázaného stromu po Satanovom zašepkaní",
+        "Tvrdil, že modly predkov musia byť uctievané"
+      ],
+      "answer": "Jedol som zo zakázaného stromu po Satanovom zašepkaní"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Rieka Níl",
+        "Archa",
+        "Posvätné údolie Tuwa",
+        "Raj (Džanna)",
+        "Jaskyňa Hira"
+      ],
+      "answer": "Raj (Džanna)"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Utopil som sa vo veľkej potope s neveriacimi",
+        "Alah ma naučil slovám pokánia a odpustil mi",
+        "Zasiahol ma blesk, pretože som sa dožadoval vidieť Alaha",
+        "Zhltla ma veľká ryba, pretože som odišiel v hneve",
+        "Bol som premenený spolu so svojím ľudom za porušenie soboty"
+      ],
+      "answer": "Alah ma naučil slovám pokánia a odpustil mi"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

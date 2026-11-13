@@ -1,0 +1,61 @@
+{
+  "title": "Chibayiro Chinogamuchirwa Netsitsi",
+  "intro": "Vhara maziso ako wofungidzira mupata mukuru, wakanyarara uko kutenda kunoedzwa kusvika pamugumo. Wava kuda kusangana nemunhu ane kuzviisa pasi kwakadzikama achitarisana nemurairo usingafungidzike kwakachinja nguva yekuedzwa kuita chiratidzo chisingaperi chekuteerera netsitsi dzaMwari.",
+  "clues": [
+    "Ndinorangarirwa muQuran pakati peavo vakatsungirira nemoyo murefu.",
+    "Ndakanga ndiri pakati pechiratidzo chaiedza kuzviisa pasi pemurairo waAllah.",
+    "Pandakaudzwa nezvechiratidzo, ndakati ndiite sezvandakarairwa uye muchandiwana ndiri pakati pevarwere.",
+    "Ndakanga ndaradzikwa pasi kuti ndipiwe chibayiro, asi Allah akataura kuti chiono chazadzikiswa.",
+    "Mwari vakandidzikinura nechibayiro chikuru, vachindisiyira rukudzo pakati pezvizvarwa zvinotevera.",
+    "Ndini Ismail, uyo pamwe chete naIbrahim vakasimudza nheyo dzeImba Tsvene, ndinotaurwa pamwe chete naIdris naDhul-Kifl pakati pevakarurama."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muporofita Shu'ayb",
+        "Muporofita Ismail (Ishmael)",
+        "Muporofita Dhul-Kifl",
+        "Muprofita Al-Yasa (Erisha)",
+        "Muporofita Hud"
+      ],
+      "answer": "Muporofita Ismail (Ishmael)"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kukandwa mumoto unopfuta",
+        "Kudana vakafa kuti vadzokere kuupenyu nemvumo yaAllah",
+        "Kuramba chiyero uye chiyero mukutengeserana",
+        "Chibayiro chakarayirwa uye kuzviisa pasi nechido",
+        "Kumedzwa nehove huru"
+      ],
+      "answer": "Chibayiro chakarayirwa uye kuzviisa pasi nechido"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Ovheni yekubikira ichizara nemvura",
+        "Tsvimbo yakazova nyoka",
+        "Mhuru yegoridhe inonamatwa isipo",
+        "Areka yematanda mumafashamo",
+        "Gondohwe guru rakatumirwa serudzikinuro"
+      ],
+      "answer": "Gondohwe guru rakatumirwa serudzikinuro"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kurohwa nekuputika kukuru nekuda kwekuramba ngamera hadzi",
+        "Yakashandurwa kuita tsoko yekudarika",
+        "Akarumbidzwa pakati pevaprofita vane mwoyo murefu nevakarurama",
+        "Kumedzwa nenyika nekuda kwekuzvikudza",
+        "Akanyura mugungwa achitevera vatendi"
+      ],
+      "answer": "Akarumbidzwa pakati pevaprofita vane mwoyo murefu nevakarurama"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

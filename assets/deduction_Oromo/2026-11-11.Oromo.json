@@ -1,0 +1,61 @@
+{
+  "title": "Aarsaa Rahmataan Fudhatama",
+  "intro": "Ija kee cufadhuutii gammoojjii bal’aa fi callisaa amantiin hamma daangaa isaatti itti qoramu fakkeessi. Nama ajaja hin yaadamne fuulduratti tasgabbiidhaan bitamuun isaa yeroo qormaataa gara mallattoo bara baraa ajajamuu fi araara waaqummaatti jijjiire tokkoon wal arguuf jirta.",
+  "clues": [
+    "Warra obsa cimaadhaan obsan biratti Qur'aana keessatti yaadatamaadha.",
+    "Mul’ata ajaja Rabbiitiif bitamuu qoru giddu galeessa ture.",
+    "Mul'ata yeroo himamu akka ajajametti hojjedhu dhukkubsataa keessaa na argatta jedheen.",
+    "Aarsaadhaaf lafa kaa’ame, garuu Rabbiin mul’anni sun akka raawwatame waame.",
+    "Rabbiin wareegama guddaa na furee, dhaloota boodaa biratti kabaja naaf dhiise.",
+    "Ani Ismaa’eel, Ibraahiim waliin bu’uura Mana Qulqullummaa kaase, Idriis fi Dhul-Kifl cinatti qajeelota keessaa kaafame."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nabi Shu'ayb",
+        "Nabi Ismaa'eel (Ismaa'el) .",
+        "Nabi Dhul-Kifl",
+        "Nabi Al-Yaasaa (Elishaa) .",
+        "Nabi Hud"
+      ],
+      "answer": "Nabi Ismaa'eel (Ismaa'el) ."
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Ibidda boba'aa keessa darbatamuu",
+        "Namoota du'an hayyama Rabbiitiin lubbuutti deebisuu",
+        "Safartuu fi madaallii daldala keessatti haaluu",
+        "Wareegama ajajamee fi fedhiidhaan bitamuu",
+        "Qurxummii guddaa tokkoon liqimfamuu"
+      ],
+      "answer": "Wareegama ajajamee fi fedhiidhaan bitamuu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Foonni daabboo bishaaniin dhangala'u",
+        "Ulee bofa ta'e",
+        "Re'ee warqee bakka hin jirretti waaqeffamu",
+        "Taabota mukaa lolaa keessa jiru",
+        "Korbeessa hoolaa guddaa furii ta'ee ergame"
+      ],
+      "answer": "Korbeessa hoolaa guddaa furii ta'ee ergame"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Gaala dubaraa diduu isheetiin dhohinsa cimaadhaan rukutamte",
+        "Irra daddarbaaf gara hantuutaatti jijjiirame",
+        "Raajoota obsaa fi qajeelota biratti faarfama",
+        "Of tuulummaaf dacheen liqimfame",
+        "Osoo amantoota ari'aa jiruu galaana keessatti liqimfame"
+      ],
+      "answer": "Raajoota obsaa fi qajeelota biratti faarfama"
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}

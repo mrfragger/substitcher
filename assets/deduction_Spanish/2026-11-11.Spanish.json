@@ -1,0 +1,61 @@
+{
+  "title": "El sacrificio aceptado por misericordia",
+  "intro": "Cierra los ojos e imagina un vasto y silencioso valle donde la fe se pone a prueba hasta el límite. Estás a punto de conocer a una figura cuya serena sumisión ante un mandato inimaginable transformó un momento de prueba en un símbolo eterno de obediencia y misericordia divina.",
+  "clues": [
+    "En el Corán se me recuerda entre aquellos que perseveraron con firme paciencia.",
+    "Me encontraba en el centro de una visión que ponía a prueba la sumisión al mandato de Alá.",
+    "Cuando me contaron la visión, dije que hicieran lo que se les ordenaba y que me encontrarían entre los pacientes.",
+    "Me ofrecieron en sacrificio, pero Alá anunció que la visión se había cumplido.",
+    "Alá me redimió con un gran sacrificio, dejándome un honor entre las generaciones venideras.",
+    "Yo soy Ismail, quien junto con Ibrahim levantó los cimientos de la Casa Sagrada, mencionado junto con Idris y Dhul-Kifl entre los justos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Shu'ayb",
+        "Profeta Ismail (Ismael)",
+        "Profeta Dhul-Kifl",
+        "Profeta Al-Yasa (Elisha)",
+        "Profeta Hud"
+      ],
+      "answer": "Profeta Ismail (Ismael)"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Ser arrojado a un fuego ardiente",
+        "Llamar a los muertos a la vida con el permiso de Alá",
+        "Negar la medida y el equilibrio en el comercio",
+        "El sacrificio ordenado y la sumisión voluntaria",
+        "Ser tragado por un gran pez"
+      ],
+      "answer": "El sacrificio ordenado y la sumisión voluntaria"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Un horno de panadería que chorrea agua",
+        "Un bastón que se convirtió en serpiente",
+        "Un becerro de oro venerado en ausencia",
+        "Un arca de madera en el diluvio",
+        "Un gran carnero enviado como rescate"
+      ],
+      "answer": "Un gran carnero enviado como rescate"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Golpeado por una poderosa ráfaga por rechazar a la camella.",
+        "Convertido en mono por transgresión",
+        "Alabado entre los profetas pacientes y justos.",
+        "Engullido por la tierra por arrogancia",
+        "Se ahogó en el mar mientras perseguía a los creyentes."
+      ],
+      "answer": "Alabado entre los profetas pacientes y justos."
+    }
+  },
+  "verseRef": "21:86",
+  "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And We admitted them into Our mercy. Indeed, they were of the righteous. (21:86)"
+}
