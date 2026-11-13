@@ -38,7 +38,7 @@ dependencies:
   # UI
   cupertino_icons: ^2.0.0
   shared_preferences: ^2.5.6
-  window_manager: ^0.6.0
+  window_manager: ^0.7.0
   package_info_plus: ^10.2.2
 
   # Character handling for CJK, Thai, Khmer tokenization
