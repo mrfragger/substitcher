@@ -265,9 +265,8 @@ jobs:
           sed -i "s/^pkgver=.*/pkgver=${VERSION}/" PKGBUILD
           sed -i "s/^sha256sums=.*/sha256sums=('${SHA256}')/" PKGBUILD
 
-          docker run --rm -v $(pwd):/pkg archlinux bash -c "
-            # pacman -Sy --noconfirm pacman-contrib sudo fakeroot &&
-            pacman -Sy --needed --noconfirm pacman-contrib sudo fakeroot &&
+          docker run --rm -v $(pwd):/pkg archlinux:base-devel-20261101.0.620205 bash -c "
+            pacman -S --noconfirm pacman-contrib &&
             useradd -m builder &&
             chown -R builder:builder /pkg &&
             su builder -c 'cd /pkg && makepkg --printsrcinfo > .SRCINFO'
