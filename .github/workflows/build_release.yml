@@ -217,66 +217,66 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  update-aur:
-    name: Update AUR Package
-    needs: [create-release]
-    if: startsWith(github.ref, 'refs/tags/')
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v5
+  # update-aur:
+  #   name: Update AUR Package
+  #   needs: [create-release]
+  #   if: startsWith(github.ref, 'refs/tags/')
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: actions/checkout@v5
 
-      - name: Extract version from tag
-        id: version
-        run: |
-          VERSION=${GITHUB_REF#refs/tags/v}
-          echo "version=$VERSION" >> $GITHUB_OUTPUT
+  #     - name: Extract version from tag
+  #       id: version
+  #       run: |
+  #         VERSION=${GITHUB_REF#refs/tags/v}
+  #         echo "version=$VERSION" >> $GITHUB_OUTPUT
 
-      - name: Download AppImage artifact
-        uses: actions/download-artifact@v8
-        with:
-          name: linux-appimage-build
-          path: artifacts
+  #     - name: Download AppImage artifact
+  #       uses: actions/download-artifact@v8
+  #       with:
+  #         name: linux-appimage-build
+  #         path: artifacts
 
-      - name: Calculate SHA256
-        id: sha
-        run: |
-          cd artifacts
-          SHA256=$(sha256sum substitcher-x64.AppImage | cut -d' ' -f1)
-          echo "sha256=$SHA256" >> $GITHUB_OUTPUT
+  #     - name: Calculate SHA256
+  #       id: sha
+  #       run: |
+  #         cd artifacts
+  #         SHA256=$(sha256sum substitcher-x64.AppImage | cut -d' ' -f1)
+  #         echo "sha256=$SHA256" >> $GITHUB_OUTPUT
 
-      - name: Update AUR package
-        env:
-          AUR_SSH_KEY: ${{ secrets.AUR_SSH_KEY }}
-        run: |
-          VERSION="${{ steps.version.outputs.version }}"
-          SHA256="${{ steps.sha.outputs.sha256 }}"
+  #     - name: Update AUR package
+  #       env:
+  #         AUR_SSH_KEY: ${{ secrets.AUR_SSH_KEY }}
+  #       run: |
+  #         VERSION="${{ steps.version.outputs.version }}"
+  #         SHA256="${{ steps.sha.outputs.sha256 }}"
 
-          mkdir -p ~/.ssh
-          echo "$AUR_SSH_KEY" > ~/.ssh/aur
-          chmod 600 ~/.ssh/aur
-          ssh-keyscan -H aur.archlinux.org >> ~/.ssh/known_hosts
+  #         mkdir -p ~/.ssh
+  #         echo "$AUR_SSH_KEY" > ~/.ssh/aur
+  #         chmod 600 ~/.ssh/aur
+  #         ssh-keyscan -H aur.archlinux.org >> ~/.ssh/known_hosts
 
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+  #         git config --global user.name "github-actions[bot]"
+  #         git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          GIT_SSH_COMMAND="ssh -i ~/.ssh/aur" git clone ssh://aur@aur.archlinux.org/substitcher-bin.git aur-repo
-          cd aur-repo
+  #         GIT_SSH_COMMAND="ssh -i ~/.ssh/aur" git clone ssh://aur@aur.archlinux.org/substitcher-bin.git aur-repo
+  #         cd aur-repo
 
-          sed -i "s/^pkgver=.*/pkgver=${VERSION}/" PKGBUILD
-          sed -i "s/^sha256sums=.*/sha256sums=('${SHA256}')/" PKGBUILD
+  #         sed -i "s/^pkgver=.*/pkgver=${VERSION}/" PKGBUILD
+  #         sed -i "s/^sha256sums=.*/sha256sums=('${SHA256}')/" PKGBUILD
 
-          docker run --rm -v $(pwd):/pkg archlinux:base-devel-20261025.0.616225 bash -c "
-            pacman -S --noconfirm pacman-contrib &&
-            useradd -m builder &&
-            chown -R builder:builder /pkg &&
-            su builder -c 'cd /pkg && makepkg --printsrcinfo > .SRCINFO'
-          "
+  #         docker run --rm -v $(pwd):/pkg archlinux bash -c "
+  #           pacman -Sy --noconfirm pacman-contrib sudo fakeroot &&
+  #           useradd -m builder &&
+  #           chown -R builder:builder /pkg &&
+  #           su builder -c 'cd /pkg && makepkg --printsrcinfo > .SRCINFO'
+  #         "
 
-          sudo chown -R $(whoami):$(whoami) .
+  #         sudo chown -R $(whoami):$(whoami) .
 
-          git add PKGBUILD .SRCINFO
-          git commit -m "Update to version ${VERSION}"
-          GIT_SSH_COMMAND="ssh -i ~/.ssh/aur" git push
+  #         git add PKGBUILD .SRCINFO
+  #         git commit -m "Update to version ${VERSION}"
+  #         GIT_SSH_COMMAND="ssh -i ~/.ssh/aur" git push
 
   update-homebrew:
     name: Update Homebrew Tap
