@@ -1,0 +1,61 @@
+{
+  "title": "Doğuşdan əvvəl verilən ad",
+  "intro": "Uzun illər gözlədikdən sonra səmimi dualarla dolu sakit bir məbədi təsəvvür edin. Görünməzdən əvvəl heç vaxt verilməmiş bir ad daşıyan, erkən yaşlarından müdriklik və sədaqət, şəfqət və saflıqla öyünən bir həyat vəd edən bir cavab gəlir.",
+  "clues": [
+    "Mənə dünyaya gəlməzdən əvvəl Allah tərəfindən, məndən əvvəl heç kimə verilməmiş bir ad verilib.",
+    "Övladın mümkün olmadığını düşünən yaşlı valideynlərin səmimi dualarına cavab olaraq mənə bu dua verildi.",
+    "Mənə hələ gənc ikən hikmət, mühakimə və Müqəddəs Yazılar verilmişdi.",
+    "Valideynlərimə qarşı itaətkar və başqalarına qarşı şəfqətli idim, təkəbbürlü və ya itaətsiz deyildim.",
+    "Allah mənə doğulduğum gün də, öləcəyim gün də və diriləcəyim gün də salamatlıq yazdı.",
+    "Atam Zəkəriyya mələklərdən mənimlə bağlı müjdəni aldı, mehrabda namaz qılarkən."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Şüeyb peyğəmbər (Yətro)",
+        "İdris peyğəmbər (Xanok)",
+        "Peyğəmbər İshaq (İshaq)",
+        "Yusif peyğəmbər (Yusif)",
+        "Yəhya peyğəmbər (ə)"
+      ],
+      "answer": "Yəhya peyğəmbər (ə)"
+    },
+    "trial": {
+      "label": "Nemət və Sınaq",
+      "options": [
+        "Qəzəblə ayrıldığı üçün böyük bir balıq tərəfindən uduldu",
+        "Bütləri qırmaq üçün alovlanan oda atıldı",
+        "Sığınacaq verilmədi və dişi canavar tərəfindən böyüdülmək üçün buraxıldı",
+        "Yaşlı valideynlərə səmimi duadan sonra verilir",
+        "Fironla qarşılaşdı və dənizdən bir köç etdi"
+      ],
+      "answer": "Yaşlı valideynlərə səmimi duadan sonra verilir"
+    },
+    "location": {
+      "label": "Açar Yer",
+      "options": [
+        "Xoş xəbərlərin elan edildiyi ziyarətgah (mihrab)",
+        "Bütpərəstlər tərəfindən hazırlanan alovlu od",
+        "Dərin dənizdəki böyük balığın qarnı",
+        "Əsrlər boyu yatanların dincəldiyi mağara",
+        "Qarışqalar vadisi kral yürüşü ilə"
+      ],
+      "answer": "Xoş xəbərlərin elan edildiyi ziyarətgah (mihrab)"
+    },
+    "outcome": {
+      "label": "İlahi Şərəf",
+      "options": [
+        "Göydən bişmiş gil daşları ilə atıldı",
+        "Xəzinə üzərində təkəbbür göstərdiyinə görə yer tərəfindən diri-diri uduldu",
+        "Dişi dəvənin bud əzələlərini zədələmək üçün gurultulu bir partlayışla məhv edildi",
+        "Təkəbbürlü bir dənizdə boğuldu",
+        "Doğulduğum gün də, öləcəyim gün də, diri qaldırılacağım gün də mənə salam olsun!"
+      ],
+      "answer": "Doğulduğum gün də, öləcəyim gün də, diri qaldırılacağım gün də mənə salam olsun!"
+    }
+  },
+  "verseRef": "3:40",
+  "arabic": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌۭ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌۭ ۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ",
+  "verse": "He said, \"My Lord, how will I have a boy when I have reached old age and my wife is barren?\" He [the angel] said, \"Such is Allāh; He does what He wills.\" (3:40)"
+}

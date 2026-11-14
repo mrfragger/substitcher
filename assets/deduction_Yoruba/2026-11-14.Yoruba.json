@@ -1,0 +1,61 @@
+{
+  "title": "Orúkọ tí a fúnni kí a tó bí i",
+  "intro": "Fojú inú wo ibi mímọ́ tó dákẹ́ jẹ́ẹ́ tó kún fún àdúrà àtọkànwá lẹ́yìn ọ̀pọ̀ ọdún tí a ti ń dúró dè é. Láti inú àìrí ni ìdáhùn tó ní orúkọ tí a kò tíì fúnni rí, tó ń ṣèlérí ọgbọ́n láti ìgbà èwe àti ìgbésí ayé tó ní ìfọkànsìn, àánú, àti ìwà mímọ́.",
+  "clues": [
+    "Allah fúnra rẹ̀ ló sọ mí ní orúkọ kí wọ́n tó bí mi, pẹ̀lú orúkọ tí ẹnikẹ́ni kò tíì fún mi rí ṣáájú mi.",
+    "Àwọn òbí àgbàlagbà tí wọ́n rò pé ọmọ kò ṣeé ṣe rárá ni wọ́n fún mi gẹ́gẹ́ bí ìdáhùn sí ẹ̀bẹ̀ àtọkànwá.",
+    "Wọ́n fún mi ní ọgbọ́n, ìdájọ́, àti Ìwé Mímọ́ nígbà tí mo wà ní kékeré.",
+    "Mo jẹ́ onínúure sí àwọn òbí mi, mo sì jẹ́ onínúure sí àwọn ẹlòmíràn, mi ò sì jẹ́ agbéraga tàbí aláìgbọràn.",
+    "Allah ti paṣẹ alaafia fun mi ni ọjọ ti a bi mi, ni ọjọ ti mo ku, ati ni ọjọ ti a o ji mi dide laaye.",
+    "Baba mi Zakariyya gba ihinrere mi lati ọdọ awọn angẹli nigbati o duro ni adura ni ibi mimọ (mihrab)."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Ṣúáíbù (Jẹ́tírọ́)",
+        "Wòlíì Idris (Enoch)",
+        "Wòlíì Ísákì (Ísákì)",
+        "Wòlíì Yósù (Jósẹ́fù)",
+        "Wòlíì Yahya (Jòhánù)"
+      ],
+      "answer": "Wòlíì Yahya (Jòhánù)"
+    },
+    "trial": {
+      "label": "Ìbùkún àti Ìdánwò",
+      "options": [
+        "Ẹja ńlá gbé e mì nítorí pé ó fi ìbínú jáde lọ",
+        "A gbé e sínú iná tí ń jó fún fífọ́ àwọn ère",
+        "Wọ́n kọ̀ láti gbé wọn sílé, wọ́n sì fi wọ́n sílẹ̀ kí abo ìkookò tó ń tọ́jú wọn tọ́ wọn dàgbà",
+        "A fún àwọn òbí àgbàlagbà lẹ́yìn àdúrà gbígbóná janjan",
+        "Ó kojú Fáráò, ó sì ṣáájú ìrìnàjò lọ sí orí òkun"
+      ],
+      "answer": "A fún àwọn òbí àgbàlagbà lẹ́yìn àdúrà gbígbóná janjan"
+    },
+    "location": {
+      "label": "Ibi Pataki",
+      "options": [
+        "Ibi ìpamọ́ (mihrab) níbi tí wọ́n ti ń kéde ìròyìn ayọ̀",
+        "Iná tí àwọn abọ̀rìṣà pèsè sílẹ̀",
+        "Ikùn ẹja ńlá nínú òkun jíjìn",
+        "Ihò àpáta níbi tí àwọn ènìyàn ti ń sùn fún ọ̀pọ̀ ọ̀rúndún",
+        "Àfonífojì àwọn èèrà lórí ìrìn-àjò ọba"
+      ],
+      "answer": "Ibi ìpamọ́ (mihrab) níbi tí wọ́n ti ń kéde ìròyìn ayọ̀"
+    },
+    "outcome": {
+      "label": "Ọlá Àtọ̀runwá",
+      "options": [
+        "Àwọn òkúta amọ̀ tí a yan ni wọ́n lù láti ojú ọ̀run",
+        "Ayé gbé e mì láàyè nítorí ìgbéraga lórí ìṣúra",
+        "Ariwo ààrá pa á run nítorí pé ó gbá ràkúnmí náà pa",
+        "Tí a rì mọ́lẹ̀ pẹ̀lú àwọn agbéraga nínú òkun tí a pín sí méjì",
+        "Àlàáfíà fún mi ní ọjọ́ tí wọ́n bí mi, ní ọjọ́ tí mo kú, àti ní ọjọ́ tí wọ́n jí mi dìde láàyè"
+      ],
+      "answer": "Àlàáfíà fún mi ní ọjọ́ tí wọ́n bí mi, ní ọjọ́ tí mo kú, àti ní ọjọ́ tí wọ́n jí mi dìde láàyè"
+    }
+  },
+  "verseRef": "3:40",
+  "arabic": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌۭ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌۭ ۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ",
+  "verse": "He said, \"My Lord, how will I have a boy when I have reached old age and my wife is barren?\" He [the angel] said, \"Such is Allāh; He does what He wills.\" (3:40)"
+}

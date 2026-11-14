@@ -1,0 +1,61 @@
+{
+  "title": "Tug'ilishdan oldin berilgan ism",
+  "intro": "Uzoq yillar kutgandan keyin samimiy iltijolarga to'la sokin ma'badni tasavvur qiling. Ko'rinmas joydan ilgari hech qachon aytilmagan nomga ega bo'lgan javob keladi, u yoshlikdan donolik va sadoqat, rahm-shafqat va poklik bilan ajralib turadigan hayotni va'da qiladi.",
+  "clues": [
+    "Men tug'ilishimdan oldin Allohning O'zi tomonidan ism qo'yilgan, mendan oldin hech kimga bunday ism berilmagan.",
+    "Menga avlod tug'ilishining iloji yo'q deb o'ylagan keksa ota-onalarning samimiy iltijolariga javoban ruxsat berildi.",
+    "Menga hali yoshligimda donolik, hukm va Muqaddas Kitob berilgan edi.",
+    "Men ota-onamga itoatkor va boshqalarga rahmdil edim, takabbur yoki itoatsiz emas edim.",
+    "Alloh menga tug'ilgan kunimda, o'ladigan kunimda va qayta tiriladigan kunimda tinchlik yozdi.",
+    "Otam Zakariyo mehrobda namoz o'qiyotganlarida farishtalardan mening xushxabarimni oldi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Shu'ayb (Yetro)",
+        "Payg'ambar Idris (Hano'x)",
+        "Payg'ambar Ishoq (Ishoq)",
+        "Yusuf payg'ambar (Yusuf)",
+        "Yahyo payg'ambar (Yuhanno)"
+      ],
+      "answer": "Yahyo payg'ambar (Yuhanno)"
+    },
+    "trial": {
+      "label": "Baraka va sinov",
+      "options": [
+        "Jahl bilan ketgani uchun katta baliq tomonidan yutib yuborilgan",
+        "Butlarni yo'q qilish uchun alangali olovga tashlandi",
+        "Boshpana berilmagan va urg'ochi bo'ri tomonidan boqilgan",
+        "Keksa ota-onalarga chin dildan iltijo qilgandan keyin beriladi",
+        "Fir'avn bilan to'qnashdi va dengiz orqali chiqib ketdi"
+      ],
+      "answer": "Keksa ota-onalarga chin dildan iltijo qilgandan keyin beriladi"
+    },
+    "location": {
+      "label": "Kalit joy",
+      "options": [
+        "Xushxabar eʼlon qilingan muqaddas joy (mihrab)",
+        "Butparastlar tomonidan tayyorlangan alangali olov",
+        "Chuqur dengizdagi ulkan baliqning qorni",
+        "Asrlar davomida uxlab yotganlar dam olgan g'or",
+        "Qirollik yurishidagi chumolilar vodiysi"
+      ],
+      "answer": "Xushxabar eʼlon qilingan muqaddas joy (mihrab)"
+    },
+    "outcome": {
+      "label": "Ilohiy sharaf",
+      "options": [
+        "Osmondan pishirilgan loy toshlari bilan uloqtirildi",
+        "Xazina ustidan takabburlik qilgani uchun yer tomonidan tiriklayin yutib yuborilgan",
+        "Urg'ochi tuyaning son suyagini kesish uchun momaqaldiroqli portlash bilan vayron qilingan",
+        "Ikkiga bo'lingan dengizda takabbur qo'shin bilan cho'kib ketdi",
+        "Tug'ilgan kunimda ham, o'lgan kunimda ham va qayta tirilgan kunimda ham menga tinchlik bo'lsin."
+      ],
+      "answer": "Tug'ilgan kunimda ham, o'lgan kunimda ham va qayta tirilgan kunimda ham menga tinchlik bo'lsin."
+    }
+  },
+  "verseRef": "3:40",
+  "arabic": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌۭ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌۭ ۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ",
+  "verse": "He said, \"My Lord, how will I have a boy when I have reached old age and my wife is barren?\" He [the angel] said, \"Such is Allāh; He does what He wills.\" (3:40)"
+}

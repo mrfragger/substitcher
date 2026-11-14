@@ -1,0 +1,61 @@
+{
+  "title": "A születés előtt adott név",
+  "intro": "Képzelj el egy csendes szentélyt, melyet őszinte könyörgés tölt meg a hosszú évek várakozása után. A láthatatlanból érkezik egy válasz, amelynek neve korábban soha nem hangzott el, bölcsességet ígérve a korai évekből, és egy odaadással, együttérzéssel és tisztasággal jellemzett életet.",
+  "clues": [
+    "Maga Allah adott nekem nevet a születésem előtt, olyan nevet, amelyet előttem senkinek sem adott.",
+    "Idős szülők őszinte könyörgéseire válaszolva kaptam meg a lehetőséget, akik úgy gondolták, hogy az utódok nem lehetnek lehetségesek.",
+    "Bölcsességet, ítélőképességet és az Írást kaptam még fiatalon.",
+    "Engedelmes voltam a szüleimmel és együttérző másokkal, és nem voltam arrogáns vagy engedetlen.",
+    "Allah békét rendelt rám születésem napján, halálom napján és feltámasztásom napján.",
+    "Zakariyya apám az angyaloktól kapta meg az örömhírt rólam, miközben imádkozva állt a szentélyben (mihrab)."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Suajb próféta (Jetró)",
+        "Idrisz próféta (Énok)",
+        "Izsák próféta",
+        "Juszuf (József) próféta",
+        "Jahja (János) próféta"
+      ],
+      "answer": "Jahja (János) próféta"
+    },
+    "trial": {
+      "label": "Áldás és megpróbáltatás",
+      "options": [
+        "Egy nagy hal lenyelte, mert dühösen távozott",
+        "Lángoló tűzbe vetve bálványok összetöréséért",
+        "Megtagadták a menedéket, és egy nőstényfarkas nevelte fel",
+        "Idős szülőknek adományozták komoly könyörgés után",
+        "Szembeszállt a fáraóval, és kivonulást vezetett a tengeren át"
+      ],
+      "answer": "Idős szülőknek adományozták komoly könyörgés után"
+    },
+    "location": {
+      "label": "Kulcspont",
+      "options": [
+        "A szentély (mihrab), ahol az örömhírt hirdették",
+        "A bálványimádók által készített lángoló tűz",
+        "A nagy hal hasa a mélytengerben",
+        "A barlang, ahol az alvók évszázadokon át pihentek",
+        "A hangyák völgye királyi menetben"
+      ],
+      "answer": "A szentély (mihrab), ahol az örömhírt hirdették"
+    },
+    "outcome": {
+      "label": "Isteni tisztelet",
+      "options": [
+        "Égett agyag kövei szórták az égből",
+        "Élve elnyelte a föld a kincs feletti arrogancia miatt",
+        "Egy mennydörgő robaj pusztította el a nőstény teve megbénításáért",
+        "Egy arrogáns sereggel együtt fulladt meg a kettévált tengerben",
+        "Béke legyen velem születésem napján, halálom napján és feltámadásom napján."
+      ],
+      "answer": "Béke legyen velem születésem napján, halálom napján és feltámadásom napján."
+    }
+  },
+  "verseRef": "3:40",
+  "arabic": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌۭ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌۭ ۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ",
+  "verse": "He said, \"My Lord, how will I have a boy when I have reached old age and my wife is barren?\" He [the angel] said, \"Such is Allāh; He does what He wills.\" (3:40)"
+}

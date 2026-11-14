@@ -1,0 +1,61 @@
+{
+  "title": "Igama Elinikwe Ngaphambi Kokuzalwa",
+  "intro": "Khawucinge ngendlu engcwele ezolileyo egcwele umthandazo onyanisekileyo emva kweminyaka emininzi yokulinda. Kwizinto ezingabonakaliyo kuvela impendulo ephethe igama elingazange linikwe ngaphambili, ubulumko obuthembisayo beminyaka yokuqala kunye nobomi obuphawulwe kukuzinikela, inceba, nobunyulu.",
+  "clues": [
+    "Ndathiywa igama nguAllah ngokwakhe ngaphambi kokuba ndizalwe, igama engazange linikwe mntu ngaphambi kwam.",
+    "Ndanikwa njengempendulo kwisicelo esinyanisekileyo sabazali abadala ababecinga ukuba ukuzala akunakwenzeka.",
+    "Ndanikwa ubulumko, ubulungisa, neZibhalo ndisemncinci.",
+    "Ndandibahlonipha abazali bam kwaye ndinovelwano kwabanye, kwaye ndandingenakratshi okanye ndingathobeli.",
+    "U-Allah wamisela uxolo kum ngomhla endazalwa ngawo, ngomhla endiya kufa ngawo, nangomhla endiya kuvuswa ngawo ndiphila.",
+    "Ubawo uZakariya wafumana iindaba ezimnandi ngam kwiingelosi ngelixa emi ethandaza kwindawo engcwele (mihrab)."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uShu'ayb (uYethro)",
+        "Umprofeti uIdris (uEnoki)",
+        "Umprofeti uIshaq (uIsake)",
+        "Umprofeti uYusuf (uYosefu)",
+        "Umprofeti uYahya (uYohane)"
+      ],
+      "answer": "Umprofeti uYahya (uYohane)"
+    },
+    "trial": {
+      "label": "Intsikelelo kunye novavanyo",
+      "options": [
+        "Uginywe yintlanzi enkulu ngenxa yokumka ngomsindo",
+        "Waphoswa emlilweni ovuthayo ngenxa yokuqhekeza izithixo",
+        "Walelwa indawo yokuhlala waza washiywa ukuba akhuliswe yingcukakazi",
+        "Inikwe abazali abalupheleyo emva kokubongoza ngokunyanisekileyo",
+        "Wajongana noFaro waza wakhokela ufuduko oluwela ulwandle"
+      ],
+      "answer": "Inikwe abazali abalupheleyo emva kokubongoza ngokunyanisekileyo"
+    },
+    "location": {
+      "label": "Indawo ephambili",
+      "options": [
+        "Indawo engcwele (i-mihrab) apho iindaba ezilungileyo zazivakaliswa khona",
+        "Umlilo ovuthayo olungiselelwe ngabanquli bezithixo",
+        "Isisu sentlanzi enkulu elwandle olunzulu",
+        "Umqolomba apho abantu abalala khona baphumla khona kangangeenkulungwane",
+        "Intlambo yeembovane isendleleni yasebukhosini"
+      ],
+      "answer": "Indawo engcwele (i-mihrab) apho iindaba ezilungileyo zazivakaliswa khona"
+    },
+    "outcome": {
+      "label": "Imbeko kaThixo",
+      "options": [
+        "Igxothwa esibhakabhakeni ngamatye odongwe olubhakiweyo",
+        "Uginywe ephila ngumhlaba ngenxa yokuzikhukhumeza ngobutyebi",
+        "Watshatyalaliswa kukuqhuma okukhulu ngenxa yokubetha ikamela eliyimazi",
+        "Nditshoniswe ngumninimzi onekratshi elwandle oluqhekekileyo",
+        "Uxolo malube phezu kwam ngomhla endazalwa ngawo, ngomhla endifa ngawo, nangomhla endivuswa ngawo ndiphila"
+      ],
+      "answer": "Uxolo malube phezu kwam ngomhla endazalwa ngawo, ngomhla endifa ngawo, nangomhla endivuswa ngawo ndiphila"
+    }
+  },
+  "verseRef": "3:40",
+  "arabic": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌۭ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌۭ ۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ",
+  "verse": "He said, \"My Lord, how will I have a boy when I have reached old age and my wife is barren?\" He [the angel] said, \"Such is Allāh; He does what He wills.\" (3:40)"
+}

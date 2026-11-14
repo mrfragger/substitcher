@@ -1,0 +1,61 @@
+{
+  "title": "Doğumdan Önce Verilen İsim",
+  "intro": "Uzun yıllar süren bekleyişin ardından, içten yakarışlarla dolu sessiz bir mabedi hayal edin. Görünmeyenden, daha önce hiç verilmemiş bir isim taşıyan bir cevap geliyor; erken yaşlardan itibaren bilgelik ve adanmışlık, şefkat ve saflıkla dolu bir yaşam vaat ediyor.",
+  "clues": [
+    "Bana daha doğmadan önce Allah tarafından, benden önce kimseye verilmemiş bir isim verildi.",
+    "Çocuk sahibi olmanın imkansız olduğunu düşünen yaşlı anne babamın içten yalvarışlarına karşılık olarak bana bu fırsat verildi.",
+    "Genç yaşta bana bilgelik, sağduyu ve Kutsal Kitap bahşedildi.",
+    "Anne babama karşı görevimi yerine getirdim, başkalarına karşı şefkatli davrandım ve kibirli ya da itaatsiz biri değildim.",
+    "Allah bana doğduğum gün, öldüğüm gün ve diriltileceğim gün barış ve esenlik nasip etti.",
+    "Babam Zekeriya, mihrapta namaz kılarken meleklerden benim doğum haberini aldı."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Şuayb (Yetro)",
+        "Peygamber İdris (Enoch)",
+        "Peygamber İshak (İshak)",
+        "Peygamber Yusuf (Joseph)",
+        "Peygamber Yahya (Yuhanna)"
+      ],
+      "answer": "Peygamber Yahya (Yuhanna)"
+    },
+    "trial": {
+      "label": "Nimet ve İmtihan",
+      "options": [
+        "Öfkeyle ayrıldığı için büyük bir balık tarafından yutuldu.",
+        "Putları parçaladığı için alev alev yanan bir ateşe atıldı.",
+        "Barınma imkanından mahrum bırakılarak bir dişi kurt tarafından büyütülmeye bırakıldı.",
+        "Yaşlı anne babalara içten rica üzerine verilir.",
+        "Firavunla yüzleşti ve deniz yoluyla bir göç hareketine önderlik etti."
+      ],
+      "answer": "Yaşlı anne babalara içten rica üzerine verilir."
+    },
+    "location": {
+      "label": "Anahtar Yer",
+      "options": [
+        "Müjdelerin duyurulduğu mihrap (kutsal yer).",
+        "Putperestler tarafından hazırlanan alevli ateş",
+        "Derin denizdeki büyük balığın karnı",
+        "Yüzyıllar boyunca uyuyanların dinlendiği mağara.",
+        "Kraliyet yürüyüşündeki karıncalar vadisi"
+      ],
+      "answer": "Müjdelerin duyurulduğu mihrap (kutsal yer)."
+    },
+    "outcome": {
+      "label": "İlahi Şeref",
+      "options": [
+        "Gökyüzünden pişmiş kilden yapılmış taşlar yağdırılıyor",
+        "Hazineye duyduğu kibir yüzünden toprak tarafından diri diri yutuldu.",
+        "Dişi devenin bacaklarını sakatladığı için şiddetli bir patlamayla yok edildi.",
+        "Kibirli bir ev sahibiyle birlikte, ikiye ayrılan denizde boğuldum.",
+        "Doğduğum gün, öldüğüm gün ve dirildiğim gün bana barış olsun."
+      ],
+      "answer": "Doğduğum gün, öldüğüm gün ve dirildiğim gün bana barış olsun."
+    }
+  },
+  "verseRef": "3:40",
+  "arabic": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌۭ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌۭ ۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ",
+  "verse": "He said, \"My Lord, how will I have a boy when I have reached old age and my wife is barren?\" He [the angel] said, \"Such is Allāh; He does what He wills.\" (3:40)"
+}

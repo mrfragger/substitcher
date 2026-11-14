@@ -1,0 +1,61 @@
+{
+  "title": "Ubukyak Afal Yomcowwe Migaq",
+  "intro": "mango liggiditteh qammaalaanamak lakal qilsi xaaqo kibbimteh tan tibbale arac taswiir. Ambullee waytaamak, dumah akah yeceenih yanin migaq quukak, dumaahi sanatak xabba haanam qilmi kee manoh giclo, racmatta kee saytunnos wagsiisak xagana culak geytima.",
+  "clues": [
+    "Anu oobokem afal Yalli isih muggaaqiseh suge, yok afal numuh yoh aceeween migaq luk.",
+    "anu gacsah yomcowweh suge idaltuh yan xaleenak xaylo takkem duude waytaamak iroh yascubeenim.",
+    "Anu qunxuk suge way waleey, cokmi kee kutbe yomcowweh suge.",
+    "Anu inni xaltanih dirki luk sugeeh, gersi marah racmatta luk sugeeh, kaxxiina akkek ammirtimak masugiyyo.",
+    "Yalli salaam yoh madqisem anu elle ooboke ayroay, elle rabe ayrooy, manol elle ugte ayro.",
+    "Yi abba Zakariyya, salaatah (mihrab) aracal soolak suge wak, malaykootak rufto le xaagu yoh geeh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Anu miyyaay?",
+      "options": [
+        "Nabi Shuqayb (Jetro)",
+        "Nabi Idris (Henooch)",
+        "Nabi Ishaq (Ishaq)",
+        "Nabi Yuusuf (Yusuf)",
+        "Nabiyyi Yahya (Yoona)"
+      ],
+      "answer": "Nabiyyi Yahya (Yoona)"
+    },
+    "trial": {
+      "label": "Barkat kee gibbatu",
+      "options": [
+        "Naqabut cabeemih kaxxa kullumti yanxuqeh",
+        "sanamitte yaggileenim girah addat qideenih",
+        "reebuk cinnimteh is dalcu fayya haytuh cabeh",
+        "idaltuh yan xaleenah xaaqo abteek lakal yomcowwe",
+        "Firqawni lih garaytem kee baddi qaxaak tawqem miraacisse"
+      ],
+      "answer": "idaltuh yan xaleenah xaaqo abteek lakal yomcowwe"
+    },
+    "location": {
+      "label": "Lafale Araca",
+      "options": [
+        "rufto le xaagu elle yiysixxigen araca (mihrab)",
+        "cararta gira asnaamah massoysen",
+        "Adda badih addat yan kaxxa kullumti garba .",
+        "bool karmoomi fan xiina mari elle rabboh yan gabla.",
+        "Xuune golo amoytiini marshil tan"
+      ],
+      "answer": "rufto le xaagu elle yiysixxigen araca (mihrab)"
+    },
+    "outcome": {
+      "label": "Qilli Massakaxxa",
+      "options": [
+        "Alaysen kallayto xaahi qaraanak qidde",
+        "Gaddil kaxxiina ardi manol yanxuqeh",
+        "is gaalal qanxix bakaq finqitteh",
+        "Baxsimeh yan badih addat kaxxiini qibnaytiino lih cule",
+        "Anu elle ooboke ayroy, elle rabe ayrooy, manol elle ugte ayro salaam yoh takkay."
+      ],
+      "answer": "Anu elle ooboke ayroy, elle rabe ayrooy, manol elle ugte ayro salaam yoh takkay."
+    }
+  },
+  "verseRef": "3:40",
+  "arabic": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌۭ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌۭ ۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ",
+  "verse": "He said, \"My Lord, how will I have a boy when I have reached old age and my wife is barren?\" He [the angel] said, \"Such is Allāh; He does what He wills.\" (3:40)"
+}

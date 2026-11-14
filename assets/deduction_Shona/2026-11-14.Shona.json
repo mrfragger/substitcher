@@ -1,0 +1,61 @@
+{
+  "title": "Zita Rakapihwa Asati Azvarwa",
+  "intro": "Fungidzira nzvimbo tsvene yakanyarara yakazara nekukumbira kwemwoyo wose mushure memakore akawanda ekumirira. Kubva kune zvisingaonekwi kunouya mhinduro ine zita risati rambopiwa, uchenjeri hunovimbisa kubva mumakore ekutanga uye hupenyu hunoratidzwa nekuzvipira, tsitsi, uye kuchena.",
+  "clues": [
+    "Ndakatumidzwa zita naAllah pachake ndisati ndaberekwa, zita risati rambopiwa kune mumwe munhu pamberi pangu.",
+    "Ndakatenderwa semhinduro yekukumbirwa kwemwoyo wose nevabereki vakwegura vaifunga kuti vana vaisazobvira.",
+    "Ndakapiwa uchenjeri, kutonga, neMagwaro ndichiri mudiki.",
+    "Ndaiva nehanya nevabereki vangu uye ndainzwira vamwe tsitsi, uye ndakanga ndisingazvikudzi kana kusateerera.",
+    "Allah vakaraira rugare pandiri pazuva randakaberekwa, zuva randinofa, uye zuva randichamutswa ndiri mupenyu.",
+    "Baba vangu Zakariyya vakagamuchira mashoko akanaka pamusoro pangu kubva kuvatumwa pavakamira vachinyengetera munzvimbo tsvene (mihrab)."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muporofita Shu'ayb (Jethro)",
+        "Muprofita Idris (Enoki)",
+        "Muprofita Ishaq (Isaka)",
+        "Muporofita Yusuf (Josefa)",
+        "Muporofita Yahya (Johani)"
+      ],
+      "answer": "Muporofita Yahya (Johani)"
+    },
+    "trial": {
+      "label": "Chikomborero neMuedzo",
+      "options": [
+        "Kumedzwa nehove huru nekuda kwekubuda nehasha",
+        "Akakandwa mumoto unopfuta nekuda kwekupwanya zvifananidzo",
+        "Akarambidzwa pekugara ndokusiyiwa kuti arererwe nemhumhi",
+        "Kupiwa kuvabereki vakwegura mushure mekukumbira nomwoyo wose",
+        "Akatarisana naFarao ndokutungamirira kubuda mhiri kwegungwa"
+      ],
+      "answer": "Kupiwa kuvabereki vakwegura mushure mekukumbira nomwoyo wose"
+    },
+    "location": {
+      "label": "Nzvimbo Yekukosha",
+      "options": [
+        "Nzvimbo tsvene (mihrab) kwaiparidzirwa mashoko akanaka",
+        "Moto unopfuta wakagadzirwa nevanonamata zvidhori",
+        "Dumbu rehove huru mugungwa rakadzika",
+        "Bako raizorora vanhu vakarara kwemazana emakore",
+        "Mupata wemasvosve uri kufamba nemadzimambo"
+      ],
+      "answer": "Nzvimbo tsvene (mihrab) kwaiparidzirwa mashoko akanaka"
+    },
+    "outcome": {
+      "label": "Kukudzwa kwaMwari",
+      "options": [
+        "Yakakandirwa kubva kudenga nematombo evhu rakabikwa",
+        "Ndakamedzwa nenyika iri mupenyu nekuda kwekuzvikudza pamusoro pepfuma",
+        "Akaparadzwa nekuputika kukuru nekuda kwekurova ngamera hono",
+        "Kunyudzwa nemuvengi anozvikudza mugungwa rakaparadzana",
+        "Rugare ngaruve neni pazuva randakaberekwa, zuva randinofa, uye zuva randinomutswa ndiri mupenyu"
+      ],
+      "answer": "Rugare ngaruve neni pazuva randakaberekwa, zuva randinofa, uye zuva randinomutswa ndiri mupenyu"
+    }
+  },
+  "verseRef": "3:40",
+  "arabic": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌۭ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌۭ ۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ",
+  "verse": "He said, \"My Lord, how will I have a boy when I have reached old age and my wife is barren?\" He [the angel] said, \"Such is Allāh; He does what He wills.\" (3:40)"
+}

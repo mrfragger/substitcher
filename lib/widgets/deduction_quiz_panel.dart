@@ -60,10 +60,12 @@ class _DeductionQuizPanelState extends State<DeductionQuizPanel> {
     _init();
   }
 
-  //red, pink, purple, deepPurple, indigo, blue, lightBlue, cyan, teal, green, lightGreen, lime, yellow, amber, orange, deepOrange, brown, grey, and blueGrey
+  // [amber, amberAccent, black, blue, blueAccent, blueGrey, brown, cyan, cyanAccent, deepOrange, deepOrangeAccent, deepPurple, deepPurpleAccent, green, greenAccent, grey, indigo, indigoAccent, lightBlue, lightBlueAccent, lightGreen, lightGreenAccent, lime, limeAccent, orange, orangeAccent, pink, pinkAccent, purple, purpleAccent, red, redAccent, teal, tealAccent, transparent, white, yellow, yellowAccent]. 0xFFB29F94 =lightbrown
+  // opacities for white color [10, 12, 24, 30, 38, 54, 60, 70].
+  // opacities for black color [12, 26, 38, 45, 54, 87].
   static const List<Color> _categoryColors = [
     Colors.amber,
-    Colors.pink, //trial/event
+    Color(0xFFB29F94), //trial/event
     Colors.lightBlueAccent,
     Color(0xFFCB93F5),
   ];

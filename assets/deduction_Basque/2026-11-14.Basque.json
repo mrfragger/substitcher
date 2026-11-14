@@ -1,0 +1,61 @@
+{
+  "title": "Jaio aurretik emandako izena",
+  "intro": "Imajinatu urte luzez itxaron ondoren erregu sutsuz betetako santutegi lasai bat. Ikustezin den lekutik, lehenago inoiz eman ez den izen bat duen erantzun bat dator, lehen urteetatik jakinduria eta debozioak, errukiak eta garbitasunak markatutako bizitza bat agintzen duena.",
+  "clues": [
+    "Ala-k berak izendatu ninduen jaio aurretik, nire aurretik inori inoiz eman ez zitzaion izen batekin.",
+    "Seme-alabak izatea posible ez zela uste zuten guraso adinekoen erregu sutsuei erantzunez eman zidaten.",
+    "Gaztea nintzela eman zizkidaten jakinduria, irizpidea eta Eskritura.",
+    "Gurasoekiko obedientea eta besteekiko errukitsua nintzen, eta ez nintzen harroa edo desobedientea.",
+    "Ala-k bakea agindu zidan jaio nintzen egunean, hiltzen naizen egunean eta bizirik piztuko naizen egunean.",
+    "Nire aita Zakariyyak aingeruengandik jaso zuen nire berri onak santutegian (mihrab) otoitzean zegoela."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Shu'ayb profeta (Jethro)",
+        "Idris (Enoch) profeta",
+        "Isaak (Isaak) profeta",
+        "Yusuf (Joseph) profeta",
+        "Yahya (Joan) profeta"
+      ],
+      "answer": "Yahya (Joan) profeta"
+    },
+    "trial": {
+      "label": "Bedeinkapena eta Proba",
+      "options": [
+        "Arrain handi batek irentsi zuen haserre alde egiteagatik",
+        "Idoloak apurtzeagatik su bizian botata",
+        "Aterpea ukatu zioten eta otso eme batek hazteko utzi zuten",
+        "Adineko gurasoei eman zaie erregu sutsuen ondoren",
+        "Faraoiari aurre egin eta itsasoaren zehar exodoa zuzendu zuen"
+      ],
+      "answer": "Adineko gurasoei eman zaie erregu sutsuen ondoren"
+    },
+    "location": {
+      "label": "Leku gakoa",
+      "options": [
+        "Santutegia (mihraba), non berri onak iragartzen ziren",
+        "Idoloatrak prestatutako su bizia",
+        "Itsaso sakoneko arrain handiaren sabela",
+        "Mendeetan zehar lotiek atseden hartu zuten kobazuloa",
+        "Inurrien harana errege-martxa batean"
+      ],
+      "answer": "Santutegia (mihraba), non berri onak iragartzen ziren"
+    },
+    "outcome": {
+      "label": "Jainkozko Ohorea",
+      "options": [
+        "Buztin egosizko harriek zerutik jaurtita",
+        "Altxorraren gaineko harrokeriagatik lurrak bizirik irentsi zuen",
+        "Gamelu emeari izterrak moztu izanagatik eztanda izugarri batek suntsitu zuen",
+        "Itsaso zatituan ostalari harroputz batekin itota",
+        "Bakea nirekin jaio nintzen egunean, hiltzen naizen egunean eta bizirik pizten naizen egunean"
+      ],
+      "answer": "Bakea nirekin jaio nintzen egunean, hiltzen naizen egunean eta bizirik pizten naizen egunean"
+    }
+  },
+  "verseRef": "3:40",
+  "arabic": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌۭ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌۭ ۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ",
+  "verse": "He said, \"My Lord, how will I have a boy when I have reached old age and my wife is barren?\" He [the angel] said, \"Such is Allāh; He does what He wills.\" (3:40)"
+}

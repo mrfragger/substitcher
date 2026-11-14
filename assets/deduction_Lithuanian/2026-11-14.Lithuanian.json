@@ -1,0 +1,61 @@
+{
+  "title": "Vardas, suteiktas prieš gimimą",
+  "intro": "Įsivaizduokite tylią šventovę, pilną nuoširdaus maldavimo po ilgų laukimo metų. Iš nematomo ateina atsakymas, nešantis niekada anksčiau neminėtą vardą, žadant išmintį iš ankstyvųjų metų ir gyvenimą, paženklintą atsidavimu, užuojauta ir tyrumu.",
+  "clues": [
+    "Mane vardu davė pats Alachas dar prieš man gimstant, ir šis vardas niekam nebuvo duotas iki manęs.",
+    "Buvau suteiktas kaip atsakas į nuoširdų pagyvenusių tėvų, kurie manė, kad palikuonių turėti neįmanoma, prašymą.",
+    "Man buvo duota išmintis, nuovoka ir Šventasis Raštas, kol dar buvau jaunas.",
+    "Buvau pareigingas savo tėvams ir užjaučiantis kitiems, nebuvau arogantiškas ar nepaklusnus.",
+    "Alachas suteikė man ramybę tą dieną, kai gimiau, tą dieną, kai mirsiu, ir tą dieną, kai būsiu prikeltas.",
+    "Mano tėvas Zakariyya gavo gerąją naujieną apie mane iš angelų, stovėdamas maldoje šventovėje (mihrab)."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Šuaibas (Džetras)",
+        "Pranašas Idris (Enochas)",
+        "Pranašas Ishaqas (Izaokas)",
+        "Pranašas Jusufas (Juozapas)",
+        "Pranašas Jahja (Jonas)"
+      ],
+      "answer": "Pranašas Jahja (Jonas)"
+    },
+    "trial": {
+      "label": "Palaiminimas ir išbandymas",
+      "options": [
+        "Prarijo didelė žuvis, nes išėjo supykusi",
+        "Įmestas į liepsnojančią ugnį už stabų sudaužymą",
+        "Nesuteikė prieglobsčio ir buvo paliktas auginti vilkės",
+        "Suteikta pagyvenusiems tėvams po nuoširdaus prašymo",
+        "Susidūrė su faraonu ir vedė jį per jūrą"
+      ],
+      "answer": "Suteikta pagyvenusiems tėvams po nuoširdaus prašymo"
+    },
+    "location": {
+      "label": "Raktinė vieta",
+      "options": [
+        "Šventovė (mihrab), kurioje buvo skelbiama geroji žinia",
+        "Stabmeldžių paruošta liepsnojanti ugnis",
+        "Didžiosios žuvies pilvas gilioje jūroje",
+        "Ola, kurioje šimtmečius ilsėjosi miegaliai",
+        "Skruzdėlių slėnis karališkame žygyje"
+      ],
+      "answer": "Šventovė (mihrab), kurioje buvo skelbiama geroji žinia"
+    },
+    "outcome": {
+      "label": "Dieviškoji garbė",
+      "options": [
+        "Iš dangaus mėtomi išdegto molio akmenų",
+        "Prarytas gyvo žemės už aroganciją dėl lobių",
+        "Sugriautas griaustinio sprogimo dėl kupranugario pakinklių pažeidimo",
+        "Nuskendo su arogantišku šeimininku atsiskyrusioje jūroje",
+        "Ramybė man tą dieną, kai gimiau, tą dieną, kai mirsiu, ir tą dieną, kai būsiu prikeltas gyvas."
+      ],
+      "answer": "Ramybė man tą dieną, kai gimiau, tą dieną, kai mirsiu, ir tą dieną, kai būsiu prikeltas gyvas."
+    }
+  },
+  "verseRef": "3:40",
+  "arabic": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌۭ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌۭ ۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ",
+  "verse": "He said, \"My Lord, how will I have a boy when I have reached old age and my wife is barren?\" He [the angel] said, \"Such is Allāh; He does what He wills.\" (3:40)"
+}

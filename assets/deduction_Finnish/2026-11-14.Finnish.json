@@ -1,0 +1,61 @@
+{
+  "title": "Ennen syntymää annettu nimi",
+  "intro": "Kuvittele hiljainen pyhäkkö, joka on täynnä hartaita rukouksia pitkien odotusvuosien jälkeen. Näkymättömästä tulee vastaus, jonka mukana tulee nimi, jota ei ole koskaan ennen annettu, lupaamalla viisautta varhaisilta ajoilta ja elämää, jota leimaavat omistautuminen, myötätunto ja puhtaus.",
+  "clues": [
+    "Allah itse antoi minulle nimen ennen syntymääni, eikä tätä nimeä ollut koskaan annettu kenellekään ennen minua.",
+    "Minut suotiin vastauksena iäkkäiden vanhempien hartaaseen pyyntöön, koska he pitivät jälkeläisten saamista mahdottomana.",
+    "Minulle annettiin viisautta, harkintakykyä ja Raamattua jo nuorena.",
+    "Olin kuuliainen vanhemmilleni ja myötätuntoinen muita kohtaan, enkä ollut ylimielinen tai tottelematon.",
+    "Allah langetti minulle rauhan syntymäpäivänäni, kuolemanpäivänäni ja herätykseni päivänä.",
+    "Isäni Zakariyya sai minusta ilosanoman enkeleiltä seisten rukouksessa pyhäkössä (mihrab)."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Shu'ayb (Jetro)",
+        "Profeetta Idris (Enok)",
+        "Profeetta Ishaq (Iisak)",
+        "Profeetta Yusuf (Joosef)",
+        "Profeetta Jahja (Johannes)"
+      ],
+      "answer": "Profeetta Jahja (Johannes)"
+    },
+    "trial": {
+      "label": "Siunaus ja koettelemus",
+      "options": [
+        "Suuri kala nielaisi sen, koska se lähti vihaisena",
+        "Heitetty roihuavaan tuleen epäjumalien murskaamisesta",
+        "Kiellettiin suoja ja jätettiin naarassuden kasvatettaviksi",
+        "Myönnetty iäkkäille vanhemmille hartaiden anomusten jälkeen",
+        "Kohtasi faaraon ja johti pakoa meren yli"
+      ],
+      "answer": "Myönnetty iäkkäille vanhemmille hartaiden anomusten jälkeen"
+    },
+    "location": {
+      "label": "Key Place",
+      "options": [
+        "Pyhäkkö (mihrab), jossa ilosanoma julistettiin",
+        "Epäjumalanpalvelijoiden valmistama liekehtivä tuli",
+        "Suuren kalan vatsa syvänmeren alla",
+        "Luola, jossa nukkujat lepäsivät vuosisatojen ajan",
+        "Muurahaisten laakso kuninkaallisella marssilla"
+      ],
+      "answer": "Pyhäkkö (mihrab), jossa ilosanoma julistettiin"
+    },
+    "outcome": {
+      "label": "Jumalallinen kunnia",
+      "options": [
+        "Taivaasta heiteltyinä paistettujen savikivien alle",
+        "Maa nielaisi elävältä aarteen ylimielisyyden vuoksi",
+        "Ukkosenjyrinä tuhoutui naaraskamelin takareisien vuoksi",
+        "Hukkui ylimielisen isännän kanssa jakautuneeseen mereen",
+        "Rauha minulle päivänä, jona synnyin, päivänä, jona kuolen, ja päivänä, jona minut herätetään henkiin."
+      ],
+      "answer": "Rauha minulle päivänä, jona synnyin, päivänä, jona kuolen, ja päivänä, jona minut herätetään henkiin."
+    }
+  },
+  "verseRef": "3:40",
+  "arabic": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌۭ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌۭ ۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ",
+  "verse": "He said, \"My Lord, how will I have a boy when I have reached old age and my wife is barren?\" He [the angel] said, \"Such is Allāh; He does what He wills.\" (3:40)"
+}

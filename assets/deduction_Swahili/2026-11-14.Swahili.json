@@ -1,0 +1,61 @@
+{
+  "title": "Jina Lililopewa Kabla ya Kuzaliwa",
+  "intro": "Hebu wazia mahali patakatifu patulivu palipojaa dua ya dhati baada ya miaka mingi ya kusubiri. Kutoka kwa yasiyoonekana huja jibu lenye jina ambalo halijawahi kupewa hapo awali, hekima inayoahidiwa kutoka miaka ya mapema na maisha yenye sifa ya kujitolea, huruma, na usafi.",
+  "clues": [
+    "Niliitwa na Mwenyezi Mungu mwenyewe kabla sijazaliwa, jina ambalo halijawahi kupewa mtu yeyote kabla yangu.",
+    "Nilikubaliwa kama jibu la dua ya dhati kutoka kwa wazazi wazee ambao walidhani uzao hauwezekani.",
+    "Nilipewa hekima, hukumu, na Maandiko Matakatifu nilipokuwa bado mdogo.",
+    "Nilikuwa mwajibikaji kwa wazazi wangu na mwenye huruma kwa wengine, na sikuwa na kiburi au mtiifu.",
+    "Mwenyezi Mungu aliniamrisha amani siku niliyozaliwa, siku nitakayokufa, na siku nitakayofufuliwa nikiwa hai.",
+    "Baba yangu Zakariyya alipokea habari njema kutoka kwa malaika alipokuwa amesimama katika sala katika patakatifu (mihrab)."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Shu'ayb (Yethro)",
+        "Nabii Idris (Henoko)",
+        "Nabii Ishaq (Isaka)",
+        "Nabii Yusufu (Yusufu)",
+        "Nabii Yahya (Yohana)"
+      ],
+      "answer": "Nabii Yahya (Yohana)"
+    },
+    "trial": {
+      "label": "Baraka na Majaribu",
+      "options": [
+        "Alimezwa na samaki mkubwa kwa kuondoka kwa hasira",
+        "Kutupwa kwenye moto unaowaka kwa kuvunja sanamu",
+        "Alinyimwa makazi na kuachwa alelewe na mbwa mwitu jike",
+        "Wazazi wazee hupewa baada ya dua ya dhati",
+        "Alikabiliana na Farao na kuongoza safari ya kutoka baharini"
+      ],
+      "answer": "Wazazi wazee hupewa baada ya dua ya dhati"
+    },
+    "location": {
+      "label": "Mahali Muhimu",
+      "options": [
+        "Patakatifu (mihrab) ambapo habari njema zilitangazwa",
+        "Moto unaowaka ulioandaliwa na waabudu sanamu",
+        "Tumbo la samaki mkubwa katika bahari ya kina kirefu",
+        "Pango ambalo walalaji walipumzika kwa karne nyingi",
+        "Bonde la sisimizi kwenye maandamano ya kifalme"
+      ],
+      "answer": "Patakatifu (mihrab) ambapo habari njema zilitangazwa"
+    },
+    "outcome": {
+      "label": "Heshima ya Kimungu",
+      "options": [
+        "Imevutwa kutoka mbinguni na mawe ya udongo uliookwa",
+        "Alimezwa hai na dunia kwa kiburi juu ya hazina",
+        "Aliharibiwa na mlipuko mkubwa kwa kumkata ngamia jike",
+        "Kuzama na mwenyeji mwenye kiburi katika bahari iliyogawanyika",
+        "Amani iwe juu yangu siku niliyozaliwa, siku nitakayokufa, na siku nitakayofufuliwa hai."
+      ],
+      "answer": "Amani iwe juu yangu siku niliyozaliwa, siku nitakayokufa, na siku nitakayofufuliwa hai."
+    }
+  },
+  "verseRef": "3:40",
+  "arabic": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌۭ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌۭ ۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ",
+  "verse": "He said, \"My Lord, how will I have a boy when I have reached old age and my wife is barren?\" He [the angel] said, \"Such is Allāh; He does what He wills.\" (3:40)"
+}

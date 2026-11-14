@@ -1,0 +1,61 @@
+{
+  "title": "Nomen Ante Nativitatem Datum",
+  "intro": "Finge tibi sanctuarium quietum, post longos annos exspectationis, supplicationibus seriis repletum. Ab invisibili responsum venit, nomen numquam ante datum ferens, sapientiam ab annis primis promittens et vitam devotione, misericordia et puritate insignitam.",
+  "clues": [
+    "Ab ipso Allah nominatus sum antequam natus sum, nomine numquam ante me cuiquam dato.",
+    "Concessus sum quasi responsum ad fervidas preces parentum senum qui putabant prolem incredibilem esse.",
+    "Sapientia, consilium, et Scriptura datae sunt mihi cum adhuc iuvenis essem.",
+    "Parentibus meis pius et aliis misericors eram, neque arrogans neque inoboediens.",
+    "Deus mihi pacem decrevit die qua natus sum, et die qua mortuus sum, et die qua vivus resurgebo.",
+    "Pater meus Zacharias, dum in sanctuario (mihrab) orans stans, nuntium laetum de me ab angelis accepit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Shu'ayb (Iethro)",
+        "Idris (Enoch) propheta",
+        "Propheta Isaac (Isaac)",
+        "Propheta Yusuf (Iosephus)",
+        "Propheta Yahya (Ioannes)"
+      ],
+      "answer": "Propheta Yahya (Ioannes)"
+    },
+    "trial": {
+      "label": "Benedictio et Tentatio",
+      "options": [
+        "Ab magno pisce devoratus, quod iratus discessivit",
+        "In ignem ardentem proiectus propter idola confringenda",
+        "Tectum negatum et a lupa alendum relictum",
+        "Parentibus senioribus post serias supplicationes concessum",
+        "Pharaonem oppugnavit et Exodum trans mare duxit"
+      ],
+      "answer": "Parentibus senioribus post serias supplicationes concessum"
+    },
+    "location": {
+      "label": "Locus Clavis",
+      "options": [
+        "Sanctuarium (mihrab) ubi laeta nuntiata sunt",
+        "Ignis ardens ab idololatris paratus",
+        "Venter piscis magni in alto mari",
+        "Antrum ubi dormientes per saecula quieverunt",
+        "Vallis formicarum in itinere regio"
+      ],
+      "answer": "Sanctuarium (mihrab) ubi laeta nuntiata sunt"
+    },
+    "outcome": {
+      "label": "Honor Divinus",
+      "options": [
+        "E caelo iactus a lapidibus argillae coctae",
+        "Vivus a terra absorptus propter arrogantiam super thesauros",
+        "Tonitrui fragore deleta ob femur camelam vulneratam",
+        "Cum exercitu arrogante in mari diviso submersus",
+        "Pax mihi die quo natus sum, et die quo morior, et die quo vivus resurgam."
+      ],
+      "answer": "Pax mihi die quo natus sum, et die quo morior, et die quo vivus resurgam."
+    }
+  },
+  "verseRef": "3:40",
+  "arabic": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌۭ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌۭ ۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ",
+  "verse": "He said, \"My Lord, how will I have a boy when I have reached old age and my wife is barren?\" He [the angel] said, \"Such is Allāh; He does what He wills.\" (3:40)"
+}

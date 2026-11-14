@@ -1,0 +1,61 @@
+{
+  "title": "Leina le le Neilweng Pele ga Botsalo",
+  "intro": "Akanya ka lefelo le le boitshepo le le didimetseng le le tletseng mekokotlelo e e tlhoafetseng morago ga go leta ka dingwaga tse dintsi. Go tswa mo go se se sa bonweng go tswa karabo e e tshotseng leina le le iseng le ko le newe pele, e solofetsa botlhale go tswa mo dingwageng tsa ntlha le botshelo jo bo tshwailweng ka boineelo, kutlwelobotlhoko le bophepa.",
+  "clues": [
+    "Ke ne ka bidiwa ke Allah ka boene pele ga ke tsholwa, ka leina le le iseng le ko le newe ope pele ga me.",
+    "Ke ne ka newa e le karabo ya kopo e e tlhoafetseng ke batsadi ba ba godileng ba ba neng ba akanya gore go ka se kgonege go nna le bana.",
+    "Ke ne ka newa botlhale, katlholo le Lekwalo ke sa ntse ke le monnye.",
+    "Ke ne ke dira maikarabelo mo batsading ba me e bile ke utlwela ba bangwe botlhoko, e bile ke ne ke sa ikgogomose kgotsa ke sa utlwe.",
+    "Allah o laetse kagiso mo go nna ka letsatsi le ke tsetsweng ka lone, letsatsi le ke swang ka lone, le letsatsi le ke tla tsosiwang ke tshela ka lone.",
+    "Rre Zakariyya o ne a amogela dikgang tse di itumedisang ka nna go tswa mo baengeleng fa a ne a eme ka thapelo mo lefelong le le boitshepo (mihrab)."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Shu'ayb (Jethero)",
+        "Moporofeti Idris (Enoke)",
+        "Moporofeta Ishaq (Isaka)",
+        "Moporofeti Yusuf (Josefa)",
+        "Moporofeti Yahya (Johane)"
+      ],
+      "answer": "Moporofeti Yahya (Johane)"
+    },
+    "trial": {
+      "label": "Tshegofatso le Teko",
+      "options": [
+        "Go mediwa ke tlhapi e kgolo ka ntlha ya go tsamaya ka bogale",
+        "A latlhelwa mo molelong o o tukang ka ntlha ya go thubaganya medingwana",
+        "O ne a ganwa bonno mme a tlogelwa gore a godisiwe ke phiri e namagadi",
+        "E newa batsadi ba ba godileng morago ga mokokotlelo o o tlhoafetseng",
+        "O ne a lebana le Faro mme a etelela pele khudugo go kgabaganya lewatle"
+      ],
+      "answer": "E newa batsadi ba ba godileng morago ga mokokotlelo o o tlhoafetseng"
+    },
+    "location": {
+      "label": "Lefelo la Botlhokwa",
+      "options": [
+        "Lefelo le le boitshepo (mihrab) le go neng go itsisiwe dikgang tse di itumedisang mo go lone",
+        "Molelo o o tukang o o baakantsweng ke baobamedi ba medingwana",
+        "Mpa ya tlhapi e kgolo mo lewatleng le le boteng",
+        "Logaga lo batho ba ba neng ba robetse ba neng ba ikhutsa mo go lone ka makgolokgolo a dingwaga",
+        "Mokgatšha wa ditshoswane mo mogwantong wa segosi"
+      ],
+      "answer": "Lefelo le le boitshepo (mihrab) le go neng go itsisiwe dikgang tse di itumedisang mo go lone"
+    },
+    "outcome": {
+      "label": "Tlotlo ya Bomodimo",
+      "options": [
+        "E latlhetswe kwa loaping ke matlapa a letsopa le le bakilweng",
+        "A mediwa ke lefatshe a tshela ka ntlha ya boikgogomoso jwa letlotlo",
+        "E sentswe ke go thunya ga maru ka ntlha ya go kgaola kamela e namagadi",
+        "O nwetse le moamogedi yo o mabela mo lewatleng le le kgaoganeng",
+        "Kgotso mo go nna letsatsi le ke tsetsweng ka lone, letsatsi le ke suleng ka lone, le letsatsi le ke tsosiwang ke tshela ka lone"
+      ],
+      "answer": "Kgotso mo go nna letsatsi le ke tsetsweng ka lone, letsatsi le ke suleng ka lone, le letsatsi le ke tsosiwang ke tshela ka lone"
+    }
+  },
+  "verseRef": "3:40",
+  "arabic": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌۭ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌۭ ۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ",
+  "verse": "He said, \"My Lord, how will I have a boy when I have reached old age and my wife is barren?\" He [the angel] said, \"Such is Allāh; He does what He wills.\" (3:40)"
+}

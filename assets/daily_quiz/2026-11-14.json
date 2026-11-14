@@ -1,0 +1,659 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَلْفَاظُ الْوَحْيِ",
+        "nameEn": "Words for divine revelation",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "قُرْءَانًا",
+            "en": "A Quran",
+            "ref": "39:28",
+            "verse": "قُرْءَانًا عَرَبِيًّا غَيْرَ ذِى عِوَجٍۢ لَّعَلَّهُمْ يَتَّقُونَ",
+            "verseEn": "[It is] an Arabic Qur’ān, without any deviance that they might become righteous."
+          },
+          {
+            "ar": "بِالْكِتَابِ",
+            "en": "the Book",
+            "ref": "40:70",
+            "verse": "ٱلَّذِينَ كَذَّبُوا۟ بِٱلْكِتَـٰبِ وَبِمَآ أَرْسَلْنَا بِهِۦ رُسُلَنَا ۖ فَسَوْفَ يَعْلَمُونَ",
+            "verseEn": "Those who deny the Book [i.e., the Qur’ān] and that with which We sent Our messengers - they are going to know,"
+          },
+          {
+            "ar": "لَآيَاتٍ",
+            "en": "surely (are) Signs",
+            "ref": "23:30",
+            "verse": "إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍۢ وَإِن كُنَّا لَمُبْتَلِينَ",
+            "verseEn": "Indeed in that are signs, and indeed, We are ever testing [Our servants]."
+          },
+          {
+            "ar": "لَذِكْرٌ",
+            "en": "(is) surely, a Reminder",
+            "ref": "43:44",
+            "verse": "وَإِنَّهُۥ لَذِكْرٌۭ لَّكَ وَلِقَوْمِكَ ۖ وَسَوْفَ تُسْـَٔلُونَ",
+            "verseEn": "And indeed, it is a remembrance for you and your people, and you [all] are going to be questioned."
+          }
+        ]
+      },
+      {
+        "name": "أَلْقَابُ رُسُلِ اللَّهِ",
+        "nameEn": "Titles given to Allah's messengers",
+        "color": "green",
+        "items": [
+          {
+            "ar": "النَّبِيُّ",
+            "en": "O Prophet",
+            "ref": "9:73",
+            "verse": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ جَـٰهِدِ ٱلْكُفَّارَ وَٱلْمُنَـٰفِقِينَ وَٱغْلُظْ عَلَيْهِمْ ۚ وَمَأْوَىٰهُمْ جَهَنَّمُ ۖ وَبِئْسَ ٱلْمَصِيرُ",
+            "verseEn": "O Prophet, fight against the disbelievers and the hypocrites and be harsh upon them. And their refuge is Hell, and wretched is the destination."
+          },
+          {
+            "ar": "الْمُرْسَلِينَ",
+            "en": "the Messengers",
+            "ref": "37:37",
+            "verse": "بَلْ جَآءَ بِٱلْحَقِّ وَصَدَّقَ ٱلْمُرْسَلِينَ",
+            "verseEn": "Rather, he [i.e., the Prophet (ﷺ)] has come with the truth and confirmed the [previous] messengers."
+          },
+          {
+            "ar": "نَذِيرٍ",
+            "en": "warner",
+            "ref": "34:44",
+            "verse": "وَمَآ ءَاتَيْنَـٰهُم مِّن كُتُبٍۢ يَدْرُسُونَهَا ۖ وَمَآ أَرْسَلْنَآ إِلَيْهِمْ قَبْلَكَ مِن نَّذِيرٍۢ",
+            "verseEn": "And We had not given them any scriptures which they could study, and We had not sent to them before you, [O Muḥammad], any warner."
+          },
+          {
+            "ar": "عَبْدَنَا",
+            "en": "Our slave",
+            "ref": "38:41",
+            "verse": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+            "verseEn": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\""
+          }
+        ]
+      },
+      {
+        "name": "مَعْبُودَاتٌ بَاطِلَةٌ مِنْ دُونِ اللَّهِ",
+        "nameEn": "Beings falsely worshipped besides Allah",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "وَالطَّاغُوتِ",
+            "en": "and the false deities",
+            "ref": "4:51",
+            "verse": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ أُوتُوا۟ نَصِيبًۭا مِّنَ ٱلْكِتَـٰبِ يُؤْمِنُونَ بِٱلْجِبْتِ وَٱلطَّـٰغُوتِ وَيَقُولُونَ لِلَّذِينَ كَفَرُوا۟ هَـٰٓؤُلَآءِ أَهْدَىٰ مِنَ ٱلَّذِينَ ءَامَنُوا۟ سَبِيلًا",
+            "verseEn": "Have you not seen those who were given a portion of the Scripture, who believe in jibt [superstition] and ṭāghūt [false objects of worship] and say about the disbelievers, \"These are better guided than the believers as to the way\"?"
+          },
+          {
+            "ar": "آلِهَةٌ",
+            "en": "gods",
+            "ref": "21:22",
+            "verse": "لَوْ كَانَ فِيهِمَآ ءَالِهَةٌ إِلَّا ٱللَّهُ لَفَسَدَتَا ۚ فَسُبْحَـٰنَ ٱللَّهِ رَبِّ ٱلْعَرْشِ عَمَّا يَصِفُونَ",
+            "verseEn": "Had there been within them [i.e., the heavens and earth] gods besides Allāh, they both would have been ruined. So exalted is Allāh, Lord of the Throne, above what they describe."
+          },
+          {
+            "ar": "الْجِنَّ",
+            "en": "the jinn",
+            "ref": "34:41",
+            "verse": "قَالُوا۟ سُبْحَـٰنَكَ أَنتَ وَلِيُّنَا مِن دُونِهِم ۖ بَلْ كَانُوا۟ يَعْبُدُونَ ٱلْجِنَّ ۖ أَكْثَرُهُم بِهِم مُّؤْمِنُونَ",
+            "verseEn": "They will say, \"Exalted are You! You, [O Allāh], are our benefactor excluding [i.e., not] them. Rather, they used to worship the jinn; most of them were believers in them.\""
+          },
+          {
+            "ar": "الشَّيْطَانُ",
+            "en": "Shaitaan",
+            "ref": "47:25",
+            "verse": "إِنَّ ٱلَّذِينَ ٱرْتَدُّوا۟ عَلَىٰٓ أَدْبَـٰرِهِم مِّنۢ بَعْدِ مَا تَبَيَّنَ لَهُمُ ٱلْهُدَى ۙ ٱلشَّيْطَـٰنُ سَوَّلَ لَهُمْ وَأَمْلَىٰ لَهُمْ",
+            "verseEn": "Indeed, those who reverted back [to disbelief] after guidance had become clear to them - Satan enticed them and prolonged hope for them."
+          }
+        ]
+      },
+      {
+        "name": "أَمَاكِنُ وَاتِّجَاهَاتٌ مَكَانِيَّةٌ",
+        "nameEn": "Spatial directions and locations",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "السَّمَاوَاتِ",
+            "en": "(of) the heavens",
+            "ref": "44:7",
+            "verse": "رَبِّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَآ ۖ إِن كُنتُم مُّوقِنِينَ",
+            "verseEn": "Lord of the heavens and the earth and that between them, if you would be certain."
+          },
+          {
+            "ar": "الْأَرْضِ",
+            "en": "the land",
+            "ref": "40:29",
+            "verse": "يَـٰقَوْمِ لَكُمُ ٱلْمُلْكُ ٱلْيَوْمَ ظَـٰهِرِينَ فِى ٱلْأَرْضِ فَمَن يَنصُرُنَا مِنۢ بَأْسِ ٱللَّهِ إِن جَآءَنَا ۚ قَالَ فِرْعَوْنُ مَآ أُرِيكُمْ إِلَّا مَآ أَرَىٰ وَمَآ أَهْدِيكُمْ إِلَّا سَبِيلَ ٱلرَّشَادِ",
+            "verseEn": "O my people, sovereignty is yours today, [your being] dominant in the land. But who would protect us from the punishment of Allāh if it came to us?\" Pharaoh said, \"I do not show you except what I see, and I do not guide you except to the way of right conduct.\""
+          },
+          {
+            "ar": "الْيَمِينِ",
+            "en": "the right",
+            "ref": "70:37",
+            "verse": "عَنِ ٱلْيَمِينِ وَعَنِ ٱلشِّمَالِ عِزِينَ",
+            "verseEn": "[To sit] on [your] right and [your] left in separate groups?"
+          },
+          {
+            "ar": "بَيْنَهُمْ",
+            "en": "among them",
+            "ref": "20:62",
+            "verse": "فَتَنَـٰزَعُوٓا۟ أَمْرَهُم بَيْنَهُمْ وَأَسَرُّوا۟ ٱلنَّجْوَىٰ",
+            "verseEn": "So they disputed over their affair among themselves and concealed their private conversation."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "غضب",
+    "display": "غَضَبٍ",
+    "hint": "Divine displeasure earned by those who reject truth",
+    "verseRef": "2:90",
+    "arabicVerse": "بِئْسَمَا ٱشْتَرَوْا۟ بِهِۦٓ أَنفُسَهُمْ أَن يَكْفُرُوا۟ بِمَآ أَنزَلَ ٱللَّهُ بَغْيًا أَن يُنَزِّلَ ٱللَّهُ مِن فَضْلِهِۦ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ ۖ فَبَآءُو بِغَضَبٍ عَلَىٰ غَضَبٍۢ ۚ وَلِلْكَـٰفِرِينَ عَذَابٌۭ مُّهِينٌۭ",
+    "verse": "2:90 - How wretched is that for which they sold themselves - that they would disbelieve in what Allāh has revealed through [their] outrage that Allāh would send down His favor upon whom He wills from among His servants. So they returned having [earned] wrath upon wrath. And for the disbelievers is a humiliating punishment."
+  },
+  "scramble": {
+    "verseRef": "59:19",
+    "reference": "Al-Hashr (59:19)",
+    "segments": [
+      "وَلَا تَكُونُوا",
+      "كَٱلَّذِينَ نَسُوا",
+      "ٱللَّهَ فَأَنسَىٰهُمْ",
+      "أَنفُسَهُمْ أُو۟لَـٰٓئِكَ",
+      "هُمُ ٱلْفَـٰسِقُونَ"
+    ],
+    "translations": [
+      "And (do) not be",
+      "like those who forgot",
+      "Allah so He made them forget",
+      "themselves Those",
+      "[they] (are) the defiantly disobedient"
+    ],
+    "hint": "Warning against forgetting Allah and the consequence of self-forgetfulness",
+    "arabic": "وَلَا تَكُونُوا۟ كَٱلَّذِينَ نَسُوا۟ ٱللَّهَ فَأَنسَىٰهُمْ أَنفُسَهُمْ ۚ أُو۟لَـٰٓئِكَ هُمُ ٱلْفَـٰسِقُونَ",
+    "words": [
+      "وَلَا تَكُونُوا۟",
+      "كَٱلَّذِينَ نَسُوا۟",
+      "ٱللَّهَ فَأَنسَىٰهُمْ",
+      "أَنفُسَهُمْ ۚ أُو۟لَـٰٓئِكَ",
+      "هُمُ ٱلْفَـٰسِقُونَ"
+    ],
+    "verseEn": "And be not like those who forgot Allāh, so He made them forget themselves. Those are the defiantly disobedient."
+  },
+  "roothive": {
+    "center": "د",
+    "outer": [
+      "ن",
+      "و",
+      "ا",
+      "م",
+      "ه",
+      "ت"
+    ],
+    "root": {
+      "letters": "مدد",
+      "display": "م د د",
+      "translit": "m-d-d",
+      "meaning": "The core idea is stretching or extending something further. From spreading land to giving extra help or time, its words all share reaching beyond a limit.",
+      "occurrences": 32,
+      "lemmaCount": 9
+    },
+    "words": [
+      {
+        "w": "ادم",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "آدَم",
+            "gloss": "adam",
+            "type": "proper noun",
+            "root": "أدم",
+            "count": 25,
+            "ref": "2:31",
+            "pos": 2,
+            "alt": [
+              "children of adam",
+              "adam disobeyed"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "امد",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "أَمَدَّ",
+            "gloss": "extend",
+            "type": "verb",
+            "root": "مدد",
+            "count": 10,
+            "ref": "17:20",
+            "pos": 2,
+            "form": 4
+          },
+          {
+            "lemma": "أَمَد",
+            "gloss": "distance",
+            "type": "noun",
+            "root": "أمد",
+            "count": 4,
+            "ref": "3:30",
+            "pos": 19,
+            "alt": [
+              "time",
+              "term"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "دام",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "دامُ",
+            "gloss": "as long as remain",
+            "type": "verb",
+            "root": "دوم",
+            "count": 7,
+            "ref": "11:107",
+            "pos": 4,
+            "alt": [
+              "as long as remains"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "دنا",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "دَنا",
+            "gloss": "approached",
+            "type": "verb",
+            "root": "دنو",
+            "count": 2,
+            "ref": "53:8",
+            "pos": 2,
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "دون",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "دُون",
+            "gloss": "besides",
+            "type": "noun",
+            "root": "دون",
+            "count": 144,
+            "ref": "2:23",
+            "pos": 16,
+            "alt": [
+              "besides allah",
+              "other than"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مدت",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مُدَّت",
+            "gloss": "term",
+            "type": "noun",
+            "root": "مدد",
+            "count": 1,
+            "ref": "9:4",
+            "pos": 18
+          }
+        ]
+      },
+      {
+        "w": "مدد",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مَدَد",
+            "gloss": "supplement",
+            "type": "noun",
+            "root": "مدد",
+            "count": 1,
+            "ref": "18:109",
+            "pos": 18
+          }
+        ]
+      },
+      {
+        "w": "ممد",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مُمِدّ",
+            "gloss": "going to reinforce",
+            "type": "active participle",
+            "root": "مدد",
+            "count": 1,
+            "ref": "8:9",
+            "pos": 7
+          }
+        ]
+      },
+      {
+        "w": "مهد",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَهْد",
+            "gloss": "bed",
+            "type": "noun",
+            "root": "مهد",
+            "count": 5,
+            "ref": "20:53",
+            "pos": 5
+          }
+        ]
+      },
+      {
+        "w": "هاد",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "هادُ",
+            "gloss": "are jews",
+            "type": "verb",
+            "root": "هود",
+            "count": 11,
+            "ref": "2:62",
+            "pos": 5,
+            "alt": [
+              "were jews",
+              "became jews"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "هاد",
+            "gloss": "guide",
+            "type": "active participle",
+            "root": "هدي",
+            "count": 7,
+            "ref": "13:7",
+            "pos": 15
+          }
+        ]
+      },
+      {
+        "w": "هود",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "هُود",
+            "gloss": "hud",
+            "type": "proper noun",
+            "root": "هود",
+            "count": 10,
+            "ref": "2:111",
+            "pos": 8,
+            "alt": [
+              "jews",
+              "jew"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "واد",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "واد",
+            "gloss": "valley",
+            "type": "noun",
+            "root": "ودي",
+            "count": 7,
+            "ref": "26:225",
+            "pos": 6
+          }
+        ]
+      },
+      {
+        "w": "مداد",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "مِداد",
+            "gloss": "ink",
+            "type": "noun",
+            "root": "مدد",
+            "count": 1,
+            "ref": "18:109",
+            "pos": 5
+          }
+        ]
+      },
+      {
+        "w": "مهاد",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مِهاد",
+            "gloss": "resting place",
+            "type": "noun",
+            "root": "مهد",
+            "count": 7,
+            "ref": "7:41",
+            "pos": 4,
+            "alt": [
+              "bed"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مهتد",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مُهْتَد",
+            "gloss": "guided one",
+            "type": "active participle",
+            "root": "هدي",
+            "count": 3,
+            "ref": "57:26",
+            "pos": 11
+          }
+        ]
+      },
+      {
+        "w": "موده",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَوَدَّة",
+            "gloss": "love",
+            "type": "noun",
+            "root": "ودد",
+            "count": 8,
+            "ref": "4:73",
+            "pos": 12,
+            "alt": [
+              "any affection",
+              "affection"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "نادم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "نادِم",
+            "gloss": "regretful",
+            "type": "active participle",
+            "root": "ندم",
+            "count": 5,
+            "ref": "5:52",
+            "pos": 28
+          }
+        ]
+      },
+      {
+        "w": "ودود",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "وَدُود",
+            "gloss": "most loving",
+            "type": "adjective",
+            "root": "ودد",
+            "count": 2,
+            "ref": "11:90",
+            "pos": 9
+          }
+        ]
+      },
+      {
+        "w": "انداد",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "أَنداد",
+            "gloss": "rivals",
+            "type": "noun",
+            "root": "ندد",
+            "count": 6,
+            "ref": "2:22",
+            "pos": 21,
+            "alt": [
+              "equals"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اوتاد",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "أَوْتاد",
+            "gloss": "pegs",
+            "type": "noun",
+            "root": "وتد",
+            "count": 3,
+            "ref": "78:7",
+            "pos": 2
+          }
+        ]
+      },
+      {
+        "w": "ممدده",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "مُمَدَّدَة",
+            "gloss": "extended",
+            "type": "passive participle",
+            "root": "مدد",
+            "count": 1,
+            "ref": "104:9",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "ممدود",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "مَمْدُود",
+            "gloss": "extensive",
+            "type": "passive participle",
+            "root": "مدد",
+            "count": 2,
+            "ref": "56:30",
+            "pos": 2,
+            "alt": [
+              "extended"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ندامه",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "نَدامَة",
+            "gloss": "regret",
+            "type": "noun",
+            "root": "ندم",
+            "count": 2,
+            "ref": "10:54",
+            "pos": 12
+          }
+        ]
+      }
+    ],
+    "otherFamily": [
+      {
+        "lemma": "مَدَّ",
+        "gloss": "spread",
+        "type": "verb",
+        "root": "مدد",
+        "count": 13,
+        "ref": "13:3",
+        "pos": 3,
+        "alt": [
+          "extends",
+          "is spread"
+        ],
+        "form": 1
+      },
+      {
+        "lemma": "مَدّ",
+        "gloss": "extension",
+        "type": "verbal noun",
+        "root": "مدد",
+        "count": 2,
+        "ref": "19:75",
+        "pos": 9,
+        "alt": [
+          "extensively"
+        ]
+      }
+    ],
+    "maxScore": 53,
+    "featuredRoot": "مدد"
+  }
+}

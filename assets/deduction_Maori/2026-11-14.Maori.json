@@ -1,0 +1,61 @@
+{
+  "title": "Te Ingoa i Tukuna i mua i te Whānautanga",
+  "intro": "Whakaarohia he wāhi tapu marino e kī ana i te inoi nui i muri i ngā tau roa o te tatari. Mai i te mea kāore e kitea ka puta mai he whakautu e mau ana i tētahi ingoa kāore anō kia hoatu i mua, e whakaari ana i te whakaaro nui mai i ngā tau tōmua me te oranga e tohuhia ana e te aroha, te ngākau pono, me te parakore.",
+  "clues": [
+    "I tapaina ahau e Allah tonu i mua i tōku whānautanga, he ingoa kāore anō kia hoatu ki tētahi i mua i ahau.",
+    "I whakaaetia ahau hei whakautu ki te inoi nui a ngā mātua kaumātua i whakaaro rā kāore e taea te whānau he uri.",
+    "I homai ki ahau te whakaaro nui, te whakaaro nui, me te Karaipiture i ahau e tamariki ana.",
+    "He tangata atawhai ahau ki ōku mātua, he tangata aroha ki ētahi atu; kāore hoki ahau i te whakapehapeha, i te tutu rānei.",
+    "I whakaritea e Allah te rangimārie ki runga i ahau i te rā i whānau ai ahau, i te rā e mate ai ahau, ā, i te rā e whakaarahia ora ai ahau.",
+    "I whiwhi tōku matua a Zakariyya i ngā rongopai mōku mai i ngā anahera i a ia e tū ana i roto i te mihrab e inoi ana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti Shu'ayb (Ietoro)",
+        "Poropiti a Idris (Enoka)",
+        "Poropiti a Ihaka (Ihaka)",
+        "Poropiti a Hohepa (Yusup)",
+        "Poropiti a Yahya (Hoani)"
+      ],
+      "answer": "Poropiti a Yahya (Hoani)"
+    },
+    "trial": {
+      "label": "Te Manaakitanga me te Whakamātautau",
+      "options": [
+        "I horomia e te ika nui mō te wehenga atu i te riri",
+        "Ka maka ki roto i te ahi mura hei wahi i ngā whakapakoko",
+        "I whakakahoretia he wāhi noho, ā, i waiho kia whāngaihia e te wuruhi wahine",
+        "I tukuna ki ngā mātua kaumātua i muri i te inoi nui",
+        "I tū atu ki a Parao, ā, i ārahi i te haerenga ki tērā taha o te moana"
+      ],
+      "answer": "I tukuna ki ngā mātua kaumātua i muri i te inoi nui"
+    },
+    "location": {
+      "label": "Te Wāhi Matua",
+      "options": [
+        "Te wāhi tapu (mihrab) i kauwhautia ai ngā rongopai",
+        "Te ahi mura i whakaritea e ngā kaikarakia whakapakoko",
+        "Te puku o te ika nui i te moana hohonu",
+        "Te ana i okioki ai ngā moe mō ngā rautau",
+        "Te raorao o ngā pōpokorua i runga i te hīkoi kingi"
+      ],
+      "answer": "Te wāhi tapu (mihrab) i kauwhautia ai ngā rongopai"
+    },
+    "outcome": {
+      "label": "Te Whakahonoretanga Atua",
+      "options": [
+        "I whiua mai i te rangi e ngā kōhatu paru tunua",
+        "I horomia oratia e te whenua mō te whakapehapeha mō te taonga",
+        "I whakangaromia e te whatitiri nui mō te whakangote i te kamera uha",
+        "I toremi tahi me te ope whakakake i te moana wehe",
+        "Kia tau te rangimārie ki ahau i te rā i whānau ai ahau, i te rā e mate ai ahau, i te rā hoki e whakaarahia ora ai ahau"
+      ],
+      "answer": "Kia tau te rangimārie ki ahau i te rā i whānau ai ahau, i te rā e mate ai ahau, i te rā hoki e whakaarahia ora ai ahau"
+    }
+  },
+  "verseRef": "3:40",
+  "arabic": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌۭ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌۭ ۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ",
+  "verse": "He said, \"My Lord, how will I have a boy when I have reached old age and my wife is barren?\" He [the angel] said, \"Such is Allāh; He does what He wills.\" (3:40)"
+}

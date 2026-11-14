@@ -1,0 +1,61 @@
+{
+  "title": "Vārds, kas dots pirms dzimšanas",
+  "intro": "Iztēlojieties klusu svētnīcu, kas piepildīta ar dedzīgām lūgšanām pēc ilgiem gaidīšanas gadiem. No neredzamā nāk atbilde, kurā ir vārds, kas nekad iepriekš nav dots, solot gudrību no agrīniem gadiem un dzīvi, ko raksturo dievbijība, līdzjūtība un šķīstība.",
+  "clues": [
+    "Mani nosauca pats Allāhs pirms manas dzimšanas, un pirms manis neviens cits nebija saņēmis šādu vārdu.",
+    "Mani piešķīra kā atbildi uz gados vecāku vecāku dedzīgiem lūgumiem, kuri uzskatīja, ka pēcnācēji nav iespējami.",
+    "Man vēl jaunībā tika dota gudrība, spriestspēja un Raksti.",
+    "Es biju paklausīgs saviem vecākiem un līdzjūtīgs pret citiem, un es nebiju augstprātīgs vai nepaklausīgs.",
+    "Allāhs nosprieda man mieru dienā, kad es piedzimu, dienā, kad es miršu, un dienā, kad es tikšu augšāmcelts.",
+    "Mans tēvs Zakarija saņēma priecīgo vēsti par mani no eņģeļiem, stāvot lūgšanā svētnīcā (mihrab)."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Šuaibs (Džetro)",
+        "Pravietis Idriss (Ēnohs)",
+        "Pravietis Išaks (Īzāks)",
+        "Pravietis Jusufs (Jāzeps)",
+        "Pravietis Jahja (Jānis)"
+      ],
+      "answer": "Pravietis Jahja (Jānis)"
+    },
+    "trial": {
+      "label": "Svētība un pārbaudījums",
+      "options": [
+        "Liela zivs norīja par aiziešanu dusmās",
+        "Iemests liesmojošā ugunī par elku sagraušanu",
+        "Atņemta pajumte un atstāta vilcenes audzināšanā",
+        "Piešķirts vecāka gadagājuma vecākiem pēc nopietnas lūgšanas",
+        "Saskārās ar faraonu un vadīja bēgšanu pāri jūrai"
+      ],
+      "answer": "Piešķirts vecāka gadagājuma vecākiem pēc nopietnas lūgšanas"
+    },
+    "location": {
+      "label": "Atslēgas vieta",
+      "options": [
+        "Svētnīca (mihrabs), kur tika pasludināta priecīgā vēsts",
+        "Elku pielūdzēju sagatavotā liesmojošā uguns",
+        "Lielās zivs vēders dziļjūrā",
+        "Ala, kur gadsimtiem ilgi atpūtās gulētāji",
+        "Skudru ieleja karaliskā gājienā"
+      ],
+      "answer": "Svētnīca (mihrabs), kur tika pasludināta priecīgā vēsts"
+    },
+    "outcome": {
+      "label": "Dievišķais gods",
+      "options": [
+        "No debesīm mesti cepta māla akmeņi",
+        "Zeme dzīvu norīja par augstprātību par dārgumiem",
+        "Iznīcināts pērkona dārdā, lai salauztu kamieļmātes cīpslas",
+        "Noslīka kopā ar augstprātīgu saimnieku pašķīrušajā jūrā",
+        "Miers ar mani dienā, kad piedzimu, dienā, kad mirstu, un dienā, kad tikšu augšāmcelts."
+      ],
+      "answer": "Miers ar mani dienā, kad piedzimu, dienā, kad mirstu, un dienā, kad tikšu augšāmcelts."
+    }
+  },
+  "verseRef": "3:40",
+  "arabic": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌۭ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌۭ ۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ",
+  "verse": "He said, \"My Lord, how will I have a boy when I have reached old age and my wife is barren?\" He [the angel] said, \"Such is Allāh; He does what He wills.\" (3:40)"
+}

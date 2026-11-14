@@ -1,0 +1,61 @@
+{
+  "title": "Edin a Wɔde Ma Ansa na Wɔrewo",
+  "intro": "Fa w’adwene bu kronkronbea bi a ɛhɔ yɛ dinn a nkotɔsrɛ a anibere wom ahyɛ mu ma wɔ mfe pii a yɛde atwɛn akyi no ho mfonini. Mmuae bi a ekura din a wɔmfa mmae da, a ɛhyɛ nyansa a efi mmofraase ne asetra a ahofama, ayamhyehye, ne ahotew ahyɛ no agyirae no fi nea wonhu mu ba.",
+  "clues": [
+    "Allah ankasa na ɔtoo me din ansa na wɔrewo me, a na wɔamfa din amma obiara da.",
+    "Awofo a wɔn mfe akɔ anim a wosusuwii sɛ mma rentumi nyɛ yiye no maa me kwan sɛ nkotɔsrɛ a anibere wom ho mmuae.",
+    "Wɔmaa me nyansa, atemmu, ne Kyerɛwnsɛm no bere a na meda so ara yɛ abofra.",
+    "Ná meyɛ m’awofo ho asɛyɛde na na mewɔ ayamhyehye ma afoforo, na na menyɛ ahantan anaa asoɔdenfo.",
+    "Allah hyɛɛ asomdwoeɛ baa me so da a wɔwoo me, da a mɛwu, ne da a wɔbɛnyan me nkwa mu.",
+    "M’agya Zakariyya nyaa me ho asɛmpa no fii abɔfo hɔ bere a na ogyina hɔ wɔ mpaebɔ mu wɔ kronkronbea (mihrab)."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Shu'ayb (Jethro) .",
+        "Odiyifo Idris (Henok) .",
+        "Ɔkɔmhyɛni Ishaq (Isak) .",
+        "Ɔkɔmhyɛni Yusuf (Yosef) .",
+        "Ɔkɔmhyɛni Yahya (Yohane) ."
+      ],
+      "answer": "Ɔkɔmhyɛni Yahya (Yohane) ."
+    },
+    "trial": {
+      "label": "Nhyira ne Sɔhwɛ",
+      "options": [
+        "Mpataa kɛse bi menee no esiane sɛ ɔde abufuw fii hɔ nti",
+        "Wɔtow gu ogya a ɛredɛw mu de bubu abosom",
+        "Wɔamma no dabere na wogyaw no sɛ ɔkraman a ɔyɛ ɔbea tete no",
+        "Wɔde ma awofo a wɔn mfe akɔ anim bere a wɔde anibere adesrɛ awie no",
+        "Ɔhyiaa Farao na odii atutra anim twaa po no"
+      ],
+      "answer": "Wɔde ma awofo a wɔn mfe akɔ anim bere a wɔde anibere adesrɛ awie no"
+    },
+    "location": {
+      "label": "Beae Titiriw",
+      "options": [
+        "Kronkronbea (mihrab) a wɔde anigyesɛm too gua",
+        "Ogya a ɛredɛw a abosonsomfo asiesie",
+        "Mpataa kɛse a ɛwɔ po a emu dɔ mu no yafunu",
+        "Ɔbodan a wɔn a wɔda gyee wɔn ahome mfehaha pii no",
+        "Nwansena bon a ɛwɔ adehye nantew bi mu"
+      ],
+      "answer": "Kronkronbea (mihrab) a wɔde anigyesɛm too gua"
+    },
+    "outcome": {
+      "label": "Ɔsoro Nidi",
+      "options": [
+        "Abo a wɔde dɔte a wɔato abɔ no fi soro",
+        "Asase amene no nkwa mu esiane ahantan wɔ ademude ho nti",
+        "Wɔsɛee no denam aprannaa a ɛpaee esiane sɛ ɔde bɔɔ yoma ba no akyi nti",
+        "Wɔne ɔhotefo ahantanfo bi memee wɔ po a apaapae no mu",
+        "Asomdwoe nka me da a wɔwoo me, da a mewu ne da a wobenyan me nkwa mu"
+      ],
+      "answer": "Asomdwoe nka me da a wɔwoo me, da a mewu ne da a wobenyan me nkwa mu"
+    }
+  },
+  "verseRef": "3:40",
+  "arabic": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌۭ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌۭ ۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ",
+  "verse": "He said, \"My Lord, how will I have a boy when I have reached old age and my wife is barren?\" He [the angel] said, \"Such is Allāh; He does what He wills.\" (3:40)"
+}
