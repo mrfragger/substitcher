@@ -11,9 +11,10 @@ class FontCategory {
   static const String uppercase = 'uppercase';
   static const String mustBeUppercase = 'mustbeuppercase';
   static const String seesawcase = 'seesawcase';
-  static const String foreign = 'foreign';
-  static const String alternates = 'alternates';
 
+  static const String foreign = 'foreign';
+  static const String arabic = 'arabic';
+  static const String alternates = 'alternates';
   static const String studio177 = '177studio';
   static const String gluk = 'Gluk';
   static const String various = 'various';

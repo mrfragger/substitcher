@@ -18,7 +18,6 @@ class FontDatabase {
     'Junegull': FontMetadata(fontName: 'Junegull', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Ketupat Ramadhan': FontMetadata(fontName: 'Ketupat Ramadhan', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Kinesthesia': FontMetadata(fontName: 'Kinesthesia', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
-    'Marhey': FontMetadata(fontName: 'Marhey', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Pricedown Black': FontMetadata(fontName: 'Pricedown Black', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Righteous': FontMetadata(fontName: 'Righteous', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Shojumaru': FontMetadata(fontName: 'Shojumaru', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
@@ -38,12 +37,16 @@ class FontDatabase {
      'MiSans Devanagari': FontMetadata(fontName: 'MiSans Devanagari', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'MiSans Khmer': FontMetadata(fontName: 'MiSans Khmer', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'MiSans Thai': FontMetadata(fontName: 'MiSans Thai', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
-     'Scheherazade New': FontMetadata(fontName: 'Scheherazade New', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
-     'Scheherazade New Bold': FontMetadata(fontName: 'Scheherazade New Bold', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'Shruti (Gujarati)': FontMetadata(fontName: 'Shruti (Gujarati)', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
 
+  // ==================== free/arabic ====================
+      'El Messiri': FontMetadata(fontName: 'El Messiri', mainCategory: FontCategory.free, subCategories: [FontCategory.arabic], studio: null),
+      'Marhey': FontMetadata(fontName: 'Marhey', mainCategory: FontCategory.free, subCategories: [FontCategory.arabic], studio: null),
+      'Markazi Text': FontMetadata(fontName: 'Markazi Text', mainCategory: FontCategory.free, subCategories: [FontCategory.arabic], studio: null),
+      'Scheherazade New Bold': FontMetadata(fontName: 'Scheherazade New Bold', mainCategory: FontCategory.free, subCategories: [FontCategory.arabic], studio: null),
+      'Scheherazade New': FontMetadata(fontName: 'Scheherazade New', mainCategory: FontCategory.free, subCategories: [FontCategory.arabic], studio: null),
 
-     // ==================== demo/sEeSaWcAsE ====================
+  // ==================== demo/sEeSaWcAsE ====================
        'Devo': FontMetadata(fontName: 'Devo', mainCategory: FontCategory.demo, subCategories: [FontCategory.seesawcase], studio: null),
        'Harquil': FontMetadata(fontName: 'Harquil', mainCategory: FontCategory.demo, subCategories: [FontCategory.seesawcase], studio: null),
        'Sidethree': FontMetadata(fontName: 'Sidethree', mainCategory: FontCategory.demo, subCategories: [FontCategory.seesawcase], studio: null),
@@ -61,6 +64,7 @@ class FontDatabase {
      'Carevo': FontMetadata(fontName: 'Carevo', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
      'Chocolate Chips': FontMetadata(fontName: 'Chocolate Chips', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
      'Efiafys': FontMetadata(fontName: 'Efiafys', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
+     'Emandline': FontMetadata(fontName: 'Emandline', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
      'Maple Peachy': FontMetadata(fontName: 'Maple Peachy', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
      'Fortunish': FontMetadata(fontName: 'Fortunish', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
      'Row Vatikano': FontMetadata(fontName: 'Row Vatikano', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),

@@ -2782,6 +2782,7 @@ class SidePanel extends StatelessWidget {
           _buildSubCategoryButton('Various', null,
               studio: FontCategory.various),
           _buildSubCategoryButton('foreign', FontCategory.foreign),
+          _buildSubCategoryButton('Arabic', FontCategory.arabic),
         ],
         const Divider(color: Colors.white24),
         _buildCategoryButton(

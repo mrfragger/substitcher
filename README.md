@@ -37,13 +37,13 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 
 ![](images/fonts.jpg)
 
-- download 40 demo fonts + 3 free foreign fonts or search for them to download on font websites
+- download 41 demo fonts + two free foreign fonts or search for them to download on font websites
 - custom fonts can all be in one directory within various subdirectories, it recursively loads the fonts
-- ![customfonts.zip 25 MB](https://github.com/mrfragger/substitcher/raw/main/images/customfonts.zip)
+- ![customfonts.zip 19 MB](https://github.com/mrfragger/substitcher/raw/main/images/customfonts.zip)
 - in font panel set custom folder to this one and all fonts will be loaded
 - [177Studio](https://177studio.com) with 17 fonts
 - [Grezline Studio](https://grezlinestudio.com) with 6 fonts
-- [Letterara Studio](https://letterarastudio.com) with 5 fonts
+- [Letterara Studio](https://letterarastudio.com) with 6 fonts
 
 ```bash
 │  customfonts
@@ -58,7 +58,6 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 │   └── Sorean.otf (Grezline)
 ├── free foreign
 │   ├── IBMPlexSans Japanese Furigana.ttf 15.5MB
-│   ├── KaloSans Chinese (Simplified).otf 8.9MB
 │   └── Mengshen-Handwritten Chinese.ttf 19.7MB
 ├── ligatures177 
 │   ├── Creating Families demo.otf
@@ -71,6 +70,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 │   ├── Carevo.ttf (Letterara)
 │   ├── Chocolate Chips.otf (inermedia)
 │   ├── Efiafys.ttf (Dhabee)
+│   ├── Emandline.ttf (Letterara) 
 │   ├── Fortunish.ttf (Letterara) 
 │   ├── Maple Peachy.otf (Keithzo)
 │   ├── Row Vatikano.ttf (authentype Lab)
