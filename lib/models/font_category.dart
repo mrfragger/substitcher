@@ -14,6 +14,7 @@ class FontCategory {
 
   static const String foreign = 'foreign';
   static const String arabic = 'arabic';
+  static const String baloo = 'baloo';
   static const String alternates = 'alternates';
   static const String studio177 = '177studio';
   static const String gluk = 'Gluk';

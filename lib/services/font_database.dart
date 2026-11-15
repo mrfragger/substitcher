@@ -34,7 +34,6 @@ class FontDatabase {
      'KaloSans Chinese (Simplified)': FontMetadata(fontName: 'KaloSans Chinese (Simplified)', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'Lato': FontMetadata(fontName: 'Lato', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'Mengshen-Handwritten Chinese': FontMetadata(fontName: 'Mengshen-Handwritten Chinese', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
-     'MiSans Devanagari': FontMetadata(fontName: 'MiSans Devanagari', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'MiSans Khmer': FontMetadata(fontName: 'MiSans Khmer', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'MiSans Thai': FontMetadata(fontName: 'MiSans Thai', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'Shruti (Gujarati)': FontMetadata(fontName: 'Shruti (Gujarati)', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
@@ -45,6 +44,18 @@ class FontDatabase {
       'Markazi Text': FontMetadata(fontName: 'Markazi Text', mainCategory: FontCategory.free, subCategories: [FontCategory.arabic], studio: null),
       'Scheherazade New Bold': FontMetadata(fontName: 'Scheherazade New Bold', mainCategory: FontCategory.free, subCategories: [FontCategory.arabic], studio: null),
       'Scheherazade New': FontMetadata(fontName: 'Scheherazade New', mainCategory: FontCategory.free, subCategories: [FontCategory.arabic], studio: null),
+
+ // ==================== free/foreign/Baloo2 ====================
+      'Baloo2 Devanagari': FontMetadata(fontName: 'Baloo2 Devanagari', mainCategory: FontCategory.free, subCategories: [FontCategory.baloo], studio: null),
+      'BalooBhai2 Gujarati': FontMetadata(fontName: 'BalooBhai2 Gujarati', mainCategory: FontCategory.free, subCategories: [FontCategory.baloo], studio: null),
+      'BalooBhaijaan Urdu': FontMetadata(fontName: 'BalooBhaijaan Urdu', mainCategory: FontCategory.free, subCategories: [FontCategory.baloo], studio: null),
+      'BalooBhaina2 Odia': FontMetadata(fontName: 'BalooBhaina2 Odia', mainCategory: FontCategory.free, subCategories: [FontCategory.baloo], studio: null),
+      'BalooChettan2 Malayalam': FontMetadata(fontName: 'BalooChettan2 Malayalam', mainCategory: FontCategory.free, subCategories: [FontCategory.baloo], studio: null),
+      'BalooDa2 Bangla, Assamese': FontMetadata(fontName: 'BalooDa2 Bangla, Assamese', mainCategory: FontCategory.free, subCategories: [FontCategory.baloo], studio: null),
+      'BalooPaaji2 Gurumukhi': FontMetadata(fontName: 'BalooPaaji2 Gurumukhi', mainCategory: FontCategory.free, subCategories: [FontCategory.baloo], studio: null),
+      'BalooTamma2 Kannada': FontMetadata(fontName: 'BalooTamma2 Kannada', mainCategory: FontCategory.free, subCategories: [FontCategory.baloo], studio: null),
+      'BalooTammudu2 Telugu': FontMetadata(fontName: 'BalooTammudu2 Telugu', mainCategory: FontCategory.free, subCategories: [FontCategory.baloo], studio: null),
+      'BalooThambi2 Tamil': FontMetadata(fontName: 'BalooThambi2 Tamil', mainCategory: FontCategory.free, subCategories: [FontCategory.baloo], studio: null),
 
   // ==================== demo/sEeSaWcAsE ====================
        'Devo': FontMetadata(fontName: 'Devo', mainCategory: FontCategory.demo, subCategories: [FontCategory.seesawcase], studio: null),
