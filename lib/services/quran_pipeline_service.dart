@@ -969,6 +969,19 @@ class QuranPipelineService {
       if (onlyHilali && packaged != null) {
         await _deleteFromPackage(
             packaged, [_capitalize(dirs.first), englishFolder]);
+
+        // Remove the moved English Hilali CSVs, then tempcsvs itself if empty.
+        final temp = Directory(p.join(root, 'tempcsvs'));
+        try {
+          final moved = Directory(p.join(temp.path, dirs.first));
+          if (await moved.exists()) await moved.delete(recursive: true);
+          if (await temp.exists() && temp.listSync().isEmpty) {
+            await temp.delete();
+            log('  Deleted tempcsvs');
+          }
+        } catch (e) {
+          log('  WARNING: could not delete tempcsvs: $e');
+        }
       }
     }
   }

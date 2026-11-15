@@ -1,4 +1,8 @@
+import 'dart:io';
 import 'dart:convert';
+import 'package:archive/archive.dart';
+import 'package:path_provider/path_provider.dart';
+import 'package:package_info_plus/package_info_plus.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:shared_preferences/shared_preferences.dart';
@@ -33,6 +37,7 @@ class _DeductionQuizPanelState extends State<DeductionQuizPanel> {
   bool _loadingDay = false;
 
   final ItemScrollController _entryScrollController = ItemScrollController();
+  final Map<String, Future<Directory>> _extractions = {};
 
   final Map<String, String> _selections = {};
   bool _showArabic = false;
@@ -70,26 +75,49 @@ class _DeductionQuizPanelState extends State<DeductionQuizPanel> {
     Color(0xFFCB93F5),
   ];
 
+  Future<Directory> _ensureLanguageExtracted(String lang) =>
+      _extractions.putIfAbsent(lang, () => _extract(lang));
+
+  Future<Directory> _extract(String lang) async {
+    final base = await getApplicationSupportDirectory();
+    final dir = Directory('${base.path}/deduction/$lang');
+    final marker = File('${dir.path}/.done');
+    final version = (await PackageInfo.fromPlatform()).version;
+    if (marker.existsSync() && marker.readAsStringSync() == version) return dir;
+
+    if (dir.existsSync()) dir.deleteSync(recursive: true);
+    dir.createSync(recursive: true);
+    final data = await rootBundle.load('assets/deduction_zips/$lang.zip');
+    final archive = ZipDecoder().decodeBytes(
+        data.buffer.asUint8List(data.offsetInBytes, data.lengthInBytes));
+    for (final f in archive) {
+      if (!f.isFile) continue;
+      final out = File('${dir.path}/${f.name}')..createSync(recursive: true);
+      out.writeAsBytesSync(f.content as List<int>);
+    }
+    marker.writeAsStringSync(version);
+    return dir;
+  }
+
   Color _categoryColor(int index) => _categoryColors[index % _categoryColors.length];
 
   Future<void> _loadLanguageIndex() async {
     final map = <String, Set<String>>{};
     try {
       final manifest = await AssetManifest.loadFromAssetBundle(rootBundle);
-      final perLanguage =
-          RegExp(r'^assets/deduction_([^/]+)/(\d{4}-\d{2}-\d{2})\.(.+)\.json$');
       final englishSource = RegExp(r'^assets/deduction_all/(\d{4}-\d{2}-\d{2})\.json$');
+      final zipRe = RegExp(r'^assets/deduction_zips/(.+)\.zip$');
+
+      final dates = <String>[];
+      final langs = <String>[];
       for (final path in manifest.listAssets()) {
-        final a = englishSource.firstMatch(path);
-        if (a != null) {
-          map.putIfAbsent(a.group(1)!, () => {}).add(_defaultLanguage);
-          continue;
-        }
-        final m = perLanguage.firstMatch(path);
-        // English always comes from deduction_all, never a per-language folder.
-        if (m != null && m.group(1) == m.group(3) && m.group(1) != _defaultLanguage) {
-          map.putIfAbsent(m.group(2)!, () => {}).add(m.group(1)!);
-        }
+        final d = englishSource.firstMatch(path);
+        if (d != null) { dates.add(d.group(1)!); continue; }
+        final z = zipRe.firstMatch(path);
+        if (z != null) langs.add(Uri.decodeComponent(z.group(1)!));
+      }
+      for (final d in dates) {
+        map[d] = {_defaultLanguage, ...langs};
       }
     } catch (_) {
       // No manifest / unreadable: fall back to English only.
@@ -113,24 +141,21 @@ class _DeductionQuizPanelState extends State<DeductionQuizPanel> {
 
   Future<DeductionData?> _loadLanguage(DateTime date, String lang) async {
     final d = _fmtDate(date);
-    final paths = lang == _defaultLanguage
-        ? ['assets/deduction_all/$d.json']
-        : ['assets/deduction_$lang/$d.$lang.json'];
-    for (final p in paths) {
-      try {
-        final decoded = jsonDecode(await rootBundle.loadString(p));
-        if (decoded is Map<String, dynamic>) {
-          // Extracted files hold just the deduction object; the model expects
-          // the full day structure, so re-wrap it.
-          final parsed = DeductionData.tryParse({'deduction': decoded});
-          if (parsed != null) return parsed;
-        }
-      } catch (_) {
-        // try next path
+    try {
+      final String text;
+      if (lang == _defaultLanguage) {
+        text = await rootBundle.loadString('assets/deduction_all/$d.json');
+      } else {
+        final dir = await _ensureLanguageExtracted(lang);
+        text = await File('${dir.path}/$d.$lang.json').readAsString();
       }
-    }
+      final decoded = jsonDecode(text);
+      if (decoded is Map<String, dynamic>) {
+        final parsed = DeductionData.tryParse({'deduction': decoded});
+        if (parsed != null) return parsed;
+      }
+    } catch (_) {}
     if (lang == _defaultLanguage) {
-      // Legacy: pull English straight from the daily quiz file.
       try {
         return DeductionData.tryParse(await DailyQuizIndex.loadDay(date));
       } catch (_) {}
@@ -171,13 +196,14 @@ class _DeductionQuizPanelState extends State<DeductionQuizPanel> {
     }
     var titles = _titleCache[lang];
     if (titles == null) {
+      final dir = await _ensureLanguageExtracted(lang);
       final loaded = <String, String>{};
       await Future.wait(_entries.map((e) async {
         final d = _fmtDate(e.date);
         if (!(_languagesByDate[d]?.contains(lang) ?? false)) return;
         try {
           final decoded =
-              jsonDecode(await rootBundle.loadString('assets/deduction_$lang/$d.$lang.json'));
+              jsonDecode(await File('${dir.path}/$d.$lang.json').readAsString());
           final t = decoded is Map ? decoded['title'] : null;
           if (t is String && t.trim().isNotEmpty) loaded[d] = t;
         } catch (_) {}

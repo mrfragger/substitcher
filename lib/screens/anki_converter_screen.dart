@@ -6,6 +6,7 @@ import 'package:path/path.dart' as path;
 import 'package:csv/csv.dart';
 import 'package:flutter/services.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'package:media_kit/media_kit.dart';
 import 'dart:io';
 import 'dart:convert';
 import 'dart:async';
@@ -116,6 +117,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen>
   bool _quranLogPaused = false;
   List<String> _quranLogFrozen = [];
   Timer? _logTimer;
+  Player? _beepPlayer;
 
   @override
   void initState() {
@@ -138,6 +140,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen>
     _tokenizers.dispose();
     _logTimer?.cancel();
     _quranElapsedTimer?.cancel();
+    _beepPlayer?.dispose();
     super.dispose();
   }
 
@@ -388,22 +391,16 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen>
   }
 
   Future<void> _beep([int times = 1]) async {
+    _beepPlayer ??= Player();
+    final player = _beepPlayer!;
     for (var i = 0; i < times; i++) {
       try {
-        if (Platform.isMacOS) {
-          await Process.run('afplay', ['/System/Library/Sounds/Glass.aiff']);
-        } else if (Platform.isWindows) {
-          await Process.run('powershell', ['-c', '[console]::beep(800,300)']);
-        } else if (Platform.isLinux) {
-          await Process.run('sh', [
-            '-c',
-            'paplay /usr/share/sounds/freedesktop/stereo/complete.oga '
-                '|| canberra-gtk-play -i complete '
-                '|| printf "\\a"'
-          ]);
-        } else {
-          SystemSound.play(SystemSoundType.alert);
-        }
+        // Subscribe before opening so the completion event can't be missed.
+        final done = player.stream.completed.firstWhere((c) => c);
+        await player.open(
+          Media('asset:///assets/adhanclock/z_Bismillahirrahmanirrahim_0m05s.opus'),
+        );
+        await done.timeout(const Duration(seconds: 8));
       } catch (_) {
         SystemSound.play(SystemSoundType.alert);
       }
@@ -623,7 +620,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen>
             'All remaining Quran Verse by Verse audiobooks are complete\n$_chainSummary',
             duration: const Duration(seconds: 30),
           );
-          unawaited(_beep(5));
+          unawaited(_beep(2));
         }
       }
     }
