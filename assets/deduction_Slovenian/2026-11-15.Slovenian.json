@@ -1,0 +1,61 @@
+{
+  "title": "Reka, ki je razkrila srca",
+  "intro": "Predstavljajte si vojsko na pohodu, žejno in preizkušeno, kjer en sam ukaz na rečnem bregu loči odločnost od želje. Izbrani vodja vodi vrste proti mogočnemu sovražniku, pri čemer zaupa samo v Alaha.",
+  "clues": [
+    "Allah me je postavil za voditelja Izraelovih otrok, potem ko so prosili za nekoga, ki bi se boril na Njegovi poti.",
+    "Kot znak moje izbire sem prejel obilje znanja in statusa, čeprav je moje ljudstvo dvomilo o moji avtoriteti.",
+    "Odpravil sem se z vojsko in jim rekel, da jih bo Alah preizkusil z reko.",
+    "Opozoril sem, da kdor koli bo iz njega pil zastonj, ne bo od mene, razen tistega, ki bo zajel pest.",
+    "Prečkal sem z redkimi, ki so ostali neomajni, soočeni z veliko številčnejšo vojsko.",
+    "Preden je bil poražen Jalut, sem vodil tiste, ki so govorili, kako pogosto majhna skupina premaga veliko z Alahovim dovoljenjem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "As-Samiri",
+        "Abu Lahab",
+        "Karun",
+        "Talut",
+        "Džalut"
+      ],
+      "answer": "Talut"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Gradnja barke pred potopom",
+        "Biti vržen v hladen ogenj",
+        "Spanje v jami več let",
+        "Preizkušanje vojske z reko pred bitko",
+        "Biti pogoltnjen s strani velike ribe"
+      ],
+      "answer": "Preizkušanje vojske z reko pred bitko"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Reka preizkusa",
+        "Dolina mravelj",
+        "Ogenj Namruda",
+        "Jama spečih",
+        "Pot slonje vojske"
+      ],
+      "answer": "Reka preizkusa"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Požiranje zemlje z zakladi",
+        "Preobrazba v opice zaradi prestopka",
+        "Uničenje zaradi močne eksplozije",
+        "Zmaga z Alahovim dovoljenjem in Jaluta je ubil Dawud",
+        "Utapljanje v morju z gostitelji"
+      ],
+      "answer": "Zmaga z Alahovim dovoljenjem in Jaluta je ubil Dawud"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

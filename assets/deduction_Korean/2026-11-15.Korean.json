@@ -1,0 +1,61 @@
+{
+  "title": "마음을 드러낸 강",
+  "intro": "목마르고 시련에 지친 군대가 강둑에서 내리는 단 하나의 명령으로 결의와 욕망이 갈리는 상황을 상상해 보십시오. 선택받은 지도자는 오직 알라에 대한 믿음만을 품고 강력한 적을 향해 군대를 이끌어 갑니다.",
+  "clues": [
+    "나는 이스라엘 자손들이 그분의 길을 위해 싸울 지도자를 요청했을 때, 알라께서 그들을 다스릴 지도자로 임명하신 사람입니다.",
+    "나는 선택받았다는 증표로 풍부한 지식과 높은 지위를 부여받았지만, 내 백성들은 내 권위에 의문을 제기했다.",
+    "나는 군대와 함께 출발하여 알라께서 그들을 강으로 시험하실 것이라고 말했다.",
+    "나는 그 물을 함부로 마시는 자는 한 움큼 퍼 마시는 자 외에는 나와 함께하지 않을 것이라고 경고했다.",
+    "나는 훨씬 더 많은 수의 적군에 맞서 굳건히 버틴 소수의 사람들과 함께 강을 건넜다.",
+    "잘루트가 패배하기 전에, 나는 알라의 허락으로 작은 회사가 큰 회사를 이기는 경우가 얼마나 많은지 이야기하는 사람들을 이끌었습니다."
+  ],
+  "categories": {
+    "identity": {
+      "label": "나는 누구일까요?",
+      "options": [
+        "아스-사미리",
+        "아부 라합",
+        "카룬",
+        "탈루트",
+        "잘루트"
+      ],
+      "answer": "탈루트"
+    },
+    "trial": {
+      "label": "시험/이벤트",
+      "options": [
+        "홍수 전에 방주를 짓다",
+        "차가운 불 속에 던져지는 것",
+        "수년간 동굴에서 잠을 잤다",
+        "전투 전에 강을 이용해 군대를 시험하다",
+        "거대한 물고기에게 삼켜지다"
+      ],
+      "answer": "전투에 앞서 강을 이용해 군대를 시험하다"
+    },
+    "location": {
+      "label": "핵심 요소",
+      "options": [
+        "시험의 강",
+        "개미의 계곡",
+        "남루드의 불",
+        "잠자는 자들의 동굴",
+        "코끼리 군대의 경로"
+      ],
+      "answer": "시험의 강"
+    },
+    "outcome": {
+      "label": "결과",
+      "options": [
+        "보물을 품은 땅을 삼키다",
+        "죄악을 저지르면 원숭이로 변신한다",
+        "강력한 폭발로 인한 파괴",
+        "알라의 허락으로 승리했고, 잘루트는 다우드에게 살해당했다.",
+        "바다에 빠져 익사하는 호스트들"
+      ],
+      "answer": "알라의 허락으로 승리했고, 잘루트는 다우드에게 살해당했다."
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

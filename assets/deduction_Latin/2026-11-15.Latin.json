@@ -1,0 +1,61 @@
+{
+  "title": "Flumen Quod Corda Revelavit",
+  "intro": "Finge exercitum in itinere, sitientem et temptatum, ubi unum imperium ad ripam fluminis animum a desiderio separabit. Dux electus ordines adversus hostem potentem dirigit, fiduciam in Deo solo gerens.",
+  "clues": [
+    "Ab Allah constitutus sum dux super filios Israel postquam unum petierunt qui in via Eius pugnaret.",
+    "Abundantia mihi scientiae et staturae data est in signum electionis meae, quamquam populus meus auctoritatem meam in dubium vocavit.",
+    "Cum copiis profectus sum et eis dixi Deum eos flumine tentaturum esse.",
+    "Monui ne quisquis inde libere biberit meus esset, nisi qui pugillum hausisset.",
+    "Cum paucis qui constantes manebant transivi, exercitum multo numero maiorem obvius.",
+    "Duxi eos qui dicebant quam saepe parva turba magnam superat, Allah permittente, antequam Jalut victus est."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "As-Samiri",
+        "Abu Lahab",
+        "Qarun",
+        "Talut",
+        "Jalut"
+      ],
+      "answer": "Talut"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Arcae aedificatio ante diluvium",
+        "In ignem frigidum conici",
+        "In spelunca multis annis dormiens",
+        "Exercitum flumine ante proelium temptans",
+        "Ab magno pisce deglutitus"
+      ],
+      "answer": "Exercitum flumine ante proelium temptans"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Flumen probationis",
+        "Vallis formicarum",
+        "Ignis Namrud",
+        "Spelunca dormientium",
+        "Iter exercitus elephantorum"
+      ],
+      "answer": "Flumen probationis"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Deglutiens a terra thesauris",
+        "Transformatio in simias propter transgressionem",
+        "Destructio magno impetu",
+        "Victoria permissu Dei et Jalut a Dawud occisus est.",
+        "In mari cum hospitibus submergens"
+      ],
+      "answer": "Victoria permissu Dei et Jalut a Dawud occisus est."
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

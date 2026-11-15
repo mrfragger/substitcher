@@ -1,0 +1,777 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "صِفَاتُ اللَّهِ",
+        "nameEn": "Attributes of Allah mentioned in the Qur'an",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "مَوْلَى",
+            "en": "(is the) Protector",
+            "ref": "47:11",
+            "verse": "ذَٰلِكَ بِأَنَّ ٱللَّهَ مَوْلَى ٱلَّذِينَ ءَامَنُوا۟ وَأَنَّ ٱلْكَـٰفِرِينَ لَا مَوْلَىٰ لَهُمْ",
+            "verseEn": "That is because Allāh is the protector of those who have believed and because the disbelievers have no protector."
+          },
+          {
+            "ar": "حَلِيمٌ",
+            "en": "(was) certainly forbearing",
+            "ref": "11:75",
+            "verse": "إِنَّ إِبْرَٰهِيمَ لَحَلِيمٌ أَوَّٰهٌۭ مُّنِيبٌۭ",
+            "verseEn": "Indeed, Abraham was forbearing, grieving and [frequently] returning [to Allāh]."
+          },
+          {
+            "ar": "شَهِيدٌ",
+            "en": "a Witness",
+            "ref": "34:47",
+            "verse": "قُلْ مَا سَأَلْتُكُم مِّنْ أَجْرٍۢ فَهُوَ لَكُمْ ۖ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ شَهِيدٌۭ",
+            "verseEn": "Say, \"Whatever payment I might have asked of you - it is yours. My payment is only from Allāh, and He is, over all things, Witness.\""
+          },
+          {
+            "ar": "سَمِيعًا",
+            "en": "All-Hearing",
+            "ref": "4:148",
+            "verse": "۞ لَّا يُحِبُّ ٱللَّهُ ٱلْجَهْرَ بِٱلسُّوٓءِ مِنَ ٱلْقَوْلِ إِلَّا مَن ظُلِمَ ۚ وَكَانَ ٱللَّهُ سَمِيعًا عَلِيمًا",
+            "verseEn": "Allāh does not like the public mention of evil except by one who has been wronged. And ever is Allāh Hearing and Knowing."
+          }
+        ]
+      },
+      {
+        "name": "أَفْعَالُ الْقَوْلِ وَالنِّدَاءِ",
+        "nameEn": "Verbs of speech and calling in the Qur'an",
+        "color": "green",
+        "items": [
+          {
+            "ar": "يَدْعُونَ",
+            "en": "they invoke",
+            "ref": "16:20",
+            "verse": "وَٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ لَا يَخْلُقُونَ شَيْـًۭٔا وَهُمْ يُخْلَقُونَ",
+            "verseEn": "And those they invoke other than Allāh create nothing, and they [themselves] are created."
+          },
+          {
+            "ar": "قَالُوا",
+            "en": "They said",
+            "ref": "5:22",
+            "verse": "قَالُوا۟ يَـٰمُوسَىٰٓ إِنَّ فِيهَا قَوْمًۭا جَبَّارِينَ وَإِنَّا لَن نَّدْخُلَهَا حَتَّىٰ يَخْرُجُوا۟ مِنْهَا فَإِن يَخْرُجُوا۟ مِنْهَا فَإِنَّا دَٰخِلُونَ",
+            "verseEn": "They said, \"O Moses, indeed within it is a people of tyrannical strength, and indeed, we will never enter it until they leave it; but if they leave it, then we will enter.\""
+          },
+          {
+            "ar": "تَسْأَلُهُمْ",
+            "en": "(do) you ask from them",
+            "ref": "52:40",
+            "verse": "أَمْ تَسْـَٔلُهُمْ أَجْرًۭا فَهُم مِّن مَّغْرَمٍۢ مُّثْقَلُونَ",
+            "verseEn": "Or do you, [O Muḥammad], ask of them a payment, so they are by debt burdened down?"
+          },
+          {
+            "ar": "يَحْلِفُونَ",
+            "en": "They swear",
+            "ref": "9:74",
+            "verse": "يَحْلِفُونَ بِٱللَّهِ مَا قَالُوا۟ وَلَقَدْ قَالُوا۟ كَلِمَةَ ٱلْكُفْرِ وَكَفَرُوا۟ بَعْدَ إِسْلَـٰمِهِمْ وَهَمُّوا۟ بِمَا لَمْ يَنَالُوا۟ ۚ وَمَا نَقَمُوٓا۟ إِلَّآ أَنْ أَغْنَىٰهُمُ ٱللَّهُ وَرَسُولُهُۥ مِن فَضْلِهِۦ ۚ فَإِن يَتُوبُوا۟ يَكُ خَيْرًۭا لَّهُمْ ۖ وَإِن يَتَوَلَّوْا۟ يُعَذِّبْهُمُ ٱللَّهُ عَذَابًا أَلِيمًۭا فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ ۚ وَمَا لَهُمْ فِى ٱلْأَرْضِ مِن وَلِىٍّۢ وَلَا نَصِيرٍۢ",
+            "verseEn": "They swear by Allāh that they did not say [anything against the Prophet (ﷺ)] while they had said the word of disbelief and disbelieved after their [pretense of] Islām and planned that which they were not to attain. And they were not resentful except [for the fact] that Allāh and His Messenger had enriched them of His bounty. So if they repent, it is better for them; but if they turn away, Allāh will punish them with a painful punishment in this world and the Hereafter. And there will not be for them on earth any protector or helper."
+          }
+        ]
+      },
+      {
+        "name": "الدُّنْيَا وَأَهْلُهَا",
+        "nameEn": "The fleeting world and those who dwell in it",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "بَنِينَ",
+            "en": "and children",
+            "ref": "68:14",
+            "verse": "أَن كَانَ ذَا مَالٍۢ وَبَنِينَ",
+            "verseEn": "Because he is a possessor of wealth and children,"
+          },
+          {
+            "ar": "الدُّنْيَا",
+            "en": "(of) the world",
+            "ref": "23:37",
+            "verse": "إِنْ هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا نَحْنُ بِمَبْعُوثِينَ",
+            "verseEn": "It [i.e., life] is not but our worldly life - we die and live, but we will not be resurrected."
+          },
+          {
+            "ar": "الْأَرْضَ",
+            "en": "the earth",
+            "ref": "77:25",
+            "verse": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ كِفَاتًا",
+            "verseEn": "Have We not made the earth a container"
+          },
+          {
+            "ar": "النَّاسَ",
+            "en": "the people",
+            "ref": "44:11",
+            "verse": "يَغْشَى ٱلنَّاسَ ۖ هَـٰذَا عَذَابٌ أَلِيمٌۭ",
+            "verseEn": "Covering the people; this is a painful torment."
+          }
+        ]
+      },
+      {
+        "name": "أَسْمَاءُ وَعَنَاصِرُ جَهَنَّمَ فِي الْقُرْآنِ",
+        "nameEn": "Names and elements of Hellfire in the Qur'an",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "النَّارِ",
+            "en": "the Fire",
+            "ref": "41:19",
+            "verse": "وَيَوْمَ يُحْشَرُ أَعْدَآءُ ٱللَّهِ إِلَى ٱلنَّارِ فَهُمْ يُوزَعُونَ",
+            "verseEn": "And [mention, O Muḥammad], the Day when the enemies of Allāh will be gathered to the Fire while they are [driven], assembled in rows,"
+          },
+          {
+            "ar": "جَهَنَّمَ",
+            "en": "(of) Hell",
+            "ref": "9:81",
+            "verse": "فَرِحَ ٱلْمُخَلَّفُونَ بِمَقْعَدِهِمْ خِلَـٰفَ رَسُولِ ٱللَّهِ وَكَرِهُوٓا۟ أَن يُجَـٰهِدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ وَقَالُوا۟ لَا تَنفِرُوا۟ فِى ٱلْحَرِّ ۗ قُلْ نَارُ جَهَنَّمَ أَشَدُّ حَرًّۭا ۚ لَّوْ كَانُوا۟ يَفْقَهُونَ",
+            "verseEn": "Those who remained behind rejoiced in their staying [at home] after [the departure of] the Messenger of Allāh and disliked to strive with their wealth and their lives in the cause of Allāh and said, \"Do not go forth in the heat.\" Say, \"The fire of Hell is more intense in heat\" - if they would but understand."
+          },
+          {
+            "ar": "اللَّهَبِ",
+            "en": "the flame",
+            "ref": "77:31",
+            "verse": "لَّا ظَلِيلٍۢ وَلَا يُغْنِى مِنَ ٱللَّهَبِ",
+            "verseEn": "[But having] no cool shade and availing not against the flame.\""
+          },
+          {
+            "ar": "الْحَمِيمِ",
+            "en": "the boiling water",
+            "ref": "40:72",
+            "verse": "فِى ٱلْحَمِيمِ ثُمَّ فِى ٱلنَّارِ يُسْجَرُونَ",
+            "verseEn": "In boiling water; then in the Fire they will be filled [with flame]."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "شديد",
+    "display": "شَدِيدٍ",
+    "hint": "How the Quran describes a harsh punishment awaiting disbelievers",
+    "verseRef": "14:2",
+    "arabicVerse": "ٱللَّهِ ٱلَّذِى لَهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَوَيْلٌۭ لِّلْكَـٰفِرِينَ مِنْ عَذَابٍۢ شَدِيدٍ",
+    "verse": "14:2 - Allāh, to whom belongs whatever is in the heavens and whatever is on the earth. And woe [i.e., destruction] to the disbelievers from a severe punishment -"
+  },
+  "scramble": {
+    "verseRef": "17:27",
+    "reference": "Surah Al-Isra (17:27)",
+    "segments": [
+      "إِنَّ الْمُبَذِّرِينَ",
+      "كَانُوا إِخْوَانَ",
+      "الشَّيَاطِينِ",
+      "وَكَانَ الشَّيْطَانُ",
+      "لِرَبِّهِ كَفُورًا"
+    ],
+    "translations": [
+      "Indeed the spendthrifts",
+      "are brothers",
+      "(of) the devils And is",
+      "the Shaitaan to his Lord",
+      "ungrateful"
+    ],
+    "hint": "A warning about wastefulness and ingratitude",
+    "arabic": "إِنَّ ٱلْمُبَذِّرِينَ كَانُوٓا۟ إِخْوَٰنَ ٱلشَّيَـٰطِينِ ۖ وَكَانَ ٱلشَّيْطَـٰنُ لِرَبِّهِۦ كَفُورًۭا",
+    "words": [
+      "إِنَّ ٱلْمُبَذِّرِينَ",
+      "كَانُوٓا۟ إِخْوَٰنَ",
+      "ٱلشَّيَـٰطِينِ ۖ وَكَانَ",
+      "ٱلشَّيْطَـٰنُ لِرَبِّهِۦ",
+      "كَفُورًۭا"
+    ],
+    "verseEn": "Indeed, the wasteful are brothers of the devils, and ever has Satan been to his Lord ungrateful."
+  },
+  "roothive": {
+    "center": "ب",
+    "outer": [
+      "م",
+      "ت",
+      "ك",
+      "ه",
+      "ا",
+      "ر"
+    ],
+    "root": {
+      "letters": "برك",
+      "display": "ب ر ك",
+      "translit": "b-r-k",
+      "meaning": "The core idea is lasting goodness and increase that brings benefit. Its forms describe God as the source of that goodness and others as receiving it.",
+      "occurrences": 32,
+      "lemmaCount": 5
+    },
+    "words": [
+      {
+        "w": "باب",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "باب",
+            "gloss": "gates",
+            "type": "noun",
+            "root": "بوب",
+            "count": 27,
+            "ref": "6:44",
+            "pos": 8,
+            "alt": [
+              "gate",
+              "doors"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "برا",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "بَرَّأَ",
+            "gloss": "absolve",
+            "type": "verb",
+            "root": "برأ",
+            "count": 2,
+            "ref": "12:53",
+            "pos": 2,
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "بكت",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "بَكَتْ",
+            "gloss": "wept",
+            "type": "verb",
+            "root": "بكي",
+            "count": 5,
+            "ref": "44:29",
+            "pos": 2,
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "بكر",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "بِكْر",
+            "gloss": "young",
+            "type": "adjective",
+            "root": "بكر",
+            "count": 3,
+            "ref": "2:68",
+            "pos": 17,
+            "alt": [
+              "virgins"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "بهت",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "بُهِتَ",
+            "gloss": "became dumbfounded",
+            "type": "verb",
+            "root": "بهت",
+            "count": 2,
+            "ref": "2:258",
+            "pos": 36,
+            "alt": [
+              "bewilder"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "ربا",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "رِبا",
+            "gloss": "usury",
+            "type": "noun",
+            "root": "ربو",
+            "count": 7,
+            "ref": "2:275",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "ربت",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "رَبَتْ",
+            "gloss": "increase",
+            "type": "verb",
+            "root": "ربو",
+            "count": 4,
+            "ref": "30:39",
+            "pos": 10,
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "ركب",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "رَكِبَ",
+            "gloss": "embark",
+            "type": "verb",
+            "root": "ركب",
+            "count": 9,
+            "ref": "11:42",
+            "pos": 14,
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "كبت",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "كُبِتَ",
+            "gloss": "were disgraced",
+            "type": "verb",
+            "root": "كبت",
+            "count": 3,
+            "ref": "58:5",
+            "pos": 8,
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "كبر",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "كَبُرَ",
+            "gloss": "difficult",
+            "type": "verb",
+            "root": "كبر",
+            "count": 8,
+            "ref": "6:35",
+            "pos": 3,
+            "alt": [
+              "hard",
+              "great"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "كِبَر",
+            "gloss": "old age",
+            "type": "noun",
+            "root": "كبر",
+            "count": 6,
+            "ref": "2:266",
+            "pos": 20
+          },
+          {
+            "lemma": "كَبِّرْ",
+            "gloss": "magnify",
+            "type": "verb",
+            "root": "كبر",
+            "count": 4,
+            "ref": "2:185",
+            "pos": 38,
+            "alt": [
+              "may magnify"
+            ],
+            "form": 2
+          },
+          {
+            "lemma": "كِبْر",
+            "gloss": "greatness",
+            "type": "noun",
+            "root": "كبر",
+            "count": 2,
+            "ref": "40:56",
+            "pos": 14
+          }
+        ]
+      },
+      {
+        "w": "كتب",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "كَتَبَ",
+            "gloss": "prescribed",
+            "type": "verb",
+            "root": "كتب",
+            "count": 49,
+            "ref": "2:79",
+            "pos": 19,
+            "alt": [
+              "is prescribed",
+              "was prescribed"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "كرب",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "كَرْب",
+            "gloss": "distress",
+            "type": "noun",
+            "root": "كرب",
+            "count": 4,
+            "ref": "6:64",
+            "pos": 7
+          }
+        ]
+      },
+      {
+        "w": "ماب",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَآب",
+            "gloss": "place of return",
+            "type": "noun",
+            "root": "أوب",
+            "count": 9,
+            "ref": "13:29",
+            "pos": 8,
+            "alt": [
+              "return"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ابكم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَبْكَم",
+            "gloss": "dumb",
+            "type": "noun",
+            "root": "بكم",
+            "count": 6,
+            "ref": "2:18",
+            "pos": 2
+          }
+        ]
+      },
+      {
+        "w": "اكبر",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَكْبَر",
+            "gloss": "greater",
+            "type": "noun",
+            "root": "كبر",
+            "count": 24,
+            "ref": "2:217",
+            "pos": 22,
+            "alt": [
+              "greatest"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "بارك",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "بارَكَ",
+            "gloss": "blessed is",
+            "type": "verb",
+            "root": "برك",
+            "count": 8,
+            "ref": "27:8",
+            "pos": 5,
+            "form": 3
+          }
+        ]
+      },
+      {
+        "w": "بركه",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "بَرَكَة",
+            "gloss": "blessings",
+            "type": "noun",
+            "root": "برك",
+            "count": 3,
+            "ref": "7:96",
+            "pos": 9
+          }
+        ]
+      },
+      {
+        "w": "بكره",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "بُكْرَة",
+            "gloss": "early",
+            "type": "noun",
+            "root": "بكر",
+            "count": 7,
+            "ref": "19:11",
+            "pos": 10,
+            "alt": [
+              "morning"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "تبرا",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "تَبَرَّأَ",
+            "gloss": "disown",
+            "type": "verb",
+            "root": "برأ",
+            "count": 5,
+            "ref": "2:166",
+            "pos": 2,
+            "alt": [
+              "disassociated"
+            ],
+            "form": 5
+          }
+        ]
+      },
+      {
+        "w": "تراب",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "تُراب",
+            "gloss": "dust",
+            "type": "noun",
+            "root": "ترب",
+            "count": 17,
+            "ref": "2:264",
+            "pos": 23
+          }
+        ]
+      },
+      {
+        "w": "كاتب",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "كاتِب",
+            "gloss": "scribe",
+            "type": "active participle",
+            "root": "كتب",
+            "count": 6,
+            "ref": "2:282",
+            "pos": 13,
+            "alt": [
+              "recorders",
+              "recording"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "كتاب",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "كِتاب",
+            "gloss": "book",
+            "type": "noun",
+            "root": "كتب",
+            "count": 260,
+            "ref": "2:89",
+            "pos": 3,
+            "alt": [
+              "record",
+              "decree"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "متاب",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَتاب",
+            "gloss": "repentance",
+            "type": "noun",
+            "root": "توب",
+            "count": 2,
+            "ref": "25:71",
+            "pos": 9
+          }
+        ]
+      },
+      {
+        "w": "ابكار",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "إِبْكار",
+            "gloss": "morning",
+            "type": "noun",
+            "root": "بكر",
+            "count": 2,
+            "ref": "3:41",
+            "pos": 20
+          }
+        ]
+      },
+      {
+        "w": "اتراب",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "أَتْراب",
+            "gloss": "well-matched",
+            "type": "noun",
+            "root": "ترب",
+            "count": 3,
+            "ref": "38:52",
+            "pos": 4,
+            "alt": [
+              "equals in age"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ارتاب",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "ارْتابَ",
+            "gloss": "may doubt",
+            "type": "verb",
+            "root": "ريب",
+            "count": 9,
+            "ref": "74:31",
+            "pos": 23,
+            "form": 8
+          }
+        ]
+      },
+      {
+        "w": "تبارك",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "تَبارَكَ",
+            "gloss": "blessed is he",
+            "type": "verb",
+            "root": "برك",
+            "count": 9,
+            "ref": "7:54",
+            "pos": 29,
+            "alt": [
+              "blessed is",
+              "blessed"
+            ],
+            "form": 6
+          }
+        ]
+      },
+      {
+        "w": "مبارك",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "مُبارَك",
+            "gloss": "blessed",
+            "type": "passive participle",
+            "root": "برك",
+            "count": 8,
+            "ref": "3:96",
+            "pos": 8
+          }
+        ]
+      },
+      {
+        "w": "متكبر",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مُتَكَبِّر",
+            "gloss": "arrogant one",
+            "type": "active participle",
+            "root": "كبر",
+            "count": 7,
+            "ref": "40:27",
+            "pos": 9,
+            "alt": [
+              "arrogant"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مباركه",
+        "family": true,
+        "points": 6,
+        "senses": [
+          {
+            "lemma": "مُبارَكَة",
+            "gloss": "blessed",
+            "type": "noun",
+            "root": "برك",
+            "count": 4,
+            "ref": "24:35",
+            "pos": 20
+          }
+        ]
+      }
+    ],
+    "otherFamily": [],
+    "maxScore": 65,
+    "featuredRoot": "برك"
+  }
+}

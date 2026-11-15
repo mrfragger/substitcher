@@ -1,0 +1,61 @@
+{
+  "title": "Qalblarni ochgan daryo",
+  "intro": "Daryo bo'yidagi bitta buyruq qat'iyatni istakdan ajratib turadigan, chanqagan va sinovdan o'tgan armiyani tasavvur qiling. Tanlangan rahbar saflarni faqat Allohga ishonib, qudratli dushmanga yo'naltiradi.",
+  "clues": [
+    "Meni Alloh Isroil avlodi Uning yo'lida jang qilish uchun biror kishini so'raganlaridan keyin ularga rahbar etib tayinladi.",
+    "Qavmim mening obro'yimga shubha qilgan bo'lsa-da, tanlanganligimning belgisi sifatida menga bilim va martaba ko'pligi berildi.",
+    "Men qo'shinlar bilan yo'lga chiqdim va ularga Alloh ularni daryo bilan sinaydi, dedim.",
+    "Men undan tekinga ichgan har bir kishi mendan emasligini, faqat bir hovuch ichgan odamgina mendan bo'lishini ogohlantirdim.",
+    "Men son jihatdan ancha katta qo'shin bilan to'qnashib, sobit qolgan oz sonli odamlar bilan birga o'tdim.",
+    "Men Jalut mag'lub bo'lishidan oldin, kichik bir guruh Allohning izni bilan katta bir guruhni qanchalik tez-tez yengib o'tishi haqida gapirganlarga boshchilik qildim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "As-Samiriy",
+        "Abu Lahab",
+        "Qorun",
+        "Talut",
+        "Jalut"
+      ],
+      "answer": "Talut"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "To'fondan oldin kema qurish",
+        "Sovuq olovga tashlanmoqda",
+        "Ko'p yillar davomida g'orda uxlash",
+        "Jangdan oldin qo'shinni daryo bilan sinash",
+        "Katta baliq tomonidan yutib yuborilmoqda"
+      ],
+      "answer": "Jangdan oldin qo'shinni daryo bilan sinash"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Sinov daryosi",
+        "Chumolilar vodiysi",
+        "Namrud olovi",
+        "Uxlab yotganlar g'ori",
+        "Fil qo'shinining yo'li"
+      ],
+      "answer": "Sinov daryosi"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Yerni xazinalar bilan yutib yuborish",
+        "Transgressiya uchun maymunlarga aylanish",
+        "Kuchli portlash bilan vayron qilish",
+        "Allohning izni bilan g'alaba qozonildi va Jalut Dovud tomonidan o'ldirildi.",
+        "Dengizda mezbonlar bilan cho'kish"
+      ],
+      "answer": "Allohning izni bilan g'alaba qozonildi va Jalut Dovud tomonidan o'ldirildi."
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

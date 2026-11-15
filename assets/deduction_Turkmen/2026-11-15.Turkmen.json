@@ -1,0 +1,61 @@
+{
+  "title": "Ýürekleri açýan derýa",
+  "intro": "Derýanyň kenaryndaky ýekeje buýruk islegi islegden aýyrjak, suwsuz we synagdan geçen ýörişde bir goşuny göz öňüne getiriň. Saýlanan ýolbaşçy hatarlary güýçli duşmana tarap gönükdirýär we diňe Alla bil baglaýar.",
+  "clues": [
+    "Meni Ysraýyl ogullary Onuň ýolunda söweşmek üçin birini soranlaryndan soň, Allatagala olara ýolbaşçy edip belledi.",
+    "Meniň halkym meniň ygtyýaryma şübhelense-de, saýlanmagymyň alamaty hökmünde maňa bilim we dereje boýunça köp zat berildi.",
+    "Men goşun bilen ýola düşdüm we olara Allanyň olary derýa bilen synagdan geçirjekdigini aýtdym.",
+    "Men ondan erkin içen adamyň, diňe bir owuç içen adamyň menden däldigini duýdurdym.",
+    "Men has köp sanly goşunyň garşysyna durup, berk duran az sanly esger bilen bile geçdim.",
+    "Jalut ýeňilmezinden öň, kiçi toparyň Allanyň rugsady bilen näçe gezek uly toparyň üstünden ýeňiş gazanýandygyny aýdanlara men hem ýolbaşçylyk etdim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "As-Samiri",
+        "Abu Lahab",
+        "Karun",
+        "Talut",
+        "Jalut"
+      ],
+      "answer": "Talut"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Tufandan öň gämi gurmak",
+        "Sowuk oda taşlanmak",
+        "Köp ýyllap gowakda ýatyp",
+        "Söweşden öň goşuny derýa bilen synagdan geçirmek",
+        "Uly balyk tarapyndan ýuwutulýar"
+      ],
+      "answer": "Söweşden öň goşuny derýa bilen synagdan geçirmek"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Synagyň derýasy",
+        "Garynjalaryň jülgesi",
+        "Namrudyň ody",
+        "Uklap ýatanlaryň gowagy",
+        "Pil goşunynyň ýoly"
+      ],
+      "answer": "Synagyň derýasy"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Ýer ýüzüni hazynalar bilen ýuwutmak",
+        "Transgressiýa üçin maýmynlara öwrülmek",
+        "Güýçli partlama bilen weýrançylyk",
+        "Allanyň rugsady bilen ýeňiş gazanyldy we Jalut Dawut tarapyndan öldürildi.",
+        "Deňizde öý eýeleri bilen gark bolmak"
+      ],
+      "answer": "Allanyň rugsady bilen ýeňiş gazanyldy we Jalut Dawut tarapyndan öldürildi."
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

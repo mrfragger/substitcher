@@ -1,0 +1,61 @@
+{
+  "title": "Te Awa e Whakakitea ai ngā Ngākau",
+  "intro": "Whakaarohia tētahi ope taua e haere ana, e matewai ana, e whakamatautauria ana, mā te whakahau kotahi i te tahataha o te awa ka wehea te whakatau me te hiahia. Mā te rangatira kua whiriwhiria e ārahi ngā rārangi ki tētahi hoariri kaha, me te whakawhirinaki ki a Allah anake.",
+  "clues": [
+    "I whakatūria ahau e Allah hei kaiārahi mō ngā tamariki a Iharaira i muri i tā rātou tono kia whawhai tetahi i Tōna ara.",
+    "I homai ki ahau te nui o te mātauranga me te tū hei tohu i tōku whiriwhiringa, ahakoa i pātai tōku iwi mō tōku mana.",
+    "I haere atu ahau me ngā ope taua, ka kōrero atu ki a rātou mā Allah rātou e whakamātautau ki te awa.",
+    "I whakatūpato ahau, ko te tangata e inu nui ana i tēnei mea, e kore ia e riro hei tangata nōku, engari ko te tangata e kokopi ana i tētahi ringa.",
+    "I whiti atu ahau i roto i te hunga torutoru i noho pūmau, e anga atu ana ki tētahi ope taua nui rawa atu.",
+    "Ko au te kaiārahi o te hunga i kī mai, te maha o ngā wā ka hinga i tētahi rōpū iti tētahi rōpū nui nā te whakaaetanga a Allah, i mua i te hinganga o Jalut."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Ās-Samiri",
+        "Āpu Rāhapi",
+        "Karauna",
+        "Taluta",
+        "Jalut"
+      ],
+      "answer": "Taluta"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te hanga i tētahi āka i mua i te waipuke",
+        "Te maka ki roto i te ahi matao",
+        "He maha ngā tau e moe ana i roto i te ana",
+        "Te whakamātautau i te ope taua ki te awa i mua i te pakanga",
+        "Te horomia e te ika nui"
+      ],
+      "answer": "Te whakamātautau i te ope taua ki te awa i mua i te pakanga"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te awa o te whakamātautau",
+        "Te awaawa o ngā pōpokorua",
+        "Te ahi o Namrud",
+        "Te ana o te hunga moe",
+        "Te ara o te ope arewhana"
+      ],
+      "answer": "Te awa o te whakamātautau"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Horomia ana e te whenua ngā taonga",
+        "Te hurihanga hei makimaki mō te takahi ture",
+        "Te whakangaromanga e te pahūtanga nui",
+        "I te whakaaetanga a Allah, i patua a Jalut e Rawiri",
+        "Te toremitanga i te moana me ngā kaihautū"
+      ],
+      "answer": "I te whakaaetanga a Allah, i patua a Jalut e Rawiri"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

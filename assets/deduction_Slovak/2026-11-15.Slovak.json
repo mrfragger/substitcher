@@ -1,0 +1,61 @@
+{
+  "title": "Rieka, ktorá odhalila srdcia",
+  "intro": "Predstavte si armádu na pochode, smädnú a skúšanú, kde jediný povel na brehu rieky oddelí odhodlanie od túžby. Vyvolený vodca vedie rady proti mocnému nepriateľovi, nesúc dôveru iba v Alaha.",
+  "clues": [
+    "Bol som ustanovený Alahom za vodcu detí Izraela potom, čo požiadali o niekoho, kto by bojoval na Jeho ceste.",
+    "Ako znak môjho vyvolenia mi bolo dané množstvo vedomostí a postavenia, hoci môj ľud spochybňoval moju autoritu.",
+    "Vydal som sa s vojskom a povedal som im, že Alah ich vyskúša riekou.",
+    "Varoval som, že ktokoľvek z neho voľne pije, nebude zo mňa, okrem toho, kto si naberie za hrsť.",
+    "Prešiel som s tými niekoľkými, ktorí zostali neochvejní, čelili oveľa väčšej armáde.",
+    "Viedol som tých, ktorí hovorili, ako často malá skupina prekoná veľkú s Alahovým dovolením, predtým ako bol porazený Jalut."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "As-Samiri",
+        "Abú Laháb",
+        "Qarun",
+        "Talut",
+        "Džalut"
+      ],
+      "answer": "Talut"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Stavba korábu pred potopou",
+        "Byť hodený do chladného ohňa",
+        "Spanie v jaskyni po mnoho rokov",
+        "Testovanie armády riekou pred bitkou",
+        "Byť prehltnutý veľkou rybou"
+      ],
+      "answer": "Testovanie armády riekou pred bitkou"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Rieka testu",
+        "Údolie mravcov",
+        "Oheň Namrudu",
+        "Jaskyňa spáčov",
+        "Cesta slonej armády"
+      ],
+      "answer": "Rieka testu"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Pohlcuje zem pokladmi",
+        "Premena na opice za priestupok",
+        "Zničenie silným výbuchom",
+        "Víťazstvo s Alahovým dovolením a Jalut bol zabitý Dawudom",
+        "Topenie sa v mori s hostiteľmi"
+      ],
+      "answer": "Víťazstvo s Alahovým dovolením a Jalut bol zabitý Dawudom"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

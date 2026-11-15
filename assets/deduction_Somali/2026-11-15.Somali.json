@@ -1,0 +1,61 @@
+{
+  "title": "Webiga Muujiyay Quluubta",
+  "intro": "Bal qiyaas ciidan socda, oo harraadsan oo la tijaabiyay, halkaas oo hal amar oo ku yaal daanta webiga uu kala sooci doono go'aan qaadashada iyo rabitaanka. Hoggaamiye la doortay ayaa safka u hagaya cadow xooggan, isagoo sita kalsooni uu ku qabo Alle oo keliya.",
+  "clues": [
+    "Waxaa Alle ii magacaabay hoggaamiye reer binu Israa'iil ah ka dib markii ay weydiisteen mid uu ku dagaallamo jidka Eebe.",
+    "Waxaa la i siiyay aqoon iyo dherer badan oo calaamad u ah doorashadayda, inkastoo dadkaygu ay su'aal ka keeneen awooddayda.",
+    "Waxaan la baxay ciidamada oo waxaan u sheegay in Alle uu ku imtixaani doono webi.",
+    "Waxaan ka digay in qofkii si xor ah u cabba uusan aniga iga mid noqon doonin, marka laga reebo mid gacan ku shubtay.",
+    "Waxaan la gudbay dad yar oo adkaystay, anigoo wajahaya ciidan aad uga tiro badan.",
+    "Waxaan hoggaaminayay kuwii yiri inta jeer ee shirkad yar ay ka adkaato mid weyn idanka Alle, ka hor inta aan Jalut laga adkaan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "As-Samiri",
+        "Abuu Lahab",
+        "Qaaruun",
+        "Talut",
+        "Jalut"
+      ],
+      "answer": "Talut"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Samaynta doonni ka hor daadka",
+        "In lagu tuuro dab qabow",
+        "Sannado badan ayaan god ku seexanayay",
+        "Tijaabinta ciidanka wabi ka hor dagaalka",
+        "Kalluun weyn oo liqaya"
+      ],
+      "answer": "Tijaabinta ciidanka wabi ka hor dagaalka"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Webiga imtixaanka",
+        "Dooxada quraanjada",
+        "Dabkii Namrud",
+        "Godka kuwa seexda",
+        "Waddada ciidanka maroodiga"
+      ],
+      "answer": "Webiga imtixaanka"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Dhulka oo lagu liqo khasnado",
+        "Isbeddel daanyeernimo oo loogu beddelo xadgudub",
+        "Burbur qarax xooggan",
+        "Guul baa ku timid idanka Alle iyo Jaluut Daa'uud.",
+        "Ku qaraqmidda badda iyadoo ay la socdaan martigeliyayaal"
+      ],
+      "answer": "Guul baa ku timid idanka Alle iyo Jaluut Daa'uud."
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

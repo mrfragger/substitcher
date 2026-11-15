@@ -1,0 +1,61 @@
+{
+  "title": "Rijeka koja je otkrila srca",
+  "intro": "Zamislite vojsku na maršu, žednu i iskušanu, gdje jedna komanda na obali rijeke odvaja odlučnost od želje. Izabrani vođa vodi redove prema moćnom neprijatelju, noseći uzdanje samo u Allaha.",
+  "clues": [
+    "Allah me je postavio za vođu djece Izraela nakon što su zatražili nekoga ko će se boriti na Njegovom putu.",
+    "Kao znak mog izbora, dobio sam obilje znanja i statusa, iako je moj narod dovodio u pitanje moj autoritet.",
+    "Krenuo sam sa vojskom i rekao im da će ih Allah iskušati rijekom.",
+    "Upozorio sam da ko god slobodno pije iz njega neće biti od mene, osim onoga ko zagrabi šaku.",
+    "Prešao sam s nekolicinom koji su ostali nepokolebljivi, suočeni s mnogo brojnijom vojskom.",
+    "Predvodio sam one koji su govorili koliko često mala četa savlada veliku, Allahovom dozvolom, prije nego što je Džalut poražen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "As-Samiri",
+        "Ebu Lehab",
+        "Karun",
+        "Talut",
+        "Džalut"
+      ],
+      "answer": "Talut"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Izgradnja arke prije potopa",
+        "Biti bačen u hladnu vatru",
+        "Spavanje u pećini dugi niz godina",
+        "Isprobavanje vojske rijekom prije bitke",
+        "Biti progutan od strane velike ribe"
+      ],
+      "answer": "Isprobavanje vojske rijekom prije bitke"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Rijeka testa",
+        "Dolina mrava",
+        "Vatra Namruda",
+        "Pećina spavača",
+        "Put vojske slonova"
+      ],
+      "answer": "Rijeka testa"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Gutajući zemlju s blagom",
+        "Transformacija u majmune zbog prekršaja",
+        "Uništenje uzrokovano snažnom eksplozijom",
+        "Pobjeda Allahovom dozvolom i Jalut je ubijen od strane Davuda",
+        "Utapanje u moru s domaćinima"
+      ],
+      "answer": "Pobjeda Allahovom dozvolom i Jalut je ubijen od strane Davuda"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

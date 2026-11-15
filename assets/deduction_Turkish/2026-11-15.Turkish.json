@@ -1,0 +1,61 @@
+{
+  "title": "Kalpleri Ortaya Çıkaran Nehir",
+  "intro": "Susamış ve sınanmış, nehir kıyısında verilecek tek bir emrin azmi arzudan ayıracağı, yürüyüş halindeki bir orduyu hayal edin. Seçilmiş bir lider, yalnızca Allah'a olan güveniyle, safları güçlü bir düşmana doğru yönlendiriyor.",
+  "clues": [
+    "İsrailoğulları O'nun yolunda savaşacak birini istediklerinde, Allah beni onların önderi olarak atadı.",
+    "Seçilmiş olmamın bir işareti olarak bana bolca bilgi ve mevki verildi, ancak halkım yetkimi sorguladı.",
+    "Orduyla birlikte yola çıktım ve onlara Allah'ın onları bir nehirle sınayacağını söyledim.",
+    "\"Kim ondan dilediğince içerse, benden sayılmaz; bir avuç dolusu alan hariç.\" diye uyarmıştım.",
+    "Sayıca çok daha büyük bir orduyla karşı karşıya kalan ve dimdik duran az sayıdaki kişiyle birlikte karşıya geçtim.",
+    "Calut yenilgiye uğramadan önce, Allah'ın izniyle küçük bir şirketin büyük bir şirketi ne sıklıkla alt ettiğini söyleyenlere ben önderlik etmiştim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "As-Samiri",
+        "Ebu Lahab",
+        "Karun",
+        "Talut",
+        "Jalut"
+      ],
+      "answer": "Talut"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Tufandan önce bir gemi inşa etmek",
+        "Soğuk bir ateşe atılmak",
+        "Uzun yıllar bir mağarada uyumak",
+        "Orduyu savaştan önce bir nehirle sınamak",
+        "Büyük bir balık tarafından yutulmak"
+      ],
+      "answer": "Orduyu savaştan önce bir nehirle sınamak"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Testin nehri",
+        "Karıncalar Vadisi",
+        "Namrud'un ateşi",
+        "Uyuyanların Mağarası",
+        "Fil ordusunun yolu"
+      ],
+      "answer": "Testin nehri"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Toprak tarafından hazinelerle yutulmak",
+        "İhlal nedeniyle maymuna dönüşüm",
+        "Muazzam bir patlamayla yıkım",
+        "Allah'ın izniyle zafer kazanıldı ve Calut, Davud tarafından öldürüldü.",
+        "Ev sahipleriyle birlikte denizde boğulmak"
+      ],
+      "answer": "Allah'ın izniyle zafer kazanıldı ve Calut, Davud tarafından öldürüldü."
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

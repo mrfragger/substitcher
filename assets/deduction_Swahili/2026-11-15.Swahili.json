@@ -1,0 +1,61 @@
+{
+  "title": "Mto Uliofunua Mioyo",
+  "intro": "Hebu wazia jeshi likiwa safarini, lenye kiu na majaribu, ambapo amri moja kwenye ukingo wa mto itatenganisha azimio na tamaa. Kiongozi aliyechaguliwa huongoza safu kuelekea adui mwenye nguvu, akiwa na imani kwa Mwenyezi Mungu pekee.",
+  "clues": [
+    "Niliteuliwa na Mwenyezi Mungu kuwa kiongozi wa Wana wa Israeli baada ya wao kuomba mtu wa kupigana katika njia Yake.",
+    "Nilipewa wingi wa maarifa na kimo kama ishara ya uteuzi wangu, ingawa watu wangu walitilia shaka mamlaka yangu.",
+    "Niliondoka na majeshi na kuwaambia Mwenyezi Mungu angewajaribu kwa mto.",
+    "Nilionya kwamba yeyote atakayekunywa bure kutoka humo hatakuwa wa kwangu, isipokuwa yule atakayechukua konzi moja.",
+    "Nilivuka na wachache waliobaki imara, wakikabiliana na jeshi kubwa zaidi kwa idadi.",
+    "Niliongoza wale waliosema ni mara ngapi kundi dogo hushinda kundi kubwa kwa idhini ya Mwenyezi Mungu, kabla Jalut hajashindwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "As-Samiri",
+        "Abu Lahab",
+        "Qarun",
+        "Talut",
+        "Jalut"
+      ],
+      "answer": "Talut"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kujenga safina kabla ya gharika",
+        "Kutupwa kwenye moto baridi",
+        "Kulala pangoni kwa miaka mingi",
+        "Kujaribu jeshi kwa kutumia mto kabla ya vita",
+        "Kumezwa na samaki mkubwa"
+      ],
+      "answer": "Kujaribu jeshi kwa kutumia mto kabla ya vita"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Mto wa jaribio",
+        "Bonde la mchwa",
+        "Moto wa Namrud",
+        "Pango la wanaolala",
+        "Njia ya jeshi la tembo"
+      ],
+      "answer": "Mto wa jaribio"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Kumeza hazina karibu na dunia",
+        "Kubadilika kuwa nyani kwa ajili ya uasi",
+        "Uharibifu kwa mlipuko mkubwa",
+        "Ushindi kwa idhini ya Mwenyezi Mungu na Jalut aliuawa na Dawud",
+        "Kuzama baharini na wenyeji"
+      ],
+      "answer": "Ushindi kwa idhini ya Mwenyezi Mungu na Jalut aliuawa na Dawud"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}
