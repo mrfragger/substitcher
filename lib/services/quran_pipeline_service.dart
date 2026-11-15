@@ -959,8 +959,17 @@ class QuranPipelineService {
       await copyAndSplitSourceVtts(root);
       await deploySplitSourceVtts(root);
       onProgress?.call('Packaging output...', 0.99);
-      await packageOutput(root);
+      final packaged = await packageOutput(root);
       await moveLanguageDirsToTemp(root, dirs);
+
+      // Only English Hilali was processed: drop its helper folders from the
+      // packaged output, keeping just the opus/vtt files and zsourcevtt.
+      final onlyHilali =
+          dirs.length == 1 && dirs.first.toLowerCase().contains('hilali');
+      if (onlyHilali && packaged != null) {
+        await _deleteFromPackage(
+            packaged, [_capitalize(dirs.first), englishFolder]);
+      }
     }
   }
 
@@ -1114,6 +1123,20 @@ class QuranPipelineService {
         break;
     }
     await e.rename(dest);
+  }
+
+  Future<void> _deleteFromPackage(String packageDir, List<String> names) async {
+    for (final name in names) {
+      final d = Directory(p.join(packageDir, name));
+      try {
+        if (await d.exists()) {
+          await d.delete(recursive: true);
+          log('  Deleted "$name" from ${p.basename(packageDir)}');
+        }
+      } catch (e) {
+        log('  WARNING: could not delete $name: $e');
+      }
+    }
   }
 
   /// Moves everything produced by the batch into one folder named like the

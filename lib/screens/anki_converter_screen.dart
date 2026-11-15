@@ -608,10 +608,14 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen>
           _chainSecondsLeft = 0;
           _chainNextRange = null;
           if (allDone) {
+            final finished = DateTime.now();
+            final finishedAt = '${finished.hour.toString().padLeft(2, '0')}:'
+                '${finished.minute.toString().padLeft(2, '0')}';
             _chainSummary = 'Elapsed Total Times: '
                 'Encoding ${_formatDuration(_chainEncoding)}, '
                 'Cool-down ${_formatDuration(_chainCooldown)}, '
-                'Overall ${_formatDuration(chainWatch.elapsed)}';
+                'Overall ${_formatDuration(chainWatch.elapsed)}, '
+                'Finished at $finishedAt';
           }
         });
         if (allDone) {
@@ -619,7 +623,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen>
             'All remaining Quran Verse by Verse audiobooks are complete\n$_chainSummary',
             duration: const Duration(seconds: 30),
           );
-          unawaited(_beep(6));
+          unawaited(_beep(5));
         }
       }
     }
