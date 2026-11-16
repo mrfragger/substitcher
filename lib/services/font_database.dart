@@ -52,7 +52,7 @@ class FontDatabase {
       'BalooBhaina2 Odia': FontMetadata(fontName: 'BalooBhaina2 Odia', mainCategory: FontCategory.free, subCategories: [FontCategory.baloo], studio: null),
       'BalooChettan2 Malayalam': FontMetadata(fontName: 'BalooChettan2 Malayalam', mainCategory: FontCategory.free, subCategories: [FontCategory.baloo], studio: null),
       'BalooDa2 Bangla, Assamese': FontMetadata(fontName: 'BalooDa2 Bangla, Assamese', mainCategory: FontCategory.free, subCategories: [FontCategory.baloo], studio: null),
-      'BalooPaaji2 Gurumukhi': FontMetadata(fontName: 'BalooPaaji2 Gurumukhi', mainCategory: FontCategory.free, subCategories: [FontCategory.baloo], studio: null),
+      'BalooPaaji2 Gurmukhi': FontMetadata(fontName: 'BalooPaaji2 Gurmukhi', mainCategory: FontCategory.free, subCategories: [FontCategory.baloo], studio: null),
       'BalooTamma2 Kannada': FontMetadata(fontName: 'BalooTamma2 Kannada', mainCategory: FontCategory.free, subCategories: [FontCategory.baloo], studio: null),
       'BalooTammudu2 Telugu': FontMetadata(fontName: 'BalooTammudu2 Telugu', mainCategory: FontCategory.free, subCategories: [FontCategory.baloo], studio: null),
       'BalooThambi2 Tamil': FontMetadata(fontName: 'BalooThambi2 Tamil', mainCategory: FontCategory.free, subCategories: [FontCategory.baloo], studio: null),

@@ -1565,7 +1565,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen>
                 child: const Text('Unzip 85 Quran Translations'),
               ),
               Tooltip(
-                message: 'One English translation so Split vtt cues works, may delete afterwards',
+                message: 'One English translation so Split vtt cues works, auto-deleted afterwards',
                 waitDuration: const Duration(milliseconds: 400),
                 preferBelow: false,
                 child: ElevatedButton(
