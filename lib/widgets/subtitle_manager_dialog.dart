@@ -45,6 +45,7 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
   final FocusNode _searchFocusNode = FocusNode();
   String _searchQuery = '';
   final ItemScrollController _subtitleScrollController = ItemScrollController();
+  static final _vbvRangeRe = RegExp(r'^Quran .+ - (\d{3}-\d{3}) ');
 
   @override
   void initState() {
@@ -488,31 +489,52 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
     return (outputPath, cuesBefore, keyedCount);
   }
 
+  Future<List<String>> _allVerseByVerseVersions(String subtitlePath) async {
+    final audiobook = widget.currentAudiobookPath;
+    final currentKey = audiobook == null
+        ? null
+        : _vbvRangeRe.firstMatch(path.basename(audiobook))?.group(1);
+
+    if (currentKey == null) return [subtitlePath];
+
+    final result = <String>[];
+    for (final key in quranFileRanges.keys) {
+      final candidate = subtitlePath.replaceAll(currentKey, key);
+      if (await File(candidate).exists()) result.add(candidate);
+    }
+    if (!result.contains(subtitlePath)) result.add(subtitlePath);
+    return result;
+  }
+
   Future<void> _unsplitVerses(BuildContext context) async {
     try {
       String? newPrimary;
       String? newSecondary;
       var cuesBefore = 0;
       var verses = 0;
+      var filesDone = 0;
+
+      Future<String?> processAll(String current) async {
+        String? currentOutput;
+        for (final p in await _allVerseByVerseVersions(current)) {
+          final r = await _unsplitFile(p);
+          if (r == null) continue;
+          cuesBefore += r.$2;
+          verses += r.$3;
+          filesDone++;
+          if (p == current) currentOutput = r.$1;
+        }
+        return currentOutput;
+      }
 
       if (_primarySubtitle != null) {
-        final r = await _unsplitFile(_primarySubtitle!);
-        if (r != null) {
-          newPrimary = r.$1;
-          cuesBefore += r.$2;
-          verses += r.$3;
-        }
+        newPrimary = await processAll(_primarySubtitle!);
       }
       if (_secondarySubtitle != null) {
-        final r = await _unsplitFile(_secondarySubtitle!);
-        if (r != null) {
-          newSecondary = r.$1;
-          cuesBefore += r.$2;
-          verses += r.$3;
-        }
+        newSecondary = await processAll(_secondarySubtitle!);
       }
 
-      if (newPrimary == null && newSecondary == null) {
+      if (filesDone == 0) {
         if (context.mounted) {
           ScaffoldMessenger.of(context).showSnackBar(
             const SnackBar(
@@ -538,7 +560,8 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
       if (context.mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
-            content: Text('Unsplit $cuesBefore cues → $verses verses'),
+            content: Text(
+                'Unsplit $cuesBefore cues → $verses verses ($filesDone files across all Quran books)'),
             backgroundColor: Colors.green,
             duration: const Duration(seconds: 3),
           ),
@@ -958,7 +981,7 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
                   const SizedBox(width: 8),
                   Tooltip(
                     message:
-                        'Merges the cues of each Quran verse ("1,5 ...") into one cue and saves *_unsplit.vtt next to the original. Applies to primary and secondary.',
+                        'Merges the cues of each Quran verse ("1,5 ...") into one cue and saves *_unsplit.vtt next to the original 7 audiobooks. Applies to primary and secondary.',
                     child: ElevatedButton.icon(
                       onPressed: (_primarySubtitle != null ||
                                   _secondarySubtitle != null) &&
