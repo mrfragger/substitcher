@@ -1,0 +1,61 @@
+{
+  "title": "Uzoq kaft ostidagi yolg'izlik",
+  "intro": "Tanish olomondan uzoqda, sadoqat g'ayrioddiy qaror bilan uchrashadigan tinch chekinishni tasavvur qiling. Yolg'iz xizmatkor ko'rinmas ta'minot bilan ta'minlangan poklik va ishonch bilan chekinadi. Bu qalb atrofida oddiy tushuntirishga qarshi bo'lgan alomatlar to'planadi, shu bilan birga shubha pichirlashlari yolg'izlik joyidan narida kutadi. Yaqinroq boring va tinglang, chunki bu yerdagi haqiqat har bir taxminga qarshi chiqadi.",
+  "clues": [
+    "Men o'zimni Parvardigorimning rizqi bilan yolg'izlikda ibodat qilishga bag'ishladim.",
+    "Alloh meni olamdagi barcha ayollar orasidan tanlagani haqida xushxabar oldim.",
+    "Men o'z xalqimdan yashiringan, sharqiy chekka joyga chekindim, o'shanda menga mukammal inson qiyofasida bir ruh zohir bo'ldi.",
+    "Menga hech bir inson tegmagan bo'lsa ham, Allohning kalomi bilan homilador bo'ldim.",
+    "Men palma daraxti ostida yolg'iz tug'ruqqa chidadim va bir ovozni eshitdim, u menga tasalli berardi, u yerdan irmoq oqardi va yeb-ichish uchun yangi xurmolar oqardi.",
+    "Men yangi tug'ilgan chaqalog'imni ko'tarib qavmim oldiga qaytib keldim, sukut saqlashga qasamyod qildim va go'dak beshikdan turib meni Allohning bandasi sifatida himoya qilish uchun gapirdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Bilqis, Saba hukmdori",
+        "Imronning xotini",
+        "Lutning xotini",
+        "Maryam",
+        "Osiyo, Fir'avnning xotini"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Ikkiga bo'lingan dengiz orqali chiqishga boshchilik qildi",
+        "To'fondan omon qolish uchun kema qurdi",
+        "Yonayotgan olovga tashlandi va qutqarildi",
+        "Mo''jizaviy homiladorlik va kaft ostida yolg'iz tug'ilish",
+        "Chuqur dengizda ulkan baliq tomonidan yutib yuborilgan"
+      ],
+      "answer": "Mo''jizaviy homiladorlik va kaft ostida yolg'iz tug'ilish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Pastda oqimli palma tanasi",
+        "Kema Judi tog'ida to'xtab turibdi",
+        "Makkadagi Ka'ba",
+        "Namrud tayyorlagan olov",
+        "Tuvaning muqaddas vodiysi"
+      ],
+      "answer": "Pastda oqimli palma tanasi"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Yer xazinalar bilan yutib yuborilgan",
+        "Urg'ochi tuyaning son suyagini kesish uchun momaqaldiroqli portlash bilan vayron qilingan",
+        "Dengizda qo'shin bilan birga cho'kib ketdi",
+        "Shabbat kunini buzgani uchun maymunga aylandi",
+        "Yangi tug'ilgan chaqaloq beshikda gapirganda oqlandi"
+      ],
+      "answer": "Yangi tug'ilgan chaqaloq beshikda gapirganda oqlandi"
+    }
+  },
+  "verseRef": "19:22",
+  "arabic": "۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًۭا قَصِيًّۭا",
+  "verse": "So she conceived him, and she withdrew with him to a remote place. (19:22)"
+}

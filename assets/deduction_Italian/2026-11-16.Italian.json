@@ -1,0 +1,61 @@
+{
+  "title": "Solitudine sotto la palma lontana",
+  "intro": "Immaginate un rifugio tranquillo, lontano dalla folla, dove la devozione incontra un decreto straordinario. Un servo solitario si ritira in purezza e fiducia, sostenuto da una provvidenza invisibile. Attorno a quest'anima si raccolgono segni che sfidano ogni spiegazione ordinaria, mentre sussurri di dubbio aleggiano oltre il luogo di isolamento. Avvicinatevi e ascoltate, perché la verità qui metterà in discussione ogni supposizione.",
+  "clues": [
+    "Mi dedicai al culto in solitudine, sostenuto dalla provvidenza del mio Signore.",
+    "Ho ricevuto la lieta novella che Allah mi ha scelta tra tutte le donne del mondo.",
+    "Mi ritirai in un luogo remoto a est, nascosto alla mia gente, quando uno spirito mi apparve sotto forma di un uomo perfetto.",
+    "Ho concepito un figlio per volere di Allah, sebbene nessun uomo mi avesse mai toccata.",
+    "Ho sopportato il travaglio in solitudine sotto una palma, sentendo una voce confortarmi, con un ruscello che scorreva sotto di me e datteri freschi da mangiare e da bere.",
+    "Tornai dalla mia gente portando con me il mio neonato, feci voto di silenzio e il mio bambino parlò dalla culla per difendermi come servo di Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Bilqis, sovrano di Saba",
+        "La moglie di Imran",
+        "La moglie di Lutero",
+        "Mariam",
+        "Asiya, moglie del faraone"
+      ],
+      "answer": "Mariam"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Condusse un esodo attraverso il mare diviso",
+        "Costruirono un'arca per sopravvivere al diluvio",
+        "Gettato in un fuoco ardente e salvato",
+        "Concezione miracolosa e nascita solitaria sotto una palma",
+        "Inghiottito da un grosso pesce nelle profondità marine"
+      ],
+      "answer": "Concezione miracolosa e nascita solitaria sotto una palma"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Il tronco della palma con un ruscello sottostante",
+        "L'arca che riposa sul monte Judi",
+        "La Kaaba alla Mecca",
+        "Il fuoco preparato da Namrud",
+        "La valle sacra di Tuwa"
+      ],
+      "answer": "Il tronco della palma con un ruscello sottostante"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Inghiottita dalla terra con tesori",
+        "Distrutto da un'esplosione fragorosa per aver mutilato la cammella",
+        "Annegato con l'esercito in mare",
+        "Trasformati in scimmie per aver violato il sabato",
+        "La nostra fiducia è stata ripagata quando il neonato ha parlato nella culla."
+      ],
+      "answer": "La nostra fiducia è stata ripagata quando il neonato ha parlato nella culla."
+    }
+  },
+  "verseRef": "19:22",
+  "arabic": "۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًۭا قَصِيًّۭا",
+  "verse": "So she conceived him, and she withdrew with him to a remote place. (19:22)"
+}

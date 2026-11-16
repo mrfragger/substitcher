@@ -1,0 +1,61 @@
+{
+  "title": "Vienatvė po tolima palme",
+  "intro": "Įsivaizduokite ramų prieglobstį toli nuo pažįstamų minių, kur atsidavimas susitinka su nepaprastu sprendimu. Vienišas tarnas pasitraukia tyrame ir pasitikėjime, palaikomas nematomos globos. Aplink šią sielą telkiasi ženklai, kurių neįmanoma paaiškinti įprastais paaiškinimais, o anapus vienatvės slypi abejonės šnabždesiai. Priartėkite ir įsiklausykite, nes tiesa čia mes iššūkį kiekvienai prielaidai.",
+  "clues": [
+    "Aš atsidėjau garbinimui vienumoje, palaikomas savo Viešpaties aprūpinimo.",
+    "Gavau džiugią žinią, kad Alachas mane išsirinko labiau nei visas pasaulio moteris.",
+    "Pasitraukiau į atokią rytinę vietą, paslėptą nuo savo žmonių, kai man pasirodė dvasia tobulo žmogaus pavidalu.",
+    "Alacho žodžiu aš pradėjau vaiką, nors joks vyras manęs niekada nebuvo lietęs.",
+    "Aš viena ištvėriau kančią po palme ir girdėjau balsą, kuris mane guodė čiurlenant upeliui po apačia ir valgant bei geriant šviežias datules.",
+    "Grįžau pas savo žmones nešina savo naujagimį, daviau tylėjimo įžadą, o mano kūdikis nuo lopšio kalbėjo, gindamas mane kaip Alacho tarną."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Bilqis, Sabos valdovas",
+        "Imrano žmona.",
+        "Luto žmona.",
+        "Maryam",
+        "Asija, faraono žmona"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Vedė išėjimą per prasiskyrusią jūrą",
+        "Pastatė arką, kad išgyventų tvaną",
+        "Įmestas į liepsnojančią ugnį ir išgelbėtas",
+        "Stebuklingas prasidėjimas ir vienišas gimimas po palme",
+        "Prarijo didelė žuvis gilioje jūroje"
+      ],
+      "answer": "Stebuklingas prasidėjimas ir vienišas gimimas po palme"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Palmės kamienas su upeliu apačioje",
+        "Arka ilsisi ant Judi kalno",
+        "Kaaba Mekoje",
+        "Namrudo paruošta ugnis",
+        "Šventasis Tuwa slėnis"
+      ],
+      "answer": "Palmės kamienas su upeliu apačioje"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Praryta žemės lobių",
+        "Sugriautas griaustinio sprogimo dėl kupranugario pakinklių pažeidimo",
+        "Nuskendo kartu su armija jūroje",
+        "Pavirto beždžionėmis už sabato laužymą",
+        "Išteisintas, kai naujagimis prabilo lopšyje"
+      ],
+      "answer": "Išteisintas, kai naujagimis prabilo lopšyje"
+    }
+  },
+  "verseRef": "19:22",
+  "arabic": "۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًۭا قَصِيًّۭا",
+  "verse": "So she conceived him, and she withdrew with him to a remote place. (19:22)"
+}

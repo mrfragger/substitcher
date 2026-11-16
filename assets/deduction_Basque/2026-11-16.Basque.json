@@ -1,0 +1,61 @@
+{
+  "title": "Bakardadea Urrutiko Palmondoaren Azpian",
+  "intro": "Imajinatu jendetza ezagunetatik urrun dagoen atsedenaldi lasai bat, non debozioak dekretu aparteko bat betetzen duen. Zerbitzari bakarti bat garbitasunean eta konfiantzan erretiratzen da, hornidura ikusezin batek eutsita. Arima honen inguruan biltzen dira azalpen arruntari aurre egiten dioten seinaleak, zalantza xuxurlatzen duten bitartean bakardadearen lekuaren atzean. Hurbildu eta entzun, hemengo egiak uste guztiak zalantzan jarriko baititu.",
+  "clues": [
+    "Bakardadean gurtzari eskaini nion neure burua, nire Jaunaren hornidurak sostengatuta.",
+    "Alak munduko emakume guztien gainetik aukeratu ninduela jakinarazi zidan.",
+    "Ekialdeko leku urrun batera erretiratu nintzen, nire herriarengandik babestuta, eta izpiritu bat agertu zitzaidan gizon perfektu baten itxuran.",
+    "Allahren hitzez haur bat sortu nuen, nahiz eta inork ez ninduen inoiz ukitu.",
+    "Palmondo baten azpian bakarrik jasan nuen lana eta ahots bat entzun nuen kontsolatzen ninduela nire azpian erreka bat eta jan eta edateko datil freskoak esanez.",
+    "Nire jaioberria besoetan nuela itzuli nintzen nire herriarengana, isiltasun-botoa egin nuen, eta nire haurtxoak sehaskatik hitz egin zuen Alaren zerbitzari gisa defendatzeko."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Bilqis, Sabako agintaria",
+        "Imranen emaztea.",
+        "Luten emaztea.",
+        "Maryam",
+        "Asiya, faraoiaren emaztea"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Itsaso zatituan zehar exodo bat gidatu zuen",
+        "Uholdeari aurre egiteko arka bat eraiki zuten",
+        "Su bizian bota eta salbatu zuten",
+        "Palmondo baten azpian jaiotza miragarria eta erditze bakartia",
+        "Itsaso sakonean arrain handi batek irentsia"
+      ],
+      "answer": "Palmondo baten azpian jaiotza miragarria eta erditze bakartia"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Palmondo enborra behean erreka batekin",
+        "Judi mendian dagoen kutxa",
+        "Kaaba Mekan",
+        "Namrudek prestatutako sua",
+        "Tuwako haran sakratua"
+      ],
+      "answer": "Palmondo enborra behean erreka batekin"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Lurrak altxorrez irentsia",
+        "Gamelu emeari izterrak moztu izanagatik eztanda izugarri batek suntsitu zuen",
+        "Itsasoan armadarekin itota",
+        "Sabbatua hausteagatik tximino bihurtu ziren",
+        "Jaioberriak sehaskan hitz egin zuenean justifikatua"
+      ],
+      "answer": "Jaioberriak sehaskan hitz egin zuenean justifikatua"
+    }
+  },
+  "verseRef": "19:22",
+  "arabic": "۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًۭا قَصِيًّۭا",
+  "verse": "So she conceived him, and she withdrew with him to a remote place. (19:22)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Uzak Palmiye Ağacının Altında Yalnızlık",
+  "intro": "Tanıdık kalabalıklardan uzakta, sessiz bir inziva yerini hayal edin; burada adanmışlık olağanüstü bir buyrukla buluşuyor. Yalnız bir hizmetkar, görünmez bir lütuf tarafından desteklenerek, saflık ve güven içinde inzivaya çekiliyor. Bu ruhun etrafında, sıradan açıklamaları aşan işaretler toplanırken, inziva yerinin ötesinde şüphe fısıltıları bekliyor. Yaklaşın ve dinleyin, çünkü buradaki gerçek her varsayımı sorgulatacak.",
+  "clues": [
+    "Rabbimin rızkıyla desteklenerek kendimi inzivaya çekip ibadete adadım.",
+    "Allah'ın beni bütün dünya kadınları arasından seçtiği müjdesini aldım.",
+    "Halkımdan gizlenerek, doğuda ücra bir yere çekildim; o sırada bana kusursuz bir insan suretinde bir ruh göründü.",
+    "Allah'ın bir kelamıyla bir çocuk dünyaya getirdim, oysa bana hiçbir erkek dokunmamıştı.",
+    "Bir palmiye ağacının altında tek başıma çalıştım ve altımda akan bir dere ve yiyip içebileceğim taze hurmalarla beni teselli eden bir ses duydum.",
+    "Yeni doğmuş bebeğimi kucağımda taşıyarak halkımın yanına döndüm, sessizlik yemini ettim ve bebeğim beşiğinden konuşarak beni Allah'ın bir kulu olarak savundu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Saba'nın hükümdarı Bilqis",
+        "İmran'ın karısı",
+        "Lut'un karısı",
+        "Maryam",
+        "Firavunun karısı Asiya"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Yarılmış deniz boyunca bir göç dalgasına önderlik etti.",
+        "Tufandan kurtulmak için bir gemi inşa ettiler.",
+        "Alev alev yanan bir ateşin içine atıldı ve kurtarıldı",
+        "Palmiye ağacının altında mucizevi bir şekilde hamile kalma ve tek başına doğum.",
+        "Derin denizde büyük bir balık tarafından yutuldu."
+      ],
+      "answer": "Palmiye ağacının altında mucizevi bir şekilde hamile kalma ve tek başına doğum."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Altından dere geçen palmiye ağacının gövdesi.",
+        "Nuh'un gemisi Judi Dağı'nda duruyor.",
+        "Mekke'deki Kabe",
+        "Namrud tarafından hazırlanan ateş.",
+        "Tuwa'nın kutsal vadisi"
+      ],
+      "answer": "Altından dere geçen palmiye ağacının gövdesi."
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Hazinelerle dolu toprak tarafından yutuldu",
+        "Dişi devenin bacaklarını sakatladığı için şiddetli bir patlamayla yok edildi.",
+        "Orduyla birlikte denizde boğuldu.",
+        "Şabat gününü ihlal ettikleri için maymuna dönüştürüldüler.",
+        "Yeni doğan bebeğin beşikte konuşmaya başlamasıyla haklılığım kanıtlandı."
+      ],
+      "answer": "Yeni doğan bebeğin beşikte konuşmaya başlamasıyla haklılığım kanıtlandı."
+    }
+  },
+  "verseRef": "19:22",
+  "arabic": "۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًۭا قَصِيًّۭا",
+  "verse": "So she conceived him, and she withdrew with him to a remote place. (19:22)"
+}

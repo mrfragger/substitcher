@@ -1,0 +1,61 @@
+{
+  "title": "Kwigunga munsi y'ikiganza cya kure",
+  "intro": "Tekereza ahantu hatuje kure y’abantu basanzwe, aho ubwitange buhura n’itegeko ridasanzwe. Umugaragu wenyine yiherera mu butungane no mu cyizere, ashyigikiwe n’ibyo yagenewe bitagaragara. Ahakikije ubugingo hateraniye ibimenyetso birwanya ibisobanuro bisanzwe, mu gihe amagambo yo gushidikanya ategereje kure y’aho umuntu yiherera. Egera utege amatwi, kuko ukuri hano kuzavuguruza buri gitekerezo cyose.",
+  "clues": [
+    "Nariyeguriye gusenga ndi wenyine, nshyigikiwe n'ibyo nhabwa n'Umwami wanjye.",
+    "Nakiriye inkuru nziza y'uko Allah yantoye mu bagore bose bo ku isi.",
+    "Nagiye ahantu kure mu burasirazuba, nihishe abantu banjye, ubwo umwuka wanyerekaga mu ishusho y'umuntu utunganye.",
+    "Nasamye inda y'umwana ku ijambo ry'Imana nubwo nta muntu wigeze ankoraho.",
+    "Narihanganiye imirimo yo mu rugo ndi njyenyine munsi y'igiti cy'umukindo maze numva ijwi rimpumuriza rikoresheje umugezi munsi yanjye n'amatafari mashya yo kurya no kunywa.",
+    "Nasubiye mu muryango wanjye ntwaye umwana wanjye w’uruhinja, ndahira guceceka, maze umwana wanjye aravuga kuva akiri umwana kugira ngo amburanira nk'umugaragu wa Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Bilqis, umutegetsi wa Saba",
+        "Umugore wa Imran",
+        "Umugore wa Lut",
+        "Mariyamu",
+        "Asiya, umugore wa Farawo"
+      ],
+      "answer": "Mariyamu"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Yayoboye urugendo rwo kuva mu nyanja yari yaragabanutse",
+        "Yubatse ubwato kugira ngo ishobore kurokoka umwuzure",
+        "Yajugunywe mu muriro ugurumana maze arokora",
+        "Gusama mu buryo bw'igitangaza no kubyara uri wenyine munsi y'ikiganza",
+        "Yamizwe n'ifi nini mu nyanja nini"
+      ],
+      "answer": "Gusama mu buryo bw'igitangaza no kubyara uri wenyine munsi y'ikiganza"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Igiti cy'umukindo gifite umugezi munsi",
+        "Inkuge ihagaze ku musozi wa Judi",
+        "Kaaba muri Makka",
+        "Umuriro wateguwe na Namrud",
+        "Ikibaya gitagatifu cya Tuwa"
+      ],
+      "answer": "Igiti cy'umukindo gifite umugezi munsi"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Isi yamizwe n'ubutunzi bwayo",
+        "Yashenywe n'urusaku runini kubera gukubita ingamiya y'ingore",
+        "Yarohamye hamwe n'ingabo mu nyanja",
+        "Yahinduwe inkende kubera kwica Isabato",
+        "Yaremejwe ubwo umwana wavutse yavugaga mu gihe cy'ubwato"
+      ],
+      "answer": "Yaremejwe ubwo umwana wavutse yavugaga mu gihe cy'ubwato"
+    }
+  },
+  "verseRef": "19:22",
+  "arabic": "۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًۭا قَصِيًّۭا",
+  "verse": "So she conceived him, and she withdrew with him to a remote place. (19:22)"
+}

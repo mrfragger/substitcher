@@ -1,0 +1,61 @@
+{
+  "title": "Kalinimo Hoosteeda Timir Cadcad Fog",
+  "intro": "Bal qiyaas meel deggan oo ka fog dad badan oo la yaqaan, halkaas oo cibaadadu ay la kulanto amar aan caadi ahayn. Addoon keli ah ayaa ka baxa daahirnimo iyo kalsooni, oo ay ku sii jirto quud aan la arki karin. Naftan hareeraheeda waxay soo ururisaa calaamado ka hor imanaya sharraxaadda caadiga ah, halka shakiga oo yaraada ay ka sugayaan meel ka baxsan meesha go'doonsan. Soo dhawow oo dhegayso, waayo runta halkan ku taal waxay caqabad ku noqon doontaa mala-awaal kasta.",
+  "clues": [
+    "Waxaan naftayda u huray cibaadada si gooni ah, iyadoo lagu ilaalinayo rizqiga Rabbigeyga.",
+    "Waxaan helay war farxad leh oo ah in Alle iga doortay dhammaan haweenka adduunka.",
+    "Waxaan u baxay meel fog oo bari ah, oo aan ka qarin dadkayga, markii ruux ii muuqday qaab nin qumman.",
+    "Waxaan ilmo ku dhalay eray ka yimid Alle inkastoo uusan jirin nin i taabtay.",
+    "Waxaan keligay u adkaystay shaqada geed timireed hoostiisa, waxaana maqlay cod i qalbi qaboojinaya anigoo wata durdur hoostiisa ah iyo timir cusub oo aan wax ku cuno oo aan cabbo.",
+    "Waxaan ku laabtay dadkaygii anigoo sita ilmahaygii dhashay, waxaan ku dhaartay inaan aamusnaan doono, ilmahaygiina wuxuu ka hadlay sariirta si uu ii difaaco anigoo ah addoon Alle."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Bilqis, oo ahaa boqorkii Saba",
+        "Xaaska Cimraan",
+        "Xaaska Luut",
+        "Maryam",
+        "Aasiya, xaaskii Fircoon"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Wuxuu hoggaamiyay qax ka gudbay badda kala qaybsan",
+        "Dooni ayay dhisteen si ay uga badbaadaan daadkii",
+        "Dabka oo ololaya ayaa la tuuray oo la badbaadiyay",
+        "Riyo mucjiso ah iyo dhalmo keli ah oo calaacasha hoosteeda ah",
+        "Waxaa liqay kalluun weyn oo badda qoto dheer ku jira"
+      ],
+      "answer": "Riyo mucjiso ah iyo dhalmo keli ah oo calaacasha hoosteeda ah"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Jirridda timirta oo leh durdur hoose",
+        "Doontii oo dul taallay Buurta Judi",
+        "Kacbada Makka",
+        "Dabkii uu diyaariyay Namrud",
+        "Dooxada barakeysan ee Tuwa"
+      ],
+      "answer": "Jirridda timirta oo leh durdur hoose"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Dhulku wuxuu liqay khasnado",
+        "Waxaa burburiyay qarax onkod ah oo awrtii ku dhuftay",
+        "Ciidanka badda kula qaraqmay",
+        "Waxaa loo beddelay daanyeerro markii ay jabiyeen Sabtida",
+        "La caddeeyay markii ilmaha dhashay uu ku hadlay sariirta ilmaha"
+      ],
+      "answer": "La caddeeyay markii ilmaha dhashay uu ku hadlay sariirta ilmaha"
+    }
+  },
+  "verseRef": "19:22",
+  "arabic": "۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًۭا قَصِيًّۭا",
+  "verse": "So she conceived him, and she withdrew with him to a remote place. (19:22)"
+}

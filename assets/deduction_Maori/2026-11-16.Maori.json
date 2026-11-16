@@ -1,0 +1,61 @@
+{
+  "title": "Te Mokemoke i raro i te Nikau Tawhiti",
+  "intro": "Whakaarohia he wāhi okiokinga marino, tawhiti atu i ngā mano tini, te wāhi e tūtaki ai te aroha ki tētahi ture whakamiharo. Ka hoki whakamuri tētahi pononga mokemoke i roto i te parakore me te whakawhirinaki, e tautokona ana e te whakarato kāore e kitea. I te taha o tēnei wairua ka huihui ngā tohu e whakahē ana i ngā whakamārama noa, i te mea e tatari ana ngā hāhā o te ruarua ki tua atu o te wāhi mokemoke. Haere tata mai, whakarongo mai, nā te mea ka werohia e te pono ngā whakaaro katoa.",
+  "clues": [
+    "I whakatapua e ahau ahau ki te karakia i te mokemoke, i tautokona e te kai a tōku Ariki.",
+    "I tae mai te rongo pai ki ahau, nā te mea kua whiriwhiria ahau e Allah i runga ake i ngā wāhine katoa o te ao.",
+    "I hoki atu ahau ki tētahi wāhi tawhiti ki te rawhiti, i te mea e araia ana e tōku iwi, ka puta mai tētahi wairua ki ahau i roto i te āhua o tētahi tangata tino tika.",
+    "Nā te kupu a Allah i hapu ai ahau, ahakoa kāore anō kia pā mai tētahi tangata ki ahau.",
+    "I whakamanawanui ahau ko au anake i te mamae i raro i te nikau, ā, ka rongo ahau i tētahi reo e whakamarie ana i ahau me te awa i raro i ahau me ngā tāme hou hei kai, hei inu.",
+    "I hoki ahau ki tōku iwi, e waha ana i taku pēpi hou, i oati ahau mō te wahangu, ā, i kōrero mai taku pēpi mai anō i te whanga hei tiaki i ahau hei pononga mā Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Ko Bilqis, te rangatira o Saba",
+        "Te wahine a Imran",
+        "Te wahine a Ruta",
+        "Meriama",
+        "Asiya, te wahine a Parao"
+      ],
+      "answer": "Meriama"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I ārahi i te haerenga puta noa i te moana kua wehea",
+        "I hanga e ia he āka hei oranga mō te waipuke",
+        "I maka ki roto i te ahi mura, ā, i whakaorangia",
+        "Te haputanga merekara me te whānautanga takitahi i raro i te nikau",
+        "I horomia e te ika nui i te moana hohonu"
+      ],
+      "answer": "Te haputanga merekara me te whānautanga takitahi i raro i te nikau"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te pūtake o te nikau me te awa i raro",
+        "Te āaka e tau ana i runga i Maunga Hūti",
+        "Te Kaaba i Mekah",
+        "Te ahi i whakaritea e Namrud",
+        "Te awaawa tapu o Tūwa"
+      ],
+      "answer": "Te pūtake o te nikau me te awa i raro"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Horomia ana e te whenua me ngā taonga",
+        "I whakangaromia e te whatitiri nui mō te whakangote i te kamera uha",
+        "I toremi tahi me te ope taua i te moana",
+        "I hurihia hei makimaki mō te takahi i te Hāpati",
+        "I whakamanahia i te wā i kōrero ai te pēpi hou i roto i te moenga"
+      ],
+      "answer": "I whakamanahia i te wā i kōrero ai te pēpi hou i roto i te moenga"
+    }
+  },
+  "verseRef": "19:22",
+  "arabic": "۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًۭا قَصِيًّۭا",
+  "verse": "So she conceived him, and she withdrew with him to a remote place. (19:22)"
+}

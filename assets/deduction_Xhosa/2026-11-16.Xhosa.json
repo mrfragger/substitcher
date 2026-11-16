@@ -1,0 +1,61 @@
+{
+  "title": "Ukuba Wedwa Phantsi Kwesundu Elikude",
+  "intro": "Khawucinge ngokuzifihla okuzolileyo kude nezihlwele eziqhelekileyo, apho ukuzinikela kudibana nomyalelo ongaqhelekanga. Isicaka esisodwa siyarhoxa ngobunyulu nokuthemba, sixhaswa yilungiselelo elingabonakaliyo. Kujikeleze lo mphefumlo kukho imiqondiso ephikisana nengcaciso eqhelekileyo, ngelixa ukubhuda kwamathandabuzo kulinda ngaphaya kwendawo yokuzifihla. Sondela uze umamele, kuba inyaniso apha iya kuyichasa yonke into ecingelwayo.",
+  "clues": [
+    "Ndizinikele ekunquleni ndedwa, ndixhaswa yilungiselelo leNkosi yam.",
+    "Ndifumene iindaba ezimnandi zokuba uAllah undikhethile ngaphezu kwabo bonke abafazi behlabathi.",
+    "Ndarhoxa ndaya kwindawo ekude empuma, ndizigqumile ebantwini basekhaya, xa umoya wabonakala kum ungumntu ogqibeleleyo.",
+    "Ndakhulelwa umntwana ngelizwi lika-Allah nangona kungekho mntu wakha wandichukumisa.",
+    "Ndanyamezela umsebenzi ndedwa phantsi komthi wesundu ndaza ndeva ilizwi lindithuthuzela ngomlambo phantsi kwam kunye needethi ezintsha zokutya nokusela.",
+    "Ndabuyela ebantwini bam ndithwele usana lwam olusandul’ ukuzalwa, ndafunga ukuba ndithule, kwaye usana lwam lwathetha kwasebuntwaneni ukundikhusela njengomkhonzi ka-Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "UBilqis, umlawuli waseSaba",
+        "Umfazi ka-Imran",
+        "Umfazi kaLut",
+        "UMaryam",
+        "UAsia, umfazi kaFaro"
+      ],
+      "answer": "UMaryam"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Wakhokela uhambo oluya ngaphesheya kolwandle olwahlulwe phakathi",
+        "Wakha umkhombe ukuze asinde kumkhukula",
+        "Waphoswa emlilweni ovuthayo waza wasindisa",
+        "Ukukhulelwa okumangalisayo kunye nokuzalwa wedwa phantsi kwesandla",
+        "Iginywe yintlanzi enkulu elwandle olunzulu"
+      ],
+      "answer": "Ukukhulelwa okumangalisayo kunye nokuzalwa wedwa phantsi kwesandla"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Isiqu sesundu esinomjelo ongezantsi",
+        "Ityeya iphumle kwiNtaba iJudi",
+        "IKaaba eMakkah",
+        "Umlilo olungiselelwe nguNamrud",
+        "Intlambo engcwele yaseTuwa"
+      ],
+      "answer": "Isiqu sesundu esinomjelo ongezantsi"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Uginywe ngumhlaba ngobutyebi",
+        "Watshatyalaliswa kukuqhuma okukhulu ngenxa yokubetha ikamela eliyimazi",
+        "Nditshoniswe ngumkhosi elwandle",
+        "Uguqulwe waba yinkawu ngenxa yokuphula iSabatha",
+        "Iqinisekisiwe xa umntwana osandul' ukuzalwa ethetha kwi-bedroom"
+      ],
+      "answer": "Iqinisekisiwe xa umntwana osandul' ukuzalwa ethetha kwi-bedroom"
+    }
+  },
+  "verseRef": "19:22",
+  "arabic": "۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًۭا قَصِيًّۭا",
+  "verse": "So she conceived him, and she withdrew with him to a remote place. (19:22)"
+}

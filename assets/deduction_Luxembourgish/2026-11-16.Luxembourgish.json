@@ -1,0 +1,61 @@
+{
+  "title": "Einsamkeet ënnert der wäiter Handfläch",
+  "intro": "Stellt Iech eng roueg Réckzuchsplaz vir, wäit ewech vun de bekannte Leitmassen, wou Andacht op en aussergewéinlecht Uerder trëfft. E einsame Knecht zitt sech a Rengheet a Vertrauen zréck, ënnerstëtzt vun enger onsichtbarer Versuergung. Ronderëm dës Séil sammelen Zeeche sech, déi alldeeglech Erklärungen trotzen, während Geflüster vum Zweiwel hannert der Plaz vun der Ofsonderung waarden. Trëtt méi no a lauschtert, well d'Wourecht hei wäert all Viraussetzung a Fro stellen.",
+  "clues": [
+    "Ech hunn mech dem Gottesdéngscht an Ofsonderung gewidmet, ënnerstëtzt duerch d'Versuergung vu mengem Här.",
+    "Ech hunn déi gutt Noriicht kritt, datt Allah mech iwwer all Frae vun der Welt erausgewielt hat.",
+    "Ech hunn mech op eng ofgeleeën ëstlech Plaz zréckgezunn, verstoppt virun mengem Vollek, wéi mir e Geescht a Form vun engem perfekte Mann erschéngt ass.",
+    "Ech hunn e Kand duerch e Wuert vun Allah kritt, obwuel kee Mann mech jee beréiert hat.",
+    "Ech hunn eleng ënner enger Palme geschafft an hunn eng Stëmm héieren, déi mech mat engem Baach ënner mir a frësche Dattelen zum Iessen an Drénken getréischt huet.",
+    "Ech sinn mat mengem Neigebuerene bei mäi Vollek zréckgaangen, hunn e Schweigegelübde ofgehalen, a mäi Puppelchen huet vun der Wieg un geschwat, fir mech als Dénger vun Allah ze verdeedegen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Bilqis, Herrscher vu Saba",
+        "D'Fra vum Imran",
+        "D'Fra vum Lut",
+        "Maryam",
+        "Asiya, Fra vum Pharao"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Huet en Exodus iwwer dat getrennt Mier gefouert",
+        "Eng Ark gebaut fir d'Iwwerschwemmung ze iwwerliewen",
+        "An e blëtzend Feier gehäit a gerett",
+        "Wonnerbar Empfängnis a Gebuert als Eenzelpersoun ënner enger Handfläch",
+        "Verschléckt vun engem grousse Fësch am déiwe Mier"
+      ],
+      "answer": "Wonnerbar Empfängnis a Gebuert vun enger eenzeger Persoun ënner enger Handfläch"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "De Palmenstamm mat engem Baach drënner",
+        "D'Ark läit um Bierg Judi",
+        "De Kaaba zu Mekka",
+        "D'Feier, dat vum Namrud virbereet gouf",
+        "Dat hellegt Dall vun Tuwa"
+      ],
+      "answer": "De Palmenstamm mat engem Baach drënner"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Vun der Äerd mat Schätz verschléckt",
+        "Zerstéiert vun engem donnernden Explosioun fir d'Hënnerverletzung vun der Kamel",
+        "Mat der Arméi am Mier erdronk",
+        "An Affen verwandelt fir de Sabbat ze briechen",
+        "Gerechtfäerdegt wéi den Neigebuerenen an der Wieg geschwat huet"
+      ],
+      "answer": "Gerechtfäerdegt wéi den Neigebuerenen an der Wieg geschwat huet"
+    }
+  },
+  "verseRef": "19:22",
+  "arabic": "۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًۭا قَصِيًّۭا",
+  "verse": "So she conceived him, and she withdrew with him to a remote place. (19:22)"
+}

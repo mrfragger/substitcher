@@ -1,0 +1,61 @@
+{
+  "title": "Solitude Beneath the Distant Palm",
+  "intro": "Picture a quiet retreat far from familiar crowds, where devotion meets an extraordinary decree. A lone servant withdraws in purity and trust, sustained by unseen provision. Around this soul gather signs that defy ordinary explanation, while whispers of doubt wait beyond the place of seclusion. Step closer and listen, for the truth here will challenge every assumption.",
+  "clues": [
+    "I devoted myself to worship in seclusion, sustained by provision from my Lord.",
+    "I received glad tidings that Allah had chosen me above all women of the worlds.",
+    "I withdrew to a remote eastern place, veiled from my people, when a spirit appeared to me in the form of a perfect man.",
+    "I conceived a child by a word from Allah though no man had ever touched me.",
+    "I endured labor alone beneath a palm tree and heard a voice comfort me with a stream beneath me and fresh dates to eat and drink.",
+    "I returned to my people carrying my newborn, held a vow of silence, and my infant spoke from the cradle to defend me as a servant of Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Bilqis, ruler of Saba",
+        "The wife of Imran",
+        "The wife of Lut",
+        "Maryam",
+        "Asiya, wife of Pharaoh"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Led an exodus across the parted sea",
+        "Built an ark to survive the flood",
+        "Thrown into a blazing fire and saved",
+        "Miraculous conception and solitary birth under a palm",
+        "Swallowed by a great fish in the deep sea"
+      ],
+      "answer": "Miraculous conception and solitary birth under a palm"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "The palm trunk with a stream below",
+        "The ark resting on Mount Judi",
+        "The Kaaba in Makkah",
+        "The fire prepared by Namrud",
+        "The sacred valley of Tuwa"
+      ],
+      "answer": "The palm trunk with a stream below"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "Swallowed by the earth with treasures",
+        "Destroyed by a thunderous blast for hamstringing the she-camel",
+        "Drowned with the army in the sea",
+        "Turned into apes for breaking the Sabbath",
+        "Vindicated when the newborn spoke in the cradle"
+      ],
+      "answer": "Vindicated when the newborn spoke in the cradle"
+    }
+  },
+  "verseRef": "19:22",
+  "arabic": "۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًۭا قَصِيًّۭا",
+  "verse": "So she conceived him, and she withdrew with him to a remote place. (19:22)"
+}

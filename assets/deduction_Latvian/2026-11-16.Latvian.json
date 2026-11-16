@@ -1,0 +1,61 @@
+{
+  "title": "Vientulība zem tālās palmas",
+  "intro": "Iztēlojieties klusu atkāpšanos tālu no ierastajiem pūļiem, kur dievbijība satiekas ar neparastu lēmumu. Vientuļš kalps atkāpjas šķīstībā un uzticībā, ko uztur neredzams nodrošinājums. Ap šo dvēseli pulcējas zīmes, kas nepakļaujas parastajam skaidrojumam, kamēr aiz noslēgtības vietas gaida šaubu čuksti. Speriet soli tuvāk un ieklausieties, jo patiesība šeit apstrīdēs katru pieņēmumu.",
+  "clues": [
+    "Es veltīju sevi pielūgsmei vientulībā, ko uzturēja mana Kunga apgādātais.",
+    "Es saņēmu priecīgas ziņas, ka Allāhs mani ir izvēlējies pār visām pasaules sievietēm.",
+    "Es devos uz nomaļu austrumu vietu, paslēptu no savas tautas, kad man parādījās gars pilnīga cilvēka izskatā.",
+    "Es ieņēmu bērnu ar Allāha vārdu, lai gan neviens cilvēks mani nekad nebija aizskāris.",
+    "Es viens pats izturēju mokošu darbu zem palmas un dzirdēju balsi, kas mani mierināja ar strautu zem manis un svaigām dateļu masu un dzeršanu.",
+    "Es atgriezos pie savas tautas, nesot savu jaundzimušo, devu klusēšanas zvērestu, un mans zīdainis jau no šūpuļa runāja, lai aizstāvētu mani kā Allāha kalpu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Bilkijs, Sabas valdnieks",
+        "Imrana sieva",
+        "Luta sieva",
+        "Marija",
+        "Asija, faraona sieva"
+      ],
+      "answer": "Marija"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Vadīja bēgšanu pāri sašķeltajai jūrai",
+        "Uzbūvēja šķirstu, lai pārdzīvotu plūdus",
+        "Iemests liesmojošā ugunī un izglābts",
+        "Brīnumaina ieņemšana un vientuļa dzimšana zem palmas",
+        "Liela zivs norīts dziļjūrā"
+      ],
+      "answer": "Brīnumaina ieņemšana un vientuļa dzimšana zem palmas"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Palmas stumbrs ar strautu zemāk",
+        "Šķirsts atpūšas uz Jūdi kalna",
+        "Kaaba Mekā",
+        "Namruda sagatavotā ugunskura",
+        "Tuvas svētā ieleja"
+      ],
+      "answer": "Palmas stumbrs ar strautu zemāk"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Zeme aprijusi dārgumus",
+        "Iznīcināts pērkona dārdā, lai salauztu kamieļmātes cīpslas",
+        "Noslīka kopā ar armiju jūrā",
+        "Pārvērtās par pērtiķiem par sabata pārkāpšanu",
+        "Attaisnoti, kad jaundzimušais runāja šūpulī"
+      ],
+      "answer": "Attaisnoti, kad jaundzimušais runāja šūpulī"
+    }
+  },
+  "verseRef": "19:22",
+  "arabic": "۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًۭا قَصِيًّۭا",
+  "verse": "So she conceived him, and she withdrew with him to a remote place. (19:22)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Samota pod vzdálenou palmou",
+  "intro": "Představte si tiché útočiště daleko od známých davů, kde se oddanost setkává s mimořádným rozhodnutím. Osamělý služebník se stahuje v čistotě a důvěře, podpořen neviditelnou péčí. Kolem této duše se shromažďují znamení, která se vzpírají běžnému vysvětlení, zatímco za místem ústraní číhá šepot pochybností. Přistupte blíž a naslouchejte, neboť pravda zde zpochybní každý předpoklad.",
+  "clues": [
+    "Oddal jsem se uctívání v ústraní, živen potravou od svého Pána.",
+    "Dostala jsem radostnou zvěst, že Alláh si mě vyvolil ze všech žen světa.",
+    "Stáhl jsem se na odlehlé východní místo, skrytý před svým lidem, když se mi zjevil duch v podobě dokonalého muže.",
+    "Počala jsem dítě slovem od Alláha, ačkoli se mě žádný muž nikdy nedotkl.",
+    "Snášel jsem dřinu sám pod palmou a slyšel hlas, který mě utěšoval potokem pode mnou a čerstvými datlemi k jídlu a pití.",
+    "Vrátila jsem se ke svému lidu s novorozeným dítětem v náručí, složila slib mlčení a mé dítě promluvilo od kolébky, aby mě bránilo jako služebnici Alláha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Bilqis, vládce Saby",
+        "Imranova manželka",
+        "Lutova manželka",
+        "Maryam",
+        "Asiya, manželka faraona"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Vedl exodus přes rozdělené moře",
+        "Postavili archu, aby přežili potopu",
+        "Vhozen do planoucího ohně a zachráněn",
+        "Zázračné početí a osamělý porod pod palmou",
+        "Spolknuta velkou rybou v hlubokém moři"
+      ],
+      "answer": "Zázračné početí a osamělý porod pod palmou"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Kmen palmy s potokem pod ním",
+        "Archa spočívající na hoře Judi",
+        "Kaaba v Mekce",
+        "Oheň připravený Namrudem",
+        "Posvátné údolí Tuwa"
+      ],
+      "answer": "Kmen palmy s potokem pod ním"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Pohlceni zemí s poklady",
+        "Zničen hromovým výbuchem za podražení velbloudí šlachy",
+        "Utopil se s armádou v moři",
+        "Proměnili se v opice za porušení Sabatu",
+        "Ospravedlněno, když novorozenec promluvil v kolébce"
+      ],
+      "answer": "Ospravedlněno, když novorozenec promluvil v kolébce"
+    }
+  },
+  "verseRef": "19:22",
+  "arabic": "۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًۭا قَصِيًّۭا",
+  "verse": "So she conceived him, and she withdrew with him to a remote place. (19:22)"
+}

@@ -1,0 +1,782 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "مَخْلُوقَاتٌ طَبِيعِيَّةٌ مَذْكُورَةٌ فِي الْقُرْآنِ",
+        "nameEn": "Natural creations mentioned in the Qur'an",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "السَّمَاوَاتِ",
+            "en": "the heavens",
+            "ref": "44:38",
+            "verse": "وَمَا خَلَقْنَا ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا لَـٰعِبِينَ",
+            "verseEn": "And We did not create the heavens and earth and that between them in play."
+          },
+          {
+            "ar": "الْأَرْضِ",
+            "en": "the earth",
+            "ref": "47:10",
+            "verse": "۞ أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ دَمَّرَ ٱللَّهُ عَلَيْهِمْ ۖ وَلِلْكَـٰفِرِينَ أَمْثَـٰلُهَا",
+            "verseEn": "Have they not traveled through the land and seen how was the end of those before them? Allāh destroyed [everything] over them, and for the disbelievers is something comparable."
+          },
+          {
+            "ar": "الْيَمِّ",
+            "en": "the sea",
+            "ref": "20:78",
+            "verse": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+            "verseEn": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them,"
+          },
+          {
+            "ar": "تُرَابًا",
+            "en": "dust",
+            "ref": "50:3",
+            "verse": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًۭا ۖ ذَٰلِكَ رَجْعٌۢ بَعِيدٌۭ",
+            "verseEn": "When we have died and have become dust, [we will return to life]? That is a distant [i.e., unlikely] return.\""
+          }
+        ]
+      },
+      {
+        "name": "وَسَائِلُ الْهِدَايَةِ وَالْبُرْهَانِ",
+        "nameEn": "Divine guidance and proofs mentioned in the Qur'an",
+        "color": "green",
+        "items": [
+          {
+            "ar": "بِآيَاتِ",
+            "en": "in (the) Signs",
+            "ref": "23:58",
+            "verse": "وَٱلَّذِينَ هُم بِـَٔايَـٰتِ رَبِّهِمْ يُؤْمِنُونَ",
+            "verseEn": "And they who believe in the signs of their Lord"
+          },
+          {
+            "ar": "ذِكْرًا",
+            "en": "(the) Reminder",
+            "ref": "77:5",
+            "verse": "فَٱلْمُلْقِيَـٰتِ ذِكْرًا",
+            "verseEn": "And those [angels] who deliver a message."
+          },
+          {
+            "ar": "هُدَاهُمْ",
+            "en": "their guidance",
+            "ref": "16:37",
+            "verse": "إِن تَحْرِصْ عَلَىٰ هُدَىٰهُمْ فَإِنَّ ٱللَّهَ لَا يَهْدِى مَن يُضِلُّ ۖ وَمَا لَهُم مِّن نَّـٰصِرِينَ",
+            "verseEn": "[Even] if you should strive for their guidance, [O Muḥammad], indeed, Allāh does not guide those He sends astray, and they will have no helpers."
+          },
+          {
+            "ar": "بِسُلْطَانٍ",
+            "en": "with an authority",
+            "ref": "44:19",
+            "verse": "وَأَن لَّا تَعْلُوا۟ عَلَى ٱللَّهِ ۖ إِنِّىٓ ءَاتِيكُم بِسُلْطَـٰنٍۢ مُّبِينٍۢ",
+            "verseEn": "And [saying], \"Be not haughty with Allāh. Indeed, I have come to you with clear evidence."
+          }
+        ]
+      },
+      {
+        "name": "أَشْكَالُ الْعَذَابِ فِي الْقُرْآنِ",
+        "nameEn": "Forms of divine punishment mentioned in the Qur'an",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "جَهَنَّمَ",
+            "en": "Hell",
+            "ref": "14:29",
+            "verse": "جَهَنَّمَ يَصْلَوْنَهَا ۖ وَبِئْسَ ٱلْقَرَارُ",
+            "verseEn": "[It is] Hell, which they will [enter to] burn, and wretched is the settlement."
+          },
+          {
+            "ar": "الصَّيْحَةُ",
+            "en": "the thunderous blast",
+            "ref": "11:94",
+            "verse": "وَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا شُعَيْبًۭا وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَأَخَذَتِ ٱلَّذِينَ ظَلَمُوا۟ ٱلصَّيْحَةُ فَأَصْبَحُوا۟ فِى دِيَـٰرِهِمْ جَـٰثِمِينَ",
+            "verseEn": "And when Our command came, We saved Shuʿayb and those who believed with him, by mercy from Us. And the shriek seized those who had wronged, and they became within their homes [corpses] fallen prone"
+          },
+          {
+            "ar": "بَأْسُنَا",
+            "en": "Our punishment",
+            "ref": "7:5",
+            "verse": "فَمَا كَانَ دَعْوَىٰهُمْ إِذْ جَآءَهُم بَأْسُنَآ إِلَّآ أَن قَالُوٓا۟ إِنَّا كُنَّا ظَـٰلِمِينَ",
+            "verseEn": "And their declaration when Our punishment came to them was only that they said, \"Indeed, we were wrongdoers!\""
+          },
+          {
+            "ar": "عَذَابًا",
+            "en": "(is) a punishment",
+            "ref": "52:47",
+            "verse": "وَإِنَّ لِلَّذِينَ ظَلَمُوا۟ عَذَابًۭا دُونَ ذَٰلِكَ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+            "verseEn": "And indeed, for those who have wronged is a punishment before that, but most of them do not know."
+          }
+        ]
+      },
+      {
+        "name": "أَلْفَاظُ الْقَسَمِ",
+        "nameEn": "Oath-taking expressions mentioned in the Qur'an",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "يَحْلِفُونَ",
+            "en": "They swear",
+            "ref": "9:96",
+            "verse": "يَحْلِفُونَ لَكُمْ لِتَرْضَوْا۟ عَنْهُمْ ۖ فَإِن تَرْضَوْا۟ عَنْهُمْ فَإِنَّ ٱللَّهَ لَا يَرْضَىٰ عَنِ ٱلْقَوْمِ ٱلْفَـٰسِقِينَ",
+            "verseEn": "They swear to you so that you might be satisfied with them. But if you should be satisfied with them - indeed, Allāh is not satisfied with a defiantly disobedient people."
+          },
+          {
+            "ar": "وَأَقْسَمُوا",
+            "en": "And they swear",
+            "ref": "16:38",
+            "verse": "وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَـٰنِهِمْ ۙ لَا يَبْعَثُ ٱللَّهُ مَن يَمُوتُ ۚ بَلَىٰ وَعْدًا عَلَيْهِ حَقًّۭا وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+            "verseEn": "And they swear by Allāh their strongest oaths [that] Allāh will not resurrect one who dies. But yes - [it is] a true promise [binding] upon Him, but most of the people do not know."
+          },
+          {
+            "ar": "وَتَاللَّهِ",
+            "en": "And by Allah",
+            "ref": "21:57",
+            "verse": "وَتَٱللَّهِ لَأَكِيدَنَّ أَصْنَـٰمَكُم بَعْدَ أَن تُوَلُّوا۟ مُدْبِرِينَ",
+            "verseEn": "And [I swear] by Allāh, I will surely plan against your idols after you have turned and gone away.\""
+          },
+          {
+            "ar": "أَيْمَانَهُم",
+            "en": "their oaths",
+            "ref": "9:12",
+            "verse": "وَإِن نَّكَثُوٓا۟ أَيْمَـٰنَهُم مِّنۢ بَعْدِ عَهْدِهِمْ وَطَعَنُوا۟ فِى دِينِكُمْ فَقَـٰتِلُوٓا۟ أَئِمَّةَ ٱلْكُفْرِ ۙ إِنَّهُمْ لَآ أَيْمَـٰنَ لَهُمْ لَعَلَّهُمْ يَنتَهُونَ",
+            "verseEn": "And if they break their oaths after their treaty and defame your religion, then combat the leaders of disbelief, for indeed, there are no oaths [sacred] to them; [fight them that] they might cease."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "بكرة",
+    "display": "بُكْرَةً",
+    "hint": "The early part of the day for glorification, paired with late afternoon",
+    "verseRef": "48:9",
+    "arabicVerse": "لِّتُؤْمِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَتُعَزِّرُوهُ وَتُوَقِّرُوهُ وَتُسَبِّحُوهُ بُكْرَةًۭ وَأَصِيلًا",
+    "verse": "48:9 - That you [people] may believe in Allāh and His Messenger and honor him and respect him [i.e., the Prophet (ﷺ)] and exalt Him [i.e., Allāh] morning and afternoon."
+  },
+  "scramble": {
+    "verseRef": "67:13",
+    "reference": "Surah Al-Mulk (67:13)",
+    "segments": [
+      "وَأَسِرُّوا قَوْلَكُمْ",
+      "أَوِ اجْهَرُوا بِهِ",
+      "إِنَّهُ عَلِيمٌ",
+      "بِذَاتِ الصُّدُورِ"
+    ],
+    "translations": [
+      "And conceal your speech or",
+      "proclaim it",
+      "Indeed, He (is the) All-Knower",
+      "of what (is in) the breasts"
+    ],
+    "hint": "Allah's perfect knowledge of all secrets, hidden thoughts and open words",
+    "arabic": "وَأَسِرُّوا۟ قَوْلَكُمْ أَوِ ٱجْهَرُوا۟ بِهِۦٓ ۖ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+    "words": [
+      "وَأَسِرُّوا۟ قَوْلَكُمْ أَوِ",
+      "ٱجْهَرُوا۟ بِهِۦٓ ۖ",
+      "إِنَّهُۥ عَلِيمٌۢ",
+      "بِذَاتِ ٱلصُّدُورِ"
+    ],
+    "verseEn": "And conceal your speech or publicize it; indeed, He is Knowing of that within the breasts."
+  },
+  "roothive": {
+    "center": "ق",
+    "outer": [
+      "م",
+      "ه",
+      "ا",
+      "ي",
+      "ت",
+      "و"
+    ],
+    "root": {
+      "letters": "قوم",
+      "display": "ق و م",
+      "translit": "q-w-m",
+      "meaning": "The core idea is standing upright and staying firm. It extends from physical standing to a steady uprightness in character and purpose.",
+      "occurrences": 660,
+      "lemmaCount": 22
+    },
+    "words": [
+      {
+        "w": "تقي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "تَقِيّ",
+            "gloss": "righteous",
+            "type": "noun",
+            "root": "وقي",
+            "count": 4,
+            "ref": "19:13",
+            "pos": 6,
+            "alt": [
+              "god fearing"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "قام",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "قامَ",
+            "gloss": "stand",
+            "type": "verb",
+            "root": "قوم",
+            "count": 33,
+            "ref": "2:275",
+            "pos": 8,
+            "alt": [
+              "established",
+              "stands"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "قوم",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "قَوْم",
+            "gloss": "people",
+            "type": "noun",
+            "root": "قوم",
+            "count": 383,
+            "ref": "3:86",
+            "pos": 4,
+            "alt": [
+              "community",
+              "group"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "قوه",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "قُوَّة",
+            "gloss": "strength",
+            "type": "noun",
+            "root": "قوي",
+            "count": 30,
+            "ref": "8:60",
+            "pos": 6,
+            "alt": [
+              "power",
+              "force"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "قوي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "قَوِيّ",
+            "gloss": "all-strong",
+            "type": "noun",
+            "root": "قوي",
+            "count": 11,
+            "ref": "8:52",
+            "pos": 15
+          }
+        ]
+      },
+      {
+        "w": "قيم",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "قَيِّم",
+            "gloss": "straight",
+            "type": "adjective",
+            "root": "قوم",
+            "count": 5,
+            "ref": "18:2",
+            "pos": 1
+          },
+          {
+            "lemma": "قِيَم",
+            "gloss": "right",
+            "type": "adjective",
+            "root": "قوم",
+            "count": 1,
+            "ref": "6:161",
+            "pos": 9
+          }
+        ]
+      },
+      {
+        "w": "مقت",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَقْت",
+            "gloss": "hatred",
+            "type": "noun",
+            "root": "مقت",
+            "count": 6,
+            "ref": "35:39",
+            "pos": 18,
+            "alt": [
+              "hateful"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "واق",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "واق",
+            "gloss": "defender",
+            "type": "active participle",
+            "root": "وقي",
+            "count": 3,
+            "ref": "13:34",
+            "pos": 14,
+            "alt": [
+              "protector"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "وقت",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "وَقْت",
+            "gloss": "time",
+            "type": "noun",
+            "root": "وقت",
+            "count": 3,
+            "ref": "7:187",
+            "pos": 13
+          }
+        ]
+      },
+      {
+        "w": "وقي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "وَقَى",
+            "gloss": "protect",
+            "type": "verb",
+            "root": "وقي",
+            "count": 16,
+            "ref": "40:9",
+            "pos": 4,
+            "alt": [
+              "is saved"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "اتقي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "اتَّقَى",
+            "gloss": "fears",
+            "type": "verb",
+            "root": "وقي",
+            "count": 166,
+            "ref": "2:189",
+            "pos": 19,
+            "alt": [
+              "fear",
+              "fears allah"
+            ],
+            "form": 8
+          },
+          {
+            "lemma": "أَتْقَى",
+            "gloss": "most righteous of",
+            "type": "noun",
+            "root": "وقي",
+            "count": 2,
+            "ref": "49:13",
+            "pos": 16,
+            "alt": [
+              "righteous"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اقام",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "أَقامَ",
+            "gloss": "establish",
+            "type": "verb",
+            "root": "قوم",
+            "count": 54,
+            "ref": "10:105",
+            "pos": 2,
+            "alt": [
+              "direct",
+              "assign"
+            ],
+            "form": 4
+          },
+          {
+            "lemma": "إِقام",
+            "gloss": "establishment",
+            "type": "verbal noun",
+            "root": "قوم",
+            "count": 2,
+            "ref": "21:73",
+            "pos": 9,
+            "alt": [
+              "establishing"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اقوم",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "أَقْوَم",
+            "gloss": "most straight",
+            "type": "noun",
+            "root": "قوم",
+            "count": 4,
+            "ref": "17:9",
+            "pos": 7
+          }
+        ]
+      },
+      {
+        "w": "تقوي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "تَقْوَى",
+            "gloss": "righteousness",
+            "type": "noun",
+            "root": "وقي",
+            "count": 17,
+            "ref": "9:109",
+            "pos": 5,
+            "alt": [
+              "piety"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "قايم",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "قائِم",
+            "gloss": "means of support",
+            "type": "active participle",
+            "root": "قوم",
+            "count": 17,
+            "ref": "3:18",
+            "pos": 11,
+            "alt": [
+              "standing",
+              "establishment"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "قوام",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "قَوّام",
+            "gloss": "protectors",
+            "type": "noun",
+            "root": "قوم",
+            "count": 3,
+            "ref": "4:34",
+            "pos": 2,
+            "alt": [
+              "custodians",
+              "steadfast"
+            ]
+          },
+          {
+            "lemma": "قَوام",
+            "gloss": "moderate",
+            "type": "noun",
+            "root": "قوم",
+            "count": 1,
+            "ref": "25:67",
+            "pos": 11
+          }
+        ]
+      },
+      {
+        "w": "قيمه",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "قَيِّمَة",
+            "gloss": "correct",
+            "type": "adjective",
+            "root": "قوم",
+            "count": 2,
+            "ref": "98:3",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "قيوم",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "قَيُّوم",
+            "gloss": "sustainer of all that exists",
+            "type": "adjective",
+            "root": "قوم",
+            "count": 3,
+            "ref": "2:255",
+            "pos": 7,
+            "alt": [
+              "self-subsisting"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "متقي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مُتَّقي",
+            "gloss": "righteous",
+            "type": "active participle",
+            "root": "وقي",
+            "count": 49,
+            "ref": "2:2",
+            "pos": 7,
+            "alt": [
+              "fear",
+              "god-fearing"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مقام",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "مَقام",
+            "gloss": "position",
+            "type": "noun",
+            "root": "قوم",
+            "count": 14,
+            "ref": "2:125",
+            "pos": 9,
+            "alt": [
+              "standing place",
+              "standing"
+            ]
+          },
+          {
+            "lemma": "مُقام",
+            "gloss": "stand",
+            "type": "passive participle",
+            "root": "قوم",
+            "count": 3,
+            "ref": "33:13",
+            "pos": 8
+          }
+        ]
+      },
+      {
+        "w": "مقيم",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "مُقِيم",
+            "gloss": "lasting",
+            "type": "active participle",
+            "root": "قوم",
+            "count": 10,
+            "ref": "5:37",
+            "pos": 12,
+            "alt": [
+              "enduring",
+              "establisher"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اقامت",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "إِقامَت",
+            "gloss": "encampment",
+            "type": "verbal noun",
+            "root": "قوم",
+            "count": 1,
+            "ref": "16:80",
+            "pos": 17
+          }
+        ]
+      },
+      {
+        "w": "تقويم",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "تَقْوِيم",
+            "gloss": "mould",
+            "type": "verbal noun",
+            "root": "قوم",
+            "count": 1,
+            "ref": "95:4",
+            "pos": 6
+          }
+        ]
+      },
+      {
+        "w": "قايمه",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "قائِمَة",
+            "gloss": "occur",
+            "type": "active participle",
+            "root": "قوم",
+            "count": 5,
+            "ref": "3:113",
+            "pos": 7,
+            "alt": [
+              "standing",
+              "established"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "قيامه",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "قِيامَة",
+            "gloss": "resurrection",
+            "type": "noun",
+            "root": "قوم",
+            "count": 70,
+            "ref": "2:85",
+            "pos": 40,
+            "alt": [
+              "judgment"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مقامه",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "مُقامَة",
+            "gloss": "eternity",
+            "type": "passive participle",
+            "root": "قوم",
+            "count": 1,
+            "ref": "35:35",
+            "pos": 4
+          }
+        ]
+      },
+      {
+        "w": "ميقات",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مِيقات",
+            "gloss": "indicators of periods",
+            "type": "noun",
+            "root": "وقت",
+            "count": 8,
+            "ref": "2:189",
+            "pos": 6,
+            "alt": [
+              "set term",
+              "appointment"
+            ]
+          }
+        ]
+      }
+    ],
+    "otherFamily": [
+      {
+        "lemma": "مُسْتَقِيم",
+        "gloss": "straight",
+        "type": "active participle",
+        "root": "قوم",
+        "count": 37,
+        "ref": "2:142",
+        "pos": 21,
+        "alt": [
+          "straight path"
+        ]
+      },
+      {
+        "lemma": "اسْتَقامُ",
+        "gloss": "take a straight way",
+        "type": "verb",
+        "root": "قوم",
+        "count": 10,
+        "ref": "81:28",
+        "pos": 5,
+        "form": 10
+      }
+    ],
+    "maxScore": 82,
+    "featuredRoot": "قوم"
+  }
+}

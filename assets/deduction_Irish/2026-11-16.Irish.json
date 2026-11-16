@@ -1,0 +1,61 @@
+{
+  "title": "Uaigneas Faoin Pailme I bhfad i gCéin",
+  "intro": "Samhlaigh tearmann ciúin i bhfad ó na sluaite a bhfuil tú eolach orthu, áit a mbuaileann dílseacht le foraithne neamhghnách. Tarraingíonn seirbhíseach uaigneach siar i nglanacht agus i muinín, á chothabháil ag soláthar dofheicthe. Timpeall an anama seo bailíonn comharthaí nach féidir a mhíniú go rialta, agus cogarnaí amhrais ag fanacht taobh amuigh den áit uaigneach. Téigh níos gaire agus éist, mar cuirfidh an fhírinne anseo dúshlán gach toimhde.",
+  "clues": [
+    "Dhírigh mé mé féin ar adhradh i gcúlráid, á chothabháil ag soláthar ó mo Thiarna.",
+    "Fuair ​​mé dea-scéal gur roghnaigh Allah mé thar gach bean ar domhan.",
+    "Tharraing mé siar go háit iargúlta san oirthear, i bhfolach ó mo mhuintir, nuair a thaispeáin spiorad dom i bhfoirm fir fhoirfe.",
+    "Ghabh mé leanbh le briathar ó Allah cé nár bhain fear liom riamh.",
+    "D’fhulaing mé saothar liom féin faoi chrann pailme agus chuala mé guth ag tabhairt sóláis dom le sruthán faoi mo bhun agus dátaí úra le hithe agus le hól.",
+    "D’fhill mé ar mo mhuintir agus mo nuabheirthe á iompar agam, thug mé móid tost, agus labhair mo naíonán ón gcliabhán chun mé a chosaint mar sheirbhíseach Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Bilqis, rialóir Saba",
+        "Bean chéile Imran",
+        "Bean chéile Lút",
+        "Máire",
+        "Ásia, bean chéile an Fharó"
+      ],
+      "answer": "Máire"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Threoraigh siad eacsadós trasna na farraige scoilte",
+        "Thóg sé áirc chun maireachtáil ón tuile",
+        "Caitheadh ​​isteach i tine lasrach agus sábháladh é",
+        "Coincheap míorúilteach agus breith aonair faoi pailme",
+        "Slogtha ag iasc mór sa bhfarraige dhomhain"
+      ],
+      "answer": "Coincheap míorúilteach agus breith aonair faoi pailme"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An stoc pailme le sruthán faoi",
+        "An áirc ina luí ar Shliabh Judi",
+        "An Kaaba i Mecca",
+        "An tine a d'ullmhaigh Namrud",
+        "Gleann naofa Tuwa"
+      ],
+      "answer": "An stoc pailme le sruthán faoi"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Slogtha ag an talamh le seoda",
+        "Scriosta ag pléascadh toirneach as an gcamall baineann a shá isteach sa mhuinchille",
+        "Báite leis an arm sa bhfarraige",
+        "Iompú ina n-apaí as briseadh na Sabóide",
+        "Dearbhaithe nuair a labhair an nuabheirthe sa chliabhán"
+      ],
+      "answer": "Dearbhaithe nuair a labhair an nuabheirthe sa chliabhán"
+    }
+  },
+  "verseRef": "19:22",
+  "arabic": "۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًۭا قَصِيًّۭا",
+  "verse": "So she conceived him, and she withdrew with him to a remote place. (19:22)"
+}

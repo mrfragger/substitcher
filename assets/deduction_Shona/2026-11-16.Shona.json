@@ -1,0 +1,61 @@
+{
+  "title": "Kuve Woga Pasi Pemuchindwe Uri Kure",
+  "intro": "Fungidzira nzvimbo yakanyarara iri kure nemapoka evanhu vanojairana, uko kuzvipira kunosangana nemurairo unoshamisa. Muranda ari ega anobuda muhutsvene nekuvimba, achitsigirwa nezvinhu zvisingaonekwi. Mweya uyu unoungana zviratidzo zvinopikisa tsananguro yenguva dzose, ukuwo makuhwa ekusava nechokwadi achimirira kupfuura nzvimbo yekuvanda. Swedera pedyo uteerere, nekuti chokwadi pano chichapikisa fungidziro dzese.",
+  "clues": [
+    "Ndakazvipira kunamata ndiri ndega, ndichitsigirwa nerubatsiro rwaIshe wangu.",
+    "Ndakagamuchira mashoko anofadza ekuti Allah akandisarudza kupfuura vakadzi vese vepanyika.",
+    "Ndakaenda kunzvimbo iri kure yekumabvazuva, ndakafukidzwa nevanhu vangu, apo mweya wakaonekwa kwandiri uri muchimiro chemunhu akakwana.",
+    "Ndakabata pamuviri neshoko rakabva kuna Mwari kunyangwe pasina munhu akambondibata.",
+    "Ndakatsungirira kushanda ndiri ndega pasi pemuti wemuchindwe ndikanzwa inzwi richindinyaradza nerukova pasi pangu nemadate matsva ekudya nekunwa.",
+    "Ndakadzokera kuvanhu vangu ndakatakura mwana wangu achangoberekwa, ndakaita mhiko yekunyarara, uye mwana wangu akataura kubva paucheche achindidzivirira semushumiri waAllah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Bilqis, mutongi weSaba",
+        "Mudzimai waImran",
+        "Mudzimai waLut",
+        "Maryam",
+        "Asiya, mudzimai waFarao"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Akatungamira kubuda mugungwa rakapatsanurwa",
+        "Akavaka areka kuti apone mafashamo",
+        "Akakandwa mumoto unopfuta ndokuponeswa",
+        "Kubata pamuviri kunoshamisa uye kuberekwa uri wega pasi pechanza",
+        "Yakamedzwa nehove huru mugungwa rakadzika"
+      ],
+      "answer": "Kubata pamuviri kunoshamisa uye kuberekwa uri wega pasi pechanza"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Hunde yemuchindwe ine rukova pasi",
+        "Areka yakamira paGomo reJudhi",
+        "Kaaba muMakkah",
+        "Moto wakagadzirwa naNamrud",
+        "Mupata mutsvene weTuwa"
+      ],
+      "answer": "Hunde yemuchindwe ine rukova pasi"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Yakamedzwa nenyika nepfuma",
+        "Akaparadzwa nekuputika kukuru nekuda kwekurova ngamera hono",
+        "Kunyura neuto mugungwa",
+        "Akachinjwa kuita tsoko nekuda kwekutyora Sabata",
+        "Zvakasimbiswa apo mwana achangoberekwa akataura ari mubeche"
+      ],
+      "answer": "Zvakasimbiswa apo mwana achangoberekwa akataura ari mubeche"
+    }
+  },
+  "verseRef": "19:22",
+  "arabic": "۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًۭا قَصِيًّۭا",
+  "verse": "So she conceived him, and she withdrew with him to a remote place. (19:22)"
+}

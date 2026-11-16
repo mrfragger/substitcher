@@ -1,0 +1,61 @@
+{
+  "title": "Solitudo Sub Palma Distanti",
+  "intro": "Finge tibi quietum refugium procul a turbis notis, ubi devotio decreto extraordinario occurrit. Servus solitarius se in puritate et fiducia retrahit, invisibili provisione sustentatus. Circum hanc animam congregantur signa quae explicationem ordinariam resistunt, dum susurri dubitationis ultra locum seclusionis exspectant. Accede propius et audi, nam veritas hic omnem suppositionem provocabit.",
+  "clues": [
+    "Cultui me in secreto dedicavi, provisione Domini mei sustentatus.",
+    "Nuntium laetum accepi quod Deus me prae omnibus feminis mundi elegerat.",
+    "In locum remotum orientalem me recepi, a populo meo velatum, cum mihi spiritus apparuit in forma hominis perfecti.",
+    "Verbo Dei concepi filium, quamquam nemo me tetigit umquam.",
+    "Sola sub palma laborem pertuli et vocem audivi me consolantem cum rivo sub me et dactylis recentibus ad edendum et bibendum.",
+    "Ad populum meum reversus sum infantem meum recens natum portans, votum silentii feci, et infans meus e cunis locutus est ut me tamquam servum Dei defenderet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Bilqis, princeps Sabae",
+        "Uxor Imrani",
+        "Uxor Lut",
+        "Mariam",
+        "Asiya, uxor Pharaonis"
+      ],
+      "answer": "Mariam"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Exodum trans mare divisum duxit",
+        "Arcam aedificavit ut diluvium superviveret",
+        "In ignem ardentem proiectus et servatus",
+        "Conceptio mirabilis et partus solitarius sub palma",
+        "Ab magno pisce in alto mari deglutitus"
+      ],
+      "answer": "Conceptio mirabilis et partus solitarius sub palma"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Truncus palmae cum rivo infra",
+        "Arca in monte Iudi quiescens",
+        "Kaaba apud Meccam",
+        "Ignis a Namrud paratus",
+        "Vallis sacra Tuwae"
+      ],
+      "answer": "Truncus palmae cum rivo infra"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "A terra cum thesauris absorptus",
+        "Tonitrui fragore deleta ob femur camelam vulneratam",
+        "Cum exercitu in mari submersus",
+        "In simias conversi propter sabbatum violandum",
+        "Vindicatus cum infans recens natus in cunis locutus est"
+      ],
+      "answer": "Vindicatus cum infans recens natus in cunis locutus est"
+    }
+  },
+  "verseRef": "19:22",
+  "arabic": "۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًۭا قَصِيًّۭا",
+  "verse": "So she conceived him, and she withdrew with him to a remote place. (19:22)"
+}

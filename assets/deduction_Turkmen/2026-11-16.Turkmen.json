@@ -1,0 +1,61 @@
+{
+  "title": "Uzakdaky palmanyň aşagyndaky ýalňyzlyk",
+  "intro": "Tanyş märekelerden uzakda, yhlasyň adatdan daşary karar bilen duşuşýan ýerinde asuda bir dynç alyş ýerini göz öňüne getiriň. Ýalňyz hyzmatkär görünmeýän üpjünçilik bilen goldanylýan arassalyk we ynam bilen çekilýär. Bu ruhuň töwereginde adaty düşündirişe garşy çykýan alamatlar toplanýar, şol bir wagtyň özünde şübhe pyşyrdamalary gizlinligiň aňyrsynda garaşýar. Ýakynlaşyň we diňleň, sebäbi bu ýerdäki hakykat her bir çaklama garşy çykar.",
+  "clues": [
+    "Men Rebbimiň rysgy bilen iýmitlenip, gizlinlikde ybadata özümi bagyşladym.",
+    "Allanyň meni dünýädäki ähli aýallardan saýlandygy barada hoş habar aldym.",
+    "Men halkymdan gizlenip, gündogaryň uzak bir ýerine çekildim, şonda maňa kämil adamyň keşbinde bir ruh peýda boldy.",
+    "Maňa hiç bir erkek degmedik bolsa-da, Allanyň bir sözü bilen men göwreli boldum.",
+    "Men palma agajynyň aşagynda ýeke özüm agyr zähmet çekdim we bir ses eşitdim, ol meni aşagymda suw akdyryp, iýip-içmek üçin täze hurma bilen teselli edýärdi.",
+    "Men täze doglan çagamy göterip, halkymyň ýanyna gaýdyp geldim, dymmak kasamyny etdim we çagam meni Allanyň bendesi hökmünde goramak üçin bäşikden gepledi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Bilkis, Saba hökümdary",
+        "Imranyň aýaly",
+        "Lutyň aýaly",
+        "Merýem",
+        "Fyrownyň aýaly Aziýa"
+      ],
+      "answer": "Merýem"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Bölünen deňziň üstünden göçdi",
+        "Silden aman galmak üçin gämi gurdy",
+        "Ýanýan oda taşlandy we halas edildi",
+        "Alaçagyň aşagynda möjüze göwrelilik we ýekelikde dogluş",
+        "Deňiziň çuňlugynda uly balyk tarapyndan ýuwudyldy"
+      ],
+      "answer": "Alaçagyň aşagynda möjüze göwrelilik we ýekelikde dogluş"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Aşakda derýajyk bolan palma süňküniň",
+        "Gämi Judi dagynda durýar",
+        "Mekkedäki Käbe",
+        "Namrudyň taýýarlan otuny",
+        "Tuwanyň mukaddes jülgesi"
+      ],
+      "answer": "Aşakda derýajyk bolan palma süňküniň"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Ýer hazynalar bilen ýuwudyldy",
+        "Düýäniň aýaklaryny döwmek üçin gümmürdeýän üfleme bilen weýran edildi",
+        "Goşun bilen deňizde gark boldy",
+        "Sabat günini bozanlygy üçin maýmynlara öwrüldi",
+        "Täze doglan çaga bäşikde gürleşende aklandy"
+      ],
+      "answer": "Täze doglan çaga bäşikde gürleşende aklandy"
+    }
+  },
+  "verseRef": "19:22",
+  "arabic": "۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًۭا قَصِيًّۭا",
+  "verse": "So she conceived him, and she withdrew with him to a remote place. (19:22)"
+}

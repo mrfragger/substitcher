@@ -1,0 +1,61 @@
+{
+  "title": "Upweke Chini ya Mtende wa Mbali",
+  "intro": "Hebu wazia mahali pa kukimbilia kimya kimya mbali na umati unaowajua, ambapo ibada hukutana na amri ya ajabu. Mtumishi mmoja hujiondoa kwa usafi na uaminifu, akitegemezwa na riziki isiyoonekana. Kuzunguka roho hii hukusanyika ishara zinazopinga maelezo ya kawaida, huku minong'ono ya shaka ikisubiri zaidi ya mahali pa kujitenga. Sogea karibu na usikilize, kwani ukweli hapa utapinga kila dhana.",
+  "clues": [
+    "Nilijitolea kufanya ibada kwa kujitenga, nikitegemezwa na riziki kutoka kwa Mola wangu.",
+    "Nilipokea habari njema kwamba Mwenyezi Mungu amenichagua mimi kuliko wanawake wote wa ulimwengu.",
+    "Nilijitenga na watu wangu, nikiwa nimejificha kutoka kwa watu wangu, roho iliponitokea katika umbo la mwanadamu mkamilifu.",
+    "Nilitunga mimba kwa neno kutoka kwa Mwenyezi Mungu ingawa hakuna mtu aliyewahi kunigusa.",
+    "Nilivumilia kazi peke yangu chini ya mtende na nikasikia sauti ikinifariji kwa kijito chini yangu na tende mpya za kula na kunywa.",
+    "Nilirudi kwa watu wangu nikiwa nimembeba mtoto wangu mchanga, nikaweka kiapo cha ukimya, na mtoto wangu mchanga akazungumza tangu utotoni kunitetea kama mtumishi wa Mwenyezi Mungu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Bilqis, mtawala wa Saba",
+        "Mke wa Imran",
+        "Mke wa Lut",
+        "Maryam",
+        "Asia, mke wa Farao"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Aliongoza msafara kuvuka bahari iliyogawanyika",
+        "Alijenga safina ili kuokoka gharika",
+        "Alitupwa kwenye moto mkali na akaokolewa",
+        "Kutunga mimba kwa njia ya muujiza na kuzaliwa peke yako chini ya kiganja cha mkono",
+        "Imemezwa na samaki mkubwa katika bahari ya kina kirefu"
+      ],
+      "answer": "Kutunga mimba kwa njia ya muujiza na kuzaliwa peke yako chini ya kiganja cha mkono"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Shina la mtende lenye kijito chini",
+        "Sanduku likiwa limeegemea juu ya Mlima Judi",
+        "Kaaba huko Makka",
+        "Moto ulioandaliwa na Namrud",
+        "Bonde takatifu la Tuwa"
+      ],
+      "answer": "Shina la mtende lenye kijito chini"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Imemezwa na dunia na hazina",
+        "Aliharibiwa na mlipuko mkubwa kwa kumkata ngamia jike",
+        "Kuzama na jeshi baharini",
+        "Aligeuka kuwa nyani kwa kuvunja Sabato",
+        "Ilithibitishwa wakati mtoto mchanga alipozungumza katika utoto"
+      ],
+      "answer": "Ilithibitishwa wakati mtoto mchanga alipozungumza katika utoto"
+    }
+  },
+  "verseRef": "19:22",
+  "arabic": "۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًۭا قَصِيًّۭا",
+  "verse": "So she conceived him, and she withdrew with him to a remote place. (19:22)"
+}

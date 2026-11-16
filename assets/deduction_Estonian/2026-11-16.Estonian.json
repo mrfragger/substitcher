@@ -1,0 +1,61 @@
+{
+  "title": "Üksindus kauge palmi all",
+  "intro": "Kujutage ette vaikset pelgupaika kaugel tuttavatest rahvahulkadest, kus pühendumus kohtub erakordse otsusega. Üksildane teener taandub puhtuses ja usalduses, toetudes nähtamatule varustusele. Selle hinge ümber kogunevad märgid, mis trotsivad tavalist selgitust, samal ajal kui eraldatuse paiga taga ootavad kahtluse sosinad. Astuge lähemale ja kuulake, sest tõde seab siin kahtluse alla iga oletuse.",
+  "clues": [
+    "Pühendasin end eraldatud jumalateenistusele, mida toetas mu Issanda varustav toetus.",
+    "Sain rõõmusõnumi, et Allah oli valinud mind kõigi maailma naiste seast.",
+    "Ma tõmbusin kaugesse idapoolsesse paika, oma rahva eest varjatud, kui mulle ilmus vaim täiusliku inimese kujul.",
+    "Ma jäin lapseks Allahi sõna läbi, kuigi ükski mees polnud mind kunagi puudutanud.",
+    "Ma pidasin palmi all üksinda vaeva vastu ja kuulsin häält, mis mind lohutas ojaga minu all ning värskete datlitega, mida süüa ja juua.",
+    "Ma naasin oma rahva juurde, kandes oma vastsündinut, andsin vaikimisvande ja mu imik rääkis hällist peale, et kaitsta mind kui Allahi teenijat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Bilqis, Saba valitseja",
+        "Imrani naine",
+        "Luti naine",
+        "Maryam",
+        "Asiya, vaarao naine"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Juhtis lahkulöömist üle lõhenenud mere",
+        "Ehitas laeva, et veeuputus üle elada",
+        "Visati lõõmavasse tulle ja päästeti",
+        "Imeline viljastumine ja üksildane sünd palmi all",
+        "Suur kala neelas alla sügavas meres"
+      ],
+      "answer": "Imeline viljastumine ja üksildane sünd palmi all"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Palmitüvi ja allpool oja",
+        "Laev puhkab Juudi mäel",
+        "Kaaba Mekas",
+        "Namrudi valmistatud tuli",
+        "Tuwa püha org"
+      ],
+      "answer": "Palmitüvi ja allpool oja"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Maa aaretega alla neelatud",
+        "Hävitas äikeselöögi, mis kahjustas emase kaameli reielihaseid",
+        "Uppus koos armeega merre",
+        "Muutusid ahvideks hingamispäeva rikkumise pärast",
+        "Õigeks mõisteti, kui vastsündinu hällis rääkis"
+      ],
+      "answer": "Õigeks mõisteti, kui vastsündinu hällis rääkis"
+    }
+  },
+  "verseRef": "19:22",
+  "arabic": "۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًۭا قَصِيًّۭا",
+  "verse": "So she conceived him, and she withdrew with him to a remote place. (19:22)"
+}

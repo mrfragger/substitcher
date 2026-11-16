@@ -1,0 +1,61 @@
+{
+  "title": "Uzaq Ovucun Altında Tənhalıq",
+  "intro": "Tanış izdihamdan uzaqda, sədaqətin fövqəladə bir fərmanla qarşılaşdığı sakit bir sığınacağı təsəvvür edin. Tək bir xidmətçi görünməz təminatla təmin edilən saflıq və etibar içində geri çəkilir. Bu ruhun ətrafında adi izahata meydan oxuyan əlamətlər toplanır, şübhə pıçıltıları isə tənhalıq yerindən kənarda gözləyir. Daha yaxın gəlin və qulaq asın, çünki burada həqiqət hər bir fərziyyəyə meydan oxuyacaq.",
+  "clues": [
+    "Rəbbimin verdiyi ruzi ilə özümü tənhalıqda ibadətə həsr etdim.",
+    "Allahın məni aləmlərin bütün qadınlarından üstün tutması müjdəsini aldım.",
+    "Mən xalqımdan gizlənmiş şərqin ucqar bir yerinə çəkildim. Birdən mənə kamil bir insan şəklində bir ruh peyda oldu.",
+    "Mənə heç bir insan toxunmadığı halda, Allahın bir kəlməsi ilə hamilə qaldım.",
+    "Xurma ağacının altında təkbaşına doğuşa dözdüm və bir səs eşitdim ki, altımdan axan çay və yeyib-içmək üçün təzə xurma ilə məni təsəlli edir.",
+    "Yeni doğulmuş uşağımı qucağımda götürüb qövmümün yanına qayıtdım, sükut andı içdim və körpəm beşikdən Allahın qulu olduğum üçün məni müdafiə etmək üçün danışdı."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Səba hökmdarı Bilqis",
+        "İmranın həyat yoldaşı",
+        "Lutun arvadı",
+        "Məryəm",
+        "Fironun həyat yoldaşı Asiya"
+      ],
+      "answer": "Məryəm"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "İkiyə bölünmüş dənizdən bir köçə rəhbərlik etdi",
+        "Daşqından sağ çıxmaq üçün bir gəmi düzəltdi",
+        "Alovlu bir oda atıldı və xilas edildi",
+        "Möcüzəvi şəkildə hamiləlik və xurma altında tək doğuş",
+        "Dərin dənizdə böyük bir balıq tərəfindən uduldu"
+      ],
+      "answer": "Möcüzəvi şəkildə hamiləlik və xurma altında tək doğuş"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Aşağıda bir axın olan xurma gövdəsi",
+        "Gəmi Cudi dağında dayanır",
+        "Məkkədəki Kəbə",
+        "Nəmrudun hazırladığı od",
+        "Müqəddəs Tuva vadisi"
+      ],
+      "answer": "Aşağıda bir axın olan xurma gövdəsi"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Xəzinələrlə yer üzü tərəfindən udulmuş",
+        "Dişi dəvənin bud əzələlərini zədələmək üçün gurultulu bir partlayışla məhv edildi",
+        "Dənizdə ordu ilə birlikdə boğuldu",
+        "Şənbə gününü pozduğuna görə meymuna çevrildi",
+        "Yenidoğulmuş körpə beşikdə danışanda haqlı çıxdı"
+      ],
+      "answer": "Yenidoğulmuş körpə beşikdə danışanda haqlı çıxdı"
+    }
+  },
+  "verseRef": "19:22",
+  "arabic": "۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًۭا قَصِيًّۭا",
+  "verse": "So she conceived him, and she withdrew with him to a remote place. (19:22)"
+}

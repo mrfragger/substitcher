@@ -1,0 +1,61 @@
+{
+  "title": "Solitude Na nse ya Palmier ya Mosika",
+  "intro": "Kanisá esika moko ya kimya oyo ezali mosika na ebele ya bato oyo oyebi, epai komipesa ekutani na mobeko moko ya kokamwa. Mosaleli oyo azali ye moko amilongolaka na bopɛto mpe na kotyela ye motema, asimbami na bibongiseli oyo emonanaka te. Nzinga nzinga ya molimo oyo esangisi bilembo oyo ezali koboya ndimbola ya momesano, ntango maloba ya ntembe ya ntembe ezali kozela koleka esika ya bozangi bato. Bopusana penepene mpe boyoka, mpo bosolo awa ekotelemela likanisi nyonso.",
+  "clues": [
+    "Namipesaki na kosambela na bozangi bato, nasungami na bibongiseli uta na Nkolo na ngai.",
+    "Nazwaki nsango ya esengo ete Allah aponi ngai likolo ya basi banso ya mokili.",
+    "Namilongolaki na esika moko mosika na ɛsti, nazipami na bato na ngai, ntango elimo moko ebimaki epai na ngai na lolenge ya moto ya kokoka.",
+    "Nazwaki zemi ya mwana na liloba moko oyo euti na Allah atako moto moko te asimbaki ngai.",
+    "Nayikaki mpiko na mosala ya kosala ngai moko na nse ya nzete ya mbila mpe nayokaki mongongo moko ya kobɔndisa ngai na ebale na nse na ngai mpe dati ya sika mpo na kolya mpe komɛla.",
+    "Nazongaki epai ya bato na ngai namemaki mwana na ngai ya sika, nasalaki ndai ya kofanda nyɛɛ, mpe bebe na ngai alobaki uta na berceau mpo na kobatela ngai lokola mosaleli ya Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Bilqis, mokonzi ya Saba",
+        "Mwasi ya Imran",
+        "Mwasi ya Luta",
+        "Maryam",
+        "Asiya, mwasi ya Farao"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Akambaki bobimisi na ngambo mosusu ya mbu oyo ekabwanaki",
+        "Atongaki masuwa mpo na kobika na mpela",
+        "Babwakami na mɔ́tɔ oyo ezalaki kopela mpe babikisamaki",
+        "Zemi ya likamwisi mpe kobotama ye moko na nse ya loboko ya mobali",
+        "Emelamaki na mbisi monene na kati ya mbu mozindo"
+      ],
+      "answer": "Zemi ya likamwisi mpe kobotama ye moko na nse ya loboko ya mobali"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Mokuwa ya mbila oyo ezali na ebale na nse",
+        "Masuwa oyo ezali kopema na Ngomba Yudi",
+        "Ba Kaaba na Makkah",
+        "Mɔtɔ oyo Namrud abongisaki",
+        "Lobwaku mosantu ya Tuwa"
+      ],
+      "answer": "Mokuwa ya mbila oyo ezali na ebale na nse"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Emelami na mabele na biloko ya motuya",
+        "Ebebisamaki na mopɛpɛ ya nkake mpo na kokanga nsinga ya kamela ya mwasi",
+        "Bazindaki elongo na basoda na mbu",
+        "Ebongwanaki ba singes mpo na kobuka Sabata",
+        "Vindicated tango mwana oyo abotami sika alobaki na berceau"
+      ],
+      "answer": "Vindicated tango mwana oyo abotami sika alobaki na berceau"
+    }
+  },
+  "verseRef": "19:22",
+  "arabic": "۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًۭا قَصِيًّۭا",
+  "verse": "So she conceived him, and she withdrew with him to a remote place. (19:22)"
+}
