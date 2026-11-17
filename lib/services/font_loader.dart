@@ -164,8 +164,6 @@ class CustomFontLoader {
       return;
     }
 
-    // print('Loading fonts from: $fontsPath');
-
     final fontsDir = Directory(fontsPath);
     final fontFiles = <File>[];
 
@@ -225,8 +223,6 @@ class CustomFontLoader {
         'fonts'
       ));
 
-      // print('DEBUG: Looking for fonts at: ${flutterAssetsDir.path}');
-      // print('DEBUG: Directory exists: ${await flutterAssetsDir.exists()}');
 
       if (await flutterAssetsDir.exists()) {
         final files = await flutterAssetsDir.list().toList();

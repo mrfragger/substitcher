@@ -11,6 +11,7 @@ class FontCategory {
   static const String uppercase = 'uppercase';
   static const String mustBeUppercase = 'mustbeuppercase';
   static const String seesawcase = 'seesawcase';
+  static const String misc123 = 'misc123';
 
   static const String foreign = 'foreign';
   static const String arabic = 'arabic';
@@ -46,6 +47,7 @@ class FontMetadata {
   bool mustBeUppercase() => subCategories.contains(FontCategory.mustBeUppercase);
   bool isSeesawCase() => subCategories.contains(FontCategory.seesawcase);
   bool hasAlternates() => subCategories.contains(FontCategory.alternates);
+
 
   String get displayPath {
     final parts = <String>[mainCategory];

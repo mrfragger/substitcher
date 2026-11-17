@@ -37,13 +37,14 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 
 ![](images/fonts.jpg)
 
-- download 42 demo fonts + two free foreign fonts or search for them to download on font websites
+- download 46 demo fonts + two free foreign fonts or search for them to download on font websites
 - custom fonts can all be in one directory within various subdirectories, it recursively loads the fonts
-- ![customfonts.zip 19 MB](https://github.com/mrfragger/substitcher/raw/main/images/customfonts.zip)
+- ![customfonts.zip 20 MB](https://github.com/mrfragger/substitcher/raw/main/images/customfonts.zip)
 - in font panel set custom folder to this one and all fonts will be loaded
 - [177Studio](https://177studio.com) with 17 fonts
 - [Letterara Studio](https://letterarastudio.com) with 7 fonts
 - [Grezline Studio](https://grezlinestudio.com) with 6 fonts
+- [GraphicSauce](https://graphicsauce.co/font/) with 4 fonts
 
 ```bash
 │  customfonts
@@ -69,15 +70,20 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 │   ├── Axaria.ttf (Letterara)
 │   ├── Bello Curve.ttf (Letterara)
 │   ├── Carevo.ttf (Letterara)
-│   ├── Chocolate Chips.otf (inermedia)
 │   ├── Efiafys.ttf (Dhabee)
 │   ├── Emandline.ttf (Letterara) 
 │   ├── Fortunish.ttf (Letterara) 
 │   ├── Maple Peachy.otf (Keithzo)
-│   ├── Row Vatikano.ttf (authentype Lab)
 │   ├── Sophia Melanie.otf (Grezline)
 │   ├── Zentaro.ttf (Letterara)
 │   └── Zerothen.ttf (Letterara)
+├── misc123
+│   ├── Chocolate Chips.otf (inermedia)
+│   ├── De Latto.ttf (GraphicSauce)
+│   ├── Peace Begins.otf (GraphicSauce)
+│   ├── Rebellion Squad.ttf (GraphicSauce)
+│   ├── Restco.otf (GraphicSauce)
+│   └── Row Vatikano.ttf (authentype Lab)
 ├── missingligatures177
 │   ├── Abstract Settings demo.otf
 │   ├── Coastline Classical demo.otf

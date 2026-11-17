@@ -74,14 +74,21 @@ class FontDatabase {
      'Axaria': FontMetadata(fontName: 'Axaria', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
      'Bello Curve': FontMetadata(fontName: 'Bello Curve', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
      'Carevo': FontMetadata(fontName: 'Carevo', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
-     'Chocolate Chips': FontMetadata(fontName: 'Chocolate Chips', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
      'Efiafys': FontMetadata(fontName: 'Efiafys', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
      'Emandline': FontMetadata(fontName: 'Emandline', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
      'Maple Peachy': FontMetadata(fontName: 'Maple Peachy', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
      'Fortunish': FontMetadata(fontName: 'Fortunish', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
-     'Row Vatikano': FontMetadata(fontName: 'Row Vatikano', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
      'Sophia Melanie': FontMetadata(fontName: 'Sophia Melanie', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
      'Zentaro': FontMetadata(fontName: 'Zentaro', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
+
+     // ==================== demo/misc123 ====================
+
+     'Chocolate Chips': FontMetadata(fontName: 'Chocolate Chips', mainCategory: FontCategory.demo, subCategories: [FontCategory.misc123], studio: null),
+     'De Latto': FontMetadata(fontName: 'De Latto', mainCategory: FontCategory.demo, subCategories: [FontCategory.misc123], studio: null),
+     'Peace Begins': FontMetadata(fontName: 'Peace Begins', mainCategory: FontCategory.demo, subCategories: [FontCategory.misc123], studio: null),
+     'Rebellion Squad': FontMetadata(fontName: 'Rebellion Squad', mainCategory: FontCategory.demo, subCategories: [FontCategory.misc123], studio: null),
+     'Restco': FontMetadata(fontName: 'Restco', mainCategory: FontCategory.demo, subCategories: [FontCategory.misc123], studio: null),
+     'Row Vatikano': FontMetadata(fontName: 'Row Vatikano', mainCategory: FontCategory.demo, subCategories: [FontCategory.misc123], studio: null),
 
      // ==================== demo/missingligatures/177studio ====================
      'Abstract Settings demo': FontMetadata(fontName: 'Abstract Settings demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.missingLigatures], studio: FontCategory.studio177, ligaturePairs: ["as", "be", "de", "es", "ha", "le", "ly", "ne", "of", "op", "pr", "rt", "so", "ur", "ic", "is"]),

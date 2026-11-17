@@ -2774,6 +2774,7 @@ class SidePanel extends StatelessWidget {
           _buildSubCategoryButton('alternates', FontCategory.alternates),
           _buildSubCategoryButton('MustBeUPPERCASE', FontCategory.mustBeUppercase),
           _buildSubCategoryButton('sEeSaWcAsE', FontCategory.seesawcase),
+          _buildSubCategoryButton('misc123', FontCategory.misc123),
         ],
         const Divider(color: Colors.white24),
         _buildCategoryButton('free', FontCategory.free, null, null),
