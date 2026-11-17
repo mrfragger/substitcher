@@ -1,0 +1,61 @@
+{
+  "title": "El fuego visto desde lejos",
+  "intro": "Imagínese un valle oscuro por la noche, un resplandor lejano que parpadea en el horizonte y un viajero solitario que avanza hacia esa luz en busca de orientación, solo para encontrarse con una misión que lo enfrentará a un imperio y liberará a una nación oprimida.",
+  "clues": [
+    "Cuando era un bebé, fui abandonado a la deriva en un cofre sobre el río, por inspiración divina, a mi madre.",
+    "Me crié en la misma casa del tirano que oprimía a mi pueblo.",
+    "Huí tras un altercado fatal y pasé años en Madyan cuidando rebaños a cambio de dinero.",
+    "Vi un fuego junto a la montaña y oí una voz que me llamó desde el valle bendito.",
+    "Se me concedieron dos señales poderosas en mis manos: un bastón que se convirtió en serpiente y una mano que resplandecía con un blanco intenso.",
+    "Estuve junto a mi hermano ante el gobernante de Egipto y, más tarde, vi cómo el mar se abría para que pudiéramos escapar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "El profeta Mahoma",
+        "Khidr, el sirviente sabio",
+        "Profeta Musa (Moisés)",
+        "Profeta Dhul-Kifl",
+        "Profeta Al-Yasa (Elisha)"
+      ],
+      "answer": "Profeta Musa (Moisés)"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Llamado por Alá en el Valle Bendito y enviado al Faraón",
+        "Construyeron el Arca para sobrevivir al Diluvio",
+        "En un sueño, se le ordenó sacrificar a un hijo.",
+        "Interpretó el sueño de siete vacas gordas para un rey.",
+        "Fue engullido por un gran pez en las profundidades del mar."
+      ],
+      "answer": "Llamado por Alá en el Valle Bendito y enviado al Faraón"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El fuego que se volvió fresco y pacífico",
+        "El Arca",
+        "La mesa servida desde el cielo",
+        "La camella de Thamud",
+        "Monte Tur y el personal"
+      ],
+      "answer": "Monte Tur y el personal"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "El jardín quedó destruido durante la noche.",
+        "El ejército del faraón se ahogó y los hijos de Israel se salvaron.",
+        "El ejército de elefantes fue apedreado.",
+        "El fuego se volvió frío y pacífico.",
+        "Los que rompieron el sábado fueron convertidos en simios."
+      ],
+      "answer": "El ejército del faraón se ahogó y los hijos de Israel se salvaron."
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

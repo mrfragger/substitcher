@@ -1,0 +1,61 @@
+{
+  "title": "Qafaraak Tumbulle Gira",
+  "intro": "Bar tite le golo taswiir, baxxo le iffonta horizontal laqlaqissaah, dubuk yan safar abeeni woo iffonta fanah gexak, miraaciino gorrisak, dubuk imperiyal fooca fanah gexak, qanxaffe le agat currik yayyaaqeenimih farmo luk gexa.",
+  "clues": [
+    "Anu alqih addat alil daqar amol daffeyseh suge Yalli yiinah ruube.",
+    "Anu yi ummatta xukko abeh yan caylaleelah buxah addal enbe.",
+    "Anu kudeh qidimih sittin way kee liggiditte tatruse Madiyaanal tamlimeh qarwa hanaawisak.",
+    "Anu qalek xaqul gira ubleeh, barkat le golol xongolot yoo seecime.",
+    "Anu namma caylale asta yomcowweh inni gabat: abeesa tekke caxxaa kee qado diifu le gaba.",
+    "Anu inni toobokoyta lih Masri amoytak naharal sooleh sugeeh, sarra ni kudah baddi baxsimtem uble."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Anu miyyaay?",
+      "options": [
+        "Macammad yallih farmoyta",
+        "Khidr, kas le taama abeyna",
+        "Nabi Muusa (Muusa)",
+        "Nabiyyi Zul-Kifl",
+        "farmoyti Al-yasa (Ilaasha)"
+      ],
+      "answer": "Nabi Muusa (Muusa)"
+    },
+    "trial": {
+      "label": "Gibbatu/Tekkooka",
+      "options": [
+        "Yalli seecimam Barkatle golol kee firqawni fan ruubem .",
+        "Weeqi catoonuh Doonik xisen",
+        "Soonoh addat baxa fida kah abaanam amrisen",
+        "gabul le malcina soono amoytah maqniseh",
+        "Adda xer badih addat kaxxa kullumti yanxuqeh suge"
+      ],
+      "answer": "Yalli seecimam Barkatle golol kee firqawni fan ruubem ."
+    },
+    "location": {
+      "label": "Lafa le liyyitte",
+      "options": [
+        "Xamcaay salaam bahte gira",
+        "Doonik",
+        "tarbeeza qaraanak fiddinowte",
+        "Samud gaali",
+        "Tur qale kee adoytit"
+      ],
+      "answer": "Tur qale kee adoytit"
+    },
+    "outcome": {
+      "label": "Xalu",
+      "options": [
+        "caxaaxuwi arac inki bar finqitteh",
+        "Firqawni qande leeh addat raddeeh, Israa-eel xaylo cattimteh.",
+        "Dakanih qande xaatat radde",
+        "Gira xamca kee salaam bahte",
+        "Sabti-digloytit damaaqe fanah korsen"
+      ],
+      "answer": "Firqawni qande leeh addat raddeeh, Israa-eel xaylo cattimteh."
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

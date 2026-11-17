@@ -1,0 +1,61 @@
+{
+  "title": "Moto Unoonekwa Kubva Kure",
+  "intro": "Fungidzira mupata une rima husiku, chiedza chiri kure chichipenya, uye mufambi ari ega achifamba akananga kuchiedza ichocho achitsvaga gwara, ozopiwa basa richatarisana neumambo uye kusunungura rudzi rwakadzvinyirirwa.",
+  "clues": [
+    "Ndakaiswa mubhokisi diki diki parwizi ndichifuridzirwa naAllah kuna amai vangu.",
+    "Ndakakurira mumhuri yemudzvinyiriri aidzvinyirira vanhu vangu.",
+    "Ndakatiza mushure mekukakavadzana kwakauraya vanhu uye ndakapedza makore akawanda kuMadyan ndichifudza makwai emari.",
+    "Ndakaona moto pedyo negomo uye ndakashevedzwa neinzwi richibva mumupata wakaropafadzwa.",
+    "Ndakapiwa zviratidzo zviviri zvikuru mumaoko angu: tsvimbo yakazova nyoka uye ruoko rwakapenya chena.",
+    "Ndakamira nemukoma wangu pamberi pemutongi weIjipiti uye gare gare ndakaona gungwa richipatsanurwa kuti titize."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muporofita Muhammad",
+        "Khidr, Muranda Akachenjera",
+        "Muporofita Musa (Mosesi)",
+        "Muporofita Dhul-Kifl",
+        "Muprofita Al-Yasa (Erisha)"
+      ],
+      "answer": "Muporofita Musa (Mosesi)"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Akadanwa naAllah kuMupata Wakaropafadzwa ndokutumwa kuna Farao",
+        "Akavaka Areka kuti apone paMafashamo",
+        "Akarayirwa kubayira mwanakomana muchiroto",
+        "Akadudzira hope dzemombe nomwe dzakakora dzamambo",
+        "Yakamedzwa nehove huru mugungwa rakadzika"
+      ],
+      "answer": "Akadanwa naAllah kuMupata Wakaropafadzwa ndokutumwa kuna Farao"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Moto wakazotonhora uye wakanyarara",
+        "Areka",
+        "Tafura yakapararira kubva kudenga",
+        "Ngamera hadzi yeThamud",
+        "Gomo reTur neVashandi"
+      ],
+      "answer": "Gomo reTur neVashandi"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Bindu rakaparadzwa usiku hwose",
+        "Hondo yaFarao yakanyura uye vana veIsraeri vakaponeswa",
+        "Hondo yenzou yakatemwa nematombo",
+        "Moto wakava wakadzikama uye wakanyarara",
+        "Vaputsi veSabata vakaitwa tsoko"
+      ],
+      "answer": "Hondo yaFarao yakanyura uye vana veIsraeri vakaponeswa"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

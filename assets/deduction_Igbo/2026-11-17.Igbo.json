@@ -1,0 +1,61 @@
+{
+  "title": "Ahụrụ Ọkụ n'Ebe Dị Anya",
+  "intro": "Were anya nke uche gị hụ ndagwurugwu gbara ọchịchịrị n'abalị, ìhè dị anya na-enwu n'ihu igwe, na onye njem naanị ya na-aga n'ìhè ahụ ịchọ nduzi, naanị ihe ga-eme bụ ịrụ ọrụ ga-ezute alaeze ukwu ma tọhapụ mba a na-emegbu emegbu.",
+  "clues": [
+    "E tinyere m n'ime mmiri dị ka nwa ọhụrụ n'ime igbe n'elu osimiri n'okpuru mmụọ nsọ Chineke nye nne m.",
+    "A zụlitere m n'ezinụlọ onye ọchịchị aka ike nke na-emegbu ndị m.",
+    "M gbapụrụ mgbe esemokwu dị egwu gasịrị, m wee nọrọ ọtụtụ afọ na Madyan na-azụ ìgwè atụrụ maka ọrụ.",
+    "Ahụrụ m ọkụ n'akụkụ ugwu ahụ, e wee kpọọ m ya n'olu sitere na ndagwurugwu a gọziri agọzi.",
+    "E nyere m ihe ịrịba ama abụọ dị ike n'aka m: mkpara nke ghọrọ agwọ na aka nke na-egbuke egbuke ọcha.",
+    "Eguzoro m n'akụkụ nwanne m nwoke n'ihu onye na-achị Ijipt, ma mechaa hụ ka oké osimiri kewara abụọ maka anyị ịgbapụ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Onye Amụma Muhammad",
+        "Khidr, Ohu Mara Ihe",
+        "Onye Amụma Mozis (Moses)",
+        "Onye Amụma Dhul-Kifl",
+        "Onye Amụma Al-Yasa (Elisha)"
+      ],
+      "answer": "Onye Amụma Mozis (Moses)"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Allah kpọrọ ya na Ndagwurugwu Ngọzi ma ziga ya na Fero",
+        "Wuru Ụgbọ ahụ iji lanarị Iju Mmiri ahụ",
+        "E nyere ya iwu ka o jiri nwa nwoke chụọ àjà ná nrọ",
+        "Ọ kọwara nrọ nke ehi asaa buru ibu maka eze",
+        "Azụ̀ ukwu dị n'oké osimiri miri emi loro ya"
+      ],
+      "answer": "Allah kpọrọ ya na Ndagwurugwu Ngọzi ma ziga ya na Fero"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Ọkụ ahụ nke ghọrọ oyi ma dị jụụ",
+        "Igbe ahụ",
+        "Tebụl ahụ si n'eluigwe gbasaa",
+        "Nne kamel nke Thamud",
+        "Ugwu Tur na Mkpanaka"
+      ],
+      "answer": "Ugwu Tur na Mkpanaka"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "E bibiri ubi ahụ n'otu abalị",
+        "Ndị agha Fero mikpuru mmiri, a zọpụtakwara ụmụ Izrel",
+        "E ji nkume tụgbuo ndị agha enyí ahụ.",
+        "Ọkụ ahụ ghọrọ oyi ma dị jụụ",
+        "Ndị na-emebi ụbọchị izu ike ghọrọ enwe"
+      ],
+      "answer": "Ndị agha Fero mikpuru mmiri, a zọpụtakwara ụmụ Izrel"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

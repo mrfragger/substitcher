@@ -1,0 +1,61 @@
+{
+  "title": "Api yang Terlihat dari Jauh",
+  "intro": "Bayangkan sebuah lembah gelap di malam hari, cahaya redup berkelap-kelip di cakrawala di kejauhan, dan seorang pengembara sendirian bergerak menuju cahaya itu untuk mencari petunjuk, hanya untuk kemudian diberi misi yang akan menghadapi sebuah kekaisaran dan membebaskan sebuah bangsa yang tertindas.",
+  "clues": [
+    "Aku dihanyutkan di sungai saat masih bayi, di dalam sebuah peti, atas wahyu Allah kepada ibuku.",
+    "Saya dibesarkan di rumah sang tiran yang menindas rakyat saya.",
+    "Saya melarikan diri setelah pertikaian yang berujung fatal dan menghabiskan bertahun-tahun di Madyan menggembalakan kawanan unggas untuk disewa.",
+    "Aku melihat api di dekat gunung dan dipanggil dengan suara dari lembah yang diberkati.",
+    "Aku diberi dua tanda dahsyat di tanganku: sebuah tongkat yang berubah menjadi ular dan sebuah tangan yang bersinar putih terang.",
+    "Aku berdiri bersama saudaraku di hadapan penguasa Mesir dan kemudian melihat laut terbelah untuk jalan keluar kami."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Nabi Muhammad",
+        "Khidr, Sang Hamba yang Bijaksana",
+        "Nabi Musa (Moses)",
+        "Nabi Dzul-Kifl",
+        "Nabi Al-Yasa (Elisha)"
+      ],
+      "answer": "Nabi Musa (Moses)"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Dipanggil oleh Allah di Lembah yang diberkahi dan diutus kepada Firaun",
+        "Bahtera dibangun untuk selamat dari Banjir Besar",
+        "Diperintahkan untuk mengorbankan seorang putra dalam mimpi",
+        "Menafsirkan mimpi tujuh sapi gemuk untuk seorang raja",
+        "Ditelan oleh ikan besar di laut dalam"
+      ],
+      "answer": "Dipanggil oleh Allah di Lembah yang diberkahi dan diutus kepada Firaun"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Api yang kemudian menjadi sejuk dan damai",
+        "Bahtera",
+        "Hidangan yang disajikan dari surga.",
+        "Unta betina Thamud",
+        "Gunung Tur dan Tongkatnya"
+      ],
+      "answer": "Gunung Tur dan Tongkatnya"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Kebun itu hancur dalam semalam.",
+        "Tentara Firaun tenggelam dan Bani Israel diselamatkan.",
+        "Pasukan gajah dilempari batu.",
+        "Api itu menjadi sejuk dan tenang.",
+        "Para pelanggar hari Sabat diubah menjadi kera."
+      ],
+      "answer": "Tentara Firaun tenggelam dan Bani Israel diselamatkan."
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

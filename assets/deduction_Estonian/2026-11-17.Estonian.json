@@ -1,0 +1,61 @@
+{
+  "title": "Kaugelt nähtav tuli",
+  "intro": "Kujuta ette öösel pimedat orgu, silmapiiril virvendavat kauget kuma ja üksildast rändurit, kes liigub selle valguse poole juhatust otsides, kuid saab seejärel ülesandeks astuda vastu impeeriumile ja vabastada rõhutud rahvas.",
+  "clues": [
+    "Allahi emale antud inspiratsiooni all pandi mind imikuna rinnus jõele triivima.",
+    "Mind kasvatati selle türanni majapidamises, kes rõhus mu rahvast.",
+    "Põgenesin pärast saatuslikku tüli ja veetsin aastaid Madjanis tasu eest karja karjatades.",
+    "Ma nägin mäe juures tuld ja mind kutsuti häälega õnnistatud orust.",
+    "Mulle anti kätte kaks vägevat märki: kepp, mis muutus maoks, ja käsi, mis säras eredalt valgelt.",
+    "Seisin koos oma vennaga Egiptuse valitseja ees ja nägin hiljem, kuidas meri meie põgenemiseks kaheks lõhenes."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Muhamed",
+        "Khidr, tark teener",
+        "Prohvet Musa (Mooses)",
+        "Prohvet Dhul-Kifl",
+        "Prohvet Al-Yasa (Eliisa)"
+      ],
+      "answer": "Prohvet Musa (Mooses)"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Allahi poolt Õnnistatud Orgu kutsutud ja vaarao juurde saadetud",
+        "Ehitas laeva, et veeuputus üle elada",
+        "Unes kästi poeg ohverdada",
+        "Tõlgendas kuningale unenägu seitsmest rasvast lehmast",
+        "Suur kala neelas alla sügavas meres"
+      ],
+      "answer": "Allahi poolt Õnnistatud Orgu kutsutud ja vaarao juurde saadetud"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Tuli, mis muutus jahedaks ja rahulikuks",
+        "Laegas",
+        "Taevast laotatud laud",
+        "Thamudi kaamel",
+        "Turi mägi ja sau"
+      ],
+      "answer": "Turi mägi ja sau"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Aed hävis üleöö",
+        "Vaarao armee uppus ja Iisraeli lapsed päästeti",
+        "Elevantide armeed loobiti kividega",
+        "Tuli muutus jahedaks ja rahulikuks",
+        "Hingamispäeva rikkujad muudeti ahvideks"
+      ],
+      "answer": "Vaarao armee uppus ja Iisraeli lapsed päästeti"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

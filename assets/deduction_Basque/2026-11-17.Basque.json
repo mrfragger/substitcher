@@ -1,0 +1,61 @@
+{
+  "title": "Urrunetik ikusitako sua",
+  "intro": "Imajinatu gauez haran ilun bat, horizontean distira urrun bat keinuka, eta bidaiari bakarti bat argi horretara gidaritza bila doana, inperio bati aurre egin eta nazio zapaldu bat askatuko duen misio batekin heltzen zaiona.",
+  "clues": [
+    "Ala-ren inspiraziopean, nire amari emandako kutxa batean, haurtxo bat nintzela, ibaian noraezean utzi ninduten.",
+    "Nire herria zapaltzen zuen tiranoaren etxean bertan hazi nintzen.",
+    "Liskar hilgarri baten ondoren ihes egin nuen eta urteak eman nituen Madyanen artaldeak zaintzen alokairuan.",
+    "Su bat ikusi nuen mendiaren ondoan eta ahots batek deitu ninduen haran bedeinkatutik.",
+    "Bi seinale indartsu eman zizkidaten eskuetan: suge bihurtu zen makila bat eta zuri-zuriz distiratsu distira egiten zuen esku bat.",
+    "Egiptoko agintariaren aurrean nengoen nire anaiarekin, eta geroago itsasoa zatitzen ikusi nuen ihes egiteko."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Mahoma profeta",
+        "Khidr, zerbitzari jakintsua",
+        "Musa (Moises) profeta",
+        "Dhul-Kifl profeta",
+        "Al-Yasa (Eliseo) profeta"
+      ],
+      "answer": "Musa (Moises) profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Ala-k Haran Bedeinkatuan deitu eta Faraoiarengana bidali zuen",
+        "Uholdeari aurre egiteko Arka eraiki zuen",
+        "Amets batean seme bat sakrifikatzeko agindu zioten",
+        "Zazpi behi gizenen ametsa interpretatu zuen erregearentzat",
+        "Itsaso sakonean arrain handi batek irentsi zuen"
+      ],
+      "answer": "Ala-k Haran Bedeinkatuan deitu eta Faraoiarengana bidali zuen"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Sua fresko eta baketsu bihurtu zena",
+        "Arka",
+        "Zerutik mahaia zabalduta",
+        "Thamuden gamelu emea",
+        "Tur mendia eta langileak"
+      ],
+      "answer": "Tur mendia eta langileak"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Lorategia gauean suntsitu zuten",
+        "Faraoiaren armada ito egin zen eta Israelgo seme-alabak salbatu ziren",
+        "Elefanteen armada harriz jo zuten",
+        "Sua fresko eta baketsu bihurtu zen",
+        "Sabbath-a hausten zutenak tximino bihurtu ziren"
+      ],
+      "answer": "Faraoiaren armada ito egin zen eta Israelgo seme-alabak salbatu ziren"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

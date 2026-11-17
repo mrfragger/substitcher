@@ -1,0 +1,61 @@
+{
+  "title": "D'Feier aus der Distanz ze gesinn",
+  "intro": "Stellt Iech en däischtert Dall an der Nuecht vir, e wäitem Glanz, dat um Horizont flimmert, an e einsame Reesenden, deen op dëst Liicht zoureest op der Sich no Orientéierung, nëmme fir mat enger Missioun ugeschwat ze ginn, déi engem Räich konfrontéiert an eng ënnerdréckt Natioun befreit.",
+  "clues": [
+    "Ech gouf als Puppelchen an enger Këscht um Floss ënner Allahs Inspiratioun u meng Mamm um Drift gesat.",
+    "Ech sinn am Stot vum Tyrann opgewuess, deen mäi Vollek ënnerdréckt huet.",
+    "Ech sinn no engem fatale Sträit geflücht a hunn Joer zu Madyan verbruecht, wou ech géint Bezuelung Herde geziicht hunn.",
+    "Ech hunn e Feier um Bierg gesinn a gouf mat enger Stëmm aus dem geseenten Dall geruff.",
+    "Mir goufen zwéi mächteg Zeeche a mengen Hänn ginn: e Staff, deen zu enger Schlaang gouf, an eng Hand, déi hellwäiss geglänzt huet.",
+    "Ech stoung mat mengem Brudder virum Herrscher vun Ägypten a spéider hunn ech gesinn, wéi d'Mier sech opspléckt huet, fir datt mir konnten flüchten."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Mohammed",
+        "Khidr, de weise Knecht",
+        "Prophet Musa (Moses)",
+        "Prophet Dhul-Kifl",
+        "De Prophet Al-Yasa (Elisha)"
+      ],
+      "answer": "Prophet Musa (Moses)"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Vum Allah am geseenten Dall geruff a beim Pharao geschéckt",
+        "D'Ark gebaut fir d'Iwwerschwemmung ze iwwerliewen",
+        "Et gouf him am Dram opgefuerdert, e Jong ze opferen",
+        "Huet den Dram vu siwe fette Kéi fir e Kinnek interpretéiert",
+        "Gouf vun engem grousse Fësch am déiwe Mier verschléckt"
+      ],
+      "answer": "Vum Allah am geseenten Dall geruff a beim Pharao geschéckt"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Feier, dat kill a friddlech gouf",
+        "D'Ark",
+        "Den Dësch huet sech vum Himmel ausgebreet",
+        "D'Kamelfra vum Thamud",
+        "Mount Tur an d'Personal"
+      ],
+      "answer": "Mount Tur an d'Personal"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "De Gaart gouf iwwer Nuecht zerstéiert",
+        "D'Arméi vum Pharao ass erdronk an d'Kanner vun Israel goufe gerett",
+        "D'Elefantenarméi gouf mat Steng beschoss",
+        "D'Feier ass kill a friddlech ginn",
+        "D'Sabbatbriecher goufen an Affen verwandelt"
+      ],
+      "answer": "D'Arméi vum Pharao ass erdronk an d'Kanner vun Israel goufe gerett"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

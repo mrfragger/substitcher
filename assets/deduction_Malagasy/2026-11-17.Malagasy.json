@@ -1,0 +1,61 @@
+{
+  "title": "Ny afo hita avy lavitra",
+  "intro": "Alaivo sary an-tsaina ny lohasaha maizina iray amin'ny alina, ny hazavana lavitra miredareda eny amin'ny faravodilanitra, ary ny mpandeha irery iray manatona izany hazavana izany mba hitady tari-dalana, nefa tsy maintsy miatrika iraka iray izay hiatrika empira iray sy hanafaka firenena iray ampahorina.",
+  "clues": [
+    "Natsipy tao anaty vata teo amoron-drano aho fony mbola zaza, teo ambany fitarihan'i Allah ho an'ny reniko.",
+    "Nobeazina tao an-tranon'ilay mpitondra jadona izay nampahory ny fireneko aho.",
+    "Nandositra aho taorian'ny fifamaliana nahafaty olona ary nandany taona maro tany Madyan niandry ondry nohofana.",
+    "Nahita afo teo akaikin'ny tendrombohitra aho ary nantsoina tamin'ny feo avy tao amin'ny lohasaha voatahy.",
+    "Nomena famantarana lehibe roa teny an-tanako aho: tehina iray izay niova ho menarana sy tanana iray izay namirapiratra fotsy mamirapiratra.",
+    "Nijoro niaraka tamin'ny rahalahiko teo anatrehan'ny mpanapaka an'i Ejipta aho ary taty aoriana dia nahita ny ranomasina nizara roa ho anay handosirana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Muhammad",
+        "Khidr, ilay Mpanompo Hendry",
+        "Mpaminany Musa (Mosesy)",
+        "Mpaminany Dhul-Kifl",
+        "Mpaminany Al-Yasa (Elisa)"
+      ],
+      "answer": "Mpaminany Musa (Mosesy)"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Nantsoin'i Allah tao amin'ny Lohasahan'ny Fahasoavana ary nirahina ho any amin'i Farao",
+        "Nanao ny sambofiara mba ho tafavoaka velona tamin'ny Safodrano",
+        "Nasaina nanao sorona zanaka lahy tao anaty nofy",
+        "Nanazava ny nofin'ny omby matavy fito ho an'ny mpanjaka",
+        "Natelin'ny trondro goavambe tao anaty ranomasina lalina"
+      ],
+      "answer": "Nantsoin'i Allah tao amin'ny Lohasahan'ny Fahasoavana ary nirahina ho any amin'i Farao"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ilay afo izay nanjary nangatsiaka sy nilamina",
+        "Ny Fiara",
+        "Nivelatra avy any an-danitra ny latabatra",
+        "Ny ramevavavy an'ny Thamoud",
+        "Tendrombohitra Tur sy ny Staff"
+      ],
+      "answer": "Tendrombohitra Tur sy ny Staff"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Simba nandritra ny alina ny zaridaina",
+        "Nilentika ny tafik'i Farao ary voavonjy ny Zanak'Isiraely",
+        "Notoraham-bato ny tafiky ny elefanta",
+        "Nangatsiaka sy nilamina ny afo",
+        "Ireo mpandika ny Sabata dia novana ho rajako"
+      ],
+      "answer": "Nilentika ny tafik'i Farao ary voavonjy ny Zanak'Isiraely"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

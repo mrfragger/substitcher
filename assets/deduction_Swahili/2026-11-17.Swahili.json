@@ -1,0 +1,61 @@
+{
+  "title": "Moto Unaoonekana Kutoka Mbali",
+  "intro": "Hebu wazia bonde lenye giza usiku, mwangaza wa mbali ukiangaza kwenye upeo wa macho, na msafiri peke yake akielekea kwenye nuru hiyo akitafuta mwongozo, lakini akashughulikiwa na dhamira itakayokabiliana na himaya na kukomboa taifa lililokandamizwa.",
+  "clues": [
+    "Niliwekwa kando kama mtoto mchanga kwenye sanduku kando ya mto chini ya mwongozo wa Mwenyezi Mungu kwa mama yangu.",
+    "Nililelewa katika familia ya mtawala dhalimu aliyewakandamiza watu wangu.",
+    "Nilikimbia baada ya ugomvi mbaya na kutumia miaka mingi huko Madyan nikichunga makundi ya wanyama kwa ajili ya kukodi.",
+    "Niliona moto kando ya mlima na nikaitwa kwa sauti kutoka bonde lililobarikiwa.",
+    "Nilipewa ishara mbili kuu mikononi mwangu: fimbo iliyogeuka kuwa nyoka na mkono uliong'aa mweupe sana.",
+    "Nilisimama na kaka yangu mbele ya mtawala wa Misri na baadaye niliona bahari ikipasuka ili tutoroke."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Mtume Muhammad",
+        "Khidr, Mtumishi Mwenye Hekima",
+        "Nabii Musa (Musa)",
+        "Nabii Dhul-Kifl",
+        "Nabii Al-Yasa (Elisha)"
+      ],
+      "answer": "Nabii Musa (Musa)"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Aliitwa na Mwenyezi Mungu katika Bonde Lililobarikiwa na kutumwa kwa Farao",
+        "Alijenga Safina ili kuokoka Gharika",
+        "Aliamriwa kumtoa mwanawe dhabihu katika ndoto",
+        "Alitafsiri ndoto ya ng'ombe saba wanene kwa mfalme",
+        "Alimezwa na samaki mkubwa katika bahari kuu"
+      ],
+      "answer": "Aliitwa na Mwenyezi Mungu katika Bonde Lililobarikiwa na kutumwa kwa Farao"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Moto uliokuwa baridi na wa amani",
+        "Sanduku",
+        "Meza imetawanyika kutoka mbinguni",
+        "Ngamia jike wa Thamud",
+        "Mlima Tur na Wafanyakazi"
+      ],
+      "answer": "Mlima Tur na Wafanyakazi"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Bustani iliharibiwa usiku kucha",
+        "Jeshi la Farao lilizama na Wana wa Israeli wakaokolewa",
+        "Jeshi la tembo lilipigwa mawe",
+        "Moto ukawa baridi na utulivu",
+        "Wavunja Sabato waligeuzwa kuwa nyani"
+      ],
+      "answer": "Jeshi la Farao lilizama na Wana wa Israeli wakaokolewa"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

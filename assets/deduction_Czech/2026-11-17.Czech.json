@@ -1,0 +1,61 @@
+{
+  "title": "Oheň spatřený z dálky",
+  "intro": "Představte si temné údolí v noci, vzdálenou záři mihotající se na obzoru a osamělého cestovatele, který se k tomuto světlu vydává za cílem hledat vedení, jen aby byl osloven s úkolem, který postaví říši a osvobodí utlačovaný národ.",
+  "clues": [
+    "Jako dítě jsem byl ponechán napospas Alláhově vnuknutí mé matce v truhle na řece.",
+    "Vyrůstal jsem v domácnosti tyrana, který utlačoval můj lid.",
+    "Uprchl jsem po smrtelné hádce a strávil jsem roky v Madyanu pást se stáda za nájem.",
+    "Viděl jsem oheň u hory a byl jsem zavolán hlasem z požehnaného údolí.",
+    "Do rukou mi byla dána dvě mocná znamení: hůl, která se proměnila v hada, a ruka, která zářila jasně bíle.",
+    "Stál jsem se svým bratrem před egyptským vládcem a později jsem viděl, jak se moře rozdělilo, abychom mohli uniknout."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Mohamed",
+        "Khidr, moudrý služebník",
+        "Prorok Músa (Mojžíš)",
+        "Prorok Zul-Kifl",
+        "Prorok Al-Yása (Eliša)"
+      ],
+      "answer": "Prorok Músa (Mojžíš)"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Volán Alláhem v Požehnaném údolí a poslán k faraonovi",
+        "Postavili archu, aby přežili potopu",
+        "Ve snu mi bylo přikázáno obětovat syna",
+        "Výklad senu o sedmi tučných kravách pro krále",
+        "Byl spolknut velkou rybou v hlubokém moři"
+      ],
+      "answer": "Volán Alláhem v Požehnaném údolí a poslán k faraonovi"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Oheň, který se stal chladným a mírumilovným",
+        "Archa",
+        "Stůl se prostíral z nebe",
+        "Velbloudice z Thámudu",
+        "Hora Tur a hůl"
+      ],
+      "answer": "Hora Tur a hůl"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Zahrada byla zničena přes noc",
+        "Faraonova armáda se utopila a děti Izraele byly zachráněny",
+        "Sloní armáda byla zasypávána kameny",
+        "Oheň se ochladil a utišil",
+        "Ti, kdo porušili Sabat, byli proměněni v opice"
+      ],
+      "answer": "Faraonova armáda se utopila a děti Izraele byly zachráněny"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

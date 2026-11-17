@@ -1,0 +1,61 @@
+{
+  "title": "The Fire Seen From Afar",
+  "intro": "Picture a dark valley at night, a distant glow flickering on the horizon, and a lone traveler moving toward that light in search of guidance, only to be addressed with a mission that will confront an empire and liberate an oppressed nation.",
+  "clues": [
+    "I was set adrift as an infant in a chest upon the river under Allah's inspiration to my mother.",
+    "I was raised in the very household of the tyrant who oppressed my people.",
+    "I fled after a fatal altercation and spent years in Madyan tending flocks for hire.",
+    "I saw a fire by the mountain and was called with a voice from the blessed valley.",
+    "I was granted two mighty signs in my hands: a staff that became a serpent and a hand that shone bright white.",
+    "I stood with my brother before the ruler of Egypt and later saw the sea split apart for our escape."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Prophet Muhammad",
+        "Khidr, the Wise Servant",
+        "Prophet Musa (Moses)",
+        "Prophet Dhul-Kifl",
+        "Prophet Al-Yasa (Elisha)"
+      ],
+      "answer": "Prophet Musa (Moses)"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Called by Allah at the Blessed Valley and sent to Pharaoh",
+        "Built the Ark to survive the Flood",
+        "Was commanded to sacrifice a son in a dream",
+        "Interpreted the dream of seven fat cows for a king",
+        "Was swallowed by a great fish in the deep sea"
+      ],
+      "answer": "Called by Allah at the Blessed Valley and sent to Pharaoh"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "The fire that became cool and peaceful",
+        "The Ark",
+        "The table spread from heaven",
+        "The she-camel of Thamud",
+        "Mount Tur and the Staff"
+      ],
+      "answer": "Mount Tur and the Staff"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "The garden was destroyed overnight",
+        "Pharaoh's army drowned and the Children of Israel were saved",
+        "The elephant army was pelted with stones",
+        "The fire became cool and peaceful",
+        "The Sabbath-breakers were turned into apes"
+      ],
+      "answer": "Pharaoh's army drowned and the Children of Israel were saved"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Umuriro ugaragara uturutse kure",
+  "intro": "Tekereza ikibaya cyijimye nijoro, urumuri ruri kure rumurika mu kirere, n'umugenzi wenyine ugenda yerekeza kuri urwo mucyo ashaka ubuyobozi, hanyuma agahabwa ubutumwa buzahangana n'ubwami kandi bubohore igihugu gikandamijwe.",
+  "clues": [
+    "Nashyizwe mu gasanduku ku ruzi nkiri uruhinja, Imana yantumye mama ahumekerwa n’ibyo Imana yavuze.",
+    "Nakuriye mu muryango w'umunyagitugu wakandamije ubwoko bwanjye.",
+    "Nahunze nyuma y'amakimbirane akomeye maze mara imyaka myinshi muri Madiyani ndi kuragira amatungo yo gukodesha.",
+    "Nabonye umuriro iruhande rw'umusozi maze ntangazwa n'ijwi riturutse mu kibaya cy'umugisha.",
+    "Nahawe ibimenyetso bibiri bikomeye mu ntoki zanjye: inkoni yahindutse inzoka n'ikiganza cyakaga cyera cyane.",
+    "Nari mpagaze na mukuru wanjye imbere y'umutegetsi wa Misiri, nyuma mbona inyanja icikamo kabiri kugira ngo dushobore guhunga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Intumwa Muhamadi",
+        "Khidr, Umugaragu w'umunyabwenge",
+        "Umuhanuzi Musa (Mose)",
+        "Intumwa Dhul-Kifl",
+        "Intumwa Al-Yasa (Elisha)"
+      ],
+      "answer": "Umuhanuzi Musa (Mose)"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Imana yahamagaye mu kibaya cy'umugisha maze imutuma kuri Farawo",
+        "Yubatse Inkuge kugira ngo irokoke Umwuzure",
+        "Yategetswe gutamba umwana w'umuhungu mu nzozi",
+        "Yasobanuye inzozi z'inka ndwi zibyibushye ku mwami",
+        "Yamizwe n'ifi nini mu nyanja nini"
+      ],
+      "answer": "Imana yahamagaye mu kibaya cy'umugisha maze imutuma kuri Farawo"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Umuriro wabaye nk'ukonje kandi utuje",
+        "Isanduku",
+        "Ameza yari aturutse mu ijuru",
+        "Ingamiya y'ingore ya Thamud",
+        "Mount Tur n'Inkoni"
+      ],
+      "answer": "Mount Tur n'Inkoni"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Ubusitani bwarasenyutse mu ijoro rimwe",
+        "Ingabo za Farawo zarohamye maze Abana ba Isirayeli barakizwa",
+        "Ingabo z'inzovu zatewe amabuye",
+        "Umuriro wabaye nk'ukonje kandi utuje",
+        "Abishe Isabato bahinduwe inkende"
+      ],
+      "answer": "Ingabo za Farawo zarohamye maze Abana ba Isirayeli barakizwa"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

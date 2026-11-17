@@ -1,0 +1,61 @@
+{
+  "title": "Elden sedd på avstånd",
+  "intro": "Föreställ dig en mörk dal på natten, ett avlägset sken som flimrar vid horisonten och en ensam resenär som rör sig mot det ljuset i sökandet efter vägledning, bara för att bli anställd med ett uppdrag som kommer att konfrontera ett imperium och befria en förtryckt nation.",
+  "clues": [
+    "Jag sattes på drift som ett spädbarn i en kista på floden under Allahs inspiration till min mor.",
+    "Jag växte upp i själva hushållet hos den tyrann som förtryckte mitt folk.",
+    "Jag flydde efter ett dödligt bråk och tillbringade år i Madyan med att valla hjordar mot betalning.",
+    "Jag såg en eld vid berget och blev kallad med en röst från den välsignade dalen.",
+    "Jag fick två mäktiga tecken i mina händer: en stav som förvandlades till en orm och en hand som sken klart vit.",
+    "Jag stod med min bror inför Egyptens härskare och såg senare havet delas upp för vår flykt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Muhammed",
+        "Khidr, den kloke tjänaren",
+        "Profeten Musa (Moses)",
+        "Profeten Dhul-Kifl",
+        "Profeten Al-Yasa (Elisha)"
+      ],
+      "answer": "Profeten Musa (Moses)"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Kallad av Allah vid den välsignade dalen och sänd till farao",
+        "Byggde arken för att överleva syndafloden",
+        "Fick befallning att offra en son i en dröm",
+        "Tolkade drömmen om sju feta kor för en kung",
+        "Blev uppslukad av en stor fisk i djuphavet"
+      ],
+      "answer": "Kallad av Allah vid den välsignade dalen och sänd till farao"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Elden som blev sval och fridfull",
+        "Arken",
+        "Bordet breddes ut från himlen",
+        "Thamuds kamelhona",
+        "Mount Tur och personalen"
+      ],
+      "answer": "Mount Tur och personalen"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Trädgården förstördes över natten",
+        "Faraos armé drunknade och Israels barn räddades",
+        "Elefantarmén blev bombarderad med stenar",
+        "Elden blev sval och fridfull",
+        "Sabbatsbrytarna förvandlades till apor"
+      ],
+      "answer": "Faraos armé drunknade och Israels barn räddades"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

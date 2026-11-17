@@ -1,0 +1,61 @@
+{
+  "title": "Zjarri i Parë nga Larg",
+  "intro": "Imagjinoni një luginë të errët natën, një shkëlqim të largët që vezullon në horizont dhe një udhëtar të vetmuar që lëviz drejt asaj drite në kërkim të udhëzimit, vetëm për t'u adresuar me një mision që do të përballet me një perandori dhe do të çlirojë një komb të shtypur.",
+  "clues": [
+    "Isha lënë në det të hapur si një foshnjë në një arkë mbi lumë nën frymëzimin e Allahut për nënën time.",
+    "U rrita në shtëpinë e tiranit që shtypte popullin tim.",
+    "U ika pas një grindjeje fatale dhe kalova vite në Madjan duke kullotur kopetë me pagesë.",
+    "Pashë një zjarr pranë malit dhe më thirrën me zë nga lugina e bekuar.",
+    "Më u dhanë dy shenja të fuqishme në duart e mia: një shkop që u bë gjarpër dhe një dorë që shkëlqente e bardhë e ndezur.",
+    "Unë qëndrova me vëllain tim para sundimtarit të Egjiptit dhe më vonë pashë detin të çahej për ikjen tonë."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Profeti Muhamed",
+        "Khidri, Shërbëtori i Mençur",
+        "Profeti Musa (Moisiu)",
+        "Profeti Dhul-Kifl",
+        "Profeti El-Jasa (Elise)"
+      ],
+      "answer": "Profeti Musa (Moisiu)"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "I thirrur nga Allahu në Luginën e Bekuar dhe i dërguar te Faraoni",
+        "Ndërtoi Arkën për të mbijetuar Përmbytjen",
+        "U urdhërua të sakrifikonte një bir në një ëndërr",
+        "Interpretoi ëndrrën e shtatë lopëve të majme për një mbret",
+        "U gëlltit nga një peshk i madh në detin e thellë"
+      ],
+      "answer": "I thirrur nga Allahu në Luginën e Bekuar dhe i dërguar te Faraoni"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Zjarri që u bë i freskët dhe i qetë",
+        "Arka",
+        "Tavolina u përhap nga qielli",
+        "Deveja e Themudit",
+        "Mali Tur dhe Shkopi"
+      ],
+      "answer": "Mali Tur dhe Shkopi"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Kopshti u shkatërrua brenda natës",
+        "Ushtria e Faraonit u mbyt dhe Bijtë e Izraelit shpëtuan",
+        "Ushtria e elefantëve u qëllua me gurë",
+        "Zjarri u bë i ftohtë dhe i qetë",
+        "Ata që shkelnin Sabatin u shndërruan në majmunë"
+      ],
+      "answer": "Ushtria e Faraonit u mbyt dhe Bijtë e Izraelit shpëtuan"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

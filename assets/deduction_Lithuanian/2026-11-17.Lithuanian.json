@@ -1,0 +1,61 @@
+{
+  "title": "Iš tolo matoma ugnis",
+  "intro": "Įsivaizduokite tamsų slėnį naktį, tolimą švytėjimą, mirgantį horizonte, ir vienišą keliautoją, einantį link tos šviesos, ieškodamas patarimo, tik tam, kad jam būtų duota misija, kuri stos prieš imperiją ir išlaisvins engiamą tautą.",
+  "clues": [
+    "Alacho įkvėpimu mano motinai, buvau paliktas dreifuoti kaip kūdikis krūtinėje upės pakrantėje.",
+    "Aš užaugau tirono, kuris engė mano tautą, namuose.",
+    "Po lemtingo konflikto pabėgau ir daugelį metų praleidau Madjane, ganydamas bandas už atlygį.",
+    "Mačiau ugnį prie kalno ir mane pašaukė balsas iš palaimintojo slėnio.",
+    "Man buvo duoti du galingi ženklai rankose: lazda, kuri virto gyvate, ir ranka, kuri spindėjo baltai.",
+    "Stovėjau su savo broliu prieš Egipto valdovą ir vėliau mačiau, kaip jūra perskilo mums pabėgti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Muhamedas",
+        "Khidr, išmintingasis tarnas",
+        "Pranašas Mozė (Mozė)",
+        "Pranašas Dhul-Kifl",
+        "Pranašas Al-Yasa (Eliziejus)"
+      ],
+      "answer": "Pranašas Mozė (Mozė)"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Alachas pašaukė Palaimintajame slėnyje ir išsiuntė faraonui",
+        "Pastatė arką, kad išgyventų tvaną",
+        "Sapne buvo įsakyta paaukoti sūnų",
+        "Išaiškino karaliaus sapną apie septynias riebias karves",
+        "Jį prarijo didelė žuvis gilioje jūroje"
+      ],
+      "answer": "Alachas pašaukė Palaimintajame slėnyje ir išsiuntė faraonui"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Ugnis, kuri tapo vėsi ir rami",
+        "Arka",
+        "Stalas dengtas iš dangaus",
+        "Tamudo kupranugarė",
+        "Turo kalnas ir personalas"
+      ],
+      "answer": "Turo kalnas ir personalas"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Sodas buvo sunaikintas per naktį",
+        "Faraono armija nuskendo, o Izraelio vaikai buvo išgelbėti",
+        "Dramblių armija buvo apmėtyta akmenimis",
+        "Ugnis tapo vėsi ir rami",
+        "Šabo laužytojai buvo paversti beždžionėmis"
+      ],
+      "answer": "Faraono armija nuskendo, o Izraelio vaikai buvo išgelbėti"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Das Feuer aus der Ferne gesehen",
+  "intro": "Stell dir ein dunkles Tal in der Nacht vor, ein ferner Schein flackert am Horizont, und ein einsamer Reisender bewegt sich auf dieses Licht zu, auf der Suche nach Führung, nur um mit einer Mission konfrontiert zu werden, die ein Imperium konfrontieren und eine unterdrückte Nation befreien wird.",
+  "clues": [
+    "Ich wurde als Säugling in einer Truhe auf dem Fluss ausgesetzt, auf Geheiß Allahs an meine Mutter.",
+    "Ich bin im Haushalt des Tyrannen aufgewachsen, der mein Volk unterdrückte.",
+    "Nach einer tödlichen Auseinandersetzung floh ich und verbrachte Jahre in Madyan, wo ich gegen Bezahlung Herden hütete.",
+    "Ich sah ein Feuer am Berg und wurde mit einer Stimme aus dem gesegneten Tal gerufen.",
+    "Mir wurden zwei mächtige Zeichen in meinen Händen verliehen: ein Stab, der sich in eine Schlange verwandelte, und eine Hand, die hellweiß erstrahlte.",
+    "Ich stand mit meinem Bruder vor dem Herrscher von Ägypten und sah später, wie sich das Meer teilte, um uns die Flucht zu ermöglichen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Muhammad",
+        "Khidr, der weise Diener",
+        "Prophet Musa (Moses)",
+        "Prophet Dhul-Kifl",
+        "Prophet Al-Yasa (Elisha)"
+      ],
+      "answer": "Prophet Musa (Moses)"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Von Allah im Gesegneten Tal berufen und zum Pharao gesandt",
+        "Die Arche wurde gebaut, um die Sintflut zu überleben.",
+        "Mir wurde im Traum befohlen, einen Sohn zu opfern.",
+        "Er deutete den Traum von sieben fetten Kühen für einen König.",
+        "Wurde von einem großen Fisch in der Tiefsee verschluckt"
+      ],
+      "answer": "Von Allah im Gesegneten Tal berufen und zum Pharao gesandt"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Das Feuer, das kühl und friedlich geworden war",
+        "Die Arche",
+        "Der Tisch wurde vom Himmel gedeckt",
+        "Die Kamelstute von Thamud",
+        "Der Berg Tur und die Mitarbeiter"
+      ],
+      "answer": "Der Berg Tur und die Mitarbeiter"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Der Garten wurde über Nacht zerstört.",
+        "Das Heer des Pharaos ertrank und die Kinder Israels wurden gerettet",
+        "Die Elefantenarmee wurde mit Steinen beworfen",
+        "Das Feuer war abgekühlt und friedlich geworden.",
+        "Diejenigen, die den Sabbat brachen, wurden in Affen verwandelt."
+      ],
+      "answer": "Das Heer des Pharaos ertrank und die Kinder Israels wurden gerettet"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

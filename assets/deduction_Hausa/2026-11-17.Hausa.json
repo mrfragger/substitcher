@@ -1,0 +1,61 @@
+{
+  "title": "Wutar Da Aka Gani Daga Nesa",
+  "intro": "Ka yi tunanin wani kwari mai duhu da daddare, wani haske mai nisa yana walƙiya a sararin sama, da kuma wani matafiyi shi kaɗai yana tafiya zuwa ga wannan hasken don neman jagora, sai kawai a yi masa wani aiki da zai fuskanci daular da kuma 'yantar da al'umma da aka zalunta.",
+  "clues": [
+    "An ajiye ni a cikin ruwa kamar jariri a cikin akwati a kan kogi bisa wahayin Allah ga mahaifiyata.",
+    "An rene ni a gidan azzalumin da ke zaluntar mutanena.",
+    "Na gudu bayan wani mummunan rikici kuma na shafe shekaru a Madyan ina kiwon garken dabbobi don haya.",
+    "Na ga wuta a gefen dutsen, aka kira ni da murya daga kwarin mai albarka.",
+    "An ba ni manyan alamu guda biyu a hannuna: sandar da ta zama maciji da hannu mai haske fari mai haske.",
+    "Na tsaya tare da ɗan'uwana a gaban mai mulkin Masar kuma daga baya na ga teku ta rabu biyu domin mu tsira."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Muhammadu",
+        "Khidr, Bawa Mai Hikima",
+        "Annabi Musa (Annabi Musa)",
+        "Annabi Dhul-Kifl",
+        "Annabi Al-Yasa (Elisha)"
+      ],
+      "answer": "Annabi Musa (Annabi Musa)"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Allah ya kira shi a kwarin mai albarka kuma ya aika shi zuwa ga Fir'auna",
+        "Gina Jirgin Ruwa don tsira daga Ruwan Tsufana",
+        "An umarce shi da ya yi hadaya da ɗa a mafarki",
+        "Fassara mafarkin shanu bakwai masu ƙiba ga sarki",
+        "Babban kifi ya haɗiye shi a cikin babban teku"
+      ],
+      "answer": "Allah ya kira shi a kwarin mai albarka kuma ya aika shi zuwa ga Fir'auna"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Wutar da ta yi sanyi da kwanciyar hankali",
+        "Akwatin",
+        "Teburin ya bazu daga sama",
+        "Raƙumar Samudawa",
+        "Dutsen Tur da Sandunan"
+      ],
+      "answer": "Dutsen Tur da Sandunan"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An lalata lambun cikin dare ɗaya",
+        "Rundunar Fir'auna ta nutse kuma aka ceci Bani Isra'ila",
+        "An yi wa rundunar giwa jifa da duwatsu",
+        "Wutar ta yi sanyi kuma ta yi natsuwa",
+        "An mayar da masu karya Asabar birrai"
+      ],
+      "answer": "Rundunar Fir'auna ta nutse kuma aka ceci Bani Isra'ila"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

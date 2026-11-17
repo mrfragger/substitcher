@@ -1,0 +1,61 @@
+{
+  "title": "Focul văzut de departe",
+  "intro": "Imaginează-ți o vale întunecată noaptea, o strălucire îndepărtată pâlpâind la orizont și un călător singuratic îndreptându-se spre acea lumină în căutare de îndrumare, doar pentru a fi însărcinat cu o misiune care va confrunta un imperiu și va elibera o națiune asuprită.",
+  "clues": [
+    "Am fost lăsat în derivă ca un prunc într-un cufăr pe râu, sub inspirația lui Allah dată mamei mele.",
+    "Am fost crescut chiar în casa tiranului care mi-a asuprit poporul.",
+    "Am fugit după o altercație fatală și am petrecut ani în Madyan păscând turme contra cost.",
+    "Am văzut un foc lângă munte și am fost chemat cu un glas din valea binecuvântată.",
+    "Mi s-au dat două semne mărețe în mâinile mele: un toiag care s-a transformat într-un șarpe și o mână care strălucea ca un alb intens.",
+    "Am stat împreună cu fratele meu în fața conducătorului Egiptului și mai târziu am văzut marea despărțindu-se pentru a ne evada."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Mahomed",
+        "Khidr, slujitorul înțelept",
+        "Profetul Musa (Moise)",
+        "Profetul Dhul-Kifl",
+        "Profetul Al-Yasa (Elisei)"
+      ],
+      "answer": "Profetul Musa (Moise)"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Chemat de Allah în Valea Binecuvântată și trimis la Faraon",
+        "A construit Arca pentru a supraviețui Potopului",
+        "I s-a poruncit să sacrifice un fiu într-un vis",
+        "A interpretat visul celor șapte vaci grase pentru un rege",
+        "A fost înghițit de un pește mare în adâncul mării"
+      ],
+      "answer": "Chemat de Allah în Valea Binecuvântată și trimis la Faraon"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Focul care a devenit răcoros și pașnic",
+        "Arca",
+        "Masa așezată din ceruri",
+        "Cămila lui Thamud",
+        "Muntele Tur și Toiagul"
+      ],
+      "answer": "Muntele Tur și Toiagul"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Grădina a fost distrusă peste noapte",
+        "Armata faraonului s-a înecat, iar copiii lui Israel au fost salvați",
+        "Armata de elefanți a fost lovită cu pietre",
+        "Focul a devenit răcoros și pașnic",
+        "Cei care încălcau Sabatul au fost transformați în maimuțe"
+      ],
+      "answer": "Armata faraonului s-a înecat, iar copiii lui Israel au fost salvați"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

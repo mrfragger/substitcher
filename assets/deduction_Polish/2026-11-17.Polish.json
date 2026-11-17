@@ -1,0 +1,61 @@
+{
+  "title": "Ogień widziany z daleka",
+  "intro": "Wyobraź sobie ciemną dolinę nocą, odległą poświatę migoczącą na horyzoncie i samotnego wędrowca podążającego w stronę tego światła w poszukiwaniu wskazówek, który ostatecznie otrzymuje misję, która polega na zmierzeniu się z imperium i wyzwoleniu uciśnionego narodu.",
+  "clues": [
+    "Zostałem wypuszczony na brzeg rzeki jako niemowlę w skrzyni, zgodnie z natchnieniem Allaha przekazanym mojej matce.",
+    "Wychowałem się w domu tyrana, który uciskał mój lud.",
+    "Uciekłem po tragicznej kłótni i spędziłem lata w Madyanie, wynajmując stada bydła.",
+    "Zobaczyłem ogień u podnóża góry i usłyszałem głos z błogosławionej doliny.",
+    "Otrzymałem dwa potężne znaki w swoich rękach: laskę, która zamieniła się w węża i rękę, która lśniła jasną bielą.",
+    "Stałem z moim bratem przed władcą Egiptu, a później widziałem, jak morze rozstąpiło się, umożliwiając nam ucieczkę."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Mahomet",
+        "Khidr, Mądry Sługa",
+        "Prorok Musa (Mojżesz)",
+        "Prorok Dhul-Kifl",
+        "Prorok Al-Yasa (Elizeusz)"
+      ],
+      "answer": "Prorok Musa (Mojżesz)"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Wezwany przez Allaha w Dolinie Błogosławionych i wysłany do Faraona",
+        "Zbudował Arkę, aby przetrwać Potop",
+        "We śnie nakazano mi złożyć w ofierze syna",
+        "Zinterpretowano sen o siedmiu tłustych krowach dla króla",
+        "Został połknięty przez wielką rybę na głębokim morzu"
+      ],
+      "answer": "Wezwany przez Allaha w Dolinie Błogosławionych i wysłany do Faraona"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Ogień, który stał się chłodny i spokojny",
+        "Arka",
+        "Stół zastawiony z nieba",
+        "Wielbłądzica z Thamud",
+        "Góra Tur i personel"
+      ],
+      "answer": "Góra Tur i personel"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Ogród został zniszczony w nocy",
+        "Armia faraona utonęła, a dzieci Izraela zostały uratowane",
+        "Armia słoni została obrzucona kamieniami",
+        "Ogień stał się chłodny i spokojny",
+        "Łamiący szabat zostali zamienieni w małpy"
+      ],
+      "answer": "Armia faraona utonęła, a dzieci Izraela zostały uratowane"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

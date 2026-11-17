@@ -1,0 +1,61 @@
+{
+  "title": "Uzoqdan ko'rinib turgan olov",
+  "intro": "Kechasi qorong'u vodiyni, ufqda miltillayotgan uzoq nurni va yo'l-yo'riq izlab o'sha yorug'likka qarab harakatlanayotgan yolg'iz sayohatchini tasavvur qiling, ammo unga imperiyaga qarshi turish va ezilgan millatni ozod qilish vazifasi yuklatilgan.",
+  "clues": [
+    "Men go'dakligimda, Allohning onamga ilhomi ostida daryo bo'yidagi sandiqda adashib yotibman.",
+    "Men xalqimni zulm qilgan zolimning xonadonida o'sganman.",
+    "Men halokatli janjaldan keyin qochib ketdim va Madyanda yillar davomida yollangan podalarni boqib o'tkazdim.",
+    "Men tog' yonida olov ko'rdim va muborak vodiydan bir ovoz meni chaqirdi.",
+    "Qo'llarimga ikkita qudratli alomat berildi: ilonga aylangan tayoq va oppoq porlab turgan qo'l.",
+    "Men akam bilan Misr hukmdori oldida turdim va keyinchalik dengizning qochishimiz uchun ikkiga bo'linganini ko'rdim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Muhammad",
+        "Xizr, dono xizmatkor",
+        "Muso payg'ambar (Muso)",
+        "Payg'ambar Zul-Kifl",
+        "Payg'ambar Al-Yasa (Elishay)"
+      ],
+      "answer": "Muso payg'ambar (Muso)"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Alloh tomonidan Muborak vodiyda chaqirilib, Fir'avnga yuborildi",
+        "To'fondan omon qolish uchun kema qurdi",
+        "Tushida o'g'il qurbon qilish buyurildi",
+        "Podshoh uchun yetti semiz sigir tushini ta'birladi",
+        "Chuqur dengizda ulkan baliq tomonidan yutib yuborildi"
+      ],
+      "answer": "Alloh tomonidan Muborak vodiyda chaqirilib, Fir'avnga yuborildi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Salqin va tinch bo'lib qolgan olov",
+        "Kema",
+        "Osmondan dasturxon yoyildi",
+        "Samudning urg'ochi tuyasi",
+        "Tur tog'i va tayoq"
+      ],
+      "answer": "Tur tog'i va tayoq"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Bog' bir kechada vayron bo'ldi",
+        "Fir'avnning qo'shini cho'kib ketdi va Bani Isroil najot topdi",
+        "Fil qo'shini toshlar bilan o'qqa tutildi",
+        "Olov salqin va tinch bo'lib qoldi",
+        "Shabbatni buzganlar maymunlarga aylantirildi"
+      ],
+      "answer": "Fir'avnning qo'shini cho'kib ketdi va Bani Isroil najot topdi"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

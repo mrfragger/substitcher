@@ -1,0 +1,61 @@
+{
+  "title": "Dabkii Laga Arkay Meel Fog",
+  "intro": "Bal qiyaas dooxo mugdi ah habeenkii, iftiin fog oo cirka ka soo baxaya, iyo qof safar ah oo keligiis ah oo u socda iftiinkaas isagoo raadinaya hagitaan, oo kaliya loo jeedin doono hawlgal ka hor imaan doona boqortooyo oo xorayn doona qaran dulman.",
+  "clues": [
+    "Waxaa la i dhigay meel aan ilmo yar ku jiro oo ku taal meel webiga saaran iyadoo Ilaahay uu hooyaday u waxyooday.",
+    "Waxaan ku soo barbaaray guriga kaligii-taliyihii dadkayga dulmiyay.",
+    "Waxaan ka cararay khilaaf dhimasho leh ka dib, waxaana sannado badan ku qaatay Madyan anigoo xoolo u kireysanaya.",
+    "Waxaan arkay dab buurta agteeda yaal, waxaana cod laga soo yeeray dooxada barakeysan.",
+    "Waxaa gacantayda ku jiray laba calaamadood oo waaweyn: ul abeeso noqotay iyo gacan cad oo dhalaalaya.",
+    "Waxaan walaalkay la istaagay taliyihii Masar, ka dibna waxaan arkay baddii oo kala go'day si aan u baxsano."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Muxamed",
+        "Khidr, Adeegihii Caqliga lahaa",
+        "Nabi Muuse (Nabi Muuse)",
+        "Nabi Dhul-Kifl",
+        "Nabi Al-Yasa (Eliisha)"
+      ],
+      "answer": "Nabi Muuse (Nabi Muuse)"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Alle ayaa ugu yeeray Dooxada Barakaysan oo loo diray Fircoon.",
+        "Doontii ayay dhisteen si ay uga badbaadaan daadkii",
+        "Waxaa la amray inuu wiil ku allabaryo riyo",
+        "Wuxuu fasiray riyada toddoba sac oo buuran oo loo sameeyay boqor",
+        "Waxaa liqay kalluun weyn oo badda qoto dheer ku jira"
+      ],
+      "answer": "Alle ayaa ugu yeeray Dooxada Barakaysan oo loo diray Fircoon."
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Dabkii noqday mid qabow oo nabad ah",
+        "Sanduuqa",
+        "Miisku wuxuu ka soo baxay samada",
+        "Hashii Thamuud",
+        "Buurta Tur iyo Usha"
+      ],
+      "answer": "Buurta Tur iyo Usha"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Beerta ayaa habeen dhan burburtay",
+        "Ciidankii Fircoon oo qarqiyay, Reer Israa'iilna waa la badbaadiyay",
+        "Ciidanka maroodiga ayaa dhagaxyo lagu tuuray",
+        "Dabkii wuxuu noqday mid qabow oo nabdoon",
+        "Kuwa fasaxa jebiya waxaa loo beddelay daayeerro"
+      ],
+      "answer": "Ciidankii Fircoon oo qarqiyay, Reer Israa'iilna waa la badbaadiyay"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

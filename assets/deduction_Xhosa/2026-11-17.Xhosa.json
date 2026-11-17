@@ -1,0 +1,61 @@
+{
+  "title": "Umlilo Obonwa Uvela Kude",
+  "intro": "Khawucinge ngentlambo emnyama ebusuku, ukukhanya okukude okukhazimlayo elundini, kunye nomhambi oyedwa ohamba esiya kuloo kukhanya efuna ulwalathiso, aze athunyelwe umsebenzi oza kujongana nobukhosi aze akhulule isizwe esicinezelweyo.",
+  "clues": [
+    "Ndashiywa ndiselusana esifubeni phezu komlambo phantsi kwempefumlelo ka-Allah kumama.",
+    "Ndakhulela kwikhaya lomlawuli owayecinezela abantu bakuthi.",
+    "Ndabaleka emva kwengxabano ebuhlungu ndaza ndachitha iminyaka eMadyan ndilusa imihlambi ukuze ndiqeshwe.",
+    "Ndabona umlilo ecaleni kwentaba, ndabizwa ngelizwi elivela kwintlambo ebusisiweyo.",
+    "Ndanikwa imiqondiso emibini emikhulu ezandleni zam: intonga eyaba yinyoka kunye nesandla esakhazimla ngombala omhlophe.",
+    "Ndema nomnakwethu phambi komlawuli waseYiputa, kamva ndabona ulwandle luqhekeka phakathi ukuze sisabe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uMuhammad",
+        "UKhidr, Isicaka Esilumkileyo",
+        "Umprofeti uMusa (uMoses)",
+        "Umprofeti uDhul-Kifl",
+        "Umprofeti u-Al-Yasa (uElisha)"
+      ],
+      "answer": "Umprofeti uMusa (uMoses)"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Wabizwa nguAllah kwiNtlambo eNgcwele waza wathunyelwa kuFaro",
+        "Wakha iTyeya ukuze asinde kuMkhukula",
+        "Wayalelwa ukuba abingelele ngonyana ephupheni",
+        "Utolike iphupha leenkomo ezisixhenxe ezityebileyo zenkosi",
+        "Waginywa yintlanzi enkulu elwandle olunzulu"
+      ],
+      "answer": "Wabizwa nguAllah kwiNtlambo eNgcwele waza wathunyelwa kuFaro"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Umlilo owaba noxolo nopholileyo",
+        "Ityeya",
+        "Itafile isasazeke ezulwini",
+        "Inkamela yenkamela yaseThamud",
+        "INtaba iTur kunye nabasebenzi"
+      ],
+      "answer": "INtaba iTur kunye nabasebenzi"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Igadi yatshatyalaliswa ngobusuku obunye",
+        "Umkhosi kaFaro wafa baza abantwana bakwaSirayeli basindiswa",
+        "Umkhosi weendlovu wajikijelwa ngamatye",
+        "Umlilo waba noxolo kwaye wapholile",
+        "Abaphuli beSabatha baguqulwa baba ziinkawu"
+      ],
+      "answer": "Umkhosi kaFaro wafa baza abantwana bakwaSirayeli basindiswa"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

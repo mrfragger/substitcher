@@ -1,0 +1,61 @@
+{
+  "title": "Eldurinn sést úr fjarlægð",
+  "intro": "Ímyndaðu þér dimman dal að nóttu til, fjarlægan ljóma sem blikkar við sjóndeildarhringinn og einmana ferðalang sem stefnir í átt að þessu ljósi í leit að leiðsögn, aðeins til að fá verkefni sem mun takast á við heimsveldi og frelsa kúgaða þjóð.",
+  "clues": [
+    "Ég var settur á rek sem ungbarn í kistu á ánni undir innblæstri Allah til móður minnar.",
+    "Ég ólst upp í húsi harðstjórans sem kúgaði fólk mitt.",
+    "Ég flúði eftir banvænt átök og eyddi árum í Madyan við að gæta hjarða gegn gjaldi.",
+    "Ég sá eld við fjallið og var kallaður á mig með röddu úr hinum blessaða dal.",
+    "Mér voru gefin tvö máttug tákn í höndum mínum: staf sem varð að höggormi og hönd sem skein skærhvít.",
+    "Ég stóð með bróður mínum frammi fyrir stjórnanda Egyptalands og sá síðar hafið klofna svo að við gætum flúið."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Spámaðurinn Múhameð",
+        "Khidr, vitri þjónninn",
+        "Spámaðurinn Músa (Móse)",
+        "Spámaðurinn Dhul-Kifl",
+        "Spámaðurinn Al-Yasa (Elísa)"
+      ],
+      "answer": "Spámaðurinn Músa (Móse)"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Kallaður af Allah í Blessaða dalnum og sendur til Faraós",
+        "Smíðaði örkina til að lifa af flóðið",
+        "Var skipað að fórna syni sínum í draumi",
+        "Túlkaði drauminn um sjö feitar kýr fyrir konung",
+        "Var gleypt af stórum fiski í djúpsjó"
+      ],
+      "answer": "Kallaður af Allah í Blessaða dalnum og sendur til Faraós"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Eldurinn sem varð kaldur og friðsæll",
+        "Örkina",
+        "Borðið breiddist út af himni",
+        "Úlfaldinn frá Thamud",
+        "Túrfjall og starfsfólkið"
+      ],
+      "answer": "Túrfjall og starfsfólkið"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Garðurinn eyðilagðist í nótt",
+        "Her Faraós drukknaði og Ísraelsmenn björguðust",
+        "Fílaherinn var grýttur",
+        "Eldurinn varð kaldur og friðsæll",
+        "Þeir sem brjótu hvíldardaginn voru breyttir í apa"
+      ],
+      "answer": "Her Faraós drukknaði og Ísraelsmenn björguðust"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

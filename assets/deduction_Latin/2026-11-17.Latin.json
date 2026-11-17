@@ -1,0 +1,61 @@
+{
+  "title": "Ignis e Procul Visus",
+  "intro": "Finge tibi vallem obscuram noctu, splendorem longinquum in horizonte micantem, et viatorem solitarium ad illam lucem ducem quaerentem, solum ut ei munus incumbat quod imperium oppugnabit et gentem oppressam liberabit.",
+  "clues": [
+    "Infans in arca in flumine iacens haeresi, inspiratione Allah data matri meae.",
+    "In ipsa domo tyranni qui populum meum opprimebat educatus sum.",
+    "Post rixam fatalem fugi et annos in Madyan, mercede ovium pascens, exegi.",
+    "Ignem iuxta montem vidi et voce ex valle benedicta vocatus sum.",
+    "Duo signa magna in manibus meis mihi data sunt: ​​virga quae in serpentem conversa est et manus quae candidissima fulget.",
+    "Cum fratre meo coram Aegypti principe steti et postea mare divisum ad nostram effugium vidi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Muhammadus",
+        "Khidr, Servus Sapiens",
+        "Propheta Musa (Moses)",
+        "Propheta Dhul-Kifl",
+        "Propheta Al-Yasa (Eliseus)"
+      ],
+      "answer": "Propheta Musa (Moses)"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Vocatus ab Allah in Valle Benedicta et missus ad Pharaonem",
+        "Arcam aedificavit ut Diluvium superviveret",
+        "In somnio iussus est filium immolare",
+        "Interpretatus est somnium septem vaccarum pinguum regi",
+        "Ab magno pisce in alto mari deglutitus est"
+      ],
+      "answer": "Vocatus ab Allah in Valle Benedicta et missus ad Pharaonem"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Ignis qui frigidus et pacificus factus est",
+        "Arca",
+        "Mensa de caelo parata",
+        "Camella Thamudi",
+        "Mons Tur et Baculus"
+      ],
+      "answer": "Mons Tur et Baculus"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Hortus nocte dirutus est",
+        "Exercitus Pharaonis submersus est et filii Israel servati sunt",
+        "Exercitus elephantorum lapidibus iactus est",
+        "Ignis frigidus et pacificus factus est",
+        "Sabbati violatores in simias conversi sunt"
+      ],
+      "answer": "Exercitus Pharaonis submersus est et filii Israel servati sunt"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Umlilo Obonakala Usuka Ekude",
+  "intro": "Cabanga ngesigodi esimnyama ebusuku, ukukhanya okude okukhazimula emkhathizwe, kanye nomhambi oyedwa ohamba eya kulokho kukhanya efuna isiqondiso, kodwa abhekane nomsebenzi ozobhekana nombuso futhi akhulule isizwe esicindezelwe.",
+  "clues": [
+    "Ngashiywa ngiseyingane esifubeni emfuleni ngaphansi kokuphefumulelwa ngu-Allah kumama.",
+    "Ngakhulela emndenini womashiqela owayecindezela abantu bakithi.",
+    "Ngabaleka ngemva kwengxabano eyabulala abantu abaningi futhi ngachitha iminyaka eminingi eMadyan ngelusa imihlambi yokuqasha.",
+    "Ngabona umlilo ngasentabeni futhi ngabizwa ngezwi elivela esigodini esibusisiwe.",
+    "Nganikwa izibonakaliso ezimbili ezinkulu ezandleni zami: induku eyaba yinyoka kanye nesandla esakhanya simhlophe qwa.",
+    "Ngema nomfowethu phambi kombusi waseGibhithe futhi kamuva ngabona ulwandle luhlukana phakathi ukuze sibaleke."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi uMuhammad",
+        "UKhidr, Inceku Ehlakaniphile",
+        "Umprofethi uMose (uMose)",
+        "Umprofethi uDhul-Kifl",
+        "Umprofethi u-Al-Yasa (u-Elisha)"
+      ],
+      "answer": "Umprofethi uMose (uMose)"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Wabizwa ngu-Allah eSigodini Esibusisiwe futhi wathunyelwa kuFaro",
+        "Wakha uMkhumbi ukuze asinde kuZamcolo",
+        "Wayalwa ukuba anikele ngendodana ephusheni",
+        "Wachaza iphupho lezinkomo eziyisikhombisa ezikhuluphele zenkosi",
+        "Wagwinywa yinhlanzi enkulu olwandle olujulile"
+      ],
+      "answer": "Wabizwa ngu-Allah eSigodini Esibusisiwe futhi wathunyelwa kuFaro"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Umlilo owaba nokuthula futhi waphola",
+        "UMphongolo",
+        "Itafula lisakazeke livela ezulwini",
+        "Ikamela lensikazi likaThamud",
+        "INtaba iTur kanye nabasebenzi"
+      ],
+      "answer": "INtaba iTur kanye nabasebenzi"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Ingadi yabhujiswa ngobusuku obubodwa",
+        "Ibutho likaFaro lacwila futhi abantwana bakwa-Israyeli basindiswa",
+        "Ibutho lezindlovu lajikijelwa ngamatshe",
+        "Umlilo waphola futhi waba nokuthula",
+        "Abaphula iSabatha baphenduka izinkawu"
+      ],
+      "answer": "Ibutho likaFaro lacwila futhi abantwana bakwa-Israyeli basindiswa"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

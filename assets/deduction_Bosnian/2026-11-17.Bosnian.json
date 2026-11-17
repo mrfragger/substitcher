@@ -1,0 +1,61 @@
+{
+  "title": "Vatra viđena izdaleka",
+  "intro": "Zamislite mračnu dolinu noću, daleki sjaj koji treperi na horizontu i usamljenog putnika koji se kreće prema toj svjetlosti u potrazi za smjernicama, samo da bi mu se uputila misija koja će se suočiti s carstvom i osloboditi potlačenu naciju.",
+  "clues": [
+    "Kao beba, pušten sam na slobodu u škrinji pored rijeke, pod Allahovom inspiracijom upućenom mojoj majci.",
+    "Odrastao sam u domaćinstvu tiranina koji je ugnjetavao moj narod.",
+    "Pobjegao sam nakon kobne svađe i proveo godine u Madyanu čuvajući stada za najam.",
+    "Vidio sam vatru pored planine i začuo se glas iz blagoslovljene doline.",
+    "Dobio sam dva moćna znaka u rukama: štap koji se pretvorio u zmiju i ruku koja je sjala jarko bijelo.",
+    "Stajao sam sa svojim bratom pred vladarom Egipta i kasnije vidio kako se more razdvaja kako bismo mogli pobjeći."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Poslanik Muhamed",
+        "Khidr, Mudri Sluga",
+        "Poslanik Musa (Musa)",
+        "Poslanik Zul-Kifl",
+        "Poslanik Al-Yasa (Eliša)"
+      ],
+      "answer": "Poslanik Musa (Musa)"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Pozvan od Allaha u Blagoslovljenoj dolini i poslan faraonu",
+        "Izgradio je Arku da preživi Potop",
+        "Bilo mu je naređeno da žrtvuje sina u snu",
+        "Protumačio san o sedam debelih krava za kralja",
+        "Progutala ga je velika riba u dubokom moru"
+      ],
+      "answer": "Pozvan od Allaha u Blagoslovljenoj dolini i poslan faraonu"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Vatra koja je postala hladna i mirna",
+        "Kovčeg",
+        "Stol se prostire s neba",
+        "Samudova kamila",
+        "Planina Tur i štap"
+      ],
+      "answer": "Planina Tur i štap"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Bašta je uništena preko noći",
+        "Faraonova vojska se utopila, a djeca Izraelova su spašena",
+        "Vojska slonova je bila zasuta kamenjem",
+        "Vatra je postala hladna i mirna",
+        "Prekršitelji subote pretvoreni su u majmune"
+      ],
+      "answer": "Faraonova vojska se utopila, a djeca Izraelova su spašena"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

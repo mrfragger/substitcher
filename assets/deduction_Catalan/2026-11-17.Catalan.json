@@ -1,0 +1,61 @@
+{
+  "title": "El foc vist des de lluny",
+  "intro": "Imagineu-vos una vall fosca a la nit, una resplendor distant que parpelleja a l'horitzó i un viatger solitari que es dirigeix ​​cap a aquella llum a la recerca de guia, només per ser encarregat d'una missió que s'enfrontarà a un imperi i alliberarà una nació oprimida.",
+  "clues": [
+    "Vaig quedar a la deriva com un nadó en un cofre al riu sota la inspiració d'Al·là a la meva mare.",
+    "Vaig ser criat a la mateixa casa del tirà que oprimia el meu poble.",
+    "Vaig fugir després d'una baralla fatal i vaig passar anys a Madyan cuidant ramats de sou.",
+    "Vaig veure un foc a la muntanya i em va cridar una veu des de la vall beneïda.",
+    "Se'm van concedir dos signes poderosos a les meves mans: un bastó que es va convertir en una serp i una mà que brillava d'un blanc intens.",
+    "Vaig estar amb el meu germà davant del governant d'Egipte i més tard vaig veure com el mar s'obria per a la nostra fugida."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Mahoma",
+        "Khidr, el servent savi",
+        "Profeta Musa (Moisès)",
+        "Profeta Dhul-Kifl",
+        "Profeta Al-Yasa (Eliseu)"
+      ],
+      "answer": "Profeta Musa (Moisès)"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Cridat per Al·là a la Vall Beneïda i enviat al Faraó",
+        "Va construir l'Arca per sobreviure al Diluvi",
+        "Se li va ordenar sacrificar un fill en un somni",
+        "Va interpretar el somni de set vaques grasses per a un rei",
+        "Va ser engolit per un gran peix a les profunditats del mar"
+      ],
+      "answer": "Cridat per Al·là a la Vall Beneïda i enviat al Faraó"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "El foc que es va tornar fresc i pacífic",
+        "L'Arca",
+        "La taula parada des del cel",
+        "La camella de Thamud",
+        "Mont Tur i el Bastó"
+      ],
+      "answer": "Mont Tur i el Bastó"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "El jardí va ser destruït durant la nit",
+        "L'exèrcit del faraó es va ofegar i els fills d'Israel es van salvar",
+        "L'exèrcit d'elefants va ser apedregat",
+        "El foc es va tornar fresc i pacífic",
+        "Els que trencaven el dissabte es van convertir en simis"
+      ],
+      "answer": "L'exèrcit del faraó es va ofegar i els fills d'Israel es van salvar"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

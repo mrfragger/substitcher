@@ -1,0 +1,61 @@
+{
+  "title": "An tan gwelet a-bell",
+  "intro": "Skeudenniñ ur saonenn deñval diouzh an noz, ur sklêrijenn bell o lugerniñ war an dremmwel, hag ur veajour e-unan o vont war-zu ar gouloù-se o klask titouroù, hep bezañ kaset gant ur gefridi a vo enebet ouzh un impalaeriezh ha dieubiñ ur vroad gwasket.",
+  "clues": [
+    "Lakaet on bet evel ur bugel bihan en ur c'houfr war ar stêr dindan awen Allah d'am mamm.",
+    "Savet on bet e tiegezh an tirant a waske va fobl.",
+    "Tec'het on goude un tabut marvus ha tremenet em eus bloavezhioù e Madyan o tiwall loened da feurmiñ.",
+    "Gwelet em eus un tan e-kichen ar menez hag a voe galvet gant ur vouezh eus an draonienn benniget.",
+    "Roet e voe din daou sin galloudus em daouarn : ur wialenn deuet da vezañ un naer hag un dorn a lugerne gwenn-splann.",
+    "Sevel a ran gant va breur dirak rener an Ejipt ha goude-se em eus gwelet ar mor o tigeriñ evit hon tec'hout."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Ar profed Mohammed",
+        "Khidr, ar servijer fur",
+        "Ar profed Musa (Moizez)",
+        "Ar profed Dhul-Kifl",
+        "Ar profed Al-Yasa (Elisha)"
+      ],
+      "answer": "Ar profed Musa (Moizez)"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Galvet gant Allah er C'hoad Benniget ha kaset da Faraon",
+        "Savet en deus an Arc'h evit chom bev diouzh al Liñvadenn",
+        "Gourc'hemennet e oa bet aberzhiñ ur mab en un hunvre",
+        "Displegañ a reas huñvre seizh buoc'h lard evit ur roue",
+        "Lonket gant ur pesk bras er mor don"
+      ],
+      "answer": "Galvet gant Allah er C'hoad Benniget ha kaset da Faraon"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "An tan a zeuas da vezañ fresk ha peoc'hus",
+        "An Arc'h",
+        "An daol en em astenn eus an neñv",
+        "Kañvalez Thamud",
+        "Menez Tur hag ar vazh"
+      ],
+      "answer": "Menez Tur hag ar vazh"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Distrujet eo bet al liorzh dindan an noz",
+        "Arme Faraon a voe beuzet ha mibien Israel a voe saveteet",
+        "Taolet e voe mein war arme an olifanted",
+        "Dont a reas an tan da vezañ fresk ha peoc'hus",
+        "Ar re a dorr ar sabad a voe troet e marmouzed"
+      ],
+      "answer": "Arme Faraon a voe beuzet ha mibien Israel a voe saveteet"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

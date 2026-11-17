@@ -1,0 +1,61 @@
+{
+  "title": "Uzaqdan Görünən Atəş",
+  "intro": "Gecənin qaranlıq bir vadisini, üfüqdə yanıb-sönən uzaq bir parıltını və rəhbərlik axtararaq o işığa doğru hərəkət edən tək bir səyyahı təsəvvür edin. Lakin bu missiya imperiya ilə qarşılaşacaq və məzlum bir milləti azad edəcək.",
+  "clues": [
+    "Mən körpə ikən, Allahın anama ilhamı ilə çayın kənarında bir sinədə sərgərdan vəziyyətdə idim.",
+    "Mən xalqıma zülm edən tiranın ailəsində böyümüşəm.",
+    "Ölümcül bir mübahisədən sonra qaçdım və illərlə Mədyəndə muzdlu sürüləri otardım.",
+    "Dağın yanında bir od gördüm və mübarək vadidən bir səslə çağırıldım.",
+    "Əlimdə iki qüdrətli əlamət verildi: ilana çevrilən bir əsa və parlaq ağ bir əl.",
+    "Mən qardaşımla birlikdə Misir hökmdarının qarşısında dayandım və sonra dənizin qaçışımız üçün iki yerə bölündüyünü gördüm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Məhəmməd peyğəmbər",
+        "Müdrik Qul Xızır",
+        "Musa peyğəmbər (Musa)",
+        "Peyğəmbər Zül-Kifl",
+        "Peyğəmbər Əl-Yəsa (Elişa)"
+      ],
+      "answer": "Musa peyğəmbər (Musa)"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Allah tərəfindən Mübarək Vadidə çağırılıb Firona göndərildi",
+        "Daşqından sağ çıxmaq üçün gəmi tikdi",
+        "Yuxuda bir oğul qurban kəsmək əmri verildi",
+        "Yeddi kök inək yuxusunu bir padşaha yozdu",
+        "Dərin dənizdə böyük bir balıq tərəfindən uduldu"
+      ],
+      "answer": "Allah tərəfindən Mübarək Vadidə çağırılıb Firona göndərildi"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Sərin və dinc hala gələn od",
+        "Gəmi",
+        "Süfrə göydən yayıldı",
+        "Səmud qövmünün dişi dəvəsi",
+        "Tur dağı və əsa"
+      ],
+      "answer": "Tur dağı və əsa"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Bağ bir gecədə məhv edildi",
+        "Fironun ordusu boğuldu və İsrail oğulları xilas oldular",
+        "Fil ordusu daş-qalaq edildi",
+        "Atəş sərin və dinc oldu",
+        "Şənbə gününü pozanlar meymuna çevrildi"
+      ],
+      "answer": "Fironun ordusu boğuldu və İsrail oğulları xilas oldular"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "O lume visto dende lonxe",
+  "intro": "Imaxina un val escuro pola noite, un brillo distante que parpadea no horizonte e un viaxeiro solitario que se dirixe cara a esa luz en busca de guía, só para ser dirixido a unha misión que enfrontará un imperio e liberará unha nación oprimida.",
+  "clues": [
+    "Quedei á deriva coma un neno nun cofre no río baixo a inspiración de Alá á miña nai.",
+    "Fun criado no propio fogar do tirano que oprimía ao meu pobo.",
+    "Fuxin despois dun altercado mortal e pasei anos en Madyan coidando de rabaños a cambio de soldos.",
+    "Vin un lume xunto á montaña e fun chamado cunha voz dende o val bendito.",
+    "Concedéronseme dous poderosos sinais nas miñas mans: un bastón que se converteu nunha serpe e unha man que brillaba dun branco intenso.",
+    "Estiven co meu irmán diante do gobernante de Exipto e máis tarde vin como se abría o mar para a nosa fuga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Profeta Mahoma",
+        "Khidr, o Servo Sabio",
+        "Profeta Musa (Moisés)",
+        "Profeta Dhul-Kifl",
+        "Profeta Al-Yasa (Eliseo)"
+      ],
+      "answer": "Profeta Musa (Moisés)"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Chamado por Alá no Val Bendito e enviado ao Faraón",
+        "Construíu a Arca para sobrevivir ao Diluvio",
+        "Ordenóuselle sacrificar un fillo nun soño",
+        "Interpretou o soño de sete vacas gordas para un rei",
+        "Foi tragado por un gran peixe nas profundidades do mar"
+      ],
+      "answer": "Chamado por Alá no Val Bendito e enviado ao Faraón"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "O lume que se volveu fresco e pacífico",
+        "A Arca",
+        "A mesa posta dende o ceo",
+        "A cameloa de Thamud",
+        "Monte Tur e o Bastón"
+      ],
+      "answer": "Monte Tur e o Bastón"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "O xardín foi destruído durante a noite",
+        "O exército do faraón afogouse e os fillos de Israel salváronse",
+        "O exército de elefantes foi apedreado",
+        "O lume volveuse fresco e pacífico",
+        "Os que quebrantaban o sábado convertéronse en monos"
+      ],
+      "answer": "O exército do faraón afogouse e os fillos de Israel salváronse"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

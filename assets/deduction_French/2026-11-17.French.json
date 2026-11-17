@@ -1,0 +1,61 @@
+{
+  "title": "Le feu vu de loin",
+  "intro": "Imaginez une vallée sombre la nuit, une lueur lointaine vacillant à l'horizon, et un voyageur solitaire se dirigeant vers cette lumière en quête de conseils, pour finalement se voir confier une mission qui le mènera à affronter un empire et à libérer une nation opprimée.",
+  "clues": [
+    "J'ai été abandonné, bébé, dans un coffre sur le fleuve, sous l'inspiration d'Allah donnée à ma mère.",
+    "J'ai grandi dans la maison même du tyran qui opprimait mon peuple.",
+    "J'ai fui après une altercation fatale et j'ai passé des années à Madyan à garder des troupeaux pour gagner ma vie.",
+    "J'ai aperçu un feu près de la montagne et j'ai entendu une voix m'appeler depuis la vallée bénie.",
+    "Deux signes puissants m'ont été accordés : un bâton qui se changea en serpent et une main qui resplendit d'une blancheur éclatante.",
+    "Je me suis tenu avec mon frère devant le souverain d'Égypte et, plus tard, j'ai vu la mer se fendre pour nous permettre de nous échapper."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le prophète Mahomet",
+        "Khidr, le sage serviteur",
+        "Prophète Moussa (Moïse)",
+        "Prophète Dhul-Kifl",
+        "Prophète Al-Yasa (Élisée)"
+      ],
+      "answer": "Prophète Moussa (Moïse)"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Appelés par Allah dans la Vallée Bénie et envoyés auprès de Pharaon",
+        "Ils ont construit l'arche pour survivre au Déluge.",
+        "On m'a ordonné de sacrifier un fils en rêve",
+        "Il a interprété le rêve de sept vaches grasses pour un roi.",
+        "A été avalé par un grand poisson dans les profondeurs de la mer"
+      ],
+      "answer": "Appelés par Allah dans la Vallée Bénie et envoyés auprès de Pharaon"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Le feu qui s'était refroidi et était devenu paisible",
+        "L'Arche",
+        "La table s'étendit du ciel",
+        "La chamelle de Thamud",
+        "Le mont Tur et le bâton"
+      ],
+      "answer": "Le mont Tur et le bâton"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Le jardin a été détruit du jour au lendemain.",
+        "L'armée du Pharaon périt en noyade et les Enfants d'Israël furent sauvés.",
+        "L'armée d'éléphants fut bombardée de pierres.",
+        "Le feu s'est refroidi et est devenu paisible.",
+        "Ceux qui violaient le sabbat furent transformés en singes"
+      ],
+      "answer": "L'armée du Pharaon périt en noyade et les Enfants d'Israël furent sauvés."
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

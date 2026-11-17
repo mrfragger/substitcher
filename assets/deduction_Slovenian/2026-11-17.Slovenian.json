@@ -1,0 +1,61 @@
+{
+  "title": "Ogenj, viden od daleč",
+  "intro": "Predstavljajte si temno dolino ponoči, oddaljen sij, ki utripa na obzorju, in osamljenega popotnika, ki se premika proti tej luči v iskanju vodstva, le da bi ga nagovorili z misijo, ki se bo soočila z imperijem in osvobodila zatirani narod.",
+  "clues": [
+    "Kot dojenček sem bil po Alahovem navdihu moji materi puščen na prosto v skrinji na reki.",
+    "Odraščal sem v družini tirana, ki je zatiral moje ljudstvo.",
+    "Po usodnem prepiru sem pobegnil in leta preživel v Madyanu, kjer sem za najem pasel črede.",
+    "Ob gori sem zagledal ogenj in zaslišal me je glas iz blagoslovljene doline.",
+    "V roke sem dobil dva mogočna znamenja: palico, ki se je spremenila v kačo, in roko, ki se je svetila v svetlo belo.",
+    "Stal sem s svojim bratom pred egiptovskim vladarjem in kasneje videl, kako se je morje razcepilo, da bi lahko pobegnil."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Mohamed",
+        "Khidr, modri služabnik",
+        "Prerok Musa (Mojzes)",
+        "Prerok Zul-Kifl",
+        "Prerok Al-Jasa (Eliš"
+      ],
+      "answer": "Prerok Musa (Mojzes)"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Poklican od Allaha v Blagoslovljeni dolini in poslan faraonu",
+        "Zgradili so barko, da bi preživeli potop",
+        "V sanjah mu je bilo ukazano, naj žrtvuje sina",
+        "Razlaga sanj o sedmih debelih kravah za kralja",
+        "V globokem morju ga je pogoltnila velika riba"
+      ],
+      "answer": "Poklican od Allaha v Blagoslovljeni dolini in poslan faraonu"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Ogenj, ki je postal hladen in miren",
+        "Skrinja",
+        "Miza se je razprostrla z neba",
+        "Tamudova kamela",
+        "Gora Tur in osebje"
+      ],
+      "answer": "Gora Tur in osebje"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Vrt je bil ponoči uničen",
+        "Faraonova vojska se je utopila in Izraelovi otroci so bili rešeni",
+        "Slonovo vojsko so obmetavali s kamenjem",
+        "Ogenj je postal hladen in miren",
+        "Kršitelji sobote so se spremenili v opice"
+      ],
+      "answer": "Faraonova vojska se je utopila in Izraelovi otroci so bili rešeni"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

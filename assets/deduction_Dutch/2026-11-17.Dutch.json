@@ -1,0 +1,61 @@
+{
+  "title": "Het vuur gezien vanaf een afstand",
+  "intro": "Stel je een donkere vallei voor in de nacht, een verre gloed flikkert aan de horizon, en een eenzame reiziger loopt naar dat licht toe op zoek naar leiding, om vervolgens een missie te ontvangen die een imperium zal confronteren en een onderdrukte natie zal bevrijden.",
+  "clues": [
+    "Ik werd als baby in een kist op de rivier te water gelaten, op ingeving van Allah aan mijn moeder.",
+    "Ik ben opgegroeid in het huis van de tiran die mijn volk onderdrukte.",
+    "Na een fatale confrontatie ben ik gevlucht en heb ik jarenlang in Madyan gewerkt als schapenhoeder in opdracht.",
+    "Ik zag een vuur bij de berg en werd geroepen door een stem uit het gezegende dal.",
+    "Ik ontving twee machtige tekenen in mijn handen: een staf die in een slang veranderde en een hand die helderwit straalde.",
+    "Ik stond samen met mijn broer voor de heerser van Egypte en zag later hoe de zee zich splitste zodat we konden ontsnappen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wie ben ik?",
+      "options": [
+        "Profeet Mohammed",
+        "Khidr, de wijze dienaar",
+        "Profeet Musa (Mozes)",
+        "Profeet Dhul-Kifl",
+        "Profeet Al-Yasa (Elisha)"
+      ],
+      "answer": "Profeet Musa (Mozes)"
+    },
+    "trial": {
+      "label": "Proef/Evenement",
+      "options": [
+        "Geroepen door Allah in de Gezegende Vallei en gezonden naar Farao",
+        "De ark werd gebouwd om de zondvloed te overleven.",
+        "In een droom kreeg ik de opdracht een zoon te offeren.",
+        "Hij interpreteerde de droom van zeven dikke koeien voor een koning.",
+        "Werd opgeslokt door een grote vis in de diepzee."
+      ],
+      "answer": "Geroepen door Allah in de Gezegende Vallei en gezonden naar Farao"
+    },
+    "location": {
+      "label": "Sleutelelement",
+      "options": [
+        "Het vuur dat koel en vredig werd.",
+        "De Ark",
+        "De tafel was gedekt vanuit de hemel.",
+        "De kameelvrouw van Thamud",
+        "Mount Tur en de staf"
+      ],
+      "answer": "Mount Tur en de staf"
+    },
+    "outcome": {
+      "label": "Resultaat",
+      "options": [
+        "De tuin werd vannacht verwoest.",
+        "Het leger van de farao verdronk en de Israëlieten werden gered.",
+        "Het olifantenleger werd bekogeld met stenen.",
+        "Het vuur werd koel en vredig.",
+        "De sabbatschenders werden in apen veranderd."
+      ],
+      "answer": "Het leger van de farao verdronk en de Israëlieten werden gered."
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

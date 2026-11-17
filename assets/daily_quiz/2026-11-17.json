@@ -1,0 +1,906 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "مَخْلُوقَاتُ اللَّهِ",
+        "nameEn": "Creations of Allah",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "السَّمَاوَاتِ",
+            "en": "the heavens",
+            "ref": "14:19",
+            "verse": "أَلَمْ تَرَ أَنَّ ٱللَّهَ خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۚ إِن يَشَأْ يُذْهِبْكُمْ وَيَأْتِ بِخَلْقٍۢ جَدِيدٍۢ",
+            "verseEn": "Have you not seen [i.e., considered] that Allāh created the heavens and the earth in truth? If He wills, He can do away with you and produce a new creation."
+          },
+          {
+            "ar": "الْأَرْضِ",
+            "en": "the earth",
+            "ref": "17:4",
+            "verse": "وَقَضَيْنَآ إِلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ فِى ٱلْكِتَـٰبِ لَتُفْسِدُنَّ فِى ٱلْأَرْضِ مَرَّتَيْنِ وَلَتَعْلُنَّ عُلُوًّۭا كَبِيرًۭا",
+            "verseEn": "And We conveyed to the Children of Israel in the Scripture that, \"You will surely cause corruption on the earth twice, and you will surely reach [a degree of] great haughtiness.\""
+          },
+          {
+            "ar": "الْإِنسَانُ",
+            "en": "man",
+            "ref": "41:49",
+            "verse": "لَّا يَسْـَٔمُ ٱلْإِنسَـٰنُ مِن دُعَآءِ ٱلْخَيْرِ وَإِن مَّسَّهُ ٱلشَّرُّ فَيَـُٔوسٌۭ قَنُوطٌۭ",
+            "verseEn": "Man is not weary of supplication for good [things], but if evil touches him, he is hopeless and despairing."
+          },
+          {
+            "ar": "الْمَلَائِكَةُ",
+            "en": "and the Angels",
+            "ref": "16:49",
+            "verse": "وَلِلَّهِ يَسْجُدُ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ مِن دَآبَّةٍۢ وَٱلْمَلَـٰٓئِكَةُ وَهُمْ لَا يَسْتَكْبِرُونَ",
+            "verseEn": "And to Allāh prostrates whatever is in the heavens and whatever is on the earth of creatures, and the angels [as well], and they are not arrogant."
+          }
+        ]
+      },
+      {
+        "name": "أَفْعَالُ الْإِدْرَاكِ وَالْمَعْرِفَةِ",
+        "nameEn": "Acts of perceiving and knowing",
+        "color": "green",
+        "items": [
+          {
+            "ar": "رَأَىٰ",
+            "en": "he saw",
+            "ref": "53:18",
+            "verse": "لَقَدْ رَأَىٰ مِنْ ءَايَـٰتِ رَبِّهِ ٱلْكُبْرَىٰٓ",
+            "verseEn": "He certainly saw of the greatest signs of his Lord."
+          },
+          {
+            "ar": "أَعْلَمُ",
+            "en": "I know",
+            "ref": "11:31",
+            "verse": "وَلَآ أَقُولُ لَكُمْ عِندِى خَزَآئِنُ ٱللَّهِ وَلَآ أَعْلَمُ ٱلْغَيْبَ وَلَآ أَقُولُ إِنِّى مَلَكٌۭ وَلَآ أَقُولُ لِلَّذِينَ تَزْدَرِىٓ أَعْيُنُكُمْ لَن يُؤْتِيَهُمُ ٱللَّهُ خَيْرًا ۖ ٱللَّهُ أَعْلَمُ بِمَا فِىٓ أَنفُسِهِمْ  ۖ إِنِّىٓ إِذًۭا لَّمِنَ ٱلظَّـٰلِمِينَ",
+            "verseEn": "And I do not tell you that I have the depositories [containing the provision] of Allāh or that I know the unseen, nor do I tell you that I am an angel, nor do I say of those upon whom your eyes look down that Allāh will never grant them any good. Allāh is most knowing of what is within their souls. Indeed, I would then be among the wrongdoers [i.e., the unjust].\""
+          },
+          {
+            "ar": "مُّسْتَمِعُونَ",
+            "en": "listening",
+            "ref": "26:15",
+            "verse": "قَالَ كَلَّا ۖ فَٱذْهَبَا بِـَٔايَـٰتِنَآ ۖ إِنَّا مَعَكُم مُّسْتَمِعُونَ",
+            "verseEn": "[Allāh] said, \"No. Go both of you with Our signs; indeed, We are with you, listening."
+          },
+          {
+            "ar": "تُبْصِرُونَ",
+            "en": "see",
+            "ref": "27:54",
+            "verse": "وَلُوطًا إِذْ قَالَ لِقَوْمِهِۦٓ أَتَأْتُونَ ٱلْفَـٰحِشَةَ وَأَنتُمْ تُبْصِرُونَ",
+            "verseEn": "And [mention] Lot, when he said to his people, \"Do you commit immorality while you are seeing?"
+          }
+        ]
+      },
+      {
+        "name": "أَنْبِيَاءُ كَذَّبَهُمْ أَقْوَامُهُمْ",
+        "nameEn": "Prophets rejected by their people",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "نُوحٍ",
+            "en": "Nuh",
+            "ref": "11:36",
+            "verse": "وَأُوحِىَ إِلَىٰ نُوحٍ أَنَّهُۥ لَن يُؤْمِنَ مِن قَوْمِكَ إِلَّا مَن قَدْ ءَامَنَ فَلَا تَبْتَئِسْ بِمَا كَانُوا۟ يَفْعَلُونَ",
+            "verseEn": "And it was revealed to Noah that, \"No one will believe from your people except those who have already believed, so do not be distressed by what they have been doing."
+          },
+          {
+            "ar": "صَالِحًا",
+            "en": "Salih",
+            "ref": "27:45",
+            "verse": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+            "verseEn": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting."
+          },
+          {
+            "ar": "شُعَيْبُ",
+            "en": "O Shuaib",
+            "ref": "11:91",
+            "verse": "قَالُوا۟ يَـٰشُعَيْبُ مَا نَفْقَهُ كَثِيرًۭا مِّمَّا تَقُولُ وَإِنَّا لَنَرَىٰكَ فِينَا ضَعِيفًۭا ۖ وَلَوْلَا رَهْطُكَ لَرَجَمْنَـٰكَ ۖ وَمَآ أَنتَ عَلَيْنَا بِعَزِيزٍۢ",
+            "verseEn": "They said, \"O Shuʿayb, we do not understand much of what you say, and indeed, we consider you among us as weak. And if not for your family, we would have stoned you [to death]; and you are not to us one respected.\""
+          },
+          {
+            "ar": "مُوسَىٰ",
+            "en": "Musa",
+            "ref": "26:10",
+            "verse": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+            "verseEn": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people -"
+          }
+        ]
+      },
+      {
+        "name": "أَلْفَاظُ الْعَذَابِ وَالْوَعِيدِ",
+        "nameEn": "Terms for divine punishment and woe",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "لَعْنَةً",
+            "en": "(by) a curse",
+            "ref": "11:99",
+            "verse": "وَأُتْبِعُوا۟ فِى هَـٰذِهِۦ لَعْنَةًۭ وَيَوْمَ ٱلْقِيَـٰمَةِ ۚ بِئْسَ ٱلرِّفْدُ ٱلْمَرْفُودُ",
+            "verseEn": "And they were followed in this [world] with a curse and on the Day of Resurrection. And wretched is the gift which is given."
+          },
+          {
+            "ar": "الْعَذَابِ",
+            "en": "the punishment",
+            "ref": "37:38",
+            "verse": "إِنَّكُمْ لَذَآئِقُوا۟ ٱلْعَذَابِ ٱلْأَلِيمِ",
+            "verseEn": "Indeed, you [disbelievers] will be tasters of the painful punishment,"
+          },
+          {
+            "ar": "وَيْلٌ",
+            "en": "Woe",
+            "ref": "77:28",
+            "verse": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+            "verseEn": "Woe, that Day, to the deniers."
+          },
+          {
+            "ar": "صِلِيًّا",
+            "en": "(of) being burnt",
+            "ref": "19:70",
+            "verse": "ثُمَّ لَنَحْنُ أَعْلَمُ بِٱلَّذِينَ هُمْ أَوْلَىٰ بِهَا صِلِيًّۭا",
+            "verseEn": "Then, surely it is We who are most knowing of those most worthy of burning therein."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "معايش",
+    "display": "مَعَايِشَ",
+    "hint": "Provisions and means of livelihood granted for survival on earth",
+    "verseRef": "7:10",
+    "arabicVerse": "وَلَقَدْ مَكَّنَّـٰكُمْ فِى ٱلْأَرْضِ وَجَعَلْنَا لَكُمْ فِيهَا مَعَـٰيِشَ ۗ قَلِيلًۭا مَّا تَشْكُرُونَ",
+    "verse": "7:10 - And We have certainly established you upon the earth and made for you therein ways of livelihood. Little are you grateful."
+  },
+  "scramble": {
+    "verseRef": "22:38",
+    "reference": "Surah Al-Hajj (22:38)",
+    "segments": [
+      "إِنَّ اللَّهَ",
+      "يُدَافِعُ عَنِ",
+      "الَّذِينَ آمَنُوا",
+      "إِنَّ اللَّهَ لَا",
+      "يُحِبُّ كُلَّ",
+      "خَوَّانٍ كَفُورٍ"
+    ],
+    "translations": [
+      "Indeed Allah defends",
+      "defends those who",
+      "believe Indeed",
+      "Allah (does) not",
+      "like every",
+      "treacherous ungrateful"
+    ],
+    "hint": "Allah's defense of the believers and His dislike of betrayal and ingratitude",
+    "arabic": "۞ إِنَّ ٱللَّهَ يُدَٰفِعُ عَنِ ٱلَّذِينَ ءَامَنُوٓا۟ ۗ إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ خَوَّانٍۢ كَفُورٍ",
+    "words": [
+      "۞ إِنَّ ٱللَّهَ يُدَٰفِعُ",
+      "عَنِ ٱلَّذِينَ",
+      "ءَامَنُوٓا۟ ۗ إِنَّ",
+      "ٱللَّهَ لَا",
+      "يُحِبُّ كُلَّ",
+      "خَوَّانٍۢ كَفُورٍ"
+    ],
+    "verseEn": "Indeed, Allāh defends those who have believed. Indeed, Allāh does not like everyone treacherous and ungrateful."
+  },
+  "roothive": {
+    "center": "ي",
+    "outer": [
+      "ر",
+      "ا",
+      "ت",
+      "س",
+      "م",
+      "ط"
+    ],
+    "root": {
+      "letters": "طير",
+      "display": "ط ي ر",
+      "translit": "ṭ-y-r",
+      "meaning": "The core idea is flying through the air with lightness and speed. It gives words for birds and flying, then extends to seeing omens in their flight and to anything spreading fast and far.",
+      "occurrences": 29,
+      "lemmaCount": 5
+    },
+    "words": [
+      {
+        "w": "اتي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "آتَى",
+            "gloss": "was given",
+            "type": "verb",
+            "root": "أتي",
+            "count": 271,
+            "ref": "2:136",
+            "pos": 16,
+            "alt": [
+              "is given",
+              "has been given"
+            ],
+            "form": 4
+          },
+          {
+            "lemma": "أَتَى",
+            "gloss": "comes",
+            "type": "verb",
+            "root": "أتي",
+            "count": 264,
+            "ref": "2:106",
+            "pos": 7,
+            "alt": [
+              "come",
+              "bring"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "آتِي",
+            "gloss": "come",
+            "type": "active participle",
+            "root": "أتي",
+            "count": 9,
+            "ref": "19:93",
+            "pos": 8,
+            "alt": [
+              "coming"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اري",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَرَيْ",
+            "gloss": "show",
+            "type": "verb",
+            "root": "رأي",
+            "count": 40,
+            "ref": "6:75",
+            "pos": 2,
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "امي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أُمِّيّ",
+            "gloss": "unlettered ones",
+            "type": "noun",
+            "root": "أمم",
+            "count": 6,
+            "ref": "2:78",
+            "pos": 2
+          }
+        ]
+      },
+      {
+        "w": "راي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "رَأَى",
+            "gloss": "saw",
+            "type": "verb",
+            "root": "رأي",
+            "count": 271,
+            "ref": "2:55",
+            "pos": 8,
+            "alt": [
+              "see",
+              "seen"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "رَأْى",
+            "gloss": "sight",
+            "type": "noun",
+            "root": "رأي",
+            "count": 2,
+            "ref": "3:13",
+            "pos": 17
+          }
+        ]
+      },
+      {
+        "w": "رمي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "رَمَى",
+            "gloss": "throws",
+            "type": "verb",
+            "root": "رمي",
+            "count": 9,
+            "ref": "4:112",
+            "pos": 7,
+            "alt": [
+              "threw",
+              "throws up"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "سمي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "سَمَّى",
+            "gloss": "named",
+            "type": "verb",
+            "root": "سمو",
+            "count": 8,
+            "ref": "76:18",
+            "pos": 3,
+            "form": 2
+          },
+          {
+            "lemma": "سَمِيّ",
+            "gloss": "name",
+            "type": "noun",
+            "root": "سمو",
+            "count": 2,
+            "ref": "19:7",
+            "pos": 12,
+            "alt": [
+              "any similarity"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "سير",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "سَيْر",
+            "gloss": "movement",
+            "type": "noun",
+            "root": "سير",
+            "count": 2,
+            "ref": "52:10",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "سيي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "سَيِّئ",
+            "gloss": "evil",
+            "type": "adjective",
+            "root": "سوأ",
+            "count": 4,
+            "ref": "9:102",
+            "pos": 8
+          }
+        ]
+      },
+      {
+        "w": "طري",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "طَرِيّ",
+            "gloss": "fresh",
+            "type": "adjective",
+            "root": "طرو",
+            "count": 2,
+            "ref": "16:14",
+            "pos": 8
+          }
+        ]
+      },
+      {
+        "w": "طير",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "طَيْر",
+            "gloss": "fowls",
+            "type": "noun",
+            "root": "طير",
+            "count": 19,
+            "ref": "3:49",
+            "pos": 21,
+            "alt": [
+              "bird",
+              "birds"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ميت",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَيِّت",
+            "gloss": "dead",
+            "type": "noun",
+            "root": "موت",
+            "count": 38,
+            "ref": "2:28",
+            "pos": 5,
+            "alt": [
+              "die"
+            ]
+          },
+          {
+            "lemma": "مَيْت",
+            "gloss": "dead",
+            "type": "noun",
+            "root": "موت",
+            "count": 5,
+            "ref": "6:122",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "يسر",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "يُسْر",
+            "gloss": "ease",
+            "type": "noun",
+            "root": "يسر",
+            "count": 7,
+            "ref": "18:88",
+            "pos": 13
+          }
+        ]
+      },
+      {
+        "w": "اسري",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَسْرَى",
+            "gloss": "travel by night",
+            "type": "verb",
+            "root": "سري",
+            "count": 6,
+            "ref": "17:1",
+            "pos": 3,
+            "alt": [
+              "took"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "اسير",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَسِير",
+            "gloss": "captives",
+            "type": "noun",
+            "root": "أسر",
+            "count": 4,
+            "ref": "2:85",
+            "pos": 17,
+            "alt": [
+              "prisoners of war"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اطير",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "اطَّيَّرْ",
+            "gloss": "ascribe evil omens",
+            "type": "verb",
+            "root": "طير",
+            "count": 3,
+            "ref": "7:131",
+            "pos": 10,
+            "alt": [
+              "consider you a bad omen",
+              "see an evil omen"
+            ],
+            "form": 5
+          }
+        ]
+      },
+      {
+        "w": "امري",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "امْرِئ",
+            "gloss": "person",
+            "type": "noun",
+            "root": "مرأ",
+            "count": 5,
+            "ref": "24:11",
+            "pos": 16,
+            "alt": [
+              "man"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "تيسر",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "تَيَسَّرَ",
+            "gloss": "is easy",
+            "type": "verb",
+            "root": "يسر",
+            "count": 2,
+            "ref": "73:20",
+            "pos": 28,
+            "form": 5
+          }
+        ]
+      },
+      {
+        "w": "تيمم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "تَيَمَّمُ",
+            "gloss": "aim",
+            "type": "verb",
+            "root": "يمم",
+            "count": 3,
+            "ref": "2:267",
+            "pos": 15,
+            "alt": [
+              "tayammum",
+              "tayyammum"
+            ],
+            "form": 5
+          }
+        ]
+      },
+      {
+        "w": "رميم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "رَمِيم",
+            "gloss": "decomposed",
+            "type": "noun",
+            "root": "رمم",
+            "count": 2,
+            "ref": "36:78",
+            "pos": 11
+          }
+        ]
+      },
+      {
+        "w": "سيرت",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "سُيِّرَتْ",
+            "gloss": "could be moved",
+            "type": "verb",
+            "root": "سير",
+            "count": 5,
+            "ref": "13:31",
+            "pos": 4,
+            "alt": [
+              "cause move",
+              "are moved away"
+            ],
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "سيما",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "سِيما",
+            "gloss": "marks",
+            "type": "noun",
+            "root": "سوم",
+            "count": 6,
+            "ref": "2:273",
+            "pos": 18,
+            "alt": [
+              "mark"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "طاير",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "طائِر",
+            "gloss": "bird",
+            "type": "active participle",
+            "root": "طير",
+            "count": 5,
+            "ref": "6:38",
+            "pos": 7
+          }
+        ]
+      },
+      {
+        "w": "مرسي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مُرْسَى",
+            "gloss": "appointed time",
+            "type": "passive participle",
+            "root": "رسو",
+            "count": 3,
+            "ref": "7:187",
+            "pos": 5,
+            "alt": [
+              "anchorage",
+              "arrival"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مسمي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مُسَمًّى",
+            "gloss": "specified",
+            "type": "passive participle",
+            "root": "سمو",
+            "count": 21,
+            "ref": "2:282",
+            "pos": 9,
+            "alt": [
+              "appointed",
+              "fixed"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ميسر",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَيْسِر",
+            "gloss": "games of chance",
+            "type": "noun",
+            "root": "يسر",
+            "count": 3,
+            "ref": "2:219",
+            "pos": 4,
+            "alt": [
+              "gambling"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "يتيم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "يَتِيم",
+            "gloss": "orphan",
+            "type": "noun",
+            "root": "يتم",
+            "count": 23,
+            "ref": "4:127",
+            "pos": 14,
+            "alt": [
+              "orphans",
+              "two orphan boys"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "يسري",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "يُسْرَى",
+            "gloss": "to the ease",
+            "type": "noun",
+            "root": "يسر",
+            "count": 2,
+            "ref": "87:8",
+            "pos": 2,
+            "alt": [
+              "towards ease"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "يسير",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "يَسِير",
+            "gloss": "gradual",
+            "type": "noun",
+            "root": "يسر",
+            "count": 15,
+            "ref": "4:30",
+            "pos": 13,
+            "alt": [
+              "easy",
+              "little"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "سامري",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "سامِرِيّ",
+            "gloss": "samiri",
+            "type": "proper noun",
+            "root": "سمر",
+            "count": 3,
+            "ref": "20:85",
+            "pos": 9,
+            "alt": [
+              "o samiri"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ممتري",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مُمْتَري",
+            "gloss": "doubters",
+            "type": "active participle",
+            "root": "مري",
+            "count": 4,
+            "ref": "2:147",
+            "pos": 7,
+            "alt": [
+              "ones who doubt"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اساطير",
+        "family": false,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "أَساطِير",
+            "gloss": "tales",
+            "type": "noun",
+            "root": "سطر",
+            "count": 9,
+            "ref": "6:25",
+            "pos": 31,
+            "alt": [
+              "stories"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "استياس",
+        "family": false,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "اسْتَيْأَسَ",
+            "gloss": "gave up hope",
+            "type": "verb",
+            "root": "يأس",
+            "count": 2,
+            "ref": "12:110",
+            "pos": 3,
+            "form": 10
+          }
+        ]
+      },
+      {
+        "w": "استيسر",
+        "family": false,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "اسْتَيْسَرَ",
+            "gloss": "obtained with ease",
+            "type": "verb",
+            "root": "يسر",
+            "count": 2,
+            "ref": "2:196",
+            "pos": 8,
+            "form": 10
+          }
+        ]
+      },
+      {
+        "w": "مستطير",
+        "family": true,
+        "points": 6,
+        "senses": [
+          {
+            "lemma": "مُسْتَطِير",
+            "gloss": "widespread",
+            "type": "active participle",
+            "root": "طير",
+            "count": 1,
+            "ref": "76:7",
+            "pos": 7
+          }
+        ]
+      }
+    ],
+    "otherFamily": [
+      {
+        "lemma": "يَطِيرُ",
+        "gloss": "flies",
+        "type": "verb",
+        "root": "طير",
+        "count": 1,
+        "ref": "6:38",
+        "pos": 8,
+        "form": 1
+      }
+    ],
+    "maxScore": 74,
+    "featuredRoot": "طير"
+  }
+}

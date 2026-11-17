@@ -1,0 +1,61 @@
+{
+  "title": "Kaukaa nähty tuli",
+  "intro": "Kuvittele pimeä laakso yöllä, kaukainen hehku lepattaa horisontissa ja yksinäinen matkaaja, joka kulkee kohti valoa etsien opastusta, vain saadakseen tehtävän, joka kohtaa imperiumin ja vapauttaa sorretun kansakunnan.",
+  "clues": [
+    "Minut jätettiin ajelehtimaan vauvana arkussa joella Allahin äidilleni antamasta inspiraatiosta.",
+    "Minut kasvatettiin tyrannin taloudessa, joka sorsi kansaani.",
+    "Pakenin kohtalokkaan yhteenoton jälkeen ja vietin vuosia Madyanissa paimentaen karjaa maksua vastaan.",
+    "Näin tulen vuoren luona ja ääni kutsui minua siunatusta laaksosta.",
+    "Minulle annettiin kaksi mahtavaa merkkiä käsiini: sauva, joka muuttui käärmeeksi, ja käsi, joka loisti kirkkaan valkoisena.",
+    "Seisoin veljeni kanssa Egyptin hallitsijan edessä ja myöhemmin näin meren jakautuvan kahtia pakoamme varten."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Muhammed",
+        "Khidr, viisas palvelija",
+        "Profeetta Musa (Mooses)",
+        "Profeetta Dhul-Kifl",
+        "Profeetta Al-Yasa (Elisa)"
+      ],
+      "answer": "Profeetta Musa (Mooses)"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Allahin kutsuma Siunattuun laaksoon ja lähetetty faaraolle",
+        "Rakensi arkin selviytyäkseen vedenpaisumuksesta",
+        "Kästettiin uhraamaan poika unessa",
+        "Tulkitsi kuninkaan unen seitsemästä lihavasta lehmästä",
+        "Suuri kala nielaisi hänet syvässä meressä"
+      ],
+      "answer": "Allahin kutsuma Siunattuun laaksoon ja lähetetty faaraolle"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Tuli, josta tuli viileä ja rauhallinen",
+        "Arkki",
+        "Pöytä levitettiin taivaasta",
+        "Thamudin naaraskameli",
+        "Tur-vuori ja sauva"
+      ],
+      "answer": "Tur-vuori ja sauva"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Puutarha tuhoutui yön aikana",
+        "Faaraon armeija hukkui ja israelilaiset pelastuivat",
+        "Norsuarmeijaa heiteltiin kivillä",
+        "Tuli viileni ja rauhoittui",
+        "Sapatin rikkojat muuttuivat apinoiksi"
+      ],
+      "answer": "Faaraon armeija hukkui ja israelilaiset pelastuivat"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

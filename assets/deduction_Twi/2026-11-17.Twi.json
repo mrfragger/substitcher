@@ -1,0 +1,61 @@
+{
+  "title": "Ogya a Wohu Fi Akyirikyiri",
+  "intro": "Fa w’adwene bu bon bi a emu yɛ sum anadwo, akyirikyiri hann bi a ɛrehyerɛn wɔ wim, ne akwantufo bi a ɔyɛ ankonam a ɔrekɔ saa hann no so akɔhwehwɛ akwankyerɛ, na wɔde asɛmpatrɛw adwuma bi a ɛbɛma ahemman bi ahyia na ama ɔman bi a wɔhyɛ wɔn so ade ne ho redi no ho mfonini wɔ w’adwenem.",
+  "clues": [
+    "Wɔde me too nsuo mu sɛ akokoaa wɔ adaka bi mu wɔ asubɔnten no so wɔ Allah nhyɛsoɔ a ɔde maa me maame no ase.",
+    "Wɔtetee me wɔ otirimɔdenfo a ɔhyɛɛ me nkurɔfo so no fie ankasa.",
+    "Miguan wɔ akasakasa a ɛyɛ hu akyi na midii mfe pii wɔ Madyanfo hwɛɛ nguankuw a wɔagye wɔn ka.",
+    "Mihuu ogya bi wɔ bepɔw no ho na wɔde nne bi frɛɛ me fii bon a wɔahyira so no mu.",
+    "Wɔmaa me nsɛnkyerɛnne akɛseɛ mmienu wɔ me nsam: poma a ɛdanee ɔwɔ ne nsa a ɛhyerɛn fitaa a ɛhyerɛn.",
+    "Me ne me nua no gyinaa Misraim sodifo no anim na akyiri yi mihuu sɛ ɛpo no mu apaapae sɛnea ɛbɛyɛ a yeguan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ɔkɔmhyɛni Muhammad",
+        "Khidr, Akoa Nyansafoɔ no",
+        "Ɔkɔmhyɛni Musa (Mose) .",
+        "Ɔkɔmhyɛni Dhul-Kifl",
+        "Ɔkɔmhyɛni Al-Yasa (Elisa) ."
+      ],
+      "answer": "Ɔkɔmhyɛni Musa (Mose) ."
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Allah frɛɛ no ​​wɔ Nhyira Bon no mu na wɔsomaa no kɔmaa Farao",
+        "Ɔkyekyeree Adaka no sɛnea ɛbɛyɛ a obenya nkwa wɔ Nsuyiri no mu",
+        "Wɔhyɛɛ no ​​sɛ ɔmfa ɔbabarima mmɔ afɔre wɔ dae mu",
+        "Ɔkyerɛɛ anantwi srade ason ho dae ase maa ɔhene",
+        "Ɔpataa kɛse bi menee no wɔ po a emu dɔ no mu"
+      ],
+      "answer": "Allah frɛɛ no ​​wɔ Nhyira Bon no mu na wɔsomaa no kɔmaa Farao"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Ogya a ɛbɛyɛɛ nwini na asomdwoe wom no",
+        "Adaka no",
+        "Pono no trɛw fii soro",
+        "Thamud yoma a ɔyɛ ɔbea no",
+        "Bepɔw Tur ne Poma no"
+      ],
+      "answer": "Bepɔw Tur ne Poma no"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wɔsɛee turo no anadwo biako pɛ",
+        "Farao dɔm no faa nsuo mu na wɔgyee Israel Mma no nkwa",
+        "Wɔde abo guu asono dɔm no so",
+        "Ogya no bɛyɛɛ nwini na asomdwoe wom",
+        "Wɔdan wɔn a wobu Homeda so no yɛɛ wɔn akraman"
+      ],
+      "answer": "Farao dɔm no faa nsuo mu na wɔgyee Israel Mma no nkwa"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

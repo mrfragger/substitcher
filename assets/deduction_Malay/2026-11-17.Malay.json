@@ -1,0 +1,61 @@
+{
+  "title": "Api yang Dilihat Dari Jauh",
+  "intro": "Bayangkan sebuah lembah gelap pada waktu malam, cahaya yang jauh berkelip-kelip di kaki langit, dan seorang pengembara yang bergerak ke arah cahaya itu untuk mencari petunjuk, hanya untuk ditangani dengan misi yang akan menghadapi sebuah empayar dan membebaskan sebuah negara yang tertindas.",
+  "clues": [
+    "Aku hanyut ketika bayi di dalam peti di tepi sungai di bawah ilham Allah kepada ibuku.",
+    "Aku dibesarkan dalam keluarga tiran yang menindas bangsaku.",
+    "Saya melarikan diri selepas pergaduhan yang membawa maut dan menghabiskan bertahun-tahun di Madyan menggembalakan kawanan ternakan yang disewa.",
+    "Aku melihat api di tepi gunung dan aku dipanggil dengan suara dari lembah yang diberkati.",
+    "Aku telah diberikan dua tanda ajaib di tanganku: sebatang tongkat yang menjadi ular dan sebatang tangan yang berkilauan putih terang.",
+    "Aku berdiri bersama abangku di hadapan pemerintah Mesir dan kemudian melihat laut terbelah untuk kami melarikan diri."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Nabi Muhammad",
+        "Khidr, Hamba yang Bijaksana",
+        "Nabi Musa (Musa)",
+        "Nabi Dzul Kifli",
+        "Nabi Al-Yasa (Ilyasa)"
+      ],
+      "answer": "Nabi Musa (Musa)"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Dipanggil oleh Allah di Lembah yang Diberkati dan diutus kepada Firaun",
+        "Membina Bahtera untuk bertahan dalam Banjir",
+        "Diperintahkan untuk mengorbankan seorang anak lelaki dalam mimpi",
+        "Mentafsirkan mimpi tujuh ekor lembu gemuk untuk seorang raja",
+        "Ditelan oleh ikan besar di laut dalam"
+      ],
+      "answer": "Dipanggil oleh Allah di Lembah yang Diberkati dan diutus kepada Firaun"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Api yang menjadi sejuk dan damai",
+        "Bahtera",
+        "Meja itu terbentang dari syurga",
+        "Unta betina kaum Tsamud",
+        "Gunung Tur dan Staf"
+      ],
+      "answer": "Gunung Tur dan Staf"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Kebun itu musnah semalaman",
+        "Tentera Firaun lemas dan Bani Israel terselamat",
+        "Tentera gajah dilontar dengan batu",
+        "Api itu menjadi sejuk dan damai",
+        "Pelanggar Sabat telah diubah menjadi kera"
+      ],
+      "answer": "Tentera Firaun lemas dan Bani Israel terselamat"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

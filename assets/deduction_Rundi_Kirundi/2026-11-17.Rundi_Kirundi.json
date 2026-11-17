@@ -1,0 +1,61 @@
+{
+  "title": "Umuriro Uboneka Kure",
+  "intro": "Iyumvire ikiyaya c’umwiza mw’ijoro, umuco wo kure uriko uraca ibibatsi ku kirere, n’umugenzi ari wenyene ariko aragenda yerekeza kuri uwo muco arondera ubuyobozi, gusa akarungikwa n’ubutumwa bwo guhangana n’ubwami no kubohora ihanga ryahahazwa.",
+  "clues": [
+    "Nashizwe mu mazi nk’uruyoya mu gasandugu ku ruzi n’ivyiyumviro vya Allah kuri mawe.",
+    "Nakuriye mu rugo nyene rw’umunyagitugu yahahaza abantu banje.",
+    "Narahunga inyuma y’ugutongana kwari kwishe maze mara imyaka i Madyan ndagira imikuku kugira ngo nkoreshe.",
+    "Nabonye umuriro iruhande y’umusozi, nca mpamagarwa n’ijwi rivuye mu mwonga uhezagiwe.",
+    "Nahawe ibimenyetso bibiri bikomeye mu biganza vyanje: inkoni yahindutse inzoka n’ukuboko kwakayangana kwera cane.",
+    "Nahagaze na musazanje imbere y’umutware wa Misiri, mu nyuma mbona ikiyaga gica ibice bibiri kugira ngo dushobore guhunga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Umuhanuzi Muhamadi",
+        "Khidr, Umusuku w'Ubwenge",
+        "Umuhanuzi Musa (Musa)",
+        "Umuhanuzi Zul-Kifl",
+        "Umuhanuzi Al-Yasa (Elisa)"
+      ],
+      "answer": "Umuhanuzi Musa (Musa)"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Yahamagawe na Allah ku kiyaya c'umuhezagiro, yoherezwa kuri Farawoni .",
+        "Yarubatse Ubwato kugira ngo barokoke Umwuzure",
+        "Yategetswe gutanga umuhungu mu ndoto .",
+        "Insobanuro y'inka indwi zivyibushe z'umwami",
+        "Yamizwe n'ifi nini mu kiyaga kirekire"
+      ],
+      "answer": "Yahamagawe na Allah ku kiyaya c'umuhezagiro, yoherezwa kuri Farawoni ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Umuriro warakonje kandi ugira amahoro .",
+        "Ubwato",
+        "Imeza irakwiragira iva mw'ijuru .",
+        "Ingamiya y’ingore ya Samudi .",
+        "Umusozi Tur n’Inkoni ."
+      ],
+      "answer": "Umusozi Tur n’Inkoni ."
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Iryo tongo ryasambutse mw'ijoro rimwe .",
+        "Ingabo za Farawoni zirarohama maze bene Isirayeli bararokoka .",
+        "Ingabo z'inzovu zari zitewe n'amabuye .",
+        "Umuriro warakonje kandi ugira amahoro .",
+        "Abarenga kw’isabato barahindutse inkende ."
+      ],
+      "answer": "Ingabo za Farawoni zirarohama maze bene Isirayeli bararokoka ."
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

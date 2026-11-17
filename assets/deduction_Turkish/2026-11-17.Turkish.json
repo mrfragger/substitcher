@@ -1,0 +1,61 @@
+{
+  "title": "Uzaktan Görülen Ateş",
+  "intro": "Gece vakti karanlık bir vadiyi, ufukta titreyen bir ışığı ve o ışığa doğru rehberlik arayışıyla ilerleyen yalnız bir gezgini hayal edin; ancak gezgin, bir imparatorlukla yüzleşecek ve ezilmiş bir ulusu özgürleştirecek bir görevle karşı karşıya kalır.",
+  "clues": [
+    "Annemin Allah'tan ilhamıyla, ben daha bebekken bir sandık içinde nehre bırakıldım.",
+    "Ben, halkımı ezen zalim hükümdarın evinde büyüdüm.",
+    "Ölümcül bir çatışmanın ardından kaçtım ve yıllarca Madyan'da ücret karşılığında sürü güttüm.",
+    "Dağın yanında bir ateş gördüm ve kutsal vadiden bir sesle çağrıldım.",
+    "Ellerime iki güçlü işaret bahşedildi: Yılana dönüşen bir asa ve parlak beyaz bir ışık saçan bir el.",
+    "Kardeşimle birlikte Mısır hükümdarının huzurunda durdum ve daha sonra kaçışımız için denizin ikiye ayrıldığını gördüm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Muhammed",
+        "Hızır, Bilge Hizmetkar",
+        "Peygamber Musa (Musa)",
+        "Peygamber Zül-Kifl",
+        "Peygamber El-Yasa (Elişa)"
+      ],
+      "answer": "Peygamber Musa (Musa)"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Allah tarafından Mübarek Vadi'de çağrıldı ve Firavun'a gönderildi.",
+        "Tufandan kurtulmak için Nuh'un Gemisi'ni inşa ettiler.",
+        "Rüyasında bir oğlunu kurban etmesi emredildi.",
+        "Kral için yedi semiz ineği gören rüyayı yorumladı.",
+        "Derin denizde büyük bir balık tarafından yutuldu."
+      ],
+      "answer": "Allah tarafından Mübarek Vadi'de çağrıldı ve Firavun'a gönderildi."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Soğuyup huzur bulan ateş",
+        "Nuh'un Gemisi",
+        "Cennetten serilmiş sofra",
+        "Thamud'un dişi devesi",
+        "Tur Dağı ve Personeli"
+      ],
+      "answer": "Tur Dağı ve Personeli"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Bahçe bir gecede yok edildi.",
+        "Firavunun ordusu boğuldu ve İsrailoğulları kurtuldu.",
+        "Fil ordusuna taş yağdırıldı.",
+        "Ateş soğudu ve huzur buldu.",
+        "Şabat gününü ihlal edenler maymuna dönüştürüldü."
+      ],
+      "answer": "Firavunun ordusu boğuldu ve İsrailoğulları kurtuldu."
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

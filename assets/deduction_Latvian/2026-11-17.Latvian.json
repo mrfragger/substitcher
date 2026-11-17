@@ -1,0 +1,61 @@
+{
+  "title": "Ugunsgrēks, kas redzams no tālienes",
+  "intro": "Iztēlojieties tumšu ieleju naktī, tālu blāzmu, kas mirgo pie apvāršņa, un vientuļu ceļotāju, kas virzās uz šo gaismu, meklējot vadību, tikai lai tiktu uzrunāts ar misiju, kas stāsies pretī impērijai un atbrīvos apspiestu nāciju.",
+  "clues": [
+    "Allāha iedvesmots manai mātei, es tiku atstāts bez uzraudzības kā zīdainis lādē upē.",
+    "Es uzaugu tā tirāna ģimenē, kurš apspieda manu tautu.",
+    "Pēc liktenīgas strīda es aizbēgu un pavadīju gadus Madjanā, ganot ganāmpulkus par atlīdzību.",
+    "Es redzēju uguni pie kalna un tiku saukts ar balsi no svētītās ielejas.",
+    "Manās rokās tika dotas divas varenas zīmes: zizlis, kas pārvērtās par čūsku, un roka, kas mirdzēja spoži baltā krāsā.",
+    "Es stāvēju kopā ar savu brāli Ēģiptes valdnieka priekšā un vēlāk redzēju, kā jūra pāršķēlās, lai mēs varētu glābties."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Muhameds",
+        "Khidr, gudrais kalps",
+        "Pravietis Mūsa (Mozus)",
+        "Pravietis Dhul-Kifls",
+        "Pravietis Al-Jasa (Elīsa)"
+      ],
+      "answer": "Pravietis Mūsa (Mozus)"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Allāha izsaukts Svētajā ielejā un nosūtīts pie faraona",
+        "Uzbūvēja šķirstu, lai pārdzīvotu plūdus",
+        "Sapnī tika pavēlēts upurēt dēlu",
+        "Iztulkoja ķēniņa sapni par septiņām resnām govīm",
+        "Dziļjūrā tika norīta liela zivs"
+      ],
+      "answer": "Allāha izsaukts Svētajā ielejā un nosūtīts pie faraona"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Uguns, kas kļuva vēsa un mierīga",
+        "Arka",
+        "Galds tika klāts no debesīm",
+        "Tamuda kamielis",
+        "Tūra kalns un personāls"
+      ],
+      "answer": "Tūra kalns un personāls"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Dārzs tika iznīcināts vienas nakts laikā",
+        "Faraona armija noslīka, un Izraēla bērni tika izglābti",
+        "Ziloņu armija tika apmētāta ar akmeņiem",
+        "Uguns kļuva vēsa un mierīga",
+        "Sabata pārkāpēji tika pārvērsti par pērtiķiem"
+      ],
+      "answer": "Faraona armija noslīka, un Izraēla bērni tika izglābti"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

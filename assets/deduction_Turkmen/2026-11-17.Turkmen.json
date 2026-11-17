@@ -1,0 +1,61 @@
+{
+  "title": "Uzakdan görünýän ot",
+  "intro": "Gije garaňky jülgäni, uzakdaky şöhle saçýan çyrany we ýol gözläp, şol ýagtylyga tarap barýan ýalňyz syýahatçyny göz öňüne getiriň, emma oňa imperiýa bilen ýüzbe-ýüz bolup, ezilen milleti azat etjek missiýa tabşyrylýar.",
+  "clues": [
+    "Men çagakam, Allanyň ejemden alan ylhamy bilen derýanyň kenaryndaky sandykda, suwda gaçdym.",
+    "Men halkyma zulum edýän zalymyň öýünde terbiýelendim.",
+    "Men ölüme sebäp bolan dawadan soň gaçyp gitdim we ýyllarboýy Madýanda kireýine sürüleri bakyp ýaşadym.",
+    "Dagyň ýanynda ot gördüm we bereketli jülgeden bir ses bilen meni çagyrdym.",
+    "Maňa iki sany güýçli alamat berildi: ýylana öwrülen taýak we ak reňkde ýalpyldawuk el.",
+    "Men doganym bilen Müsür hökümdarynyň öňünde durdum we soňra biziň gaçmagymyz üçin deňziň iki bölege bölünendigini gördüm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Muhammet pygamber",
+        "Akyldar hyzmatkär Hizr",
+        "Musa pygamber (Musa)",
+        "Zul-Kifl pygamber",
+        "Pygamber Al-Ýasa (Elişa)"
+      ],
+      "answer": "Musa pygamber (Musa)"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Alla tarapyndan Mübärek jülgesinde çagyrylyp, Fyrowna iberildi",
+        "Tufandan aman galmak üçin gämini gurdy",
+        "Düýşünde ogul gurban etmek tabşyryldy",
+        "Patyşa üçin ýedi semiz sygyryň düýşüni ýorup berdi",
+        "Deňiziň çuňlugynda uly balyk tarapyndan ýuwudyldy"
+      ],
+      "answer": "Alla tarapyndan Mübärek jülgesinde çagyrylyp, Fyrowna iberildi"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Sowuk we parahat bolan ot",
+        "Sandyk",
+        "Behiştden düşen stol",
+        "Semudyň düýesi",
+        "Tur dagy we taýagy"
+      ],
+      "answer": "Tur dagy we taýagy"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Bag bir gijede weýran boldy",
+        "Fyrgawnyň goşuny suwa gark boldy we Ysraýyl ogullary halas boldular",
+        "Pil goşuny daş bilen uruldy",
+        "Ot sowuk we parahat boldy",
+        "Sabat günini bozanlar maýmynlara öwrüldi"
+      ],
+      "answer": "Fyrgawnyň goşuny suwa gark boldy we Ysraýyl ogullary halas boldular"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

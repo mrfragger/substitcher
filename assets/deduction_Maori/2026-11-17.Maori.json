@@ -1,0 +1,61 @@
+{
+  "title": "Te Ahi i Kitea Mai i Tawhiti",
+  "intro": "Whakaarohia tētahi awaawa pōuriuri i te pō, tētahi māramatanga kei tawhiti e pīataata ana i te pae tawhiti, me tētahi kaihaerere takitahi e anga atu ana ki taua māramatanga ki te rapu i te arataki, ā, ka tukuna atu ki a ia tētahi misioni hei tū atu ki tētahi emepaea, hei whakaora hoki i tētahi iwi e tukinotia ana.",
+  "clues": [
+    "I te mea he pēpi ahau, i whakatakotoria ahau ki roto i te pouaka i te taha o te awa i raro i te whakaaweawe a Allah ki tōku whaea.",
+    "I whakatipuria ahau i roto i te whare tonu o te kaitukino i tukino i tōku iwi.",
+    "I rere ahau i muri i tētahi tautohetohe i mate ai ahau, ā, he maha ngā tau i Madyan e tiaki ana i ngā kahui hipi hei utu.",
+    "I kite ahau i tētahi ahi i te taha o te maunga, ā, i karangatia ahau e tētahi reo i te awaawa manaakitanga.",
+    "E rua ngā tohu nunui i tukua mai ki ahau i roto i ōku ringa: he tokotoko i huri hei nakahi, me te ringa i kanapa mā.",
+    "I tū māua ko tōku tuakana i mua i te rangatira o Ihipa, ā, i muri mai ka kite māua i te moana e pakaru ana hei mawhiti mā māua."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti Muhammad",
+        "Khidr, te Pononga Whakaaro nui",
+        "Poropiti a Mohi (Mōhi)",
+        "Poropiti a Dhul-Kifl",
+        "Poropiti Al-Yasa (Eriha)"
+      ],
+      "answer": "Poropiti a Mohi (Mōhi)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I karangatia e Allah i te Raorao Tapu, ā, i tonoa ki a Parao",
+        "I hanga te Āka hei oranga mō te Waipuke",
+        "I whakahaua kia patua he tama i roto i te moemoeā",
+        "I whakamāramatia te moemoeā mō ngā kau momona e whitu mā te kingi",
+        "I horomia e te ika nui i te moana hohonu"
+      ],
+      "answer": "I karangatia e Allah i te Raorao Tapu, ā, i tonoa ki a Parao"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te ahi i whakamatao, i rangimārie",
+        "Te Āraka",
+        "I horahia te tēpu mai i te rangi",
+        "Te kamera uha a te Thamud",
+        "Maunga Tur me ngā Rākau"
+      ],
+      "answer": "Maunga Tur me ngā Rākau"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakangaromia te māra i te pō kotahi",
+        "I toremi te ope a Parao, ā, i whakaorangia ngā tamariki a Iharaira",
+        "I whiua te ope arewhana ki ngā kōhatu",
+        "I mātao te ahi, ā, i marino",
+        "I hurihia ngā kaiwhatu Hāpati hei makimaki"
+      ],
+      "answer": "I toremi te ope a Parao, ā, i whakaorangia ngā tamariki a Iharaira"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

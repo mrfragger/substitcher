@@ -1,0 +1,61 @@
+{
+  "title": "Brannen sett på avstand",
+  "intro": "Se for deg en mørk dal om natten, en fjern glød som blafrer i horisonten, og en enslig reisende som beveger seg mot dette lyset på jakt etter veiledning, bare for å bli stilt opp med et oppdrag som vil konfrontere et imperium og frigjøre en undertrykt nasjon.",
+  "clues": [
+    "Jeg ble satt omgitt som et spedbarn i en kiste på elven under Allahs inspirasjon til min mor.",
+    "Jeg vokste opp i selve husstanden til tyrannen som undertrykte mitt folk.",
+    "Jeg flyktet etter en dødelig krangel og tilbrakte år i Madyan med å stelle flokker mot betaling.",
+    "Jeg så en ild ved fjellet og ble kalt på med en stemme fra den velsignede dalen.",
+    "Jeg fikk to mektige tegn i hendene mine: en stav som ble til en slange og en hånd som skinte hvitt.",
+    "Jeg sto sammen med broren min foran herskeren over Egypt, og senere så jeg havet sprekke slik at vi kunne unnslippe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Muhammed",
+        "Khidr, den kloke tjeneren",
+        "Profeten Musa (Moses)",
+        "Profeten Dhul-Kifl",
+        "Profeten Al-Yasa (Elisja)"
+      ],
+      "answer": "Profeten Musa (Moses)"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Kalt av Allah i den velsignede dalen og sendt til farao",
+        "Bygget Arken for å overleve flommen",
+        "Ble beordret til å ofre en sønn i en drøm",
+        "Tolket drømmen om sju fete kyr for en konge",
+        "Ble slukt av en stor fisk i dypet av havet"
+      ],
+      "answer": "Kalt av Allah i den velsignede dalen og sendt til farao"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Ilden som ble kjølig og fredelig",
+        "Arken",
+        "Bordet spredte seg fra himmelen",
+        "Hunkamelen fra Thamud",
+        "Mount Tur og staben"
+      ],
+      "answer": "Mount Tur og staben"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Hagen ble ødelagt over natten",
+        "Faraos hær druknet, og Israels barn ble reddet",
+        "Elefanthæren ble bombardert med steiner",
+        "Ilden ble kjølig og fredelig",
+        "Sabbatsbryterne ble forvandlet til aper"
+      ],
+      "answer": "Faraos hær druknet, og Israels barn ble reddet"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

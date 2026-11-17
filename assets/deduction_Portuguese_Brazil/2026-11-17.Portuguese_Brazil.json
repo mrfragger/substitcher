@@ -1,0 +1,61 @@
+{
+  "title": "O fogo visto de longe",
+  "intro": "Imagine um vale escuro à noite, um brilho distante tremeluzindo no horizonte e um viajante solitário caminhando em direção àquela luz em busca de orientação, apenas para se deparar com uma missão que o levará a confrontar um império e libertar uma nação oprimida.",
+  "clues": [
+    "Quando bebê, fui abandonado em um baú no rio, por inspiração de Alá, transmitida à minha mãe.",
+    "Fui criada na própria casa do tirano que oprimia meu povo.",
+    "Eu fugi após um confronto fatal e passei anos em Madyan cuidando de rebanhos por dinheiro.",
+    "Vi um fogo junto à montanha e fui chamado por uma voz vinda do vale abençoado.",
+    "Recebi dois sinais poderosos em minhas mãos: um cajado que se transformou em serpente e uma mão que brilhou em um branco intenso.",
+    "Estive com meu irmão diante do governante do Egito e, mais tarde, vi o mar se abrir para nossa fuga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Maomé",
+        "Khidr, o Servo Sábio",
+        "Profeta Musa (Moisés)",
+        "Profeta Dhul-Kifl",
+        "Profeta Al-Yasa (Elisha)"
+      ],
+      "answer": "Profeta Musa (Moisés)"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Chamado por Alá no Vale Abençoado e enviado ao Faraó.",
+        "Construíram a Arca para sobreviver ao Dilúvio.",
+        "Em um sonho, foi ordenado que sacrificasse um filho.",
+        "Interpretou o sonho de sete vacas gordas para um rei.",
+        "Foi engolido por um grande peixe nas profundezas do mar."
+      ],
+      "answer": "Chamado por Alá no Vale Abençoado e enviado ao Faraó."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "O fogo que se tornou frio e pacífico",
+        "A Arca",
+        "A mesa posta vinda do céu",
+        "A camela de Thamud",
+        "Monte Tur e o Bastão"
+      ],
+      "answer": "Monte Tur e o Bastão"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "O jardim foi destruído durante a noite.",
+        "O exército do Faraó se afogou e os filhos de Israel foram salvos.",
+        "O exército de elefantes foi apedrejado.",
+        "O fogo esfriou e se tornou tranquilo.",
+        "Os que quebraram o sábado foram transformados em macacos."
+      ],
+      "answer": "O exército do Faraó se afogou e os filhos de Israel foram salvos."
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

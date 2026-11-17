@@ -1,0 +1,61 @@
+{
+  "title": "Il fuoco visto da lontano",
+  "intro": "Immaginate una valle buia di notte, un bagliore lontano che tremola all'orizzonte e un viaggiatore solitario che si dirige verso quella luce in cerca di una guida, solo per ritrovarsi di fronte a una missione che lo porterà a scontrarsi con un impero e a liberare una nazione oppressa.",
+  "clues": [
+    "Da neonato, fui abbandonato in una cassa sul fiume per volere di Allah, rivolgendomi a mia madre.",
+    "Sono cresciuto nella stessa casa del tiranno che opprimeva il mio popolo.",
+    "Sono fuggito dopo uno scontro fatale e ho trascorso anni a Madyan a pascolare greggi per conto terzi.",
+    "Vidi un fuoco vicino alla montagna e fui chiamato da una voce proveniente dalla valle benedetta.",
+    "Mi furono concessi due segni potenti nelle mani: un bastone che si trasformò in serpente e una mano che risplendette di un bianco radioso.",
+    "Mi presentai con mio fratello davanti al sovrano d'Egitto e in seguito vidi il mare dividersi per permetterci di fuggire."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Maometto",
+        "Khidr, il servo saggio",
+        "Il profeta Musa (Mosè)",
+        "Profeta Dhul-Kifl",
+        "Profeta Al-Yasa (Eliseo)"
+      ],
+      "answer": "Il profeta Musa (Mosè)"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Chiamato da Allah nella Valle Benedetta e inviato al Faraone",
+        "Costruirono l'Arca per sopravvivere al Diluvio.",
+        "In sogno gli fu comandato di sacrificare un figlio",
+        "Interpretò il sogno di sette vacche grasse per un re",
+        "Fu inghiottito da un grosso pesce nelle profondità marine."
+      ],
+      "answer": "Chiamato da Allah nella Valle Benedetta e inviato al Faraone"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Il fuoco che si fece freddo e pacifico",
+        "L'Arca",
+        "La tavola imbandita dal cielo",
+        "La cammella di Thamud",
+        "Il monte Tur e il suo staff"
+      ],
+      "answer": "Il monte Tur e il suo staff"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Il giardino è stato distrutto durante la notte",
+        "L'esercito del faraone annegò e i figli d'Israele furono salvati",
+        "L'esercito di elefanti fu bersagliato da pietre.",
+        "Il fuoco si fece freddo e tranquillo",
+        "Coloro che violavano il sabato venivano trasformati in scimmie"
+      ],
+      "answer": "L'esercito del faraone annegò e i figli d'Israele furono salvati"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ngọn lửa nhìn từ xa",
+  "intro": "Hãy hình dung một thung lũng tối tăm vào ban đêm, một ánh sáng le lói xa xa trên đường chân trời, và một lữ khách đơn độc đang tiến về phía ánh sáng đó để tìm kiếm sự dẫn đường, chỉ để rồi được giao một nhiệm vụ đối đầu với một đế chế và giải phóng một quốc gia bị áp bức.",
+  "clues": [
+    "Tôi được thả trôi trên sông trong một chiếc rương khi còn là một đứa trẻ sơ sinh, theo sự chỉ dẫn của Allah dành cho mẹ tôi.",
+    "Tôi lớn lên trong chính gia đình của tên bạo chúa đã áp bức dân tộc tôi.",
+    "Tôi bỏ trốn sau một cuộc ẩu đả dẫn đến chết người và sống nhiều năm ở Madyan, làm công việc chăn cừu thuê.",
+    "Tôi nhìn thấy một ngọn lửa bên sườn núi và được nghe một giọng nói từ thung lũng thiêng liêng gọi.",
+    "Tôi được ban cho hai dấu hiệu kỳ diệu trong tay: một cây gậy biến thành con rắn và một bàn tay phát sáng trắng sáng.",
+    "Tôi đã đứng cùng anh trai mình trước mặt nhà vua Ai Cập và sau đó chứng kiến ​​biển cả tách ra để chúng tôi trốn thoát."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Nhà tiên tri Muhammad",
+        "Khidr, người tôi tớ thông thái",
+        "Tiên tri Musa (Môi-se)",
+        "Tiên tri Dhul-Kifl",
+        "Tiên tri Al-Yasa (Elisha)"
+      ],
+      "answer": "Tiên tri Musa (Môi-se)"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Được Allah triệu tập tại Thung lũng Thiêng liêng và phái đến gặp Pharaoh.",
+        "Đóng con tàu Noah để sống sót qua trận Đại hồng thủy.",
+        "Trong giấc mơ, tôi được lệnh phải hiến tế một đứa con trai.",
+        "Giải mộng về bảy con bò béo cho một vị vua.",
+        "Bị một con cá khổng lồ nuốt chửng dưới biển sâu."
+      ],
+      "answer": "Được Allah triệu tập tại Thung lũng Thiêng liêng và phái đến gặp Pharaoh."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Ngọn lửa đã nguội lạnh và trở nên yên bình.",
+        "Con tàu Noah",
+        "Bàn tiệc được bày biện từ trên trời xuống.",
+        "Con lạc đà cái của Thamud",
+        "Núi Tur và đội ngũ nhân viên"
+      ],
+      "answer": "Núi Tur và đội ngũ nhân viên"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Khu vườn đã bị phá hủy chỉ sau một đêm.",
+        "Quân đội của Pha-ra-ôn bị chết đuối, còn con cái Y-sơ-ra-ên được cứu sống.",
+        "Đội quân voi bị ném đá tới tấp.",
+        "Ngọn lửa dần nguội lạnh và trở nên yên bình.",
+        "Những kẻ vi phạm ngày Sa-bát đã bị biến thành vượn."
+      ],
+      "answer": "Quân đội của Pha-ra-ôn bị chết đuối, còn con cái Y-sơ-ra-ên được cứu sống."
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

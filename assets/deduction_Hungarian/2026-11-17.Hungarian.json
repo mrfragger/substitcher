@@ -1,0 +1,61 @@
+{
+  "title": "A távolról látható tűz",
+  "intro": "Képzelj el egy sötét völgyet éjszaka, egy távoli fénypont pislákol a horizonton, és egy magányos utazót, aki a fény felé tart útmutatást keresve, hogy aztán egy olyan küldetéssel találkozzon, amely szembeszáll egy birodalommal és felszabadít egy elnyomott nemzetet.",
+  "clues": [
+    "Allah anyámnak adott sugallatára csecsemőként sodródtam egy ládában a folyón.",
+    "Annak a zsarnoknak a házában nevelkedtem, aki elnyomta a népemet.",
+    "Egy végzetes szóváltás után elmenekültem, és éveket töltöttem Madyanban, ahol bérért legeltettem a nyájakat.",
+    "Tüzet láttam a hegynél, és egy hang szólított az áldott völgyből.",
+    "Két hatalmas jelet kaptam a kezembe: egy botot, amely kígyóvá változott, és egy kezet, amely fényesen ragyogott.",
+    "A bátyámmal álltunk Egyiptom uralkodója előtt, és később láttam, ahogy a tenger kettéválik, hogy megszökhessünk."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Mohamed próféta",
+        "Khidr, a bölcs szolga",
+        "Mózes próféta (Mózes)",
+        "Dhul-Kifl próféta",
+        "Al-Jásza (Elizeus) próféta"
+      ],
+      "answer": "Mózes próféta (Mózes)"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Allah hívta az Áldott Völgybe és küldte a fáraóhoz",
+        "Megépítették a bárkát, hogy túlélje az özönvizet",
+        "Egy álomban parancsot kapott egy fiú feláldozására",
+        "Megfejtette a király hét kövér tehénről szóló álmát",
+        "Egy hatalmas hal nyelte el a mélytengerben"
+      ],
+      "answer": "Allah hívta az Áldott Völgybe és küldte a fáraóhoz"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A tűz, amely hűvössé és békéssé vált",
+        "A bárka",
+        "Az asztal a mennyből terült",
+        "Thamud teve",
+        "Tur-hegy és a személyzet"
+      ],
+      "answer": "Tur-hegy és a személyzet"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "A kertet egyik napról a másikra elpusztították",
+        "A fáraó serege megfulladt, és Izrael gyermekei megmenekültek",
+        "Kövekkel dobálták meg az elefántsereget",
+        "A tűz hűvös és békés lett",
+        "A szombatot megszegők majmokká változtak"
+      ],
+      "answer": "A fáraó serege megfulladt, és Izrael gyermekei megmenekültek"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}

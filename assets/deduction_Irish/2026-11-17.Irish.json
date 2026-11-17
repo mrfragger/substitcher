@@ -1,0 +1,61 @@
+{
+  "title": "An Tine a Feictear ó Chian",
+  "intro": "Samhlaigh gleann dorcha san oíche, solas i bhfad i gcéin ag splancadh ar an spéir, agus taistealaí uaigneach ag bogadh i dtreo an tsolais sin ar thóir treorach, ach le go dtabharfar aghaidh air le misean a thabharfaidh aghaidh ar impireacht agus a shaorfaidh náisiún faoi chois.",
+  "clues": [
+    "Cuireadh ar seachrán mé mar naíonán i gcófra ar an abhainn faoi inspioráid Allah do mo mháthair.",
+    "Tógadh mé i dteaghlach an tíoránaigh a bhí ag déanamh leatrom ar mo mhuintir.",
+    "Theith mé i ndiaidh achrainn marfach agus chaith mé blianta i Madyan ag aire a thabhairt do thréada ar cíos.",
+    "Chonaic mé tine cois an tsléibhe agus glaodh orm le guth ón ngleann beannaithe.",
+    "Bronnadh dhá chomhartha chumhachtacha orm i mo lámha: bata a d’éirigh ina nathair agus lámh a lonraigh geal bán.",
+    "Sheas mé le mo dheartháir os comhair rialóir na hÉigipte agus ina dhiaidh sin chonaic mé an fharraige ag scoilteadh óna chéile ionas go n-éalódh muid."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Muhammad",
+        "Khidr, an Seirbhíseach Críonna",
+        "An Fáidh Músa (Maois)",
+        "Fáidh Dhul-Kifl",
+        "An Fáidh Al-Yasa (Elisha)"
+      ],
+      "answer": "An Fáidh Músa (Maois)"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Glaodh air ag Allah ag an nGleann Beannaithe agus cuireadh chuig an bhFarao é",
+        "Thóg an Áirc chun maireachtáil ón Tuile",
+        "Ordaíodh dó mac a íobairt i mbrionglóid",
+        "Léirmhínigh sé aisling na seacht mbó ramhar do rí",
+        "Slogadh é ag iasc mór sa bhfarraige dhomhain"
+      ],
+      "answer": "Glaodh air ag Allah ag an nGleann Beannaithe agus cuireadh chuig an bhFarao é"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An tine a d’éirigh fionnuar agus síochánta",
+        "An Áirc",
+        "Scaip an tábla ó neamh",
+        "Camall baineann Thamud",
+        "Sliabh Tur agus an Fhoireann"
+      ],
+      "answer": "Sliabh Tur agus an Fhoireann"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Scriosadh an gairdín thar oíche",
+        "Bádh arm Pharao agus sábháladh Clann Iosrael",
+        "Caitheadh ​​clocha ar arm na n-eilifintí",
+        "D’éirigh an tine fionnuar agus síochánta",
+        "Rinneadh apaí de na daoine a bhris an tSabóid"
+      ],
+      "answer": "Bádh arm Pharao agus sábháladh Clann Iosrael"
+    }
+  },
+  "verseRef": "79:20",
+  "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+  "verse": "And he showed him the greatest sign, (79:20)"
+}
