@@ -102,19 +102,22 @@ __TITLE_CSS__
 #scroll {height: 20px; position: fixed; bottom: 10px; right: 10px; background: rgba(34,34,34,0.8); color: rgb(0,255,38); padding: 2px 8px; border-radius: 3px; font-size: 12px; z-index: 100; backdrop-filter: blur(5px); pointer-events: none;}
 .back-link {position: fixed; top: 10px; left: 10px; background: rgba(34,34,34,0.8); color: #f1f1f1; padding: 8px 12px; border-radius: 3px; text-decoration: none; font-size: 12px; z-index: 100; backdrop-filter: blur(5px);}
 .back-link:hover {background: rgba(68,68,68,0.8);}
-.theme-toggle, .slideshow-btn {position: fixed; right: 10px; background: rgba(34,34,34,0.8); color: #f1f1f1; border: none; padding: 8px 12px; border-radius: 3px; cursor: pointer; font-size: 16px; z-index: 100; backdrop-filter: blur(5px); transition: background 0.3s ease;}
+.theme-toggle, .slideshow-btn, .view-btn {position: fixed; right: 10px; background: rgba(34,34,34,0.8); color: #f1f1f1; border: none; padding: 8px 12px; border-radius: 3px; cursor: pointer; font-size: 16px; z-index: 100; backdrop-filter: blur(5px); transition: background 0.3s ease;}
 .theme-toggle {top: 10px;}
 .slideshow-btn {top: 45px;}
-.theme-toggle:hover, .slideshow-btn:hover {background: rgba(68,68,68,0.8);}
+.view-btn {top: 80px;}
+.theme-toggle:hover, .slideshow-btn:hover, .view-btn:hover {background: rgba(68,68,68,0.8);}
 body.light-mode {background-color: #f5f5f5;}
 body.light-mode .container .item .image-name {color: #333; text-shadow: 1px 1px 2px rgba(255,255,255,0.8);}
-body.light-mode .theme-toggle, body.light-mode .slideshow-btn, body.light-mode .back-link {background: rgba(255,255,255,0.9); color: #333;}
-body.light-mode .theme-toggle:hover, body.light-mode .slideshow-btn:hover, body.light-mode .back-link:hover {background: rgba(230,230,230,0.9);}
+body.light-mode .theme-toggle, body.light-mode .slideshow-btn, body.light-mode .view-btn, body.light-mode .back-link {background: rgba(255,255,255,0.9); color: #333;}
+body.light-mode .theme-toggle:hover, body.light-mode .slideshow-btn:hover, body.light-mode .view-btn:hover, body.light-mode .back-link:hover {background: rgba(230,230,230,0.9);}
 body.light-mode #scroll {background: rgba(255,255,255,0.9); color: #333;}
 .lightbox {display: none; position: fixed; z-index: 1000; left: 0; top: 0; width: 100%; height: 100%; background-color: rgba(0,0,0,0.95); cursor: pointer; transition: background-color 0.3s ease;}
 .lightbox-content {position: absolute; top: 0; left: 0; width: 100%; height: 100%; cursor: pointer;}
 .lightbox-content img {width: 100%; height: 100%; object-fit: contain; transition: background-color 0.3s ease;}
 .lightbox-content img[src$=".svg"] {background-color: #1a1a1a; padding: 20px; border-radius: 8px;}
+.lightbox.fit-width .lightbox-content {overflow-y: auto; overflow-x: hidden;}
+.lightbox.fit-width .lightbox-content img {width: 90%; height: auto; object-fit: initial; display: block; margin: 0 auto; box-sizing: border-box;}
 body.light-mode .lightbox {background-color: rgba(255,255,255,0.95);}
 body.light-mode .lightbox-content img[src$=".svg"] {background-color: #f5f5f5;}
 #slideshow-container {position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; background: #000; z-index: 2000; display: none;}
@@ -129,6 +132,7 @@ body.light-mode .lightbox-content img[src$=".svg"] {background-color: #f5f5f5;}
 <a href="../index.html" class="back-link">← Back to Gallery Index</a>
 <button class="theme-toggle" onclick="toggleTheme()">🌙</button>
 <button class="slideshow-btn" onclick="startSlideshow()">▶️</button>
+<button class="view-btn" onclick="toggleViewMode()" title="Image view: fit to screen / 90% width (W)">⛶</button>
 <div style="color:#f1f1f1;font-size:14px;text-align:center;padding:10px;background-color:#333;margin-bottom:10px;">
  <span style="color:#4caf50;font-weight:bold;">__TOTAL__ Images :</span> <span style="color:#ffd600;">← → spacebar</span> <span style="color:#fff;">previous / next image</span> <span style="color:#ffd600;">click image / ESC</span> <span style="color:#fff;">back to index</span>
 </div>
@@ -266,6 +270,7 @@ document.addEventListener('keydown', function(e) {
     else if (lightbox.style.display === 'block') closeLightbox();
   }
   if (lightbox.style.display === 'block') {
+    if (e.key === 'w' || e.key === 'W') toggleViewMode();
     switch(e.key) {
       case 'ArrowLeft': showPrevious(); break;
       case 'ArrowRight':
@@ -338,12 +343,38 @@ document.querySelectorAll('.item').forEach(item => {
       savedScrollPosition = window.pageYOffset;
       originalThumbnailElement = this;
       currentIndex = parseInt(thumb.dataset.index);
-      showImage(currentIndex);
       lightbox.style.display = 'block';
+      showImage(currentIndex);
     }
   });
 });
 
+let fitWidth = false;
+function applyViewMode() {
+  lightbox.classList.toggle('fit-width', fitWidth);
+  const btn = document.querySelector('.view-btn');
+  if (btn) {
+    btn.textContent = fitWidth ? '↔️' : '⛶';
+    btn.title = fitWidth ? 'Image view: 90% width (click for fit to screen)' : 'Image view: fit to screen (click for 90% (W)idth)';
+  }
+  const content = document.querySelector('.lightbox-content');
+  if (content) content.scrollTop = 0;
+}
+function toggleViewMode() {
+  fitWidth = !fitWidth;
+  try { localStorage.setItem('viewMode', fitWidth ? 'width' : 'fit'); } catch (e) {}
+  applyViewMode();
+}
+try { fitWidth = localStorage.getItem('viewMode') === 'width'; } catch (e) {}
+applyViewMode();
+
+// Reset to the top again once the new image has loaded and its height is known.
+lightboxImg.addEventListener('load', function() {
+  const c = document.querySelector('.lightbox-content');
+  if (c) c.scrollTop = 0;
+});
+
+document.querySelector('.lightbox-content').addEventListener('click', function(e) { if (e.target === this) closeLightbox(); });
 lightboxImg.addEventListener('click', function(e) { e.stopPropagation(); closeLightbox(); });
 lightbox.addEventListener('click', function(e) { if (e.target === lightbox) closeLightbox(); });
 
@@ -351,6 +382,8 @@ function showImage(index) {
   if (index >= 0 && index < images.length) {
     lightboxImg.src = images[index];
     currentIndex = index;
+    const lbContent = document.querySelector('.lightbox-content');
+    if (lbContent) lbContent.scrollTop = 0;
     const imageName = images[index].split('/').pop().split('.')[0];
     const displayName = imageName.replace(/_/g, ' ').replace(/^\d+\s*/, '');
     document.title = displayName + ' - Gallery - ' + GALLERY_NAME;
