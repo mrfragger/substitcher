@@ -1226,6 +1226,22 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
             const SizedBox(height: 8),
             _hiveGrid([for (final w in others) ...w.senses]),
           ],
+          if (hive.otherFamily.isNotEmpty) ...[
+            const SizedBox(height: 18),
+            _hiveTitle(
+              'More from '
+              '${hive.root.letters.replaceAll(' ', '').split('').join(' ')}'
+              ' in the Quran',
+            ),
+            const SizedBox(height: 4),
+            const Text(
+              "These can't be spelled with today's letters, but they share "
+              'the same root.',
+              style: TextStyle(color: Colors.white38, fontSize: 12),
+            ),
+            const SizedBox(height: 8),
+            _hiveGrid(hive.otherFamily),
+          ],
         ],
       ),
     );

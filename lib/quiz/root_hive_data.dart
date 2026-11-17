@@ -87,6 +87,7 @@ class RootHiveData {
   final List<String> outer;
   final RootHiveRoot root;
   final List<RootHiveWord> words;
+  final List<RootHiveSense> otherFamily;
   final int maxScore;
 
   RootHiveData({
@@ -94,6 +95,7 @@ class RootHiveData {
     required this.outer,
     required this.root,
     required this.words,
+    this.otherFamily = const [],
     required this.maxScore,
   });
 
@@ -116,6 +118,10 @@ class RootHiveData {
         words: (j['words'] as List? ?? [])
             .whereType<Map>()
             .map((e) => RootHiveWord.fromJson(Map<String, dynamic>.from(e)))
+            .toList(),
+        otherFamily: (j['otherFamily'] as List? ?? [])
+            .whereType<Map>()
+            .map((e) => RootHiveSense.fromJson(Map<String, dynamic>.from(e)))
             .toList(),
         maxScore: (j['maxScore'] as num?)?.toInt() ?? 0,
       );

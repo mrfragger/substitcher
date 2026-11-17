@@ -417,7 +417,7 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 ### Join Images
 - put many images into one
 - export as avif, png or jpg
-- export html with subdir of aviff images that does a scroll slideshow or scroll zoom on different parts of an image or combine both
+- export html with subdir of avif images that does a scroll slideshow or scroll zoom on different parts of an image or combine both
 
 ### Image to Animated svg (mac only)
 - choose a folder of images and builds a gallery and choose an image with background or without then choose 5 favorite color palettes amongst 752.
