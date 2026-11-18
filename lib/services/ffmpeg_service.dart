@@ -398,6 +398,8 @@ class FFmpegService {
     required String outputPath,
     required EncodingConfig config,
     required Function(double) onProgress,
+    bool stripMetadata = false,
+    String? title,
   }) async {
     await _ensureBinaries();
     final filterString = config.buildFilterString();
@@ -414,6 +416,15 @@ class FFmpegService {
       '-loglevel',
       'error',
       '-vn',
+      if (stripMetadata) ...[
+        '-map_metadata',
+        '-1',
+        '-map_metadata:s:a',
+        '-1',
+        '-map_chapters',
+        '-1',
+      ],
+      if (title != null) ...['-metadata', 'title=$title'],
       '-c:a',
       'libopus',
       '-application',
@@ -928,6 +939,7 @@ class FFmpegService {
     required int times,
     required int bitrate,
     required Function(String) onProgress,
+    String? title,
   }) async {
     await _ensureBinaries();
 
@@ -950,6 +962,9 @@ class FFmpegService {
           '-i', inputPath,
           '-vn',
           '-map_metadata', '-1',
+          '-map_metadata:s:a', '-1',
+          '-map_chapters', '-1',
+          if (title != null) ...['-metadata', 'title=$title'],
           '-c:a', 'libopus',
           '-b:a', '${bitrate}k',
           outputPath,

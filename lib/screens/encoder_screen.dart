@@ -1479,6 +1479,11 @@ class _EncoderScreenState extends State<EncoderScreen> {
 
         final outputPath = '$encodedChaptersDir/$displayTitle.opus';
 
+        // "Using Filenames": strip any source metadata and set the title tag
+        // to the output filename. "Using Metadata" leaves behavior unchanged.
+        final String? fileTitleTag =
+            _useFilenames ? path.basenameWithoutExtension(outputPath) : null;
+
         final future = semaphore.acquire().then((_) async {
           if (_cancelEncoding) {
             semaphore.release();
@@ -1500,6 +1505,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
                 outputPath: outputPath,
                 times: config.repeatCount,
                 bitrate: config.bitrate,
+                title: fileTitleTag,
                 onProgress: (_) {},
               );
 
@@ -1509,6 +1515,8 @@ class _EncoderScreenState extends State<EncoderScreen> {
                 inputPath: file.path,
                 outputPath: outputPath,
                 config: config,
+                stripMetadata: _useFilenames,
+                title: fileTitleTag,
                 onProgress: (chapterProgress) {},
               );
             }
