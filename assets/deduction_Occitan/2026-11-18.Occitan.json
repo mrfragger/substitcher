@@ -1,0 +1,61 @@
+{
+  "title": "L'Onda Que Dividiguèt lo Sang",
+  "intro": "Imaginatz una vasta inondacion que monta sus la tèrra, una Arca que flota fermament, e una anma daissada defòra per causida. Ligat per sang a un profèta mas separat per la cresença, aquela figura afrontèt una crida finala per venir a bòrd a mesura que las aigas s'auçavan. Podètz descobrir l'identitat darrièr lo refús?",
+  "clues": [
+    "Soi la descendéncia d'un dels mai grands profètas d'Allah, un ostal de fe que causiguèri de daissar.",
+    "Visquèri dins lo temps del Grand Diluvi, quand l'incredulitat cobrissiá la tèrra coma l'aiga.",
+    "Refusèri d'embarcar dins l'Arca amb los cresents quand mon paire me cridèt.",
+    "Ai dich que cercariái refugi sus una montanha per m'aparar de l'aiga.",
+    "Me diguèron que res podiá protegir del decrèt d'Allah aquel jorn levat la misericòrdia.",
+    "Foguèri pres per las ondas e afogat, e mon paire foguèt dich qu'èri pas de sa familha justa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Zayd ibn Harithah",
+        "Profèta Ishaq, Filh del profèta Ibrahim",
+        "Lo Filh Incrédul del Profèta Nuh",
+        "Habil, Filh del profèta Adam",
+        "Profèta Ismail, Filh del profèta Ibrahim"
+      ],
+      "answer": "Lo Filh Incrédul del Profèta Nuh"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Èsser vendut en esclavatge en Egipte après traïson per de fraires",
+        "Refusant d'embarcar l'Arca e cercant una montanha coma refugi",
+        "Èsser getat dins un fuòc ardent per trencar d'idòlas",
+        "Èsser engolit per un grand peis après aver fugit una mission",
+        "Dormir pendent de sègles dins una cauna per escapar a la persecucion"
+      ],
+      "answer": "Refusant d'embarcar l'Arca e cercant una montanha coma refugi"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Lo palais espelhat de veire a Saba",
+        "Lo cofre de fusta getat dins lo riu",
+        "La montanha imponenta cercada coma refugi del Diluvi",
+        "L'arbust ardent dins la val sacrada",
+        "La Kaaba bastida coma un ostal de culte"
+      ],
+      "answer": "La montanha imponenta cercada coma refugi del Diluvi"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Engolit per la tèrra amb de tresaurs per arrogància",
+        "Concedit un reialme amb poder suls vents e los jinns",
+        "Rendut fresc e segur coma lo fuòc venguèt la patz",
+        "Levat viu als cèls e salvat de la crucifixion",
+        "Afogat dins lo Deluvi e declarat pas de la familha justa"
+      ],
+      "answer": "Afogat dins lo Deluvi e declarat pas de la familha justa"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

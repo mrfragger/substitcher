@@ -1,0 +1,61 @@
+{
+  "title": "Saray Duvarlarının İçindeki Gizli İnanç",
+  "intro": "Entrikalar ve kibirle dolu zalim bir sarayın ortasında, yalnız bir ruh tehlikeli bir sır saklıyor. Güç ve ölüm tehditleriyle çevrili bu Allah'ın kulu, bir elçinin imparatorluğa karşı tek başına duruşunu izliyor. Sessizlik suç ortaklığına dönüştüğünde, büyük kişisel risklere rağmen gerçeği söylemek için cesur bir karar verilmelidir.",
+  "clues": [
+    "Güçlü ve kibirli, Allah'ın ayetlerini reddeden bir halkın arasında yaşadım.",
+    "Çevremdekiler bir peygambere karşı komplo kurarken ben bir süre inancımı gizledim.",
+    "Açıkça şöyle dedim: \"Rabbim Allah'tır diye bir insanı öldürür müsünüz, ortada apaçık deliller varken?\"",
+    "Halkımı önceki ulusların kaderi ve karşılıklı çağrı günü konusunda uyardım.",
+    "Onlara, hizmet ettiğim yöneticinin yalnızca dar görüşlü olduğunu, oysa gerçek yurtun ahiret olduğunu söyledim.",
+    "Dedim ki: Ey kavmim, beni takip edin, ben sizi doğru yola ileteceğim ve Allah beni onların tuzaklarının şerrinden korudu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Ebu Lahab",
+        "Karun",
+        "As-Samiri",
+        "Haman",
+        "Firavun Ailesinden Mümin"
+      ],
+      "answer": "Firavun Ailesinden Mümin"
+    },
+    "trial": {
+      "label": "Ne Yaptım?",
+      "options": [
+        "Anahtarları güçlü adamlara yük olan birikmiş hazineler",
+        "Musa'nın tanrısına bakmak için yüksek bir kule inşa edildi.",
+        "Gizli inanç daha sonra açıkça Musa'yı savundu ve halkımı uyardı.",
+        "Altın bir buzağı yapıldı ve buzağı böğürmeye başladı.",
+        "Peygamberin yolunu tıkadılar ve zenginlik için vahiy ile alay ettiler."
+      ],
+      "answer": "Gizli inanç daha sonra açıkça Musa'yı savundu ve halkımı uyardı."
+    },
+    "location": {
+      "label": "Hikayem Nerede Başladı?",
+      "options": [
+        "Tufan suları üzerindeki Nuh'un Gemisi",
+        "Mekke'deki Kutsal Cami",
+        "Mısır'daki Firavun Sarayı Avlusu",
+        "Uyuyanların Mağarası",
+        "Madyan'ın Ormanlık Vadisi"
+      ],
+      "answer": "Mısır'daki Firavun Sarayı Avlusu"
+    },
+    "outcome": {
+      "label": "Sonuç Ne Oldu?",
+      "options": [
+        "Bölünmüş denizde orduyla birlikte boğuldum.",
+        "Toprak beni hazinelerimle birlikte yuttu.",
+        "Thamud ile birlikte bir yıldırım beni yakaladı.",
+        "Şabat gününü ihlal ettiğim için maymuna dönüştürüldüm.",
+        "Allah beni onların kötü planından korudu."
+      ],
+      "answer": "Allah beni onların kötü planından korudu."
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Fala, która podzieliła krew",
+  "intro": "Wyobraź sobie ogromną powódź zalewającą ziemię, arkę unoszącą się na wodzie i jedną duszę pozostawioną na zewnątrz z własnej woli. Związana więzami krwi z prorokiem, a jednocześnie rozdzielona wiarą, ta postać stanęła przed ostatecznym wezwaniem, by wejść na pokład, gdy wody wezbrały. Czy potrafisz odkryć tożsamość stojącą za odmową?",
+  "clues": [
+    "Jestem potomkiem jednego z największych proroków Allaha, domu wiary, który postanowiłem opuścić.",
+    "Żyłem w czasach Wielkiego Potopu, gdy niewiara pokryła ziemię niczym woda.",
+    "Odmówiłem wejścia na Arkę wraz z wierzącymi, gdy mój ojciec mnie zawołał.",
+    "Powiedziałem, że poszukam schronienia w górze, która ochroni mnie przed wodą.",
+    "Powiedziano mi, że w tym Dniu przed wyrokiem Allaha nie uchroni mnie nic, poza miłosierdziem.",
+    "Zostałem pochłonięty przez fale i utonąłem, a mojemu ojcu powiedziano, że nie należę do jego prawego rodu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Zajd ibn Haritha",
+        "Prorok Ishaq, syn proroka Ibrahima",
+        "Niewierzący syn proroka Noego",
+        "Habil, syn proroka Adama",
+        "Prorok Ismail, syn proroka Ibrahima"
+      ],
+      "answer": "Niewierzący syn proroka Noego"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Sprzedanie do niewoli w Egipcie po zdradzie braci",
+        "Odmowa wejścia na pokład Arki i szukanie schronienia na górze",
+        "Wrzucenie w płonący ogień za niszczenie bożków",
+        "Połknięcie przez wielką rybę po ucieczce z misji",
+        "Spał przez stulecia w jaskini, aby uniknąć prześladowań"
+      ],
+      "answer": "Odmowa wejścia na pokład Arki i szukanie schronienia na górze"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Pałac ze szkła lustrzanego na Sabie",
+        "Drewniana skrzynia wrzucona do rzeki",
+        "Wznosząca się góra, w której szukano schronienia przed potopem",
+        "Płonący krzew w świętej dolinie",
+        "Kaaba zbudowana jako dom modlitwy"
+      ],
+      "answer": "Wznosząca się góra, w której szukano schronienia przed potopem"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Pochłonięty przez ziemię ze skarbami za arogancję",
+        "Otrzymał królestwo z władzą nad wiatrami i dżinami",
+        "Stał się chłodny i bezpieczny, gdy ogień stał się pokojem",
+        "Wskrzeszony żywy do nieba i ocalony od ukrzyżowania",
+        "Utonął w potopie i uznano, że nie należy do rodziny sprawiedliwych"
+      ],
+      "answer": "Utonął w potopie i uznano, że nie należy do rodziny sprawiedliwych"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

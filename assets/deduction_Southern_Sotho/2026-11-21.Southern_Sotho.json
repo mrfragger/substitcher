@@ -1,0 +1,61 @@
+{
+  "title": "Mantsoe a Pel'a Metsi a Khutsitseng",
+  "intro": "Nahana ka sechaba se sa rehelloang ka lebaka la motse kapa 'musi, empa se reheletsoeng ka lebaka la metsi a khutsitseng ao bophelo bo bokanang ho 'ona. Ke litemana tse 'maloa feela tse hopolang sechaba sena, se lulang se thathamisitsoe har'a ba hanneng tataiso. Mamela ha ba bua ba sa bonahale.",
+  "clues": [
+    "Re sechaba se bitsoang ka lebitso la Quran, empa pale ea rona e felletseng e ntse e patiloe ke sephiri.",
+    "Kamehla re boleloa hammoho le ba latotseng, joalo ka batho ba Ad le Thamud.",
+    "Re bitsoa Metsoalle ea Ar-Rass, Seliba seo bophelo ba rona bo neng bo tlameletsoe ho sona.",
+    "Re latotse lenģosa le rometsoeng ho rona ka tataiso e hlakileng.",
+    "Re baloa har'a ba ileng ba hana baromuoa bohle ba rometsoeng ke Allah.",
+    "Re ile ra tobana le tšokelo e ileng ea phethahala khahlanong le mohanyetsi e mong le e mong ea ka pel'a rona, timetso ka lebaka la ho lahloa ha rona."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Metsoalle ea Ar-Rass",
+        "Batho ba Madyan",
+        "Baahi ba Al-Hijr",
+        "Batho ba Lute",
+        "Batho ba Tubba'"
+      ],
+      "answer": "Metsoalle ea Ar-Rass"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "O hahile tora e telele ho fihla maholimong",
+        "Ho latotsoe lenģosa le rometsoeng ho rona",
+        "O ile a rapela namane ea khauta ha Moshe a le sieo",
+        "Ba rera ho bolaea Yusuf ka lebaka la mohono",
+        "Ho batloa ho bona Allah pepeneneng"
+      ],
+      "answer": "Ho latotsoe lenģosa le rometsoeng ho rona"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Thaba ea Judi ea phomolo",
+        "Ntlo ea Borena e nang le Liipone ea khalase",
+        "Phula ea Bohloa",
+        "Areka e hahiloe tlas'a tšenolo",
+        "Seliba (Ar-Rass)"
+      ],
+      "answer": "Seliba (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "E metsoa ke lefats'e ka lebaka la boikhohomoso ba letlotlo",
+        "Areka e ile ea pholosoa moroallong",
+        "E ne e robalitsoe ka makholo a lilemo ka lehaheng",
+        "Taolo ea moea le jinn e fuoe",
+        "Ho timetsoa ka lebaka la ho latola manģosa"
+      ],
+      "answer": "Ho timetsoa ka lebaka la ho latola manģosa"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

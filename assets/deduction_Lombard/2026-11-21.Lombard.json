@@ -1,0 +1,61 @@
+{
+  "title": "I vus visin ai aque ferme",
+  "intro": "Figürate una comunità ciamada minga per una cità o per un suvran, ma per l’aqua calma intorn a la qual se radunava la vita. Sultant quai versi regordan chesta comunità, semper elencada intra quei che refudavan la guida. Asculta menter parlan del oscurità.",
+  "clues": [
+    "Sem una comunità ciamada in del Coran, e ancamò la noster storia cumpleta la resta velada in del mistero.",
+    "Num sem semper menzionads insema a quei qe negaven, comè el popol de Ad e Thamud.",
+    "Sem ciamà i Compagn de Ar-Rass, el Pozz al qual l’era ligada la noster vida.",
+    "G’hem negad el messagger qe l’è stait mandad cond una guida ciara.",
+    "Sem cuntà intra quei che g’han refudà tüt i messagg mandà de Allah.",
+    "G’hem afruntà la minacia cumplida cuntra ogni negatur davaant a nun, la distruziun per el noster refuud."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "I cumpagn de Ar-Rass",
+        "El popul de Madyan",
+        "I abitant de Al-Hijr",
+        "El popul de Lut",
+        "El popul de Tubba'"
+      ],
+      "answer": "I cumpagn de Ar-Rass"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Costruì una tor volta per rivà in del ciel",
+        "Negà el messagger invià a noi",
+        "Adorava el vitell d'or in assenza de Musa",
+        "Tramad per matar Yusuf per invidia",
+        "Dumandad de vedè Allah apert"
+      ],
+      "answer": "Negà el messagger invià a noi"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "El monte Judi de riposo",
+        "El Palazz Spegià de veder",
+        "La Val dei Formighe",
+        "L'Arca costruida sotta la rivelaziun",
+        "El pozz (Ar-Rass)"
+      ],
+      "answer": "El pozz (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Inglutì de la terra per l'orgœuj del tesoro",
+        "Salvà del Arca dal diluvio",
+        "Fat durmì per secul en una caverna",
+        "Cuncedü el cuntrol del vent e di jinn",
+        "Distrut per negar i messagger"
+      ],
+      "answer": "Distrut per negar i messagger"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

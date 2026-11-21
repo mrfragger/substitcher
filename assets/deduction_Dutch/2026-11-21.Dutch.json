@@ -1,0 +1,61 @@
+{
+  "title": "De stemmen aan de oevers van het stille water",
+  "intro": "Stel je een gemeenschap voor, niet genoemd naar een stad of een heerser, maar naar het stille water waaromheen het leven zich verzamelde. Slechts enkele verzen herinneren zich deze gemeenschap, die altijd wordt gerekend tot degenen die de leiding verwierpen. Luister hoe ze vanuit de anonimiteit spreken.",
+  "clues": [
+    "Wij zijn een gemeenschap die in de Koran wordt genoemd, maar ons volledige verhaal blijft gehuld in mysterie.",
+    "Onze namen worden altijd in één adem genoemd met die van degenen die het ontkenden, zoals de mensen van Ad en Thamud.",
+    "Wij worden de metgezellen van Ar-Rass genoemd, de bron waaraan ons leven verbonden was.",
+    "We verwierpen de boodschapper die ons met duidelijke instructies was gestuurd.",
+    "Wij behoren tot degenen die alle boodschappers die door Allah gezonden zijn, hebben verworpen.",
+    "We werden geconfronteerd met de dreiging die werkelijkheid werd voor elke ontkenner vóór ons: vernietiging vanwege onze afwijzing."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wie ben ik?",
+      "options": [
+        "De metgezellen van Ar-Rass",
+        "De inwoners van Madyan",
+        "De bewoners van Al-Hijr",
+        "De inwoners van Lut",
+        "De mensen van Tubba"
+      ],
+      "answer": "De metgezellen van Ar-Rass"
+    },
+    "trial": {
+      "label": "Proef/Evenement",
+      "options": [
+        "Hij bouwde een hoge toren om de hemel te bereiken.",
+        "De boodschapper die ons gestuurd was, werd afgewezen.",
+        "Hij aanbad het gouden kalf in afwezigheid van Musa.",
+        "Hij beraamde een plan om Yusuf uit jaloezie te vermoorden.",
+        "Hij eiste dat hij Allah openlijk zou zien."
+      ],
+      "answer": "De boodschapper die ons gestuurd was, werd afgewezen."
+    },
+    "location": {
+      "label": "Sleutelelement",
+      "options": [
+        "Berg Judi van rust",
+        "Het spiegelpaleis van glas",
+        "De Vallei van de Mieren",
+        "De Ark gebouwd onder openbaring",
+        "De Bron (Ar-Rass)"
+      ],
+      "answer": "De Bron (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Resultaat",
+      "options": [
+        "Verzwolgen door de aarde vanwege de trots op schatten.",
+        "Gered door de ark van de overstroming",
+        "Eeuwenlang gedwongen te slapen in een grot",
+        "Hij kreeg controle over de wind en de djinn.",
+        "Vernietigd omdat ze de boodschappers verloochenden."
+      ],
+      "answer": "Vernietigd omdat ze de boodschappers verloochenden."
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

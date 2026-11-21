@@ -1,0 +1,61 @@
+{
+  "title": "Rösterna bredvid det stilla vattnet",
+  "intro": "Föreställ dig ett samhälle som inte är uppkallat efter en stad eller en härskare, utan efter det stilla vattnet runt vilket livet samlades. Bara ett fåtal verser minns detta samhälle, alltid listat bland dem som avvisade vägledning. Lyssna när de talar från dunkel.",
+  "clues": [
+    "Vi är ett samhälle som namnges i Koranen, men hela vår historia förblir höljd i ett mysterium.",
+    "Vi nämns alltid tillsammans med de som förnekade, såsom folket i Ad och Thamud.",
+    "Vi kallas Ar-Rass följeslagare, brunnen till vilken våra liv var knutna.",
+    "Vi förnekade budbäraren som sändes till oss med tydlig vägledning.",
+    "Vi räknas bland dem som förkastade alla budbärare som Allah sänt.",
+    "Vi mötte hotet som uppfylldes mot varje förnekare framför oss, förstörelse för vårt avvisande."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Ar-Rass följeslagare",
+        "Madyans folk",
+        "Invånarna i Al-Hijr",
+        "Luts folk",
+        "Folket i Tubba'"
+      ],
+      "answer": "Ar-Rass följeslagare"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Byggde ett högt torn för att nå himlen",
+        "Förnekade budbäraren som sänts till oss",
+        "Tillbad guldkalven i Musas frånvaro",
+        "Planerade att döda Yusuf av avund",
+        "Krävde att få träffa Allah öppet"
+      ],
+      "answer": "Förnekade budbäraren som sänts till oss"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Vilans berg Judi",
+        "Det speglade glaspalatset",
+        "Myrornas dal",
+        "Arken byggd under uppenbarelse",
+        "Brunnen (Ar-Rass)"
+      ],
+      "answer": "Brunnen (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Slukad av jorden för stolthet över skatter",
+        "Räddad av Arken från syndafloden",
+        "Gjord för att sova i århundraden i en grotta",
+        "Beviljad kontroll över vind och djinn",
+        "Förstört för att ha förnekat budbärarna"
+      ],
+      "answer": "Förstört för att ha förnekat budbärarna"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

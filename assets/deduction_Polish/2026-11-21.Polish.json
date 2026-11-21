@@ -1,0 +1,61 @@
+{
+  "title": "Głosy nad spokojnymi wodami",
+  "intro": "Wyobraź sobie społeczność, której nazwa nie pochodzi od miasta czy władcy, ale od spokojnej wody, wokół której gromadziło się życie. Tylko kilka wersetów wspomina tę społeczność, zawsze wymienianą wśród tych, którzy odrzucili przewodnictwo. Posłuchaj, jak mówią z ukrycia.",
+  "clues": [
+    "Jesteśmy społecznością, której nazwa znajduje się w Koranie, jednak nasza historia pozostaje owiana tajemnicą.",
+    "Zawsze jesteśmy wymieniani obok tych, którzy zaprzeczali, jak mieszkańcy plemion Ad i Thamud.",
+    "Jesteśmy nazywani Towarzyszami Ar-Rass, Studni, z którą związane było nasze życie.",
+    "Odrzuciliśmy posłańca, który został do nas posłany z jasnymi wskazówkami.",
+    "Należymy do grona tych, którzy odrzucili wszystkich posłańców wysłanych przez Allaha.",
+    "Stanęliśmy w obliczu groźby, która spełniła się wobec każdego negacjonisty przed nami: zniszczenia za nasze odrzucenie."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Towarzysze Ar-Rassa",
+        "Ludzie Madyanu",
+        "Mieszkańcy Al-Hidżr",
+        "Ludzie Lut",
+        "Ludzie z Tubby"
+      ],
+      "answer": "Towarzysze Ar-Rassa"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Zbudował wysoką wieżę, aby sięgnąć nieba",
+        "Zaprzeczył posłańcowi, który do nas wysłał",
+        "Oddawali cześć złotemu cielcowi pod nieobecność Mojżesza",
+        "Z zazdrości zaplanował zabicie Yusufa",
+        "Zażądano, aby zobaczyć Allaha otwarcie"
+      ],
+      "answer": "Zaprzeczył posłańcowi, który do nas wysłał"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Góra Judi odpoczynku",
+        "Pałac Lustrzany ze szkła",
+        "Dolina Mrówek",
+        "Arka zbudowana pod objawieniem",
+        "Studnia (Ar-Rass)"
+      ],
+      "answer": "Studnia (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Pochłonięty przez ziemię z powodu dumy ze skarbu",
+        "Ocaleni przez Arkę przed potopem",
+        "Zmuszony do spania przez stulecia w jaskini",
+        "Przyznano kontrolę nad wiatrem i dżinami",
+        "Zniszczony za zaprzeczanie posłańcom"
+      ],
+      "answer": "Zniszczony za zaprzeczanie posłańcom"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

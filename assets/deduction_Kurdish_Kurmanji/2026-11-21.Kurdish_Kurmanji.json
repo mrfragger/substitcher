@@ -1,0 +1,61 @@
+{
+  "title": "Dengên Li Ber Avên Bêdeng",
+  "intro": "Civatekê xeyal bike ku ne ji bajarekî an hukumdarekî, lê ji ava bêdeng a ku jiyan li dora wê kom bûye, hatiye navandin. Tenê çend ayet vê civatê bi bîr tînin, ku her gav di nav wan kesên ku rêberî red kirine de ye. Guhdarî bike dema ku ew ji tarîtiyê diaxivin.",
+  "clues": [
+    "Em komeleyek in ku navê wê di Quranê de derbas dibe, lê çîroka me ya tevahî di nav sir û razên veşartî de dimîne.",
+    "Em her tim li kêleka wan kesên ku înkar kirin, wekî gelê Ad û Semûd, têne behskirin.",
+    "Ji me re dibêjin Hevalên Er-Rass, ew Çavkaniya ku jiyana me pê ve girêdayî bû.",
+    "Me ew pêxemberê ku bi rêberiya eşkere ji me re hatibû şandin, înkar kir.",
+    "Em ji wan kesan in ku hemû pêxemberên ku Xwedê şandiye red kirine.",
+    "Em bi gefa ku li dijî her înkarkerê beriya me pêk hat re rû bi rû man, wêranî ji bo redkirina me."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Hevalên Er-Rass",
+        "Gelê Medyenê",
+        "Niştecihên El-Hicrê",
+        "Gelê Lût",
+        "Gelê Tubbayê"
+      ],
+      "answer": "Hevalên Er-Rass"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Bircêkî bilind ava kir da ku bigihêje ezmanan",
+        "Peyamberê ku ji me re hatibû şandin red kir",
+        "Di nebûna Mûsa de ji golika zêrîn re perestî kirin",
+        "Ji ber hesûdiyê plana kuştina Yûsif kirin",
+        "Daxwaz kir ku Xwedê bi eşkereyî bibîne"
+      ],
+      "answer": "Peyamberê ku ji me re hatibû şandin red kir"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Çiyayê Cûdî yê bêhnvedanê",
+        "Qesra Neynikê ya ji cam",
+        "Geliyê Morîyan",
+        "Keştiya ku di bin wehyê de hatiye avakirin",
+        "Bîr (Ar-Rass)"
+      ],
+      "answer": "Bîr (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Ji ber serbilindiya bi xezîneyê ji aliyê erdê ve hat daqurtandin",
+        "Keştiyê ji tofanê rizgar kir",
+        "Ji bo sedsalan di şikeftekê de hatiye çêkirin ku razê",
+        "Kontrola bayê û cin hat dayîn",
+        "Ji ber înkarkirina peyamberan hat hilweşandin"
+      ],
+      "answer": "Ji ber înkarkirina peyamberan hat hilweşandin"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

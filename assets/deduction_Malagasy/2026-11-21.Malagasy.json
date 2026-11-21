@@ -1,0 +1,61 @@
+{
+  "title": "Ireo Feo eo anilany rano tony",
+  "intro": "Alaivo sary an-tsaina ny vondrom-piarahamonina iray tsy nomena anarana avy amin'ny tanàna na mpitondra, fa avy amin'ny rano tony izay niangonan'ny fiainana. Andininy vitsivitsy monja no mahatsiaro ity vondrom-piarahamonina ity, izay voatanisa ho isan'ireo izay nandà ny fitarihana foana. Henoy ny fiteniny avy ao amin'ny haizina.",
+  "clues": [
+    "Vondrom-piarahamonina voatonona ao amin'ny CORAN isika, nefa mbola miafina ao anatin'ny mistery ny tantarantsika manontolo.",
+    "Voatonona miaraka amin'ireo izay nandà foana isika, toa ny vahoakan'i Ad sy Thamoud.",
+    "Antsoina hoe mpiara-dia amin'i Ar-Rass isika, ilay lavadrano izay nifamatotra tamin'ny fiainantsika.",
+    "Nolavinay ilay iraka izay nirahina ho aminay nitondra tari-dalana mazava.",
+    "Anisan'ireo izay nandà ny iraka rehetra nirahin'i Allah isika.",
+    "Niatrika ny fandrahonana natao tamin'izay rehetra nandà teo alohanay izahay, dia ny fandringanana noho ny fandavana anay."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Ireo mpiara-dia amin'i Ar-Rass",
+        "Ny Vahoakan'i Madyana",
+        "Ireo mponina ao Al-Hijr",
+        "Ny vahoakan'i Lota",
+        "Ny Vahoakan'i Tubba'"
+      ],
+      "answer": "Ireo mpiara-dia amin'i Ar-Rass"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Nanorina tilikambo avo be mba hanatratrarana ny lanitra",
+        "Nolavina ny iraka nalefa taminay",
+        "Nivavaka tamin'ny ombilahy kely volamena izy ireo raha tsy teo i Mosesy",
+        "Nikasa hamono an'i Yusuf noho ny fialonana",
+        "Nangataka hahita an'i Allah ampahibemaso"
+      ],
+      "answer": "Nolavina ny iraka nalefa taminay"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Tendrombohitra Judi fitsaharana",
+        "Lapam-pitaratra vita amin'ny fitaratra",
+        "Ny Lohasahan'ny Vitsika",
+        "Ny Fiara naorina teo ambanin'ny fanambarana",
+        "Ny Lavadrano (Ar-Rass)"
+      ],
+      "answer": "Ny Lavadrano (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Voatelina tamin'ny tany noho ny avonavona amin'ny harena",
+        "Novonjen'ny Sambofiara tamin'ny safodrano",
+        "Nasaina natory tao anaty lava-bato nandritra ny taonjato maro",
+        "Nomena fahefana hifehy ny rivotra sy ny jiny",
+        "Noravana noho ny fandavana ireo iraka"
+      ],
+      "answer": "Noravana noho ny fandavana ireo iraka"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

@@ -1,0 +1,704 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَشْكَالُ التَّوَاصُلِ الْقَوْلِيِّ",
+        "nameEn": "Forms of spoken communication",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "الْقَوْلُ",
+            "en": "the word",
+            "ref": "50:29",
+            "verse": "مَا يُبَدَّلُ ٱلْقَوْلُ لَدَىَّ وَمَآ أَنَا۠ بِظَلَّـٰمٍۢ لِّلْعَبِيدِ",
+            "verseEn": "The word [i.e., decree] will not be changed with Me, and never will I be unjust to the servants.\""
+          },
+          {
+            "ar": "ذِكْرٌ",
+            "en": "a reminder",
+            "ref": "7:63",
+            "verse": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌۭ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍۢ مِّنكُمْ لِيُنذِرَكُمْ وَلِتَتَّقُوا۟ وَلَعَلَّكُمْ تُرْحَمُونَ",
+            "verseEn": "Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you and that you may fear Allāh so you might receive mercy?\""
+          },
+          {
+            "ar": "بِالشَّهَادَةِ",
+            "en": "the testimony",
+            "ref": "5:108",
+            "verse": "ذَٰلِكَ أَدْنَىٰٓ أَن يَأْتُوا۟ بِٱلشَّهَـٰدَةِ عَلَىٰ وَجْهِهَآ أَوْ يَخَافُوٓا۟ أَن تُرَدَّ أَيْمَـٰنٌۢ بَعْدَ أَيْمَـٰنِهِمْ ۗ وَٱتَّقُوا۟ ٱللَّهَ وَٱسْمَعُوا۟ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ",
+            "verseEn": "That is more likely that they will give testimony according to its [true] objective, or [at least] they would fear that [other] oaths might be taken after their oaths. And fear Allāh and listen [i.e., obey Him]; and Allāh does not guide the defiantly disobedient people."
+          },
+          {
+            "ar": "نَبَإِ",
+            "en": "(the) news",
+            "ref": "28:3",
+            "verse": "نَتْلُوا۟ عَلَيْكَ مِن نَّبَإِ مُوسَىٰ وَفِرْعَوْنَ بِٱلْحَقِّ لِقَوْمٍۢ يُؤْمِنُونَ",
+            "verseEn": "We recite to you from the news of Moses and Pharaoh in truth for a people who believe."
+          }
+        ]
+      },
+      {
+        "name": "مَصَائِرُ الآخِرَةِ وَجَزَاؤُهَا",
+        "nameEn": "Afterlife Destinations and Recompense",
+        "color": "green",
+        "items": [
+          {
+            "ar": "الْجَنَّةَ",
+            "en": "Paradise",
+            "ref": "43:70",
+            "verse": "ٱدْخُلُوا۟ ٱلْجَنَّةَ أَنتُمْ وَأَزْوَٰجُكُمْ تُحْبَرُونَ",
+            "verseEn": "Enter Paradise, you and your kinds, delighted.\""
+          },
+          {
+            "ar": "جَهَنَّمَ",
+            "en": "Hell",
+            "ref": "38:56",
+            "verse": "جَهَنَّمَ يَصْلَوْنَهَا فَبِئْسَ ٱلْمِهَادُ",
+            "verseEn": "Hell, which they will [enter to] burn, and wretched is the resting place."
+          },
+          {
+            "ar": "عَذَابٌ",
+            "en": "a punishment",
+            "ref": "39:40",
+            "verse": "مَن يَأْتِيهِ عَذَابٌۭ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌۭ مُّقِيمٌ",
+            "verseEn": "To whom will come a torment disgracing him and on whom will descend an enduring punishment.\""
+          },
+          {
+            "ar": "النَّعِيمِ",
+            "en": "(of) Delight",
+            "ref": "68:34",
+            "verse": "إِنَّ لِلْمُتَّقِينَ عِندَ رَبِّهِمْ جَنَّـٰتِ ٱلنَّعِيمِ",
+            "verseEn": "Indeed, for the righteous with their Lord are the Gardens of Pleasure."
+          }
+        ]
+      },
+      {
+        "name": "الأَرْزَاقُ وَالأَطْعِمَةُ",
+        "nameEn": "Foods and provisions bestowed by Allah",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "لَرِزْقُنَا",
+            "en": "(is) surely Our provision",
+            "ref": "38:54",
+            "verse": "إِنَّ هَـٰذَا لَرِزْقُنَا مَا لَهُۥ مِن نَّفَادٍ",
+            "verseEn": "Indeed, this is Our provision; for it there is no depletion."
+          },
+          {
+            "ar": "مَتَاعُ",
+            "en": "(is) an enjoyment",
+            "ref": "28:60",
+            "verse": "وَمَآ أُوتِيتُم مِّن شَىْءٍۢ فَمَتَـٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَزِينَتُهَا ۚ وَمَا عِندَ ٱللَّهِ خَيْرٌۭ وَأَبْقَىٰٓ ۚ أَفَلَا تَعْقِلُونَ",
+            "verseEn": "And whatever thing you [people] have been given - it is [only for] the enjoyment of worldly life and its adornment. And what is with Allāh is better and more lasting; so will you not use reason?"
+          },
+          {
+            "ar": "الْمَنَّ",
+            "en": "the Manna",
+            "ref": "20:80",
+            "verse": "يَـٰبَنِىٓ إِسْرَٰٓءِيلَ قَدْ أَنجَيْنَـٰكُم مِّنْ عَدُوِّكُمْ وَوَٰعَدْنَـٰكُمْ جَانِبَ ٱلطُّورِ ٱلْأَيْمَنَ وَنَزَّلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ",
+            "verseEn": "O Children of Israel, We delivered you from your enemy, and We made an appointment with you at the right side of the mount, and We sent down to you manna and quails,"
+          },
+          {
+            "ar": "فَاكِهَةٍ",
+            "en": "fruits",
+            "ref": "55:52",
+            "verse": "فِيهِمَا مِن كُلِّ فَـٰكِهَةٍۢ زَوْجَانِ",
+            "verseEn": "In both of them are of every fruit, two kinds."
+          }
+        ]
+      },
+      {
+        "name": "أَلْفَاظُ الْكَذِبِ وَالِافْتِرَاءِ",
+        "nameEn": "Words Meaning Falsehood or Fabrication in the Qur'an",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "أَسَاطِيرُ",
+            "en": "Stories",
+            "ref": "68:15",
+            "verse": "إِذَا تُتْلَىٰ عَلَيْهِ ءَايَـٰتُنَا قَالَ أَسَـٰطِيرُ ٱلْأَوَّلِينَ",
+            "verseEn": "When Our verses are recited to him, he says, \"Legends of the former peoples.\""
+          },
+          {
+            "ar": "اِخْتِلَاقٌ",
+            "en": "a fabrication",
+            "ref": "38:7",
+            "verse": "مَا سَمِعْنَا بِهَـٰذَا فِى ٱلْمِلَّةِ ٱلْـَٔاخِرَةِ إِنْ هَـٰذَآ إِلَّا ٱخْتِلَـٰقٌ",
+            "verseEn": "We have not heard of this in the latest religion. This is not but a fabrication."
+          },
+          {
+            "ar": "كَذِبًا",
+            "en": "any lie",
+            "ref": "72:5",
+            "verse": "وَأَنَّا ظَنَنَّآ أَن لَّن تَقُولَ ٱلْإِنسُ وَٱلْجِنُّ عَلَى ٱللَّهِ كَذِبًۭا",
+            "verseEn": "And we had thought that mankind and the jinn would never speak about Allāh a lie."
+          },
+          {
+            "ar": "مُفْتَرًى",
+            "en": "invented",
+            "ref": "28:36",
+            "verse": "فَلَمَّا جَآءَهُم مُّوسَىٰ بِـَٔايَـٰتِنَا بَيِّنَـٰتٍۢ قَالُوا۟ مَا هَـٰذَآ إِلَّا سِحْرٌۭ مُّفْتَرًۭى وَمَا سَمِعْنَا بِهَـٰذَا فِىٓ ءَابَآئِنَا ٱلْأَوَّلِينَ",
+            "verseEn": "But when Moses came to them with Our signs as clear evidences, they said, \"This is not except invented magic, and we have not heard of this [religion] among our forefathers.\""
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "عليا",
+    "display": "عَلِيًّا",
+    "hint": "Describes a lofty station or elevated rank",
+    "verseRef": "19:57",
+    "arabicVerse": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+    "verse": "19:57 - And We raised him to a high station."
+  },
+  "scramble": {
+    "verseRef": "15:23",
+    "reference": "Al-Hijr (15:23)",
+    "segments": [
+      "وَإِنَّا لَنَحْنُ",
+      "نُحْيِي",
+      "وَنُمِيتُ وَنَحْنُ",
+      "الْوَارِثُونَ"
+    ],
+    "translations": [
+      "And indeed, We surely [We]",
+      "We give life and We cause death",
+      "and We",
+      "(are) the Inheritors"
+    ],
+    "hint": "Allah's exclusive power over life, death, and ultimate inheritance",
+    "arabic": "وَإِنَّا لَنَحْنُ نُحْىِۦ وَنُمِيتُ وَنَحْنُ ٱلْوَٰرِثُونَ",
+    "words": [
+      "وَإِنَّا لَنَحْنُ",
+      "نُحْىِۦ وَنُمِيتُ",
+      "وَنَحْنُ",
+      "ٱلْوَٰرِثُونَ"
+    ],
+    "verseEn": "And indeed, it is We who give life and cause death, and We are the Inheritor."
+  },
+  "roothive": {
+    "center": "م",
+    "outer": [
+      "ه",
+      "ح",
+      "ر",
+      "ت",
+      "ا",
+      "و"
+    ],
+    "root": {
+      "letters": "حرم",
+      "display": "ح ر م",
+      "translit": "ḥ-r-m",
+      "meaning": "The core idea is treating something as sacred and off limits. It grows into meanings of forbidding an act and of honoring protected boundaries where access is restricted.",
+      "occurrences": 83,
+      "lemmaCount": 6
+    },
+    "words": [
+      {
+        "w": "اتم",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَتَمَّ",
+            "gloss": "perfect",
+            "type": "verb",
+            "root": "تمم",
+            "count": 16,
+            "ref": "2:233",
+            "pos": 9,
+            "alt": [
+              "complete",
+              "completes"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "امر",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَمْر",
+            "gloss": "command",
+            "type": "noun",
+            "root": "أمر",
+            "count": 166,
+            "ref": "2:117",
+            "pos": 6,
+            "alt": [
+              "matter",
+              "affair"
+            ]
+          },
+          {
+            "lemma": "أَمَرَ",
+            "gloss": "commands",
+            "type": "verb",
+            "root": "أمر",
+            "count": 77,
+            "ref": "2:27",
+            "pos": 10,
+            "alt": [
+              "commanded",
+              "has ordered"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "امه",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أُمَّة",
+            "gloss": "nation",
+            "type": "noun",
+            "root": "أمم",
+            "count": 64,
+            "ref": "2:128",
+            "pos": 7,
+            "alt": [
+              "community",
+              "nations"
+            ]
+          },
+          {
+            "lemma": "أَمَة",
+            "gloss": "bondwoman",
+            "type": "noun",
+            "root": "أمو",
+            "count": 2,
+            "ref": "2:221",
+            "pos": 6,
+            "alt": [
+              "female slaves"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "حرم",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "حَرَّمَ",
+            "gloss": "allah has made unlawful",
+            "type": "verb",
+            "root": "حرم",
+            "count": 39,
+            "ref": "2:173",
+            "pos": 2,
+            "alt": [
+              "forbidden",
+              "has forbidden"
+            ],
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "حما",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "حَمَإ",
+            "gloss": "black mud",
+            "type": "noun",
+            "root": "حمأ",
+            "count": 3,
+            "ref": "15:26",
+            "pos": 7
+          }
+        ]
+      },
+      {
+        "w": "رحم",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "رَحِمَ",
+            "gloss": "has mercy",
+            "type": "verb",
+            "root": "رحم",
+            "count": 28,
+            "ref": "11:43",
+            "pos": 17,
+            "alt": [
+              "lord has bestowed mercy",
+              "bestows mercy"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "مات",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "ماتَ",
+            "gloss": "die",
+            "type": "verb",
+            "root": "موت",
+            "count": 39,
+            "ref": "3:144",
+            "pos": 11,
+            "alt": [
+              "dies",
+              "died"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "محو",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَحَوْ",
+            "gloss": "eliminated",
+            "type": "verb",
+            "root": "محو",
+            "count": 3,
+            "ref": "13:39",
+            "pos": 1,
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "مرح",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَرَح",
+            "gloss": "insolence",
+            "type": "noun",
+            "root": "مرح",
+            "count": 2,
+            "ref": "17:37",
+            "pos": 5,
+            "alt": [
+              "exultantly"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مره",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَرَّة",
+            "gloss": "time",
+            "type": "noun",
+            "root": "مرر",
+            "count": 20,
+            "ref": "2:229",
+            "pos": 2,
+            "alt": [
+              "twice",
+              "times"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "موت",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَوْت",
+            "gloss": "death",
+            "type": "noun",
+            "root": "موت",
+            "count": 50,
+            "ref": "25:3",
+            "pos": 18
+          }
+        ]
+      },
+      {
+        "w": "ارحم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَرْحَم",
+            "gloss": "most merciful",
+            "type": "noun",
+            "root": "رحم",
+            "count": 4,
+            "ref": "7:151",
+            "pos": 10
+          }
+        ]
+      },
+      {
+        "w": "امات",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَماتَ",
+            "gloss": "causes death",
+            "type": "verb",
+            "root": "موت",
+            "count": 21,
+            "ref": "53:44",
+            "pos": 3,
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "امام",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "إِمام",
+            "gloss": "leaders",
+            "type": "noun",
+            "root": "أمم",
+            "count": 12,
+            "ref": "2:124",
+            "pos": 11,
+            "alt": [
+              "leader",
+              "guide"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "حرام",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "حَرام",
+            "gloss": "ihram",
+            "type": "adjective",
+            "root": "حرم",
+            "count": 33,
+            "ref": "5:1",
+            "pos": 18,
+            "alt": [
+              "sanctuary",
+              "sacred"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "حرمه",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "حُرُمَة",
+            "gloss": "sacred rites",
+            "type": "noun",
+            "root": "حرم",
+            "count": 2,
+            "ref": "22:30",
+            "pos": 4
+          }
+        ]
+      },
+      {
+        "w": "حمار",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "حِمار",
+            "gloss": "donkeys",
+            "type": "noun",
+            "root": "حمر",
+            "count": 5,
+            "ref": "74:50",
+            "pos": 2
+          }
+        ]
+      },
+      {
+        "w": "راحم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "راحِم",
+            "gloss": "show mercy",
+            "type": "active participle",
+            "root": "رحم",
+            "count": 6,
+            "ref": "7:151",
+            "pos": 11,
+            "alt": [
+              "merciful"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "رحمه",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "رَحْمَة",
+            "gloss": "mercy from",
+            "type": "noun",
+            "root": "رحم",
+            "count": 114,
+            "ref": "2:218",
+            "pos": 12,
+            "alt": [
+              "mercy",
+              "mercy of allah"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "محرم",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "مُحَرَّم",
+            "gloss": "forbidden",
+            "type": "passive participle",
+            "root": "حرم",
+            "count": 4,
+            "ref": "2:85",
+            "pos": 20
+          }
+        ]
+      },
+      {
+        "w": "ممات",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَمات",
+            "gloss": "dying",
+            "type": "noun",
+            "root": "موت",
+            "count": 3,
+            "ref": "6:162",
+            "pos": 6,
+            "alt": [
+              "death"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "موتت",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَوْتَت",
+            "gloss": "death",
+            "type": "noun",
+            "root": "موت",
+            "count": 3,
+            "ref": "37:59",
+            "pos": 2
+          }
+        ]
+      },
+      {
+        "w": "ارحام",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "أَرْحام",
+            "gloss": "wombs",
+            "type": "noun",
+            "root": "رحم",
+            "count": 12,
+            "ref": "6:143",
+            "pos": 17
+          }
+        ]
+      },
+      {
+        "w": "امرات",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "امْرَأَت",
+            "gloss": "wife",
+            "type": "noun",
+            "root": "مرأ",
+            "count": 26,
+            "ref": "3:35",
+            "pos": 3,
+            "alt": [
+              "woman",
+              "women"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "محرمه",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "مُحَرَّمَة",
+            "gloss": "forbidden",
+            "type": "passive participle",
+            "root": "حرم",
+            "count": 1,
+            "ref": "5:26",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "محروم",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "مَحْرُوم",
+            "gloss": "deprived",
+            "type": "passive participle",
+            "root": "حرم",
+            "count": 4,
+            "ref": "56:67",
+            "pos": 3
+          }
+        ]
+      }
+    ],
+    "otherFamily": [],
+    "maxScore": 57,
+    "featuredRoot": "حرم"
+  }
+}

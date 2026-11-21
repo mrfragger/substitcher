@@ -1,0 +1,753 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَفْعَالُ الْقَوْلِ وَالْكَلَامِ",
+        "nameEn": "Verbs of speaking in the Qur'an",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "فَاسْأَلُوا",
+            "en": "So ask",
+            "ref": "21:7",
+            "verse": "وَمَآ أَرْسَلْنَا قَبْلَكَ إِلَّا رِجَالًۭا نُّوحِىٓ إِلَيْهِمْ ۖ فَسْـَٔلُوٓا۟ أَهْلَ ٱلذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ",
+            "verseEn": "And We sent not before you, [O Muḥammad], except men to whom We revealed [the message], so ask the people of the message [i.e., former scriptures] if you do not know."
+          },
+          {
+            "ar": "يَسْتَصْرِخُهُ",
+            "en": "cried out to him for help",
+            "ref": "28:18",
+            "verse": "فَأَصْبَحَ فِى ٱلْمَدِينَةِ خَآئِفًۭا يَتَرَقَّبُ فَإِذَا ٱلَّذِى ٱسْتَنصَرَهُۥ بِٱلْأَمْسِ يَسْتَصْرِخُهُۥ ۚ قَالَ لَهُۥ مُوسَىٰٓ إِنَّكَ لَغَوِىٌّۭ مُّبِينٌۭ",
+            "verseEn": "And he became inside the city fearful and anticipating [exposure], when suddenly the one who sought his help the previous day cried out to him [once again]. Moses said to him, \"Indeed, you are an evident, [persistent] deviator.\""
+          },
+          {
+            "ar": "يَقُصُّونَ",
+            "en": "relating",
+            "ref": "7:35",
+            "verse": "يَـٰبَنِىٓ ءَادَمَ إِمَّا يَأْتِيَنَّكُمْ رُسُلٌۭ مِّنكُمْ يَقُصُّونَ عَلَيْكُمْ ءَايَـٰتِى ۙ فَمَنِ ٱتَّقَىٰ وَأَصْلَحَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+            "verseEn": "O children of Adam, if there come to you messengers from among you relating to you My verses [i.e., scriptures and laws], then whoever fears Allāh and reforms - there will be no fear concerning them, nor will they grieve."
+          },
+          {
+            "ar": "قَالُوا",
+            "en": "They said",
+            "ref": "15:53",
+            "verse": "قَالُوا۟ لَا تَوْجَلْ إِنَّا نُبَشِّرُكَ بِغُلَـٰمٍ عَلِيمٍۢ",
+            "verseEn": "[The angels] said, \"Fear not. Indeed, we give you good tidings of a learned boy.\""
+          }
+        ]
+      },
+      {
+        "name": "رُسُلٌ مَذْكُورُونَ فِي الْقُرْآنِ",
+        "nameEn": "Messengers named in the Qur'an",
+        "color": "green",
+        "items": [
+          {
+            "ar": "نُوحٍ",
+            "en": "(of) Nuh",
+            "ref": "10:71",
+            "verse": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ نُوحٍ إِذْ قَالَ لِقَوْمِهِۦ يَـٰقَوْمِ إِن كَانَ كَبُرَ عَلَيْكُم مَّقَامِى وَتَذْكِيرِى بِـَٔايَـٰتِ ٱللَّهِ فَعَلَى ٱللَّهِ تَوَكَّلْتُ فَأَجْمِعُوٓا۟ أَمْرَكُمْ وَشُرَكَآءَكُمْ ثُمَّ لَا يَكُنْ أَمْرُكُمْ عَلَيْكُمْ غُمَّةًۭ ثُمَّ ٱقْضُوٓا۟ إِلَىَّ وَلَا تُنظِرُونِ",
+            "verseEn": "And recite to them the news of Noah, when he said to his people, \"O my people, if my residence and my reminding of the signs of Allāh has become burdensome upon you - then I have relied upon Allāh. So resolve upon your plan and [call upon] your associates. Then let not your plan be obscure to you. Then carry it out upon me and do not give me respite."
+          },
+          {
+            "ar": "مُوسَىٰ",
+            "en": "Musa",
+            "ref": "20:67",
+            "verse": "فَأَوْجَسَ فِى نَفْسِهِۦ خِيفَةًۭ مُّوسَىٰ",
+            "verseEn": "And he sensed within himself apprehension, did Moses."
+          },
+          {
+            "ar": "لُوطٍ",
+            "en": "(of) Lut",
+            "ref": "15:61",
+            "verse": "فَلَمَّا جَآءَ ءَالَ لُوطٍ ٱلْمُرْسَلُونَ",
+            "verseEn": "And when the messengers came to the family of Lot,"
+          },
+          {
+            "ar": "الْمَسِيحُ",
+            "en": "(is) the Messiah",
+            "ref": "5:75",
+            "verse": "مَّا ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ إِلَّا رَسُولٌۭ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ وَأُمُّهُۥ صِدِّيقَةٌۭ ۖ كَانَا يَأْكُلَانِ ٱلطَّعَامَ ۗ ٱنظُرْ كَيْفَ نُبَيِّنُ لَهُمُ ٱلْـَٔايَـٰتِ ثُمَّ ٱنظُرْ أَنَّىٰ يُؤْفَكُونَ",
+            "verseEn": "The Messiah, son of Mary, was not but a messenger; [other] messengers have passed on before him. And his mother was a supporter of truth. They both used to eat food. Look how We make clear to them the signs; then look how they are deluded."
+          }
+        ]
+      },
+      {
+        "name": "أَلْفَاظُ الذُّنُوبِ وَالْمَعَاصِي",
+        "nameEn": "Terms for sinful acts condemned in the Qur'an",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "فَاحِشَةً",
+            "en": "immorality",
+            "ref": "7:28",
+            "verse": "وَإِذَا فَعَلُوا۟ فَـٰحِشَةًۭ قَالُوا۟ وَجَدْنَا عَلَيْهَآ ءَابَآءَنَا وَٱللَّهُ أَمَرَنَا بِهَا ۗ قُلْ إِنَّ ٱللَّهَ لَا يَأْمُرُ بِٱلْفَحْشَآءِ ۖ أَتَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ",
+            "verseEn": "And when they commit an immorality, they say, \"We found our fathers doing it, and Allāh has ordered us to do it.\" Say, \"Indeed, Allāh does not order immorality. Do you say about Allāh that which you do not know?\""
+          },
+          {
+            "ar": "مُّنكَرٍ",
+            "en": "wrongdoing",
+            "ref": "5:79",
+            "verse": "كَانُوا۟ لَا يَتَنَاهَوْنَ عَن مُّنكَرٍۢ فَعَلُوهُ ۚ لَبِئْسَ مَا كَانُوا۟ يَفْعَلُونَ",
+            "verseEn": "They used not to prevent one another from wrongdoing that they did. How wretched was that which they were doing."
+          },
+          {
+            "ar": "السَّيِّئَاتِ",
+            "en": "the evil deeds",
+            "ref": "16:45",
+            "verse": "أَفَأَمِنَ ٱلَّذِينَ مَكَرُوا۟ ٱلسَّيِّـَٔاتِ أَن يَخْسِفَ ٱللَّهُ بِهِمُ ٱلْأَرْضَ أَوْ يَأْتِيَهُمُ ٱلْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ",
+            "verseEn": "Then, do those who have planned evil deeds feel secure that Allāh will not cause the earth to swallow them or that the punishment will not come upon them from where they do not perceive?"
+          },
+          {
+            "ar": "كَذِبًا",
+            "en": "a lie",
+            "ref": "23:38",
+            "verse": "إِنْ هُوَ إِلَّا رَجُلٌ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًۭا وَمَا نَحْنُ لَهُۥ بِمُؤْمِنِينَ",
+            "verseEn": "He is not but a man who has invented a lie about Allāh, and we will not believe him.\""
+          }
+        ]
+      },
+      {
+        "name": "أَسْمَاءُ الْمَفْعُولِ عَلَى وَزْنِ مَفْعُولٍ",
+        "nameEn": "Passive participles on the pattern mafʿūl (مفعول) in the Qur'an",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "مَمْدُودًا",
+            "en": "extensive",
+            "ref": "74:12",
+            "verse": "وَجَعَلْتُ لَهُۥ مَالًۭا مَّمْدُودًۭا",
+            "verseEn": "And to whom I granted extensive wealth"
+          },
+          {
+            "ar": "مَجْذُوذٍ",
+            "en": "interrupted",
+            "ref": "11:108",
+            "verse": "۞ وَأَمَّا ٱلَّذِينَ سُعِدُوا۟ فَفِى ٱلْجَنَّةِ خَـٰلِدِينَ فِيهَا مَا دَامَتِ ٱلسَّمَـٰوَٰتُ وَٱلْأَرْضُ إِلَّا مَا شَآءَ رَبُّكَ ۖ عَطَآءً غَيْرَ مَجْذُوذٍۢ",
+            "verseEn": "And as for those who were [destined to be] prosperous, they will be in Paradise, abiding therein as long as the heavens and the earth endure, except what your Lord should will - a bestowal uninterrupted."
+          },
+          {
+            "ar": "مَنْقُوصٍ",
+            "en": "being diminished",
+            "ref": "11:109",
+            "verse": "فَلَا تَكُ فِى مِرْيَةٍۢ مِّمَّا يَعْبُدُ هَـٰٓؤُلَآءِ ۚ مَا يَعْبُدُونَ إِلَّا كَمَا يَعْبُدُ ءَابَآؤُهُم مِّن قَبْلُ ۚ وَإِنَّا لَمُوَفُّوهُمْ نَصِيبَهُمْ غَيْرَ مَنقُوصٍۢ",
+            "verseEn": "So do not be in doubt, [O Muḥammad], as to what these [polytheists] are worshipping. They worship not except as their fathers worshipped before. And indeed, We will give them their share undiminished."
+          },
+          {
+            "ar": "مَفْعُولًا",
+            "en": "(already) destined",
+            "ref": "8:44",
+            "verse": "وَإِذْ يُرِيكُمُوهُمْ إِذِ ٱلْتَقَيْتُمْ فِىٓ أَعْيُنِكُمْ قَلِيلًۭا وَيُقَلِّلُكُمْ فِىٓ أَعْيُنِهِمْ لِيَقْضِىَ ٱللَّهُ أَمْرًۭا كَانَ مَفْعُولًۭا ۗ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ",
+            "verseEn": "And [remember] when He showed them to you, when you met, as few in your eyes, and He made you [appear] as few in their eyes so that Allāh might accomplish a matter already destined. And to Allāh are [all] matters returned."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "عبادا",
+    "display": "عِبَادًا",
+    "hint": "Devoted servants sent with great might as a warning fulfilled",
+    "verseRef": "17:5",
+    "arabicVerse": "فَإِذَا جَآءَ وَعْدُ أُولَىٰهُمَا بَعَثْنَا عَلَيْكُمْ عِبَادًۭا لَّنَآ أُو۟لِى بَأْسٍۢ شَدِيدٍۢ فَجَاسُوا۟ خِلَـٰلَ ٱلدِّيَارِ ۚ وَكَانَ وَعْدًۭا مَّفْعُولًۭا",
+    "verse": "17:5 - So when the [time of] promise came for the first of them, We sent against you servants of Ours - those of great military might, and they probed [even] into the homes, and it was a promise fulfilled."
+  },
+  "scramble": {
+    "verseRef": "21:88",
+    "reference": "Surah Al-Anbiya (21:88)",
+    "segments": [
+      "فَاسْتَجَبْنَا لَهُ",
+      "وَنَجَّيْنَاهُ مِنَ",
+      "الْغَمِّ وَكَذَلِكَ",
+      "نُنْجِي الْمُؤْمِنِينَ"
+    ],
+    "translations": [
+      "So We responded to him",
+      "and We saved him from",
+      "the distress And thus",
+      "We save the believers"
+    ],
+    "hint": "Allah's answer to the prayer of Yunus in the belly of the whale and His promise to all believers",
+    "arabic": "فَٱسْتَجَبْنَا لَهُۥ وَنَجَّيْنَـٰهُ مِنَ ٱلْغَمِّ ۚ وَكَذَٰلِكَ نُـۨجِى ٱلْمُؤْمِنِينَ",
+    "words": [
+      "فَٱسْتَجَبْنَا لَهُۥ",
+      "وَنَجَّيْنَـٰهُ مِنَ",
+      "ٱلْغَمِّ ۚ وَكَذَٰلِكَ",
+      "نُـۨجِى ٱلْمُؤْمِنِينَ"
+    ],
+    "verseEn": "So We responded to him and saved him from the distress. And thus do We save the believers."
+  },
+  "roothive": {
+    "center": "ع",
+    "outer": [
+      "س",
+      "م",
+      "ر",
+      "ت",
+      "ا",
+      "ه"
+    ],
+    "root": {
+      "letters": "عمر",
+      "display": "ع م ر",
+      "translit": "ʿ-m-r",
+      "meaning": "The core idea is staying alive and full over time through building and care. That sense grows into long life and into keeping homes and hearts flourishing.",
+      "occurrences": 24,
+      "lemmaCount": 10
+    },
+    "words": [
+      {
+        "w": "تسع",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "تِسْع",
+            "gloss": "nine",
+            "type": "noun",
+            "root": "تسع",
+            "count": 5,
+            "ref": "17:101",
+            "pos": 4,
+            "alt": [
+              "ninety-nine"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "راع",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "راعِ",
+            "gloss": "raina",
+            "type": "verb",
+            "root": "رعي",
+            "count": 2,
+            "ref": "2:104",
+            "pos": 6,
+            "alt": [
+              "\"raina"
+            ],
+            "form": 3
+          }
+        ]
+      },
+      {
+        "w": "سعر",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "سُعُر",
+            "gloss": "madness",
+            "type": "noun",
+            "root": "سعر",
+            "count": 2,
+            "ref": "54:24",
+            "pos": 10
+          }
+        ]
+      },
+      {
+        "w": "سعه",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "سَعَة",
+            "gloss": "abundance",
+            "type": "noun",
+            "root": "وسع",
+            "count": 6,
+            "ref": "2:247",
+            "pos": 23,
+            "alt": [
+              "ample means"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "سمع",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "سَمِعَ",
+            "gloss": "heard",
+            "type": "verb",
+            "root": "سمع",
+            "count": 78,
+            "ref": "2:171",
+            "pos": 9,
+            "alt": [
+              "hear",
+              "hears"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "سَمْع",
+            "gloss": "hear",
+            "type": "noun",
+            "root": "سمع",
+            "count": 22,
+            "ref": "18:101",
+            "pos": 11,
+            "alt": [
+              "hearing"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "عام",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عام",
+            "gloss": "year",
+            "type": "noun",
+            "root": "عوم",
+            "count": 9,
+            "ref": "2:259",
+            "pos": 20,
+            "alt": [
+              "one year",
+              "two years"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "عسر",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عُسْر",
+            "gloss": "hardship",
+            "type": "noun",
+            "root": "عسر",
+            "count": 5,
+            "ref": "18:73",
+            "pos": 10,
+            "alt": [
+              "difficulty"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "عمر",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "عُمُر",
+            "gloss": "lifetime",
+            "type": "noun",
+            "root": "عمر",
+            "count": 7,
+            "ref": "10:16",
+            "pos": 14
+          },
+          {
+            "lemma": "عَمَرُ",
+            "gloss": "maintain",
+            "type": "verb",
+            "root": "عمر",
+            "count": 4,
+            "ref": "9:18",
+            "pos": 2,
+            "form": 1
+          },
+          {
+            "lemma": "عَمْر",
+            "gloss": "life",
+            "type": "noun",
+            "root": "عمر",
+            "count": 1,
+            "ref": "15:72",
+            "pos": 1
+          }
+        ]
+      },
+      {
+        "w": "عمه",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عَمَّة",
+            "gloss": "paternal aunts",
+            "type": "noun",
+            "root": "عمم",
+            "count": 3,
+            "ref": "4:23",
+            "pos": 6,
+            "alt": [
+              "father's sisters"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "متع",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَتَّعْ",
+            "gloss": "provide for",
+            "type": "verb",
+            "root": "متع",
+            "count": 18,
+            "ref": "2:126",
+            "pos": 22,
+            "alt": [
+              "grant him enjoyment",
+              "make provision for"
+            ],
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "اسرع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَسْرَع",
+            "gloss": "swiftest",
+            "type": "noun",
+            "root": "سرع",
+            "count": 2,
+            "ref": "6:62",
+            "pos": 11,
+            "alt": [
+              "more swift"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اسمع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَسْمَعَ",
+            "gloss": "cause to hear",
+            "type": "verb",
+            "root": "سمع",
+            "count": 13,
+            "ref": "10:42",
+            "pos": 6,
+            "alt": [
+              "cause the deaf to hear",
+              "how they will hear"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "تسعه",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "تِسْعَة",
+            "gloss": "nine",
+            "type": "noun",
+            "root": "تسع",
+            "count": 2,
+            "ref": "27:48",
+            "pos": 4
+          }
+        ]
+      },
+      {
+        "w": "تمتع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "تَمَتَّعَ",
+            "gloss": "took advantage",
+            "type": "verb",
+            "root": "متع",
+            "count": 11,
+            "ref": "2:196",
+            "pos": 37,
+            "alt": [
+              "enjoy"
+            ],
+            "form": 5
+          }
+        ]
+      },
+      {
+        "w": "ساعه",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "ساعَة",
+            "gloss": "hour",
+            "type": "noun",
+            "root": "سوع",
+            "count": 48,
+            "ref": "7:34",
+            "pos": 9
+          }
+        ]
+      },
+      {
+        "w": "سراع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "سِراع",
+            "gloss": "hurrying",
+            "type": "verbal noun",
+            "root": "سرع",
+            "count": 2,
+            "ref": "50:44",
+            "pos": 5,
+            "alt": [
+              "rapidly"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "سماع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "سَمّاع",
+            "gloss": "listeners",
+            "type": "noun",
+            "root": "سمع",
+            "count": 4,
+            "ref": "5:41",
+            "pos": 20,
+            "alt": [
+              "would have listened"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "عسره",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "عُسْرَة",
+            "gloss": "difficulty",
+            "type": "noun",
+            "root": "عسر",
+            "count": 2,
+            "ref": "2:280",
+            "pos": 4
+          }
+        ]
+      },
+      {
+        "w": "عمره",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "عُمْرَة",
+            "gloss": "umrah",
+            "type": "noun",
+            "root": "عمر",
+            "count": 2,
+            "ref": "2:196",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "متاع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَتاع",
+            "gloss": "enjoyment",
+            "type": "noun",
+            "root": "متع",
+            "count": 35,
+            "ref": "2:236",
+            "pos": 21,
+            "alt": [
+              "provision",
+              "enjoy"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "معمر",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "مُعَمَّر",
+            "gloss": "aged person",
+            "type": "passive participle",
+            "root": "عمر",
+            "count": 1,
+            "ref": "35:11",
+            "pos": 22
+          }
+        ]
+      },
+      {
+        "w": "استمع",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "اسْتَمَعَ",
+            "gloss": "listen",
+            "type": "verb",
+            "root": "سمع",
+            "count": 16,
+            "ref": "6:25",
+            "pos": 3,
+            "alt": [
+              "listened",
+              "listens"
+            ],
+            "form": 8
+          }
+        ]
+      },
+      {
+        "w": "اعتمر",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "اعْتَمَرَ",
+            "gloss": "performs umrah",
+            "type": "verb",
+            "root": "عمر",
+            "count": 1,
+            "ref": "2:158",
+            "pos": 11,
+            "form": 8
+          }
+        ]
+      },
+      {
+        "w": "عماره",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "عِمارَة",
+            "gloss": "maintenance",
+            "type": "noun",
+            "root": "عمر",
+            "count": 1,
+            "ref": "9:19",
+            "pos": 4
+          }
+        ]
+      },
+      {
+        "w": "مستمع",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مُسْتَمِع",
+            "gloss": "listening",
+            "type": "active participle",
+            "root": "سمع",
+            "count": 2,
+            "ref": "26:15",
+            "pos": 7
+          }
+        ]
+      },
+      {
+        "w": "استعمر",
+        "family": true,
+        "points": 6,
+        "senses": [
+          {
+            "lemma": "اسْتَعْمَرَ",
+            "gloss": "settled",
+            "type": "verb",
+            "root": "عمر",
+            "count": 1,
+            "ref": "11:61",
+            "pos": 18,
+            "form": 10
+          }
+        ]
+      },
+      {
+        "w": "استمتع",
+        "family": false,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "اسْتَمْتَعَ",
+            "gloss": "profited",
+            "type": "verb",
+            "root": "متع",
+            "count": 6,
+            "ref": "6:128",
+            "pos": 15,
+            "alt": [
+              "enjoyed"
+            ],
+            "form": 10
+          }
+        ]
+      }
+    ],
+    "otherFamily": [
+      {
+        "lemma": "يُعَمَّرُ",
+        "gloss": "could be granted a life",
+        "type": "verb",
+        "root": "عمر",
+        "count": 5,
+        "ref": "2:96",
+        "pos": 12,
+        "alt": [
+          "should be granted life",
+          "is granted life"
+        ],
+        "form": 2
+      },
+      {
+        "lemma": "مَعْمُور",
+        "gloss": "frequented",
+        "type": "passive participle",
+        "root": "عمر",
+        "count": 1,
+        "ref": "52:4",
+        "pos": 2
+      }
+    ],
+    "maxScore": 64,
+    "featuredRoot": "عمر"
+  }
+}

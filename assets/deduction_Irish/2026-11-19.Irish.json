@@ -1,0 +1,61 @@
+{
+  "title": "An Creideamh Folaithe Laistigh de Bhallaí an Pháláis",
+  "intro": "I lár cúirte tíoránta atá lán de chomhcheilg agus de bhród, tá rún contúirteach i seilbh anam uaigneach. Timpeallaithe ag cumhacht agus bagairtí báis, féachann seirbhíseach Allah seo ar theachtaire ina sheasamh leis féin i gcoinne impireachta. Nuair a thagann tost chun bheith ina chomhpháirteachas, ní mór cinneadh dána a dhéanamh an fhírinne a labhairt agus riosca mór pearsanta i gceist.",
+  "clues": [
+    "Bhí cónaí orm i measc daoine cumhachtacha agus sotalach a dhiúltaigh comharthaí Allah.",
+    "Cheil mé mo chreideamh ar feadh tamaill agus iadsan timpeall orm ag pleanáil comhcheilge i gcoinne teachtaire.",
+    "Labhair mé amach go hoscailte, ag rá: An maraíonn tú duine aonair toisc go ndeir siad, Is é mo Thiarna Allah, agus cruthúnais shoiléire tagtha?",
+    "Thug mé rabhadh do mo mhuintir faoi chinniúint náisiún roimhe seo agus faoi Lá an Ghlaoigh Chomhpháirtigh.",
+    "Dúirt mé leo nach léiríonn an rialóir a raibh mé ag fónamh dó ach tuairim chúng, ach gurb é an saol eile an fíorbhaile.",
+    "Dúirt mé: A mhuintir mo chroí, leanaigí mé agus treoróidh mé sibh ar an gcosán ceart, agus shábháil Allah mé ó olc a gcomhcheilge."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Abu Lahab",
+        "Qarún",
+        "As-Samiri",
+        "Haman",
+        "An Creidmheach ó Theaghlach Pharao"
+      ],
+      "answer": "An Creidmheach ó Theaghlach Pharao"
+    },
+    "trial": {
+      "label": "Cad a rinne mé?",
+      "options": [
+        "Seoda bailithe a raibh a n-eochracha ag cur ualach ar fhir láidre",
+        "Thóg sé túr ard chun breathnú ar dhia Mhúsa",
+        "Ansin chosain creideamh ceilte Músa go hoscailte agus thug sé rabhadh do mo mhuintir",
+        "Rinne lao órga a rinne fuaim béicíl",
+        "Chuir bac ar chonair an Fháidh agus rinne magadh faoi nochtadh ar mhaithe le saibhreas"
+      ],
+      "answer": "Ansin chosain creideamh ceilte Músa go hoscailte agus thug sé rabhadh do mo mhuintir"
+    },
+    "location": {
+      "label": "Cá ndeachaigh mo scéal i gcrích?",
+      "options": [
+        "An Áirc ar uiscí na tuile",
+        "An Mosc Naofa i Mecca",
+        "Cúirt Phálás an Pharaoh san Éigipt",
+        "Uaimh na gCodladh",
+        "Gleann Coillteach Madyan"
+      ],
+      "answer": "Cúirt Phálás an Pharaoh san Éigipt"
+    },
+    "outcome": {
+      "label": "Cad a Bhí Mo Thoradh?",
+      "options": [
+        "Bádh mé leis an arm sa bhfarraige roinnte",
+        "Shlog an talamh mé le mo chuid seoda",
+        "Rug tintreach orm le Thamud",
+        "Rinneadh apa díom mar gheall gur bhris mé an tSabóid",
+        "Chosain Allah mé ó olc a bplota"
+      ],
+      "answer": "Chosain Allah mé ó olc a bplota"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

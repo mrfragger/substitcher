@@ -1,0 +1,61 @@
+{
+  "title": "Bølgen der delte blodet",
+  "intro": "Forestil dig en enorm oversvømmelse, der stiger over landet, en Ark, der flyder støt, og én sjæl, der er blevet efterladt udenfor af eget valg. Bundet af blod til en profet, men adskilt af tro, stod denne skikkelse over for et sidste kald til at komme ombord, mens vandet strømmede. Kan du afdække identiteten bag afvisningen?",
+  "clues": [
+    "Jeg er afkom af en af ​​Allahs største profeter, en troens husstand jeg valgte at forlade.",
+    "Jeg levede i den store syndflods tid, da vantro dækkede landet som vand.",
+    "Jeg nægtede at gå ombord på Arken med de troende, da min far kaldte på mig.",
+    "Jeg sagde, at jeg ville søge tilflugt på et bjerg for at beskytte mig mod vandet.",
+    "Jeg fik at vide, at intet kunne beskytte mod Allahs bestemmelse på den dag undtagen barmhjertighed.",
+    "Jeg blev overhalet af bølgerne og druknede, og min far fik at vide, at jeg ikke var af hans retfærdige familie."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Zayd ibn Harithah",
+        "Profeten Ishaq, søn af profeten Ibrahim",
+        "Profeten Nuhs vantro søn",
+        "Habil, søn af profeten Adam",
+        "Profeten Ismail, søn af profeten Ibrahim"
+      ],
+      "answer": "Profeten Nuhs vantro søn"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Solgt som slave i Egypten efter forræderi fra brødre",
+        "Nægter at gå ombord på Arken og søger et bjerg som tilflugt",
+        "At blive kastet i en flammende ild for at have knust afguder",
+        "At blive slugt af en stor fisk efter at have flygtet fra en mission",
+        "Sover i århundreder i en hule for at undgå forfølgelse"
+      ],
+      "answer": "Nægter at gå ombord på Arken og søger et bjerg som tilflugt"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Det spejlede glaspalads i Saba",
+        "Trækisten kastet i floden",
+        "Det tårnhøje bjerg søgte tilflugt fra Syndfloden",
+        "Den brændende busk i den hellige dal",
+        "Kaabaen bygget som et hus for tilbedelse"
+      ],
+      "answer": "Det tårnhøje bjerg søgte tilflugt fra Syndfloden"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Opslugt af jorden med skatte for arrogance",
+        "Tildelt et kongerige med magt over vinde og djinner",
+        "Gjort køligt og trygt, da ild blev til fred",
+        "Oprejst levende til himlen og frelst fra korsfæstelse",
+        "Druknede i syndfloden og erklæret ikke tilhørende den retfærdige familie"
+      ],
+      "answer": "Druknede i syndfloden og erklæret ikke tilhørende den retfærdige familie"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

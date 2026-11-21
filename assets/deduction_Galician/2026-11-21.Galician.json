@@ -1,0 +1,61 @@
+{
+  "title": "As voces xunto ás augas tranquilas",
+  "intro": "Imaxina unha comunidade que non leva o nome dunha cidade ou dun gobernante, senón da auga tranquila arredor da cal se congregaba a vida. Só uns poucos versos lembran esta comunidade, sempre listada entre aqueles que rexeitaban a guía. Escoita mentres falan desde a escuridade.",
+  "clues": [
+    "Somos unha comunidade que ten o seu nome no Corán, pero a nosa historia completa permanece envolta en misterio.",
+    "Sempre se nos menciona xunto aos que negaron, como a xente de Ad e Thamud.",
+    "Chámannos os Compañeiros de Ar-Rass, o Pozo ao que estaba ligada a nosa vida.",
+    "Negamos o mensaxeiro que nos foi enviado cunha guía clara.",
+    "Estamos entre os que rexeitaron a todos os mensaxeiros enviados por Alá.",
+    "Enfrontámonos á ameaza cumprida contra todos os negadores diante de nós, a destrución polo noso rexeitamento."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Os compañeiros de Ar-Rass",
+        "A xente de Madyan",
+        "Os habitantes de Al-Hijr",
+        "A xente de Lut",
+        "A xente de Tubba'"
+      ],
+      "answer": "Os compañeiros de Ar-Rass"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Construíu unha torre elevada para chegar aos ceos",
+        "Negouse ao mensaxeiro que nos enviou",
+        "Adorou o becerro de ouro en ausencia de Moisés",
+        "Conspirou para matar a Yusuf por envexa",
+        "Esixiu ver a Alá abertamente"
+      ],
+      "answer": "Negouse ao mensaxeiro que nos enviou"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Monte Judi do descanso",
+        "O Palacio de Cristal Espellado",
+        "O Val das Formigas",
+        "A Arca construída baixo a revelación",
+        "O Pozo (Ar-Rass)"
+      ],
+      "answer": "O Pozo (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Engulido pola terra polo orgullo do tesouro",
+        "Salvados pola Arca do diluvio",
+        "Feito para durmir durante séculos nunha cova",
+        "Concedido o control do vento e dos xenios",
+        "Destruído por negar os mensaxeiros"
+      ],
+      "answer": "Destruído por negar os mensaxeiros"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

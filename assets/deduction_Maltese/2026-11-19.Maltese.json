@@ -1,0 +1,61 @@
+{
+  "title": "Il-Fidi Moħbija Ġewwa l-Ħitan tal-Palazz",
+  "intro": "Fiċ-ċentru ta’ qorti tirannika mimlija b’konspirazzjonijiet u kburija, ruħ waħedha żżomm sigriet perikoluż. Imdawwar bil-poter u theddid ta’ mewt, dan il-qaddej ta’ Alla jara messaġġier jiffaċċja waħdu imperu. Meta s-silenzju jsir kompliċità, trid tittieħed deċiżjoni kuraġġuża biex tingħad il-verità b’riskju personali kbir.",
+  "clues": [
+    "Għext fost poplu setgħan u arroganti li ċaħad is-sinjali ta’ Alla.",
+    "Ħbejt il-fidi tiegħi għal xi żmien waqt li dawk ta’ madwari kkonfoffaw kontra messaġġier.",
+    "Jiena tkellimt fil-beraħ u għedt: “Toqtlu lil xi ħadd għax jgħid, ‘Sidi hu Alla’, meta ġew provi ċari?”",
+    "Jiena wissejt lill-poplu tiegħi dwar id-destin ta’ nazzjonijiet ta’ qabel u dwar Jum ta’ Sejħa Reċiproka.",
+    "Għedtilhom li l-ħakkiem li kont naqdi juri biss opinjoni dejqa, iżda l-Ħajja ta’ Wara hija d-dar vera.",
+    "Jiena għedt: O poplu tiegħi, imxu warajja u jien niggwidakom fit-triq it-tajba, u Alla salvani mill-ħażen tal-konfoffi tagħhom."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Abu Lahab",
+        "Qarun",
+        "As-Samiri",
+        "Ħaman",
+        "Il-Kredent mill-Familja tal-Fargħun"
+      ],
+      "answer": "Il-Kredent mill-Familja tal-Fargħun"
+    },
+    "trial": {
+      "label": "X'Għamilt?",
+      "options": [
+        "Teżori miġbura li ċ-ċwievet tagħhom kienu piż fuq irġiel b’saħħithom",
+        "Bena torri għoli biex iħares lejn l-alla ta’ Musa",
+        "Il-fidi moħbija mbagħad iddefendiet lil Mosè apertament u wissiet lin-nies tiegħi",
+        "Ħadem għoġol tad-deheb li għamel ħoss ta’ għajjat",
+        "Imblokka t-triq tal-Profeta u rridikola r-rivelazzjoni għall-ġid"
+      ],
+      "answer": "Il-fidi moħbija mbagħad iddefendiet lil Mosè apertament u wissiet lin-nies tiegħi"
+    },
+    "location": {
+      "label": "Fejn Żvolġiet l-Istorja Tiegħi?",
+      "options": [
+        "L-Arka fuq l-ilmijiet tad-dilluvju",
+        "Il-Moskea Sagra f'Mekka",
+        "Il-Qorti tal-Palazz tal-Fargħun fl-Eġittu",
+        "L-Għar tal-Irqad",
+        "Il-Wied Mimli Bosk ta' Madyan"
+      ],
+      "answer": "Il-Qorti tal-Palazz tal-Fargħun fl-Eġittu"
+    },
+    "outcome": {
+      "label": "X'kien ir-Riżultat Tiegħi?",
+      "options": [
+        "Għerqt mal-armata fil-baħar maqsum",
+        "L-art belgħetni bit-teżori tiegħi",
+        "Sajjetta qabditni bit-Thamud",
+        "Jien ġejt mibdul f'xadina talli ksirt is-Sabbath",
+        "Alla pproteġieni mill-ħażen tal-pjan tagħhom"
+      ],
+      "answer": "Alla pproteġieni mill-ħażen tal-pjan tagħhom"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Durgun Suların Yanındaki Sesler",
+  "intro": "Bir şehrin veya bir hükümdarın adıyla değil, yaşamın etrafında toplandığı durgun suyun adıyla anılan bir topluluğu hayal edin. Bu topluluğu yalnızca birkaç ayet hatırlıyor; her zaman rehberliği reddedenler arasında anılıyorlar. Karanlıktan seslerini dinleyin.",
+  "clues": [
+    "Bizler Kur'an'da adı geçen bir topluluğuz, ancak hikâyemizin tamamı gizem perdesi ardında kalmıştır.",
+    "Bizler her zaman Ad ve Semud kavimleri gibi inkar edenlerle birlikte anılırız.",
+    "Bizlere, hayatımızın bağlı olduğu kuyu olan Ar-Rass'ın Yoldaşları denir.",
+    "Bize açık yol göstermek üzere gönderilen elçiyi reddettik.",
+    "Bizler, Allah'ın gönderdiği bütün elçileri reddedenler arasındayız.",
+    "Bizden önce gelen her inkârcıya karşı gerçekleştirilen tehditle, yani reddimizin yol açtığı yıkımla karşı karşıya kaldık."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Ar-Rass'ın Yoldaşları",
+        "Madyan Halkı",
+        "El-Hicr Sakinleri",
+        "Lut Halkı",
+        "Tubba Halkı"
+      ],
+      "answer": "Ar-Rass'ın Yoldaşları"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Gökyüzüne ulaşmak için yüksek bir kule inşa etti.",
+        "Bize gönderilen elçiyi reddettiler.",
+        "Musa'nın yokluğunda altın buzağıya tapındılar.",
+        "Yusuf'u kıskançlıktan öldürmeyi planladı.",
+        "Allah'ı açıkça görmek istedi."
+      ],
+      "answer": "Bize gönderilen elçiyi reddettiler."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Judi Dağı'ndaki dinlenme yeri",
+        "Camdan Aynalı Saray",
+        "Karıncalar Vadisi",
+        "Nuh'un Gemisi vahiy üzerine inşa edildi.",
+        "Kuyu (Ar-Rass)"
+      ],
+      "answer": "Kuyu (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Hazineye duyulan gurur yüzünden toprak tarafından yutuldu.",
+        "Nuh'un Gemisi tarafından tufandan kurtarıldılar",
+        "Yüzyıllarca bir mağarada uyumaya mahkum edildiler.",
+        "Rüzgar ve cinlerin kontrolü kendisine verildi.",
+        "Habercileri reddettikleri için yok edildiler."
+      ],
+      "answer": "Habercileri reddettikleri için yok edildiler."
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

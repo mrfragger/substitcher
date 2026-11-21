@@ -1,0 +1,61 @@
+{
+  "title": "Ukundiza Olwandle Olungenazinkathazo",
+  "intro": "Cabanga umi emphemeni womkhumbi ogcwele ngokweqile njengoba amagagasi ekhuphuka futhi abasebenzi bephonsa inkatho ukuze banciphise umthwalo. Umuntu oyedwa uya phambili, emukela isiphetho esibonakala sengathi ukuphela, kodwa ukujula kube yindawo yokuthandaza nokubuya. Ngemuva kwaleli zwe umphakathi uxwayisiwe ngesijeziso esizayo, phambili kulele isihe esingalindelekile.",
+  "clues": [
+    "Ngathunyelwa njengesithunywa kubantu abangaphezu kwezinkulungwane eziyikhulu.",
+    "Ngishiye abantu bakithi ngithukuthele ngaphambi kokuthola imvume yokuhamba.",
+    "Ngagibela umkhumbi ogcwele imithwalo futhi abasebenzi benza inkatho ukuze banqume ukuthi obani abazophonswa olwandle.",
+    "Ngaphonswa olwandle futhi ngagwinywa yinhlanzi enkulu kuyilapho nganginecala.",
+    "Ngidumise u-Allah ebumnyameni, ngithi akekho unkulunkulu ngaphandle kwakhe nokuthi bengingomunye wabenzi bobubi.",
+    "Ngaphonswa ogwini oluvulekile, ngigula, futhi u-Allah wabangela ukuba isitshalo sethanga sikhule phezu kwami, abantu bami bakholwa futhi banikwa injabulo okwesikhashana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi uMusa",
+        "Umprofethi uHud",
+        "Umprofethi uNuh",
+        "Umprofethi uLut",
+        "Umprofethi uYunus"
+      ],
+      "answer": "Umprofethi uYunus"
+    },
+    "trial": {
+      "label": "Ngibhekene Naluphi Uvivinyo?",
+      "options": [
+        "Kuphonswe emlilweni okwenziwe kwaba pholile futhi kuphephile",
+        "Wagwinywa yinhlanzi enkulu ngemva kokubaleka",
+        "Abafowethu abanomona baphonsa emthonjeni ojulile",
+        "Uhlaselwe ukugula isikhathi eside kanye nokulahlekelwa yimpilo",
+        "Uyalwa ukuba anikele ngengane ayithandayo"
+      ],
+      "answer": "Wagwinywa yinhlanzi enkulu ngemva kokubaleka"
+    },
+    "location": {
+      "label": "Iyini Ingxenye Yami Eyinhloko?",
+      "options": [
+        "Umphongolo wokhuni emanzini kazamcolo",
+        "Umhume wokuphephela ekushushisweni",
+        "Isigodi esingcwele saseTuwa",
+        "Inhlanzi enkulu nesisu sayo",
+        "Umlilo opholile olungiselelwe abakhonza izithombe"
+      ],
+      "answer": "Inhlanzi enkulu nesisu sayo"
+    },
+    "outcome": {
+      "label": "Ube Yini Umphumela Wami?",
+      "options": [
+        "Ngasindiswa ngokukhazinyuliswa futhi abantu bami bakholwa futhi basindiswa isikhashana",
+        "Abantu bami baphenduke izinkawu ngenxa yokwephula iSabatha",
+        "Abantu bami bagwinywa umhlaba ngenxa yokuzidla",
+        "Abantu bami babanjwe ukuqhuma okukhulu okuvela esibhakabhakeni",
+        "Abantu bami baminza ngenxa kazamcolo omkhulu"
+      ],
+      "answer": "Ngasindiswa ngokukhazinyuliswa futhi abantu bami bakholwa futhi basindiswa isikhashana"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

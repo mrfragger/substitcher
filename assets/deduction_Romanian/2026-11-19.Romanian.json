@@ -1,0 +1,61 @@
+{
+  "title": "Credința ascunsă între zidurile palatului",
+  "intro": "În centrul unei curți tiranice pline de comploturi și mândrie, un suflet singuratic deține un secret periculos. Înconjurat de putere și amenințări cu moartea, acest slujitor al lui Allah privește un mesager înfruntând singur un imperiu. Când tăcerea devine complicitate, trebuie luată o decizie îndrăzneață de a spune adevărul cu un risc personal uriaș.",
+  "clues": [
+    "Am trăit printre un popor puternic și arogant care a respins semnele lui Allah.",
+    "Mi-am ascuns credința o vreme, în timp ce cei din jurul meu complotau împotriva unui mesager.",
+    "Am vorbit deschis, spunând: „Oare ucideți pe cineva pentru că spune: «Domnul meu este Allah», când au venit dovezi clare?",
+    "Mi-am avertizat poporul despre soarta națiunilor anterioare și despre o Zi a Chemării Reciproce.",
+    "Le-am spus că conducătorul căruia i-am slujit are doar o opinie îngustă, totuși, Viața de Apoi este adevărata casă.",
+    "Am spus: „O, poporul meu, urmați-mă și vă voi călăuzi pe calea cea dreaptă.” Și Allah m-a izbăvit de răul uneltirilor lor."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Abu Lahab",
+        "Qarun",
+        "As-Samiri",
+        "Haman",
+        "Credinciosul din familia faraonului"
+      ],
+      "answer": "Credinciosul din familia faraonului"
+    },
+    "trial": {
+      "label": "Ce am făcut?",
+      "options": [
+        "Comori adunate ale căror chei împovărau bărbați puternici",
+        "A construit un turn înalt pentru a-l privi pe zeul lui Musa",
+        "Credința ascunsă l-a apărat apoi deschis pe Musa și mi-a avertizat poporul",
+        "A făurit un vițel de aur care scotea un mugit",
+        "A blocat calea Profetului și a batjocorit revelația pentru bogăție"
+      ],
+      "answer": "Credința ascunsă l-a apărat apoi deschis pe Musa și mi-a avertizat poporul"
+    },
+    "location": {
+      "label": "Unde s-a desfășurat povestea mea?",
+      "options": [
+        "Arca peste apele potopului",
+        "Moscheea Sacră din Mecca",
+        "Curtea Palatului Faraonului din Egipt",
+        "Peștera Dormitorilor",
+        "Valea împădurită a lui Madyan"
+      ],
+      "answer": "Curtea Palatului Faraonului din Egipt"
+    },
+    "outcome": {
+      "label": "Care a fost rezultatul meu?",
+      "options": [
+        "M-am înecat cu armata în marea despărțită",
+        "Pământul m-a înghițit cu comorile mele",
+        "Un trăsnet m-a cuprins cu Thamud",
+        "Am fost transformat într-o maimuță pentru că am încălcat Sabatul",
+        "Allah m-a protejat de răul complotului lor"
+      ],
+      "answer": "Allah m-a protejat de răul complotului lor"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

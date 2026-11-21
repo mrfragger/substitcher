@@ -1,0 +1,61 @@
+{
+  "title": "Saroy devorlari ichidagi yashirin ishonch",
+  "intro": "Zolim saroyning markazida, fitna va mag'rurlik bilan to'la, yolg'iz qalb xavfli sirni saqlaydi. Hokimiyat va o'lim tahdidlari bilan o'ralgan bu Allohning xizmatkori imperiyaga qarshi yolg'iz turgan elchini kuzatadi. Sukut sheriklikka aylanganda, shaxsiy xavf ostida haqiqatni gapirish uchun dadil qaror qabul qilish kerak.",
+  "clues": [
+    "Men Allohning oyatlarini inkor etuvchi kuchli va takabbur qavm orasida yashadim.",
+    "Atrofimdagilar elchiga qarshi fitna uyushtirayotgan bir paytda, men bir muddat imonimni yashirdim.",
+    "Men ochiqchasiga gapirdim va dedim: Sizlar bir odamni, \"Mening Robbim Allohdir\", deganlari uchun o'ldirasizlarmi, holbuki aniq hujjatlar kelgan.",
+    "Men xalqimni avvalgi xalqlarning taqdiri va O'zaro chaqiruv kuni haqida ogohlantirdim.",
+    "Men ularga xizmat qilgan hukmdorim faqat tor fikrda ekanligini, ammo oxirat haqiqiy uy ekanligini aytdim.",
+    "Men: «Ey qavmim, menga ergashinglar, men sizlarni to'g'ri yo'lga hidoyat qilaman», dedim. Alloh meni ularning makrlarining yomonligidan qutqardi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Abu Lahab",
+        "Qorun",
+        "As-Samiriy",
+        "Xomon",
+        "Fir'avn oilasidan bo'lgan mo'min"
+      ],
+      "answer": "Fir'avn oilasidan bo'lgan mo'min"
+    },
+    "trial": {
+      "label": "Men nima qildim?",
+      "options": [
+        "Kalitlari kuchli odamlarga og'irlik qiladigan xazinalar to'pladi",
+        "Muso xudosiga qarash uchun baland minora qurdi",
+        "Yashirin imon keyin Musoni ochiqchasiga himoya qildi va qavmimga ogohlantirdi",
+        "Bo'kirish ovozi chiqaradigan oltin buzoqni yasadi",
+        "Payg'ambarning yo'lini to'sib qo'ydi va boylik evaziga vahiyni masxara qildi"
+      ],
+      "answer": "Yashirin imon keyin Musoni ochiqchasiga himoya qildi va qavmimga ogohlantirdi"
+    },
+    "location": {
+      "label": "Mening hikoyam qayerda rivojlandi?",
+      "options": [
+        "To'fon suvlari ustidagi kema",
+        "Makkadagi muqaddas masjid",
+        "Misrdagi Fir'avn saroyi sudi",
+        "Uxlab yotganlar g'ori",
+        "Madyanning o'rmonli vodiysi"
+      ],
+      "answer": "Misrdagi Fir'avn saroyi sudi"
+    },
+    "outcome": {
+      "label": "Mening natijam qanday bo'ldi?",
+      "options": [
+        "Men qo'shin bilan ikkiga bo'lingan dengizda cho'kib ketdim",
+        "Yer meni xazinalarim bilan yutib yubordi",
+        "Meni Samud bilan chaqmoq tutdi",
+        "Shabbatni buzganim uchun maymunga aylantirildim",
+        "Alloh meni ularning hiylalarining yomonligidan saqladi"
+      ],
+      "answer": "Alloh meni ularning hiylalarining yomonligidan saqladi"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

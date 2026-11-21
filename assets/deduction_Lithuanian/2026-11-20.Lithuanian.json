@@ -1,0 +1,61 @@
+{
+  "title": "Skrydis per neramią jūrą",
+  "intro": "Įsivaizduokite stovintį perkrauto laivo denyje, bangoms kylant, o įgulai metant burtus, kad palengvintų krovinį. Vieniša figūra žengia į priekį, priimdama likimą, kuris atrodo kaip pabaiga, tik tam, kad gelmės taptų maldos ir sugrįžimo vieta. Už nugaros slypi bendruomenė, įspėta apie artėjančią bausmę, o priekyje – netikėta gailestingumas.",
+  "clues": [
+    "Buvau pasiųstas kaip pasiuntinys daugiau nei šimtui tūkstančių žmonių.",
+    "Pykdamas palikau savo žmones prieš gaudamas leidimą išvykti.",
+    "Įlipau į pakrautą laivą, ir įgula metė burtus, kad nuspręstų, kas bus išmestas už borto.",
+    "Mane įmetė į jūrą ir prarijo didelė žuvis, kai buvau vertas kaltės.",
+    "Aš šlovinau Alachą tamsoje, skelbdamas, kad nėra kito dievo, tik Jis, ir kad aš buvau vienas iš piktadarių.",
+    "Buvau išmestas į atvirą krantą ligotas, ir Alachas užaugino ant manęs moliūgo augalą, tada mano žmonės patikėjo ir kurį laiką galėjo džiaugtis."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Musa",
+        "Pranašas Hudas",
+        "Pranašas Nuh",
+        "Pranašas Lutas",
+        "Pranašas Junusas"
+      ],
+      "answer": "Pranašas Junusas"
+    },
+    "trial": {
+      "label": "Su kokiu išbandymu susidūriau?",
+      "options": [
+        "Įmestas į ugnį, vėsus ir saugus",
+        "Prarytas didžiosios žuvies po pabėgimo",
+        "Pavydžių brolių įmestas į gilų šulinį",
+        "Ištiko ilga liga ir sveikatos praradimas",
+        "Įsakyta paaukoti mylimą vaiką"
+      ],
+      "answer": "Prarytas didžiosios žuvies po pabėgimo"
+    },
+    "location": {
+      "label": "Koks yra mano pagrindinis elementas?",
+      "options": [
+        "Medinė arka ant potvynio vandenų",
+        "Prieglobsčio nuo persekiojimo ola",
+        "Šventasis Tuwa slėnis",
+        "Didžioji žuvis ir jos pilvas",
+        "Vėsus ugnis, kurią paruošė stabmeldžiai"
+      ],
+      "answer": "Didžioji žuvis ir jos pilvas"
+    },
+    "outcome": {
+      "label": "Koks buvo mano rezultatas?",
+      "options": [
+        "Išgelbėti šlovės ir mano žmonės įtikėjo ir kurį laiką buvo išgelbėti",
+        "Mano žmonės buvo paversti beždžionėmis už tai, kad laužė sabatą",
+        "Mano tautą prarijo žemė dėl jos arogancijos",
+        "Mano žmones pagrobė galingas smūgis iš dangaus",
+        "Mano žmones nuskendo didysis potvynis"
+      ],
+      "answer": "Išgelbėti šlovės ir mano žmonės įtikėjo ir kurį laiką buvo išgelbėti"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

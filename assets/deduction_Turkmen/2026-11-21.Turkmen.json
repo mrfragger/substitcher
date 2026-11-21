@@ -1,0 +1,61 @@
+{
+  "title": "Dynç suwlaryň ýanyndaky sesler",
+  "intro": "Şäheriň ýa-da hökümdaryň ady bilen däl-de, töwereginde jandarlaryň ýygnanýan asuda suwunyň ady bilen atlandyrylan jemgyýeti göz öňüne getiriň. Diňe birnäçe aýatda bu jemgyýeti ýatlap geçýärler, olar hemişe ýol görkezmegi ret edenleriň arasynda görkezilýär. Olaryň garaňkylykda gürleýşine gulak asyň.",
+  "clues": [
+    "Biz Kuranda ady agzalýan bir jemgyýet, ýöne biziň ähli taryhymyz syrly bolmagynda galýar.",
+    "Biz hemişe Ad we Semudyň halky ýaly inkär edenleriň ýanynda agzalýarys.",
+    "Bize Ar-Rassyň sahabalary, ömrümiziň baglanan guýusy diýilýär.",
+    "Bize aýdyň ýol görkeziji hökmünde iberilen pygamberi inkär etdik.",
+    "Biz Allahyň iberen ähli pygamberlerini ret edenleriň arasynda hasaplanýarys.",
+    "Biz öňümizdäki her bir inkär edijiniň üstüne ýetirilen howp bilen ýüzbe-ýüz bolduk, ret edilendigimiz üçin ýok bolduk."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Ar-Rassyň sahabalary",
+        "Medýan halky",
+        "Al-Hijr ýaşaýjylary",
+        "Lut pygamberiň halky",
+        "Tubba halky"
+      ],
+      "answer": "Ar-Rassyň sahabalary"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Göklere ýetmek üçin beýik bir diň gurdy",
+        "Bize iberilen habary inkär etdi",
+        "Musanyň ýoklugynda altyn göle sežde etdi",
+        "Göriplik sebäpli Ýusuby öldürmek üçin dildüwşük gurnaldy",
+        "Allany açyk görmegi talap etdi"
+      ],
+      "answer": "Bize iberilen habary inkär etdi"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Judi dagynyň dynç alyşy",
+        "Aýnadan ýasalan Aýnaly Köşk",
+        "Garynjalaryň jülgesi",
+        "Wahy esasynda gurlan gämi",
+        "Guýu (Ar-Rass)"
+      ],
+      "answer": "Guýu (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Hazyna bilen buýsanmak üçin ýer tarapyndan ýuwudyldy",
+        "Sandyk tarapyndan silden halas edildi",
+        "Asyrlarboýy gowakda uklamak üçin döredilen",
+        "Ýel we jynlara gözegçilik etmek hukugy berildi",
+        "Habarçylary inkär edendigi üçin heläk edildi"
+      ],
+      "answer": "Habarçylary inkär edendigi üçin heläk edildi"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A fe oculta dentro dos muros do palacio",
+  "intro": "No centro dunha corte tiránica chea de conspiracións e orgullo, unha alma solitaria garda un segredo perigoso. Rodeado de poder e ameazas de morte, este servo de Alá observa como un mensaxeiro se enfronta só a un imperio. Cando o silencio se converte en complicidade, débese tomar a audaz decisión de dicir a verdade cun gran risco persoal.",
+  "clues": [
+    "Vivín entre un pobo poderoso e arrogante que rexeitaba os sinais de Alá.",
+    "Ocultei a miña fe por un tempo mentres os que me rodeaban conspiraban contra un mensaxeiro.",
+    "Falei abertamente, dicindo: Matades a alguén porque di: O meu Señor é Alá, cando xa viñeron probas claras?",
+    "Advertin ao meu pobo sobre o destino das nacións anteriores e sobre un Día de Chamada Mutua.",
+    "Díxenlles que o gobernante ao que servía só amosa unha opinión estreita, pero que o Alén é o verdadeiro fogar.",
+    "Eu dixen: Pobo meu, seguideme e eu vos guiarei polo camiño correcto, e Alá salvoume da maldade das súas conspiracións."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Abu Lahab",
+        "Qarun",
+        "As-Samiri",
+        "Amán",
+        "O crente da familia do faraón"
+      ],
+      "answer": "O crente da familia do faraón"
+    },
+    "trial": {
+      "label": "Que fixen eu?",
+      "options": [
+        "Tesouros acumulados cuxas chaves agobiaban a homes fortes",
+        "Construíu unha torre elevada para contemplar o deus de Musa",
+        "A fe oculta defendeu abertamente a Musa e advertiu ao meu pobo",
+        "Fixo un becerro de ouro que muxía",
+        "Bloqueou o camiño do Profeta e burlouse da revelación pola riqueza"
+      ],
+      "answer": "A fe oculta defendeu abertamente a Musa e advertiu ao meu pobo"
+    },
+    "location": {
+      "label": "Onde se desenvolveu a miña historia?",
+      "options": [
+        "A Arca sobre as augas do diluvio",
+        "A Mesquita Sagrada da Meca",
+        "Corte do Palacio do Faraón en Exipto",
+        "A Cova dos Durmientes",
+        "O val boscoso de Madyan"
+      ],
+      "answer": "Corte do Palacio do Faraón en Exipto"
+    },
+    "outcome": {
+      "label": "Cal foi o meu resultado?",
+      "options": [
+        "Afogueime co exército no mar dividido",
+        "A terra tragoume cos meus tesouros",
+        "Un raio agarroume con Thamud",
+        "Convertíronme nun mono por romper o sábado",
+        "Alá protexeume da maldade da súa trama"
+      ],
+      "answer": "Alá protexeume da maldade da súa trama"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

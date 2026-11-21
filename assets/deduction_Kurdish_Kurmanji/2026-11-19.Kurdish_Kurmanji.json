@@ -1,0 +1,61 @@
+{
+  "title": "Baweriya Veşartî di Nav Dîwarên Qesrê de",
+  "intro": "Di navenda dadgeheke zalim de ku tijî komplo û serbilindî ye, giyanekî tenê razekî xeternak dihewîne. Bi hêz û gefên mirinê dorpêçkirî, ev xizmetkarê Xwedê temaşe dike ku peyamberek bi tena serê xwe li dijî împaratoriyekê radiweste. Dema ku bêdengî dibe hevkarî, divê biryarek wêrek were dayîn ku bi xetereyek mezin a kesane rastiyê bê gotin.",
+  "clues": [
+    "Ez di nav miletekî bi hêz û xudperest de dijîm ku ayetên Xwedê red dikirin.",
+    "Min demekê baweriya xwe veşart dema ku yên li dora min li dijî peyamberekî komployan dikirin.",
+    "Min bi eşkereyî got: Ma hûn kesekî dikujin ji ber ku ew dibêje Xwedayê min Xwedê ye, di demekê de ku delîlên eşkere hatine?",
+    "Min gelê xwe li ser çarenûsa neteweyên berê û li ser Roja Bangewaziya Hevbeş hişyar kir.",
+    "Min ji wan re got ku hukumdarê ku min xizmeta wî kir tenê ramanên teng nîşan dide, lê axret mala rastîn e.",
+    "Min got: Ey gelê min, werin pey min û ez ê we bigihînim rêya rast, û Xwedê min ji xerabiya hîleyên wan rizgar kir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Ebû Leheb",
+        "Qarûn",
+        "Es-Samîrî",
+        "Haman",
+        "Bawermendê ji malbata Fîrewn"
+      ],
+      "answer": "Bawermendê ji malbata Fîrewn"
+    },
+    "trial": {
+      "label": "Min çi kir?",
+      "options": [
+        "Xezîneyên ku mifteyên wan barê zilamên bihêz dikişandin berhev kirin",
+        "Ji bo dîtina xwedayê Mûsa bircêkî bilind ava kir",
+        "Baweriya veşartî paşê bi eşkereyî parastina Mûsa kir û gelê min hişyar kir",
+        "Golikekî zêrîn çêkir ku dengekî nizim derxist",
+        "Rêya Pêxember girt û ji bo dewlemendiyê tinazên xwe bi wehyê kir"
+      ],
+      "answer": "Baweriya veşartî paşê bi eşkereyî parastina Mûsa kir û gelê min hişyar kir"
+    },
+    "location": {
+      "label": "Çîroka Min Li Ku Derket?",
+      "options": [
+        "Keştiya li ser avên tofanê",
+        "Mizgefta Pîroz li Mekkeyê",
+        "Dadgeha Qesra Fîrewn li Misrê",
+        "Şikefta Xewnbiran",
+        "Geliyê Daristanî yê Madyenê"
+      ],
+      "answer": "Dadgeha Qesra Fîrewn li Misrê"
+    },
+    "outcome": {
+      "label": "Encama Min Çi Bû?",
+      "options": [
+        "Ez bi artêşê re di deryaya parvekirî de xeniqîm",
+        "Erd bi xezîneyên min min daqurtand",
+        "Birûskek li min û Semûd girt",
+        "Ji ber şikandina roja Şemiyê ez veguherîm meymûnekî",
+        "Xwedê min ji şerrê fenên wan parast"
+      ],
+      "answer": "Xwedê min ji şerrê fenên wan parast"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

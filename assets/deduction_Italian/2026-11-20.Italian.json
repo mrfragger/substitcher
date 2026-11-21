@@ -1,0 +1,61 @@
+{
+  "title": "Il volo attraverso il mare inquieto",
+  "intro": "Immaginate di trovarvi sul ponte di una nave sovraccarica, mentre le onde si infrangono e l'equipaggio tira a sorte per alleggerire il carico. Una figura solitaria si fa avanti, accettando un destino che sembra la fine, solo per scoprire che le profondità diventano un luogo di preghiera e di ritorno. Alle spalle si cela una comunità avvertita di una punizione imminente, davanti a sé si apre una misericordia inaspettata.",
+  "clues": [
+    "Sono stato inviato come messaggero a più di centomila persone.",
+    "Ho abbandonato il mio popolo in preda alla rabbia, prima ancora di ricevere il permesso di andarmene.",
+    "Salii a bordo di una nave carica e l'equipaggio tirò a sorte per decidere chi sarebbe stato gettato in mare.",
+    "Mentre ero colpevole, fui gettato in mare e inghiottito da un grande pesce.",
+    "Ho glorificato Allah nelle tenebre, dichiarando che non c'è altro dio all'infuori di Lui e che io ero stato tra gli ingiusti.",
+    "Fui gettato sulla riva in mezzo al mare, malato, e Allah fece crescere una pianta di zucca sopra di me; allora il mio popolo credette e fu benedetto per un certo periodo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Mosè",
+        "Profeta Hud",
+        "Profeta Nuh",
+        "Profeta Lutero",
+        "Il profeta Yunus"
+      ],
+      "answer": "Il profeta Yunus"
+    },
+    "trial": {
+      "label": "Quale prova ho dovuto affrontare?",
+      "options": [
+        "Gettato in un fuoco reso freddo e sicuro",
+        "Inghiottito dal grande pesce dopo essere fuggito",
+        "Gettati in un pozzo profondo da fratelli gelosi",
+        "Colpito da una lunga malattia e da un declino della salute",
+        "Gli fu ordinato di sacrificare un figlio amato"
+      ],
+      "answer": "Inghiottito dal grande pesce dopo essere fuggito"
+    },
+    "location": {
+      "label": "Qual è il mio elemento chiave?",
+      "options": [
+        "L'arca di legno sulle acque del diluvio",
+        "La grotta rifugio dalle persecuzioni",
+        "La valle sacra di Tuwa",
+        "Il grande pesce e la sua pancia",
+        "Il fuoco freddo preparato dagli idolatri"
+      ],
+      "answer": "Il grande pesce e la sua pancia"
+    },
+    "outcome": {
+      "label": "Qual è stato il mio risultato?",
+      "options": [
+        "Salvati dalla glorificazione e il mio popolo credette e fu risparmiato per un certo tempo",
+        "Il mio popolo fu trasformato in scimmie per aver violato il sabato.",
+        "Il mio popolo è stato inghiottito dalla terra per la sua arroganza.",
+        "Il mio popolo fu colto da una potente raffica dal cielo",
+        "Il mio popolo fu sommerso dal grande diluvio"
+      ],
+      "answer": "Salvati dalla glorificazione e il mio popolo credette e fu risparmiato per un certo tempo"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

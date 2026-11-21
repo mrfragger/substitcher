@@ -1,0 +1,751 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "مَظَاهِرُ العَالَمِ الطَّبِيعِيِّ",
+        "nameEn": "Features of the natural world",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "السَّمَاوَاتِ",
+            "en": "the heavens",
+            "ref": "17:99",
+            "verse": "۞ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ قَادِرٌ عَلَىٰٓ أَن يَخْلُقَ مِثْلَهُمْ وَجَعَلَ لَهُمْ أَجَلًۭا لَّا رَيْبَ فِيهِ فَأَبَى ٱلظَّـٰلِمُونَ إِلَّا كُفُورًۭا",
+            "verseEn": "Do they not see that Allāh, who created the heavens and earth, is [the one] Able to create the likes of them? And He has appointed for them a term, about which there is no doubt. But the wrongdoers refuse except disbelief."
+          },
+          {
+            "ar": "الْأَرْضِ",
+            "en": "the earth ",
+            "ref": "26:7",
+            "verse": "أَوَلَمْ يَرَوْا۟ إِلَى ٱلْأَرْضِ كَمْ أَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍۢ كَرِيمٍ",
+            "verseEn": "Did they not look at the earth - how much We have produced therein from every noble kind?"
+          },
+          {
+            "ar": "الْجِبَالُ",
+            "en": "the mountain",
+            "ref": "19:90",
+            "verse": "تَكَادُ ٱلسَّمَـٰوَٰتُ يَتَفَطَّرْنَ مِنْهُ وَتَنشَقُّ ٱلْأَرْضُ وَتَخِرُّ ٱلْجِبَالُ هَدًّا",
+            "verseEn": "The heavens almost rupture therefrom and the earth splits open and the mountains collapse in devastation"
+          },
+          {
+            "ar": "الْيَمِّ",
+            "en": "the sea",
+            "ref": "28:40",
+            "verse": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ ۖ فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلظَّـٰلِمِينَ",
+            "verseEn": "So We took him and his soldiers and threw them into the sea. So see how was the end of the wrongdoers."
+          }
+        ]
+      },
+      {
+        "name": "أَلْفَاظُ الآخِرَةِ وَالْحِسَابِ",
+        "nameEn": "Words for the Hereafter and Final Reckoning",
+        "color": "green",
+        "items": [
+          {
+            "ar": "الْقِيَامَةِ",
+            "en": "(of) the Resurrection",
+            "ref": "19:95",
+            "verse": "وَكُلُّهُمْ ءَاتِيهِ يَوْمَ ٱلْقِيَـٰمَةِ فَرْدًا",
+            "verseEn": "And all of them are coming to Him on the Day of Resurrection alone."
+          },
+          {
+            "ar": "حِسَابٍ",
+            "en": "account",
+            "ref": "38:39",
+            "verse": "هَـٰذَا عَطَآؤُنَا فَٱمْنُنْ أَوْ أَمْسِكْ بِغَيْرِ حِسَابٍۢ",
+            "verseEn": "[We said], \"This is Our gift, so grant or withhold without account.\""
+          },
+          {
+            "ar": "الدِّينَ",
+            "en": "(in) the religion",
+            "ref": "39:11",
+            "verse": "قُلْ إِنِّىٓ أُمِرْتُ أَنْ أَعْبُدَ ٱللَّهَ مُخْلِصًۭا لَّهُ ٱلدِّينَ",
+            "verseEn": "Say, [O Muḥammad], \"Indeed, I have been commanded to worship Allāh, [being] sincere to Him in religion."
+          },
+          {
+            "ar": "الْآخِرَةِ",
+            "en": "(of) the Hereafter ",
+            "ref": "42:20",
+            "verse": "مَن كَانَ يُرِيدُ حَرْثَ ٱلْـَٔاخِرَةِ نَزِدْ لَهُۥ فِى حَرْثِهِۦ ۖ وَمَن كَانَ يُرِيدُ حَرْثَ ٱلدُّنْيَا نُؤْتِهِۦ مِنْهَا وَمَا لَهُۥ فِى ٱلْـَٔاخِرَةِ مِن نَّصِيبٍ",
+            "verseEn": "Whoever desires the harvest of the Hereafter - We increase for him in his harvest [i.e., reward]. And whoever desires the harvest [i.e., benefits] of this world - We give him thereof, but there is not for him in the Hereafter any share."
+          }
+        ]
+      },
+      {
+        "name": "أَفْعَالُ السُّخْرِيَةِ وَالِاسْتِهْزَاءِ",
+        "nameEn": "Verbs of mockery, laughter and insult toward revelation",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "وَيَسْخَرُونَ",
+            "en": "while they mock",
+            "ref": "37:12",
+            "verse": "بَلْ عَجِبْتَ وَيَسْخَرُونَ",
+            "verseEn": "But you wonder, while they mock,"
+          },
+          {
+            "ar": "يَسْتَهْزِئُونَ",
+            "en": "mock",
+            "ref": "39:48",
+            "verse": "وَبَدَا لَهُمْ سَيِّـَٔاتُ مَا كَسَبُوا۟ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+            "verseEn": "And there will appear to them the evils they had earned, and they will be enveloped by what they used to ridicule."
+          },
+          {
+            "ar": "يَضْحَكُونَ",
+            "en": "laughed",
+            "ref": "43:47",
+            "verse": "فَلَمَّا جَآءَهُم بِـَٔايَـٰتِنَآ إِذَا هُم مِّنْهَا يَضْحَكُونَ",
+            "verseEn": "But when he brought them Our signs, at once they laughed at them."
+          },
+          {
+            "ar": "فَيَسُبُّوا",
+            "en": "lest they insult",
+            "ref": "6:108",
+            "verse": "وَلَا تَسُبُّوا۟ ٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ فَيَسُبُّوا۟ ٱللَّهَ عَدْوًۢا بِغَيْرِ عِلْمٍۢ ۗ كَذَٰلِكَ زَيَّنَّا لِكُلِّ أُمَّةٍ عَمَلَهُمْ ثُمَّ إِلَىٰ رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم بِمَا كَانُوا۟ يَعْمَلُونَ",
+            "verseEn": "And do not insult those they invoke other than Allāh, lest they insult Allāh in enmity without knowledge. Thus We have made pleasing to every community their deeds. Then to their Lord is their return, and He will inform them about what they used to do."
+          }
+        ]
+      },
+      {
+        "name": "أَلْقَابُ السُّلْطَةِ وَالنُّخْبَةِ",
+        "nameEn": "Titles for earthly rulers and elites",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "سَادَتَنَا",
+            "en": "our chiefs",
+            "ref": "33:67",
+            "verse": "وَقَالُوا۟ رَبَّنَآ إِنَّآ أَطَعْنَا سَادَتَنَا وَكُبَرَآءَنَا فَأَضَلُّونَا ٱلسَّبِيلَا۠",
+            "verseEn": "And they will say, \"Our Lord, indeed we obeyed our masters and our dignitaries, and they led us astray from the [right] way."
+          },
+          {
+            "ar": "وَمَلَئِهِ",
+            "en": "and his council of elites",
+            "ref": "23:46",
+            "verse": "إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا عَالِينَ",
+            "verseEn": "To Pharaoh and his establishment, but they were arrogant and were a haughty people."
+          },
+          {
+            "ar": "فِرْعَوْنَ",
+            "en": "(of) Firaun",
+            "ref": "26:11",
+            "verse": "قَوْمَ فِرْعَوْنَ ۚ أَلَا يَتَّقُونَ",
+            "verseEn": "The people of Pharaoh. Will they not fear Allāh?\""
+          },
+          {
+            "ar": "مُتْرَفِيهَا",
+            "en": "its wealthy people",
+            "ref": "17:16",
+            "verse": "وَإِذَآ أَرَدْنَآ أَن نُّهْلِكَ قَرْيَةً أَمَرْنَا مُتْرَفِيهَا فَفَسَقُوا۟ فِيهَا فَحَقَّ عَلَيْهَا ٱلْقَوْلُ فَدَمَّرْنَـٰهَا تَدْمِيرًۭا",
+            "verseEn": "And when We intend to destroy a city, We command its affluent but they defiantly disobey therein; so the word [i.e., deserved decree] comes into effect upon it, and We destroy it with [complete] destruction."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "سكارى",
+    "display": "سُكَارَىٰ",
+    "hint": "Appearing intoxicated though sober on a terrifying Day",
+    "verseRef": "22:2",
+    "arabicVerse": "يَوْمَ تَرَوْنَهَا تَذْهَلُ كُلُّ مُرْضِعَةٍ عَمَّآ أَرْضَعَتْ وَتَضَعُ كُلُّ ذَاتِ حَمْلٍ حَمْلَهَا وَتَرَى ٱلنَّاسَ سُكَـٰرَىٰ وَمَا هُم بِسُكَـٰرَىٰ وَلَـٰكِنَّ عَذَابَ ٱللَّهِ شَدِيدٌۭ",
+    "verse": "22:2 - On the Day you see it every nursing mother will be distracted from that [child] she was nursing, and every pregnant woman will abort her pregnancy, and you will see the people [appearing] intoxicated while they are not intoxicated; but the punishment of Allāh is severe."
+  },
+  "scramble": {
+    "verseRef": "8:3",
+    "reference": "Surah Al-Anfal (8:3)",
+    "segments": [
+      "الذين يقيمون",
+      "الصلاة",
+      "ومما رزقناهم",
+      "ينفقون"
+    ],
+    "translations": [
+      "Those who establish",
+      "the prayer and out of what",
+      "We have provided them",
+      "they spend"
+    ],
+    "hint": "Describes the qualities of true believers: prayer and charity",
+    "arabic": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+    "words": [
+      "ٱلَّذِينَ يُقِيمُونَ",
+      "ٱلصَّلَوٰةَ وَمِمَّا",
+      "رَزَقْنَـٰهُمْ",
+      "يُنفِقُونَ"
+    ],
+    "verseEn": "The ones who establish prayer, and from what We have provided them, they spend."
+  },
+  "roothive": {
+    "center": "ع",
+    "outer": [
+      "ر",
+      "ي",
+      "ت",
+      "ج",
+      "م",
+      "ا"
+    ],
+    "root": {
+      "letters": "رجع",
+      "display": "ر ج ع",
+      "translit": "r-j-ʿ",
+      "meaning": "The core idea is going back to where something started. Its forms describe coming back, being sent back, or the final place of return.",
+      "occurrences": 104,
+      "lemmaCount": 6
+    },
+    "words": [
+      {
+        "w": "جمع",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "جَمَعَ",
+            "gloss": "assemble",
+            "type": "verb",
+            "root": "جمع",
+            "count": 22,
+            "ref": "5:109",
+            "pos": 2,
+            "alt": [
+              "gathered",
+              "gather"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "جَمْع",
+            "gloss": "all together",
+            "type": "noun",
+            "root": "جمع",
+            "count": 13,
+            "ref": "18:99",
+            "pos": 11,
+            "alt": [
+              "accumulation",
+              "collectively"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "راع",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "راعِ",
+            "gloss": "raina",
+            "type": "verb",
+            "root": "رعي",
+            "count": 2,
+            "ref": "2:104",
+            "pos": 6,
+            "alt": [
+              "\"raina"
+            ],
+            "form": 3
+          }
+        ]
+      },
+      {
+        "w": "رجع",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "رَجَعَ",
+            "gloss": "return",
+            "type": "verb",
+            "root": "رجع",
+            "count": 79,
+            "ref": "2:210",
+            "pos": 16,
+            "alt": [
+              "be returned",
+              "returned"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "رَجْع",
+            "gloss": "return",
+            "type": "noun",
+            "root": "رجع",
+            "count": 3,
+            "ref": "50:3",
+            "pos": 6
+          }
+        ]
+      },
+      {
+        "w": "عام",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عام",
+            "gloss": "year",
+            "type": "noun",
+            "root": "عوم",
+            "count": 9,
+            "ref": "2:259",
+            "pos": 20,
+            "alt": [
+              "one year",
+              "two years"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "عتي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عِتِيّ",
+            "gloss": "extreme",
+            "type": "noun",
+            "root": "عتو",
+            "count": 2,
+            "ref": "19:8",
+            "pos": 14,
+            "alt": [
+              "rebellion"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "عمر",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عُمُر",
+            "gloss": "lifetime",
+            "type": "noun",
+            "root": "عمر",
+            "count": 7,
+            "ref": "10:16",
+            "pos": 14
+          },
+          {
+            "lemma": "عَمَرُ",
+            "gloss": "maintain",
+            "type": "verb",
+            "root": "عمر",
+            "count": 4,
+            "ref": "9:18",
+            "pos": 2,
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "عمي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عَمِيَ",
+            "gloss": "blinded",
+            "type": "verb",
+            "root": "عمي",
+            "count": 7,
+            "ref": "6:104",
+            "pos": 10,
+            "alt": [
+              "blind"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "عَمي",
+            "gloss": "blind",
+            "type": "adjective",
+            "root": "عمي",
+            "count": 2,
+            "ref": "7:64",
+            "pos": 14
+          },
+          {
+            "lemma": "عَمًى",
+            "gloss": "blindness",
+            "type": "noun",
+            "root": "عمي",
+            "count": 2,
+            "ref": "41:44",
+            "pos": 25
+          }
+        ]
+      },
+      {
+        "w": "عير",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عِير",
+            "gloss": "caravan",
+            "type": "noun",
+            "root": "عير",
+            "count": 3,
+            "ref": "12:70",
+            "pos": 13
+          }
+        ]
+      },
+      {
+        "w": "عيي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عَيِي",
+            "gloss": "tired",
+            "type": "verb",
+            "root": "عيي",
+            "count": 2,
+            "ref": "46:33",
+            "pos": 10,
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "متع",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَتَّعْ",
+            "gloss": "provide for",
+            "type": "verb",
+            "root": "متع",
+            "count": 18,
+            "ref": "2:126",
+            "pos": 22,
+            "alt": [
+              "grant him enjoyment",
+              "make provision for"
+            ],
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "اجمع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَجْمَع",
+            "gloss": "all",
+            "type": "noun",
+            "root": "جمع",
+            "count": 26,
+            "ref": "2:161",
+            "pos": 13,
+            "alt": [
+              "all together",
+              "together"
+            ]
+          },
+          {
+            "lemma": "أَجْمَعُ",
+            "gloss": "put together",
+            "type": "verb",
+            "root": "جمع",
+            "count": 4,
+            "ref": "10:71",
+            "pos": 20,
+            "alt": [
+              "all resolve",
+              "agreed"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "اعرج",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَعْرَج",
+            "gloss": "lame",
+            "type": "noun",
+            "root": "عرج",
+            "count": 2,
+            "ref": "24:61",
+            "pos": 7
+          }
+        ]
+      },
+      {
+        "w": "اعمي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَعْمَى",
+            "gloss": "blind",
+            "type": "noun",
+            "root": "عمي",
+            "count": 21,
+            "ref": "2:18",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "تمتع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "تَمَتَّعَ",
+            "gloss": "took advantage",
+            "type": "verb",
+            "root": "متع",
+            "count": 11,
+            "ref": "2:196",
+            "pos": 37,
+            "alt": [
+              "enjoy"
+            ],
+            "form": 5
+          }
+        ]
+      },
+      {
+        "w": "جامع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "جامِع",
+            "gloss": "collective action",
+            "type": "active participle",
+            "root": "جمع",
+            "count": 3,
+            "ref": "3:9",
+            "pos": 3,
+            "alt": [
+              "gather"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "جميع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "جَمِيع",
+            "gloss": "together",
+            "type": "noun",
+            "root": "جمع",
+            "count": 53,
+            "ref": "2:29",
+            "pos": 8,
+            "alt": [
+              "all",
+              "all together"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "راجع",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "راجِع",
+            "gloss": "return",
+            "type": "active participle",
+            "root": "رجع",
+            "count": 4,
+            "ref": "2:46",
+            "pos": 8
+          }
+        ]
+      },
+      {
+        "w": "راعي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "راعي",
+            "gloss": "observers",
+            "type": "active participle",
+            "root": "رعي",
+            "count": 2,
+            "ref": "23:8",
+            "pos": 5
+          }
+        ]
+      },
+      {
+        "w": "رجعي",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "رُجْعَى",
+            "gloss": "return",
+            "type": "noun",
+            "root": "رجع",
+            "count": 1,
+            "ref": "96:8",
+            "pos": 4
+          }
+        ]
+      },
+      {
+        "w": "متاع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَتاع",
+            "gloss": "enjoyment",
+            "type": "noun",
+            "root": "متع",
+            "count": 35,
+            "ref": "2:236",
+            "pos": 21,
+            "alt": [
+              "provision",
+              "enjoy"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مجمع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَجْمَع",
+            "gloss": "junction",
+            "type": "noun",
+            "root": "جمع",
+            "count": 2,
+            "ref": "18:60",
+            "pos": 9
+          }
+        ]
+      },
+      {
+        "w": "مرجع",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "مَرْجِع",
+            "gloss": "return",
+            "type": "noun",
+            "root": "رجع",
+            "count": 16,
+            "ref": "3:55",
+            "pos": 24,
+            "alt": [
+              "be your return"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مرعي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَرْعَى",
+            "gloss": "pasture",
+            "type": "noun",
+            "root": "رعي",
+            "count": 2,
+            "ref": "79:31",
+            "pos": 4
+          }
+        ]
+      },
+      {
+        "w": "اجتمع",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "اجْتَمَعُ",
+            "gloss": "gathered",
+            "type": "verb",
+            "root": "جمع",
+            "count": 2,
+            "ref": "17:88",
+            "pos": 3,
+            "form": 8
+          }
+        ]
+      },
+      {
+        "w": "اعجمي",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "أَعْجَمِيّ",
+            "gloss": "foreign",
+            "type": "noun",
+            "root": "عجم",
+            "count": 3,
+            "ref": "16:103",
+            "pos": 12
+          }
+        ]
+      },
+      {
+        "w": "معارج",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مَعارِج",
+            "gloss": "stairways",
+            "type": "noun",
+            "root": "عرج",
+            "count": 2,
+            "ref": "43:33",
+            "pos": 15,
+            "alt": [
+              "ways of ascent"
+            ]
+          }
+        ]
+      }
+    ],
+    "otherFamily": [
+      {
+        "lemma": "يَتَراجَعَ",
+        "gloss": "return to each other",
+        "type": "verb",
+        "root": "رجع",
+        "count": 1,
+        "ref": "2:230",
+        "pos": 18,
+        "form": 6
+      }
+    ],
+    "maxScore": 53,
+    "featuredRoot": "رجع"
+  }
+}

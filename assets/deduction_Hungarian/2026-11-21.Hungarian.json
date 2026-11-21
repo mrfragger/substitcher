@@ -1,0 +1,61 @@
+{
+  "title": "A hangok a csendes vizek mellett",
+  "intro": "Képzelj el egy közösséget, amelyet nem egy városról vagy egy uralkodóról neveztek el, hanem a csendes vízről, amely körül az élet gyűlt össze. Csak néhány vers emlékezik meg erről a közösségről, amelyet mindig azok között tartanak számon, akik elutasították az útmutatást. Figyelj, ahogy a homályból beszélnek.",
+  "clues": [
+    "Egy közösség vagyunk, amelynek nevét a Korán is megemlíti, mégis teljes történetünket rejtély borítja.",
+    "Mindig azok mellett emlegetnek minket, akik tagadtak, mint például Ád és Támúd népe.",
+    "Ar-Rass Társainak hívnak minket, a Kútnak, amelyhez életünk kötődött.",
+    "Elutasítottuk a küldöttet, aki világos útmutatással küldött hozzánk.",
+    "Azok közé tartozunk, akik elutasították Allah összes küldöttjét.",
+    "Szembe kellett néznünk a fenyegetéssel, amely minden előttünk álló tagadóval szemben teljesedett be: a mi elutasításunkért járó pusztítással."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Ar-Rass társai",
+        "Madyan népe",
+        "Az al-hidzsr lakói",
+        "Lut népe",
+        "Tubba népe"
+      ],
+      "answer": "Ar-Rass társai"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Magas tornyot épített, hogy elérje az eget",
+        "Elutasították a hozzánk küldött hírvivőt",
+        "Mózes távollétében imádták az aranyborjút",
+        "Irigységből tervezték megölni Juszufot",
+        "Követelték, hogy nyíltan láthassák Allahot"
+      ],
+      "answer": "Elutasították a hozzánk küldött hírvivőt"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A nyugalom hegye, a Judi",
+        "A tükrös üvegpalota",
+        "A hangyák völgye",
+        "A kinyilatkoztatás alatt épített bárka",
+        "A kút (Ar-Rass)"
+      ],
+      "answer": "A kút (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Elnyelte a föld a kincs iránti büszkeségért",
+        "Az özönvíztől megmentve az Ark által",
+        "Évszázadokon át egy barlangban aludtak",
+        "Megkapta a szél és a dzsinn irányítását",
+        "Elpusztultak, mert megtagadták a hírvivőket"
+      ],
+      "answer": "Elpusztultak, mert megtagadták a hírvivőket"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

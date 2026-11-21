@@ -1,0 +1,61 @@
+{
+  "title": "Qanı Bölən Dalğa",
+  "intro": "Torpağın üzərində nəhəng bir daşqın, sabit üzən bir gəmi və seçim yolu ilə çöldə qalan bir canı təsəvvür edin. Qanla bir peyğəmbərə bağlı, lakin inancla ayrılmış bu fiqur, sular qalxdıqca gəmiyə minmək üçün son çağırışla qarşılaşdı. Rədd cavabının arxasındakı kimliyi aşkar edə bilərsinizmi?",
+  "clues": [
+    "Mən Allahın ən böyük peyğəmbərlərindən birinin övladıyam, tərk etməyi seçdiyim bir iman ailəsiyəm.",
+    "Mən Böyük Daşqın dövründə, küfrün su kimi torpağı bürüdüyü bir dövrdə yaşadım.",
+    "Atam məni çağıranda möminlərlə birlikdə gəmiyə minməkdən imtina etdim.",
+    "Dedim ki, məni sudan qorumaq üçün bir dağa sığınacağam.",
+    "Mənə deyildi ki, o gün Allahın əzabından rəhmətdən başqa heç nə qoruya bilməz.",
+    "Dalğalar məni tutub boğdu və atama dedilər ki, mən onun saleh nəslindən deyiləm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Zeyd ibn Harisə",
+        "İbrahim peyğəmbərin oğlu İshaq peyğəmbər",
+        "Nuh peyğəmbərin kafir oğlu",
+        "Habil, Adəmin oğlu",
+        "İbrahim peyğəmbərin oğlu İsmayıl peyğəmbər"
+      ],
+      "answer": "Nuh peyğəmbərin kafir oğlu"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Qardaşlarının xəyanətindən sonra Misirdə köləliyə satılır",
+        "Gəmiyə minməkdən imtina edib sığınacaq kimi dağ axtarmaq",
+        "Bütləri sındırdığına görə alovlanan oda atılmaq",
+        "Missiyadan qaçdıqdan sonra böyük bir balığın udması",
+        "Təqiblərdən qaçmaq üçün əsrlər boyu mağarada yatmaq"
+      ],
+      "answer": "Gəmiyə minməkdən imtina edib sığınacaq kimi dağ axtarmaq"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Səbadakı güzgülü şüşə saray",
+        "Çaya atılan taxta sandıq",
+        "Uca dağlar daşqından sığınacaq axtarırdı",
+        "Müqəddəs vadidə yanan kol",
+        "Kəbə ibadət evi kimi tikilib"
+      ],
+      "answer": "Uca dağlar daşqından sığınacaq axtarırdı"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Təkəbbür üçün xəzinələrlə yer üzünə udulmuş",
+        "küləklər və cinlər üzərində hakimiyyətə malik bir padşahlıq verildi",
+        "Atəş sülhə çevrildikcə sərin və təhlükəsiz hala gəldi",
+        "Göylərə diri qaldırıldı və çarmıxa çəkilməkdən xilas oldu",
+        "Daşqında boğulub və saleh ailədən deyildi"
+      ],
+      "answer": "Daşqında boğulub və saleh ailədən deyildi"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

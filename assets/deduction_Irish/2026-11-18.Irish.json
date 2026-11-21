@@ -1,0 +1,61 @@
+{
+  "title": "An Tonn a Roinn an Fhuil",
+  "intro": "Samhlaigh tuile ollmhór ag ardú thar an tír, Áirc ag snámh go seasta, agus anam amháin fágtha amuigh de rogha. Ceangailte ag fuil le fáidh ach scartha ag creideamh, bhí glaoch deiridh roimh an bhfigiúr seo teacht ar bord agus na huiscí ag borradh. An féidir leat céannacht an diúltaithe a nochtadh?",
+  "clues": [
+    "Is sliocht mé de cheann de na fáithe is mó de chuid Allah, teaghlach creidimh a roghnaigh mé a fhágáil.",
+    "Bhí mé ina chónaí i ré na Tuile Móire, nuair a chlúdaigh easpa creidimh an talamh cosúil le huisce.",
+    "Dhiúltaigh mé dul ar bord na hÁirce leis na creidmhigh nuair a ghlaoigh m'athair orm.",
+    "Dúirt mé go ndéanfainn tearmann ar sliabh le go gcosnódh sé mé ón uisce.",
+    "Dúradh liom nach bhféadfadh aon rud cosaint a thabhairt dom ó fhoraithne Allah an Lá sin ach trócaire.",
+    "Rug na tonnta orm agus bádh mé, agus dúradh le m’athair nach raibh mé dá theaghlach fíréanta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Zayd ibn Harithah",
+        "An Fáidh Ishaq, Mac an Fháidh Ibrahim",
+        "Mac Easchreidmheach an Fháidh Nuh",
+        "Habil, Mac an Fháidh Ádhaimh",
+        "Fáidh Ismail, Mac an Fháidh Ibrahim"
+      ],
+      "answer": "Mac Easchreidmheach an Fháidh Nuh"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "A dhíol i sclábhaíocht san Éigipt tar éis feall ó dheartháireacha",
+        "Ag diúltú dul ar bord na hÁirce agus ag lorg sléibhe mar dhídean",
+        "A bheith caite i dtine lasrach as íodail a bhriseadh",
+        "A bheith á shlogadh ag iasc mór tar éis dó teitheadh ​​ó mhisean",
+        "Ag codladh ar feadh na gcéadta bliain i bpluais le héalú ó ghéarleanúint"
+      ],
+      "answer": "Ag diúltú dul ar bord na hÁirce agus ag lorg sléibhe mar dhídean"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An pálás gloine scáthánach i Saba",
+        "An cófra adhmaid a caitheadh ​​​​san abhainn",
+        "An sliabh ard a lorgaíodh mar dhídean ón Tuile",
+        "An tor dóite sa ghleann naofa",
+        "An Kaaba tógtha mar theach adhartha"
+      ],
+      "answer": "An sliabh ard a lorgaíodh mar dhídean ón Tuile"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Slogtha ag an talamh le seoda le haghaidh uabhar",
+        "Bronnadh ríocht air a bhfuil cumhacht aige thar ghaotha agus jinn",
+        "Déanta fionnuar agus sábháilte de réir mar a d’éirigh tine ina síocháin",
+        "Ardaithe beo chun na bhflaitheas agus sábháilte ón gcéasadh",
+        "Báite sa Tuile agus dearbhaithe nach de theaghlach fíréanta é"
+      ],
+      "answer": "Báite sa Tuile agus dearbhaithe nach de theaghlach fíréanta é"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

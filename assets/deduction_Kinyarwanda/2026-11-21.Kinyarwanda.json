@@ -1,0 +1,61 @@
+{
+  "title": "Amajwi yo ku nkengero z'amazi aratuje",
+  "intro": "Tekereza umuryango utari uw’umujyi cyangwa umutegetsi, ahubwo witwa amazi atuje aho ubuzima buhurira. Imirongo mike gusa ni yo yibuka uyu muryango, uhora uvugwa mu banze ubuyobozi. Umva uko bavuga mu ibanga.",
+  "clues": [
+    "Turi umuryango witwa muri Korowani, nyamara inkuru yacu yose iracyari ibanga.",
+    "Buri gihe tuvugwa hamwe n'abahakanye, nk'abantu ba Ad na Thamud.",
+    "Twitwa Abasangirangendo ba Ar-Rass, Iriba ubuzima bwacu bwari bufitanye isano na ryo.",
+    "Twahakanye intumwa yatutumweho ifite ubuyobozi busobanutse.",
+    "Turi mu banze intumwa zose zoherejwe na Allah.",
+    "Twahanganye n'iterabwoba ryashyizwe imbere y'umuntu wese uhakana imbere yacu, kurimbuka kubera kwanga kwacu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Abagenzi ba Ar-Rass",
+        "Abaturage ba Madyan",
+        "Abatuye muri Al-Hijr",
+        "Abantu ba Lut",
+        "Abaturage ba Tubba'"
+      ],
+      "answer": "Abagenzi ba Ar-Rass"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Yubatse umunara muremure kugira ngo agere mu ijuru",
+        "Yanze intumwa yatwoherereje",
+        "Yasenze inyana ya zahabu Musa adahari",
+        "Bateguye kwica Yusufu kubera ishyari",
+        "Basabwe kubona Imana ku mugaragaro"
+      ],
+      "answer": "Yanze intumwa yatwoherereje"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Umusozi wa Judi wo kuruhuka",
+        "Ingoro y'ikirahure ifite indorerwamo",
+        "Ikibaya cy'Ibinyoni",
+        "Inkuge yubatswe munsi y'iyerekwa",
+        "Iriba (Ar-Rass)"
+      ],
+      "answer": "Iriba (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Yamizwe n'isi kubera ishema ry'ubutunzi",
+        "Yarokowe n'Inkuge mu myuzure",
+        "Yagiye aryama mu buvumo imyaka ibarirwa mu magana",
+        "Ifite ububasha bwo kugenzura umuyaga n'amajini",
+        "Yararimbuwe azira guhakana intumwa"
+      ],
+      "answer": "Yararimbuwe azira guhakana intumwa"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

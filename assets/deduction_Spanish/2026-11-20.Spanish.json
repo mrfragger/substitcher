@@ -1,0 +1,61 @@
+{
+  "title": "El vuelo a través del mar inquieto",
+  "intro": "Imagínese en la cubierta de un barco sobrecargado mientras las olas se agitan y la tripulación echa suertes para aligerar la carga. Una figura solitaria da un paso al frente, aceptando un destino que parece el final, solo para que las profundidades se conviertan en un lugar de oración y retorno. Detrás yace una comunidad advertida del castigo venidero; delante, una misericordia inesperada.",
+  "clues": [
+    "Fui enviado como mensajero a más de cien mil personas.",
+    "Abandoné a mi gente enfadado antes de recibir permiso para irme.",
+    "Subí a bordo de un barco cargado y la tripulación echó suertes para decidir quién sería arrojado por la borda.",
+    "Fui arrojado al mar y tragado por un gran pez mientras era culpable.",
+    "Glorifiqué a Alá en las tinieblas, declarando que no hay más dios que Él y que yo había sido de los malhechores.",
+    "Me arrojaron a la orilla, enfermo, y Alá hizo crecer una planta de calabaza sobre mí; entonces mi pueblo creyó y se les concedió alegría por un tiempo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "El profeta Musa",
+        "Profeta Hud",
+        "Profeta Noé",
+        "Profeta Lut",
+        "El profeta Yunus"
+      ],
+      "answer": "El profeta Yunus"
+    },
+    "trial": {
+      "label": "¿A qué juicio me enfrenté?",
+      "options": [
+        "Arrojado a un fuego enfriado y seguro",
+        "Engullido por el gran pez tras huir",
+        "Arrojados a un pozo profundo por hermanos celosos.",
+        "Afectado por una larga enfermedad y pérdida de salud",
+        "Se le ordenó sacrificar a un niño amado."
+      ],
+      "answer": "Engullido por el gran pez tras huir"
+    },
+    "location": {
+      "label": "¿Cuál es mi elemento clave?",
+      "options": [
+        "El Arca de madera sobre las aguas de la inundación",
+        "La cueva de refugio contra la persecución",
+        "El valle sagrado de Tuwa",
+        "El gran pez y su vientre",
+        "El fuego frío preparado por los idólatras"
+      ],
+      "answer": "El gran pez y su vientre"
+    },
+    "outcome": {
+      "label": "¿Cuál fue mi resultado?",
+      "options": [
+        "Salvados por la glorificación, mi pueblo creyó y fue perdonado por un tiempo.",
+        "Mi pueblo fue convertido en monos por quebrantar el sábado.",
+        "Mi pueblo fue engullido por la tierra por su arrogancia.",
+        "Mi pueblo fue alcanzado por una poderosa ráfaga del cielo.",
+        "Mi pueblo fue ahogado por el gran diluvio."
+      ],
+      "answer": "Salvados por la glorificación, mi pueblo creyó y fue perdonado por un tiempo."
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

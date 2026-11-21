@@ -1,0 +1,61 @@
+{
+  "title": "Sokin suvlar bo'yidagi ovozlar",
+  "intro": "Shahar yoki hukmdor nomi bilan emas, balki hayot to'plangan tinch suv nomi bilan atalgan jamoani tasavvur qiling. Faqat bir nechta oyatlarda bu jamoa esga olinadi, ular har doim yo'l-yo'riqni rad etganlar qatorida keltirilgan. Ularning noaniqlikdan gapirganlarini tinglang.",
+  "clues": [
+    "Biz Qur'onda nomi tilga olingan jamoamiz, ammo bizning butun hikoyamiz sirliligicha qolmoqda.",
+    "Biz har doim Od va Samud qavmi kabi inkor etganlar bilan birga tilga olinadi.",
+    "Bizni Ar-Rass sahobalari, hayotimiz bog'langan quduq deb atashadi.",
+    "Bizga aniq hidoyat bilan yuborilgan payg'ambarni yolg'onchi qildik.",
+    "Biz Alloh tomonidan yuborilgan barcha payg'ambarlarni rad etganlar qatorida sanalamiz.",
+    "Bizdan oldingi har bir inkorchiga qarshi amalga oshirilgan tahdidga, rad etilganimiz uchun halokatga duch keldik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Ar-Rass sahobalari",
+        "Madyan xalqi",
+        "Hijr aholisi",
+        "Lut qavmi",
+        "Tubba qavmi"
+      ],
+      "answer": "Ar-Rass sahobalari"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Osmonga yetib borish uchun baland minora qurdi",
+        "Bizga yuborilgan xabarchini rad etdi",
+        "Muso yo'qligida oltin buzoqqa sig'inishdi",
+        "Yusufni hasad tufayli o'ldirishga fitna uyushtirdi",
+        "Allohni ochiqchasiga ko'rishni talab qildi"
+      ],
+      "answer": "Bizga yuborilgan xabarchini rad etdi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Judi tog'ining dam olishi",
+        "Shishadan yasalgan oynali saroy",
+        "Chumolilar vodiysi",
+        "Vahiy ostida qurilgan kema",
+        "Quduq (Ar-Rass)"
+      ],
+      "answer": "Quduq (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Xazina bilan faxrlanish uchun yer tomonidan yutib yuborilgan",
+        "Kema tomonidan to'fondan qutqarildi",
+        "Asrlar davomida g'orda uxlash uchun yaratilgan",
+        "Shamol va jinlarni boshqarish huquqi berildi",
+        "Payg'ambarlarni inkor etgani uchun halok bo'ldi"
+      ],
+      "answer": "Payg'ambarlarni inkor etgani uchun halok bo'ldi"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

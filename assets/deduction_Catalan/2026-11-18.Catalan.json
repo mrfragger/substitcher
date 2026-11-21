@@ -1,0 +1,61 @@
+{
+  "title": "L'onada que va dividir la sang",
+  "intro": "Imagineu-vos una vasta inundació que s'eleva sobre la terra, una Arca flotant sense problemes i una ànima deixada fora per elecció. Unida per la sang a un profeta però separada per la fe, aquesta figura s'enfrontava a una crida final per pujar a bord mentre les aigües creixien. Podeu descobrir la identitat que hi ha darrere d'aquesta negativa?",
+  "clues": [
+    "Sóc fill d'un dels profetes més grans d'Al·là, una llar de fe que vaig decidir deixar.",
+    "Vaig viure en l'època del Gran Diluvi, quan la incredulitat cobria la terra com l'aigua.",
+    "Em vaig negar a pujar a l'Arca amb els creients quan el meu pare em va cridar.",
+    "Vaig dir que buscaria refugi en una muntanya per protegir-me de l'aigua.",
+    "Em van dir que res no podia protegir del decret d'Al·là en aquell Dia, excepte la misericòrdia.",
+    "Les onades em van envair i em vaig ofegar, i al meu pare li van dir que no era de la seva família justa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Zayd ibn Harithah",
+        "Profeta Ishaq, fill del profeta Ibrahim",
+        "El fill incrèdul del profeta Nuh",
+        "Habil, fill del profeta Adam",
+        "Profeta Ismaïl, fill del profeta Ibrahim"
+      ],
+      "answer": "El fill incrèdul del profeta Nuh"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Ser venut com a esclau a Egipte després de la traïció dels seus germans",
+        "Negant-se a pujar a l'Arca i buscant refugi en una muntanya",
+        "Ser llançat a un foc ardent per trencar ídols",
+        "Ser engolit per un gran peix després de fugir d'una missió",
+        "Dormint durant segles en una cova per escapar de la persecució"
+      ],
+      "answer": "Rebutjant pujar a l'Arca i buscant refugi en una muntanya"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "El palau de vidre amb miralls a Saba",
+        "El cofre de fusta llançat al riu",
+        "L'imponent muntanya va buscar refugi del Diluvi",
+        "L'arbust ardent a la vall sagrada",
+        "La Kaaba construïda com a lloc de culte"
+      ],
+      "answer": "L'imponent muntanya va buscar refugi del Diluvi"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Engolit per la terra amb tresors per la seva arrogància",
+        "Se li va concedir un regne amb poder sobre els vents i els djins",
+        "Fresc i segur com el foc es va convertir en pau",
+        "Ressuscitat viu als cels i salvat de la crucifixió",
+        "Ofegats al Diluvi i declarats no de la família justa"
+      ],
+      "answer": "Ofegats al Diluvi i declarats no de la família justa"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

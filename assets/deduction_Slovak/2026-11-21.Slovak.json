@@ -1,0 +1,61 @@
+{
+  "title": "Hlasy pri tichých vodách",
+  "intro": "Predstavte si komunitu pomenovanú nie podľa mesta alebo vládcu, ale podľa pokojnej vody, okolo ktorej sa zhromažďoval život. Len niekoľko veršov spomína na túto komunitu, vždy uvedenú medzi tými, ktorí odmietli vedenie. Počúvajte, ako hovoria z neznáma.",
+  "clues": [
+    "Sme komunita pomenovaná v Koráne, no náš celý príbeh zostáva zahalený rúškom tajomstva.",
+    "Vždy sme spomenutí spolu s tými, ktorí popierali, ako napríklad ľudia z rodu Ad a Thamúd.",
+    "Nazývame sa Spoločníkmi Ar-Rassu, Studne, s ktorou bol spojený náš život.",
+    "Odmietli sme posla, ktorý nám bol poslaný s jasným vedením.",
+    "Patríme medzi tých, ktorí odmietli všetkých poslov vyslaných Alahom.",
+    "Čelili sme hrozbe, ktorá sa naplnila proti každému popieračovi pred nami, zničeniu za naše odmietnutie."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Spoločníci Ar-Rassu",
+        "Ľudia z Madyanu",
+        "Obyvatelia Al-Hidžru",
+        "Lutov ľud",
+        "Ľudia z Tubby"
+      ],
+      "answer": "Spoločníci Ar-Rassu"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Postavil vznešenú vežu, aby dosiahol nebesia",
+        "Odmietli posla, ktorý nám bol poslaný",
+        "Uctieval zlaté teľa v neprítomnosti Músu",
+        "Zo závisti naplánoval zabitie Jusufa",
+        "Požadoval, aby mohol verejne vidieť Alaha"
+      ],
+      "answer": "Odmietli posla, ktorý nám bol poslaný"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Mount Judi odpočíva",
+        "Zrkadlový palác zo skla",
+        "Údolie mravcov",
+        "Archa postavená na základe zjavenia",
+        "Studňa (Ar-Rass)"
+      ],
+      "answer": "Studňa (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Pohltený zemou pre pýchu na poklad",
+        "Zachránený Archou pred potopou",
+        "Stvorený spať po stáročia v jaskyni",
+        "Udelená kontrola nad vetrom a džinmi",
+        "Zničený za odmietnutie poslov"
+      ],
+      "answer": "Zničený za odmietnutie poslov"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

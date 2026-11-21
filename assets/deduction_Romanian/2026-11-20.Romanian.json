@@ -1,0 +1,61 @@
+{
+  "title": "Zborul peste marea neliniștită",
+  "intro": "Imaginează-ți că stai pe puntea unei nave supraîncărcate, în timp ce valurile se înalță și echipajul trage la sorți pentru a ușura povara. O figură solitară pășește înainte, acceptând o soartă care pare a fi sfârșitul, doar pentru ca adâncurile să devină un loc de rugăciune și întoarcere. În spate se află o comunitate avertizată de pedeapsa care vine, iar în față se află o milă neașteptată.",
+  "clues": [
+    "Am fost trimis ca mesager la peste o sută de mii de oameni.",
+    "Mi-am părăsit oamenii furios înainte de a primi permisiunea de a pleca.",
+    "M-am urcat la bordul unei nave încărcate, iar echipajul a tras la sorți pentru a decide cine va fi aruncat peste bord.",
+    "Am fost aruncat în mare și înghițit de un pește mare în timp ce eram vinovat.",
+    "L-am glorificat pe Allah în întuneric, declarând că nu există altă divinitate în afară de El și că am fost dintre cei nedrepți.",
+    "Am fost aruncat bolnav pe țărm, iar Allah a făcut să crească peste mine o dovleac. Apoi poporul meu a crezut și s-a bucurat o vreme."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Musa",
+        "Profetul Hud",
+        "Profetul Nuh",
+        "Profetul Lut",
+        "Profetul Yunus"
+      ],
+      "answer": "Profetul Yunus"
+    },
+    "trial": {
+      "label": "Ce încercare am înfruntat?",
+      "options": [
+        "Aruncat într-un foc răcoros și în siguranță",
+        "Înghițit de peștele cel mare după ce a fugit",
+        "Aruncat într-o fântână adâncă de frați geloși",
+        "Lovit de o boală lungă și de pierderea sănătății",
+        "Poruncit să sacrifice un copil iubit"
+      ],
+      "answer": "Înghițit de peștele cel mare după ce a fugit"
+    },
+    "location": {
+      "label": "Care este elementul meu cheie?",
+      "options": [
+        "Arca de lemn pe apele potopului",
+        "Peștera refugiului de persecuție",
+        "Valea sacră a orașului Tuwa",
+        "Marele pește și burta lui",
+        "Focul rece pregătit de idolatrii"
+      ],
+      "answer": "Marele pește și burta lui"
+    },
+    "outcome": {
+      "label": "Care a fost rezultatul meu?",
+      "options": [
+        "Salvați prin glorificare, iar poporul meu a crezut și a fost cruțat pentru o vreme",
+        "Poporul meu a fost transformat în maimuțe pentru că a încălcat Sabatul",
+        "Poporul meu a fost înghițit de pământ pentru aroganța lui",
+        "Poporul meu a fost cuprins de o rafală puternică din cer",
+        "Poporul meu a fost înecat de marele potop"
+      ],
+      "answer": "Salvați prin glorificare, iar poporul meu a crezut și a fost cruțat pentru o vreme"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

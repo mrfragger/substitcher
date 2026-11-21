@@ -1,0 +1,61 @@
+{
+  "title": "Balsai prie ramių vandenų",
+  "intro": "Įsivaizduokite bendruomenę, pavadintą ne miesto ar valdovo, o ramaus vandens, aplink kurį telkiasi gyvybė, vardu. Tik kelios eilutės prisimena šią bendruomenę, visada įtrauktą į tų, kurie atmetė vadovavimą, sąrašą. Klausykite, kaip jie kalba iš tamsos.",
+  "clues": [
+    "Esame bendruomenė, įvardyta Korane, tačiau visa mūsų istorija lieka paslėpta.",
+    "Mes visada minimi kartu su tais, kurie neigė, kaip antai Ado ir Tamudo žmonės.",
+    "Mes vadinami Ar-Raso, Šulinio, su kuriuo buvo susietas mūsų gyvenimas, Kompanionais.",
+    "Mes atmetėme pasiuntinį, kuris buvo mums atsiųstas su aiškiais nurodymais.",
+    "Mes esame priskirti prie tų, kurie atmetė visus Alacho siųstus pasiuntinius.",
+    "Mes susidūrėme su grėsme, įvykdyta kiekvienam prieš mus buvusiam neigėjui – sunaikinimu dėl mūsų atmetimo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Ar-Rasso kompanionai",
+        "Madjano žmonės",
+        "Al-Hijr gyventojai",
+        "Luto žmonės",
+        "Tubbos žmonės"
+      ],
+      "answer": "Ar-Rasso kompanionai"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Pastatė aukštą bokštą, kad pasiektų dangų",
+        "Atmetė mums atsiųstą pasiuntinį",
+        "Garbino auksinį veršį, nesant Musos",
+        "Iš pavydo planavo nužudyti Jusufą",
+        "Reikalavo atvirai pamatyti Alachą"
+      ],
+      "answer": "Atmetė mums atsiųstą pasiuntinį"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Judi kalnas, skirtas poilsiui",
+        "Veidrodiniai stiklo rūmai",
+        "Skruzdėlių slėnis",
+        "Arka, pastatyta pagal apreiškimą",
+        "Šulinys (Ar-Rass)"
+      ],
+      "answer": "Šulinys (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Prarytas žemės dėl lobių pasididžiavimo",
+        "Arka išgelbėjo nuo tvano",
+        "Sukurtas miegoti šimtmečius oloje",
+        "Suteikta vėjo ir džinų kontrolė",
+        "Sunaikinti už tai, kad atmetė pasiuntinius"
+      ],
+      "answer": "Sunaikinti už tai, kad atmetė pasiuntinius"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

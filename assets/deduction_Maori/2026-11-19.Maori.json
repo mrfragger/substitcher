@@ -1,0 +1,61 @@
+{
+  "title": "Te Whakapono Huna i roto i ngā Taiepa o te Whare Ariki",
+  "intro": "I waenganui o tētahi kōti nanakia e kī ana i ngā mahi tinihanga me te whakapehapeha, kei te pupuri tētahi wairua mokemoke i tētahi mea ngaro morearea. I te taha o te mana me ngā whakawehi o te mate, ka mātakitaki tēnei pononga a Allah i tētahi karere e tū ana ko ia anake ki te whawhai ki tētahi emepaea. Ina huri te wahangu hei wāhi whakauru, me whakatau māia ki te kōrero i te pono me te mōrearea nui ki a ia anō.",
+  "clues": [
+    "I noho ahau i waenganui i tētahi iwi mana nui, whakakake hoki, i whakakahore nei i ngā tohu a Allah.",
+    "I huna e au tōku whakapono mō tētahi wā i te wā e whakatakoto whakaaro ana te hunga i tōku taha mō tētahi karere.",
+    "I kōrero nui atu ahau, me te kī atu: E patu ana koutou i tētahi tangata nā te mea e mea ana rātou, Ko Allah tōku Ariki, i te mea kua tae mai ngā taunakitanga mārama?",
+    "I whakatūpato ahau i taku iwi mō te mutunga o ngā iwi o mua, mō te Rā Karanga Ngātahi.",
+    "I mea atu ahau ki a rātou he kuiti noa iho ngā whakaaro o te rangatira i mahi ahau ki a ia, engari ko te ao tūroa te kāinga tūturu.",
+    "I mea atu ahau: E taku iwi, whai mai i ahau, ā, māku koutou e ārahi ki te ara tika, ā, i whakaorangia ahau e Allah i te kino o ā rātou mahi whakatakoto whakaaro."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Āpu Rāhapi",
+        "Karauna",
+        "Ās-Samiri",
+        "Hāmana",
+        "Te tangata whakapono o te whānau o Parao"
+      ],
+      "answer": "Te tangata whakapono o te whānau o Parao"
+    },
+    "trial": {
+      "label": "I aha ahau?",
+      "options": [
+        "I kohia ngā taonga i utaina ki ngā tāne kaha",
+        "I hanga e ia he pourewa tiketike hei tiro atu ki te atua o Mohi",
+        "Nā te whakapono huna i tiaki i a Mohi, ā, i whakatūpato i taku iwi",
+        "I hanga he kuao kau koura e tangi ana",
+        "I ārai i te ara o te Poropiti, ā, i tawai i te whakakitenga mō te taonga"
+      ],
+      "answer": "Nā te whakapono huna i tiaki i a Mohi, ā, i whakatūpato i taku iwi"
+    },
+    "location": {
+      "label": "I hea i huraina ai taku kōrero?",
+      "options": [
+        "Te Āka i runga i ngā wai waipuke",
+        "Te Whare Karakia Tapu i Makkah",
+        "Te Kōti o te Whare o Parao i Ihipa",
+        "Te Ana o te Hunga Moe",
+        "Te Raorao Ngāhere o Madyan"
+      ],
+      "answer": "Te Kōti o te Whare o Parao i Ihipa"
+    },
+    "outcome": {
+      "label": "He aha te hua i puta mai i ahau?",
+      "options": [
+        "I toremi ahau me te ope taua i te moana wehewehe",
+        "I horomia ahau e te whenua me aku taonga",
+        "I pā mai te whatitiri ki ahau, me te Thamud",
+        "I hurihia ahau hei makimaki mō te takahi i te Hāpati",
+        "I tiaki ahau e te Atua i te kino o tā rātou mahi tinihanga"
+      ],
+      "answer": "I tiaki ahau e te Atua i te kino o tā rātou mahi tinihanga"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

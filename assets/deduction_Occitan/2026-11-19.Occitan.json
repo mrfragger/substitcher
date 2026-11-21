@@ -1,0 +1,61 @@
+{
+  "title": "La Fe Amagada Dins las Muralhas del Palais",
+  "intro": "Al centre d'una cort tiranica emplida de complòts e d'orgulh, una anma sola ten un secret perilhós. Entornat de poder e de menaças de mòrt, aquel servicial d'Allah regarda un messatgièr se pausar sol contra un empèri. Quand lo silenci ven complicitat, una decision audaciosa deu èsser presa per dire la vertat amb un grand risc personal.",
+  "clues": [
+    "Visquèri demest un pòble poderós e arrogant que refusèt los signes d'Allah.",
+    "Amaguèri ma fe pendent un temps del temps que los a mon entorn complotavan contra un messatgièr.",
+    "Parlèri dobèrtament, en disent: Tuatz un individú perque dison, Mon Senhor es Allah, del temps que de pròvas claras son vengudas?",
+    "Avertiguèri mon pòble sul destin de las nacions precedentas e sus un jorn de crida mutuala.",
+    "Lor diguèri que lo regent que serviguèri mòstra pas qu'una opinion estrecha, pasmens l'Aldilà es lo vertadièr ostal.",
+    "Diguèri: O mon pòble, seguissètz-me e vos guidarai cap al bon camin, e Allah me salvèt del mal de lor complòt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Abu Lahab",
+        "Qarun",
+        "As-Samiri",
+        "Aman",
+        "Lo cresent de la familha del faraon"
+      ],
+      "answer": "Lo cresent de la familha del faraon"
+    },
+    "trial": {
+      "label": "Qué ai fach?",
+      "options": [
+        "De tresaurs amassats que lors claus cargavan d'òmes fòrts",
+        "Bastiguèt una torre elevada per agachar lo dieu de Musa",
+        "La fe amagada defendèt alara dobèrtament Musa e avertiguèt mon pòble",
+        "Fabriquèt un vedèl d'aur que fasiá un bruch de bramament",
+        "Bloquèt lo camin del Profèta e se trufèt de la revelacion per la riquesa"
+      ],
+      "answer": "La fe amagada defendèt alara dobèrtament Musa e avertiguèt mon pòble"
+    },
+    "location": {
+      "label": "Ont se debanèt mon istòria?",
+      "options": [
+        "L'Arca sus las aigas de diluvi",
+        "La Mosquèa Sagrada a Meca",
+        "Cort del Palais del Faraon en Egipte",
+        "La Cauna dels Dormidors",
+        "La Val Boscosa de Madyan"
+      ],
+      "answer": "Cort del Palais del Faraon en Egipte"
+    },
+    "outcome": {
+      "label": "Quin foguèt mon resultat?",
+      "options": [
+        "M'afoguèri amb l'armada dins la mar dividida",
+        "La tèrra m'engoliguèt amb mos tresaurs",
+        "Un tron ​​m'agachèt amb Thamud",
+        "Foguèri convertit en un simi per aver trencat lo sabbat",
+        "Allah me protegiguèt del mal de lor complòt"
+      ],
+      "answer": "Allah me protegiguèt del mal de lor complòt"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

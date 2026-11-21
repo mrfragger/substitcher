@@ -36,7 +36,6 @@ class FontDatabase {
      'Mengshen-Handwritten Chinese': FontMetadata(fontName: 'Mengshen-Handwritten Chinese', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'MiSans Khmer': FontMetadata(fontName: 'MiSans Khmer', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'MiSans Thai': FontMetadata(fontName: 'MiSans Thai', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
-     'Shruti (Gujarati)': FontMetadata(fontName: 'Shruti (Gujarati)', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
 
   // ==================== free/arabic ====================
       'El Messiri': FontMetadata(fontName: 'El Messiri', mainCategory: FontCategory.free, subCategories: [FontCategory.arabic], studio: null),
@@ -92,6 +91,7 @@ class FontDatabase {
 
      // ==================== demo/missingligatures/177studio ====================
      'Abstract Settings demo': FontMetadata(fontName: 'Abstract Settings demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.missingLigatures], studio: FontCategory.studio177, ligaturePairs: ["as", "be", "de", "es", "ha", "le", "ly", "ne", "of", "op", "pr", "rt", "so", "ur", "ic", "is"]),
+     'Changing Material demo': FontMetadata(fontName: 'Changing Material demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.missingLigatures], studio: FontCategory.studio177, ligaturePairs: ["as", "ce", "de", "en", "ic", "is", "li", "me", "om", "ou", "ri", "si", "th", "ur"]),
      'Creates Presence demo': FontMetadata(fontName: 'Creates Presence demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.missingLigatures], studio: FontCategory.studio177, ligaturePairs: ["ac", "ar", "av", "ch", "di", "ee", "ep", "fe", "ha", "ic", "io", "ju", "li", "ma", "nd", "ns", "om", "or", "pa", "rt", "so", "te", "tr", "ur"]),
      'Coastline Classical demo': FontMetadata(fontName: 'Coastline Classical demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.missingLigatures], studio: FontCategory.studio177, ligaturePairs: ["ac", "ar", "di", "ee", "ha", "me", "ot", "se", "ve"]),
      'Engaging Realities demo': FontMetadata(fontName: 'Engaging Realities demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.missingLigatures], studio: FontCategory.studio177, ligaturePairs: ["ar", "be", "de", "ee", "er", "ge", "ic", "ir", "le", "ma", "mi", "ne", "nt", "of", "or", "pr", "rs", "ss", "ur"]),

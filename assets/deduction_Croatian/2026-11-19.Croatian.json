@@ -1,0 +1,61 @@
+{
+  "title": "Skrivena vjera unutar zidina palače",
+  "intro": "U središtu tiranskog dvora ispunjenog zavjerama i ponosom, usamljena duša krije opasnu tajnu. Okružen moći i prijetnjama smrću, ovaj Allahov sluga promatra glasnika kako sam stoji protiv carstva. Kada šutnja postane suučesništvo, mora se donijeti hrabra odluka da se govori istina uz veliki osobni rizik.",
+  "clues": [
+    "Živio sam među moćnim i arogantnim narodom koji je poricao Allahove znakove.",
+    "Neko sam vrijeme skrivao svoju vjeru dok su oni oko mene kovali zavjeru protiv glasnika.",
+    "Ja sam otvoreno progovorio: \"Zar ubijate čovjeka zato što kaže: 'Moj Gospodar je Allah', a već su došli jasni dokazi?\"",
+    "Upozorio sam svoj narod na sudbinu ranijih naroda i na Dan međusobnog poziva.",
+    "Rekao sam im da vladar kojem služim pokazuje samo usko mišljenje, a ipak je zagrobni život pravi dom.",
+    "Rekoh: \"O narode moj, slijedite me, ja ću vas uputiti na pravi put, a Allah me je spasio od zla njihova spletkarenja.\""
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Ebu Lehab",
+        "Karun",
+        "As-Samiri",
+        "Haman",
+        "Vjernik iz faraonove obitelji"
+      ],
+      "answer": "Vjernik iz faraonove obitelji"
+    },
+    "trial": {
+      "label": "Što sam učinio/la?",
+      "options": [
+        "Nagomilao je blaga čiji su ključevi opterećivali snažne ljude",
+        "Sagradio je visoku kulu da gleda u boga Muse",
+        "Skrivena vjera je zatim otvoreno branila Musu i upozoravala moj narod",
+        "Napravio je zlatno tele koje je mukalo",
+        "Blokirao je Poslanikov put i ismijavao objavu radi bogatstva"
+      ],
+      "answer": "Skrivena vjera je zatim otvoreno branila Musu i upozoravala moj narod"
+    },
+    "location": {
+      "label": "Gdje se moja priča odvijala?",
+      "options": [
+        "Arka na potopnim vodama",
+        "Sveta džamija u Meki",
+        "Faraonov dvor u Egiptu",
+        "Špilja spavača",
+        "Šumovita dolina Madyana"
+      ],
+      "answer": "Faraonov dvor u Egiptu"
+    },
+    "outcome": {
+      "label": "Kakav je bio moj ishod?",
+      "options": [
+        "Utopio sam se s vojskom u podijeljenom moru",
+        "Zemlja me progutala s mojim blagom",
+        "Grom me je uhvatio sa Semudom",
+        "Pretvoren sam u majmuna jer sam kršio subotu",
+        "Allah me zaštitio od zla njihovog plana"
+      ],
+      "answer": "Allah me zaštitio od zla njihovog plana"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Valul care a dezbinat sângele",
+  "intro": "Imaginează-ți un potop vast care se ridică peste pământ, o Arcă plutind nemișcată și un suflet lăsat afară prin alegerea ta. Legat prin sânge de un profet, dar despărțit prin credință, această figură s-a confruntat cu o chemare finală de a se urca la bord, în timp ce apele au crescut în intensitate. Poți descoperi identitatea din spatele refuzului?",
+  "clues": [
+    "Sunt urmașul unuia dintre cei mai mari profeți ai lui Allah, o familie a credinței pe care am ales să o părăsesc.",
+    "Am trăit în vremea Marelui Potop, când necredința acoperea pământul ca apa.",
+    "Am refuzat să mă urc în Arcă împreună cu credincioșii când tatăl meu m-a strigat.",
+    "Am spus că voi căuta refugiu pe un munte ca să mă apere de apă.",
+    "Mi s-a spus că nimic nu mă poate proteja de porunca lui Allah în Ziua aceea, în afară de mila.",
+    "Am fost cuprins de valuri și m-am înecat, iar tatăl meu a aflat că nu fac parte din familia lui dreaptă."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Zayd ibn Harithah",
+        "Profetul Ishaq, fiul profetului Ibrahim",
+        "Fiul necredincios al profetului Nuh",
+        "Habil, fiul profetului Adam",
+        "Profetul Ismail, fiul profetului Ibrahim"
+      ],
+      "answer": "Fiul necredincios al profetului Nuh"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Vândut ca sclav în Egipt după trădarea fraților",
+        "Refuzând să se îmbarce pe Arcă și căutând un munte ca refugiu",
+        "Aruncat într-un foc arzător pentru că a zdrobit idoli",
+        "Înghițit de un pește mare după ce a fugit dintr-o misiune",
+        "Dormind secole într-o peșteră pentru a scăpa de persecuție"
+      ],
+      "answer": "Refuzând să se îmbarce pe Arcă și căutând un munte ca refugiu"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Palatul de sticlă cu oglinzi din Saba",
+        "Cufărul de lemn aruncat în râu",
+        "Muntele impunător a căutat refugiu de Potop",
+        "Rugul aprins din Valea Sacră",
+        "Kaaba construită ca lăcaș de cult"
+      ],
+      "answer": "Muntele impunător a căutat refugiu de Potop"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Înghițit de pământ cu comori pentru aroganță",
+        "A acordat un regat cu putere asupra vânturilor și djinnilor",
+        "Rece și sigur, așa cum focul a devenit pace",
+        "Înălțat viu la ceruri și salvat de la răstignire",
+        "Înecat în Potop și declarat nefiind din familia dreaptă"
+      ],
+      "answer": "Înecat în Potop și declarat nefiind din familia dreaptă"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

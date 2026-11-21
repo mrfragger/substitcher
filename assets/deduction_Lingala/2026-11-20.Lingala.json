@@ -1,0 +1,61 @@
+{
+  "title": "Kopumbwa na Mbu oyo ezangi kimia",
+  "intro": "Kanisá ete atɛlɛmi na pont ya masuwa oyo etondi na kilo mingi ntango mbonge ezali kopumbwa mpe bato ya mosala bazali kobɛta masano mpo na kolɛmbisa mokumba. Moto oyo azali ye moko azali kokende liboso, kondimaka nsuka oyo emonani lokola nsuka, kaka mpo ete bozindo ekóma esika ya losambo mpe kozonga. Nsima na yango ezali na lisanga moko oyo ekebisami mpo na etumbu oyo ekoya, liboso ezali na ngolu oyo ekanisamaki te.",
+  "clues": [
+    "Natindamaki lokola momemi-nsango epai ya bato koleka nkóto nkama moko.",
+    "Natikaki bato na ngai na nkanda liboso ya kozwa ndingisa ya kolongwa.",
+    "Namatamaki na masuwa moko oyo ezalaki na biloko mingi mpe bato oyo bazalaki kosala na masuwa yango babɛtaki mbɛsɛ mpo na kozwa ekateli ya koyeba nani bakobwakama na mai.",
+    "Babwakaki ngai na mbu mpe mbisi moko monene emɛlaki ngai ntango nazalaki na foti.",
+    "Nakumisaki Allah na molili, kosakolaka ete nzambe mosusu azali longola se Ye mpe ete nazalaki kati na basali mabe.",
+    "Babwakaki ngai na libongo ya polele, nazalaki na maladi, mpe Allah asalaki ete molona ya gourd ekola likolo na ngai, nsima bato na ngai bandimaki mpe bapesaki ngai esengo mpo na mwa ntango."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Musa",
+        "Mosakoli Hud",
+        "Mosakoli Nuh",
+        "Mosakoli Luta",
+        "Mosakoli Yunus"
+      ],
+      "answer": "Mosakoli Yunus"
+    },
+    "trial": {
+      "label": "Momekano nini Nakutanaki na yango?",
+      "options": [
+        "Babwakaki yango na mɔtɔ oyo basalaki malili mpe na likama te",
+        "Emelamaki na mbisi minene nsima ya kokima",
+        "Bandeko ya zuwa babwakaki yango na libulu mozindo",
+        "Abɛtamaki na maladi ya ntango molai mpe kobungisa kolɔngɔnɔ ya nzoto",
+        "Bapesaki mitindo ete bápesa mwana oyo alingaka mingi mbeka"
+      ],
+      "answer": "Emelamaki na mbisi minene nsima ya kokima"
+    },
+    "location": {
+      "label": "Elemento ya ntina na ngai ezali nini?",
+      "options": [
+        "Sanduku ya mabaya oyo ezali likoló ya mai ya mpela",
+        "Libulu ya ekimelo na minyoko",
+        "Lobwaku mosantu ya Tuwa",
+        "Mbisi monene mpe libumu na yango",
+        "Mɔtɔ ya malili oyo basambeli ya bikeko babongisaki"
+      ],
+      "answer": "Mbisi monene mpe libumu na yango"
+    },
+    "outcome": {
+      "label": "Litomba na ngai Ezalaki Nini?",
+      "options": [
+        "Babikisamaki na nkembo mpe bato na ngai bandimaki mpe babikisamaki mpo na mwa ntango",
+        "Bato na ngai babongwanaki banyoka mpo babukaki Sabata",
+        "Bato na ngai bamelamaki na mabele mpo na lolendo",
+        "Bato na ngai bakangamaki na mopɛpɛ makasi oyo eutaki na likoló",
+        "Bato na ngai bazindaki na mpela monene"
+      ],
+      "answer": "Babikisamaki na nkembo mpe bato na ngai bandimaki mpe babikisamaki mpo na mwa ntango"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

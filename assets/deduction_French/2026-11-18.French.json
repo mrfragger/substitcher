@@ -1,0 +1,61 @@
+{
+  "title": "La vague qui divisa le sang",
+  "intro": "Imaginez un immense déluge submergeant les terres, une arche flottant immuablement, et une âme restée à l'extérieur de son plein gré. Liée par le sang à un prophète, mais séparée par la foi, cette personne a reçu un dernier appel à embarquer tandis que les eaux montaient en flèche. Parviendrez-vous à découvrir l'identité de celle qui a refusé ?",
+  "clues": [
+    "Je suis le descendant d'un des plus grands prophètes d'Allah, une famille de foi que j'ai choisi de quitter.",
+    "J'ai vécu à l'époque du Déluge, lorsque l'incrédulité recouvrait le pays comme l'eau.",
+    "J'ai refusé de monter à bord de l'Arche avec les croyants lorsque mon père m'a appelé.",
+    "J'ai dit que je chercherais refuge sur une montagne pour me protéger de l'eau.",
+    "On m'a dit que rien ne pouvait me protéger du décret d'Allah ce Jour-là, si ce n'est la miséricorde.",
+    "J'ai été emporté par les vagues et je me suis noyé, et on a dit à mon père que je n'étais pas de sa famille vertueuse."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Zayd ibn Harithah",
+        "Le prophète Ishaq, fils du prophète Ibrahim",
+        "Le fils incrédule du prophète Noé",
+        "Habil, fils du prophète Adam",
+        "Le prophète Ismaël, fils du prophète Ibrahim"
+      ],
+      "answer": "Le fils incrédule du prophète Noé"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Vendu comme esclave en Égypte après la trahison de ses frères",
+        "Refusant d'embarquer à bord de l'Arche, ils cherchèrent refuge dans une montagne.",
+        "Être jeté dans un brasier pour avoir brisé des idoles",
+        "Être avalé par un grand poisson après avoir fui une mission",
+        "Dormir pendant des siècles dans une grotte pour échapper aux persécutions"
+      ],
+      "answer": "Refusant d'embarquer à bord de l'Arche, ils cherchèrent refuge dans une montagne."
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Le palais de verre et miroirs de Saba",
+        "Le coffre en bois jeté dans la rivière",
+        "La montagne imposante, refuge recherché contre le déluge",
+        "Le buisson ardent dans la vallée sacrée",
+        "La Kaaba construite comme lieu de culte"
+      ],
+      "answer": "La montagne imposante, refuge recherché contre le déluge"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Englouti par la terre avec des trésors pour l'arrogance",
+        "On lui accorda un royaume doté du pouvoir sur les vents et les djinns",
+        "Rendu frais et sûr comme le feu est devenu paix",
+        "Ressuscité vivant jusqu'aux cieux et sauvé de la crucifixion",
+        "Noyés lors du Déluge et déclarés indignes de la famille juste"
+      ],
+      "answer": "Noyés lors du Déluge et déclarés indignes de la famille juste"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

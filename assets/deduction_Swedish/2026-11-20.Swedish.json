@@ -1,0 +1,61 @@
+{
+  "title": "Flykten över det rastlösa havet",
+  "intro": "Föreställ dig att du står på däcket på ett överlastat fartyg medan vågorna väller och besättningen kastar lott för att lätta lasten. En ensam gestalt träder fram och accepterar ett öde som verkar vara slutet, bara för att djupet ska bli en plats för bön och återkomst. Bakom ligger ett samhälle som varnats för kommande straff, framför ligger en oväntad nåd.",
+  "clues": [
+    "Jag sändes som budbärare till mer än hundra tusen människor.",
+    "Jag lämnade mitt folk i ilska innan jag fick tillåtelse att ge mig av.",
+    "Jag gick ombord på ett lastat skepp och besättningen kastade lott om vem som skulle kastas överbord.",
+    "Jag kastades i havet och svaldes av en stor fisk, fastän jag var klandervärd.",
+    "Jag prisade Allah i mörkret och förkunnade att det inte finns någon gudom utom Honom och att jag hade varit en av de orättfärdiga.",
+    "Jag kastades ut på den öppna stranden, sjuk, och Allah lät en kalebass växa över mig, sedan trodde mitt folk och fick njuta av det en tid."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Musa",
+        "Profeten Hud",
+        "Profeten Nuh",
+        "Profeten Lut",
+        "Profeten Yunus"
+      ],
+      "answer": "Profeten Yunus"
+    },
+    "trial": {
+      "label": "Vilken prövning ställdes jag inför?",
+      "options": [
+        "Kastad i en eld som gjorts sval och säker",
+        "Svaldes av den stora fisken efter att ha flytt",
+        "Kastad i en djup brunn av avundsjuka bröder",
+        "Drabbad av långvarig sjukdom och förlust av hälsa",
+        "Befalldes att offra ett älskat barn"
+      ],
+      "answer": "Svaldes av den stora fisken efter att ha flytt"
+    },
+    "location": {
+      "label": "Vad är mitt nyckelelement?",
+      "options": [
+        "Träarken på flodvattnet",
+        "Tillflyktsorten från förföljelse",
+        "Tuwas heliga dal",
+        "Den stora fisken och dess mage",
+        "Den svala elden som avgudadyrkare förbereder"
+      ],
+      "answer": "Den stora fisken och dess mage"
+    },
+    "outcome": {
+      "label": "Vad blev mitt resultat?",
+      "options": [
+        "Frälst genom förhärligande och mitt folk trodde och skonades för en tid",
+        "Mitt folk förvandlades till apor för att de bröt sabbaten",
+        "Mitt folk slukades av jorden för sitt arroganta mod",
+        "Mitt folk greps av en mäktig vindpust från himlen",
+        "Mitt folk drunknade i den stora översvämningen"
+      ],
+      "answer": "Frälst genom förhärligande och mitt folk trodde och skonades för en tid"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

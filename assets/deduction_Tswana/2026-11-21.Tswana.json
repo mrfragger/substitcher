@@ -1,0 +1,61 @@
+{
+  "title": "Mantswe a a Fa thoko ga Metsi a a Didimetseng",
+  "intro": "Akanya ka setšhaba se se bidiwang ka motse kgotsa mmusi, mme se biditswe ka metsi a a didimetseng a botshelo bo neng bo kokoane mo go one. Ke ditemana di le mmalwa fela tse di gakologelwang setšhaba seno, se ka metlha se neng se kwadilwe mo gare ga ba ba neng ba gana kaelo. Reetsa fa ba ntse ba bua ba le mo lefifing.",
+  "clues": [
+    "Re setšhaba se se umakilweng mo Quran, le fa go ntse jalo kgang ya rona e e feletseng e sa ntse e bipilwe ke masaitsiweng.",
+    "Re umakiwa ka metlha go bapa le bao ba neng ba latola, jaaka batho ba Ad le Thamud.",
+    "Re bidiwa Batsala ba Ar-Rass, Sediba se botshelo jwa rona bo neng bo bofilwe mo go sone.",
+    "Re ne ra latola morongwa yo o neng a rometswe kwa go rona ka kaelo e e tlhamaletseng.",
+    "Re balelwa mo gare ga ba ba ganneng barongwa botlhe ba ba rometsweng ke Allah.",
+    "Re ne ra lebana le matshosetsi a a neng a diragadiwa kgatlhanong le moganetsi mongwe le mongwe yo o neng a le fa pele ga rona, tshenyo ka ntlha ya go ganwa ga rona."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Batsala ba ga Ar-Rass",
+        "Batho ba Madyan",
+        "Baagi ba Al-Hijr",
+        "Batho ba ga Lute",
+        "Batho ba Tubba'."
+      ],
+      "answer": "Batsala ba ga Ar-Rass"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "A aga tora e e kwa godimo go fitlha kwa magodimong",
+        "O latotse morongwa yo o rometsweng kwa go rona",
+        "O ne a obamela namane ya gauta fa Musa a seyo",
+        "Ba loga leano la go bolaya Yusuf ka ntlha ya lefufa",
+        "Ba batla go bona Allah phatlalatsa"
+      ],
+      "answer": "O latotse morongwa yo o rometsweng kwa go rona"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Thaba ya Judi ya boikhutso",
+        "Ntlo ya Seipone ya galase",
+        "Mokgatšha wa Ditshoswane",
+        "Areka e agilwe ka fa tlase ga tshenolo",
+        "Sediba (Ar-Rass)"
+      ],
+      "answer": "Sediba (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "E meditswe ke lefatshe ka ntlha ya boikgantsho jwa letlotlo",
+        "Pholositswe ke Areka mo morwaleleng",
+        "E dirilwe gore e robale makgolokgolo a dingwaga mo logageng",
+        "Go newa taolo ya phefo le dijini",
+        "O sentswe ka ntlha ya go latola barongwa"
+      ],
+      "answer": "O sentswe ka ntlha ya go latola barongwa"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

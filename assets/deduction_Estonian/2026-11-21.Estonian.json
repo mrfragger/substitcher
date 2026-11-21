@@ -1,0 +1,61 @@
+{
+  "title": "Hääled vaiksete vete ääres",
+  "intro": "Kujutage ette kogukonda, mis on nimetatud mitte linna või valitseja, vaid vaikse vee järgi, mille ümber elu kogunes. Vaid vähesed salmid mäletavad seda kogukonda, keda alati loetleti nende seas, kes juhatuse hülgasid. Kuulake, kuidas nad varjust räägivad.",
+  "clues": [
+    "Me oleme Koraanis nimetatud kogukond, kuid meie täielik lugu jääb saladuseks.",
+    "Meid mainitakse alati koos nendega, kes eitasid, nagu Aadi ja Tamudi rahvas.",
+    "Meid kutsutakse Ar-Rassi, Kaevu, millega meie elu oli seotud, kaaslasteks.",
+    "Me eitasime sõnumitoojat, kes meile selge juhatusega saadeti.",
+    "Meid loetakse nende hulka, kes hülgasid kõik Allahi saadetud sõnumitoojad.",
+    "Me seisime silmitsi ähvardusega, mis täitus iga meie ees seisva eitaja ees – häving meie hülgamise pärast."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Ar-Rassi kaaslased",
+        "Madjani rahvas",
+        "Al-Hijri elanikud",
+        "Luti rahvas",
+        "Tubba rahvas"
+      ],
+      "answer": "Ar-Rassi kaaslased"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Ehitas taeva poole ulatuva kõrge torni",
+        "Keeldus meile saadetud sõnumitoojast",
+        "Kummardasid Musa äraolekul kuldvasikat",
+        "Plaanis kadedusest Yusufi tappa",
+        "Nõudis võimalust Allahi avalikult näha"
+      ],
+      "answer": "Keeldus meile saadetud sõnumitoojast"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Puhkemägi Judi",
+        "Peegeldatud klaasist palee",
+        "Sipelgate org",
+        "Ilmutuse all ehitatud laev",
+        "Kaev (Ar-Rass)"
+      ],
+      "answer": "Kaev (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Maa neelas alla uhkuse pärast aarde üle",
+        "Laeka poolt veeuputuse eest päästetud",
+        "Loodud sajandeid koopas magama",
+        "Anti kontroll tuule ja džinnide üle",
+        "Hävitatud sõnumitoojate eitamise pärast"
+      ],
+      "answer": "Hävitatud sõnumitoojate eitamise pärast"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

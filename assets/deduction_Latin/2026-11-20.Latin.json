@@ -1,0 +1,61 @@
+{
+  "title": "Volatus Trans Mare Inquietum",
+  "intro": "Finge te stare in ponte navis oneratae, dum fluctus intumescunt et nautae sortes iaciunt ut onus levetur. Sola figura progreditur, fatum accipiens quod finis esse videtur, sed profunda fiant locus precum et reditus. Post se latet communitas de poena imminente admonita, ante se latet misericordia inexpectata.",
+  "clues": [
+    "Missus sum ut nuntius ad plus quam centum milia hominum.",
+    "Iratus meos reliqui antequam discedendi licentiam accepi.",
+    "Navem onustam conscendi, et nautae sortem iecerunt ut decernerent quis in mare proiiceretur.",
+    "In mare proiectus et a pisce magno absorbitus sum, dum culpabilis eram.",
+    "Deum in tenebris glorificavi, proclamans nullum deum praeter Ipsum esse et me inter iniquos fuisse.",
+    "Proiectus sum in litus apertum, aegrotus, et Deus super me herbam cucurbitae crescere fecit, tum populus meus credidit et gaudium per aliquod tempus concessum est."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Musa",
+        "Propheta Hud",
+        "Propheta Nuh",
+        "Propheta Lut",
+        "Propheta Yunus"
+      ],
+      "answer": "Propheta Yunus"
+    },
+    "trial": {
+      "label": "Quam probationem subii?",
+      "options": [
+        "In ignem proiectus, refrigeratus et tutus factus",
+        "A magnis piscibus devoratus post fugam",
+        "In puteum profundum a fratribus zelotypis coniectus",
+        "Longa morbo et valetudine amissa affectus",
+        "Iussi immolare filium carissimum"
+      ],
+      "answer": "A magnis piscibus devoratus post fugam"
+    },
+    "location": {
+      "label": "Quod est elementum meum principale?",
+      "options": [
+        "Arca lignea super aquas diluvii",
+        "Spelunca refugii a persecutione",
+        "Vallis sacra Tuwae",
+        "Magnus piscis et venter eius",
+        "Ignis frigidus ab idololatris paratus"
+      ],
+      "answer": "Magnus piscis et venter eius"
+    },
+    "outcome": {
+      "label": "Quid Fuit Meum Exitus?",
+      "options": [
+        "Servati glorificatione, et populus meus credidit, et servati sunt ad tempus.",
+        "Populus meus in simias conversus est propter sabbatum violandum.",
+        "Populus meus propter superbiam a terra absorptus est",
+        "Populus meus ingenti caelo flatu correptus est",
+        "Populus meus diluvio magno submersus est"
+      ],
+      "answer": "Servati glorificatione, et populus meus credidit, et servati sunt ad tempus."
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

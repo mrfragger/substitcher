@@ -1,0 +1,61 @@
+{
+  "title": "Stemmerne ved de stille vand",
+  "intro": "Forestil dig et samfund, der ikke er opkaldt efter en by eller en hersker, men efter det stille vand, som livet samledes omkring. Kun få vers husker dette samfund, altid nævnt blandt dem, der afviste vejledning. Lyt, mens de taler fra ubemærkethed.",
+  "clues": [
+    "Vi er et samfund, der er navngivet i Koranen, men alligevel forbliver hele vores historie skjult i mystik.",
+    "Vi nævnes altid sammen med dem, der benægtede, såsom folket i Ad og Thamud.",
+    "Vi kaldes Ar-Rass' ledsagere, brønden som vores liv var bundet til.",
+    "Vi afviste budbringeren, som blev sendt til os med klar vejledning.",
+    "Vi regnes blandt dem, der afviste alle de sendebud, som Allah har sendt.",
+    "Vi stod over for truslen, der blev opfyldt mod enhver fornægter foran os, ødelæggelse for vores afvisning."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Ar-Rass' ledsagere",
+        "Madyans folk",
+        "Beboerne i Al-Hijr",
+        "Luts folk",
+        "Folket i Tubba'"
+      ],
+      "answer": "Ar-Rass' ledsagere"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Byggede et højt tårn for at nå himlen",
+        "Afviste budbringeren sendt til os",
+        "Tilbad guldkalven i Musas fravær",
+        "Planlagde at dræbe Yusuf af misundelse",
+        "Krævede at se Allah åbent"
+      ],
+      "answer": "Afviste budbringeren sendt til os"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Hvilebjerget Judi",
+        "Det spejlbeklædte glaspalads",
+        "Myrernes Dal",
+        "Arken bygget under åbenbaring",
+        "Brønden (Ar-Rass)"
+      ],
+      "answer": "Brønden (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Opslugt af jorden for stolthed over skatte",
+        "Reddet af Arken fra syndfloden",
+        "Skabt til at sove i århundreder i en hule",
+        "Givet kontrol over vind og djinn",
+        "Ødelagt for at afvise budbringerne"
+      ],
+      "answer": "Ødelagt for at afvise budbringerne"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

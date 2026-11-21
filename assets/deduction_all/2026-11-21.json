@@ -1,0 +1,61 @@
+{
+  "title": "The Voices Beside the Still Waters",
+  "intro": "Picture a community named not for a city or a ruler, but for the still water around which life gathered. Only a few verses remember this community, always listed among those who rejected guidance. Listen as they speak from obscurity.",
+  "clues": [
+    "We are a community named in the Quran, yet our full story remains veiled in mystery.",
+    "We are always mentioned alongside those who denied, like the people of Ad and Thamud.",
+    "We are called the Companions of Ar-Rass, the Well to which our life was tied.",
+    "We denied the messenger who was sent to us with clear guidance.",
+    "We are counted among those who rejected all the messengers sent by Allah.",
+    "We faced the threat fulfilled against every denier before us, destruction for our rejection."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "The Companions of Ar-Rass",
+        "The People of Madyan",
+        "The Dwellers of Al-Hijr",
+        "The People of Lut",
+        "The People of Tubba'"
+      ],
+      "answer": "The Companions of Ar-Rass"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Built a lofty tower to reach the heavens",
+        "Denied the messenger sent to us",
+        "Worshipped the golden calf in the absence of Musa",
+        "Plotted to kill Yusuf out of envy",
+        "Demanded to see Allah openly"
+      ],
+      "answer": "Denied the messenger sent to us"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "Mount Judi of resting",
+        "The Mirrored Palace of glass",
+        "The Valley of the Ants",
+        "The Ark built under revelation",
+        "The Well (Ar-Rass)"
+      ],
+      "answer": "The Well (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "Swallowed by the earth for pride in treasure",
+        "Saved by the Ark from the flood",
+        "Made to sleep for centuries in a cave",
+        "Granted control of wind and jinn",
+        "Destroyed for denying the messengers"
+      ],
+      "answer": "Destroyed for denying the messengers"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

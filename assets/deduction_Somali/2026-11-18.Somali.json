@@ -1,0 +1,61 @@
+{
+  "title": "Hirkii Dhiigga Qaybiyay",
+  "intro": "Bal qiyaas daad weyn oo dhulka dul maraya, Doon dul sabeynaysa, iyo hal naf oo dibadda laga tagay oo doorasho lagu doortay. Dhiig ku xidhan nebi weli rumaysad kala fog, qofkan ayaa wajahay baaqii ugu dambeeyay ee ahaa inuu soo dego markii biyuhu ay kor u kaceen. Ma ogaan kartaa aqoonsiga ka dambeeya diidmada?",
+  "clues": [
+    "Waxaan ahay farcankii mid ka mid ah nebiyada ugu waaweyn ee Alle, qoys iimaan leh oo aan doortay inaan ka tago.",
+    "Waxaan ku noolaa xilligii daadadkii weynaa, markaas oo gaalnimadu ay dhulka u dabooshay sida biyaha oo kale.",
+    "Waan diiday inaan raaco Doonta mu'miniinta markii aabbahay ii yeedhay.",
+    "Waxaan iri buur ayaan magan geli doonaa si aan biyaha uga ilaaliyo.",
+    "Waxaa la ii sheegay in aan waxba ka ilaalin karin xukunka Alle maalintaas marka laga reebo naxariista.",
+    "Hirarkii ayaa i qabsaday oo qarqiyay, aabbahayna waxaa la ii sheegay inaan ka mid ahayn qoyskiisa xaqa ah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Zayd ibnu Xaaritha",
+        "Nabi Isxaaq, Ina Nabi Ibraahim",
+        "Wiilkii gaaloobay ee Nabi Nuux",
+        "Haabiil, ina Nabi Aadam",
+        "Nabi Ismaaciil, Ina Nabi Ibraahim"
+      ],
+      "answer": "Wiilkii gaaloobay ee Nabi Nuux"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "In lagu iibiyo addoonsi Masar ka dib markii walaalo ay khiyaameeyeen",
+        "Diidmada fuulitaanka Markabka iyo raadinta buur gabbaad u ah",
+        "In lagu tuuro dab ololaya si loo jebiyo sanamyada",
+        "Kalluun weyn oo liqay ka dib markii uu ka cararay hawlgal",
+        "Qarniyo badan ayaan ku seexanayay god si aan uga baxsado cadaadiskii"
+      ],
+      "answer": "Diidmada fuulitaanka Markabka iyo raadinta buur gabbaad u ah"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Qasriga muraayadda ah ee Saba",
+        "Sanduuqa alwaaxa ah ee lagu tuuray webiga",
+        "Buurta dheer ee la dhisay ayaa magangalyo looga raadsaday daadka",
+        "Geedka gubanaya ee dooxada barakeysan",
+        "Kacbada waxaa loo dhisay sidii guri cibaado"
+      ],
+      "answer": "Buurta dheer ee la dhisay ayaa magangalyo looga raadsaday daadka"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Dhulku wuxuu liqay khasnado kibir ah",
+        "Waxaa la siiyay boqortooyo awood u leh dabaysha iyo jinka",
+        "Waxaa laga dhigay mid qabow oo ammaan ah maadaama dabku noqday nabad",
+        "Kor loogu qaaday samada isagoo nool oo laga badbaadiyay iskutallaabta",
+        "Daadku ku qarqiyay oo aan lagu dhawaaqin qoyska xaqa ah"
+      ],
+      "answer": "Daadku ku qarqiyay oo aan lagu dhawaaqin qoyska xaqa ah"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

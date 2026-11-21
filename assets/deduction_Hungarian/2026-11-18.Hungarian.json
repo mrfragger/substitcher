@@ -1,0 +1,61 @@
+{
+  "title": "A hullám, amely kettéosztotta a vért",
+  "intro": "Képzelj el egy hatalmas áradatot, ami áttöri a földet, egy mozdulatlanul lebegő Bárkát, és egyetlen lelket, akit önszántából kint hagytak. Vér köteléke egy prófétához, mégis a hite elválaszt, ez az alak szembesült a végső hívással, hogy fedélzetre szálljon, miközben a víz hömpölyög. Vajon fel tudod fedezni a visszautasítás mögött rejlő kilétet?",
+  "clues": [
+    "Allah egyik legnagyobb prófétájának a gyermeke vagyok, egy hitből fakadó család, amelyet úgy döntöttem, hogy elhagyok.",
+    "A nagy özönvíz idején éltem, amikor a hitetlenség úgy borította be a földet, mint a víz.",
+    "Nem voltam hajlandó felszállni a Bárkára a hívőkkel, amikor apám rám szólt.",
+    "Azt mondtam, hogy egy hegyen keresek menedéket, hogy megvédjen a víztől.",
+    "Azt mondták nekem, hogy semmi sem védhet meg Allah végzésétől azon a Napon, csak az irgalom.",
+    "Elragadtak a hullámok és megfulladtam, apámnak pedig azt mondták, hogy nem vagyok az igaz családjából való."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Zajd ibn Hárítah",
+        "Ishaq próféta, Ibrahim próféta fia",
+        "Nuh próféta hitetlen fia",
+        "Habil, Ádám próféta fia",
+        "Iszmáil próféta, Ibrahim próféta fia"
+      ],
+      "answer": "Nuh próféta hitetlen fia"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Egyiptomba adták el rabszolgaságba, miután testvérei elárulták",
+        "Nem hajlandó felszállni a bárkára, és egy hegyet keres menedékként",
+        "Lángoló tűzbe vetik őket bálványok összetöréséért",
+        "Egy küldetésből való menekülés után egy nagy hal lenyelte",
+        "Évszázadokon át aludt egy barlangban, hogy elkerülje az üldöztetést"
+      ],
+      "answer": "Nem hajlandó felszállni a bárkára, és egy hegyet keres menedékként"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A tükrös üvegpalota Sabában",
+        "A folyóba öntött faláda",
+        "A magasodó hegy menedéket keresett az özönvíz elől",
+        "Az égő csipkebokor a szent völgyben",
+        "A Kába imaházként épült"
+      ],
+      "answer": "A magasodó hegy menedéket keresett az özönvíz elől"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "A föld elnyelte a gőg kincseit",
+        "Királyságot kapott, hatalmat a szelek és a dzsinnek felett",
+        "Hűvös és biztonságos lett, ahogy a tűz békévé vált",
+        "Élve feltámadt a mennyekbe és megmenekült a keresztre feszítéstől",
+        "Vízözönben fulladtak meg, és nem az igaz családhoz tartozónak nyilvánították őket"
+      ],
+      "answer": "Vízözönben fulladtak meg, és nem az igaz családhoz tartozónak nyilvánították őket"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

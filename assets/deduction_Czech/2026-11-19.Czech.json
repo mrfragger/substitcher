@@ -1,0 +1,61 @@
+{
+  "title": "Skrytá víra uvnitř palácových hradeb",
+  "intro": "Uprostřed tyranského dvora plného intrik a pýchy skrývá osamělá duše nebezpečné tajemství. Obklopen mocí a hrozbami smrti sleduje tento Alláhův služebník posla, jak sám stojí proti impériu. Když se mlčení stane spoluvinou, je třeba učinit odvážné rozhodnutí říci pravdu s velkým osobním rizikem.",
+  "clues": [
+    "Žil jsem mezi mocnými a arogantními lidmi, kteří odmítali Alláhova znamení.",
+    "Chvíli jsem skrýval svou víru, zatímco lidé kolem mě kovali pikle proti jednomu poslu.",
+    "Otevřeně jsem promluvil a řekl: Zabíjíte snad člověka proto, že říká: „Mým Pánem je Alláh,“ zatímco už byly předloženy jasné důkazy?",
+    "Varoval jsem svůj lid před osudem dřívějších národů a před Dnem vzájemného volání.",
+    "Řekl jsem jim, že vládce, kterému sloužím, má jen úzký názor, přestože posmrtný život je tím pravým domovem.",
+    "Řekl jsem: „Lide můj, následujte mě a já vás povedu po správné cestě.“ A Alláh mě zachránil před zlem jejich úkladů."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Abú Laháb",
+        "Karun",
+        "As-Samiri",
+        "Haman",
+        "Věřící z faraonovy rodiny"
+      ],
+      "answer": "Věřící z faraonovy rodiny"
+    },
+    "trial": {
+      "label": "Co jsem udělal/a?",
+      "options": [
+        "Nahromaděné poklady, jejichž klíče zatěžovaly silné muže",
+        "Postavil vznešenou věž, aby mohl shlížet na boha Músu",
+        "Skrytá víra pak otevřeně bránila Músu a varovala můj lid",
+        "Vyrobil zlaté tele, které bučelo",
+        "Zablokoval Prorokovi cestu a zesměšňoval zjevení kvůli bohatství"
+      ],
+      "answer": "Skrytá víra pak otevřeně bránila Músu a varovala můj lid"
+    },
+    "location": {
+      "label": "Kde se můj příběh odehrál?",
+      "options": [
+        "Archa na potopě",
+        "Posvátná mešita v Mekce",
+        "Faraonův palácový dvůr v Egyptě",
+        "Jeskyně spáčů",
+        "Zalesněné údolí Madyan"
+      ],
+      "answer": "Faraonův palácový dvůr v Egyptě"
+    },
+    "outcome": {
+      "label": "Jaký byl můj výsledek?",
+      "options": [
+        "Utopil jsem se s armádou v rozděleném moři",
+        "Země mě spolkla i s mými poklady",
+        "Udeřil do mě blesk i s Thamudem",
+        "Proměnil jsem se v opici za porušení Sabatu",
+        "Alláh mě ochránil před zlem jejich úkladů"
+      ],
+      "answer": "Alláh mě ochránil před zlem jejich úkladů"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

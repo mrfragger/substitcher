@@ -1,0 +1,61 @@
+{
+  "title": "Ukholo Olufihliwe Ngaphakathi Kwezindonga Zesigodlo",
+  "intro": "Enkabeni yenkantolo enonya egcwele amacebo nokuziqhenya, umphefumulo oyedwa uphethe imfihlo eyingozi. Izungezwe amandla nezinsongo zokufa, le nceku ka-Allah ibuka isithunywa simi sodwa silwa nombuso. Lapho ukuthula kuba ukuhlanganyela, kufanele kwenziwe isinqumo esinesibindi sokukhuluma iqiniso ngengozi enkulu yomuntu siqu.",
+  "clues": [
+    "Ngangihlala phakathi kwabantu abanamandla nabaqhoshayo ababenqaba izibonakaliso zika-Allah.",
+    "Ngafihla ukholo lwami okwesikhashana ngenkathi labo ababengizungezile beceba isithunywa.",
+    "Ngakhuluma obala, ngathi: Uyambulala umuntu ngoba ethi, iNkosi yami ingu-Allah, kuyilapho ubufakazi obucacile bufikile?",
+    "Ngaxwayisa abantu bami ngekusasa lezizwe zangaphambilini nangoSuku Lokubizana.",
+    "Ngabatshela ukuthi umbusi engangimkhonza ubonisa umbono omncane kuphela, kodwa ukuphila kwangemva kokufa kuyikhaya langempela.",
+    "Ngathi: O bantu bami, ngilandeleni futhi ngizoniqondisa endleleni eqondile, futhi u-Allah wangisindisa ebubini becebo labo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Abu Lahab",
+        "I-Qarun",
+        "I-As-Samiri",
+        "UHamani",
+        "Okholwayo ovela emndenini kaFaro"
+      ],
+      "answer": "Okholwayo ovela emndenini kaFaro"
+    },
+    "trial": {
+      "label": "Ngenzeni?",
+      "options": [
+        "Ingcebo eqoqwe okhiye bayo babethwala amadoda anamandla",
+        "Wakha umbhoshongo ophakeme ukuze abuke unkulunkulu kaMose",
+        "Ukholo olufihliwe lwabe seluvikela uMose obala futhi lwaxwayisa abantu bami",
+        "Wakha ithole legolide elenza umsindo wokukhala",
+        "Wavimba indlela yoMprofethi futhi wahlekisa ngesambulo ngenxa yengcebo"
+      ],
+      "answer": "Ukholo olufihliwe lwabe seluvikela uMose obala futhi lwaxwayisa abantu bami"
+    },
+    "location": {
+      "label": "Indaba Yami Yavela Kuphi?",
+      "options": [
+        "UMphongolo phezu kwamanzi kazamcolo",
+        "I-Mosque Engcwele eMakkah",
+        "Inkantolo Yesigodlo SikaFaro eGibhithe",
+        "Umhume Wabalele",
+        "Isigodi SaseMadyan Esinehlathi"
+      ],
+      "answer": "Inkantolo Yesigodlo SikaFaro eGibhithe"
+    },
+    "outcome": {
+      "label": "Ube Yini Umphumela Wami?",
+      "options": [
+        "Ngaminza kanye nebutho olwandle oluhlukene phakathi",
+        "Umhlaba ungigwinyile ngengcebo yami",
+        "Umbani wangibamba noThamud",
+        "Ngaphendulwa inkawu ngenxa yokwephula iSabatha",
+        "U-Allah wangivikela ebubini becebo labo"
+      ],
+      "answer": "U-Allah wangivikela ebubini becebo labo"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

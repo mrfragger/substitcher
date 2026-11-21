@@ -1,0 +1,61 @@
+{
+  "title": "Balsis pie klusajiem ūdeņiem",
+  "intro": "Iztēlojieties kopienu, kas nosaukta nevis pilsētas vai valdnieka vārdā, bet gan mierīgā ūdens dēļ, ap kuru pulcējās dzīvība. Tikai dažos pantos ir pieminēta šī kopiena, kas vienmēr ir minēta starp tiem, kas noraidīja vadību. Ieklausieties, kā viņi runā no tumsas.",
+  "clues": [
+    "Mēs esam kopiena, kuras vārds ir minēts Korānā, tomēr mūsu pilnais stāsts joprojām ir noslēpumā tīts.",
+    "Mūs vienmēr piemin līdzās tiem, kas noliedza, piemēram, Ada un Tamuda ļaudis.",
+    "Mūs sauc par Ar-Rasa, Akas, ar kuru bija saistīta mūsu dzīve, biedriem.",
+    "Mēs noraidījām vēstnesi, kas mums tika sūtīts ar skaidriem norādījumiem.",
+    "Mēs esam pieskaitīti pie tiem, kas noraidīja visus Allāha sūtītos vēstnešus.",
+    "Mēs saskārāmies ar draudiem, kas piepildījās pret katru noliedzēju mūsu priekšā – iznīcību par mūsu noraidījumu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Ar-Rasa biedri",
+        "Madjanas iedzīvotāji",
+        "Al-Hidžras iedzīvotāji",
+        "Lutas iedzīvotāji",
+        "Tubbas iedzīvotāji"
+      ],
+      "answer": "Ar-Rasa biedri"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Uzcēla augstu torni, lai sasniegtu debesis",
+        "Noraidīja mums sūtīto vēstnesi",
+        "Pielūdza zelta teļu Musas prombūtnes laikā",
+        "Saskārības dēļ plānoja nogalināt Jusufu",
+        "Pieprasīja atklāti redzēt Allāhu"
+      ],
+      "answer": "Noraidīja mums sūtīto vēstnesi"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Jūdi kalns atpūšas",
+        "Stikla spoguļpils",
+        "Skudru ieleja",
+        "Šķirsts, kas celts saskaņā ar atklāsmi",
+        "Aka (Ar-Rass)"
+      ],
+      "answer": "Aka (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Zeme norīja lepnuma par dārgumiem dēļ",
+        "Arka izglāba no plūdiem",
+        "Radīts, lai gadsimtiem ilgi gulētu alā",
+        "Piešķirta vēja un džina kontrole",
+        "Iznīcināti par vēstnešu noliegšanu"
+      ],
+      "answer": "Iznīcināti par vēstnešu noliegšanu"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

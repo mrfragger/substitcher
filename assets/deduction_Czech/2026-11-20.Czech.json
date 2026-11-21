@@ -1,0 +1,61 @@
+{
+  "title": "Let přes neklidné moře",
+  "intro": "Představte si, jak stojíte na palubě přetížené lodi, vlny se zvedají a posádka losuje, aby si ulehčila náklad. Osamělá postava vykročí vpřed a přijme osud, který se zdá být koncem, jen aby se hlubiny staly místem modlitby a návratu. Za nimi leží komunita varovaná před blížícím se trestem, před námi leží nečekané milosrdenství.",
+  "clues": [
+    "Byl jsem vyslán jako posel k více než sto tisícům lidí.",
+    "Rozzlobeně jsem opustil své lidi, než jsem dostal povolení k odchodu.",
+    "Nastoupil jsem na naloženou loď a posádka losovala, kdo bude hozen přes palubu.",
+    "Byl jsem vržen do moře a spolkla mě velká ryba, zatímco jsem si zasloužil vinu.",
+    "V temnotách jsem oslavoval Alláha a prohlašoval, že není jiného božstva než Něj a že jsem byl jedním z provinilců.",
+    "Byl jsem nemocný a vyvržen na otevřený břeh. Alláh způsobil, že nade mnou vyrostla tykev. Pak můj lid uvěřil a na čas se mu dostalo radosti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Músa",
+        "Prorok Hud",
+        "Prorok Nuh",
+        "Prorok Lut",
+        "Prorok Júnus"
+      ],
+      "answer": "Prorok Júnus"
+    },
+    "trial": {
+      "label": "Jaké zkoušce jsem čelil?",
+      "options": [
+        "Vhozen do ohně, ochladil a byl v bezpečí",
+        "Po útěku spolknut velkou rybou",
+        "Vhozen do hluboké studny žárlivými bratry",
+        "Zasažen dlouhou nemocí a ztrátou zdraví",
+        "Přikázáno obětovat milované dítě"
+      ],
+      "answer": "Po útěku spolknut velkou rybou"
+    },
+    "location": {
+      "label": "Co je můj klíčový prvek?",
+      "options": [
+        "Dřevěná archa na potopních vodách",
+        "Jeskyně útočiště před pronásledováním",
+        "Posvátné údolí Tuwa",
+        "Velká ryba a její břicho",
+        "Chladný oheň připravený modláři"
+      ],
+      "answer": "Velká ryba a její břicho"
+    },
+    "outcome": {
+      "label": "Jaký byl můj výsledek?",
+      "options": [
+        "Zachráněn oslavou a můj lid uvěřil a byl na čas ušetřen",
+        "Můj lid se proměnil v opice za porušení Sabatu",
+        "Můj lid byl pohlcen zemí pro svou aroganci",
+        "Můj lid byl zasažen mocným výbuchem z nebe",
+        "Můj lid byl utopen velkou povodní"
+      ],
+      "answer": "Zachráněn oslavou a můj lid uvěřil a byl na čas ušetřen"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

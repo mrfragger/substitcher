@@ -1,0 +1,61 @@
+{
+  "title": "Ar mouezhioù e-kichen an dourioù sioul",
+  "intro": "Skeudenniñ ur gumuniezh anvet n'eo ket diwar anv ur gêr pe ur rener, met anvet an dour sioul en-dro dezhañ e veze bodet ar vuhez. N'eus nemet un nebeud gwerzennoù o deus soñj eus ar gumuniezh-se, bepred renket e-touez ar re o deus nac'het ar c'helenn. Selaouit e-keit ma komzont diouzh an deñvalijenn.",
+  "clues": [
+    "Ur gumuniezh anvet er C'horan omp, met chom a ra hon istor klok kuzhet gant ur mister.",
+    "Meneget e vezomp bepred e-kichen ar re o deus nac'het, evel tud Ad ha Thamud.",
+    "Kompagnuned Ar-Rass a vez graet ac’hanomp, ar Puñs a oa stag outañ hor buhez.",
+    "Nac’het hon eus ar c’hannad a oa bet kaset deomp gant ur c’helenn sklaer.",
+    "Kontet omp e-touez ar re o deus nac'het an holl gannaded kaset gant Allah.",
+    "En em gavout a reomp dirak ar gourdrouz a-enep pep nac'her a-raok deomp, distruj evit hon nac'hadenn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Kompagnuned Ar-Rass",
+        "Pobl Madyan",
+        "Annezidi Al-Hijr",
+        "Pobl Lut",
+        "Tud Tubba'"
+      ],
+      "answer": "Kompagnuned Ar-Rass"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Savet un tour uhel evit tizhout an neñvoù",
+        "Nac'het eo bet ar c'hannad bet kaset deomp",
+        "Azeulet e veze al leue aour pa ne oa ket Musa",
+        "Raktreset evit lazhañ Yusuf dre warizi",
+        "Goulenn a reas gwelet Allah digor"
+      ],
+      "answer": "Nac'het eo bet ar c'hannad bet kaset deomp"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Menez Judi a ziskuiz",
+        "Palez ar gwer melezour",
+        "Traoñienn ar Merzhed",
+        "An Arc'h savet dindan diskuliadur",
+        "Ar Puñs (Ar-Rass)"
+      ],
+      "answer": "Ar Puñs (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Lonket gant an douar evit lorc'h an teñzor",
+        "Saveteet gant an Arc'h diouzh al liñvadenn",
+        "Lakaet da gousket e-pad kantvedoù en ur c'hev",
+        "Roet kontroll d'an avel ha d'ar jinn",
+        "Distrujet evit bezañ nac'het ar gannaded"
+      ],
+      "answer": "Distrujet evit bezañ nac'het ar gannaded"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Itsaso geldiezinaren gaineko hegaldia",
+  "intro": "Imajinatu ontzi gainkargatu baten kubiertan zutik zaudela, olatuak gora egiten duten bitartean eta tripulazioak zozketa egiten duen bitartean zama arintzeko. Irudi bakarti bat aurrera egiten du, amaiera dirudien patua onartuz, baina sakonera otoitz eta itzulera leku bihurtzen da. Atzean, zigorra etorriko dela ohartarazi dioten komunitate bat dago, aurrean erruki ustekabekoa.",
+  "clues": [
+    "Ehun mila pertsona baino gehiagorengana bidali ninduten mezulari gisa.",
+    "Haserretuta utzi nuen nire jendea, alde egiteko baimena jaso aurretik.",
+    "Itsasontzi zamatsu batera igo nintzen eta tripulazioak zozketa egin zuen itsasora nor botako zuten erabakitzeko.",
+    "Errudun nintzela, itsasora bota ninduten eta arrain handi batek irentsi ninduen.",
+    "Ala goratu nuen iluntasunean, Haren beste jainkorik ez dagoela adieraziz eta gaizkileetako bat nintzela.",
+    "Gaixorik hondartza zabalera bota ninduten, eta Alahek kuia-landare bat haziarazi zidan gainean, orduan nire herriak sinetsi zuen eta denbora batez gozamena eman zitzaien."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Musa profeta",
+        "Hud profeta",
+        "Nuh profeta",
+        "Lut profeta",
+        "Yunus profeta"
+      ],
+      "answer": "Yunus profeta"
+    },
+    "trial": {
+      "label": "Zer probari egin behar izan nion aurre?",
+      "options": [
+        "Sutara botata, fresko eta seguru bihurtuta",
+        "Ihes egin ondoren arrain handiek irentsi zuten",
+        "Anaia jeloskorrek putzu sakon batera botata",
+        "Gaixotasun luze batek jota eta osasuna galduta",
+        "Maite den haur bat sakrifikatzeko agindua eman zioten"
+      ],
+      "answer": "Ihes egin ondoren arrain handiek irentsi zuten"
+    },
+    "location": {
+      "label": "Zein da nire elementu nagusia?",
+      "options": [
+        "Egurrezko arka uholde-uretan",
+        "Jazarpenaren aurkako babesleku kobazuloa",
+        "Tuwako haran sakratua",
+        "Arrain handia eta bere sabela",
+        "Idoloatrak prestatutako su freskoa"
+      ],
+      "answer": "Arrain handia eta bere sabela"
+    },
+    "outcome": {
+      "label": "Zein izan zen nire emaitza?",
+      "options": [
+        "Aintzaz salbatu ziren eta nire herriak sinetsi eta denbora batez salbatu ziren",
+        "Nire herria tximino bihurtu zuten Sabbatua hausteagatik",
+        "Nire herria lurrak irentsi zuen harrokeriagatik",
+        "Nire herria zeruko eztanda indartsu batek harrapatu zuen",
+        "Nire herria uholde handi batek ito zuen"
+      ],
+      "answer": "Aintzaz salbatu ziren eta nire herriak sinetsi eta denbora batez salbatu ziren"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

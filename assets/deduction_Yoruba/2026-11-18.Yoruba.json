@@ -1,0 +1,61 @@
+{
+  "title": "Ìgbì omi tó pín ẹ̀jẹ̀ sí méjì",
+  "intro": "Fojú inú wo ìkún omi ńlá kan tó ń bò lórí ilẹ̀ náà, ọkọ̀ ojú omi kan tó ń léfòó, àti ọkàn kan tó fi sílẹ̀ lóde nípasẹ̀ ìfẹ́. Ẹ̀jẹ̀ tí wọ́n fi so mọ́ wòlíì kan, àmọ́ ìgbàgbọ́ ti yà á sọ́tọ̀, ẹni yìí dojúkọ ìpè ìkẹyìn láti wọ ọkọ̀ ojú omi náà bí omi náà ṣe ń rọ́. Ṣé o lè mọ ẹni tó wà lẹ́yìn ìkọ̀ náà?",
+  "clues": [
+    "Èmi ni ọmọ ọ̀kan lára ​​àwọn wòlíì tó tóbi jùlọ nínú Ọlọ́run, ìdílé ìgbàgbọ́ tí mo yàn láti lọ.",
+    "Mo gbé ní àkókò Ìkún Omi Ńlá, nígbà tí àìnígbàgbọ́ bo ilẹ̀ bí omi.",
+    "Mo kọ̀ láti wọ ọkọ̀ pẹ̀lú àwọn onígbàgbọ́ nígbà tí bàbá mi pè mí.",
+    "Mo ní mo máa wá ààbò lórí òkè láti dáàbò bò mí kúrò lọ́wọ́ omi.",
+    "Wọ́n sọ fún mi pé kò sí ohun tó lè dáàbò bo àṣẹ Allāhu ní ọjọ́ náà bí kò ṣe àánú.",
+    "Àwọn ìgbì omi gbé mi lọ, mo sì rì sínú omi, wọ́n sì sọ fún bàbá mi pé mi ò sí nínú ìdílé rẹ̀ tó jẹ́ olódodo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Zayd ibn Harithah",
+        "Wòlíì Ísákì, Ọmọ Wòlíì Ísákì",
+        "Ọmọ Àgbàgbọ́ ti Ànábì Núù",
+        "Habil, Ọmọ Wòlíì Adamu",
+        "Wòlíì Ismail, Ọmọ Wòlíì Ibrahim"
+      ],
+      "answer": "Ọmọ Àgbàgbọ́ ti Ànábì Núù"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Wọ́n tà wọ́n sí oko ẹrú ní Íjíbítì lẹ́yìn ìdàmọ̀ràn àwọn arákùnrin wọn",
+        "Kíkọ̀ láti wọ ọkọ̀ Àpótí náà àti wíwá òkè gẹ́gẹ́ bí ibi ìsádi",
+        "Jíjẹ́ ẹni tí a jù sínú iná tí ń jó fún fífọ́ àwọn ère",
+        "Ẹja ńlá gbé mì lẹ́yìn tí ó sá kúrò ní iṣẹ́ àkànṣe kan",
+        "Sísùn fún ọ̀pọ̀ ọ̀rúndún nínú ihò àpáta láti bọ́ lọ́wọ́ inúnibíni"
+      ],
+      "answer": "Kíkọ̀ láti wọ ọkọ̀ Àpótí náà àti wíwá òkè gẹ́gẹ́ bí ibi ìsádi"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ààfin dígí tí a fi dígí ṣe ní Saba",
+        "Àpótí onígi tí wọ́n jù sínú odò náà",
+        "Àwọn òkè gíga náà wá ibi ìsádi kúrò lọ́wọ́ Ìkún Omi náà",
+        "Igbó tí ń jó ní àfonífojì mímọ́ náà",
+        "Kaaba ni a kọ́ gẹ́gẹ́ bí ilé ìjọsìn"
+      ],
+      "answer": "Àwọn òkè gíga náà wá ibi ìsádi kúrò lọ́wọ́ Ìkún Omi náà"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ayé gbé e mì pẹ̀lú ìṣúra fún ìgbéraga",
+        "A fun ni ijọba kan pẹlu agbara lori afẹfẹ ati awọn jinni",
+        "A ti sọ ọ́ di tútù àti ààbò bí iná ṣe di àlàáfíà",
+        "A jí i dìde láàyè sí ọ̀run, a sì gbà á kúrò nínú àgbélébùú",
+        "Ìkún omi rì mí, a kò sì kéde rẹ̀ gẹ́gẹ́ bí ìdílé olódodo"
+      ],
+      "answer": "Ìkún omi rì mí, a kò sì kéde rẹ̀ gẹ́gẹ́ bí ìdílé olódodo"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

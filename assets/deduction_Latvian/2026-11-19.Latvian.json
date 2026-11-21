@@ -1,0 +1,61 @@
+{
+  "title": "Slēptā ticība pils sienās",
+  "intro": "Tirāniskas tiesas centrā, kas ir pilna ar sazvērestībām un lepnumu, vientuļa dvēsele glabā bīstamu noslēpumu. Ieskauj varenība un nāves draudi, šis Allāha kalps vēro, kā vēstnesis viens pats stājas pretī impērijai. Kad klusēšana kļūst par līdzdalību, ir jāpieņem drosmīgs lēmums runāt patiesību, riskējot ar lielu personīgo risku.",
+  "clues": [
+    "Es dzīvoju starp vareniem un augstprātīgiem cilvēkiem, kas noraidīja Allāha zīmes.",
+    "Es kādu laiku slēpu savu ticību, kamēr apkārtējie plānoja sazvērestību pret vēstnesi.",
+    "Es atklāti paudu savu nostāju, sacīdams: “Vai jūs nogalināt kādu, kurš saka: “Mans Kungs ir Allāhs”, lai gan ir pienākušas skaidras liecības?”",
+    "Es brīdināju savu tautu par agrāko tautu likteni un par Savstarpējās Aicināšanas dienu.",
+    "Es viņiem teicu, ka valdnieks, kuram kalpoju, pauž tikai šaurus uzskatus, tomēr aizsaulē ir īstās mājas.",
+    "Es teicu: “Ak, mani ļaudis, sekojiet man, un es jūs vadīšu pa pareizo ceļu!” Un Allāhs mani izglāba no viņu ļaunajiem nodomiem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Abu Lahābs",
+        "Koruns",
+        "As-Samiri",
+        "Hamans",
+        "Ticīgais no faraona ģimenes"
+      ],
+      "answer": "Ticīgais no faraona ģimenes"
+    },
+    "trial": {
+      "label": "Ko es izdarīju?",
+      "options": [
+        "Sakrāti dārgumi, kuru atslēgas apgrūtināja spēcīgus vīrus",
+        "Uzcēla augstu torni, lai skatītos uz Mūsas dievu",
+        "Slēptā ticība tad atklāti aizstāvēja Musu un brīdināja manu tautu",
+        "Izgatavoja zelta teļu, kas radīja maurojošu skaņu",
+        "Šķērsoja pravieša ceļu un izsmēja atklāsmi bagātības iegūšanai"
+      ],
+      "answer": "Slēptā ticība tad atklāti aizstāvēja Musu un brīdināja manu tautu"
+    },
+    "location": {
+      "label": "Kur risinājās mans stāsts?",
+      "options": [
+        "Arks plūdu ūdeņos",
+        "Svētā mošeja Mekā",
+        "Faraona pils tiesa Ēģiptē",
+        "Guļošo ala",
+        "Madjanas mežainā ieleja"
+      ],
+      "answer": "Faraona pils tiesa Ēģiptē"
+    },
+    "outcome": {
+      "label": "Kāds bija mans rezultāts?",
+      "options": [
+        "Es noslīku kopā ar armiju sadalītajā jūrā",
+        "Zeme mani aprija ar maniem dārgumiem",
+        "Pērkons mani sagrāba kopā ar Tamudu",
+        "Es kļuvu par pērtiķi, jo pārkāpu sabatu",
+        "Allāhs mani pasargāja no viņu ļaunā plāna"
+      ],
+      "answer": "Allāhs mani pasargāja no viņu ļaunā plāna"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Jauregiko harresien barruan ezkutatutako fedea",
+  "intro": "Konspirazioz eta harrotasunez betetako gorte tiraniko baten erdian, arima bakarti batek sekretu arriskutsu bat gordetzen du. Botereaz eta heriotza-mehatxuz inguratuta, Alaren zerbitzari honek mezulari bat inperio baten aurka bakarrik nola dagoen ikusten du. Isiltasuna konplizitate bihurtzen denean, erabaki ausarta hartu behar da egia esateko, arrisku pertsonal handiarekin.",
+  "clues": [
+    "Alaren seinaleak arbuiatzen zituen herri boteretsu eta harroputz baten artean bizi nintzen.",
+    "Denbora batez nire fedea ezkutatu nuen ingurukoek mezulari baten aurka konspiratzen zuten bitartean.",
+    "Argi eta garbi hitz egin nuen, esanez: Norbait hiltzen al duzue nire Jauna Ala da esaten duelako, froga argiak etorri diren arren?",
+    "Nire herria ohartarazi nuen lehenagoko nazioen patuaz eta Elkarren Deialdiaren Egunaz.",
+    "Esan nien zerbitzatzen nuen agintariak iritzi mugatua zuela, baina Beste Bizitza dela benetako etxea.",
+    "Esan nuen: Oi, nire herria, jarraitu iezadazue eta bide onetik gidatuko zaituztet, eta Allahk salbatu ninduen haien azpijoko gaiztoetatik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Abu Lahab",
+        "Qarun",
+        "As-Samiri",
+        "Haman",
+        "Faraoiaren familiako sinestuna"
+      ],
+      "answer": "Faraoiaren familiako sinestuna"
+    },
+    "trial": {
+      "label": "Zer egin nuen?",
+      "options": [
+        "Gizon indartsuen giltzak zama gisa zituzten altxor pilatuak",
+        "Musa jainkoari begiratzeko dorre garai bat eraiki zuen",
+        "Fede ezkutuak Musa defendatu zuen orduan ireki eta nire herria ohartarazi zuen",
+        "Urrezko txahal bat egin zuen, marruka egiten zuena",
+        "Profetaren bidea blokeatu eta errebelazioa iseka egin zuen aberastasunaren truke"
+      ],
+      "answer": "Fede ezkutuak Musa defendatu zuen orduan ireki eta nire herria ohartarazi zuen"
+    },
+    "location": {
+      "label": "Non garatu zen nire istorioa?",
+      "options": [
+        "Arka uholde-uretan",
+        "Mekako Meskita Sakratua",
+        "Egiptoko Faraoiaren Jauregiko Gortea",
+        "Lotiaren kobazuloa",
+        "Madyaneko baso-harana"
+      ],
+      "answer": "Egiptoko Faraoiaren Jauregiko Gortea"
+    },
+    "outcome": {
+      "label": "Zein izan zen nire emaitza?",
+      "options": [
+        "Itsaso zatituan armadarekin ito nintzen",
+        "Lurrak irentsi ninduen nire altxorrekin batera",
+        "Tximista batek harrapatu ninduen Thamud-ekin batera",
+        "Sabbath hausteagatik tximino bihurtu ninduten",
+        "Ala-k babestu ninduen haien planaren gaitzetik"
+      ],
+      "answer": "Ala-k babestu ninduen haien planaren gaitzetik"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

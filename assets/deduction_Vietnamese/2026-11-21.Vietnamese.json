@@ -1,0 +1,61 @@
+{
+  "title": "Những Tiếng Nói Bên Mặt Nước Tĩnh Lặng",
+  "intro": "Hãy hình dung một cộng đồng không được đặt tên theo một thành phố hay một người cai trị, mà theo dòng nước tĩnh lặng nơi sự sống tụ họp. Chỉ một vài câu thơ ghi nhớ cộng đồng này, luôn được liệt kê trong số những người từ chối sự dẫn dắt. Hãy lắng nghe họ cất tiếng nói từ nơi khuất lấp.",
+  "clues": [
+    "Chúng tôi là một cộng đồng được nhắc đến trong kinh Quran, nhưng câu chuyện đầy đủ về chúng tôi vẫn còn là một bí ẩn.",
+    "Chúng ta luôn được nhắc đến cùng với những người đã chối bỏ sự thật, như người dân Ad và Thamud.",
+    "Chúng tôi được gọi là những người bạn đồng hành của Ar-Rass, giếng nước mà cuộc sống của chúng tôi gắn bó.",
+    "Chúng ta đã chối bỏ sứ giả được phái đến với chúng ta mang theo chỉ dẫn rõ ràng.",
+    "Chúng tôi bị xếp vào nhóm những kẻ đã chối bỏ tất cả các sứ giả do Allah phái đến.",
+    "Chúng ta đã phải đối mặt với mối đe dọa đã trở thành hiện thực đối với mọi kẻ phủ nhận trước đây, sự hủy diệt dành cho sự từ chối của chúng ta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Những người bạn đồng hành của Ar-Rass",
+        "Người dân Madyan",
+        "Những cư dân của Al-Hijr",
+        "Người dân Lut",
+        "Người dân Tubba'"
+      ],
+      "answer": "Những người bạn đồng hành của Ar-Rass"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Xây dựng một tòa tháp cao vút để vươn tới trời cao.",
+        "Đã từ chối người đưa tin được phái đến cho chúng tôi.",
+        "Họ thờ cúng con bê vàng khi Musa vắng mặt.",
+        "Âm mưu giết Yusuf vì ghen tị",
+        "Yêu cầu được nhìn thấy Allah một cách công khai"
+      ],
+      "answer": "Đã từ chối người đưa tin được phái đến cho chúng tôi."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Núi Judi nghỉ ngơi",
+        "Cung điện tráng gương bằng kính",
+        "Thung lũng kiến",
+        "Con tàu Noah được đóng theo sự mặc khải",
+        "Giếng (Ar-Rass)"
+      ],
+      "answer": "Giếng (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Bị đất nuốt chửng vì lòng kiêu hãnh về kho báu",
+        "Được tàu Nô-ê cứu thoát khỏi trận lụt",
+        "Bị bắt ngủ hàng thế kỷ trong hang động",
+        "Được ban cho khả năng điều khiển gió và thần linh.",
+        "Bị tiêu diệt vì chối bỏ sứ giả"
+      ],
+      "answer": "Bị tiêu diệt vì chối bỏ sứ giả"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

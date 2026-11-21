@@ -1,0 +1,61 @@
+{
+  "title": "Te Ngaru i Wehewehe i te Toto",
+  "intro": "Whakaarohia he waipuke nui e piki ake ana i runga i te whenua, he Āka e mānu ana, ā, kotahi te wairua i mahue ki waho nā te whiriwhiri. I herea e te toto ki tētahi poropiti engari i wehea e te whakapono, i tūtaki tēnei tangata ki te karanga whakamutunga kia eke ki runga i te waka i te ngaru o te wai. Ka taea e koe te hura i te tuakiri kei muri i te whakakorenga?",
+  "clues": [
+    "He uri ahau nō tētahi o ngā poropiti nui rawa atu a Allah, he whānau whakapono i whiriwhiria e au kia wehe atu.",
+    "I noho ahau i te wā o te Waipuke Nui, i te wā i taupokina ai te whenua e te whakaponokore pērā i te wai.",
+    "I te karangatanga mai a tōku pāpā ki ahau, i whakakahore ahau ki te eke tahi me te hunga whakapono ki roto i te Āaka.",
+    "I mea ahau ka rapu piringa ahau ki runga i te maunga hei tiaki i ahau i te wai.",
+    "I korerotia mai ki ahau kāore he mea hei tiaki i te ture a Allah i taua rā engari ko te aroha noa.",
+    "I taupokina ahau e ngā ngaru, ā, i toremi ahau, ā, i kīia mai ki tōku pāpā ehara ahau i tōna whānau tika."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Zayd ibn Harithah",
+        "Poropiti Ihakā, tama a Poropiti Ihāmirama",
+        "Te Tama Whakakore a te Poropiti a Noa",
+        "Habil, te tama a te Poropiti a Ātama",
+        "Poropiti a Ihimaera, te tama a Poropiti a Ihāperaima"
+      ],
+      "answer": "Te Tama Whakakore a te Poropiti a Noa"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I hokona hei pononga i Ihipa i muri i te tinihanga a ngā tuakana",
+        "Te kore e eke ki te Āraka, me te rapu maunga hei piringa",
+        "Te maka ki roto i te ahi mura hei wawahi i ngā whakapakoko",
+        "Te horomia e te ika nui i muri i tana oma i tētahi misioni",
+        "Te moe mō ngā rautau i roto i te ana hei mawhiti i te whakatoi"
+      ],
+      "answer": "Te kore e eke ki te Āraka, me te rapu maunga hei piringa"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te whare whakaata karaihe i Saba",
+        "Ko te pouaka rakau i maka ki te awa",
+        "I rapu te maunga teitei hei piringa i te Waipuke",
+        "Te rakau e mura ana i te awaawa tapu",
+        "I hangaia te Kaaba hei whare karakia"
+      ],
+      "answer": "I rapu te maunga teitei hei piringa i te Waipuke"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Horomia ana e te whenua ngā taonga mō te whakapehapeha",
+        "I whakawhiwhia he kingitanga me te mana ki runga i ngā hau me ngā jinn",
+        "I whakamatao, i haumaru hoki i te mea kua huri te ahi hei rangimārie",
+        "I whakaarahia oratia ki te rangi, i whakaorangia i te ripeka",
+        "I toremi i te Waipuke, ā, i kīia ehara i te whānau tika"
+      ],
+      "answer": "I toremi i te Waipuke, ā, i kīia ehara i te whānau tika"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

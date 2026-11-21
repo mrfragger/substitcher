@@ -1,0 +1,61 @@
+{
+  "title": "Naaw jàll géej gi amul dal",
+  "intro": "Xalaatal sudoon danga taxaw ci kaw pondu gaal gu yab lu bari, vague yi di gëna yokk, nit ñi di sànni lote ngir wàcce yab gi. Benn nit rek moo ñëw, nangu ëlëg gu melni mujjentalu àdduna, waaye xóotaayu suuf si nekk barabu ñaan ak dellu. Ginaaw fen yi dafa am askan wuñ artu ci yar buy ñëw, ci kanam amna yërmaande guñu xamul woon.",
+  "clues": [
+    "Dañu ma yónnee ma yónnee lu ëpp téeméeri junniy nit.",
+    "Ma bàyyi sama askan ci mer balaa ñu may may ma dem.",
+    "Ma dugg ci gaal gu yab ay bagaas, liggéeykat yi daal di sànni loxo ngir xool kan lañuy sànni ci géej gi.",
+    "Jën wu mag sànni ma ci géej gi, wann ma, fekk maa ngi doon tuumal.",
+    "Ma màggal Yàlla ci biir lëndëm yi, di wax ni amul beneen yàlla bu dul moom, te bokk naa ci tooñkat yi.",
+    "Ñu sànni ma ci tefes gi, feebar, Yàlla daal di màgg ci sama kaw, sama askan gëm, ñu am bànneex ci diir bu gàtt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Boroom bi Musa",
+        "Boroom bi Hud",
+        "Yonent-Yàlla Nuh",
+        "Luut Yàlla",
+        "Yunus boroom bi"
+      ],
+      "answer": "Yunus Yalla"
+    },
+    "trial": {
+      "label": "Lan laa jànkoonteel?",
+      "options": [
+        "sànni leen ci safara bu sedd te wóor",
+        "Jën wu mag wi wann ko ginaaw bimu daw",
+        "Samay mbokk yu fiir sànni nañu ko ci bënn bu xóot bi",
+        "Dafa am feebar bu yàgg, ba noppi ñàkk wérgi-yaram",
+        "Ñu digal ko mu saraxe doomam bumu bëgg"
+      ],
+      "answer": "Jën wu mag wi wann ko ginaaw bimu daw"
+    },
+    "location": {
+      "label": "Luy sama element bu am solo?",
+      "options": [
+        "Ark dénk bi ci kaw ndoxu mbënd mi",
+        "Grotte biy rëcci ci fitna",
+        "Vallé sacré de Tuwa",
+        "Jën wu mag wi ak biiram",
+        "Safara bu sedd bi jaamukat yi waajal"
+      ],
+      "answer": "Jën wu mag wi ak biiram"
+    },
+    "outcome": {
+      "label": "Luy sama résultat?",
+      "options": [
+        "Mucc nañu ma ci ndam, sama askan gëm, muccal leen ci diir bu gàtt",
+        "Sama askan soppi nañu leen ay maymu ndax dañu sàggane bisu noflaay bi",
+        "Suuf si wann na sama askan ndax réy-réy",
+        "Sama askan dafa am doole bu jóge asamaan",
+        "Sama askan, mbënd mu mag mi moo xëcc"
+      ],
+      "answer": "Mucc nañu ma ci ndam, sama askan gëm, muccal leen ci diir bu gàtt"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

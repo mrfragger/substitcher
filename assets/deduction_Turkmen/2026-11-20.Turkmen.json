@@ -1,0 +1,61 @@
+{
+  "title": "Dynçsyz deňziň üstünden uçuş",
+  "intro": "Tolkunlar möwç alyp, ekipaž ýükü ýeňilleşdirmek üçin bije atýarka, ýüklenen gäminiň palubasy üstünde duran keşbi suratlandyryň. Ýeke-täk adam öňe ädim ädýär, soňy ýaly görünýän ykbaly kabul edýär, ýöne çuňluklar doga we gaýdyp gelmek üçin ýere öwrülýär. Arkasynda ýetip gelýän jeza barada duýduryş berlen jemgyýet, öňde bolsa garaşylmadyk rehim bar.",
+  "clues": [
+    "Men ýüz müňden gowrak adama elçi hökmünde iberildim.",
+    "Men gitmäge rugsat almazdan öň, adamlarymdan gaharlanyp gitdim.",
+    "Men ýükli gäminiň üstüne mündüm we ekipaž kimiň deňize taşlanjakdygyny kesgitlemek üçin bije atdy.",
+    "Meni deňze taşladylar we men günäkär bolup durkam, uly bir balyk meni ýuwutdy.",
+    "Men garaňkylyklarda Allany şöhratlandyrdym, Ondan başga hiç bir hudaýyň ýokdugyny we özümiň zalymlardan bolandygymy yglan etdim.",
+    "Men syrkawlap açyk kenara taşlandym we Allatagala meniň üstüme gabyk ösümligini ösdürdi, soňra meniň kowumym iman getirdi we belli bir wagtlap lezzet aldy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Musa pygamber",
+        "Hud pygamber",
+        "Nuh pygamber",
+        "Lut pygamber",
+        "Ýunus pygamber"
+      ],
+      "answer": "Ýunus pygamber"
+    },
+    "trial": {
+      "label": "Men nähili synaga duçar boldum?",
+      "options": [
+        "Sowuk we howpsuz edilen oda taşlandy",
+        "Gaçyp gidenden soň uly balyk tarapyndan ýuwudyldy",
+        "Görip doganlar tarapyndan çuň guýa taşlandy",
+        "Uzak wagtlap kesellän we saglygyny ýitiren",
+        "Söýgüli çagasyny gurban etmek tabşyryldy"
+      ],
+      "answer": "Gaçyp gidenden soň uly balyk tarapyndan ýuwudyldy"
+    },
+    "location": {
+      "label": "Meniň esasy elementim näme?",
+      "options": [
+        "Sil suwlarynyň üstünde agaçdan ýasalan gämi",
+        "Zulmdan gaçybatalga gaçybatalgasy",
+        "Tuwanyň mukaddes jülgesi",
+        "Uly balyk we onuň garny",
+        "Butparazlar tarapyndan taýýarlanan sowuk ot"
+      ],
+      "answer": "Uly balyk we onuň garny"
+    },
+    "outcome": {
+      "label": "Meniň netijäm nähili boldy?",
+      "options": [
+        "şöhrat bilen halas boldy we meniň halkym iman getirdi we belli bir wagt üçin halas boldy",
+        "Meniň halkym Sabat güni bozandyklary üçin maýmynlara öwrüldi",
+        "Meniň halkym tekepbirlik üçin ýer tarapyndan ýuwutyldy",
+        "Meniň halkym asmandan güýçli bir üfleme bilen tutuldy",
+        "Meniň halkym uly silde gark boldy"
+      ],
+      "answer": "şöhrat bilen halas boldy we meniň halkym iman getirdi we belli bir wagt üçin halas boldy"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

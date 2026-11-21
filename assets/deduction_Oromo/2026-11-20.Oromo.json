@@ -1,0 +1,61 @@
+{
+  "title": "Balalii Galaana Boqonnaa Hin Qabne Qaxxaamuraa",
+  "intro": "Suuraa doonii garmalee feʼamte tokkoo irratti yeroo dalgaan ol kaʼee fi hojjettoonni doonii feʼumsa sana salphisuuf carraa baʼan. Namni kophaa ta’e tokko hiree xumura fakkaatu fudhachuun gara fuulduraatti tarkaanfata, gadi fageenyaan bakka kadhannaa ta’ee deebi’uu qofaaf. Duuba hawaasni adabbii dhufuuf akeekkachiifame, fuuldura isaa araara hin eegamnetu jira.",
+  "clues": [
+    "Namoota kuma dhibbaa ol ta'aniif ergamaa ta'ee ergame.",
+    "Uummata koo osoo hayyama hin argatin aariidhaan dhiiseen deeme.",
+    "Doonii fe'umsa qabdu yaabbadhee hojjettoonni doonii eenyu akka galaanatti darbatamu murteessuuf carraa ba'an.",
+    "Osoon komatamu galaana keessatti darbatamee qurxummii guddaa tokkoon liqimfame.",
+    "Dukkana keessatti Rabbiin ulfina kenne, Isa malee waaqni biraa akka hin jirree fi jallitoota keessaa akkan ture labse.",
+    "Ani qarqara galaanaa banaa irratti darbatamee, dhukkubsadhee, Rabbiin biqiltuu gogaa akka na irratti biqilche, sana booda sabni koo amanee yeroodhaaf gammachuun isaaf kenname."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nabi Muusaa",
+        "Nabi Hud",
+        "Nabi Nuh",
+        "Nabi Luut",
+        "Nabi Yunus"
+      ],
+      "answer": "Nabi Yunus"
+    },
+    "trial": {
+      "label": "Qormaanni Akkamii Na mudate?",
+      "options": [
+        "Ibiddatti darbatamee qabbanaa'aa fi nageenya qabu taasise",
+        "Qurxummii guddichaan erga baqatee booda liqimfame",
+        "Obboloota hinaaffaa qabaniin boolla gadi fagootti darbatame",
+        "Dhukkuba yeroo dheeraa fi fayyaa dhabuun kan rukutame",
+        "Mucaa jaallatamaa akka wareeguuf ajajame"
+      ],
+      "answer": "Qurxummii guddichaan erga baqatee booda liqimfame"
+    },
+    "location": {
+      "label": "Qaamni Ijoo Koo Maali?",
+      "options": [
+        "Taabotni mukaa bishaan lolaa irra jiru",
+        "Holqa ari'atama irraa itti baqatan",
+        "Gammoojjii qulqulluu Tuwaa",
+        "Qurxummii guddaa fi garaa isaa",
+        "Ibidda qabbanaawaa waaqeffattoota waaqa tolfamaa qopheessan"
+      ],
+      "answer": "Qurxummii guddaa fi garaa isaa"
+    },
+    "outcome": {
+      "label": "Bu'aan Koo Maal Ture?",
+      "options": [
+        "Ulfinaan fayye sabni koos amanee yeroof hafe",
+        "Sabni koo Sanbata cabsuu isaaniitiin gara hantuutaatti jijjiirame",
+        "Sabni koo of tuulummaaf dacheen liqimfame",
+        "Sabni koo dhohinsa jabaa samii irraa dhufeen qabame",
+        "Sabni koo bishaan lolaa guddaa sanaan liqimfame"
+      ],
+      "answer": "Ulfinaan fayye sabni koos amanee yeroof hafe"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

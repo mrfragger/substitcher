@@ -1,0 +1,61 @@
+{
+  "title": "Varjatud usk palee müüride vahel",
+  "intro": "Türanliku õukonna keskel, mis on täis vandenõusid ja uhkust, hoiab üksildane hing ohtlikku saladust. Võimu ja surmaähvardustega ümbritsetuna jälgib see Allahi teener, kuidas käskjalg seisab üksi impeeriumi vastu. Kui vaikimisest saab kaasosalus, tuleb teha julge otsus rääkida tõtt suure isikliku riskiga.",
+  "clues": [
+    "Ma elasin võimsa ja ülbe rahva seas, kes hülgas Allahi märgid.",
+    "Varjasin mõnda aega oma usku, samal ajal kui mu ümberolijad sepitsesid sõnumitooja vastu vandenõu.",
+    "Ma rääkisin avalikult ja ütlesin: „Kas te tapate inimese, kes ütleb: „Minu Isand on Allah”, kuigi selged tõendid on tulnud?“",
+    "Ma hoiatasin oma rahvast varasemate rahvaste saatuse ja Vastastikuse Kutsumise Päeva eest.",
+    "Ma ütlesin neile, et valitseja, keda ma teenisin, näitab üles vaid kitsarinnalist arvamust, kuid hauatagune elu on tõeline kodu.",
+    "Ma ütlesin: „Oo, mu rahvas, järgige mind ja ma juhatan teid õigele teele!“ Ja Allah päästis mind nende kurjade kavatsuste eest."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Abu Lahab",
+        "Qarun",
+        "As-Samiri",
+        "Haman",
+        "Vaarao perekonnast pärit usklik"
+      ],
+      "answer": "Vaarao perekonnast pärit usklik"
+    },
+    "trial": {
+      "label": "Mida ma tegin?",
+      "options": [
+        "Kogunud aardeid, mille võtmed koormasid tugevaid mehi",
+        "Ehitas kõrge torni, et vaadata Musa jumalat",
+        "Varjatud usk kaitses seejärel avalikult Moosat ja hoiatas mu rahvast",
+        "Valmistas kuldvasika, mis tegi ammuvat häält",
+        "Blokeeris prohveti tee ja pilkas rikkuse nimel ilmutust"
+      ],
+      "answer": "Varjatud usk kaitses seejärel avalikult Moosat ja hoiatas mu rahvast"
+    },
+    "location": {
+      "label": "Kus mu lugu lahti rullus?",
+      "options": [
+        "Laev üleujutusvetel",
+        "Püha mošee Mekas",
+        "Vaarao palee õukond Egiptuses",
+        "Magajate koobas",
+        "Madyani metsane org"
+      ],
+      "answer": "Vaarao palee õukond Egiptuses"
+    },
+    "outcome": {
+      "label": "Mis oli minu tulemus?",
+      "options": [
+        "Uppusin koos armeega lõhenenud meres",
+        "Maa neelas mind koos mu aaretega",
+        "Pikselöök haaras mind koos Thamudiga",
+        "Mind muudeti ahviks hingamispäeva rikkumise pärast",
+        "Allah kaitses mind nende kurjuse eest"
+      ],
+      "answer": "Allah kaitses mind nende kurjuse eest"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

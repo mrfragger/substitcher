@@ -1,0 +1,61 @@
+{
+  "title": "Amazwi Aseceleni Kwamanzi Athule",
+  "intro": "Cabanga ngomphakathi ongabizwa ngegama lomuzi noma umbusi, kodwa ngamanzi athule lapho ukuphila kuqoqene khona. Amavesi ambalwa kuphela akhumbula lo mphakathi, ohlala ubhalwe phakathi kwalabo abenqaba isiqondiso. Lalela njengoba bekhuluma besuka ekusithekeni.",
+  "clues": [
+    "Singumphakathi oqanjwe yiQuran, kodwa indaba yethu yonke isafihliwe.",
+    "Sihlala sikhulunywa kanye nalabo abaphikayo, njengabantu bakwa-Ad noThamud.",
+    "Sibizwa ngokuthi Abangane baka-Ar-Rass, uMthombo lapho impilo yethu yayiboshelwe khona.",
+    "Sasiphika isithunywa esasithunyelwe kithi ngesiqondiso esicacile.",
+    "Sibalwa phakathi kwalabo abenqaba zonke izithunywa ezazithunyelwe ngu-Allah.",
+    "Sibhekene nosongo olugcwaliseka kubo bonke abaphikayo phambi kwethu, ukubhujiswa ngenxa yokwenqatshwa kwethu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Abangane baka-Ar-Rass",
+        "Abantu baseMadyan",
+        "Izakhamuzi zase-Al-Hijr",
+        "Abantu bakaLut",
+        "Abantu baseTubba'"
+      ],
+      "answer": "Abangane baka-Ar-Rass"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Wakha umbhoshongo ophakeme ukuze afinyelele ezulwini",
+        "Wenqaba isithunywa esithunyelwe kithi",
+        "Wakhuleka ithole legolide uMose engekho",
+        "Uhlelwe ukubulala uYusuf ngenxa yomona",
+        "Kufunwa ukubona u-Allah obala"
+      ],
+      "answer": "Wenqaba isithunywa esithunyelwe kithi"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "INtaba iJudi yokuphumula",
+        "Isigodlo Esinezibuko Sengilazi",
+        "Isigodi Sezintuthwane",
+        "Umphongolo owakhiwa ngaphansi kwesambulo",
+        "Umthombo (Ar-Rass)"
+      ],
+      "answer": "Umthombo (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Kugwinywe umhlaba ngenxa yokuziqhenya ngengcebo",
+        "Usindiswe nguMphongolo esikhukhuleni",
+        "Kwenzelwe ukulala amakhulu eminyaka emhumeni",
+        "Ukulawulwa komoya nama-jinn kunikezwe",
+        "Wabhujiswa ngenxa yokuphika izithunywa"
+      ],
+      "answer": "Wabhujiswa ngenxa yokuphika izithunywa"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A Fuga Através do Mar Inquieto",
+  "intro": "Imagine-se no convés de um navio sobrecarregado, enquanto as ondas se agitam e a tripulação lança sortes para aliviar a carga. Uma figura solitária avança, aceitando um destino que parece ser o fim, apenas para as profundezas se revelarem um lugar de oração e retorno. Atrás, jaz uma comunidade avisada da punição iminente; à frente, uma misericórdia inesperada.",
+  "clues": [
+    "Fui enviado como mensageiro para mais de cem mil pessoas.",
+    "Abandonei meu povo com raiva, antes mesmo de receber permissão para partir.",
+    "Embarquei num navio carregado e a tripulação lançou sortes para decidir quem seria jogado ao mar.",
+    "Fui lançado ao mar e engolido por um grande peixe, mesmo estando eu em situação de inocência.",
+    "Glorifiquei a Deus nas trevas, declarando que não há divindade além d'Ele e que eu havia sido um dos injustos.",
+    "Fui lançado à praia, doente, e Alá fez crescer uma planta de cabaça sobre mim; então, meu povo acreditou e foi-lhes concedido desfrutar de algo por um tempo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Moisés",
+        "Profeta Hud",
+        "Profeta Noé",
+        "Profeta Ló",
+        "Profeta Yunus"
+      ],
+      "answer": "Profeta Yunus"
+    },
+    "trial": {
+      "label": "Que julgamento eu enfrentei?",
+      "options": [
+        "Atirado em um fogo que esfriou e o tornou seguro.",
+        "Engolido pelo grande peixe após fugir.",
+        "Atirados em um poço profundo por irmãos invejosos.",
+        "Acometido por longa doença e perda de saúde",
+        "Ordenaram que sacrificassem uma criança querida."
+      ],
+      "answer": "Engolido pelo grande peixe após fugir."
+    },
+    "location": {
+      "label": "Qual é o meu elemento-chave?",
+      "options": [
+        "A arca de madeira nas águas da enchente",
+        "A caverna de refúgio contra a perseguição",
+        "O vale sagrado de Tuwa",
+        "O grande peixe e sua barriga",
+        "O fogo frio preparado pelos idólatras"
+      ],
+      "answer": "O grande peixe e sua barriga"
+    },
+    "outcome": {
+      "label": "Qual foi o meu resultado?",
+      "options": [
+        "Salvos pela glorificação, e meu povo acreditou e foi poupado por um tempo.",
+        "Meu povo foi transformado em macacos por violar o sábado.",
+        "Meu povo foi engolido pela terra por causa de arrogância.",
+        "Meu povo foi atingido por uma poderosa explosão vinda do céu.",
+        "Meu povo foi afogado pela grande enchente."
+      ],
+      "answer": "Salvos pela glorificação, e meu povo acreditou e foi poupado por um tempo."
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Vågen som delade blodet",
+  "intro": "Föreställ dig en väldig flod som stiger över landet, en ark som flyter stadigt och en själ som lämnas utanför av eget val. Bunden av blod till en profet men separerad av tro, stod denna figur inför en sista kallelse att komma ombord när vattnet vällde upp. Kan du avslöja identiteten bakom vägran?",
+  "clues": [
+    "Jag är avkomma till en av Allahs största profeter, ett trons hushåll som jag valde att lämna.",
+    "Jag levde under den stora översvämningens tid, då misstro täckte landet som vatten.",
+    "Jag vägrade att gå ombord på Arken med de troende när min far ropade på mig.",
+    "Jag sa att jag skulle söka skydd på ett berg för att skydda mig från vattnet.",
+    "Jag fick höra att ingenting kunde skydda från Allahs beslut på den dagen utom barmhärtighet.",
+    "Jag blev omkörd av vågorna och drunknade, och min far fick höra att jag inte var av hans rättfärdiga släkt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Zayd ibn Harithah",
+        "Profeten Ishaq, son till profeten Ibrahim",
+        "Profeten Nuhs otroende son",
+        "Habil, profeten Adams son",
+        "Profeten Ismail, son till profeten Ibrahim"
+      ],
+      "answer": "Profeten Nuhs otroende son"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Såld till slaveri i Egypten efter förräderi av bröder",
+        "Vägrar att gå ombord på Arken och söker ett berg som tillflykt",
+        "Att bli kastad i en flammande eld för att ha brutit sönder avgudabilder",
+        "Att bli uppslukad av en stor fisk efter att ha flytt från ett uppdrag",
+        "Sov i århundraden i grotta för att undkomma förföljelse"
+      ],
+      "answer": "Vägrar att gå ombord på Arken och söker ett berg som tillflykt"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Det speglade glaspalatset på Saba",
+        "Träkistan kastad i floden",
+        "Det höga berget söktes som tillflykt undan syndafloden",
+        "Den brinnande busken i den heliga dalen",
+        "Kaba byggd som ett hus för tillbedjan"
+      ],
+      "answer": "Det höga berget söktes som tillflykt undan syndafloden"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Uppslukad av jorden med skatter för arrogans",
+        "Beviljades ett kungarike med makt över vindar och djinner",
+        "Sval och trygg när eld blev frid",
+        "Uppväcktes levande till himlen och räddades från korsfästelsen",
+        "Drunknade i syndafloden och förklarades inte tillhöra den rättfärdiga familjen"
+      ],
+      "answer": "Drunknade i syndafloden och förklarades inte tillhöra den rättfärdiga familjen"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Penerbangan Melintasi Lautan yang Gelisah",
+  "intro": "Bayangkan Anda berdiri di geladak kapal yang kelebihan muatan saat ombak menerjang dan para awak kapal mengundi untuk mengurangi beban. Sesosok figur sendirian melangkah maju, menerima takdir yang tampak seperti akhir, hanya agar kedalaman laut berubah menjadi tempat berdoa dan kembali. Di belakang terbentang sebuah komunitas yang diperingatkan akan hukuman yang akan datang, di depan terbentang rahmat yang tak terduga.",
+  "clues": [
+    "Aku diutus sebagai pembawa pesan kepada lebih dari seratus ribu orang.",
+    "Aku meninggalkan kaumku dalam keadaan marah sebelum menerima izin untuk pergi.",
+    "Aku menaiki kapal yang sarat muatan dan para awak kapal mengundi untuk memutuskan siapa yang akan dilempar ke laut.",
+    "Aku dilemparkan ke laut dan ditelan oleh ikan besar ketika aku sedang berbuat salah.",
+    "Aku memuji Allah dalam kegelapan, menyatakan bahwa tidak ada tuhan selain Dia dan bahwa aku termasuk orang-orang yang berbuat zalim.",
+    "Aku terdampar di pantai yang terbuka dalam keadaan sakit, lalu Allah menumbuhkan tanaman labu di atasku, kemudian kaumku beriman dan diberi kenikmatan untuk sementara waktu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Nabi Musa",
+        "Nabi Hud",
+        "Nabi Nuh",
+        "Nabi Lut",
+        "Nabi Yunus"
+      ],
+      "answer": "Nabi Yunus"
+    },
+    "trial": {
+      "label": "Persidangan Apa yang Saya Hadapi?",
+      "options": [
+        "Dilemparkan ke dalam api yang telah dibuat sejuk dan aman.",
+        "Ditelan oleh ikan besar setelah melarikan diri",
+        "Dilemparkan ke dalam sumur yang dalam oleh saudara-saudara yang iri hati",
+        "Terjangkit penyakit berkepanjangan dan kehilangan kesehatan.",
+        "Diperintahkan untuk mengorbankan anak yang dicintai"
+      ],
+      "answer": "Ditelan oleh ikan besar setelah melarikan diri"
+    },
+    "location": {
+      "label": "Apa Elemen Kunci Saya?",
+      "options": [
+        "Bahtera kayu di atas air bah",
+        "Gua perlindungan dari penganiayaan",
+        "Lembah suci Tuwa",
+        "Ikan besar dan perutnya",
+        "Api sejuk yang disiapkan oleh para penyembah berhala"
+      ],
+      "answer": "Ikan besar dan perutnya"
+    },
+    "outcome": {
+      "label": "Bagaimana Hasil yang Saya Dapatkan?",
+      "options": [
+        "Diselamatkan oleh kemuliaan dan umatku percaya dan diselamatkan untuk sementara waktu",
+        "Umatku diubah menjadi kera karena melanggar hari Sabat.",
+        "Umatku ditelan bumi karena kesombongan.",
+        "Umatku diterjang oleh ledakan dahsyat dari langit.",
+        "Umatku tenggelam oleh banjir besar."
+      ],
+      "answer": "Diselamatkan oleh kemuliaan dan umatku percaya dan diselamatkan untuk sementara waktu"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

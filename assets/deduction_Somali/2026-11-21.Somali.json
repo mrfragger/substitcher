@@ -1,0 +1,61 @@
+{
+  "title": "Codadka ku teedsan biyaha aan degganayn",
+  "intro": "Bal sawir bulsho aan loogu magac darin magaalo ama taliye, laakiin loogu magac daray biyaha aan degganayn ee noloshu ku ururtay. Kaliya dhawr aayad ayaa xasuusata bulshadan, oo had iyo jeer ku qoran kuwa diida hanuunka. Dhageyso iyagoo ka hadlaya mugdiga.",
+  "clues": [
+    "Waxaan nahay bulsho lagu magacaabay Qur'aanka, haddana sheekadeenna oo dhammaystiran waxay ku jirtaa qarsoodi.",
+    "Had iyo jeer waxaa nala xusaa kuwa beeniyey, sida reer Cad iyo Thamuud.",
+    "Waxaa naloogu yeeraa Asxaabta Ar-Rass, Ceelkii nolosheennu ku xidhnayd.",
+    "Waxaan beeninnay rasuulkii naloo soo diray isagoo hanuun cad leh.",
+    "Waxaan ka mid nahay kuwa diiday dhammaan rusushii Alle soo diray.",
+    "Waxaan la kulanay hanjabaaddii ka dhanka ahayd beenin kasta oo naga horreeyay, burburka diidmadeenna awgeed."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Asxaabta Ar-Rass",
+        "Dadka reer Madyan",
+        "Dadka deggan Al-Hijr",
+        "Reer Luudh",
+        "Reer Tubba'"
+      ],
+      "answer": "Asxaabta Ar-Rass"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Munaarad dheer oo la dhisay si ay cirka u gaarto",
+        "Wuu beeniyay rasuulkii loo soo diray",
+        "Wuxuu caabuday weyshii dahabka ahayd isagoo maqan Muuse",
+        "Waxaan qorsheeyay inaan dilo Yuusuf xaasidnimo awgeed",
+        "Waxaa la dalbaday inaan si furan u aragno Allah"
+      ],
+      "answer": "Wuu beeniyay rasuulkii loo soo diray"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Buurta Judi ee nasashada",
+        "Qasriga Muraayadda leh ee muraayadda",
+        "Dooxada Qudhaanjada",
+        "Doontii la dhisay iyadoo la muujinayo",
+        "Ceelka (Ar-Rass)"
+      ],
+      "answer": "Ceelka (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Dhulku wuxuu liqay kibir khasnadeed awgeed",
+        "Waxaa badbaadiyay Doontii daadadkii",
+        "Waxaa la dhigay in lagu seexdo god qarniyo badan",
+        "Waxaa la siiyay xakamaynta dabaysha iyo jinka",
+        "Burburin beenintii rasuullada awgeed"
+      ],
+      "answer": "Burburin beenintii rasuullada awgeed"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

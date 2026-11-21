@@ -1,0 +1,61 @@
+{
+  "title": "Sauti Zilizo Kando ya Maji Yaliyotulia",
+  "intro": "Fikiria jumuiya isiyopewa jina la mji au mtawala, bali maji tulivu ambayo uhai hukusanyika. Ni mistari michache tu inayokumbuka jumuiya hii, ambayo daima imeorodheshwa miongoni mwa wale waliokataa mwongozo. Sikiliza wanapozungumza kutoka gizani.",
+  "clues": [
+    "Sisi ni jamii iliyotajwa katika Quran, lakini hadithi yetu kamili bado imefichwa katika fumbo.",
+    "Daima tunatajwa pamoja na wale waliokanusha, kama watu wa Ad na Thamud.",
+    "Tunaitwa Masahaba wa Ar-Rass, Kisima ambacho maisha yetu yalifungamana nacho.",
+    "Tulimkataa mjumbe aliyetumwa kwetu kwa mwongozo ulio wazi.",
+    "Tunahesabiwa miongoni mwa wale waliokataa mitume wote waliotumwa na Mwenyezi Mungu.",
+    "Tulikabiliwa na tishio lililotimizwa dhidi ya kila mkanushi aliye mbele yetu, uharibifu kwa ajili ya kukataliwa kwetu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Masahaba wa Ar-Rass",
+        "Watu wa Madyan",
+        "Wakazi wa Al-Hijr",
+        "Watu wa Lut",
+        "Watu wa Tubba'"
+      ],
+      "answer": "Masahaba wa Ar-Rass"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kujenga mnara mrefu ili kufikia mbinguni",
+        "Alikataa mjumbe aliyetumwa kwetu",
+        "Aliabudu ndama wa dhahabu bila Musa",
+        "Alipanga kumuua Yusufu kwa wivu",
+        "Alidai kumuona Mwenyezi Mungu waziwazi"
+      ],
+      "answer": "Alikataa mjumbe aliyetumwa kwetu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Mlima Judi wa kupumzika",
+        "Jumba la kioo lenye vioo",
+        "Bonde la Mchwa",
+        "Sanduku lililojengwa chini ya ufunuo",
+        "Kisima (Ar-Rass)"
+      ],
+      "answer": "Kisima (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Imemezwa na dunia kwa ajili ya fahari ya hazina",
+        "Kuokolewa na Safina kutokana na gharika",
+        "Imetengenezwa kulala kwa karne nyingi ndani ya pango",
+        "Udhibiti wa upepo na majini umepewa",
+        "Aliangamizwa kwa kuwakana wajumbe"
+      ],
+      "answer": "Aliangamizwa kwa kuwakana wajumbe"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

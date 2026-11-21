@@ -1,0 +1,61 @@
+{
+  "title": "Le voci in riva alle acque tranquille",
+  "intro": "Immaginate una comunità che non prende il nome da una città o da un sovrano, ma dalle acque tranquille attorno alle quali si radunava la vita. Solo pochi versi ricordano questa comunità, sempre annoverata tra coloro che rifiutarono la guida. Ascoltate le loro parole, pronunciate nell'oscurità.",
+  "clues": [
+    "Siamo una comunità menzionata nel Corano, eppure la nostra storia completa rimane avvolta nel mistero.",
+    "Veniamo sempre menzionati insieme a coloro che hanno rinnegato, come gli abitanti di Ad e Thamud.",
+    "Siamo chiamati i Compagni di Ar-Rass, il Pozzo al quale era legata la nostra vita.",
+    "Abbiamo respinto il messaggero che ci era stato inviato con chiare indicazioni.",
+    "Siamo annoverati tra coloro che hanno rigettato tutti i messaggeri inviati da Allah.",
+    "Abbiamo dovuto affrontare la minaccia che si è avverata per ogni negazionista prima di noi: la distruzione per il nostro rifiuto."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "I compagni di Ar-Rass",
+        "Il popolo di Madyan",
+        "Gli abitanti di Al-Hijr",
+        "Il popolo di Lutero",
+        "Il popolo di Tubba'"
+      ],
+      "answer": "I compagni di Ar-Rass"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Costruisci un'alta torre per raggiungere il cielo",
+        "Abbiamo rifiutato il messaggero inviato a noi",
+        "Venerava il vitello d'oro in assenza di Mosè.",
+        "Ha complottato per uccidere Yusuf per invidia",
+        "Chiese di vedere Allah apertamente"
+      ],
+      "answer": "Abbiamo rifiutato il messaggero inviato a noi"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Monte Judi del riposo",
+        "Il palazzo specchiato di vetro",
+        "La valle delle formiche",
+        "L'Arca costruita sotto rivelazione",
+        "Il Pozzo (Ar-Rass)"
+      ],
+      "answer": "Il Pozzo (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Inghiottito dalla terra per orgoglio in un tesoro",
+        "Salvati dall'Arca dal diluvio",
+        "Costretto a dormire per secoli in una grotta",
+        "Ha ottenuto il controllo del vento e dei jinn",
+        "Distrutto per aver rinnegato i messaggeri"
+      ],
+      "answer": "Distrutto per aver rinnegato i messaggeri"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

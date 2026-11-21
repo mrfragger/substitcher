@@ -1,0 +1,61 @@
+{
+  "title": "Go Tshaba Lewatle le le sa Iketleng",
+  "intro": "Akanya o eme mo godimo ga sekepe se se imetsweng thata fa makhubu a ntse a tlhatloga mme badiri ba sone ba latlhela bola go fokotsa morwalo. Setshwantsho se se nosi se gatela pele, se amogela phelelo e e lebegang e kete ke bokhutlo, fela gore boteng bo nne lefelo la thapelo le go boa. Ka fa morago go na le morafe o o tlhagisitsweng ka kotlhao e e tlang, kwa pele go na le kutlwelobotlhoko e e sa lebelelwang.",
+  "clues": [
+    "Ke ne ka romelwa go nna morongwa kwa bathong ba ba fetang dikete di le lekgolo.",
+    "Ke ne ka tlogela batho ba gaetsho ke galefile pele ga ke amogela tetla ya go tsamaya.",
+    "Ke ne ka palama sekepe se se tletseng dithoto mme badiri ba sone ba ne ba latlhela bola go bona gore ke mang yo o tla latlhelwang kwa godimo ga lewatle.",
+    "Ke ne ka latlhelwa mo lewatleng mme ka mediwa ke tlhapi e kgolo fa ke ntse ke le molato.",
+    "Ke ne ka galaletsa Allah mo lefifing, ke bolela gore ga go na modimo ope fa e se Ene le gore ke ne ke le mongwe wa badiraphoso.",
+    "Ke ne ka latlhelwa mo lotshitshing lo lo bulegileng, ke lwala, mme Allah a dira gore sejalo sa gourd se gole mo godimo ga me, morago ga moo batho ba me ba ne ba dumela mme ba newa monate ka nako nngwe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Musa",
+        "Moporofeti Hud",
+        "Moporofeti Nuh",
+        "Moporofeti Lute",
+        "Moporofeti Yunus"
+      ],
+      "answer": "Moporofeti Yunus"
+    },
+    "trial": {
+      "label": "Ke Lebane le Teko Efe?",
+      "options": [
+        "Go latlhelwa mo molelong o o dirilweng gore o nne tsidifaditswe e bile o babalesegile",
+        "E metswe ke tlhapi e kgolo morago ga go tshaba",
+        "Go latlhelwa mo sedibeng se se boteng ke bakaulengwe ba ba fufegelang",
+        "O tlhasetswe ke bolwetse jo boleele le go latlhegelwa ke botsogo",
+        "A laelwa go ntsha ngwana yo o rategang setlhabelo"
+      ],
+      "answer": "E metswe ke tlhapi e kgolo morago ga go tshaba"
+    },
+    "location": {
+      "label": "Ntlha ya Me ya Botlhokwa ke Eng?",
+      "options": [
+        "Areka ya logong mo metsing a morwalela",
+        "Logaga lwa botshabelo jwa pogiso",
+        "Mokgatšha o o boitshepo wa Tuwa",
+        "Tlhapi e kgolo le mpa ya yone",
+        "Molelo o o tsiditsana o o baakantsweng ke baobamedi ba medimo ya disetwa"
+      ],
+      "answer": "Tlhapi e kgolo le mpa ya yone"
+    },
+    "outcome": {
+      "label": "Phelelo ya me e ne e le eng?",
+      "options": [
+        "Ba pholositswe ka kgalalelo mme batho ba me ba dumela mme ba bolokwa ka lobakanyana",
+        "Batho ba me ba ne ba fetolwa ditshwene ka ntlha ya go tlola Sabata",
+        "Batho ba me ba ne ba mediwa ke lefatshe ka ntlha ya boikgogomoso",
+        "Batho ba me ba ne ba gapiwa ke modumo o mogolo o o tswang kwa loaping",
+        "Batho ba me ba ne ba nwediwa ke morwalela o mogolo"
+      ],
+      "answer": "Ba pholositswe ka kgalalelo mme batho ba me ba dumela mme ba bolokwa ka lobakanyana"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

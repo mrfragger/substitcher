@@ -1,0 +1,61 @@
+{
+  "title": "Kanı Bölüştüren Dalga",
+  "intro": "Yeryüzünü kaplayan devasa bir selin, sabit bir şekilde yüzen bir Nuh'un Gemisi'nin ve kendi isteğiyle dışarıda bırakılmış bir ruhun görüntüsünü hayal edin. Bir peygamberle kan bağıyla bağlı, ancak inançlarıyla ayrılmış bu kişi, sular yükselirken gemiye binmek için son bir çağrıyla karşı karşıya kaldı. Bu reddin ardındaki kimliği ortaya çıkarabilir misiniz?",
+  "clues": [
+    "Ben Allah'ın en büyük peygamberlerinden birinin evladıyım, terk etmeyi seçtiğim bir inanç ailesinden geliyorum.",
+    "Ben Büyük Tufan zamanında yaşadım; o zamanlar inançsızlık, su gibi tüm ülkeyi kaplamıştı.",
+    "Babam bana seslendiğinde, inananlarla birlikte Nuh'un Gemisi'ne binmeyi reddettim.",
+    "Suyun etkilerinden korunmak için bir dağa sığınacağımı söyledim.",
+    "Bana o gün Allah'ın hükmünden ancak rahmetin koruyabileceği söylendi.",
+    "Dalgalara yenik düştüm ve boğuldum, babama da benim onun dürüst ailesinden olmadığım söylendi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Zayd ibn Harithah",
+        "Hz. İshak, Hz. İbrahim'in oğlu",
+        "Peygamber Nuh'un İnanmayan Oğlu",
+        "Habil, Peygamber Âdem'in oğlu",
+        "Peygamber İbrahim'in oğlu Peygamber İsmail"
+      ],
+      "answer": "Peygamber Nuh'un İnanmayan Oğlu"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Kardeşlerinin ihaneti sonucu Mısır'da köle olarak satıldı.",
+        "Nuh'un Gemisi'ne binmeyi reddedip sığınacak bir dağ aradılar.",
+        "Putları kırdığı için alev alev yanan bir ateşe atılmak.",
+        "Görevden kaçtıktan sonra büyük bir balık tarafından yutulmak",
+        "Zulümden kaçmak için yüzyıllarca bir mağarada uyudu."
+      ],
+      "answer": "Nuh'un Gemisi'ne binmeyi reddedip sığınacak bir dağ aradılar."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Saba'daki aynalı cam saray.",
+        "Tahta sandık nehre atıldı.",
+        "Tufandan korunmak için sığınak olarak aranan görkemli dağ.",
+        "Kutsal vadideki yanan çalı",
+        "Kabe, bir ibadethane olarak inşa edilmiştir."
+      ],
+      "answer": "Tufandan korunmak için sığınak olarak aranan görkemli dağ."
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Kibir yüzünden hazinelerle birlikte toprak tarafından yutuldu.",
+        "Rüzgarlar ve cinler üzerinde güce sahip bir krallık bahşedildi.",
+        "Ateşin huzura dönüşmesiyle serin ve güvenli hale geldi.",
+        "Diriltilerek göklere yükseltildi ve çarmıha gerilmekten kurtarıldı.",
+        "Tufanda boğuldu ve dürüst aileden olmadığı ilan edildi."
+      ],
+      "answer": "Tufanda boğuldu ve dürüst aileden olmadığı ilan edildi."
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

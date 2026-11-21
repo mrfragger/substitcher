@@ -1,0 +1,730 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَعْمَالُ الْعِبَادَةِ",
+        "nameEn": "Acts of worship mentioned in the Qur'an",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "الصَّلَاةِ",
+            "en": "the prayer",
+            "ref": "5:58",
+            "verse": "وَإِذَا نَادَيْتُمْ إِلَى ٱلصَّلَوٰةِ ٱتَّخَذُوهَا هُزُوًۭا وَلَعِبًۭا ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌۭ لَّا يَعْقِلُونَ",
+            "verseEn": "And when you call to prayer, they take it in ridicule and amusement. That is because they are a people who do not use reason."
+          },
+          {
+            "ar": "وَزَكَاةً",
+            "en": "and purity",
+            "ref": "19:13",
+            "verse": "وَحَنَانًۭا مِّن لَّدُنَّا وَزَكَوٰةًۭ ۖ وَكَانَ تَقِيًّۭا",
+            "verseEn": "And affection from Us and purity, and he was fearing of Allāh"
+          },
+          {
+            "ar": "نُطْعِمُ",
+            "en": "feed",
+            "ref": "74:44",
+            "verse": "وَلَمْ نَكُ نُطْعِمُ ٱلْمِسْكِينَ",
+            "verseEn": "Nor did we used to feed the poor."
+          },
+          {
+            "ar": "سُبْحَانَهُ",
+            "en": "Glorified is He",
+            "ref": "17:43",
+            "verse": "سُبْحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا يَقُولُونَ عُلُوًّۭا كَبِيرًۭا",
+            "verseEn": "Exalted is He and high above what they say by great sublimity."
+          }
+        ]
+      },
+      {
+        "name": "أَلْفَاظُ التَّقَدُّمِ وَالتَّأَخُّرِ فِي الزَّمَنِ",
+        "nameEn": "Words denoting earlier and later in time",
+        "color": "green",
+        "items": [
+          {
+            "ar": "قَبْلُ",
+            "en": "before",
+            "ref": "28:12",
+            "verse": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+            "verseEn": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\""
+          },
+          {
+            "ar": "بَعْدِهِم",
+            "en": "after them",
+            "ref": "10:75",
+            "verse": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+            "verseEn": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people."
+          },
+          {
+            "ar": "الْأَوَّلِينَ",
+            "en": "the former (people)",
+            "ref": "77:16",
+            "verse": "أَلَمْ نُهْلِكِ ٱلْأَوَّلِينَ",
+            "verseEn": "Did We not destroy the former peoples?"
+          },
+          {
+            "ar": "الْآخِرِينَ",
+            "en": "the later people",
+            "ref": "56:40",
+            "verse": "وَثُلَّةٌۭ مِّنَ ٱلْـَٔاخِرِينَ",
+            "verseEn": "And a company of the later peoples."
+          }
+        ]
+      },
+      {
+        "name": "أَلْفَاظُ الْعِقَابِ الإِلَهِيِّ",
+        "nameEn": "Terms for divine punishment mentioned in the Qur'an",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "بِعَذَابٍ",
+            "en": "a punishment",
+            "ref": "8:32",
+            "verse": "وَإِذْ قَالُوا۟ ٱللَّهُمَّ إِن كَانَ هَـٰذَا هُوَ ٱلْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةًۭ مِّنَ ٱلسَّمَآءِ أَوِ ٱئْتِنَا بِعَذَابٍ أَلِيمٍۢ",
+            "verseEn": "And [remember] when they said, \"O Allāh, if this should be the truth from You, then rain down upon us stones from the sky or bring us a painful punishment.\""
+          },
+          {
+            "ar": "بَأْسَ",
+            "en": "violence",
+            "ref": "6:65",
+            "verse": "قُلْ هُوَ ٱلْقَادِرُ عَلَىٰٓ أَن يَبْعَثَ عَلَيْكُمْ عَذَابًۭا مِّن فَوْقِكُمْ أَوْ مِن تَحْتِ أَرْجُلِكُمْ أَوْ يَلْبِسَكُمْ شِيَعًۭا وَيُذِيقَ بَعْضَكُم بَأْسَ بَعْضٍ ۗ ٱنظُرْ كَيْفَ نُصَرِّفُ ٱلْـَٔايَـٰتِ لَعَلَّهُمْ يَفْقَهُونَ",
+            "verseEn": "Say, \"He is the [one] Able to send upon you affliction from above you or from beneath your feet or to confuse you [so you become] sects and make you taste the violence of one another.\" Look how We diversify the signs that they might understand."
+          },
+          {
+            "ar": "عِقَابِ",
+            "en": "My penalty",
+            "ref": "38:14",
+            "verse": "إِن كُلٌّ إِلَّا كَذَّبَ ٱلرُّسُلَ فَحَقَّ عِقَابِ",
+            "verseEn": "Each of them denied the messengers, so My penalty was justified."
+          },
+          {
+            "ar": "أَخْذَهُ",
+            "en": "His seizure",
+            "ref": "11:102",
+            "verse": "وَكَذَٰلِكَ أَخْذُ رَبِّكَ إِذَآ أَخَذَ ٱلْقُرَىٰ وَهِىَ ظَـٰلِمَةٌ ۚ إِنَّ أَخْذَهُۥٓ أَلِيمٌۭ شَدِيدٌ",
+            "verseEn": "And thus is the seizure of your Lord when He seizes the cities while they are committing wrong. Indeed, His seizure is painful and severe."
+          }
+        ]
+      },
+      {
+        "name": "أَلْفَاظُ الْجَزَاءِ الْإِلٰهِيّ",
+        "nameEn": "Terms for divine reward in the Qur'an",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "الْجَنَّةِ",
+            "en": "(of) Paradise",
+            "ref": "7:50",
+            "verse": "وَنَادَىٰٓ أَصْحَـٰبُ ٱلنَّارِ أَصْحَـٰبَ ٱلْجَنَّةِ أَنْ أَفِيضُوا۟ عَلَيْنَا مِنَ ٱلْمَآءِ أَوْ مِمَّا رَزَقَكُمُ ٱللَّهُ ۚ قَالُوٓا۟ إِنَّ ٱللَّهَ حَرَّمَهُمَا عَلَى ٱلْكَـٰفِرِينَ",
+            "verseEn": "And the companions of the Fire will call to the companions of Paradise, \"Pour upon us some water or from whatever Allāh has provided you.\" They will say, \"Indeed, Allāh has forbidden them both to the disbelievers"
+          },
+          {
+            "ar": "رَحْمَةً",
+            "en": "a mercy",
+            "ref": "33:17",
+            "verse": "قُلْ مَن ذَا ٱلَّذِى يَعْصِمُكُم مِّنَ ٱللَّهِ إِنْ أَرَادَ بِكُمْ سُوٓءًا أَوْ أَرَادَ بِكُمْ رَحْمَةًۭ ۚ وَلَا يَجِدُونَ لَهُم مِّن دُونِ ٱللَّهِ وَلِيًّۭا وَلَا نَصِيرًۭا",
+            "verseEn": "Say, \"Who is it that can protect you from Allāh if He intends for you an ill or intends for you a mercy?\" And they will not find for themselves besides Allāh any protector or any helper."
+          },
+          {
+            "ar": "أَجْرَ",
+            "en": "(the) reward",
+            "ref": "28:25",
+            "verse": "فَجَآءَتْهُ إِحْدَىٰهُمَا تَمْشِى عَلَى ٱسْتِحْيَآءٍۢ قَالَتْ إِنَّ أَبِى يَدْعُوكَ لِيَجْزِيَكَ أَجْرَ مَا سَقَيْتَ لَنَا ۚ فَلَمَّا جَآءَهُۥ وَقَصَّ عَلَيْهِ ٱلْقَصَصَ قَالَ لَا تَخَفْ ۖ نَجَوْتَ مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+            "verseEn": "Then one of the two women came to him walking with shyness. She said, \"Indeed, my father invites you that he may reward you for having watered for us.\" So when he came to him and related to him the story, he said, \"Fear not. You have escaped from the wrongdoing people.\""
+          },
+          {
+            "ar": "الْحُسْنَى",
+            "en": "with the best",
+            "ref": "53:31",
+            "verse": "وَلِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ لِيَجْزِىَ ٱلَّذِينَ أَسَـٰٓـُٔوا۟ بِمَا عَمِلُوا۟ وَيَجْزِىَ ٱلَّذِينَ أَحْسَنُوا۟ بِٱلْحُسْنَى",
+            "verseEn": "And to Allāh belongs whatever is in the heavens and whatever is in the earth - that He may recompense those who do evil with [the penalty of] what they have done and recompense those who do good with the best [reward] -"
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "كفروا",
+    "display": "كَفَرُوا",
+    "hint": "Those who reject faith and wish they had submitted",
+    "verseRef": "15:2",
+    "arabicVerse": "رُّبَمَا يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ لَوْ كَانُوا۟ مُسْلِمِينَ",
+    "verse": "15:2 - Perhaps those who disbelieve will wish that they had been Muslims."
+  },
+  "scramble": {
+    "verseRef": "12:86",
+    "reference": "Surah Yusuf (12:86)",
+    "segments": [
+      "قَالَ إِنَّمَا أَشْكُو",
+      "بَثِّي وَحُزْنِي",
+      "إِلَى اللَّهِ",
+      "وَأَعْلَمُ مِنَ اللَّهِ",
+      "مَا لَا تَعْلَمُونَ"
+    ],
+    "translations": [
+      "He said Only I complain",
+      "(of) my suffering and my grief to",
+      "Allah and I know from",
+      "Allah what",
+      "not you know"
+    ],
+    "hint": "Prophet Yaqub's words of patience and trust, turning his sorrow over Yusuf to Allah alone",
+    "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+    "words": [
+      "قَالَ إِنَّمَآ أَشْكُوا۟",
+      "بَثِّى وَحُزْنِىٓ إِلَى",
+      "ٱللَّهِ وَأَعْلَمُ مِنَ",
+      "ٱللَّهِ مَا",
+      "لَا تَعْلَمُونَ"
+    ],
+    "verseEn": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know."
+  },
+  "roothive": {
+    "center": "د",
+    "outer": [
+      "ه",
+      "ن",
+      "ا",
+      "ي",
+      "ت",
+      "ش"
+    ],
+    "root": {
+      "letters": "شدد",
+      "display": "ش د د",
+      "translit": "sh-d-d",
+      "meaning": "The core idea is strength and intensity. It grows into words for severe punishment, greater power, full maturity, firm support, and violent wind.",
+      "occurrences": 102,
+      "lemmaCount": 5
+    },
+    "words": [
+      {
+        "w": "اشد",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "أَشَدّ",
+            "gloss": "stronger",
+            "type": "noun",
+            "root": "شدد",
+            "count": 31,
+            "ref": "2:74",
+            "pos": 10,
+            "alt": [
+              "mightier",
+              "more intense"
+            ]
+          },
+          {
+            "lemma": "أَشُدّ",
+            "gloss": "maturity",
+            "type": "noun",
+            "root": "شدد",
+            "count": 8,
+            "ref": "6:152",
+            "pos": 11,
+            "alt": [
+              "full strength"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ايد",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَيَّدَ",
+            "gloss": "supports",
+            "type": "verb",
+            "root": "أيد",
+            "count": 9,
+            "ref": "3:13",
+            "pos": 20,
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "دنا",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "دَنا",
+            "gloss": "approached",
+            "type": "verb",
+            "root": "دنو",
+            "count": 2,
+            "ref": "53:8",
+            "pos": 2,
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "دين",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "دِين",
+            "gloss": "religion",
+            "type": "noun",
+            "root": "دين",
+            "count": 92,
+            "ref": "3:83",
+            "pos": 2,
+            "alt": [
+              "law",
+              "religion of allah"
+            ]
+          },
+          {
+            "lemma": "دَيْن",
+            "gloss": "any debt",
+            "type": "noun",
+            "root": "دين",
+            "count": 5,
+            "ref": "4:11",
+            "pos": 55
+          }
+        ]
+      },
+      {
+        "w": "ديه",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "دِيَة",
+            "gloss": "blood money",
+            "type": "noun",
+            "root": "ودي",
+            "count": 2,
+            "ref": "4:92",
+            "pos": 16
+          }
+        ]
+      },
+      {
+        "w": "شدد",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "شَدَدْ",
+            "gloss": "reinforce",
+            "type": "verb",
+            "root": "شدد",
+            "count": 6,
+            "ref": "20:31",
+            "pos": 1,
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "شهد",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "شَهِدَ",
+            "gloss": "testify",
+            "type": "verb",
+            "root": "شهد",
+            "count": 44,
+            "ref": "2:185",
+            "pos": 14,
+            "alt": [
+              "bears witness",
+              "testifies"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "هاد",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "هادُ",
+            "gloss": "are jews",
+            "type": "verb",
+            "root": "هود",
+            "count": 11,
+            "ref": "2:62",
+            "pos": 5,
+            "alt": [
+              "were jews",
+              "became jews"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "هاد",
+            "gloss": "guide",
+            "type": "active participle",
+            "root": "هدي",
+            "count": 7,
+            "ref": "13:7",
+            "pos": 15
+          }
+        ]
+      },
+      {
+        "w": "هدي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "هَدَى",
+            "gloss": "guide",
+            "type": "verb",
+            "root": "هدي",
+            "count": 144,
+            "ref": "2:142",
+            "pos": 16,
+            "alt": [
+              "guides",
+              "guided"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "هُدًى",
+            "gloss": "guidance",
+            "type": "noun",
+            "root": "هدي",
+            "count": 85,
+            "ref": "2:2",
+            "pos": 6,
+            "alt": [
+              "guide",
+              "as guidance"
+            ]
+          },
+          {
+            "lemma": "هَدْي",
+            "gloss": "offering",
+            "type": "noun",
+            "root": "هدي",
+            "count": 7,
+            "ref": "5:95",
+            "pos": 24
+          }
+        ]
+      },
+      {
+        "w": "ادني",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَدْنَى",
+            "gloss": "more suitable",
+            "type": "noun",
+            "root": "دنو",
+            "count": 12,
+            "ref": "2:61",
+            "pos": 27,
+            "alt": [
+              "less",
+              "inferior"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اشهد",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَشْهَدَ",
+            "gloss": "call allah to witness",
+            "type": "verb",
+            "root": "شهد",
+            "count": 7,
+            "ref": "11:54",
+            "pos": 10,
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "اهدي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَهْدَى",
+            "gloss": "better guided",
+            "type": "noun",
+            "root": "هدي",
+            "count": 7,
+            "ref": "4:51",
+            "pos": 16,
+            "alt": [
+              "best guided",
+              "better guide"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اييد",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَيْيد",
+            "gloss": "possessor of strength",
+            "type": "noun",
+            "root": "أيد",
+            "count": 2,
+            "ref": "38:17",
+            "pos": 9,
+            "alt": [
+              "strength"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "دنيا",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "دُنْيا",
+            "gloss": "world",
+            "type": "adjective",
+            "root": "دنو",
+            "count": 115,
+            "ref": "2:85",
+            "pos": 38,
+            "alt": [
+              "nearer",
+              "nearest"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "شاهد",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "شاهِد",
+            "gloss": "witness",
+            "type": "active participle",
+            "root": "شهد",
+            "count": 21,
+            "ref": "9:17",
+            "pos": 8,
+            "alt": [
+              "witnesses",
+              "witnessing"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "شديد",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "شَدِيد",
+            "gloss": "mighty",
+            "type": "noun",
+            "root": "شدد",
+            "count": 56,
+            "ref": "2:165",
+            "pos": 30,
+            "alt": [
+              "severe",
+              "strong"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "شهيد",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "شَهِيد",
+            "gloss": "witnesses",
+            "type": "noun",
+            "root": "شهد",
+            "count": 56,
+            "ref": "2:133",
+            "pos": 3,
+            "alt": [
+              "witness",
+              "two witnesses"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "نادي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "نادِي",
+            "gloss": "meetings",
+            "type": "active participle",
+            "root": "ندي",
+            "count": 2,
+            "ref": "29:29",
+            "pos": 8,
+            "alt": [
+              "associates"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "هادي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "هادِي",
+            "gloss": "guide",
+            "type": "active participle",
+            "root": "هدي",
+            "count": 3,
+            "ref": "7:186",
+            "pos": 5
+          }
+        ]
+      },
+      {
+        "w": "هديه",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "هَدِيَّة",
+            "gloss": "gift",
+            "type": "noun",
+            "root": "هدي",
+            "count": 2,
+            "ref": "27:35",
+            "pos": 4
+          }
+        ]
+      },
+      {
+        "w": "اشتدت",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "اشْتَدَّتْ",
+            "gloss": "blows furiously",
+            "type": "verb",
+            "root": "شدد",
+            "count": 1,
+            "ref": "14:18",
+            "pos": 7,
+            "form": 8
+          }
+        ]
+      },
+      {
+        "w": "انداد",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "أَنداد",
+            "gloss": "rivals",
+            "type": "noun",
+            "root": "ندد",
+            "count": 6,
+            "ref": "2:22",
+            "pos": 21,
+            "alt": [
+              "equals"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اهتدي",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "اهْتَدَى",
+            "gloss": "accepts guidance",
+            "type": "verb",
+            "root": "هدي",
+            "count": 40,
+            "ref": "10:35",
+            "pos": 22,
+            "alt": [
+              "guided",
+              "is guided"
+            ],
+            "form": 8
+          }
+        ]
+      },
+      {
+        "w": "دانيه",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "دانِيَة",
+            "gloss": "hanging low",
+            "type": "active participle",
+            "root": "دنو",
+            "count": 3,
+            "ref": "6:99",
+            "pos": 24,
+            "alt": [
+              "hanging near"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "شهاده",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "شَهادَة",
+            "gloss": "testimony",
+            "type": "noun",
+            "root": "شهد",
+            "count": 26,
+            "ref": "2:140",
+            "pos": 22,
+            "alt": [
+              "testimonies"
+            ]
+          }
+        ]
+      }
+    ],
+    "otherFamily": [],
+    "maxScore": 54,
+    "featuredRoot": "شدد"
+  }
+}

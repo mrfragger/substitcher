@@ -1,0 +1,61 @@
+{
+  "title": "Uhambo Lokunqumla Ulwandle Olungazolanga",
+  "intro": "Khawucinge nje umi edekini yenqanawa egcwele kakhulu njengoko amaza enyuka kwaye abasebenzi bephosa amaqashiso ukuze banciphise umthwalo. Umntu oyedwa uhamba phambili, evuma isiphelo esibonakala ngathi sisiphelo, kodwa ubunzulu bube yindawo yokuthandaza nokubuya. Emva kwayo kukho uluntu olulumkiswe ngesohlwayo esizayo, ngaphambili kukho inceba engalindelekanga.",
+  "clues": [
+    "Ndathunyelwa njengomthunywa kubantu abangaphezu kwekhulu lamawaka.",
+    "Ndibashiye abantu bam ndinomsindo ngaphambi kokuba ndifumane imvume yokuhamba.",
+    "Ndakhwela inqanawa eyayizele ngabantu abaninzi, abasebenzi benza amaqashiso ukuze bagqibe ukuba ngubani oza kuphoswa elwandle.",
+    "Ndaphoswa elwandle ndaza ndaginywa yintlanzi enkulu ngoxa ndandinetyala.",
+    "Ndimzukisile uAllah ebumnyameni, ndisithi akukho Thixo ngaphandle kwakhe, ndithi ndingomnye wabenzi bobubi.",
+    "Ndaphoswa elunxwemeni oluvulekileyo, ndigula, waza uAllah wabangela ukuba isityalo segourd sikhule phezu kwam, baza abantu bam bakholwa baza banikwa ulonwabo okwethutyana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uMusa",
+        "Umprofeti uHud",
+        "Umprofeti uNuh",
+        "Umprofeti uLut",
+        "Umprofeti uYunus"
+      ],
+      "answer": "Umprofeti uYunus"
+    },
+    "trial": {
+      "label": "Luluphi Uvavanyo Endijongene Nalo?",
+      "options": [
+        "Iphoswe emlilweni owenziwe waphola kwaye wakhuseleka",
+        "Igwinywe yintlanzi enkulu emva kokubaleka",
+        "Abazalwana abanomona baphosa emngxunyeni onzulu",
+        "Uhlaselwe kukugula ixesha elide kunye nokulahlekelwa yimpilo",
+        "Wayalelwa ukuba anikele ngomntwana wakhe amthandayo"
+      ],
+      "answer": "Igwinywe yintlanzi enkulu emva kokubaleka"
+    },
+    "location": {
+      "label": "Yintoni Eyona Nto Yam Iphambili?",
+      "options": [
+        "Ityeya yomthi phezu kwamanzi ezikhukula",
+        "Umqolomba wokusabela kwintshutshiso",
+        "Intlambo engcwele yaseTuwa",
+        "Intlanzi enkulu nesisu sayo",
+        "Umlilo opholileyo olungiselelwe ngabanquli bezithixo"
+      ],
+      "answer": "Intlanzi enkulu nesisu sayo"
+    },
+    "outcome": {
+      "label": "Yayiyintoni Isiphumo Sam?",
+      "options": [
+        "Ndisindiswe ngokuzukiswa kwaye abantu bam bakholwa baza basindiswa okwethutyana",
+        "Abantu bam bajike baba ziinkawu ngenxa yokuphula iSabatha",
+        "Abantu bam baginywe ngumhlaba ngenxa yokuzikhukhumeza",
+        "Abantu bam babanjwe kukuvuthuza okukhulu okuvela esibhakabhakeni",
+        "Abantu bam batshoniswe ngumkhukula omkhulu"
+      ],
+      "answer": "Ndisindiswe ngokuzukiswa kwaye abantu bam bakholwa baza basindiswa okwethutyana"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

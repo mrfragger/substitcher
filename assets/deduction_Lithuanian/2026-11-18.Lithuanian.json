@@ -1,0 +1,61 @@
+{
+  "title": "Banga, padalijusi kraują",
+  "intro": "Įsivaizduokite didžiulį potvynį, kylantį virš žemės, tvirtai plūduriuojančią Arką ir vieną sielą, savo noru paliktą lauke. Kraujo ryšiais surišta su pranašu, tačiau atskirta tikėjimo, ši figūra susidūrė su paskutiniu kvietimu įlipti į laivą, vandeniui kylant. Ar galite atskleisti atsisakymo tapatybę?",
+  "clues": [
+    "Esu vieno didžiausių Alacho pranašų palikuonis, tikėjimo šeimą, kurią pasirinkau palikti.",
+    "Gyvenau Didžiojo tvano laikais, kai netikėjimas užliejo žemę lyg vanduo.",
+    "Kai tėvas mane pašaukė, aš atsisakiau lipti į Arką su tikinčiaisiais.",
+    "Pasakiau, kad ieškosiu prieglobsčio kalne, kuris apsaugotų mane nuo vandens.",
+    "Man buvo pasakyta, kad niekas negali apsaugoti nuo Alacho nutarimo tą Dieną, išskyrus gailestingumą.",
+    "Mane užgriuvo bangos ir nuskendau, o mano tėvui buvo pasakyta, kad nesu iš jo teisios šeimos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Zayd ibn Harithah",
+        "Pranašas Ishaqas, pranašo Ibrahimo sūnus",
+        "Netikintis pranašo Nuho sūnus",
+        "Habil, pranašo Adomo sūnus",
+        "Pranašas Ismailas, pranašo Ibrahimo sūnus"
+      ],
+      "answer": "Netikintis pranašo Nuho sūnus"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Parduotas į vergiją Egipte po brolių išdavystės",
+        "Atsisakymas lipti į arką ir prieglobsčio ieškojimas kalne",
+        "Įmestas į liepsnojančią ugnį už stabų sudaužymą",
+        "Pabėgus iš misijos, praryti didelės žuvies",
+        "Šimtmečius miegojo oloje, kad išvengtų persekiojimo"
+      ],
+      "answer": "Atsisakymas lipti į arką ir prieglobsčio ieškojimas kalne"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Veidrodiniai stikliniai rūmai Saboje",
+        "Medinė skrynia įmesta į upę",
+        "Aukštas kalnas ieškojo prieglobsčio nuo tvano",
+        "Degantis krūmas šventajame slėnyje",
+        "Kaaba, pastatyta kaip maldos namai"
+      ],
+      "answer": "Iškilus kalnas ieškojo prieglobsčio nuo tvano"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Prarytas žemės su lobiais už aroganciją",
+        "Suteikta karalystė su valdžia vėjams ir džinams",
+        "Sukurta vėsa ir saugumas, kai ugnis tapo taika",
+        "Prikeltas gyvas į dangų ir išgelbėtas nuo nukryžiavimo",
+        "Nuskendo tvane ir buvo paskelbtas ne teisia šeima"
+      ],
+      "answer": "Nuskendo tvane ir buvo paskelbtas ne teisia šeima"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

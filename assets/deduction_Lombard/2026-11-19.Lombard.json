@@ -1,0 +1,61 @@
+{
+  "title": "La fed ascüsa denter di mür del palazz",
+  "intro": "In del center de una cort tirannica piena de trame e de orgœuj, un’anema sola g’ha un segret periculus. Cerciad de podè e menacc de mort, chestu servitur de Allah varda un messagger che se mett da sul cuntra un impero. Quand qe ‘l silenzi ‘l diventa complicitaa, una decision audacia la g’ha de vesser presa par parlar la veritaa a grand ris’c personal.",
+  "clues": [
+    "Vivi intra un popul pudent e arrugant che refudava i segn de Allah.",
+    "Ho scondud la mia fed per un temp mentre quei che eren intorn a mi tramavan cuntra un messagger.",
+    "Ho parlad apert, disend: Mazzi un individuo perqè dixen: El me Signor l’è Allah, intant qe i prœve ciare inn rivade?",
+    "Ho avvertì la me gent del destin di naziun precedent e de un dì de chiamada reciproca.",
+    "G’ho ditt che el suvran che g’ho servì mustrava sultant un’opiniun strècc, e ancamò l’Aldilà l’è la vera cà.",
+    "Ho dit: O mio popul, seguimi e mi te guidarò sul cammin giüst, e Allah m’ha salvà del mal de luur trama."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Abu Lahab",
+        "Qarun",
+        "As-Samiri",
+        "Aman",
+        "El credent de la famiglia del faraon"
+      ],
+      "answer": "El credent de la famiglia del faraon"
+    },
+    "trial": {
+      "label": "Cossa g’ho fà?",
+      "options": [
+        "Tesor accumulà e i sò ciaf gravavan i òmm fort",
+        "Costruì una tor volta per vardà el dé de Musa",
+        "La fed sconduda g’ha difendü avertament Musa e g’ha avvertì el me popul",
+        "Creà un vitell d’or che faseva un son",
+        "Blocava el percors del Profeta e prendeva in gir la rivelaziun per la richeza"
+      ],
+      "answer": "La fed sconduda g’ha difendü avertament Musa e g’ha avvertì el me popul"
+    },
+    "location": {
+      "label": "Indò l’è andada la mia storia?",
+      "options": [
+        "L'Arca sü l'aqua di diluviun",
+        "La Mosqea Sacra a Mecca",
+        "Cort del Palazz del Faraon in Egitt",
+        "La Grotta dei Dormitori",
+        "La Val Boscosa de Madyan"
+      ],
+      "answer": "Cort del Palazz del Faraon in Egitt"
+    },
+    "outcome": {
+      "label": "Che l’è stà el me resultà?",
+      "options": [
+        "Me sun affogad cun l’esercit in del mar dividü",
+        "La terra la m’ha engullid cunt i me tesor",
+        "Un fulmin m’ha ciapà cun Thamud",
+        "Sun stà trasfurmà en una scimia perché g’ho violad el Sabat",
+        "Allah m’ha prutegiü dal mal de luur trama"
+      ],
+      "answer": "Allah m’ha prutegiü dal mal de luur trama"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

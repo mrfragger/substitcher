@@ -1,0 +1,61 @@
+{
+  "title": "La fede nascosta tra le mura del palazzo",
+  "intro": "Nel cuore di una corte tirannica, intrisa di complotti e superbia, un'anima solitaria custodisce un pericoloso segreto. Circondato dal potere e da minacce di morte, questo servo di Allah osserva un messaggero opporsi da solo a un impero. Quando il silenzio si trasforma in complicità, è necessario prendere una decisione coraggiosa: dire la verità, a costo di grandi rischi personali.",
+  "clues": [
+    "Vivevo in mezzo a un popolo potente e arrogante che rifiutava i segni di Allah.",
+    "Ho celato la mia fede per un certo periodo, mentre coloro che mi circondavano complottavano contro un messaggero.",
+    "Ho parlato apertamente, dicendo: Uccidete una persona perché dice \"Il mio Signore è Allah\", quando sono emerse prove inconfutabili?",
+    "Ho avvertito il mio popolo del destino delle nazioni precedenti e di un Giorno di Chiamata Reciproca.",
+    "Ho detto loro che il sovrano che ho servito mostra solo una visione ristretta, mentre l'Aldilà è la vera dimora.",
+    "Dissi: «O popolo mio, seguitemi e vi guiderò sulla retta via», e Allah mi salvò dal male dei loro complotti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Abu Lahab",
+        "Qarun",
+        "As-Samiri",
+        "Haman",
+        "Il credente della famiglia del faraone"
+      ],
+      "answer": "Il credente della famiglia del faraone"
+    },
+    "trial": {
+      "label": "Cosa ho fatto?",
+      "options": [
+        "Tesori accumulati le cui chiavi gravavano su uomini forti",
+        "Costruii un'alta torre per guardare il dio Musa",
+        "Ho celato la fede, poi ho difeso apertamente Mosè e ho avvertito il mio popolo",
+        "Ha creato un vitello d'oro che emetteva un suono muggito",
+        "Hanno bloccato il cammino del Profeta e deriso la rivelazione per arricchirsi."
+      ],
+      "answer": "Ho celato la fede, poi ho difeso apertamente Mosè e ho avvertito il mio popolo"
+    },
+    "location": {
+      "label": "Dove si è svolta la mia storia?",
+      "options": [
+        "L'arca sulle acque del diluvio",
+        "La Sacra Moschea della Mecca",
+        "La corte del faraone in Egitto",
+        "La grotta dei dormienti",
+        "La valle boscosa di Madyan"
+      ],
+      "answer": "La corte del faraone in Egitto"
+    },
+    "outcome": {
+      "label": "Qual è stato il mio risultato?",
+      "options": [
+        "Sono annegato con l'esercito nel Mar Rosso.",
+        "La terra mi ha inghiottito con i miei tesori",
+        "Un fulmine mi colpì con Thamud",
+        "Sono stato trasformato in scimmia per aver violato il sabato",
+        "Allah mi ha protetto dal male del loro complotto"
+      ],
+      "answer": "Allah mi ha protetto dal male del loro complotto"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

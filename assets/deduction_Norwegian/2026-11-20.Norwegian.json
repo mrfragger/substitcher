@@ -1,0 +1,61 @@
+{
+  "title": "Flukten over det urolige havet",
+  "intro": "Se for deg at du står på dekket av et overlastet fartøy mens bølgene stiger og mannskapet kaster lodd for å lette lasten. En enslig skikkelse trer frem og aksepterer en skjebne som virker som slutten, bare for at dypet skal bli et sted for bønn og tilbakekomst. Bak ligger et samfunn advart om kommende straff, foran ligger en uventet nåde.",
+  "clues": [
+    "Jeg ble sendt som budbringer til mer enn hundre tusen mennesker.",
+    "Jeg forlot folket mitt i sinne før jeg fikk tillatelse til å dra.",
+    "Jeg gikk om bord i et lastet skip, og mannskapet kastet lodd om hvem som skulle kastes over bord.",
+    "Jeg ble kastet i havet og slukt av en stor fisk mens jeg var skyldig.",
+    "Jeg priste Allah i mørket og erklærte at det ikke finnes noen guddom uten Ham, og at jeg var blant de urettferdige.",
+    "Jeg ble kastet ut på åpen strand, syk, og Allah lot en gresskarplante vokse over meg. Så trodde mitt folk og fikk nyte det en stund."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Musa",
+        "Profeten Hud",
+        "Profeten Nuh",
+        "Profeten Lut",
+        "Profeten Yunus"
+      ],
+      "answer": "Profeten Yunus"
+    },
+    "trial": {
+      "label": "Hvilken prøvelse møtte jeg?",
+      "options": [
+        "Kastet i en ild som ble kjølig og trygg",
+        "Svelget av den store fisken etter å ha flyktet",
+        "Kastet i en dyp brønn av sjalu brødre",
+        "Rammet av langvarig sykdom og helsetap",
+        "Befalt å ofre et elsket barn"
+      ],
+      "answer": "Svelget av den store fisken etter å ha flyktet"
+    },
+    "location": {
+      "label": "Hva er mitt nøkkelelement?",
+      "options": [
+        "Trearken på flomvannet",
+        "Hulen til tilflukt fra forfølgelse",
+        "Den hellige dalen Tuwa",
+        "Den store fisken og dens buk",
+        "Den kjølige ilden som avgudsdyrkere har forberedt"
+      ],
+      "answer": "Den store fisken og dens buk"
+    },
+    "outcome": {
+      "label": "Hva var resultatet mitt?",
+      "options": [
+        "Reddet ved herliggjørelse, og mitt folk trodde og ble spart for en tid",
+        "Mitt folk ble forvandlet til aper fordi de brøt sabbaten",
+        "Mitt folk ble oppslukt av jorden for sin arroganse",
+        "Mitt folk ble grepet av et mektig vindkast fra himmelen",
+        "Mitt folk druknet av den store flommen"
+      ],
+      "answer": "Reddet ved herliggjørelse, og mitt folk trodde og ble spart for en tid"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

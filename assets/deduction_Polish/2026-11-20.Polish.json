@@ -1,0 +1,61 @@
+{
+  "title": "Lot przez niespokojne morze",
+  "intro": "Wyobraź sobie, że stoisz na pokładzie przeładowanego statku, gdy fale się wzbierają, a załoga rzuca losy, by odciążyć statek. Samotna postać robi krok naprzód, godząc się na los, który wydaje się końcem, tylko po to, by głębiny stały się miejscem modlitwy i powrotu. Za nimi kryje się społeczność ostrzeżona przed nadchodzącą karą, a przed nami czeka niespodziewane miłosierdzie.",
+  "clues": [
+    "Zostałem wysłany jako posłaniec do ponad stu tysięcy ludzi.",
+    "Opuściłem swój lud w gniewie, zanim dostałem pozwolenie na odejście.",
+    "Wszedłem na pokład załadowanego statku, a załoga rzuciła losy, aby zdecydować, kogo wyrzucić za burtę.",
+    "Zostałem wrzucony do morza i połknięty przez wielką rybę, podczas gdy ja byłem godny potępienia.",
+    "Wychwalałem Allaha w ciemnościach, twierdząc, że nie ma bóstwa oprócz Niego i że ja również byłem w gronie złoczyńców.",
+    "Zostałem wyrzucony na otwarty brzeg, chory, a Allah sprawił, że nade mną wyrosła tykwa, po czym mój lud uwierzył i przez pewien czas mógł się cieszyć życiem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Musa",
+        "Prorok Hud",
+        "Prorok Noh",
+        "Prorok Lut",
+        "Prorok Yunus"
+      ],
+      "answer": "Prorok Yunus"
+    },
+    "trial": {
+      "label": "Jaką próbę przeszedłem?",
+      "options": [
+        "Wrzucony do ognia, ostudzony i bezpieczny",
+        "Połknięty przez wielką rybę po ucieczce",
+        "Wrzucony do głębokiej studni przez zazdrosnych braci",
+        "Dotknięty długotrwałą chorobą i utratą zdrowia",
+        "Nakazano mu poświęcić ukochane dziecko"
+      ],
+      "answer": "Połknięty przez wielką rybę po ucieczce"
+    },
+    "location": {
+      "label": "Jaki jest mój kluczowy element?",
+      "options": [
+        "Drewniana Arka na wodach potopu",
+        "Jaskinia schronienia przed prześladowaniami",
+        "Święta dolina Tuwa",
+        "Wielka ryba i jej brzuch",
+        "Chłodny ogień przygotowany przez bałwochwalców"
+      ],
+      "answer": "Wielka ryba i jej brzuch"
+    },
+    "outcome": {
+      "label": "Jaki był mój wynik?",
+      "options": [
+        "Zbawiony przez uwielbienie, mój lud uwierzył i został na jakiś czas oszczędzony",
+        "Mój lud został zamieniony w małpy za łamanie szabatu",
+        "Mój lud został pochłonięty przez ziemię za arogancję",
+        "Mój lud został porwany przez potężny wybuch z nieba",
+        "Mój lud utonął w wielkiej powodzi"
+      ],
+      "answer": "Zbawiony przez uwielbienie, mój lud uwierzył i został na jakiś czas oszczędzony"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

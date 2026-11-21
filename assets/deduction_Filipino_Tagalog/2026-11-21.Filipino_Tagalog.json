@@ -1,0 +1,61 @@
+{
+  "title": "Ang Mga Tinig sa Tabi ng Tubig na Tahimik",
+  "intro": "Isipin ang isang komunidad na ipinangalan hindi dahil sa isang lungsod o isang pinuno, kundi dahil sa payapang tubig na pinagmumulan ng buhay. Iilang talata lamang ang nagpapaalala sa komunidad na ito, na laging nakalista kasama ng mga tumanggi sa patnubay. Makinig habang sila ay nagsasalita mula sa dilim.",
+  "clues": [
+    "Kami ay isang komunidad na pinangalanan sa Quran, ngunit ang aming buong kwento ay nananatiling natatakpan ng misteryo.",
+    "Palagi tayong binabanggit kasama ng mga taong tumanggi, tulad ng mga tao ng Ad at Thamud.",
+    "Tayo ay tinatawag na mga Kasamahan ng Ar-Rass, ang Balon kung saan nakatali ang ating buhay.",
+    "Tinatanggihan namin ang sugong ipinadala sa amin na may malinaw na patnubay.",
+    "Tayo ay kabilang sa mga tumanggi sa lahat ng mga sugong isinugo ni Allah.",
+    "Hinarap namin ang banta na ipinataw laban sa bawat nagtatanggi sa harap namin, ang pagkawasak dahil sa aming pagtanggi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Ang mga Kasamahan ng Ar-Rass",
+        "Ang mga Tao ng Madyan",
+        "Ang mga Naninirahan sa Al-Hijr",
+        "Ang mga Tao ni Lut",
+        "Ang mga Tao ng Tubba'"
+      ],
+      "answer": "Ang mga Kasamahan ng Ar-Rass"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Nagtayo ng mataas na tore upang maabot ang kalangitan",
+        "Tinanggihan ang mensaherong ipinadala sa amin",
+        "Sumamba sa ginintuang guya noong wala si Musa",
+        "Nagplanong patayin si Yusuf dahil sa inggit",
+        "Hiniling na makita nang hayagan si Allah"
+      ],
+      "answer": "Tinanggihan ang mensaherong ipinadala sa amin"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Bundok Judi ng pahinga",
+        "Ang Palasyo ng Salamin na gawa sa Salamin",
+        "Ang Lambak ng mga Langgam",
+        "Ang Arka na itinayo sa ilalim ng paghahayag",
+        "Ang Balon (Ar-Rass)"
+      ],
+      "answer": "Ang Balon (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Nilamon ng lupa dahil sa pagmamalaki sa kayamanan",
+        "Iniligtas ng Arka mula sa baha",
+        "Pinatulog nang maraming siglo sa isang kuweba",
+        "Ipinagkaloob ang kontrol sa hangin at jinn",
+        "Nawasak dahil sa pagtanggi sa mga mensahero"
+      ],
+      "answer": "Nawasak dahil sa pagtanggi sa mga mensahero"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Flugið yfir ókyrrt hafið",
+  "intro": "Ímyndaðu þér að standa á þilfari ofhlaðins skips þegar öldurnar æsast og áhöfnin kastar hlutkesti til að létta álagið. Einmana persóna stígur fram, tekur á sig örlög sem virðast vera endirinn, en djúpið verður að staður bænar og endurkomu. Að baki liggur samfélag sem er varað við komandi refsingu, framundan liggur óvænt miskunn.",
+  "clues": [
+    "Ég var sendur sem sendiboði til meira en hundrað þúsund manna.",
+    "Ég yfirgaf fólkið mitt í reiði áður en ég fékk leyfi til að fara.",
+    "Ég steig um borð í hlaðið skip og áhöfnin kastaði hlutkesti um hver skyldi kastað fyrir borð.",
+    "Ég var kastað í sjóinn og gleyptur af stórum fiski, meðan ég var sekur.",
+    "Ég vegsamaði Allah í myrkrinu og lýsti því yfir að enginn guð væri nema Hann og að ég væri einn af illgjörðamönnum.",
+    "Ég var kastað á opna ströndina, veikur, og Allah lét grasker vaxa yfir mig, þá trúði fólk mitt og fékk ánægju um tíma."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Spámaðurinn Músa",
+        "Spámaðurinn Hud",
+        "Spámaðurinn Nuh",
+        "Spámaðurinn Lút",
+        "Spámaðurinn Yunus"
+      ],
+      "answer": "Spámaðurinn Yunus"
+    },
+    "trial": {
+      "label": "Hvaða prófraun stóð ég frammi fyrir?",
+      "options": [
+        "Kastað í eld sem varð svalur og öruggur",
+        "Gleypt af stórfisknum eftir að hafa flúið",
+        "Kastað í djúpan brunn af öfundsjúkum bræðrum",
+        "Langvinn veikindi og heilsubrestur hafa lamast",
+        "Fyrirskipað að fórna ástkæru barni"
+      ],
+      "answer": "Gleypt af stórfisknum eftir að hafa flúið"
+    },
+    "location": {
+      "label": "Hver er lykilþátturinn minn?",
+      "options": [
+        "Tréörkin á flóðvatninu",
+        "Hellirinn sem veitir skjól frá ofsóknum",
+        "Hinn helgi dalur Tuwa",
+        "Stóri fiskurinn og kviður hans",
+        "Svalur eldur sem skurðgoðadýrkendur búa til"
+      ],
+      "answer": "Stóri fiskurinn og kviður hans"
+    },
+    "outcome": {
+      "label": "Hver var niðurstaða mín?",
+      "options": [
+        "Bjargað með dýrð og fólk mitt trúði og var hlíft um tíma",
+        "Fólk mitt var breytt í apa fyrir að brjóta hvíldardaginn",
+        "Jörðin gleypti fólk mitt fyrir hroka sinn",
+        "Fólk mitt var gripið af voldugum vindi af himni",
+        "Fólk mitt drukknaði í miklu flóði"
+      ],
+      "answer": "Bjargað með dýrð og fólk mitt trúði og var hlíft um tíma"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

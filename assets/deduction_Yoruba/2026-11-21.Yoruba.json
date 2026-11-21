@@ -1,0 +1,61 @@
+{
+  "title": "Àwọn Ohùn Lẹ́gbẹ̀ẹ́ Omi Díẹ̀",
+  "intro": "Fojú inú wo àwùjọ kan tí a dárúkọ kìí ṣe fún ìlú tàbí alákòóso, bíkòṣe fún omi tí ó rọ̀ tí àwọn ẹ̀dá ayé kó jọ yíká. Àwọn ẹsẹ díẹ̀ ni ó rántí àwùjọ yìí, tí a máa ń kọ sílẹ̀ láàárín àwọn tí kò gba ìtọ́sọ́nà. Fetí sílẹ̀ bí wọ́n ṣe ń sọ̀rọ̀ láti inú òkùnkùn.",
+  "clues": [
+    "Àwùjọ kan tí a dárúkọ nínú Al-Quran ni wá, síbẹ̀ gbogbo ìtàn wa ṣì wà nínú àṣírí.",
+    "A maa n mẹnuba wa pẹlu awọn ti wọn sẹ, bii awọn eniyan Ad ati Thamuud.",
+    "A pe wa ni awon omo Ar-Rass, Kanga ti a so aye wa mo.",
+    "A sẹ́ ìránṣẹ́ tí wọ́n rán sí wa pẹ̀lú ìtọ́sọ́nà tó ṣe kedere.",
+    "A kà wá sí ọ̀kan lára ​​àwọn tí ó kọ gbogbo àwọn ojiṣẹ tí Allah rán.",
+    "A dojúkọ ìhalẹ̀ tí a mú ṣẹ sí gbogbo àwọn tí wọ́n sẹ́ wa níwájú wa, ìparun fún ìkọ̀sílẹ̀ wa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Àwọn alábágbé Ar-Rass",
+        "Àwọn ènìyàn Madyan",
+        "Àwọn olùgbé Al-Hijr",
+        "Àwọn ènìyàn Lúùtù",
+        "Àwọn ènìyàn Tubba'"
+      ],
+      "answer": "Àwọn alábágbé Ar-Rass"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Kọ ile-iṣọ giga kan lati de ọrun",
+        "Ó sẹ́ ìránṣẹ́ tí a rán sí wa",
+        "Ó sin ère màlúù wúrà nígbà tí Mósè kò sí níbẹ̀",
+        "Wọ́n gbèrò láti pa Yusuf nítorí ìlara",
+        "Wọ́n ní kí wọ́n rí Allāhu ní gbangba"
+      ],
+      "answer": "Ó sẹ́ ìránṣẹ́ tí a rán sí wa"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Òkè Judi ti ìsinmi",
+        "Ààfin dígí tí a fi dígí ṣe",
+        "Àfonífojì Àwọn Eérú",
+        "Àpótí tí a kọ́ lábẹ́ ìṣípayá",
+        "Kànga (Ar-Rass)"
+      ],
+      "answer": "Kànga (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Ilẹ̀ gbé mì nítorí ìgbéraga nínú ìṣúra",
+        "Ọkọ̀ gbà á là kúrò nínú ìkún omi",
+        "A mú kí ó sùn nínú ihò àpáta fún ọ̀pọ̀ ọ̀rúndún",
+        "A fun ni iṣakoso afẹfẹ ati awọn jinni",
+        "A pa á run fún sísẹ́ àwọn ońṣẹ́ náà"
+      ],
+      "answer": "A pa á run fún sísẹ́ àwọn ońṣẹ́ náà"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

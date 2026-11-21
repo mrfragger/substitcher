@@ -1,0 +1,61 @@
+{
+  "title": "Palatsin muurien sisällä piilevä usko",
+  "intro": "Tyrannimaisen, juonittelujen ja ylpeyden täyttämän hovin keskellä yksinäinen sielu pitää hallussaan vaarallista salaisuutta. Vallan ja kuolemanuhkausten ympäröimänä tämä Allahin palvelija seuraa sanansaattajan seisovan yksin imperiumia vastaan. Kun hiljaisuudesta tulee osallisuutta, on tehtävä rohkea päätös puhua totta suurella henkilökohtaisella vastuulla.",
+  "clues": [
+    "Elin voimakkaiden ja ylimielisten ihmisten keskuudessa, jotka hylkäsivät Allahin merkit.",
+    "Salasin uskoni jonkin aikaa, kun ympärilläni olevat juonittelivat sanansaattajaa vastaan.",
+    "Puhuin avoimesti ja sanoin: \"Tappaatteko ihmisen, koska he sanovat: 'Herrani on Allah', vaikka selkeät todisteet ovat tulleet?\"",
+    "Varoitin kansaani aikaisempien kansojen kohtalosta ja yhteisen kutsun päivästä.",
+    "Sanoin heille, että palvelemani hallitsija on mielipiteiltään kapea-alainen, mutta Tuonpuoleinen on todellinen koti.",
+    "Minä sanoin: Oi kansani, seuratkaa minua, niin minä opastan teidät oikealle tielle. Ja Allah pelasti minut heidän juoniensa pahuudesta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Abu Lahab",
+        "Qarun",
+        "As-Samiri",
+        "Haman",
+        "Uskovainen faaraon suvusta"
+      ],
+      "answer": "Uskovainen faaraon suvusta"
+    },
+    "trial": {
+      "label": "Mitä tein?",
+      "options": [
+        "Keräsi aarteita, joiden avaimet painoivat vahvoja miehiä",
+        "Rakensi korkean tornin katsoakseen Musan jumalaa",
+        "Salainen usko puolusti sitten avoimesti Musaa ja varoitti kansaani",
+        "Muotoili kultaisen vasikan, joka päästi ammuvan äänen",
+        "Esti profeetan polun ja pilkkasi ilmestystä vaurauden vuoksi"
+      ],
+      "answer": "Salainen usko puolusti sitten avoimesti Musaa ja varoitti kansaani"
+    },
+    "location": {
+      "label": "Missä tarinani avautui?",
+      "options": [
+        "Arkki tulvavesien päällä",
+        "Pyhä moskeija Mekassa",
+        "Faaraon palatsin hovi Egyptissä",
+        "Nukkujien luola",
+        "Madyanin metsäinen laakso"
+      ],
+      "answer": "Faaraon palatsin hovi Egyptissä"
+    },
+    "outcome": {
+      "label": "Mikä oli tulokseni?",
+      "options": [
+        "Hukkuin armeijan kanssa jakautuneeseen mereen",
+        "Maa nielaisi minut aarteillani",
+        "Ukkonen iski minuun Thamudin kanssa",
+        "Minusta tuli apina, koska rikoin sapatin",
+        "Allah suojeli minua heidän juoniensa pahuudesta"
+      ],
+      "answer": "Allah suojeli minua heidän juoniensa pahuudesta"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

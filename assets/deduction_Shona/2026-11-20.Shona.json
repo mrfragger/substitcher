@@ -1,0 +1,61 @@
+{
+  "title": "Kubhururuka Mugungwa Risingaperi",
+  "intro": "Fungidzira wakamira padheki rechikepe chakazara nemhepo sezvo mafungu achikwira uye vashandi vachikanda mijenya kuti mutoro ureruke. Munhu ari ega anofamba achienda mberi, achigamuchira mugumo unoita semugumo, asi pasi rose pachava nzvimbo yekunamatira nekudzoka. Kumashure kune nharaunda yanyeverwa nezvekurangwa kuri kuuya, mberi kune tsitsi dzisingatarisirwi.",
+  "clues": [
+    "Ndakatumwa semutumwa kuvanhu vanopfuura zviuru zana.",
+    "Ndakasiya vanhu vangu ndakatsamwa ndisati ndapihwa mvumo yekubva.",
+    "Ndakakwira ngarava yakanga yakazara zvinhu uye vashandi vakakanda mijenya kuti vasarudze kuti ndiani aizokandirwa mumvura.",
+    "Ndakakandwa mugungwa ndikamedzwa nehove huru asi ini ndaifanira kupomerwa mhosva.",
+    "Ndakarumbidza Allah murima, ndichiti hakuna mwari kunze kwake uye kuti ndaiva mumwe wevanoita zvakaipa.",
+    "Ndakakandwa pamhenderekedzo yegungwa, ndichirwara, uye Allah akaita kuti muti wemupunga ukure pamusoro pangu, vanhu vangu vakatenda uye vakakomborerwa kwenguva yakati."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muprofita Musa",
+        "Muporofita Hud",
+        "Muprofita Nuh",
+        "Muporofita Lut",
+        "Muprofita Yunus"
+      ],
+      "answer": "Muprofita Yunus"
+    },
+    "trial": {
+      "label": "Ndakasangana Nemuedzo Upi?",
+      "options": [
+        "Yakakandwa mumoto yakaitwa kuti itonhore uye ive yakachengeteka",
+        "Yakamedzwa nehove huru mushure mekunge yatiza",
+        "Hama dzine godo dzakakanda mugomba rakadzika",
+        "Ndarwara kwenguva refu uye ndarasikirwa nehutano",
+        "Akarayirwa kubayira mwana waanoda"
+      ],
+      "answer": "Yakamedzwa nehove huru mushure mekunge yatiza"
+    },
+    "location": {
+      "label": "Chii Chinokosha Changu?",
+      "options": [
+        "Areka yematanda iri pamusoro pemvura yemafashamo",
+        "Bako rekupotera kubva pakutambudzwa",
+        "Mupata mutsvene weTuwa",
+        "Hove huru nedumbu rayo",
+        "Moto unotonhorera wakagadzirwa nevanonamata zvidhori"
+      ],
+      "answer": "Hove huru nedumbu rayo"
+    },
+    "outcome": {
+      "label": "Chii Chakaitika Kwangu?",
+      "options": [
+        "Ndakaponeswa nekukudzwa uye vanhu vangu vakatenda uye vakaponeswa kwenguva yakati",
+        "Vanhu vangu vakaitwa tsoko nekuda kwekutyora Sabata",
+        "Vanhu vangu vakamedzwa nenyika nekuda kwekuzvikudza",
+        "Vanhu vangu vakabatwa nekuputika kukuru kwakabva kudenga",
+        "Vanhu vangu vakanyura nemvura zhinji"
+      ],
+      "answer": "Ndakaponeswa nekukudzwa uye vanhu vangu vakatenda uye vakaponeswa kwenguva yakati"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

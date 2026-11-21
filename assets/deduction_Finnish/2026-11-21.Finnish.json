@@ -1,0 +1,61 @@
+{
+  "title": "Äänet tyynen veden äärellä",
+  "intro": "Kuvittele yhteisö, joka ei ole nimetty kaupungin tai hallitsijan mukaan, vaan tyynen veden mukaan, jonka ympärille elämä kerääntyi. Vain muutamat jakeet muistavat tämän yhteisön, joka aina luetellaan niiden joukossa, jotka hylkäsivät opastuksen. Kuuntele, kun he puhuvat hämärästä.",
+  "clues": [
+    "Olemme yhteisö, joka on nimetty Koraanissa, mutta koko tarinamme pysyy salaisuuden peitossa.",
+    "Meidät mainitaan aina niiden rinnalla, jotka kielsivät, kuten Aadin ja Tamudin kansa.",
+    "Meitä kutsutaan Ar-Rassin, Kaivon, johon elämämme oli sidottu, seuralaisiksi.",
+    "Me torjuimme sanansaattajan, joka oli lähetetty meille selkeän johdatuksen kanssa.",
+    "Meidät luetaan niiden joukkoon, jotka hylkäsivät kaikki Allahin lähettämät sanansaattajat.",
+    "Kohtasimme uhkauksen, joka täyttyi jokaista edessämme olevaa kieltäjää vastaan, tuhon hylkäämisemme vuoksi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Ar-Rassin seuralaiset",
+        "Madyanin kansa",
+        "Al-Hijrin asukkaat",
+        "Lutin kansa",
+        "Tubban kansa"
+      ],
+      "answer": "Ar-Rassin seuralaiset"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Rakensi korkean tornin taivaisiin yltääkseen",
+        "Kieltäytyi meille lähetetystä sanansaattajasta",
+        "Palvoi kultaista vasikkaa Musan poissa ollessa",
+        "Suunnittelivat tappavansa Yusufin kateudesta",
+        "Vaati nähdä Allahin avoimesti"
+      ],
+      "answer": "Kieltäytyi meille lähetetystä sanansaattajasta"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Juudin levon vuori",
+        "Lasinen peilipalatsi",
+        "Muurahaisten laakso",
+        "Ilmestyksen alaisena rakennettu arkki",
+        "Kaivo (Ar-Rass)"
+      ],
+      "answer": "Kaivo (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Maan nielaisema ylpeyden vuoksi aarteesta",
+        "Arkin pelastama tulvalta",
+        "Tehty nukkumaan vuosisatoja luolassa",
+        "Myönnettiin tuulen ja džinnien hallinta",
+        "Tuhottu, koska kielsi sanansaattajat"
+      ],
+      "answer": "Tuhottu, koska kielsi sanansaattajat"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

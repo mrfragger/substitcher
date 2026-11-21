@@ -1,0 +1,61 @@
+{
+  "title": "Manzwi Ari Parutivi Pemvura Yakanyarara",
+  "intro": "Fungidzira nharaunda isina zita reguta kana mutongi, asi remvura yakadzikama yakapoteredza hupenyu. Ndima shoma chete ndidzo dzinorangarira nharaunda iyi, inogara ichinyorwa pakati peavo vakaramba kutungamirirwa. Teerera sezvavanotaura kubva muchivande.",
+  "clues": [
+    "Tiri nzanga inonyorwa muKorani, asi nyaya yedu yakazara ichiri yakavanzika.",
+    "Tinogara tichitaurwa pamwe chete nevaya vakaramba, sevanhu veAd neThamud.",
+    "Tinonzi Shamwari dzeAr-Rass, tsime iro hupenyu hwedu hwakabatana naro.",
+    "Takaramba mutumwa akatumwa kwatiri negwara rakajeka.",
+    "Isu tiri pakati peavo vakaramba vatumwa vese vakatumwa naAllah.",
+    "Takatarisana nekutyisidzirwa kwakazadziswa kune wese anoramba pamberi pedu, kuparadzwa nekuda kwekurambwa kwedu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Shamwari dzeAr-Rass",
+        "Vanhu vekuMadyan",
+        "Vagari veAl-Hijr",
+        "Vanhu veLut",
+        "Vanhu veTubba'"
+      ],
+      "answer": "Shamwari dzeAr-Rass"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Akavaka shongwe refu kuti asvike kudenga",
+        "Akaramba nhume yaakatumwa kwatiri",
+        "Akanamata mhuru yegoridhe Musa asipo",
+        "Vakaronga kuuraya Yusuf nekuda kwegodo",
+        "Akakumbirwa kuti aone Allah pachena"
+      ],
+      "answer": "Akaramba nhume yaakatumwa kwatiri"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Gomo reJudhi rekuzorora",
+        "Imba yegirazi ine girazi",
+        "Mupata weMasvosve",
+        "Areka yakavakwa pasi pekuratidzwa",
+        "Tsime (Ar-Rass)"
+      ],
+      "answer": "Tsime (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Yakamedzwa nenyika nekuda kwekuzvikudza nepfuma",
+        "Kuponeswa neAreka kubva mumafashamo",
+        "Yakarara kwemazana emakore mubako",
+        "Kudzorwa kwemhepo nemajini kwakapihwa",
+        "Akaparadzwa nekuda kwekuramba vatumwa"
+      ],
+      "answer": "Akaparadzwa nekuda kwekuramba vatumwa"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

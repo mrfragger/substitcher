@@ -1,0 +1,61 @@
+{
+  "title": "Firîna li ser Deryaya Bêaram",
+  "intro": "Wêneyek li ser dekê keştiyek zêde barkirî radiweste dema ku pêl bilind dibin û ekîb ji bo sivikkirina barê pişkê diavêje. Kesayetiyek bi tenê ber bi pêş ve diçe, çarenûsek qebûl dike ku wekî dawiyê xuya dike, lê kûrahî dibe cihê dua û vegerê. Li pişt wê civatek heye ku ji cezayê tê hişyarî lê hatiye dayîn, li pêş jî rehmetek nediyar heye.",
+  "clues": [
+    "Ez wek peyamber ji bo zêdetirî sed hezar kesan hatim şandin.",
+    "Berî ku destûra çûnê bistînim, min bi hêrs gelê xwe terk kir.",
+    "Ez siwarî keştîyeke barkirî bûm û ekîbê pişk avêt da ku biryar bidin ka kî dê were avêtin deryayê.",
+    "Dema ku ez sûcdar bûm, ez avêtim deryayê û ji aliyê masiyek mezin ve hatim daqurtandin.",
+    "Min di tariyê de pesnê Xwedê da û min got ku ji bilî Wî ti xweda tune û ez ji zaliman bûm.",
+    "Ez nexweş li ser perava vekirî hatim avêtin û Xwedê dareke kundir li ser min şîn kir, paşê gelê min bawerî anî û demekê kêf jê re hat dayîn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Mûsa",
+        "Pêxember Hûd",
+        "Pêxember Nûh",
+        "Pêxember Lût",
+        "Pêxember Yunus"
+      ],
+      "answer": "Pêxember Yunus"
+    },
+    "trial": {
+      "label": "Ez bi çi ceribandinê re rû bi rû mam?",
+      "options": [
+        "Hat avêtin nav agirê ku sar û ewle bûye",
+        "Piştî revê ji aliyê masiyê mezin ve hat daqurtandin",
+        "Ji aliyê birayên hesûd ve avêtin bîreke kûr",
+        "Bi nexweşiyeke dirêj û windakirina tenduristiyê ket",
+        "Ferman hat dayîn ku zarokekî delal qurban bike"
+      ],
+      "answer": "Piştî revê ji aliyê masiyê mezin ve hat daqurtandin"
+    },
+    "location": {
+      "label": "Hêmana Min a Sereke Çi ye?",
+      "options": [
+        "Keştiya darîn li ser avên lehiyê",
+        "Şikefta penagehê ji zilmê",
+        "Geliyê pîroz ê Tuwa",
+        "Masîyê mezin û zikê wî",
+        "Agirê sar ê ku ji hêla pûtperestan ve hatiye amadekirin"
+      ],
+      "answer": "Masîyê mezin û zikê wî"
+    },
+    "outcome": {
+      "label": "Encama Min Çi Bû?",
+      "options": [
+        "Bi rûmetkirinê hat xilaskirin û gelê min bawer kir û demekê xilas bû",
+        "Gelê min ji ber şikandina roja Şemiyê veguherî meymûnan",
+        "Gelê min ji ber xudperestiyê ji aliyê erdê ve hat daqurtandin",
+        "Gelê min bi teqînek mezin ji asîman ve hate girtin",
+        "Gelê min di lehiya mezin de xeniqîn"
+      ],
+      "answer": "Bi rûmetkirinê hat xilaskirin û gelê min bawer kir û demekê xilas bû"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

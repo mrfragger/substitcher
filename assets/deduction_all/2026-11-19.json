@@ -1,0 +1,61 @@
+{
+  "title": "The Hidden Faith Within the Palace Walls",
+  "intro": "In the center of a tyrannical court filled with plots and pride, a lone soul holds a dangerous secret. Surrounded by power and threats of death, this servant of Allah watches a messenger stand alone against an empire. When silence becomes complicity, a bold decision must be made to speak truth at great personal risk.",
+  "clues": [
+    "I lived among a powerful and arrogant people who rejected the signs of Allah.",
+    "I concealed my faith for a time while those around me plotted against a messenger.",
+    "I spoke out openly, saying: Do you kill an individual because they say, My Lord is Allah, while clear proofs have come?",
+    "I warned my people about the fate of earlier nations and about a Day of Mutual Calling.",
+    "I told them that the ruler I served shows only narrow opinion, yet the Hereafter is the true home.",
+    "I said: O my people, follow me and I will guide you to the right path, and Allah saved me from the evil of their plotting."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Abu Lahab",
+        "Qarun",
+        "As-Samiri",
+        "Haman",
+        "The Believer from Pharaoh's Family"
+      ],
+      "answer": "The Believer from Pharaoh's Family"
+    },
+    "trial": {
+      "label": "What Did I Do?",
+      "options": [
+        "Amassed treasures whose keys burdened strong men",
+        "Built a lofty tower to look at the god of Musa",
+        "Concealed faith then openly defended Musa and warned my people",
+        "Fashioned a golden calf that made a lowing sound",
+        "Blocked the Prophet's path and mocked revelation for wealth"
+      ],
+      "answer": "Concealed faith then openly defended Musa and warned my people"
+    },
+    "location": {
+      "label": "Where Did My Story Unfold?",
+      "options": [
+        "The Ark upon the flood waters",
+        "The Sacred Mosque in Makkah",
+        "Pharaoh's Palace Court in Egypt",
+        "The Cave of the Sleepers",
+        "The Wooded Valley of Madyan"
+      ],
+      "answer": "Pharaoh's Palace Court in Egypt"
+    },
+    "outcome": {
+      "label": "What Was My Outcome?",
+      "options": [
+        "I drowned with the army in the divided sea",
+        "The earth swallowed me with my treasures",
+        "A thunderbolt seized me with Thamud",
+        "I was turned into an ape for breaking the Sabbath",
+        "Allah protected me from the evil of their plot"
+      ],
+      "answer": "Allah protected me from the evil of their plot"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

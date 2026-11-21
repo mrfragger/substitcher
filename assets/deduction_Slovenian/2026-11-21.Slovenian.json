@@ -1,0 +1,61 @@
+{
+  "title": "Glasovi ob mirnih vodah",
+  "intro": "Predstavljajte si skupnost, ki ni dobila imena po mestu ali vladarju, temveč po mirni vodi, okoli katere se je zbiralo življenje. Le nekaj verzov se spominja te skupnosti, ki je vedno navedena med tistimi, ki so zavrnili vodstvo. Poslušajte jih, ko govorijo iz teme.",
+  "clues": [
+    "Smo skupnost, imenovana v Koranu, vendar naša celotna zgodba ostaja zavita v tančico skrivnosti.",
+    "Vedno smo omenjeni skupaj s tistimi, ki so zanikali, kot sta bila ljudstvo Ad in Semud.",
+    "Imenujejo nas Spremljevalci Ar-Rass-a, Vodnjaka, s katerim je bilo povezano naše življenje.",
+    "Zanikali smo poslanca, ki nam je bil poslan z jasnim navodilom.",
+    "Štejemo se med tiste, ki so zavrnili vse poslance, ki jih je poslal Allah.",
+    "Soočili smo se z grožnjo, ki se je izpolnila nad vsakim zanikovalcem pred nami, uničenjem zaradi naše zavrnitve."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Spremljevalci Ar-Rass",
+        "Ljudje iz Madyana",
+        "Prebivalci Al-Hidžra",
+        "Lutovo ljudstvo",
+        "Ljudje iz Tubbe"
+      ],
+      "answer": "Spremljevalci Ar-Rass"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Zgradil je vzvišen stolp, da bi dosegel nebesa",
+        "Zavrnili smo poslanca, ki nam ga je poslal",
+        "V odsotnosti Muse je častil zlato tele",
+        "Iz zavisti je načrtoval umor Jusufa",
+        "Zahteval je, da odkrito vidi Alaha"
+      ],
+      "answer": "Zavrnili smo poslanca, ki nam ga je poslal"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Gora počitka Judi",
+        "Zrcalna palača iz stekla",
+        "Dolina mravelj",
+        "Skrinja, zgrajena po razodetju",
+        "Vodnjak (Ar-Rass)"
+      ],
+      "answer": "Vodnjak (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Požrla ga je zemlja zaradi ponosa na zaklad",
+        "Rešen z barko pred potopom",
+        "Stoletja prisiljen spati v jami",
+        "Podeljen nadzor nad vetrom in džini",
+        "Uničen zaradi zanikanja poslancev"
+      ],
+      "answer": "Uničen zaradi zanikanja poslancev"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

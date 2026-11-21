@@ -1,0 +1,61 @@
+{
+  "title": "Les voix au bord des eaux calmes",
+  "intro": "Imaginez une communauté qui ne tire pas son nom d'une ville ou d'un souverain, mais de l'eau paisible autour de laquelle la vie s'est développée. Seuls quelques versets évoquent cette communauté, toujours citée parmi ceux qui ont rejeté toute forme d'autorité. Écoutez-les parler depuis l'obscurité.",
+  "clues": [
+    "Nous sommes une communauté mentionnée dans le Coran, pourtant notre histoire complète reste voilée de mystère.",
+    "On nous cite toujours aux côtés de ceux qui ont nié, comme les peuples d'Ad et de Thamud.",
+    "On nous appelle les Compagnons d'Ar-Rass, le Puits auquel notre vie était liée.",
+    "Nous avons renié le messager qui nous avait été envoyé avec des instructions claires.",
+    "Nous sommes comptés parmi ceux qui ont rejeté tous les messagers envoyés par Allah.",
+    "Nous avons fait face à la menace qui s'était concrétisée contre tous les négationnistes avant nous : la destruction pour notre rejet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Les Compagnons d'Ar-Rass",
+        "Le peuple de Madyan",
+        "Les habitants d'Al-Hijr",
+        "Le peuple de Lut",
+        "Le peuple de Tubba'"
+      ],
+      "answer": "Les Compagnons d'Ar-Rass"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Il a construit une tour très haute pour atteindre les cieux.",
+        "Il a renié le messager qui nous a été envoyé.",
+        "Ils adorèrent le veau d'or en l'absence de Moïse",
+        "Ils ont comploté pour tuer Yusuf par jalousie.",
+        "Il a exigé de voir Allah ouvertement"
+      ],
+      "answer": "Il a renié le messager qui nous a été envoyé."
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Mont Judi du repos",
+        "Le Palais des Miroirs en verre",
+        "La Vallée des Fourmis",
+        "L'Arche construite sous la révélation",
+        "Le Puits (Ar-Rass)"
+      ],
+      "answer": "Le Puits (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Englouti par la terre pour la fierté du trésor",
+        "Sauvés du déluge par l'Arche",
+        "Forcé de dormir pendant des siècles dans une grotte",
+        "Contrôle du vent et des djinns accordé",
+        "Détruit pour avoir renié les messagers"
+      ],
+      "answer": "Détruit pour avoir renié les messagers"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

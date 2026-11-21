@@ -1,0 +1,61 @@
+{
+  "title": "D'Stëmmen nieft de rouege Waasser",
+  "intro": "Stellt Iech eng Gemeinschaft vir, déi net no enger Stad oder engem Herrscher genannt ass, mä no dem rouege Waasser, ronderëm dat d'Liewe sech versammelt huet. Nëmmen e puer Verse erënneren un dës Gemeinschaft, déi ëmmer ënner deenen opgezielt ass, déi d'Leedung refuséiert hunn. Lauschtert wéi se aus der Onkloerheet schwätzen.",
+  "clues": [
+    "Mir sinn eng Gemeinschaft, déi am Koran genannt ass, awer eis ganz Geschicht bleift a Geheimnis verstoppt.",
+    "Mir ginn ëmmer nieft deenen ernimmt, déi et verleegnen hunn, wéi d'Leit vun Ad an Thamud.",
+    "Mir gi Begleeder vun Ar-Rass genannt, dem Brunn, un deem eist Liewe gebonnen war.",
+    "Mir hunn de Bote verweigert, deen eis mat klore Richtlinne geschéckt gouf.",
+    "Mir ginn zu deenen gezielt, déi all d'Boten, déi vun Allah geschéckt goufen, refuséiert hunn.",
+    "Mir sinn der Bedrohung konfrontéiert, déi géint all Leugner virun eis erfëllt gouf, Zerstéierung fir eis Ofleenung."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "D'Begleeder vun Ar-Rass",
+        "D'Leit vu Madyan",
+        "D'Awunner vun Al-Hijr",
+        "D'Leit vu Lut",
+        "D'Leit vun Tubba'"
+      ],
+      "answer": "D'Begleeder vun Ar-Rass"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "En héijen Tuerm gebaut fir an den Himmel ze kommen",
+        "De Boten, deen eis geschéckt gouf, refuséiert",
+        "Huet dat gëllent Kalb an der Ofwiesenheet vum Musa ugebiet",
+        "Aus Näid huet hien de Yusuf ëmbruecht",
+        "Gefuerdert, Allah oppen ze gesinn"
+      ],
+      "answer": "De Boten, deen eis geschéckt gouf, refuséiert"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Bierg Judi vun der Rou",
+        "De gespigelte Palais aus Glas",
+        "D'Dall vun den Ameisen",
+        "D'Ark, déi ënner Offenbarung gebaut gouf",
+        "De Brunn (Ar-Rass)"
+      ],
+      "answer": "De Brunn (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Vun der Äerd verschléckt fir Stolz op Schatz",
+        "Gerett vun der Ark vun der Iwwerschwemmung",
+        "Gebaut fir Joerhonnerte laang an enger Höhl ze schlofen",
+        "Kontroll iwwer Wand a Djinn kritt",
+        "Zerstéiert well se d'Bote verweigert hunn"
+      ],
+      "answer": "Zerstéiert well se d'Bote verweigert hunn"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

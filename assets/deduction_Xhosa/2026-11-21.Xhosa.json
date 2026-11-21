@@ -1,0 +1,61 @@
+{
+  "title": "Amazwi Asecaleni Kwamanzi Azolileyo",
+  "intro": "Khawucinge ngoluntu olungabizwanga ngenxa yesixeko okanye umlawuli, kodwa ngenxa yamanzi angashukumiyo apho ubomi buqokelelene khona. Zimbalwa iivesi ezikhumbula olu luntu, oluhlala ludweliswe phakathi kwabo balahla ulwalathiso. Mamela njengoko bethetha besuka emfihlakalweni.",
+  "clues": [
+    "Siluluntu olubizwa ngegama leQuran, kodwa ibali lethu ligcwele imfihlakalo.",
+    "Sisoloko sikhankanywa kunye nabo bakhanyelayo, njengabantu bakwa-Ad nooThamud.",
+    "Sibizwa ngokuba singabahlobo base-Ar-Rass, iqula apho ubomi bethu babubotshelelwe khona.",
+    "Simkhanyele umthunywa owayethunyelwe kuthi ngesikhokelo esicacileyo.",
+    "Sibalwa phakathi kwabo bangazange bamkele bonke abathunywa abathunyelwe ngu-Allah.",
+    "Sijongene nosongelo oluzaliswa ngabo bonke abaphikayo phambi kwethu, intshabalalo ngenxa yokwaliwa kwethu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Amaqabane ase-Ar-Rass",
+        "Abantu baseMadyan",
+        "Abemi base-Al-Hijr",
+        "Abantu bakaLut",
+        "Abantu baseTubba'"
+      ],
+      "answer": "Amaqabane ase-Ar-Rass"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Wakha inqaba ephakamileyo ukuze afikelele emazulwini",
+        "Ukhanyele umthunywa othunyelwe kuthi",
+        "Wanqula ithole legolide xa uMusa engekho",
+        "Benzelwe ukubulala uYusuf ngenxa yomona",
+        "Bafuna ukubona uAllah ngokukhululekileyo"
+      ],
+      "answer": "Ukhanyele umthunywa othunyelwe kuthi"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "INtaba iJudi yokuphumla",
+        "Ibhotwe leglasi elinezibuko",
+        "Intlambo yeembovane",
+        "Ityeya yakhiwa phantsi kwesityhilelo",
+        "Umthombo (Ar-Rass)"
+      ],
+      "answer": "Umthombo (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Uginywe ngumhlaba ngenxa yokuzingca ngobutyebi",
+        "Usindiswe yiTyeya kwisikhukula",
+        "Kwenzelwe ukulala emqolombeni kangangeenkulungwane",
+        "Ulawulo olunikwe umoya kunye neejinn",
+        "Watshatyalaliswa ngenxa yokukhanyela abathunywa"
+      ],
+      "answer": "Watshatyalaliswa ngenxa yokukhanyela abathunywa"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

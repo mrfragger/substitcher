@@ -1,0 +1,61 @@
+{
+  "title": "Marito Lama Nga Etlhelo Ka Mati Lama Nga Riki",
+  "intro": "Anakanya hi muganga lowu thyiweke vito leri nga riki ra muti kumbe mufumi, kambe hikwalaho ka mati lama rhuleke lawa vutomi byi hlengeletaneke ma rhendzela. I tindzimana ti nga ri tingani ntsena leti tsundzukaka vaaki lava, minkarhi hinkwayo va xaxametiwa exikarhi ka lava aleke nkongomiso. Yingisela loko va ri karhi va vulavula va ri eku twisiseni.",
+  "clues": [
+    "Hi vaaki lava thyiweke vito eka Quran, hambiswiritano xitori xa hina lexi heleleke xi tshama xi funengetiwile hi xihundla.",
+    "Minkarhi hinkwayo hi boxiwa etlhelo ka lava va kaneteke, ku fana na vanhu va Ad na Thamud.",
+    "Hi vuriwa Vaseketeri va Ar-Rass, Xihlovo lexi vutomi bya hina a byi boheleriwe eka xona.",
+    "Hi landzule murhumiwa loyi a rhumeriweke eka hina hi nkongomiso lowu nga erivaleni.",
+    "Hi hlayiwa exikarhi ka lava va aleke varhumiwa hinkwavo lava rhumeriweke hi Allah.",
+    "Hi langutane ni nxungeto lowu hetisekeke eka mukaneti un’wana ni un’wana emahlweni ka hina, ku lovisiwa hikwalaho ka ku ala ka hina."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Vaseketeri va Ar-Rass",
+        "Vanhu va le Madyan",
+        "Vaaki va le Al-Hijr",
+        "Vanhu va Lut",
+        "Vanhu va Tubba'."
+      ],
+      "answer": "Vaseketeri va Ar-Rass"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "U ake xihondzo lexi tlakukeke leswaku xi ta fika ematilweni",
+        "U arile murhumiwa loyi a rhumeriweke eka hina",
+        "A gandzela rhole ra nsuku loko Musa a nga ri kona",
+        "U kunguhate ku dlaya Yusuf hikwalaho ka mavondzo",
+        "Ku laviwa ku vona Allah erivaleni"
+      ],
+      "answer": "U arile murhumiwa loyi a rhumeriweke eka hina"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Ntshava ya Judi ya ku wisa",
+        "Xigodlho xa Swivoni xa nghilazi",
+        "Nkova wa Tinjiya",
+        "Areka leyi akiweke ehansi ka nhlavutelo",
+        "Xihlovo (Ar-Rass) ."
+      ],
+      "answer": "Xihlovo (Ar-Rass) ."
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Ku mitiwa hi misava hikwalaho ko tinyungubyisa hi xuma",
+        "Ku ponisiwa hi Areka eka ndhambi",
+        "Yi endliwe leswaku yi etlela ku ringana malembe-xidzana yo tala ebakweni",
+        "Ku nyikiwile vulawuri bya moya na jinn",
+        "Ku lovisiwa hikwalaho ko landzula varhumiwa"
+      ],
+      "answer": "Ku lovisiwa hikwalaho ko landzula varhumiwa"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

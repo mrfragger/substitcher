@@ -1,0 +1,61 @@
+{
+  "title": "El vol a través del mar inquiet",
+  "intro": "Imagineu-vos drets a la coberta d'un vaixell sobrecarregat mentre les onades augmenten i la tripulació fa sorteigs per alleugerir la càrrega. Una figura solitària avança, acceptant un destí que sembla el final, només perquè les profunditats es converteixin en un lloc de pregària i retorn. Darrere hi ha una comunitat advertida del càstig imminent, i al davant hi ha una misericòrdia inesperada.",
+  "clues": [
+    "Vaig ser enviat com a missatger a més de cent mil persones.",
+    "Vaig deixar la meva gent enfadat abans de rebre permís per marxar.",
+    "Vaig pujar a bord d'un vaixell carregat i la tripulació va fer un sorteig per decidir qui seria llançat per la borda.",
+    "Vaig ser llançat al mar i engolit per un gran peix mentre era culpable.",
+    "Vaig glorificar Al·là en les tenebres, declarant que no hi ha cap altra divinitat que Ell i que jo havia estat dels malfactors.",
+    "Vaig ser llançat a la platja, malalt, i Al·là va fer créixer una planta de carbassa sobre mi, llavors el meu poble va creure i va rebre el gaudi durant un temps."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Musa",
+        "Profeta Hud",
+        "Profeta Nuh",
+        "Profeta Lut",
+        "Profeta Yunus"
+      ],
+      "answer": "Profeta Yunus"
+    },
+    "trial": {
+      "label": "Quina prova vaig afrontar?",
+      "options": [
+        "Llançat al foc, fet fresc i segur",
+        "Engolit pel gran peix després de fugir",
+        "Llançat a un pou profund per germans gelosos",
+        "Afectat per una llarga malaltia i pèrdua de salut",
+        "Ordenat a sacrificar un fill estimat"
+      ],
+      "answer": "Engolit pel gran peix després de fugir"
+    },
+    "location": {
+      "label": "Quin és el meu element clau?",
+      "options": [
+        "L'Arca de fusta sobre les aigües del diluvi",
+        "La cova del refugi de la persecució",
+        "La vall sagrada de Tuwa",
+        "El gran peix i el seu ventre",
+        "El foc fresc preparat pels idòlatres"
+      ],
+      "answer": "El gran peix i el seu ventre"
+    },
+    "outcome": {
+      "label": "Quin va ser el meu resultat?",
+      "options": [
+        "Salvats per la glorificació i el meu poble va creure i es va salvar per un temps",
+        "El meu poble es va convertir en simis per violar el dissabte",
+        "El meu poble va ser engolit per la terra per la seva arrogància",
+        "El meu poble va ser atrapat per una poderosa explosió del cel",
+        "El meu poble va ser ofegat per la gran inundació"
+      ],
+      "answer": "Salvats per la glorificació i el meu poble va creure i es va salvar per un temps"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

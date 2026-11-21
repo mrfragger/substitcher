@@ -1,0 +1,61 @@
+{
+  "title": "Tinch dengiz orqali parvoz",
+  "intro": "To'lqinlar ko'tarilib, ekipaj yukni yengillashtirish uchun qur'a tashlashayotgan bir paytda, ortiqcha yuklangan kema palubasida turganingizni tasavvur qiling. Yolg'iz bir odam oldinga qadam tashlaydi, oxiratdek tuyulgan taqdirni qabul qiladi, ammo chuqurliklar ibodat va qaytish joyiga aylanadi. Orqasida yaqinlashib kelayotgan jazo haqida ogohlantirilgan jamoa, oldinda esa kutilmagan rahm-shafqat turadi.",
+  "clues": [
+    "Men yuz mingdan ortiq odamlarga elchi sifatida yuborildim.",
+    "Ketishga ruxsat olishdan oldin, men odamlarimni g'azab bilan tark etdim.",
+    "Men yuklangan kemaga chiqdim va ekipaj a'zolari kim dengizga tashlanishini hal qilish uchun qur'a tashlashdi.",
+    "Men malomatga loyiq bo'lgan holimda dengizga tashlandim va katta baliq meni yutib yubordi.",
+    "Men zulmatlarda Allohni ulug'ladim, Undan boshqa iloh yo'qligini va men zolimlardan bo'lganimni e'lon qildim.",
+    "Meni kasal holda ochiq qirg'oqqa tashlashdi va Alloh ustimda qovoq o'simligini o'stirdi, keyin qavmim ishondi va bir muddat zavq oldi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Muso payg'ambar",
+        "Payg'ambar Hud",
+        "Nuh payg'ambar",
+        "Lut payg'ambar",
+        "Yunus payg'ambar"
+      ],
+      "answer": "Yunus payg'ambar"
+    },
+    "trial": {
+      "label": "Qanday sinovga duch keldim?",
+      "options": [
+        "Salqin va xavfsiz qilingan olovga tashlandi",
+        "Qochib ketganidan keyin katta baliq yutib yubordi",
+        "Rashkchi aka-ukalar tomonidan chuqur quduqqa tashlangan",
+        "Uzoq davom etgan kasallik va sog'lig'ini yo'qotish bilan azob chekdi",
+        "Sevimli farzandini qurbon qilish buyurildi"
+      ],
+      "answer": "Qochib ketganidan keyin katta baliq yutib yubordi"
+    },
+    "location": {
+      "label": "Mening asosiy elementim nima?",
+      "options": [
+        "To'fon suvlari ustidagi yog'och kema",
+        "Ta'qibdan panoh topish g'ori",
+        "Tuvaning muqaddas vodiysi",
+        "Katta baliq va uning qorni",
+        "Butparastlar tomonidan tayyorlangan sovuq olov"
+      ],
+      "answer": "Katta baliq va uning qorni"
+    },
+    "outcome": {
+      "label": "Mening natijam qanday bo'ldi?",
+      "options": [
+        "Ulug'vorlik bilan qutqarildi va xalqim ishondi va bir muddat najot topdi.",
+        "Mening xalqim shanbani buzgani uchun maymunga aylandi",
+        "Mening xalqim takabburligi tufayli yerga yutildi",
+        "Mening xalqimni osmondan kuchli bir portlash qamrab oldi",
+        "Mening xalqim buyuk to'fonda cho'kib ketdi"
+      ],
+      "answer": "Ulug'vorlik bilan qutqarildi va xalqim ishondi va bir muddat najot topdi."
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

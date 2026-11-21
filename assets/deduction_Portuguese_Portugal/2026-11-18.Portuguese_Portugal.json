@@ -1,0 +1,61 @@
+{
+  "title": "A Onda Que Dividiu o Sangue",
+  "intro": "Imagine uma enorme inundação a subir sobre a terra, uma Arca flutuando firmemente e uma alma deixada de fora por vontade própria. Ligada por laços de sangue a um profeta, mas separada pela crença, essa figura recebeu um último chamado para embarcar enquanto as águas subiam. Você consegue descobrir a identidade por trás da recusa?",
+  "clues": [
+    "Sou descendente de um dos maiores profetas de Alá, de uma família de fé que escolhi deixar.",
+    "Vivi na época do Grande Dilúvio, quando a descrença cobriu a terra como água.",
+    "Recusei-me a embarcar na Arca com os crentes quando meu pai me chamou.",
+    "Eu disse que procuraria refúgio em uma montanha para me proteger da água.",
+    "Disseram-me que nada poderia proteger do decreto de Alá naquele Dia, exceto a misericórdia.",
+    "Fui arrastado pelas ondas e me afoguei, e meu pai foi informado de que eu não pertencia à sua família justa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Zayd ibn Harithah",
+        "Profeta Ishaq, filho do Profeta Ibrahim",
+        "O filho incrédulo do profeta Noé",
+        "Habil, filho do profeta Adão",
+        "Profeta Ismail, filho do Profeta Ibrahim"
+      ],
+      "answer": "O filho incrédulo do profeta Noé"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Vendido como escravo no Egito após ser traído pelos irmãos.",
+        "Recusando-se a embarcar na Arca e buscando refúgio em uma montanha",
+        "Ser jogado em uma fogueira por destruir ídolos",
+        "Ser engolido por um peixe enorme após fugir de uma missão.",
+        "Dormindo durante séculos em uma caverna para escapar da perseguição."
+      ],
+      "answer": "Recusando-se a embarcar na Arca e buscando refúgio em uma montanha"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "O palácio de vidro espelhado em Saba",
+        "O baú de madeira lançado ao rio",
+        "A imponente montanha serviu de refúgio contra o Dilúvio.",
+        "A sarça ardente no vale sagrado",
+        "A Caaba foi construída como um local de culto."
+      ],
+      "answer": "A imponente montanha serviu de refúgio contra o Dilúvio."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Engolidos pela terra com tesouros por arrogância",
+        "Foi-lhe concedido um reino com poder sobre os ventos e os gênios.",
+        "Refrescante e seguro, o fogo se tornou paz.",
+        "Ressuscitado e levado aos céus, salvo da crucificação.",
+        "Afogado no dilúvio e declarado não pertencente à família justa."
+      ],
+      "answer": "Afogado no dilúvio e declarado não pertencente à família justa."
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

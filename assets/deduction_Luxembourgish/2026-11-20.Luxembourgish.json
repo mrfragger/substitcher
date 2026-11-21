@@ -1,0 +1,61 @@
+{
+  "title": "De Fluch iwwer dat onrouegt Mier",
+  "intro": "Stellt Iech vir, Dir stinn um Deck vun engem iwwerluedene Schëff, während d'Wellen opstoen an d'Crew d'Los werfe fir d'Laascht ze liichten. Eng eleng Figur trëtt no vir, akzeptéiert e Schicksal, dat wéi den Enn schéngt, just fir datt d'Déiften zu enger Plaz vum Gebied a vun der Réckkehr ginn. Hannert läit eng Gemeinschaft, déi virun der kommender Strof gewarnt gouf, virun eis läit eng onerwaart Barmhäerzegkeet.",
+  "clues": [
+    "Ech gouf als Bote un méi wéi honnertdausend Leit geschéckt.",
+    "Ech hunn meng Leit a Roserei hannerlooss, ier ech d'Erlaabnes krut ze goen.",
+    "Ech sinn u Bord vun engem beluedene Schëff gaangen, an d'Crew huet d'Los geheit, fir ze entscheeden, wien iwwer Bord gehäit soll ginn.",
+    "Ech gouf an d'Mier gehäit a vun engem grousse Fësch verschléckt, während ech Schold bereet war.",
+    "Ech hunn Allah an der Däischtert verherrlecht, andeems ech erkläert hunn, datt et keng Gottheet ausser Him gëtt an datt ech zu den Ongerechtegkeeten gehéiert hunn.",
+    "Ech gouf krank op d'oppent Ufer gehäit, an Allah huet eng Kürbisplanz iwwer mech wuessen gelooss, duerno huet mäi Vollek gegleeft a krut eng Zäit laang Freed dovun."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Musa",
+        "Prophet Hud",
+        "Prophet Nuh",
+        "Prophet Lut",
+        "Prophet Yunus"
+      ],
+      "answer": "Prophet Yunus"
+    },
+    "trial": {
+      "label": "Wat fir eng Prüfung hunn ech erlieft?",
+      "options": [
+        "An e Feier gehäit, dat kill a sécher gemaach gouf",
+        "Vum grousse Fësch verschléckt nodeems e fortgelaf ass",
+        "An eng déif Brunn vun eifersche Bridder gehäit",
+        "Vun enger laanger Krankheet a Gesondheetsverloscht getraff",
+        "Uerder ginn, e beléift Kand ze opferen"
+      ],
+      "answer": "Vum grousse Fësch verschléckt nodeems e fortgelaf ass"
+    },
+    "location": {
+      "label": "Wat ass mäi Schlësselelement?",
+      "options": [
+        "Déi hëlze Ark um Flutwasser",
+        "D'Höhl vum Schutz virun der Verfolgung",
+        "Dat hellegt Dall vun Tuwa",
+        "De grousse Fësch a säi Bauch",
+        "Dat killt Feier, dat vun den Ofgottdénger virbereet gouf"
+      ],
+      "answer": "De grousse Fësch a säi Bauch"
+    },
+    "outcome": {
+      "label": "Wat war mäi Resultat?",
+      "options": [
+        "Gerett duerch Verherrlechung a mäi Vollek huet gegleeft a gouf fir eng Zäit verschount",
+        "Mäi Vollek gouf zu Affen verwandelt, well se de Sabbat gebrach hunn",
+        "Mäi Vollek gouf vun der Äerd wéinst hirem Arroganz verschléckt",
+        "Mäi Vollek gouf vun engem mächtege Wandstouss vum Himmel erfaasst",
+        "Meng Leit sinn duerch déi grouss Iwwerschwemmung erdronk"
+      ],
+      "answer": "Gerett duerch Verherrlechung a mäi Vollek huet gegleeft a gouf fir eng Zäit verschount"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

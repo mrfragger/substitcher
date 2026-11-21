@@ -1,0 +1,61 @@
+{
+  "title": "A palota falain belül rejtett hit",
+  "intro": "Egy zsarnoki udvar közepén, tele összeesküvésekkel és büszkeséggel, egy magányos lélek veszélyes titkot őriz. Hatalommal és halálos fenyegetésekkel körülvéve, Allah szolgája figyeli, ahogy egy hírvivő egyedül áll ki egy birodalom ellen. Amikor a hallgatás bűnrészességgé válik, merész döntést kell hozni: nagy személyes kockázattal is ki kell mondani az igazat.",
+  "clues": [
+    "Egy hatalmas és arrogáns nép között éltem, akik elutasították Allah jeleit.",
+    "Egy ideig elrejtettem a hitemet, miközben körülöttem a hírvivő ellen áskálódtak.",
+    "Nyíltan kimondtam, és ezt mondtam: Megölsz-e valakit, mert azt mondja: »Az én Uram Allah«, miközben egyértelmű bizonyítékok érkeztek?",
+    "Figyelmeztettem népemet a korábbi nemzetek sorsára és a Kölcsönös Elhívás Napjára.",
+    "Azt mondtam nekik, hogy az uralkodó, akit szolgáltam, csak szűklátókörű véleményt vall, pedig a túlvilág az igazi otthon.",
+    "Azt mondtam: Ó, népem, kövessetek engem, és én a helyes útra vezetlek titeket. Allah megmentett engem a gonosz cselszövéseiktől."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Abu Laháb",
+        "Qarun",
+        "As-Szamiri",
+        "Hámán",
+        "A fáraó családjából származó hívő"
+      ],
+      "answer": "A fáraó családjából származó hívő"
+    },
+    "trial": {
+      "label": "Mit tettem?",
+      "options": [
+        "Kincseket gyűjtöttek, melyek kulcsai erős férfiakat nehezítettek",
+        "Magas tornyot épített, hogy Mózes istenét szemlélhesse",
+        "Rejtett hittel nyíltan megvédte Mózest és figyelmeztette népemet",
+        "Aranyborjút formált, amely bőgő hangot adott ki",
+        "Elállta a Próféta útját és kigúnyolta a gazdagság kinyilatkoztatását"
+      ],
+      "answer": "Rejtett hittel nyíltan megvédte Mózest és figyelmeztette népemet"
+    },
+    "location": {
+      "label": "Hol bontakozott ki a történetem?",
+      "options": [
+        "A bárka az özönvíz vizén",
+        "A Szent Mecset Mekkában",
+        "A fáraó palota udvara Egyiptomban",
+        "Az alvók barlangja",
+        "Madyan erdős völgye"
+      ],
+      "answer": "A fáraó palota udvara Egyiptomban"
+    },
+    "outcome": {
+      "label": "Mi volt az eredményem?",
+      "options": [
+        "A sereggel együtt fulladtam meg a kettévált tengerben",
+        "A föld elnyelt kincseimmel együtt",
+        "Egy villámcsapás ragadott el Thamuddal együtt",
+        "Majommá változtam, mert megszegtem a szombatot",
+        "Allah megvédett engem a gonosz tervüktől"
+      ],
+      "answer": "Allah megvédett engem a gonosz tervüktől"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

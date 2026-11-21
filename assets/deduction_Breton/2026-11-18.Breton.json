@@ -1,0 +1,61 @@
+{
+  "title": "Ar gwagenn a ranne ar gwad",
+  "intro": "Skeudenniñ un dour-beuz bras o sevel war an douar, un Arc'h o nijal didrouz, hag un ene lezet er-maez dre zibab. Stag gant ar gwad ouzh ur profed met dispartiet gant ar gredenn, ar skeudenn-se a oa dirak ur galv diwezhañ da vont war ar vag e-keit ma oa an dour o kreskiñ. Ha gallout a rit dizoloiñ an identelezh a-dreñv ar nac'hadenn ?",
+  "clues": [
+    "Diskennad unan eus brasañ profeded Allah on, un tiegezh a feiz am eus dibabet kuitaat.",
+    "Bevet em eus en amzer al liñvadenn vras, pa oa an diskredoni o c'holoiñ an douar evel an dour.",
+    "Nac’het em eus pignat en Arc’h gant ar feizidi pa c’halvas va zad ac’hanon.",
+    "Lavaret em eus e klaskfen repu war ur menez evit va gwareziñ diouzh an dour.",
+    "Lavaret e oa bet din ne c'halle netra gwareziñ diouzh urzh Allah d'an deiz-se nemet ar c'hras.",
+    "Tapet on bet gant ar gwagennoù ha beuzet on bet, ha lavaret e oa bet d'am zad ne oan ket eus e familh reizh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Zayd ibn Harithah",
+        "Ar profed Ishaq, mab ar profed Ibrahim",
+        "Mab diskred ar profed Nuh",
+        "Habil, Mab ar profed Adam",
+        "Ar profed Ismail, mab ar profed Ibrahim"
+      ],
+      "answer": "Mab diskred ar profed Nuh"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Bezañ gwerzhet e sklaverezh en Egipt goude bezañ bet trubardet gant e vreudeur",
+        "Nac'h mont e-barzh an Arc'h ha klask ur menez da repu",
+        "Bezañ taolet en un tan flamm evit torriñ idoloù",
+        "Bezañ lonket gant ur pesk bras goude bezañ tec'het diouzh ur gefridi",
+        "Kousket e-pad kantvedoù en ur c'hev evit tec'hout diouzh an heskinerezh"
+      ],
+      "answer": "Nac'h mont e-barzh an Arc'h ha klask ur menez da repu"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Ar palez gwer melezour e Saba",
+        "Ar c'houfr koad taolet er stêr",
+        "Ar menez uhel a glaske repu diouzh al liñvadenn",
+        "Ar vodenn o teviñ en traoñienn sakr",
+        "Ar C'haaba savet evel un ti azeulerezh"
+      ],
+      "answer": "Ar menez uhel a glaske repu diouzh al liñvadenn"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Lonket gant an douar gant teñzoriou evit an arrogans",
+        "Roet ur rouantelezh gant galloud war an avelioù hag ar jinn",
+        "Graet fresk ha sur evel ma teu an tan da vezañ ar peoc'h",
+        "Savet bev betek an neñvoù ha salvet diouzh ar groaz",
+        "Beuzet en dour-beuz ha disklêriet ne oa ket eus ar familh reizh"
+      ],
+      "answer": "Beuzet en dour-beuz ha disklêriet ne oa ket eus ar familh reizh"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

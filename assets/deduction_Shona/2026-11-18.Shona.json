@@ -1,0 +1,61 @@
+{
+  "title": "Mafungu Akaparadzanisa Ropa",
+  "intro": "Fungidzira mafashamo makuru achikwira pamusoro penyika, Areka ichiyangarara pasi, uye mweya mumwe chete uchisiyiwa panze nesarudzo. Akasungwa neropa kumuporofita asi akaparadzaniswa nekutenda, munhu uyu akatarisana nekudanwa kwekupedzisira kuti apinde muchikepe mvura ichikwira. Unogona here kuziva kuti ndiani ari shure kwekuramba?",
+  "clues": [
+    "Ndiri mwana wemumwe wevaprofita vakuru vaAllah, imba yekutenda yandakasarudza kusiya.",
+    "Ndakararama munguva yeMafashamo Makuru, apo kusatenda kwakafukidza nyika semvura.",
+    "Ndakaramba kukwira muAreka nevatendi apo baba vangu vakandidana.",
+    "Ndakati ndaizotsvaga nzvimbo yekupotera mugomo kuti ndidzivirirwe kubva mumvura.",
+    "Ndakaudzwa kuti hapana chaigona kudzivirira kubva kumurairo waAllah pazuva iroro kunze kwetsitsi.",
+    "Ndakasvikirwa nemafungu ndikanyura, uye baba vangu vakaudzwa kuti handisi wemhuri yavo yakarurama."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Zayd ibn Harithah",
+        "Muporofita Ishaq, Mwanakomana waMuporofita Ibrahim",
+        "Mwanakomana weMuporofita Nuh asingatendi",
+        "Habil, Mwanakomana weMuporofita Adhamu",
+        "Muporofita Ismail, Mwanakomana waMuporofita Ibrahim"
+      ],
+      "answer": "Mwanakomana weMuporofita Nuh asingatendi"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kutengeswa muuranda muIjipita mushure mekutengeswa nehama",
+        "Kuramba kukwira muAreka uye kutsvaga gomo senzvimbo yekupotera",
+        "Kukandwa mumoto unopfuta nekuda kwekuputsa zvifananidzo",
+        "Kumedzwa nehove huru mushure mekunge atiza basa",
+        "Kurara kwemazana emakore mubako kutiza kutambudzwa"
+      ],
+      "answer": "Kuramba kukwira muAreka uye kutsvaga gomo senzvimbo yekupotera"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Imba yegirazi ine girazi muSaba",
+        "Bhokisi rehuni rakakandwa murwizi",
+        "Gomo refu rakatsvaga nzvimbo yekupotera Mafashamo",
+        "Gwenzi rinopfuta mumupata mutsvene",
+        "Kaaba yakavakwa seimba yekunamatira"
+      ],
+      "answer": "Gomo refu rakatsvaga nzvimbo yekupotera Mafashamo"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kumedzwa nenyika nepfuma yekuzvikudza",
+        "Akapihwa umambo hune simba pamusoro pemhepo nemajini",
+        "Yakagadzirwa kuti itonhore uye yakachengeteka sezvo moto wakava rugare",
+        "Akamutswa ari mupenyu kudenga uye akaponeswa kubva pakurovererwa pamuchinjikwa",
+        "Akanyura muMafashamo uye akaziviswa kuti haasi wemhuri yakarurama"
+      ],
+      "answer": "Akanyura muMafashamo uye akaziviswa kuti haasi wemhuri yakarurama"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

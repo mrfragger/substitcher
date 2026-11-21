@@ -1,0 +1,61 @@
+{
+  "title": "Let cez nepokojné more",
+  "intro": "Predstavte si, ako stojíte na palube preťaženej lode, zatiaľ čo vlny sa dvíhajú a posádka hádže los, aby si uľahčila náklad. Osamelá postava vykročí vpred a prijme osud, ktorý sa javí ako koniec, no hlbiny sa stanú miestom modlitby a návratu. Za nimi leží komunita varovaná pred blížiacim sa trestom, pred nami leží nečakané milosrdenstvo.",
+  "clues": [
+    "Bol som vyslaný ako posol k viac ako stotisíc ľuďom.",
+    "V hneve som opustil svojich ľudí skôr, ako som dostal povolenie odísť.",
+    "Nastúpil som na naloženú loď a posádka losovala, kto bude hodený cez palubu.",
+    "Bol som hodný viny a hodný pádu do mora, kde ma prehltla veľká ryba.",
+    "V temnotách som oslavoval Alaha a vyhlasoval, že niet iného božstva okrem Neho a že som patril k tým, ktorí páchali krivdy.",
+    "Bol som chorý a vyvrhnutý na otvorený breh. Alah spôsobil, že nado mnou vyrástla tekvica. Potom môj ľud uveril a na istý čas sa mu dostalo radosti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Prorok Músa",
+        "Prorok Hud",
+        "Prorok Nuh",
+        "Prorok Lut",
+        "Prorok Júnus"
+      ],
+      "answer": "Prorok Júnus"
+    },
+    "trial": {
+      "label": "Akej skúške som čelil?",
+      "options": [
+        "Hodený do ohňa, ochladený a bezpečný",
+        "Prehltnutý veľkou rybou po úteku",
+        "Hodený do hlbokej studne žiarlivými bratmi",
+        "Zasiahnutý dlhou chorobou a stratou zdravia",
+        "Prikázané obetovať milované dieťa"
+      ],
+      "answer": "Prehltnutý veľkou rybou po úteku"
+    },
+    "location": {
+      "label": "Čo je môj kľúčový prvok?",
+      "options": [
+        "Drevená archa na potopných vodách",
+        "Jaskyňa útočiska pred prenasledovaním",
+        "Posvätné údolie Tuwa",
+        "Veľká ryba a jej brucho",
+        "Chladný oheň pripravený modlármi"
+      ],
+      "answer": "Veľká ryba a jej brucho"
+    },
+    "outcome": {
+      "label": "Aký bol môj výsledok?",
+      "options": [
+        "Zachránení oslávením a môj ľud uveril a bol na čas ušetrený",
+        "Môj ľud sa premenil na opice za porušovanie Sabatu",
+        "Môj ľud pohltila zem pre aroganciu",
+        "Môj ľud zachvátil mocný výbuch z neba",
+        "Môj ľud sa utopil pri veľkej povodni"
+      ],
+      "answer": "Zachránení oslávením a môj ľud uveril a bol na čas ušetrený"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

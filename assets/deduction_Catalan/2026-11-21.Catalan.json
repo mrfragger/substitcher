@@ -1,0 +1,61 @@
+{
+  "title": "Les veus vora les aigües tranquil·les",
+  "intro": "Imagineu-vos una comunitat que no rep el nom d'una ciutat o d'un governant, sinó de l'aigua tranquil·la al voltant de la qual s'aplegava la vida. Només uns quants versos recorden aquesta comunitat, sempre llistada entre els que rebutjaven la guia. Escolteu-los mentre parlen des de l'obscuritat.",
+  "clues": [
+    "Som una comunitat que té el seu nom a l'Alcorà, però la nostra història completa roman amagada en el misteri.",
+    "Sempre se'ns esmenta al costat dels que van negar, com la gent d'Ad i Thamud.",
+    "Ens anomenen els Companys d'Ar-Rass, el Pou al qual estava lligada la nostra vida.",
+    "Vam negar el missatger que ens va ser enviat amb una guia clara.",
+    "Som comptats entre els que van rebutjar tots els missatgers enviats per Al·là.",
+    "Vam afrontar l'amenaça que es va complir contra tots els negadors que teníem davant, la destrucció pel nostre rebuig."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Els companys d'Ar-Rass",
+        "El poble de Madyan",
+        "Els habitants d'Al-Hijr",
+        "La gent de Lut",
+        "La gent de Tubba'"
+      ],
+      "answer": "Els companys d'Ar-Rass"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Va construir una torre elevada per arribar al cel",
+        "Vam rebutjar el missatger que ens havia enviat",
+        "Va adorar el vedell d'or en absència de Musa",
+        "Va conspirar per matar Yusuf per enveja",
+        "Va exigir veure Al·là obertament"
+      ],
+      "answer": "Vam rebutjar el missatger que ens havia enviat"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Mont Judi del descans",
+        "El Palau dels Miralls de Vidre",
+        "La Vall de les Formigues",
+        "L'Arca construïda sota la revelació",
+        "El Pou (Ar-Rass)"
+      ],
+      "answer": "El Pou (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Engolit per la terra per l'orgull del tresor",
+        "Salvats per l'Arca del diluvi",
+        "Fet a dormir durant segles en una cova",
+        "Control concedit del vent i dels djins",
+        "Destruït per haver negat els missatgers"
+      ],
+      "answer": "Destruït per haver negat els missatgers"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

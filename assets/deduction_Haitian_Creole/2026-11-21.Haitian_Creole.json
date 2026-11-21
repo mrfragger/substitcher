@@ -1,0 +1,61 @@
+{
+  "title": "Vwa yo bò Dlo Trankil yo",
+  "intro": "Imajine yon kominote ki pa pote non yon vil oswa yon chèf, men non dlo kalm kote lavi rasanble. Se sèlman kèk vèsè ki sonje kominote sa a, ki toujou nan lis moun ki te rejte gidans. Koute pandan y ap pale nan fènwa.",
+  "clues": [
+    "Nou se yon kominote ki gen non li nan Koran an, men tout istwa nou rete kache nan mistè.",
+    "Yo toujou mansyone nou ansanm ak moun ki nye yo, tankou moun Ad ak Thamoud yo.",
+    "Yo rele nou Konpayon Ar-Rass, Pi kote lavi nou te lye a.",
+    "Nou nye mesaje ki te voye ban nou ak gidans klè a.",
+    "Nou pami moun ki rejte tout mesaje Allah te voye yo.",
+    "Nou te fè fas ak menas ki te akonpli kont chak moun ki te nye devan nou, destriksyon pou rejè nou an."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun mwen ye?",
+      "options": [
+        "Konpayon Ar-Rass yo",
+        "Moun Madyan yo",
+        "Moun ki rete nan Al-Hijr yo",
+        "Moun Lut yo",
+        "Moun Tubba yo"
+      ],
+      "answer": "Konpayon Ar-Rass yo"
+    },
+    "trial": {
+      "label": "Pwosè/Evènman",
+      "options": [
+        "Bati yon gwo kay won pou rive nan syèl la",
+        "Refize mesaje yo te voye ban nou an",
+        "Li te adore ti bèf an lò a pandan absans Moyiz la",
+        "Konplote pou touye Yusuf poutèt jalouzi",
+        "Li te mande pou wè Allah ouvètman"
+      ],
+      "answer": "Refize mesaje yo te voye ban nou an"
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Mòn Judi nan repo",
+        "Palè glas la",
+        "Vale foumi yo",
+        "Lach la te bati anba revelasyon",
+        "Pwi a (Ar-Rass)"
+      ],
+      "answer": "Pwi a (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "Latè vale l poutèt fyète nan trezò",
+        "Lach la te sove l anba delij la",
+        "Fèt pou dòmi pandan plizyè syèk nan yon gwòt",
+        "Yo te bay kontwòl sou van ak djinn",
+        "Detwi paske yo te refize mesaje yo"
+      ],
+      "answer": "Detwi paske yo te refize mesaje yo"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

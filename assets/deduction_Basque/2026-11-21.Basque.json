@@ -1,0 +1,61 @@
+{
+  "title": "Ur bareen ondoko ahotsak",
+  "intro": "Imajinatu hiri edo agintari baten izena daraman komunitate bat, ez baizik eta bizitza biltzen zen ur barearen izena daramana. Bertso gutxi batzuek baino ez dute gogoratzen komunitate hau, beti gidaritza baztertu zutenen artean zerrendatuta. Entzun iluntasunetik hitz egiten duten bitartean.",
+  "clues": [
+    "Koranean izendatutako komunitate bat gara, baina gure istorio osoa misterioz ezkutatuta dago oraindik.",
+    "Beti aipatzen gaituzte ukatu zutenen ondoan, Ad eta Thamudeko jendea bezala.",
+    "Ar-Rass-eko Lagunak deitzen gaituzte, gure bizitza lotuta zegoen Putzua.",
+    "Gida argi batekin bidali ziguten mezularia ukatu genuen.",
+    "Allahk bidalitako mezulari guztiak arbuiatu dituztenen artean gaude.",
+    "Gure aurrean ukatzaile guztien aurkako mehatxuari aurre egin genion, gure arbuioaren suntsipena."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Ar-Rass-eko lagunak",
+        "Madyango jendea.",
+        "Al-Hijr-eko biztanleak",
+        "Luteko jendea.",
+        "Tubba'ko jendea"
+      ],
+      "answer": "Ar-Rass-eko lagunak"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Dorre garai bat eraiki zuen zerura iristeko",
+        "Bidali zigun mezularia ukatu genuen",
+        "Musa ez zegoenean, urrezko zekorra gurtu zuen",
+        "Inbidiaz Yusuf hiltzeko asmoa zuten",
+        "Ala agerian ikusteko eskatu zuen"
+      ],
+      "answer": "Bidali zigun mezularia ukatu genuen"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Judi atseden mendia",
+        "Kristalezko Ispilu Jauregia",
+        "Inurrien Harana",
+        "Errebelaziopean eraikitako Arka",
+        "Putzua (Ar-Rass)"
+      ],
+      "answer": "Putzua (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Lurrak irentsia altxorraren harrotasunagatik",
+        "Arkak uholdeetatik salbatua",
+        "Mendeetan zehar kobazulo batean lo egitera behartuta",
+        "Haizearen eta jinnaren kontrola eman zioten",
+        "Mezulariak ukatzeagatik suntsitua"
+      ],
+      "answer": "Mezulariak ukatzeagatik suntsitua"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

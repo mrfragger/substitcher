@@ -1,0 +1,61 @@
+{
+  "title": "As vozes junto às águas tranquilas",
+  "intro": "Imagine uma comunidade que não recebeu o nome de uma cidade ou de um governante, mas sim da água tranquila ao redor da qual a vida se reunia. Apenas alguns versículos mencionam essa comunidade, sempre citada entre aqueles que rejeitaram a orientação. Ouça o que eles dizem, vindos da obscuridade.",
+  "clues": [
+    "Somos uma comunidade mencionada no Alcorão, mas nossa história completa permanece envolta em mistério.",
+    "Somos sempre mencionados ao lado daqueles que negaram, como o povo de Ad e Thamud.",
+    "Somos chamados de Companheiros de Ar-Rass, o Poço ao qual nossa vida estava ligada.",
+    "Recusamos o mensageiro que nos foi enviado com instruções claras.",
+    "Estamos entre aqueles que rejeitaram todos os mensageiros enviados por Alá.",
+    "Enfrentamos a ameaça cumprida contra todos os negacionistas antes de nós: a destruição por nossa rejeição."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Os Companheiros de Ar-Rass",
+        "O povo de Madyan",
+        "Os habitantes de Al-Hijr",
+        "O povo de Lut",
+        "O povo de Tubba'"
+      ],
+      "answer": "Os Companheiros de Ar-Rass"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Construiu uma torre imponente para alcançar os céus.",
+        "Negaram o mensageiro que nos enviou.",
+        "Adoraram o bezerro de ouro na ausência de Moisés.",
+        "Planejaram matar Yusuf por inveja.",
+        "Exigiu ver Alá abertamente"
+      ],
+      "answer": "Negaram o mensageiro que nos enviou."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Monte Judi de descanso",
+        "O Palácio Espelhado de vidro",
+        "O Vale das Formigas",
+        "A Arca construída sob revelação",
+        "O Poço (Ar-Rass)"
+      ],
+      "answer": "O Poço (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Engolido pela terra por orgulho no tesouro",
+        "Salvos da inundação pela Arca.",
+        "Condenados a dormir durante séculos em uma caverna.",
+        "Concedido o controle do vento e dos gênios.",
+        "Destruídos por negarem os mensageiros"
+      ],
+      "answer": "Destruídos por negarem os mensageiros"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

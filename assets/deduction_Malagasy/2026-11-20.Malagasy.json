@@ -1,0 +1,61 @@
+{
+  "title": "Ny sidina miampita ny ranomasina tsy milamina",
+  "intro": "Alaivo sary an-tsaina hoe mijoro eo an-tokotanin'ny sambo feno entana ianao, raha miakatra ny onja ary manao filokana ny tantsambo mba hanamaivanana ny entana. Olona iray irery no mandroso, manaiky ny lahatra izay toa ny farany, saingy lasa toerana fivavahana sy fiverenana ny halaliny. Ao ambadika dia misy vondrom-piarahamonina iray nampitandremana ny amin'ny sazy ho avy, eo aloha kosa dia misy famindram-po tsy nampoizina.",
+  "clues": [
+    "Nirahina ho mpitondra hafatra ho an'ny olona maherin'ny iray hetsy aho.",
+    "Nandao ny oloko tamin-katezerana aho talohan'ny nahazoako alalana handeha.",
+    "Niondrana an-tsambo feno entana aho ary nanao filokana ny tantsambo mba hamaritana hoe iza no hatsipy any an-dranomasina.",
+    "Natsipy tany an-dranomasina aho ary natelin'ny trondro goavambe iray raha mbola mendrika ny ho meloka.",
+    "Nankalaza an'i Allah tao anatin'ny haizina aho, nanambara fa tsy misy andriamanitra hafa ankoatra Azy ary anisan'ireo mpanao ratsy aho.",
+    "Natsipy teny amoron-dranomasina aho sady narary, ary Andriamanitra dia nampaniry voatavo teo ambonin'ny tenako, dia nino ny vahoakako ka nahazo fahafinaretana nandritra ny fotoana kelikely."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Musa",
+        "Mpaminany Hoda",
+        "Mpaminany Noa",
+        "Mpaminany Lota",
+        "Mpaminany Yunus"
+      ],
+      "answer": "Mpaminany Yunus"
+    },
+    "trial": {
+      "label": "Fitsapana inona no natrehiko?",
+      "options": [
+        "Natsipy tao anaty afo natao mangatsiaka sy azo antoka",
+        "Natelin'ilay trondro lehibe rehefa avy nandositra",
+        "Natsipy tao anaty lavadrano lalina noho ny rahalahy saro-piaro",
+        "Voan'ny aretina maharitra sy ny fahaverezan'ny fahasalamana",
+        "Nasaina nanao sorona zanaka malalany"
+      ],
+      "answer": "Natelin'ilay trondro lehibe rehefa avy nandositra"
+    },
+    "location": {
+      "label": "Inona no singa fototra ijoroako?",
+      "options": [
+        "Ny sambo hazo teo ambonin'ny ranon'ny safodrano",
+        "Ny lava-bato fialofana amin'ny fanenjehana",
+        "Ny lohasaha masin'i Tuwa",
+        "Ilay trondro lehibe sy ny kibony",
+        "Ny afo mangatsiaka nomanin'ny mpanompo sampy"
+      ],
+      "answer": "Ilay trondro lehibe sy ny kibony"
+    },
+    "outcome": {
+      "label": "Inona no vokany?",
+      "options": [
+        "Voavonjy tamin'ny fanomezam-boninahitra ary nino ny oloko ka voavonjy nandritra ny fotoana kelikely",
+        "Novana ho rajako ny oloko noho ny fandikana ny Sabata",
+        "Natelina tamin'ny tany ny oloko noho ny avonavona",
+        "Nosamborin'ny rivotra mahery avy any an-danitra ny oloko",
+        "Safotry ny tondra-drano lehibe ny oloko"
+      ],
+      "answer": "Voavonjy tamin'ny fanomezam-boninahitra ary nino ny oloko ka voavonjy nandritra ny fotoana kelikely"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

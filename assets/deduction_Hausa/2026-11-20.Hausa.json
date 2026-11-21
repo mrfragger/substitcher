@@ -1,0 +1,61 @@
+{
+  "title": "Gudun Ketare Teku Mai Tashi",
+  "intro": "Hoton yana tsaye a kan wani jirgin ruwa mai cike da kaya yayin da raƙuman ruwa ke ƙaruwa kuma ma'aikatan jirgin suna jefa ƙuri'a don rage nauyin. Wani mutum ɗaya ya taka gaba, yana karɓar ƙaddara da ta yi kama da ƙarshe, sai kawai zurfin ya zama wurin addu'a da dawowa. A bayan ƙarya, al'umma ta yi gargaɗi game da hukunci mai zuwa, a gaba akwai rahamar da ba a zata ba.",
+  "clues": [
+    "An aiko ni a matsayin manzo zuwa ga mutane sama da dubu ɗari.",
+    "Na bar mutanena cikin fushi kafin na sami izinin tafiya.",
+    "Na shiga jirgin ruwa mai lodi kuma ma'aikatan jirgin suka yi kuri'a don tantance wanda za a jefa a cikin jirgin.",
+    "An jefa ni cikin teku aka haɗiye ni da babban kifi yayin da nake da laifi.",
+    "Na yi wa Allah tasbihi a cikin duhu, ina shelar babu abin bautawa sai Shi, kuma na kasance cikin azzalumai.",
+    "An jefa ni a bakin teku, ina rashin lafiya, sai Allah ya sa wata shukar 'ya'yan itace ta tsiro a kaina, sai mutanena suka yi imani aka kuma ba su jin daɗi na ɗan lokaci."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Musa",
+        "Annabi Hud",
+        "Annabi Nuhu",
+        "Annabi Lutu",
+        "Annabi Yunus"
+      ],
+      "answer": "Annabi Yunus"
+    },
+    "trial": {
+      "label": "Wace Jaraba Na Fuskanta?",
+      "options": [
+        "An jefa shi cikin wuta da aka sanyaya kuma aka yi masa aminci",
+        "Babban kifi ya haɗiye shi bayan ya gudu",
+        "'Yan'uwa masu kishi sun jefa su cikin rijiya mai zurfi",
+        "Ya kamu da rashin lafiya na dogon lokaci da kuma rashin lafiya",
+        "An umarce shi da ya yi hadaya da ɗa ƙaunatacce"
+      ],
+      "answer": "Babban kifi ya haɗiye shi bayan ya gudu"
+    },
+    "location": {
+      "label": "Menene Babban Siffata?",
+      "options": [
+        "Jirgin katako a kan ruwan ambaliya",
+        "Kogon mafaka daga zalunci",
+        "Kwarin Tuwa mai tsarki",
+        "Babban kifi da cikinsa",
+        "Wutar sanyi da masu bautar gumaka suka shirya"
+      ],
+      "answer": "Babban kifi da cikinsa"
+    },
+    "outcome": {
+      "label": "Menene Sakamakona?",
+      "options": [
+        "An cece ni ta hanyar ɗaukaka kuma mutanena sun yi imani kuma an cece su na ɗan lokaci",
+        "An mayar da mutanena birrai saboda karya Asabar",
+        "Ƙasa ta haɗiye mutanena saboda girman kai",
+        "Mutanena sun kama da wata babbar iska daga sama",
+        "Mutanena sun nutse da ambaliyar ruwa mai girma"
+      ],
+      "answer": "An cece ni ta hanyar ɗaukaka kuma mutanena sun yi imani kuma an cece su na ɗan lokaci"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

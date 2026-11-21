@@ -1,0 +1,61 @@
+{
+  "title": "Niềm tin bí ẩn bên trong cung điện",
+  "intro": "Giữa một triều đình đầy rẫy mưu mô và kiêu ngạo, một tâm hồn cô độc nắm giữ một bí mật nguy hiểm. Bị bao vây bởi quyền lực và những lời đe dọa tử vong, người tôi tớ của Allah này chứng kiến ​​một sứ giả đơn độc chống lại cả một đế chế. Khi sự im lặng trở thành đồng lõa, một quyết định táo bạo phải được đưa ra để nói lên sự thật, bất chấp rủi ro lớn lao cho bản thân.",
+  "clues": [
+    "Tôi sống giữa một dân tộc quyền lực và kiêu ngạo, những người chối bỏ những dấu hiệu của Allah.",
+    "Tôi đã giấu kín đức tin của mình trong một thời gian khi những người xung quanh âm mưu chống lại một sứ giả.",
+    "Tôi đã thẳng thắn lên tiếng: Các người có giết một người chỉ vì họ nói \"Thượng đế của tôi là Allah\", trong khi đã có những bằng chứng rõ ràng?",
+    "Tôi đã cảnh báo người dân của mình về số phận của các quốc gia trước đây và về Ngày Định Mệnh.",
+    "Tôi nói với họ rằng vị vua mà tôi phụng sự chỉ có quan điểm hạn hẹp, trong khi thế giới bên kia mới là quê hương đích thực.",
+    "Tôi nói: Hỡi dân ta, hãy theo ta, ta sẽ dẫn dắt các ngươi đến con đường chính đạo, và Allah đã cứu ta khỏi âm mưu xấu xa của họ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Abu Lahab",
+        "Qarun",
+        "As-Samiri",
+        "Haman",
+        "Người tín đồ thuộc dòng dõi Pharaoh"
+      ],
+      "answer": "Người tín đồ thuộc dòng dõi Pharaoh"
+    },
+    "trial": {
+      "label": "Tôi đã làm gì vậy?",
+      "options": [
+        "Những kho báu tích tụ mà chìa khóa của chúng đè nặng lên những người đàn ông mạnh mẽ.",
+        "Đã xây một tòa tháp cao để ngắm nhìn thần Musa.",
+        "Niềm tin được che giấu sau đó đã được công khai bảo vệ Musa và cảnh báo dân tộc tôi.",
+        "Đã đúc một con bê vàng biết kêu.",
+        "Chặn đường của Nhà tiên tri và chế giễu sự mặc khải để kiếm lợi nhuận."
+      ],
+      "answer": "Niềm tin được che giấu sau đó đã được công khai bảo vệ Musa và cảnh báo dân tộc tôi."
+    },
+    "location": {
+      "label": "Câu chuyện của tôi bắt đầu từ đâu?",
+      "options": [
+        "Con tàu Noah trên dòng nước lũ",
+        "Thánh đường Hồi giáo ở Mecca",
+        "Cung điện của Pharaoh ở Ai Cập",
+        "Hang động của những người ngủ say",
+        "Thung lũng rừng Madyan"
+      ],
+      "answer": "Cung điện của Pharaoh ở Ai Cập"
+    },
+    "outcome": {
+      "label": "Kết quả của tôi là gì?",
+      "options": [
+        "Tôi đã chết đuối cùng quân đội trong biển chia cắt.",
+        "Mặt đất đã nuốt chửng tôi cùng với kho báu của tôi.",
+        "Một tia sét đánh trúng tôi cùng với Thamud.",
+        "Tôi bị biến thành khỉ vì tội vi phạm ngày Sa-bát.",
+        "Allah đã bảo vệ tôi khỏi âm mưu độc ác của chúng."
+      ],
+      "answer": "Allah đã bảo vệ tôi khỏi âm mưu độc ác của chúng."
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

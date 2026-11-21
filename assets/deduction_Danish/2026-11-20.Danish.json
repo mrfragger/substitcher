@@ -1,0 +1,61 @@
+{
+  "title": "Flugten over det urolige hav",
+  "intro": "Forestil dig at stå på dækket af et overlæsset fartøj, mens bølgerne stiger, og besætningen kaster lod for at lette lasten. En ensom skikkelse træder frem og accepterer en skæbne, der synes at være enden, kun for at dybet bliver et sted for bøn og tilbagevenden. Bagved ligger et samfund advaret om kommende straf, forude ligger en uventet nåde.",
+  "clues": [
+    "Jeg blev sendt som budbringer til mere end hundrede tusinde mennesker.",
+    "Jeg forlod mit folk i vrede, før jeg fik tilladelse til at tage afsted.",
+    "Jeg gik om bord på et lastet skib, og besætningen kastede lod om, hvem der skulle kastes overbord.",
+    "Jeg blev kastet i havet og opslugt af en stor fisk, mens jeg var skyldig.",
+    "Jeg priste Allah i mørket og erklærede, at der ikke er nogen guddom undtagen Ham, og at jeg var blandt uretfærdighederne.",
+    "Jeg blev kastet ud på den åbne strand, syg, og Allah lod en græskarplante vokse over mig, så troede mit folk og fik glæde af det i en tid."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Musa",
+        "Profeten Hud",
+        "Profeten Nuh",
+        "Profeten Lut",
+        "Profeten Yunus"
+      ],
+      "answer": "Profeten Yunus"
+    },
+    "trial": {
+      "label": "Hvilken prøvelse stod jeg over for?",
+      "options": [
+        "Kastet i en ild, der blev kølig og sikker",
+        "Slugt af den store fisk efter at være flygtet",
+        "Kastet i en dyb brønd af jaloux brødre",
+        "Ramt af langvarig sygdom og helbredstab",
+        "Befalet at ofre et elsket barn"
+      ],
+      "answer": "Slugt af den store fisk efter at være flygtet"
+    },
+    "location": {
+      "label": "Hvad er mit nøgleelement?",
+      "options": [
+        "Træarken på oversvømmelsen",
+        "Hulen til tilflugt fra forfølgelse",
+        "Den hellige dal Tuwa",
+        "Den store fisk og dens mave",
+        "Den kølige ild, som afgudsdyrkere har forberedt"
+      ],
+      "answer": "Den store fisk og dens mave"
+    },
+    "outcome": {
+      "label": "Hvad var mit resultat?",
+      "options": [
+        "Reddet ved herliggørelse, og mit folk troede og blev skånet for en tid",
+        "Mit folk blev forvandlet til aber, fordi de brød sabbatten",
+        "Mit folk blev opslugt af jorden for deres arrogance",
+        "Mit folk blev grebet af et voldsomt vindstød fra himlen",
+        "Mit folk druknede i den store oversvømmelse"
+      ],
+      "answer": "Reddet ved herliggørelse, og mit folk troede og blev skånet for en tid"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

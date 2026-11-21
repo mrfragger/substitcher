@@ -1,0 +1,61 @@
+{
+  "title": "Saray Divarları İçindəki Gizli İnam",
+  "intro": "Qısqanclıq və qürurla dolu zalım bir sarayın mərkəzində tənha bir ruh təhlükəli bir sirr saxlayır. Güc və ölüm təhdidləri ilə əhatə olunmuş bu Allahın qulu, bir imperiyaya qarşı təkbaşına dayanan bir elçini seyr edir. Sükut şərikliyə çevrildikdə, böyük şəxsi risk altında həqiqəti söyləmək üçün cəsarətli bir qərar verilməlidir.",
+  "clues": [
+    "Mən Allahın ayələrini inkar edən güclü və təkəbbürlü bir tayfa arasında yaşayırdım.",
+    "Ətrafımdakılar elçiyə qarşı sui-qəsd hazırlayarkən, mən bir müddət imanımı gizlətdim.",
+    "Mən açıq şəkildə dedim: “Siz bir nəfəri, açıq-aydın dəlillər gəldiyi halda, “Mənim Rəbbim Allahdır” dedikləri üçün öldürürsünüz?”",
+    "Mən xalqımı əvvəlki xalqların taleyi və Qarşılıqlı Çağırış Günü barədə xəbərdar etdim.",
+    "Mən onlara dedim ki, xidmət etdiyim hökmdar yalnız məhdud fikirdədir, amma axirət əsl evdir.",
+    "Mən dedim: Ey qövmüm, mənə tabe olun, sizi doğru yola yönəldəcəyəm. Allah məni onların hiylələrinin şərindən xilas etdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Əbu Ləhəb",
+        "Qarun",
+        "Əs-Samiri",
+        "Haman",
+        "Firon ailəsindən olan mömin"
+      ],
+      "answer": "Firon ailəsindən olan mömin"
+    },
+    "trial": {
+      "label": "Mən nə etdim?",
+      "options": [
+        "Açarları güclü kişiləri yükləyən xəzinələr topladı",
+        "Musanın tanrısına baxmaq üçün hündür bir qüllə tikdi",
+        "Gizli iman sonra açıq şəkildə Musanı müdafiə etdi və qövmümə xəbərdarlıq etdi",
+        "Ulayan səs çıxaran qızıl buzov düzəltdi",
+        "Peyğəmbərin yolunu bağladı və var-dövlət üçün vəhyi lağa qoydu"
+      ],
+      "answer": "Gizli iman sonra açıq şəkildə Musanı müdafiə etdi və qövmümə xəbərdarlıq etdi"
+    },
+    "location": {
+      "label": "Hekayəm harada başladı?",
+      "options": [
+        "Daşqın suları üzərində gəmi",
+        "Məkkədəki Müqəddəs Məscid",
+        "Misirdə Firon Sarayı",
+        "Yatanların Mağarası",
+        "Mədyənin Meşəlik Vadisi"
+      ],
+      "answer": "Misirdə Firon Sarayı"
+    },
+    "outcome": {
+      "label": "Nəticəm Nə Oldu?",
+      "options": [
+        "Mən ordu ilə birlikdə bölünmüş dənizdə boğuldum",
+        "Yer məni xəzinələrimlə birlikdə uddu",
+        "Səmud qövmü ilə birlikdə məni ildırım bürüdü",
+        "Şənbə gününü pozduğum üçün meymuna çevrildim",
+        "Allah məni onların hiylələrinin şərindən qorudu"
+      ],
+      "answer": "Allah məni onların hiylələrinin şərindən qorudu"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

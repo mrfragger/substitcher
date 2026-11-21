@@ -1,0 +1,61 @@
+{
+  "title": "Il-Mewġa li Qassmet id-Demm",
+  "intro": "Immaġina dilluvju kbir tiela’ fuq l-art, Arka li tgħum bla waqfien, u ruħ waħda li tħalliet barra bl-għażla tagħha. Marbuta bid-demm ma’ profeta iżda separata bit-twemmin, din il-figura ffaċċjat sejħa finali biex titla’ abbord hekk kif l-ilmijiet bdew jogħlew b’rata mgħaġġla. Tista’ tiskopri l-identità wara r-rifjut?",
+  "clues": [
+    "Jiena nisel ta' wieħed mill-akbar profeti ta' Alla, familja ta' fidi li għażilt li nitlaq minnha.",
+    "Jiena għext fi żmien id-Dilluvju l-Kbir, meta n-nuqqas ta’ twemmin kopra l-art bħall-ilma.",
+    "Irrifjutajt li nitla’ fuq l-Arka mal-kredenti meta missieri għajjatli.",
+    "Għedt li se nfittex kenn fuq muntanja biex jipproteġini mill-ilma.",
+    "Qaluli li xejn ma seta’ jipproteġini mid-digriet ta’ Alla f’dak il-Jum ħlief il-ħniena.",
+    "Intlaħħaqt mill-mewġ u għreqt, u missieri ntqalli li ma kontx mill-familja twajba tiegħu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Zayd ibn Harithah",
+        "Il-Profeta Ishaq, Iben il-Profeta Ibrahim",
+        "L-Iben Ma Jemminx tal-Profeta Nuh",
+        "Habil, Iben il-Profeta Adam",
+        "Il-Profeta Ismail, Iben il-Profeta Ibrahim"
+      ],
+      "answer": "L-Iben Ma Jemminx tal-Profeta Nuh"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Jinbiegħu fil-jasar fl-Eġittu wara t-tradiment minn aħwa",
+        "Jirrifjuta li jitla’ fuq l-Arka u jfittex muntanja bħala kenn",
+        "Mitfugħ f’nar jaħraq talli kiser l-idoli",
+        "Jinbela’ minn ħuta kbira wara li jaħrab minn missjoni",
+        "Irqad għal sekli sħaħ f’għar biex jaħrab mill-persekuzzjoni"
+      ],
+      "answer": "Jirrifjuta li jitla’ fuq l-Arka u jfittex muntanja bħala kenn"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Il-palazz tal-ħġieġ immirat f'Saba",
+        "Is-sider tal-injam mitfugħ fix-xmara",
+        "Il-muntanja għolja li fittxet bħala kenn mid-Dilluvju",
+        "L-għollieq jaqbad fil-wied sagru",
+        "Il-Kaaba mibnija bħala dar ta’ qima"
+      ],
+      "answer": "Il-muntanja għolja li fittxet bħala kenn mid-Dilluvju"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Jinbela’ mill-art bit-teżori għall-arroganza",
+        "Ingħata saltna b'setgħa fuq ir-riħ u l-ġinn",
+        "Magħmul frisk u sigur hekk kif in-nar sar paċi",
+        "Imqajjem ħaj fis-smewwiet u salvat mill-kruċifissjoni",
+        "Għerqu fid-Dilluvju u ddikjarati mhux tal-familja twajba"
+      ],
+      "answer": "Għerqu fid-Dilluvju u ddikjarati mhux tal-familja twajba"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

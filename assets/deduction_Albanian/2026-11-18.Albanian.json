@@ -1,0 +1,61 @@
+{
+  "title": "Vala që ndau gjakun",
+  "intro": "Imagjinoni një përmbytje të madhe që ngrihet mbi tokë, një Arkë që lundron e palëvizshme dhe një shpirt të lënë jashtë me zgjedhje. E lidhur nga gjaku me një profet, por e ndarë nga besimi, kjo figurë u përball me një thirrje të fundit për t'u ngjitur në bord ndërsa ujërat u rritën. A mund ta zbuloni identitetin pas refuzimit?",
+  "clues": [
+    "Unë jam pasardhës i njërit prej profetëve më të mëdhenj të Allahut, një familje besimi që zgjodha ta lë.",
+    "Unë jetova në kohën e Përmbytjes së Madhe, kur mosbesimi mbuloi tokën si uji.",
+    "Unë refuzova të hipja në Arkë me besimtarët kur babai im më thirri.",
+    "Thashë se do të kërkoja strehim në një mal për të më mbrojtur nga uji.",
+    "Më thanë se asgjë nuk mund të më mbronte nga caktimi i Allahut atë Ditë përveç mëshirës.",
+    "Më kapën valët dhe u mbyta, dhe babait tim iu tha se nuk isha nga familja e tij e drejtë."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Zejd ibn Haritha",
+        "Profeti Is’hak, djali i Profetit Ibrahim",
+        "Djali jobesimtar i Profetit Nuh",
+        "Habili, djali i profetit Adem",
+        "Profeti Ismail, djali i Profetit Ibrahim"
+      ],
+      "answer": "Djali jobesimtar i Profetit Nuh"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Shitja si skllav në Egjipt pas tradhtisë nga vëllezërit",
+        "Refuzimi për të hipur në Arkë dhe kërkimi i një mali si strehë",
+        "Të hidhesh në një zjarr përvëlues për thyerjen e idhujve",
+        "Të gëlltitesh nga një peshk i madh pasi ikën nga një mision",
+        "Duke fjetur për shekuj me radhë në një shpellë për t'i shpëtuar persekutimit"
+      ],
+      "answer": "Refuzimi për të hipur në Arkë dhe kërkimi i një mali si strehë"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Pallati i pasqyruar prej qelqi në Saba",
+        "Arka prej druri e hedhur në lumë",
+        "Mali madhështor kërkoi strehim nga Përmbytja",
+        "Shkurre që digjet në luginën e shenjtë",
+        "Qabja e ndërtuar si vend adhurimi"
+      ],
+      "answer": "Mali madhështor kërkoi strehim nga Përmbytja"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "I gëlltitur nga toka me thesare për arrogancë",
+        "Iu dha një mbretëri me pushtet mbi erërat dhe xhindët",
+        "I bërë i qetë dhe i sigurt ndërsa zjarri u bë paqe",
+        "I ringjallur në qiell dhe i shpëtuar nga kryqëzimi",
+        "U mbytën në Përmbytje dhe u shpallën jo nga familja e drejtë"
+      ],
+      "answer": "U mbytën në Përmbytje dhe u shpallën jo nga familja e drejtë"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

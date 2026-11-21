@@ -1,0 +1,61 @@
+{
+  "title": "Glasovi pokraj mirnih voda",
+  "intro": "Zamislite zajednicu nazvanu ne po gradu ili vladaru, već po mirnoj vodi oko koje se okupljao život. Samo nekoliko stihova sjeća se ove zajednice, uvijek navedene među onima koji su odbacili vodstvo. Poslušajte ih dok govore iz tame.",
+  "clues": [
+    "Mi smo zajednica čije je ime spomenuto u Kur'anu, no naša cijela priča ostaje obavijena velom tajne.",
+    "Uvijek se spominjemo uz one koji su poricali, poput naroda Ada i Semuda.",
+    "Zovu nas Ashabi Ar-Rass-a, Zdenca za koji je naš život bio vezan.",
+    "Poricali smo Poslanika koji nam je poslan s jasnom uputom.",
+    "Mi smo među onima koji su poricali sve Allahove poslanike.",
+    "Suočili smo se s prijetnjom koja se ispunila protiv svakog poricatelja pred nama, uništenjem zbog našeg odbacivanja."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Ar-Rassovi drugovi",
+        "Ljudi iz Madyana",
+        "Stanovnici El-Hidžra",
+        "Lutov narod",
+        "Ljudi iz Tubbe"
+      ],
+      "answer": "Ar-Rassovi drugovi"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Sagradio je uzvišeni toranj da dosegne nebesa",
+        "Odbacili su poslanika koji nam je poslan",
+        "Obožavao je zlatno tele u Musaovoj odsutnosti.",
+        "Iz zavisti je planirao ubiti Jusufa.",
+        "Zahtijevao je da javno vidi Allaha"
+      ],
+      "answer": "Odbacili su poslanika koji nam je poslan"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Mount Judi odmara",
+        "Staklena zrcalna palača",
+        "Dolina mrava",
+        "Kovčeg izgrađen pod otkrivenjem",
+        "Bunar (Ar-Rass)"
+      ],
+      "answer": "Bunar (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Progutana od zemlje zbog ponosa u blagu",
+        "Spašen Arkom od potopa",
+        "Stvoren za spavanje stoljećima u špilji",
+        "Dodijeljena mu je kontrola nad vjetrom i džinima",
+        "Uništen zbog poricanja glasnika"
+      ],
+      "answer": "Uništen zbog poricanja glasnika"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

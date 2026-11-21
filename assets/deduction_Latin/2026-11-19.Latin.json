@@ -1,0 +1,61 @@
+{
+  "title": "Fides Occulta Intra Moenia Palatii",
+  "intro": "In medio aulae tyrannicae, coniurationibus et superbia plenae, anima sola secretum periculosum celat. Potestate et minis mortis circumdata, hic servus Dei nuntium solum contra imperium stare observat. Cum silentium fit complicitas, audax consilium capiendum est ut veritas magno periculo personali dicatur.",
+  "clues": [
+    "Vixi inter populum potentem et arrogantem qui signa Dei reiecerat.",
+    "Fidem meam per tempus celavi, dum qui circum me sunt contra nuntium coniuraverunt.",
+    "Palam locutus sum, dicens: \"Num hominem occiditis quia dicit, 'Dominus meus est Deus', cum probationes manifestae advenerint?\"",
+    "Populum meum de fato nationum priorum et de Die Vocationis Mutuae monui.",
+    "Eis dixi principem cui serviebam angustam tantum opinionem habere, attamen post mortem veram domum esse.",
+    "Dixi: “O populus meus, sequimini me et ego vos ducam ad viam rectam, et Deus me servavit a malo coniurationum eorum.”"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Abu Lahab",
+        "Qarun",
+        "As-Samiri",
+        "Aman",
+        "Fidelis e familia Pharaonis"
+      ],
+      "answer": "Fidelis e familia Pharaonis"
+    },
+    "trial": {
+      "label": "Quid feci?",
+      "options": [
+        "Thesauri coacervati quorum claves viros fortes onerabant",
+        "Turrim excelsam aedificavit ut deum Musae spectaret",
+        "Fides occulta tum palam Musam defendit et populum meum admonuit",
+        "Vitulum aureum formavit qui sonum mugientem edidit",
+        "Semitam Prophetae obstruxit et revelationem propter divitias derisit."
+      ],
+      "answer": "Fides occulta tum palam Musam defendit et populum meum admonuit"
+    },
+    "location": {
+      "label": "Ubi mea fabula explicata est?",
+      "options": [
+        "Arca super aquas diluvii",
+        "Sacra Mesquita Meccae",
+        "Aula Pharaonis in Aegypto",
+        "Antrum Dormientum",
+        "Vallis Silvestris Madyani"
+      ],
+      "answer": "Aula Pharaonis in Aegypto"
+    },
+    "outcome": {
+      "label": "Quid Fuit Meum Exitus?",
+      "options": [
+        "Cum exercitu in mari diviso submersus sum",
+        "Terra me cum thesauris meis devoravit",
+        "Fulmen me Thamud rapuit",
+        "In simiam conversus sum quod sabbatum violavi",
+        "Deus me a malo coniurationis eorum protexit."
+      ],
+      "answer": "Deus me a malo coniurationis eorum protexit."
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

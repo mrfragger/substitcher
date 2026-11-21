@@ -1,0 +1,61 @@
+{
+  "title": "Las votz al bòrd de las aigas tranquilas",
+  "intro": "Imaginatz una comunautat nomenada non pas per una vila o un regent, mas per l'aiga quieta a l'entorn de la quala la vida s'amassava. Sonque qualques vèrses se sovenon d'aquela comunautat, totjorn listada demest los que refusèron l'orientacion. Escotatz coma parlan de l'escur.",
+  "clues": [
+    "Sèm una comunautat nomenada dins l'Alcoran, pasmens nòstra istòria completa demòra velada dins un mistèri.",
+    "Sèm totjorn mencionats a costat d'aqueles que neguèron, coma lo pòble d'Ad e de Thamud.",
+    "Nos dison los Companhs d'Ar-Rass, lo Potz que nòstra vida èra ligada.",
+    "Neguèrem lo messatgièr que nos foguèt mandat amb una guida clara.",
+    "Sèm comptats demest los que refusèron totes los messatgièrs mandats per Allah.",
+    "Afrontèrem la menaça complida contra cada negaire davant nosautres, destruccion per nòstre refús."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Los Companhons d'Ar-Rass",
+        "Lo pòble de Madyan",
+        "Los abitants d'Al-Hijr",
+        "Lo Pòble de Lut",
+        "Lo Gòble de Tubba'."
+      ],
+      "answer": "Los Companhons d'Ar-Rass"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Bastiguèt una torre elevada per aténher los cèls",
+        "Negat lo messatgièr que nos mandèt",
+        "Adorèt lo vedèl d'aur en l'abséncia de Musa",
+        "Complotat per tuar Yusuf per enveja",
+        "Demandat de veire Allah dobèrtament"
+      ],
+      "answer": "Negat lo messatgièr que nos mandèt"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Mont Judi de repaus",
+        "Lo Palais Espelhat de veire",
+        "La Val de las Formigas",
+        "L'Arca bastida jos revelacion",
+        "Lo Potz (Ar-Rass)"
+      ],
+      "answer": "Lo Potz (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Engolit per la tèrra per la fiertat del tresaur",
+        "Salvat per l'Arca del diluvi",
+        "Fach dormir dempuèi de sègles dins una cauna",
+        "Concedit lo contraròtle del vent e dels jinn",
+        "Destruit per negar los messatgièrs"
+      ],
+      "answer": "Destruit per negar los messatgièrs"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

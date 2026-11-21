@@ -1,0 +1,61 @@
+{
+  "title": "Ukryta wiara w murach pałacu",
+  "intro": "W samym sercu tyrańskiego dworu, pełnego intryg i pychy, samotna dusza skrywa niebezpieczny sekret. Otoczony władzą i groźbami śmierci, ten sługa Allaha obserwuje posłańca samotnie stawiającego czoła imperium. Kiedy milczenie staje się współudziałem, trzeba podjąć odważną decyzję, by mówić prawdę, ryzykując przy tym wielkie osobiste ryzyko.",
+  "clues": [
+    "Żyłem wśród potężnych i aroganckich ludzi, którzy odrzucili znaki Allaha.",
+    "Przez pewien czas ukrywałem swoją wiarę, podczas gdy ludzie wokół mnie spiskowali przeciwko posłańcowi.",
+    "Wypowiedziałem się otwarcie, mówiąc: Czy zabijacie człowieka za to, że mówi: „Mój Pan to Allah”, skoro przecież przyszły jasne dowody?",
+    "Ostrzegałem swój lud przed losem wcześniejszych narodów i przed Dniem Wzajemnego Powołania.",
+    "Powiedziałem im, że władca, któremu służyłem, miał ograniczone poglądy, ale prawdziwym domem było życie pozagrobowe.",
+    "Powiedziałem: O ludu mój, podążajcie za mną, a ja poprowadzę was właściwą drogą. Bóg uchronił mnie przed złem ich podstępu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Abu Lahab",
+        "Karun",
+        "As-Samiri",
+        "Haman",
+        "Wierzący z rodziny faraona"
+      ],
+      "answer": "Wierzący z rodziny faraona"
+    },
+    "trial": {
+      "label": "Co zrobiłem?",
+      "options": [
+        "Zgromadzone skarby, których klucze obciążały silnych mężczyzn",
+        "Zbudował wysoką wieżę, aby móc podziwiać boga Musę",
+        "Ukryta wiara otwarcie broniła Mojżesza i ostrzegała mój lud",
+        "Uformował złotego cielca, który wydawał ryczący dźwięk",
+        "Zablokował drogę Prorokowi i wyśmiał objawienie dla bogactwa"
+      ],
+      "answer": "Ukryta wiara otwarcie broniła Mojżesza i ostrzegała mój lud"
+    },
+    "location": {
+      "label": "Gdzie rozegrała się moja historia?",
+      "options": [
+        "Arka na wodach potopu",
+        "Święty Meczet w Mekce",
+        "Dwór Pałacu Faraona w Egipcie",
+        "Jaskinia Śpiących",
+        "Zalesiona Dolina Madyan"
+      ],
+      "answer": "Dwór Pałacu Faraona w Egipcie"
+    },
+    "outcome": {
+      "label": "Jaki był mój wynik?",
+      "options": [
+        "Utonąłem wraz z armią w rozdartym morzu",
+        "Ziemia pochłonęła mnie wraz z moimi skarbami",
+        "Piorun uderzył mnie wraz z Thamudem",
+        "Zamieniono mnie w małpę za złamanie szabatu",
+        "Bóg ochronił mnie przed złem ich spisku"
+      ],
+      "answer": "Bóg ochronił mnie przed złem ich spisku"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

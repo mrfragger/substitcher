@@ -1,0 +1,61 @@
+{
+  "title": "Die Stimmen am stillen Wasser",
+  "intro": "Stellt euch eine Gemeinschaft vor, benannt nicht nach einer Stadt oder einem Herrscher, sondern nach dem stillen Wasser, an dem sich das Leben sammelte. Nur wenige Verse erinnern an diese Gemeinschaft, die stets zu denen gezählt wird, die jegliche Führung ablehnten. Lauscht ihren Worten aus der Verborgenheit.",
+  "clues": [
+    "Wir sind eine im Koran erwähnte Gemeinschaft, doch unsere ganze Geschichte bleibt geheimnisumwoben.",
+    "Wir werden immer zusammen mit denen genannt, die geleugnet haben, wie zum Beispiel die Völker von Ad und Thamud.",
+    "Wir werden die Gefährten von Ar-Rass genannt, dem Brunnen, an den unser Leben gebunden war.",
+    "Wir haben den Boten verleugnet, der mit klaren Anweisungen zu uns gesandt worden war.",
+    "Wir gehören zu denen, die alle von Allah gesandten Gesandten abgelehnt haben.",
+    "Wir sahen uns der Drohung gegenüber, die sich gegen jeden Leugner vor uns richtete: Vernichtung für unsere Ablehnung."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Die Gefährten von Ar-Rass",
+        "Das Volk von Madyan",
+        "Die Bewohner von Al-Hijr",
+        "Das Volk von Lut",
+        "Das Volk von Tubba"
+      ],
+      "answer": "Die Gefährten von Ar-Rass"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Er baute einen hohen Turm, der bis zum Himmel reichte.",
+        "Sie haben den Boten, der zu uns geschickt wurde, abgewiesen.",
+        "Er verehrte das goldene Kalb in Abwesenheit von Musa.",
+        "Aus Neid plante er, Yusuf zu töten.",
+        "Er verlangte, Allah öffentlich zu sehen."
+      ],
+      "answer": "Sie haben den Boten, der zu uns geschickt wurde, abgewiesen."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Berg Judi der Ruhe",
+        "Der Spiegelpalast aus Glas",
+        "Das Tal der Ameisen",
+        "Die Arche wurde unter Offenbarung gebaut",
+        "Der Brunnen (Ar-Rass)"
+      ],
+      "answer": "Der Brunnen (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Von der Erde verschlungen aus Stolz auf den Schatz",
+        "Von der Arche vor der Flut gerettet",
+        "Jahrhundertelang in einer Höhle schlafen zu müssen",
+        "Erkannte Kontrolle über Wind und Dschinn",
+        "Zerstört, weil sie die Boten verleugneten"
+      ],
+      "answer": "Zerstört, weil sie die Boten verleugneten"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

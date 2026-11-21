@@ -1,0 +1,61 @@
+{
+  "title": "Huzursuz Deniz Üzerinden Uçuş",
+  "intro": "Dalgaların yükseldiği, aşırı yüklü bir geminin güvertesinde durduğunuzu ve mürettebatın yükü hafifletmek için kura çektiğini hayal edin. Tek başına bir figür öne çıkar, sonu gibi görünen bir kaderi kabullenir; ancak derinlikler bir dua ve dönüş yeri haline gelir. Arkada yaklaşan cezadan uyarılan bir topluluk, önde ise beklenmedik bir merhamet vardır.",
+  "clues": [
+    "Yüz binden fazla kişiye haberci olarak gönderildim.",
+    "İzin almadan önce öfkeyle halkımı terk ettim.",
+    "Yük dolu bir gemiye bindim ve mürettebat, kimin denize atılacağına karar vermek için kura çekti.",
+    "Suçlu olduğum halde denize atıldım ve büyük bir balık tarafından yutuldum.",
+    "Karanlıkta Allah'ı yücelttim, O'ndan başka ilah olmadığını ve kendimin zalimlerden olduğumu ilan ettim.",
+    "Hasta halde açık denize atıldım ve Allah üzerime bir kabak bitkisi bitirdi; bunun üzerine kavmim iman etti ve bir süre için refaha kavuştular."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Musa",
+        "Peygamber Hud",
+        "Peygamber Nuh",
+        "Peygamber Lut",
+        "Peygamber Yunus"
+      ],
+      "answer": "Peygamber Yunus"
+    },
+    "trial": {
+      "label": "Hangi yargılama süreciyle karşı karşıya kaldım?",
+      "options": [
+        "Soğutulmuş ve güvenli hale getirilmiş bir ateşe atıldı.",
+        "Kaçtıktan sonra büyük balık tarafından yutuldu.",
+        "Kıskanç kardeşler tarafından derin bir kuyuya atıldılar",
+        "Uzun süren bir hastalık ve sağlık kaybıyla karşı karşıya kaldı.",
+        "Sevgili çocuğunu kurban etmesi emredildi."
+      ],
+      "answer": "Kaçtıktan sonra büyük balık tarafından yutuldu."
+    },
+    "location": {
+      "label": "Benim kilit unsurum nedir?",
+      "options": [
+        "Sel sularının üzerindeki tahta Nuh'un Gemisi",
+        "Zulümden korunma mağarası",
+        "Tuwa'nın kutsal vadisi",
+        "Büyük balık ve karnı",
+        "Putperestlerin hazırladığı serin ateş"
+      ],
+      "answer": "Büyük balık ve karnı"
+    },
+    "outcome": {
+      "label": "Sonuç Ne Oldu?",
+      "options": [
+        "Yüceltilme sayesinde kurtuldum ve halkım inandı ve bir süreliğine bağışlandı.",
+        "Halkım, Şabat gününü ihlal ettikleri için maymunlara dönüştürüldü.",
+        "Halkım kibirleri yüzünden yerin dibine girdi.",
+        "Halkım gökyüzünden gelen müthiş bir patlamayla sarsıldı.",
+        "Halkım büyük selde boğuldu."
+      ],
+      "answer": "Yüceltilme sayesinde kurtuldum ve halkım inandı ve bir süreliğine bağışlandı."
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

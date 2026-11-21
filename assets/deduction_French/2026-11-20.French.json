@@ -1,0 +1,61 @@
+{
+  "title": "La fuite à travers la mer agitée",
+  "intro": "Imaginez-vous sur le pont d'un navire surchargé, tandis que les vagues déferlent et que l'équipage tire au sort pour alléger la charge. Une silhouette solitaire s'avance, acceptant un destin qui semble être la fin, pour découvrir alors que les profondeurs se transforment en un lieu de prière et de retour. Derrière, une communauté est avertie d'un châtiment imminent ; devant, une miséricorde inespérée.",
+  "clues": [
+    "J'ai été envoyé comme messager auprès de plus de cent mille personnes.",
+    "J'ai quitté mon peuple en colère avant même d'avoir reçu la permission de partir.",
+    "J'ai embarqué sur un navire chargé et l'équipage a tiré au sort pour décider qui serait jeté par-dessus bord.",
+    "J'ai été jeté à la mer et avalé par un grand poisson alors que j'étais coupable.",
+    "Dans les ténèbres, j'ai glorifié Allah, déclarant qu'il n'y a de divinité que Lui et que j'avais été du nombre des injustes.",
+    "J'ai été jeté sur le rivage, malade, et Allah a fait pousser une courge sur moi ; alors mon peuple a cru et a connu la joie pendant un temps."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le prophète Moïse",
+        "Prophète Hud",
+        "Prophète Noé",
+        "Le prophète Lout",
+        "Prophète Yunus"
+      ],
+      "answer": "Prophète Yunus"
+    },
+    "trial": {
+      "label": "Quel procès ai-je dû affronter ?",
+      "options": [
+        "Jeté dans un feu refroidi et sans danger",
+        "Englouti par le grand poisson après avoir fui",
+        "Jeté dans un puits profond par des frères jaloux",
+        "Frappée par une longue maladie et une perte de santé",
+        "On lui a ordonné de sacrifier un enfant bien-aimé."
+      ],
+      "answer": "Englouti par le grand poisson après avoir fui"
+    },
+    "location": {
+      "label": "Quel est mon élément clé ?",
+      "options": [
+        "L'arche en bois sur les eaux du déluge",
+        "La grotte refuge contre la persécution",
+        "La vallée sacrée de Tuwa",
+        "Le grand poisson et son ventre",
+        "Le feu frais préparé par les idolâtres"
+      ],
+      "answer": "Le grand poisson et son ventre"
+    },
+    "outcome": {
+      "label": "Quel a été le résultat ?",
+      "options": [
+        "Sauvés par la glorification, mon peuple crut et fut épargné pour un temps.",
+        "Mon peuple a été transformé en singes pour avoir transgressé le sabbat.",
+        "Mon peuple a été englouti par la terre pour son arrogance.",
+        "Mon peuple a été saisi par une puissante explosion venue du ciel",
+        "Mon peuple a été englouti par le grand déluge"
+      ],
+      "answer": "Sauvés par la glorification, mon peuple crut et fut épargné pour un temps."
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

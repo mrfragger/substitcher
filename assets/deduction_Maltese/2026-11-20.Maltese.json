@@ -1,0 +1,61 @@
+{
+  "title": "It-Titjira Tul il-Baħar Bla Mistrieħ",
+  "intro": "Immaġina wieqfa fuq il-gverta ta’ bastiment mgħobbi żżejjed hekk kif il-mewġ jiżdied u l-ekwipaġġ jitfa’ x-xorti biex iħaffef it-tagħbija. Figura waħedha timxi ’l quddiem, taċċetta destin li jidher bħat-tmiem, biss biex il-fond isir post ta’ talb u ritorn. Warajh tinsab komunità mwissija dwar kastig li ġej, quddiemha tinsab ħniena mhux mistennija.",
+  "clues": [
+    "Intbgħatt bħala messaġġier lil aktar minn mitt elf ruħ.",
+    "Tlaqt lin-nies tiegħi bir-rabja qabel ma rċevejt il-permess biex nitlaq.",
+    "Tlajt abbord vapur mgħobbi u l-ekwipaġġ tellgħu x-xorti biex jiddeċiedu min se jintrema l-baħar.",
+    "Mitfugħ fil-baħar u belgħetni ħuta kbira waqt li kont ħati.",
+    "Jiena gglorifikajt lil Alla fid-dlam, billi ddikjarajt li m'hemm l-ebda divinità ħliefu u li jien kont wieħed minn dawk li għamlu l-ħażen.",
+    "Jiena ġejt mitfugħ fuq ix-xatt miftuħ, marid, u Alla ġiegħel pjanta tal-qargħa ħamra tikber fuqi, imbagħad in-nies tiegħi emmnu u ngħataw it-tgawdija għal xi żmien."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-Profeta Musa",
+        "Profeta Hud",
+        "Profeta Nuh",
+        "Profeta Lut",
+        "Il-Profeta Yunus"
+      ],
+      "answer": "Il-Profeta Yunus"
+    },
+    "trial": {
+      "label": "Liema Prova Iffaċċjajt?",
+      "options": [
+        "Mitfugħ fin-nar li jsir frisk u sigur",
+        "Jinbela’ mill-ħuta l-kbira wara li ħarab",
+        "Mitfugħa f'bir fond minn aħwa għajjurin",
+        "Milqut minn marda twila u telf ta’ saħħa",
+        "Kmandat biex jissagrifikaw tifel maħbub"
+      ],
+      "answer": "Jinbela’ mill-ħuta l-kbira wara li ħarab"
+    },
+    "location": {
+      "label": "X'inhu l-Element Ewlieni Tiegħi?",
+      "options": [
+        "L-Arka tal-injam fuq l-ilmijiet tad-dilluvju",
+        "L-għar tar-refuġju mill-persekuzzjoni",
+        "Il-wied sagru ta’ Tuwa",
+        "Il-ħuta l-kbira u ż-żaqq tagħha",
+        "In-nar frisk imħejji mill-idolatri"
+      ],
+      "answer": "Il-ħuta l-kbira u ż-żaqq tagħha"
+    },
+    "outcome": {
+      "label": "X'kien ir-Riżultat Tiegħi?",
+      "options": [
+        "Salvati permezz tal-glorifikazzjoni u n-nies tiegħi emmnu u ġew meħlusa għal xi żmien",
+        "Il-poplu tiegħi nbidel f’xadini talli kiser is-Sabat",
+        "Il-poplu tiegħi nbela’ mill-art minħabba l-arroganza",
+        "In-nies tiegħi nqabdu minn tifqigħa qawwija mis-sema",
+        "Il-poplu tiegħi għereq mill-għargħar kbir"
+      ],
+      "answer": "Salvati permezz tal-glorifikazzjoni u n-nies tiegħi emmnu u ġew meħlusa għal xi żmien"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

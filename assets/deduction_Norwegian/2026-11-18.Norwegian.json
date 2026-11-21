@@ -1,0 +1,61 @@
+{
+  "title": "Bølgen som delte blodet",
+  "intro": "Se for deg en enorm flom som stiger over landet, en Ark som flyter stødig, og én sjel som er blitt etterlatt utenfor av eget valg. Bundet av blod til en profet, men atskilt av tro, sto denne skikkelsen overfor et siste kall om å komme om bord mens vannet strømmet. Kan du avdekke identiteten bak avslaget?",
+  "clues": [
+    "Jeg er avkom av en av Allahs største profeter, en troens husstand jeg valgte å forlate.",
+    "Jeg levde i flommens tid, da vantro dekket landet som vann.",
+    "Jeg nektet å gå ombord i Arken med de troende da faren min ropte på meg.",
+    "Jeg sa at jeg ville søke tilflukt på et fjell for å beskytte meg mot vannet.",
+    "Jeg ble fortalt at ingenting kunne beskytte mot Allahs bestemmelse på den dagen, bortsett fra barmhjertighet.",
+    "Jeg ble overveldet av bølgene og druknet, og faren min fikk høre at jeg ikke var av hans rettferdige familie."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Zayd ibn Harithah",
+        "Profeten Ishaq, sønn av profeten Ibrahim",
+        "Den vantro sønnen til profeten Nuh",
+        "Habil, sønn av profeten Adam",
+        "Profeten Ismail, sønn av profeten Ibrahim"
+      ],
+      "answer": "Den vantro sønnen til profeten Nuh"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Solgt til slaveri i Egypt etter svik fra brødre",
+        "Nektet å gå ombord på Arken og søkte et fjell som tilflukt",
+        "Å bli kastet i en flammende ild for å ha knust avguder",
+        "Å bli slukt av en stor fisk etter å ha flyktet fra et oppdrag",
+        "Sover i århundrer i hule for å unnslippe forfølgelse"
+      ],
+      "answer": "Nektet å gå ombord på Arken og søkte et fjell som tilflukt"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Det speilvendte glasspalasset på Saba",
+        "Trekisten kastet i elven",
+        "Det ruvende fjellet søkte tilflukt fra flommen",
+        "Den brennende busken i den hellige dalen",
+        "Kaabaen ble bygget som et hus for tilbedelse"
+      ],
+      "answer": "Det ruvende fjellet søkte tilflukt fra flommen"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Svelget av jorden med skatter for arroganse",
+        "Fikk et kongerike med makt over vinder og djinn",
+        "Gjort kjølig og trygt mens ild ble til fred",
+        "Oppreist levende til himmelen og frelst fra korsfestelse",
+        "Druknet i flommen og erklært ikke tilhørende den rettferdige familien"
+      ],
+      "answer": "Druknet i flommen og erklært ikke tilhørende den rettferdige familien"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

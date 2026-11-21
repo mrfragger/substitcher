@@ -1,0 +1,61 @@
+{
+  "title": "Der verborgene Glaube innerhalb der Palastmauern",
+  "intro": "Im Zentrum eines tyrannischen Hofes voller Intrigen und Stolz hütet eine einsame Seele ein gefährliches Geheimnis. Umgeben von Macht und Todesdrohungen, beobachtet dieser Diener Allahs, wie ein Bote allein gegen ein Imperium kämpft. Als Schweigen zur Komplizenschaft wird, muss eine mutige Entscheidung getroffen werden: die Wahrheit zu verkünden – selbst unter größtem persönlichen Risiko.",
+  "clues": [
+    "Ich lebte inmitten eines mächtigen und arroganten Volkes, das die Zeichen Allahs ablehnte.",
+    "Ich verbarg meinen Glauben eine Zeitlang, während die Menschen um mich herum gegen einen Boten intrigierten.",
+    "Ich habe mich offen geäußert und gesagt: Tötet ihr einen Menschen, weil er sagt: „Mein Herr ist Allah“, obwohl es klare Beweise dafür gibt?",
+    "Ich warnte mein Volk vor dem Schicksal früherer Nationen und vor einem Tag der gegenseitigen Berufung.",
+    "Ich sagte ihnen, dass der Herrscher, dem ich gedient habe, nur eine beschränkte Meinung vertritt, doch das Jenseits sei die wahre Heimat.",
+    "Ich sagte: O mein Volk, folgt mir, und ich werde euch auf den rechten Weg führen, und Allah rettete mich vor dem Übel ihrer Intrigen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Abu Lahab",
+        "Qarun",
+        "As-Samiri",
+        "Haman",
+        "Der Gläubige aus der Familie des Pharaos"
+      ],
+      "answer": "Der Gläubige aus der Familie des Pharaos"
+    },
+    "trial": {
+      "label": "Was habe ich getan?",
+      "options": [
+        "Gesammelte Schätze, deren Schlüssel starke Männer belasteten",
+        "Er baute einen hohen Turm, um den Gott Musa zu betrachten.",
+        "Der verborgene Glaube verteidigte dann offen Musa und warnte mein Volk",
+        "Ich fertigte ein goldenes Kalb an, das ein Muhen von sich gab.",
+        "Er versperrte dem Propheten den Weg und verspottete die Offenbarung, um Reichtum zu erlangen."
+      ],
+      "answer": "Der verborgene Glaube verteidigte dann offen Musa und warnte mein Volk"
+    },
+    "location": {
+      "label": "Wo hat sich meine Geschichte entfaltet?",
+      "options": [
+        "Die Arche auf den Fluten",
+        "Die Heilige Moschee in Mekka",
+        "Der Palasthof des Pharaos in Ägypten",
+        "Die Höhle der Schläfer",
+        "Das bewaldete Tal von Madyan"
+      ],
+      "answer": "Der Palasthof des Pharaos in Ägypten"
+    },
+    "outcome": {
+      "label": "Wie war das Ergebnis?",
+      "options": [
+        "Ich bin mit der Armee im geteilten Meer ertrunken.",
+        "Die Erde verschlang mich mitsamt meinen Schätzen.",
+        "Ein Blitz traf mich mit Thamud",
+        "Ich wurde in einen Affen verwandelt, weil ich den Sabbat gebrochen hatte.",
+        "Allah hat mich vor dem Bösen ihrer Intrige beschützt."
+      ],
+      "answer": "Allah hat mich vor dem Bösen ihrer Intrige beschützt."
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

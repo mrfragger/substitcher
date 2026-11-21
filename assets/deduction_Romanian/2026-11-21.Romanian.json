@@ -1,0 +1,61 @@
+{
+  "title": "Vocile de lângă apele liniștite",
+  "intro": "Imaginează-ți o comunitate care nu poartă numele unui oraș sau al unui conducător, ci numele apei liniștite în jurul căreia se aduna viața. Doar câteva versete amintesc de această comunitate, mereu trecută printre cei care au respins îndrumarea. Ascultă-i cum vorbesc din obscuritate.",
+  "clues": [
+    "Suntem o comunitate al cărei nume este menționat în Coran, însă întreaga noastră poveste rămâne învăluită în mister.",
+    "Suntem întotdeauna menționați alături de cei care au negat, precum oamenii din Ad și Thamud.",
+    "Suntem numiți Companionii lui Ar-Rass, Fântâna de care viața noastră era legată.",
+    "L-am tăgăduit pe mesagerul care ne-a fost trimis cu îndrumare limpede.",
+    "Suntem numărați printre cei care i-au respins pe toți mesagerii trimiși de Allah.",
+    "Ne-am confruntat cu amenințarea împlinită împotriva fiecărui negaționist din fața noastră, distrugerea pentru respingerea noastră."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Companionii lui Ar-Rass",
+        "Oamenii din Madyan",
+        "Locuitorii din Al-Hijr",
+        "Oamenii din Lut",
+        "Oamenii din Tubba'"
+      ],
+      "answer": "Companionii lui Ar-Rass"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "A construit un turn înalt pentru a ajunge la ceruri",
+        "Am refuzat mesagerul trimis la noi",
+        "S-a închinat vițelului de aur în absența lui Moise",
+        "A complotat să-l omoare pe Yusuf din invidie",
+        "A cerut să-l vadă pe Allah în mod deschis"
+      ],
+      "answer": "Am refuzat mesagerul trimis la noi"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Muntele Judi al odihnei",
+        "Palatul Oglinzilor de Sticlă",
+        "Valea Furnicilor",
+        "Arca construită sub revelație",
+        "Fântâna (Ar-Rass)"
+      ],
+      "answer": "Fântâna (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Înghițit de pământ pentru mândria unei comori",
+        "Salvat de Arcă de la potop",
+        "Făcut să doarmă secole într-o peșteră",
+        "A acordat controlul asupra vântului și djinnilor",
+        "Distruși pentru că i-au respins pe mesageri"
+      ],
+      "answer": "Distruși pentru că i-au respins pe mesageri"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

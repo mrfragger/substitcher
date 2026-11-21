@@ -1,0 +1,61 @@
+{
+  "title": "Köşk diwarlarynyň içinde gizlin ynanç",
+  "intro": "Zalym köşgüň merkezinde, mekirlikler we tekepbirlik bilen doldurylan ýalňyz bir jan howply syr saklaýar. Güýç we ölüm howplary bilen gurşalan bu Allanyň hyzmatkäri bir ilçiniň imperiýa garşy ýeke duranyny synlaýar. Dymmak şärikçilige öwrülende, uly şahsy töwekgelçilik bilen hakykaty aýtmak üçin batyrgaý karar kabul edilmelidir.",
+  "clues": [
+    "Men Allanyň alamatlaryny inkär edýän güýçli we tekepbir adamlaryň arasynda ýaşadym.",
+    "Töweregimdäkiler bir ilçiniň garşysyna dildüwşük gurýança, men bir wagtlap imanymy gizledim.",
+    "Men açyk gepleşip: \"Aýdyň subutnamalar gelen mahaly, siz bir adamy \"Meniň Rebbim Alladyr\" diýenleri üçin öldürýärsiňizmi?\" diýdim.",
+    "Men halkyma öňki halklaryň ykbaly we Özara çagyryş güni barada duýduryş berdim.",
+    "Men olara gulluk eden hökümdarymyň diňe dar pikirlidigini, emma ahyretiň hakyky öýdigini aýtdym.",
+    "Men: \"Eý, meniň kowumym, maňa eýeriň, men sizi dogry ýola gönükdirerin\" diýdim. Alla meni olaryň mekirlikleriniň ýamanlygyndan halas etdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Abu Lahab",
+        "Karun",
+        "As-Samiri",
+        "Haman",
+        "Fyrgawnyň maşgalasyndan bolan mömin"
+      ],
+      "answer": "Fyrgawnyň maşgalasyndan bolan mömin"
+    },
+    "trial": {
+      "label": "Men näme etdim?",
+      "options": [
+        "Güýçli adamlara açarlary agyr ýük bolan hazynalary toplady",
+        "Musanyň hudaýyna seretmek üçin beýik diň gurdy",
+        "Gizlin iman soňra Musany açyk gorady we meniň halkyma duýduryş berdi",
+        "Miňirdeýän ses çykarýan altyn göle şekilini ýasady",
+        "Pygamberiň ýoluny ýapdy we baýlyk üçin wahyýy masgara etdi"
+      ],
+      "answer": "Gizlin iman soňra Musany açyk gorady we meniň halkyma duýduryş berdi"
+    },
+    "location": {
+      "label": "Meniň hekaýam nirede açyldy?",
+      "options": [
+        "Gämi sil suwlarynyň üstünde",
+        "Mekkedäki mukaddes metjit",
+        "Müsürdäki faraon köşgi",
+        "Uklap ýatanlaryň mağarasy",
+        "Madýanyň tokaýly jülgesi"
+      ],
+      "answer": "Müsürdäki faraon köşgi"
+    },
+    "outcome": {
+      "label": "Meniň netijäm nähili boldy?",
+      "options": [
+        "Men goşun bilen bölünen deňizde gark boldum",
+        "Ýer meni hazynalarym bilen ýuwutdy",
+        "Meni Samud kowmy bilen ýyldyrym tutdy",
+        "Meni Sabat güni bozanym üçin maýmyna öwürdiler",
+        "Alla meni olaryň mekirlikleriniň ýamanlygyndan gorady"
+      ],
+      "answer": "Alla meni olaryň mekirlikleriniň ýamanlygyndan gorady"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

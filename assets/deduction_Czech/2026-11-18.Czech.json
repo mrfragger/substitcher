@@ -1,0 +1,61 @@
+{
+  "title": "Vlna, která rozdělila krev",
+  "intro": "Představte si obrovskou povodeň, která se zvedá nad zemí, Archu plující stabilně a jednu duši, která z vlastní vůle zůstala venku. Tato postava, spjata krví s prorokem, ale oddělena vírou, čelila poslednímu volání, aby se připojila, když se vody rozbouřily. Dokážete odhalit identitu, která stála za odmítnutím?",
+  "clues": [
+    "Jsem potomkem jednoho z největších Alláhových proroků, rodiny víry, kterou jsem se rozhodl opustit.",
+    "Žil jsem v době velké potopy, kdy nevíra pokrývala zemi jako voda.",
+    "Odmítl jsem nastoupit do Archy s věřícími, když na mě otec zavolal.",
+    "Řekl jsem, že se uchýlím do hory, aby mě ochránila před vodou.",
+    "Bylo mi řečeno, že v onen den nic neochrání před Alláhovým rozhodnutím kromě milosrdenství.",
+    "Vlny mě zaplavily a utopily mě a mému otci bylo řečeno, že nepocházím z jeho spravedlivé rodiny."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Zajd ibn Haríta",
+        "Prorok Ishák, syn proroka Ibráhíma",
+        "Nevěřící syn proroka Nuha",
+        "Habil, syn proroka Adama",
+        "Prorok Ismail, syn proroka Ibráhíma"
+      ],
+      "answer": "Nevěřící syn proroka Nuha"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Prodán do otroctví v Egyptě po zradě bratrů",
+        "Odmítnutí nastoupit na Archu a hledání útočiště v hoře",
+        "Být vhozen do planoucího ohně za rozbití modl",
+        "Po útěku z mise ho spolkla velká ryba",
+        "Spaní po staletí v jeskyni, aby se vyhnuli pronásledování"
+      ],
+      "answer": "Odmítnutí nastoupit na Archu a hledání útočiště v hoře"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Zrcadlový skleněný palác v Sabě",
+        "Dřevěná truhla hozená do řeky",
+        "Tyčící se hora hledala útočiště před potopou",
+        "Hořící keř v posvátném údolí",
+        "Kaaba postavená jako modlitebna"
+      ],
+      "answer": "Tyčící se hora hledala útočiště před potopou"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Pohlceni zemí s poklady pro aroganci",
+        "Uděleno království s mocí nad větry a džiny",
+        "Chladné a bezpečné, zatímco oheň se stal mírem",
+        "Zaživa vzkříšen do nebes a zachráněn před ukřižováním",
+        "Utopeni v potopě a prohlášeni za nepatřící ke spravedlivé rodině"
+      ],
+      "answer": "Utopeni v potopě a prohlášeni za nepatřící ke spravedlivé rodině"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

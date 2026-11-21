@@ -1,0 +1,61 @@
+{
+  "title": "Urugendo rwambukiranya inyanja itagira umutuzo",
+  "intro": "Tekereza uhagaze ku kirahuri cy'ubwato buremereye cyane mu gihe imiraba irimo kwiyongera, abakozi bagakora ubufindo kugira ngo borohereze umutwaro. Umuntu umwe wenyine araza imbere, yemera iherezo risa n'aho ari iherezo, ariko ikuzimu hahinduka ahantu ho gusenga no kugaruka. Inyuma y'aho hari umuryango waburiwe ibihano biri hafi, imbere hari imbabazi zitunguranye.",
+  "clues": [
+    "Natumwe nk'intumwa ku bantu barenga ibihumbi ijana.",
+    "Navuye mu muryango wanjye mfite uburakari mbere yo guhabwa uburenganzira bwo kugenda.",
+    "Nagiye mu bwato bwari bwuzuye ibintu byinshi maze abakozi babwo baca ubufindo kugira ngo bamenye uzajugunywa mu nyanja.",
+    "Najugunywe mu nyanja maze imira n'ifi nini mu gihe nari mfite icyo nemezwa.",
+    "Nasingizaga Imana mu mwijima, mvuga ko nta yindi mana ibaho uretse Yo kandi ko nari umwe mu bakora ibibi.",
+    "Najugunywe ku nkombe, ndwaye, maze Imana intera ikimera cy'umurama, abantu banjye bemera maze bahabwa ibyishimo by'igihe runaka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Umuhanuzi Musa",
+        "Umuhanuzi Hud",
+        "Umuhanuzi Nuh",
+        "Umuhanuzi Lut",
+        "Intumwa Yunus"
+      ],
+      "answer": "Intumwa Yunus"
+    },
+    "trial": {
+      "label": "Ni ikigeragezo nahuye nacyo?",
+      "options": [
+        "Yajugunywe mu muriro ikonje kandi itekanye",
+        "Yamizwe n'ifi nini nyuma yo guhunga",
+        "Abavandimwe b'abanyamururumba bajugunye mu iriba rinini",
+        "Yafashwe n'indwara ndende no gutakaza ubuzima",
+        "Yategetswe gutamba umwana we akunda"
+      ],
+      "answer": "Yamizwe n'ifi nini nyuma yo guhunga"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi ni ikihe?",
+      "options": [
+        "Ubwato bw'ibiti ku mazi y'umwuzure",
+        "Ubuvumo bwo guhungiramo itotezwa",
+        "Ikibaya gitagatifu cya Tuwa",
+        "Ifi nini n'inda yayo",
+        "Umuriro ukonje wateguwe n'abasenga ibigirwamana"
+      ],
+      "answer": "Ifi nini n'inda yayo"
+    },
+    "outcome": {
+      "label": "Ingaruka zanjye zari izihe?",
+      "options": [
+        "Nakijijwe no guhabwa icyubahiro maze abantu banjye barizera maze bararokoka igihe gito",
+        "Abantu banjye bahinduwe inkende kubera kwica Isabato",
+        "Abantu banjye bamizwe n'isi kubera ubwibone",
+        "Abantu banjye bafashwe n'igisasu gikomeye cyaturutse mu ijuru",
+        "Abantu banjye barohamye kubera umwuzure ukomeye"
+      ],
+      "answer": "Nakijijwe no guhabwa icyubahiro maze abantu banjye barizera maze bararokoka igihe gito"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

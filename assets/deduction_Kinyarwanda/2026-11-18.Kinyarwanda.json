@@ -1,0 +1,61 @@
+{
+  "title": "Umuraba Wagabanyijemo Amaraso",
+  "intro": "Tekereza umwuzure munini uzamuka ku butaka, Inkuge ireremba neza, n'umuntu umwe usigaye hanze ku bushake bwe. Uwo muntu yari ahambiriwe n'amaraso ku muhanuzi ariko atandukanyijwe n'imyizerere, yahamagariwe burundu kwinjira mu bwato ubwo amazi yakomezaga kwiyongera. Ese ushobora kumenya icyari inyuma y'ibyo?",
+  "clues": [
+    "Ndi urubyaro rw'umwe mu bahanuzi bakomeye ba Allah, umuryango w'ukwemera nahisemo kuvamo.",
+    "Nabayeho mu gihe cy'umwuzure ukomeye, ubwo kutizera kwatwikiriye isi nk'amazi.",
+    "Nanze kwinjira mu bwato hamwe n'abizera ubwo data yampamagaye.",
+    "Navuze ko nzahungira ku musozi kugira ngo mburinde amazi.",
+    "Bambwiye ko nta kintu na kimwe cyashoboraga kurinda itegeko rya Allah kuri uwo munsi uretse imbabazi.",
+    "Narenzwe n'imiraba ndarohama, maze data abwirwa ko ntari uwo mu muryango we w'intungane."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Zayid ibn Harithah",
+        "Intumwa Ishaq, Umwana w'Intumwa Ibrahim",
+        "Umwana w'Umuhanuzi Nuh utizera",
+        "Habili, Umwana w'Umuhanuzi Adamu",
+        "Intumwa Ismail, Umwana w'Intumwa Ibrahim"
+      ],
+      "answer": "Umwana w'Umuhanuzi Nuh utizera"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Kugurishwa mu bucakara mu Misiri nyuma yo guhemukirwa n'abavandimwe",
+        "Kwanga kwinjira mu bwato no gushaka umusozi nk'ubuhungiro",
+        "Gutabwa mu muriro ugurumana kubera kumenagura ibigirwamana",
+        "Kumirwa n'ifi nini nyuma yo guhunga ubutumwa",
+        "Kuryama mu buvumo imyaka amagana kugira ngo wirinde itotezwa"
+      ],
+      "answer": "Kwanga kwinjira mu bwato no gushaka umusozi nk'ubuhungiro"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Ingoro y'ikirahure ifite indorerwamo i Saba",
+        "Agasanduku k'ibiti kajugunywe mu ruzi",
+        "Uwo musozi muremure washatse ubuhungiro bw'Umwuzure",
+        "Igihuru cyakaga mu kibaya gitagatifu",
+        "Kaaba yubatswe nk'inzu yo gusengeramo"
+      ],
+      "answer": "Uwo musozi muremure washatse ubuhungiro bw'Umwuzure"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Isi yamizwe n'ubutunzi kubera ubwibone",
+        "Yahawe ubwami bufite ububasha ku miyaga n'amajini",
+        "Yakozwe ikonje kandi ifite umutekano kuko umuriro wahindutse amahoro",
+        "Yazuwe mu ijuru ari muzima kandi arokorwa ku musaraba",
+        "Yarohamye mu mwuzure kandi atangazwa ko atari umuryango ukiranuka"
+      ],
+      "answer": "Yarohamye mu mwuzure kandi atangazwa ko atari umuryango ukiranuka"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

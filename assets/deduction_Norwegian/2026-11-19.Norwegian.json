@@ -1,0 +1,61 @@
+{
+  "title": "Den skjulte troen innenfor palassmurene",
+  "intro": "Midt i et tyrannisk hoff fylt med komplotter og stolthet, bærer en enslig sjel på en farlig hemmelighet. Omgitt av makt og dødstrusler ser denne Allahs tjener et sendebud stå alene mot et imperium. Når taushet blir til medvirkning, må det tas en dristig beslutning om å snakke sant med stor personlig risiko.",
+  "clues": [
+    "Jeg levde blant et mektig og arrogant folk som avviste Allahs tegn.",
+    "Jeg skjulte min tro en stund mens de rundt meg la planer mot et sendebud.",
+    "Jeg talte åpent og sa: Dreper du en person fordi de sier: Min Herre er Allah, mens klare bevis har kommet?",
+    "Jeg advarte mitt folk om tidligere nasjoners skjebne og om en dag med gjensidig kall.",
+    "Jeg fortalte dem at herskeren jeg tjente bare viser snevre meninger, men at det hinsidige er det sanne hjemmet.",
+    "Jeg sa: «Å, mitt folk, følg meg, så vil jeg lede dere på den rette veien.» Allah frelste meg fra det onde i deres planer."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Abu Lahab",
+        "Qarun",
+        "As-Samiri",
+        "Haman",
+        "Den troende fra faraos familie"
+      ],
+      "answer": "Den troende fra faraos familie"
+    },
+    "trial": {
+      "label": "Hva gjorde jeg?",
+      "options": [
+        "Samlet skatter hvis nøkler tynget sterke menn",
+        "Bygde et høyt tårn for å se på Musas gud",
+        "Skjult tro forsvarte deretter åpent Musa og advarte mitt folk",
+        "Laget en gullkalv som lagde en bulende lyd",
+        "Blokkerte profetens vei og hånet åpenbaringen for rikdom"
+      ],
+      "answer": "Skjult tro forsvarte deretter åpent Musa og advarte mitt folk"
+    },
+    "location": {
+      "label": "Hvor utfoldet historien min seg?",
+      "options": [
+        "Arken over flomvannet",
+        "Den hellige moskeen i Mekka",
+        "Faraos palassgård i Egypt",
+        "De sovendes hule",
+        "Den skogkledde dalen Madyan"
+      ],
+      "answer": "Faraos palassgård i Egypt"
+    },
+    "outcome": {
+      "label": "Hva var resultatet mitt?",
+      "options": [
+        "Jeg druknet med hæren i det delte havet",
+        "Jorden slukte meg med mine skatter",
+        "Et tordenskudd grep meg med Thamud",
+        "Jeg ble forvandlet til en ape fordi jeg brøt sabbaten",
+        "Allah beskyttet meg fra ondskapen i planen deres"
+      ],
+      "answer": "Allah beskyttet meg fra ondskapen i planen deres"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

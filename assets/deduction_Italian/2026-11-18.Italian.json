@@ -1,0 +1,61 @@
+{
+  "title": "L'onda che divise il sangue",
+  "intro": "Immaginate un immenso diluvio che si innalza sulla terra, un'Arca che galleggia immobile e un'anima che, per scelta, rimane fuori. Legata dal sangue a un profeta, eppure separata dalla fede, questa figura riceve un ultimo invito a salire a bordo mentre le acque si infrangono. Riuscirete a scoprire l'identità che si cela dietro questo rifiuto?",
+  "clues": [
+    "Sono il discendente di uno dei più grandi profeti di Allah, una famiglia di fede che ho scelto di lasciare.",
+    "Ho vissuto ai tempi del Diluvio Universale, quando l'incredulità ricopriva la terra come l'acqua.",
+    "Mi rifiutai di salire sull'Arca con i credenti quando mio padre mi chiamò.",
+    "Ho detto che avrei cercato rifugio su una montagna per proteggermi dall'acqua.",
+    "Mi è stato detto che nulla avrebbe potuto proteggere dal decreto di Allah in quel Giorno, se non la misericordia.",
+    "Fui travolto dalle onde e annegai, e a mio padre fu detto che non appartenevo alla sua retta famiglia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Zayd ibn Harithah",
+        "Il profeta Isacco, figlio del profeta Abramo",
+        "Il figlio miscredente del profeta Nuh",
+        "Habil, figlio del profeta Adamo",
+        "Il profeta Ismail, figlio del profeta Abramo"
+      ],
+      "answer": "Il figlio miscredente del profeta Nuh"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Venduta come schiava in Egitto dopo il tradimento dei fratelli",
+        "Rifiutandosi di salire a bordo dell'Arca e cercando rifugio in una montagna.",
+        "Essere gettati in un fuoco ardente per aver distrutto gli idoli",
+        "Essere inghiottito da un grande pesce dopo essere fuggito da una missione",
+        "Dormire per secoli in una grotta per sfuggire alle persecuzioni"
+      ],
+      "answer": "Rifiutandosi di salire a bordo dell'Arca e cercando rifugio in una montagna."
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Il palazzo di vetro specchiato di Saba",
+        "La cassa di legno gettata nel fiume",
+        "L'imponente montagna cercava rifugio dal Diluvio",
+        "Il roveto ardente nella valle sacra",
+        "La Kaaba fu costruita come luogo di culto."
+      ],
+      "answer": "L'imponente montagna cercava rifugio dal Diluvio"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Inghiottito dalla terra con tesori per l'arroganza",
+        "Gli fu concesso un regno con potere sui venti e sui jinn",
+        "Reso fresco e sicuro mentre il fuoco diventava pace",
+        "Risuscitato vivo in cielo e salvato dalla crocifissione",
+        "Annegato nel diluvio e dichiarato non appartenente alla famiglia dei giusti"
+      ],
+      "answer": "Annegato nel diluvio e dichiarato non appartenente alla famiglia dei giusti"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Iman Tersembunyi di Balik Dinding Istana",
+  "intro": "Di tengah istana tirani yang penuh dengan intrik dan kesombongan, sesosok jiwa menyimpan rahasia berbahaya. Dikelilingi kekuasaan dan ancaman kematian, hamba Allah ini menyaksikan seorang utusan berdiri sendirian melawan sebuah kekaisaran. Ketika keheningan berubah menjadi keterlibatan, sebuah keputusan berani harus diambil untuk menyampaikan kebenaran dengan risiko pribadi yang besar.",
+  "clues": [
+    "Aku hidup di antara orang-orang yang berkuasa dan sombong yang menolak tanda-tanda Allah.",
+    "Aku menyembunyikan imanku untuk sementara waktu sementara orang-orang di sekitarku bersekongkol melawan seorang utusan.",
+    "Saya berbicara secara terbuka, mengatakan: Apakah Anda membunuh seseorang karena mereka mengatakan, Tuhanku adalah Allah, padahal bukti-bukti yang jelas telah datang?",
+    "Aku memperingatkan umatku tentang nasib bangsa-bangsa terdahulu dan tentang Hari Panggilan Bersama.",
+    "Saya mengatakan kepada mereka bahwa penguasa yang saya layani hanya menunjukkan pendapat yang sempit, padahal akhirat adalah rumah yang sebenarnya.",
+    "Aku berkata: Wahai kaumku, ikutilah aku dan aku akan membimbing kalian ke jalan yang benar, dan Allah menyelamatkanku dari kejahatan tipu daya mereka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Abu Lahab",
+        "Qarun",
+        "As-Samiri",
+        "Haman",
+        "Orang Beriman dari Keluarga Firaun"
+      ],
+      "answer": "Orang Beriman dari Keluarga Firaun"
+    },
+    "trial": {
+      "label": "Apa yang telah kulakukan?",
+      "options": [
+        "Harta karun yang terkumpul, yang kuncinya menjadi beban bagi orang-orang kuat.",
+        "Membangun menara tinggi untuk melihat dewa Musa",
+        "Iman yang terpendam kemudian secara terbuka membela Musa dan memperingatkan kaumku.",
+        "Membuat patung anak sapi emas yang mengeluarkan suara melenguh.",
+        "Menghalangi jalan Nabi dan mengejek wahyu demi kekayaan."
+      ],
+      "answer": "Iman yang terpendam kemudian secara terang-terangan membela Musa dan memperingatkan kaumku."
+    },
+    "location": {
+      "label": "Di manakah kisahku terungkap?",
+      "options": [
+        "Bahtera di atas air bah",
+        "Masjid Suci di Makkah",
+        "Halaman Istana Firaun di Mesir",
+        "Gua Para Penidur",
+        "Lembah Berhutan Madyan"
+      ],
+      "answer": "Halaman Istana Firaun di Mesir"
+    },
+    "outcome": {
+      "label": "Bagaimana Hasil yang Saya Dapatkan?",
+      "options": [
+        "Aku tenggelam bersama pasukan di laut yang terbelah",
+        "Bumi menelanku beserta harta bendaku.",
+        "Sebuah petir menyambarku bersama Thamud",
+        "Aku diubah menjadi kera karena melanggar hari Sabat.",
+        "Allah melindungiku dari kejahatan tipu daya mereka."
+      ],
+      "answer": "Allah melindungiku dari kejahatan tipu daya mereka."
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

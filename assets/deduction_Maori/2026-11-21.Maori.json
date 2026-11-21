@@ -1,0 +1,61 @@
+{
+  "title": "Ngā Reo i te taha o ngā Wai Mārie",
+  "intro": "Whakaarohia tētahi hapori, ehara i te mea nō tētahi tāone, nō tētahi rangatira rānei, engari nō te wai marino i huihui ai te ora. He torutoru noa ngā whiti e maumahara ana ki tēnei hapori, e rārangi tonu ana i roto i te hunga i whakakahore i te arataki. Whakarongo mai ki a rātou e kōrero ana i te pōuri.",
+  "clues": [
+    "He hapori tātou kua whakahuatia i roto i te Quran, heoi kei te huna tonutia tō tātou kōrero katoa i roto i te mea ngaro.",
+    "E whakahuatia tonutia ana mātou i te taha o te hunga i whakakahore, pērā i te iwi o Āta me te iwi o Thamud.",
+    "E kiia ana mātou ko ngā Hoa o Ar-Rass, te Puna i herea ai tō mātou oranga.",
+    "I whakakahoretia e mātou te karere i tonoa mai ki a mātou me te arataki mārama.",
+    "Kua taua tātou i roto i te hunga i whakakahore i ngā karere katoa i tonoa mai e Allah.",
+    "I tūtaki mātou ki te riri i tau ki runga i te hunga katoa e whakakahore ana i mua i a mātou, arā, te whakangaromanga mō tā mātou whakakahoretanga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Ngā Hoa o Ar-Rass",
+        "Te Iwi o Madyan",
+        "Ngā Kainoho o Al-Hijr",
+        "Te Iwi o Ruta",
+        "Te Iwi o Tubba'"
+      ],
+      "answer": "Ngā Hoa o Ar-Rass"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I hanga he pourewa tiketike hei eke ki te rangi",
+        "I whakakahoretia te karere i tukuna mai ki a mātou",
+        "I karakia ki te kuao kau koura i te ngaronga o Mohi",
+        "I whakatakoto mahere kia patua a Hohepa i te hae",
+        "I tono kia kite i a Allah i te aroaro o te marea"
+      ],
+      "answer": "I whakakahoretia te karere i tukuna mai ki a mātou"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Maunga Judi o te okiokinga",
+        "Te Whare Karaehe Whakaata",
+        "Te Raorao o ngā Pōpokorua",
+        "Te Āaka i hangaia i raro i te whakakitenga",
+        "Te Puna (Ar-Rass)"
+      ],
+      "answer": "Te Puna (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Horomia e te whenua mō te whakapehapeha i te taonga",
+        "I whakaorangia e te Āraka i te waipuke",
+        "I meinga kia moe mō ngā rautau i roto i te ana",
+        "I tukuna te mana whakahaere o te hau me te jinn",
+        "I whakangaromia mō te whakakahore i ngā karere"
+      ],
+      "answer": "I whakangaromia mō te whakakahore i ngā karere"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

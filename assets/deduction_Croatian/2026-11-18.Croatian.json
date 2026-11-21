@@ -1,0 +1,61 @@
+{
+  "title": "Val koji je podijelio krv",
+  "intro": "Zamislite golemu poplavu koja se nadvija nad zemljom, Arku koja stabilno pluta i jednu dušu ostavljenu vani po vlastitom izboru. Vezana krvlju za proroka, a opet odvojena vjerom, ova se figura suočila s posljednjim pozivom da se ukrca dok su vode navirale. Možete li otkriti identitet koji stoji iza odbijanja?",
+  "clues": [
+    "Ja sam potomak jednog od najvećih Allahovih proroka, kućanstvo vjere koje sam odlučio napustiti.",
+    "Živio sam u vrijeme Velikog potopa, kada je nevjerovanje prekrilo zemlju poput vode.",
+    "Odbio sam se ukrcati u Kovčeg s vjernicima kad me otac pozvao.",
+    "Rekao sam da ću potražiti utočište na planini da me zaštiti od vode.",
+    "Rečeno mi je da ništa ne može zaštititi od Allahove odredbe na taj Dan osim milosti.",
+    "Valovi su me preplavili i utopio me, a mom ocu su rekli da nisam iz njegove pravedne obitelji."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Zejd ibn Haritah",
+        "Poslanik Ishak, sin poslanika Ibrahima",
+        "Nevjerujući sin proroka Nuha",
+        "Habil, sin proroka Adema",
+        "Poslanik Ismail, sin poslanika Ibrahima"
+      ],
+      "answer": "Nevjerujući sin proroka Nuha"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Prodan u ropstvo u Egiptu nakon izdaje braće",
+        "Odbijanje ulaska u Arku i traženje utočišta u planini",
+        "Bacanje u plamteću vatru zbog razbijanja idola",
+        "Biti progutan od strane velike ribe nakon što je pobjegao s misije",
+        "Spavanje stoljećima u špilji kako bi se izbjegao progon"
+      ],
+      "answer": "Odbijanje ulaska u Arku i traženje utočišta u planini"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Zrcalna palača od stakla u Sabi",
+        "Drvena škrinja bačena u rijeku",
+        "Visoka planina tražila je utočište od Potopa",
+        "Gorući grm u svetoj dolini",
+        "Kaba izgrađena kao mjesto bogoslužja"
+      ],
+      "answer": "Visoka planina tražila je utočište od Potopa"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Progutala ga zemlja s blagom zbog arogancije",
+        "Dobio kraljevstvo s moći nad vjetrovima i džinima",
+        "Postalo hladno i sigurno dok je vatra postala mir",
+        "Živ uzdignut na nebesa i spašen od raspeća",
+        "Utopljen u potopu i proglašen da nije iz pravedne obitelji"
+      ],
+      "answer": "Utopljen u potopu i proglašen da nije iz pravedne obitelji"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

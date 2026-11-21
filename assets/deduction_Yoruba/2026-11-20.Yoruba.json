@@ -1,0 +1,61 @@
+{
+  "title": "Ìsáré Kọjá Òkun Àìsí Ìdààmú",
+  "intro": "Àwòrán kan dúró lórí pèpéle ọkọ̀ ojú omi kan tí ó kún fún ẹrù bí ìgbì omi ṣe ń rọ́, tí àwọn òṣìṣẹ́ sì ń ṣẹ́ kèké láti mú kí ẹrù náà rọrùn. Ẹnìkan ṣoṣo ń tẹ̀síwájú, ó gba àyànmọ́ kan tí ó dàbí òpin, ṣùgbọ́n kí ibú omi náà di ibi àdúrà àti àtúnbọ̀. Lẹ́yìn ibùsùn ni àwùjọ kan ti kìlọ̀ nípa ìyà tí ń bọ̀, níwájú ni àánú tí a kò retí wà.",
+  "clues": [
+    "Wọ́n rán mi gẹ́gẹ́ bí ìránṣẹ́ sí àwọn ènìyàn tó ju ẹgbẹ̀rún lọ́nà ọgọ́rùn-ún lọ.",
+    "Mo fi awọn eniyan mi silẹ pẹlu ibinu ṣaaju ki n to gba aṣẹ lati lọ.",
+    "Mo wọ ọkọ̀ ojú omi kan tí ó kún fún ẹrù, àwọn òṣìṣẹ́ sì ṣẹ́ kèké láti pinnu ẹni tí wọ́n máa jù sínú omi.",
+    "Wọ́n jù mí sínú òkun, ẹja ńlá kan sì gbé mi mì nígbà tí mo jẹ́ ẹni tí a fẹ̀sùn kàn.",
+    "Mo yin Allah logo ninu okunkun, mo n kede pe ko si ọlọrun miran ayafi Oun ati pe mo ti wa lara awọn alaiṣedeede.",
+    "Wọ́n jù mí sí etíkun tí ó ṣí sílẹ̀, mo ń ṣàìsàn, Ọlọ́run sì mú kí igi ewéko kan hù lórí mi, lẹ́yìn náà àwọn ènìyàn mi gbàgbọ́, wọ́n sì fún mi ní ìgbádùn fún ìgbà díẹ̀."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Mósà",
+        "Wòlíì Húdì",
+        "Wòlíì Nóà",
+        "Wòlíì Lọ́ọ̀tì",
+        "Wòlíì Yunus"
+      ],
+      "answer": "Wòlíì Yunus"
+    },
+    "trial": {
+      "label": "Ìdánwò Wo Ni Mo Dójúkọ?",
+      "options": [
+        "A ju sinu ina ti a ti mu ki o tutu ti o si ni aabo",
+        "Ẹja ńlá gbé e mì lẹ́yìn tí ó sá lọ",
+        "Àwọn arákùnrin owú jù sínú kànga jíjìn kan",
+        "Àìsàn gígùn àti àìlera ló ń bá mi fínra",
+        "A pàṣẹ pé kí a fi ọmọ tí a fẹ́ràn rúbọ"
+      ],
+      "answer": "Ẹja ńlá gbé e mì lẹ́yìn tí ó sá lọ"
+    },
+    "location": {
+      "label": "Kí Ni Ohun Pàtàkì Mi?",
+      "options": [
+        "Àpótí igi lórí omi ìkún omi",
+        "Ihò ààbò kúrò lọ́wọ́ inúnibíni",
+        "Àfonífojì mímọ́ ti Tuwa",
+        "Ẹja ńlá àti ikùn rẹ̀",
+        "Iná tútù tí àwọn abọ̀rìṣà pèsè"
+      ],
+      "answer": "Ẹja ńlá àti ikùn rẹ̀"
+    },
+    "outcome": {
+      "label": "Kí Ni Àbájáde Mi?",
+      "options": [
+        "Mo gbàlà nípasẹ̀ ògo àti àwọn ènìyàn mi gbàgbọ́ a sì dá wọn sí fún ìgbà díẹ̀",
+        "Àwọn ènìyàn mi ni wọ́n sọ di ọ̀bọ nítorí pé wọ́n rú òfin ọjọ́ ìsinmi",
+        "Ilẹ̀ gbé àwọn ènìyàn mi mì nítorí ìgbéraga",
+        "Àwọn ènìyàn mi ni a fi ìró ńlá kan láti ọ̀run gbá mú",
+        "Àwọn ènìyàn mi ni ìkún omi ńlá náà rì sínú omi"
+      ],
+      "answer": "Mo gbàlà nípasẹ̀ ògo àti àwọn ènìyàn mi gbàgbọ́ a sì dá wọn sí fún ìgbà díẹ̀"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

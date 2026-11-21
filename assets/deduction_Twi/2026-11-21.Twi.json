@@ -1,0 +1,61 @@
+{
+  "title": "Nne Ahorow a Ɛwɔ Nsu a Ɛnyɛ Den no Akyi",
+  "intro": "Fa w’adwene bu mpɔtam bi a ɛnyɛ kurow anaa sodifo bi nti na wɔato din, na mmom nsu a ɛyɛ komm a nkwa atwa ho ahyia no din. Nkyekyem kakraa bi pɛ na wɔkae mpɔtam ha yi, a bere nyinaa wɔbobɔ wɔn din wɔ wɔn a wɔpoo akwankyerɛ no ho. Tie bere a wɔrekasa afi sum mu no.",
+  "clues": [
+    "Yɛyɛ mpɔtam bi a wɔabɔ din wɔ Kur’aan mu, nanso yɛn asɛm mũ no nyinaa da so ara yɛ ahintasɛm akata so.",
+    "Wɔka yɛn ho asɛm bere nyinaa ka wɔn a wɔpowee no ho, te sɛ Ad ne Thamudfo no.",
+    "Wɔfrɛ yɛn Ar-Rass Ahokafoɔ, Abura a na yɛn nkwa wɔ ho no.",
+    "Yɛpoo ɔbɔfo a wɔde akwankyerɛ a emu da hɔ kɔmaa yɛn no.",
+    "Wokan yen ka nkurafoa a wopoo asomafoa a Allah asoma won nyinaa no ho.",
+    "Yehyiaa ahunahuna a ɛbaa mu wɔ obiara a ɔpow biribiara a odii yɛn anim no so, ɔsɛe ma yɛn pow."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ahokafoɔ a wɔwɔ Ar-Rass",
+        "Nnipa a Wɔte Madyan",
+        "Wɔn a wɔte Al-Hijr",
+        "Nnipa a wɔwɔ Lut",
+        "Nnipa a wofi Tubba'."
+      ],
+      "answer": "Ahokafoɔ a wɔwɔ Ar-Rass"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Ɔsii abantenten a ɛkorɔn a ɛbɛkɔ soro",
+        "Pow ɔbɔfo a wɔsomaa no no",
+        "Ɔsom sika nantwi ba no wɔ baabi a Musa nni hɔ",
+        "Wɔbɔɔ pɔw sɛ wobekum Yusuf esiane ahoɔyaw nti",
+        "Wɔhwehwɛɛ sɛ wobehu Allah pefee"
+      ],
+      "answer": "Wɔpoo ɔbɔfo a wɔsomaa yɛn no"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Bepɔw Judi a wɔde gye wɔn ahome",
+        "Ahemfie a Wɔde Ahwehwɛ ayɛ a wɔde ahwehwɛ ayɛ",
+        "Nwansena Bon no mu",
+        "Adaka a wosii wɔ adiyisɛm ase no",
+        "Abura no (Ar-Rass) ."
+      ],
+      "answer": "Abura no (Ar-Rass) ."
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Asase amene no esiane ademude ho ahantan nti",
+        "Adaka no gyee no fii nsuyiri no mu",
+        "Wɔyɛɛ no ​​ma ɔdaa ɔbodan bi mu mfehaha pii",
+        "Wɔama mframa ne jinn so tumi",
+        "Wɔsɛee no esiane sɛ wɔpoo abɔfo no nti"
+      ],
+      "answer": "Wɔsɛee no esiane sɛ wɔpoo abɔfo no nti"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Chuyến bay vượt biển khơi bất ổn",
+  "intro": "Hãy tưởng tượng bạn đang đứng trên boong một con tàu quá tải, sóng dữ dội và thủy thủ đoàn phải bốc thăm để giảm bớt trọng tải. Một bóng người đơn độc bước tới, chấp nhận số phận tưởng chừng như là kết thúc, nhưng rồi vực sâu lại trở thành nơi cầu nguyện và trở về. Phía sau là một cộng đồng được cảnh báo về hình phạt sắp tới, phía trước là một lòng thương xót bất ngờ.",
+  "clues": [
+    "Tôi được cử đi làm người đưa tin cho hơn một trăm nghìn người.",
+    "Tôi đã bỏ đi trong giận dữ trước khi nhận được sự cho phép rời đi.",
+    "Tôi lên một con tàu chở đầy hàng và thủy thủ đoàn đã bốc thăm để quyết định ai sẽ bị ném xuống biển.",
+    "Tôi bị ném xuống biển và bị một con cá lớn nuốt chửng trong khi tôi đáng bị khiển trách.",
+    "Tôi đã ca ngợi Allah trong bóng tối, tuyên bố rằng không có vị thần nào ngoài Ngài và rằng tôi đã là một trong những kẻ làm điều ác.",
+    "Tôi bị trôi dạt ra biển khơi, trong tình trạng ốm yếu, và Allah đã khiến một cây bầu mọc lên che phủ tôi, rồi dân tộc tôi tin tưởng và được hưởng hạnh phúc trong một thời gian."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Tiên tri Musa",
+        "Tiên tri Hud",
+        "Tiên tri Nuh",
+        "Tiên tri Lut",
+        "Tiên tri Yunus"
+      ],
+      "answer": "Tiên tri Yunus"
+    },
+    "trial": {
+      "label": "Tôi đã phải đối mặt với thử thách nào?",
+      "options": [
+        "Bị ném vào ngọn lửa đã được làm mát và an toàn",
+        "Bị con cá lớn nuốt chửng sau khi bỏ chạy.",
+        "Bị những người anh em ghen tị ném xuống giếng sâu.",
+        "Mắc bệnh kéo dài và suy giảm sức khỏe.",
+        "Bị ra lệnh phải hi sinh một đứa con yêu quý."
+      ],
+      "answer": "Bị con cá lớn nuốt chửng sau khi bỏ chạy."
+    },
+    "location": {
+      "label": "Yếu tố then chốt của tôi là gì?",
+      "options": [
+        "Con thuyền gỗ trên dòng nước lũ",
+        "Hang động trú ẩn khỏi sự đàn áp",
+        "Thung lũng thiêng Tuwa",
+        "Con cá lớn và cái bụng của nó",
+        "Ngọn lửa mát lạnh do những kẻ thờ thần tượng chuẩn bị."
+      ],
+      "answer": "Con cá lớn và cái bụng của nó"
+    },
+    "outcome": {
+      "label": "Kết quả của tôi là gì?",
+      "options": [
+        "Được cứu rỗi nhờ sự vinh hiển, và dân ta đã tin và được tha thứ trong một thời gian.",
+        "Dân tộc tôi bị biến thành vượn vì tội vi phạm ngày Sa-bát.",
+        "Dân tộc tôi đã bị đất nuốt chửng vì sự kiêu ngạo.",
+        "Dân tộc tôi bị một luồng gió mạnh từ trên trời cuốn đi.",
+        "Dân tộc tôi đã bị chết đuối trong trận đại hồng thủy."
+      ],
+      "answer": "Được cứu rỗi nhờ sự vinh hiển, và dân ta đã tin và được tha thứ trong một thời gian."
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

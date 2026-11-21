@@ -1,0 +1,61 @@
+{
+  "title": "La foi cachée derrière les murs du palais",
+  "intro": "Au cœur d'une cour tyrannique, gangrenée par les complots et l'orgueil, une âme solitaire porte un dangereux secret. Cerné par le pouvoir et les menaces de mort, ce serviteur d'Allah voit un messager se dresser seul contre un empire. Lorsque le silence devient complice, une décision courageuse s'impose : dire la vérité au péril de sa vie.",
+  "clues": [
+    "J'ai vécu au milieu d'un peuple puissant et arrogant qui rejetait les signes d'Allah.",
+    "J'ai dissimulé ma foi pendant un temps, tandis que ceux qui m'entouraient complotaient contre un messager.",
+    "J'ai parlé ouvertement, en disant : Tuez-vous quelqu'un parce qu'il dit : « Mon Seigneur est Allah », alors que des preuves évidentes ont été apportées ?",
+    "J'ai mis en garde mon peuple contre le sort des nations précédentes et contre un Jour d'Appel Mutuel.",
+    "Je leur ai dit que le souverain que j'ai servi n'avait qu'une opinion étriquée, mais que l'au-delà était la véritable demeure.",
+    "J'ai dit : « Ô mon peuple, suivez-moi et je vous guiderai sur le droit chemin », et Allah m'a sauvé du mal de leurs complots."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Abou Lahab",
+        "Qarun",
+        "As-Samiri",
+        "Haman",
+        "Le croyant de la famille du pharaon"
+      ],
+      "answer": "Le croyant de la famille du pharaon"
+    },
+    "trial": {
+      "label": "Qu'ai-je fait ?",
+      "options": [
+        "Des trésors amassés dont les clés pesaient sur les hommes forts",
+        "Il fit construire une tour imposante pour contempler le dieu Moïse",
+        "Puis, sa foi dissimulée, il défendit ouvertement Moïse et avertit mon peuple.",
+        "Il façonna un veau d'or qui mugissait.",
+        "Il a bloqué le chemin du Prophète et s'est moqué de la révélation pour s'enrichir."
+      ],
+      "answer": "Puis, sa foi dissimulée, il défendit ouvertement Moïse et avertit mon peuple."
+    },
+    "location": {
+      "label": "Où mon histoire s'est-elle déroulée ?",
+      "options": [
+        "L'arche sur les eaux du déluge",
+        "La Mosquée sacrée de La Mecque",
+        "Cour du palais du pharaon en Égypte",
+        "La grotte des dormeurs",
+        "La vallée boisée de Madyan"
+      ],
+      "answer": "Cour du palais du pharaon en Égypte"
+    },
+    "outcome": {
+      "label": "Quel a été le résultat ?",
+      "options": [
+        "Je me suis noyé avec l'armée dans la mer divisée",
+        "La terre m'a englouti avec mes trésors",
+        "Un éclair me frappa avec Thamud",
+        "J'ai été transformé en singe pour avoir enfreint le sabbat.",
+        "Allah m'a protégé du mal de leur complot"
+      ],
+      "answer": "Allah m'a protégé du mal de leur complot"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

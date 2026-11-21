@@ -1,0 +1,61 @@
+{
+  "title": "A fé oculta dentro dos muros do palácio",
+  "intro": "No centro de uma corte tirânica repleta de intrigas e orgulho, uma alma solitária guarda um segredo perigoso. Cercado pelo poder e pelas ameaças de morte, este servo de Alá observa um mensageiro enfrentar sozinho um império. Quando o silêncio se torna cumplicidade, uma decisão ousada precisa ser tomada: falar a verdade, mesmo correndo grande risco pessoal.",
+  "clues": [
+    "Eu vivia entre um povo poderoso e arrogante que rejeitava os sinais de Alá.",
+    "Ocultei minha fé por um tempo enquanto aqueles ao meu redor conspiravam contra um mensageiro.",
+    "Falei abertamente, dizendo: Vocês matam alguém só porque essa pessoa diz: \"Meu Senhor é Alá\", mesmo quando existem provas claras disso?",
+    "Alertei meu povo sobre o destino das nações anteriores e sobre um Dia de Chamada Mútua.",
+    "Eu lhes disse que o governante a quem servi demonstrava apenas uma visão limitada, enquanto o Além é o verdadeiro lar.",
+    "Eu disse: Ó meu povo, sigam-me e eu os guiarei pelo caminho certo, e Alá me salvou do mal de suas conspirações."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Abu Lahab",
+        "Qarun",
+        "As-Samiri",
+        "Haman",
+        "O crente da família do faraó"
+      ],
+      "answer": "O crente da família do faraó"
+    },
+    "trial": {
+      "label": "O que eu fiz?",
+      "options": [
+        "Tesouros acumulados cujas chaves sobrecarregavam homens fortes.",
+        "Construíram uma torre imponente para contemplar o deus Moisés.",
+        "A fé oculta então defendeu abertamente Moisés e alertou meu povo.",
+        "Criaram um bezerro de ouro que emitia um mugido.",
+        "Bloquearam o caminho do Profeta e zombaram da revelação por riqueza."
+      ],
+      "answer": "A fé oculta então defendeu abertamente Moisés e alertou meu povo."
+    },
+    "location": {
+      "label": "Onde minha história se desenrolou?",
+      "options": [
+        "A Arca sobre as águas do dilúvio",
+        "A Mesquita Sagrada em Meca",
+        "Corte do Palácio do Faraó no Egito",
+        "A Caverna dos Adormecidos",
+        "O Vale Arborizado de Madyan"
+      ],
+      "answer": "Corte do Palácio do Faraó no Egito"
+    },
+    "outcome": {
+      "label": "Qual foi o meu resultado?",
+      "options": [
+        "Eu me afoguei com o exército no mar dividido.",
+        "A terra me engoliu com meus tesouros.",
+        "Um raio me atingiu com Thamud",
+        "Fui transformado em macaco por violar o sábado.",
+        "Alá me protegeu da maldade do plano deles."
+      ],
+      "answer": "Alá me protegeu da maldade do plano deles."
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

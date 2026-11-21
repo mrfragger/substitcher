@@ -1,0 +1,61 @@
+{
+  "title": "Den skjulte tro inden for paladsets mure",
+  "intro": "Midt i et tyrannisk hof fyldt med komplotter og stolthed gemmer en ensom sjæl på en farlig hemmelighed. Omgivet af magt og dødstrusler ser denne Allahs tjener et sendebud stå alene mod et imperium. Når tavshed bliver til medvirken, må der træffes en dristig beslutning om at tale sandt med stor personlig risiko.",
+  "clues": [
+    "Jeg levede blandt et magtfuldt og arrogant folk, der afviste Allahs tegn.",
+    "Jeg skjulte min tro i en tid, mens de omkring mig planlagde mod et sendebud.",
+    "Jeg udtalte mig åbent og sagde: Dræber man et individ, fordi de siger: \"Min Herre er Allah,\" mens der er kommet klare beviser?",
+    "Jeg advarede mit folk om tidligere nationers skæbne og om en dag med gensidig kaldelse.",
+    "Jeg fortalte dem, at den hersker, jeg tjente, kun udviser snævre meninger, men at det hinsides er det sande hjem.",
+    "Jeg sagde: O mit folk, følg mig, og jeg vil lede jer på den rette vej, og Allah frelste mig fra det onde i deres planer."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Abu Lahab",
+        "Qarun",
+        "As-Samiri",
+        "Haman",
+        "Den troende fra Faraos familie"
+      ],
+      "answer": "Den troende fra Faraos familie"
+    },
+    "trial": {
+      "label": "Hvad gjorde jeg?",
+      "options": [
+        "Samlede skatte hvis nøgler tyngede stærke mænd",
+        "Byggede et højt tårn for at se på Musas gud",
+        "Skjult tro forsvarede derefter åbent Musa og advarede mit folk",
+        "Lavede en guldkalv, der lavede en brølende lyd",
+        "Blokerede profetens vej og hånede åbenbaring for rigdom"
+      ],
+      "answer": "Skjult tro forsvarede derefter åbent Musa og advarede mit folk"
+    },
+    "location": {
+      "label": "Hvor udfoldede min historie sig?",
+      "options": [
+        "Arken på oversvømmelsens vand",
+        "Den hellige moské i Mekka",
+        "Faraos palads i Egypten",
+        "De Sovendes Hule",
+        "Madyans skovklædte dal"
+      ],
+      "answer": "Faraos palads i Egypten"
+    },
+    "outcome": {
+      "label": "Hvad var mit resultat?",
+      "options": [
+        "Jeg druknede med hæren i det delte hav",
+        "Jorden slugte mig med mine skatte",
+        "Et tordenvejr greb mig med Thamud",
+        "Jeg blev forvandlet til en abe for at bryde sabbatten",
+        "Allah beskyttede mig mod det onde i deres plan"
+      ],
+      "answer": "Allah beskyttede mig mod det onde i deres plan"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

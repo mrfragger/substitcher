@@ -1,0 +1,61 @@
+{
+  "title": "La fe oculta dentro de los muros del palacio",
+  "intro": "En el centro de una corte tiránica plagada de intrigas y orgullo, un alma solitaria guarda un peligroso secreto. Rodeado de poder y amenazas de muerte, este siervo de Alá observa cómo un mensajero se enfrenta solo a un imperio. Cuando el silencio se convierte en complicidad, es necesario tomar la valiente decisión de decir la verdad, a pesar del gran riesgo personal.",
+  "clues": [
+    "Viví entre un pueblo poderoso y arrogante que rechazaba las señales de Alá.",
+    "Oculté mi fe durante un tiempo mientras quienes me rodeaban conspiraban contra un mensajero.",
+    "Hablé abiertamente y dije: ¿Acaso se mata a una persona porque dice \"Mi Señor es Alá\", cuando existen pruebas claras de ello?",
+    "Advertí a mi pueblo sobre el destino de naciones anteriores y sobre un Día de Llamamiento Mutuo.",
+    "Les dije que el gobernante al que serví solo muestra una mentalidad estrecha, pero que el Más Allá es el verdadero hogar.",
+    "Dije: ¡Oh, pueblo mío! Seguidme y os guiaré por el camino correcto, y Alá me salvó de la maldad de sus intrigas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Abu Lahab",
+        "Qarun",
+        "As-Samiri",
+        "Hamán",
+        "El creyente de la familia del faraón"
+      ],
+      "answer": "El creyente de la familia del faraón"
+    },
+    "trial": {
+      "label": "¿Qué hice?",
+      "options": [
+        "Tesoros acumulados cuyas llaves pesaban sobre hombres fuertes.",
+        "Construyó una torre elevada para contemplar al dios Musa.",
+        "Fe oculta, luego defendió abiertamente a Musa y advirtió a mi pueblo.",
+        "Fabricó un becerro de oro que emitía un sonido de mugido.",
+        "Bloquearon el camino del Profeta y se burlaron de la revelación por riquezas."
+      ],
+      "answer": "Fe oculta, luego defendió abiertamente a Musa y advirtió a mi pueblo."
+    },
+    "location": {
+      "label": "¿Dónde se desarrolló mi historia?",
+      "options": [
+        "El Arca sobre las aguas del diluvio",
+        "La Mezquita Sagrada de La Meca",
+        "El patio del palacio del faraón en Egipto",
+        "La cueva de los durmientes",
+        "El valle boscoso de Madyan"
+      ],
+      "answer": "El patio del palacio del faraón en Egipto"
+    },
+    "outcome": {
+      "label": "¿Cuál fue mi resultado?",
+      "options": [
+        "Me ahogué con el ejército en el mar dividido.",
+        "La tierra me engulló con mis tesoros.",
+        "Un rayo me alcanzó junto con Thamud.",
+        "Me convirtieron en mono por quebrantar el sábado.",
+        "Alá me protegió de la maldad de su complot."
+      ],
+      "answer": "Alá me protegió de la maldad de su complot."
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

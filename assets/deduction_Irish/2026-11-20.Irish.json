@@ -1,0 +1,61 @@
+{
+  "title": "An Eitilt Trasna na Farraige Gan Suaimhneas",
+  "intro": "Samhlaigh seasamh ar dheic loinge ró-ualaithe agus na tonnta ag borradh agus an criú ag caitheamh crannchur chun an t-ualach a éadromú. Tagann figiúr uaigneach chun tosaigh, ag glacadh le cinniúint a bhfuil cuma dheireadh uirthi, ach ansin bíonn na doimhneachtaí ina n-áit urnaí agus fillte. Taobh thiar de tá pobal a tugadh rabhadh dó faoi phionós atá le teacht, agus trócaire gan choinne romhainn.",
+  "clues": [
+    "Cuireadh mé mar theachtaire chuig breis agus céad míle duine.",
+    "D’fhág mé mo mhuintir i bhfeirg sular fuair mé cead imeacht.",
+    "Chuaigh mé ar bord loinge ualaithe agus chaith an criú crannchur le cinneadh a dhéanamh cé a chaithfí thar bord.",
+    "Caitheadh ​​san fharraige mé agus shlog iasc mór mé agus mé féin incháilithe.",
+    "Ghlóirigh mé Allah sna dorchadais, ag dearbhú nach bhfuil aon dia ann ach É agus gur duine de na drochdhaoine mé.",
+    "Caitheadh ​​​​mé ar an gcladach oscailte, tinn, agus thug Allah planda gourd ag fás orm, ansin chreid mo mhuintir agus tugadh taitneamh dóibh ar feadh tamaill."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "an Fáidh Músa",
+        "Fáidh Hud",
+        "Fáidh Nuh",
+        "Fáidh Lút",
+        "Fáidh Yunus"
+      ],
+      "answer": "Fáidh Yunus"
+    },
+    "trial": {
+      "label": "Cén Triail a Bhí Orm?",
+      "options": [
+        "Caite isteach i dtine atá fionnuar agus sábháilte",
+        "Slogtha ag an iasc mór tar éis teitheadh",
+        "Caitheadh ​​i dtobar domhain ag deartháireacha éadmhara",
+        "Buailte ag tinneas fada agus cailliúint sláinte",
+        "Ordaíodh leanbh grámhar a íobairt"
+      ],
+      "answer": "Slogtha ag an iasc mór tar éis teitheadh"
+    },
+    "location": {
+      "label": "Cad é mo phríomhghné?",
+      "options": [
+        "An Áirc adhmaid ar uiscí na tuile",
+        "Uaimh an tearmainn ó ghéarleanúint",
+        "Gleann naofa Tuwa",
+        "An t-iasc mór agus a bholg",
+        "An tine fhionnuar ullmhaithe ag idoladhróirí"
+      ],
+      "answer": "An t-iasc mór agus a bholg"
+    },
+    "outcome": {
+      "label": "Cad a Bhí Mo Thoradh?",
+      "options": [
+        "Sábháilte trí ghlóiriú agus chreid mo mhuintir agus sábháladh iad ar feadh tamaill",
+        "Rinneadh apaí de mo mhuintir as briseadh na Sabóide",
+        "Slogadh mo mhuintir ag an talamh as uabhar",
+        "Rug pléasc mór ón spéir ar mo mhuintir",
+        "Báthadh mo mhuintir leis an tuile mhór"
+      ],
+      "answer": "Sábháilte trí ghlóiriú agus chreid mo mhuintir agus sábháladh iad ar feadh tamaill"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

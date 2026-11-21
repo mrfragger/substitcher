@@ -1,0 +1,61 @@
+{
+  "title": "Y Lleisiau Wrth y Dyfroedd Tawel",
+  "intro": "Dychmygwch gymuned sydd wedi'i henwi nid ar ôl dinas na llywodraethwr, ond ar ôl y dŵr llonydd yr oedd bywyd yn ymgynnull o'i gwmpas. Dim ond ychydig o adnodau sy'n cofio'r gymuned hon, a restrir bob amser ymhlith y rhai a wrthododd arweiniad. Gwrandewch wrth iddynt siarad o ebargofiant.",
+  "clues": [
+    "Rydym yn gymuned a enwir yn y Quran, ond mae ein stori lawn yn parhau i fod yn gudd mewn dirgelwch.",
+    "Rydym bob amser yn cael ein crybwyll ochr yn ochr â'r rhai a wadodd, fel pobl Ad a Thamud.",
+    "Fe'n gelwir yn Gymdeithion Ar-Rass, y Ffynnon yr oedd ein bywyd wedi'i chlymu wrthi.",
+    "Gwadom y negesydd a anfonwyd atom gyda chanllawiau clir.",
+    "Rydym yn cael ein cyfrif ymhlith y rhai a wrthododd yr holl negeswyr a anfonwyd gan Allah.",
+    "Wynebasom y bygythiad a gyflawnwyd yn erbyn pob gwadwr o'n blaen, dinistr am ein gwrthodiad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Cymdeithion Ar-Rass",
+        "Pobl Madyan",
+        "Preswylwyr Al-Hijr",
+        "Pobl Lut",
+        "Pobl Tubba'"
+      ],
+      "answer": "Cymdeithion Ar-Rass"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Adeiladodd dŵr uchel i gyrraedd y nefoedd",
+        "Gwrthododd y negesydd a anfonwyd atom",
+        "Addolodd y llo aur yn absenoldeb Musa",
+        "Cynllwyniodd i ladd Yusuf allan o genfigen",
+        "Gofynnodd am weld Allah yn agored"
+      ],
+      "answer": "Gwrthododd y negesydd a anfonwyd atom"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Mynydd Judi o orffwys",
+        "Y Palas Drych o wydr",
+        "Dyffryn y Morgrug",
+        "Yr Arch a adeiladwyd o dan ddatguddiad",
+        "Y Ffynnon (Ar-Rass)"
+      ],
+      "answer": "Y Ffynnon (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Wedi'i lyncu gan y ddaear am falchder mewn trysor",
+        "Wedi'i achub gan yr Arch rhag y llifogydd",
+        "Wedi'i wneud i gysgu am ganrifoedd mewn ogof",
+        "Wedi cael rheolaeth dros wynt a jinn",
+        "Wedi'i ddinistrio am wadu'r negeswyr"
+      ],
+      "answer": "Wedi'i ddinistrio am wadu'r negeswyr"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

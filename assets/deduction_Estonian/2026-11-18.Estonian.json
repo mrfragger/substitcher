@@ -1,0 +1,61 @@
+{
+  "title": "Laine, mis jagas verd",
+  "intro": "Kujutage ette tohutut veeuputust, mis tõuseb üle maa, laeva triivib kindlalt ja üks hing on oma valikul välja jäetud. Veresidemetega prohvetiga seotud, kuid usu poolt lahutatud, seisab see tegelane silmitsi viimase kutsega pardale tulla, kui veed tõusevad. Kas suudate paljastada keeldumise taga peituva identiteedi?",
+  "clues": [
+    "Ma olen ühe Allahi suurima prohveti järeltulija, usuperekond, mille ma otsustasin maha jätta.",
+    "Ma elasin suure veeuputuse ajal, kui uskmatus kattis maad nagu vesi.",
+    "Ma keeldusin usklikega koos laevale minemast, kui isa mind hüüdis.",
+    "Ma ütlesin, et otsin varjupaika mäelt, mis kaitseks mind vee eest.",
+    "Mulle öeldi, et miski peale halastuse ei saa sel päeval Allahi otsuse eest kaitsta.",
+    "Lained haarasid mind enda alla ja uppusid ning mu isale öeldi, et ma ei kuulu tema õiglasesse perekonda."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Zayd ibn Harithah",
+        "Prohvet Ishaq, prohvet Ibrahimi poeg",
+        "Prohvet Noa uskmatu poeg",
+        "Habil, prohvet Aadama poeg",
+        "Prohvet Ismail, prohvet Ibrahimi poeg"
+      ],
+      "answer": "Prohvet Noa uskmatu poeg"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Pärast vendade poolt reetmist müüdi Egiptuses orjusse",
+        "Keeldudes laevale astumast ja otsides varjupaika mäest",
+        "Põlevasse tulle heidetakse ebajumalate purustamise pärast",
+        "Pärast missioonilt põgenemist suure kala alla neelamine",
+        "Sajandeid koopas magamine tagakiusamise eest põgenemiseks"
+      ],
+      "answer": "Keeldudes laevale astumast ja otsides varjupaika mäest"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Peegeldatud klaasist palee Sabas",
+        "Jõkke valatud puidust rindkere",
+        "Kõrguv mägi otsis varjupaika veeuputuse eest",
+        "Põlev põõsas pühas orus",
+        "Kaaba ehitati palvemajaks"
+      ],
+      "answer": "Kõrguv mägi otsis varjupaika veeuputuse eest"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Maa neelas alla aarded ülbuse eest",
+        "Anti kuningriik, millel oli võim tuulte ja džinnide üle",
+        "Muutus jahedaks ja turvaliseks, kui tulest sai rahu",
+        "Tõsteti ellu taevasse ja päästeti ristilöömisest",
+        "Uppusid veeuputuses ja kuulutati mitte õigemeelsete hulka"
+      ],
+      "answer": "Uppusid veeuputuses ja kuulutati mitte õigemeelsete hulka"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

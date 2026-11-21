@@ -1,0 +1,61 @@
+{
+  "title": "Aalto, joka jakoi veren",
+  "intro": "Kuvittele valtava tulva nousemassa maan ylle, vakaasti kelluva arkki ja yksi sielu jätettynä ulkopuolelle omasta tahdostaan. Veren kautta profeettaan sidottu, mutta uskon erottama hahmo kohtasi viimeisen kutsun nousta alukseen vesien noustessa. Pystytkö paljastamaan kieltäytymisen takana olevan henkilöllisyyden?",
+  "clues": [
+    "Olen yhden Allahin suurimmista profeetoista jälkeläinen, uskon perheen, jonka päätin jättää.",
+    "Elin suuren vedenpaisumuksen aikaan, jolloin epäusko peitti maan kuin vesi.",
+    "Kieltäydyin nousemasta arkkiin uskovien kanssa, kun isäni huusi minulle.",
+    "Sanoin etsiväni turvaa vuorelta suojellakseni itseäni vedeltä.",
+    "Minulle kerrottiin, ettei mikään voisi suojella Allahin päätökseltä sinä päivänä paitsi armo.",
+    "Aallot veivät minut ylleni ja hukkuivat, ja isälleni kerrottiin, etten kuulunut hänen vanhurskaaseen perheeseensä."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Zayd ibn Harithah",
+        "Profeetta Ishaq, profeetta Ibrahimin poika",
+        "Profeetta Nooan epäuskoinen poika",
+        "Habil, profeetta Aadamin poika",
+        "Profeetta Ismail, profeetta Ibrahimin poika"
+      ],
+      "answer": "Profeetta Nooan epäuskoinen poika"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Myydään orjaksi Egyptissä veljien pettämänä",
+        "Kieltäytyi nousemasta arkkiin ja etsi vuorta turvakseen",
+        "Heitetään liekehtivään tuleen epäjumalien murskaamisen vuoksi",
+        "Joutua suuren kalan nielaistavaksi paettuaan tehtävältä",
+        "Nukkui vuosisatoja luolassa paetakseen vainoa"
+      ],
+      "answer": "Kieltäytyi nousemasta arkkiin ja etsi vuorta turvakseen"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Peilattu lasipalatsi Sabassa",
+        "Puinen arkku valettu jokeen",
+        "Kohoava vuori etsi turvaa vedenpaisumukselta",
+        "Palava pensas pyhässä laaksossa",
+        "Kaaba rakennettiin palvontapaikaksi"
+      ],
+      "answer": "Kohoava vuori etsi turvaa vedenpaisumukselta"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Maan nielaisema aarteineen ylimielisyyden vuoksi",
+        "Myönsi valtakunnan, jolla oli valta tuuliin ja džinneihin",
+        "Tehtiin viileäksi ja turvalliseksi, kun tuli muuttui rauhaksi",
+        "Herätettiin elävältä taivaisiin ja pelastettiin ristiinnaulitsemiselta",
+        "Hukkuivat vedenpaisumukseen ja julistettiin vanhurskaan perheen ulkopuolisiksi"
+      ],
+      "answer": "Hukkuivat vedenpaisumukseen ja julistettiin vanhurskaan perheen ulkopuolisiksi"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

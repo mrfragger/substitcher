@@ -1,0 +1,61 @@
+{
+  "title": "Paslėptas tikėjimas rūmų sienose",
+  "intro": "Tironiško teismo, pilno sąmokslų ir išdidumo, centre vieniša siela saugo pavojingą paslaptį. Apsupta galios ir mirties grasinimų, ši Alacho tarnaitė stebi, kaip pasiuntinys vienas stoja prieš imperiją. Kai tyla tampa bendrininkavimu, reikia drąsiai nuspręsti kalbėti tiesą, rizikuojant didele asmenine rizika.",
+  "clues": [
+    "Gyvenau tarp galingų ir arogantiškų žmonių, kurie atmetė Alacho ženklus.",
+    "Kurį laiką slėpiau savo tikėjimą, kol aplinkiniai rezgė sąmokslą prieš pasiuntinį.",
+    "Aš atvirai kalbėjau, sakydamas: „Ar jūs žudote žmogų, nes jis sako: „Mano Viešpats yra Alachas“, nors atėjo aiškūs įrodymai?“",
+    "Aš perspėjau savo žmones apie ankstesnių tautų likimą ir apie Abipusio Pašaukimo dieną.",
+    "Pasakiau jiems, kad valdovas, kuriam tarnavau, demonstruoja tik siaurą nuomonę, tačiau Pomirtinis Gyvenimas yra tikrieji namai.",
+    "Aš tariau: „O mano žmonės, sekite paskui mane, ir aš jus vesiu teisingu keliu.“ Alachas išgelbėjo mane nuo jų piktų kėslų."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Abu Lahabas",
+        "Qarun",
+        "As-Samiri",
+        "Hamanas",
+        "Tikintis iš faraono šeimos"
+      ],
+      "answer": "Tikintis iš faraono šeimos"
+    },
+    "trial": {
+      "label": "Ką aš padariau?",
+      "options": [
+        "Sukaupė lobius, kurių raktai slegia stiprius vyrus",
+        "Pastatė aukštą bokštą, kad galėtų pažvelgti į Mozės dievą",
+        "Paslėptas tikėjimas tada atvirai gynė Mozę ir perspėjo mano žmones",
+        "Nulipdė auksinį veršį, kuris skleidė miaukiantį garsą",
+        "Užblokavo Pranašo kelią ir išjuokė apreiškimą dėl turtų"
+      ],
+      "answer": "Paslėptas tikėjimas tada atvirai gynė Mozę ir perspėjo mano žmones"
+    },
+    "location": {
+      "label": "Kur klostėsi mano istorija?",
+      "options": [
+        "Arka ant tvano vandenų",
+        "Šventoji mečetė Mekoje",
+        "Faraono rūmų teismas Egipte",
+        "Miegančiųjų urvas",
+        "Miškingas Madjano slėnis"
+      ],
+      "answer": "Faraono rūmų teismas Egipte"
+    },
+    "outcome": {
+      "label": "Koks buvo mano rezultatas?",
+      "options": [
+        "Kartu su armija nuskendau perskirtoje jūroje",
+        "Žemė prarijo mane su mano lobiais",
+        "Mane su Tamudu užklupo žaibas",
+        "Buvau paverstas beždžione už tai, kad sulaužiau šabą",
+        "Alachas apsaugojo mane nuo jų sąmokslo blogio"
+      ],
+      "answer": "Alachas apsaugojo mane nuo jų sąmokslo blogio"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

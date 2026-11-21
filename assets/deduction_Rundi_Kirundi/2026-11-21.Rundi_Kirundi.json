@@ -1,0 +1,61 @@
+{
+  "title": "Amajwi ari iruhande y'amazi atekanye",
+  "intro": "Iyumvire umuryango utavuzwe kubera igisagara canke umutware, ahubwo wari uzwi kubera amazi atagiramwo ubuzima yari akikuje. Imirongo mikeyi gusa ni yo yibuka uwo mugwi, wama uri ku rutonde rw’abanka ubuyobozi. Umviriza uko bavuga bari mu mwijima.",
+  "clues": [
+    "Turi umuryango witwa muri Korowani, yamara inkuru yacu yose iguma itwikiriwe n’akabanga.",
+    "Twama tuvugwa iruhande y’abahakana, nk’abantu ba Ad na Thamud.",
+    "Twitwa Abagenzi ba Ar-Rass, Iriba ubuzima bwacu bwabosheko.",
+    "Twarahakanye intumwa yaturungikiwe ifise ubuyobozi butomoye.",
+    "Turaharurwa mu banse intumwa zose zarungitswe na Allah.",
+    "Twarahanganye n’iterabwoba ryarangutse ku muhakana wese yari imbere yacu, ugutikizwa kubera ukwanka kwacu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Abagenzi ba Ar-Rass",
+        "Abantu bo muri Madiyani",
+        "Abatuye muri Al-Hijr",
+        "Abantu ba Luti .",
+        "Abantu b’i Tubba’."
+      ],
+      "answer": "Abagenzi ba Ar-Rass"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Yubatse umunara muremure kugira ngo ashike mw’ijuru .",
+        "Yahakanye intumwa yaturungikiye .",
+        "Yasenga inyana y'inzahabu Musa atahari .",
+        "Bateguye kwica Yusufu kubera ishari",
+        "Yasavye kubona Allah ku mugaragaro"
+      ],
+      "answer": "Yahakanye intumwa yaturungikiye ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Umusozi Judi w'ikiruhuko",
+        "Ingoro y'Indorerwamo y'ibirahuri",
+        "Ikiyaya c'ibimonyo",
+        "Ubwato bubatswe mu gihe c'ivyahishuriwe .",
+        "Iriba (Ari-Rasi)"
+      ],
+      "answer": "Iriba (Ari-Rasi)"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Yamizwe n'isi kubera ubwibone bw'ubutunzi",
+        "Yakijijwe n'Ubwato mu mwuzure .",
+        "Yakozwe kugira ngo asinzire ibinjana n'ibindi mu mwobo",
+        "Yemerewe kugenzura umuyaga n'amajini",
+        "Baratikijwe kubera guhakana intumwa ."
+      ],
+      "answer": "Baratikijwe kubera guhakana intumwa ."
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Imani Iliyofichwa Ndani ya Kuta za Ikulu",
+  "intro": "Katikati ya mahakama ya kidhalimu iliyojaa njama na kiburi, roho moja ina siri hatari. Akizungukwa na nguvu na vitisho vya kifo, mtumishi huyu wa Mwenyezi Mungu anamtazama mjumbe akisimama peke yake dhidi ya himaya. Ukimya unapokuwa ushirikiano, uamuzi wa ujasiri lazima ufanywe ili kusema ukweli kwa hatari kubwa ya kibinafsi.",
+  "clues": [
+    "Niliishi miongoni mwa watu wenye nguvu na majivuno waliokataa ishara za Mwenyezi Mungu.",
+    "Nilificha imani yangu kwa muda huku wale walionizunguka wakipanga njama dhidi ya mjumbe.",
+    "Nilisema waziwazi, nikisema: Je, unamuua mtu kwa sababu wanasema, Mola wangu ni Mwenyezi Mungu, na hali hoja zilizo wazi zimekuja?",
+    "Niliwaonya watu wangu kuhusu hatima ya mataifa ya awali na kuhusu Siku ya Wito wa Pamoja.",
+    "Niliwaambia kwamba mtawala niliyemtumikia anaonyesha mawazo finyu tu, lakini Akhera ndiyo nyumba ya kweli.",
+    "Nikasema: Enyi watu wangu, nifuateni nami nitawaongoza kwenye njia iliyonyooka, na Mwenyezi Mungu akaniokoa na uovu wa njama zao."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Abu Lahab",
+        "Qarun",
+        "As-Samiri",
+        "Hamani",
+        "Muumini kutoka Familia ya Farao"
+      ],
+      "answer": "Muumini kutoka Familia ya Farao"
+    },
+    "trial": {
+      "label": "Nilifanya Nini?",
+      "options": [
+        "Kukusanya hazina ambazo funguo zake ziliwalemea wanaume wenye nguvu",
+        "Alijenga mnara mrefu ili kumtazama mungu wa Musa",
+        "Imani iliyofichwa kisha ikamtetea Musa waziwazi na kuwaonya watu wangu",
+        "Alitengeneza ndama wa dhahabu aliyetoa sauti ya mlio",
+        "Alizuia njia ya Mtume na kudhihaki ufunuo kwa ajili ya utajiri"
+      ],
+      "answer": "Imani iliyofichwa kisha ikamtetea Musa waziwazi na kuwaonya watu wangu"
+    },
+    "location": {
+      "label": "Hadithi Yangu Ilifunguka Wapi?",
+      "options": [
+        "Sanduku juu ya maji ya gharika",
+        "Msikiti Mtakatifu huko Makka",
+        "Baraza la Ikulu la Farao huko Misri",
+        "Pango la Waliolala",
+        "Bonde la Misitu la Madyan"
+      ],
+      "answer": "Baraza la Ikulu la Farao huko Misri"
+    },
+    "outcome": {
+      "label": "Matokeo Yangu Yalikuwa Yapi?",
+      "options": [
+        "Nilizama pamoja na jeshi katika bahari iliyogawanyika",
+        "Dunia ilinimeza na hazina zangu",
+        "Mngurumo ulinishika pamoja na Thamud",
+        "Niligeuzwa kuwa nyani kwa kuvunja Sabato",
+        "Mwenyezi Mungu alinilinda kutokana na uovu wa njama zao"
+      ],
+      "answer": "Mwenyezi Mungu alinilinda kutokana na uovu wa njama zao"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Lekhubu le le Kgaogantseng Madi",
+  "intro": "Akanya ka morwalela o mogolo o o tlhatlogang mo godimo ga lefatshe, Areka e kokobala e tlhomame, le moya o le mongwe o o tlogetsweng kwa ntle ka ntlha ya go itlhophela. E re ka motho yono a ne a bofilwe ka madi le moporofeti mme gone a kgaogantswe ke tumelo, o ne a lebana le pitso ya bofelo ya gore a tsene mo sekepeng fa metsi a ntse a tlhatloga. A o ka ribolola gore ke mang yo o dirileng gore a gane?",
+  "clues": [
+    "Ke bana ba mongwe wa baporofeti ba bagolo ba ga Allah, lelapa la tumelo le ke neng ka tlhopha go le tlogela.",
+    "Ke ne ke tshela mo nakong ya Morwalela o Mogolo, fa go sa dumele go ne go apesa lefatshe jaaka metsi.",
+    "Ke ne ka gana go palama Areka le badumedi fa rre a ne a mpitsa.",
+    "Ke ne ka re ke tla batla botshabelo mo thabeng gore e ntshireletse mo metsing.",
+    "Ke ne ka bolelelwa gore ga go sepe se se ka sireletsang mo taolong ya ga Allah ka Letsatsi leo fa e se kutlwelobotlhoko.",
+    "Ke ne ka tsenngwa ke makhubu mme ka nwela, mme rre o ne a bolelelwa gore ga ke wa lelapa la gagwe le le siameng."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Zayd ibn Haritha",
+        "Moporofeti Ishaq, Morwa wa Moporofeti Ibrahim",
+        "Morwa yo o sa dumeleng wa ga Moporofeti Nuh",
+        "Habil, Morwa wa ga Moporofeti Adame",
+        "Moporofeti Ismail, Morwa Moporofeti Ibrahim"
+      ],
+      "answer": "Morwa yo o sa Dumeleng wa ga Moporofeti Nuh"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go rekisiwa go nna lekgoba kwa Egepeto morago ga go oka ke bakaulengwe",
+        "Go gana go palama Areka le go batla thaba go nna botshabelo",
+        "Go latlhelwa mo molelong o o tukang ka ntlha ya go thuba medingwana",
+        "Go mediwa ke tlhapi e kgolo morago ga go tshaba thomo",
+        "Go robala makgolokgolo a dingwaga mo logageng gore o se ka wa bogisiwa"
+      ],
+      "answer": "Go gana go palama Areka le go batla thaba go nna botshabelo"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Ntlo ya segosi ya galase e e nang le seipone kwa Saba",
+        "Letlole la logong le le latlhetsweng mo nokeng",
+        "Thaba e e kwa godimo e ne ya batla botshabelo mo Morwaleleng",
+        "Setlhatshana se se tukang mo mokgatšheng o o boitshepo",
+        "Kaaba e agilwe jaaka ntlo ya kobamelo"
+      ],
+      "answer": "Thaba e e kwa godimo e ne ya batla botshabelo mo Morwaleleng"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "A mediwa ke lefatshe ka matlotlo a boikgogomoso",
+        "Go newa bogosi jo bo nang le maatla mo diphefong le mo dijinn",
+        "E dirilwe tsidifatso le pabalesego jaaka molelo o fetogile kagiso",
+        "Go tsosiwa a tshela kwa magodimong mme a bolokwa mo go bapolweng",
+        "O ne a nwela mo Morwaleleng mme a bolelwa e se wa lelapa la tshiamo"
+      ],
+      "answer": "O ne a nwela mo Morwaleleng mme a bolelwa e se wa lelapa la tshiamo"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

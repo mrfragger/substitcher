@@ -1,0 +1,61 @@
+{
+  "title": "Sakit Suların Kənarındakı Səslər",
+  "intro": "Bir şəhərin və ya hökmdarın adı ilə deyil, həyatın toplaşdığı sakit suyun adı ilə adlandırılan bir icma təsəvvür edin. Yalnız bir neçə ayədə bu icma xatırlanır və həmişə rəhbərliyi rədd edənlər arasında qeyd olunur. Onların qaranlıqdan danışdıqlarını dinləyin.",
+  "clues": [
+    "Biz Quranda adı çəkilən bir ümmətik, amma bütün hekayəmiz sirr içində qalır.",
+    "Biz həmişə Ad və Səmud qövmü kimi inkar edənlərlə yanaşı xatırlanırıq.",
+    "Bizə Ər-Rass Əshabı, həyatımızın bağlı olduğu Quyu deyilir.",
+    "Bizə açıq-aydın rəhbər gətirən elçini təkzib etdik.",
+    "Biz Allahın göndərdiyi bütün elçiləri inkar edənlərdən sayılırıq.",
+    "Biz qarşımızdakı hər bir inkarçıya qarşı yerinə yetirilən təhdidlə, rədd etdiyimiz üçün məhvlə qarşılaşdıq."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Ər-Rass səhabələri",
+        "Mədyən xalqı",
+        "Əl-Hijr sakinləri",
+        "Lut qövmü",
+        "Tubba xalqı"
+      ],
+      "answer": "Ər-Rass səhabələri"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Göylərə çatmaq üçün uca bir qüllə tikdi",
+        "Bizə göndərilən elçini təkzib etdi",
+        "Musanın yoxluğunda qızıl buzova ibadət etdi",
+        "Yusifi paxıllıqdan öldürmək üçün sui-qəsd hazırladılar",
+        "Allahı açıq şəkildə görmək tələb edildi"
+      ],
+      "answer": "Bizə göndərilən elçini təkzib etdi"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Cudi dağının dincəlməsi",
+        "Güzgülü şüşə sarayı",
+        "Qarışqalar Vadisi",
+        "Vəhy altında tikilmiş gəmi",
+        "Ər-Rass (Quyu)"
+      ],
+      "answer": "Ər-Rass (Quyu)"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Xəzinə ilə qürur duyduğu üçün yer tərəfindən udulmuş",
+        "Gəmi tərəfindən daşqından xilas edildi",
+        "Əsrlər boyu mağarada yatmağa məhkum edilib",
+        "Külək və cinlərə nəzarət etmək hüququ verildi",
+        "Elçiləri inkar etdiyinə görə məhv edildi"
+      ],
+      "answer": "Elçiləri inkar etdiyinə görə məhv edildi"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

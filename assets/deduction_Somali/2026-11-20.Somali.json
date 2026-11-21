@@ -1,0 +1,61 @@
+{
+  "title": "Duulimaadkii Badda ee aan Xasilloonayn",
+  "intro": "Sawir taagan sagxad markab xamuul ah oo buux dhaafiyay iyadoo mawjadu ay kor u kacayso shaqaaluhuna ay tuurayaan saami si ay u fududeeyaan culayska. Qof keligiis ah ayaa hore u socda, isagoo aqbalaya qaddar u eg dhammaadka, kaliya si qoto dheerku u noqdo meel lagu tukado oo loo soo laabto. Gadaasha beenta waxaa ka jira bulsho ka digtay ciqaabta soo socota, horta waxaa ku jira naxariis lama filaan ah.",
+  "clues": [
+    "Waxaa la ii soo diray farriin ahaan in ka badan boqol kun oo qof.",
+    "Waxaan dadkayga ka tagay caro ka hor intaanan helin ogolaansho aan ku baxo.",
+    "Waxaan raacay markab xamuul ah, shaqaalihiina waxay tuureen saami si ay u go'aamiyaan cidda lagu tuuri doono doonta.",
+    "Waxaa laygu tuuray badda waxaana liqay kalluun weyn anigoo eedaysan.",
+    "Waxaan Ilaahay ku ammaanay mugdiga dhexdiisa, anigoo ku dhawaaqaya in uusan jirin Ilaah aan isaga ahayn iyo inaan ka mid ahaa daalimiinta.",
+    "Waxaa laygu tuuray xeebta furan, anigoo xanuunsanaya, Allena wuxuu igu amray in geed gourd ah uu korkeyga ka baxo, markaas ayay dadkaygu rumaysteen waxaana la siiyay raaxo muddo ah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Muuse",
+        "Nabi Huud",
+        "Nabi Nuux",
+        "Nabi Luut",
+        "Nabi Yuunis"
+      ],
+      "answer": "Nabi Yuunis"
+    },
+    "trial": {
+      "label": "Maxkamad noocee ah ayaan la kulmay?",
+      "options": [
+        "Dab lagu tuuray meel qabow oo ammaan ah",
+        "Kalluunkii weynaa ayaa liqay ka dib markii uu cararay",
+        "walaalo xaasid ah ayaa ceel qoto dheer ku tuuray",
+        "Xanuun dheer iyo caafimaad la'aan ayaa ku dhacay",
+        "Waxaa la faray in la allabaryo ilmo la jecel yahay"
+      ],
+      "answer": "Kalluunkii weynaa ayaa liqay ka dib markii uu cararay"
+    },
+    "location": {
+      "label": "Waa maxay Qaybtayda Muhiimka ah?",
+      "options": [
+        "Doontii alwaaxa ahayd ee biyaha daadadka dul saarnayd",
+        "Godka magangalyada laga helo cadaadiska",
+        "Dooxada barakeysan ee Tuwa",
+        "Kalluunka weyn iyo calooshiisa",
+        "Dabka qabow ee ay diyaariyeen kuwa caabuda cibaadada"
+      ],
+      "answer": "Kalluunka weyn iyo calooshiisa"
+    },
+    "outcome": {
+      "label": "Maxay ahayd natiijadaydii?",
+      "options": [
+        "Waxaa badbaadiyay ammaanta dadkayguna way rumaysteen oo muddo ayaa la badbaadiyay",
+        "Dadkaygii waxaa loo rogay daanyeer markii ay jebiyeen Sabtida.",
+        "Dadkaygii waxaa dhulka liqay kibir dartiis",
+        "Dadkaygii waxaa qabsaday qarax xooggan oo cirka ka yimid",
+        "Dadkaygii waxaa qarqiyay daad weyn oo ku dhuftay"
+      ],
+      "answer": "Waxaa badbaadiyay ammaanta dadkayguna way rumaysteen oo muddo ayaa la badbaadiyay"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

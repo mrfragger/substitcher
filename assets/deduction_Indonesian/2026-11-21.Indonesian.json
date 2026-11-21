@@ -1,0 +1,61 @@
+{
+  "title": "Suara-Suara di Tepi Air yang Tenang",
+  "intro": "Bayangkan sebuah komunitas yang namanya bukan diambil dari nama kota atau penguasa, melainkan dari air yang tenang di sekitarnya tempat kehidupan berkumpul. Hanya beberapa ayat yang mengingat komunitas ini, yang selalu tercantum di antara mereka yang menolak bimbingan. Dengarkanlah saat mereka berbicara dari ketidakjelasan.",
+  "clues": [
+    "Kami adalah komunitas yang disebut dalam Al-Quran, namun kisah lengkap kami masih diselimuti misteri.",
+    "Kita selalu disebut-sebut bersama mereka yang mengingkari, seperti kaum Ad dan Tsamud.",
+    "Kami disebut Sahabat Ar-Rass, Sumur tempat hidup kami terikat.",
+    "Kita telah mengingkari utusan yang diutus kepada kita dengan petunjuk yang jelas.",
+    "Kami termasuk golongan orang-orang yang menolak semua utusan yang diutus oleh Allah.",
+    "Kami menghadapi ancaman yang terwujud terhadap setiap penyangkal sebelum kami, kehancuran karena penolakan kami."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Para Sahabat Ar-Rass",
+        "Penduduk Madyan",
+        "Para Penghuni Al-Hijr",
+        "Orang-orang Lut",
+        "Penduduk Tubba"
+      ],
+      "answer": "Para Sahabat Ar-Rass"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Membangun menara tinggi untuk mencapai langit",
+        "Utusan yang dikirim kepada kami ditolak.",
+        "Menyembah patung anak lembu emas saat Musa tidak ada.",
+        "Berkomplot untuk membunuh Yusuf karena iri hati.",
+        "Menuntut untuk melihat Allah secara langsung"
+      ],
+      "answer": "Utusan yang dikirim kepada kami ditolak."
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Gunung Judi tempat beristirahat",
+        "Istana Cermin dari kaca",
+        "Lembah Semut",
+        "Bahtera dibangun berdasarkan wahyu",
+        "Sumur (Ar-Rass)"
+      ],
+      "answer": "Sumur (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Ditelan bumi karena kesombongan akan harta benda",
+        "Diselamatkan dari banjir oleh Bahtera.",
+        "Terpaksa tidur selama berabad-abad di dalam gua",
+        "Diberi kendali atas angin dan jin.",
+        "Dihancurkan karena mengingkari para utusan"
+      ],
+      "answer": "Dihancurkan karena mengingkari para utusan"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

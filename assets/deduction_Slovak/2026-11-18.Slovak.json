@@ -1,0 +1,61 @@
+{
+  "title": "Vlna, ktorá rozdelila krv",
+  "intro": "Predstavte si obrovskú potopu stúpajúcu nad zemou, Archu plávajúcu pevne na lodi a jednu dušu, ktorá zostala vonku z vlastnej vôle. Táto postava, spútaná krvou s prorokom, no oddelená vierou, čelila poslednému volaniu nastúpiť na palubu, keď sa vody rozbúrili. Dokážete odhaliť identitu, ktorá sa skrýva za odmietnutím?",
+  "clues": [
+    "Som potomkom jedného z najväčších Alahových prorokov, rodiny viery, ktorú som sa rozhodol opustiť.",
+    "Žil som v čase Veľkej potopy, keď nevera pokrývala zem ako voda.",
+    "Odmietol som nastúpiť do Archy s veriacimi, keď na mňa zavolal otec.",
+    "Povedal som, že vyhľadám útočisko na hore, ktorá ma ochráni pred vodou.",
+    "Bolo mi povedané, že v onen deň nič neochráni pred Alahovým rozhodnutím okrem milosrdenstva.",
+    "Zaplavili ma vlny a utopil som sa a môjmu otcovi povedali, že nepochádzam z jeho spravodlivej rodiny."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Zajd ibn Haríta",
+        "Prorok Ishák, syn proroka Ibrahima",
+        "Neveriaci syn proroka Nuha",
+        "Habil, syn proroka Adama",
+        "Prorok Ismail, syn proroka Ibrahima"
+      ],
+      "answer": "Neveriaci syn proroka Nuha"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Predaný do otroctva v Egypte po zrade bratmi",
+        "Odmietnutie nastúpiť na Archu a hľadanie útočiska v hore",
+        "Byť hodený do planúceho ohňa za rozbíjanie modiel",
+        "Po úteku z misie ho prehltla veľká ryba.",
+        "Spanie po stáročia v jaskyni, aby sa vyhli prenasledovaniu"
+      ],
+      "answer": "Odmietnutie nastúpiť na Archu a hľadanie útočiska v hore"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Zrkadlový sklenený palác v Sabe",
+        "Drevená truhlica hodená do rieky",
+        "Tyčiaca sa hora hľadala útočisko pred potopou",
+        "Horiaci ker v posvätnom údolí",
+        "Kaaba postavená ako modlitebňa"
+      ],
+      "answer": "Tyčiaca sa hora hľadala útočisko pred potopou"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Pohltený zemou s pokladmi pre aroganciu",
+        "Udelené kráľovstvo s mocou nad vetrami a džinmi",
+        "Chladné a bezpečné, keď sa oheň stal mierom",
+        "Vznesený zaživa do nebies a zachránený pred ukrižovaním",
+        "Utopený v potope a vyhlásený za nie spravodlivého rodu"
+      ],
+      "answer": "Utopený v potope a vyhlásený za nie spravodlivého rodu"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

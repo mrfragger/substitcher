@@ -1,0 +1,61 @@
+{
+  "title": "The Flight Across the Restless Sea",
+  "intro": "Picture standing on the deck of an overloaded vessel as the waves surge and the crew casts lots to lighten the load. A lone figure steps forward, accepting a fate that seems like the end, only for the depths to become a place of prayer and return. Behind lies a community warned of coming punishment, ahead lies an unexpected mercy.",
+  "clues": [
+    "I was sent as a messenger to more than a hundred thousand people.",
+    "I left my people in anger before receiving permission to leave.",
+    "I boarded a laden ship and the crew cast lots to decide who would be thrown overboard.",
+    "I was cast into the sea and swallowed by a great fish while I was blameworthy.",
+    "I glorified Allah in the darknesses, declaring there is no deity but Him and that I had been of the wrongdoers.",
+    "I was cast onto the open shore, sick, and Allah caused a gourd plant to grow over me, then my people believed and were granted enjoyment for a time."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Prophet Musa",
+        "Prophet Hud",
+        "Prophet Nuh",
+        "Prophet Lut",
+        "Prophet Yunus"
+      ],
+      "answer": "Prophet Yunus"
+    },
+    "trial": {
+      "label": "What Trial Did I Face?",
+      "options": [
+        "Thrown into a fire made cool and safe",
+        "Swallowed by the great fish after fleeing",
+        "Cast into a deep well by jealous brothers",
+        "Struck with long illness and loss of health",
+        "Commanded to sacrifice a beloved child"
+      ],
+      "answer": "Swallowed by the great fish after fleeing"
+    },
+    "location": {
+      "label": "What Is My Key Element?",
+      "options": [
+        "The wooden Ark on the flood waters",
+        "The cave of refuge from persecution",
+        "The sacred valley of Tuwa",
+        "The great fish and its belly",
+        "The cool fire prepared by idolaters"
+      ],
+      "answer": "The great fish and its belly"
+    },
+    "outcome": {
+      "label": "What Was My Outcome?",
+      "options": [
+        "Saved by glorification and my people believed and were spared for a time",
+        "My people were turned into apes for breaking the Sabbath",
+        "My people were swallowed by the earth for arrogance",
+        "My people were seized by a mighty blast from the sky",
+        "My people were drowned by the great flood"
+      ],
+      "answer": "Saved by glorification and my people believed and were spared for a time"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

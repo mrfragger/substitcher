@@ -1,0 +1,61 @@
+{
+  "title": "Polet čez nemirno morje",
+  "intro": "Predstavljajte si, kako stojite na palubi preobremenjene ladje, medtem ko valovi naraščajo in posadka meče žreb, da bi olajšala breme. Osamljena postava stopi naprej in sprejme usodo, ki se zdi kot konec, le da globine postanejo kraj molitve in vrnitve. Za njimi se skriva skupnost, opozorjena na prihajajočo kazen, pred nami pa nepričakovano usmiljenje.",
+  "clues": [
+    "Poslan sem bil kot sel več kot sto tisoč ljudem.",
+    "Svoje ljudi sem zapustil v jezi, še preden sem dobil dovoljenje za odhod.",
+    "Vkrcal sem se na naloženo ladjo in posadka je žrebala, da bi se odločila, koga bodo vrgli čez krov.",
+    "Vrgli so me v morje in pogoltnila me je velika riba, medtem ko sem bil kriv.",
+    "V temi sem slavil Alaha in razglašal, da ni drugega božanstva razen Njega in da sem bil med krivičniki.",
+    "Bolnega so me vrgli na odprto obalo in Allah je povzročil, da je na meni zrasla buča, nato pa je moje ljudstvo verjelo in jim je bilo za nekaj časa dana radost."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Musa",
+        "Prerok Hud",
+        "Prerok Nuh",
+        "Prerok Lut",
+        "Prerok Junus"
+      ],
+      "answer": "Prerok Junus"
+    },
+    "trial": {
+      "label": "S kakšno preizkušnjo sem se soočil?",
+      "options": [
+        "Vržen v ogenj, ohlajen in varen",
+        "Po begu jih je pogoltnila velika riba",
+        "Vrgli so ga v globok vodnjak ljubosumni bratje",
+        "Prizadela ga je dolga bolezen in izguba zdravja",
+        "Ukazano žrtvovati ljubljenega otroka"
+      ],
+      "answer": "Po begu jih je pogoltnila velika riba"
+    },
+    "location": {
+      "label": "Kaj je moj ključni element?",
+      "options": [
+        "Lesena barka na potopnih vodah",
+        "Jama zatočišča pred preganjanjem",
+        "Sveta dolina Tuwa",
+        "Velika riba in njen trebuh",
+        "Hladen ogenj, ki so ga pripravili malikovalci"
+      ],
+      "answer": "Velika riba in njen trebuh"
+    },
+    "outcome": {
+      "label": "Kakšen je bil moj izid?",
+      "options": [
+        "Rešen s poveličanjem in moje ljudstvo je verjelo in bilo za nekaj časa rešeno",
+        "Moje ljudstvo se je spremenilo v opice, ker je kršilo soboto.",
+        "Moje ljudstvo je pogoltnila zemlja zaradi arogance",
+        "Moje ljudstvo je zajel močan sunek z neba",
+        "Moje ljudstvo je utopila velika poplava"
+      ],
+      "answer": "Rešen s poveličanjem in moje ljudstvo je verjelo in bilo za nekaj časa rešeno"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

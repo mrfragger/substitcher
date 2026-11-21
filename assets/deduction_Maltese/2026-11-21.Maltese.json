@@ -1,0 +1,61 @@
+{
+  "title": "Il-Vuċijiet Ħdejn l-Ilmijiet Kwieti",
+  "intro": "Immaġina komunità msemmija mhux għal belt jew ħakkiem, iżda għall-ilma kwiet li madwaru nġabret il-ħajja. Ftit versi biss jiftakru din il-komunità, dejjem elenkata fost dawk li ċaħdu l-gwida. Isma’ hekk kif jitkellmu mill-oskurità.",
+  "clues": [
+    "Aħna komunità msemmija fil-Koran, iżda l-istorja sħiħa tagħna tibqa' moħbija fil-misteru.",
+    "Aħna dejjem nissemmew flimkien ma’ dawk li ċaħdu, bħan-nies ta’ Ad u Thamud.",
+    "Aħna msejħin il-Kumpanji ta' Ar-Rass, il-Bir li miegħu kienet marbuta ħajjitna.",
+    "Ċħadna l-messaġġier li ntbagħat lilna b'gwida ċara.",
+    "Aħna fost dawk li ċaħdu l-messaġġiera kollha mibgħuta minn Alla.",
+    "Iffaċċjajna t-theddida mwettqa kontra kull min ċaħad quddiemna, il-qerda għar-rifjut tagħna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-Kumpanji ta' Ar-Rass",
+        "Il-Poplu ta' Madyan",
+        "L-Abitanti ta' Al-Hijr",
+        "In-Nies ta’ Lut",
+        "In-Nies ta' Tubba'"
+      ],
+      "answer": "Il-Kumpanji ta' Ar-Rass"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Bnew torri għoli biex jilħqu s-smewwiet",
+        "Ċaħdu l-messaġġier mibgħut lilna",
+        "Qiem l-għoġol tad-deheb fin-nuqqas ta’ Musa",
+        "Ippjana li joqtol lil Yusuf minħabba l-għira",
+        "Talab li jara lil Alla fil-beraħ"
+      ],
+      "answer": "Ċaħdu l-messaġġier mibgħut lilna"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Il-Muntanja Judi tal-mistrieħ",
+        "Il-Palazz tal-Mirja tal-Ħġieġ",
+        "Il-Wied tan-Nemel",
+        "L-Arka mibnija taħt ir-rivelazzjoni",
+        "Il-Bir (Ar-Rass)"
+      ],
+      "answer": "Il-Bir (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Jinbela’ mill-art għall-kburija fit-teżor",
+        "Salvat mill-Arka mid-dilluvju",
+        "Magħmul biex jorqod għal sekli sħaħ f'għar",
+        "Ingħata kontroll tar-riħ u l-ġinn",
+        "Meqrud talli ċaħad lill-messaġġiera"
+      ],
+      "answer": "Meqrud talli ċaħad lill-messaġġiera"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

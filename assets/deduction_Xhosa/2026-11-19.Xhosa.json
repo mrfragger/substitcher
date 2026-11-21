@@ -1,0 +1,61 @@
+{
+  "title": "Ukholo Olufihliweyo Ngaphakathi Kweendonga Zebhotwe",
+  "intro": "Embindini wenkundla ekhohlakeleyo egcwele amacebo nekratshi, umphefumlo oyedwa ubambe imfihlo eyingozi. Ejikelezwe ngamandla kunye nezoyikiso zokufa, lo mkhonzi ka-Allah ubukela umthunywa emi yedwa echasene nobukumkani. Xa ukuthula kuba yintsebenziswano, kufuneka kwenziwe isigqibo esinesibindi sokuthetha inyaniso emngciphekweni omkhulu wobuqu.",
+  "clues": [
+    "Ndandihlala phakathi kwabantu abanamandla nabakhukhumeleyo ababengazamkeli iimpawu zika-Allah.",
+    "Ndayifihla ukholo lwam okwethutyana ngelixa abo babendingqongile babeceba nxamnye nomthunywa.",
+    "Ndathetha ngokuphandle, ndisithi: Ngaba uyambulala umntu kuba esithi, iNkosi yam nguAllah, ngelixa ubungqina obucacileyo bufikile?",
+    "Ndibalumkisile abantu bam ngekamva leentlanga zangaphambili nangoSuku lokuBizelana.",
+    "Ndibaxelele ukuba umlawuli endimkhonzayo ubonisa uluvo oluncinci, kodwa ubomi obungunaphakade likhaya lokwenyani.",
+    "Ndathi: Owu bantu bam, ndilandeleni, ndiza kunikhokelela endleleni elungileyo, kwaye uAllah undihlangule ebubini becebo labo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "U-Abu Lahab",
+        "IQarun",
+        "u-As-Samiri",
+        "UHaman",
+        "Umkholi ovela kwiNtsapho kaFaro"
+      ],
+      "answer": "Umkholi ovela kwiNtsapho kaFaro"
+    },
+    "trial": {
+      "label": "Ndenzeni?",
+      "options": [
+        "Ubutyebi obuqokelelweyo obunezitshixo ezithwalisa amadoda anamandla umthwalo",
+        "Wakha inqaba ephakamileyo ukuze ajonge uthixo kaMusa",
+        "Ukholo olufihliweyo lwaza lwamkhusela uMusa ngokuphandle lwaza lwalumkisa abantu bam",
+        "Wenze ithole legolide elenza isandi esikhulu",
+        "Wayivala indlela yoMprofeti waza wahlekisa ngesityhilelo ngenxa yobutyebi"
+      ],
+      "answer": "Ukholo olufihliweyo lwaza lwamkhusela uMusa ngokuphandle lwaza lwalumkisa abantu bam"
+    },
+    "location": {
+      "label": "Ibali Lam Lavela Phi?",
+      "options": [
+        "Ityeya phezu kwamanzi kanogumbe",
+        "I-Mosque Engcwele eMakkah",
+        "Inkundla yeBhotwe likaFaro eYiputa",
+        "Umqolomba Wabaleleyo",
+        "Intlambo Yemithi YaseMadyan"
+      ],
+      "answer": "Inkundla yeBhotwe likaFaro eYiputa"
+    },
+    "outcome": {
+      "label": "Yayiyintoni Isiphumo Sam?",
+      "options": [
+        "Ndatshona nomkhosi elwandle olwahlulwe phakathi",
+        "Umhlaba undiginye ngobuncwane bam",
+        "Ubushushu bandibamba kunye noThamud",
+        "Ndenziwe inkawu ngenxa yokuphula iSabatha",
+        "UAllah undikhusele ebubini becebo labo"
+      ],
+      "answer": "UAllah undikhusele ebubini becebo labo"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

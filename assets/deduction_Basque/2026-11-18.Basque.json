@@ -1,0 +1,61 @@
+{
+  "title": "Odola Zatitu Zuen Olatua",
+  "intro": "Imajinatu uholde erraldoi bat lur gainean igotzen, Arka bat geldirik flotatzen, eta arima bat kanpoan aukeraz utzita. Odolez profeta bati lotuta baina sinesmenez bananduta, figura honek azken dei bat jaso zuen ontziratzeko urak gora egiten zutenean. Uko horren atzean dagoen nortasuna asmatu al dezakezu?",
+  "clues": [
+    "Alaren profeta handienetako baten ondorengoa naiz, uztea erabaki nuen fede-etxe bat.",
+    "Uholde Handiaren garaian bizi izan nintzen, sinesgaiztasunak lurra urak bezala estaltzen zuenean.",
+    "Aitak dei egin zidanean, uko egin nion Arkara sinestunekin igotzeari.",
+    "Esan nuen mendi batean babesa bilatuko nuela uretik babesteko.",
+    "Esan zidaten ezerk ezin zuela babestu Alaren dekretutik egun hartan, errukiak izan ezik.",
+    "Olatuek harrapatu eta ito egin ninduten, eta aitari esan zioten ez nintzela bere familia zuzenekoa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Zayd ibn Harithah",
+        "Ishaq profeta, Ibrahim profetaren semea",
+        "Nuh profetaren seme sinesgaitza",
+        "Habil, Adam profetaren semea",
+        "Ismail profeta, Ibrahim profetaren semea"
+      ],
+      "answer": "Nuh profetaren seme sinesgaitza"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Egiptoko anaien traizioaren ondoren esklabo gisa salduak izan ziren",
+        "Arkan sartzeari uko egin eta mendi bat bilatu zuen babesleku gisa",
+        "Idoloak hausteagatik su bizian botata izatea",
+        "Misio batetik ihes egin ondoren arrain handi batek irentsi izana",
+        "Mendeetan zehar kobazulo batean lo egiten jazarpenetik ihes egiteko"
+      ],
+      "answer": "Arkan sartzeari uko egin eta mendi bat bilatu zuen babesleku gisa"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Sabako beirazko ispiluzko jauregia",
+        "Ibaira botatako egurrezko kutxa",
+        "Uholdearen aterpe gisa bilatu zuen mendi garaiak",
+        "Haran sakratuan erretzen ari den sasia",
+        "Kaaba gurtza-etxe gisa eraikia"
+      ],
+      "answer": "Uholdearen aterpe gisa bilatu zuen mendi garaiak"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Lurrak irentsi du harrokeriagatik altxorrekin",
+        "Haizeen eta jinnen gaineko boterea zuen erreinua eman zioten",
+        "Fresko eta seguru bihurtu zen sua bake bihurtu zen heinean",
+        "Zeruraino bizirik altxatu eta gurutziltzatzetik salbatu zuten",
+        "Uholdean itota eta familia zuzenekoa ez zela deklaratua"
+      ],
+      "answer": "Uholdean itota eta familia zuzenekoa ez zela deklaratua"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

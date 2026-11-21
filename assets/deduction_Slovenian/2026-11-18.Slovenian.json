@@ -1,0 +1,61 @@
+{
+  "title": "Val, ki je razdelil kri",
+  "intro": "Predstavljajte si ogromno poplavo, ki se dviga nad deželo, barko, ki mirno pluje, in eno dušo, ki je po lastni izbiri ostala zunaj. Ta lik, ki ga je kri vezala na preroka, a ga je ločila vera, se je soočil z zadnjim klicem, da se vkrca, ko so vode naraščale. Ali lahko odkrijete identiteto, ki stoji za zavrnitvijo?",
+  "clues": [
+    "Sem potomec enega največjih Alahovih prerokov, družine vere, ki sem jo izbral zapustiti.",
+    "Živel sem v času velikega potopa, ko je nevera prekrivala deželo kot voda.",
+    "Ko me je oče poklical, nisem hotel vstopiti v barko skupaj z verniki.",
+    "Rekel sem, da se bom zatekel na goro, da me bo zaščitila pred vodo.",
+    "Rečeno mi je bilo, da na tisti dan nič ne more zaščititi pred Alahovo odredbo, razen usmiljenja.",
+    "Valovi so me prehiteli in utopili, očetu pa so rekli, da nisem iz njegove pravične družine."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Zajd ibn Haritah",
+        "Prerok Ishak, sin preroka Ibrahima",
+        "Neverni sin preroka Nuha",
+        "Habil, sin preroka Adama",
+        "Prerok Ismail, sin preroka Ibrahima"
+      ],
+      "answer": "Neverni sin preroka Nuha"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Prodaja v suženjstvo v Egiptu po izdaji bratov",
+        "Zavrnitev vkrcanja na barko in iskanje zatočišča na gori",
+        "Zaradi razbijanja malikov so bili vrženi v plameneč ogenj",
+        "Po begu z misije ga je pogoltnila velika riba",
+        "Stoletja spanja v jami, da bi se izognili preganjanju"
+      ],
+      "answer": "Zavrnitev vkrcanja na barko in iskanje zatočišča na gori"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Zrcalna steklena palača v Sabi",
+        "Lesena skrinja, vržena v reko",
+        "Visoka gora je iskala zatočišče pred potopom",
+        "Goreči grm v sveti dolini",
+        "Kaaba, zgrajena kot bogoslužni prostor"
+      ],
+      "answer": "Visoka gora je iskala zatočišče pred potopom"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Požrla ga je zemlja z zakladi zaradi arogance",
+        "Podeljeno kraljestvo z močjo nad vetrovi in ​​džini",
+        "Postalo hladno in varno, ko je ogenj postal mir",
+        "Živ dvignjen v nebesa in rešen pred križanjem",
+        "Utopljen v poplavi in ​​razglašen za nepravične družine"
+      ],
+      "answer": "Utopljen v poplavi in ​​razglašen za nepravične družine"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

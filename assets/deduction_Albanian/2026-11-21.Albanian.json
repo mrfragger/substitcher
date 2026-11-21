@@ -1,0 +1,61 @@
+{
+  "title": "Zërat pranë ujërave të qeta",
+  "intro": "Imagjinoni një komunitet të emëruar jo sipas një qyteti apo një sundimtari, por sipas ujit të qetë rreth të cilit mblidhej jeta. Vetëm disa vargje e kujtojnë këtë komunitet, gjithmonë të renditur midis atyre që refuzuan udhëzimin. Dëgjoni ndërsa flasin nga errësira.",
+  "clues": [
+    "Ne jemi një bashkësi e emëruar në Kuran, megjithatë e gjithë historia jonë mbetet e mbuluar me mister.",
+    "Ne gjithmonë përmendemi përkrah atyre që mohuan, si populli i Adit dhe i Themudit.",
+    "Ne quhemi Shokët e Ar-Rass, Pusit me të cilin ishte e lidhur jeta jonë.",
+    "Ne e përgënjeshtruam të dërguarin që na u dërgua me udhëzim të qartë.",
+    "Ne llogarisim ndër ata që i refuzuan të gjithë të dërguarit e dërguar nga Allahu.",
+    "Ne u përballëm me kërcënimin e përmbushur kundër çdo mohuesi para nesh, shkatërrim për shkak të refuzimit tonë."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Shokët e Ar-Rass",
+        "Populli i Medjenit",
+        "Banorët e Hixhrit",
+        "Populli i Lutit",
+        "Populli i Tubbës"
+      ],
+      "answer": "Shokët e Ar-Rass"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Ndërtoi një kullë të lartë për të arritur qiellin",
+        "E mohoi të dërguarin që na dërgoi",
+        "Adhuroi viçin e artë në mungesë të Musait",
+        "Planifikoi të vriste Jusufin nga zilia",
+        "Kërkoi ta shihte Allahun hapur"
+      ],
+      "answer": "E mohoi të dërguarin që na dërgoi"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Mali Judi i pushimit",
+        "Pallati i Pasqyrave prej qelqi",
+        "Lugina e milingonave",
+        "Arka e ndërtuar nën zbulesë",
+        "Pusi (Ar-Rass)"
+      ],
+      "answer": "Pusi (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "I gëlltitur nga toka për krenari në thesar",
+        "I shpëtuar nga Arka nga përmbytja",
+        "I detyruar të flejë për shekuj me radhë në një shpellë",
+        "I është dhënë kontrolli i erës dhe i xhindëve",
+        "Të shkatërruar për shkak se i mohuan të dërguarit"
+      ],
+      "answer": "Të shkatërruar për shkak se i mohuan të dërguarit"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

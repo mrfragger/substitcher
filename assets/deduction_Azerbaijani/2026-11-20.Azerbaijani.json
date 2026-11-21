@@ -1,0 +1,61 @@
+{
+  "title": "Narahat Dənizdən Uçuş",
+  "intro": "Dalğalar qalxarkən və heyət yükü yüngülləşdirmək üçün püşk atarkən həddindən artıq yüklənmiş bir gəminin göyərtəsində dayanan təsəvvür edin. Tək bir fiqur irəli addımlayır, son kimi görünən bir taleyi qəbul edir, ancaq dərinliklər dua və qayıdış yerinə çevrilir. Arxasında yaxınlaşan cəza ilə bağlı xəbərdarlıq edilmiş bir icma, qarşıda isə gözlənilməz bir mərhəmət dayanır.",
+  "clues": [
+    "Mən yüz mindən çox insana elçi kimi göndərildim.",
+    "Getməyə icazə almadan əvvəl xalqımı qəzəblə tərk etdim.",
+    "Mən yüklü bir gəmiyə mindim və heyət kimin dənizə atılacağını müəyyən etmək üçün püşk atdı.",
+    "Məni dənizə atdılar və mən qınanan halda böyük bir balıq məni uddu.",
+    "Mən qaranlıqlarda Allahı təsbih edərək Ondan başqa heç bir tanrı olmadığını və zalımlardan olduğumu elan etdim.",
+    "Mən xəstə halda açıq sahilə atıldım və Allah üstümə bir balqabaq bitkisi yetişdirdi, sonra qövmüm iman gətirdi və bir müddətlik zövq aldı."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Musa peyğəmbər",
+        "Hud peyğəmbər",
+        "Nuh peyğəmbər",
+        "Lut peyğəmbər",
+        "Yunus peyğəmbər"
+      ],
+      "answer": "Yunus peyğəmbər"
+    },
+    "trial": {
+      "label": "Hansı sınaqla qarşılaşdım?",
+      "options": [
+        "Sərin və təhlükəsiz bir atəşə atıldı",
+        "Qaçdıqdan sonra böyük balıq tərəfindən uduldu",
+        "Qısqanc qardaşlar tərəfindən dərin bir quyuya atıldı",
+        "Uzun müddət xəstəlikdən və sağlamlığının itirilməsindən əziyyət çəkib",
+        "Sevimli bir övladını qurban vermək əmri"
+      ],
+      "answer": "Qaçdıqdan sonra böyük balıq tərəfindən uduldu"
+    },
+    "location": {
+      "label": "Əsas elementim nədir?",
+      "options": [
+        "Daşqın suları üzərindəki taxta sandıq",
+        "Təqibdən sığınacaq mağarası",
+        "Müqəddəs Tuva vadisi",
+        "Böyük balıq və onun qarnı",
+        "Bütpərəstlərin hazırladığı sərin od"
+      ],
+      "answer": "Böyük balıq və onun qarnı"
+    },
+    "outcome": {
+      "label": "Nəticəm Nə Oldu?",
+      "options": [
+        "İzzətlə xilas oldum və xalqım iman gətirdi və bir müddət xilas oldu.",
+        "Mənim xalqım Şənbə gününü pozduqları üçün meymuna çevrildi",
+        "Xalqım təkəbbür üzündən yer üzünə uduldu,",
+        "Xalqım göydən gələn güclü bir partlayışla yaxalandı",
+        "Xalqım böyük daşqında boğuldu"
+      ],
+      "answer": "İzzətlə xilas oldum və xalqım iman gətirdi və bir müddət xilas oldu."
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

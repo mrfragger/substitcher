@@ -1,0 +1,61 @@
+{
+  "title": "Gan bölen tolkun",
+  "intro": "Ýeriň üstünde ägirt uly siliň göterilýändigini, bir gäminiň üznüksiz ýüzýändigini we bir jany isleg bilen daşarda galdyrýandygyny göz öňüne getiriň. Pygambere gan bilen baglanan, ýöne ynanjy bilen aýrylan bu şahsyýet suwlar joşanda gäminiň üstüne çykmak üçin soňky çagyryş bilen ýüzbe-ýüz boldy. Bu ret etmegiň arkasyndaky şahsyýeti açyp bilersiňizmi?",
+  "clues": [
+    "Men Allanyň iň beýik pygamberleriniň biriniň nesli, men terk etmegi saýlan iman maşgalasy.",
+    "Men Beýik Tufanyň döwründe ýaşadym, şol döwürde ynanmazlyk ýeri suw ýaly örtdi.",
+    "Kakam meni çagyranda, men imanlylar bilen gämi münmekden ýüz öwürdim.",
+    "Men suwdan goranmak üçin dagda gaçybatalga gözläp biljekdigimi aýtdym.",
+    "Maňa şol gün Allanyň käbirinden rehimden başga hiç zadyň gorap bilmejekdigi aýdyldy.",
+    "Meni tolkunlar tutup, suwa gark etdiler, kakama bolsa meniň onuň dogruçyl maşgalasyndan däldigimi aýtdylar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Zeýd ibn Harisa",
+        "Ibrahim pygamberiň ogly Yshak pygamber",
+        "Nuh pygamberiň imansyz ogly",
+        "Habil, Adam pygamberiň ogly",
+        "Ysmaýyl pygamber, Ybraýym pygamberiň ogly"
+      ],
+      "answer": "Nuh pygamberiň imansyz ogly"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Doganlaryň dönükliginden soň Müsürde gulçulyga satylýar",
+        "Gämige münmekden ýüz öwürmek we dagdan gaçybatalga gözlemek",
+        "Butlary döwmek üçin ýanýan oda taşlanmak",
+        "Missiýadan gaçyp, uly balyk tarapyndan ýuwutulmak",
+        "Zulmdan gaçmak üçin asyrlaryň dowamynda gowakda ýatyp"
+      ],
+      "answer": "Gämige münmekden ýüz öwürmek we dagdan gaçybatalga gözlemek"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Sabadaky aýnaly köşk",
+        "Derýa taşlanan agaç sandyk",
+        "Beýik dag silden gaçybatalga gözledi",
+        "Mukaddes jülgede ýanýan gyrymsy agaç",
+        "Käbe ybadat jaýy hökmünde gurlan"
+      ],
+      "answer": "Beýik dag silden gaçybatalga gözledi"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Tekepbirlik üçin ýer hazynalary bilen ýuwudyldy",
+        "Ýellere we jynlara garşy güýç berýän patyşalyk berildi",
+        "Ot parahatçylyga öwrülende sowuk we howpsuz boldy",
+        "Diri göklere göterildi we çarmha çekilmeginden halas boldy",
+        "Tufanda gark boldy we dogruçyl maşgaladan däl diýlip yglan edildi"
+      ],
+      "answer": "Tufanda gark boldy we dogruçyl maşgaladan däl diýlip yglan edildi"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

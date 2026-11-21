@@ -1,0 +1,61 @@
+{
+  "title": "Vague Oyo Ekabolaki Makila",
+  "intro": "Kanisá mpela monene oyo ezali komata likoló ya mabele, Sanduku oyo ezali kopumbwapumbwa ngwi, mpe molimo moko oyo etikali libanda na boponi. Lokola akangamaki na makila na mosakoli moko oyo akabwanaki kasi na bindimeli, moto yango akutanaki na libiangi ya nsuka mpo na komata na masuwa wana mai ezalaki kopumbwapumbwa. Okoki kobimisa bomoto oyo ezali nsima ya koboya yango?",
+  "clues": [
+    "Nazali bana ya moko ya basakoli minene ya Allah, ndako ya kondima oyo naponaki kotika.",
+    "Nazalaki na bomoi na ntango ya Mpela Monene, ntango kozanga kondima ezipaki mokili lokola mai.",
+    "Naboyaki komata na Sanduku elongo na bandimi ntango tata na ngai abengaki ngai.",
+    "Nalobaki ete nakoluka ekimelo na ngomba mpo na kobatela ngai na mai.",
+    "Bayebisaki ngai ete eloko moko te ekokaki kobatela na mobeko ya Allah na Mokolo wana longola se ngolu.",
+    "Mbonge ezwaki ngai mpe nazindaki, mpe bayebisaki tata na ngai ete nazali moto ya libota na ye ya sembo te."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Zayd ibn Harithah, oyo azali na mbula 19",
+        "Prophète Ishaq, Mwana ya Prophète Ibrahim",
+        "Mwana Mozangi kondima ya Prophète Nuh",
+        "Habil, Mwana ya Profeta Adam",
+        "Prophète Ismail, Mwana ya Prophète Ibrahim"
+      ],
+      "answer": "Mwana Mozangi kondima ya Prophète Nuh"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Kotɛkama na boombo na Ezipito nsima ya kotɛkama na bandeko",
+        "Koboya komata Sanduku mpe koluka ngomba lokola ekimelo",
+        "Kobwakama na mɔ́tɔ oyo ezali kopela mpo na kobuka bikeko",
+        "Komelama na mbisi monene nsima ya kokima misio moko",
+        "Kolala na boumeli ya bikeke mingi na kati ya libulu mpo na kokima minyoko"
+      ],
+      "answer": "Koboya komata Sanduku mpe koluka ngomba lokola ekimelo"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Palais ya verre oyo ezali na talatala na Saba",
+        "Sanduku ya mabaya ebwakami na ebale",
+        "Ngomba molai elukaki ekimelo na Mpela",
+        "Zamba oyo ezali kozika na lobwaku mosantu",
+        "Ba Kaaba batongaki lokola ndako ya losambo"
+      ],
+      "answer": "Ngomba molai elukaki ekimelo na Mpela"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Komelama na mabele na biloko ya motuya mpo na lolendo",
+        "Epesamaki bokonzi oyo ezalaki na nguya likoló na mipɛpɛ mpe ba jinn",
+        "Esalemaki malili mpe na libateli lokola mɔ́tɔ ekomaki kimya",
+        "Asekwamaki na bomoi kino na lola mpe abikisamaki na ekulusu",
+        "Azindaki na Mpela mpe asakolaki ete azali moto ya libota ya sembo te"
+      ],
+      "answer": "Azindaki na Mpela mpe asakolaki ete azali moto ya libota ya sembo te"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

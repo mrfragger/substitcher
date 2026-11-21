@@ -1,0 +1,61 @@
+{
+  "title": "De golf die het bloed spleet",
+  "intro": "Stel je voor: een enorme vloedgolf overspoelt het land, een ark drijft stabiel voort en één ziel blijft er vrijwillig buiten. Deze persoon, door bloed verbonden met een profeet maar gescheiden door geloof, wordt voor een laatste keer opgeroepen om aan boord te komen terwijl het water opkomt. Kun jij de identiteit achter de weigering achterhalen?",
+  "clues": [
+    "Ik ben een nakomeling van een van de grootste profeten van Allah, een geloofsgemeenschap die ik heb verlaten.",
+    "Ik leefde in de tijd van de Grote Vloed, toen ongeloof het land als water bedekte.",
+    "Ik weigerde met de gelovigen aan boord van de ark te gaan toen mijn vader me riep.",
+    "Ik zei dat ik mijn toevlucht zou zoeken op een berg om me te beschermen tegen het water.",
+    "Mij ​​werd verteld dat niets, behalve barmhartigheid, bescherming kon bieden tegen het besluit van Allah op die dag.",
+    "Ik werd door de golven overspoeld en verdronk, en mijn vader werd verteld dat ik niet tot zijn rechtschapen familie behoorde."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wie ben ik?",
+      "options": [
+        "Zayd ibn Harithah",
+        "Profeet Ishaq, zoon van profeet Ibrahim",
+        "De ongelovige zoon van profeet Nuh",
+        "Habil, zoon van de profeet Adam",
+        "Profeet Ismail, zoon van profeet Ibrahim"
+      ],
+      "answer": "De ongelovige zoon van profeet Nuh"
+    },
+    "trial": {
+      "label": "Proef/Evenement",
+      "options": [
+        "Na verraad door zijn broers werd hij als slaaf verkocht in Egypte.",
+        "Hij weigerde aan boord van de Ark te gaan en zocht zijn toevlucht in een berg.",
+        "In een brandend vuur geworpen worden omdat ze afgoden hebben vernield.",
+        "Opgeslokt worden door een grote vis na het ontvluchten van een missie.",
+        "Eeuwenlang in een grot slapen om aan vervolging te ontkomen."
+      ],
+      "answer": "Hij weigerde aan boord van de Ark te gaan en zocht zijn toevlucht in een berg."
+    },
+    "location": {
+      "label": "Sleutelelement",
+      "options": [
+        "Het spiegelpaleis van glas in Saba",
+        "De houten kist werd in de rivier gegooid.",
+        "De torenhoge berg zocht zijn toevlucht tegen de zondvloed.",
+        "De brandende struik in de heilige vallei",
+        "De Kaaba werd gebouwd als een huis van aanbidding."
+      ],
+      "answer": "De torenhoge berg zocht zijn toevlucht tegen de zondvloed."
+    },
+    "outcome": {
+      "label": "Resultaat",
+      "options": [
+        "Verzwolgen door de aarde met schatten vol arrogantie",
+        "Hem werd een koninkrijk geschonken met macht over de winden en de djinn.",
+        "Koel en veilig gemaakt, want vuur werd vrede.",
+        "Levend opgewekt naar de hemel en gered van de kruisiging.",
+        "Verdronken in de zondvloed en niet tot de rechtvaardige familie gerekend."
+      ],
+      "answer": "Verdronken in de zondvloed en niet tot de rechtvaardige familie gerekend."
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

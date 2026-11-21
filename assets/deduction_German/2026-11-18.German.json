@@ -1,0 +1,61 @@
+{
+  "title": "Die Welle, die das Blut teilte",
+  "intro": "Stell dir eine gewaltige Flut vor, die über das Land hereinbricht, eine Arche, die ruhig im Wasser treibt, und eine Seele, die sich freiwillig draußen hält. Blutsverwandt mit einem Propheten, doch getrennt durch den Glauben, sah sich diese Gestalt dem letzten Ruf ausgesetzt, an Bord zu kommen, als die Fluten immer höher stiegen. Kannst du die Identität hinter der Weigerung aufdecken?",
+  "clues": [
+    "Ich bin der Nachkomme eines der größten Propheten Allahs, eines Glaubenshauses, das ich verlassen habe.",
+    "Ich lebte zur Zeit der Sintflut, als Unglaube das Land wie Wasser bedeckte.",
+    "Ich weigerte mich, mit den Gläubigen in die Arche zu gehen, als mein Vater mich rief.",
+    "Ich sagte, ich würde auf einem Berg Zuflucht suchen, um mich vor dem Wasser zu schützen.",
+    "Mir wurde gesagt, dass an jenem Tag nichts außer der Barmherzigkeit vor dem Urteil Allahs schützen könne.",
+    "Ich wurde von den Wellen erfasst und ertrank, und meinem Vater wurde gesagt, ich gehöre nicht zu seiner rechtschaffenen Familie."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Zayd ibn Harithah",
+        "Prophet Ishaq, Sohn des Propheten Ibrahim",
+        "Der ungläubige Sohn des Propheten Nuh",
+        "Habil, Sohn des Propheten Adam",
+        "Prophet Ismail, Sohn des Propheten Ibrahim"
+      ],
+      "answer": "Der ungläubige Sohn des Propheten Nuh"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Nach dem Verrat durch die Brüder wurde er in die Sklaverei nach Ägypten verkauft.",
+        "Er weigerte sich, die Arche zu betreten, und suchte einen Berg als Zuflucht.",
+        "Für das Zerstören von Götzenbildern in ein loderndes Feuer geworfen werden",
+        "Nachdem er von einer Mission geflohen war, wurde er von einem riesigen Fisch verschluckt.",
+        "Jahrhundertelang in einer Höhle schlafen, um der Verfolgung zu entgehen"
+      ],
+      "answer": "Er weigerte sich, die Arche zu betreten, und suchte einen Berg als Zuflucht."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Der verspiegelte Glaspalast in Saba",
+        "Die in den Fluss geworfene Holztruhe",
+        "Der hoch aufragende Berg suchte Zuflucht vor der Flut.",
+        "Der brennende Dornbusch im heiligen Tal",
+        "Die Kaaba wurde als Gotteshaus erbaut"
+      ],
+      "answer": "Der hoch aufragende Berg suchte Zuflucht vor der Flut."
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Von der Erde verschlungen, voller Schätze für die Arroganz",
+        "Ihm wurde ein Königreich mit Macht über Winde und Dschinn gewährt.",
+        "Es wurde kühl und sicher, als das Feuer zum Frieden wurde.",
+        "Lebendig in den Himmel erhoben und vor der Kreuzigung gerettet",
+        "Im Hochwasser ertrunken und für nicht zur gerechten Familie gehörig erklärt worden"
+      ],
+      "answer": "Im Hochwasser ertrunken und für nicht zur gerechten Familie gehörig erklärt worden"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

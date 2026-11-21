@@ -1,0 +1,61 @@
+{
+  "title": "Skrita vera znotraj obzidja palače",
+  "intro": "Sredi tiranskega dvora, polnega zarot in ponosa, osamljena duša skriva nevarno skrivnost. Obkrožen z močjo in grožnjami s smrtjo, ta Alahov služabnik opazuje poslanca, ki se sam upira imperiju. Ko molk postane sokrivda, se je treba pogumno odločiti in povedati resnico, pri čemer tvegamo veliko osebno tveganje.",
+  "clues": [
+    "Živel sem med mogočnim in arogantnim ljudstvom, ki je zavračalo Allahove znake.",
+    "Nekaj ​​časa sem skrival svojo vero, medtem ko so tisti okoli mene kovali zaroto proti poslancu.",
+    "Odkrito sem spregovoril in rekel: Ali ubijete posameznika, ker pravi: 'Moj Gospod je Alah', medtem ko so prišli jasni dokazi?",
+    "Svoje ljudstvo sem posvaril pred usodo prejšnjih narodov in pred Dnevom medsebojnega klica.",
+    "Rekel sem jim, da vladar, ki mu služim, kaže le ozko mnenje, vendar je onostranstvo pravi dom.",
+    "Rekel sem: \"O moje ljudstvo, sledite mi in jaz vas bom vodil na pravo pot, in Allah me je rešil pred njihovimi spletkarskimi naklepi.\""
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Abu Lahab",
+        "Karun",
+        "As-Samiri",
+        "Haman",
+        "Vernik iz faraonove družine"
+      ],
+      "answer": "Vernik iz faraonove družine"
+    },
+    "trial": {
+      "label": "Kaj sem storil/a?",
+      "options": [
+        "Zbrali so zaklade, katerih ključi so bremenili močne može",
+        "Zgradil je visok stolp, da bi opazoval boga Muse",
+        "Skrita vera je nato odkrito branila Musa in svarila moje ljudstvo",
+        "Izdelal je zlato tele, ki je mukalo",
+        "Zaprl je preroku pot in se posmehoval razodetju zaradi bogastva"
+      ],
+      "answer": "Skrita vera je nato odkrito branila Musa in svarila moje ljudstvo"
+    },
+    "location": {
+      "label": "Kje se je odvila moja zgodba?",
+      "options": [
+        "Barka na potopnih vodah",
+        "Sveta mošeja v Meki",
+        "Faraonovo dvorišče v Egiptu",
+        "Jama spečih",
+        "Gozdnata dolina Madyan"
+      ],
+      "answer": "Faraonovo dvorišče v Egiptu"
+    },
+    "outcome": {
+      "label": "Kakšen je bil moj izid?",
+      "options": [
+        "Z vojsko sem se utopil v razdeljenem morju",
+        "Zemlja me je pogoltnila z mojimi zakladi",
+        "Udarila me je strela skupaj s Semudom",
+        "Spremenil sem se v opico, ker sem kršil soboto",
+        "Alah me je obvaroval pred njihovim zlom."
+      ],
+      "answer": "Alah me je obvaroval pred njihovim zlom."
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

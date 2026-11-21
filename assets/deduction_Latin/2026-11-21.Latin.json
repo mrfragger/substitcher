@@ -1,0 +1,61 @@
+{
+  "title": "Voces iuxta Aquas Tranquillas",
+  "intro": "Finge communitatem non ex urbe aut principe, sed ex aqua tranquilla circa quam vita congregabatur nominatam. Pauci tantum versus hanc communitatem commemorant, semper inter eos qui ducem reiecerunt enumeratam. Audi dum ex obscuritate loquuntur.",
+  "clues": [
+    "Communitas sumus in Alcorano nominata, attamen tota nostra historia mysterio velata manet.",
+    "Semper commemoramur iuxta eos qui negaverunt, sicut homines Ad et Thamud.",
+    "Socii Ar-Rass, Putei cui vita nostra alligata erat, appellamur.",
+    "Nuntium, qui nobis cum clara gubernatione missus est, negavimus.",
+    "Inter eos numeramur qui omnes nuntios ab Allah missos reiecerunt.",
+    "Minam impletam adversus omnem negatorem ante nos, interitum pro nostra repudiatione, experti sumus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Socii Ar-Rass",
+        "Populus Madyani",
+        "Incolae Al-Hijr",
+        "Populus Lut",
+        "Populus Tubbae"
+      ],
+      "answer": "Socii Ar-Rass"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Turrim excelsam aedificavit ut ad caelum perveniret",
+        "Nuntium nobis missum negavimus",
+        "Vitulum aureum, absente Mosa, adoraverunt.",
+        "Invidiae causa, Yusufum interficere conatus est.",
+        "Postulavit ut Allah palam videret"
+      ],
+      "answer": "Nuntium nobis missum negavimus"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Mons Judi requiescendi",
+        "Palatium Speculatum Vitreum",
+        "Vallis Formicarum",
+        "Arca sub revelatione constructa",
+        "Puteus (Ar-Rass)"
+      ],
+      "answer": "Puteus (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "A terra absorptus propter superbiam in thesauris",
+        "Servatus ab Arca a diluvio",
+        "Coactus ad saecula in spelunca dormiendum",
+        "Concessum est imperium venti et jinn",
+        "Destructus ob negationem nuntiorum"
+      ],
+      "answer": "Destructus ob negationem nuntiorum"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

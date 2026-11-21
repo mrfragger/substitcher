@@ -1,0 +1,61 @@
+{
+  "title": "Lento levottoman meren yli",
+  "intro": "Kuvittele seisovasi ylikuormitetun aluksen kannella aaltojen pauhuessa ja miehistön heittäessä arpaa kuorman keventämiseksi. Yksinäinen hahmo astuu eteenpäin ja hyväksyy kohtalon, joka tuntuu lopulta, vain jotta syvyyksistä tulisi rukouksen ja paluun tyyssija. Takana on yhteisö, jota varoitetaan tulevasta rangaistuksesta, edessä on odottamaton armo.",
+  "clues": [
+    "Minut lähetettiin sanansaattajaksi yli sadalle tuhannelle ihmiselle.",
+    "Jätin kansani vihaisena ennen kuin sain luvan lähteä.",
+    "Nousin lastattuun laivaan ja miehistö arpoi, kuka heitettäisiin yli laidan.",
+    "Minut heitettiin mereen ja suuri kala nielaisi minut ollessani syyllinen.",
+    "Ylistin Allahia pimeydessä ja julistin, ettei ole muuta jumaluutta kuin Hän, ja että olin yksi väärintekijöistä.",
+    "Minut heitettiin sairaana rannalle, ja Allah kasvatti kurpitsan ylleni. Sitten kansani uskoi ja sai nauttia elämästään joksikin aikaa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Musa",
+        "Profeetta Hud",
+        "Profeetta Nooa",
+        "Profeetta Lut",
+        "Profeetta Yunus"
+      ],
+      "answer": "Profeetta Yunus"
+    },
+    "trial": {
+      "label": "Minkä koettelemuksen kohtasin?",
+      "options": [
+        "Heitettynä tuleen, tehtynä viileäksi ja turvalliseksi",
+        "Suuri kala nielaisi paettuaan",
+        "Kateellisten veljien heittämä syvään kaivoon",
+        "Pitkäaikainen sairaus ja terveyden menetys",
+        "Käskettiin uhraamaan rakastettu lapsi"
+      ],
+      "answer": "Suuri kala nielaisi paettuaan"
+    },
+    "location": {
+      "label": "Mikä on avainelementtini?",
+      "options": [
+        "Puinen arkki tulvavesillä",
+        "Vainon turvapaikka",
+        "Tuwan pyhä laakso",
+        "Suuri kala ja sen vatsa",
+        "Epäjumalanpalvelijoiden valmistama viileä tuli"
+      ],
+      "answer": "Suuri kala ja sen vatsa"
+    },
+    "outcome": {
+      "label": "Mikä oli tulokseni?",
+      "options": [
+        "Kirkastus pelasti kansani ja he uskoivat ja säästyivät joksikin aikaa",
+        "Kansani muuttui apinoiksi, koska hän rikkoi sapatin",
+        "Kansani nielaisi maa ylimielisyytensä vuoksi",
+        "Kansani valtasi mahtava taivaanpuuska",
+        "Kansani hukkui suureen tulvaan"
+      ],
+      "answer": "Kirkastus pelasti kansani ja he uskoivat ja säästyivät joksikin aikaa"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

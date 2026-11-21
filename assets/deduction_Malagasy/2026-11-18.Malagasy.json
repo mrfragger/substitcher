@@ -1,0 +1,61 @@
+{
+  "title": "Ny Onja Nizara ny Ra",
+  "intro": "Alaivo sary an-tsaina ny tondra-drano goavana iray miakatra manerana ny tany, ny sambofiara mitsingevana tsy mihetsika, ary ny olona iray tavela any ivelany noho ny safidy. Voafatotry ny ra amin'ny mpaminany iray nefa misaraka amin'ny finoana, ity olona ity dia niatrika antso farany mba hiakatra an-tsambo rehefa nibosesika ny rano. Azonao fantarina ve ny mombamomba ny olona tao ambadiky ny fandavana?",
+  "clues": [
+    "Taranak'ny iray amin'ireo mpaminanin'i Allah lehibe indrindra aho, fianakaviamben'ny finoana izay nofidiko ny handao.",
+    "Niaina tamin'ny andron'ny Safodrano Lehibe aho, fony ny tsy finoana nandrakotra ny tany toy ny rano.",
+    "Nandà tsy hiara-miditra tao amin'ny Fiara niaraka tamin'ireo mpino aho rehefa niantso ahy ny raiko.",
+    "Nilaza aho fa hitady fialofana any an-tendrombohitra mba hiarovana ahy amin'ny rano.",
+    "Nilazana aho fa tsy misy afaka miaro amin'ny didin'i Allah amin'io andro io afa-tsy ny famindram-po.",
+    "Voasaron’ny onja aho ka maty an-drano, ary nolazaina tamin’ny raiko fa tsy anisan’ny fianakaviany marina aho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Zayd ibn Harithah",
+        "Mpaminany Ishaq, Zanakalahin'ny Mpaminany Ibrahim",
+        "Ny Zanakalahin'ny Mpaminany Noa tsy nino",
+        "Habil, Zanakalahin'i Adama Mpaminany",
+        "Mpaminany Ismail, Zanakalahin'ny Mpaminany Ibrahim"
+      ],
+      "answer": "Ny Zanakalahin'ny Mpaminany Noa tsy nino"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Namidy ho andevo tany Ejipta taorian'ny namadihan'ireo rahalahiny azy",
+        "Tsy nety niditra tao amin'ny sambo fiara fa nitady tendrombohitra ho fialofana",
+        "Atsipy ao anaty afo mirehitra noho ny famotehana ny sampy",
+        "Natelina trondro goavambe iray rehefa avy nandositra iraka",
+        "Natory nandritra ny taonjato maro tao anaty lava-bato mba handosirana ny fanenjehana"
+      ],
+      "answer": "Tsy nety niditra tao amin'ny sambo fiara fa nitady fialofana tany an-tendrombohitra"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny lapa fitaratra misy fitaratra ao Saba",
+        "Ny vata hazo natsipy tao anaty renirano",
+        "Nitady fialofana tamin'ny Safodrano ilay tendrombohitra avo",
+        "Ilay kirihitra mirehitra ao amin'ny lohasaha masina",
+        "Ny Kaaba naorina ho trano fivavahana"
+      ],
+      "answer": "Nitady fialofana tamin'ny Safodrano ilay tendrombohitra avo"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Voatelina tamin'ny harena noho ny avonavona ny tany",
+        "Nomena fanjakana manana fahefana amin'ny rivotra sy ny jiny",
+        "Natao mangatsiaka sy azo antoka toy ny afo lasa fiadanana",
+        "Natsangana velona ho any an-danitra ary voavonjy tamin'ny hazo fijaliana",
+        "Rendrika tao anaty Safodrano ary nambara fa tsy anisan'ny fianakaviana marina"
+      ],
+      "answer": "Rendrika tao anaty Safodrano ary nambara fa tsy anisan'ny fianakaviana marina"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

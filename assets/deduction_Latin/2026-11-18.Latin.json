@@ -1,0 +1,61 @@
+{
+  "title": "Unda quae sanguinem dividit",
+  "intro": "Finge tibi diluvium vastum super terram surgentem, Arcam stabilem fluitantem, et unam animam sponte extra relictam. Sanguine vati coniuncta, fide tamen separata, haec persona vocationem ultimam ad navem ascendendam subiit, aquae intumescentes. Potesne identitatem post recusationem detegere?",
+  "clues": [
+    "Proles sum unius ex maximis prophetis Allah, domum fidei quam relinquere elegi.",
+    "Tempore Diluvii Magni vixi, cum incredulitas terram velut aqua obtexit.",
+    "Recusavi Arcam cum fidelibus ascendere cum pater meus me clamavit.",
+    "Dixi me in monte refugium quaesiturum esse ut me ab aqua defenderet.",
+    "Dictum mihi est nihil me a decreto Dei illo die defendere posse nisi misericordiam.",
+    "Undis correptus submersus sum, et patri meo dictum est me non esse de familia eius iusta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Zayd ibn Harithah",
+        "Propheta Isaac, filius prophetae Ibrahimi",
+        "Filius incredulus prophetae Nuh",
+        "Habil, Filius Prophetae Adami",
+        "Propheta Ismail, Filius Prophetae Ibrahimi"
+      ],
+      "answer": "Filius incredulus prophetae Nuh"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Venditus in servitutem in Aegypto post proditionem fratrum",
+        "Arcam recusans et montem refugium quaerens",
+        "In ignem ardentem proici propter idola confringenda",
+        "Ab magno pisce deglutitus post fugam e missione",
+        "Saeculis in spelunca dormiens, persecutionem vitans."
+      ],
+      "answer": "Arcam recusans et montem refugium quaerens"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Palatium vitreum speculatum Sabae",
+        "Arca lignea in flumen iacta",
+        "Mons excelsus, refugium a Diluvio quaesitus",
+        "Rubus ardens in valle sacra",
+        "Kaaba aedificata ut domus cultus"
+      ],
+      "answer": "Mons excelsus, refugium a Diluvio quaesitus"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Absorptus a terra cum thesauris propter arrogantiam",
+        "Regnum cum potestate super ventos et jinn concessum est",
+        "Frigidus et tutus factus, sicut ignis pax factus est",
+        "Vivus ad caelum evectus et a crucifixione servatus",
+        "Diluvio submersi et non de familia iusta declarati"
+      ],
+      "answer": "Diluvio submersi et non de familia iusta declarati"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

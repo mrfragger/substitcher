@@ -1,0 +1,61 @@
+{
+  "title": "Die Flucht über das unruhige Meer",
+  "intro": "Stell dir vor, du stehst an Deck eines überladenen Schiffes, während die Wellen hochschlagen und die Besatzung das Los wirft, um die Ladung zu erleichtern. Eine einsame Gestalt tritt vor und akzeptiert ein Schicksal, das wie das Ende scheint, nur um dann in der Tiefe einen Ort des Gebets und der Rückkehr zu finden. Hinter ihr liegt eine Gemeinschaft, die vor kommender Strafe gewarnt wurde, vor ihr liegt unerwartete Gnade.",
+  "clues": [
+    "Ich wurde als Bote zu mehr als hunderttausend Menschen gesandt.",
+    "Ich verließ mein Volk im Zorn, bevor ich die Erlaubnis zum Gehen erhielt.",
+    "Ich ging an Bord eines vollbeladenen Schiffes, und die Besatzung loste aus, wer über Bord geworfen werden sollte.",
+    "Ich wurde ins Meer geworfen und von einem großen Fisch verschlungen, obwohl ich schuldig war.",
+    "Ich pries Allah in der Finsternis und erklärte, dass es keinen Gott außer Ihm gibt und dass ich zu den Übeltätern gehört hatte.",
+    "Ich wurde krank ans offene Ufer geworfen, und Allah ließ eine Kürbispflanze über mir wachsen; dann glaubte mein Volk und empfing für eine Zeit Freude."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Musa",
+        "Prophet Hud",
+        "Prophet Nuh",
+        "Prophet Lut",
+        "Prophet Yunus"
+      ],
+      "answer": "Prophet Yunus"
+    },
+    "trial": {
+      "label": "Welchem ​​Prozess musste ich mich stellen?",
+      "options": [
+        "In ein abgekühltes und sicheres Feuer geworfen.",
+        "Nach der Flucht vom großen Fisch verschluckt",
+        "Von eifersüchtigen Brüdern in einen tiefen Brunnen geworfen",
+        "Von langer Krankheit und Gesundheitsverlust geplagt",
+        "Befohlen, ein geliebtes Kind zu opfern"
+      ],
+      "answer": "Nach der Flucht vom großen Fisch verschluckt"
+    },
+    "location": {
+      "label": "Was ist mein Schlüsselelement?",
+      "options": [
+        "Die hölzerne Arche auf den Fluten",
+        "Die Höhle, die Zuflucht vor Verfolgung bot",
+        "Das heilige Tal von Tuwa",
+        "Der große Fisch und sein Bauch",
+        "Das kühle Feuer, das von Götzendienern entzündet wurde"
+      ],
+      "answer": "Der große Fisch und sein Bauch"
+    },
+    "outcome": {
+      "label": "Wie war das Ergebnis?",
+      "options": [
+        "Durch die Verherrlichung gerettet, glaubte mein Volk und wurde für eine gewisse Zeit verschont.",
+        "Mein Volk wurde in Affen verwandelt, weil es den Sabbat gebrochen hatte.",
+        "Mein Volk wurde wegen seiner Arroganz von der Erde verschlungen.",
+        "Mein Volk wurde von einer gewaltigen Explosion vom Himmel ergriffen.",
+        "Mein Volk wurde von der großen Flut ertränkt."
+      ],
+      "answer": "Durch die Verherrlichung gerettet, glaubte mein Volk und wurde für eine gewisse Zeit verschont."
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

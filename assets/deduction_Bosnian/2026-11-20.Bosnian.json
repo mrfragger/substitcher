@@ -1,0 +1,61 @@
+{
+  "title": "Let preko nemirnog mora",
+  "intro": "Zamislite kako stojite na palubi preopterećenog broda dok valovi naviru, a posada baca ždrijeb kako bi olakšala teret. Usamljena figura korača naprijed, prihvatajući sudbinu koja izgleda kao kraj, samo da bi dubine postale mjesto molitve i povratka. Iza leži zajednica upozorena na nadolazeću kaznu, a ispred leži neočekivana milost.",
+  "clues": [
+    "Poslan sam kao glasnik više od sto hiljada ljudi.",
+    "Napustio sam svoj narod u ljutnji prije nego što sam dobio dozvolu za odlazak.",
+    "Ukrcao sam se na natovaren brod, a posada je bacila žrijeb da odluči ko će biti bačen u more.",
+    "Bačen sam u more i progutala me velika riba dok sam bio kriv.",
+    "Slavio sam Allaha u tami, izjavljujući da nema božanstva osim Njega i da sam bio jedan od zlikovaca.",
+    "Bio sam bačen na otvorenu obalu, bolestan, a Allah je učinio da preko mene izraste tikva, zatim je moj narod povjerovao i bilo mu je dato uživanje na neko vrijeme."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Poslanik Musa",
+        "Poslanik Hud",
+        "Poslanik Nuh",
+        "Poslanik Lut",
+        "Poslanik Junus"
+      ],
+      "answer": "Poslanik Junus"
+    },
+    "trial": {
+      "label": "S kojim sam se iskušenjem suočio/suočila?",
+      "options": [
+        "Bačen u vatru, ohlađen i siguran",
+        "Progutala ih je velika riba nakon što su pobjegli",
+        "Bačen u duboki bunar od strane ljubomorne braće",
+        "Pogođen dugom bolešću i gubitkom zdravlja",
+        "Naređeno mu je da žrtvuje voljeno dijete"
+      ],
+      "answer": "Progutala ih je velika riba nakon što su pobjegli"
+    },
+    "location": {
+      "label": "Šta je moj ključni element?",
+      "options": [
+        "Drvena arka na potopnim vodama",
+        "Pećina utočišta od progona",
+        "Sveta dolina Tuwa",
+        "Velika riba i njen stomak",
+        "Hladna vatra koju su pripremili idolopoklonici"
+      ],
+      "answer": "Velika riba i njen stomak"
+    },
+    "outcome": {
+      "label": "Kakav je bio moj ishod?",
+      "options": [
+        "Spašen proslavom i moj narod je vjerovao i bio je pošteđen na neko vrijeme",
+        "Moj narod je pretvoren u majmune zbog kršenja Sabata",
+        "Moj narod je progutala zemlja zbog arogancije",
+        "Moj narod je zahvatila snažna eksplozija s neba",
+        "Moj narod je potopila velika poplava"
+      ],
+      "answer": "Spašen proslavom i moj narod je vjerovao i bio je pošteđen na neko vrijeme"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

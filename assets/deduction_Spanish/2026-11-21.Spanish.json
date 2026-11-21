@@ -1,0 +1,61 @@
+{
+  "title": "Las voces junto a las aguas tranquilas",
+  "intro": "Imagina una comunidad que no lleva el nombre de una ciudad ni de un gobernante, sino del agua tranquila alrededor de la cual se congregaba la vida. Solo unos pocos versículos recuerdan a esta comunidad, siempre incluida entre quienes rechazaron la guía. Escucha cómo hablan desde la oscuridad.",
+  "clues": [
+    "Somos una comunidad mencionada en el Corán, pero nuestra historia completa permanece envuelta en misterio.",
+    "Siempre se nos menciona junto con aquellos que lo negaron, como la gente de Ad y Thamud.",
+    "Nos llaman los Compañeros de Ar-Rass, el Pozo al que estaba ligada nuestra vida.",
+    "Rechazamos al mensajero que nos fue enviado con instrucciones claras.",
+    "Nos contamos entre quienes rechazaron a todos los mensajeros enviados por Alá.",
+    "Nos enfrentamos a la amenaza cumplida contra todos los negacionistas que nos precedieron: la destrucción por nuestro rechazo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Los Compañeros de Ar-Rass",
+        "El pueblo de Madyan",
+        "Los habitantes de Al-Hijr",
+        "El pueblo de Lut",
+        "La gente de Tubba'"
+      ],
+      "answer": "Los Compañeros de Ar-Rass"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Construyó una torre altísima para alcanzar los cielos.",
+        "Rechazaron al mensajero que nos fue enviado.",
+        "Adoraban al becerro de oro en ausencia de Musa.",
+        "Conspiraron para matar a Yusuf por envidia.",
+        "Exigió ver a Alá abiertamente."
+      ],
+      "answer": "Rechazó al mensajero que nos fue enviado."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Monte Judi de descanso",
+        "El Palacio de Cristal Espejado",
+        "El valle de las hormigas",
+        "El Arca construida bajo la revelación",
+        "El pozo (Ar-Rass)"
+      ],
+      "answer": "El pozo (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Engullido por la tierra por orgullo en el tesoro",
+        "Salvados del diluvio por el Arca",
+        "Obligados a dormir durante siglos en una cueva.",
+        "Se le concedió el control del viento y de los genios.",
+        "Destruido por negar a los mensajeros"
+      ],
+      "answer": "Destruido por negar a los mensajeros"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

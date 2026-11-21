@@ -1,0 +1,61 @@
+{
+  "title": "Vilnis, kas sašķēla asinis",
+  "intro": "Iztēlojieties milzīgus plūdus, kas paceļas pār zemi, stabili peldošu šķirstu un vienu dvēseli, kas pēc savas izvēles ir atstāta ārpusē. Asins saites ar pravieti, bet tomēr šķirta ticības dēļ, šī būtne saskārās ar pēdējo aicinājumu iekāpt klājā, kad ūdeņi pieauga. Vai varat atklāt atteikuma identitāti?",
+  "clues": [
+    "Esmu viena no dižākajiem Allāha praviešiem pēcnācējs, ticības saime, kuru es izvēlējos pamest.",
+    "Es dzīvoju Lielo Plūdu laikā, kad neticība pārklāja zemi kā ūdens.",
+    "Es atteicos iekāpt šķirstā kopā ar ticīgajiem, kad tēvs mani sauca.",
+    "Es teicu, ka meklēšu patvērumu kalnā, lai pasargātu sevi no ūdens.",
+    "Man teica, ka nekas nevar pasargāt no Allāha sprieduma tajā dienā, izņemot žēlsirdību.",
+    "Mani pārņēma viļņi, un es noslīku, un manam tēvam pateica, ka es neesmu no viņa taisnīgās ģimenes."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Zajds ibn Haritahs",
+        "Pravietis Išaks, pravieša Ibrahima dēls",
+        "Pravieša Nuha neticīgais dēls",
+        "Habils, pravieša Ādama dēls",
+        "Pravietis Ismails, pravieša Ibrahima dēls"
+      ],
+      "answer": "Pravieša Nuha neticīgais dēls"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Pēc brāļu nodevības tiek pārdots verdzībā Ēģiptē",
+        "Atteikšanās iekāpt šķirstā un patvēruma meklēšana kalnā",
+        "Iemests liesmojošā ugunī par elku sagraušanu",
+        "Pēc bēgšanas no misijas mani norīja liela zivs",
+        "Gulēšana alā gadsimtiem ilgi, lai izvairītos no vajāšanām"
+      ],
+      "answer": "Atteikšanās iekāpt šķirstā un patvēruma meklēšana kalnā"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Spoguļstikla pils Sabā",
+        "Koka lāde, iemesta upē",
+        "Augstais kalns meklēja patvērumu no Plūdiem",
+        "Degošais krūms svētajā ielejā",
+        "Kaaba celta kā pielūgsmes nams"
+      ],
+      "answer": "Augstais kalns meklēja patvērumu no Plūdiem"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Zeme aprijusi dārgumus augstprātības dēļ",
+        "Piešķirta valstība ar varu pār vējiem un džiniem",
+        "Kļuva vēss un drošs, tāpat kā uguns kļuva par mieru",
+        "Augšāmcelts debesīs un izglābts no krustā sišanas",
+        "Noslīka Plūdos un pasludināts par nepiederošu taisnīgajai ģimenei"
+      ],
+      "answer": "Noslīka Plūdos un pasludināts par nepiederošu taisnīgajai ģimenei"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

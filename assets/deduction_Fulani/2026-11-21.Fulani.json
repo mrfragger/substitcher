@@ -1,0 +1,61 @@
+{
+  "title": "Daandeeji Baɗa Ndiyam Deƴɗam",
+  "intro": "Natal renndo inniraango wonaa wuro walla laamɗo, kono ko ndiyam ɓuuɓɗam ɗam nguurndam moofti. Ko aayeeji seeɗa tan ciftortoo ndee renndo, sahaa fof ina limtee e saliiɓe ardaade. Heɗto no ɓe kaaldirta e niɓɓere.",
+  "clues": [
+    "Minen ko min renndo inniraango e nder Quraan, kono daartol amen timmungol ina heddii e sirlu.",
+    "En ciftortee ko sahaa kala e bannge yedduɓe, hono yimɓe Ad e Samud.",
+    "Min mbiyetee ko sahabaaɓe Ar-Rass, Ɓunndu ndu nguurndam amen haɓɓanoo.",
+    "En njeddii nulaaɗo nelanooɗo e men ɗoydagol laaɓngol.",
+    "En limtaama e ɓeen saliiɓe Nelaaɓe ɓe Alla neli ɓee fof.",
+    "En njokkondirii e kulhuli timmuɗi e kala yedduɗo hade men, halkaare ngam jaɓde men."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol ko ngonmi?",
+      "options": [
+        "Sahaabaaɓe Ar-Rass",
+        "Yimɓe Madyanaaɓe",
+        "Hoɗɓe e Al-Hijri",
+        "Yimɓe Luut",
+        "YimBe Tuuba'en."
+      ],
+      "answer": "Sahaabaaɓe Ar-Rass"
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "Mahii suudu toowndu ngam yettaade asamaan",
+        "Yeddi nelaaɗo nelaaɗo e men",
+        "Rewi nagge kaŋŋe e nder ŋakkere Muusaa",
+        "Feere ngam warde Yuusuf ngam yiɗde",
+        "Ɗaɓɓuɗo yiyde Alla e peewal"
+      ],
+      "answer": "Yeddi nelaaɗo nelaaɗo e men"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Tufnde Judi nde fooftere",
+        "Palas Mirror de gilas",
+        "Falnde Ɓowɗi",
+        "Laana kaa mahaa ko e les wahyu",
+        "Ɓunndu nduu (Ar-Rass)"
+      ],
+      "answer": "Ɓunndu nduu (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "Muuɗi leydi ngam mawnikinaare e jawdi",
+        "Hisnaama e Laana kaa e ilam",
+        "Waɗeede ɗaanaade duuɓi teemedde e nder ngaska",
+        "Hokkaama jogaade henndu e jinneeji",
+        "Halki ngam yeddugo nelaaɓe"
+      ],
+      "answer": "Halki ngam yeddugo nelaaɓe"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

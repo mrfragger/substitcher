@@ -1,0 +1,61 @@
+{
+  "title": "Gelombang yang Memisahkan Darah",
+  "intro": "Bayangkan banjir besar yang melanda daratan, sebuah Bahtera yang mengapung dengan tenang, dan satu jiwa yang ditinggalkan di luar atas kemauannya sendiri. Terikat oleh ikatan darah dengan seorang nabi namun terpisah oleh keyakinan, sosok ini menghadapi panggilan terakhir untuk naik ke bahtera saat air terus naik. Dapatkah Anda mengungkap identitas di balik penolakan tersebut?",
+  "clues": [
+    "Aku adalah keturunan salah satu nabi terbesar Allah, sebuah keluarga beriman yang kupilih untuk tinggalkan.",
+    "Aku hidup di zaman Banjir Besar, ketika ketidakpercayaan menyelimuti negeri seperti air.",
+    "Aku menolak untuk naik ke Bahtera bersama orang-orang beriman ketika ayahku memanggilku.",
+    "Saya berkata bahwa saya akan mencari perlindungan di gunung untuk melindungi diri dari air.",
+    "Saya diberitahu bahwa tidak ada yang dapat melindungi dari ketetapan Allah pada Hari itu kecuali rahmat.",
+    "Aku tersapu ombak dan tenggelam, dan ayahku diberitahu bahwa aku bukan berasal dari keluarganya yang saleh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Zayd bin Harithah",
+        "Nabi Ishaq, putra Nabi Ibrahim",
+        "Putra Nabi Nuh yang Kafir",
+        "Habil, Putra Nabi Adam",
+        "Nabi Ismail, putra Nabi Ibrahim"
+      ],
+      "answer": "Putra Nabi Nuh yang Kafir"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Dijual sebagai budak di Mesir setelah dikhianati oleh saudara-saudaranya.",
+        "Menolak untuk naik ke Bahtera dan mencari gunung sebagai tempat berlindung.",
+        "Dilemparkan ke dalam api yang menyala-nyala karena menghancurkan berhala",
+        "Ditelan oleh ikan besar setelah melarikan diri dari sebuah misi.",
+        "Tidur selama berabad-abad di dalam gua untuk menghindari penganiayaan."
+      ],
+      "answer": "Menolak untuk naik ke Bahtera dan mencari gunung sebagai tempat berlindung."
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Istana kaca bercermin di Saba",
+        "Peti kayu itu dilemparkan ke sungai.",
+        "Gunung menjulang tinggi yang dicari sebagai tempat berlindung dari Banjir",
+        "Semak yang terbakar di lembah suci",
+        "Ka'bah dibangun sebagai rumah ibadah."
+      ],
+      "answer": "Gunung menjulang tinggi yang dicari sebagai tempat berlindung dari Banjir"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Ditelan bumi bersama harta karun untuk kesombongan",
+        "Diberi kerajaan dengan kekuasaan atas angin dan jin.",
+        "Menjadi sejuk dan aman saat api berubah menjadi kedamaian.",
+        "Diangkat hidup-hidup ke surga dan diselamatkan dari penyaliban",
+        "Tenggelam dalam Banjir dan dinyatakan bukan dari keluarga yang saleh"
+      ],
+      "answer": "Tenggelam dalam Banjir dan dinyatakan bukan dari keluarga yang saleh"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

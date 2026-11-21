@@ -1,0 +1,61 @@
+{
+  "title": "Kuruka Katika Bahari Isiyotulia",
+  "intro": "Fikiria umesimama kwenye sitaha ya chombo kilichojaa mizigo huku mawimbi yakiongezeka na wafanyakazi wakipiga kura ili kupunguza mzigo. Mtu mmoja pekee anasonga mbele, akikubali hatima inayoonekana kama mwisho, lakini vilindi vikawa mahali pa sala na kurudi. Nyuma ya uongo kuna jamii iliyoonywa kuhusu adhabu inayokuja, mbele kuna huruma isiyotarajiwa.",
+  "clues": [
+    "Nilitumwa kama mjumbe kwa zaidi ya watu laki moja.",
+    "Niliacha watu wangu kwa hasira kabla ya kupata ruhusa ya kuondoka.",
+    "Nilipanda meli iliyokuwa imejaa mizigo na wafanyakazi wakapiga kura kuamua ni nani angetupwa baharini.",
+    "Nilitupwa baharini na kumezwa na samaki mkubwa huku nikiwa na hatia.",
+    "Nilimtukuza Mwenyezi Mungu gizani, nikitangaza kwamba hakuna mungu ila Yeye na kwamba nilikuwa miongoni mwa madhalimu.",
+    "Nilitupwa ufukweni, nikiwa mgonjwa, na Mwenyezi Mungu akanipa mmea wa mtango, kisha watu wangu wakaamini na wakapewa starehe kwa muda."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Musa",
+        "Nabii Hud",
+        "Nabii Nuh",
+        "Nabii Lut",
+        "Nabii Yunus"
+      ],
+      "answer": "Nabii Yunus"
+    },
+    "trial": {
+      "label": "Nilikabiliana na Jaribio Gani?",
+      "options": [
+        "Kutupwa kwenye moto uliopozwa na kuwekwa salama",
+        "Alimezwa na samaki mkubwa baada ya kukimbia",
+        "Ndugu wenye wivu walitupa kwenye kisima kirefu",
+        "Kupatwa na ugonjwa wa muda mrefu na kupoteza afya",
+        "Aliamriwa kumtoa kafara mtoto mpendwa"
+      ],
+      "answer": "Alimezwa na samaki mkubwa baada ya kukimbia"
+    },
+    "location": {
+      "label": "Kipengele Changu Muhimu ni Kipi?",
+      "options": [
+        "Sanduku la mbao kwenye maji ya mafuriko",
+        "Pango la kukimbilia kutokana na mateso",
+        "Bonde takatifu la Tuwa",
+        "Samaki mkubwa na tumbo lake",
+        "Moto baridi ulioandaliwa na waabudu sanamu"
+      ],
+      "answer": "Samaki mkubwa na tumbo lake"
+    },
+    "outcome": {
+      "label": "Matokeo Yangu Yalikuwa Yapi?",
+      "options": [
+        "Niliokolewa kwa utukufu na watu wangu waliamini na wakaokolewa kwa muda",
+        "Watu wangu waligeuzwa kuwa nyani kwa kuvunja Sabato",
+        "Watu wangu walimezwa na dunia kwa kiburi",
+        "Watu wangu walikamatwa na mlipuko mkubwa kutoka angani",
+        "Watu wangu walizama na mafuriko makubwa"
+      ],
+      "answer": "Niliokolewa kwa utukufu na watu wangu waliamini na wakaokolewa kwa muda"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

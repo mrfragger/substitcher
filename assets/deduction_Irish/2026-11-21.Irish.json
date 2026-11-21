@@ -1,0 +1,61 @@
+{
+  "title": "Na Guthanna Cois na nUiscí Ciúine",
+  "intro": "Samhlaigh pobal nach bhfuil ainmnithe i ndiaidh cathrach ná rialóra, ach i ndiaidh an uisce chiúin timpeall ar a raibh an bheatha bailithe. Níl ach cúpla véarsa ag cuimhneamh ar an bpobal seo, atá liostaithe i gcónaí i measc na ndaoine a dhiúltaigh treoir. Éist leo agus iad ag labhairt ón doiléire.",
+  "clues": [
+    "Is pobal muid a bhfuil ainm air sa Choran, ach fós féin tá ár scéal iomlán faoi cheilt i rúndiamhair.",
+    "Luaitear sinn i gcónaí taobh leo siúd a shéan, cosúil le muintir Ad agus Thamud.",
+    "Tugtar Compánaigh Ar-Rass orainn, an Tobar lena raibh ár saol ceangailte.",
+    "Shéanamar an teachtaire a seoladh chugainn le treoir shoiléir.",
+    "Táimid i measc na ndaoine a dhiúltaigh do na teachtairí uile a sheol Allah.",
+    "D’aghaidh muid ar an mbagairt a comhlíonadh i gcoinne gach séanóra a bhí romhainn, scrios mar gheall ar ár ndiúltú."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Compánaigh Ar-Rass",
+        "Muintir Madyan",
+        "Áitritheoirí Al-Hijr",
+        "Muintir Lut",
+        "Muintir Tubba'"
+      ],
+      "answer": "Compánaigh Ar-Rass"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Thóg túr ard chun na flaithis a bhaint amach",
+        "Diúltaíodh don teachtaire a seoladh chugainn",
+        "Rinne sé adhradh don lao órga in éagmais Mhúsa",
+        "Chomhcheilg sé Yusuf a mharú as éad",
+        "D'éiligh siad Allah a fheiceáil go hoscailte"
+      ],
+      "answer": "Diúltaíodh don teachtaire a seoladh chugainn"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Sliabh Judi na scíthe",
+        "An Pálás Scáthánaithe Gloine",
+        "Gleann na Seangán",
+        "An Áirc a tógadh faoi nochtadh",
+        "An Tobar (Ar-Rass)"
+      ],
+      "answer": "An Tobar (Ar-Rass)"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Slogtha ag an talamh ar son bróid as stór",
+        "Sábháilte ag an Áirc ón tuile",
+        "Déanta chun codladh ar feadh na gcéadta bliain i bpluais",
+        "Bronnadh smacht ar an ngaoth agus ar an jinn",
+        "Scriosta as na teachtairí a dhiúltú"
+      ],
+      "answer": "Scriosta as na teachtairí a dhiúltú"
+    }
+  },
+  "verseRef": "50:14",
+  "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "verse": "And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled. (50:14)"
+}

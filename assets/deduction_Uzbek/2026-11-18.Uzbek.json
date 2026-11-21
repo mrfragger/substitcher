@@ -1,0 +1,61 @@
+{
+  "title": "Qonni ikkiga bo'lgan to'lqin",
+  "intro": "Yer yuzida ulkan suv toshqini, barqaror suzib yurgan kema va ixtiyoriy ravishda tashqarida qoldirilgan bitta jonni tasavvur qiling. Payg'ambarga qon bilan bog'langan, ammo e'tiqodi bilan ajralib qolgan bu shaxs suvlar ko'tarilganda kemaga chiqish uchun oxirgi chaqiruvga duch keldi. Rad etish ortidagi shaxsni aniqlay olasizmi?",
+  "clues": [
+    "Men Allohning eng buyuk payg'ambarlaridan birining avlodiman, men tark etishni tanlagan iymonli oilaman.",
+    "Men Buyuk To'fon davrida yashadim, o'shanda kufr yerni suv kabi qoplagan edi.",
+    "Otam meni chaqirganida, men imonlilar bilan kemaga chiqishdan bosh tortdim.",
+    "Men suvdan himoya qilish uchun tog'dan panoh izlashimni aytdim.",
+    "Menga o'sha kuni Allohning taqdiridan faqat rahmatgina himoya qila olishi aytildi.",
+    "Meni to'lqinlar ushlab oldi va cho'kib ketdim, otamga esa men uning solih oilasidan emasligimni aytishdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Zayd ibn Horisa",
+        "Payg'ambar Ishoq, Ibrohim payg'ambarning o'g'li",
+        "Nuh payg'ambarning kofir o'g'li",
+        "Hobil, Odam Atoning o'g'li",
+        "Payg'ambar Ismoil, Ibrohim payg'ambarning o'g'li"
+      ],
+      "answer": "Nuh payg'ambarning kofir o'g'li"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Aka-ukalar xiyonatidan keyin Misrda qullikka sotilgan",
+        "Kemaga chiqishdan bosh tortish va boshpana sifatida tog' izlash",
+        "Butlarni sindirib tashlagani uchun alangali olovga tashlanmoqda",
+        "Missiyadan qochib ketganidan keyin katta baliq tomonidan yutib yuborilish",
+        "Ta'qiblardan qochish uchun asrlar davomida g'orda uxlash"
+      ],
+      "answer": "Kemaga chiqishdan bosh tortish va boshpana sifatida tog' izlash"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Sabadagi oynali shisha saroy",
+        "Daryoga tashlangan yog'och sandiq",
+        "To'fondan panoh topgan baland tog'",
+        "Muqaddas vodiydagi yonayotgan buta",
+        "Ka'ba ibodat uyi sifatida qurilgan"
+      ],
+      "answer": "To'fondan panoh topgan baland tog'"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Yer takabburlik uchun xazinalar bilan yutib yuborilgan",
+        "Shamol va jinlar ustidan hokimiyatga ega bo'lgan podshohlik berildi",
+        "Olov tinchlikka aylangani sayin salqin va xavfsiz holga keltirildi",
+        "Osmonga tiriklayin ko'tarildi va xochga mixlanishdan qutqarildi",
+        "To'fonda cho'kib ketdi va solih oiladan emas deb e'lon qilindi"
+      ],
+      "answer": "To'fonda cho'kib ketdi va solih oiladan emas deb e'lon qilindi"
+    }
+  },
+  "verseRef": "11:45",
+  "arabic": "وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ",
+  "verse": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\" (11:45)"
+}

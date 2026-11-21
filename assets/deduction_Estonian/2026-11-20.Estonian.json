@@ -1,0 +1,61 @@
+{
+  "title": "Lend üle rahutu mere",
+  "intro": "Kujutage ette seisvat ülekoormatud laeva tekil, kui lained tõusevad ja meeskond loosi heidab, et koormat kergendada. Üksildane kuju astub edasi, aktsepteerides saatust, mis näib olevat lõpp, ainult selleks, et sügavikust saaks palve ja tagasipöördumise paik. Selja taga peitub kogukond, keda hoiatatakse saabuva karistuse eest, ees ootab ootamatu halastus.",
+  "clues": [
+    "Mind saadeti sõnumitoojana enam kui saja tuhande inimese juurde.",
+    "Ma lahkusin oma rahva juurest vihasena enne, kui sain loa lahkuda.",
+    "Läksin koormatud laevale ja meeskond loosi teel otsustas, kes üle parda visatakse.",
+    "Mind heideti merre ja suur kala neelas mind alla, samal ajal kui ma olin süüdi.",
+    "Ma ülistasin pimeduses Allahi, kuulutades, et pole teist jumalat peale Tema ja et ma olin üks patustajaid.",
+    "Mind heideti haigena avamaale kaldale ja Allah lasi mu kohale kasvada kõrvitsataime. Seejärel uskus mu rahvas ja neile anti mõneks ajaks naudingut."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Musa",
+        "Prohvet Hud",
+        "Prohvet Noa",
+        "Prohvet Lut",
+        "Prohvet Yunus"
+      ],
+      "answer": "Prohvet Yunus"
+    },
+    "trial": {
+      "label": "Millise katsumusega ma silmitsi seisin?",
+      "options": [
+        "Visatud tulle, mis on tehtud jahedaks ja ohutuks",
+        "Suur kala neelas ta pärast põgenemist alla",
+        "Kadedate vendade poolt sügavasse kaevu heidetud",
+        "Tabanud pikaajaline haigus ja tervisekaotus",
+        "Käskis ohverdada armastatud laps"
+      ],
+      "answer": "Suur kala neelas ta pärast põgenemist alla"
+    },
+    "location": {
+      "label": "Mis on minu põhielement?",
+      "options": [
+        "Puidust laev üleujutusvetel",
+        "Tagakiusamise eest varjupaigaks olev koobas",
+        "Tuwa püha org",
+        "Suur kala ja tema kõht",
+        "Ebajumalakummardajate valmistatud jahe tuli"
+      ],
+      "answer": "Suur kala ja tema kõht"
+    },
+    "outcome": {
+      "label": "Mis oli minu tulemus?",
+      "options": [
+        "Päästetud ülistamise läbi ja mu rahvas uskus ning säästeti mõneks ajaks",
+        "Mu rahvas muudeti ahvideks hingamispäeva rikkumise pärast",
+        "Mu rahvas neelas maa alla oma ülbuse pärast",
+        "Mu rahvast haaras taevast võimas plahvatus",
+        "Mu rahvas uppus suures veeuputuses"
+      ],
+      "answer": "Päästetud ülistamise läbi ja mu rahvas uskus ning säästeti mõneks ajaks"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

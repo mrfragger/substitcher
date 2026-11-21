@@ -1,0 +1,61 @@
+{
+  "title": "Lidojums pāri nemierīgajai jūrai",
+  "intro": "Iztēlojieties stāvam uz pārslogota kuģa klāja, kamēr viļņi ceļas un apkalpe met lozes, lai atvieglotu kravu. Vientuļa figūra sper soli uz priekšu, pieņemot likteni, kas šķiet kā beigas, tikai lai dziļumi kļūtu par lūgšanu un atgriešanās vietu. Aiz muguras slēpjas kopiena, kas brīdināta par gaidāmo sodu, priekšā slēpjas negaidīta žēlastība.",
+  "clues": [
+    "Es tiku sūtīts kā vēstnesis pie vairāk nekā simts tūkstošiem cilvēku.",
+    "Es dusmās atstāju savus ļaudis, pirms saņēmu atļauju aiziet.",
+    "Es uzkāpu uz piekrauta kuģa, un apkalpe meta lozes, lai izlemtu, kuru izmest pāri bortam.",
+    "Mani iemet jūrā un aprija liela zivs, kamēr es biju vainīgs.",
+    "Es slavēju Allāhu tumsā, paziņojot, ka nav cita dieva kā Viņš, un ka esmu bijis viens no ļaundariem.",
+    "Mani slimu izmeta atklātā krastā, un Allāhs lika man virsū izaugt ķirbja stādam, tad mani ļaudis noticēja un uz kādu laiku saņēma prieku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Musa",
+        "Pravietis Huds",
+        "Pravietis Nuhs",
+        "Pravietis Lūts",
+        "Pravietis Junuss"
+      ],
+      "answer": "Pravietis Junuss"
+    },
+    "trial": {
+      "label": "Ar kādu pārbaudījumu es saskāros?",
+      "options": [
+        "Iemests ugunī, padarīts vēss un drošs",
+        "Pēc bēgšanas lielā zivs norīja",
+        "Greizsirdīgu brāļu iemests dziļā akā",
+        "Piemeklējusi ilgstoša slimība un veselības zaudēšana",
+        "Pavēlēts upurēt mīļoto bērnu"
+      ],
+      "answer": "Pēc bēgšanas lielā zivs norīja"
+    },
+    "location": {
+      "label": "Kāds ir mans galvenais elements?",
+      "options": [
+        "Koka šķirsts plūdu ūdeņos",
+        "Patvēruma ala no vajāšanām",
+        "Tuvas svētā ieleja",
+        "Lielā zivs un tās vēders",
+        "Vēsā uguns, ko sagatavojuši elku pielūdzēji"
+      ],
+      "answer": "Lielā zivs un tās vēders"
+    },
+    "outcome": {
+      "label": "Kāds bija mans rezultāts?",
+      "options": [
+        "Glābts ar pagodināšanu, un mani ļaudis ticēja un uz laiku tika saudzēti",
+        "Mani ļaudis tika pārvērsti par pērtiķiem par sabata pārkāpšanu",
+        "Manu tautu zeme aprija augstprātības dēļ",
+        "Manu tautu sagrāba varens vējš no debesīm",
+        "Mani ļaudis noslīka lielos plūdos"
+      ],
+      "answer": "Glābts ar pagodināšanu, un mani ļaudis ticēja un uz laiku tika saudzēti"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

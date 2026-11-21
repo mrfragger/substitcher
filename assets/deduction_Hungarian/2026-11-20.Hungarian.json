@@ -1,0 +1,61 @@
+{
+  "title": "Repülés a nyugtalan tengeren át",
+  "intro": "Képzeljük el, hogy egy túlterhelt hajó fedélzetén állunk, miközben a hullámok tombolnak, és a legénység sorsot vet, hogy könnyítsen a terhen. Egy magányos alak lép előre, elfogadva a sorsot, ami a végnek tűnik, ám a mélység az imádság és a visszatérés helyévé válik. Mögötte egy közösség fekszik, amelyet a közelgő büntetésre figyelmeztettek, előtte pedig egy váratlan irgalom.",
+  "clues": [
+    "Több mint százezer emberhez küldtek hírvivőként.",
+    "Dühösen hagytam el az embereimet, mielőtt engedélyt kaptam volna a távozásra.",
+    "Felszálltam egy megrakott hajóra, és a legénység sorsot vetett, hogy eldöntsék, kit dobnak a vízbe.",
+    "A tengerbe vetettek és elnyelt egy nagy hal, miközben bűnhődtem.",
+    "Dicsőítettem Allahot a sötétségben, kijelentve, hogy nincs más isten Rajta kívül, és hogy én a gonosztevők közé tartozom.",
+    "Betegként a nyílt partra vetődtem, és Allah tököt sarjasztott fölém. Ekkor népem hitt, és egy ideig élvezhette az életet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Mózes próféta",
+        "Hud próféta",
+        "Nuh próféta",
+        "Lut próféta",
+        "Junusz próféta"
+      ],
+      "answer": "Junusz próféta"
+    },
+    "trial": {
+      "label": "Milyen megpróbáltatással kellett szembenéznem?",
+      "options": [
+        "Hűvös és biztonságos tűzbe dobva",
+        "A nagy hal lenyelte a menekülés után",
+        "Féltékeny testvérek által mély kútba vetve",
+        "Hosszú betegség és egészségvesztés sújtotta",
+        "Parancsolták feláldozni egy szeretett gyermeket"
+      ],
+      "answer": "A nagy hal lenyelte a menekülés után"
+    },
+    "location": {
+      "label": "Mi a kulcselemem?",
+      "options": [
+        "A fa bárka az árvízen",
+        "Az üldöztetés elől menedéket nyújtó barlang",
+        "A szent Tuwa völgy",
+        "A nagy hal és a hasa",
+        "A bálványimádók által készített hűvös tűz"
+      ],
+      "answer": "A nagy hal és a hasa"
+    },
+    "outcome": {
+      "label": "Mi volt az eredményem?",
+      "options": [
+        "Megdicsőítés által mentettek meg, és népem hitt, és egy időre megkímélt",
+        "Az én népem majmokká változott, mert megszegték a szombatot",
+        "Népemet elnyelte a föld arroganciájuk miatt",
+        "Népemet elragadta egy hatalmas égi széllökés",
+        "Az én népemet elárasztotta a nagy árvíz"
+      ],
+      "answer": "Megdicsőítés által mentettek meg, és népem hitt, és egy időre megkímélt"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}
