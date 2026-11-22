@@ -135,6 +135,8 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
      if (mounted) {
        setState(() {
          _autoDetectEnabled = _settings?.autoIpLookup ?? true;
+         _selectedMethod = _settings?.calculationMethod ?? 'ISNA';
+         _selectedAsrMethod = _settings?.asrMethod ?? 'Standard';
          if (_settings?.latitude != null) {
            _latController.text = _settings!.latitude.toString();
          }
@@ -566,9 +568,7 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
                               await settings.save();
                               await _loadSettings();
 
-                              if (value) {
-                                await widget.adhanService.initialize();
-                              }
+                              await widget.adhanService.setEnabled(value);
                             },
                           ),
                           const Text(
@@ -764,8 +764,13 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
                             items: _methods.map((method) {
                               return DropdownMenuItem(value: method, child: Text(method));
                             }).toList(),
-                            onChanged: (value) {
-                              setState(() => _selectedMethod = value!);
+                            onChanged: (value) async {
+                              if (value == null) return;
+                              setState(() => _selectedMethod = value);
+                              final settings = await AdhanSettings.load();
+                              settings.calculationMethod = value;
+                              await settings.save();
+                              await widget.adhanService.reloadSettings();
                             },
                           ),
                         ],
@@ -781,8 +786,13 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
                             items: ['Standard', 'Hanafi'].map((method) {
                               return DropdownMenuItem(value: method, child: Text(method));
                             }).toList(),
-                            onChanged: (value) {
-                              setState(() => _selectedAsrMethod = value!);
+                            onChanged: (value) async {
+                              if (value == null) return;
+                              setState(() => _selectedAsrMethod = value);
+                              final settings = await AdhanSettings.load();
+                              settings.asrMethod = value;
+                              await settings.save();
+                              await widget.adhanService.reloadSettings();
                             },
                           ),
                         ],
@@ -1086,6 +1096,7 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
               onChanged: (value) async {
                 if (value != null) {
                   await _saveAdhanSelection(prayerName, value);
+                  await widget.adhanService.reloadSettings();
                   await _loadSettings();
                   setState(() {});
                 }

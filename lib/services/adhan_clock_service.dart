@@ -214,6 +214,8 @@ class AdhanClockService {
       return;
     }
 
+    _settings = await AdhanSettings.load();
+
     if (_settings?.adhanClockEnabled != true) {
       print('Adhan clock is disabled');
       return;
@@ -238,8 +240,51 @@ class AdhanClockService {
     print('Prayer time check completed');
   }
 
-  Future<void> _playAdhan(String prayerName) async {
+  /// Called when the user toggles "Enable Adhan Clock".
+  Future<void> setEnabled(bool enabled) async {
+    // Reload so the service sees the latest saved settings
+    _settings = await AdhanSettings.load();
+
+    if (!enabled) {
+      _updateTimer?.cancel();
+      _checkTimer?.cancel();
+      _updateTimer = null;
+      _checkTimer = null;
+      await _audioPlayer.stop(); // stop anything currently playing
+      _prayerTimes = null;
+      _prayerTimesController.add(null);
+      _isInitialized = false; // allow re-initialize when re-enabled
+      print('Adhan Clock disabled: timers cancelled, audio stopped');
+      return;
+    }
+
+    // Enabled: (re)initialize from scratch
+    _isInitialized = false;
+    await initialize();
+  }
+
+  Future<void> reloadSettings() async {
+    _settings = await AdhanSettings.load();
+
+    if (_settings?.adhanClockEnabled != true) {
+      await setEnabled(false);
+      return;
+    }
+
+    if (_latitude != null && _longitude != null) {
+      await _calculatePrayerTimes(); // uses the new method / Asr setting
+      _startPeriodicUpdates();       // picks up a changed checkInterval
+    }
+  }
+
+  Future<void> _playAdhan(String prayerName, {bool force = false}) async {
     if (_settings == null) return;
+
+    // Never play scheduled adhan when disabled (test playback is allowed)
+    if (!force && _settings!.adhanClockEnabled != true) {
+      print('Adhan clock disabled, not playing $prayerName');
+      return;
+    }
 
     String? adhanFile;
     switch (prayerName) {
@@ -296,7 +341,7 @@ class AdhanClockService {
 
       await _audioPlayer.stop();
 
-      await _audioPlayer.setVolume(_settings!.volume * 100);
+      await _audioPlayer.setVolume(_settings!.volume);
 
       await _audioPlayer.open(Media(bundlePath));
       await _audioPlayer.play();
@@ -306,11 +351,14 @@ class AdhanClockService {
   }
 
   Future<void> playTestAdhan(String prayerName) async {
+    // Make sure settings are fresh so the selected file is used
+    _settings = await AdhanSettings.load();
+
     if (_mainPlayerCallback != null) {
       await _mainPlayerCallback!();
     }
 
-    await _playAdhan(prayerName);
+    await _playAdhan(prayerName, force: true);
   }
 
   Future<void> stopAdhan() async {
@@ -339,12 +387,16 @@ class _PrayerTimeCalculator {
   });
 
   static const _methods = {
-    'ISNA': {'fajr': 15.0, 'isha': 15.0},
-    'MWL': {'fajr': 18.0, 'isha': 17.0},
-    'Egypt': {'fajr': 19.5, 'isha': 17.5},
-    'Makkah': {'fajr': 18.5, 'isha_minutes': 90.0},
+    'ISNA':    {'fajr': 15.0, 'isha': 15.0},
+    'MWL':     {'fajr': 18.0, 'isha': 17.0},
+    'Egypt':   {'fajr': 19.5, 'isha': 17.5},
+    'Makkah':  {'fajr': 18.5, 'isha_minutes': 90.0},
     'Karachi': {'fajr': 18.0, 'isha': 18.0},
-    'Tehran': {'fajr': 17.7, 'isha': 14.0},
+    'Tehran':  {'fajr': 17.7, 'isha': 14.0},
+    'Kuwait':  {'fajr': 18.0, 'isha': 17.5},
+    'Qatar':   {'fajr': 18.0, 'isha_minutes': 90.0},
+    'Algeria': {'fajr': 18.0, 'isha': 17.0},
+    'JAKIM':   {'fajr': 20.0, 'isha': 18.0},
   };
 
   Future<PrayerTimes> calculate(DateTime date) async {

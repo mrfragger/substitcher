@@ -36,6 +36,7 @@ class FontDatabase {
      'Mengshen-Handwritten Chinese': FontMetadata(fontName: 'Mengshen-Handwritten Chinese', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'MiSans Khmer': FontMetadata(fontName: 'MiSans Khmer', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'MiSans Thai': FontMetadata(fontName: 'MiSans Thai', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
+     'SourceHanSansTW Chinese (Traditional)': FontMetadata(fontName: 'SourceHanSansTW Chinese (Traditional)', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
 
   // ==================== free/arabic ====================
       'El Messiri': FontMetadata(fontName: 'El Messiri', mainCategory: FontCategory.free, subCategories: [FontCategory.arabic], studio: null),
