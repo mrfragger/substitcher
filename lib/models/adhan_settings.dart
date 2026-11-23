@@ -23,10 +23,10 @@ class AdhanSettings {
   double? latitude;
   double? longitude;
   bool showWhiteDays;
-  
+
   AdhanSettings({
     this.cityName = 'My City',
-    this.volume = 80,
+    this.volume = 0.8,
     this.fajrAdhan = 'Fajr_Azan_by_Shaykh_Ali_Ahmed_Mullah_4m35s.opus',
     this.sunriseAdhan = 'z_As-Salatu_Khayrun_Minan_Nawm_0m28s.opus',
     this.dhuhrAdhan = 'Turkish_Style_by_Remzi_Er_4m08s.opus',
@@ -48,12 +48,12 @@ class AdhanSettings {
     this.longitude,
     this.showWhiteDays = true,
   });
-  
+
   static Future<AdhanSettings> load() async {
     final prefs = await SharedPreferences.getInstance();
     return AdhanSettings(
       cityName: prefs.getString('adhan_city_name') ?? 'My City',
-      volume: prefs.getDouble('adhan_volume') ?? 80,
+      volume: prefs.getDouble('adhan_volume') ?? 0.8,
       fajrAdhan: prefs.getString('adhan_fajr') ?? 'Fajr_Azan_by_Shaykh_Ali_Ahmed_Mullah_4m35s.opus',
       sunriseAdhan: prefs.getString('adhan_sunrise') ?? 'z_As-Salatu_Khayrun_Minan_Nawm_0m28s.opus',
       dhuhrAdhan: prefs.getString('adhan_dhuhr') ?? 'Turkish_Style_by_Remzi_Er_4m08s.opus',
@@ -76,7 +76,7 @@ class AdhanSettings {
       showWhiteDays: prefs.getBool('adhan_show_white_days') ?? true,
     );
   }
-  
+
   Future<void> save() async {
     final prefs = await SharedPreferences.getInstance();
     await prefs.setString('adhan_city_name', cityName);

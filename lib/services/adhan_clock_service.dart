@@ -240,9 +240,7 @@ class AdhanClockService {
     print('Prayer time check completed');
   }
 
-  /// Called when the user toggles "Enable Adhan Clock".
   Future<void> setEnabled(bool enabled) async {
-    // Reload so the service sees the latest saved settings
     _settings = await AdhanSettings.load();
 
     if (!enabled) {
@@ -250,17 +248,29 @@ class AdhanClockService {
       _checkTimer?.cancel();
       _updateTimer = null;
       _checkTimer = null;
-      await _audioPlayer.stop(); // stop anything currently playing
+      await _audioPlayer.stop();
       _prayerTimes = null;
       _prayerTimesController.add(null);
-      _isInitialized = false; // allow re-initialize when re-enabled
       print('Adhan Clock disabled: timers cancelled, audio stopped');
       return;
     }
 
-    // Enabled: (re)initialize from scratch
-    _isInitialized = false;
-    await initialize();
+    // Enabled
+    _isInitialized = true;
+
+    // Only look up the location if we don't already have one
+    if (_latitude == null || _longitude == null) {
+      await _loadCoordinates();
+    }
+
+    if (_latitude != null && _longitude != null) {
+      await _calculatePrayerTimes();
+      _startPeriodicUpdates();
+      _checkForPrayerTime(); // plays right away if a prayer time is happening now
+      print('Adhan Clock enabled: timers restarted');
+    } else {
+      print('Adhan Clock enabled but no location available');
+    }
   }
 
   Future<void> reloadSettings() async {
@@ -280,7 +290,7 @@ class AdhanClockService {
   Future<void> _playAdhan(String prayerName, {bool force = false}) async {
     if (_settings == null) return;
 
-    // Never play scheduled adhan when disabled (test playback is allowed)
+    // Scheduled adhans never play when disabled; test playback (force) always can
     if (!force && _settings!.adhanClockEnabled != true) {
       print('Adhan clock disabled, not playing $prayerName');
       return;
@@ -341,17 +351,21 @@ class AdhanClockService {
 
       await _audioPlayer.stop();
 
-      await _audioPlayer.setVolume(_settings!.volume);
+      // Accept either a 0-1 fraction or a 0-100 percentage
+      final raw = _settings!.volume;
+      final vol = (raw <= 1.0 ? raw * 100 : raw).clamp(0.0, 100.0);
+      print('Setting adhan volume: raw=$raw -> $vol');
+      await _audioPlayer.setVolume(vol);
 
       await _audioPlayer.open(Media(bundlePath));
       await _audioPlayer.play();
+      print('Adhan playback started: $bundlePath');
     } catch (e) {
       print('Error playing adhan: $e');
     }
   }
 
   Future<void> playTestAdhan(String prayerName) async {
-    // Make sure settings are fresh so the selected file is used
     _settings = await AdhanSettings.load();
 
     if (_mainPlayerCallback != null) {
