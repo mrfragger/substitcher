@@ -1,0 +1,61 @@
+{
+  "title": "Balance biy jëm ci yàqu-yàqu",
+  "intro": "Ci gox bu naat te bari naataange, askan wuy dundal dafa bàyyi ñàkka doylu yàq marse bi. Ñu xamee leen ci mën jënd ak jaay ak bariwaay ci jardin yi ko wër, kuréel gi dafa jànkoonte ak wooteb njub ak ngëm. Waaye réy-réy ci alal moo jur ñaawtéef, lëndëm gu ñuul dajaloo ci horizon bi.",
+  "clues": [
+    "Dëkkandoo jëndkat yu am xaalis lañu woon, dëkk ci diggante jardin ak garabi àll.",
+    "Danuy nax nit ñi ci natt ak ci poñ, di tasaare ger ci réew mi.",
+    "Sunu Yonent bi daf nu artu ci jaamu Yàlla rek te nu joxe natt gu mat sëkk.",
+    "Nu ñaawal sunu ndaw, nu sàkku ci mbugal mu ñëw sudee dëgg lay wax.",
+    "Dañu nu jàpp ci yar bu Bisu Lëndëm gi, bi niir wi nu muur.",
+    "Xam nañu ma ci sahaba yu Bois yi, di askan wi ñu yónnee Shu’ayb."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Waa Samud",
+        "Sahaba yu Bois bi",
+        "Sahaba yi ci fosse bi",
+        "askanu ñay bi",
+        "Sahaba grotte"
+      ],
+      "answer": "Sahaba bois yi"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Jox nattukaay bu gàtt ak xeex sunu ndaw",
+        "Di sàkku gis Yàlla ci Tundu Sinai",
+        "Tabax ab tower ngir yegg ci asamaan si",
+        "nëbb ngëm ci nëbbu ci biir palaas",
+        "Jaamu naat bu wurus bi Musa amul"
+      ],
+      "answer": "Jox nattukaay bu gàtt ak xeex sunu ndaw"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Vallé sacré de Tuwa",
+        "Safara siñ defar mu sedd te wóor",
+        "Al-Aykah",
+        "Grotte bi am xaj buy nelaw ci buntu bi",
+        "Palais de verre à miroir"
+      ],
+      "answer": "Al-Aykah"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Dafa féey ci géej gi xaajaloo",
+        "Ñu wann ko ak alal ci kaw suuf",
+        "Ñu soppi leen nekk maymu ndax dañu sàggane bisu noflaay bi",
+        "Ñu mucc ci gaal gi ci kaw ndoxu mbënd mi",
+        "Yaxx nañu ko ci yar bu Bisu Lëndëm"
+      ],
+      "answer": "Yaxx nañu ko ci yar bu Bisu Lëndëm"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

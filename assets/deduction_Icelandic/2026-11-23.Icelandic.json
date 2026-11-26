@@ -1,0 +1,61 @@
+{
+  "title": "Yfirlýsingin um drukknunina",
+  "intro": "Ímyndaðu þér voldugan stjórnanda umkringdan dýrð, minnismerkjum og herjum sem hlýddi einni skipun. Þessi persóna krafðist æðsta valds, hafnaði guðlegum táknum sem blekkingum og fyrirskipaði óþreytandi eftirför til sjávar. Fylgdu slóðinni frá hrokafullum tilskipunum að sundurleitum vötnum, þar sem lokajátningin berst of seint til að bjarga.",
+  "clues": [
+    "Ég hafði algjört vald og hneppti Ísraelsmenn í þrældóm undir mína stjórn.",
+    "Ég lýsti mig vera æðsta herra og neitaði að viðurkenna neinn guð ofar mér.",
+    "Ég bauð Haman að reisa mér háan turn, svo að ég gæti litið til Músa-Guðs.",
+    "Ég stóð frammi fyrir Músa og Harun þegar þeir komu með skýr tákn og kallaði kraftaverk þeirra galdra.",
+    "Ég elti Músa og trúaða með herjum mínum um nóttina þar til við komum að sjónum.",
+    "Ég lýsti yfir trú þegar ég drukknaði í sjónum, en það var of seint og líkami minn varðveittist sem tákn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Namrud",
+        "Jalút (Gólíat)",
+        "Abú Jahl",
+        "Faraó (Fir'aun)",
+        "Haman"
+      ],
+      "answer": "Faraó (Fir'aun)"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Var kastað í eld sem varð kaldur og öruggur",
+        "Smíðaði örk til að lifa af mikla flóðið",
+        "Svaf í helli með félögum í mörg ár",
+        "Var gleypt af stórum fiski í djúpinu",
+        "Drukknaði þegar hann elti Músa og Ísraelsmenn gegnum klofið hafið."
+      ],
+      "answer": "Drukknaði þegar hann elti Músa og Ísraelsmenn gegnum klofið hafið."
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Magi hins mikla fisks",
+        "Hin helga moska í Mekka",
+        "Hið klofna haf",
+        "Hira-hellirinn",
+        "Garðurinn með rennandi ám"
+      ],
+      "answer": "Hið klofna haf"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Upprisinn lifandi til himins",
+        "Umbreytt fyrir að brjóta hvíldardaginn",
+        "Fyrirgefið og veitt löng friðsæl stjórn",
+        "Gleypt af jörðinni með fjársjóðum",
+        "Drukknaði í vantrú og líkami varðveittur sem tákn fyrir þá sem á eftir komu"
+      ],
+      "answer": "Drukknaði í vantrú og líkami varðveittur sem tákn fyrir þá sem á eftir komu"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

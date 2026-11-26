@@ -1,0 +1,61 @@
+{
+  "title": "D'Waage, déi Richtung Ruin gekippt huet",
+  "intro": "An enger üppeger a räicher Regioun huet eng bléiend Gemeinschaft Gier de Maart korruptéiere gelooss. Bekannt fir hir Fäegkeeten am Handel a fir hir Räichtum aus de Gäert ronderëm, stoung dës Grupp virun engem Opruff zu Fairness a Glawen. Awer Stolz op hire Räichtum huet zu Widderstand gefouert, an e donkelen Schiet huet sech um Horizont zesummegedoen.",
+  "clues": [
+    "Mir waren eng räich Handelsgemeinschaft, déi tëscht Gäert a Bëschbëscher gelieft huet.",
+    "Mir hunn d'Leit a Moosse a Gewiichter bedrunn a Korruptioun am Land verbreet.",
+    "Eise Gesandte huet eis gewarnt, Allah eleng ze ubidden a voll Mooss ze ginn.",
+    "Mir hunn eisen Bote verspott a gefuerdert, datt d'Strofe kënnt, wann hie wouer wier.",
+    "Mir goufe vun der Strof vum Dag vum Schiet gegraff, wéi eng Wollek eis iwwerschiedegt huet.",
+    "Ech sinn als d'Begleeder vum Bësch bekannt, d'Leit, zu deenen de Shu'ayb geschéckt gouf."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "D'Leit vun Thamud",
+        "D'Begleeder vum Bësch",
+        "D'Begleeder vum Trench",
+        "D'Leit vum Elefant",
+        "D'Begleeder vun der Höhl"
+      ],
+      "answer": "D'Begleeder vum Bësch"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Kuerz Mooss ginn an eisem Messenger trotzen",
+        "Fuerderung, Allah direkt um Bierg Sinai ze gesinn",
+        "En Tuerm bauen fir an den Himmel ze kommen",
+        "Verstoppt de Glawen am Geheimnis an engem Palais",
+        "E gëllene Kalb an der Ofwiesenheet vum Musa ubidden"
+      ],
+      "answer": "Kuerz Mooss ginn an eisem Messenger trotzen"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Dat hellegt Dall vun Tuwa",
+        "D'Feier, dat kill a sécher gemaach gouf",
+        "De bewaldete Bësch vun Al-Aykah",
+        "D'Höhl mat engem Schlofhond um Agank",
+        "De gespigelte Palais aus Glas"
+      ],
+      "answer": "De bewaldete Bësch vun Al-Aykah"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Am gedeelt Mier erdronk",
+        "Mat Schätz an d'Äerd verschléckt",
+        "An Affen transforméiert fir de Sabbat ze briechen",
+        "Gerett an enger Ark iwwer dem Iwwerschwemmungswaasser",
+        "Zerstéiert duerch d'Strofe vum Dag vum Schied"
+      ],
+      "answer": "Zerstéiert duerch d'Strofe vum Dag vum Schied"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

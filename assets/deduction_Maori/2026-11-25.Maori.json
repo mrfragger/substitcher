@@ -1,0 +1,61 @@
+{
+  "title": "Ngā Pauna i Tītaha ki te Whakangaromanga",
+  "intro": "I roto i tētahi rohe momona, whai rawa, i tukua e tētahi hapori whai rawa te apo kia whakakino i te mākete. I mōhiotia mō te pūkenga ki te hokohoko me te nui o te taonga mai i ngā māra huri noa, i tūtaki tēnei rōpū ki tētahi karanga ki te tika me te whakapono. Heoi, i arahina te whakapehapeha ki te taonga ki te whakakeke, ā, ka huihui mai tētahi atarangi pōuri ki te pae tawhiti.",
+  "clues": [
+    "He hapori hokohoko whai rawa mātou, e noho ana i roto i ngā māra me ngā uru rākau.",
+    "I tinihanga mātou i ngā mehua me ngā pauna, ā, i horapa te pirau ki runga ki te whenua.",
+    "I whakatūpatohia tātou e tā tātou karere kia karakia ki a Allah anake, kia mehua hoki i te mehua katoa.",
+    "I tawai mātou ki tā mātou karere, ā, i tono kia whiua ia mēnā he pono ia.",
+    "I hopukia mātou e te whiu o te Rā o te Atarangi i te wā i taupokina ai mātou e te kapua.",
+    "E mōhiotia ana ahau ko ngā Hoa o te Ngāhere, te iwi i tonoa atu ai a Shu'ayb ki a rātou."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te Iwi o Thamud",
+        "Ngā Hoa o te Ngāhere",
+        "Ngā Hoa o te Āwhata",
+        "Te Iwi o te Arewhana",
+        "Ngā Hoa o te Ana"
+      ],
+      "answer": "Ngā Hoa o te Ngāhere"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te whakapoto i te mehua, me te whakakeke i tā tātou karere",
+        "Te tono kia kite tika i a Allah i Maunga Hinai",
+        "Te hanga i tētahi pourewa hei eke ki te rangi",
+        "Te huna i te whakapono i roto i te whare kingi",
+        "Te karakia ki tētahi kuao kau koura i te ngaronga o Mohi"
+      ],
+      "answer": "Te whakapoto i te mehua, me te whakakeke i tā tātou karere"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te awaawa tapu o Tūwa",
+        "Te ahi i whakamataohia, i haumaruhia",
+        "Te ngahere o Al-Aykah",
+        "Te ana me te kurī moe i tōna tomokanga",
+        "Te whare whakaata o te karāhe"
+      ],
+      "answer": "Te ngahere o Al-Aykah"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I toremi i te moana wehewehe",
+        "Horomia ki te taonga ki te whenua",
+        "I hurihia hei makimaki mō te takahi i te Hāpati",
+        "I tiakina i roto i te āka i runga ake i te waipuke",
+        "I whakangaromia e te whiu o te Rā o te Atarangi"
+      ],
+      "answer": "I whakangaromia e te whiu o te Rā o te Atarangi"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

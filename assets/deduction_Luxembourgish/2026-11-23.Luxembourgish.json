@@ -1,0 +1,61 @@
+{
+  "title": "D'Erdronk-Deklaratioun",
+  "intro": "Stellt Iech e mächtege Herrscher vir, ëmgi vu Pracht, Monumenter an Arméien, déi engem eenzege Kommando gehorsam sinn. Dës Figur huet sech op déi iewescht Autoritéit beruff, huet göttlech Zeeche als Illusioun ofgedoen an eng onbarmhäerzeg Verfollegung Richtung Mier bestallt. Follegt dem Wee vun arrogante Dekreter bis zu getrennte Gewässer, wou e lescht Geständnis ze spéit kënnt fir ze retten.",
+  "clues": [
+    "Ech hat absolut Muecht a versklavt d'Kanner vun Israel ënner menger Herrschaft.",
+    "Ech hunn mech selwer als den héchsten Här erkläert a refuséiert, iergendeen Gott iwwer mir unzeerkennen.",
+    "Ech hunn dem Haman gebueden, mir en héijen Tuerm ze bauen, fir datt ech de Gott vum Musa kucke kéint.",
+    "Ech hunn de Musa an den Harun konfrontéiert, wéi si kloer Zeeche bruecht hunn, an ech hunn hir Wonner Zaubererei genannt.",
+    "Ech hunn de Musa an d'Gleeweger mat mengen Arméien an der Nuecht verfollegt, bis mir d'Mier erreecht hunn.",
+    "Ech hunn de Glawen erkläert, wéi ech am Mier erdronk sinn, awer et war ze spéit, a mäi Kierper ass als Zeeche bewahrt ginn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Namrud",
+        "Jalut (Goliath)",
+        "Abu Jahl",
+        "Pharao (Fir'aun)",
+        "Haman"
+      ],
+      "answer": "Pharao (Fir'aun)"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Gouf an e Feier gehäit, dat kill a sécher gouf",
+        "Eng Ark gebaut fir eng grouss Iwwerschwemmung ze iwwerliewen",
+        "Vill Jore mat Begleeder an enger Hiel geschlof",
+        "Gouf vun engem grousse Fësch an den Déiften verschléckt",
+        "Erdronk, wéi hien de Musa an d'Israeliten duerch dat gespléckt Mier verfollegt huet."
+      ],
+      "answer": "Erdronk, wéi hien de Musa an d'Israeliten duerch dat gespléckt Mier verfollegt huet."
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "De Bauch vum grousse Fësch",
+        "Déi helleg Moschee zu Mekka",
+        "Dat getrennt Mier",
+        "D'Höhl vun Hira",
+        "De Gaart mat fléissende Flëss"
+      ],
+      "answer": "Dat getrennt Mier"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Lieweg an den Himmel erhuewen",
+        "Verwandelt fir de Sabbat ze briechen",
+        "Verzeien an eng laang friddlech Herrschaft zougestanen",
+        "Vun der Äerd mat Schätz verschléckt",
+        "Am Ongleewe erdronk a Kierper als Zeeche fir déi Nokommen erhale bliwwen"
+      ],
+      "answer": "Am Ongleewe erdronk a Kierper als Zeeche fir déi Nokommen erhale bliwwen"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

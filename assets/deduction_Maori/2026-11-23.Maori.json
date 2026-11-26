@@ -1,0 +1,61 @@
+{
+  "title": "Te Whakapuakitanga i Toremitia",
+  "intro": "Whakaarohia tētahi rangatira kaha e karapotia ana e te kororia, ngā whakamaharatanga, me ngā ope taua e ngohengohe ana ki te whakahau kotahi. I kī tēnei tangata he mana teitei tōna, i whakakore i ngā tohu atua hei mānukanuka, ā, i whakahau i tētahi whainga mutunga kore ki te moana. Whāia te ara mai i ngā ture whakakake ki ngā wai wehe, te wāhi e tae mai ai te whakaae whakamutunga kua roa rawa hei whakaora.",
+  "clues": [
+    "I a au te mana tino nui, ā, i meinga e au ngā tamariki a Iharaira hei pononga māku.",
+    "I kī ahau ko ahau te ariki tino tiketike, ā, i whakakahore ki te whakaae ki tētahi atua i runga ake i ahau.",
+    "I whakahau ahau i a Hamana kia hanga he pourewa tiketike māku kia titiro atu ai ahau ki te Atua o Mohi.",
+    "I whakahē ahau i a Mohi rāua ko Harun i te mea i kawea mai e rāua ngā tohu mārama, ā, i kī ahau he makutu ā rāua merekara.",
+    "I te pō ka whaia e au a Mohi rātou ko te hunga whakapono me aku ope tae noa ki te moana.",
+    "I whakapuaki ahau i taku whakapono i a au e toremi ana i te moana, engari kua tomuri rawa, ā, i tiakina tōku tinana hei tohu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Namrud",
+        "Jalut (Koriata)",
+        "Āpu Jahl",
+        "Parao (Fir'aun)",
+        "Hāmana"
+      ],
+      "answer": "Parao (Fir'aun)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I maka ki roto i te ahi i whakamatao, i haumaru hoki",
+        "I hanga e ia he āka hei oranga mō te waipuke nui",
+        "I moe i roto i te ana me ngā hoa mō ngā tau maha",
+        "I horomia e te ika nui i te hohonu",
+        "I toremi i a ia e whai ana i a Mohi me ngā Iharaira i roto i te moana kua wehea"
+      ],
+      "answer": "I toremi i a ia e whai ana i a Mohi me ngā Iharaira i roto i te moana kua wehea"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te puku o te ika nui",
+        "Te Whare Karakia Tapu i Makkah",
+        "Te moana kua wehea",
+        "Te Ana o Hira",
+        "Te māra me ngā awa e rere ana"
+      ],
+      "answer": "Te moana kua wehea"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakaarahia ora ki te rangi",
+        "I whakaputa ketia mō te takahi i te Hāpati",
+        "I murua te hara, ā, i tukuna he kingitanga roa, he rangimārie hoki",
+        "Horomia ana e te whenua me ngā taonga",
+        "I toremi i te kore whakapono, ā, i tiakina te tinana hei tohu mō te hunga i muri mai"
+      ],
+      "answer": "I toremi i te kore whakapono, ā, i tiakina te tinana hei tohu mō te hunga i muri mai"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Tiirarka Sare ee Buuraha Dabayshu Qafayso",
+  "intro": "Bal qiyaas ilbaxnimo barwaaqo ah oo hibo u leh xoog aad u sarreeya iyo xirfad aan la barbar dhigi karin oo ku saabsan dhismaha. Iyada oo ku dhex nool dhulal waaweyn oo qaloocan, bulshadani waxay soo bandhigtay calaamado waaweyn oo taabanaya cidhifka sare. Haddana kibir ayaa xididaystay, baaq ah in lagu laabto cibaadada Alle oo keliya ayaa la kulmay diidmo. Waxa xigay waxa weli ah digniin dabaysha lafteeda la qaaday.",
+  "clues": [
+    "Waxaan ahayn ummad awood badan oo ka dambaysay reer Nuux, oo ku barakeysan dherer iyo xoog weyn.",
+    "Waxaan meel kasta oo sare ah ka dhisnay munaarado iyo taallooyin dhaadheer si aan u gaarno ciyaaraha iyo kibirka.",
+    "Waan ku faannay, annagoo nidhaahna yaa naga xoog badan, waxaanan si dulmi ah u dhaqannay annagoon naxariis lahayn.",
+    "Waxaan diidnay rasuulkeennii Huud markuu noogu yeeray inaan caabudno Alle kaligiis, isagoo ugu yeeray mid daciif ah oo beenaale ah.",
+    "Waan ku jeesjeesnay digniinta, waxaana ku boorinay inuu nagu soo rogo ciqaabta uu nagu hanjabay haddii uu run sheegayo.",
+    "Waxaa na burburiyay dabeylo xooggan oo aan waxba galabsan muddo toddoba habeen iyo siddeed maalmood ah, waxaana naga haray sidii jirrido godan oo geedo timireed ah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Dadka 'Ad'",
+        "Banu Nadiir",
+        "Reer Luudh",
+        "Dadka reer Madyan",
+        "Reer Thamuud"
+      ],
+      "answer": "Dadka 'Ad'"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Nebi Huud oo diiday oo ku faanay xoog sare",
+        "Waxaan qorsheeyay inaan dilo Nebi Yuusuf xaasidnimo awgeed",
+        "Wuu ku jeesjeesay Nuux markuu dhisayay Doontii",
+        "Waxay dalbatay hashii calaamad ahaan ka dibna way ka jartay",
+        "Wuu caabuday weyshii dahabka ahayd markii uu Muuse maqnaa"
+      ],
+      "answer": "Nebi Huud oo diiday oo ku faanay xoog sare"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Al-Ahqaf - ciid qaloocan oo dabaysha ku jirta",
+        "Ceelkii Thamuud oo dhagax lagu xardhay",
+        "Buur Siinay halkaas oo Tawreed laga helay",
+        "Webiga Niil ee boqortooyadii Fircoon",
+        "Dooxada Barakaysan ee Tuwa"
+      ],
+      "answer": "Al-Ahqaf - ciid qaloocan oo dabaysha ku jirta"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Ku qaraqmay daadkii weynaa ee dhulka qariyey",
+        "La liqay Qaruun dhulka kibir dartiis",
+        "Waxaa lagu daadiyay dhagaxyo dhoobo la dubay",
+        "Dhulgariir xooggan oo ku qabsaday guryahooda ayaa burburiyay",
+        "Waxaa burburiyay dabeylo qabow oo daran muddo toddobo habeen iyo siddeed maalmood ah"
+      ],
+      "answer": "Waxaa burburiyay dabeylo qabow oo daran muddo toddobo habeen iyo siddeed maalmood ah"
+    }
+  },
+  "verseRef": "46:22",
+  "arabic": "قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "They said, \"Have you come to delude us away from our gods? Then bring us what you promise us, if you should be of the truthful.\" (46:22)"
+}

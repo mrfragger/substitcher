@@ -1,0 +1,61 @@
+{
+  "title": "Na Scálaí a Chlaon i dTreo an Fhothraigh",
+  "intro": "I réigiún flúirseach rathúil, lig pobal rathúil don sannt an margadh a thruailliú. Ar a dtugtar as a scileanna trádála agus as a flúirse ó na gairdíní máguaird, bhí glao chun cothroime agus creidimh roimh an ngrúpa seo. Ach mar thoradh ar an mbród as an saibhreas, tháinig dúshlán, agus bhailigh scáth dorcha ar an léaslíne.",
+  "clues": [
+    "Ba phobal trádála rathúil muid a bhí ina gcónaí i measc gairdíní agus coillte.",
+    "Mheallamar daoine i dtomhais agus i meáchain, ag scaipeadh éillithe sa tír.",
+    "Thug ár dteachtaire rabhadh dúinn adhradh a thabhairt do Allah ina aonar agus an tomhas iomlán a thabhairt.",
+    "Rinneamar magadh faoinár dteachtaire agus d’éilíomar go dtiocfadh an pionós dá mbeadh sé fíor.",
+    "Ghabh pionós Lá an Scáth sinn nuair a chuir scamall scáth orainn.",
+    "Is aithne orm mar Chompánaigh na Coille, na daoine ar seoladh Shu'ayb chucu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Muintir Thamud",
+        "Comhluadar na Coille",
+        "Compánaigh an Trinse",
+        "Muintir an Eilifint",
+        "Compánaigh na hUaimhe"
+      ],
+      "answer": "Comhluadar na Coille"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Ag tabhairt gearr-thomhais agus ag cur i gcoinne ár dteachtaire",
+        "Ag éileamh go bhfeicfeadh sé Allah go díreach ag Sliabh Shíonáí",
+        "Ag tógáil túir chun na flaithis a bhaint amach",
+        "Creideamh i bhfolach i bpálás",
+        "Ag adhradh lao órga in éagmais Mhúsa"
+      ],
+      "answer": "Ag tabhairt gearr-thomhais agus ag cur i gcoinne ár dteachtaire"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Gleann naofa Tuwa",
+        "An tine a rinneadh fionnuar agus sábháilte",
+        "Coill choillteach Al-Aykah",
+        "An uaimh le madra codlata ag a bealach isteach",
+        "An pálás scáthánaithe gloine"
+      ],
+      "answer": "Coill choillteach Al-Aykah"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Báite sa bhfarraige roinnte",
+        "Slogtha le seoda isteach sa talamh",
+        "Claochlaithe ina n-apaí as briseadh na Sabóide",
+        "Sábháilte in áirc os cionn uiscí na tuile",
+        "Scriosta ag pionós Lá an Scáth"
+      ],
+      "answer": "Scriosta ag pionós Lá an Scáth"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

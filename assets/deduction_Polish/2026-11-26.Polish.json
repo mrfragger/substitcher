@@ -1,0 +1,61 @@
+{
+  "title": "Ogród ślubowany o świcie",
+  "intro": "W ciszy przed wschodem słońca, w tajemnicy uknuto plan. Kwitnący majątek czekał na żniwo, ale postanowiono nie dopuścić, by jakikolwiek owoc trafił w ręce potrzebujących. Rankiem wszystko będzie wyglądać obco, a lekcja zostanie wyryta na poczerniałych gałęziach dla wszystkich, którzy się nad tym zastanowią.",
+  "clues": [
+    "Odziedziczyliśmy kwitnący ogród i ślubowaliśmy, że sami zbierzemy wszystkie jego owoce.",
+    "Przysięgliśmy, że wyruszymy wcześnie rano o świcie, kiedy biedni, którzy poprosili o swoją część, jeszcze spali.",
+    "Nie uczyniliśmy żadnego wyjątku od naszej przysięgi i odmówiliśmy prawa potrzebującym, nie pytając, czy Allah tak chce.",
+    "Szeptaliśmy między sobą, żeby tego dnia żaden biedny człowiek nie wszedł do naszego ogrodu.",
+    "Wyobrażaliśmy sobie, że jesteśmy w stanie zebrać wszystko i uniemożliwić każdemu zbieraczowi zabranie choćby jednej porcji.",
+    "Obudziliśmy się i zobaczyliśmy, że nasz ogród został w nocy zrujnowany, poczerniały, jakby został po żniwach. Powiedzieliśmy, że jesteśmy pozbawieni wszystkiego i żałujemy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Towarzysze Okopu",
+        "Towarzysze Ogrodu",
+        "Posłańcy miasta w Surze Jasin",
+        "Ludzie Słonia",
+        "Strażnicy Piekielnego Ognia"
+      ],
+      "answer": "Towarzysze Ogrodu"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Złożenie ofiary z krowy w celu rozwiązania sporu o morderstwo",
+        "Wyzwanie dla proroka, aby strącił kamienie z nieba",
+        "Spisek na żniwa o świcie, podczas którego odmawia się ubogim ich udziału",
+        "Łamanie szabatu poprzez rozstawianie sieci rybackich",
+        "Budowa tamy w celu kontrolowania wód powodziowych na potrzeby handlu"
+      ],
+      "answer": "Spisek na żniwa o świcie, podczas którego odmawia się ubogim ich udziału"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Święta dolina Tuwa, gdzie widziano ogień",
+        "Ogrodzony ogród, w którym owoce będą zbierane rano",
+        "Lustrzana podłoga pałacu pomylona z wodą",
+        "Drewniana arka zbudowana według boskiego nakazu",
+        "Żelazny mur zbudowany między dwiema górami"
+      ],
+      "answer": "Ogrodzony ogród, w którym owoce będą zbierane rano"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Za łamanie szabatu zamieniono nas w małpy",
+        "Spaliśmy w jaskini przez trzysta dziewięć lat",
+        "Ziemia nas pochłonęła, a skarby nas zachwyciły",
+        "Nasz ogród został zniszczony w ciągu nocy i poczerniały jak noc",
+        "Utonęliśmy w morzu, ścigając wierzących"
+      ],
+      "answer": "Nasz ogród został zniszczony w ciągu nocy i poczerniały jak noc"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

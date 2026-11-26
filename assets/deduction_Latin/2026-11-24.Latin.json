@@ -1,0 +1,61 @@
+{
+  "title": "Columnae Altae Dunarum Vento Explosarum",
+  "intro": "Finge tibi civilizationem florentem, praeditam viribus eminentibus et arte aedificandi incomparabili. Inter vastas curvasque dunas sita, haec communitas insignia extulit quae horizontem tetigerunt. Attamen superbia radices egit, et vocatio ad cultum solius Allah revertendum cum contumacia excepta est. Quod secutum est, admonitio a vento ipso lata manet.",
+  "clues": [
+    "Gens potens eramus, quae post populum Nuh orta est, magna statura et viribus praedita.",
+    "Turres altas et monumenta in omni loco excelso ad solum ludum et gloriam aedificavimus.",
+    "Gloriabamur dicentes quis nobis potentior esset fortitudine, et tyrannice egimus sine misericordia.",
+    "Nuntium nostrum Hud repudiavimus cum nos ad Allah solum adorandum vocavit, eum imbecillem et mendacem appellans.",
+    "Monitum derisimus et eum provocavimus ut, si verax esset, poenam quam minatus est nobis inferret.",
+    "Vento saevo ac sterili per septem noctes et octo dies deleti sumus, instar truncorum palmarum cavorum prostrati relicti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Populus 'Ad",
+        "Banu Nadir",
+        "Populus Lut",
+        "Populus Madyani",
+        "Populus Thamud"
+      ],
+      "answer": "Populus 'Ad"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Prophetam Hud reiecit et de viribus superioribus gloriatus est.",
+        "Invidiae causa, prophetam Iosue necandi consilium ceperunt.",
+        "Nuh irrisit dum Arcam aedificabat",
+        "Camelam in signum postulavit, deinde eam funibus interfecit",
+        "Vitulum aureum Musae absente adoravit"
+      ],
+      "answer": "Prophetam Hud reiecit et de viribus superioribus gloriatus est."
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Al-Ahqaf - dunae arenosae vento curvatae",
+        "Puteus Thamud in lapide sculptus",
+        "Mons Sinai ubi Torah accepta est",
+        "Nilus regni Pharaonis",
+        "Vallis Sacra Tuwae"
+      ],
+      "answer": "Al-Ahqaf - dunae arenosae vento curvatae"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Submersi in magno diluvio quod terram obtexit",
+        "Cum Qarune in terram propter arrogantiam absorptus",
+        "Pluvi lapidibus argillae coctae superfusi",
+        "Ingenti terrae motu deleti, qui eos in domibus suis rapuit",
+        "Vento glaciali vehementi per septem noctes et octo dies vastatus"
+      ],
+      "answer": "Vento glaciali vehementi per septem noctes et octo dies vastatus"
+    }
+  },
+  "verseRef": "46:22",
+  "arabic": "قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "They said, \"Have you come to delude us away from our gods? Then bring us what you promise us, if you should be of the truthful.\" (46:22)"
+}

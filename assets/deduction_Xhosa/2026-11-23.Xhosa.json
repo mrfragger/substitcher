@@ -1,0 +1,61 @@
+{
+  "title": "Isibhengezo sokuNgcwaba",
+  "intro": "Khawucinge ngomlawuli onamandla ojikelezwe bubuqaqawuli, izikhumbuzo, nemikhosi ethobela umyalelo omnye. Lo mntu wathabatha igunya eliphezulu, wayilahla imiqondiso kaThixo njengenkohliso, waza wayalela ukuba kulandelelwe elwandle ngokungenalusini. Landela umkhondo ukusuka kwimithetho yokuzikhukhumeza ukuya emanzini ahlukeneyo, apho uvumo lokugqibela lufika emva kwexesha kakhulu ukuba lungasindiswa.",
+  "clues": [
+    "Ndandinamandla apheleleyo kwaye ndabakhoboka abantwana bakwaSirayeli phantsi kolawulo lwam.",
+    "Ndazibiza ngokuba ndinguYehova ophakamileyo kwaye ndala ukuvuma nawuphi na uthixo ngaphezu kwam.",
+    "Ndayalela uHaman ukuba andakhele inqaba ephakamileyo ukuze ndijonge uThixo kaMoses.",
+    "Ndajongana noMusa noHarun xa bezisa imiqondiso ecacileyo, ndaza ndathi imimangaliso yabo bubugqwirha.",
+    "Ndamsukela uMusa namakholwa kunye nemikhosi yam ebusuku sada safika elwandle.",
+    "Ndathi ndiyakholelwa xa ndanditshona elwandle, kodwa kwase kudlule ixesha, umzimba wam wagcinwa njengophawu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "INamrud",
+        "UJalut (uGoliyati)",
+        "U-Abu Jahl",
+        "UFaro (uFir'aun)",
+        "UHaman"
+      ],
+      "answer": "UFaro (uFir'aun)"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Waphoswa emlilweni owaba pholileyo kwaye ukhuselekile",
+        "Wakha umkhombe ukuze asinde kumkhukula omkhulu",
+        "Ndalala emqolombeni nabahlobo bam iminyaka emininzi",
+        "Ndaginywa yintlanzi enkulu enzulwini",
+        "Batshona ngelixa besukela uMoses namaSirayeli kulwandle olwahlulwe phakathi"
+      ],
+      "answer": "Batshona ngelixa besukela uMoses namaSirayeli kulwandle olwahlulwe phakathi"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Isisu sentlanzi enkulu",
+        "I-Mosque Engcwele eMakkah",
+        "Ulwandle oluhlukanisiweyo",
+        "Umqolomba waseHira",
+        "Igadi enemilambo equkuqelayo"
+      ],
+      "answer": "Ulwandle oluhlukanisiweyo"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Uvuselwe ezulwini ephila",
+        "Uguqulwe ngenxa yokwaphula iSabatha",
+        "Uxolelwe kwaye unikwe ulawulo olude olunoxolo",
+        "Uginywe ngumhlaba ngobutyebi",
+        "Ukuntywiliselwa kukungazi kwaye umzimba ugcinwe njengophawu lwabo basemva"
+      ],
+      "answer": "Ukuntywiliselwa kukungazi kwaye umzimba ugcinwe njengophawu lwabo basemva"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

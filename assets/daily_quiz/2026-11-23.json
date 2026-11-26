@@ -1,0 +1,733 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "كَلِمَاتُ الِاتِّجَاهِ وَالْمَوْقِعِ",
+        "nameEn": "Directional words indicating position",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "بَيْنَهُمْ",
+            "en": "between them",
+            "ref": "34:54",
+            "verse": "وَحِيلَ بَيْنَهُمْ وَبَيْنَ مَا يَشْتَهُونَ كَمَا فُعِلَ بِأَشْيَاعِهِم مِّن قَبْلُ ۚ إِنَّهُمْ كَانُوا۟ فِى شَكٍّۢ مُّرِيبٍۭ",
+            "verseEn": "And prevention will be placed between them and what they desire, as was done with their kind before. Indeed, they were in disquieting doubt [i.e., denial]."
+          },
+          {
+            "ar": "فَوْقِهِمْ",
+            "en": "above them",
+            "ref": "16:50",
+            "verse": "يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ ۩",
+            "verseEn": "They fear their Lord above them, and they do what they are commanded."
+          },
+          {
+            "ar": "تَحْتِ",
+            "en": "below",
+            "ref": "29:55",
+            "verse": "يَوْمَ يَغْشَىٰهُمُ ٱلْعَذَابُ مِن فَوْقِهِمْ وَمِن تَحْتِ أَرْجُلِهِمْ وَيَقُولُ ذُوقُوا۟ مَا كُنتُمْ تَعْمَلُونَ",
+            "verseEn": "On the Day the punishment will cover them from above them and from below their feet and it is said, \"Taste [the result of] what you used to do.\""
+          },
+          {
+            "ar": "تِلْقَاءَ",
+            "en": "towards",
+            "ref": "7:47",
+            "verse": "۞ وَإِذَا صُرِفَتْ أَبْصَـٰرُهُمْ تِلْقَآءَ أَصْحَـٰبِ ٱلنَّارِ قَالُوا۟ رَبَّنَا لَا تَجْعَلْنَا مَعَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+            "verseEn": "And when their eyes are turned toward the companions of the Fire, they say, \"Our Lord, do not place us with the wrongdoing people.\""
+          }
+        ]
+      },
+      {
+        "name": "أَفْعَالُ الْمَجِيءِ وَالرُّجُوعِ وَالنَّجَاةِ",
+        "nameEn": "Verbs of coming, returning and rescuing",
+        "color": "green",
+        "items": [
+          {
+            "ar": "جِئْنَاكَ",
+            "en": "we have come to you",
+            "ref": "15:63",
+            "verse": "قَالُوا۟ بَلْ جِئْنَـٰكَ بِمَا كَانُوا۟ فِيهِ يَمْتَرُونَ",
+            "verseEn": "They said, \"But we have come to you with that about which they were disputing,"
+          },
+          {
+            "ar": "تَأْتِيَهُمُ",
+            "en": "(should) come to them",
+            "ref": "16:33",
+            "verse": "هَلْ يَنظُرُونَ إِلَّآ أَن تَأْتِيَهُمُ ٱلْمَلَـٰٓئِكَةُ أَوْ يَأْتِىَ أَمْرُ رَبِّكَ ۚ كَذَٰلِكَ فَعَلَ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ وَمَا ظَلَمَهُمُ ٱللَّهُ وَلَـٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ",
+            "verseEn": "Do they [i.e., the disbelievers] await except that the angels should come to them or there comes the command of your Lord? Thus did those do before them. And Allāh wronged them not, but they had been wronging themselves."
+          },
+          {
+            "ar": "فَرَجَعُوا",
+            "en": "So they returned",
+            "ref": "21:64",
+            "verse": "فَرَجَعُوٓا۟ إِلَىٰٓ أَنفُسِهِمْ فَقَالُوٓا۟ إِنَّكُمْ أَنتُمُ ٱلظَّـٰلِمُونَ",
+            "verseEn": "So they returned to [blaming] themselves and said [to each other], \"Indeed, you are the wrongdoers.\""
+          },
+          {
+            "ar": "وَأَنجَيْنَا",
+            "en": "And We saved",
+            "ref": "26:65",
+            "verse": "وَأَنجَيْنَا مُوسَىٰ وَمَن مَّعَهُۥٓ أَجْمَعِينَ",
+            "verseEn": "And We saved Moses and those with him, all together."
+          }
+        ]
+      },
+      {
+        "name": "أَلْقَابُ الرُّسُلِ وَعَطَايَاهُمْ",
+        "nameEn": "Prophetic titles and divine gifts",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "رَسُولٌ",
+            "en": "a Messenger",
+            "ref": "7:61",
+            "verse": "قَالَ يَـٰقَوْمِ لَيْسَ بِى ضَلَـٰلَةٌۭ وَلَـٰكِنِّى رَسُولٌۭ مِّن رَّبِّ ٱلْعَـٰلَمِينَ",
+            "verseEn": "[Noah] said, \"O my people, there is not error in me, but I am a messenger from the Lord of the worlds."
+          },
+          {
+            "ar": "نَذِيرٌ",
+            "en": "a warner",
+            "ref": "38:70",
+            "verse": "إِن يُوحَىٰٓ إِلَىَّ إِلَّآ أَنَّمَآ أَنَا۠ نَذِيرٌۭ مُّبِينٌ",
+            "verseEn": "It has not been revealed to me except that I am a clear warner.\""
+          },
+          {
+            "ar": "وَالنُّبُوَّةَ",
+            "en": "and the Prophethood",
+            "ref": "6:89",
+            "verse": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ ءَاتَيْنَـٰهُمُ ٱلْكِتَـٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ۚ فَإِن يَكْفُرْ بِهَا هَـٰٓؤُلَآءِ فَقَدْ وَكَّلْنَا بِهَا قَوْمًۭا لَّيْسُوا۟ بِهَا بِكَـٰفِرِينَ",
+            "verseEn": "Those are the ones to whom We gave the Scripture and authority and prophethood. But if they [i.e., the disbelievers] deny it, then We have entrusted it to a people who are not therein disbelievers."
+          },
+          {
+            "ar": "عَبْدٌ",
+            "en": "a slave",
+            "ref": "43:59",
+            "verse": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+            "verseEn": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel."
+          }
+        ]
+      },
+      {
+        "name": "مَأْكُولَاتٌ وَمَشْرُوبَاتٌ وَأَرْزَاقٌ",
+        "nameEn": "Foods, drinks and consumable provisions",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "الطَّعَامَ",
+            "en": "the food",
+            "ref": "21:8",
+            "verse": "وَمَا جَعَلْنَـٰهُمْ جَسَدًۭا لَّا يَأْكُلُونَ ٱلطَّعَامَ وَمَا كَانُوا۟ خَـٰلِدِينَ",
+            "verseEn": "And We did not make them [i.e., the prophets] forms not eating food, nor were they immortal [on earth]."
+          },
+          {
+            "ar": "وَمَشَارِبُ",
+            "en": "and drinks",
+            "ref": "36:73",
+            "verse": "وَلَهُمْ فِيهَا مَنَـٰفِعُ وَمَشَارِبُ ۖ أَفَلَا يَشْكُرُونَ",
+            "verseEn": "And for them therein are [other] benefits and drinks, so will they not be grateful?"
+          },
+          {
+            "ar": "رِزْقًا",
+            "en": "any provision",
+            "ref": "16:73",
+            "verse": "وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَمْلِكُ لَهُمْ رِزْقًۭا مِّنَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ شَيْـًۭٔا وَلَا يَسْتَطِيعُونَ",
+            "verseEn": "And they worship besides Allāh that which does not possess for them [the power of] provision from the heavens and the earth at all, and [in fact], they are unable."
+          },
+          {
+            "ar": "طَيِّبَاتِكُمْ",
+            "en": "your good things",
+            "ref": "46:20",
+            "verse": "وَيَوْمَ يُعْرَضُ ٱلَّذِينَ كَفَرُوا۟ عَلَى ٱلنَّارِ أَذْهَبْتُمْ طَيِّبَـٰتِكُمْ فِى حَيَاتِكُمُ ٱلدُّنْيَا وَٱسْتَمْتَعْتُم بِهَا فَٱلْيَوْمَ تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَسْتَكْبِرُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَبِمَا كُنتُمْ تَفْسُقُونَ",
+            "verseEn": "And the Day those who disbelieved are exposed to the Fire [it will be said], \"You exhausted your pleasures during your worldly life and enjoyed them, so this Day you will be awarded the punishment of [extreme] humiliation because you were arrogant upon the earth without right and because you were defiantly disobedient.\""
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "سبع",
+    "display": "سَبْعَ",
+    "hint": "The count of heavens Allah created, matching days of the week",
+    "verseRef": "65:12",
+    "arabicVerse": "ٱللَّهُ ٱلَّذِى خَلَقَ سَبْعَ سَمَـٰوَٰتٍۢ وَمِنَ ٱلْأَرْضِ مِثْلَهُنَّ يَتَنَزَّلُ ٱلْأَمْرُ بَيْنَهُنَّ لِتَعْلَمُوٓا۟ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ وَأَنَّ ٱللَّهَ قَدْ أَحَاطَ بِكُلِّ شَىْءٍ عِلْمًۢا",
+    "verse": "65:12 - It is Allāh who has created seven heavens and of the earth, the like of them. [His] command descends among them so you may know that Allāh is over all things competent and that Allāh has encompassed all things in knowledge."
+  },
+  "scramble": {
+    "verseRef": "33:43",
+    "reference": "Al-Ahzab (33:43)",
+    "segments": [
+      "هُوَ الَّذِي يُصَلِّي",
+      "عَلَيْكُمْ وَمَلَائِكَتُهُ",
+      "لِيُخْرِجَكُم مِّنَ الظُّلُمَاتِ",
+      "إِلَى النُّورِ وَكَانَ",
+      "بِالْمُؤْمِنِينَ رَحِيمًا"
+    ],
+    "translations": [
+      "He (is) the One Who sends His blessings",
+      "upon you and His Angels so that He may bring you out",
+      "from the darkness[es] to",
+      "the light And He is",
+      "to the believers Merciful"
+    ],
+    "hint": "Allah's mercy and blessings bring believers from darkness to light",
+    "arabic": "هُوَ ٱلَّذِى يُصَلِّى عَلَيْكُمْ وَمَلَـٰٓئِكَتُهُۥ لِيُخْرِجَكُم مِّنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ ۚ وَكَانَ بِٱلْمُؤْمِنِينَ رَحِيمًۭا",
+    "words": [
+      "هُوَ ٱلَّذِى يُصَلِّى",
+      "عَلَيْكُمْ وَمَلَـٰٓئِكَتُهُۥ لِيُخْرِجَكُم",
+      "مِّنَ ٱلظُّلُمَـٰتِ إِلَى",
+      "ٱلنُّورِ ۚ وَكَانَ",
+      "بِٱلْمُؤْمِنِينَ رَحِيمًۭا"
+    ],
+    "verseEn": "It is He who confers blessing upon you, and His angels [ask Him to do so] that He may bring you out from darknesses into the light. And ever is He, to the believers, Merciful."
+  },
+  "roothive": {
+    "center": "ل",
+    "outer": [
+      "ع",
+      "م",
+      "ف",
+      "ت",
+      "ا",
+      "و"
+    ],
+    "root": {
+      "letters": "فعل",
+      "display": "ف ع ل",
+      "translit": "f-ʿ-l",
+      "meaning": "It means to do or make something happen. Its different forms show the action from different sides.",
+      "occurrences": 108,
+      "lemmaCount": 6
+    },
+    "words": [
+      {
+        "w": "افل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَفَلَ",
+            "gloss": "set",
+            "type": "verb",
+            "root": "أفل",
+            "count": 3,
+            "ref": "6:76",
+            "pos": 11,
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "الف",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَلْف",
+            "gloss": "thousand",
+            "type": "noun",
+            "root": "ألف",
+            "count": 14,
+            "ref": "2:96",
+            "pos": 13,
+            "alt": [
+              "thousands",
+              "two thousand"
+            ]
+          },
+          {
+            "lemma": "أَلَّفَ",
+            "gloss": "put affection",
+            "type": "verb",
+            "root": "ألف",
+            "count": 5,
+            "ref": "8:63",
+            "pos": 16,
+            "alt": [
+              "joins"
+            ],
+            "form": 2
+          },
+          {
+            "lemma": "أَلْفَ",
+            "gloss": "found",
+            "type": "verb",
+            "root": "لفو",
+            "count": 3,
+            "ref": "2:170",
+            "pos": 12,
+            "alt": [
+              "both found"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "امل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَمَل",
+            "gloss": "hope",
+            "type": "noun",
+            "root": "أمل",
+            "count": 2,
+            "ref": "18:46",
+            "pos": 13
+          }
+        ]
+      },
+      {
+        "w": "اول",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَوَّل",
+            "gloss": "first",
+            "type": "noun",
+            "root": "أول",
+            "count": 82,
+            "ref": "2:41",
+            "pos": 9
+          }
+        ]
+      },
+      {
+        "w": "علا",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عَلا",
+            "gloss": "exalted himself",
+            "type": "verb",
+            "root": "علو",
+            "count": 6,
+            "ref": "28:4",
+            "pos": 3,
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "علم",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عَلِمَ",
+            "gloss": "knew",
+            "type": "verb",
+            "root": "علم",
+            "count": 382,
+            "ref": "2:30",
+            "pos": 25,
+            "alt": [
+              "knows",
+              "know"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "عِلْم",
+            "gloss": "knowledge",
+            "type": "noun",
+            "root": "علم",
+            "count": 105,
+            "ref": "2:32",
+            "pos": 4,
+            "alt": [
+              "any knowledge",
+              "having known"
+            ]
+          },
+          {
+            "lemma": "عَلَّمَ",
+            "gloss": "taught",
+            "type": "verb",
+            "root": "علم",
+            "count": 41,
+            "ref": "55:2",
+            "pos": 1,
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "علو",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عُلُوّ",
+            "gloss": "haughtiness",
+            "type": "noun",
+            "root": "علو",
+            "count": 4,
+            "ref": "17:4",
+            "pos": 12,
+            "alt": [
+              "height",
+              "exaltedness"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "عمل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عَمِلَ",
+            "gloss": "did",
+            "type": "verb",
+            "root": "عمل",
+            "count": 276,
+            "ref": "3:30",
+            "pos": 6,
+            "alt": [
+              "does",
+              "do"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "عَمَل",
+            "gloss": "deed",
+            "type": "noun",
+            "root": "عمل",
+            "count": 71,
+            "ref": "3:195",
+            "pos": 7,
+            "alt": [
+              "deeds",
+              "work"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "فعل",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "فَعَلَ",
+            "gloss": "does",
+            "type": "verb",
+            "root": "فعل",
+            "count": 88,
+            "ref": "2:85",
+            "pos": 31,
+            "alt": [
+              "did",
+              "do"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "فِعْل",
+            "gloss": "doing",
+            "type": "verbal noun",
+            "root": "فعل",
+            "count": 1,
+            "ref": "21:73",
+            "pos": 7
+          }
+        ]
+      },
+      {
+        "w": "مال",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مال",
+            "gloss": "wealth",
+            "type": "noun",
+            "root": "مول",
+            "count": 86,
+            "ref": "2:188",
+            "pos": 13,
+            "alt": [
+              "any wealth",
+              "wealth of allah"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ملا",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَلَأ",
+            "gloss": "chiefs",
+            "type": "noun",
+            "root": "ملأ",
+            "count": 30,
+            "ref": "11:38",
+            "pos": 6
+          }
+        ]
+      },
+      {
+        "w": "اعلم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَعْلَم",
+            "gloss": "most knowing",
+            "type": "noun",
+            "root": "علم",
+            "count": 49,
+            "ref": "2:140",
+            "pos": 15,
+            "alt": [
+              "knows best",
+              "know best"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "الاف",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "إِلاف",
+            "gloss": "familiarity",
+            "type": "verbal noun",
+            "root": "ألف",
+            "count": 2,
+            "ref": "106:1",
+            "pos": 1
+          }
+        ]
+      },
+      {
+        "w": "عالم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "عالَم",
+            "gloss": "worlds",
+            "type": "noun",
+            "root": "علم",
+            "count": 73,
+            "ref": "1:2",
+            "pos": 4,
+            "alt": [
+              "to the worlds",
+              "universe"
+            ]
+          },
+          {
+            "lemma": "عالِم",
+            "gloss": "knower",
+            "type": "active participle",
+            "root": "علم",
+            "count": 18,
+            "ref": "6:73",
+            "pos": 19,
+            "alt": [
+              "all-knower",
+              "well-knowing"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "عامل",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "عامِل",
+            "gloss": "working",
+            "type": "active participle",
+            "root": "عمل",
+            "count": 12,
+            "ref": "3:195",
+            "pos": 8,
+            "alt": [
+              "doer",
+              "worker"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "علام",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "عَلّام",
+            "gloss": "all-knower",
+            "type": "noun",
+            "root": "علم",
+            "count": 4,
+            "ref": "5:109",
+            "pos": 14,
+            "alt": [
+              "knower"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "فاعل",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "فاعِل",
+            "gloss": "doers",
+            "type": "active participle",
+            "root": "فعل",
+            "count": 9,
+            "ref": "12:10",
+            "pos": 16,
+            "alt": [
+              "doing",
+              "do"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "فعال",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "فَعّال",
+            "gloss": "all-accomplisher",
+            "type": "active participle",
+            "root": "فعل",
+            "count": 2,
+            "ref": "11:107",
+            "pos": 13,
+            "alt": [
+              "doer"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "فعلت",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "فَعْلَت",
+            "gloss": "deed",
+            "type": "verbal noun",
+            "root": "فعل",
+            "count": 1,
+            "ref": "26:19",
+            "pos": 2
+          }
+        ]
+      },
+      {
+        "w": "لولو",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "لُؤْلُؤ",
+            "gloss": "pearls",
+            "type": "noun",
+            "root": "لؤلؤ",
+            "count": 6,
+            "ref": "52:24",
+            "pos": 6
+          }
+        ]
+      },
+      {
+        "w": "ملوم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَلُوم",
+            "gloss": "blameworthy",
+            "type": "passive participle",
+            "root": "لوم",
+            "count": 5,
+            "ref": "17:29",
+            "pos": 12
+          }
+        ]
+      },
+      {
+        "w": "اعلام",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "أَعْلام",
+            "gloss": "like mountains",
+            "type": "noun",
+            "root": "علم",
+            "count": 2,
+            "ref": "42:32",
+            "pos": 6
+          }
+        ]
+      },
+      {
+        "w": "معلوم",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مَعْلُوم",
+            "gloss": "known",
+            "type": "passive participle",
+            "root": "علم",
+            "count": 11,
+            "ref": "15:4",
+            "pos": 8,
+            "alt": [
+              "well-known",
+              "determined"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مفعول",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "مَفْعُول",
+            "gloss": "destined",
+            "type": "passive participle",
+            "root": "فعل",
+            "count": 7,
+            "ref": "4:47",
+            "pos": 28,
+            "alt": [
+              "executed",
+              "fulfilled"
+            ]
+          }
+        ]
+      }
+    ],
+    "otherFamily": [],
+    "maxScore": 50,
+    "featuredRoot": "فعل"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Daxuyaniya Xeniqandî",
+  "intro": "Xeyal bikin ku hukumdarekî bi hêz dorpêçkirî bi şahiyê, abîdeyan û artêşên ku li gorî yek fermanê tevdigerin. Vê kesayetiyê desthilatdariya herî bilind îdîa kir, nîşanên îlahî wekî xeyal red kirin û ferman da ku bênavber ber bi deryayê ve biçin. Li pey rêça ji fermanên serbilind ber bi avên veqetandî ve biçin, ku li wir îtîrafeke dawî pir dereng tê ku xilas bike.",
+  "clues": [
+    "Min desthilatdariya mutleq girt û Zarokên Îsraîl xistin bin hukumdariya xwe.",
+    "Min xwe wek xudanê herî bilind îlan kir û min red kir ku xwedayek li jor xwe nas bikim.",
+    "Min ferman da Haman ku ji min re bircêkî bilind ava bike da ku ez bikaribim li Xwedayê Mûsa binêrim.",
+    "Dema ku Mûsa û Harûn nîşanên eşkere anîn, min bi wan re rûbirû ma û min mûcîzeyên wan wekî sêrbazî bi nav kir.",
+    "Min bi şev bi leşkerên xwe li pey Mûsa û bawermendan çûm heta ku em gihîştin deryayê.",
+    "Dema ku ez di deryayê de dixeniqîm, min baweriya xwe îlan kir, lê pir dereng bû, û laşê min wekî nîşanek hate parastin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Nemrûd",
+        "Calut (Golyat)",
+        "Ebû Cehl",
+        "Fîrewn (Firewn)",
+        "Haman"
+      ],
+      "answer": "Fîrewn (Firewn)"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Hat avêtin nav agirê ku sar û ewle bû",
+        "Ji bo ku ji lehiyê mezin xilas bibe, keştîyek ava kir",
+        "Bi salan bi hevalên xwe re di şikeftekê de raza",
+        "Di kûrahiyê de ji aliyê masiyek mezin ve hat daqurtandin",
+        "Dema ku li pey Mûsa û Îsraîliyan di deryaya şeqat de diçû, xeniqî."
+      ],
+      "answer": "Dema ku li pey Mûsa û Îsraîliyan di deryaya şeqat de diçû, xeniqî."
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Zikê masiyê mezin",
+        "Mizgefta Pîroz li Mekkeyê",
+        "Deryaya perçebûyî",
+        "Şikefta Hîra",
+        "Baxçeyê bi çemên ku diherikin"
+      ],
+      "answer": "Deryaya perçebûyî"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Zindî ber bi asîmanan ve hat rakirin",
+        "Ji bo şikandina Şemiyê hat guhertin",
+        "Bexşandin û serweriyek aştiyane ya dirêj hat dayîn",
+        "Erdê bi xezîneyan daqurtand",
+        "Di bêbaweriyê de xeniqîn û laş wekî nîşanek ji bo kesên piştî wê hatin parastin"
+      ],
+      "answer": "Di bêbaweriyê de xeniqîn û laş wekî nîşanek ji bo kesên piştî wê hatin parastin"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

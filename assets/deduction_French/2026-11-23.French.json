@@ -1,0 +1,61 @@
+{
+  "title": "La déclaration des noyés",
+  "intro": "Imaginez un souverain puissant, entouré de splendeur, de monuments et d'armées obéissantes à un seul ordre. Ce personnage revendiquait l'autorité suprême, rejetait les signes divins comme des illusions et ordonnait une poursuite implacable vers la mer. Suivez la piste de ses décrets arrogants jusqu'aux eaux qui se séparent, où une confession finale arrive trop tard pour sauver le monde.",
+  "clues": [
+    "J'exerçais un pouvoir absolu et réduisais les Enfants d'Israël en esclavage sous mon autorité.",
+    "Je me suis proclamé seigneur suprême et j'ai refusé de reconnaître un dieu supérieur à moi.",
+    "J'ai ordonné à Haman de me construire une tour très haute afin que je puisse contempler le Dieu de Moïse.",
+    "J'ai confronté Moïse et Aaron lorsqu'ils ont apporté des signes évidents, et j'ai qualifié leurs miracles de sorcellerie.",
+    "J'ai poursuivi Moïse et les croyants avec mes armées pendant la nuit jusqu'à ce que nous atteignions la mer.",
+    "J'ai proclamé ma foi alors que je me noyais en mer, mais il était trop tard, et mon corps a été préservé comme un signe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Namrud",
+        "Jalut (Goliath)",
+        "Abou Jahl",
+        "Pharaon (Firaun)",
+        "Haman"
+      ],
+      "answer": "Pharaon (Firaun)"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "A été jeté dans un feu qui s'est refroidi et est devenu sûr",
+        "Ils ont construit une arche pour survivre à un grand déluge.",
+        "J'ai dormi dans une grotte avec des compagnons pendant de nombreuses années.",
+        "A été avalé par un grand poisson dans les profondeurs",
+        "Ils se sont noyés en poursuivant Moïse et les Israélites à travers la mer Écarlate."
+      ],
+      "answer": "Ils se sont noyés en poursuivant Moïse et les Israélites à travers la mer Écarlate."
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Le ventre du grand poisson",
+        "La Mosquée sacrée de La Mecque",
+        "La mer séparée",
+        "La grotte de Hira",
+        "Le jardin aux rivières sinueuses"
+      ],
+      "answer": "La mer séparée"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Ressuscité vivant jusqu'aux cieux",
+        "Transformé pour avoir enfreint le sabbat",
+        "Pardonné et bénéficiant d'un long règne paisible",
+        "Englouti par la terre avec ses trésors",
+        "Noyés dans l'incrédulité, leur corps préservé comme un signe pour ceux qui suivent"
+      ],
+      "answer": "Noyés dans l'incrédulité, leur corps préservé comme un signe pour ceux qui suivent"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

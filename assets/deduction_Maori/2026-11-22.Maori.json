@@ -1,0 +1,61 @@
+{
+  "title": "Ngā rautau e iwa o te karangatanga",
+  "intro": "Whakaarohia te tū takitahi i mua i te tai o te tawai mō te roa atu i te aranga me te hinganga o ngā emepaea, e karanga ana i te pō me te ao, me te hipoki o ngā taringa, me te kumea o ngā kākahu. Kei mua i a koe tētahi waka i hangaia ki runga i te whenua maroke me ngā wai kāore i kitea i mua. Ka taea e koe te rongo i te manawanui i muri i tēnei tere o te pōwhiri?",
+  "clues": [
+    "I karanga ahau i tōku iwi i te ao, i te pō, i te huna, i te tūmatanui hoki, kia karakia ki a Allah anake.",
+    "I kuhu mai taku iwi i ō rātou maihao ki roto ki ō rātou taringa, ā, i takai i ō rātou kākahu ki te tahuri ke i ahau.",
+    "I noho ahau i waenganui i tōku iwi mō ngā tau e iwa rau e rima tekau, e karanga ana i a rātou ki te arataki.",
+    "I hanga e au tētahi oko i raro i ngā kanohi o Allah me āna whakakitenga, i te mea e tawai ana taku iwi ki ahau i runga i te whenua maroke.",
+    "I whakahaua ahau kia kawe takirua i runga i te waka, o ia momo, o ia momo, me te hunga whakapono hoki, i te taenga mai o te whakahau, ā, ka puea ake te oumu.",
+    "I mātakitaki ahau i ngā ngaru e ara ake ana me he maunga, i te waipuke e toremi ana i te hunga i whakakahore, i te mea i whakaorangia e Allah te hunga i roto i te Āraka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Dhul-Kifl",
+        "Poropiti Al-Yasa (Eriha)",
+        "Poropiti a Noa (Noa)",
+        "Poropiti a Ruta (Rota)",
+        "Poropiti Muhammad"
+      ],
+      "answer": "Poropiti a Noa (Noa)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I tiaki i tōku whaea mā te kōrero i te wā e tamariki ana",
+        "I whakamārama i te moemoeā a te rangatira i a ia e noho ana i te whare herehere",
+        "I karanga ahau i taku iwi i te pō, i te ao, mō ngā tau 950",
+        "I tangohia oratia, ā, i whakaarahia ki te tūranga teitei",
+        "I horomia e te ika nui o te moana"
+      ],
+      "answer": "I karanga ahau i taku iwi i te pō, i te ao, mō ngā tau 950"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te kuao kau koura o te koraha",
+        "Nā te ahi i whakamatao, i haumaru hoki",
+        "Te whare kingi me te papa karāhe",
+        "Te Āraka (Al-Fulk)",
+        "Ko te tokotoko i huri hei nakahi"
+      ],
+      "answer": "Te Āraka (Al-Fulk)"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakangaromia tōku iwi e te hau makariri mō ngā pō e whitu",
+        "I toremi ngā kaiwhakahē i te Waipuke Nui, ā, i whakaorangia ngā whakapono",
+        "I whakangaromia tōku iwi e te pahūtanga nui i tētahi ata",
+        "I meinga taku iwi hei makimaki mō te hara",
+        "I horomia tōku iwi e te whenua i te whakapehapeha"
+      ],
+      "answer": "I toremi ngā kaiwhakahē i te Waipuke Nui, ā, i whakaorangia ngā whakapono"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

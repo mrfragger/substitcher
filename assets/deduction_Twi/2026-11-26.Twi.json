@@ -1,0 +1,61 @@
+{
+  "title": "Turo no Kaa Bɔ wɔ Adekyee",
+  "intro": "Wɔ nnɔnhwerew a na ɛhɔ yɛ dinn ansa na owia apue no, wɔyɛɛ nhyehyɛe bi wɔ kokoam. Agyapade a ɛrenya nkɔso gyinaa hɔ a wɔasiesie ama otwa, nanso wɔhyehyɛɛ bo a wɔasi sɛ wɔbɛma aba biara atwe wɔn ho afi wɔn a wohia mmoa ho. Eduu anɔpa no, na biribiara bɛyɛ te sɛ nea wonnim, na na wɔakyerɛw asuade bi wɔ nkorabata a ayɛ tuntum mu ama wɔn a wosusuw nneɛma ho nyinaa.",
+  "clues": [
+    "Yenyaa turo a na ɛyɛ frɔmfrɔm fii awo mu na yɛkaa ntam sɛ yebetwa emu aba nyinaa ama yɛn ho.",
+    "Yɛkaa ntam sɛ yebepue anɔpatutuutu bere a na ahiafo a wɔsrɛɛ wɔn kyɛfa no da so ada.",
+    "Yeyii biribiara a yeyi firii yen ntam no mu na yesiee hokwan a ahiafo no wɔ a yɛanka sɛ Allah pɛ a.",
+    "Yefii adi bɔɔ yɛn ho yɛn ho asereserew sɛ yɛmma ohiani biara kwan mma ɔnhyɛn yɛn turo mu saa da no.",
+    "Yɛyɛɛ yɛn ho mfonini sɛ yebetumi aboaboa biribiara ano koraa na yɛasiw obiara a ɔboaboa nneɛma ano no kwan sɛ ɔrennye kyɛfa bi.",
+    "Yɛsɔree na yehuu sɛ yɛn turo no asɛe anadwo, ayɛ tuntum te sɛ nea wɔatwa, na yɛkae sɛ wɔahwere yɛn na yɛanu yɛn ho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Ahokafoɔ a Wɔwɔ Trench no mu",
+        "Turo no mu Ahokafoɔ",
+        "Kuro no mu Asomafoɔ a wɔwɔ Surah Ya-Sin mu",
+        "Nnipa a Wɔyɛ Asono",
+        "Hellgya Ahwɛfo"
+      ],
+      "answer": "Turo no mu Ahokafoɔ"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Nantwi a wɔde bɔ afɔre de siesie awudi ho akasakasa",
+        "Ɔde to odiyifo bi mpoa sɛ ɔmfa abo mfi soro mmra",
+        "Wɔbɔ pɔw sɛ wobetwa ade anɔpatutuutu bere a wɔpow ahiafo kyɛfa",
+        "Homeda a wobebu denam mpataayi asau a wɔbɛhyehyɛ so",
+        "Atare a wɔbɛsi de asiw nsuyiri nsu ano de adi gua"
+      ],
+      "answer": "Wɔbɔ pɔw sɛ wobetwa ade anɔpatutuutu bere a wɔpow ahiafo kyɛfa"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Tuwa bon kronkron a wohuu ogya no",
+        "Turo mu nnuaba turo a wɔatwa ho afasu a ɛsɛ sɛ wotwa anɔpa",
+        "Ahemfie fam a wɔde ahwehwɛ ayɛ a wodi mfomso dii mfomso sɛ ɛyɛ nsu",
+        "Nnua adaka a wosii wɔ ɔsoro nkyerɛkyerɛ ase",
+        "Dade fasu a wɔasi wɔ mmepɔw abien ntam no"
+      ],
+      "answer": "Turo mu nnuaba turo a wɔatwa ho afasu a ɛsɛ sɛ wotwa anɔpa"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wɔdanee yɛn sɛ akraman esiane Homeda a yɛabu so nti",
+        "Yɛdaa ɔbodan bi mu mfe ahasa ne akron",
+        "Asase de ademude menee yɛn de yɛɛ ahantan",
+        "Wɔsɛee yɛn turo no anadwo biako na wogyaw no tuntum te sɛ anadwo",
+        "Wɔmenee yɛn wɔ ɛpo mu bere a na yɛredi agyidifo no akyi no"
+      ],
+      "answer": "Wɔsɛee yɛn turo no anadwo biako na wogyaw no tuntum te sɛ anadwo"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Utopljena deklaracija",
+  "intro": "Zamislite moćnog vladara okruženog sjajem, spomenicima i vojskama poslušnim jednoj naredbi. Ova figura je tvrdila da je prisvojila vrhovnu vlast, odbacila božanske znakove kao iluziju i naredila neumoljivu potjeru prema moru. Pratite trag od arogantnih dekreta do razdvojenih voda, gdje konačno priznanje stiže prekasno da bi spasilo.",
+  "clues": [
+    "Imao sam apsolutnu moć i porobio sam djecu Izraela pod svojom vlašću.",
+    "Proglasio sam se najvišim gospodarom i odbio sam priznati bilo kojeg boga iznad sebe.",
+    "Naredio sam Hamanu da mi sagradi visoku kulu da bih mogao gledati Boga Muse.",
+    "Suočio sam se s Musom i Harunom kada su donijeli jasne znakove, a njihova čuda sam nazvao sihirom.",
+    "Noću sam progonio Musu i vjernike sa svojim vojskama sve dok nismo stigli do mora.",
+    "Izjavio sam vjeru dok sam se davio u moru, ali bilo je prekasno, i moje tijelo je sačuvano kao znak."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Namrud",
+        "Džalut (Golijat)",
+        "Ebu Džehl",
+        "Faraon (Faraon)",
+        "Haman"
+      ],
+      "answer": "Faraon (Faraon)"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Bačen je u vatru koja je postala hladna i sigurna",
+        "Izgradio je arku da preživi veliku poplavu",
+        "Godinama je spavao u pećini sa svojim pratiocima.",
+        "Progutala ga je velika riba u dubinama",
+        "Utopio se dok je progonio Musu i Izraelce kroz razdvojeno more"
+      ],
+      "answer": "Utopio se dok je progonio Musu i Izraelce kroz razdvojeno more"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Utroba velike ribe",
+        "Sveta džamija u Meki",
+        "Razdvojeno more",
+        "Pećina Hira",
+        "Vrt s tekućim rijekama"
+      ],
+      "answer": "Razdvojeno more"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Živ uzdignut do neba",
+        "Preobraženi zbog kršenja subote",
+        "Oprošteno i podareno dugo mirno vladanje",
+        "Progutana zemljom s blagom",
+        "Utopljen u nevjerici, a tijelo sačuvano kao znak za one poslije"
+      ],
+      "answer": "Utopljen u nevjerici, a tijelo sačuvano kao znak za one poslije"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

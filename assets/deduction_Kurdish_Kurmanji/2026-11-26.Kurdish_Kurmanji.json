@@ -1,0 +1,61 @@
+{
+  "title": "Baxçeyê di Şefeqê de Sond Da",
+  "intro": "Di saetên bêdeng ên beriya rojhilatê de, planeke bi dizî hatibû çêkirin. Mîrateke geş ji bo çinînê amade bû, lê biryarek hatibû dayîn ku her fêkî ji kesên hewcedar dûr were girtin. Heta sibehê, her tişt dê nenas xuya bikira, û ders dê li ser şaxên reşbûyî ji bo hemû kesên ku difikirin bihata nivîsandin.",
+  "clues": [
+    "Me baxçeyekî geş mîras girt û sond xwar ku em hemû fêkiyên wê ji xwe re berhev bikin.",
+    "Me sond xwar ku em ê di sibehê de zû derkevin, dema ku belengazên ku para xwe dixwestin hîn jî di xew de bûn.",
+    "Me her îstîsna ji sonda xwe derxist û bêyî ku em bibêjin heke Xwedê bixwaze, mafê feqîran parast.",
+    "Em bi hev re bi çirpekî derketin derve da ku wê rojê tu feqîr nekevin nav baxçeyê me.",
+    "Me xeyal dikir ku em dikarin her tiştî berhev bikin û rê li ber her kesî bigirin ku perçeyek ji wê berhev bike.",
+    "Em şiyar bûn û dîtin ku baxçeyê me di şevê de wêran bûye, reş bûbû mîna ku hatibe çinîn, û me got ku em mehrûm û poşman in."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Hevalên Xendekê",
+        "Hevalên Baxçeyê",
+        "Peyamnêrên Bajêr di Sûreya Yasîn de",
+        "Gelê Fîl",
+        "Parêzvanên Cehenemê"
+      ],
+      "answer": "Hevalên Baxçeyê"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Qurbankirina ga ji bo çareserkirina nakokiya kuştinê",
+        "Pêxemberekî teşwîq dikin ku keviran ji ezmanan bîne xwarê",
+        "Pîlankirina çinînê di sibehê de di heman demê de înkarkirina para xizanan",
+        "Şikandina Şemiyê bi danîna torên masîgiriyê",
+        "Avakirina bendavekê ji bo kontrolkirina ava lehiyê ji bo bazirganiyê"
+      ],
+      "answer": "Pîlankirina çinînê di sibehê de di heman demê de înkarkirina para xizanan"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Geliyê pîroz ê Tuwa ku agir lê hat dîtin",
+        "Baxçeyê dîwarkirî yê ku sibê tê çinîn",
+        "Erdên qesrê yên bi neynik şaşî wek avê dihatin hesibandin",
+        "Keştiya darîn bi talîmatên Xwedê hatiye çêkirin",
+        "Dîwarê hesinî di navbera du çiyayan de hatiye avakirin"
+      ],
+      "answer": "Baxçeyê dîwarkirî yê ku sibê tê çinîn"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Ji ber binpêkirina roja Şemiyê em bûn meymûn",
+        "Em sêsed û neh salan di şikeftekê de razayî",
+        "Em ji aliyê erdê ve bi xezîneyên ji bo serbilindiyê hatin daqurtandin",
+        "Baxçeyê me di şevekê de wêran bû û wek şevê reş ma",
+        "Dema ku em li dû bawermendan diketin, em di deryayê de xeniqîn"
+      ],
+      "answer": "Baxçeyê me di şevekê de wêran bû û wek şevê reş ma"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

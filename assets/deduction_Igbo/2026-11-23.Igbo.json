@@ -1,0 +1,61 @@
+{
+  "title": "Nkwupụta Mmiri Gbara",
+  "intro": "Chee echiche banyere otu onye ọchịchị dị ike gbara ya gburugburu nke e ji ịma mma, ihe ncheta, na usuu ndị agha na-erubere otu iwu isi. Onye a kwuru na ọ bụ onye nwere ikike kachasị elu, leghara ihe ịrịba ama Chineke anya dị ka ihe efu, ma nye iwu ka a chụsoo ya n'oké osimiri mgbe niile. Soro ụzọ site n'iwu mpako ruo na mmiri kewara ekewa, ebe nkwupụta ikpeazụ na-abịa n'oge na-adịghị anya iji zọpụta.",
+  "clues": [
+    "M ji ike zuru oke ma mee ka ụmụ Izrel bụrụ ohu n'okpuru ọchịchị m.",
+    "Akpọpụtara m onwe m onye nwe m kachasị elu ma jụ ikweta chi ọ bụla karịrị m.",
+    "Enyere m Heman iwu ka o wuoro m ụlọ elu dị elu ka m wee lee Chineke nke Mozis anya.",
+    "M zutere Mozis na Harọn mgbe ha wetara ihe ịrịba ama doro anya, akpọkwara m ọrụ ebube ha anwansi.",
+    "M chụsoro Mozis na ndị kwere ekwe na ndị agha m n'abalị ruo mgbe anyị rutere n'oké osimiri.",
+    "Ekwupụtara m nkwenye m mgbe m na-emikpu n'oké osimiri, mana oge agafeela, e chekwara ahụ m dị ka ihe ịrịba ama."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Namrud",
+        "Jalut (Goliath)",
+        "Abu Jahl",
+        "Fero (Fero)",
+        "Haman"
+      ],
+      "answer": "Fero (Fero)"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "A tụbara ya n'ọkụ nke ghọrọ oyi ma dị nchebe",
+        "Wuru ụgbọ iji lanarị oké idei mmiri",
+        "Mụ na ndị enyi m dinara n'ọgba ruo ọtụtụ afọ",
+        "Azụ̀ dị ukwuu loro ya n'ime omimi",
+        "Mmiri gbawara mgbe ọ na-achụ Mozis na ụmụ Izrel n'oké osimiri kewara ekewa"
+      ],
+      "answer": "Mmiri gbawara mgbe ọ na-achụ Mozis na ụmụ Izrel n'oké osimiri kewara ekewa"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Afọ nke nnukwu azụ̀",
+        "Ụlọ alakụba dị nsọ na Makkah",
+        "Oké osimiri ahụ kewara ekewa",
+        "Ọgba Hira",
+        "Ubi ahụ nwere osimiri ndị na-asọ asọ"
+      ],
+      "answer": "Oké osimiri ahụ kewara ekewa"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "A kpọlitere ya dị ndụ gaa n'eluigwe",
+        "A gbanwere ya maka imebi ụbọchị izu ike",
+        "Agbagharala ya ma nye ya ọchịchị udo dị ogologo",
+        "Ala loro ya na akụ̀",
+        "Mmiri gbawara n'ekweghị ekwe ma chekwaa ahụ ya dị ka ihe ịrịba ama nye ndị mechara"
+      ],
+      "answer": "Mmiri gbawara n'ekweghị ekwe ma chekwaa ahụ ya dị ka ihe ịrịba ama nye ndị mechara"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

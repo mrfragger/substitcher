@@ -1,0 +1,61 @@
+{
+  "title": "Bindu Rakapikwa Mambakwedza",
+  "intro": "Munguva yerunyararo zuva risati rabuda, hurongwa hwakaitwa muchivande. Nhaka inokura yakamira yakagadzirira kukohwa, asi chisarudzo chakaitwa chekuchengetedza michero yese kure nevanoshaya. Mangwanani, zvese zvaizoita sezvisingazivikanwe, uye chidzidzo chaizove chakavezwa kuita matavi matema kune vese vanofungisisa.",
+  "clues": [
+    "Takagara nhaka bindu rakanaka uye takavimbisa kukohwa michero yaro yese kuti tiwane isu pachedu.",
+    "Takapika kuti taizobuda mangwanani-ngwanani varombo vaikumbira mugove wavo vachiri vakarara.",
+    "Takabvisa chero chinhu chipi zvacho chatakanga tavimbisa uye takanyima kodzero dzevanoshaya tisingataure kana Allah achida.",
+    "Takabuda tichizevezerana kuti pasabvumidzwe murombo kupinda mubindu redu musi iwoyo.",
+    "Takazvifungidzira tichikwanisa kuunganidza zvese uye kudzivirira chero munhu anounganidza kuti asatore chikamu.",
+    "Takamuka tikaona bindu redu raparadzwa husiku, rakasviba sekunge rakakohwewa, uye takati taive tisina mari uye taive tava kupfidza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Shamwari dzeMugero",
+        "Shamwari dzemubindu",
+        "Vatumwa veGuta muSurah Ya-Sin",
+        "Vanhu veNzou",
+        "Varindi veGehena"
+      ],
+      "answer": "Shamwari dzemubindu"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kubayira mombe kuti igadzirise gakava rekuponda",
+        "Kudenha muporofita kuti aburutse matombo kubva kudenga",
+        "Kuronga kukohwa mangwanani vachinyima varombo mugove wavo",
+        "Kuputsa Sabata nekuisa mambure ekuredza hove",
+        "Kuvaka dhamu rekudzora mafashamo emvura yekutengeserana"
+      ],
+      "answer": "Kuronga kukohwa mangwanani vachinyima varombo mugove wavo"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Mupata mutsvene weTuwa uko kwakaonekwa moto",
+        "Munda wemichero une rusvingo uchakohwewa mangwanani",
+        "Pasi peimba yeumambo ine girazi rinofungidzirwa kuti mvura",
+        "Areka yematanda yakavakwa pasi pemirairo yaMwari",
+        "Rusvingo rwesimbi rwakavakwa pakati pemakomo maviri"
+      ],
+      "answer": "Munda wemichero une rusvingo uchakohwewa mangwanani"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Takashandurwa kuita tsoko nekuda kwekutyora Sabata",
+        "Takarara mubako kwemakore mazana matatu nemapfumbamwe",
+        "Takamedzwa nenyika nepfuma yekuzvikudza",
+        "Bindu redu rakaparadzwa nehusiku humwe chete ndokusiyiwa rakasviba sehusiku",
+        "Takanyura mugungwa tichitevera vatendi"
+      ],
+      "answer": "Bindu redu rakaparadzwa nehusiku humwe chete ndokusiyiwa rakasviba sehusiku"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A mérleg nyelve, amely a romlás felé billent",
+  "intro": "Egy buja és virágzó régióban egy virágzó közösség hagyta, hogy a kapzsiság megrontsa a piacot. A kereskedelmi ügyességéről és a környező kertek bőségéről ismert csoport szembesült a tisztesség és a hit hívásával. A gazdagság feletti büszkeség azonban dachoz vezetett, és sötét árnyék gyűlt össze a horizonton.",
+  "clues": [
+    "Virágzó kereskedőközösség voltunk, kertek és erdős ligetek között éltünk.",
+    "Mértékekkel és súlyokkal csaltuk az embereket, romlást terjesztettünk az országban.",
+    "A küldöttünk arra figyelmeztetett minket, hogy egyedül Allahot imádjuk, és teljes mértékkel adjunk.",
+    "Gúnyoltuk a küldöttünket, és büntetést követeltünk, ha igazat mond.",
+    "Az Árnyék Napjának büntetése ragadt el minket, amikor egy felhő árnyékba borított minket.",
+    "Engem az Erdő Társaiként ismernek, azokként a népként, akikhez Shu'ayb küldetett."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Thamud népe",
+        "Az erdő társai",
+        "Az árok társai",
+        "Az elefánt népe",
+        "A barlang társai"
+      ],
+      "answer": "Az erdő társai"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Röviden adva és dacolva a hírnökünkkel",
+        "Követelve, hogy közvetlenül láthassák Allahot a Sínai-hegyen",
+        "Tornyot építeni, hogy elérjük az eget",
+        "A hit titokban egy palotában rejtőzködik",
+        "Aranyborjú imádása Mózes távollétében"
+      ],
+      "answer": "Röviden adva és dacolva a hírnökünkkel"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A szent Tuwa völgy",
+        "A hűvös és biztonságos tűz",
+        "Az Al-Aykah erdős ligete",
+        "A barlang, amelynek bejáratánál egy alvó kutyája van",
+        "A tükrös üvegpalota"
+      ],
+      "answer": "Az Al-Aykah erdős ligete"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Megfulladva a kettéosztott tengerben",
+        "Kincsekkel elnyelve a földbe",
+        "Majmokká változtak a szombat megszegéséért",
+        "Megmentve egy bárkában az özönvíz felett",
+        "Az Árnyék Napjának büntetése által elpusztítva"
+      ],
+      "answer": "Az Árnyék Napjának büntetése által elpusztítva"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

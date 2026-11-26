@@ -1,0 +1,61 @@
+{
+  "title": "Hondamendirantz makurtu ziren balantza",
+  "intro": "Eskualde oparo eta oparo batean, komunitate oparoak gutizia merkatua usteltzen utzi zuen. Merkataritzan trebetasunagatik eta inguruko baratzeetako ugaritasunagatik ezagunak, talde honek zuzentasunerako eta federako dei bat jasan zuen. Hala ere, aberastasunarekiko harrotasunak desafiora eraman zuen, eta itzal ilun bat sortu zen horizontean.",
+  "clues": [
+    "Lorategi eta baso artean bizi zen merkataritza-komunitate oparoa ginen.",
+    "Jendea neurri eta pisuetan iruzur egin genuen, ustelkeria zabalduz herrialdean.",
+    "Gure mezulariak ohartarazi zigun Ala bakarrik gurtzeko eta neurri osoa emateko.",
+    "Gure mezularia iseka egin genion eta egiazkoa bazen etorriko zen zigorra eskatu genuen.",
+    "Itzalaren Egunaren zigorrak harrapatu gintuen hodei batek estali gintuenean.",
+    "Basoko Lagunak bezala ezagutzen naiz, Shu'ayb bidali zitzaien jendea."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Thamudeko jendea",
+        "Basoko Lagunak.",
+        "Lubakiaren Lagunak",
+        "Elefantearen Jendea",
+        "Kobazuloko Lagunak"
+      ],
+      "answer": "Basoko Lagunak."
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Neurri laburra emanez eta gure mezulariari aurre eginez",
+        "Sinai mendian Ala zuzenean ikusteko eskaera",
+        "Dorre bat eraikitzen zerura iristeko",
+        "Fedea jauregi baten barruan ezkutatzea",
+        "Musa ez dagoenean urrezko txahal bat gurtzea"
+      ],
+      "answer": "Neurri laburra emanez eta gure mezulariari aurre eginez"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Tuwako haran sakratua",
+        "Hoztu eta seguru bihurtu zen sua",
+        "Al-Aykah-ko baso-saila",
+        "Sarreran lo egiten duen txakurra duen kobazuloa",
+        "Kristalezko ispiluzko jauregia"
+      ],
+      "answer": "Al-Aykah-ko baso-saila"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Itsaso zatituan itota",
+        "Altxorrekin lurrera irentsiak",
+        "Sabbath hausteagatik tximino bihurtuak",
+        "Uholde-uraren gaineko arka batean gordeta",
+        "Itzalaren Egunaren zigorrak suntsitua"
+      ],
+      "answer": "Itzalaren Egunaren zigorrak suntsitua"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

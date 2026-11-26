@@ -1,0 +1,61 @@
+{
+  "title": "Vågen som tippade mot undergång",
+  "intro": "I en frodig och välmående region lät ett blomstrande samhälle girighet korrumpera marknaden. Känd för skicklighet i handel och överflöd från omgivande trädgårdar, stod denna grupp inför en kallelse till rättvisa och tro. Ändå ledde stolthet över rikedom till trots, och en mörk skugga samlades vid horisonten.",
+  "clues": [
+    "Vi var ett välmående handelssamhälle som levde bland trädgårdar och skogsklädda lundar.",
+    "Vi lurade människor i mått och vikt och spred korruption i landet.",
+    "Vi blev varnade av vår budbärare att dyrka Allah allena och att ge fullt mått.",
+    "Vi hånade vår budbärare och krävde att straffet skulle komma om han talade sanning.",
+    "Vi greps av skuggans dags straff när ett moln överskuggade oss.",
+    "Jag är känd som Skogens följeslagare, folket till vilket Shu'ayb sändes."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Folket i Thamud",
+        "Skogens följeslagare",
+        "Skyttegravens följeslagare",
+        "Elefantens folk",
+        "Grottans följeslagare"
+      ],
+      "answer": "Skogens följeslagare"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Att ge korta mått och trotsa vår budbärare",
+        "Kräva att få träffa Allah direkt vid berget Sinai",
+        "Bygga ett torn för att nå himlen",
+        "Gömma tron ​​i hemlighet inuti ett palats",
+        "Att dyrka en guldkalv i Musas frånvaro"
+      ],
+      "answer": "Att ge korta mått och trotsa vår budbärare"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Tuwas heliga dal",
+        "Elden som gjordes sval och säker",
+        "Den skogsklädda lunden i Al-Aykah",
+        "Grottan med en sovande hund vid ingången",
+        "Det speglade glaspalatset"
+      ],
+      "answer": "Den skogsklädda lunden i Al-Aykah"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Drunknade i det delade havet",
+        "Slukad med skatter i jorden",
+        "Förvandlades till apor för att de bröt sabbaten",
+        "Räddad i en ark ovanför flodvattnet",
+        "Förstörda av skuggans dags straff"
+      ],
+      "answer": "Förstörda av skuggans dags straff"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

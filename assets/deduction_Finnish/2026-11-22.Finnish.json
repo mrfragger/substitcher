@@ -1,0 +1,61 @@
+{
+  "title": "Yhdeksän vuosisataa kutsumusta",
+  "intro": "Kuvittele seisovasi yksin pilkan aaltoa vastaan ​​pidempään kuin imperiumit nousevat ja kaatuvat, kutsuen yötä päivää korvat peitettyinä ja vaatteet tiukasti kiristettyinä. Edessä on kuivalle maalle ja vesille rakennettu alus, jollaista ei ole ennen nähty. Tunnetko kärsivällisyyden tämän kutsumaratonin takana?",
+  "clues": [
+    "Kutsuin kansaani yötä päivää, salaa ja julkisesti, palvomaan yksin Allahia.",
+    "Kansani työnsi sormensa korviinsa ja kietoi vaatteet ympärilleen kääntyäkseen poispäin minusta.",
+    "Pysyin kansani keskuudessa yhdeksänsataaviisikymmentä vuotta kutsuen heitä johdatuksi.",
+    "Rakensin astian Allahin silmien ja ilmestyksen alla, kun kansani pilkkasi minua kuivalla maalla.",
+    "Minua käskettiin kantamaan kyytiin pareittain kaikenlaisia ​​ja uskovia, kun käsky tuli ja uuni pursui yli.",
+    "Katselin aaltojen nousevan kuin vuoret, kun tulva hukutti ne, jotka hylkäsivät, kun taas Allah pelasti arkissa olevat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Dhul-Kifl",
+        "Profeetta Al-Yasa (Elisa)",
+        "Profeetta Nuh (Nooa)",
+        "Profeetta Lut (Lot)",
+        "Profeetta Muhammed"
+      ],
+      "answer": "Profeetta Nuh (Nooa)"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Puolustin äitiäni puhumalla vauvaiässä",
+        "Tulkitti hallitsijan unen vankilassa ollessaan",
+        "Kutsuin kansaani yötä päivää 950 vuotta",
+        "Otettiin elävältä ylös ja nostettiin korkeaan asemaan",
+        "Suuri kala nielaisi meressä"
+      ],
+      "answer": "Kutsuin kansaani yötä päivää 950 vuotta"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Erämaan kultainen vasikka",
+        "Tuli teki viileäksi ja turvalliseksi",
+        "Palatsi, jossa on lasilattia",
+        "Arkki (Al-Fulk)",
+        "Sauva, josta tuli käärme"
+      ],
+      "answer": "Arkki (Al-Fulk)"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Jäätävä tuuli tuhosi kansani seitsemän yön ajan",
+        "Hylkääjät hukkuivat suuressa vedenpaisumuksessa ja uskovat pelastuivat",
+        "Kansani tuhoutui voimakkaassa räjähdyksessä yhtenä aamuna",
+        "Kansani muuttui apinoiksi rikkomuksen vuoksi",
+        "Kansani nielaisi maa ylimielisyytensä vuoksi"
+      ],
+      "answer": "Hylkääjät hukkuivat suuressa vedenpaisumuksessa ja uskovat pelastuivat"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

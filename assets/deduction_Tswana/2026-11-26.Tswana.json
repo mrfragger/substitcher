@@ -1,0 +1,61 @@
+{
+  "title": "Tshingwana e Ikanne ka Mafube",
+  "intro": "Mo diureng tse di didimetseng pele ga letsatsi le tlhaba, go ne ga dirwa leano mo sephiring. Boswa jo bo atlegileng bo ne bo siametse thobo, le fa go ntse jalo go ne ga bopiwa tshwetso ya go boloka leungo lengwe le lengwe kgakala le ba ba tlhokang. Fa go nna mo mosong, sengwe le sengwe se ne se tla lebega se sa tlwaelega, mme thuto e ne e tla gabiwa mo dikaleng tse di ntshofaditsweng tsa botlhe ba ba akanyang.",
+  "clues": [
+    "Re ne ra rua tshingwana e e neng e atlega mme ra ikana gore re tla roba maungo otlhe a yone.",
+    "Re ne ra ikana gore re tla tswa go sa le phakela fa bahumanegi ba ba neng ba kopa kabelo ya bone ba santse ba robetse.",
+    "Re ne ra kgaphela kwa thoko pharologano epe mo maikanong a rona mme ra thibela tshwanelo ya batlhoki re sa bolele fa Allah a rata.",
+    "Re ne ra tswa re sebasebana gore re se ka ra letlelela ope yo o humanegileng go tsena mo tshingwaneng ya rona letsatsi leo.",
+    "Re ne re ipona re kgona go phutha sengwe le sengwe ka botlalo le go thibela motlhotlhomisi ope go tsaya karolo.",
+    "Re ne ra tsoga go fitlhela tshingwana ya rona e senyegile bosigo, e ntshofetse jaaka e kete e kotutswe, mme ra re re amogilwe e bile re ikwatlhaile."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Batsala ba Mosele",
+        "Balekane ba Tshingwana",
+        "Barongwa ba Motse mo Surah Ya-Sin",
+        "Batho ba Tlou",
+        "Batlhokomedi ba Molelo wa Dihele"
+      ],
+      "answer": "Balekane ba Tshingwana"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go ntsha kgomo setlhabelo go rarabolola kgotlhang ya polao",
+        "Go gwetlha moporofeti gore a folose matlapa go tswa kwa loaping",
+        "Go loga leano la go roba ka mahube fa o ntse o ganela bahumanegi kabelo ya bone",
+        "Go tlola Sabata ka go tlhoma matloa a go tshwara ditlhapi",
+        "Go aga letamo go laola metsi a morwalela go dira kgwebo"
+      ],
+      "answer": "Go loga leano la go roba ka mahube fa o ntse o ganela bahumanegi kabelo ya bone"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Mokgatšha o o boitshepo wa Tuwa kwa molelo o neng wa bonwa teng",
+        "Tshingwana ya maungo e e ageletsweng ka lobota e e tla robiwang mo mosong",
+        "Bodilo jwa ntlo ya segosi jo bo nang le seipone bo tsewa e le metsi",
+        "Areka ya logong e e neng ya agiwa ka taelo ya Modimo",
+        "Lobota lwa tshipi lo lo agilweng fa gare ga dithaba tse pedi"
+      ],
+      "answer": "Tshingwana ya maungo e e ageletsweng ka lobota e e tla robiwang mo mosong"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Re ne ra fetolwa ditshwene ka ntlha ya go tlola molao wa Sabata",
+        "Re robetse mo logageng dingwaga di le makgolo a mararo le borobongwe",
+        "Re ne ra mediwa ke lefatshe ka matlotlo a boikgantsho",
+        "Tshingwana ya rona e ne ya senngwa ka bosigo bo le bongwe mme ya sala e le ntsho jaaka bosigo",
+        "Re ne ra nwela mo lewatleng re ntse re latelela badumedi ."
+      ],
+      "answer": "Tshingwana ya rona e ne ya senngwa ka bosigo bo le bongwe mme ya sala e le ntsho jaaka bosigo"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

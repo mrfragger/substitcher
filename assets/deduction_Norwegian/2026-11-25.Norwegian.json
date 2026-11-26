@@ -1,0 +1,61 @@
+{
+  "title": "Vekten som tippet mot ruin",
+  "intro": "I en frodig og velstående region lot et blomstrende samfunn grådighet korrumpere markedet. Kjent for handelsferdigheter og overflod fra omkringliggende hager, møtte denne gruppen et kall til rettferdighet og tro. Likevel førte stolthet over rikdom til trass, og en mørk skygge samlet seg i horisonten.",
+  "clues": [
+    "Vi var et velstående handelssamfunn som bodde blant hager og skogkledde lunder.",
+    "Vi svindlet folk med mål og vekt og spredte korrupsjon i landet.",
+    "Vi ble advart av vårt sendebud om å tilbe Allah alene og gi fullt mål.",
+    "Vi hånet vår sendebud og krevde at straffen skulle komme hvis han var sannferdig.",
+    "Vi ble grepet av skyggens dags straff da en sky overskygget oss.",
+    "Jeg er kjent som Skogens følgesvenner, folket som Shu'ayb ble sendt til."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Folket i Thamud",
+        "Skogens følgesvenner",
+        "Grøftens følgesvenner",
+        "Elefantfolket",
+        "Hulens følgesvenner"
+      ],
+      "answer": "Skogens følgesvenner"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Gir kort mål og trosser vår budbringer",
+        "Krevde å møte Allah direkte på Sinai-fjellet",
+        "Å bygge et tårn for å nå himmelen",
+        "Gjemmer tro i hemmelighet inne i et palass",
+        "Tilbe en gullkalv i Musas fravær"
+      ],
+      "answer": "Gir kort mål og trosser vår budbringer"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Den hellige dalen Tuwa",
+        "Ilden som ble gjort kjølig og trygg",
+        "Den skogkledde lunden til Al-Aykah",
+        "Hulen med en sovende hund ved inngangen",
+        "Det speilvendte glasspalasset"
+      ],
+      "answer": "Den skogkledde lunden til Al-Aykah"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Druknet i det delte havet",
+        "Svelget med skatter ned i jorden",
+        "Forvandlet til aper for å bryte sabbaten",
+        "Reddet i en ark over flomvannet",
+        "Ødelagt av straffen på skyggedagen"
+      ],
+      "answer": "Ødelagt av straffen på skyggedagen"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

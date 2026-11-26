@@ -1,0 +1,61 @@
+{
+  "title": "Uppunud deklaratsioon",
+  "intro": "Kujutage ette võimast valitsejat, keda ümbritsevad hiilgus, monumendid ja ühele käsule kuuletuvad armeed. See tegelane nõudis ülimat võimu, pidas jumalikke märke illusiooniks ja käskis halastamatut jälitamist mere poole. Jälgige rada ülbetest määrustest lahkulöönud veteni, kus lõplik ülestunnistus saabub liiga hilja, et päästa.",
+  "clues": [
+    "Mul oli absoluutne võim ja ma orjastasin Iisraeli lapsed oma valitsuse alla.",
+    "Kuulutasin end kõrgeimaks isandaks ja keeldusin tunnistamast ühtegi jumalat endast kõrgemal.",
+    "Ma käskisin Haamanil ehitada mulle kõrge torni, et ma saaksin vaadata Mooses Jumalat.",
+    "Ma astusin Musale ja Harunile vastu, kui nad tõid selgeid märke, ja nimetasin nende imesid nõiduseks.",
+    "Ma ajasin oma armeedega öösel Mooset ja usklikke taga, kuni me mereni jõudsime.",
+    "Merre uppudes kuulutasin usku, aga oli juba liiga hilja ja mu keha säilis märgina."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Namrud",
+        "Jalut (Koliat)",
+        "Abu Jahl",
+        "Vaarao (Fir'aun)",
+        "Haman"
+      ],
+      "answer": "Vaarao (Fir'aun)"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Visati tulle, mis muutus jahedaks ja ohutuks",
+        "Ehitas laeva, et suurest veeuputusest üle elada",
+        "Magas aastaid kaaslastega koopas",
+        "Suur kala neelas alla sügavustes",
+        "Uppus, kui ta ajas Moosat ja iisraellasi taga läbi lahknenud mere"
+      ],
+      "answer": "Uppus, kui ta ajas Moosat ja iisraellasi taga läbi lahknenud mere"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Suure kala kõht",
+        "Püha mošee Mekas",
+        "Lahkunud meri",
+        "Hira koobas",
+        "Voolavate jõgedega aed"
+      ],
+      "answer": "Lahkunud meri"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Elusalt taevasse üles äratatud",
+        "Muutus hingamispäeva rikkumise pärast",
+        "Andestati ja anti pikk rahulik valitsusaeg",
+        "Maa aaretega alla neelatud",
+        "Uskmatusse uppunud ja keha säilitatud märgina neile, kes pärast seda"
+      ],
+      "answer": "Uskmatusse uppunud ja keha säilitatud märgina neile, kes pärast seda"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

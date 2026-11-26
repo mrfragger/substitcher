@@ -1,0 +1,61 @@
+{
+  "title": "Les piliers majestueux des dunes balayées par le vent",
+  "intro": "Imaginez une civilisation florissante, dotée d'une force colossale et d'un savoir-faire bâti sans égal. Installée au cœur de vastes dunes ondulantes, cette communauté érigea des monuments grandioses qui touchaient l'horizon. Pourtant, l'orgueil s'installa, et l'appel à revenir au culte d'Allah seul se heurta à la rébellion. Ce qui suivit demeure un avertissement porté par le vent lui-même.",
+  "clues": [
+    "Nous étions une nation puissante, venue après le peuple de Noé, dotée d'une grande stature et d'une grande force.",
+    "Nous avons construit de hautes tours et des monuments sur tous les lieux élevés, par simple plaisir et par orgueil.",
+    "Nous nous sommes vantés, disant qui était plus fort que nous, et nous avons agi en tyrans sans pitié.",
+    "Nous avons rejeté notre messager Hud lorsqu'il nous a appelés à adorer Allah seul, le traitant de faible et de menteur.",
+    "Nous avons tourné son avertissement en ridicule et l'avons mis au défi de nous infliger la punition dont il nous avait menacés s'il disait vrai.",
+    "Nous avons été anéantis par un vent furieux et stérile pendant sept nuits et huit jours, réduits à l'état de troncs creux de palmiers."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Les habitants de 'Ad",
+        "Banu Nadir",
+        "Le peuple de Lut",
+        "Le peuple de Madyan",
+        "Le peuple de Thamud"
+      ],
+      "answer": "Les habitants de 'Ad"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Il rejeta le prophète Hud et se vanta d'une force supérieure.",
+        "Ils ont comploté pour tuer le prophète Yusuf par jalousie.",
+        "Il se moqua de Nûh pendant qu'il construisait l'Arche",
+        "Il exigea une chamelle en guise de signe, puis lui brisa les jarrets.",
+        "Ils adorèrent le veau d'or en l'absence de Moïse"
+      ],
+      "answer": "Il rejeta le prophète Hud et se vanta d'une force supérieure."
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Al-Ahqaf - les dunes de sable sculptées par le vent",
+        "Le puits de Thamud taillé dans la pierre",
+        "Le mont Sinaï, où la Torah fut reçue",
+        "Le Nil du royaume du pharaon",
+        "La Vallée Sacrée de Tuwa"
+      ],
+      "answer": "Al-Ahqaf - les dunes de sable sculptées par le vent"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Noyés lors du grand déluge qui a recouvert la terre",
+        "Englouti par Qarun, englouti par l'arrogance",
+        "Arrosé par une pluie de pierres d'argile cuite",
+        "Détruits par un puissant tremblement de terre qui les a saisis dans leurs maisons",
+        "Détruit par un vent glacial et violent pendant sept nuits et huit jours"
+      ],
+      "answer": "Détruit par un vent glacial et violent pendant sept nuits et huit jours"
+    }
+  },
+  "verseRef": "46:22",
+  "arabic": "قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "They said, \"Have you come to delude us away from our gods? Then bring us what you promise us, if you should be of the truthful.\" (46:22)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Izikali Ezawela Entshabalalweni",
+  "intro": "Kwindawo echumileyo nechumayo, uluntu oluchumayo luvumele ukubawa konakalise indawo yentengiso. Eyaziwa ngobuchule borhwebo kunye nobuninzi obuvela kwiigadi ezingqongileyo, eli qela lajongana nobizo lobulungisa nokholo. Kodwa ukuzingca ngobutyebi kwakhokelela ekungavumi, kwaye ithunzi elimnyama lahlangana elundini.",
+  "clues": [
+    "Sasiluluntu olurhweba kakuhle oluhlala phakathi kweegadi kunye nemithi eneemithi.",
+    "Sasiqhatha abantu ngemilinganiselo nangezikali, sisasaza urhwaphilizo elizweni.",
+    "Salumkiswa sisithunywa sethu ukuba sinqule uAllah kuphela size sinikele ngemilinganiselo epheleleyo.",
+    "Simhleka usulu umthunywa wethu saza safuna isohlwayo ukuba unyanisile.",
+    "Sabanjwa sisohlwayo seMini yoMthunzi xa ilifu lasigubungela.",
+    "Ndaziwa ngokuba ngabahlobo basehlathini, abantu uShu'ayb awayethunyelwe kubo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Abantu baseThamud",
+        "Amaqabane aseMthini",
+        "Amaqabane eMfuleni",
+        "Abantu Bendlovu",
+        "Amaqabane Omqolomba"
+      ],
+      "answer": "Amaqabane aseMthini"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukunika umlinganiselo omfutshane kunye nokuchasa isithunywa sethu",
+        "Ukufuna ukubona u-Allah ngqo kwiNtaba yaseSinayi",
+        "Ukwakha inqaba yokufikelela emazulwini",
+        "Ukufihla ukholo ngasese ngaphakathi kwebhotwe",
+        "Ukunqula ithole legolide xa uMusa engekho"
+      ],
+      "answer": "Ukunika umlinganiselo omfutshane kunye nokuchasa isithunywa sethu"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Intlambo engcwele yaseTuwa",
+        "Umlilo owenziwe waphola kwaye wakhuseleka",
+        "Ihlathi elinomthi lase-Al-Aykah",
+        "Umqolomba onenja yomntu oleleyo emnyango wawo",
+        "Ibhotwe leglasi elinesibuko"
+      ],
+      "answer": "Ihlathi elinomthi lase-Al-Aykah"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Nditshonile elwandle olwahlulwe phakathi",
+        "Kuginywe bubutyebi emhlabeni",
+        "Waguqulwa waba ziinkawu ngenxa yokuphula iSabatha",
+        "Wasindiswa emkhombeni ngaphezu kwamanzi omkhukula",
+        "Ukutshatyalaliswa sisohlwayo seMini yoMthunzi"
+      ],
+      "answer": "Ukutshatyalaliswa sisohlwayo seMini yoMthunzi"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

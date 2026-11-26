@@ -1,0 +1,61 @@
+{
+  "title": "Empagi Engulumivu ez’Ebifunvu Ebikulukutiddwa Empewo",
+  "intro": "Teebereza embuga ekulaakulana efunye ekirabo ky’amaanyi amangi n’obukugu obutageraageranyizibwa mu kuzimba. Olw’okuba kyali kibeera wakati mu bifunfugu ebinene ennyo ebikoonagana, ekitundu kino kyasitula ebifo ebikulu eby’enjawulo ebyakwata ku bbanga. Naye amalala gaasimbye emirandira, era omulanga ogw’okudda mu kusinza Allah yekka gwasisinkana n’okujeemera. Ebyaddirira bisigala nga kulabula okutwalibwa ku mpewo yennyini.",
+  "clues": [
+    "Twali ggwanga lya maanyi eryajja oluvannyuma lw’abantu b’e Nuu, nga tuweereddwa omukisa n’obuwanvu n’amaanyi amangi.",
+    "Twazimba eminaala egy’amaanyi n’ebijjukizo ku buli kifo ekigulumivu olw’emizannyo gyokka n’okwenyumirizaamu.",
+    "Twewaana, nga tugamba ani atusinga amaanyi mu maanyi, era ne tweyisa mu ngeri ey’obukambwe awatali kusaasira.",
+    "Twagaana omubaka waffe Hud bwe yatuyita okusinza Allah yekka, ng’amuyita munafu era mulimba.",
+    "Twasekerera okulabula ne tumusomooza atuleete ekibonerezo kye yatiisatiisa singa aba amazima.",
+    "Twasaanyizibwawo empewo ey’obusungu era etaliimu bimera okumala ekiro musanvu n’ennaku munaana, ne tulekebwa nga tugudde ng’ebikonge by’enkindu ebirimu ebituli."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Abantu ba 'Ad",
+        "Banu Nadir",
+        "Abantu ba Lut",
+        "Abantu b’e Madyan",
+        "Abantu b’e Thamudi"
+      ],
+      "answer": "Abantu ba 'Ad"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Yagaana Nabbi Hud era ne yeewaana olw’amaanyi agasingako",
+        "Yakola olukwe lw’okutta Nabbi Yusuf olw’obuggya",
+        "Yasekeredde Nuh ng’azimba Essanduuko",
+        "Yasaba engamiya enkazi ng’akabonero olwo n’amusiba ekisambi",
+        "Yasinza ennyana eya zaabu nga Musa taliiwo"
+      ],
+      "answer": "Yagaana Nabbi Hud era ne yeewaana olw’amaanyi agasingako"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Al-Ahqaf - ebiwonvu by’omusenyu ebikoona empewo",
+        "Oluzzi lwa Samudi olwayolwa mu mayinja",
+        "Olusozi Sinai awaafunibwa Tawreeti",
+        "Omugga Kiyira ogw’obwakabaka bwa Falaawo",
+        "Ekiwonvu Ekitukuvu ekya Tuwa"
+      ],
+      "answer": "Al-Ahqaf - ebiwonvu by’omusenyu ebikoona empewo"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yabbira mu mataba amanene agaabikka ensi",
+        "Yamira ne Qarun mu nsi olw’amalala",
+        "Enkuba yatonnyako amayinja ag’ebbumba erifumbiddwa",
+        "Basaanyeewo musisi ow’amaanyi eyabakwata mu maka gaabwe",
+        "Yasaanawo olw’empewo ey’amaanyi eyali efuuse omuzira okumala ekiro musanvu n’ennaku munaana"
+      ],
+      "answer": "Yasaanawo olw’empewo ey’amaanyi eyali efuuse omuzira okumala ekiro musanvu n’ennaku munaana"
+    }
+  },
+  "verseRef": "46:22",
+  "arabic": "قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "They said, \"Have you come to delude us away from our gods? Then bring us what you promise us, if you should be of the truthful.\" (46:22)"
+}

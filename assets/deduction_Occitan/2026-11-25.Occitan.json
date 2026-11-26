@@ -1,0 +1,61 @@
+{
+  "title": "Las escalas que s'inclinavan cap a la roïna",
+  "intro": "Dins una region exuberanta e prospèra, una comunautat prospèra daissa l'avarícia corrompre lo mercat. Conegut per son destresa dins lo comèrci e son abondància dels jardins a l'entorn, aquel grop s'afrontèt a una crida a l'equitat e a la fe. Pasmens l'orgulh de la riquesa menèt a la desfís, e una ombra escura s'amassèt a l'orizont.",
+  "clues": [
+    "Èrem una comunautat comerciala prospèra que viviá demest de jardins e de bòsques arborats.",
+    "Trompèrem las gents en mesuras e peses, espandissent la corrupcion dins la tèrra.",
+    "Foguèrem avertits per nòstre messatgièr d'adorar Allah sol e de donar la mesura completa.",
+    "Nos trufèrem de nòstre messatgièr e exigiguèrem que lo castig venguèsse s'èra vertadièr.",
+    "Foguèrem sasits pel castig del Jorn de l'Ombra quand un nívol nos escobriguèt.",
+    "Soi conegut coma los Companhs del Bòsc, lo pòble a qui Shu'ayb foguèt mandat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Lo pòble de Thamud",
+        "Los Companhons del Bois",
+        "Los Companhs de la Trinchera",
+        "Lo Pòble de l'Elefant",
+        "Los Companhs de la Cava"
+      ],
+      "answer": "Los Companhons del Bois"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Donant mesura corta e desfisant nòstre messatgièr",
+        "Demandant de veire Allah dirèctament al mont Sinai",
+        "Bastir una torre per aténher los cèls",
+        "Amagar la fe en secret dins un palais",
+        "Adorar un vedèl d'aur en l'abséncia de Musa"
+      ],
+      "answer": "Donant mesura corta e desfisant nòstre messatgièr"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La val sacrada de Tuwa",
+        "Lo fuòc que fo fach fresc e segur .",
+        "Lo bosquet boscat d'Al-Aykah",
+        "La cauna amb un can de dormidor a son intrada",
+        "Lo palais espelhat de veire"
+      ],
+      "answer": "Lo bosquet boscat d'Al-Aykah"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Afogats dins la mar dividida",
+        "Engolit amb de tresaurs dins la tèrra",
+        "Transformats en simis per trencar lo sabbat",
+        "Salvat dins una arca al dessús de las aigas d'inondacion",
+        "Destruit per lo castig del Jorn de l'Ombra"
+      ],
+      "answer": "Destruit per lo castig del Jorn de l'Ombra"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

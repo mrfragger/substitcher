@@ -1,0 +1,61 @@
+{
+  "title": "Le jardin promis à l'aube",
+  "intro": "Dans le calme de l'aube, un plan fut ourdi en secret. Un héritage florissant était prêt à être récolté, mais la résolution se forgea de soustraire chaque fruit aux plus démunis. Au matin, tout semblerait méconnaissable, et une leçon serait gravée dans les branches noircies pour tous ceux qui sauraient y réfléchir.",
+  "clues": [
+    "Nous avons hérité d'un jardin florissant et avons juré d'en récolter tous les fruits pour nous-mêmes.",
+    "Nous avons juré de sortir tôt, à l'aube, pendant que les pauvres qui réclamaient leur part dormaient encore.",
+    "Nous avons exclu toute exception à notre serment et avons refusé d'accorder les droits des nécessiteux sans dire « si Allah le veut ».",
+    "Nous sommes sortis en chuchotant les uns aux autres pour ne laisser entrer aucun pauvre dans notre jardin ce jour-là.",
+    "Nous nous imaginions parfaitement capables de tout ramasser et d'empêcher quiconque de prendre une part.",
+    "Nous nous sommes réveillés et avons trouvé notre jardin ravagé pendant la nuit, noirci comme après la récolte, et nous avons dit que nous étions privés de tout et que nous nous repentions."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Les Compagnons de la Tranchée",
+        "Les Compagnons du Jardin",
+        "Les messagers de la ville dans la sourate Ya-Sin",
+        "Le peuple de l'éléphant",
+        "Les Gardiens du Feu de l'Enfer"
+      ],
+      "answer": "Les Compagnons du Jardin"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Sacrifier une vache pour résoudre un différend lié à un meurtre",
+        "Défier un prophète de faire tomber des pierres du ciel",
+        "Ils complotent pour récolter à l'aube tout en refusant aux pauvres leur part.",
+        "Violer le sabbat en installant des filets de pêche",
+        "Construction d'un barrage pour contrôler les crues et faciliter le commerce"
+      ],
+      "answer": "Ils complotent pour récolter à l'aube tout en refusant aux pauvres leur part."
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "La vallée sacrée de Tuwa où le feu a été vu",
+        "Le verger clos de murs sera récolté le matin.",
+        "Le sol du palais, recouvert de miroirs, était pris pour de l'eau.",
+        "L'arche en bois construite sous instruction divine",
+        "Le mur de fer construit entre deux montagnes"
+      ],
+      "answer": "Le verger clos de murs sera récolté le matin."
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Nous avons été transformés en singes pour avoir transgressé le sabbat.",
+        "Nous avons dormi dans une grotte pendant trois cent neuf ans.",
+        "Nous avons été engloutis par la terre, avec des trésors pour seule fierté.",
+        "Notre jardin a été détruit pendant la nuit et laissé noirci comme la nuit",
+        "Nous avons péri en mer en poursuivant les croyants."
+      ],
+      "answer": "Notre jardin a été détruit pendant la nuit et laissé noirci comme la nuit"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

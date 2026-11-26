@@ -1,0 +1,61 @@
+{
+  "title": "Baaqa Qarqmay",
+  "intro": "Bal qiyaas taliye xooggan oo ku hareeraysan qurux, taallooyin, iyo ciidamo u hoggaansamaya hal amar. Ninkan ayaa sheegtay awood sare, wuxuu iska fogeeyay calaamadaha rabbaaniga ah inay yihiin khiyaali, wuxuuna amray in si aan kala go 'lahayn loogu socdo badda. Raac waddada laga soo bilaabo amarradii kibirka lahaa ilaa biyaha kala qaybsamay, halkaas oo qirasho kama dambays ah ay timaado goor dambe oo aan la badbaadin karin.",
+  "clues": [
+    "Waxaan haystay awood buuxda, waxaana addoonsaday reer binu Israa'iil oo hoos yimaada xukunkayga.",
+    "Waxaan isku sheegay sayidka ugu sarreeya, waana diiday inaan qirto ilaah iga sarreeya.",
+    "Waxaan Haamaan ku amray inuu ii dhiso munaarad dheer si aan u eego Ilaaha Muuse.",
+    "Waxaan la kulmay Muuse iyo Haaruun markii ay keeneen calaamado cadcad, waxaanan mucjisooyinkooda ugu yeeray sixir.",
+    "Habeenkii ayaan Muuse iyo mu'miniintii la socday ciidankeyga raacdeeyay ilaa aan badda ka gaarnay.",
+    "Waxaan ku dhawaaqay rumaysadka intii aan ku haftay badda, laakiin aad bay u daahday, jidhkaygana waa la ilaaliyay calaamad ahaan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Namrud",
+        "Jalut (Goliath)",
+        "Abu Jahl",
+        "Fircoon (Fir'auna)",
+        "Haamaan"
+      ],
+      "answer": "Fircoon (Fir'auna)"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Waxaa lagu tuuray dab qabow oo ammaan ah",
+        "Dooni ayay dhisteen si ay uga badbaadaan daad weyn",
+        "Sannado badan ayaan god kula seexday asxaabteyda",
+        "Waxaa liqay kalluun weyn oo ku jira qoto dheer",
+        "Ku qaraqmay isagoo raacaya Muuse iyo reer binu Israa'iil badda kala qaybisay"
+      ],
+      "answer": "Ku qaraqmay isagoo raacaya Muuse iyo reer binu Israa'iil badda kala qaybisay"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Caloosha kalluunka weyn",
+        "Masjidka Barakeysan ee Makkah",
+        "Badda kala qaybsantay",
+        "Godka Hira",
+        "Beerta oo leh webiyo socda"
+      ],
+      "answer": "Badda kala qaybsantay"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Kor loogu qaaday samada isagoo nool",
+        "Loo beddelay jebinta Sabtida",
+        "La cafiyay oo la siiyay xukun nabad ah oo dheer",
+        "Dhulku wuxuu liqay khasnado",
+        "Ku qarqiyay gaalnimo iyo jir la ilaaliyay si ay calaamad ugu noqoto kuwa ka dambeeya"
+      ],
+      "answer": "Ku qarqiyay gaalnimo iyo jir la ilaaliyay si ay calaamad ugu noqoto kuwa ka dambeeya"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

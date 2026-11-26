@@ -1,0 +1,61 @@
+{
+  "title": "Rüzgarın Savurduğu Kum Tepelerinin Yüksek Sütunları",
+  "intro": "Olağanüstü bir güce ve eşsiz bir inşaat becerisine sahip, gelişmiş bir medeniyeti hayal edin. Geniş, kıvrımlı kum tepeleri arasında yer alan bu topluluk, ufka uzanan görkemli yapılar inşa etti. Ancak gurur kök saldı ve yalnızca Allah'a ibadete dönme çağrısı, meydan okumayla karşılandı. Ardından gelenler, rüzgârın taşıdığı bir uyarı olarak kaldı.",
+  "clues": [
+    "Bizler, Nuh halkından sonra gelen, büyük bir statü ve güce sahip güçlü bir millettik.",
+    "Her yüksek yere sırf zevk ve gurur için görkemli kuleler ve anıtlar inşa ettik.",
+    "Biz, \"Kim bizden daha güçlüdür?\" diyerek övündük ve acımasızca, zalimce davrandık.",
+    "Biz, Allah'a tek başına ibadet etmemizi emreden elçimiz Hud'u zayıf ve yalancı diyerek reddettik.",
+    "Uyarıyı alaya aldık ve eğer doğru söylüyorsa, tehdit ettiği cezayı üzerimize çekmesi için ona meydan okuduk.",
+    "Yedi gece sekiz gün boyunca azgın, çorak bir rüzgar tarafından harap edildik, içi boş palmiye gövdeleri gibi yere yığıldık."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "'Ad Halkı",
+        "Banu Nadir",
+        "Lut Halkı",
+        "Madyan Halkı",
+        "Thamud Halkı"
+      ],
+      "answer": "'Ad Halkı"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Peygamber Hud'u reddetti ve üstün gücüyle övündü.",
+        "Kıskançlık yüzünden Peygamber Yusuf'u öldürmeyi planladılar.",
+        "Nuh, Nuh'un gemisini inşa ederken onunla alay etti.",
+        "Bir işaret olarak dişi bir deve istedi, sonra da onun bacaklarını sakatladı.",
+        "Musa'nın yokluğunda altın buzağıya tapındılar."
+      ],
+      "answer": "Peygamber Hud'u reddetti ve üstün gücüyle övündü."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "El-Ahkaf - rüzgarın şekillendirdiği kum tepeleri",
+        "Taşa oyulmuş Thamud kuyusu",
+        "Tora'nın alındığı Sina Dağı",
+        "Firavunlar döneminin Nil Nehri",
+        "Tuwa Kutsal Vadisi"
+      ],
+      "answer": "El-Ahkaf - rüzgarın şekillendirdiği kum tepeleri"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Yeryüzünü kaplayan büyük tufanda boğuldular",
+        "Kibir yüzünden Karun ile birlikte toprağa gömüldü.",
+        "Pişmiş kilden taşlarla yağmur altında",
+        "Onları evlerinde yakalayan güçlü bir depremle yerle bir oldular.",
+        "Yedi gece sekiz gün boyunca şiddetli bir dondurucu rüzgar tarafından tahrip edildi."
+      ],
+      "answer": "Yedi gece sekiz gün boyunca şiddetli bir dondurucu rüzgar tarafından tahrip edildi."
+    }
+  },
+  "verseRef": "46:22",
+  "arabic": "قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "They said, \"Have you come to delude us away from our gods? Then bring us what you promise us, if you should be of the truthful.\" (46:22)"
+}

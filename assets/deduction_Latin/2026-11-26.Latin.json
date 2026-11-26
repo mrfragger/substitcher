@@ -1,0 +1,61 @@
+{
+  "title": "Hortus Vovit Aurora",
+  "intro": "Horis quietis ante solis ortum, consilium clam ceperunt. Hereditas florens ad messem parata erat, tamen consilium initum est ut omnis fructus ab egentibus arceretur. Mane, omnia insolita viderentur, et omnibus qui cogitarent, lectio in ramis nigris insculpta esset.",
+  "clues": [
+    "Hortum florentem hereditate accepimus et vovimus nos omnes eius fructus nobis ipsis colligere.",
+    "Iuravimus nos mane prima luce exituros esse, dum pauperes qui partem suam petebant adhuc dormirent.",
+    "Omnem exceptionem a iureiurando nostro exclusimus et ius egentium subtraximus sine dicendo num Deus velit.",
+    "Exivimus inter nos susurrantes ne quis pauper hortum nostrum illo die intrare liceret.",
+    "Nos plene capaces omnia colligere et quemquam spiculatorem ne partem sumeret prohibere putabamus.",
+    "Experrecti sumus ut hortum nostrum nocte vastatum inveniremus, nigrum quasi messum, et diximus nos privatos et paenitentes esse."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Socii Fossae",
+        "Socii Horti",
+        "Nuntii Oppidi in Surah Ya-Sin",
+        "Populus Elephantis",
+        "Custodes Inferni"
+      ],
+      "answer": "Socii Horti"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Immolatio bovis ad controversiam de caede componendam",
+        "Prophetam provocans ut lapides de caelo demittat",
+        "Consiliantes ad metendum prima luce, dum pauperibus partem suam negas",
+        "Sabbatum violando retibus piscatoriis positis",
+        "Aedificatio aggeris ad inundationes moderandas ad commercium"
+      ],
+      "answer": "Consiliantes ad metendum prima luce, dum pauperibus partem suam negas"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Vallis sacra Tuwae ubi ignis visus est",
+        "Hortus saeptus mane metendus",
+        "Pavimentum palatii speculatum pro aqua erratum",
+        "Arca lignea sub divina instructione constructa",
+        "Murus ferreus inter duos montes constructus"
+      ],
+      "answer": "Hortus saeptus mane metendus"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "In simias conversi sumus propter sabbatum transgressum.",
+        "In spelunca trecentos novem annos dormivimus",
+        "A terra absorpti sumus cum thesauris pro superbia",
+        "Hortus noster nocte dirutus est et sicut nox niger relictus est.",
+        "In mari submersi sumus dum fideles persequebamur"
+      ],
+      "answer": "Hortus noster nocte dirutus est et sicut nox niger relictus est."
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

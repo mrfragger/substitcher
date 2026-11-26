@@ -1,0 +1,61 @@
+{
+  "title": "Küləklə Əsən Qumların Uca Sütunları",
+  "intro": "Təsəvvür edin ki, möhtəşəm gücə və misilsiz tikinti bacarığına malik çiçəklənən bir sivilizasiya var. Geniş, əyri-üyrü təpələrin arasında yerləşən bu icma üfüqə toxunan möhtəşəm yerlər ucaltdı. Lakin qürur kök saldı və yalnız Allaha ibadətə qayıtmaq çağırışı itaətsizliklə qarşılandı. Bundan sonra gələnlər küləkdə əsən bir xəbərdarlıq olaraq qalır.",
+  "clues": [
+    "Biz Nuh qövmündən sonra gələn, böyük bir qüdrət və qüvvət sahibi olan güclü bir ümmət idik.",
+    "Biz hər yüksək yerdə sadəcə əyləncə və qürur üçün uca qüllələr və abidələr tikdik.",
+    "Biz öyünürdük, “Bizdən daha güclü kimdir?” deyirdik, amma amansızcasına davranırdıq.",
+    "Biz peyğəmbərimiz Hudu tək Allaha ibadət etməyə çağıranda onu zəif və yalançı adlandırıb rədd etdik.",
+    "Biz xəbərdarlığı lağa qoyduq və əgər doğru danışırsa, bizə qarşı hədələdiyi cəzanı tətbiq etməsini istədik.",
+    "Biz yeddi gecə-səkkiz gün şiddətli, qısır bir küləklə məhv edildik, içi boş xurma ağacları gövdələri kimi yerə yıxıldıq."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Ad xalqı",
+        "Banu Nadir",
+        "Lut qövmü",
+        "Mədyən xalqı",
+        "Səmud xalqı"
+      ],
+      "answer": "Ad xalqı"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Hud peyğəmbəri rədd etdi və üstün gücü ilə öyündü",
+        "Yusif peyğəmbəri qısqanclıq üzündən öldürmək üçün sui-qəsd hazırladılar",
+        "Nuh gəmini tikərkən onu lağa qoydu",
+        "Bir əlamət olaraq dişi dəvə istədi, sonra onun bud və ayaqlarını kəsdi",
+        "Musanın yoxluğunda qızıl buzova ibadət etdi"
+      ],
+      "answer": "Hud peyğəmbəri rədd etdi və üstün gücü ilə öyündü"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Əl-Əhqaf - küləklə əyilmiş qum təpələri",
+        "Səmudun daşdan yonulmuş quyusu",
+        "Tövratın qəbul edildiyi Sina dağı",
+        "Fironun krallığının Nil çayı",
+        "Müqəddəs Tuva Vadisi"
+      ],
+      "answer": "Əl-Əhqaf - küləklə əyilmiş qum təpələri"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Yer üzünü bürüyən böyük daşqında boğuldu",
+        "Təkəbbür göstərdiyinə görə Qarunla birlikdə yerə uduldu.",
+        "Bişmiş gil daşları ilə yağdırılmışdır",
+        "Güclü bir zəlzələ onları evlərində yaxaladı",
+        "Yeddi gecə və səkkiz gün şiddətli dondurucu külək tərəfindən məhv edildi"
+      ],
+      "answer": "Yeddi gecə və səkkiz gün şiddətli dondurucu külək tərəfindən məhv edildi"
+    }
+  },
+  "verseRef": "46:22",
+  "arabic": "قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "They said, \"Have you come to delude us away from our gods? Then bring us what you promise us, if you should be of the truthful.\" (46:22)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Den drunknade förklaringen",
+  "intro": "Föreställ dig en mäktig härskare omgiven av prakt, monument och arméer, lydig mot en enda befallning. Denna figur hävdade högsta auktoritet, avfärdade gudomliga tecken som illusioner och beordrade en obeveklig jakt mot havet. Följ stigen från arroganta dekret till delade vatten, där en slutgiltig bekännelse kommer för sent för att räddas.",
+  "clues": [
+    "Jag hade absolut makt och förslavade Israels barn under mitt styre.",
+    "Jag utropade mig själv till den högste herren och vägrade erkänna någon gud ovanför mig.",
+    "Jag befallde Haman att bygga mig ett högt torn, så att jag kunde se upp till Musas gud.",
+    "Jag konfronterade Musa och Harun när de kom med tydliga tecken, och jag kallade deras mirakel för trolldom.",
+    "Jag förföljde Musa och de troende med mina arméer om natten tills vi nådde havet.",
+    "Jag förklarade min tro medan jag drunknade i havet, men det var för sent, och min kropp bevarades som ett tecken."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Namrud",
+        "Jalut (Goliath)",
+        "Abu Jahl",
+        "Farao (Fir'aun)",
+        "Haman"
+      ],
+      "answer": "Farao (Fir'aun)"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Kastades i en eld som blev sval och säker",
+        "Byggde en ark för att överleva en stor översvämning",
+        "Sov i en grotta med följeslagare i många år",
+        "Blev uppslukad av en stor fisk i djupet",
+        "Drunknade medan han förföljde Musa och israeliterna genom det delade havet"
+      ],
+      "answer": "Drunknade medan han förföljde Musa och israeliterna genom det delade havet"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Den stora fiskens mage",
+        "Den heliga moskén i Mecka",
+        "Det delade havet",
+        "Hira-grottan",
+        "Trädgården med flödande floder"
+      ],
+      "answer": "Det delade havet"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Levande uppväckt till himlen",
+        "Förvandlad för att han bröt sabbaten",
+        "Förlåten och beviljad en lång fredlig regeringstid",
+        "Uppslukade av jorden med skatter",
+        "Drunknade i misstro och kroppen bevarad som ett tecken för de efterkommande"
+      ],
+      "answer": "Drunknade i misstro och kroppen bevarad som ett tecken för de efterkommande"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

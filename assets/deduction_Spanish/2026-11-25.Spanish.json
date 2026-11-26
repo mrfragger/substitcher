@@ -1,0 +1,61 @@
+{
+  "title": "La balanza que se inclinó hacia la ruina",
+  "intro": "En una región exuberante y próspera, una comunidad floreciente permitió que la codicia corrompiera el mercado. Conocidos por su habilidad para el comercio y la abundancia de sus huertos, este grupo se enfrentó a un llamado a la justicia y la fe. Sin embargo, el orgullo por la riqueza los llevó a la rebeldía, y una sombra oscura se cernía en el horizonte.",
+  "clues": [
+    "Éramos una próspera comunidad comercial que vivía entre jardines y arboledas.",
+    "Engañamos a la gente con las medidas y los pesos, sembrando la corrupción en el país.",
+    "Nuestro mensajero nos advirtió que adoráramos solo a Alá y que diéramos lo mejor de nosotros.",
+    "Nos burlamos de nuestro mensajero y exigimos el castigo que le correspondería si decía la verdad.",
+    "Nos sorprendió el castigo del Día de la Sombra cuando una nube nos cubrió.",
+    "Se me conoce como los Compañeros del Bosque, el pueblo al que fue enviado Shu'ayb."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "El pueblo de Thamud",
+        "Los Compañeros del Bosque",
+        "Los Compañeros de la Trinchera",
+        "El pueblo del elefante",
+        "Los compañeros de la cueva"
+      ],
+      "answer": "Los Compañeros del Bosque"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Dando medidas cortas y desafiando a nuestro mensajero",
+        "Exigir ver a Alá directamente en el Monte Sinaí",
+        "Construir una torre para alcanzar el cielo",
+        "Ocultar la fe en secreto dentro de un palacio",
+        "Adorar un becerro de oro en ausencia de Musa"
+      ],
+      "answer": "Dando medidas cortas y desafiando a nuestro mensajero"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El valle sagrado de Tuwa",
+        "El fuego que se hizo fresco y seguro",
+        "La arboleda de Al-Aykah",
+        "La cueva con el perro del durmiente en su entrada.",
+        "El palacio de cristal espejado"
+      ],
+      "answer": "La arboleda de Al-Aykah"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Ahogado en el mar dividido",
+        "Engullidos con tesoros en la tierra",
+        "Transformados en monos por quebrantar el sábado.",
+        "Salvados en un arca sobre las aguas de la inundación.",
+        "Destruido por el castigo del Día de las Sombras"
+      ],
+      "answer": "Destruido por el castigo del Día de las Sombras"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

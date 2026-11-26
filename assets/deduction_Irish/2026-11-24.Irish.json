@@ -1,0 +1,61 @@
+{
+  "title": "Piléir Arda na nDumhcha Gaoth-Scuabtha",
+  "intro": "Samhlaigh sibhialtacht rathúil a bhfuil neart ollmhór agus scileanna tógála gan sárú aici. Lonnaithe i measc dumhcha cuartha fairsinge, thóg an pobal seo sainchomharthaí móra a bhain leis an léaslíne. Ach ghlac an bród fréamh, agus cuireadh dúshlán roimh ghlao chun filleadh ar adhradh Allah amháin. Is rabhadh é an méid a lean ina dhiaidh sin a iompraítear ar an ngaoth féin.",
+  "clues": [
+    "Ba náisiún cumhachtach muid a tháinig i ndiaidh mhuintir Nuh, beannaithe le stádas agus neart mór.",
+    "Thógamar túir arda agus séadchomharthaí ar gach áit ard ar mhaithe le spórt agus le bród amháin.",
+    "Rinneamar gaisce, ag rá cé atá níos láidre ná sinn i neart, agus ghníomhaíomar go tíoránta gan trócaire.",
+    "Dhiúltaíomar dár dteachtaire Hud nuair a ghlaoigh sé orainn adhradh a thabhairt d’Allah ina aonar, ag glaoch air lag agus bréagadóir.",
+    "Rinneamar ceap magaidh den rabhadh agus chuireamar dúshlán air an pionós a bhagair sé a thabhairt orainn dá mbeadh sé fírinneach.",
+    "Scriosadh sinn le gaoth fhíochmhar, lom ar feadh seacht n-oíche agus ocht lá, fágadh sinn tite cosúil le stoic log pailme."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Muintir 'Ad",
+        "Banu Nadir",
+        "Muintir Lut",
+        "Muintir Madyan",
+        "Muintir Thamud"
+      ],
+      "answer": "Muintir 'Ad"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Dhiúltaigh sé don Fháidh Hud agus bhí sé ag maíomh as neart níos fearr",
+        "Rinne sé comhcheilg chun an Fáidh Iósaf a mharú as éad",
+        "Rinne sé magadh faoi Nuh agus é ag tógáil na hÁirce",
+        "D'éiligh camall baineann mar chomhartha agus ansin chuir sé bac uirthi",
+        "Rinne sé adhradh don lao órga in éagmais Mhúsa"
+      ],
+      "answer": "Dhiúltaigh sé don Fháidh Hud agus bhí sé ag maíomh as neart níos fearr"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Al-Ahqaf - na dumhcha gainimh atá cuartha ag an ngaoth",
+        "Tobar Thamud snoite i gcloch",
+        "Sliabh Shíonáí áit ar glacadh leis an Torah",
+        "Abhainn na Níle i ríocht an Pharaoh",
+        "Gleann Naofa Tuwa"
+      ],
+      "answer": "Al-Ahqaf - na dumhcha gainimh atá cuartha ag an ngaoth"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Báite sa tuile mhór a chlúdaigh an domhan",
+        "Slogtha le Qarun isteach sa talamh as uabhar",
+        "Curtha le clocha cré bácáilte",
+        "Scriosta ag crith talún ollmhór a ghabh iad ina dtithe",
+        "Scriosta ag gaoth reoite fhoréigneach ar feadh seacht n-oíche agus ocht lá"
+      ],
+      "answer": "Scriosta ag gaoth reoite fhoréigneach ar feadh seacht n-oíche agus ocht lá"
+    }
+  },
+  "verseRef": "46:22",
+  "arabic": "قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "They said, \"Have you come to delude us away from our gods? Then bring us what you promise us, if you should be of the truthful.\" (46:22)"
+}

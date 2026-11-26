@@ -1,0 +1,61 @@
+{
+  "title": "Azimio la Kuzama",
+  "intro": "Hebu wazia mtawala mwenye nguvu aliyezungukwa na fahari, makaburi, na majeshi yanayotii amri moja. Mtu huyu alidai mamlaka kuu, akapuuza ishara za Mungu kama udanganyifu, na akaamuru kufukuzwa bila kuchoka kuelekea baharini. Fuata njia kutoka amri za kiburi hadi maji yaliyogawanyika, ambapo ungamo la mwisho linafika kuchelewa sana kuokoa.",
+  "clues": [
+    "Nilishikilia mamlaka kamili na kuwatumikisha Wana wa Israeli chini ya utawala wangu.",
+    "Nilijitangaza kuwa bwana aliye juu zaidi na kukataa kumtambua mungu yeyote aliye juu yangu.",
+    "Nilimwamuru Hamani anijengee mnara mrefu ili niweze kumtazama Mungu wa Musa.",
+    "Nilikabiliana na Musa na Harun walipoleta ishara zilizo wazi, nami nikaiita miujiza yao uchawi.",
+    "Nilimfuata Musa na waumini pamoja na majeshi yangu usiku hadi tulipofika baharini.",
+    "Nilitangaza imani yangu nilipokuwa nikizama baharini, lakini ilikuwa imechelewa, na mwili wangu ulihifadhiwa kama ishara."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Namrud",
+        "Jaluti (Goliathi)",
+        "Abu Jahl",
+        "Farao (Fir'aun)",
+        "Hamani"
+      ],
+      "answer": "Farao (Fir'aun)"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Alitupwa kwenye moto ambao ukawa baridi na salama",
+        "Alijenga safina ili kuokoka gharika kubwa",
+        "Nililala pangoni na wenzangu kwa miaka mingi",
+        "Alimezwa na samaki mkubwa kwenye vilindi vya bahari",
+        "Alizama majini alipokuwa akimfuatilia Musa na Waisraeli kupitia bahari iliyogawanyika"
+      ],
+      "answer": "Alizama majini alipokuwa akimfuatilia Musa na Waisraeli kupitia bahari iliyogawanyika"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Tumbo la samaki mkubwa",
+        "Msikiti Mtakatifu huko Makka",
+        "Bahari iliyogawanyika",
+        "Pango la Hira",
+        "Bustani yenye mito inayotiririka"
+      ],
+      "answer": "Bahari iliyogawanyika"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Alifufuliwa akiwa hai hadi mbinguni",
+        "Alibadilishwa kwa kuvunja Sabato",
+        "Kusamehewa na kupewa utawala mrefu wa amani",
+        "Imemezwa na dunia na hazina",
+        "Kuzama katika kutoamini na mwili kuhifadhiwa kama ishara kwa wale walio baada ya"
+      ],
+      "answer": "Kuzama katika kutoamini na mwili kuhifadhiwa kama ishara kwa wale walio baada ya"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

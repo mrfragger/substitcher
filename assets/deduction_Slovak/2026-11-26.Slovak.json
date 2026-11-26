@@ -1,0 +1,61 @@
+{
+  "title": "Záhrada zasľúbená na úsvite",
+  "intro": "V tichých hodinách pred východom slnka sa v tajnosti spriadal plán. Prosperujúce dedičstvo bolo pripravené na žatvu, no napriek tomu sa sformovalo odhodlanie uchrániť všetky plody pred tými, ktorí ich potrebujú. Ráno sa všetko bude zdať neznáme a do sčernených konárov sa vryje ponaučenie pre všetkých, ktorí sa nad tým zamyslia.",
+  "clues": [
+    "Zdedili sme kvitnúcu záhradu a sľúbili sme si, že si všetky jej plody pozbierame pre seba.",
+    "Prisahali sme, že pôjdeme von skoro na úsvite, kým ešte spajú chudobní, ktorí si pýtali svoj podiel.",
+    "Vylúčili sme akúkoľvek výnimku z našej prísahy a odopreli sme právo núdznym bez toho, aby sme sa spýtali, či si to Alláh želá.",
+    "Šepkali sme si, aby sme v ten deň do našej záhrady nevpustili žiadneho chudáka.",
+    "Predstavovali sme si, že sme úplne schopní všetko pozbierať a zabrániť akémukoľvek zberateľovi, aby si vzal čo i len porciu.",
+    "Zobudili sme sa a zistili sme, že naša záhrada je v noci zničená, sčernelá, akoby bola pozbieraná, a povedali sme si, že sme o niečo ukrátení a kajáme sa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Spoločníci zo zákopu",
+        "Spoločníci záhrady",
+        "Poslovia mesta v súre Ja-Sin",
+        "Ľudia slona",
+        "Strážcovia pekelného ohňa"
+      ],
+      "answer": "Spoločníci záhrady"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Obetovanie kravy na vyriešenie sporu o vraždu",
+        "Vyzvať proroka, aby zniesol kamene z neba",
+        "Plánujú žatvu za úsvitu a zároveň chudobným odopierajú ich podiel",
+        "Porušenie sabatu nastražením rybárskych sietí",
+        "Výstavba priehrady na kontrolu záplavových vôd pre obchod"
+      ],
+      "answer": "Plánujú žatvu za úsvitu a zároveň chudobným odopierajú ich podiel"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Posvätné údolie Tuwa, kde bol videný oheň",
+        "Sad ohradený múrom, ktorý sa má ráno zožať",
+        "Zrkadlová podlaha paláca, ktorú si mylne považovali za vodu",
+        "Drevená archa postavená na Boží pokyn",
+        "Železný múr postavený medzi dvoma horami"
+      ],
+      "answer": "Sad ohradený múrom, ktorý sa má ráno zožať"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Premenili sme sa na opice za porušovanie Sabatu",
+        "Tristo deväť rokov sme spali v jaskyni",
+        "Zem nás pohltila s pokladmi pre pýchu",
+        "Naša záhrada bola cez noc zničená a sčernela ako noc",
+        "Utopili sme sa v mori, keď sme prenasledovali veriacich"
+      ],
+      "answer": "Naša záhrada bola cez noc zničená a sčernela ako noc"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

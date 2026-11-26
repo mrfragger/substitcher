@@ -1,0 +1,61 @@
+{
+  "title": "Boğulanlar Bəyannaməsi",
+  "intro": "Əzəmət, abidələr və tək bir əmrə itaət edən ordularla əhatə olunmuş qüdrətli bir hökmdarı təsəvvür edin. Bu şəxs ali hakimiyyət iddiasında idi, ilahi əlamətləri illüziya kimi rədd etdi və dənizə doğru amansız təqib əmri verdi. Təkəbbürlü fərmanlardan ayrılmış sulara qədər gedin, burada son etiraf xilas etmək üçün çox gec gəlir.",
+  "clues": [
+    "Mən mütləq hakimiyyətə sahib idim və İsrail oğullarını öz hakimiyyətim altında kölə etdim.",
+    "Özümü ən ali lord elan etdim və məndən yuxarıda olan heç bir tanrını qəbul etməkdən imtina etdim.",
+    "Mən Hamana Musanın Allahını görmək üçün mənə hündür bir qüllə tikməyi əmr etdim.",
+    "Musa və Harun açıq-aydın möcüzələr gətirdikdə mən onların qarşısında durdum və onların möcüzələrini sehr adlandırdım.",
+    "Gecə ikən dənizə çatana qədər Musanı və möminləri qoşunlarımla birlikdə təqib etdim.",
+    "Dənizdə boğularkən iman gətirdim, amma artıq gec idi və cəsədim bir əlamət olaraq qorunub saxlanıldı."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Nəmrud",
+        "Cəlut (Qoliat)",
+        "Əbu Cəhil",
+        "Firon (Firon)",
+        "Haman"
+      ],
+      "answer": "Firon (Firon)"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Sərin və təhlükəsiz hala gələn bir oda atıldı",
+        "Böyük bir daşqından sağ çıxmaq üçün bir gəmi düzəltdi",
+        "Uzun illər əshabı ilə birlikdə mağarada yatdı",
+        "Dərinliklərdə böyük bir balıq tərəfindən uduldu",
+        "Musa və İsrail oğullarını iki yerə bölünmüş dənizdə təqib edərkən boğuldu"
+      ],
+      "answer": "Musa və İsrail oğullarını iki yerə bölünmüş dənizdə təqib edərkən boğuldu"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Böyük balığın qarnı",
+        "Məkkədəki Müqəddəs Məscid",
+        "Bölünmüş dəniz",
+        "Hira Mağarası",
+        "Çayları axan bağ"
+      ],
+      "answer": "Bölünmüş dəniz"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Diri-diri göylərə qaldırıldı",
+        "Şənbə gününü pozduğuna görə dəyişdirilib",
+        "Bağışlandı və uzun müddət dinc bir hakimiyyətə sahib oldu",
+        "Xəzinələrlə yer üzü tərəfindən udulmuş",
+        "İnamsızlıq içində boğuldu və cəsəd sonrakılar üçün bir əlamət olaraq qorundu"
+      ],
+      "answer": "İnamsızlıq içində boğuldu və cəsəd sonrakılar üçün bir əlamət olaraq qorundu"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

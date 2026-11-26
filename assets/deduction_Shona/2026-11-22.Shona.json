@@ -1,0 +1,61 @@
+{
+  "title": "Mazana Mapfumbamwe Emakore Ekudanwa",
+  "intro": "Fungidzira wakamira wega uchitarisana nedutu rekushorwa kwenguva yakareba kupfuura umambo hunomuka nekuwa, uchidanidzira husiku nemasikati nzeve dzakavharwa uye mbatya dzakadhonzwa zvakasimba. Mberi kune ngarava yakavakwa panyika yakaoma nemvura isina kumbobvira yamboonekwa. Unonzwa here kushivirira kuri shure kwekukokwa uku?",
+  "clues": [
+    "Ndakakoka vanhu vangu husiku nemasikati, muchivande uye pachena, kuti vanamate Allah chete.",
+    "Vanhu vangu vanoisa minwe munzeve dzavo uye vanozviputira nenguo kuti vandifuratire.",
+    "Ndakagara pakati pevanhu vangu kwemakore mazana mapfumbamwe nemakumi mashanu ndichivadana kuti vatungamire.",
+    "Ndakavaka mudziyo pasi pemaziso aAllah neruzivo rwake apo vanhu vangu vaindiseka panyika yakaoma.",
+    "Ndakarayirwa kutakura mapeya emhando dzose muchikepe uye vatendi pakasvika murairo uye ovheni yazara.",
+    "Ndakaona mafungu achikwira semakomo apo mafashamo akanyudza avo vakaramba, ukuwo Allah akaponesa avo vaiva muAreka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Muporofita Dhul-Kifl",
+        "Muprofita Al-Yasa (Erisha)",
+        "Muporofita Nuh (Noah)",
+        "Muporofita Lut (Roti)",
+        "Muporofita Muhammad"
+      ],
+      "answer": "Muporofita Nuh (Noah)"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Ndakadzivirira amai vangu nekutaura ndichiri mucheche",
+        "Akadudzira hope dzemutongi ari mujeri",
+        "Ndakadana vanhu vangu husiku nemasikati kwemakore mazana mapfumbamwe nemakumi mashanu",
+        "Akatorwa ari mupenyu ndokukwidziridzwa kunzvimbo yakakwirira",
+        "Yakamedzwa nehove huru mugungwa"
+      ],
+      "answer": "Ndakadana vanhu vangu husiku nemasikati kwemakore mazana mapfumbamwe nemakumi mashanu"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Mhuru yegoridhe yemurenje",
+        "Moto wakaita kuti utonhore uye ugare wakachengeteka",
+        "Imba yamambo ine pasi regirazi",
+        "Areka (Al-Fulk)",
+        "Tsvimbo yakazova nyoka"
+      ],
+      "answer": "Areka (Al-Fulk)"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Vanhu vangu vakaparadzwa nemhepo inotonhora kwehusiku hunomwe",
+        "Vakaramba vakanyura muMafashamo Makuru uye vatendi vakaponeswa",
+        "Vanhu vangu vakaparadzwa nekuputika kukuru mangwanani mamwe",
+        "Vanhu vangu vakashandurwa kuita tsoko nekuda kwekudarika",
+        "Vanhu vangu vakamedzwa nenyika nekuda kwekuzvikudza"
+      ],
+      "answer": "Vakaramba vakanyura muMafashamo Makuru uye vatendi vakaponeswa"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

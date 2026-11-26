@@ -1,0 +1,61 @@
+{
+  "title": "La pesilo, kiu kliniĝis al ruino",
+  "intro": "En verda kaj prospera regiono, flora komunumo lasis avidecon korupti la merkaton. Konata pro lerteco en komerco kaj abundo de ĉirkaŭaj ĝardenoj, ĉi tiu grupo alfrontis vokon al justeco kaj fido. Tamen fiero pri riĉeco kondukis al spitemo, kaj malhela ombro kolektiĝis ĉe la horizonto.",
+  "clues": [
+    "Ni estis prospera komerca komunumo vivanta inter ĝardenoj kaj arbarkovritaj arbaretoj.",
+    "Ni trompis homojn per mezuroj kaj pezoj, disvastigante korupton en la lando.",
+    "Nia mesaĝisto avertis nin adori nur Alaho'n kaj doni plenan mezuron.",
+    "Ni mokis nian mesaĝiston kaj postulis la punon, kiu venos, se li estos verema.",
+    "Nin kaptis la puno de la Tago de la Ombro kiam nubo ombris nin.",
+    "Mi estas konata kiel la Kunuloj de la Arbaro, la homoj al kiuj Ŝu'ajb estis sendita."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "La popolo de Thamud",
+        "La Kunuloj de la Arbaro",
+        "La Kunuloj de la Tranĉeo",
+        "La Popolo de la Elefanto",
+        "La Kunuloj de la Kaverno"
+      ],
+      "answer": "La Kunuloj de la Arbaro"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Donante mallongan mezuron kaj spitante nian mesaĝiston",
+        "Postulante vidi Alaho'n rekte ĉe Monto Sinajo",
+        "Konstruante turon por atingi la ĉielon",
+        "Kaŝante fidon sekrete ene de palaco",
+        "Adorante oran bovidon en la foresto de Moseo"
+      ],
+      "answer": "Donante mallongan mezuron kaj spitante nian mesaĝiston"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "La sankta valo de Tuwa",
+        "La fajro, kiu fariĝis malvarmeta kaj sekura",
+        "La arbarkovrita arbareto de Al-Aykah",
+        "La kaverno kun dormanta hundo ĉe ĝia enirejo",
+        "La spegulita palaco el vitro"
+      ],
+      "answer": "La arbarkovrita arbareto de Al-Aykah"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Dronis en la dividita maro",
+        "Englutita kun trezoroj en la teron",
+        "Transformita en simiojn pro rompado de la Ŝabato",
+        "Savita en arkeo super la diluvo",
+        "Detruita per la puno de la Tago de Ombro"
+      ],
+      "answer": "Detruita per la puno de la Tago de Ombro"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

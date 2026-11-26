@@ -1,0 +1,61 @@
+{
+  "title": "Ihe Ntụaka Ndị Na-eru Mbibi",
+  "intro": "N'ógbè bara ọgaranya ma baa ọgaranya, obodo na-eme nke ọma hapụrụ anyaukwu ka ọ merụọ ahịa ahụ. A maara ya maka nkà n'azụmahịa na ịba ụba sitere n'ubi ndị gbara ya gburugburu, otu a chere ihu oku maka ikpe ziri ezi na okwukwe. Ma nganga n'akụnụba dugara n'ịnagide, onyinyo gbara ọchịchịrị wee pụta ìhè n'ọdịnihu.",
+  "clues": [
+    "Anyị bụ obodo azụmaahịa bara ọgaranya, anyị bi n'etiti ubi na ubi ndị jupụtara n'osisi.",
+    "Anyị ghọgburu ndị mmadụ n'ihe e ji atụ ihe na ihe e ji atụ ihe, na-agbasa nrụrụ aka n'ala ahụ.",
+    "Onye ozi anyị dọrọ anyị aka ná ntị ka anyị fee Allah naanị ya ma nye ihe zuru oke.",
+    "Anyị chịrị onye ozi anyị ọchị ma rịọ ka ntaramahụhụ bịa ma ọ bụrụ na ọ bụ onye eziokwu.",
+    "Ahụhụ nke Ụbọchị Onyinyo jidere anyị mgbe igwe ojii kpuchiri anyị.",
+    "A maara m dị ka Ndị Enyi nke Osisi, ndị e zigara Shu'aib."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Ndị Temọd",
+        "Ndị Enyi nke Osisi",
+        "Ndị Enyi nke Ọgbà Ili",
+        "Ndị nke Enyí",
+        "Ndị Enyi nke Ọgba ahụ"
+      ],
+      "answer": "Ndị Enyi nke Osisi"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Inye obere ihe na imejọ onye ozi anyị",
+        "Na-achọ ịhụ Allah kpọmkwem n'Ugwu Saịnaị",
+        "Iwu ụlọ elu iji ruo eluigwe",
+        "Izobe okwukwe nzuzo n'ime obí eze",
+        "Ife nwa ehi ọlaedo n'enweghị Mozis"
+      ],
+      "answer": "Inye obere ihe na imejọ onye ozi anyị"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Ndagwurugwu dị nsọ nke Tuwa",
+        "Ọkụ ahụ e mere ka ọ dị jụụ ma dịkwa nchebe",
+        "Osisi Al-Aykah nke dị n'ime ọhịa",
+        "Ọgba ahụ nwere nkịta onye na-ehi ụra n'ọnụ ụzọ ya",
+        "Obí enyo e ji enyo mee"
+      ],
+      "answer": "Osisi Al-Aykah nke dị n'ime ọhịa"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "Mmiri gbawara n'oké osimiri kewara ekewa",
+        "E loro ya na akụ n'ụwa",
+        "Agbanweela ya ka ọ bụrụ enwe maka imebi ụbọchị izu ike",
+        "A zọpụtara ya n'ụgbọ mmiri dị n'elu mmiri idei mmiri",
+        "A ga-ebibi ya site na ntaramahụhụ nke ụbọchị onyinyo"
+      ],
+      "answer": "A ga-ebibi ya site na ntaramahụhụ nke ụbọchị onyinyo"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

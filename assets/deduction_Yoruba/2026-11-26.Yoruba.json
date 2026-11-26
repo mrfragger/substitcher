@@ -1,0 +1,61 @@
+{
+  "title": "Ọgbà tí a búra ní òwúrọ̀",
+  "intro": "Ní àwọn wákàtí tí ó dákẹ́ kí oòrùn tó yọ, wọ́n ṣe ètò kan ní ìkọ̀kọ̀. Ogún tó ń gbilẹ̀ ti wà nílẹ̀ fún ìkórè, síbẹ̀ wọ́n pinnu láti pa gbogbo èso mọ́ kúrò lọ́dọ̀ àwọn tí wọ́n nílò rẹ̀. Nígbà tí ó bá di òwúrọ̀, gbogbo nǹkan yóò dà bí ohun tí a kò mọ̀ tẹ́lẹ̀, ẹ̀kọ́ kan yóò sì wà nínú ẹ̀ka dúdú fún gbogbo àwọn tí wọ́n bá ronú jinlẹ̀.",
+  "clues": [
+    "A jogún ọgbà tó ń gbilẹ̀, a sì ṣèlérí láti kó gbogbo èso rẹ̀ fún ara wa.",
+    "A búra láti jáde ní kùtùkùtù òwúrọ̀ nígbà tí àwọn aláìní tí wọ́n béèrè fún ìpín wọn ṣì ń sùn.",
+    "A yọ èyíkéyìí ìyàsọ́tọ̀ kúrò nínú ìbúra wa, a sì dá ẹ̀tọ́ àwọn aláìní dúró láìsọ pé bí Allah bá fẹ́.",
+    "A jáde lọ síta láti máa sọ̀rọ̀ kẹ́lẹ́kẹ́lẹ́ sí ara wa kí a má baà jẹ́ kí aláìní kankan wọ inú ọgbà wa ní ọjọ́ náà.",
+    "A fojú inú wo ara wa pé a lè kó gbogbo nǹkan jọ dáadáa, kí a sì má jẹ́ kí àwọn tó ń kórè oúnjẹ jẹ oúnjẹ náà.",
+    "A jí láti rí ọgbà wa tí ó ti bàjẹ́ ní òru, tí a dúdú bí ẹni pé a kórè rẹ̀, a sì sọ pé a ti pàdánù àwọn nǹkan tí a ti ṣe àti pé a ti ronú pìwàdà."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Àwọn Alábàákẹ́gbẹ́ ní Ìgòkè",
+        "Àwọn alábàákẹ́gbẹ́ ọgbà náà",
+        "Àwọn Òjíṣẹ́ Ìlú náà nínú Surah Ya-Sin",
+        "Àwọn Ènìyàn Erin",
+        "Àwọn Olùṣọ́ Iná Ọ̀run Àpáàdì"
+      ],
+      "answer": "Àwọn alábàákẹ́gbẹ́ ọgbà náà"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Fífi màlúù rúbọ láti yanjú àríyànjiyàn ìpànìyàn",
+        "Kíkọjú ìjà sí wòlíì kan láti sọ àwọn òkúta kalẹ̀ láti ojú ọ̀run",
+        "Pète láti kórè ní òwúrọ̀ kùtùkùtù nígbàtí wọ́n ń kọ̀ àwọn aláìní ìpín wọn.",
+        "Rírú Sábáàtì nípa síso àwọ̀n ẹja",
+        "Kíkọ́ ìdè omi láti ṣàkóso omi ìkún omi fún ìṣòwò"
+      ],
+      "answer": "Pète láti kórè ní òwúrọ̀ kùtùkùtù nígbàtí wọ́n ń kọ̀ àwọn aláìní ìpín wọn."
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Àfonífojì mímọ́ ti Tuwa níbi tí wọ́n ti rí iná",
+        "Ọgbà igi tí a fi odi ṣe tí a ó kórè ní òwúrọ̀",
+        "Ilẹ̀ ààfin tí a fi dígí ṣe yìí ni wọ́n fi ń pè ní omi",
+        "Àpótí onígi tí a kọ́ lábẹ́ ìtọ́ni Ọlọ́run",
+        "Odi irin tí a kọ́ láàrín àwọn òkè méjì"
+      ],
+      "answer": "Ọgbà igi tí a fi odi ṣe tí a ó kórè ní òwúrọ̀"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A di ọbọ fún rírú òfin ọjọ́ ìsinmi.",
+        "A sùn ninu ihò kan fun ọdun 309 ati 100",
+        "Ilẹ̀ gbé wa mì pẹ̀lú àwọn ìṣúra fún ìgbéraga",
+        "Ọgbà wa bàjẹ́ ní òru kan, a sì fi sílẹ̀ ní òkùnkùn bí òru",
+        "A rì sínú òkun nígbà tí a ń lé àwọn onígbàgbọ́ kiri"
+      ],
+      "answer": "Ọgbà wa bàjẹ́ ní òru kan, a sì fi sílẹ̀ ní òkùnkùn bí òru"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A széljárta dűnék magas oszlopai",
+  "intro": "Képzeljünk el egy virágzó civilizációt, amely hatalmas erővel és páratlan építőkészséggel rendelkezik. Hatalmas, ívelt dűnék között telepedve le, ez a közösség nagyszerű nevezetességeket emelt, amelyek a horizontot érték. Mégis büszkeség gyökeret vert, és a felhívás, hogy térjenek vissza egyedül Allah imádatához, dacos fogadtatásban részesült. Ami ezután következett, az a szélben hordozott figyelmeztetés marad.",
+  "clues": [
+    "Hatalmas nemzet voltunk, amely Nuh népe után jött, nagy termettel és erővel megáldva.",
+    "Magas tornyokat és emlékműveket építettünk minden magaslatra puszta sportból és büszkeségből.",
+    "Dicsekedtünk, mondván, ki hatalmasabb nálunk hatalmában, és zsarnokosan, könyörtelenül cselekedtünk.",
+    "Elutasítottuk küldöttünket, Hudot, amikor arra hívott minket, hogy egyedül Allahot imádjuk, gyengének és hazugnak nevezve őt.",
+    "Gúnyt űztünk a figyelmeztetésből, és felszólítottuk, hogy hozza ránk a fenyegető büntetést, ha igazat mond.",
+    "Hét éjszakán és nyolc napon át tomboló, kopár szél pusztított minket, mint a pálmafák üreges törzsei."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Az 'Ad népe",
+        "Banu Nadir",
+        "Lut népe",
+        "Madyan népe",
+        "Thamud népe"
+      ],
+      "answer": "Az 'Ad népe"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Elutasította Hud prófétát, és nagyobb erejével dicsekedett",
+        "Féltékenységből összeesküdtek, hogy megölik Júszuf prófétát",
+        "Gúnyolta Nuhot, miközben az frigyládát építette",
+        "Egy tevét követelt jelül, majd megbénította",
+        "Mózes távollétében imádta az aranyborjút"
+      ],
+      "answer": "Elutasította Hud prófétát, és nagyobb erejével dicsekedett"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Al-Ahqaf - a szél görbítette homokdűnék",
+        "Thamud kútja kőbe vésve",
+        "A Sínai-hegy, ahol a Tórát átvették",
+        "A fáraó királyságának Nílusa",
+        "A Tuwa szent völgye"
+      ],
+      "answer": "Al-Ahqaf - a szél görbítette homokdűnék"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Megfulladva a nagy árvízben, amely elborította a földet",
+        "Qarunnal együtt a földbe nyelték arroganciájuk miatt",
+        "Égett agyagból készült kövekkel záporozott",
+        "Egy hatalmas földrengés pusztította el őket, amely otthonaikban ragadta el őket",
+        "Hét éjszakán és nyolc napon át tartó heves, fagyos szél pusztította el"
+      ],
+      "answer": "Hét éjszakán és nyolc napon át tartó heves, fagyos szél pusztította el"
+    }
+  },
+  "verseRef": "46:22",
+  "arabic": "قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "They said, \"Have you come to delude us away from our gods? Then bring us what you promise us, if you should be of the truthful.\" (46:22)"
+}

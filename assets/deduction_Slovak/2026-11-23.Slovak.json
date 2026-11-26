@@ -1,0 +1,61 @@
+{
+  "title": "Utopená deklarácia",
+  "intro": "Predstavte si mocného vládcu obklopeného nádherou, pamiatkami a armádami poslušnými jedinému rozkazu. Táto postava si nárokovala najvyššiu autoritu, zavrhla božské znamenia ako ilúziu a nariadila neúprosné prenasledovanie smerom k moru. Sledujte cestu od arogantných dekrétov k rozdeleným vodám, kde konečné priznanie prichádza príliš neskoro na to, aby zachránilo.",
+  "clues": [
+    "Mal som absolútnu moc a zotročil som deti Izraela pod svoju vládu.",
+    "Vyhlásil som sa za najvyššieho pána a odmietol som uznať akéhokoľvek boha nad sebou.",
+    "Prikázal som Hámanovi, aby mi postavil vysokú vežu, aby som mohol hľadieť na Boha Músu.",
+    "Konfrontoval som Músu a Hárúna, keď priniesli jasné znamenia, a ich zázraky som nazval čarodejníctvom.",
+    "V noci som prenasledoval Músu a veriacich so svojimi vojskami, až kým sme nedosiahli more.",
+    "Vyhlásil som vieru, keď som sa topil v mori, ale bolo už neskoro a moje telo bolo uchované ako znamenie."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Namrud",
+        "Džalut (Goliáš)",
+        "Abu Džahl",
+        "Faraón (Fir'aun)",
+        "Háman"
+      ],
+      "answer": "Faraón (Fir'aun)"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Bol hodený do ohňa, ktorý sa stal chladným a bezpečným",
+        "Postavil archu, aby prežil veľkú potopu",
+        "Spal v jaskyni so spoločníkmi mnoho rokov",
+        "Bol prehltnutý veľkou rybou v hlbinách",
+        "Utopil sa pri prenasledovaní Músu a Izraelitov cez rozdelené more"
+      ],
+      "answer": "Utopil sa pri prenasledovaní Músu a Izraelitov cez rozdelené more"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Brucho veľkej ryby",
+        "Posvätná mešita v Mekke",
+        "Rozdelené more",
+        "Jaskyňa Hira",
+        "Záhrada s tečúcimi riekami"
+      ],
+      "answer": "Rozdelené more"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Zaživa pozdvihnutý do nebies",
+        "Premenení pre porušovanie soboty",
+        "Odpustené a udelená dlhá pokojná vláda",
+        "Pohltený zemou s pokladmi",
+        "Utopený v nevere a telo uchované ako znamenie pre tých potom"
+      ],
+      "answer": "Utopený v nevere a telo uchované ako znamenie pre tých potom"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

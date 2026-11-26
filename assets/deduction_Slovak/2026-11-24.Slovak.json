@@ -1,0 +1,61 @@
+{
+  "title": "Vznešené piliere vetrom ošľahaných dún",
+  "intro": "Predstavte si prosperujúcu civilizáciu obdarenú obrovskou silou a bezkonkurenčnými stavebnými zručnosťami. Táto komunita, usadená medzi rozsiahlymi, zakrivenými dunami, vybudovala veľkolepé pamiatky, ktoré sa dotýkali horizontu. Napriek tomu sa zakorenila pýcha a výzva na návrat k uctievaniu jedine Alaha sa stretla s vzdorom. To, čo nasledovalo, zostáva varovaním, ktoré niesol samotný vietor.",
+  "clues": [
+    "Boli sme mocný národ, ktorý prišiel po ľude Nuhovom, požehnaný veľkou postavou a silou.",
+    "Na každom vyvýšenom mieste sme postavili vznešené veže a pamätníky len pre zábavu a hrdosť.",
+    "Chválili sme sa a hovorili sme, kto je od nás silnejší, a konali sme tyransky a bez milosti.",
+    "Odmietli sme nášho posla Huda, keď nás vyzýval k uctievaniu jedine Alaha, a nazvali sme ho slabým a klamárom.",
+    "Vysmiali sme sa varovaniu a vyzvali sme ho, aby na nás uvalil trest, ktorým nám hrozil, ak bude pravdovravný.",
+    "Sedem nocí a osem dní nás ničil zúrivý, neúrodný vietor, popadaní ako duté kmene paliem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Ľudia z Adu",
+        "Banu Nadir",
+        "Lutov ľud",
+        "Ľudia z Madyanu",
+        "Ľudia z Thamudu"
+      ],
+      "answer": "Ľudia z Adu"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Odmietol proroka Huda a chválil sa nadradenou silou",
+        "Zo žiarlivosti plánoval zabiť proroka Jusufa",
+        "Vysmievali sa Nuhovi, kým staval Archu",
+        "Požadoval ťavu ako znamenie a potom jej podrezal žily",
+        "Uctieval zlaté teľa v Músovej neprítomnosti"
+      ],
+      "answer": "Odmietol proroka Huda a chválil sa nadradenou silou"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Al-Ahqaf - vetrom zakrivené piesočné duny",
+        "Studňa Thamudu vytesaná do kameňa",
+        "Vrch Sinaj, kde bola prijatá Tóra",
+        "Rieka Níl v faraónovom kráľovstve",
+        "Posvätné údolie Tuwa"
+      ],
+      "answer": "Al-Ahqaf - vetrom zakrivené piesočné duny"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Utopený vo veľkej potope, ktorá zaplavila zem",
+        "Prehltnutý s Qarúnom do zeme pre aroganciu",
+        "Zasypané kameňmi z pálenej hliny",
+        "Zničené silným zemetrasením, ktoré ich zasiahlo v ich domovoch",
+        "Zničený prudkým mrazivým vetrom sedem nocí a osem dní"
+      ],
+      "answer": "Zničený prudkým mrazivým vetrom sedem nocí a osem dní"
+    }
+  },
+  "verseRef": "46:22",
+  "arabic": "قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "They said, \"Have you come to delude us away from our gods? Then bring us what you promise us, if you should be of the truthful.\" (46:22)"
+}

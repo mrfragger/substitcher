@@ -1,0 +1,61 @@
+{
+  "title": "Die Ertrunkenen-Erklärung",
+  "intro": "Stell dir einen mächtigen Herrscher vor, umgeben von Prunk, Monumenten und Heeren, die einem einzigen Befehl gehorchen. Diese Gestalt beanspruchte die uneingeschränkte Autorität, tat göttliche Zeichen als Illusion ab und befahl eine unerbittliche Verfolgung bis zum Meer. Folge der Spur von arroganten Dekreten bis zum geteilten Wasser, wo ein letztes Geständnis zu spät kommt, um noch zu retten.",
+  "clues": [
+    "Ich besaß die absolute Macht und unterwarf die Kinder Israels meiner Herrschaft.",
+    "Ich erklärte mich selbst zum höchsten Herrn und weigerte mich, irgendeinen Gott über mir anzuerkennen.",
+    "Ich befahl Haman, mir einen hohen Turm zu bauen, damit ich den Gott Musa sehen könnte.",
+    "Ich konfrontierte Musa und Harun, als sie klare Zeichen brachten, und nannte ihre Wunder Zauberei.",
+    "Ich verfolgte Musa und die Gläubigen mit meinen Heeren bei Nacht, bis wir das Meer erreichten.",
+    "Ich bekannte meinen Glauben, während ich im Meer ertrank, aber es war zu spät, und mein Körper wurde als Zeichen erhalten."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Namrud",
+        "Jalut (Goliath)",
+        "Abu Jahl",
+        "Pharao (Fir'aun)",
+        "Haman"
+      ],
+      "answer": "Pharao (Fir'aun)"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Wurde in ein Feuer geworfen, das abgekühlt und sicher wurde.",
+        "Er baute eine Arche, um eine große Flut zu überleben.",
+        "Viele Jahre lang schlief ich mit Gefährten in einer Höhle.",
+        "Wurde von einem großen Fisch in der Tiefe verschluckt",
+        "Er ertrank bei der Verfolgung von Musa und den Israeliten durch das geteilte Meer"
+      ],
+      "answer": "Er ertrank bei der Verfolgung von Musa und den Israeliten durch das geteilte Meer"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Der Bauch des großen Fisches",
+        "Die Heilige Moschee in Mekka",
+        "Das geteilte Meer",
+        "Die Höhle von Hira",
+        "Der Garten mit fließenden Flüssen"
+      ],
+      "answer": "Das geteilte Meer"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Lebendig in den Himmel erhoben",
+        "Umgewandelt zur Brechung des Sabbats",
+        "Ihm wurde vergeben und eine lange, friedliche Herrschaft gewährt.",
+        "Von der Erde mit Schätzen verschluckt",
+        "Ertrunken in Ungläubigkeit und der Leichnam als Zeichen für die nachfolgenden Generationen konserviert"
+      ],
+      "answer": "Ertrunken in Ungläubigkeit und der Leichnam als Zeichen für die nachfolgenden Generationen konserviert"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

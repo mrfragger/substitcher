@@ -1,0 +1,61 @@
+{
+  "title": "Suwa Gark Bolanlar Jarnamasy",
+  "intro": "Bir buýruga boýun bolýan ajaýyplyk, ýadygärlikler we goşunlar bilen gurşalan güýçli hökümdary göz öňüne getiriň. Bu şahsyýet ýokary ygtyýarlygy talap etdi, ylahy alamatlary illýuziýa hökmünde ret etdi we deňze tarap yzygiderli yzarlamagy buýurdy. Tekepbir permanlardan bölünen suwlara çenli ýol alyň, bu ýerde soňky ykrarnama halas etmek üçin gaty giç gelýär.",
+  "clues": [
+    "Men mutlak häkimiýete eýe boldum we Ysraýyl ogullaryny öz hökümdarlygym astynda gul etdim.",
+    "Men özümi iň beýik hökümdar diýip yglan etdim we özümden ýokarda hiç bir hudaýy ykrar etmekden ýüz öwürdim.",
+    "Men Hamana Musanyň Hudaýyna seretmegim üçin maňa beýik bir diň gurmagy tabşyrdym.",
+    "Musa bilen Harun aýdyň alamatlar getirende, men olaryň garşysyna çykdym we olaryň gudratlaryny jadygöýlik diýip atlandyrdym.",
+    "Men Musany we möminleri gije goşunlarym bilen deňze ýetýänçä yzarladym.",
+    "Men deňizde gark bolup barýarkam ynanýandygymy aýtdym, ýöne giçdi we jesedim alamat hökmünde saklanyp galdy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Namrud",
+        "Jalut (Goliat)",
+        "Abu Jahl",
+        "Fyr'on (Fyr'on)",
+        "Haman"
+      ],
+      "answer": "Fyr'on (Fyr'on)"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Sowuk we howpsuz bolan oda zyňyldy",
+        "Uly silden aman galmak üçin gämi gurdy",
+        "Köp ýyllap ýoldaşlary bilen bir gowakda ýatdy",
+        "Çuňlukda uly balyk tarapyndan ýuwudyldy",
+        "Musa we ysraýyllylary deňizde yzarlaýarka suwa gark boldy"
+      ],
+      "answer": "Musa we ysraýyllylary deňizde yzarlaýarka suwa gark boldy"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Uly balygyň garny",
+        "Mekkedäki mukaddes metjit",
+        "Bölünen deňiz",
+        "Hira mağarasy",
+        "Akýan derýalary bolan bag"
+      ],
+      "answer": "Bölünen deňiz"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Göge diri galdyryldy",
+        "Sabat günini bozandygy üçin özgerdildi",
+        "Bagyşlandy we uzak wagtlap parahatçylykly höküm sürdi",
+        "Ýer hazynalar bilen ýuwudyldy",
+        "Ynanmazlyk bilen gark boldy we jeset soňkular üçin alamat hökmünde saklandy"
+      ],
+      "answer": "Ynanmazlyk bilen gark boldy we jeset soňkular üçin alamat hökmünde saklandy"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

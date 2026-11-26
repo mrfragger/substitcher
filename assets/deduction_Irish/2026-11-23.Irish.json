@@ -1,0 +1,61 @@
+{
+  "title": "An Dearbhú Báite",
+  "intro": "Samhlaigh rialóir cumhachtach timpeallaithe ag glóir, séadchomharthaí agus armtha umhal d’ordú amháin. D’éiligh an figiúr seo údarás uachtarach, dhiúltaigh sé comharthaí diaga mar bhréagadóireacht, agus d’ordaigh sé tóir gan staonadh i dtreo na farraige. Lean an cosán ó fhorálacha sotalacha go huiscí scartha, áit a dtagann admháil dheiridh rómhall le sábháil.",
+  "clues": [
+    "Bhí cumhacht iomlán agam agus chuir mé Clann Iosrael i sclábhaíocht faoi mo riail.",
+    "D’fhógair mé mé féin mar an tiarna is airde agus dhiúltaigh mé aitheantas a thabhairt d’aon dia os mo chionn.",
+    "D’ordaigh mé do Haman túr ard a thógáil dom ionas go bhféadfainn breathnú ar Dhia Mhúsa.",
+    "Thug mé aghaidh ar Mhúsa agus ar Harún nuair a thug siad comharthaí soiléire leo, agus thug mé draíocht ar a míorúiltí.",
+    "Lean mé Músa agus na creidmhigh le mo chuid arm san oíche go dtí gur shroicheamar an fharraige.",
+    "D’fhógair mé creideamh agus mé ag báthadh sa bhfarraige, ach bhí sé rómhall, agus caomhnaíodh mo chorp mar chomhartha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Namrud",
+        "Jalut (Goliath)",
+        "Abu Jahl",
+        "Faraó (Fir'aun)",
+        "Haman"
+      ],
+      "answer": "Faraó (Fir'aun)"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Caitheadh ​​isteach i dtine a tháinig chun bheith fionnuar agus sábháilte",
+        "Thóg sé áirc chun maireachtáil i ndiaidh tuile mhóir",
+        "Chodail sé i bpluais le compánaigh ar feadh blianta fada",
+        "Slogadh é ag iasc mór sna doimhneachtaí",
+        "Bádh agus é ag tóraíocht Músa agus na hIosraeilítigh tríd an bhfarraige scoilte."
+      ],
+      "answer": "Bádh agus é ag tóraíocht Músa agus na hIosraeilítigh tríd an bhfarraige scoilte."
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Bolg an éisc mhóir",
+        "An Mosc Naofa i Mecca",
+        "An fharraige scoilte",
+        "Uaimh Hira",
+        "An gairdín le haibhneacha ag sileadh"
+      ],
+      "answer": "An fharraige scoilte"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Ardaithe beo chun na bhflaitheas",
+        "Claochlaithe as briseadh na Sabóide",
+        "Maithithe agus réimeas fada síochánta bronnta air",
+        "Slogtha ag an talamh le seoda",
+        "Báite i míchreideamh agus corp caomhnaithe mar chomhartha dóibh siúd ina dhiaidh"
+      ],
+      "answer": "Báite i míchreideamh agus corp caomhnaithe mar chomhartha dóibh siúd ina dhiaidh"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

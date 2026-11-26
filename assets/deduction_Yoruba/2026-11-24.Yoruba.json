@@ -1,0 +1,61 @@
+{
+  "title": "Àwọn Òpó Gíga ti Àwọn Òkè Ńlá Tí Afẹ́fẹ́ Fẹ́",
+  "intro": "Fojú inú wo bí ìṣẹ̀dálẹ̀ tó ń gbèrú ṣe ń dàgbàsókè tó ní agbára gíga àti ọgbọ́n tó pọ̀ tó ní nínú kíkọ́lé. Nítorí pé ó wà láàárín àwọn òkè ńláńlá tó rọ̀, àwùjọ yìí gbé àwọn àmì ńláńlá sókè tó dé ibi tí afẹ́fẹ́ ti ń rọ̀. Síbẹ̀ ìgbéraga gbòòrò sí i, ìpè láti padà sí ìjọsìn Allah nìkan ni wọ́n dojú kọ. Ohun tó tẹ̀lé e ni ìkìlọ̀ tí a gbé kalẹ̀ lórí afẹ́fẹ́ fúnra rẹ̀.",
+  "clues": [
+    "A jẹ́ orílẹ̀-èdè alágbára kan tí ó wá lẹ́yìn àwọn ènìyàn Nóù, tí a fi agbára àti ìtara bùkún fún.",
+    "A kọ́ àwọn ilé gogoro gíga àti àwọn ohun ìrántí sí gbogbo ibi gíga fún eré ìdárayá àti ìgbéraga lásán.",
+    "A fọ́nnu, a ń sọ pé ta ló lágbára ju wa lọ ní agbára, a sì hùwà ìkà láìsí àánú.",
+    "A kọ ojiṣẹ wa Hud silẹ nigbati o pe wa lati sin Allah nikan, o si pe e ni alailagbara ati opuro.",
+    "A fi ìkìlọ̀ náà ṣe yẹ̀yẹ́, a sì pè é níjà láti fi ìyà tí ó halẹ̀ mọ́ wa tí ó bá jẹ́ olóòótọ́.",
+    "Afẹ́fẹ́ líle kan pa wá run fún òru méje àti ọjọ́ mẹ́jọ, a sì fi wá sílẹ̀ bí igi ọ̀pẹ tí kò ní ihò."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Àwọn ènìyàn 'Ad",
+        "Banu Nadir",
+        "Àwọn ènìyàn Lúùtù",
+        "Àwọn ènìyàn Madyan",
+        "Àwọn ará Thamuud"
+      ],
+      "answer": "Àwọn ènìyàn 'Ad"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Ó kọ̀ Wòlíì Húdì sílẹ̀, ó sì ń fọ́nnu nípa agbára tó ga jù",
+        "Wọ́n gbèrò láti pa Ànábì Yusuf nítorí owú",
+        "Ó fi Nóà ṣe yẹ̀yẹ́ nígbà tí ó ń kọ́ Ọkọ̀ náà",
+        "Ó béèrè fún abo ràkúnmí gẹ́gẹ́ bí àmì, lẹ́yìn náà ó gbá a ní ọgbẹ́",
+        "Ó sin ère ọmọ màlúù wúrà nígbà tí Mósè kò sí níbẹ̀."
+      ],
+      "answer": "Ó kọ̀ Wòlíì Húdì sílẹ̀, ó sì ń fọ́nnu nípa agbára tó ga jù"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Al-Ahqaf - àwọn ilẹ̀ oníyẹ̀fun tí afẹ́fẹ́ tẹ̀",
+        "Kànga Támúdì tí a gbẹ́ sínú òkúta",
+        "Òkè Sinai níbi tí wọ́n ti gba Torah",
+        "Odò Náílì ti ìjọba Fáráò",
+        "Àfonífojì Mímọ́ ti Tuwa"
+      ],
+      "answer": "Al-Ahqaf - àwọn ilẹ̀ oníyẹ̀fun onígun mẹ́rin tí afẹ́fẹ́ ń fẹ́"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Mo rì sínú ìkún omi ńlá tó bo ilẹ̀ ayé",
+        "Wọ́n gbé e mì pẹ̀lú Qarun sínú ilẹ̀ nítorí ìgbéraga",
+        "Òjò fi àwọn òkúta amọ̀ tí a yan rọ̀ sórí rẹ̀",
+        "Ìsẹ̀lẹ̀ ilẹ̀ tó lágbára kan pa wọ́n run nílé wọn",
+        "Afẹ́fẹ́ yìnyín líle kan pa á run fún òru méje àti ọjọ́ mẹ́jọ"
+      ],
+      "answer": "Afẹ́fẹ́ yìnyín líle kan pa á run fún òru méje àti ọjọ́ mẹ́jọ"
+    }
+  },
+  "verseRef": "46:22",
+  "arabic": "قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "They said, \"Have you come to delude us away from our gods? Then bring us what you promise us, if you should be of the truthful.\" (46:22)"
+}

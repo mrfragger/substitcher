@@ -1,0 +1,61 @@
+{
+  "title": "I nove secoli della vocazione",
+  "intro": "Immaginate di trovarvi soli contro un'ondata di scherno per un periodo più lungo di quello in cui sorgono e cadono gli imperi, chiamando giorno e notte, con le orecchie tappate e le vesti strette al petto. Davanti a voi si staglia una nave costruita sulla terraferma e solca acque diverse da qualsiasi altra vista prima. Riuscite a percepire la pazienza che si cela dietro questa maratona di inviti?",
+  "clues": [
+    "Ho invitato il mio popolo giorno e notte, in segreto e apertamente, ad adorare solo Allah.",
+    "Il mio popolo si è tappato le orecchie con le dita e si è avvolto in abiti per voltarsi dall'altra parte.",
+    "Sono rimasto tra il mio popolo per novecentocinquanta anni, invitandoli alla retta via.",
+    "Ho costruito una nave sotto gli occhi e la rivelazione di Allah, mentre il mio popolo mi derideva sulla terraferma.",
+    "Mi fu comandato di portare a bordo coppie di ogni genere e i credenti quando giunse il comando e il forno traboccò.",
+    "Ho visto le onde innalzarsi come montagne mentre il diluvio annegava coloro che lo avevano rifiutato, mentre Allah salvava coloro che erano nell'Arca."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Dhul-Kifl",
+        "Profeta Al-Yasa (Eliseo)",
+        "Il profeta Nuh (Noè)",
+        "Profeta Lut (Lot)",
+        "Profeta Maometto"
+      ],
+      "answer": "Il profeta Nuh (Noè)"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Ho difeso mia madre parlando fin da quando era bambina.",
+        "Interpretò il sogno del sovrano mentre era in prigione",
+        "Ho chiamato il mio popolo giorno e notte per 950 anni",
+        "Fu preso vivo e portato a un'alta carica",
+        "Fu inghiottito da un grosso pesce nel mare"
+      ],
+      "answer": "Ho chiamato il mio popolo giorno e notte per 950 anni"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Il vitello d'oro del deserto",
+        "Il fuoco reso freddo e sicuro",
+        "Il palazzo con il pavimento di vetro",
+        "L'Arca (Al-Fulk)",
+        "Il bastone che si trasformò in un serpente"
+      ],
+      "answer": "L'Arca (Al-Fulk)"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Il mio popolo fu distrutto da un vento gelido per sette notti",
+        "I rifiutatori annegarono nel Diluvio Universale e i credenti furono salvati",
+        "Il mio popolo fu distrutto da una potente esplosione una mattina",
+        "Il mio popolo è stato trasformato in scimmie per trasgressione",
+        "Il mio popolo è stato inghiottito dalla terra per la sua arroganza."
+      ],
+      "answer": "I rifiutatori annegarono nel Diluvio Universale e i credenti furono salvati"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

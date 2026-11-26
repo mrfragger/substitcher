@@ -1,0 +1,61 @@
+{
+  "title": "Xarabalığa Doğru Əyilən Tərəzilər",
+  "intro": "Çiçəklənən və sulu bir bölgədə, çiçəklənən bir icma, bazarı tamahkarlığın pozmasına imkan verdi. Ticarətdə bacarıqları və ətrafdakı bağlardan bolluğu ilə tanınan bu qrup ədalət və iman çağırışı ilə qarşılaşdı. Lakin sərvətlə qürur itaətsizliyə səbəb oldu və üfüqdə qaranlıq bir kölgə toplandı.",
+  "clues": [
+    "Biz bağlar və meşəliklər arasında yaşayan varlı bir ticarət icması idik.",
+    "Biz insanları ölçüdə və çəkidə aldatdıq, yer üzündə fitnə-fəsad saldıq.",
+    "Bizə Elçimiz tərəfindən yalnız Allaha ibadət etmək və ölçüdə tam olmaq əmri verildi.",
+    "Biz elçimizə istehza etdik və əgər doğru danışırsa, əzabın gəlməsini istədik.",
+    "Kölgə gününün əzabı bizi bürüdü və bir bulud üstümüzə kölgə saldı.",
+    "Mən Əhəb Əhli, yəni Şuaybın göndərildiyi xalq kimi tanınıram."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Səmud xalqı",
+        "Meşə Əhli",
+        "Xəndək Əshabı",
+        "Fil xalqı",
+        "Mağara Əhli"
+      ],
+      "answer": "Meşə Əhli"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Ölçünü azaltmaq və elçimizə qarşı çıxmaq",
+        "Sina dağında Allahı birbaşa görməyi tələb etmək",
+        "Göylərə çatmaq üçün bir qüllə tikmək",
+        "İmanı sarayın içində gizlicə gizlətmək",
+        "Musanın yoxluğunda qızıl buzova ibadət etmək"
+      ],
+      "answer": "Ölçünü azaltmaq və elçimizə qarşı çıxmaq"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Müqəddəs Tuva vadisi",
+        "Sərin və təhlükəsiz hala gətirilən od",
+        "Əl-Əykənin meşəlik bağı",
+        "Girişində yatan iti olan mağara",
+        "Güzgülü şüşə saray"
+      ],
+      "answer": "Əl-Əykənin meşəlik bağı"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Bölünmüş dənizdə boğuldu",
+        "Xəzinələrlə birlikdə yer üzünə batıb",
+        "Şənbə gününü pozduğuna görə meymuna çevrilib",
+        "Daşqın sularının üstündəki bir gəmidə xilas oldu",
+        "Kölgə Gününün əzabı ilə məhv edildi"
+      ],
+      "answer": "Kölgə Gününün əzabı ilə məhv edildi"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

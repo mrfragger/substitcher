@@ -1,0 +1,61 @@
+{
+  "title": "De Gaart huet bei Sonnenopgang geschwuer",
+  "intro": "An de rouege Stonne virum Sonnenopgang gouf am Geheimen e Plang gemaach. E bléiend Ierfschaft stoung prett fir d'Ernte, awer et gouf eng Entschlossenheet geformt, all Uebst vun deenen ewech ze halen, déi et brauchen. Moies géif alles onbekannt ausgesinn, an eng Lektioun géif fir all déi, déi nodenken, an déi schwaarz Äscht ageprägt sinn.",
+  "clues": [
+    "Mir hunn e bléiende Gaart geierft a mir hunn eis versprach, all seng Friichte fir eis selwer ze ernten.",
+    "Mir hunn eis geschwuer, fréi bei Sonnenopgang erauszegoen, während déi Aarm, déi hiren Undeel gefrot hunn, nach geschlof hunn.",
+    "Mir hunn all Ausnam vun eisem Eed ausgeschloss a mir hunn d'Recht vun den Bedürftegen zréckgehalen, ouni ze soen, ob Allah et wëll.",
+    "Mir sinn erausgaang a flüsterte mateneen, datt deen Dag keen aarme Mënsch an eise Gaart däerf kommen.",
+    "Mir hunn eis virgestallt, datt mir voll fäeg wieren, alles ze sammelen an ze verhënneren, datt iergendeen Sammler en Deel dovunner géif huelen.",
+    "Mir sinn an der Nuecht erwächt an hunn festgestallt, datt eise Gaart ruinéiert war, schwaarz wéi wann e geernt wier, a mir hunn gesot, mir wieren benodeelegt a bereiend."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "D'Begleeder vum Trench",
+        "D'Begleeder vum Gaart",
+        "D'Bote vun der Stad am Surah Ya-Sin",
+        "D'Leit vum Elefant",
+        "D'Bewaacher vum Hellfeier"
+      ],
+      "answer": "D'Begleeder vum Gaart"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Eng Kou opferen fir e Mordsträit ze léisen",
+        "E Prophet erausfuerderen, Steng vum Himmel erofzebréngen",
+        "Plang fir bei Sonnenopgang ze ernten, während den Aarme hiren Undeel verweigert gëtt",
+        "De Sabbat briechen andeems Fëschnetzer opgestallt ginn",
+        "De Bau vun engem Damm fir d'Iwwerschwemmungswaasser fir den Handel ze kontrolléieren"
+      ],
+      "answer": "Plang fir bei Sonnenopgang ze ernten, während den Aarme hiren Undeel verweigert gëtt"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Dat hellegt Dall vun Tuwa, wou Feier gesi gouf",
+        "De walled garden bongert, deen moies geernt soll ginn",
+        "De gespigelte Palaisbuedem gouf mat Waasser verwiesselt",
+        "Déi hëlze Ark, déi ënner göttlecher Instruktioun gebaut gouf",
+        "Déi Eisenmauer, déi tëscht zwéi Bierger gebaut gouf"
+      ],
+      "answer": "De walled garden bongert, deen moies geernt soll ginn"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Mir goufen zu Affen verwandelt, well mir de Sabbat verletzt hunn",
+        "Mir hunn dräihonnertnéng Joer an enger Höhl geschlof",
+        "Mir goufe vun der Äerd mat Schätz fir Stolz verschléckt",
+        "Eise Gaart gouf iwwer Nuecht zerstéiert a schwaarz wéi d'Nuecht hannerlooss",
+        "Mir sinn am Mier erdronk, wéi mir d'Gleeweger verfollegt hunn"
+      ],
+      "answer": "Eise Gaart gouf iwwer Nuecht zerstéiert a schwaarz wéi d'Nuecht hannerlooss"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Déklarasi Tilelep",
+  "intro": "Bayangkeun hiji pamingpin anu perkasa dikurilingan ku kaagungan, monumen, sareng tentara anu taat kana hiji paréntah. Tokoh ieu ngaku otoritas pangluhurna, nganggap tanda-tanda ilahi salaku ilusi, sareng maréntahkeun pengejaran anu teu eureun-eureun ka laut. Turutan jalan satapak ti kaputusan anu sombong ka cai anu misah, dimana pangakuan terakhir sumping telat teuing pikeun nyalametkeun.",
+  "clues": [
+    "Abdi nyepeng kakawasaan mutlak sareng ngabudak Bani Israil di handapeun kakawasaan abdi.",
+    "Kuring ngadéklarasikeun diri kuring salaku gusti anu pang luhurna sareng nolak ngaku dewa mana waé anu langkung luhur tibatan kuring.",
+    "Kuring nitah Haman pikeun nyieun munara anu jangkung sangkan kuring bisa ningali ka Pangéran Musa.",
+    "Kuring ngalawan Musa jeung Harun nalika maranéhna mawa mukjizat anu jelas, sarta kuring nyebutkeun mukjizat maranéhna téh sihir.",
+    "Kuring ngudag Musa jeung jalma-jalma nu ariman ku pasukan kuring peuting-peuting nepi ka nepi ka laut.",
+    "Kuring nyatakeun kapercayaan nalika tilelep di laut, tapi parantos telat, sareng awak kuring dijaga salaku tanda."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Saha Abdi?",
+      "options": [
+        "Namrud",
+        "Jalut (Goliath)",
+        "Abu Jahal",
+        "Fir'aun (Fir'aun)",
+        "Haman"
+      ],
+      "answer": "Fir'aun (Fir'aun)"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Dialungkeun kana seuneu anu janten tiis sareng aman",
+        "Ngawangun bahtera pikeun salamet tina banjir ageung",
+        "Saré di guha sareng réréncangan salami mangtaun-taun",
+        "Ditelan ku lauk badag di jerona",
+        "Tilelep nalika ngudag Musa sareng urang Israil ngaliwatan laut anu beulah"
+      ],
+      "answer": "Tilelep nalika ngudag Musa sareng urang Israil ngaliwatan laut anu beulah"
+    },
+    "location": {
+      "label": "Unsur konci",
+      "options": [
+        "Beuteung lauk gedé",
+        "Masjidil Haram di Mekah",
+        "Laut anu dibagi",
+        "Gua Hira",
+        "Kebon anu aya walungan anu ngocor"
+      ],
+      "answer": "Laut anu dibagi"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Diangkat hirup-hirup ka sawarga",
+        "Dirobah kusabab ngalanggar Sabat",
+        "Dihampura sareng dipasihan pamaréntahan anu panjang sareng damai",
+        "Dileueut ku bumi ku harta karun",
+        "Tilelep dina kaayaan teu percaya sareng jasadna disimpen salaku tanda pikeun anu saatosna"
+      ],
+      "answer": "Tilelep dina kaayaan teu percaya sareng jasadna disimpen salaku tanda pikeun anu saatosna"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

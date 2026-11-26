@@ -1,0 +1,780 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَمَاكِنُ السَّكَنِ وَالطَّرِيقِ",
+        "nameEn": "Populated places and travel routes",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "ٱلْمَدَآئِنِ",
+            "en": "the cities",
+            "ref": "7:111",
+            "verse": "قَالُوٓا۟ أَرْجِهْ وَأَخَاهُ وَأَرْسِلْ فِى ٱلْمَدَآئِنِ حَـٰشِرِينَ",
+            "verseEn": "They said, \"Postpone [the matter of] him and his brother and send among the cities gatherers"
+          },
+          {
+            "ar": "قَرْيَةٍ",
+            "en": "a city",
+            "ref": "21:95",
+            "verse": "وَحَرَٰمٌ عَلَىٰ قَرْيَةٍ أَهْلَكْنَـٰهَآ أَنَّهُمْ لَا يَرْجِعُونَ",
+            "verseEn": "And it is prohibited to [the people of] a city which We have destroyed that they will [ever] return"
+          },
+          {
+            "ar": "مَسَٰكِنِهِمْ",
+            "en": "their dwellings",
+            "ref": "32:26",
+            "verse": "أَوَلَمْ يَهْدِ لَهُمْ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّنَ ٱلْقُرُونِ يَمْشُونَ فِى مَسَـٰكِنِهِمْ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ ۖ أَفَلَا يَسْمَعُونَ",
+            "verseEn": "Has it not become clear to them how many generations We destroyed before them, [as] they walk among their dwellings? Indeed in that are signs; then do they not hear?"
+          },
+          {
+            "ar": "لَبِسَبِيلٍ",
+            "en": "(is) on a road",
+            "ref": "15:76",
+            "verse": "وَإِنَّهَا لَبِسَبِيلٍۢ مُّقِيمٍ",
+            "verseEn": "And indeed, they [i.e., those cities] are [situated] on an established road."
+          }
+        ]
+      },
+      {
+        "name": "أَفْعَالُ الْعَمَلِ وَالصُّنْعِ",
+        "nameEn": "Verbs of doing, making and earning",
+        "color": "green",
+        "items": [
+          {
+            "ar": "عَمِلَ",
+            "en": "does",
+            "ref": "45:15",
+            "verse": "مَنْ عَمِلَ صَـٰلِحًۭا فَلِنَفْسِهِۦ ۖ وَمَنْ أَسَآءَ فَعَلَيْهَا ۖ ثُمَّ إِلَىٰ رَبِّكُمْ تُرْجَعُونَ",
+            "verseEn": "Whoever does a good deed - it is for himself; and whoever does evil - it is against it [i.e., the self or soul]. Then to your Lord you will be returned."
+          },
+          {
+            "ar": "فَجَعَلَهُۥ",
+            "en": "and made him",
+            "ref": "68:50",
+            "verse": "فَٱجْتَبَـٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّـٰلِحِينَ",
+            "verseEn": "And his Lord chose him and made him of the righteous."
+          },
+          {
+            "ar": "يَكْسِبُونَ",
+            "en": "earn",
+            "ref": "39:50",
+            "verse": "قَدْ قَالَهَا ٱلَّذِينَ مِن قَبْلِهِمْ فَمَآ أَغْنَىٰ عَنْهُم مَّا كَانُوا۟ يَكْسِبُونَ",
+            "verseEn": "Those before them had already said it, but they were not availed by what they used to earn."
+          },
+          {
+            "ar": "خَلَقْنَٰكُمْ",
+            "en": "[We] created you",
+            "ref": "56:57",
+            "verse": "نَحْنُ خَلَقْنَـٰكُمْ فَلَوْلَا تُصَدِّقُونَ",
+            "verseEn": "We have created you, so why do you not believe?"
+          }
+        ]
+      },
+      {
+        "name": "الخَسَارُ وَالبُطْلَانُ وَالتَّدْمِيرُ",
+        "nameEn": "Words denoting ruin, loss and nullification",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "وَبَطَلَ",
+            "en": "and became futile",
+            "ref": "7:118",
+            "verse": "فَوَقَعَ ٱلْحَقُّ وَبَطَلَ مَا كَانُوا۟ يَعْمَلُونَ",
+            "verseEn": "So the truth was established, and abolished was what they were doing."
+          },
+          {
+            "ar": "وَسَيُحْبِطُ",
+            "en": "and He will make worthless",
+            "ref": "47:32",
+            "verse": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ وَشَآقُّوا۟ ٱلرَّسُولَ مِنۢ بَعْدِ مَا تَبَيَّنَ لَهُمُ ٱلْهُدَىٰ لَن يَضُرُّوا۟ ٱللَّهَ شَيْـًۭٔا وَسَيُحْبِطُ أَعْمَـٰلَهُمْ",
+            "verseEn": "Indeed, those who disbelieved and averted [people] from the path of Allāh and opposed the Messenger after guidance had become clear to them - never will they harm Allāh at all, and He will render worthless their deeds."
+          },
+          {
+            "ar": "وَخَسِرَ",
+            "en": "And are lost",
+            "ref": "40:85",
+            "verse": "فَلَمْ يَكُ يَنفَعُهُمْ إِيمَـٰنُهُمْ لَمَّا رَأَوْا۟ بَأْسَنَا ۖ سُنَّتَ ٱللَّهِ ٱلَّتِى قَدْ خَلَتْ فِى عِبَادِهِۦ ۖ وَخَسِرَ هُنَالِكَ ٱلْكَـٰفِرُونَ",
+            "verseEn": "But never did their faith benefit them once they saw Our punishment. [It is] the established way of Allāh which has preceded among His servants. And the disbelievers thereupon lost [all]."
+          },
+          {
+            "ar": "تُدَمِّرُ",
+            "en": "Destroying",
+            "ref": "46:25",
+            "verse": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+            "verseEn": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people."
+          }
+        ]
+      },
+      {
+        "name": "أَوْقَاتٌ وَمَوَاعِيدُ مُسَمَّاةٌ",
+        "nameEn": "Times and appointed moments",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "لِمِيقَاتِ",
+            "en": "for (the) appointment",
+            "ref": "26:38",
+            "verse": "فَجُمِعَ ٱلسَّحَرَةُ لِمِيقَـٰتِ يَوْمٍۢ مَّعْلُومٍۢ",
+            "verseEn": "So the magicians were assembled for the appointment of a well-known day."
+          },
+          {
+            "ar": "يَوْمِ",
+            "en": "(the) Day",
+            "ref": "38:79",
+            "verse": "قَالَ رَبِّ فَأَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ",
+            "verseEn": "He said, \"My Lord, then reprieve me until the Day they are resurrected.\""
+          },
+          {
+            "ar": "أَمَدًا",
+            "en": "a (distant) term",
+            "ref": "72:25",
+            "verse": "قُلْ إِنْ أَدْرِىٓ أَقَرِيبٌۭ مَّا تُوعَدُونَ أَمْ يَجْعَلُ لَهُۥ رَبِّىٓ أَمَدًا",
+            "verseEn": "Say, \"I do not know if what you are promised is near or if my Lord will grant for it a [long] period.\""
+          },
+          {
+            "ar": "ٱلسَّاعَةَ",
+            "en": "(for) the Hour",
+            "ref": "43:66",
+            "verse": "هَلْ يَنظُرُونَ إِلَّا ٱلسَّاعَةَ أَن تَأْتِيَهُم بَغْتَةًۭ وَهُمْ لَا يَشْعُرُونَ",
+            "verseEn": "Are they waiting except for the Hour to come upon them suddenly while they perceive not?"
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "حليما",
+    "display": "حَلِيمًا",
+    "hint": "Divine quality of patience that delays punishment to give time to return",
+    "verseRef": "33:51",
+    "arabicVerse": "۞ تُرْجِى مَن تَشَآءُ مِنْهُنَّ وَتُـْٔوِىٓ إِلَيْكَ مَن تَشَآءُ ۖ وَمَنِ ٱبْتَغَيْتَ مِمَّنْ عَزَلْتَ فَلَا جُنَاحَ عَلَيْكَ ۚ ذَٰلِكَ أَدْنَىٰٓ أَن تَقَرَّ أَعْيُنُهُنَّ وَلَا يَحْزَنَّ وَيَرْضَيْنَ بِمَآ ءَاتَيْتَهُنَّ كُلُّهُنَّ ۚ وَٱللَّهُ يَعْلَمُ مَا فِى قُلُوبِكُمْ ۚ وَكَانَ ٱللَّهُ عَلِيمًا حَلِيمًۭا",
+    "verse": "33:51 - You, [O Muḥammad], may put aside whom you will of them or take to yourself whom you will. And any that you desire of those [wives] from whom you had [temporarily] separated - there is no blame upon you [in returning her]. That is more suitable that they should be content and not grieve and that they should be satisfied with what you have given them - all of them. And Allāh knows what is in your hearts. And ever is Allāh Knowing and Forbearing."
+  },
+  "scramble": {
+    "verseRef": "38:28",
+    "reference": "Sad (38:28)",
+    "segments": [
+      "أَمْ نَجْعَلُ الَّذِينَ",
+      "آمَنُوا وَعَمِلُوا الصَّالِحَاتِ",
+      "كَالْمُفْسِدِينَ فِي الْأَرْضِ",
+      "أَمْ نَجْعَلُ الْمُتَّقِينَ",
+      "كَالْفُجَّارِ"
+    ],
+    "translations": [
+      "Or should We treat those who",
+      "believe and do righteous deeds",
+      "like those who spread corruption in the earth",
+      "Or should We treat",
+      "the pious like the wicked"
+    ],
+    "hint": "A verse about Allah's perfect justice — the righteous can never be equal to the corrupt",
+    "arabic": "أَمْ نَجْعَلُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ كَٱلْمُفْسِدِينَ فِى ٱلْأَرْضِ أَمْ نَجْعَلُ ٱلْمُتَّقِينَ كَٱلْفُجَّارِ",
+    "words": [
+      "أَمْ نَجْعَلُ ٱلَّذِينَ",
+      "ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ",
+      "كَٱلْمُفْسِدِينَ فِى ٱلْأَرْضِ",
+      "أَمْ نَجْعَلُ",
+      "ٱلْمُتَّقِينَ كَٱلْفُجَّارِ"
+    ],
+    "verseEn": "Or should We treat those who believe and do righteous deeds like corrupters in the land? Or should We treat those who fear Allāh like the wicked?"
+  },
+  "roothive": {
+    "center": "ف",
+    "outer": [
+      "س",
+      "خ",
+      "م",
+      "ت",
+      "ل",
+      "ا"
+    ],
+    "root": {
+      "letters": "خلف",
+      "display": "خ ل ف",
+      "translit": "kh-l-f",
+      "meaning": "The core idea is what comes after or stands behind. That sense extends to people who follow later, paths that split apart, and words that are left unkept.",
+      "occurrences": 127,
+      "lemmaCount": 18
+    },
+    "words": [
+      {
+        "w": "اسف",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَسِف",
+            "gloss": "grieved",
+            "type": "noun",
+            "root": "أسف",
+            "count": 2,
+            "ref": "7:150",
+            "pos": 7,
+            "alt": [
+              "sorrowful"
+            ]
+          },
+          {
+            "lemma": "أَسَف",
+            "gloss": "grief",
+            "type": "noun",
+            "root": "أسف",
+            "count": 2,
+            "ref": "18:6",
+            "pos": 11
+          }
+        ]
+      },
+      {
+        "w": "افل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَفَلَ",
+            "gloss": "set",
+            "type": "verb",
+            "root": "أفل",
+            "count": 3,
+            "ref": "6:76",
+            "pos": 11,
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "الف",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَلْف",
+            "gloss": "thousand",
+            "type": "noun",
+            "root": "ألف",
+            "count": 14,
+            "ref": "2:96",
+            "pos": 13,
+            "alt": [
+              "thousands",
+              "two thousand"
+            ]
+          },
+          {
+            "lemma": "أَلَّفَ",
+            "gloss": "put affection",
+            "type": "verb",
+            "root": "ألف",
+            "count": 5,
+            "ref": "8:63",
+            "pos": 16,
+            "alt": [
+              "joins"
+            ],
+            "form": 2
+          },
+          {
+            "lemma": "أَلْفَ",
+            "gloss": "found",
+            "type": "verb",
+            "root": "لفو",
+            "count": 3,
+            "ref": "2:170",
+            "pos": 12,
+            "alt": [
+              "both found"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "خاف",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "خافَ",
+            "gloss": "fear",
+            "type": "verb",
+            "root": "خوف",
+            "count": 83,
+            "ref": "2:182",
+            "pos": 2,
+            "alt": [
+              "fears",
+              "could i fear"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "خسف",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "خَسَفَ",
+            "gloss": "cause to swallow",
+            "type": "verb",
+            "root": "خسف",
+            "count": 8,
+            "ref": "16:45",
+            "pos": 6,
+            "alt": [
+              "allah will cave"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "خفت",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "خَفَّتْ",
+            "gloss": "light",
+            "type": "verb",
+            "root": "خفف",
+            "count": 3,
+            "ref": "7:9",
+            "pos": 2,
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "خفف",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "خَفَّفَ",
+            "gloss": "be lightened",
+            "type": "verb",
+            "root": "خفف",
+            "count": 8,
+            "ref": "2:86",
+            "pos": 8,
+            "alt": [
+              "lighten",
+              "has lightened"
+            ],
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "خلف",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "خَلْف",
+            "gloss": "successors",
+            "type": "noun",
+            "root": "خلف",
+            "count": 22,
+            "ref": "7:169",
+            "pos": 4
+          },
+          {
+            "lemma": "خَلَفَ",
+            "gloss": "succeeded",
+            "type": "verb",
+            "root": "خلف",
+            "count": 5,
+            "ref": "7:142",
+            "pos": 16,
+            "alt": [
+              "take my place",
+              "have done in my place"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "خُلِّفُ",
+            "gloss": "were left behind",
+            "type": "verb",
+            "root": "خلف",
+            "count": 1,
+            "ref": "9:118",
+            "pos": 4,
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "سلف",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "سَلَفَ",
+            "gloss": "passed",
+            "type": "verb",
+            "root": "سلف",
+            "count": 5,
+            "ref": "2:275",
+            "pos": 34,
+            "alt": [
+              "passed before",
+              "past"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "فات",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "فاتَ",
+            "gloss": "escaped",
+            "type": "verb",
+            "root": "فوت",
+            "count": 3,
+            "ref": "3:153",
+            "pos": 18,
+            "alt": [
+              "has escaped",
+              "have gone from"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "اخلف",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "أَخْلَفُ",
+            "gloss": "break",
+            "type": "verb",
+            "root": "خلف",
+            "count": 14,
+            "ref": "2:80",
+            "pos": 14,
+            "alt": [
+              "fail",
+              "fail/violate"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "اسفل",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَسْفَل",
+            "gloss": "lower",
+            "type": "adjective",
+            "root": "سفل",
+            "count": 6,
+            "ref": "8:42",
+            "pos": 9,
+            "alt": [
+              "below",
+              "lowest"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "الاف",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "إِلاف",
+            "gloss": "familiarity",
+            "type": "verbal noun",
+            "root": "ألف",
+            "count": 2,
+            "ref": "106:1",
+            "pos": 1
+          }
+        ]
+      },
+      {
+        "w": "خالف",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "خالِف",
+            "gloss": "stay behind",
+            "type": "active participle",
+            "root": "خلف",
+            "count": 1,
+            "ref": "9:83",
+            "pos": 25
+          }
+        ]
+      },
+      {
+        "w": "خلاف",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "خِلاف",
+            "gloss": "opposite sides",
+            "type": "noun",
+            "root": "خلف",
+            "count": 6,
+            "ref": "5:33",
+            "pos": 20,
+            "alt": [
+              "opposite",
+              "behind"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "سافل",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "سافِل",
+            "gloss": "low",
+            "type": "active participle",
+            "root": "سفل",
+            "count": 3,
+            "ref": "95:5",
+            "pos": 4
+          }
+        ]
+      },
+      {
+        "w": "مخلف",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "مُخَلَّف",
+            "gloss": "remained behind",
+            "type": "passive participle",
+            "root": "خلف",
+            "count": 4,
+            "ref": "9:81",
+            "pos": 2,
+            "alt": [
+              "to those who remained behind"
+            ]
+          },
+          {
+            "lemma": "مُخْلِف",
+            "gloss": "fail",
+            "type": "active participle",
+            "root": "خلف",
+            "count": 1,
+            "ref": "14:47",
+            "pos": 4
+          }
+        ]
+      },
+      {
+        "w": "اختلف",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "اخْتَلَفَ",
+            "gloss": "differ",
+            "type": "verb",
+            "root": "خلف",
+            "count": 35,
+            "ref": "2:213",
+            "pos": 21,
+            "alt": [
+              "differed"
+            ],
+            "form": 8
+          }
+        ]
+      },
+      {
+        "w": "استخف",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "اسْتَخَفَّ",
+            "gloss": "bluffed",
+            "type": "verb",
+            "root": "خفف",
+            "count": 3,
+            "ref": "16:80",
+            "pos": 13,
+            "alt": [
+              "find light",
+              "take you in light estimation"
+            ],
+            "form": 10
+          }
+        ]
+      },
+      {
+        "w": "اسلفت",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "أَسْلَفَتْ",
+            "gloss": "previously",
+            "type": "verb",
+            "root": "سلف",
+            "count": 2,
+            "ref": "10:30",
+            "pos": 6,
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "مختلف",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "مُخْتَلِف",
+            "gloss": "various",
+            "type": "active participle",
+            "root": "خلف",
+            "count": 10,
+            "ref": "6:141",
+            "pos": 10,
+            "alt": [
+              "varying",
+              "diverse"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اختلاف",
+        "family": true,
+        "points": 6,
+        "senses": [
+          {
+            "lemma": "اخْتِلاف",
+            "gloss": "alternation",
+            "type": "verbal noun",
+            "root": "خلف",
+            "count": 7,
+            "ref": "4:82",
+            "pos": 12,
+            "alt": [
+              "contradiction"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "استخلف",
+        "family": true,
+        "points": 6,
+        "senses": [
+          {
+            "lemma": "اسْتَخْلَفَ",
+            "gloss": "gave succession",
+            "type": "verb",
+            "root": "خلف",
+            "count": 5,
+            "ref": "24:55",
+            "pos": 12,
+            "form": 10
+          }
+        ]
+      },
+      {
+        "w": "مستخلف",
+        "family": true,
+        "points": 6,
+        "senses": [
+          {
+            "lemma": "مُسْتَخْلَف",
+            "gloss": "trustees",
+            "type": "passive participle",
+            "root": "خلف",
+            "count": 1,
+            "ref": "57:7",
+            "pos": 7
+          }
+        ]
+      }
+    ],
+    "otherFamily": [
+      {
+        "lemma": "خَلِيفَة",
+        "gloss": "successors",
+        "type": "noun",
+        "root": "خلف",
+        "count": 9,
+        "ref": "2:30",
+        "pos": 9,
+        "alt": [
+          "vicegerent",
+          "inheritors"
+        ]
+      },
+      {
+        "lemma": "خَوالِف",
+        "gloss": "stay behind",
+        "type": "noun",
+        "root": "خلف",
+        "count": 2,
+        "ref": "9:87",
+        "pos": 5
+      },
+      {
+        "lemma": "يُخالِفُ",
+        "gloss": "differ from",
+        "type": "verb",
+        "root": "خلف",
+        "count": 2,
+        "ref": "11:88",
+        "pos": 17,
+        "alt": [
+          "oppose"
+        ],
+        "form": 3
+      },
+      {
+        "lemma": "يَتَخَلَّفُ",
+        "gloss": "remain behind",
+        "type": "verb",
+        "root": "خلف",
+        "count": 1,
+        "ref": "9:120",
+        "pos": 10,
+        "form": 5
+      },
+      {
+        "lemma": "خِلْفَة",
+        "gloss": "succession",
+        "type": "noun",
+        "root": "خلف",
+        "count": 1,
+        "ref": "25:62",
+        "pos": 6
+      }
+    ],
+    "maxScore": 68,
+    "featuredRoot": "خلف"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Xitiviso xa ku Nwela",
+  "intro": "Anakanya hi mufumi wa matimba la rhendzeriweke hi ku vangama, switsundzuxo ni mavuthu lama yingisaka xileriso xin’we. Nhlayo leyi a yi vula leswaku yi ni vulawuri lebyi tlakukeke, yi bakanya swikombiso swa Xikwembu tanihi vukanganyisi naswona yi lerise ku hlongorisa loku nga heriki ku kongoma elwandle. Landzelela ndlela kusuka eka swileriso swa ku tikukumuxa kuya eka mati lawa ya avaneke, laha ku tiphofula ko hetelela ku fikaka endzhaku ka nkarhi swinene ku ponisa.",
+  "clues": [
+    "Ndzi khome matimba lama heleleke naswona ndzi endle Vana va Israyele mahlonga ehansi ka vulawuri bya mina.",
+    "Ndzi tivule hosi leyi tlakukeke swinene naswona ndzi arile ku amukela xikwembu xihi na xihi lexi nga ehenhla ka mina.",
+    "Ndzi lerisile Hamani leswaku a ndzi akela xihondzo lexi tlakukeke leswaku ndzi ta languta Xikwembu xa Musa.",
+    "Ndzi langutane na Musa na Harun loko va tisa swikombiso leswi nga erivaleni, naswona masingita ya vona ndzi vitane vungoma.",
+    "Ndzi hlongorisile Musa ni vapfumeri ni mavuthu ya mina nivusiku kukondza hi fika elwandle.",
+    "Ndzi tivise ripfumelo loko ndzi ri karhi ndzi nwela elwandle, kambe a ku hlwerile swinene, naswona miri wa mina wu hlayisiwile tanihi xikombiso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Namrud",
+        "Jaluti (Goliyadi) .",
+        "Abu Jahl",
+        "Faro (Fir'aun) .",
+        "Hamani"
+      ],
+      "answer": "Faro (Fir'aun) ."
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "U lahleriwe endzilweni lowu veke ku kufumela naswona wu hlayisekeke",
+        "U ake ngalava leswaku a pona ndhambi leyikulu",
+        "U etlele ebakweni ni vanghana ku ringana malembe yo tala",
+        "U mitiwe hi nhlampfi leyikulu evuentweni",
+        "U nwile loko a ri karhi a hlongorisa Musa ni Vaisrayele hi lwandle leri avaneke"
+      ],
+      "answer": "U nwile loko a ri karhi a hlongorisa Musa ni Vaisrayele hi lwandle leri avaneke"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Xitombo xa nhlampfi leyikulu",
+        "Mosque yo Kwetsima eMakkah",
+        "Lwandle leri avaneke",
+        "Bako ra Hira",
+        "Ntanga lowu nga ni milambu leyi khulukaka"
+      ],
+      "answer": "Lwandle leri avaneke"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "U pfuxiwile a hanya ematilweni",
+        "U hundzuriwile hikwalaho ko tlula Savata",
+        "U rivaleriwile naswona u nyikiwe ku fuma ko leha hi ku rhula",
+        "Ku mitiwa hi misava hi xuma",
+        "Ku nwela hi ku nga tshembi naswona miri wu hlayisiwile tanihi xikombiso eka lava va nga ta landzela"
+      ],
+      "answer": "Ku nwela hi ku nga tshembi naswona miri wu hlayisiwile tanihi xikombiso eka lava va nga ta landzela"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

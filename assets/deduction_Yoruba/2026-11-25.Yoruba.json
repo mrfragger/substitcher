@@ -1,0 +1,61 @@
+{
+  "title": "Àwọn Ìwọ̀n Tí Ó Rìn Sí Ìparun",
+  "intro": "Ní agbègbè ọlọ́rọ̀ àti aláásìkí, àwùjọ tó ń gbèrú jẹ́ kí ojúkòkòrò ba ọjà jẹ́. A mọ̀ wọ́n fún ọgbọ́n ìṣòwò àti ọrọ̀ láti inú ọgbà tó yí wọn ká, wọ́n dojúkọ ìpè sí òdodo àti ìgbàgbọ́. Síbẹ̀, ìgbéraga nínú ọrọ̀ yọrí sí àìgbọ́ràn, òjìji dúdú sì bò mọ́lẹ̀ ní òru.",
+  "clues": [
+    "Àwùjọ oníṣòwò aláásìkí ni wá, a sì ń gbé láàárín ọgbà àti igbó.",
+    "A tàn àwọn ènìyàn jẹ ní ìwọ̀n àti ìwọ̀n, a sì ń tan ìwà ìbàjẹ́ kálẹ̀ ní ilẹ̀ náà.",
+    "Ojiṣẹ wa kìlọ̀ fún wa pé kí a jọ́sìn fún Allah nìkan ṣoṣo, kí a sì ṣe gbogbo ìwọ̀n.",
+    "A fi ojiṣẹ wa ṣe ẹlẹ́yà, a sì béèrè pé kí ìyà náà dé tí ó bá jẹ́ olóòótọ́.",
+    "Ìyà ọjọ́ òjìji mú wa nígbà tí ìkùukùu bo wa.",
+    "Wọ́n mọ̀ mí sí àwọn Sàbáábú Igbó, àwọn ènìyàn tí wọ́n rán Ṣúáíbù sí."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Àwọn ará Thamuud",
+        "Àwọn alábàákẹ́gbẹ́ Igbó",
+        "Àwọn Alábàákẹ́gbẹ́ ní Ìgòkè",
+        "Àwọn Ènìyàn Erin",
+        "Àwọn Alábàákẹ́gbẹ́ inú ihò náà"
+      ],
+      "answer": "Àwọn alábàákẹ́gbẹ́ Igbó"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Fífúnni ní ìwọ̀n kúkúrú àti kíkọjú ìjà sí ìránṣẹ́ wa",
+        "Mo n beere lati ri Allah taara ni Oke Sinai",
+        "Kíkọ́ ilé gogoro kan láti dé ọ̀run",
+        "Fífi ìgbàgbọ́ pamọ́ ní ìkọ̀kọ̀ nínú ààfin",
+        "Sísìn ọmọ màlúù wúrà nígbà tí Mósè kò sí níbẹ̀"
+      ],
+      "answer": "Fífúnni ní ìwọ̀n kúkúrú àti kíkọjú ìjà sí ìránṣẹ́ wa"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Àfonífojì mímọ́ ti Tuwa",
+        "Iná tí wọ́n sọ di tútù tí ó sì ní ààbò",
+        "Igbó Al-Aykah tí ó ní igbó",
+        "Ihò àpáta náà pẹ̀lú ajá tí ó sùn ní ẹnu ọ̀nà rẹ̀",
+        "Ààfin dígí tí a fi dígí ṣe"
+      ],
+      "answer": "Igbó Al-Aykah tí ó ní igbó"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Tí a rì sínú omi òkun tí ó pín sí méjì",
+        "A gbé e mì pẹ̀lú àwọn ìṣúra sínú ilẹ̀",
+        "A yípadà sí ọ̀bọ fún rírú ọjọ́ ìsinmi",
+        "A fipamọ́ sínú ọkọ̀ ojú omi kan lókè omi ìkún omi",
+        "Ìyà ọjọ́ òjìji parẹ́"
+      ],
+      "answer": "Ìyà ọjọ́ òjìji parẹ́"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

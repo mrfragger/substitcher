@@ -1,0 +1,61 @@
+{
+  "title": "La Dichiarazione Sommersa",
+  "intro": "Immaginate un potente sovrano circondato da sfarzo, monumenti ed eserciti obbedienti a un unico comando. Questa figura rivendicava l'autorità suprema, liquidava i segni divini come illusioni e ordinava un inseguimento implacabile verso il mare. Seguite le tracce che conducono dai decreti arroganti alle acque divise, dove una confessione finale giunge troppo tardi per salvare.",
+  "clues": [
+    "Detenevo il potere assoluto e riducevo in schiavitù i Figli d'Israele, sottomettendoli al mio dominio.",
+    "Mi sono autoproclamato signore supremo e ho rifiutato di riconoscere qualsiasi dio al di sopra di me.",
+    "Ho ordinato ad Haman di costruirmi un'alta torre affinché potessi contemplare il dio Mosè.",
+    "Ho affrontato Musa e Harun quando hanno portato segni inequivocabili, e ho definito i loro miracoli stregoneria.",
+    "Di notte inseguii Mosè e i credenti con i miei eserciti finché non raggiungemmo il mare.",
+    "Ho professato la mia fede mentre annegavo in mare, ma era troppo tardi e il mio corpo è stato preservato come segno."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Namrud",
+        "Jalut (Golia)",
+        "Abu Jahl",
+        "Faraone (Fir'aun)",
+        "Haman"
+      ],
+      "answer": "Faraone (Fir'aun)"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Fu gettato in un fuoco che si raffreddò e divenne sicuro",
+        "Costruirono un'arca per sopravvivere a un grande diluvio.",
+        "Ho dormito in una grotta con dei compagni per molti anni",
+        "Fu inghiottito da un grosso pesce nelle profondità",
+        "Annegato mentre inseguiva Mosè e gli Israeliti attraverso il Mar Rosso diviso"
+      ],
+      "answer": "Annegato mentre inseguiva Mosè e gli Israeliti attraverso il Mar Rosso diviso"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Il ventre del grande pesce",
+        "La Sacra Moschea della Mecca",
+        "Il mare diviso",
+        "La grotta di Hira",
+        "Il giardino con i fiumi che scorrono"
+      ],
+      "answer": "Il mare diviso"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Risuscitato vivo al cielo",
+        "Trasformato per aver violato il sabato",
+        "Perdonato e gli è stato concesso un lungo regno di pace.",
+        "Inghiottita dalla terra con tesori",
+        "Annegato nell'incredulità e il corpo conservato come segno per coloro che verranno"
+      ],
+      "answer": "Annegato nell'incredulità e il corpo conservato come segno per coloro che verranno"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

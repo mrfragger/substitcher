@@ -1,0 +1,61 @@
+{
+  "title": "Tuyên ngôn bị nhấn chìm",
+  "intro": "Hãy hình dung một vị vua hùng mạnh được bao quanh bởi sự tráng lệ, những tượng đài và những đội quân tuân phục một mệnh lệnh duy nhất. Nhân vật này tự xưng là người nắm quyền tối cao, bác bỏ những dấu hiệu thần thánh như ảo ảnh, và ra lệnh truy đuổi không ngừng nghỉ về phía biển. Hãy lần theo dấu vết từ những sắc lệnh kiêu ngạo đến biển cả chia đôi, nơi lời thú nhận cuối cùng đến quá muộn để cứu vãn.",
+  "clues": [
+    "Ta nắm giữ quyền lực tuyệt đối và đã nô dịch con cái Israel dưới sự cai trị của mình.",
+    "Tôi tự xưng mình là chúa tể tối cao và từ chối thừa nhận bất kỳ vị thần nào cao hơn mình.",
+    "Ta ra lệnh cho Haman xây cho ta một tòa tháp cao để ta có thể nhìn thấy Đức Chúa Trời của Musa.",
+    "Tôi đã đối chất với Musa và Harun khi họ đưa ra những dấu hiệu rõ ràng, và tôi gọi những phép lạ của họ là ma thuật.",
+    "Ta dẫn quân truy đuổi Musa và những người tin theo suốt đêm cho đến khi đến được biển.",
+    "Tôi đã tuyên xưng niềm tin khi đang chìm dần trên biển, nhưng đã quá muộn, và thi thể tôi được lưu giữ như một bằng chứng."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Namrud",
+        "Jalut (Goliath)",
+        "Abu Jahl",
+        "Pharaoh (Fir'aun)",
+        "Haman"
+      ],
+      "answer": "Pharaoh (Fir'aun)"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Bị ném vào ngọn lửa đã nguội và trở nên an toàn.",
+        "Đã đóng một con thuyền để sống sót qua trận đại hồng thủy.",
+        "Tôi đã ngủ trong hang động cùng với những người bạn đồng hành trong nhiều năm.",
+        "Bị một con cá lớn nuốt chửng dưới đáy biển.",
+        "Chết đuối khi đuổi theo Musa và dân Israel qua biển đã rẽ đôi."
+      ],
+      "answer": "Chết đuối khi đuổi theo Musa và dân Israel qua biển đã rẽ đôi."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Bụng của con cá lớn",
+        "Thánh đường Hồi giáo ở Mecca",
+        "Biển chia đôi",
+        "Hang động Hira",
+        "Khu vườn với những dòng sông chảy xiết"
+      ],
+      "answer": "Biển chia đôi"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Được đưa lên trời khi còn sống",
+        "Bị biến đổi vì vi phạm ngày Sa-bát",
+        "Được tha thứ và ban cho một triều đại hòa bình lâu dài.",
+        "Bị đất mẹ nuốt chửng cùng với kho báu",
+        "Chìm đắm trong sự hoài nghi và thi thể được bảo quản như một lời cảnh tỉnh cho những người sau này."
+      ],
+      "answer": "Chìm đắm trong sự hoài nghi và thi thể được bảo quản như một lời cảnh tỉnh cho những người sau này."
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

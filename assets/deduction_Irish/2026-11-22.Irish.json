@@ -1,0 +1,61 @@
+{
+  "title": "Na Naoi gCéad Bliain de Ghlaoch",
+  "intro": "Samhlaigh seasamh leat féin i gcoinne taoide magaidh ar feadh tréimhse níos faide ná mar a thagann impireachtaí chun cinn agus i dtitfidh siad, ag glaoch oíche agus lá agus cluasa clúdaithe agus éadaí teannta. Chun tosaigh tá soitheach tógtha ar thalamh tirim agus ar uiscí nach bhfacthas a leithéid riamh cheana. An féidir leat an fhoighne atá taobh thiar den mharatón cuireadh seo a mhothú?",
+  "clues": [
+    "Thug mé cuireadh do mo mhuintir oíche agus lá, i rún agus go hoscailte, adhradh a thabhairt do Allah ina aonar.",
+    "Chuir mo mhuintir méara ina gcluasa agus chuir siad éadaí timpeall orthu féin le casadh uaim.",
+    "D’fhan mé i measc mo mhuintire ar feadh naoi gcéad caoga bliain ag glaoch orthu chun treorach.",
+    "Thóg mé soitheach faoi shúile agus faoi fhoilsiú Allah agus mo mhuintir ag magadh fúm ar thalamh tirim.",
+    "Tugadh ordú dom péirí de gach cineál agus na creidmhigh a iompar ar bord nuair a tháinig an t-ordú agus an oigheann ag cur thar maoil.",
+    "Chonaic mé na tonnta ag ardú cosúil le sléibhte agus an tuile ag báthadh na ndaoine a dhiúltaigh, agus Allah ag sábháil na ndaoine san Áirc."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Dhul-Kifl",
+        "An Fáidh Al-Yasa (Elisha)",
+        "An Fáidh Nuh (Nói)",
+        "An Fáidh Lút (Lot)",
+        "Fáidh Muhammad"
+      ],
+      "answer": "An Fáidh Nuh (Nói)"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Chosain mé mo mháthair trí labhairt ina naíonán",
+        "Léirmhínigh sé aisling an rialóra agus é sa phríosún",
+        "Ghlaoigh siad ar mo mhuintir oíche agus lá ar feadh 950 bliain",
+        "Tógadh beo é agus ardaíodh go hard-stádas é.",
+        "Slogadh é ag iasc mór sa bhfarraige"
+      ],
+      "answer": "Ghlaoigh siad ar mo mhuintir oíche agus lá ar feadh 950 bliain"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Lao órga an fhásaigh",
+        "Rinne an tine fionnuar agus sábháilte",
+        "An pálás le hurlár gloine",
+        "An Áirc (Al-Fulk)",
+        "An fhoireann a d’éirigh ina nathair"
+      ],
+      "answer": "An Áirc (Al-Fulk)"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Scriosadh mo mhuintir le gaoth reoite ar feadh seacht n-oíche",
+        "Bádh na diúltóirí sa Tuilte Mór agus sábháladh creidmhigh",
+        "Scriosadh mo mhuintir le pléasc mór maidin amháin",
+        "Rinneadh apaí de mo mhuintir mar gheall ar an gcion",
+        "Slogadh mo mhuintir ag an talamh as uabhar"
+      ],
+      "answer": "Bádh na diúltóirí sa Tuilte Mór agus sábháladh creidmhigh"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

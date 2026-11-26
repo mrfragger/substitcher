@@ -1,0 +1,61 @@
+{
+  "title": "Sanarwar da aka Nitse",
+  "intro": "Ka yi tunanin wani babban sarki da ke kewaye da ɗaukaka, abubuwan tarihi, da rundunonin sojoji masu biyayya ga umarni ɗaya. Wannan mutum ya yi iƙirarin iko mafi girma, ya yi watsi da alamun allahntaka a matsayin ruɗani, kuma ya ba da umarnin a ci gaba da bin teku. Bi hanyar da ta fito daga ƙa'idodi masu girman kai zuwa ga rabe-raben ruwa, inda ikirari na ƙarshe ya zo da latti don ceton.",
+  "clues": [
+    "Na riƙe cikakken iko kuma na bauta wa Bani Isra'ila a ƙarƙashin mulkina.",
+    "Na ayyana kaina a matsayin ubangiji mafi girma kuma na ƙi amincewa da wani allah da ke sama da ni.",
+    "Na umurci Haman ya gina mini hasumiya mai tsayi domin in kalli Allahn Musa.",
+    "Na fuskanci Musa da Haruna lokacin da suka zo da hujjoji bayyanannu, sai na kira mu'ujizarsu sihiri.",
+    "Na bi Musa da muminai da rundunara da dare har muka isa teku.",
+    "Na yi imani yayin da nake nutsewa a cikin teku, amma ya yi latti, kuma an kiyaye jikina a matsayin alama."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Namrud",
+        "Jalut (Goliath)",
+        "Abu Jahl",
+        "Fir'auna (Fir'auna)",
+        "Haman"
+      ],
+      "answer": "Fir'auna (Fir'auna)"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "An jefa shi cikin wuta wadda ta yi sanyi kuma ta yi aminci",
+        "Gina jirgi domin tsira daga babban ambaliyar ruwa",
+        "Na yi barci a cikin kogo tare da abokai shekaru da yawa",
+        "Babban kifi ya haɗiye shi a cikin zurfin teku",
+        "An nutsar da shi yayin da yake bin Musa da Isra'ilawa ta cikin teku da aka raba"
+      ],
+      "answer": "An nutsar da shi yayin da yake bin Musa da Isra'ilawa ta cikin teku da aka raba"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Cikin babban kifi",
+        "Masallacin Harami a Makkah",
+        "Tekun da ya rabu",
+        "Kogon Hira",
+        "Lambun da ke da koguna masu gudana"
+      ],
+      "answer": "Tekun da ya rabu"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An tashe shi da rai zuwa sama",
+        "An canza shi don karya Asabar",
+        "An yafe masa kuma an ba shi dogon mulki cikin lumana",
+        "Ƙasa ta haɗiye ta da taskoki",
+        "An nutsar da shi cikin rashin imani kuma an kiyaye jikinsa a matsayin alama ga waɗanda suka biyo baya"
+      ],
+      "answer": "An nutsar da shi cikin rashin imani kuma an kiyaye jikinsa a matsayin alama ga waɗanda suka biyo baya"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

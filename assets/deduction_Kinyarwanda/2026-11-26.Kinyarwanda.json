@@ -1,0 +1,61 @@
+{
+  "title": "Ubusitani bwahize mu gitondo cya kare",
+  "intro": "Mu masaha y'ituze mbere y'uko izuba rirasa, hakozwe gahunda mu ibanga. Umurage mwiza wari witeguye gusarurwa, nyamara hashyizweho icyemezo cyo gukumira imbuto zose ku bazikeneye. Mu gitondo, byose byari kugaragara nk'ibidasanzwe, kandi isomo ryari gushingwa mu mashami yijimye ku bantu bose batekereza.",
+  "clues": [
+    "Twarazwe ubusitani bwiza kandi twiyemeje gusarura imbuto zabwo zose.",
+    "Twarahiye ko tuzasohoka kare mu gitondo mu gihe abakene basabye umugabane wabo bari bagisinziriye.",
+    "Twakuyeho ikintu icyo ari cyo cyose kidasobanutse mu ndahiro yacu kandi twima uburenganzira bw'abakene tutavuze niba Allah ashaka.",
+    "Twasohotse tuganira tuti “nta mukene wemerewe kwinjira mu busitani bwacu uwo munsi.”",
+    "Twiyumviriye ko dushoboye gukusanya byose no kubuza uwo ari we wese gukusanya ibiryo gufata.",
+    "Twakangutse dusanga ubusitani bwacu bwarangiritse nijoro, bwijimye nk'aho bwasaruwe, maze tuvuga ko twabuze icyo dukora kandi twicujije."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Abagenzi bo mu muyoboro w'amazi",
+        "Abagenzi bo mu busitani",
+        "Intumwa z'Umujyi muri Surah Ya-Sin",
+        "Abantu b'inzovu",
+        "Abarinzi b'umuriro wa Gehinomu"
+      ],
+      "answer": "Abagenzi bo mu busitani"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Gutanga inka mu rwego rwo gukemura amakimbirane y'ubwicanyi",
+        "Gutera umuhanuzi ubwoba bwo kumanura amabuye mu ijuru",
+        "Bategura gahunda yo gusarura mu gitondo ariko bakima abakene umugabane wabo",
+        "Guca Isabato binyuze mu gushyiraho imitego yo kuroba",
+        "Kubaka urugomero rwo kugenzura amazi y'imyuzure mu bucuruzi"
+      ],
+      "answer": "Bategura gahunda yo gusarura mu gitondo ariko bakima abakene umugabane wabo"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Ikibaya gitagatifu cya Tuwa aho umuriro wagaragaye",
+        "Imbuto y'ubusitani igoswe n'inkuta igomba gusarurwa mu gitondo",
+        "Inzu y'ingoro y'indorerwamo yibeshye ko ari amazi",
+        "Inkuge y'ibiti yubatswe hakurikijwe amabwiriza y'Imana",
+        "Urukuta rw'icyuma rwubatswe hagati y'imisozi ibiri"
+      ],
+      "answer": "Imbuto y'ubusitani igoswe n'inkuta igomba gusarurwa mu gitondo"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Twahinduwe nk'inkende kubera kwica Isabato",
+        "Twaraye mu buvumo imyaka magana atatu n'icyenda",
+        "Twamizwe n'isi dufite ubutunzi bwo kwirata",
+        "Ubusitani bwacu bwarasenyutse mu ijoro ryose busigara bwijimye nk'ijoro",
+        "Twarohamye mu nyanja ubwo twakurikiranaga abizera"
+      ],
+      "answer": "Ubusitani bwacu bwarasenyutse mu ijoro ryose busigara bwijimye nk'ijoro"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

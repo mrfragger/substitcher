@@ -1,0 +1,61 @@
+{
+  "title": "I balanz che se puntavan vers la ruina",
+  "intro": "In una regiun lüssureggiant e prospera, una comunità prusperant la lassà che l’avidità la currump el mercà. Cognusü per l’abilità in del cumercio e per l’abundanza di giardin visin, chestu grupp g’ha afruntà una ciamada a l’equità e a la fede. Però l’orgœuj de la richeza g’ha purtà a la sfida e un’ombra scüra s’è radünada sü l’urizunt.",
+  "clues": [
+    "Erum una comunità de cumerci ricca che viveva intra i giardin e i bosch.",
+    "G’hem ingannà la gent in di misur e in di pes, spantegand la coruziun in de la terra.",
+    "Sun stà avvertì del noster messagger de venerà sultant Allah e de där la misura cumpleta.",
+    "G’hem ciapà in gir el noster messagger e g’hem dumandà la puniziun che la vegniva se l’era verità.",
+    "A sem stà ciapà de la puniziun del Dì del Ombra quand che una nivola g’ha fatt ombra.",
+    "Sun cognossü cuma i Compagn del Legn, la gent a la qual l’è stà mandà Shu’ayb."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "El popul de Thamud",
+        "I compagn del legn",
+        "I compagn de la fossa",
+        "El popul del elefant",
+        "I compagn de la caverna"
+      ],
+      "answer": "I compagn del legn"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Dar misura curta e sfidar el noster messagger",
+        "Dumandar de vedè Allah diretament sul monte Sinai",
+        "Costruir una torr per rivà in del ciel",
+        "Ascünd la fed in segret denter de un palazz",
+        "Adorà un vitell d’or in assenza de Musa"
+      ],
+      "answer": "Dar misura curta e sfidar el noster messagger"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "La vall sacra de Tuwa",
+        "El fœg che l’era renduu frècc e sicür",
+        "El bosc de Al-Aykah",
+        "La caverna cunt un can dormient a l’entrada",
+        "El palazz de veder cun specc"
+      ],
+      "answer": "El bosc de Al-Aykah"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Anegad in del mar dividü",
+        "Inglutì cun di tesori in de la terra",
+        "Trasfurmà en scimi per romp el Sabat",
+        "Salvà en un'arca sora l'aqua di inondaziun",
+        "Distrutt de la puniziun del Dì del Ombra"
+      ],
+      "answer": "Distrutt de la puniziun del Dì del Ombra"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

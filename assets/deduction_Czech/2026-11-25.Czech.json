@@ -1,0 +1,61 @@
+{
+  "title": "Váhy, které se naklonily k záhubě",
+  "intro": "V bujné a prosperující oblasti nechala prosperující komunita chamtivost zkazit trh. Tato skupina, známá svými obchodními dovednostmi a hojností z okolních zahrad, čelila volání po spravedlnosti a víře. Pýcha na bohatství však vedla k odporu a na obzoru se snášel temný stín.",
+  "clues": [
+    "Byli jsme prosperující obchodní komunitou žijící mezi zahradami a zalesněnými háji.",
+    "Podváděli jsme lidi v mírách a váze a šířili jsme v zemi zkaženost.",
+    "Náš posel nás varoval, abychom uctívali jedině Alláha a dávali mu plnou míru.",
+    "Posmívali jsme se našemu poslu a požadovali trest, pokud bude pravdomluvný.",
+    "Postihl nás trest Dne stínu, když nás zahalil mrak.",
+    "Jsem známý jako Společníci z Lesa, lidé, ke kterým byl poslán Šu'ajb."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Lidé z Thamudu",
+        "Společníci lesa",
+        "Společníci z příkopu",
+        "Lidé slona",
+        "Společníci jeskyně"
+      ],
+      "answer": "Společníci lesa"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Dáváme si krátké míry a vzpíráme se našemu poslu",
+        "Požadavek vidět Alláha přímo na hoře Sinaj",
+        "Stavba věže, která dosáhne nebes",
+        "Tajně schovává víru uvnitř paláce",
+        "Uctívání zlatého telete v nepřítomnosti Músy"
+      ],
+      "answer": "Dáváme si krátké míry a vzpíráme se našemu poslu"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Posvátné údolí Tuwa",
+        "Oheň, který byl ochladen a bezpečný",
+        "Zalesněný háj Al-Aykah",
+        "Jeskyně se spícím psem u vchodu",
+        "Zrcadlový palác ze skla"
+      ],
+      "answer": "Zalesněný háj Al-Aykah"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Utopený v rozděleném moři",
+        "Pohlceni poklady do země",
+        "Proměněni v opice za porušení Sabatu",
+        "Zachráněn v arše nad potopou",
+        "Zničen trestem Dne stínu"
+      ],
+      "answer": "Zničen trestem Dne stínu"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

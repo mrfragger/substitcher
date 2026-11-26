@@ -1,0 +1,61 @@
+{
+  "title": "Bahçe Şafakta Yemin Etti",
+  "intro": "Güneş doğmadan önceki sessiz saatlerde gizlice bir plan yapıldı. Bereketli bir miras hasat edilmeye hazırdı, ancak her meyveyi ihtiyaç sahiplerinden uzak tutma kararlılığı oluştu. Sabah olduğunda her şey yabancı görünecek ve düşünen herkes için kararmış dallara bir ders kazınacaktı.",
+  "clues": [
+    "Bize bereketli bir bahçe miras kaldı ve tüm meyvelerini kendimiz toplamaya yemin ettik.",
+    "Paylarını isteyen yoksullar daha uyurken, şafak sökmeden erkenden dışarı çıkmaya yemin ettik.",
+    "Yeminimizde hiçbir istisna tanımadık ve \"Allah dilerse\" demeden muhtaçların hakkını esirgedik.",
+    "O gün bahçemize hiçbir yoksulun girmesine izin vermemek için birbirimize fısıldaşarak dışarı çıktık.",
+    "Her şeyi toplayıp, herhangi birinin bir parça almasını engelleyebileceğimizi hayal ettik.",
+    "Uyandığımızda bahçemizin gece boyunca harap olduğunu, hasat edilmiş gibi simsiyah olduğunu gördük ve mahrum kaldığımızı, pişman olduğumuzu söyledik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Siper Yoldaşları",
+        "Bahçenin Yoldaşları",
+        "Yasin Suresi'ndeki Şehrin Elçileri",
+        "Fil Halkı",
+        "Cehennem Ateşinin Muhafızları"
+      ],
+      "answer": "Bahçenin Yoldaşları"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Cinayet davasını çözmek için bir ineği kurban etmek",
+        "Bir peygambere gökten taş indirmesi için meydan okumak.",
+        "Yoksulların payını esirgerken şafak vakti hasat yapmayı planlamak.",
+        "Balık ağları kurarak Şabat gününü ihlal etmek",
+        "Ticaret amacıyla sel sularını kontrol etmek için baraj inşa etmek"
+      ],
+      "answer": "Yoksulların payını esirgerken şafak vakti hasat yapmayı planlamak."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Ateşin görüldüğü Tuwa'nın kutsal vadisi.",
+        "Duvarla çevrili bahçedeki meyvelerden sabah hasat yapılacak.",
+        "Aynalarla kaplı saray zemini su sanıldı.",
+        "Tanrı'nın talimatıyla inşa edilen ahşap gemi",
+        "İki dağ arasına inşa edilmiş demir duvar."
+      ],
+      "answer": "Duvarla çevrili bahçedeki meyvelerden sabah hasat yapılacak."
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Şabat gününü ihlal ettiğimiz için maymunlara dönüştürüldük.",
+        "Üç yüz dokuz yıl boyunca bir mağarada uyuduk.",
+        "Gurur duyacağımız hazinelerle birlikte yerin dibine girdik.",
+        "Bahçemiz bir gecede tamamen tahrip oldu ve simsiyah bir hale geldi.",
+        "Müminlerin peşinden giderken denizde boğulduk."
+      ],
+      "answer": "Bahçemiz bir gecede tamamen tahrip oldu ve simsiyah bir hale geldi."
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "To'qqiz asrlik chaqiruv",
+  "intro": "Imperiyalar paydo bo'lishi va qulashidan ham uzoqroq vaqt davomida masxara oqimiga qarshi yolg'iz turganingizni tasavvur qiling, quloqlaringizni yopib, kiyimlaringizni mahkam bog'lab, kechayu kunduz qo'ng'iroq qiling. Oldinda quruqlik va suv ustida qurilgan, ilgari hech qachon ko'rilmagan kema turibdi. Ushbu taklifnoma marafonining ortidagi sabr-toqatni his qila olasizmi?",
+  "clues": [
+    "Men qavmimni kechayu kunduz, yashirincha va oshkora yolg'iz Allohga ibodat qilishga chaqirdim.",
+    "Xalqim Mendan yuz o'girish uchun quloqlariga barmoqlarini tiqdi, kiyimlarini o'radi.",
+    "Men qavmim orasida to'qqiz yuz ellik yil davomida ularni hidoyatga chaqirib turdim.",
+    "Qavmim meni quruqlikda masxara qilayotgan bir paytda, men Allohning nazari va vahiysi ostida kema yasadim.",
+    "Menga har xil jismlardan juft-juft va mo'minlarni kemaga olib chiqish buyurilgan edi, shu paytda buyruq kelib, pech toshib ketdi.",
+    "Men to'lqinlarning tog'lar kabi ko'tarilishini ko'rdim, chunki suv toshqini rad etganlarni cho'ktirdi, Alloh esa kemadagilarni qutqardi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Zul-Kifl",
+        "Payg'ambar Al-Yasa (Elishay)",
+        "Nuh payg'ambar (Nuh)",
+        "Lut payg'ambar (alayhissalom)",
+        "Payg'ambar Muhammad"
+      ],
+      "answer": "Nuh payg'ambar (Nuh)"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Go'dakligimda onamni himoya qilib gapirdim",
+        "Qamoqda hukmdorning tushini ta'bir qildi",
+        "950 yil davomida xalqimni kechayu kunduz chaqirdi",
+        "Tirik holda ko'tarildi va yuqori lavozimga ko'tarildi",
+        "Dengizda ulkan baliq tomonidan yutib yuborildi"
+      ],
+      "answer": "950 yil davomida xalqimni kechayu kunduz chaqirdi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Cho'lning oltin buzoqi",
+        "Yong'in salqin va xavfsiz bo'ldi",
+        "Shisha polli saroy",
+        "Ark (Al-Fulk)",
+        "Ilonga aylangan tayoq"
+      ],
+      "answer": "Ark (Al-Fulk)"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Mening xalqim yetti kecha sovuq shamol bilan vayron bo'ldi",
+        "Rad etganlar Buyuk To'fonda cho'kib ketishdi va imonlilar najot topishdi",
+        "Mening xalqim bir kuni ertalab kuchli portlash bilan vayron bo'ldi",
+        "Mening xalqim gunohlari uchun maymunga aylantirildi",
+        "Mening xalqim takabburligi tufayli yerga yutildi"
+      ],
+      "answer": "Rad etganlar Buyuk To'fonda cho'kib ketishdi va imonlilar najot topishdi"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

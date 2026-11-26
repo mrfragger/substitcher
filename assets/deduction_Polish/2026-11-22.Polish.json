@@ -1,0 +1,61 @@
+{
+  "title": "Dziewięć wieków powołania",
+  "intro": "Wyobraź sobie, że stoisz samotnie w obliczu fali kpin dłużej niż powstają i upadają imperia, wołając dniem i nocą, z zakrytymi uszami i szczelnie naciągniętymi szatami. Przed tobą leży statek zbudowany na suchym lądzie i wodach, jakich nigdy dotąd nie widziano. Czy wyczuwasz cierpliwość kryjącą się za tym maratonem zaproszeń?",
+  "clues": [
+    "Wzywałem mój lud dniem i nocą, w tajemnicy i otwarcie, aby czcił tylko Allaha.",
+    "Mój lud wkładał palce w uszy i owijał się szatami, aby odwrócić się ode mnie.",
+    "Pozostawałem pośród swego ludu przez dziewięćset pięćdziesiąt lat, wzywając go do przewodnictwa.",
+    "Zbudowałem statek na oczach i objawieniu Allaha, podczas gdy mój lud naśmiewał się ze mnie na suchym lądzie.",
+    "Kazano mi zabrać na pokład pary wszelkiego rodzaju i wierzących, gdy nadszedł rozkaz i piec się przepełnił.",
+    "Patrzyłem, jak fale wzrastały jak góry, gdy powódź zatapiała tych, którzy odrzucili, podczas gdy Allah ocalił tych, którzy byli w Arce."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Dhul-Kifl",
+        "Prorok Al-Yasa (Elizeusz)",
+        "Prorok Noe (Noe)",
+        "Prorok Lut (Lot)",
+        "Prorok Mahomet"
+      ],
+      "answer": "Prorok Noe (Noe)"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Broniłem mojej matki, mówiąc do niej w dzieciństwie",
+        "Zinterpretował sen władcy, który przebywał w więzieniu",
+        "Dzwoniłem do mojego ludu dniem i nocą przez 950 lat",
+        "Został wzięty żywy i wyniesiony na wysokie stanowisko",
+        "Został połknięty przez wielką rybę w morzu"
+      ],
+      "answer": "Dzwoniłem do mojego ludu dniem i nocą przez 950 lat"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Złoty cielec pustyni",
+        "Ogień sprawił, że było chłodno i bezpiecznie",
+        "Pałac z podłogą ze szkła",
+        "Arka (Al-Fulk)",
+        "Laska, która stała się wężem"
+      ],
+      "answer": "Arka (Al-Fulk)"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Mój lud został zniszczony przez mroźny wiatr trwający siedem nocy",
+        "Odrzucający utonęli w Wielkim Potopie, a wierzący zostali uratowani",
+        "Mój lud został zniszczony przez potężną eksplozję pewnego poranka",
+        "Mój lud został zamieniony w małpy za wykroczenia",
+        "Mój lud został pochłonięty przez ziemię za arogancję"
+      ],
+      "answer": "Odrzucający utonęli w Wielkim Potopie, a wierzący zostali uratowani"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

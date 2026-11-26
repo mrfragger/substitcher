@@ -1,0 +1,61 @@
+{
+  "title": "An Ghairdín a Mhionnaíodh ag Breacadh an Lae",
+  "intro": "Sna huaireanta ciúine roimh éirí na gréine, rinneadh plean i ngan fhios. Bhí oidhreacht rathúil réidh le fómhar, ach fós féin cruthaíodh rún chun gach toradh a choinneáil ar shiúl ó na daoine a raibh gá acu leo. Faoin maidin, bheadh ​​cuma neamhchoitianta ar gach rud, agus bheadh ​​ceacht greanta sna craobhacha dubha do gach duine a mhachnódh.",
+  "clues": [
+    "Fuaireamar gairdín faoi bhláth mar oidhreacht agus gheallamar go mbainfimis a thorthaí go léir dúinn féin.",
+    "Mhionnaigh muid go rachaimis amach go moch ag breacadh an lae agus na boicht a d’iarr a sciar fós ina gcodladh.",
+    "Chuireamar aon eisceacht as ár mionn agus choinníomar siar cearta na ndaoine bochta gan a rá más toil le Allah.",
+    "Chuaigh muid amach ag cogarnaigh lena chéile gan ligean d’aon bhochtán dul isteach inár ngairdín an lá sin.",
+    "Shamhlaíomar go raibh muid lán-ábalta gach rud a bhailiú agus cosc ​​a chur ar aon bhailitheoir cuid de a thógáil.",
+    "Dhúisíomar agus fuaireamar amach go raibh ár ngairdín millte san oíche, dubhaithe amhail is dá mba rud é go raibh sé bainte, agus dúirt muid go raibh muid díbeartha agus aithríoch."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Compánaigh an Trinse",
+        "Comhpháirtithe an Ghairdín",
+        "Teachtairí an Bhaile i Surah Ya-Sin",
+        "Muintir an Eilifint",
+        "Coimeádaithe Ifrinn"
+      ],
+      "answer": "Comhpháirtithe an Ghairdín"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Íobairt bó chun díospóid dúnmharaithe a réiteach",
+        "Ag tabhairt dúshlán do fháidh clocha a thabhairt anuas ón spéir",
+        "Ag pleanáil an fómhair a dhéanamh ag breacadh an lae agus a sciar á dhiúltú do na boicht",
+        "Ag briseadh na Sabóide trí líonta iascaireachta a leagan",
+        "Damba a thógáil chun uiscí tuile a rialú le haghaidh trádála"
+      ],
+      "answer": "Ag pleanáil an fómhair a dhéanamh ag breacadh an lae agus a sciar á dhiúltú do na boicht"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Gleann naofa Tuwa áit a bhfacthas tine",
+        "An gairdín ballaithe le baint ar maidin",
+        "Urlár scáthánaithe an pháláis a mheastar a bheith ina uisce",
+        "An áirc adhmaid a tógadh faoi threoir dhiaga",
+        "An balla iarainn a tógadh idir dhá shliabh"
+      ],
+      "answer": "An gairdín ballaithe le baint ar maidin"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Rinneadh apaí dínn as sárú na Sabóide",
+        "Chodail muid i bpluais ar feadh trí chéad agus naoi mbliana",
+        "Slogadh muid ag an talamh le seoda bróid",
+        "Scriosadh ár ngairdín thar oíche agus fágadh dubh é cosúil leis an oíche",
+        "Báthadh sa bhfarraige sinn agus muid ag tóraíocht na gcreidmheach"
+      ],
+      "answer": "Scriosadh ár ngairdín thar oíche agus fágadh dubh é cosúil leis an oíche"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

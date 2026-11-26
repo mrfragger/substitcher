@@ -1,0 +1,61 @@
+{
+  "title": "Libra quae ad ruinam inclinabat",
+  "intro": "In regione uberrima et prospera, communitas florens avaritiae forum corrumpere permisit. Notus propter peritiam in commercio et abundantiam ex hortis circumstantibus, hic grex vocationem ad aequitatem et fidem expertus est. Attamen superbia divitiarum ad contumaciam duxit, et umbra obscura in horizonte coegit.",
+  "clues": [
+    "Florens mercatoria communitas eramus, inter hortos et lucos silvestres viventes.",
+    "Populum in mensuris et ponderibus fraudavimus, corruptionem disseminavimus in terra.",
+    "A nuntio nostro moniti sumus ut solum Allah coleremus et plenam mensuram daremus.",
+    "Nuntium nostrum derisimus et poenam futuram, si verax esset, postulavimus.",
+    "Poena Diei Umbrae comprehensi sumus, cum nubes nos obumbravit.",
+    "Cognosco me esse Socios Silvae, populum ad quem Shu'ayb missus est."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Populus Thamud",
+        "Socii Silvae",
+        "Socii Fossae",
+        "Populus Elephantis",
+        "Socii Speluncae"
+      ],
+      "answer": "Socii Silvae"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Brevi mensura dans et nuntio nostro obstinatus",
+        "Postulantes ut Allah directe in monte Sinai videant",
+        "Turrim aedificans ut ad caelum perveniatur",
+        "Fidem clam intra palatium celans",
+        "Vitulum aureum adorantes absente Mosa"
+      ],
+      "answer": "Brevi mensura dans et nuntio nostro obstinatus"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Vallis sacra Tuwae",
+        "Ignis qui refrigeratus et tutus factus est",
+        "Silva Al-Aykah",
+        "Spelunca cum cane dormientis ad introitum",
+        "Palatium speculatum vitreum"
+      ],
+      "answer": "Silva Al-Aykah"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "In mari diviso submersi",
+        "Cum thesauris in terram absorpti",
+        "In simias transformati propter sabbatum violandum",
+        "Servatus in arca supra aquas diluvii",
+        "Poena Diei Umbrae deleta"
+      ],
+      "answer": "Poena Diei Umbrae deleta"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Vrt, zaobljubljen ob zori",
+  "intro": "V tihih urah pred sončnim vzhodom so na skrivaj skovali načrt. Cvetoča dediščina je bila pripravljena za žetev, a hkrati so se odločili, da bodo vsak sadež obvarovali pred tistimi, ki ga potrebujejo. Do jutra bi se jim vse zdelo neznano in v počrnele veje bi se vtisnil nauk za vse, ki bi razmislili.",
+  "clues": [
+    "Podedovali smo cvetoč vrt in se zaobljubili, da bomo vse njegove sadove pobrali zase.",
+    "Prisegli smo, da bomo šli ven zgodaj ob zori, dokler bodo reveži, ki so zahtevali svoj delež, še spali.",
+    "Iz naše prisege smo izključili vsako izjemo in odrekli pravico tistim v stiski, ne da bi rekli, če je to Alahovo.",
+    "Šepetaje smo šli ven, naj tisti dan noben revež ne vstopi v naš vrt.",
+    "Predstavljali smo si, da smo popolnoma sposobni pobrati vse in preprečiti, da bi kateri koli paberkar vzel svoj delež.",
+    "Zbudili smo se in našli naš vrt uničen ponoči, počrnel, kot bi bil pobran, in rekli smo, da smo prikrajšani in se kesamo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Spremljevalci jarka",
+        "Spremljevalci vrta",
+        "Mestni poslanci v suri Ja-Sin",
+        "Ljudje slona",
+        "Varuhi peklenskega ognja"
+      ],
+      "answer": "Spremljevalci vrta"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Žrtvovanje krave za rešitev spora o umoru",
+        "Izzvati preroka, naj z neba spusti kamenje",
+        "Načrtujejo žetev ob zori, medtem ko revnim odrekajo njihov delež",
+        "Kršenje sobote z metanjem ribiških mrež",
+        "Gradnja jezu za nadzor poplavnih voda za trgovino"
+      ],
+      "answer": "Načrtujejo žetev ob zori, medtem ko revnim odrekajo njihov delež"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Sveta dolina Tuwa, kjer so videli ogenj",
+        "Obzidani vrtni sadovnjak, ki ga bodo zjutraj poželi",
+        "Zrcalna tla palače, ki jih zamenjajo za vodo",
+        "Lesena barka, zgrajena po božjem navodilu",
+        "Železni zid, zgrajen med dvema gorama"
+      ],
+      "answer": "Obzidani vrtni sadovnjak, ki ga bodo zjutraj poželi"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Spremenili so nas v opice, ker smo kršili soboto",
+        "Tristo devet let smo spali v jami",
+        "Zemlja nas je pogoltnila z zakladi za ponos",
+        "Naš vrt je bil čez noč uničen in počrnel kot noč",
+        "Utopili smo se v morju, medtem ko smo zasledovali vernike"
+      ],
+      "answer": "Naš vrt je bil čez noč uničen in počrnel kot noč"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

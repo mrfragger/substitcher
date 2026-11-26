@@ -1,0 +1,61 @@
+{
+  "title": "Vėjo gairinamų kopų didingi stulpai",
+  "intro": "Įsivaizduokite klestinčią civilizaciją, apdovanotą nepaprasta jėga ir neprilygstamais statybos įgūdžiais. Įsikūrusi tarp didžiulių, vingiuotų kopų, ši bendruomenė iškėlė didingus orientyrus, siekiančius horizontą. Tačiau įsišaknijo pasididžiavimas, o raginimas grįžti prie vien Alacho garbinimo buvo sutiktas su nepaklusnumu. Tai, kas sekė toliau, tebėra įspėjimas, kurį atnešė pats vėjas.",
+  "clues": [
+    "Mes buvome galinga tauta, kilusi po Nuho žmonių, apdovanota didele stoka ir jėga.",
+    "Kiekvienoje aukštumoje statėme aukštus bokštus ir paminklus vien dėl pramogos ir pasididžiavimo.",
+    "Mes gyrėmės, sakydami, kas yra už mus galingesnis jėga, ir elgėmės tironiškai be gailesčio.",
+    "Mes atmetėme savo pasiuntinį Hudą, kai jis kvietė mus garbinti vien Allahą, vadindamas jį silpnu ir melagiu.",
+    "Mes išjuokėme perspėjimą ir raginome jį įvykdyti mums grasintą bausmę, jei jis bus teisus.",
+    "Septynias naktis ir aštuonias dienas mus naikino smarkus, nevaisingas vėjas, palikome kritusius lyg tuščiavidurius palmių kamienus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "„Ad“ žmonės",
+        "Banu Nadir",
+        "Luto žmonės",
+        "Madjano žmonės",
+        "Tamudo žmonės"
+      ],
+      "answer": "„Ad“ žmonės"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Atmetė pranašą Hudą ir gyrėsi didesne jėga",
+        "Iš pavydo planavo nužudyti pranašą Jusufą",
+        "Tyčiojosi iš Nuho, kai šis statė Arką",
+        "Pareikalavo kupranugario kaip ženklo, o tada jai sušlaudė pakaušį",
+        "Garbino auksinį veršį, nesant Musai"
+      ],
+      "answer": "Atmetė pranašą Hudą ir gyrėsi didesne jėga"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Al-Ahqaf – vėjo išlenktos smėlio kopos",
+        "Tamudo šulinys, iškaltas akmenyje",
+        "Sinajaus kalnas, kur buvo gauta Tora",
+        "Faraono karalystės Nilo upė",
+        "Šventasis Tuvos slėnis"
+      ],
+      "answer": "Al-Ahqaf – vėjo išlenktos smėlio kopos"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Nuskendo dideliame potvynyje, kuris užliejo žemę",
+        "Prarytas kartu su Qarunu į žemę dėl arogancijos",
+        "Liejo iškepto molio akmenys",
+        "Sugriauti galingo žemės drebėjimo, kuris juos užgriuvo jų namuose",
+        "Septynias naktis ir aštuonias dienas siautėjo smarkus ledinis vėjas"
+      ],
+      "answer": "Septynias naktis ir aštuonias dienas siautėjo smarkus ledinis vėjas"
+    }
+  },
+  "verseRef": "46:22",
+  "arabic": "قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "They said, \"Have you come to delude us away from our gods? Then bring us what you promise us, if you should be of the truthful.\" (46:22)"
+}

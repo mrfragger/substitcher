@@ -1,0 +1,61 @@
+{
+  "title": "A balança que pendeu para a ruína",
+  "intro": "Em uma região exuberante e próspera, uma comunidade florescente deixou a ganância corromper o mercado. Conhecida por sua habilidade no comércio e pela abundância proveniente dos jardins circundantes, esse grupo se viu diante de um chamado à justiça e à fé. Contudo, o orgulho pela riqueza levou à rebeldia, e uma sombra escura se adensou no horizonte.",
+  "clues": [
+    "Éramos uma próspera comunidade comercial que vivia entre jardins e bosques.",
+    "Enganamos as pessoas em relação a medidas e pesos, espalhando a corrupção pelo país.",
+    "Fomos advertidos pelo nosso mensageiro para adorarmos somente a Alá e para darmos a Ele em sua plenitude.",
+    "Zombamos do nosso mensageiro e exigimos que o castigo viesse se ele estivesse falando a verdade.",
+    "Fomos atingidos pelo castigo do Dia da Sombra quando uma nuvem nos encobriu.",
+    "Sou conhecido como os Companheiros da Floresta, o povo para quem Shu'ayb foi enviado."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "O povo de Thamud",
+        "Os Companheiros da Floresta",
+        "Os Companheiros da Trincheira",
+        "O Povo do Elefante",
+        "Os Companheiros da Caverna"
+      ],
+      "answer": "Os Companheiros da Floresta"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Dando uma medida insuficiente e desafiando nosso mensageiro.",
+        "Exigindo ver Alá diretamente no Monte Sinai",
+        "Construindo uma torre para alcançar os céus",
+        "Esconder a fé secretamente dentro de um palácio",
+        "Adoração de um bezerro de ouro na ausência de Moisés"
+      ],
+      "answer": "Dando uma medida insuficiente e desafiando nosso mensageiro."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "O vale sagrado de Tuwa",
+        "O fogo que foi resfriado e mantido seguro",
+        "O bosque de Al-Aykah",
+        "A caverna com um cão-dorminhoco na entrada.",
+        "O palácio espelhado de vidro"
+      ],
+      "answer": "O bosque de Al-Aykah"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Afogado no mar dividido",
+        "Engolidos pela terra, juntamente com seus tesouros.",
+        "Transformados em macacos por violarem o Sabá",
+        "Salvos em uma arca acima das águas da enchente.",
+        "Destruído pelo castigo do Dia das Sombras"
+      ],
+      "answer": "Destruído pelo castigo do Dia das Sombras"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

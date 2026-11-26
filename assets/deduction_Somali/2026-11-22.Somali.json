@@ -1,0 +1,61 @@
+{
+  "title": "Sagaalka Qarni ee Wicitaanka",
+  "intro": "Sawir kaligiis taagan oo ka soo horjeeda mowjad jeesjees ah muddo ka dheer boqortooyooyinka oo soo kacaya oo dhacaya, habeen iyo maalinba qaylinaya iyadoo dhegaha la daboolayo dharkana si adag loo jiidayo. Horta waxaa yaal markab lagu dhisay dhul qalalan iyo biyo oo aan la mid ahayn kuwii hore loo arkay. Ma dareemi kartaa dulqaadka ka dambeeya marathonkan casuumaadda ah?",
+  "clues": [
+    "Waxaan dadkayga habeen iyo maalinba, si qarsoodi ah iyo si cadba, ugu yeeray inay caabudaan Alle kaligiis.",
+    "Dadkaygu waxay faraha geliyeen dhegaha, waxayna isku duubteen dhar si ay iiga jeestaan.",
+    "Waxaan dadkayga ku dhex jiray sagaal boqol iyo konton sano oo aan ugu yeerayay hanuun.",
+    "Waxaan dhisay weel anigoo indhaha Alle iyo waxyiga ku jira halka dadkaygu ay igu jeesjeesayeen dhul qalalan.",
+    "Waxaa la i faray inaan qaado labo nooc oo nooc kasta ah iyo mu'miniinta marka amarku yimaado oo foornadu buux dhaafto.",
+    "Waxaan daawaday hirarka oo u kacaya sidii buuro oo kale iyadoo daadku qarqiyay kuwii diiday, halka Alle uu badbaadiyay kuwii ku jiray Doonta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Nabi Dhul-Kifl",
+        "Nabi Al-Yasa (Eliisha)",
+        "Nabi Nuux (Nuux)",
+        "Nabi Luud (Luud)",
+        "Nabi Muxamed"
+      ],
+      "answer": "Nabi Nuux (Nuux)"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Hooyaday ayaan difaacay iyadoo ku hadlaysa yaraantaydii",
+        "Wuxuu fasiray riyadii taliyaha intii uu xabsiga ku jiray",
+        "Waxaan dadkayga habeen iyo maalinba u yeeri jiray 950 sano",
+        "Waxaa la qaaday isagoo nool waxaana loo qaaday meel sare",
+        "Waxaa liqay kalluun weyn oo badda ku jira"
+      ],
+      "answer": "Waxaan dadkayga habeen iyo maalinba u yeeri jiray 950 sano"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Dibigii dahabka ahaa ee cidlada",
+        "Dabku wuxuu ka dhigay mid qabow oo ammaan ah",
+        "Qasriga oo leh sagxad muraayad ah",
+        "Markabkii (Al-Fulk)",
+        "Ushii abeeso noqotay"
+      ],
+      "answer": "Markabkii (Al-Fulk)"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Dadkaygii waxaa toddoba habeen ku burburiyay dabaylo qabow",
+        "Kuwa diiday waxay ku qarqeen daadkii weynaa, mu'miniintuna way badbaadeen",
+        "Dadkaygii waxaa ku burburay qarax xooggan subaxnimadii hore",
+        "Dadkaygii waxaa loo rogay daanyeer xadgudub awgiis",
+        "Dadkaygii waxaa dhulka liqay kibir dartiis"
+      ],
+      "answer": "Kuwa diiday waxay ku qarqeen daadkii weynaa, mu'miniintuna way badbaadeen"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

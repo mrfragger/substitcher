@@ -1,0 +1,61 @@
+{
+  "title": "Kgoeletso ya go Nwela",
+  "intro": "Akanya ka mmusi yo o nonofileng yo o dikologilweng ke bontlentle, difikantswe le masole a a ikobelang taelo e le nngwe fela. Motho yono o ne a bolela gore o na le taolo e e kwa godimo, a kgaphela ditshupo tsa bomodimo kwa thoko a re ke tsietso, mme a laela gore ba latelwe ba sa kgaotse go ya kwa lewatleng. Latela motlhala go tswa mo ditaelong tse di mabela go ya kwa metsing a a kgaoganeng, kwa boipolelo jwa bofelo bo gorogang thari thata go ka boloka.",
+  "clues": [
+    "Ke ne ke na le maatla a a feletseng mme ke dira Bana ba Iseraele makgoba ka fa tlase ga puso ya me.",
+    "Ke ne ka ipolela gore ke morena yo o kwa godimodimo mme ka gana go amogela modimo ope o o kwa godimo ga me.",
+    "Ke ne ka laela Hamane gore a nkagele tora e e kwa godimo gore ke lebe Modimo wa ga Musa.",
+    "Ke ne ka lebana le Musa le Harun fa ba ne ba tlisa matshwao a a bonalang sentle, mme ke ne ka bitsa dikgakgamatso tsa bone boloi.",
+    "Ke ne ka lelekisa Musa le badumedi ka masole a me bosigo go fitlha re fitlha kwa lewatleng.",
+    "Ke ne ka bolela tumelo fa ke ntse ke nwela mo lewatleng, mme go ne go le thari thata, mme mmele wa me o ne wa bolokwa jaaka sesupo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Namrut",
+        "Jalate (Goliathe)",
+        "Abu Jahl",
+        "Faro (Fir’aun)",
+        "Hamane"
+      ],
+      "answer": "Faro (Fir’aun)"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "O ne a latlhelwa mo molelong o o neng wa tsidifala e bile o babalesegile",
+        "A aga araka go falola morwalela o mogolo",
+        "O robetse mo logageng le ditsala dingwaga di le dintsi",
+        "O ne a mediwa ke tlhapi e kgolo mo botennyeng",
+        "O ne a nwela fa a ntse a latelela Musa le Baiseraele mo lewatleng le le kgaoganeng"
+      ],
+      "answer": "O ne a nwela fa a ntse a latelela Musa le Baiseraele mo lewatleng le le kgaoganeng"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Mpa ya tlhapi e kgolo",
+        "Mosque o o Boitshepo kwa Makkah",
+        "Lewatle le le kgaoganeng",
+        "Logaga lwa Hira",
+        "Tshingwana e e nang le dinoka tse di elelang"
+      ],
+      "answer": "Lewatle le le kgaoganeng"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Go tsosediwa kwa magodimong a tshela",
+        "O fetotswe ka ntlha ya go tlola Sabata",
+        "Go itshwarelwa le go newa puso e telele ya kagiso",
+        "E meditswe ke lefatshe ka matlotlo",
+        "A nwela mo go sa dumeleng mme mmele o bolokilwe jaaka sesupo sa ba morago ga"
+      ],
+      "answer": "A nwela mo go sa dumeleng mme mmele o bolokilwe jaaka sesupo sa ba morago ga"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

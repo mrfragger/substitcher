@@ -1,0 +1,61 @@
+{
+  "title": "Deklarata e Mbytur",
+  "intro": "Imagjinoni një sundimtar të fuqishëm të rrethuar nga shkëlqimi, monumentet dhe ushtritë e bindura ndaj një komande të vetme. Kjo figurë pretendonte autoritet suprem, i shpërfillte shenjat hyjnore si iluzion dhe urdhëroi një ndjekje të pamëshirshme drejt detit. Ndiqni gjurmët nga dekretet arrogante te ujërat e ndara, ku një rrëfim përfundimtar arrin shumë vonë për të shpëtuar.",
+  "clues": [
+    "Unë mbaja pushtet absolut dhe i skllavërova Bijtë e Izraelit nën sundimin tim.",
+    "E shpalla veten zoti më i lartë dhe refuzova të pranoja ndonjë zot mbi mua.",
+    "I urdhërova Hamanit të më ndërtonte një kullë të lartë që të mund ta shikoja Zotin e Musait.",
+    "Unë u përballa me Musain dhe Harunin kur ata sollën shenja të qarta, dhe unë i quajta mrekullitë e tyre magji.",
+    "I ndoqa Musain dhe besimtarët me ushtritë e mia natën derisa arritëm në det.",
+    "E shpalla besimin tim ndërsa po mbytesha në det, por ishte tepër vonë dhe trupi im u ruajt si një shenjë."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Nemrud",
+        "Jalut (Goliath)",
+        "Ebu Xhehl",
+        "Faraoni (Firauni)",
+        "Haman"
+      ],
+      "answer": "Faraoni (Firauni)"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "U hodh në një zjarr që u bë i freskët dhe i sigurt",
+        "Ndërtoi një arkë për të mbijetuar një përmbytje të madhe",
+        "Fjeti në një shpellë me shokët për shumë vite",
+        "U gëlltit nga një peshk i madh në thellësi",
+        "U mbyt ndërsa ndiqte Musain dhe izraelitët përmes detit të ndarë."
+      ],
+      "answer": "U mbyt ndërsa ndiqte Musain dhe izraelitët përmes detit të ndarë."
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Barku i peshkut të madh",
+        "Xhamia e Shenjtë në Mekë",
+        "Deti i ndarë",
+        "Shpella e Hirës",
+        "Kopshti me lumenj që rrjedhin"
+      ],
+      "answer": "Deti i ndarë"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "I ringjallur në qiell",
+        "I transformuar për thyerjen e Sabatit",
+        "I falur dhe i është dhënë një mbretërim i gjatë paqësor",
+        "I gëlltitur nga toka me thesare",
+        "I mbytur në mosbesim dhe trupi i ruajtur si shenjë për ata që pasuan"
+      ],
+      "answer": "I mbytur në mosbesim dhe trupi i ruajtur si shenjë për ata që pasuan"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

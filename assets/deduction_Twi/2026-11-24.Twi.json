@@ -1,0 +1,61 @@
+{
+  "title": "Adum a Ɛkorɔn a Ɛwɔ Nkoko a Mframa Aprapra So no So",
+  "intro": "Fa no sɛ anibuei a ɛrenya nkɔso a wɔde ahoɔden a ɛkorɔn ne adansi ho nimdeɛ a ɛso bi nni akyɛde no. Esiane sɛ na mpɔtam hafo yi traa nkoko akɛse a ɛyɛ kurukuruwa mu nti, ɛmaa mmeae akɛse a ɛyɛ nwonwa a ɛka wim no sɔree. Nanso ahantan gyee ntini, na wɔde animtiaabu hyiaa ɔfrɛ a ɛne sɛ wɔnsan nkɔ Allah nkutoo som mu. Nea edii akyi bae no da so ara yɛ kɔkɔbɔ a wɔde kɔ mframa no ankasa so.",
+  "clues": [
+    "Na yɛyɛ ɔman a yɛwɔ tumi a yɛdii Nuh nkurɔfoɔ akyi baeɛ, a wɔhyira yɛn kɛseɛ ne ahoɔden kɛseɛ.",
+    "Yesisi abantenten a ɛkorɔn ne nkaedum wɔ beae a ɛkorɔn biara de yɛɛ agumadi ne ahantan ara kwa.",
+    "Yɛde yɛn hoahoaa yɛn ho, na yɛkaa sɛ hena na ɔyɛ den sen yɛn wɔ ahoɔden mu, na yɛyɛɛ atirimɔdensɛm a yenni mmɔborohunu.",
+    "Yɛpoo yɛn somafoɔ Hud berɛ a ɔfrɛɛ yɛn sɛ yɛnsom Allah nko ara, na ɔfrɛɛ no ​​mmerɛ ne ɔtorofoɔ.",
+    "Yedii kɔkɔbɔ no ho fɛw na yɛtwaa no mpoa sɛ sɛ ɔka nokware a, ɔmfa asotwe a ohunahuna no no mmra yɛn so.",
+    "Mframa a ano yɛ den na ɛyɛɛ kwae sɛee yɛn anadwo ason ne nnawɔtwe, na wogyaw yɛn ma yɛhwee ase te sɛ mmɛw nnua a ɛyɛ tokuru."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Meyɛ Henanom?",
+      "options": [
+        "Nnipa a wɔwɔ ‘Ad",
+        "Banu Nadir na ɔkyerɛwee",
+        "Nnipa a wɔwɔ Lut",
+        "Nnipa a Wɔte Madyan",
+        "Nnipa a wɔwɔ Thamud"
+      ],
+      "answer": "Nkurɔfo a wɔwɔ ‘Ad"
+    },
+    "trial": {
+      "label": "Sɔhwɛ/Asɛm a esii",
+      "options": [
+        "Ɔpoo Odiyifo Hud na ɔde ahoɔden a ɛkorɔn hoahoaa ne ho",
+        "Wɔbɔɔ pɔw sɛ wobekum Ɔkɔmhyɛni Yusuf esiane ahoɔyaw nti",
+        "Odii Nuh ho fɛw bere a na ɔreyɛ Adaka no",
+        "Ɔhwehwɛɛ yoma abere sɛ sɛnkyerɛnne afei ɔde ne nsa bɔɔ no",
+        "Ɔsom sika nantwi ba no wɔ bere a Musa nni hɔ no"
+      ],
+      "answer": "Ɔpoo Odiyifo Hud na ɔde ahoɔden a ɛkorɔn hoahoaa ne ho"
+    },
+    "location": {
+      "label": "Ade Titiriw",
+      "options": [
+        "Al-Ahqaf - anhwea a mframa-a-akyeakyea",
+        "Tamud abura a wɔasen wɔ abo mu",
+        "Bepɔw Sinai a wogyee Torah no",
+        "Farao ahenni mu Asubɔnten Nil",
+        "Tuwa Bon Kronkron no"
+      ],
+      "answer": "Al-Ahqaf - anhwea a mframa-a-akyeakyea"
+    },
+    "outcome": {
+      "label": "Nsunsuansoɔ",
+      "options": [
+        "Wɔmenee no wɔ nsuyiri kɛse a ɛkataa asase so no mu",
+        "Wɔmenee no ne Qarun kɔɔ asase so esiane ahantan nti",
+        "Wɔde dɔte a wɔatow abo tɔe guu so",
+        "Wɔsɛee wɔn denam asasewosow a ano yɛ den a ɛkyeree wɔn wɔ wɔn afie mu no so",
+        "Mframa a ano yɛ den a ano yɛ den sɛee no anadwo ason ne nnawɔtwe"
+      ],
+      "answer": "Mframa a ano yɛ den a ano yɛ den sɛee no anadwo ason ne nnawɔtwe"
+    }
+  },
+  "verseRef": "46:22",
+  "arabic": "قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "They said, \"Have you come to delude us away from our gods? Then bring us what you promise us, if you should be of the truthful.\" (46:22)"
+}

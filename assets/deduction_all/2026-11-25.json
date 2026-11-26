@@ -1,0 +1,61 @@
+{
+  "title": "The Scales That Tipped Toward Ruin",
+  "intro": "In a lush and prosperous region, a thriving community let greed corrupt the marketplace. Known for skill in trade and abundance from surrounding gardens, this group faced a call to fairness and faith. Yet pride in wealth led to defiance, and a dark shadow gathered on the horizon.",
+  "clues": [
+    "We were a prosperous trading community living among gardens and wooded groves.",
+    "We cheated people in measures and weights, spreading corruption in the land.",
+    "We were warned by our messenger to worship Allah alone and to give full measure.",
+    "We mocked our messenger and demanded the punishment to come if he was truthful.",
+    "We were seized by the punishment of the Day of the Shadow when a cloud overshadowed us.",
+    "I am known as the Companions of the Wood, the people to whom Shu'ayb was sent."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "The People of Thamud",
+        "The Companions of the Wood",
+        "The Companions of the Trench",
+        "The People of the Elephant",
+        "The Companions of the Cave"
+      ],
+      "answer": "The Companions of the Wood"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Giving short measure and defying our messenger",
+        "Demanding to see Allah directly at Mount Sinai",
+        "Building a tower to reach the heavens",
+        "Hiding faith secretly inside a palace",
+        "Worshipping a golden calf in the absence of Musa"
+      ],
+      "answer": "Giving short measure and defying our messenger"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "The sacred valley of Tuwa",
+        "The fire that was made cool and safe",
+        "The wooded grove of Al-Aykah",
+        "The cave with a sleeper's dog at its entrance",
+        "The mirrored palace of glass"
+      ],
+      "answer": "The wooded grove of Al-Aykah"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "Drowned in the divided sea",
+        "Swallowed with treasures into the earth",
+        "Transformed into apes for breaking the Sabbath",
+        "Saved in an ark above the floodwaters",
+        "Destroyed by the punishment of the Day of Shadow"
+      ],
+      "answer": "Destroyed by the punishment of the Day of Shadow"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

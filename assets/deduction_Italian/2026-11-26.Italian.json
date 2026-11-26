@@ -1,0 +1,61 @@
+{
+  "title": "Il giardino promesso all'alba",
+  "intro": "Nelle ore silenziose prima dell'alba, un piano fu elaborato in segreto. Un'eredità rigogliosa era pronta per essere raccolta, eppure si formò la ferma intenzione di tenere ogni frutto lontano da chi ne aveva bisogno. Al mattino, tutto sarebbe apparso estraneo e una lezione sarebbe stata incisa sui rami anneriti per tutti coloro che vi avessero riflettuto.",
+  "clues": [
+    "Abbiamo ereditato un giardino rigoglioso e abbiamo giurato di raccoglierne tutti i frutti per noi stessi.",
+    "Giurammo di uscire presto, all'alba, mentre i poveri che chiedevano la loro parte dormivano ancora.",
+    "Abbiamo escluso qualsiasi eccezione dal nostro giuramento e abbiamo negato il diritto ai bisognosi senza dire se Allah lo volesse.",
+    "Uscimmo sussurrando l'un l'altro di non permettere a nessun povero di entrare nel nostro giardino quel giorno.",
+    "Ci credevamo perfettamente in grado di raccogliere tutto e di impedire a chiunque di prenderne una parte.",
+    "Ci siamo svegliati e abbiamo trovato il nostro giardino rovinato durante la notte, annerito come se fosse stato mietuto, e abbiamo detto di sentirci privati ​​di qualcosa e pentiti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "I compagni della trincea",
+        "I compagni del giardino",
+        "I messaggeri della città nella Sura Ya-Sin",
+        "Il popolo dell'elefante",
+        "I Custodi del Fuoco Infernale"
+      ],
+      "answer": "I compagni del giardino"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Sacrificare una mucca per risolvere una disputa omicida",
+        "Sfida un profeta a far cadere pietre dal cielo",
+        "Pianificare di mietere all'alba, negando ai poveri la loro parte.",
+        "Violazione del sabato mediante l'utilizzo di reti da pesca",
+        "Costruire una diga per controllare le acque alluvionali per il commercio"
+      ],
+      "answer": "Pianificare di mietere all'alba, negando ai poveri la loro parte."
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "La valle sacra di Tuwa dove è stato visto il fuoco",
+        "Il frutteto del giardino recintato da mietere al mattino",
+        "Il pavimento a specchio del palazzo scambiato per acqua",
+        "L'arca di legno costruita su istruzione divina",
+        "Il muro di ferro costruito tra due montagne"
+      ],
+      "answer": "Il frutteto del giardino recintato da mietere al mattino"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Siamo stati trasformati in scimmie per aver trasgredito il sabato",
+        "Abbiamo dormito in una grotta per trecentonove anni",
+        "Siamo stati inghiottiti dalla terra con tesori di cui essere orgogliosi",
+        "Il nostro giardino è stato distrutto durante la notte ed è rimasto annerito come la notte",
+        "Siamo annegati nel mare mentre inseguivamo i credenti"
+      ],
+      "answer": "Il nostro giardino è stato distrutto durante la notte ed è rimasto annerito come la notte"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

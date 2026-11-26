@@ -1,0 +1,61 @@
+{
+  "title": "I oati te māra i te ata",
+  "intro": "I ngā hāora marino i mua i te whitinga o te rā, i whakatakotoria he mahere huna. I tū mai he taonga tuku iho whai rawa mō te kotinga, engari i puta he whakatau kia kaua e tukua kia tae atu ngā hua katoa ki te hunga e matea ana. I te ata, ka āhua tauhou ngā mea katoa, ā, ka whaowhaohia he akoranga ki ngā manga mangu mō te hunga katoa e whakaaroaro ana.",
+  "clues": [
+    "I riro mai i a mātou tētahi māra momona, ā, i oati mātou ki te hauhake i ngā hua katoa o taua mā mātou anō.",
+    "I oati mātou kia haere wawe atu i te atatu, i te mea kei te moe tonu te hunga rawakore i tono mai mō tā rātou hea.",
+    "I whakakorehia e mātou tētahi tūāpapa i roto i tā mātou oati, ā, i puritia e mātou te tika o te hunga rawakore, me te kore e kī mēnā ka pai a Allah.",
+    "I haere mātou ki waho me te kōrero pōhēhē tetahi ki tetahi, kia kaua tetahi tangata rawakore e tukua kia tomo ki roto i tā mātou māra i taua rā.",
+    "I whakaaro mātou e taea e mātou te kohikohi i ngā mea katoa, me te aukati i tētahi kaikohi kei tango i tētahi wāhanga.",
+    "I oho ake mātou, ā, kua pakaru tā mātou māra i te pō, kua mangu katoa me te mea kua hauhaketia, ā, ka mea mātou kua tangohia mātou, kua ripeneta hoki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Ngā Hoa o te Āwhata",
+        "Ngā Hoa o te Māra",
+        "Ngā Karere o te Tāone i roto i te Surah Ya-Sin",
+        "Te Iwi o te Arewhana",
+        "Ngā Kaitiaki o te Ahi Reinga"
+      ],
+      "answer": "Ngā Hoa o te Māra"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te patu i te kau hei whakatau i tētahi tautohe kohuru",
+        "Te wero i tētahi poropiti kia tukua iho ngā kōhatu i te rangi",
+        "Te whakatakoto mahere ki te hauhake i te atatu, me te whakakore i te wāhi mō te hunga rawakore",
+        "Te takahi i te Hāpati mā te whakatakoto kupenga hī ika",
+        "Te hanga i tētahi tāhuna hei whakahaere i ngā waipuke mō ngā mahi hokohoko"
+      ],
+      "answer": "Te whakatakoto mahere ki te hauhake i te atatu, me te whakakore i te wāhi mō te hunga rawakore"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Ko te awaawa tapu o Tuwa te wāhi i kitea ai te ahi",
+        "Ko te māra hua taiepa hei hauhake i te ata",
+        "Ko te papa whakaata o te whare kingi i pohehetia he wai",
+        "Ko te āka rakau i hangaia i raro i te tohutohu a te Atua",
+        "Ko te taiepa rino i hangaia i waenganui i ngā maunga e rua"
+      ],
+      "answer": "Ko te māra hua taiepa hei hauhake i te ata"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I hurihia mātou hei makimaki mō te takahi i te Hāpati",
+        "E toru rau e iwa tau mātou i moe ai i roto i tētahi ana",
+        "I horomia tātou e te whenua me ngā taonga mō te whakapehapeha",
+        "I whakangaromia tā mātou māra i te pō kotahi, ā, i pouri haere pērā i te pō",
+        "I toremi mātou ki te moana i a mātou e whai ana i te hunga whakapono"
+      ],
+      "answer": "I whakangaromia tā mātou māra i te pō kotahi, ā, i pouri haere pērā i te pō"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

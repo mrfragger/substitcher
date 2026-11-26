@@ -1,0 +1,61 @@
+{
+  "title": "Miisaanka Ku Dhacay Burburka",
+  "intro": "Gobol barwaaqo ah oo barwaaqo ah, bulsho barwaaqo ah ayaa u ogolaatay hungurigu inuu suuqu kharribo. Kooxdan oo loo yaqaan xirfadda ganacsiga iyo hodantinimada beeraha ku xeeran, waxay la kulantay baaq ku aaddan caddaalad iyo iimaan. Haddana kibirka hantida ayaa horseeday caasinimo, waxaana cirka isku shareeray hoos madow.",
+  "clues": [
+    "Waxaan ahayn bulsho ganacsi oo barwaaqo ah oo ku nool beero iyo geedo kaymo leh.",
+    "Waxaan dadka ku khiyaameynay cabbir iyo miisaan, annagoo musuqmaasuq ku faafinay dhulka.",
+    "Rasuulkeennu wuxuu noo digay inaan caabudno Alle oo keliya oo aan bixinno cabbir buuxa.",
+    "Waan ku jeesjeesannay rasuulkeennii oo waxaan dalbannay in ciqaabtu timaado haddii uu run sheegayo.",
+    "Waxaa na qabsaday ciqaabtii Maalinta Hooska markii daruur naga qarisay.",
+    "Waxaa la ii yaqaannaa Asxaabtii Kaynta, dadkii loo diray Shucayb."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Reer Thamuud",
+        "Asxaabta Kaynta",
+        "Asxaabta Godka",
+        "Dadka Maroodiga",
+        "Asxaabta Godka"
+      ],
+      "answer": "Asxaabta Kaynta"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Bixinta qiyaas gaaban iyo caasinnimada rasuulkeenna",
+        "Waxaan dalbanayaa inaan si toos ah u arko Alle Buurta Siinay",
+        "Dhisidda munaarad si ay u gaarto samada",
+        "Qarinta iimaanka si qarsoodi ah qasriga dhexdiisa",
+        "Caabudidda weyl dahab ah iyadoo uu maqan yahay Muuse"
+      ],
+      "answer": "Bixinta qiyaas gaaban iyo caasinnimada rasuulkeenna"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Dooxada barakeysan ee Tuwa",
+        "Dabkii laga dhigay mid qabow oo ammaan ah",
+        "Geedka Al-Aykah ee kaynta ku yaal",
+        "Godka oo ay ku taal eey qof seexanaya oo albaabka laga soo galo",
+        "Qasriga muraayadda ah ee muraayadda"
+      ],
+      "answer": "Geedka Al-Aykah ee kaynta ku yaal"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Badda kala qaybsan ayaa ku qaraqmay",
+        "Waxaa lagu liqay khasnado dhulka ku jira",
+        "Waxaa loo beddelay daanyeerro si ay u jabiyaan Sabtida",
+        "Lagu badbaadiyay doon ka sarraysa biyaha daadadka",
+        "Waxaa burburiyay ciqaabta Maalinta Hooska"
+      ],
+      "answer": "Waxaa burburiyay ciqaabta Maalinta Hooska"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

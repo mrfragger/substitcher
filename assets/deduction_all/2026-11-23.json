@@ -1,0 +1,61 @@
+{
+  "title": "The Drowned Declaration",
+  "intro": "Picture a mighty ruler surrounded by splendor, monuments, and armies obedient to a single command. This figure claimed supreme authority, dismissed divine signs as illusion, and ordered a relentless pursuit toward the sea. Follow the trail from arrogant decrees to parted waters, where a final confession arrives too late to save.",
+  "clues": [
+    "I held absolute power and enslaved the Children of Israel beneath my rule.",
+    "I declared myself the most high lord and refused to acknowledge any god above me.",
+    "I commanded Haman to build me a lofty tower that I might look at the God of Musa.",
+    "I confronted Musa and Harun when they brought clear signs, and I called their miracles sorcery.",
+    "I pursued Musa and the believers with my armies by night until we reached the sea.",
+    "I declared belief while drowning in the sea, but it was too late, and my body was preserved as a sign."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Namrud",
+        "Jalut (Goliath)",
+        "Abu Jahl",
+        "Pharaoh (Fir'aun)",
+        "Haman"
+      ],
+      "answer": "Pharaoh (Fir'aun)"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Was thrown into a fire that became cool and safe",
+        "Built an ark to survive a great flood",
+        "Slept in a cave with companions for many years",
+        "Was swallowed by a great fish in the depths",
+        "Drowned while pursuing Musa and the Israelites through the parted sea"
+      ],
+      "answer": "Drowned while pursuing Musa and the Israelites through the parted sea"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "The belly of the great fish",
+        "The Sacred Mosque in Makkah",
+        "The parted sea",
+        "The Cave of Hira",
+        "The garden with flowing rivers"
+      ],
+      "answer": "The parted sea"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "Raised alive to the heavens",
+        "Transformed for breaking the Sabbath",
+        "Forgiven and granted a long peaceful reign",
+        "Swallowed by the earth with treasures",
+        "Drowned in disbelief and body preserved as a sign for those after"
+      ],
+      "answer": "Drowned in disbelief and body preserved as a sign for those after"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

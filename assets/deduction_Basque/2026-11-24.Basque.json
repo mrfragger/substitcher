@@ -1,0 +1,61 @@
+{
+  "title": "Haizeak astindutako dunen zutabe garaiak",
+  "intro": "Imajinatu indar izugarriaz eta eraikitzeko trebetasun paregabeaz hornitutako zibilizazio oparoa. Duna zabal eta kurbatuen artean kokatuta, komunitate honek horizonteari ukitzen zioten mugarri handiak altxatu zituen. Hala ere, harrotasunak erroak hartu zituen, eta Ala gurtzera bakarrik itzultzeko deia desafioz hartu zen. Ondoren etorri zena haizeak berak eramandako abisu bat da oraindik.",
+  "clues": [
+    "Nuh herriaren ondoren etorritako nazio boteretsu bat ginen, garaiera eta indar handiz bedeinkatua.",
+    "Dorre altuak eta monumentu garai guztiak eraiki genituen kirol eta harrotasun hutsez.",
+    "Harrokeriaz jokatu genuen, nor zen gu baino indartsuagoa indarrez esanez, eta tiranikoki jokatu genuen errukirik gabe.",
+    "Gure mezulari Hud arbuiatu genuen Ala bakarrik gurtzera deitu gintuenean, ahul eta gezurti deituz.",
+    "Abisua iseka egin genion eta erronka egin genion egiazkoa bazen mehatxatu zuen zigorra ekartzeko.",
+    "Zazpi gau eta zortzi egunez haize bortitz eta antzu batek suntsitu gintuen, palmondoen enbor hutsak bezala erorita utzi gintuen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "'Ad-eko jendea",
+        "Banu Nadir",
+        "Luteko jendea.",
+        "Madyango jendea.",
+        "Thamudeko jendea"
+      ],
+      "answer": "'Ad-eko jendea"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Hud profeta baztertu eta indar handiagoaz harrotu zen",
+        "Jeloskortasunagatik Yusuf profeta hiltzeko konspiratu zuten",
+        "Nuh iseka egin zuen Arka eraikitzen ari zen bitartean",
+        "Gamelu eme bat eskatu zuen seinale gisa eta gero hanka-zainak moztu zizkion",
+        "Musa ez zegoenean, urrezko zekorra gurtu zuen"
+      ],
+      "answer": "Hud profeta baztertu eta indar handiagoaz harrotu zen"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Al-Ahqaf - haizeak kurbatutako hareazko dunak",
+        "Thamuden putzua harrian zizelkatua",
+        "Sinai mendia, non Tora jaso zen",
+        "Faraoiaren erreinuko Nilo ibaia",
+        "Tuwako Haran Sakratua"
+      ],
+      "answer": "Al-Ahqaf - haizeak kurbatutako hareazko dunak"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Lurra estali zuen uholde handian itota",
+        "Harrokeriagatik Qarunekin batera lurrera irentsia",
+        "Buztin egosizko harriekin euripean eroria",
+        "Lurrikara handi batek suntsitu zituen, eta etxeetan harrapatu zituen",
+        "Zazpi gau eta zortzi egunez haize izoztu bortitz batek suntsitu zuen"
+      ],
+      "answer": "Zazpi gau eta zortzi egunez haize izoztu bortitz batek suntsitu zuen"
+    }
+  },
+  "verseRef": "46:22",
+  "arabic": "قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "They said, \"Have you come to delude us away from our gods? Then bring us what you promise us, if you should be of the truthful.\" (46:22)"
+}

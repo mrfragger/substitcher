@@ -1,0 +1,61 @@
+{
+  "title": "Os Nove Séculos de Vocação",
+  "intro": "Imagine-se sozinho contra uma onda de zombaria por mais tempo do que impérios ascendem e caem, clamando noite e dia enquanto seus ouvidos são tapados e suas vestes apertadas. À frente, encontra-se uma embarcação construída em terra firme e águas como nunca antes vistas. Consegue sentir a paciência por trás dessa maratona de convites?",
+  "clues": [
+    "Convidei meu povo, dia e noite, em segredo e abertamente, a adorar somente a Alá.",
+    "Meu povo tapou os ouvidos com os dedos e se enrolou em roupas para se afastar de mim.",
+    "Permaneci entre meu povo por novecentos e cinquenta anos, chamando-os à orientação.",
+    "Construí uma embarcação sob o olhar e a revelação de Alá, enquanto meu povo zombava de mim em terra seca.",
+    "Recebi ordens para levar a bordo casais de todos os tipos e os crentes quando a ordem chegasse e o forno transbordasse.",
+    "Observei as ondas se erguerem como montanhas enquanto o dilúvio afogava aqueles que rejeitaram, e Alá salvou aqueles que estavam na Arca."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Dhul-Kifl",
+        "Profeta Al-Yasa (Elisha)",
+        "Profeta Nuh (Noé)",
+        "Profeta Lut (Ló)",
+        "Profeta Maomé"
+      ],
+      "answer": "Profeta Nuh (Noé)"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Defendi minha mãe falando quando eu era bebê.",
+        "Interpretou o sonho do governante enquanto estava na prisão.",
+        "Chamei meu povo dia e noite por 950 anos.",
+        "Foi capturado vivo e elevado a uma posição elevada.",
+        "Foi engolido por um grande peixe no mar."
+      ],
+      "answer": "Chamei meu povo dia e noite por 950 anos."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "O bezerro de ouro do deserto",
+        "O fogo tornou o ambiente fresco e seguro.",
+        "O palácio com piso de vidro",
+        "A Arca (Al-Fulk)",
+        "O cajado que se transformou em serpente"
+      ],
+      "answer": "A Arca (Al-Fulk)"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Meu povo foi dizimado por um vento congelante durante sete noites.",
+        "Os que rejeitaram a fé se afogaram no Grande Dilúvio e os crentes foram salvos.",
+        "Meu povo foi dizimado por uma poderosa explosão numa certa manhã.",
+        "Meu povo foi transformado em macacos por transgressão.",
+        "Meu povo foi engolido pela terra por causa de arrogância."
+      ],
+      "answer": "Os que rejeitaram a fé se afogaram no Grande Dilúvio e os crentes foram salvos."
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

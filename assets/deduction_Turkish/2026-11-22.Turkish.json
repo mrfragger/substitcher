@@ -1,0 +1,61 @@
+{
+  "title": "Dokuz Yüzyıllık Çağrı",
+  "intro": "Bir imparatorluk yükseliş ve düşüşünden daha uzun süre boyunca alay dalgasına karşı tek başına durduğunuzu, kulaklar kapatılmış ve giysiler sıkıca çekilmişken gece gündüz seslendiğinizi hayal edin. Önünüzde, daha önce hiç görülmemiş sular ve kuru topraklar üzerinde inşa edilmiş bir gemi var. Bu davet maratonunun ardındaki sabrı hissedebiliyor musunuz?",
+  "clues": [
+    "Gece gündüz, gizli ve açık bir şekilde, halkımı yalnızca Allah'a ibadet etmeye davet ettim.",
+    "Halkım kulaklarını tıkadı ve benden uzaklaşmak için giysilerini vücutlarına sardı.",
+    "Dokuz yüz elli yıl boyunca halkımın arasında kaldım ve onları doğru yola çağırdım.",
+    "Ben, kavmim kuru topraklarda benimle alay ederken, Allah'ın gözleri ve vahyi önünde bir gemi inşa ettim.",
+    "Bana her türden çifti ve inananları gemiye taşımam emredildi; emir gelince fırın taştı.",
+    "Tufanın, reddedenleri boğduğunu, dalgaların dağlar gibi yükseldiğini izledim; Allah ise gemidekileri kurtardı."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Zül-Kifl",
+        "Peygamber El-Yasa (Elişa)",
+        "Peygamber Nuh (Noah)",
+        "Peygamber Lut (Lot)",
+        "Peygamber Muhammed"
+      ],
+      "answer": "Peygamber Nuh (Noah)"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Bebeklik dönemimde konuşarak annemi savundum.",
+        "Hükümdarın hapishanedeyken gördüğü rüyayı yorumladı.",
+        "950 yıldır gece gündüz halkımı aradım.",
+        "Canlı olarak alınıp yüksek bir mevkiye getirildi.",
+        "Denizde büyük bir balık tarafından yutuldu."
+      ],
+      "answer": "950 yıldır gece gündüz halkımı aradım."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Vahşi doğanın altın buzağısı",
+        "Ateş soğutuldu ve güvenli hale getirildi.",
+        "Cam zeminli saray",
+        "Nuh'un Gemisi (Al-Fulk)",
+        "Yılana dönüşen asa"
+      ],
+      "answer": "Nuh'un Gemisi (Al-Fulk)"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Halkım yedi gece boyunca dondurucu bir rüzgar tarafından perişan edildi.",
+        "İnanmayanlar Büyük Tufan'da boğuldu, inananlar ise kurtuldu.",
+        "Halkım bir sabah müthiş bir patlamayla yok oldu.",
+        "Halkım, işledikleri suç yüzünden maymuna dönüştürüldü.",
+        "Halkım kibirleri yüzünden yerin dibine girdi."
+      ],
+      "answer": "İnanmayanlar Büyük Tufan'da boğuldu, inananlar ise kurtuldu."
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

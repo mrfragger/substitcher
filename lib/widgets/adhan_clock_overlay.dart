@@ -303,6 +303,17 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
             Row(
               mainAxisSize: MainAxisSize.min,
               children: [
+                if (_settings?.muteAdhan == true) ...[
+                  const Text(
+                    'muted',
+                    style: TextStyle(
+                      color: Colors.yellow,
+                      fontSize: 12,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                  const SizedBox(width: 8),
+                ],
                 if (_settings?.showWhiteDays == true && _whiteDays != null)
                   Tooltip(
                     richMessage: TextSpan(
@@ -577,7 +588,26 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
                           ),
                         ],
                       ),
-
+                      Row(
+                        children: [
+                          Checkbox(
+                            value: _settings?.muteAdhan ?? false,
+                            onChanged: (value) async {
+                              if (value == null) return;
+                              final settings = await AdhanSettings.load();
+                              settings.muteAdhan = value;
+                              await settings.save();
+                              await _loadSettings();
+                              await widget.adhanService.reloadSettings();
+                              if (value) await widget.adhanService.stopAdhan(); // silence anything playing now
+                            },
+                          ),
+                          const Text(
+                            'Mute (show times, no adhan sound or interrupting playback)',
+                            style: TextStyle(color: Colors.yellow, fontSize: 12),
+                          ),
+                        ],
+                      ),
                       Row(
                         children: [
                           Checkbox(

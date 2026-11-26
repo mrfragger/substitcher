@@ -1,0 +1,61 @@
+{
+  "title": "A balanza que se inclinou cara á ruína",
+  "intro": "Nunha rexión exuberante e próspera, unha comunidade próspera deixou que a cobiza corrompese o mercado. Coñecido pola súa habilidade no comercio e a abundancia dos xardíns circundantes, este grupo enfrontouse a unha chamada á xustiza e á fe. Con todo, o orgullo pola riqueza levou ao desafío, e unha sombra escura formouse no horizonte.",
+  "clues": [
+    "Éramos unha próspera comunidade comercial que vivía entre xardíns e soutos.",
+    "Enganamos á xente en medidas e pesos, estendendo a corrupción no país.",
+    "O noso mensaxeiro advertiunos que adorásemos só a Alá e que désemos toda a medida.",
+    "Burlámonos do noso mensaxeiro e esiximos o castigo que viría se era sincero.",
+    "Fomos apoderados do castigo do Día da Sombra cando unha nube nos cubriu coa súa sombra.",
+    "Son coñecido como os Compañeiros do Bosque, a xente á que foi enviado Shu'ayb."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "A xente de Thamud",
+        "Os compañeiros do bosque",
+        "Os compañeiros da trincheira",
+        "A xente do elefante",
+        "Os compañeiros da cova"
+      ],
+      "answer": "Os compañeiros do bosque"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Dando unha medida curta e desafiando o noso mensaxeiro",
+        "Esixindo ver a Alá directamente no Monte Sinaí",
+        "Construíndo unha torre para chegar ao ceo",
+        "Agochando a fe en segredo dentro dun palacio",
+        "Adorando un becerro de ouro en ausencia de Moisés"
+      ],
+      "answer": "Dando unha medida curta e desafiando o noso mensaxeiro"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "O val sagrado de Tuwa",
+        "O lume que se fixo fresco e seguro",
+        "O bosque arbolado de Al-Aykah",
+        "A cova cun can durmido na súa entrada",
+        "O palacio de cristal espellado"
+      ],
+      "answer": "O bosque arbolado de Al-Aykah"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Afogado no mar dividido",
+        "Tragado con tesouros na terra",
+        "Transformados en simios por romper o sábado",
+        "Gardado nunha arca sobre as augas do diluvio",
+        "Destruído polo castigo do Día da Sombra"
+      ],
+      "answer": "Destruído polo castigo do Día da Sombra"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

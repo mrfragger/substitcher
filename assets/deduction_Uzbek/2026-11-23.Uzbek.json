@@ -1,0 +1,61 @@
+{
+  "title": "Cho'kib ketganlar deklaratsiyasi",
+  "intro": "Ulug'vorlik, yodgorliklar va bitta buyruqqa itoatkor qo'shinlar bilan o'ralgan qudratli hukmdorni tasavvur qiling. Bu shaxs oliy hokimiyatni talab qildi, ilohiy alomatlarni illyuziya deb rad etdi va dengizga tinimsiz ta'qib qilishni buyurdi. Mag'rur farmonlardan ikkiga bo'lingan suvlargacha boring, u yerda oxirgi iqror qutqarish uchun juda kech keladi.",
+  "clues": [
+    "Men mutlaq hokimiyatni qo'lga kiritdim va Isroil farzandlarini o'z hukmronligim ostida qul qildim.",
+    "Men o'zimni eng oliy lord deb e'lon qildim va o'zimdan yuqoriroq biron bir xudoni tan olishdan bosh tortdim.",
+    "Men Homonga Musoning Xudosini ko'rishim uchun baland minora qurishni buyurdim.",
+    "Muso va Horun aniq mo''jizalar keltirganlarida, men ularga qarshi chiqdim va ularning mo''jizalarini sehr deb atadim.",
+    "Men Muso va mo'minlarni qo'shinlarim bilan kechasi ta'qib qilib, dengizga yetib keldik.",
+    "Dengizda cho'kib ketayotganimda iymon keltirdim, lekin juda kech edi va tanam oyat-belgi sifatida saqlanib qoldi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Namrud",
+        "Jalut (Goliath)",
+        "Abu Jahl",
+        "Fir'avn (Fir'avn)",
+        "Xomon"
+      ],
+      "answer": "Fir'avn (Fir'avn)"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Salqin va xavfsiz bo'lgan olovga tashlandi",
+        "Katta to'fondan omon qolish uchun kema qurdi",
+        "Ko'p yillar davomida hamrohlari bilan g'orda uxladi",
+        "Chuqurlikdagi ulkan baliq tomonidan yutib yuborildi",
+        "Muso va Isroilni ikkiga bo'lingan dengiz orqali ta'qib qilayotganda cho'kib ketdi"
+      ],
+      "answer": "Muso va Isroilni ikkiga bo'lingan dengiz orqali ta'qib qilayotganda cho'kib ketdi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Katta baliqning qorni",
+        "Makkadagi muqaddas masjid",
+        "Ikkiga bo'lingan dengiz",
+        "Hiro g'ori",
+        "Oqayotgan daryolari bo'lgan bog'"
+      ],
+      "answer": "Ikkiga bo'lingan dengiz"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Osmonga tiriklayin ko'tarildi",
+        "Shabbat kunini buzgani uchun o'zgartirildi",
+        "Kechirildi va uzoq tinch hukmronlik qilindi",
+        "Yer xazinalar bilan yutib yuborilgan",
+        "Kufrda cho'kib ketgan va jasad keyingilar uchun belgi sifatida saqlanib qolgan"
+      ],
+      "answer": "Kufrda cho'kib ketgan va jasad keyingilar uchun belgi sifatida saqlanib qolgan"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

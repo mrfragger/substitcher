@@ -1,0 +1,61 @@
+{
+  "title": "Bustani Iliyoapishwa Alfajiri",
+  "intro": "Katika saa tulivu kabla ya jua kuchomoza, mpango ulifanywa kwa siri. Urithi uliostawi ulikuwa tayari kwa mavuno, lakini azimio liliundwa ili kuweka kila matunda mbali na wale walio na uhitaji. Kufikia asubuhi, kila kitu kingeonekana kisicho cha kawaida, na somo lingechongwa kuwa matawi meusi kwa wote wanaotafakari.",
+  "clues": [
+    "Tulirithi bustani yenye kustawi na tukaapa kuvuna matunda yake yote kwa ajili yetu wenyewe.",
+    "Tuliapa kutoka nje mapema alfajiri huku maskini walioomba mgao wao wakiwa bado wamelala.",
+    "Tuliondoa ubaguzi wowote kutoka kwa kiapo chetu na tukazuia haki ya masikini bila kusema kama Mwenyezi Mungu akipenda.",
+    "Tulitoka nje tukinong'onezana ili tusimruhusu maskini yeyote kuingia bustanini mwetu siku hiyo.",
+    "Tulijiona tukiwa na uwezo kamili wa kukusanya kila kitu na kuzuia mkusanyaji yeyote kuchukua sehemu.",
+    "Tuliamka na kukuta bustani yetu imeharibika usiku, ikiwa nyeusi kana kwamba imevunwa, na tukasema tumenyimwa na tumetubu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Masahaba wa Handaki",
+        "Masahaba wa Bustani",
+        "Wajumbe wa Mji katika Surah Ya-Sin",
+        "Watu wa Tembo",
+        "Walinzi wa Moto wa Jehanamu"
+      ],
+      "answer": "Masahaba wa Bustani"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kutoa ng'ombe kafara ili kutatua mgogoro wa mauaji",
+        "Kumpa changamoto nabii aangushe mawe kutoka mbinguni",
+        "Kupanga kuvuna alfajiri huku wakinyima maskini sehemu yao",
+        "Kuvunja Sabato kwa kuweka nyavu za uvuvi",
+        "Kujenga bwawa kudhibiti maji ya mafuriko kwa ajili ya biashara"
+      ],
+      "answer": "Kupanga kuvuna alfajiri huku wakinyima maskini sehemu yao"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Bonde takatifu la Tuwa ambapo moto ulionekana",
+        "Bustani ya bustani yenye kuta itakayovunwa asubuhi",
+        "Sakafu ya jumba yenye kioo iliyodhaniwa kuwa maji",
+        "Safina ya mbao iliyojengwa kwa maagizo ya Mungu",
+        "Ukuta wa chuma uliojengwa kati ya milima miwili"
+      ],
+      "answer": "Bustani ya bustani yenye kuta itakayovunwa asubuhi"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Tuligeuzwa kuwa nyani kwa kuvunja Sabato",
+        "Tulilala pangoni kwa miaka mia tatu na tisa",
+        "Tulimezwa na dunia na hazina za kiburi",
+        "Bustani yetu iliharibiwa usiku kucha na kuachwa ikiwa nyeusi kama usiku",
+        "Tulizama baharini tulipokuwa tukiwafuatilia waumini"
+      ],
+      "answer": "Bustani yetu iliharibiwa usiku kucha na kuachwa ikiwa nyeusi kama usiku"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

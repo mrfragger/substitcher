@@ -1,0 +1,61 @@
+{
+  "title": "Puutarha lupasi aamunkoitteessa",
+  "intro": "Auringonnousun hiljaisina tunteina laadittiin salaa suunnitelma. Kukoistava perintö oli valmiina sadonkorjuuta varten, mutta silti syntyi päätös pitää jokainen hedelmä poissa apua tarvitsevien ulottuvilta. Aamuun mennessä kaikki näyttäisi oudolta, ja mustuneille oksille kaiverrettaisiin opetus kaikille, jotka asiaa pohtisivat.",
+  "clues": [
+    "Perimme kukoistavan puutarhan ja vannoimme korjaavamme kaikki sen hedelmät itse.",
+    "Vannoimme lähtevämme ulos aikaisin aamunkoitteessa, kun köyhät, jotka pyysivät omaa osuuttaan, vielä nukkuivat.",
+    "Poistimme kaikki poikkeukset valaamme ja pidätimme apua tarvitsevien oikeuden sanomatta, jos Allah niin tahtoo.",
+    "Lähdimme ulos kuiskaten toisillemme, ettemme päästäisi yhtäkään köyhää ihmistä puutarhaamme sinä päivänä.",
+    "Kuvittelimme olevamme täysin kykeneviä keräämään kaiken ja estämään ketään kerääjää ottamasta osaa.",
+    "Heräsimme ja huomasimme puutarhamme yöllä raunioina, mustuneena kuin sadonkorjuu sadonkorjuun jälkeen, ja sanoimme olevamme riistettyjä ja katuvia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Juoksuhaudan seuralaiset",
+        "Puutarhan seuralaiset",
+        "Kaupungin sanansaattajat suurassa Ya-Sin",
+        "Norsun kansa",
+        "Helvetin tulen vartijat"
+      ],
+      "answer": "Puutarhan seuralaiset"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Lehmän uhraaminen murhakiistan ratkaisemiseksi",
+        "Haastetaan profeettaa tuomaan kiviä taivaasta",
+        "Suunnitellen sadonkorjuuta aamunkoitteessa ja kieltäen köyhiltä heidän osuutensa",
+        "Sapatin rikkominen asettamalla kalaverkkoja",
+        "Padon rakentaminen tulvavesien hallitsemiseksi kauppaa varten"
+      ],
+      "answer": "Suunnitellen sadonkorjuuta aamunkoitteessa ja kieltäen köyhiltä heidän osuutensa"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Tuwan pyhä laakso, jossa tulta nähtiin",
+        "Muurien ympäröimä puutarha, josta aamulla leikataan sato",
+        "Palatsin peililattia luultiin vedeksi",
+        "Jumalallisen ohjauksen alaisena rakennettu puinen arkki",
+        "Kahden vuoren väliin rakennettu rautamuuri"
+      ],
+      "answer": "Muurien ympäröimä puutarha, josta aamulla leikataan sato"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Meidät muutettiin apinoiksi, koska rikoimme sapattia",
+        "Nukuimme luolassa kolmesataayhdeksän vuotta",
+        "Maa nielaisi meidät aarteineen ylpeyden aiheena",
+        "Puutarhamme tuhoutui yön aikana ja jäi mustaksi kuin yö",
+        "Meidät hukkui mereen uskovia takaa-ajaessamme"
+      ],
+      "answer": "Puutarhamme tuhoutui yön aikana ja jäi mustaksi kuin yö"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

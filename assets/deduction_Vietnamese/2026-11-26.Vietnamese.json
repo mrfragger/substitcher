@@ -1,0 +1,61 @@
+{
+  "title": "Khu vườn được thề nguyện lúc bình minh",
+  "intro": "Trong những giờ phút tĩnh lặng trước bình minh, một kế hoạch đã được vạch ra trong bí mật. Một gia sản thịnh vượng đã sẵn sàng cho mùa gặt, nhưng một quyết tâm đã được hình thành để giữ mọi thành quả khỏi tay những người cần giúp đỡ. Đến sáng hôm sau, mọi thứ sẽ trở nên xa lạ, và một bài học sẽ được khắc sâu vào những cành cây cháy đen cho tất cả những ai suy ngẫm.",
+  "clues": [
+    "Chúng tôi được thừa hưởng một khu vườn tươi tốt và thề sẽ thu hoạch tất cả hoa trái trong đó cho riêng mình.",
+    "Chúng tôi thề sẽ ra đi từ sáng sớm tinh mơ, khi những người nghèo xin phần của mình vẫn còn đang ngủ.",
+    "Chúng tôi đã loại trừ mọi ngoại lệ khỏi lời thề của mình và giữ lại quyền lợi của người nghèo mà không cần nói rõ liệu Allah có muốn hay không.",
+    "Chúng tôi thì thầm với nhau ra ngoài, dặn dò không cho bất kỳ người nghèo nào vào vườn nhà mình ngày hôm đó.",
+    "Chúng tôi tự cho mình hoàn toàn có khả năng thu gom mọi thứ và ngăn chặn bất kỳ người nhặt nhạnh nào lấy đi một phần.",
+    "Chúng tôi thức dậy và thấy khu vườn của mình bị tàn phá trong đêm, đen kịt như thể vừa mới thu hoạch xong, và chúng tôi nói rằng mình cảm thấy bị thiệt thòi và hối hận."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Những người bạn đồng hành của chiến hào",
+        "Những người bạn đồng hành của khu vườn",
+        "Các sứ giả của thành phố trong Surah Ya-Sin",
+        "Người dân của Voi",
+        "Những Người Giữ Lửa Địa Ngục"
+      ],
+      "answer": "Những người bạn đồng hành của khu vườn"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Hiến tế một con bò để giải quyết tranh chấp giết người.",
+        "Thách thức một nhà tiên tri làm cho đá rơi từ trên trời xuống.",
+        "Âm mưu thu hoạch vào lúc bình minh trong khi tước đoạt phần của người nghèo.",
+        "Vi phạm ngày Sa-bát bằng cách giăng lưới đánh cá.",
+        "Xây dựng đập để kiểm soát lũ lụt phục vụ thương mại"
+      ],
+      "answer": "Âm mưu thu hoạch vào lúc bình minh trong khi tước đoạt phần của người nghèo."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Thung lũng thiêng Tuwa, nơi người ta chứng kiến ​​lửa.",
+        "Vườn cây ăn quả có tường bao quanh sẽ được thu hoạch vào sáng mai.",
+        "Sàn cung điện tráng gương khiến người ta nhầm tưởng đó là mặt nước.",
+        "Chiếc thuyền gỗ được đóng theo chỉ dẫn của thần thánh.",
+        "Bức tường sắt được xây dựng giữa hai ngọn núi."
+      ],
+      "answer": "Vườn cây ăn quả có tường bao quanh sẽ được thu hoạch vào sáng mai."
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Chúng ta bị biến thành vượn vì phạm tội vi phạm ngày Sa-bát.",
+        "Chúng tôi đã ngủ trong hang động suốt ba trăm lẻ chín năm.",
+        "Chúng ta bị đất mẹ nuốt chửng với vô vàn kho báu đáng tự hào.",
+        "Vườn nhà chúng tôi bị phá hủy chỉ sau một đêm và bị cháy đen như màn đêm.",
+        "Chúng tôi đã chết đuối trên biển khi đang truy đuổi những người có đức tin."
+      ],
+      "answer": "Vườn nhà chúng tôi bị phá hủy chỉ sau một đêm và bị cháy đen như màn đêm."
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

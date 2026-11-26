@@ -1,0 +1,61 @@
+{
+  "title": "Miizaana Gara Badiisaatti Qaxxaamuran",
+  "intro": "Naannoo lalisaa fi badhaadhina qabu keessatti hawaasni dagaagaa jiru araadni gabaa akka mancaasu haa godhu. Gareen kun ogummaa daldalaa fi baay’ina iddoowwan biqiltuu naannoo isaanii jiran irraa argamuun kan beekamu yoo ta’u, waamicha haqummaa fi amantii isa mudate. Ta’us qabeenyaan of tuuluun mormii kan fide si’a ta’u, gaaddidduun dukkanaa’aan tokkos gara fuulduraatti walitti qabame.",
+  "clues": [
+    "Hawaasa daldalaa badhaadhina qabu kan iddoo biqiltuu fi bosona mukaan marfame gidduu jiraatu turre.",
+    "Safartuu fi ulfaatinaan namoota gowwomnee, malaammaltummaa lafa keessatti facaasne.",
+    "Rabbiin tokkicha gabbaruu fi safara guutuu akka kenninu ergamaa keenyaan akeekkachiifamne.",
+    "Ergamaa keenyatti qoosnee yoo dhugaa dubbate adabbiin akka dhufu gaafanne.",
+    "Adabbii Guyyaa Gaaddidduutiin qabamne yeroo duumessi nu golgu.",
+    "Sahaaba Mukaa, namoota Shu'aayb itti ergame jedhamuun beekama."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Ummata Thamud",
+        "Sahaaba Mukaa",
+        "Sahaabonni Boollaa",
+        "Ummata Qeerroo",
+        "Sahaabonni Holqa"
+      ],
+      "answer": "Sahaaba Mukaa"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Safartuu gabaabaa kennuu fi ergamaa keenya mormuu",
+        "Gaara Siinaa irratti kallattiin Rabbiin arguu gaafachuu",
+        "Samii ga’uuf masaraa ijaaruu",
+        "Masaraa mootummaa tokko keessa dhoksaan amantii dhoksuu",
+        "Bakka Muusaan hin jirretti re'ee warqee waaqeffachuu"
+      ],
+      "answer": "Safartuu gabaabaa kennuu fi ergamaa keenya mormuu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Gammoojjii qulqulluu Tuwaa",
+        "Ibiddi qabbanaa'aa fi nageenya qabu godhame",
+        "Bosona bosona qabu kan Al-Aykah",
+        "Holqi seensa isaa irratti saree hirribaa qabu",
+        "Masaraa daawwitii kan geejjibaa"
+      ],
+      "answer": "Bosona bosona qabu kan Al-Aykah"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Galaana qoqqoodame keessatti liqimfame",
+        "Qabeenyaan gara lafaatti liqimfame",
+        "Sanbata cabsuuf gara hantuutaatti jijjiirame",
+        "Bishaan lolaa olitti doonii tokko keessatti baraarame",
+        "Adabbii Guyyaa Gaaddidduun balleesse"
+      ],
+      "answer": "Adabbii Guyyaa Gaaddidduun balleesse"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

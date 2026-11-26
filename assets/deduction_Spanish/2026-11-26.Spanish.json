@@ -1,0 +1,61 @@
+{
+  "title": "El jardín hizo un voto al amanecer.",
+  "intro": "En las horas de silencio antes del amanecer, se gestó un plan en secreto. Una herencia abundante estaba lista para ser cosechada, pero se forjó la determinación de mantener cada fruto alejado de los necesitados. Al amanecer, todo parecería desconocido, y una lección quedaría grabada en las ramas ennegrecidas para quienes reflexionaran.",
+  "clues": [
+    "Heredamos un jardín exuberante y juramos cosechar todos sus frutos para nosotros mismos.",
+    "Juramos salir temprano, al amanecer, mientras los pobres que pedían su parte aún dormían.",
+    "Excluimos cualquier excepción a nuestro juramento y negamos el derecho de los necesitados sin decir si Alá lo quiere.",
+    "Salimos susurrándonos unos a otros para no permitir que ningún pobre entrara en nuestro jardín ese día.",
+    "Nos imaginábamos totalmente capaces de recogerlo todo e impedir que cualquier recolector se llevara una parte.",
+    "Nos despertamos y encontramos nuestro jardín destrozado durante la noche, ennegrecido como si hubiera sido cosechado, y dijimos que nos sentíamos desolados y arrepentidos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Los Compañeros de la Trinchera",
+        "Los Compañeros del Jardín",
+        "Los Mensajeros de la Ciudad en la Sura Ya-Sin",
+        "El pueblo del elefante",
+        "Los Guardianes del Fuego Infernal"
+      ],
+      "answer": "Los Compañeros del Jardín"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Sacrificar una vaca para resolver una disputa por asesinato",
+        "Desafiando a un profeta a que haga caer piedras del cielo.",
+        "Conspirando para cosechar al amanecer mientras se niega a los pobres su parte.",
+        "Quebrantar el sábado tendiendo redes de pesca",
+        "Construir una presa para controlar las inundaciones con fines comerciales."
+      ],
+      "answer": "Conspirando para cosechar al amanecer mientras se niega a los pobres su parte."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El valle sagrado de Tuwa donde se vio el fuego",
+        "El huerto amurallado se cosechará por la mañana.",
+        "El suelo del palacio, que parecía un espejo, se confundía con agua.",
+        "El arca de madera construida bajo instrucción divina",
+        "El muro de hierro construido entre dos montañas"
+      ],
+      "answer": "El huerto amurallado se cosechará por la mañana."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Nos convertimos en monos por transgredir el sábado.",
+        "Dormimos en una cueva durante trescientos nueve años.",
+        "Fuimos engullidos por la tierra con tesoros para nuestro orgullo.",
+        "Nuestro jardín quedó destruido de la noche a la mañana y ennegrecido como la noche.",
+        "Nos ahogamos en el mar mientras perseguíamos a los creyentes."
+      ],
+      "answer": "Nuestro jardín quedó destruido de la noche a la mañana y ennegrecido como la noche."
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

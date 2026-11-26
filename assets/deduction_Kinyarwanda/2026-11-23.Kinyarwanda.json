@@ -1,0 +1,61 @@
+{
+  "title": "Itangazo ry'Abarohamye",
+  "intro": "Tekereza umutegetsi ukomeye akikijwe n'ubwiza, inzibutso n'ingabo zumvira itegeko rimwe. Uyu muntu yihaye ububasha buhebuje, yirengagiza ibimenyetso by'Imana nk'ibihimbano, maze ategeka ko bakomeza gukurikira inyanja. Kurikira inzira kuva ku mategeko y'ubwibone kugeza ku mazi yagabanutse, aho kwemera kwa nyuma kugera igihe bitinze cyane ku buryo umuntu atabasha gukiza.",
+  "clues": [
+    "Nari mfite ububasha busesuye kandi nahinduye imbata y'abana ba Isirayeli munsi y'ubutegetsi bwanjye.",
+    "Navuze ko ndi umutegetsi usumba byose kandi nanze kwemera imana iyo ari yo yose indusha.",
+    "Nategetse Hamani kunyubakira umunara muremure kugira ngo ndebe Imana ya Musa.",
+    "Nahanganye na Musa na Harun ubwo bazanaga ibimenyetso bisobanutse neza, maze nyita ibitangaza byabo ubupfumu.",
+    "Nakurikiye Musa n'abizera hamwe n'ingabo zanjye nijoro kugeza tugeze ku nyanja.",
+    "Navuze ko nemera ubwo narohamaga mu nyanja, ariko byari byaratinze, maze umurambo wanjye urabikwa nk'ikimenyetso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndi nde?",
+      "options": [
+        "Namrud",
+        "Jaluti (Goliyati)",
+        "Abu Jahl",
+        "Farawo (Fir'aun)",
+        "Hamani"
+      ],
+      "answer": "Farawo (Fir'aun)"
+    },
+    "trial": {
+      "label": "Igeragezwa/Ikibazo",
+      "options": [
+        "Yajugunywe mu muriro wabaye ukonje kandi ufite umutekano",
+        "Yubatse ubwato kugira ngo arokoke umwuzure ukomeye",
+        "Yaryamanye n'abagenzi mu buvumo imyaka myinshi",
+        "Yamizwe n'ifi nini mu nda",
+        "Yarohamye ubwo yakurikiranaga Musa n'Abisirayeli mu nyanja yari yagabanutsemo kabiri"
+      ],
+      "answer": "Yarohamye ubwo yakurikiranaga Musa n'Abisirayeli mu nyanja yari yagabanutsemo kabiri"
+    },
+    "location": {
+      "label": "Ikintu cy'ingenzi",
+      "options": [
+        "Inda y'ifi nini",
+        "Umusigiti Mutagatifu i Makka",
+        "Inyanja yagabanijwemo kabiri",
+        "Ubuvumo bwa Hira",
+        "Ubusitani bufite imigezi itemba"
+      ],
+      "answer": "Inyanja yagabanijwemo kabiri"
+    },
+    "outcome": {
+      "label": "Ibisubizo",
+      "options": [
+        "Yazuwe mu ijuru ari muzima",
+        "Yahinduwe kubera kwica Isabato",
+        "Yababariwe kandi ahabwa ingoma y'amahoro igihe kirekire",
+        "Isi yamizwe n'ubutunzi bwayo",
+        "Baguye mu kaga kandi umubiri wabo warafunzwe nk'ikimenyetso cy'abazaba nyuma"
+      ],
+      "answer": "Baguye mu kaga kandi umubiri wabo warafunzwe nk'ikimenyetso ku bari nyuma"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

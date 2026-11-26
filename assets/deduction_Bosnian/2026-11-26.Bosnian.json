@@ -1,0 +1,61 @@
+{
+  "title": "Vrt zavjetovan u zoru",
+  "intro": "U tihim satima prije izlaska sunca, u tajnosti je skovao plan. Bujno nasljedstvo bilo je spremno za žetvu, ali ipak je odlučno odlučeno da se svaki plod sakrije od onih kojima je potreban. Do jutra, sve će izgledati nepoznato, a lekcija će biti urezana u pocrnjele grane za sve koji razmišljaju.",
+  "clues": [
+    "Naslijedili smo bujnu baštu i zavjetovali se da ćemo sami ubrati sve njene plodove.",
+    "Zakleli smo se da ćemo izaći rano u zoru dok siromašni koji su tražili svoj dio još spavaju.",
+    "Iz naše zakletve smo isključili svaki izuzetak i uskratili pravo siromasima, a da nismo ni pitali da li Allah hoće.",
+    "Izašli smo šapućući jedni drugima da tog dana nijednoj siromašnoj osobi ne dozvolimo da uđe u našu baštu.",
+    "Zamišljali smo da smo potpuno sposobni sakupiti sve i spriječiti bilo kojeg sakupljača da uzme dio.",
+    "Probudili smo se i zatekli našu baštu uništenu tokom noći, pocrnjelu kao da je požnjevena, i rekli smo da smo uskraćeni i pokajnički."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Pratitelji rova",
+        "Pratitelji vrta",
+        "Poslanici grada u suri Ja-Sin",
+        "Narod slona",
+        "Čuvari paklene vatre"
+      ],
+      "answer": "Pratitelji vrta"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Žrtvovanje krave kako bi se riješio spor oko ubistva",
+        "Izazivanje proroka da spusti kamenje s neba",
+        "Planiraju žetvu u zoru, a siromašnima uskraćuju njihov dio",
+        "Kršenje subote postavljanjem ribarskih mreža",
+        "Izgradnja brane za kontrolu poplavnih voda za trgovinu"
+      ],
+      "answer": "Planiraju žetvu u zoru, a siromašnima uskraćuju njihov dio"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Sveta dolina Tuwa gdje je viđena vatra",
+        "Ograđeni vrtni voćnjak koji će se požnjeti ujutro",
+        "Ogledani pod palače pogrešno shvaćen kao voda",
+        "Drvena arka izgrađena po božanskim uputama",
+        "Gvozdeni zid izgrađen između dvije planine"
+      ],
+      "answer": "Ograđeni vrtni voćnjak koji će se požnjeti ujutro"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Pretvoreni smo u majmune zbog kršenja Sabata",
+        "Spavali smo u pećini tri stotine i devet godina",
+        "Progutala nas je zemlja s blagom za ponos",
+        "Naš vrt je uništen preko noći i ostavljen je crn kao noć.",
+        "Utopili smo se u moru dok smo progonili vjernike"
+      ],
+      "answer": "Naš vrt je uništen preko noći i ostavljen je crn kao noć."
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

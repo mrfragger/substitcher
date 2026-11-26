@@ -1,0 +1,61 @@
+{
+  "title": "Dārza solījums rītausmā",
+  "intro": "Klusajās stundās pirms saullēkta slepenībā tika izstrādāts plāns. Plaukstoša mantojuma masa bija gatava ražas novākšanai, tomēr tika pieņemts lēmums turēt visus augļus tālāk no tiem, kam tie būtu nepieciešami. Līdz rītam viss šķistu svešs, un mācība tiktu iegravēta melnējušās zarās visiem, kas par to domā.",
+  "clues": [
+    "Mēs mantojumā ieguvām plaukstošu dārzu un zvērējām novākt visus tā augļus sev.",
+    "Mēs zvērējām iziet agri rītausmā, kamēr nabagi, kas lūdza savu daļu, vēl gulēja.",
+    "Mēs izslēdzām visus izņēmumus no sava zvēresta un atturējām trūcīgo tiesības, nepasakot, vai Allāhs tā gribēs.",
+    "Mēs izgājām ārā, čukstēdami viens otram, lai tajā dienā neviens nabags neieietu mūsu dārzā.",
+    "Mēs iedomājāmies, ka esam pilnībā spējīgi visu savākt un neļaut nevienam lasītājam paņemt daļu.",
+    "Mēs pamodāmies un ieraudzījām, ka mūsu dārzs naktī ir izpostīts, nomelnējis, it kā būtu novākts ražas novākšanas laiks, un teicām, ka esam cietuši zaudējumus un nožēlojam grēkus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Tranšejas biedri",
+        "Dārza pavadoņi",
+        "Pilsētas vēstneši Surah Ya-Sin",
+        "Ziloņa ļaudis",
+        "Elles liesmu sargātāji"
+      ],
+      "answer": "Dārza pavadoņi"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Govs upurēšana, lai atrisinātu slepkavības strīdu",
+        "Pravieša izaicinājums no debesīm nomest akmeņus",
+        "Plānojot ražas novākšanu rītausmā, vienlaikus liedzot nabadzīgajiem viņu daļu",
+        "Sabata laušana, izliekot zvejas tīklus",
+        "Dambja būvniecība, lai kontrolētu plūdu ūdeņus tirdzniecībai"
+      ],
+      "answer": "Plānojot ražas novākšanu rītausmā, vienlaikus liedzot nabadzīgajiem viņu daļu"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Svētā Tuvas ieleja, kur tika redzēta uguns",
+        "No mūra ieskautā dārza augļu raža tiks novākta no rīta",
+        "Spoguļpils grīda sajaukta ar ūdeni",
+        "Koka šķirsts, kas celts pēc dievišķa norādījuma",
+        "Dzelzs siena, kas celta starp diviem kalniem"
+      ],
+      "answer": "No mūra ieskautā dārza augļu raža tiks novākta no rīta"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Mēs tikām pārvērsti par pērtiķiem par sabata pārkāpšanu",
+        "Mēs gulējām alā trīs simti deviņus gadus",
+        "Mūs aprija zeme ar dārgumiem lepnuma dēļ",
+        "Mūsu dārzs tika iznīcināts vienas nakts laikā un kļuva melns kā nakts",
+        "Mēs noslīkām jūrā, vajājot ticīgos"
+      ],
+      "answer": "Mūsu dārzs tika iznīcināts vienas nakts laikā un kļuva melns kā nakts"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

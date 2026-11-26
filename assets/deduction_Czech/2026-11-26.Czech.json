@@ -1,0 +1,61 @@
+{
+  "title": "Zahrada zaslíbená za úsvitu",
+  "intro": "V tichých hodinách před východem slunce se tajně spřádal plán. Vzkvétající dědictví bylo připraveno ke sklizni, přesto se zrodilo odhodlání uchránit všechny plody před těmi, kteří je potřebují. Ráno bude všechno vypadat neznámě a do zčernalých větví se vryje ponaučení pro všechny, kdo se nad tím zamyslí.",
+  "clues": [
+    "Zdědili jsme bujnou zahradu a slíbili jsme, že si všechny její plody sklidíme sami.",
+    "Přísahali jsme, že vyjdeme brzy za úsvitu, dokud chudí, kteří si žádali o svůj podíl, ještě spali.",
+    "Vyloučili jsme jakoukoli výjimku z naší přísahy a odepřeli jsme právo potřebným, aniž bychom se ptali, zda si to Alláh přeje.",
+    "Šeptali jsme si ven, abychom ten den žádného chudáka nepustili do naší zahrady.",
+    "Představovali jsme si, že jsme plně schopni všechno sesbírat a zabránit tomu, aby si kterýkoli sběrač vzal svou porci.",
+    "Probudili jsme se a zjistili, že naše zahrada je v noci zničená, zčernalá, jako by byla sklizena, a řekli jsme si, že jsme o něco přišli a že činíme pokání."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Společníci z příkopu",
+        "Společníci zahrady",
+        "Poslové města v súře Ja-Sin",
+        "Lidé slona",
+        "Strážci pekelného ohně"
+      ],
+      "answer": "Společníci zahrady"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Obětování krávy k vyřešení sporu o vraždu",
+        "Vyzývám proroka, aby shodil kameny z nebe",
+        "Plánují sklizeň za úsvitu, zatímco chudým upírají jejich podíl",
+        "Porušení sabatu nastražováním rybářských sítí",
+        "Stavba přehrady pro kontrolu záplavové vody pro obchod"
+      ],
+      "answer": "Plánují sklizeň za úsvitu, zatímco chudým upírají jejich podíl"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Posvátné údolí Tuwa, kde byl spatřen oheň",
+        "Zděná zahrada, která se ráno sklízí",
+        "Zrcadlová podlaha paláce mylně považovaná za vodu",
+        "Dřevěná archa postavená na Boží pokyn",
+        "Železná zeď postavená mezi dvěma horami"
+      ],
+      "answer": "Zděná zahrada, která se ráno sklízí"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Byli jsme proměněni v opice za přestoupení Sabatu",
+        "Spali jsme v jeskyni tři sta devět let",
+        "Byli jsme pohlceni zemí s poklady pro hrdost",
+        "Naše zahrada byla přes noc zničena a zčernala jako noc",
+        "Utopili jsme se v moři, když jsme pronásledovali věřící"
+      ],
+      "answer": "Naše zahrada byla přes noc zničena a zčernala jako noc"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

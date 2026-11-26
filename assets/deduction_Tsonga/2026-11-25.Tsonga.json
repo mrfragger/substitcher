@@ -1,0 +1,61 @@
+{
+  "title": "Swikalo Leswi A Swi Tirhela Ku Onhaka",
+  "intro": "Eka ndhawu leyi tlhumeke ni leyi humelelaka, vaaki lava humelelaka va pfumelele makwanga ma onha makete. Ntlawa lowu a wu tiveka hi vutshila eka mabindzu ni ku tala loku humaka ejarateni leri rhendzeleke, a wu langutane ni xirhambo xa ku lulama ni ripfumelo. Hambi swi ri tano ku tikukumuxa hi rifuwo ku yise eka ku kaneta, naswona ndzhuti wa munyama wu hlengeletanile empfhukeni.",
+  "clues": [
+    "A hi ri vaaki lava humelelaka va mabindzu lava a va tshama exikarhi ka swirhapa ni swihlahla leswi nga ni mirhi.",
+    "Hi kanganyisa vanhu hi mimpimo ni ku tika, hi hangalasa vukungundzwana etikweni.",
+    "Hi tsundzuxiwile hi murhumiwa wa hina leswaku hi gandzela Allah ntsena ni ku nyikela mpimo lowu heleleke.",
+    "Hi hlekile murhumiwa wa hina hi lava leswaku nxupulo wu ta loko a vula ntiyiso.",
+    "Hi khomiwile hi nxupulo wa Siku ra Ndzhuti loko papa ri hi funengeta.",
+    "Ndzi tiviwa tanihi Vaseketeri va Tihunyi, vanhu lava Shu’ayb a rhumeriweke eka vona."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Vanhu va le Thamud",
+        "Vaseketeri va Tihunyi",
+        "Vaseketeri va Mugodi",
+        "Vanhu va Ndlopfu",
+        "Vaseketeri va Bako"
+      ],
+      "answer": "Vaseketeri va Tihunyi"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku nyika mpimo wo koma na ku kaneta murhumiwa wa hina",
+        "Ku lava ku vona Allah hi ku kongoma eNtshaveni ya Sinai",
+        "Ku aka xihondzo xo fika ematilweni",
+        "Ku tumbeta ripfumelo exihundleni endzeni ka xigodlho",
+        "Ku gandzela rhole ra nsuku loko Musa a nga ri kona"
+      ],
+      "answer": "Ku nyika mpimo wo koma na ku kaneta murhumiwa wa hina"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Nkova wo kwetsima wa Tuwa",
+        "Ndzilo lowu endliweke wu kufumela naswona wu hlayiseka",
+        "Xihlahla lexi nga ni mirhi xa Al-Aykah",
+        "Bako leri nga ni mbyana leyi etleleke enyangweni wa rona",
+        "Xigodlho lexi nga ni swivoni xa nghilazi"
+      ],
+      "answer": "Xihlahla lexi nga ni mirhi xa Al-Aykah"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Ku nwela elwandle leri avaneke",
+        "Ku mitiwa hi xuma emisaveni",
+        "U hundzuriwile tindlopfu hikwalaho ko tlula Savata",
+        "Yi hlayisiwile eka ngalava ehenhla ka mati ya ndhambi",
+        "Ku herisiwa hi ku xupuriwa ka Siku ra Ndzhuti"
+      ],
+      "answer": "Ku herisiwa hi ku xupuriwa ka Siku ra Ndzhuti"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

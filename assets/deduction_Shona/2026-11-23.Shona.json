@@ -1,0 +1,61 @@
+{
+  "title": "Chirevo cheKunyura",
+  "intro": "Fungidzira mutongi ane simba akakomberedzwa nekubwinya, zviyeuchidzo, nemauto anoteerera murayiro mumwe chete. Munhu uyu akazviti ane simba guru, akaramba zviratidzo zvaMwari senhema, uye akarayira kuti vanhu vatevere vakananga kugungwa vasingaregi. Tevedzera nzira kubva pamitemo yekuzvikudza kusvika kumvura dzakaparadzana, uko kureurura kwekupedzisira kunosvika kwanonoka kuponesa.",
+  "clues": [
+    "Ndakanga ndine simba guru uye ndakaita kuti vana veIsraeri vave varanda pasi pehutongi hwangu.",
+    "Ndakazviti ndini ishe wekumusoro-soro uye ndakaramba kubvuma chero mwari ari pamusoro pangu.",
+    "Ndakarayira Hamani kuti andivakire shongwe refu kuti ndione Mwari waMusa.",
+    "Ndakatarisana naMusa naHarun pavakauya nezviratidzo zvakajeka, uye ndakati zvishamiso zvavo uroyi.",
+    "Ndakatevera Musa nevatendi nemauto angu husiku kusvika tasvika kugungwa.",
+    "Ndakataura kutenda kwangu pandakanyura mugungwa, asi zvakanga zvanonoka, uye mutumbi wangu wakachengetedzwa sechiratidzo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Namrud",
+        "Jaluti (Goliati)",
+        "Abu Jahl",
+        "Farao (Fir'aun)",
+        "Hamani"
+      ],
+      "answer": "Farao (Fir'aun)"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Yakakandwa mumoto wakatonhora uye wakachengeteka",
+        "Akavaka areka kuti apone mafashamo makuru",
+        "Ndakarara mubako neshamwari kwemakore mazhinji",
+        "Yakamedzwa nehove huru yakadzika",
+        "Akanyura mumvura achitevera Mosesi nevaIsraeri nepakati pegungwa rakapatsanurwa"
+      ],
+      "answer": "Akanyura mumvura achitevera Mosesi nevaIsraeri nepakati pegungwa rakapatsanurwa"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Dumbu rehove huru",
+        "Musikiti Mutsvene muMakkah",
+        "Gungwa rakakamurwa",
+        "Bako reHira",
+        "Bindu rine nzizi dzinoyerera"
+      ],
+      "answer": "Gungwa rakakamurwa"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Akamutswa ari mupenyu kudenga",
+        "Akachinjwa nekuda kwekutyora Sabata",
+        "Akaregererwa uye akapiwa hutongi hurefu hwerunyararo",
+        "Yakamedzwa nenyika nepfuma",
+        "Akanyura mukusatenda uye mutumbi wakachengetedzwa sechiratidzo kune avo vanozotevera"
+      ],
+      "answer": "Akanyura mukusatenda uye mutumbi wakachengetedzwa sechiratidzo kune avo vanozotevera"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

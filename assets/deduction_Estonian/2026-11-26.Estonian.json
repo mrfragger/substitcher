@@ -1,0 +1,61 @@
+{
+  "title": "Aia tõotus koidikul",
+  "intro": "Vaiksetel tundidel enne päikesetõusu sepitseti salaja plaan. Õitsev pärand oli lõikusvalmis, kuid samas tekkis otsus hoida iga vili abivajajate käeulatusest eemal. Hommikuks tundus kõik võõras ja kõigile, kes selle üle järele mõtlesid, söövitati mustaks tõmbunud okstele õppetund.",
+  "clues": [
+    "Me pärisime õitsva aia ja vandusime, et koristame kõik selle viljad ise.",
+    "Me vandusime, et läheme välja vara koidikul, kui vaesed, kes oma osa küsisid, veel magasid.",
+    "Me välistasime oma vandest kõik erandid ja keeldusime abivajajate õigusest, küsimata, kas Allah seda tahab.",
+    "Me läksime välja ja sosistasime omavahel, et me sel päeval ühtegi vaest inimest meie aeda ei lubaks.",
+    "Me kujutasime ette, et oleme täiesti võimelised kõike kokku korjama ja takistama ühelgi korjajal osa saamast.",
+    "Ärkasime ja leidsime, et meie aed oli öösel rikutud, mustaks tõmbunud nagu oleks saak lõigatud, ning ütlesime, et oleme millestki ilma jäetud ja kahetseme."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Kaeviku kaaslased",
+        "Aia kaaslased",
+        "Linna sõnumitoojad suuras Ya-Sinis",
+        "Elevandi rahvas",
+        "Põrgutule hoidjad"
+      ],
+      "answer": "Aia kaaslased"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Lehma ohverdamine mõrvatüli lahendamiseks",
+        "Prohveti kutsumine taevast kive alla tooma",
+        "Koidikul lõikust kavandades, vaestelt nende osa ära võttes",
+        "Sabati rikkumine kalavõrkude paigaldamisega",
+        "Tammi ehitamine kaubanduse üleujutusvee kontrollimiseks"
+      ],
+      "answer": "Koidikul lõikust kavandades, vaestelt nende osa ära võttes"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Tuwa püha org, kus tuld nähti",
+        "Müüriga ümbritsetud viljapuuaed, millest hommikul vilja lõigatakse",
+        "Peegeldatud paleepõrandat aeti ekslikult veeks",
+        "Jumaliku juhise järgi ehitatud puulaev",
+        "Kahe mäe vahele ehitatud raudmüür"
+      ],
+      "answer": "Müüriga ümbritsetud viljapuuaed, millest hommikul vilja lõigatakse"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Meid muudeti ahvideks hingamispäeva üleastumise pärast",
+        "Me magasime koopas kolmsada üheksa aastat",
+        "Maa neelas meid uhkuseks aaretega alla",
+        "Meie aed hävis üleöö ja jäi mustaks nagu öö",
+        "Meid uppus merre usklike tagaajamise ajal"
+      ],
+      "answer": "Meie aed hävis üleöö ja jäi mustaks nagu öö"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

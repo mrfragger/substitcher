@@ -1,0 +1,61 @@
+{
+  "title": "Deklarasi Tenggelam",
+  "intro": "Bayangkan seorang penguasa perkasa yang dikelilingi kemegahan, monumen, dan pasukan yang patuh pada satu perintah. Tokoh ini mengklaim otoritas tertinggi, menganggap tanda-tanda ilahi sebagai ilusi, dan memerintahkan pengejaran tanpa henti menuju laut. Ikuti jejak dari dekrit yang arogan hingga perairan yang terbelah, di mana pengakuan terakhir datang terlambat untuk menyelamatkan.",
+  "clues": [
+    "Aku memegang kekuasaan mutlak dan memperbudak Bani Israel di bawah kekuasaanku.",
+    "Aku menyatakan diriku sebagai penguasa tertinggi dan menolak mengakui dewa mana pun yang lebih tinggi dariku.",
+    "Aku memerintahkan Haman untuk membangunkan aku sebuah menara tinggi agar aku dapat memandang Tuhan Musa.",
+    "Aku menentang Musa dan Harun ketika mereka membawa tanda-tanda yang jelas, dan aku menyebut mukjizat mereka sebagai sihir.",
+    "Aku mengejar Musa dan orang-orang beriman dengan pasukanku di malam hari hingga kami sampai di laut.",
+    "Aku menyatakan imanku saat tenggelam di laut, tetapi sudah terlambat, dan tubuhku diawetkan sebagai tanda."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Namrud",
+        "Jalut (Goliath)",
+        "Abu Jahl",
+        "Firaun (Fir'aun)",
+        "Haman"
+      ],
+      "answer": "Firaun (Fir'aun)"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Dilemparkan ke dalam api yang kemudian menjadi dingin dan aman.",
+        "Membangun bahtera untuk bertahan hidup dari banjir besar.",
+        "Tidur di dalam gua bersama teman-teman selama bertahun-tahun.",
+        "Ditelan oleh ikan besar di kedalaman laut",
+        "Tenggelam saat mengejar Musa dan orang Israel melalui laut yang terbelah."
+      ],
+      "answer": "Tenggelam saat mengejar Musa dan orang Israel melalui laut yang terbelah."
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Perut ikan besar",
+        "Masjid Suci di Makkah",
+        "Laut yang terbelah",
+        "Gua Hira",
+        "Taman dengan sungai yang mengalir"
+      ],
+      "answer": "Laut yang terbelah"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Diangkat hidup-hidup ke surga",
+        "Berubah karena melanggar hari Sabat",
+        "Diampuni dan diberi masa pemerintahan yang panjang dan damai.",
+        "Ditelan bumi bersama harta karun",
+        "Tenggelam dalam ketidakpercayaan dan tubuh diawetkan sebagai tanda bagi mereka yang datang kemudian."
+      ],
+      "answer": "Tenggelam dalam ketidakpercayaan dan tubuh diawetkan sebagai tanda bagi mereka yang datang kemudian."
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

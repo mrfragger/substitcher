@@ -1,0 +1,61 @@
+{
+  "title": "Mizani Iliyokuwa Ikielekea Uharibifu",
+  "intro": "Katika eneo lenye rutuba na ustawi, jamii inayostawi iliruhusu uchoyo kuchafua soko. Ikijulikana kwa ujuzi katika biashara na wingi kutoka kwa bustani zinazoizunguka, kundi hili lilikabiliwa na wito wa haki na imani. Lakini kiburi katika utajiri kilisababisha uasi, na kivuli cheusi kikakusanyika kwenye upeo wa macho.",
+  "clues": [
+    "Tulikuwa jumuiya ya wafanyabiashara iliyofanikiwa tukiishi kati ya bustani na misitu yenye miti.",
+    "Tuliwadanganya watu kwa vipimo na mizani, tukieneza ufisadi katika nchi.",
+    "Tulionywa na mjumbe wetu tumuabudu Mwenyezi Mungu pekee na tutoe kipimo kamili.",
+    "Tulimdhihaki mjumbe wetu na kudai adhabu ije ikiwa alikuwa mkweli.",
+    "Tulikamatwa na adhabu ya Siku ya Kivuli wakati wingu lilipotufunika.",
+    "Ninajulikana kama Masahaba wa Wood, watu ambao Shu'ayb alitumwa kwao."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Watu wa Thamud",
+        "Masahaba wa Wood",
+        "Masahaba wa Handaki",
+        "Watu wa Tembo",
+        "Masahaba wa Pango"
+      ],
+      "answer": "Masahaba wa Wood"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kutoa kipimo kifupi na kumpinga mjumbe wetu",
+        "Kudai kumuona Mwenyezi Mungu moja kwa moja kwenye Mlima Sinai",
+        "Kujenga mnara ili kufikia mbingu",
+        "Kuficha imani kwa siri ndani ya jumba la kifalme",
+        "Kuabudu ndama wa dhahabu bila Musa"
+      ],
+      "answer": "Kutoa kipimo kifupi na kumpinga mjumbe wetu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Bonde takatifu la Tuwa",
+        "Moto uliopoa na salama",
+        "Kichaka chenye miti cha Al-Aykah",
+        "Pango lenye mbwa wa mtu anayelala mlangoni pake",
+        "Jumba la kioo lenye kioo"
+      ],
+      "answer": "Kichaka chenye miti cha Al-Aykah"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Kuzama katika bahari iliyogawanyika",
+        "Kumezwa na hazina duniani",
+        "Alibadilishwa kuwa nyani kwa kuvunja Sabato",
+        "Aliokolewa ndani ya safina juu ya maji ya gharika",
+        "Kuharibiwa na adhabu ya Siku ya Kivuli"
+      ],
+      "answer": "Kuharibiwa na adhabu ya Siku ya Kivuli"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

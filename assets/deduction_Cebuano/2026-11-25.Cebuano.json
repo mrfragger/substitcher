@@ -1,0 +1,61 @@
+{
+  "title": "Ang mga Himbis nga Nagpadulong sa Kagun-oban",
+  "intro": "Sa usa ka lunhaw ug mauswagon nga rehiyon, usa ka mauswagon nga komunidad ang nagtugot sa kahakog nga modaot sa merkado. Nailhan tungod sa kahanas sa pamatigayon ug kadagaya gikan sa palibot nga mga tanaman, kini nga grupo nag-atubang sa usa ka tawag sa patas ug pagtuo. Apan ang garbo sa bahandi misangpot sa pagsukol, ug usa ka mangitngit nga anino ang nagtigom sa kapunawpunawan.",
+  "clues": [
+    "Usa kami ka mauswagon nga komunidad sa pamatigayon nga nagpuyo taliwala sa mga tanaman ug kakahoyan.",
+    "Nanglimbong mi sa mga tawo sa mga sukdanan ug mga gibug-aton, nga nagpakaylap sa kadunot sa yuta.",
+    "Gipahimangnoan kita sa atong mensahero nga simbahon si Allah lamang ug ihatag ang hingpit nga sukod.",
+    "Among gibugalbugalan ang among mensahero ug gipangayo nga ang silot ipahamtang kon siya matinud-anon.",
+    "Gidakop kita sa silot sa Adlaw sa Anino sa dihang usa ka panganod ang mitabon kanato.",
+    "Nailhan ako nga mga Kauban sa Kakahoyan, ang mga tawo nga gipadala kang Shu'ayb."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Ang Katawhan sa Thamud",
+        "Ang mga Kauban sa Kakahoyan",
+        "Ang mga Kauban sa Trench",
+        "Ang mga Tawo sa Elepante",
+        "Ang mga Kauban sa Langob"
+      ],
+      "answer": "Ang mga Kauban sa Kakahoyan"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Pagmubo sa sukod ug pagsupak sa atong mensahero",
+        "Nangayo nga makita direkta si Allah sa Bukid sa Sinai",
+        "Pagtukod og tore aron makaabot sa langit",
+        "Pagtago sa pagtuo sa tago sulod sa palasyo",
+        "Pagsimba sa bulawan nga baka samtang wala si Musa"
+      ],
+      "answer": "Pagmubo sa sukod ug pagsupak sa atong mensahero"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Ang sagrado nga walog sa Tuwa",
+        "Ang kalayo nga gihimong bugnaw ug luwas",
+        "Ang kakahoyan sa Al-Aykah",
+        "Ang langob nga adunay iro sa natulog sa entrada niini",
+        "Ang palasyo nga hinimo sa salamin"
+      ],
+      "answer": "Ang kakahoyan sa Al-Aykah"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Nalumos sa nabahin nga dagat",
+        "Gilubong sa mga bahandi sa yuta",
+        "Nahimong mga unggoy tungod sa paglapas sa Adlawng Igpapahulay",
+        "Naluwas sa arka ibabaw sa baha",
+        "Gilaglag sa silot sa Adlaw sa Anino"
+      ],
+      "answer": "Gilaglag sa silot sa Adlaw sa Anino"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

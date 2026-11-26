@@ -1,0 +1,61 @@
+{
+  "title": "Ar skalfadoù a yae war-zu an distruj",
+  "intro": "En ur rannvro pinvidik ha pinvidik, ur gumuniezh pinvidik a lez ar c'hoant da zistrujañ ar marc'had. Anavezet evit e varregezh war ar c'henwerzh hag evit e fonnder eus al liorzhoù tro-dro, ar strollad-se a oa dirak ur galv d'ar reizhded ha d'ar feiz. Koulskoude, ar vantell war ar pinvidigezh a gasas an enebiezh, hag ur skeud teñval a zastumas war an dremmwel.",
+  "clues": [
+    "Ur gumuniezh kenwerzh pinvidik e oamp o vevañ e-touez liorzhoù ha gwez-koad.",
+    "Touellet hon eus an dud gant ar muzulioù hag ar pouezioù, o skignañ ar breinadurezh er vro.",
+    "Diwallet e oamp bet gant hor c'hannad da azeuliñ Allah hepken ha da reiñ ar muzul leun.",
+    "Goap a reomp eus hor c'hannad ha goulenn a reomp e teufe ar c'hastiz ma vije gwirion.",
+    "Tapet e oamp gant kastiz Deiz ar Skeud pa oa bet goloet ac'hanomp gant ur goumoulenn.",
+    "Anavezet on evel Kompagnuned ar C'hoad, an dud ma oa bet kaset Shu'ayb dezho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Pobl Thamud",
+        "Kompagnuned ar C'hoad",
+        "Kompagnuned ar Foz",
+        "Tud an Olifant",
+        "Kompagnuned ar C'hev"
+      ],
+      "answer": "Kompagnuned ar C'hoad"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Reiñ muzuliadennoù berr ha difenn hor c'hannad",
+        "Goulenn a ra gwelet Allah war-eeun e Menez Sinai",
+        "Sevel un tour evit tizhout an neñvoù",
+        "Kuzhat ar feiz e-kuzh e-barzh ur palez",
+        "Azeuliñ ul leue aour pa ne oa ket Musa"
+      ],
+      "answer": "Reiñ muzuliadennoù berr ha difenn hor c'hannad"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Traoñienn sakr Tuwa",
+        "An tan a oa bet graet fresk ha sur",
+        "Ar vourc'h koadek Al-Aykah",
+        "Ar c'hev gant ur c'hi-kousket ouzh he mont-tre",
+        "Ar palez gwer melezour"
+      ],
+      "answer": "Ar vourc'h koadek Al-Aykah"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Beuzet er mor rannet",
+        "Lonket gant teñzorioù en douar",
+        "Treuzfurmet e marmouzed evit torriñ ar sabad",
+        "Saveteet en un arc'h a-us d'an dour-beuz",
+        "Distrujet gant kastiz Deiz ar Skeud"
+      ],
+      "answer": "Distrujet gant kastiz Deiz ar Skeud"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

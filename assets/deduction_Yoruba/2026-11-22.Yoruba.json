@@ -1,0 +1,61 @@
+{
+  "title": "Ọ̀rúndún Mẹ́sàn-án ti Ìpè",
+  "intro": "Àwòrán kan wà tí ó dúró fúnra rẹ̀ sí ìjì ẹlẹ́yà fún ìgbà pípẹ́ ju bí àwọn ìjọba ṣe ń dìde tí wọ́n sì ń wó lọ, tí wọ́n ń pe ní òru àti ọ̀sán nígbà tí wọ́n ń bo etí àti aṣọ tí wọ́n ń fà mọ́ra. Ọkọ̀ ojú omi kan wà níwájú tí wọ́n kọ́ sórí ilẹ̀ gbígbẹ àti omi tí kò rí irú rẹ̀ rí. Ǹjẹ́ o lè rí sùúrù lẹ́yìn ìpè yìí?",
+  "clues": [
+    "Mo pe awọn eniyan mi ni alẹ ati ọsan, ni ikọkọ ati ni gbangba, lati sin Allah nikan.",
+    "Àwọn ènìyàn mi fi ìka wọn sí etí, wọ́n sì fi aṣọ wé ara wọn láti yípadà kúrò lọ́dọ̀ mi.",
+    "Mo dúró láàrín àwọn ènìyàn mi fún ọgọ́rùn-ún mẹ́sàn-án ó lé àádọ́ta ọdún tí mo ń pè wọ́n sí ìtọ́sọ́nà.",
+    "Mo kan ọkọ̀ ojú omi kan lábẹ́ ojú Allāhu àti ìfihàn rẹ̀ nígbà tí àwọn ènìyàn mi ń fi mí ṣe yẹ̀yẹ́ lórí ilẹ̀ gbígbẹ.",
+    "Wọ́n pàṣẹ fún mi láti gbé oríṣiríṣi méjì àti àwọn onígbàgbọ́ nínú ọkọ̀ nígbà tí àṣẹ bá dé tí ààrò sì kún.",
+    "Mo wo awọn igbi omi n dide bi awọn oke nla bi ikun omi ti n rì awọn ti o kọ̀, nigba ti Allah gba awọn ti o wa ninu ọkọ naa là."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Wòlíì Dhul-Kifl",
+        "Wòlíì Al-Yasa (Eliṣa)",
+        "Wòlíì Nóà (Nóà)",
+        "Wòlíì Lọ́ọ̀tì (Lọ́ọ̀tì)",
+        "Wòlíì Muhammad"
+      ],
+      "answer": "Wòlíì Nóà (Nóà)"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Mo gbèjà ìyá mi nípa sísọ̀rọ̀ nígbà ọmọdé",
+        "Ó túmọ̀ àlá alákòóso nígbà tí ó wà ní ẹ̀wọ̀n",
+        "Mo pe àwọn ènìyàn mi ní òru àti ọ̀sán fún 950 ọdún",
+        "Wọ́n gbé e lọ láàyè, wọ́n sì gbé e sókè sí ipò gíga kan",
+        "Ẹja ńlá kan nínú òkun gbé e mì"
+      ],
+      "answer": "Mo pe àwọn ènìyàn mi ní òru àti ọ̀sán fún 950 ọdún"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ọmọ màlúù wúrà ti aginjù",
+        "Iná náà jẹ́ kí ó tutu tí ó sì ní ààbò",
+        "Ààfin pẹ̀lú ilẹ̀ dígí",
+        "Àpótí (Al-Fulk)",
+        "Ọ̀pá tí ó di ejò"
+      ],
+      "answer": "Àpótí (Al-Fulk)"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "Afẹ́fẹ́ òtútù pa àwọn ènìyàn mi run fún òru méje",
+        "Àwọn tí ó kọ̀ sílẹ̀ rì sínú Ìkún Omi Ńlá, a sì gbà àwọn onígbàgbọ́ là",
+        "Àwọn ènìyàn mi ni a parun nípasẹ̀ ìbúgbàù ńlá ní òwúrọ̀ ọjọ́ kan",
+        "Àwọn ènìyàn mi ni a sọ di ọ̀bọ fún ẹ̀ṣẹ̀",
+        "Ilẹ̀ gbé àwọn ènìyàn mi mì nítorí ìgbéraga"
+      ],
+      "answer": "Àwọn tí ó kọ̀ sílẹ̀ rì sínú Ìkún Omi Ńlá, a sì gbà àwọn onígbàgbọ́ là"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Shamol esgan qumtepalarning baland ustunlari",
+  "intro": "Tasavvur qiling-a, ulkan kuch va qurilishda mislsiz mahoratga ega bo'lgan gullab-yashnayotgan tsivilizatsiya. Keng, egri-bugri tepaliklar orasida joylashgan bu jamoa ufqqa tegib turgan ulkan yodgorliklarni qurdi. Shunga qaramay, mag'rurlik ildiz otdi va faqat Allohga ibodat qilishga qaytishga chaqiriq qarshilik bilan qarshi olindi. Undan keyin shamolning o'zida ogohlantirish bo'lib qolmoqda.",
+  "clues": [
+    "Biz Nuh qavmidan keyin kelgan, ulug'vor va qudratli bir xalq edik.",
+    "Biz har bir baland joyda shunchaki o'yin-kulgi va mag'rurlik uchun baland minoralar va yodgorliklar qurdik.",
+    "Biz maqtanib, kim bizdan kuchliroq, deb aytdik va shafqatsiz zolimlik qildik.",
+    "Biz payg'ambarimiz Hud bizni yolg'iz Allohga ibodat qilishga chaqirganida, uni zaif va yolg'onchi deb atab, uni rad etdik.",
+    "Biz ogohlantirishni masxara qildik va agar rostgo'y bo'lsa, bizga tahdid qilgan jazosini keltirishini so'radik.",
+    "Biz yetti kechayu sakkiz kun davomida shiddatli, bepusht shamol tomonidan vayron qilindik, palma daraxtlarining ichi bo'sh tanalari kabi yiqilib tushdik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Od qavmi",
+        "Banu Nodir",
+        "Lut qavmi",
+        "Madyan xalqi",
+        "Samud qavmi"
+      ],
+      "answer": "Od qavmi"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Payg'ambar Hudni rad etdi va ustun kuch bilan maqtandi",
+        "Yusuf payg'ambarni rashk tufayli o'ldirish uchun fitna uyushtirildi",
+        "Nuh kema qurayotganida uni masxara qildi",
+        "Belgi sifatida urg'ochi tuyani talab qildi va keyin uning sonlarini kesib tashladi",
+        "Muso yo'qligida oltin buzoqqa sig'inishdi"
+      ],
+      "answer": "Payg'ambar Hudni rad etdi va ustun kuch bilan maqtandi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Al-Ahqaf - shamol ta'sirida egilgan qum tepaliklari",
+        "Samud qabilasining toshga o'yilgan qudug'i",
+        "Tavrot qabul qilingan Sinay tog'i",
+        "Fir'avn shohligining Nil daryosi",
+        "Tuvaning muqaddas vodiysi"
+      ],
+      "answer": "Al-Ahqaf - shamol ta'sirida egilgan qum tepaliklari"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Yer yuzini qoplagan buyuk to'fonda cho'kib ketdi",
+        "Takabburlik tufayli Qorun bilan birga yerga yutildi.",
+        "Pishgan loydan yasalgan toshlar bilan yog'dirildi",
+        "Ularning uylarida kuchli zilzila ularni vayron qildi",
+        "Yetti kecha va sakkiz kun davomida kuchli sovuq shamol tomonidan vayron qilingan"
+      ],
+      "answer": "Yetti kecha va sakkiz kun davomida kuchli sovuq shamol tomonidan vayron qilingan"
+    }
+  },
+  "verseRef": "46:22",
+  "arabic": "قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "They said, \"Have you come to delude us away from our gods? Then bring us what you promise us, if you should be of the truthful.\" (46:22)"
+}

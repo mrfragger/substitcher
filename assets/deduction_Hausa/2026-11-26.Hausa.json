@@ -1,0 +1,61 @@
+{
+  "title": "Lambun da aka yi wa Alƙawari a Alfijir",
+  "intro": "A cikin shiru kafin fitowar rana, an yi wani shiri a ɓoye. Gado mai albarka ya shirya don girbi, amma an ƙudura aniyar nisantar da kowace 'ya'yan itace daga waɗanda ke cikin buƙata. Da safe, komai zai yi kama da wanda ba a saba gani ba, kuma za a saka darasi a cikin rassan da suka yi baƙi ga duk wanda ya yi tunani.",
+  "clues": [
+    "Mun gaji wani lambu mai bunƙasa kuma muka yi alƙawarin girbin dukkan 'ya'yan itacen da ke cikinsa don kanmu.",
+    "Mun yi rantsuwar fita da sassafe yayin da talakawan da suka nemi rabonsu har yanzu suna barci.",
+    "Mun cire duk wani keɓancewa daga rantsuwarmu kuma muka hana wa mabukata haƙƙinsu ba tare da mun ce idan Allah Ya so ba.",
+    "Mun fita muna raɗa wa junanmu don kada wani talaka ya shiga gonarmu a wannan rana.",
+    "Mun yi tunanin kanmu muna da cikakken ikon tattara komai da kuma hana duk wani mai girbi ya ɗauki rabo.",
+    "Mun farka muka ga lambunmu ya lalace da daddare, an yi baƙi kamar an girbe shi, muka ce an hana mu kuma mun tuba."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Sahabban Madatsar Ruwa",
+        "Abokan Aljanna",
+        "Manzannin Gari a cikin Suratul Ya-Sin",
+        "Mutanen Giwa",
+        "Masu Tsaron Wutar Jahannama"
+      ],
+      "answer": "Abokan Aljanna"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Yin hadaya da saniya don warware takaddamar kisan kai",
+        "Kalubalantar annabi ya sauko da duwatsu daga sama",
+        "Shirya girbi da asuba yayin da ake hana talakawa rabonsu",
+        "Karya Asabar ta hanyar kafa ragar kamun kifi",
+        "Gina madatsar ruwa don shawo kan ambaliyar ruwa don kasuwanci"
+      ],
+      "answer": "Shirya girbi da asuba yayin da ake hana talakawa rabonsu"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Kwarin Tuwa mai tsarki inda aka ga wuta",
+        "Za a girbe gonar lambu mai shinge da safe",
+        "An yi kuskuren ɗaukar benen fadar mai madubi a matsayin ruwa",
+        "Jirgin katako da aka gina a ƙarƙashin umarnin Allah",
+        "Katangar ƙarfe da aka gina tsakanin tsaunuka biyu"
+      ],
+      "answer": "Za a girbe gonar lambu mai shinge da safe"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An mayar da mu birrai saboda keta dokar Asabar",
+        "Mun yi kwana a cikin kogo tsawon shekaru ɗari uku da tara",
+        "Duniya ta haɗiye mu da taskoki don girman kai",
+        "An lalata lambunmu cikin dare ɗaya kuma an bar shi baƙi kamar dare",
+        "An nutsar da mu cikin teku yayin da muke bin muminai"
+      ],
+      "answer": "An lalata lambunmu cikin dare ɗaya kuma an bar shi baƙi kamar dare"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

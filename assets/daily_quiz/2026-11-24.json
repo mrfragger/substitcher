@@ -1,0 +1,676 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَلْفَاظُ الزَّمَنِ",
+        "nameEn": "Periods and moments of time",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "اللَّيْلَ",
+            "en": "the night",
+            "ref": "28:73",
+            "verse": "وَمِن رَّحْمَتِهِۦ جَعَلَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ لِتَسْكُنُوا۟ فِيهِ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+            "verseEn": "And out of His mercy He made for you the night and the day that you may rest therein and [by day] seek from His bounty and [that] perhaps you will be grateful."
+          },
+          {
+            "ar": "يَوْمَ",
+            "en": "And (the) Day",
+            "ref": "25:17",
+            "verse": "وَيَوْمَ يَحْشُرُهُمْ وَمَا يَعْبُدُونَ مِن دُونِ ٱللَّهِ فَيَقُولُ ءَأَنتُمْ أَضْلَلْتُمْ عِبَادِى هَـٰٓؤُلَآءِ أَمْ هُمْ ضَلُّوا۟ ٱلسَّبِيلَ",
+            "verseEn": "And [mention] the Day He will gather them and that which they worship besides Allāh and will say, \"Did you mislead these, My servants, or did they [themselves] stray from the way?\""
+          },
+          {
+            "ar": "أَجَلٍ",
+            "en": "and (for) a term",
+            "ref": "46:3",
+            "verse": "مَا خَلَقْنَا ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَآ إِلَّا بِٱلْحَقِّ وَأَجَلٍۢ مُّسَمًّۭى ۚ وَٱلَّذِينَ كَفَرُوا۟ عَمَّآ أُنذِرُوا۟ مُعْرِضُونَ",
+            "verseEn": "We did not create the heavens and earth and what is between them except in truth and [for] a specified term. But those who disbelieve, from that of which they are warned, are turning away."
+          },
+          {
+            "ar": "حِينَ",
+            "en": "when",
+            "ref": "39:58",
+            "verse": "أَوْ تَقُولَ حِينَ تَرَى ٱلْعَذَابَ لَوْ أَنَّ لِى كَرَّةًۭ فَأَكُونَ مِنَ ٱلْمُحْسِنِينَ",
+            "verseEn": "Or [lest] it say when it sees the punishment, \"If only I had another turn so I could be among the doers of good.\""
+          }
+        ]
+      },
+      {
+        "name": "أَفْعَالُ الْحَرَكَةِ وَالْإِرْسَالِ",
+        "nameEn": "Verbs of motion and sending",
+        "color": "green",
+        "items": [
+          {
+            "ar": "جَآءَتْ",
+            "en": "came",
+            "ref": "29:31",
+            "verse": "وَلَمَّا جَآءَتْ رُسُلُنَآ إِبْرَٰهِيمَ بِٱلْبُشْرَىٰ قَالُوٓا۟ إِنَّا مُهْلِكُوٓا۟ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ ۖ إِنَّ أَهْلَهَا كَانُوا۟ ظَـٰلِمِينَ",
+            "verseEn": "And when Our messengers [i.e., angels] came to Abraham with the good tidings, they said, \"Indeed, we will destroy the people of that [i.e., Lot's] city. Indeed, its people have been wrongdoers.\""
+          },
+          {
+            "ar": "أُرْسِلْنَآ",
+            "en": "[we] have been sent",
+            "ref": "15:58",
+            "verse": "قَالُوٓا۟ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمٍۢ مُّجْرِمِينَ",
+            "verseEn": "They said, \"Indeed, we have been sent to a people of criminals,"
+          },
+          {
+            "ar": "يَسِيرُوا۟",
+            "en": "travel",
+            "ref": "40:82",
+            "verse": "أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ كَانُوٓا۟ أَكْثَرَ مِنْهُمْ وَأَشَدَّ قُوَّةًۭ وَءَاثَارًۭا فِى ٱلْأَرْضِ فَمَآ أَغْنَىٰ عَنْهُم مَّا كَانُوا۟ يَكْسِبُونَ",
+            "verseEn": "Have they not traveled through the land and observed how was the end of those before them? They were more numerous than themselves and greater in strength and in impression on the land, but they were not availed by what they used to earn."
+          },
+          {
+            "ar": "فَخَرَجَ",
+            "en": "So he went forth",
+            "ref": "28:79",
+            "verse": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+            "verseEn": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\""
+          }
+        ]
+      },
+      {
+        "name": "أَفْعَلُ التَّفْضِيلِ",
+        "nameEn": "Elative adjectives of superiority and inferiority (most, best, highest, worst)",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "أَشَدُّ",
+            "en": "(are) stronger",
+            "ref": "9:97",
+            "verse": "ٱلْأَعْرَابُ أَشَدُّ كُفْرًۭا وَنِفَاقًۭا وَأَجْدَرُ أَلَّا يَعْلَمُوا۟ حُدُودَ مَآ أَنزَلَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌۭ",
+            "verseEn": "The bedouins are stronger in disbelief and hypocrisy and more likely not to know the limits of what [laws] Allāh has revealed to His Messenger. And Allāh is Knowing and Wise."
+          },
+          {
+            "ar": "خَيْرٌ",
+            "en": "(is) best",
+            "ref": "23:72",
+            "verse": "أَمْ تَسْـَٔلُهُمْ خَرْجًۭا فَخَرَاجُ رَبِّكَ خَيْرٌۭ ۖ وَهُوَ خَيْرُ ٱلرَّٰزِقِينَ",
+            "verseEn": "Or do you, [O Muḥammad], ask them for payment? But the reward of your Lord is best, and He is the best of providers."
+          },
+          {
+            "ar": "الْأَعْلَىٰ",
+            "en": "the Highest",
+            "ref": "16:60",
+            "verse": "لِلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ مَثَلُ ٱلسَّوْءِ ۖ وَلِلَّهِ ٱلْمَثَلُ ٱلْأَعْلَىٰ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+            "verseEn": "For those who do not believe in the Hereafter is the description [i.e., an attribute] of evil; and for Allāh is the highest attribute. And He is Exalted in Might, the Wise."
+          },
+          {
+            "ar": "شَرَّ",
+            "en": "worst",
+            "ref": "8:55",
+            "verse": "إِنَّ شَرَّ ٱلدَّوَآبِّ عِندَ ٱللَّهِ ٱلَّذِينَ كَفَرُوا۟ فَهُمْ لَا يُؤْمِنُونَ",
+            "verseEn": "Indeed, the worst of living creatures in the sight of Allāh are those who have disbelieved, and they will not [ever] believe-"
+          }
+        ]
+      },
+      {
+        "name": "أَسْمَاءُ سُوَرٍ فِي الْقُرْآن",
+        "nameEn": "Names of Surahs in the Qur'an",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "نُوحٍ",
+            "en": "(of) Nuh",
+            "ref": "7:69",
+            "verse": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌۭ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍۢ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍۢ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةًۭ ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ",
+            "verseEn": "Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allāh that you might succeed.\""
+          },
+          {
+            "ar": "النَّاسَ",
+            "en": "the mankind",
+            "ref": "11:118",
+            "verse": "وَلَوْ شَآءَ رَبُّكَ لَجَعَلَ ٱلنَّاسَ أُمَّةًۭ وَٰحِدَةًۭ ۖ وَلَا يَزَالُونَ مُخْتَلِفِينَ",
+            "verseEn": "And if your Lord had willed, He could have made mankind one community; but they will not cease to differ,"
+          },
+          {
+            "ar": "مُلْكُ",
+            "en": "(is the) dominion",
+            "ref": "3:189",
+            "verse": "وَلِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ",
+            "verseEn": "And to Allāh belongs the dominion of the heavens and the earth, and Allāh is over all things competent."
+          },
+          {
+            "ar": "إِبْرَاهِيمَ",
+            "en": "Ibrahim",
+            "ref": "38:45",
+            "verse": "وَٱذْكُرْ عِبَـٰدَنَآ إِبْرَٰهِيمَ وَإِسْحَـٰقَ وَيَعْقُوبَ أُو۟لِى ٱلْأَيْدِى وَٱلْأَبْصَـٰرِ",
+            "verseEn": "And remember Our servants, Abraham, Isaac and Jacob - those of strength and [religious] vision."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "انسان",
+    "display": "إِنسَانَ",
+    "hint": "The clay-created being taught clear expression by the Most Merciful",
+    "verseRef": "55:3",
+    "arabicVerse": "خَلَقَ ٱلْإِنسَـٰنَ",
+    "verse": "55:3 - Created man,"
+  },
+  "scramble": {
+    "verseRef": "58:21",
+    "reference": "Al-Mujadila (58:21)",
+    "segments": [
+      "كتب الله",
+      "لأغلبن أنا",
+      "ورسلي",
+      "إن الله",
+      "قوي عزيز"
+    ],
+    "translations": [
+      "Allah has decreed Allah has decreed",
+      "Surely, I will overcome I",
+      "and My Messengers Indeed",
+      "Allah (is) All-Strong",
+      "All-Mighty"
+    ],
+    "hint": "Allah's decreed promise of victory for Himself and His messengers",
+    "arabic": "كَتَبَ ٱللَّهُ لَأَغْلِبَنَّ أَنَا۠ وَرُسُلِىٓ ۚ إِنَّ ٱللَّهَ قَوِىٌّ عَزِيزٌۭ",
+    "words": [
+      "كَتَبَ ٱللَّهُ",
+      "لَأَغْلِبَنَّ أَنَا۠",
+      "وَرُسُلِىٓ ۚ إِنَّ",
+      "ٱللَّهَ قَوِىٌّ",
+      "عَزِيزٌۭ"
+    ],
+    "verseEn": "Allāh has written [i.e., decreed], \"I will surely overcome, I and My messengers.\" Indeed, Allāh is Powerful and Exalted in Might."
+  },
+  "roothive": {
+    "center": "ق",
+    "outer": [
+      "ي",
+      "ب",
+      "م",
+      "ا",
+      "ه",
+      "ع"
+    ],
+    "root": {
+      "letters": "عقب",
+      "display": "ع ق ب",
+      "translit": "ʿ-q-b",
+      "meaning": "The core idea is what comes after something. Endings, results, penalties and turning back on your heels all grow from following after an action.",
+      "occurrences": 80,
+      "lemmaCount": 11
+    },
+    "words": [
+      {
+        "w": "بقي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "بَقِيَ",
+            "gloss": "spared",
+            "type": "verb",
+            "root": "بقي",
+            "count": 3,
+            "ref": "2:278",
+            "pos": 8,
+            "alt": [
+              "remained"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "عقب",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "عَقِب",
+            "gloss": "descendents",
+            "type": "noun",
+            "root": "عقب",
+            "count": 8,
+            "ref": "2:143",
+            "pos": 27,
+            "alt": [
+              "heels"
+            ]
+          },
+          {
+            "lemma": "عُقْب",
+            "gloss": "final end",
+            "type": "noun",
+            "root": "عقب",
+            "count": 1,
+            "ref": "18:44",
+            "pos": 9
+          }
+        ]
+      },
+      {
+        "w": "قام",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "قامَ",
+            "gloss": "stand",
+            "type": "verb",
+            "root": "قوم",
+            "count": 33,
+            "ref": "2:275",
+            "pos": 8,
+            "alt": [
+              "established",
+              "stands"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "قيم",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "قَيِّم",
+            "gloss": "straight",
+            "type": "adjective",
+            "root": "قوم",
+            "count": 5,
+            "ref": "18:2",
+            "pos": 1
+          }
+        ]
+      },
+      {
+        "w": "ابقي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَبْقَى",
+            "gloss": "everlasting",
+            "type": "noun",
+            "root": "بقي",
+            "count": 7,
+            "ref": "20:71",
+            "pos": 26,
+            "alt": [
+              "more lasting",
+              "ever lasting"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اعقب",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "أَعْقَبَ",
+            "gloss": "penalized",
+            "type": "verb",
+            "root": "عقب",
+            "count": 1,
+            "ref": "9:77",
+            "pos": 1,
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "اقام",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَقامَ",
+            "gloss": "establish",
+            "type": "verb",
+            "root": "قوم",
+            "count": 54,
+            "ref": "10:105",
+            "pos": 2,
+            "alt": [
+              "direct",
+              "assign"
+            ],
+            "form": 4
+          },
+          {
+            "lemma": "إِقام",
+            "gloss": "establishment",
+            "type": "verbal noun",
+            "root": "قوم",
+            "count": 2,
+            "ref": "21:73",
+            "pos": 9,
+            "alt": [
+              "establishing"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "باقي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "باقي",
+            "gloss": "survivors",
+            "type": "active participle",
+            "root": "بقي",
+            "count": 2,
+            "ref": "26:120",
+            "pos": 4,
+            "alt": [
+              "remaining ones"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "عاقب",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "عاقَبَ",
+            "gloss": "has retaliated",
+            "type": "verb",
+            "root": "عقب",
+            "count": 6,
+            "ref": "22:60",
+            "pos": 3,
+            "alt": [
+              "was made to suffer"
+            ],
+            "form": 3
+          }
+        ]
+      },
+      {
+        "w": "عقاب",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "عِقاب",
+            "gloss": "penalty",
+            "type": "noun",
+            "root": "عقب",
+            "count": 20,
+            "ref": "41:43",
+            "pos": 16
+          }
+        ]
+      },
+      {
+        "w": "عقبه",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "عَقَبَة",
+            "gloss": "steep path",
+            "type": "noun",
+            "root": "عقب",
+            "count": 2,
+            "ref": "90:11",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "عقبي",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "عُقْبَى",
+            "gloss": "final attainment",
+            "type": "noun",
+            "root": "عقب",
+            "count": 6,
+            "ref": "13:22",
+            "pos": 18,
+            "alt": [
+              "end",
+              "final"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "عقيم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "عَقِيم",
+            "gloss": "barren",
+            "type": "adjective",
+            "root": "عقم",
+            "count": 4,
+            "ref": "22:55",
+            "pos": 16
+          }
+        ]
+      },
+      {
+        "w": "قايم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "قائِم",
+            "gloss": "means of support",
+            "type": "active participle",
+            "root": "قوم",
+            "count": 17,
+            "ref": "3:18",
+            "pos": 11,
+            "alt": [
+              "standing",
+              "establishment"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "قيمه",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "قَيِّمَة",
+            "gloss": "correct",
+            "type": "adjective",
+            "root": "قوم",
+            "count": 2,
+            "ref": "98:3",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "معقب",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "مُعَقِّب",
+            "gloss": "adjuster",
+            "type": "active participle",
+            "root": "عقب",
+            "count": 1,
+            "ref": "13:41",
+            "pos": 12
+          }
+        ]
+      },
+      {
+        "w": "مقام",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَقام",
+            "gloss": "position",
+            "type": "noun",
+            "root": "قوم",
+            "count": 14,
+            "ref": "2:125",
+            "pos": 9,
+            "alt": [
+              "standing place",
+              "standing"
+            ]
+          },
+          {
+            "lemma": "مُقام",
+            "gloss": "stand",
+            "type": "passive participle",
+            "root": "قوم",
+            "count": 3,
+            "ref": "33:13",
+            "pos": 8
+          }
+        ]
+      },
+      {
+        "w": "مقيم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مُقِيم",
+            "gloss": "enduring",
+            "type": "active participle",
+            "root": "قوم",
+            "count": 10,
+            "ref": "5:37",
+            "pos": 12,
+            "alt": [
+              "lasting",
+              "establisher"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "باقيه",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "باقِيَة",
+            "gloss": "lasting",
+            "type": "active participle",
+            "root": "بقي",
+            "count": 4,
+            "ref": "43:28",
+            "pos": 3,
+            "alt": [
+              "remains"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "عاقبه",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "عاقِبَة",
+            "gloss": "end",
+            "type": "noun",
+            "root": "عقب",
+            "count": 32,
+            "ref": "3:137",
+            "pos": 12,
+            "alt": [
+              "good end in the hereafter"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "قايمه",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "قائِمَة",
+            "gloss": "occur",
+            "type": "active participle",
+            "root": "قوم",
+            "count": 5,
+            "ref": "3:113",
+            "pos": 7,
+            "alt": [
+              "standing",
+              "established"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "قيامه",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "قِيامَة",
+            "gloss": "resurrection",
+            "type": "noun",
+            "root": "قوم",
+            "count": 70,
+            "ref": "2:85",
+            "pos": 40,
+            "alt": [
+              "judgment"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "معقبه",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "مُعَقِّبَة",
+            "gloss": "successive",
+            "type": "active participle",
+            "root": "عقب",
+            "count": 1,
+            "ref": "13:11",
+            "pos": 2
+          }
+        ]
+      }
+    ],
+    "otherFamily": [
+      {
+        "lemma": "يُعَقِّبْ",
+        "gloss": "look back",
+        "type": "verb",
+        "root": "عقب",
+        "count": 2,
+        "ref": "27:10",
+        "pos": 11,
+        "alt": [
+          "return"
+        ],
+        "form": 2
+      }
+    ],
+    "maxScore": 65,
+    "featuredRoot": "عقب"
+  }
+}

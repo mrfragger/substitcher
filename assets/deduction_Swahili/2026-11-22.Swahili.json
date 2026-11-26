@@ -1,0 +1,61 @@
+{
+  "title": "Karne Tisa za Wito",
+  "intro": "Hebu fikiria umesimama peke yako dhidi ya wimbi la kejeli kwa muda mrefu zaidi ya falme zinazoinuka na kuanguka, ukiita usiku na mchana huku masikio yakiwa yamefunikwa na mavazi yakivutwa vizuri. Mbele kuna chombo kilichojengwa juu ya nchi kavu na maji ambacho hakijawahi kuonekana hapo awali. Je, unaweza kuhisi uvumilivu nyuma ya mwaliko huu wa mbio ndefu?",
+  "clues": [
+    "Niliwaalika watu wangu usiku na mchana, kwa siri na waziwazi, kumwabudu Mwenyezi Mungu pekee.",
+    "Watu wangu hujitia vidole masikioni na kujifunika nguo ili wanigeukie.",
+    "Nilibaki miongoni mwa watu wangu kwa miaka mia tisa na hamsini nikiwaita kwenye mwongozo.",
+    "Nilijenga chombo chini ya macho ya Mwenyezi Mungu na ufunuo wake huku watu wangu wakinidhihaki juu ya nchi kavu.",
+    "Niliamriwa kubeba jozi za kila aina ndani ya meli na waumini amri ilipofika na tanuri ikafurika.",
+    "Nilitazama mawimbi yakiinuka kama milima huku mafuriko yakiwazamisha wale waliokataa, huku Mwenyezi Mungu akiwaokoa wale waliokuwa ndani ya Safina."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Dhul-Kifl",
+        "Nabii Al-Yasa (Elisha)",
+        "Nabii Nuh (Nuhu)",
+        "Nabii Lut (Lutu)",
+        "Mtume Muhammad"
+      ],
+      "answer": "Nabii Nuh (Nuhu)"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Nilimtetea mama yangu kwa kuzungumza nikiwa mchanga",
+        "Alitafsiri ndoto ya mtawala akiwa gerezani",
+        "Niliwaita watu wangu usiku na mchana kwa miaka 950",
+        "Alichukuliwa akiwa hai na kuinuliwa hadi kwenye daraja la juu",
+        "Alimezwa na samaki mkubwa baharini"
+      ],
+      "answer": "Niliwaita watu wangu usiku na mchana kwa miaka 950"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Ndama wa dhahabu wa jangwani",
+        "Moto ulipunguza baridi na salama",
+        "Jumba lenye sakafu ya kioo",
+        "Safina (Al-Fulk)",
+        "Fimbo iliyogeuka kuwa nyoka"
+      ],
+      "answer": "Safina (Al-Fulk)"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Watu wangu waliangamizwa na upepo mkali kwa usiku saba",
+        "Waliokataa walizama katika Gharika Kuu na waumini wakaokolewa",
+        "Watu wangu waliangamizwa na mlipuko mkubwa asubuhi moja",
+        "Watu wangu waligeuzwa kuwa nyani kwa ajili ya makosa",
+        "Watu wangu walimezwa na dunia kwa kiburi"
+      ],
+      "answer": "Waliokataa walizama katika Gharika Kuu na waumini wakaokolewa"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

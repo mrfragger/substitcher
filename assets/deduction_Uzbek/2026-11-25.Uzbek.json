@@ -1,0 +1,61 @@
+{
+  "title": "Vayronagarchilikka tomon burilgan tarozilar",
+  "intro": "Gullab-yashnayotgan va farovon hududda gullab-yashnayotgan jamoa ochko'zlik bozorni buzib qo'yishiga yo'l qo'ydi. Savdoda mahorat va atrofdagi bog'lardan mo'l-ko'lchilik bilan mashhur bo'lgan bu guruh adolat va imonga chaqiruvga duch keldi. Shunga qaramay, boylikdan mag'rurlik itoatsizlikka olib keldi va ufqda qorong'u soya to'plandi.",
+  "clues": [
+    "Biz bog'lar va o'rmonzorlar orasida yashab, farovon savdo jamoasi edik.",
+    "Biz odamlarni o'lchov va tarozida aldab, yer yuzida buzg'unchilik qildik.",
+    "Bizni Payg'ambarimiz yolg'iz Allohga ibodat qilish va o'lchovni to'liq bajarish haqida ogohlantirgan edi.",
+    "Biz elchimizdan masxara qildik va agar u rostgo'y bo'lsa, azob kelishini talab qildik.",
+    "Bizni soyabon qoplagan paytda, Soya kunining azobi bizni ushladi.",
+    "Men Shuayb payg'ambar yuborilgan qavm bo'lgan o'rmon ahli sifatida tanilganman."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Samud qavmi",
+        "O'rmon egalari",
+        "Xandaqdagi sahobalar",
+        "Fil xalqi",
+        "G'or egalari"
+      ],
+      "answer": "O'rmon egalari"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "O'lchovni qisqartirish va Payg'ambarimizga qarshi chiqish",
+        "Sinay tog'ida Allohni to'g'ridan-to'g'ri ko'rishni talab qilish",
+        "Osmonga yetib borish uchun minora qurish",
+        "Imonni saroy ichida yashirincha yashirish",
+        "Muso yo'qligida oltin buzoqqa sig'inish"
+      ],
+      "answer": "O'lchovni qisqartirish va Payg'ambarimizga qarshi chiqish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Tuvaning muqaddas vodiysi",
+        "Salqin va xavfsiz qilingan olov",
+        "Al-Aykah o'rmonzori",
+        "Kirish qismida uxlab yotgan iti bo'lgan g'or",
+        "Oynali shisha saroy"
+      ],
+      "answer": "Al-Aykah o'rmonzori"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Ikkiga bo'lingan dengizda cho'kib ketdi",
+        "Xazinalar bilan yerga singib ketgan",
+        "Shabbat kunini buzgani uchun maymunga aylantirildi",
+        "To'fon suvlari ustidagi kemada qutqarildi",
+        "Soya kunining azobi bilan vayron qilingan"
+      ],
+      "answer": "Soya kunining azobi bilan vayron qilingan"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

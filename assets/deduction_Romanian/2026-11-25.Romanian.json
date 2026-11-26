@@ -1,0 +1,61 @@
+{
+  "title": "Balanța care a înclinat spre ruină",
+  "intro": "Într-o regiune luxuriantă și prosperă, o comunitate înfloritoare a lăsat lăcomia să corupă piața. Cunoscut pentru priceperea în comerț și abundența din grădinile din jur, acest grup s-a confruntat cu o chemare la corectitudine și credință. Totuși, mândria față de bogăție a dus la sfidare, iar o umbră întunecată s-a adunat la orizont.",
+  "clues": [
+    "Eram o comunitate comercială prosperă, care trăia printre grădini și crânguri împădurite.",
+    "I-am înșelat pe oameni în ceea ce privește măsurile și greutățile, răspândind corupția în țară.",
+    "Am fost avertizați de mesagerul nostru să-L adorăm numai pe Allah și să dăm măsură deplină.",
+    "L-am batjocorit pe mesagerul nostru și am cerut pedeapsa care va veni dacă va fi sincer.",
+    "Am fost cuprinși de pedeapsa Zilei Umbrei când un nor ne-a umbrit.",
+    "Sunt cunoscut drept Companionii Pădurii, oamenii cărora le-a fost trimis Shu'ayb."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Oamenii din Thamud",
+        "Companionii Pădurii",
+        "Companionii tranșeei",
+        "Oamenii elefantului",
+        "Companionii Peșterii"
+      ],
+      "answer": "Companionii Pădurii"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Dând o măsură scurtă și sfidându-l pe mesagerul nostru",
+        "Cerând să-l vadă pe Allah direct pe Muntele Sinai",
+        "Construirea unui turn pentru a ajunge la ceruri",
+        "Ascunzând credința în secret într-un palat",
+        "Venerarea unui vițel de aur în absența lui Musa"
+      ],
+      "answer": "Dând o măsură scurtă și sfidându-l pe mesagerul nostru"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Valea sacră a orașului Tuwa",
+        "Focul care a fost răcorit și sigur",
+        "Dumbrava împădurită a lui Al-Aykah",
+        "Peștera cu câinele unui adormit la intrare",
+        "Palatul de sticlă cu oglinzi"
+      ],
+      "answer": "Dumbrava împădurită a lui Al-Aykah"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Înecat în marea divizată",
+        "Înghițit cu comori în pământ",
+        "Transformați în maimuțe pentru încălcarea Sabatului",
+        "Salvat într-o arcă deasupra apelor potopului",
+        "Distrus de pedeapsa Zilei Umbrei"
+      ],
+      "answer": "Distrus de pedeapsa Zilei Umbrei"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

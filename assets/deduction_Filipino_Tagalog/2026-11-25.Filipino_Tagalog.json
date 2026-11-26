@@ -1,0 +1,61 @@
+{
+  "title": "Ang mga Timbangan na Patungo sa Pagkawasak",
+  "intro": "Sa isang luntian at maunlad na rehiyon, hinayaan ng isang maunlad na komunidad na sirain ng kasakiman ang pamilihan. Kilala sa kasanayan sa kalakalan at kasaganaan mula sa mga nakapalibot na hardin, ang grupong ito ay naharap sa isang panawagan para sa pagiging patas at pananampalataya. Ngunit ang pagmamalaki sa kayamanan ay humantong sa pagsuway, at isang madilim na anino ang natipon sa abot-tanaw.",
+  "clues": [
+    "Kami ay isang maunlad na komunidad ng mga mangangalakal na naninirahan sa gitna ng mga hardin at kakahuyan.",
+    "Dinaya namin ang mga tao sa mga panukat at panimbang, at nagkakalat kami ng katiwalian sa lupain.",
+    "Binalaan tayo ng ating sugo na sambahin lamang si Allah at magbigay ng buong sukat.",
+    "Kinukutya namin ang aming mensahero at hiniling na maparusahan siya kung siya ay nagsasabi ng totoo.",
+    "Dinatnan tayo ng kaparusahan ng Araw ng Anino nang lilimin tayo ng ulap.",
+    "Kilala ako bilang mga Kasamahan ng Kagubatan, ang mga taong pinadalhan kay Shu'ayb."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Ang mga Tao ng Thamud",
+        "Ang mga Kasamahan ng Kagubatan",
+        "Ang mga Kasama ng Trench",
+        "Ang mga Tao ng Elepante",
+        "Ang mga Kasama ng Yungib"
+      ],
+      "answer": "Ang mga Kasamahan ng Kagubatan"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Pagbibigay ng maikling sukat at pagsuway sa ating mensahero",
+        "Paghingi na makita nang direkta si Allah sa Bundok Sinai",
+        "Paggawa ng tore upang maabot ang langit",
+        "Lihim na itinatago ang pananampalataya sa loob ng palasyo",
+        "Pagsamba sa ginintuang guya habang wala si Musa"
+      ],
+      "answer": "Pagbibigay ng maikling sukat at pagsuway sa ating mensahero"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang sagradong lambak ng Tuwa",
+        "Ang apoy na ginawang malamig at ligtas",
+        "Ang kakahuyan ng Al-Aykah",
+        "Ang kuweba na may asong natutulog sa pasukan nito",
+        "Ang palasyong salamin"
+      ],
+      "answer": "Ang kakahuyan ng Al-Aykah"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Nalunod sa nahahating dagat",
+        "Nilamon ng kayamanan sa lupa",
+        "Naging mga unggoy dahil sa paglabag sa Sabbath",
+        "Iniligtas sa isang arka sa ibabaw ng tubig-baha",
+        "Nawasak ng parusa ng Araw ng Anino"
+      ],
+      "answer": "Nawasak ng parusa ng Araw ng Anino"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Der Garten, der im Morgengrauen gelobt wurde",
+  "intro": "In den stillen Stunden vor Sonnenaufgang wurde im Geheimen ein Plan geschmiedet. Ein üppiges Erbe stand zur Ernte bereit, doch der Entschluss, die Früchte den Bedürftigen vorzuenthalten. Am Morgen würde alles fremd erscheinen, und eine Lehre würde sich in die geschwärzten Zweige einprägen für alle, die darüber nachdenken.",
+  "clues": [
+    "Wir erbten einen blühenden Garten und schworen uns, alle seine Früchte selbst zu ernten.",
+    "Wir schworen, früh im Morgengrauen hinauszugehen, während die Armen, die um ihren Anteil baten, noch schliefen.",
+    "Wir haben jegliche Ausnahme von unserem Eid ausgeschlossen und den Bedürftigen ihr Recht vorenthalten, ohne zu sagen, ob Allah es will.",
+    "Wir gingen hinaus und flüsterten einander zu, dass an diesem Tag kein armer Mensch unseren Garten betreten dürfe.",
+    "Wir waren überzeugt, in der Lage zu sein, alles einzusammeln und zu verhindern, dass sich irgendein Dieb etwas davon nimmt.",
+    "Wir erwachten und fanden unseren Garten in der Nacht verwüstet vor, schwarz, als wäre er abgeerntet worden, und wir sagten, wir seien beraubt und voller Reue."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Die Gefährten des Schützengrabens",
+        "Die Gefährten des Gartens",
+        "Die Boten der Stadt in Sure Ya-Sin",
+        "Das Volk des Elefanten",
+        "Die Hüter des Höllenfeuers"
+      ],
+      "answer": "Die Gefährten des Gartens"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Die Opferung einer Kuh zur Beilegung eines Mordstreits",
+        "Einen Propheten herausfordern, Steine ​​vom Himmel zu holen",
+        "Sie planten, im Morgengrauen zu ernten, während sie den Armen ihren Anteil vorenthielten.",
+        "Den Sabbat durch das Auslegen von Fischernetzen brechen",
+        "Bau eines Staudamms zur Hochwasserkontrolle für den Handel"
+      ],
+      "answer": "Sie planten, im Morgengrauen zu ernten, während sie den Armen ihren Anteil vorenthielten."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Das heilige Tal von Tuwa, wo Feuer gesehen wurde",
+        "Der ummauerte Obstgarten soll am Morgen abgeerntet werden.",
+        "Der spiegelnde Palastboden, der fälschlicherweise für Wasser gehalten wurde",
+        "Die hölzerne Arche wurde unter göttlicher Anleitung gebaut",
+        "Die eiserne Mauer, die zwischen zwei Bergen errichtet wurde"
+      ],
+      "answer": "Der ummauerte Obstgarten soll am Morgen abgeerntet werden."
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Wir wurden in Affen verwandelt, weil wir den Sabbat gebrochen hatten.",
+        "Wir schliefen dreihundertneun Jahre lang in einer Höhle.",
+        "Wir wurden von der Erde verschlungen, voller Schätze, auf die wir stolz gewesen waren.",
+        "Unser Garten wurde über Nacht zerstört und ist nun schwarz wie nachtschwarz.",
+        "Wir ertranken im Meer, als wir die Gläubigen verfolgten."
+      ],
+      "answer": "Unser Garten wurde über Nacht zerstört und ist nun schwarz wie nachtschwarz."
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

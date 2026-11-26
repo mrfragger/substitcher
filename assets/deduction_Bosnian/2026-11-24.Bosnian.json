@@ -1,0 +1,61 @@
+{
+  "title": "Visoki stubovi dina šibanih vjetrom",
+  "intro": "Zamislite napredujuću civilizaciju obdarenu ogromnom snagom i neusporedivom vještinom gradnje. Smještena među ogromnim, zakrivljenim dinama, ova zajednica je podigla veličanstvene znamenitosti koje su doticale horizont. Ipak, ponos se ukorijenio, a poziv na povratak obožavanju samo Alaha dočekan je s prkosom. Ono što je uslijedilo ostaje upozorenje nošeno samim vjetrom.",
+  "clues": [
+    "Bili smo moćan narod koji je došao nakon Nuhovog naroda, blagoslovljen velikim stasom i snagom.",
+    "Izgradili smo uzvišene kule i spomenike na svakom visokom mjestu, čisto iz zabave i ponosa.",
+    "Hvalisali smo se govoreći ko je jači od nas snagom, i postupali smo tiranski bez milosti.",
+    "Porekli smo našeg poslanika Huda kada nas je pozivao da obožavamo samo Allaha, nazivajući ga slabim i lažljivcem.",
+    "Ismijali smo upozorenje i izazvali ga da nam donese kaznu kojom nam je prijetio ako bude iskren.",
+    "Uništavao nas je siloviti, neplodni vjetar sedam noći i osam dana, ostavljeni smo oboreni poput šupljih debala palmi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Ljudi iz 'Ad",
+        "Banu Nadir",
+        "Lutov narod",
+        "Ljudi iz Madyana",
+        "Narod Semuda"
+      ],
+      "answer": "Ljudi iz 'Ad"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Odbacio je Poslanika Huda i hvalio se superiornom snagom",
+        "Kovao zavjeru da ubije proroka Jusufa iz ljubomore",
+        "Ismijavao je Nuha dok je gradio Arku",
+        "Zahtijevao je kamilu kao znak, a zatim joj je prerezao tetive.",
+        "Obožavao je zlatno tele u Musinom odsustvu."
+      ],
+      "answer": "Odbacio je Poslanika Huda i hvalio se superiornom snagom"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Al-Ahqaf - pješčane dine zakrivljene vjetrom",
+        "Semudski bunar isklesan u kamenu",
+        "Gora Sinaj gdje je primljena Tora",
+        "Rijeka Nil faraonskog kraljevstva",
+        "Sveta dolina Tuwa"
+      ],
+      "answer": "Al-Ahqaf - pješčane dine zakrivljene vjetrom"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Utopljen u velikoj poplavi koja je prekrila zemlju",
+        "Progutan zajedno s Qarun-om u zemlju zbog arogancije",
+        "Pokriveno kamenjem od pečene gline",
+        "Uništeni snažnim zemljotresom koji ih je zatekao u njihovim domovima",
+        "Uništen snažnim ledenim vjetrom sedam noći i osam dana"
+      ],
+      "answer": "Uništen snažnim ledenim vjetrom sedam noći i osam dana"
+    }
+  },
+  "verseRef": "46:22",
+  "arabic": "قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "They said, \"Have you come to delude us away from our gods? Then bring us what you promise us, if you should be of the truthful.\" (46:22)"
+}

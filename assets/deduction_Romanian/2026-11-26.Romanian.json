@@ -1,0 +1,61 @@
+{
+  "title": "Grădina a jurat în zori",
+  "intro": "În orele liniștite dinaintea răsăritului soarelui, un plan a fost făcut în secret. O moștenire înfloritoare era pregătită pentru recoltă, dar s-a format o hotărâre de a ține fiecare rod departe de cei nevoiași. Până dimineața, totul avea să pară neobișnuit, iar o lecție avea să fie gravată pe ramurile înnegrite pentru toți cei care reflectau.",
+  "clues": [
+    "Am moștenit o grădină înfloritoare și am jurat să-i culegem singuri toate roadele.",
+    "Am jurat să ieșim devreme în zori, cât timp săracii care își cereau partea încă dormeau.",
+    "Am exclus orice excepție de la jurământul nostru și am reținut dreptul celor nevoiași fără a spune dacă Allah voiește.",
+    "Am ieșit în șoaptă unul către altul să nu permitem niciunui sărac să intre în grădina noastră în ziua aceea.",
+    "Ne-am imaginat pe deplin capabili să adunăm totul și să împiedicăm vreun culegător să ia o parte.",
+    "Ne-am trezit și ne-am găsit grădina ruinată în noapte, înnegrită ca și cum ar fi fost recoltată, și am spus că eram lipsiți de ceva și căiți."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Companionii tranșeei",
+        "Companionii Grădinii",
+        "Mesagerii orașului din Sura Ya-Sin",
+        "Oamenii elefantului",
+        "Păstrătorii Focului Iadului"
+      ],
+      "answer": "Companionii Grădinii"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Sacrificarea unei vaci pentru a rezolva o dispută privind crima",
+        "Provocarea unui profet să coboare pietre din cer",
+        "Complotând să recolteze în zori, refuzând săracilor partea lor",
+        "Încălcarea Sabatului prin plasarea de plase de pescuit",
+        "Construirea unui baraj pentru controlul apelor inundațiilor pentru comerț"
+      ],
+      "answer": "Complotând să recolteze în zori, refuzând săracilor partea lor"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Valea sacră a orașului Tuwa, unde a fost văzut focul",
+        "Livada împrejmuită cu zid va fi culeasă dimineața",
+        "Podeaua palatului, oglindită, confundată cu apa",
+        "Arca de lemn construită sub instrucțiune divină",
+        "Zidul de fier construit între doi munți"
+      ],
+      "answer": "Livada împrejmuită cu zid va fi culeasă dimineața"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Am fost transformați în maimuțe pentru că am încălcat Sabatul",
+        "Am dormit într-o peșteră timp de trei sute nouă ani",
+        "Am fost înghițiți de pământ cu comori pentru mândrie",
+        "Grădina noastră a fost distrusă peste noapte și lăsată înnegrită ca noaptea",
+        "Ne-am înecat în mare în timp ce îi urmăream pe credincioși"
+      ],
+      "answer": "Grădina noastră a fost distrusă peste noapte și lăsată înnegrită ca noaptea"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

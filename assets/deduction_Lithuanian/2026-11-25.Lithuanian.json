@@ -1,0 +1,61 @@
+{
+  "title": "Svarstyklės, kurios nusviro į pražūtį",
+  "intro": "Vešliame ir klestinčiame regione klestinti bendruomenė leido godumui sugadinti rinką. Žinoma dėl prekybos įgūdžių ir aplinkinių sodų gausos, ši grupė susidūrė su kvietimu būti sąžininga ir tikėti. Tačiau pasididžiavimas turtais vedė į nepaklusnumą, ir horizonte suspindo tamsus šešėlis.",
+  "clues": [
+    "Buvome klestinti prekybos bendruomenė, gyvenusi tarp sodų ir miškingų giraičių.",
+    "Mes apgaudinėjome žmones pagal matus ir svorius, skleidėme korupciją šalyje.",
+    "Mūsų Pasiuntinys perspėjo mus garbinti tik Alachą ir duoti saiką.",
+    "Mes tyčiojomės iš savo pasiuntinio ir reikalavome bausmės, jei jis sakys tiesą.",
+    "Mus užklupo Šešėlių dienos bausmė, kai mus uždengė debesis.",
+    "Aš esu žinomas kaip Miško Draugai, žmonės, pas kuriuos buvo pasiųstas Šuaybas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Tamudo žmonės",
+        "Miško palydovai",
+        "Tranšėjos palydovai",
+        "Dramblio žmonės",
+        "Olos palydovai"
+      ],
+      "answer": "Miško palydovai"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Trumpai tariant ir nepaklusdamas mūsų pasiuntiniui",
+        "Reikalavimas pamatyti Alachą tiesiai ant Sinajaus kalno",
+        "Statyti bokštą, kad pasiektum dangų",
+        "Slapta slėpti tikėjimą rūmuose",
+        "Auksinio veršio garbinimas nesant Mozės"
+      ],
+      "answer": "Trumpai tariant ir nepaklusdamas mūsų pasiuntiniui"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Šventasis Tuwa slėnis",
+        "Ugnis, kuri buvo vėsi ir saugi",
+        "Miškingas Al-Aykah giraitės",
+        "Ola su miegančiojo šunimi prie įėjimo",
+        "Veidrodinis stiklo rūmas"
+      ],
+      "answer": "Miškingas Al-Aykah giraitės"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Nuskendo padalintoje jūroje",
+        "Praryti lobių žemėje",
+        "Už sabato pažeidimą pavirto beždžionėmis",
+        "Išgelbėtas arkoje virš tvano vandenų",
+        "Sunaikintas Šešėlių dienos bausmės"
+      ],
+      "answer": "Sunaikintas Šešėlių dienos bausmės"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

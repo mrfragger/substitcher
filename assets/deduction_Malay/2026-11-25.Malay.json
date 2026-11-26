@@ -1,0 +1,61 @@
+{
+  "title": "Timbangan Yang Menuju Kehancuran",
+  "intro": "Di kawasan yang subur dan makmur, sebuah komuniti yang berkembang maju membiarkan ketamakan merosakkan pasar. Dikenali dengan kemahiran dalam perdagangan dan kelimpahan dari kebun-kebun di sekitarnya, kumpulan ini menghadapi seruan untuk keadilan dan iman. Namun, kebanggaan terhadap kekayaan membawa kepada penentangan, dan bayangan gelap berkumpul di kaki langit.",
+  "clues": [
+    "Kami merupakan sebuah komuniti perdagangan yang makmur yang tinggal di antara taman dan hutan belantara.",
+    "Kami telah menipu manusia dalam hal sukatan dan timbangan, dan menyebarkan kerosakan di bumi.",
+    "Kami diperingatkan oleh rasul kami untuk menyembah Allah sahaja dan untuk menyempurnakan sukatan.",
+    "Kami mengejek utusan kami dan menuntut hukuman dikenakan jika dia jujur.",
+    "Kami telah ditimpa azab Hari Bayang-bayang ketika awan menaungi kami.",
+    "Aku dikenali sebagai Penghuni Alas, orang-orang yang kepadanya Syu'aib diutus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Kaum Tsamud",
+        "Sahabat-sahabat Hutan",
+        "Sahabat-sahabat Khandaq",
+        "Orang-orang Gajah",
+        "Para Penghuni Gua"
+      ],
+      "answer": "Sahabat-sahabat Hutan"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Memberi sukatan yang pendek dan menentang utusan kami",
+        "Menuntut untuk berjumpa Allah secara langsung di Gunung Sinai",
+        "Membina menara untuk mencapai langit",
+        "Menyembunyikan kepercayaan secara rahsia di dalam istana",
+        "Menyembah anak lembu emas ketika Nabi Musa tiada"
+      ],
+      "answer": "Memberi sukatan yang pendek dan menentang utusan kami"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Lembah suci Tuwa",
+        "Api yang telah disejukkan dan selamat",
+        "Hutan Al-Aykah",
+        "Gua dengan anjing tidur di pintu masuknya",
+        "Istana kaca bercermin"
+      ],
+      "answer": "Hutan Al-Aykah"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Tenggelam di laut yang terbelah",
+        "Ditelan dengan harta karun ke dalam bumi",
+        "Berubah menjadi kera kerana melanggar Sabat",
+        "Diselamatkan dalam bahtera di atas air bah",
+        "Dimusnahkan oleh azab Hari Bayangan"
+      ],
+      "answer": "Dimusnahkan oleh azab Hari Bayangan"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La Ĝardeno Ĵuris ĉe Tagiĝo",
+  "intro": "En la kvietaj horoj antaŭ sunleviĝo, plano estis farita sekrete. Floranta heredaĵo staris preta por rikolto, tamen formiĝis la decido teni ĉiun frukton for de tiuj, kiuj bezonas ĝin. Antaŭmatene, ĉio ŝajnus nekonata, kaj leciono estus gravurita en nigriĝintajn branĉojn por ĉiuj, kiuj pripensas.",
+  "clues": [
+    "Ni heredis florantan ĝardenon kaj ĵuris rikolti ĉiujn ĝiajn fruktojn por ni mem.",
+    "Ni ĵuris eliri frue ĉe tagiĝo dum la malriĉuloj, kiuj petis sian parton, ankoraŭ dormis.",
+    "Ni ekskludis ĉian escepton de nia ĵuro kaj retenis la rajton de la bezonuloj sen diri ĉu Alaho volas.",
+    "Ni eliris flustrante unu al la alia, ke oni permesu al neniu malriĉulo eniri nian ĝardenon tiun tagon.",
+    "Ni imagis nin plene kapablaj kolekti ĉion kaj malhelpi iun ajn kolektiston preni parton.",
+    "Ni vekiĝis kaj trovis nian ĝardenon ruinigitan en la nokto, nigrigitan kvazaŭ rikoltitan, kaj ni diris, ke ni estas senigitaj kaj pentantaj."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "La Kunuloj de la Tranĉeo",
+        "La Kunuloj de la Ĝardeno",
+        "La Mesaĝistoj de la Urbo en Surao Ya-Sin",
+        "La Popolo de la Elefanto",
+        "La Gardantoj de Inferfajro"
+      ],
+      "answer": "La Kunuloj de la Ĝardeno"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Oferi bovinon por solvi murdodisputon",
+        "Defiante profeton por faligi ŝtonojn el la ĉielo",
+        "Planante rikolti ĉe tagiĝo dum neante al la malriĉuloj ilian parton",
+        "Rompante la Ŝabaton per metado de fiŝretoj",
+        "Konstruante digon por kontroli inundakvojn por komerco"
+      ],
+      "answer": "Planante rikolti ĉe tagiĝo dum neante al la malriĉuloj ilian parton"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "La sankta valo de Tuwa kie fajro estis vidita",
+        "La murita ĝardena fruktoĝardeno rikoltota matene",
+        "La spegulita palaca planko miskomprenita kiel akvo",
+        "La ligna arkeo konstruita laŭ dia instrukcio",
+        "La fera muro konstruita inter du montoj"
+      ],
+      "answer": "La murita ĝardena fruktoĝardeno rikoltota matene"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Ni fariĝis simioj pro malobeo de la Ŝabato",
+        "Ni dormis en kaverno dum tricent naŭ jaroj",
+        "Ni estis englutitaj de la tero kun trezoroj por fiero",
+        "Nia ĝardeno estis detruita dumnokte kaj lasita nigrigita kiel nokto",
+        "Ni dronis en la maro dum ni persekutis la kredantojn"
+      ],
+      "answer": "Nia ĝardeno estis detruita dumnokte kaj lasita nigrigita kiel nokto"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

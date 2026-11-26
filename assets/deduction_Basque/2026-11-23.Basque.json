@@ -1,0 +1,61 @@
+{
+  "title": "Itotako Adierazpena",
+  "intro": "Imajinatu agintari boteretsu bat, distira, monumentu eta agindu bakar bati men egiten dioten armadez inguratuta. Figura honek autoritate gorena aldarrikatu zuen, jainkozko zeinuak ilusio gisa baztertu zituen eta itsasorantz etengabeko jazarpena agindu zuen. Jarrai ezazu arrastoa dekretu harroputzetatik ur zatituetaraino, non azken aitorpena beranduegi iristen den salbatzeko.",
+  "clues": [
+    "Botere absolutua izan nuen eta Israelgo Haurrak nire agintepean esklabo bihurtu nituen.",
+    "Neure burua jaun gorena izendatu nuen eta uko egin nion nire gaineko jainkorik onartzeari.",
+    "Hamani agindu nion dorre garai bat eraikitzeko, Moisesen Jainkoa ikusteko aukera izan nezakeen.",
+    "Musa eta Haruni aurre egin nien seinale argiak ekarri zituztenean, eta haien mirariak sorginkeria deitu nituen.",
+    "Gauez Musa eta sinestunen atzetik joan nintzen nire armadekin itsasora iritsi arte.",
+    "Itsasoan itota nengoela sinetsi nuen, baina beranduegi zen, eta nire gorputza seinale gisa gorde zen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Namrud",
+        "Jalut (Goliat)",
+        "Abu Jahl",
+        "Faraoia (Fir'aun)",
+        "Haman"
+      ],
+      "answer": "Faraoia (Fir'aun)"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Su fresko eta seguru bihurtu zen sutara bota zuten",
+        "Uholde handi bati aurre egiteko arka bat eraiki zuten",
+        "Urte askotan lagunekin kobazulo batean lo egin zuen",
+        "Arrain handi batek irentsi zuen sakonean",
+        "Musa eta israeldarrak itsaso zabalduan zehar atzetik zihoala ito zen"
+      ],
+      "answer": "Musa eta israeldarrak itsaso zabalduan zehar atzetik zihoala ito zen"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Arrain handiaren sabela.",
+        "Mekako Meskita Sakratua",
+        "Itsaso zatitua.",
+        "Hirako kobazuloa.",
+        "Ibai-jarioak dituen lorategia"
+      ],
+      "answer": "Itsaso zatitua."
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Zeruetara bizirik altxatuta",
+        "Sabbatua hausteagatik eraldatua",
+        "Barkatua eta erregealdi baketsu luzea emana",
+        "Lurrak altxorrez irentsia",
+        "Sinesgaitzean itota eta gorputza ondorengoentzako seinale gisa gordeta"
+      ],
+      "answer": "Sinesgaitzean itota eta gorputza ondorengoentzako seinale gisa gordeta"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

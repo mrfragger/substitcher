@@ -1,0 +1,61 @@
+{
+  "title": "Terazûya ku Ber bi Wêranbûnê Ve Çû",
+  "intro": "Li herêmeke geş û geş, civateke geş hişt ku çavbirçîtî bazarê xera bike. Ev kom, ku bi jêhatîbûna xwe di bazirganiyê de û pirbûna ji baxçeyên derdorê dihat nasîn, bi bangeke ji bo dadperwerî û baweriyê re rû bi rû ma. Lê belê serbilindiya bi dewlemendiyê bû sedema serhildanê, û siya tarî li asoyê xuya bû.",
+  "clues": [
+    "Em civateke bazirganî ya dewlemend bûn ku di nav baxçe û daristanên daristanî de dijiyan.",
+    "Me mirovan di pîvan û giraniyan de xapandin, û fesadiyê li ser rûyê erdê belav kir.",
+    "Pêxemberê me hişyarî da me ku em tenê ji Xwedê re îbadet bikin û pîvana xwe bi tevahî bidin.",
+    "Me tinazên xwe bi pêxemberê xwe kirin û eger rastgo be me cezayê ku wê were xwestin.",
+    "Em bi cezayê Roja Siyê ve hatin girtin dema ku ewrek li ser me siya xwe çêkir.",
+    "Ez wekî Eshabê Daristanê, ew gelê ku Şûayb ji wan re hatiye şandin, têm nasîn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Gelê Semûdê",
+        "Hevalbendên Daristanê",
+        "Hevalên Xendekê",
+        "Gelê Fîl",
+        "Hevalên Şikeftê"
+      ],
+      "answer": "Hevalbendên Daristanê"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Pîvanek kurt didin û li dijî peyamberê me derdikevin",
+        "Daxwaza dîtina Xwedê rasterast li Çiyayê Sînayê",
+        "Avakirina bircê ji bo gihîştina ezmanan",
+        "Baweriyê bi dizî di hundurê qesrê de vedişêre",
+        "Perestkirina golikê zêrîn di nebûna Mûsa de"
+      ],
+      "answer": "Pîvanek kurt didin û li dijî peyamberê me derdikevin"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Geliyê pîroz ê Tuwa",
+        "Agirê ku sar û ewle hatibû çêkirin",
+        "Daristana daristanî ya El-Eykayê",
+        "Şikefta ku kûçikekî razayî li ber deriyê wê ye",
+        "Qesra neynikî ya ji cam"
+      ],
+      "answer": "Daristana daristanî ya El-Eykayê"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Di deryaya parvekirî de xeniqî",
+        "Bi xezîneyan daqurtandin nav erdê",
+        "Ji bo şikandina Şemiyê veguherî meymûnan",
+        "Di keştiyekê de li jor avên lehiyê hat xilaskirin",
+        "Bi cezayê Roja Siyê wêran bûye"
+      ],
+      "answer": "Bi cezayê Roja Siyê wêran bûye"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

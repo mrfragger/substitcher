@@ -1,0 +1,61 @@
+{
+  "title": "Den druknede erklæringen",
+  "intro": "Se for deg en mektig hersker omgitt av prakt, monumenter og hærer som lyder én enkelt kommando. Denne skikkelsen hevdet den øverste autoriteten, avfeide guddommelige tegn som illusjoner og beordret en nådeløs forfølgelse mot havet. Følg stien fra arrogante dekreter til delte vann, hvor en endelig tilståelse kommer for sent til å redde.",
+  "clues": [
+    "Jeg hadde absolutt makt og slavebandt Israels barn under mitt styre.",
+    "Jeg erklærte meg selv som den høyeste herre og nektet å anerkjenne noen gud over meg.",
+    "Jeg befalte Haman å bygge meg et høyt tårn, så jeg kunne se på Musas Gud.",
+    "Jeg konfronterte Musa og Harun da de kom med klare tegn, og jeg kalte miraklene deres for trolldom.",
+    "Jeg forfulgte Musa og de troende med mine hærer om natten helt til vi nådde havet.",
+    "Jeg erklærte min tro mens jeg druknet i havet, men det var for sent, og kroppen min ble bevart som et tegn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Namrud",
+        "Jalut (Goliath)",
+        "Abu Jahl",
+        "Farao (Fir'aun)",
+        "Haman"
+      ],
+      "answer": "Farao (Fir'aun)"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Ble kastet i en ild som ble kjølig og trygg",
+        "Bygget en ark for å overleve en stor flom",
+        "Sov i en hule med ledsagere i mange år",
+        "Ble slukt av en stor fisk i dypet",
+        "Druknet mens han forfulgte Musa og israelittene gjennom det delte havet"
+      ],
+      "answer": "Druknet mens han forfulgte Musa og israelittene gjennom det delte havet"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Magen til den store fisken",
+        "Den hellige moskeen i Mekka",
+        "Det delte havet",
+        "Hira-hulen",
+        "Hagen med rennende elver"
+      ],
+      "answer": "Det delte havet"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Levende oppreist til himmelen",
+        "Forvandlet for å ha brutt sabbaten",
+        "Tilgitt og gitt et langt fredelig styre",
+        "Svelget av jorden med skatter",
+        "Druknet i vantro og kroppen bevart som et tegn for de etter"
+      ],
+      "answer": "Druknet i vantro og kroppen bevart som et tegn for de etter"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

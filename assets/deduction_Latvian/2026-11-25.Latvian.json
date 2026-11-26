@@ -1,0 +1,61 @@
+{
+  "title": "Svari, kas nosvērās pret sabrukumu",
+  "intro": "Bagātīgā un plaukstošā reģionā plaukstoša kopiena ļāva alkatībai samaitāt tirgu. Šī grupa, kas bija pazīstama ar prasmi tirdzniecībā un pārpilnību no apkārtējiem dārziem, saskārās ar aicinājumu būt taisnīgiem un ticīgiem. Tomēr lepnums par bagātību noveda pie nepakļaušanās, un pie apvāršņa savilkās tumša ēna.",
+  "clues": [
+    "Mēs bijām pārtikusi tirgotāju kopiena, kas dzīvoja starp dārziem un mežainām birzīm.",
+    "Mēs krāpām cilvēkus mēros un svaros, izplatot zemē samaitātību.",
+    "Mūsu vēstnesis mūs brīdināja pielūgt tikai Allāhu un dot pilnu mēru.",
+    "Mēs izsmējām savu vēstnesi un pieprasījām sodu, ja viņš teiks patiesību.",
+    "Mūs pārņēma Ēnu dienas sods, kad mākonis mūs apēnoja.",
+    "Mani pazīst kā Meža biedrus, ļaudis, pie kuriem tika sūtīts Šuaibs."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Tamudas ļaudis",
+        "Meža biedri",
+        "Tranšejas biedri",
+        "Ziloņa ļaudis",
+        "Alas pavadoņi"
+      ],
+      "answer": "Meža biedri"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Dodot īsu mēru un nepakļaujoties mūsu vēstnesim",
+        "Prasība redzēt Allāhu tieši Sinaja kalnā",
+        "Torņa celtniecība, lai sasniegtu debesis",
+        "Slepeni slēpjot ticību pilī",
+        "Zelta teļa pielūgšana Musas prombūtnes laikā"
+      ],
+      "answer": "Dodot īsu mēru un nepakļaujoties mūsu vēstnesim"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Tuvas svētā ieleja",
+        "Uguns, kas tika padarīta vēsa un droša",
+        "Al-Aykah mežainā birzs",
+        "Ala ar gulētāja suni pie tās ieejas",
+        "Stikla spoguļpils"
+      ],
+      "answer": "Al-Aykah mežainā birzs"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Noslīcis sadalītajā jūrā",
+        "Ar dārgumiem aprīts zemē",
+        "Pārveidoti par pērtiķiem par sabata pārkāpšanu",
+        "Glābts šķirstā virs plūdu ūdeņiem",
+        "Iznīcināts Ēnu dienas soda rezultātā"
+      ],
+      "answer": "Iznīcināts Ēnu dienas soda rezultātā"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

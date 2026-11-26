@@ -1,0 +1,61 @@
+{
+  "title": "Ba échelles oyo ebalukaki mpo na kobeba",
+  "intro": "Na etúká oyo etondi na banzete mingi mpe ezali na bozwi mingi, bato ya mboka oyo ezali kokola malamu batikaki lokoso ebebisa zando. Eyebanaki mpo na mayele na mombongo mpe ebele uta na bilanga ya zingazinga, etuluku oyo ekutanaki na libiangi ya bosembo mpe bondimi. Nzokande lolendo mpo na bozwi ememaki na koboya, mpe elili moko ya molili esanganaki na likoló.",
+  "clues": [
+    "Tozalaki bato ya mombongo oyo bazalaki na bozwi mingi mpe bazalaki kofanda na kati ya bilanga mpe banzete ya zamba.",
+    "Tokosaki bato na ba mesures mpe na ba poids, to panza corruption na mboka.",
+    "Tokebisamaki na motindami na biso mpo na kosambela Allah se moko mpe kopesa meko mobimba.",
+    "Tosekaki momemi-nsango na biso mpe tosɛngaki etumbu eya soki azali koloba solo.",
+    "Tokangamaki na etumbu ya Mokolo ya Elili ntango lipata moko ezipaki biso.",
+    "Nayebani lokola Ba Companions ya Nzete, bato oyo Shu’ayb atindamaki epai na bango."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Bato ya Thamud",
+        "Ba Compagnons ya Mabaya",
+        "Ba Compagnons ya Fosse",
+        "Bato ya Nkoi",
+        "Ba Compagnons ya Libulu"
+      ],
+      "answer": "Ba Compagnons ya Mabaya"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Kopesa meko mokuse mpe koboya momemi-nsango na biso",
+        "Kosenga komona Allah directement na ngomba Sinai",
+        "Kotonga linɔ́ngi mpo na kokóma na likoló",
+        "Kobomba kondima na kobombana na kati ya ndako ya mokonzi",
+        "Kosambela mwana ya ngɔmbɛ ya wolo na absence ya Musa"
+      ],
+      "answer": "Kopesa meko mokuse mpe koboya momemi-nsango na biso"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Lobwaku mosantu ya Tuwa",
+        "Mɔtɔ oyo basalaki yango malili mpe ezalaki na likama te",
+        "Elanga ya zamba ya Al-Aykah",
+        "Libulu oyo ezali na mbwa ya molali na ekuke na yango",
+        "Palais ya vitre oyo ezali na talatala"
+      ],
+      "answer": "Elanga ya zamba ya Al-Aykah"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Bazindaki na mai na mbu oyo ekabwanaki",
+        "Emelamaki na biloko ya motuya na mabele",
+        "Abongwanaki na ba singes mpo na kobuka Sabata",
+        "Babikisami na masuwa moko likoló ya mai ya mpela",
+        "Ebebisami na etumbu ya Mokolo ya Elili"
+      ],
+      "answer": "Ebebisami na etumbu ya Mokolo ya Elili"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

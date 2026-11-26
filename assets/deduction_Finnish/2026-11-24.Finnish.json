@@ -1,0 +1,61 @@
+{
+  "title": "Tuulen pieksemien dyynien korkeat pilarit",
+  "intro": "Kuvittele kukoistava sivilisaatio, jolle on ominaista valtava voima ja vertaansa vailla oleva rakennustaito. Laajojen, kaarevien dyynien keskelle asettunut yhteisö pystytti suuria maamerkkejä, jotka ulottuivat horisonttiin. Silti ylpeys juurtui, ja kutsu palata yksin Allahin palvontaan kohtasi uhmakkuuden. Se, mitä seurasi, on edelleen tuulen kantama varoitus.",
+  "clues": [
+    "Me olimme mahtava kansakunta, joka tuli Nooan kansan jälkeen, siunattuna suurella maineella ja voimalla.",
+    "Me rakensimme korkeita torneja ja muistomerkkejä jokaiselle korkealle paikalle pelkän huvin ja ylpeyden vuoksi.",
+    "Me kerskuimme sanoen, kuka on meitä voimakkaampi, ja toimimme armotta ja tyrannimaisesti.",
+    "Me hylkäsimme lähettiläämme Hudin, kun hän kutsui meitä palvomaan yksin Allahia, kutsuen häntä heikoksi ja valehtelijaksi.",
+    "Me pilkkasimme varoitusta ja haastoimme hänet langettamaan meille uhkaamansa rangaistuksen, jos hän olisi totuudenmukainen.",
+    "Raivoisa, karu tuuli tuhosi meidät seitsemän yötä ja kahdeksan päivää, ja me kaatuimme maahan kuin ontot palmunrungot."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "'Ad:n ihmiset",
+        "Banu Nadir",
+        "Lutin kansa",
+        "Madyanin kansa",
+        "Thamudin kansa"
+      ],
+      "answer": "'Ad:n ihmiset"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Hylkäsi profeetta Hudin ja kerskui ylivoimaisesta voimastaan",
+        "Suunnittelivat tappavansa profeetta Yusufin mustasukkaisuudesta",
+        "Pilkkasi Nooa tämän rakentaessa arkkia",
+        "Vaati naaraskamelia merkiksi ja katkaisi sitten sen kinnerjänteet",
+        "Palvoi kultaista vasikkaa Musan poissa ollessa"
+      ],
+      "answer": "Hylkäsi profeetta Hudin ja kerskui ylivoimaisesta voimastaan"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Al-Ahqaf - tuulen kaarevat hiekkadyynit",
+        "Thamudin kaivo kiveen kaiverrettu",
+        "Siinain vuori, jolla Toora vastaanotettiin",
+        "Faaraon valtakunnan Niili",
+        "Tuwan pyhä laakso"
+      ],
+      "answer": "Al-Ahqaf - tuulen kaarevat hiekkadyynit"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Hukkui suureen tulvaan, joka peitti maan",
+        "Nielaistiin Qarunin kanssa maahan ylimielisyyden vuoksi",
+        "Satoi paistetun saven kiviä",
+        "Tuhoutuivat mahtavassa maanjäristyksessä, joka valtasi heidät koteihinsa",
+        "Seitsemän yötä ja kahdeksan päivää kestäneen rajun jäätävän tuulen tuhoama"
+      ],
+      "answer": "Seitsemän yötä ja kahdeksan päivää kestäneen rajun jäätävän tuulen tuhoama"
+    }
+  },
+  "verseRef": "46:22",
+  "arabic": "قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "They said, \"Have you come to delude us away from our gods? Then bring us what you promise us, if you should be of the truthful.\" (46:22)"
+}

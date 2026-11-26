@@ -1,0 +1,61 @@
+{
+  "title": "Harabaçylyga tarap egilen tereziler",
+  "intro": "Gül-çiçek we gülläp ösýän sebitde gülläp ösýän jemgyýet açgözlügiň bazary zaýalamagyna ýol berdi. Söwdada ussatlygy we töweregindäki baglardan bolçulygy bilen tanalýan bu topar adalatlylyga we imana çagyryş bilen ýüzbe-ýüz boldy. Şeýle-de bolsa, baýlyga bolan buýsanç garşylyga getirdi we garaňky kölege gözenegiň öňünde jemlendi.",
+  "clues": [
+    "Biz baglaryň we tokaýlyklaryň arasynda ýaşaýan gülläp ösýän söwda jemgyýetidik.",
+    "Biz adamlary ölçeglerde we agramlarda aldadyk, ýer ýüzünde bozukçylyk ýaýratdyk.",
+    "Bize pygamberimiz tarapyndan diňe Allaha ybadat etmek we ölçegleri doly berjaý etmek barada duýduryş berildi.",
+    "Biz öz elçimizi masgara etdik we eger ol dogruçyl bolsa, jezanyň gelmegini talap etdik.",
+    "Bizi bulut kölege salanda, Kölege gününiň jezasy tutdy.",
+    "Men Şuaýbyň iberilen halky bolan Agaç sahabalary hökmünde tanalýaryn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Semud halky",
+        "Tokaýyň ýoldaşlary",
+        "Handak ýoldaşlary",
+        "Pil halky",
+        "Gähriň ýoldaşlary"
+      ],
+      "answer": "Tokaýyň ýoldaşlary"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Ölçegini gysga bermek we pygamberimize garşy çykmak",
+        "Sina dagynda Allany gönüden-göni görmegi talap etmek",
+        "Göklere ýetmek üçin diň gurmak",
+        "Köşküň içinde gizlinlikde imany gizlemek",
+        "Musanyň ýoklugynda altyn göle sežde etmek"
+      ],
+      "answer": "Ölçegini gysga bermek we pygamberimize garşy çykmak"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Tuwanyň mukaddes jülgesi",
+        "Sowuk we howpsuz edilen ot",
+        "Al-Aýkanyň tokaýly bagy",
+        "Girişinde uklap ýatan it bolan gowak",
+        "Aýnadan ýasalan aýnaly köşk"
+      ],
+      "answer": "Al-Aýkanyň tokaýly bagy"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Bölünen deňizde gark boldy",
+        "Ýer ýüzüne hazynalar bilen ýutuldy",
+        "Sabat günini bozandygy üçin maýmynlara öwrüldi",
+        "Sil suwlarynyň üstündäki gämide halas boldy",
+        "Kölege gününiň jezasy bilen ýok edildi"
+      ],
+      "answer": "Kölege gününiň jezasy bilen ýok edildi"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

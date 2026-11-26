@@ -1,0 +1,61 @@
+{
+  "title": "Wysokie filary wietrznych wydm",
+  "intro": "Wyobraź sobie kwitnącą cywilizację obdarzoną potężną siłą i niezrównanym kunsztem w budowaniu. Osiedlona wśród rozległych, krętych wydm, ta społeczność wznosiła wspaniałe budowle sięgające horyzontu. Jednak duma zakorzeniła się w niej, a wezwanie do powrotu do kultu samego Allaha spotkało się z buntem. To, co nastąpiło, pozostaje ostrzeżeniem niesionym przez sam wiatr.",
+  "clues": [
+    "Byliśmy potężnym narodem, który nastąpił po ludzie Noego, obdarzonym wielką posturą i siłą.",
+    "Budowaliśmy wysokie wieże i pomniki na wszystkich wzniesieniach, wyłącznie dla sportu i dumy.",
+    "Chwaliliśmy się, mówiąc, kto jest od nas potężniejszy siłą, i postępowaliśmy jak tyrania, bez litości.",
+    "Odrzuciliśmy naszego posłańca Huda, gdy wezwał nas do oddawania czci wyłącznie Allahowi, nazywając go słabym i kłamcą.",
+    "Zlekceważyliśmy ostrzeżenie i wezwaliśmy go, aby wymierzył nam karę, którą nam groził, jeśli będzie mówił prawdę.",
+    "Zostaliśmy zniszczeni przez wściekły, jałowy wiatr przez siedem nocy i osiem dni, pozostawieni niczym puste pnie palm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Ludzie z „Ad”",
+        "Banu Nadir",
+        "Ludzie Lut",
+        "Ludzie Madyanu",
+        "Ludzie z Thamud"
+      ],
+      "answer": "Ludzie z „Ad”"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Odrzucił proroka Huda i chwalił się swoją większą siłą",
+        "Z zazdrości zaplanował zabójstwo proroka Jusufa",
+        "Naśmiewał się z Noego, gdy budował Arkę",
+        "Zażądał wielbłądzicy jako znaku, a następnie ją okaleczył",
+        "Oddawał cześć złotemu cielcowi pod nieobecność Musy"
+      ],
+      "answer": "Odrzucił proroka Huda i chwalił się swoją większą siłą"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Al-Ahqaf – wydmy wygięte przez wiatr",
+        "Studnia Thamud wykuta w kamieniu",
+        "Góra Synaj, gdzie otrzymano Torę",
+        "Rzeka Nil w królestwie faraona",
+        "Święta Dolina Tuwa"
+      ],
+      "answer": "Al-Ahqaf – wydmy wygięte przez wiatr"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Utonął w wielkiej powodzi, która pokryła ziemię",
+        "Połknięty przez ziemię wraz z Qarunem za arogancję",
+        "Obsypane kamieniami z wypalanej gliny",
+        "Zniszczeni przez potężne trzęsienie ziemi, które pochłonęło ich w domach",
+        "Zniszczony przez gwałtowny, mroźny wiatr przez siedem nocy i osiem dni"
+      ],
+      "answer": "Zniszczony przez gwałtowny, mroźny wiatr przez siedem nocy i osiem dni"
+    }
+  },
+  "verseRef": "46:22",
+  "arabic": "قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "They said, \"Have you come to delude us away from our gods? Then bring us what you promise us, if you should be of the truthful.\" (46:22)"
+}

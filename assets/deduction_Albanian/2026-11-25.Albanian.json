@@ -1,0 +1,61 @@
+{
+  "title": "Peshoret që anuan drejt rrënimit",
+  "intro": "Në një rajon të harlisur dhe të begatë, një komunitet i lulëzuar lejoi që lakmia të korruptonte tregun. I njohur për aftësitë në tregti dhe bollëkun nga kopshtet përreth, ky grup u përball me një thirrje për drejtësi dhe besim. Megjithatë, krenaria për pasurinë çoi në sfidë dhe një hije e errët u mblodh në horizont.",
+  "clues": [
+    "Ne ishim një komunitet tregtar i begatë që jetonim midis kopshteve dhe pemishteve të pyllëzuara.",
+    "Ne i mashtruam njerëzit me masa dhe pesha, duke përhapur çrregullime në tokë.",
+    "Na u paralajmërua nga i dërguari ynë që të adhurojmë vetëm Allahun dhe të japim masë të plotë.",
+    "Ne e tallëm të dërguarin tonë dhe kërkuam dënimin që do të vinte nëse ai ishte i sinqertë.",
+    "Na kaploi ndëshkimi i Ditës së Hijes kur një re na mbuloi.",
+    "Unë njihem si Shokët e Pyllit, populli tek i cili u dërgua Shuajbi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Populli i Themudit",
+        "Shokët e Pyllit",
+        "Shokët e Hendekut",
+        "Njerëzit e Elefantit",
+        "Shokët e Shpellës"
+      ],
+      "answer": "Shokët e Pyllit"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Duke dhënë masë të shkurtër dhe duke sfiduar të dërguarin tonë",
+        "Kërkesa për ta parë Allahun drejtpërdrejt në Malin Sinai",
+        "Ndërtimi i një kulle për të arritur qiellin",
+        "Fshehja e besimit fshehurazi brenda një pallati",
+        "Adhurimi i një viçi të artë në mungesë të Musait"
+      ],
+      "answer": "Duke dhënë masë të shkurtër dhe duke sfiduar të dërguarin tonë"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Lugina e shenjtë e Tuwas",
+        "Zjarri që u bë i freskët dhe i sigurt",
+        "Pylli i pyllëzuar i Al-Ajkah",
+        "Shpella me një qen gjumash në hyrje të saj",
+        "Pallati i pasqyruar prej qelqi"
+      ],
+      "answer": "Pylli i pyllëzuar i Al-Ajkah"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "I mbytur në detin e ndarë",
+        "I gëlltitur me thesare në tokë",
+        "Të transformuar në majmunë për shkak të shkeljes së Sabatit",
+        "I shpëtuar në një arkë mbi ujërat e përmbytjes",
+        "I shkatërruar nga ndëshkimi i Ditës së Hijes"
+      ],
+      "answer": "I shkatërruar nga ndëshkimi i Ditës së Hijes"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

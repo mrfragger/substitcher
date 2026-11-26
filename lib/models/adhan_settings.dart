@@ -23,6 +23,7 @@ class AdhanSettings {
   double? latitude;
   double? longitude;
   bool showWhiteDays;
+  bool muteAdhan;
 
   AdhanSettings({
     this.cityName = 'My City',
@@ -47,6 +48,7 @@ class AdhanSettings {
     this.latitude,
     this.longitude,
     this.showWhiteDays = true,
+    this.muteAdhan = false,
   });
 
   static Future<AdhanSettings> load() async {
@@ -74,6 +76,7 @@ class AdhanSettings {
       latitude: prefs.getDouble('adhan_latitude'),
       longitude: prefs.getDouble('adhan_longitude'),
       showWhiteDays: prefs.getBool('adhan_show_white_days') ?? true,
+      muteAdhan: prefs.getBool('adhan_mute') ?? false,
     );
   }
 
@@ -101,5 +104,6 @@ class AdhanSettings {
     if (latitude != null) await prefs.setDouble('adhan_latitude', latitude!);
     if (longitude != null) await prefs.setDouble('adhan_longitude', longitude!);
     await prefs.setBool('adhan_show_white_days', showWhiteDays);
+    await prefs.setBool('adhan_mute', muteAdhan);
   }
 }

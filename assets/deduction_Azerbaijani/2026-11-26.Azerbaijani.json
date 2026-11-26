@@ -1,0 +1,61 @@
+{
+  "title": "Bağ səhər əhdi verdi",
+  "intro": "Günəşin doğuşundan əvvəlki sakit saatlarda gizli bir plan quruldu. Çiçəklənən bir miras məhsul yığımına hazır idi, lakin ehtiyacı olanlardan hər meyvəni uzaq tutmaq qərarı yarandı. Səhərə qədər hər şey tanımadığı kimi görünəcək və düşünən hər kəs üçün qaralmış budaqlara həkk olunmuş bir dərs olacaqdı.",
+  "clues": [
+    "Biz çiçəklənən bir bağ miras aldıq və onun bütün meyvələrini özümüz üçün yığacağımıza and içdik.",
+    "Paylarını istəyən kasıblar hələ yatarkən sübh tezdən çıxmağa and içdik.",
+    "Biz andımızdan istisnaları çıxardıq və \"Allah istəsə\" demədən ehtiyacı olanların haqqını gizlətdik.",
+    "Həmin gün bağçamıza heç bir kasıbın girməsinə icazə verməmək üçün bir-birimizlə pıçıldaşaraq çölə çıxdıq.",
+    "Biz hər şeyi yığmağa və heç bir yığıcının bir pay götürməsinin qarşısını almağa qadir olduğumuzu təsəvvür etdik.",
+    "Oyananda bağçamızı gecənin bir vaxtı xarab olmuş, sanki biçilmiş kimi qaralmış vəziyyətdə gördük və məhrum olduğumuzu və tövbə etdiyimizi dedik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Xəndək Əshabı",
+        "Cənnət Əhli",
+        "Yasin surəsində şəhər elçiləri",
+        "Fil xalqı",
+        "Cəhənnəm Odunun Qoruyucuları"
+      ],
+      "answer": "Cənnət Əhli"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Qətl mübahisəsini həll etmək üçün inək qurban kəsmək",
+        "Peyğəmbərə göydən daş endirmək üçün meydan oxumaq",
+        "Sübh tezdən məhsul yığmaq üçün plan qurarkən, kasıblara paylarını verməmək",
+        "Balıq torları quraraq Şənbə gününü pozmaq",
+        "Ticarət üçün daşqın sularını idarə etmək üçün bənd tikmək"
+      ],
+      "answer": "Sübh tezdən məhsul yığmaq üçün plan qurarkən, kasıblara paylarını verməmək"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Atəşin göründüyü müqəddəs Tuva vadisi",
+        "Divarla əhatə olunmuş bağ meyvəsi səhər biçilir",
+        "Güzgülü saray döşəməsi su ilə səhv salınıb",
+        "İlahi göstərişlə tikilmiş taxta sandıq",
+        "İki dağ arasında tikilmiş dəmir divar"
+      ],
+      "answer": "Divarla əhatə olunmuş bağ meyvəsi səhər biçilir"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Şənbə gününü pozduğumuz üçün meymunlara çevrildik",
+        "Biz üç yüz doqquz il mağarada yatdıq",
+        "Bizi yer üzü qürur xəzinələri ilə uddu,",
+        "Bağımız bir gecədə dağıdıldı və gecə kimi qaraldı",
+        "Möminləri təqib edərkən dənizdə boğulduq."
+      ],
+      "answer": "Bağımız bir gecədə dağıdıldı və gecə kimi qaraldı"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

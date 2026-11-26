@@ -1,0 +1,61 @@
+{
+  "title": "Itongo ryarahiye mu gatondo",
+  "intro": "Mu masaha y’agacerere imbere y’uko izuba rirasa, hari umugambi washizweho mu mpisho. Iragi ryari riteye imbere ryari ryiteguriye kwimburwa, yamara rero hariho umwiyemezo wo gutuma ivyamwa vyose biguma kure y’abakeneye. Mu gitondo, vyose vyobaye bisa n’ibitari bimenyerewe, kandi icigwa cobaye gicapwe mu mashami n’amashami y’umwirabura ku bantu bose bazirikana.",
+  "clues": [
+    "Twararazwe itongo ryiza cane maze turahira ko tuzokwimbura ivyamwa vyaryo vyose.",
+    "Twarahiye ko tuzosohoka kare mu gatondo mu gihe abakene basavye umugabane wabo bari bakiri mu mva.",
+    "Twarakuyeho ikintu cose kidasanzwe mu ndahiro yacu, twima uburenganzira bw’abakene tutavuze nimba Allah abishaka.",
+    "Twarasohotse turiko turatongana ngo ntihagire umukene yinjira mw’itongo ryacu uwo musi.",
+    "Twari twiyumvira ko dushobora bimwe bishitse kwegeranya vyose no kubuza umunyarugero uwo ari we wese gufata umugabane.",
+    "Twaravyutse dusanga itongo ryacu ryononekaye mw’ijoro, ryirabura nk’aho ryimbuwe, maze tuvuga ko twabuze kandi twihana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Abagenzi b'Umugende",
+        "Abagenzi b'itongo .",
+        "Intumwa z'Igisagara ziri muri Sura Ya-Sin",
+        "Abantu b'inzovu",
+        "Abarinzi b’umuriro w’iteka"
+      ],
+      "answer": "Abagenzi b'itongo ."
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Gutanga inka kugira ngo umuntu atore umuti w'amatati y'ubwicanyi",
+        "Gutera intege umuhanuzi ngo amanure amabuye mu kirere .",
+        "Gutegura kwimbura mu gatondo mu gihe wima abakene umugabane wabo",
+        "Guca isabato mu gutera insenga zo kuroba .",
+        "Kubaka urugomero rwo kugenzura amazi y'umwuzure kugira ngo hakorwe ubudandaji"
+      ],
+      "answer": "Gutegura kwimbura mu gatondo mu gihe wima abakene umugabane wabo"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Ikiyaya ceranda ca Tuwa aho umuriro wabonetse .",
+        "Itongo ry’ivyamwa ry’uruhome ryo kwimburwa mu gitondo .",
+        "Hasi mu ngoro y'indorerwamo yihenda ko ari amazi",
+        "Ubwato bw’ibiti bwakozwe bishingiye ku buyobozi bw’Imana .",
+        "Uruhome rw’icuma rwubatswe hagati y’imisozi ibiri ."
+      ],
+      "answer": "Umurima w’ivyamwa w’itongo ry’inkuta wo kwimbura mu gitondo ."
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Twarahindutse inkende kubera twarenganye Isabato .",
+        "Twararyamye mu mwobo imyaka amajana atatu n'icenda .",
+        "Twaramizwe n'isi n'ubutunzi bw'ubwibone .",
+        "Itongo ryacu ryasambutse mw'ijoro rimwe, risiga ryirabura nk'ijoro .",
+        "Twararohamye mu kiyaga turiko turakurikirana abemera ."
+      ],
+      "answer": "Itongo ryacu ryasambutse mw'ijoro rimwe, risiga ryirabura nk'ijoro ."
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

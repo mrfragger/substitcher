@@ -1,0 +1,61 @@
+{
+  "title": "Váhy, ktoré sa naklonili k zániku",
+  "intro": "V bujnom a prosperujúcom regióne prosperujúca komunita nechala chamtivosť skaziť trh. Táto skupina, známa svojimi obchodnými zručnosťami a hojnosťou z okolitých záhrad, čelila volaniu po spravodlivosti a viere. Pýcha na bohatstvo však viedla k vzdoru a na obzore sa zhromažďoval temný tieň.",
+  "clues": [
+    "Boli sme prosperujúcou obchodnou komunitou žijúcou uprostred záhrad a zalesnených hájov.",
+    "Podvádzali sme ľudí v mierach a váhach a šírili sme skazu v krajine.",
+    "Náš posol nás varoval, aby sme uctievali iba Alaha a dávali mu plnú mieru.",
+    "Vysmievali sme sa nášmu poslovi a požadovali trest, ak bude hovoriť pravdu.",
+    "Zastihol nás trest Dňa tieňa, keď nás zatienil oblak.",
+    "Som známy ako Spoločníci lesa, ľudia, ku ktorým bol poslaný Šu'ajb."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Ľudia z Thamudu",
+        "Lesní spoločníci",
+        "Spoločníci zo zákopu",
+        "Ľudia slona",
+        "Spoločníci jaskyne"
+      ],
+      "answer": "Lesní spoločníci"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Dávame si krátke miery a vzdorujeme nášmu poslu",
+        "Požadovať vidieť Alaha priamo na vrchu Sinaj",
+        "Stavba veže, ktorá dosiahne nebesia",
+        "Tajne skrývajúc vieru v paláci",
+        "Uctievanie zlatého teľaťa v neprítomnosti Músu"
+      ],
+      "answer": "Dávame si krátke miery a vzdorujeme nášmu poslu"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Posvätné údolie Tuwa",
+        "Oheň, ktorý sa ochladil a bol bezpečný",
+        "Zalesnený háj Al-Aykah",
+        "Jaskyňa so psom spiaceho pri vchode",
+        "Zrkadlový palác zo skla"
+      ],
+      "answer": "Zalesnený háj Al-Aykah"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Utopený v rozdelenom mori",
+        "Pohltený pokladmi do zeme",
+        "Premenení na opice za porušenie Sabatu",
+        "Zachránený v korábe nad potopou",
+        "Zničený trestom Dňa tieňa"
+      ],
+      "answer": "Zničený trestom Dňa tieňa"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

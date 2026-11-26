@@ -1,0 +1,61 @@
+{
+  "title": "Igadi Yafunga Ngokukhanya",
+  "intro": "Kwiiyure ezizolileyo ngaphambi kokuba kuphume ilanga, icebo lenziwa ngasese. Ilifa elichumayo lalilungele ukuvunwa, kodwa kwakufuneka lizimisele ukugcina zonke iziqhamo kude nabo basweleyo. Kusasa, yonke into yayiza kubonakala ingaqhelekanga, kwaye isifundo sasiza kugrunjwa sibe ngamasebe amnyama kubo bonke abacingayo.",
+  "clues": [
+    "Sizuze ilifa legadi echumayo saza safunga ukuba siza kuzivunela zonke iziqhamo zayo.",
+    "Safunga ukuba siza kuphuma kusasa xa amahlwempu acela isabelo sawo esalele.",
+    "Sikhuphele ngaphandle naluphi na uhlobo lwesifungo sethu saza sathintela ilungelo labasweleyo ngaphandle kokutsho ukuba uAllah uyathanda na.",
+    "Saphuma sincokola ukuba singavumeli mntu ulihlwempu ukuba angene emyezweni wethu ngaloo mini.",
+    "Sasicinga ukuba sinokukwazi ukuqokelela yonke into size sithintele nabani na oqokeleleyo ukuba angathabathi nxalenye.",
+    "Savuka safumana igadi yethu yonakele ebusuku, imnyama ngokungathi ivuniwe, saza sathi siswele kwaye siyaguquka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Amaqabane eMfuleni",
+        "Amaqabane eGadini",
+        "Abathunywa beDolophu kwiSurah Ya-Sin",
+        "Abantu Bendlovu",
+        "Abagcini beSihogo soMlilo"
+      ],
+      "answer": "Amaqabane eGadini"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukunikela ngenkomo ukuze kusonjululwe ingxabano yokubulala",
+        "Ucela umprofeti ukuba awise amatye esibhakabhakeni",
+        "Baceba ukuvuna kusasa ngelixa bevimba amahlwempu isabelo sabo",
+        "Ukwaphula iSabatha ngokubeka iminatha yokuloba",
+        "Ukwakha idama lokulawula amanzi ezikhukula ukuze kurhwetywe ngawo"
+      ],
+      "answer": "Baceba ukuvuna kusasa ngelixa bevimba amahlwempu isabelo sabo"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Intlambo engcwele yaseTuwa apho kwabonwa khona umlilo",
+        "Igadi yeziqhamo ebiyelweyo iza kuvunwa kusasa",
+        "Umgangatho webhotwe okwisibuko uphazanyiswe ngamanzi",
+        "Umkhombe womthi owakhiwe phantsi kwemiyalelo kaThixo",
+        "Udonga lwesinyithi olwakhiwe phakathi kweentaba ezimbini"
+      ],
+      "answer": "Igadi yeziqhamo ebiyelweyo iza kuvunwa kusasa"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Saguqulwa saba ziinkawu ngenxa yokungawuthobeli umthetho weSabatha",
+        "Silele emqolombeni iminyaka engamakhulu amathathu anesithoba",
+        "Saginywa ngumhlaba ngobutyebi bokuzingca",
+        "Igadi yethu yatshatyalaliswa ngobusuku bonke yaze yashiywa imnyama njengobusuku",
+        "Satshoniswa elwandle ngelixa sisukela amakholwa"
+      ],
+      "answer": "Igadi yethu yatshatyalaliswa ngobusuku bonke yaze yashiywa imnyama njengobusuku"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

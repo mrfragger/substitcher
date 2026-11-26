@@ -1,0 +1,61 @@
+{
+  "title": "Declaratio Submersorum",
+  "intro": "Finge tibi principem potentem splendore, monumentis, exercitibusque uni imperio oboedientem circumdatum. Hic vir summam auctoritatem sibi vindicavit, divina signa tamquam illusionem repudiavit, et persecutionem indefessae versus mare imperavit. Vestigia sequere a decretis arrogantibus ad aquas divisas, ubi confessio finalis sero advenit ut servet.",
+  "clues": [
+    "Potestatem absolutam tenui et filios Israel sub imperio meo servitutem reddidi.",
+    "Dominum altissimum me declaravi et nullum deum supra me agnoscere recusavi.",
+    "Iussi Aman ut mihi turrim excelsam aedificaret, ut Deum Musae contemplare possem.",
+    "Musam et Harunem, cum manifesta signa attulerunt, oppugnavi, et miracula eorum magiam appellavi.",
+    "Musam fidelesque cum exercitibus meis nocte persecutus sum, donec ad mare pervenimus.",
+    "Fidem professus sum dum in mari submergerer, sed sero erat, et corpus meum in signum servatum est."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Namrud",
+        "Jalut (Goliath)",
+        "Abu Jahl",
+        "Pharao (Fir'aun)",
+        "Aman"
+      ],
+      "answer": "Pharao (Fir'aun)"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "In ignem coniectus est, qui frigidus et tutus factus est",
+        "Arcam aedificavit ut diluvium magnum superviveret",
+        "In spelunca cum sociis per multos annos dormivit",
+        "A magno pisce in profundo deglutitus est",
+        "Submersus est dum Musam et Israelitas per mare divisum persequebatur"
+      ],
+      "answer": "Submersus est dum Musam et Israelitas per mare divisum persequebatur"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Venter piscis magni",
+        "Sacra Mesquita Meccae",
+        "Mare divisum",
+        "Antrum Hirae",
+        "Hortus cum fluminibus fluentibus"
+      ],
+      "answer": "Mare divisum"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Vivus ad caelum evectus",
+        "Transformati propter Sabbatum violandum",
+        "Ignoscens et regnum longum et pacificum concessum",
+        "A terra cum thesauris absorptus",
+        "Incredulitate submersi, corpusque in signum iis qui postea sunt servatum est."
+      ],
+      "answer": "Incredulitate submersi, corpusque in signum iis qui postea sunt servatum est."
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

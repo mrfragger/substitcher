@@ -1,0 +1,61 @@
+{
+  "title": "El jardí promès a l'alba",
+  "intro": "En les hores tranquil·les abans de la sortida del sol, es va fer un pla en secret. Una herència florent estava a punt per a la collita, però es va formar la resolució de mantenir tots els fruits allunyats dels necessitats. Al matí, tot semblaria desconegut i una lliçó quedaria gravada a les branques ennegrides per a tots els que reflexionessin.",
+  "clues": [
+    "Vam heretar un jardí florent i vam prometre collir-ne tots els fruits per a nosaltres mateixos.",
+    "Vam jurar sortir d'hora a l'alba mentre els pobres que demanaven la seva part encara dormien.",
+    "Vam excloure qualsevol excepció del nostre jurament i vam retenir el dret dels necessitats sense dir si Al·là vol.",
+    "Vam sortir a xiuxiuejar els uns als altres que no permetéssim que cap pobre entrés al nostre jardí aquell dia.",
+    "Ens imaginàvem plenament capaços de recollir-ho tot i evitar que cap espigador en prengués una part.",
+    "Ens vam despertar i vam trobar el nostre jardí en ruïnes a la nit, ennegrit com si haguéssim estat collit, i vam dir que estàvem privats i penitents."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Els companys de la trinxera",
+        "Els companys del jardí",
+        "Els Missatgers de la Ciutat a la Sura Ya-Sin",
+        "La gent de l'elefant",
+        "Els guardians del foc infernal"
+      ],
+      "answer": "Els companys del jardí"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Sacrificar una vaca per resoldre una disputa per assassinat",
+        "Desafiant un profeta a fer baixar pedres del cel",
+        "Conspirant per collir a l'alba mentre neguen als pobres la seva part",
+        "Trencant el Sàbat col·locant xarxes de pesca",
+        "Construcció d'una presa per controlar les aigües de les inundacions per al comerç"
+      ],
+      "answer": "Conspirant per collir a l'alba mentre neguen als pobres la seva part"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La vall sagrada de Tuwa on es va veure foc",
+        "El hort emmurallat que es collirà al matí",
+        "El terra del palau emmirallat confós amb aigua",
+        "L'arca de fusta construïda sota instrucció divina",
+        "El mur de ferro construït entre dues muntanyes"
+      ],
+      "answer": "El hort emmurallat que es collirà al matí"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ens van convertir en simis per transgredir el dissabte",
+        "Vam dormir en una cova durant tres-cents nou anys",
+        "Ens va engolir la terra amb tresors per orgull",
+        "El nostre jardí va ser destruït durant la nit i va quedar ennegrit com la nit",
+        "Ens vam ofegar al mar mentre perseguíem els creients"
+      ],
+      "answer": "El nostre jardí va ser destruït durant la nit i va quedar ennegrit com la nit"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Lorategiak egunsentian zin egin zuen",
+  "intro": "Egunsentia baino lehenagoko ordu lasaietan, plan bat egin zen sekretuan. Ondare oparoa uzta biltzeko prest zegoen, baina fruitu guztiak behar zutenengandik urrun mantentzeko erabakia hartu zen. Goizean, dena ezezaguna izango zen, eta ikasgai bat grabatuko zen adar beltzetan hausnartzen zuten guztientzat.",
+  "clues": [
+    "Lorategi oparoa jaso genuen eta haren fruitu guztiak geuk biltzea zin egin genuen.",
+    "Zin egin genuen egunsentian goiz irteteko, beren zatia eskatzen zuten pobreak oraindik lo zeuden bitartean.",
+    "Gure zinetik edozein salbuespen baztertu genuen eta behartsuen eskubidea ukatu genuen Allahk nahi duen ala ez esan gabe.",
+    "Elkarri xuxurlatuz irten ginen egun hartan gure lorategian inongo pobrerik sartzen ez uzteko.",
+    "Dena biltzeko eta edozein biltzailek zati bat hartzea eragozteko guztiz gai ginela imajinatzen genuen.",
+    "Gauean esnatu ginenean gure lorategia hondatuta aurkitu genuen, bilduta balego bezala belztuta, eta gabetuta eta damututa geundela esan genuen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Lubakiaren Lagunak",
+        "Lorategiko Lagunak.",
+        "Herriko Mezulariak Surah Ya-Sin-en",
+        "Elefantearen Jendea",
+        "Infernuko Suaren Zaindariak"
+      ],
+      "answer": "Lorategiko Lagunak."
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Hilketa-gatazka bat konpontzeko behi bat sakrifikatzea",
+        "Profeta bati erronka botatzen dio zerutik harriak jaisteko",
+        "Egunsentian uzta biltzeko asmoarekin, pobreei beren zatia ukatuz",
+        "Arrantza-sareak jarriz Sabbatua haustea",
+        "Merkataritzarako uholde-urak kontrolatzeko presa bat eraikitzea"
+      ],
+      "answer": "Egunsentian uzta biltzeko asmoarekin, pobreei beren zatia ukatuz"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Tuwako haran sakratua, sua ikusi zen tokia",
+        "Goizean bildu beharreko lorategi harresitua",
+        "Jauregiko ispiluzko zorua urarekin nahastuta",
+        "Jainkozko agindupean eraikitako egurrezko kutxa",
+        "Bi mendien artean eraikitako burdinazko harresia"
+      ],
+      "answer": "Goizean bildu beharreko lorategi harresitua"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Sabbatua hausteagatik tximino bihurtu gintuzten",
+        "Hirurehun eta bederatzi urtez lo egin genuen kobazulo batean",
+        "Lurrak irentsi gintuen harrotasunerako altxorrak genituen bitartean",
+        "Gure lorategia gau batean suntsitu zuten eta gaua bezala belztuta geratu zen",
+        "Itsasoan ito ginen sinestunen atzetik zihoazela"
+      ],
+      "answer": "Gure lorategia gau batean suntsitu zuten eta gaua bezala belztuta geratu zen"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

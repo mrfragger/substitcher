@@ -1,0 +1,61 @@
+{
+  "title": "Ny Fanambarana Rendrika",
+  "intro": "Alaivo sary an-tsaina ny mpitondra mahery iray voahodidin'ny voninahitra, tsangambato ary tafika mankatò baiko tokana. Io olona io dia nitaky ny fahefana fara tampony, nanilika ny famantarana avy amin'Andriamanitra ho toy ny fitaka, ary nandidy ny fanenjehana tsy an-kijanona mankany an-dranomasina. Araho ny lalana manomboka amin'ny didim-pitsarana miavonavona mankany amin'ny rano misasaka, izay misy fiaiken-keloka farany tonga tara loatra ka tsy mahavonjy.",
+  "clues": [
+    "Nitana ny fahefana feno aho ary nanandevo ny Zanak'Isiraely teo ambany fifehezako.",
+    "Nanambara ny tenako ho Tompo Avo Indrindra aho ary nandà tsy hanaiky andriamanitra hafa ambonin'ny tenako.",
+    "Nandidy an'i Hamana aho mba hanorina tilikambo avo ho ahy mba hahafahako mijery ny Andriamanitr'i Mosesy.",
+    "Niatrika an'i Musa sy Harun aho rehefa nitondra famantarana mazava izy ireo, ary niantso ny fahagagana nataony ho ody aho.",
+    "Nanenjika an'i Musa sy ireo mpino niaraka tamin'ny miaramilako aho tamin'ny alina mandra-pahatonganay tany amin'ny ranomasina.",
+    "Nanambara ny finoako aho raha mbola nilentika tao an-dranomasina, saingy efa tara loatra, ary voatahiry ho famantarana ny vatako."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Namroud",
+        "Jalut (Goliata)",
+        "Abu Jahl",
+        "Farao (Fir'aun)",
+        "Hamana"
+      ],
+      "answer": "Farao (Fir'aun)"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Natsipy tao anaty afo izay nanjary nangatsiaka sy azo antoka",
+        "Nanangana sambo fiara mba ho tafavoaka velona tamin'ny safodrano lehibe",
+        "Natory tao anaty lava-bato niaraka tamin'ny namana nandritra ny taona maro",
+        "Natelin'ny trondro lehibe iray tany amin'ny lalina",
+        "Maty an-drano raha nanenjika an'i Mosesy sy ny Isiraelita namaky ny ranomasina nizara roa"
+      ],
+      "answer": "Maty an-drano raha nanenjika an'i Mosesy sy ny Isiraelita namaky ny ranomasina nizara roa"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny kibon'ilay trondro lehibe",
+        "Ny Moske Masina ao Makkah",
+        "Ny ranomasina nisaraka",
+        "Ny Lava-bato Hira",
+        "Ny zaridaina misy renirano mikoriana"
+      ],
+      "answer": "Ny ranomasina nisaraka"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Natsangana velona ho any an-danitra",
+        "Niova noho ny fandikana ny Sabata",
+        "Voavela heloka ary nomena fitondrana milamina sy lava",
+        "Voatelina tamin'ny harena ny tany",
+        "Rendrika noho ny tsy finoana ary voatahiry ny vatana ho famantarana ho an'ireo izay ho avy"
+      ],
+      "answer": "Rendrika noho ny tsy finoana ary voatahiry ny vatana ho famantarana ho an'ireo izay ho avy"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Stûnên Bilind ên Çiyayên Bayê",
+  "intro": "Şaristaniyeke geş xeyal bike ku xwedî hêzeke mezin û jêhatîbûneke bêhempa di avakirinê de ye. Ev civak, ku di nav girên mezin û xwar de bi cih bûbû, nîşanên mezin ên ku digihîştin asoyê bilind kiribûn. Lê belê serbilindî kok girt û banga vegera bo perestina tenê Xwedê bi nerazîbûnê re rû bi rû ma. Tiştê ku li pey hat, hişyariyek e ku bi bayê ve tê hilgirtin.",
+  "clues": [
+    "Em miletekî bi hêz bûn ku piştî gelê Nûh hatin, bi hêz û qedirekî mezin hatin pîrozkirin.",
+    "Me li ser her cihekî bilind birc û abîdeyên bilind ji bo şahiyê û serbilindiyê ava kirin.",
+    "Me pesnê xwe da û got kî ji me bihêztir e, û me bê rehm û zordari tevgeriya.",
+    "Dema ku pêxemberê me Hûd gazî me kir ku em tenê ji Xwedê re îbadet bikin, me ew qels û derewîn bi nav kir.",
+    "Me tinazên xwe bi hişyariyê kir û me ew vexwend ku eger rastgo be, cezayê ku wî gef xwar, bîne ser me.",
+    "Em heft şev û heşt rojan ji aliyê bayekî dijwar û bêber ve hatin wêrankirin, em wek stûnên vala yên darên xurmeyê ketin xwarê."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Gelê Adê",
+        "Banû Nadîr",
+        "Gelê Lût",
+        "Gelê Medyenê",
+        "Gelê Semûdê"
+      ],
+      "answer": "Gelê Adê"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Pêxember Hûd red kir û bi hêzeke bilind pesnê xwe da",
+        "Ji ber hesûdiyê plana kuştina Pêxember Yûsif kirin",
+        "Dema ku Nûh Keştiyê çêdikir, tinazên xwe pê kirin",
+        "Deve wek nîşanek xwest û dû re çokê wê lê da",
+        "Di nebûna Mûsa de golikê zêrîn perestî kirin"
+      ],
+      "answer": "Pêxember Hûd red kir û bi hêzeke bilind pesnê xwe da"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "El-Ehqaf - girên qûmê yên ji ber bayê qelişî",
+        "Kaniya Semûd a di kevir de hatiye kolandin",
+        "Çiyayê Sînayê ku Tewrat lê hat wergirtin",
+        "Çemê Nîlê yê padîşahiya Fîrewn",
+        "Geliyê Pîroz ê Tuwa"
+      ],
+      "answer": "El-Ehqaf - girên qûmê yên ji ber bayê qelişî"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Di lehiya mezin a ku erd pêça de xeniqîn",
+        "Ji ber xudperestiyê bi Qarûn re di erdê de hatin daqurtandin",
+        "Bi kevirên ji axa pijyayî barandin ser",
+        "Bi erdhejeke bihêz ku wan di malên wan de girt, wêran bûn",
+        "Ji aliyê bayekî sar û tund ve heft şev û heşt rojan wêran bû"
+      ],
+      "answer": "Ji aliyê bayekî sar û tund ve heft şev û heşt rojan wêran bû"
+    }
+  },
+  "verseRef": "46:22",
+  "arabic": "قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "They said, \"Have you come to delude us away from our gods? Then bring us what you promise us, if you should be of the truthful.\" (46:22)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La bilancia che si è inclinata verso la rovina",
+  "intro": "In una regione rigogliosa e prospera, una fiorente comunità permise all'avidità di corrompere il mercato. Nota per la sua abilità nel commercio e per l'abbondanza derivante dai giardini circostanti, questa comunità si trovò di fronte a un richiamo all'equità e alla fede. Eppure, l'orgoglio per la ricchezza la spinse alla ribellione, e un'ombra oscura si allungò all'orizzonte.",
+  "clues": [
+    "Eravamo una fiorente comunità commerciale che viveva tra giardini e boschetti.",
+    "Abbiamo imbrogliato la gente nelle misure e nei pesi, diffondendo la corruzione nel paese.",
+    "Il nostro messaggero ci ha ammonito ad adorare solo Allah e a dare la giusta misura.",
+    "Abbiamo deriso il nostro messaggero e abbiamo chiesto che venisse punito se avesse detto la verità.",
+    "Fummo colpiti dalla punizione del Giorno dell'Ombra quando una nube ci avvolse.",
+    "Io sono conosciuto come i Compagni del Bosco, il popolo al quale Shu'ayb fu inviato."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Il popolo di Thamud",
+        "I compagni del bosco",
+        "I compagni della trincea",
+        "Il popolo dell'elefante",
+        "I compagni della caverna"
+      ],
+      "answer": "I compagni del bosco"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Dare poco e sfidare il nostro messaggero",
+        "Pretendendo di vedere Allah direttamente sul Monte Sinai",
+        "Costruire una torre per raggiungere il cielo",
+        "Nascondere la fede segretamente all'interno di un palazzo",
+        "Adorare un vitello d'oro in assenza di Mosè"
+      ],
+      "answer": "Dare poco e sfidare il nostro messaggero"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "La valle sacra di Tuwa",
+        "Il fuoco che è stato raffreddato e reso sicuro",
+        "Il boschetto di Al-Aykah",
+        "La grotta con il cane dormiente all'ingresso",
+        "Il palazzo specchiato di vetro"
+      ],
+      "answer": "Il boschetto di Al-Aykah"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Annegato nel mare diviso",
+        "Inghiottito con tesori nella terra",
+        "Trasformati in scimmie per aver violato il sabato",
+        "Salvati in un'arca sopra le acque del diluvio",
+        "Distrutto dalla punizione del Giorno dell'Ombra"
+      ],
+      "answer": "Distrutto dalla punizione del Giorno dell'Ombra"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

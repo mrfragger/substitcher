@@ -1,0 +1,61 @@
+{
+  "title": "Die Waage, die zum Verderben kippte",
+  "intro": "In einer üppigen und wohlhabenden Region ließ sich eine blühende Gemeinschaft von Gier auf dem Markt korrumpieren. Bekannt für ihr Handelsgeschick und den Reichtum der umliegenden Gärten, stand diese Gruppe vor der Herausforderung, Gerechtigkeit und Glauben zu wahren. Doch der Stolz auf ihren Reichtum führte zu Trotz, und ein dunkler Schatten zog am Horizont auf.",
+  "clues": [
+    "Wir waren eine wohlhabende Handelsgemeinschaft, die inmitten von Gärten und bewaldeten Hainen lebte.",
+    "Wir haben die Menschen bei Maßen und Gewichten betrogen und so die Korruption im Land verbreitet.",
+    "Unser Gesandter hat uns ermahnt, nur Allah anzubeten und das volle Maß zu geben.",
+    "Wir verspotteten unseren Boten und forderten, dass er bestraft werde, wenn er die Wahrheit sage.",
+    "Wir wurden von der Strafe des Tages des Schattens ergriffen, als uns eine Wolke überschattete.",
+    "Ich bin bekannt als die Gefährten des Waldes, das Volk, zu dem Schu'aib gesandt wurde."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Das Volk von Thamud",
+        "Die Gefährten des Waldes",
+        "Die Gefährten des Schützengrabens",
+        "Das Volk des Elefanten",
+        "Die Gefährten der Höhle"
+      ],
+      "answer": "Die Gefährten des Waldes"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Kurz anzulegen und unseren Boten zu missachten",
+        "Die Forderung, Allah direkt am Berg Sinai zu sehen",
+        "Einen Turm bauen, der bis zum Himmel reicht",
+        "Den Glauben heimlich im Palast verbergen",
+        "Die Verehrung eines goldenen Kalbs in Abwesenheit von Musa"
+      ],
+      "answer": "Kurz anzulegen und unseren Boten zu missachten"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Das heilige Tal von Tuwa",
+        "Das Feuer, das abgekühlt und sicher war",
+        "Der bewaldete Hain von Al-Aykah",
+        "Die Höhle mit dem schlafenden Hund am Eingang",
+        "Der verspiegelte Palast aus Glas"
+      ],
+      "answer": "Der bewaldete Hain von Al-Aykah"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Ertrunken im geteilten Meer",
+        "Mit Schätzen in die Erde verschluckt",
+        "Wegen Sabbatbruchs in Affen verwandelt",
+        "Gerettet in einer Arche über den Fluten",
+        "Zerstört durch die Strafe des Tages des Schattens"
+      ],
+      "answer": "Zerstört durch die Strafe des Tages des Schattens"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

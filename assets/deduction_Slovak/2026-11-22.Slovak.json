@@ -1,0 +1,61 @@
+{
+  "title": "Deväť storočí volania",
+  "intro": "Predstavte si, ako stojíte sami proti vlne posmechu dlhšie, než vznikajú a padajú impériá, voláte vo dne v noci, zatiaľ čo máte zapchaté uši a pevne stiahnuté šaty. Pred vami leží loď postavená na suchej zemi a vode, akú ešte nikto nevidel. Cítite trpezlivosť, ktorá sa skrýva za týmto maratónom pozývania?",
+  "clues": [
+    "Pozýval som svoj ľud vo dne i v noci, tajne i verejne, aby uctievali jedine Alaha.",
+    "Môj ľud si strkal prsty do uší a omotal sa odevom, aby sa odvrátil odo mňa.",
+    "Zostal som medzi svojím ľudom deväťsto päťdesiat rokov a volal som ich k vedeniu.",
+    "Postavil som si loď pred Alahovým zrakom a zjavením, zatiaľ čo sa mi moji ľudia posmievali na suchej zemi.",
+    "Dostal som rozkaz vziať na palubu páry každého druhu a veriacich, keď prišiel rozkaz a pec pretekala.",
+    "Sledoval som, ako sa vlny dvíhajú ako hory, keď potopa topila tých, ktorí odmietli, zatiaľ čo Alah zachránil tých v Arche."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Prorok Zul-Kifl",
+        "Prorok Al-Yasa (Elizeáš)",
+        "Prorok Nuh (Noe)",
+        "Prorok Lút (Lót)",
+        "Prorok Mohamed"
+      ],
+      "answer": "Prorok Nuh (Noe)"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Obhajoval som svoju matku tým, že som hovoril v detstve",
+        "Vyložil sen vládcu počas jeho väzenia",
+        "Volal som svoj ľud vo dne v noci 950 rokov",
+        "Bol živý vzatý a pozdvihnutý na vysoké miesto",
+        "Prehltla ho veľká ryba v mori"
+      ],
+      "answer": "Volal som svoj ľud vo dne v noci 950 rokov"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Zlaté teľa divočiny",
+        "Oheň schladil a zabezpečil",
+        "Palác so sklenenou podlahou",
+        "Archa (Al-Fulk)",
+        "Palica, ktorá sa premenila na hada"
+      ],
+      "answer": "Archa (Al-Fulk)"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Môj ľud bol sedem nocí zničený mrazivým vetrom",
+        "Odmietači sa utopili vo Veľkej potope a veriaci boli zachránení",
+        "Moji ľudia boli zničení silným výbuchom jedného rána",
+        "Môj ľud bol pre priestupok premenený na opice",
+        "Môj ľud pohltila zem pre aroganciu"
+      ],
+      "answer": "Odmietači sa utopili vo Veľkej potope a veriaci boli zachránení"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

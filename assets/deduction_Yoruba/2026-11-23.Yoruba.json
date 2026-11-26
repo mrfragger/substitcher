@@ -1,0 +1,61 @@
+{
+  "title": "Ìkéde tí wọ́n rì sínú omi",
+  "intro": "Fojú inú wo alákòóso alágbára kan tí ó yí i ká tí ògo, àwọn ohun ìrántí àti àwọn ọmọ ogun sì ń tẹ̀lé àṣẹ kan ṣoṣo. Ẹni yìí sọ pé òun ni aláṣẹ gíga jùlọ, ó ka àwọn àmì àtọ̀runwá sí àlá, ó sì pàṣẹ fún wọn láti máa lépa òkun láìdáwọ́dúró. Tẹ̀lé ipa ọ̀nà láti inú àwọn àṣẹ ìgbéraga sí àwọn omi tí ó pínyà, níbi tí ìjẹ́wọ́ ìkẹyìn ti dé tí ó pẹ́ jù láti gbà là.",
+  "clues": [
+    "Mo di agbára gidi mú, mo sì fi àwọn ọmọ Israẹli ṣe ẹrú lábẹ́ ìṣàkóso mi.",
+    "Mo pe ara mi ni oluwa giga julọ ati pe mo ko lati gba eyikeyi ọlọrun ti o wa loke mi.",
+    "Mo pàṣẹ fún Hámánì láti kọ́ ilé gogoro gíga kan fún mi kí n lè wo Ọlọ́run Mósà.",
+    "Mo kojú Musa àti Harun nígbà tí wọ́n mú àwọn àmì tó ṣe kedere wá, mo sì pe iṣẹ́ ìyanu wọn ní iṣẹ́ àjẹ́.",
+    "Mo lépa Musa ati awon onigbagbo pelu awon omo ogun mi ni oru titi a fi de okun.",
+    "Mo kéde ìgbàgbọ́ nígbà tí mo ń rì sínú òkun, ṣùgbọ́n ó ti pẹ́ jù, a sì pa ara mi mọ́ gẹ́gẹ́ bí àmì."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ta ni mo jẹ́?",
+      "options": [
+        "Namrud",
+        "Jalut (Goliath)",
+        "Abu Jahl",
+        "Fáráò (Fáráò)",
+        "Hámánì"
+      ],
+      "answer": "Fáráò (Fáráò)"
+    },
+    "trial": {
+      "label": "Ìdánwò/Ìṣẹ̀lẹ̀",
+      "options": [
+        "Wọ́n jù ú sínú iná kan tí ó tutù tí ó sì ní ààbò",
+        "Kọ ọkọ̀ ojú omi kan láti la ìkún omi ńlá kan já",
+        "Mo sùn ninu ihò pẹlu awọn ẹlẹgbẹ mi fun ọpọlọpọ ọdun",
+        "Ẹja ńlá kan gbé e mì nínú ibú omi",
+        "Mo rì sínú omi nígbà tí mo ń lépa Mósè àti àwọn ọmọ Ísírẹ́lì nínú òkun tí ó pínyà"
+      ],
+      "answer": "Mo rì sínú omi nígbà tí mo ń lépa Mósè àti àwọn ọmọ Ísírẹ́lì nínú òkun tí ó pínyà"
+    },
+    "location": {
+      "label": "Ohun Pataki",
+      "options": [
+        "Ikùn ẹja ńlá náà",
+        "Mọ́sálásí Mímọ́ ní Makkah",
+        "Òkun tí a pín sí méjì",
+        "Ihò Hira",
+        "Ọgbà pẹ̀lú àwọn odò tó ń ṣàn"
+      ],
+      "answer": "Òkun tí a pín sí méjì"
+    },
+    "outcome": {
+      "label": "Àbájáde",
+      "options": [
+        "A jí i dìde láàyè sí ọ̀run",
+        "A yipada fun ru ọjọ isimi",
+        "A dariji wọn a si fun wọn ni ijọba alaafia pipẹ",
+        "Ilẹ̀ gbé e mì pẹ̀lú àwọn ìṣúra",
+        "A rì sínú omi nínú àìnígbàgbọ́ a sì pa ara mọ́ gẹ́gẹ́ bí àmì fún àwọn tó tẹ̀lé e"
+      ],
+      "answer": "A rì sínú omi nínú àìnígbàgbọ́ a sì pa ara mọ́ gẹ́gẹ́ bí àmì fún àwọn tó tẹ̀lé e"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

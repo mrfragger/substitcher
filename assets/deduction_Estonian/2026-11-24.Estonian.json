@@ -1,0 +1,61 @@
+{
+  "title": "Tuulest pühitud luidete kõrged sambad",
+  "intro": "Kujutage ette õitsvat tsivilisatsiooni, millel on tohutu jõud ja võrratud ehitusoskused. Asudes elama tohutute, looklevate luidete keskele, kerkis see kogukond horisondini ulatuvaid suuri maamärke. Ometi juurdus uhkus ja üleskutsele naasta ainuüksi Allahi kummardamise juurde vastati trotsiga. See, mis järgnes, on jäänud hoiatuseks, mida tuul ise edasi kandis.",
+  "clues": [
+    "Me olime võimas rahvas, kes tuli pärast Nuuhi rahvast, õnnistatud suure kasvu ja jõuga.",
+    "Me ehitasime igale kõrgele paigale kõrgeid torne ja monumente pelgalt mängu ja uhkuse pärast.",
+    "Me hooplesime, öeldes, kes on meist vägevam, ja tegutsesime türanlikult ja halastamatult.",
+    "Me hülgasime oma sõnumitooja Hudi, kui ta kutsus meid üksnes Allahi kummardama, nimetades teda nõrgaks ja valetajaks.",
+    "Me pilkasime hoiatust ja kutsusime teda üles meid ähvardatud karistusega karistama, kui ta tõele vastab.",
+    "Meid hävitas raevukas, viljatu tuul seitse ööd ja kaheksa päeva, jättes meid varisema nagu õõnsad palmipuude tüved."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "'Ad'i inimesed",
+        "Banu Nadir",
+        "Luti rahvas",
+        "Madjani rahvas",
+        "Thamudi rahvas"
+      ],
+      "answer": "'Ad'i inimesed"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Hülgas prohvet Hudi ja kiitles oma ülima jõuga",
+        "Plaanis armukadedusest prohvet Yusufi tappa",
+        "Pilkas Nuhi, kui too laeva ehitas",
+        "Nõudis märgiks kaameli ja lõi ta siis kintsud kinni",
+        "Kummardas Musa äraolekul kuldvasikat"
+      ],
+      "answer": "Hülgas prohvet Hudi ja kiitles oma ülima jõuga"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Al-Ahqaf - tuule poolt painutatud liivaluited",
+        "Kivisse raiutud Thamudi kaev",
+        "Siinai mägi, kus Toorat vastu võeti",
+        "Vaarao kuningriigi Niiluse jõgi",
+        "Tuwa püha org"
+      ],
+      "answer": "Al-Ahqaf - tuule poolt painutatud liivaluited"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Uppusid suures veeuputuses, mis kattis maa",
+        "Neelati koos Qaruniga maa sisse ülbuse pärast",
+        "Sadas peale küpsetatud savist kive",
+        "Hävis võimas maavärin, mis haaras nad kodudest",
+        "Hävitas seitse ööd ja kaheksa päeva kestnud tugev jäine tuul"
+      ],
+      "answer": "Hävitas seitse ööd ja kaheksa päeva kestnud tugev jäine tuul"
+    }
+  },
+  "verseRef": "46:22",
+  "arabic": "قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "They said, \"Have you come to delude us away from our gods? Then bring us what you promise us, if you should be of the truthful.\" (46:22)"
+}

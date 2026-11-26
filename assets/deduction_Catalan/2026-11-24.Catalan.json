@@ -1,0 +1,61 @@
+{
+  "title": "Els alts pilars de les dunes escombrades pel vent",
+  "intro": "Imagineu-vos una civilització pròspera dotada d'una força imponent i una habilitat inigualable en la construcció. Assentada entre vastes dunes corbes, aquesta comunitat va aixecar grans monuments que tocaven l'horitzó. Tot i això, l'orgull va arrelar, i una crida a tornar a l'adoració exclusiva d'Al·là va ser rebuda amb desafiament. El que va seguir continua sent un avís portat pel vent mateix.",
+  "clues": [
+    "Érem una nació poderosa que va venir després del poble de Nuh, beneïda amb una gran estatura i força.",
+    "Vam construir torres elevades i monuments a tots els llocs alts per mer esport i orgull.",
+    "Ens vam vanagloriar, dient qui era més poderós que nosaltres en força, i vam actuar tirànicament sense pietat.",
+    "Vam rebutjar el nostre missatger Hud quan ens va cridar a adorar només Al·là, titllant-lo de feble i mentider.",
+    "Ens vam burlar de l'advertència i el vam desafiar a fer-nos complir el càstig que havia amenaçat si era sincer.",
+    "Vam ser destruïts per un vent furiós i estèril durant set nits i vuit dies, deixats caiguts com troncs buits de palmeres."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "La gent d'Ad",
+        "Banu Nadir",
+        "La gent de Lut",
+        "El poble de Madyan",
+        "La gent de Thamud"
+      ],
+      "answer": "La gent d'Ad"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Va rebutjar el profeta Hud i es va vantar de la seva força superior",
+        "Va conspirar per matar el profeta Yusuf per gelosia",
+        "Es va burlar de Nuh mentre construïa l'Arca",
+        "Va exigir una camella com a senyal i després li va tallar els tendons",
+        "Va adorar el vedell d'or en absència de Musa"
+      ],
+      "answer": "Va rebutjar el profeta Hud i es va vantar de la seva força superior"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Al-Ahqaf: les dunes de sorra corbades pel vent",
+        "El pou de Thamud gravat en pedra",
+        "El Mont Sinaí, on es va rebre la Torà",
+        "El riu Nil del regne del faraó",
+        "La Vall Sagrada de Tuwa"
+      ],
+      "answer": "Al-Ahqaf: les dunes de sorra corbades pel vent"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ofegats en la gran inundació que va cobrir la terra",
+        "Engolit amb Qarun a la terra per la seva arrogància",
+        "Plogut amb pedres d'argila cuita",
+        "Destruïts per un poderós terratrèmol que els va atrapar a les seves llars",
+        "Destruït per un violent vent glaçat durant set nits i vuit dies"
+      ],
+      "answer": "Destruït per un violent vent glaçat durant set nits i vuit dies"
+    }
+  },
+  "verseRef": "46:22",
+  "arabic": "قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "They said, \"Have you come to delude us away from our gods? Then bring us what you promise us, if you should be of the truthful.\" (46:22)"
+}

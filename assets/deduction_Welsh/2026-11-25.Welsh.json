@@ -1,0 +1,61 @@
+{
+  "title": "Y Cloriannau a Oedd yn Gogwyddo Tuag at Ddinistr",
+  "intro": "Mewn rhanbarth gwyrddlas a llewyrchus, gadawodd cymuned ffyniannus i drachwant lygru'r farchnad. Yn adnabyddus am eu sgiliau mewn masnach a'u digonedd o erddi cyfagos, roedd y grŵp hwn yn wynebu galwad i degwch a ffydd. Eto i gyd, arweiniodd balchder mewn cyfoeth at herfeiddiad, a chysgod tywyll a gasglodd ar y gorwel.",
+  "clues": [
+    "Roedden ni'n gymuned fasnachol lewyrchus yn byw ymhlith gerddi a llwyni coediog.",
+    "Fe wnaethon ni dwyllo pobl gyda mesurau a phwysau, gan ledaenu llygredd yn y tir.",
+    "Cawsom ein rhybuddio gan ein negesydd i addoli Allah yn unig ac i roi mesur llawn.",
+    "Gwnaethom watwar ein negesydd a mynnu bod y gosb yn dod pe bai'n dweud y gwir.",
+    "Cipiwyd ni gan gosb Dydd y Cysgod pan gysgododd cwmwl ni.",
+    "Rwy'n cael fy adnabod fel Cymdeithion y Goedwig, y bobl yr anfonwyd Shu'ayb atynt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Pobl Thamud",
+        "Cymdeithion y Coed",
+        "Cymdeithion y Ffos",
+        "Pobl yr Eliffant",
+        "Cymdeithion yr Ogof"
+      ],
+      "answer": "Cymdeithion y Coed"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Rhoi mesur byr a herio ein negesydd",
+        "Gofyn am weld Allah yn uniongyrchol ym Mynydd Sinai",
+        "Adeiladu twr i gyrraedd y nefoedd",
+        "Cuddio ffydd yn gyfrinachol y tu mewn i balas",
+        "Addoli llo aur yn absenoldeb Musa"
+      ],
+      "answer": "Rhoi mesur byr a herio ein negesydd"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Dyffryn cysegredig Tuwa",
+        "Y tân a wnaed yn oer ac yn ddiogel",
+        "Llwyn coediog Al-Aykah",
+        "Yr ogof gyda chi cysgu wrth ei mynedfa",
+        "Y palas drychog o wydr"
+      ],
+      "answer": "Llwyn coediog Al-Aykah"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Boddi yn y môr wedi'i rannu",
+        "Wedi'i lyncu â thrysorau i'r ddaear",
+        "Wedi'u trawsnewid yn epaod am dorri'r Saboth",
+        "Wedi'i achub mewn arch uwchben y dyfroedd llifogydd",
+        "Wedi'i ddinistrio gan gosb Dydd y Cysgod"
+      ],
+      "answer": "Wedi'i ddinistrio gan gosb Dydd y Cysgod"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

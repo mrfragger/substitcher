@@ -1,0 +1,61 @@
+{
+  "title": "Devyni pašaukimo šimtmečiai",
+  "intro": "Įsivaizduokite, kad stovite vienas prieš pajuokos bangą ilgiau, nei kyla ir žlunga imperijos, šaukiate dieną ir naktį, uždengę ausis ir apsitempę drabužius. Priekyje – sausumoje ir vandenyse pastatytas laivas, kokio dar nematėte. Ar jaučiate kantrybę, slypinčią už šio kvietimų maratono?",
+  "clues": [
+    "Dieną ir naktį, slapta ir atvirai, kviečiau savo žmones garbinti tik Alachą.",
+    "Mano žmonės įkišo pirštus į ausis ir apsigaubė drabužiais, kad nusisuktų nuo manęs.",
+    "Aš pasilikau tarp savo žmonių devynis šimtus penkiasdešimt metų, kviesdamas juos vadovautis.",
+    "Aš pastačiau indą Alacho akyse ir apreiškime, o mano žmonės tyčiojosi iš manęs sausumoje.",
+    "Man buvo įsakyta įnešti į laivą visų rūšių poras ir tikinčiuosius, kai atėjo įsakymas ir krosnis perpildė.",
+    "Stebėjau, kaip bangos kyla lyg kalnai, potvyniui paskandinant tuos, kurie atmetė, o Alachas išgelbėjo tuos, kurie buvo Arkoje."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Dhul-Kifl",
+        "Pranašas Al-Yasa (Eliziejus)",
+        "Pranašas Nuh (Nojus)",
+        "Pranašas Lutas (Lotas)",
+        "Pranašas Muhamedas"
+      ],
+      "answer": "Pranašas Nuh (Nojus)"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Gynė savo motiną kalbėdamas kūdikystėje",
+        "Kalėjime aiškino valdovo sapną",
+        "950 metų dieną ir naktį šaukiau savo tautą",
+        "Buvo gyvas paimtas ir pakeltas į aukštą padėtį",
+        "Jį jūroje prarijo didelė žuvis"
+      ],
+      "answer": "950 metų dieną ir naktį šaukiau savo tautą"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Auksinis dykumos veršis",
+        "Ugnis tapo vėsi ir saugi",
+        "Rūmai su stiklinėmis grindimis",
+        "Arka (Al-Fulk)",
+        "Lazdelė, kuri virto gyvate"
+      ],
+      "answer": "Arka (Al-Fulk)"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Mano žmones septynias naktis naikino stingdantis vėjas",
+        "Atmetėjai nuskendo Didžiajame tvane, o tikintieji buvo išgelbėti",
+        "Vieną rytą mano žmones sunaikino galingas sprogimas",
+        "Mano žmonės buvo paversti beždžionėmis dėl prasižengimų",
+        "Mano tautą prarijo žemė dėl jos arogancijos"
+      ],
+      "answer": "Atmetėjai nuskendo Didžiajame tvane, o tikintieji buvo išgelbėti"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

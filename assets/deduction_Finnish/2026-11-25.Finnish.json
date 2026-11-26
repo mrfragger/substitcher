@@ -1,0 +1,61 @@
+{
+  "title": "Vaaka, joka kallistui kohti tuhoa",
+  "intro": "Vehreällä ja vauraalla alueella kukoistava yhteisö antoi ahneuden turmella markkinat. Kaupankäyntitaidoisuudesta ja ympäröivien puutarhojen yltäkylläisyydestä tunnettu ryhmä kohtasi kutsun oikeudenmukaisuuteen ja uskoon. Vaurauden ylpeys johti kuitenkin uhmakkuuteen, ja horisontissa alkoi hahmottua synkkä varjo.",
+  "clues": [
+    "Olimme vauras kauppayhteisö, joka eli puutarhojen ja metsiköiden keskellä.",
+    "Me huijasimme ihmisiä mitoissa ja painoissa, levitämme turmelusta maassa.",
+    "Lähettiläämme varoitti meitä palvomaan vain Allahia ja antamaan täyden mitan.",
+    "Me pilkkasimme sanansaattajaamme ja vaadimme rangaistusta, jos hän puhuisi totta.",
+    "Varjojen päivän rangaistus valtasi meidät, kun pilvi peitti meidät varjoonsa.",
+    "Minut tunnetaan Metsän Seuralaisina, kansana, jonka luokse Shu'ayb lähetettiin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Thamudin kansa",
+        "Metsän seuralaiset",
+        "Juoksuhaudan seuralaiset",
+        "Norsun kansa",
+        "Luolan seuralaiset"
+      ],
+      "answer": "Metsän seuralaiset"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Lyhyesti sanottuna ja sanansaattajaamme uhmaten",
+        "Vaatimus nähdä Allah suoraan Siinainvuorella",
+        "Tornin rakentaminen taivaisiin pääsemiseksi",
+        "Uskon piilottaminen salaa palatsin sisällä",
+        "Kultaisen vasikan palvonta Musan poissa ollessa"
+      ],
+      "answer": "Lyhyesti sanottuna ja sanansaattajaamme uhmaten"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Tuwan pyhä laakso",
+        "Tuli, joka tehtiin viileäksi ja turvalliseksi",
+        "Al-Aykahin metsäinen lehto",
+        "Luola, jonka suulla on nukkujan koira",
+        "Peilattu lasipalatsi"
+      ],
+      "answer": "Al-Aykahin metsäinen lehto"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Hukkui jakautuneeseen mereen",
+        "Aarteiden nielaisema maan alle",
+        "Muuttuivat apinoiksi sapatin rikkomisesta",
+        "Pelastettu arkissa tulvavesien yläpuolella",
+        "Varjojen päivän rangaistuksen tuhoama"
+      ],
+      "answer": "Varjojen päivän rangaistuksen tuhoama"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

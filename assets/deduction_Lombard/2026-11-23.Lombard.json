@@ -1,0 +1,61 @@
+{
+  "title": "La dichiaraziun affogada",
+  "intro": "Figürate un putent suvran cercià de splendor, monument e armäd che ubbidisen a un ünic comand. Chesta figüra rivendicava l’autorità suprema, scartava i segn divin cuma un’ilusiun e urdinava una persecuziun senza pausa vers el mar. Segui la pista di decret arrugant fin ai aque separà, indué una confesiun final riva tropp tard per salvà.",
+  "clues": [
+    "Ho avud el poder assolut e ho fait s’ciav i Fiœi de Israele sota el me domini.",
+    "Me son dichiarà el sciur püsee volt e me son refudà de recognoss nissun dè sora de mi.",
+    "Ho comandad a Aman de costruir-m una torr volta per vardar el Dé de Musa.",
+    "Ho afruntà Musa e Harun quand che g’han purtà di segn ciar e ho ciamà i luur miracul stregoneria.",
+    "Ho seguì Musa e i credent cunt i me esercit de nott fin quand sem rivà in del mar.",
+    "Ho dichiarad de creder mentre affogavi in ​​del mar, ma l’era trop tard, e el me corp l’è stait preservad come segn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Namrud",
+        "Jalut (Goliat)",
+        "Abu Jahl",
+        "Faraon (Fir'aun)",
+        "Aman"
+      ],
+      "answer": "Faraon (Fir'aun)"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "L’è stà butà denter de un fœuch che l’è diventà frècc e sicür",
+        "Costruì un'arca per suravif a una grand diluviun",
+        "Dormiva in d'una caverna cunt i cumpagn per tanti an",
+        "L’è stà inglutì de un grand pess in del prufondità",
+        "Anegad mentre seguiva Musa e i israelit travers el mar dividü"
+      ],
+      "answer": "Anegad mentre seguiva Musa e i israelit travers el mar dividü"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "La panza del pess grand",
+        "La Mosqea Sacra a Mecca",
+        "El mar separà",
+        "La Grotta de Hira",
+        "El giardin cunt i fiumm che scorren"
+      ],
+      "answer": "El mar separà"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Lestà vif in del ciel",
+        "Trasfurmà per romp el Sabat",
+        "Perdunà e cuncess un luungh regn en paas",
+        "Inglutida da la terra con tesori",
+        "Anegad in incredulità e corp preservà cuma segn per quei dopu"
+      ],
+      "answer": "Anegad in incredulità e corp preservà cuma segn per quei dopu"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

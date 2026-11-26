@@ -1,0 +1,61 @@
+{
+  "title": "Lisakoli ya bato oyo bazindisi mai",
+  "intro": "Kanisá mokonzi moko ya nguya oyo azingami na nkembo, na bamonima, mpe na mampinga oyo ezali kotosa etinda moko. Motángo yango alobaki ete azali na bokonzi oyo eleki monene, aboyaki bilembo ya Nzambe lokola makanisi mpamba, mpe apesaki mitindo ete bálanda ye kozanga kotika epai ya mbu. Landa nzela uta na mibeko ya lolendo kino na mai oyo ekabwani, epai wapi boyamboli ya nsuka ekomi na retard mingi mpo na kobikisa.",
+  "clues": [
+    "Nasimbaki nguya ya mobimba mpe nakomaki Bana ya Yisalaele baombo na nse ya bokonzi na ngai.",
+    "Namilobaki ete nazali nkolo oyo aleki likoló mpe naboyaki kondima nzambe moko oyo aleki ngai.",
+    "Natindaki Hamane atongela ngai linɔ́ngi moko ya likoló mpo nakoka kotala Nzambe ya Musa.",
+    "Nakutanaki na Musa mpe Harun ntango bamemaki bilembo ya polele, mpe nabengaki makamwisi na bango bondɔki.",
+    "Nalandaki Musa na bandimi elongo na mampinga na ngai na butu kino tokomaki na mbu.",
+    "Nasakolaki kondima ntango nazalaki kozinda na mbu, kasi ezalaki na retare mingi, mpe nzoto na ngai ebatelamaki lokola elembo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Namrud, oyo azali",
+        "Jalut (Goliate) .",
+        "Abu Jahl azali moto ya mayele",
+        "Farao (Fir'aun) .",
+        "Hamane"
+      ],
+      "answer": "Farao (Fir'aun) ."
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Babwakaki yango na mɔtɔ oyo ekómaki malili mpe na likama te",
+        "Atongaki masuwa mpo na kobika na mpela monene",
+        "Alalaki na libulu moko elongo na baninga na ye na boumeli ya bambula mingi",
+        "Emelamaki na mbisi moko monene na bozindo",
+        "Azindaki na mai ntango azalaki kolanda Musa mpe Bayisraele na kati ya mbu oyo ekabwanaki"
+      ],
+      "answer": "Azindaki na mai ntango azalaki kolanda Musa mpe Bayisraele na kati ya mbu oyo ekabwanaki"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Libumu ya mbisi monene",
+        "Mosquée sacrée na Makkah",
+        "Mbu oyo ekabwani",
+        "Libulu ya Hira",
+        "Elanga oyo ezali na bibale oyo ezali kosopana"
+      ],
+      "answer": "Mbu oyo ekabwani"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Asekwami ​​na bomoi kino na likoló",
+        "Abongwanaki mpo na kobuka Saba",
+        "Balimbisami mpe bapesaki ye bokonzi ya kimya ntango molai",
+        "Emelami na mabele na biloko ya motuya",
+        "Azindi na kozanga kondima mpe nzoto ebatelami lokola elembo mpo na baye nsima"
+      ],
+      "answer": "Azindi na kozanga kondima mpe nzoto ebatelami lokola elembo mpo na baye nsima"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

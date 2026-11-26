@@ -1,0 +1,61 @@
+{
+  "title": "Umunzane Waje Gusenyuka",
+  "intro": "Mu karere kateye igomwe kandi gateye imbere, umuryango utera imbere wararetse ukunzi w’inda kwonona isoko. Uwo mugwi wari uzwi kubera ubuhinga bwo gucuruza n’umusesekara uva mu mirima yari ikikuje, wari uhanganye n’uguhamagarwa n’ubutungane n’ukwizera. Yamara rero, ubwibone bw’ubutunzi bwatuma umuntu atera umugongo, maze igitutu c’umwiza kirateranira ku musozi.",
+  "clues": [
+    "Twari umuryango w’abadandaza utunze uba hagati y’amatongo n’amashamba.",
+    "Twarahenda abantu mu bipimo no mu bipimo, dukwiragiza ibiturire mu gihugu.",
+    "Twaragabishijwe n’intumwa yacu ngo dusenge Allah wenyene kandi dutange ingero yuzuye.",
+    "Twaratwengeye intumwa yacu, dusaba ko igihano kizoza nimba ari umunyakuri.",
+    "Twarafashwe n’igihano c’Umusi w’Igitutu igihe igicu cadupfutse.",
+    "Nzwi nk’Abagenzi b’Ibiti, abantu Shu’ayb yarungitsweko."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Abantu b'i Tamudi .",
+        "Abagenzi b'Igiti .",
+        "Abagenzi b'Umugende",
+        "Abantu b'inzovu",
+        "Abagenzi b'Isenga"
+      ],
+      "answer": "Abagenzi b'Igiti ."
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Gutanga ingero ngufi no gutera umugongo intumwa yacu",
+        "Gusaba kubona Allah ku musozi Sinai",
+        "Kubaka umunara kugira ngo ushikire mw’ijuru .",
+        "Guhisha ukwizera mu mpisho mu ngoro .",
+        "Gusenga inyana y'inzahabu Musa atahari ."
+      ],
+      "answer": "Gutanga ingero ngufi no gutera umugongo intumwa yacu"
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Ikiyaya ceranda c'i Tuwa .",
+        "Umuriro wari warakonje kandi utekanye .",
+        "Igiti c’amashamba c’i Al-Aykah .",
+        "Ico kinogo gifise imbwa y'umusinzi ku bwinjiriro bwaco",
+        "Ingoro y'indorerwamo y'ibirahuri"
+      ],
+      "answer": "Igiti c’amashamba c’i Al-Aykah ."
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Yarohamye mu kiyaga cagabanijwemwo ibice .",
+        "Yamizwe n'ubutunzi mw'isi .",
+        "Bahindutse inkende kubera guca ku Isabato .",
+        "Yakijijwe mu bwato hejuru y'amazi y'umwuzure .",
+        "Batikijwe n’igihano c’Umusi w’Igitutu ."
+      ],
+      "answer": "Batikijwe n’igihano c’Umusi w’Igitutu ."
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

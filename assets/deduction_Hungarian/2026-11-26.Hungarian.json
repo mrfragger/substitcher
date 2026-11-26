@@ -1,0 +1,61 @@
+{
+  "title": "A kert hajnalban tett fogadalma",
+  "intro": "Napkelte előtti csendes órákban titokban tervet szőttek. Virágzó örökség állt készen az aratásra, mégis elhatározták, hogy minden gyümölcsöt távol tartanak a rászorulótól. Reggelre minden ismeretlennek tűnik majd, és egy tanulság vésődik a megfeketedett ágakba mindazok számára, akik elmélkednek rajta.",
+  "clues": [
+    "Egy virágzó kertet örököltünk, és megfogadtuk, hogy minden gyümölcsét magunknak takarítjuk be.",
+    "Megesküdtünk, hogy kora hajnalban indulunk útnak, amikor még a szegények, akik a részüket kérték, aludtak.",
+    "Kizártunk minden kivételt az eskünk alól, és megtagadtuk a rászorulók jogát anélkül, hogy megkérdeztük volna, ha Allah akarja.",
+    "Suttogva mentünk ki egymással, hogy aznap egyetlen szegény ember se léphessen be a kertünkbe.",
+    "Azt képzeltük magunkról, hogy képesek vagyunk mindent begyűjteni, és megakadályozni, hogy bárki is kapjon belőle.",
+    "Arra ébredtünk, hogy a kertünk romokban hever az éjszaka folyamán, megfeketedett, mintha learatták volna, és azt mondtuk, hogy megfosztottak minket a bűneinktől, és bűnbánatot tartunk."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Az árok társai",
+        "A kert társai",
+        "A város hírnökei a Ja-Sin szúrában",
+        "Az elefánt népe",
+        "A Pokol Tüzének Őrzői"
+      ],
+      "answer": "A kert társai"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Egy tehén feláldozása egy gyilkossági vita megoldása érdekében",
+        "Kihívni egy prófétát, hogy köveket hullasson le az égből",
+        "Hajnali aratást terveznek, miközben megtagadják a szegényektől a részüket",
+        "A szombat megszegése halászhálók kihelyezésével",
+        "Gát építése az árvizek szabályozására a kereskedelem érdekében"
+      ],
+      "answer": "Hajnali aratást terveznek, miközben megtagadják a szegényektől a részüket"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Tuwa szent völgye, ahol tüzet láttak",
+        "A fallal körülvett gyümölcsös, hogy reggel aratni lehessen",
+        "A palota tükrös padlóját víznek tévesztették össze",
+        "Az isteni utasításra épített fa bárka",
+        "A két hegy közé épített vasfal"
+      ],
+      "answer": "A fallal körülvett gyümölcsös, hogy reggel aratni lehessen"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Majmokká változtunk, mert megszegtük a szombatot",
+        "Háromszázkilenc évig aludtunk egy barlangban",
+        "Elnyelt minket a föld, kincsekkel telve, amikért büszkeségben éltünk",
+        "A kertünket egyik napról a másikra elpusztították, és úgy megfeketedett, mint az éjszaka",
+        "A hívők üldözése közben a tengerbe fulladtunk"
+      ],
+      "answer": "A kertünket egyik napról a másikra elpusztították, és úgy megfeketedett, mint az éjszaka"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Il-Ġnien Wiegħed mas-Sebħ",
+  "intro": "Fis-sigħat kwieti qabel tlugħ ix-xemx, sar pjan bil-moħbi. Wirt li jiffjorixxi kien lest għall-ħsad, iżda ffurmat riżoluzzjoni biex kull frott jinżamm 'il bogħod minn dawk fil-bżonn. Sal-għodu, kollox kien se jidher mhux tas-soltu, u lezzjoni kienet se titnaqqax fuq friegħi suwed għal dawk kollha li jirriflettu.",
+  "clues": [
+    "Wirtna ġnien li jiffjorixxi u wegħedna li naħsdu l-frott kollu tiegħu għalina nfusna.",
+    "Ħlifna li noħorġu kmieni mas-sebħ waqt li l-foqra li talbu s-sehem tagħhom ikunu għadhom reqdin.",
+    "Eskludejna kull eċċezzjoni mill-ġurament tagħna u żammejna lura d-dritt tal-foqra mingħajr ma għidna jekk Alla jridx.",
+    "Ħriġna ngħidu lil xulxin b’leħen baxx biex l-ebda fqir ma jidħol fil-ġnien tagħna dakinhar.",
+    "Immaġinajna lilna nfusna kapaċi għalkollox li niġbru kollox u nwaqqfu lil xi ħadd li jiġbor il-qmuħ milli jieħu porzjon.",
+    "Qomna u sibna l-ġnien tagħna mħassar bil-lejl, iswed bħallikieku maħsud, u għedna li konna mċaħħda u nindmu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-Kumpanji tat-Trinka",
+        "Il-Kumpanji tal-Ġnien",
+        "Il-Messaġġiera tal-Belt fis-Surah Ya-Sin",
+        "In-Nies tal-Iljunfant",
+        "Il-Gwardjani tan-Nar tal-Infern"
+      ],
+      "answer": "Il-Kumpanji tal-Ġnien"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Is-sagrifiċċju ta’ baqra biex isolvi tilwima dwar qtil",
+        "Sfida lil profeta biex iniżżel ġebel mis-sema",
+        "Jippjanaw li jaħsdu mas-sebħ filwaqt li jiċħdu s-sehem tagħhom lill-foqra",
+        "Ksur tas-Sabat billi jitqiegħdu xbieki tas-sajd",
+        "Il-bini ta’ diga biex jikkontrolla l-għargħar għall-kummerċ"
+      ],
+      "answer": "Jippjanaw li jaħsdu mas-sebħ filwaqt li jiċħdu s-sehem tagħhom lill-foqra"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Il-wied sagru ta’ Tuwa fejn deher in-nar",
+        "Il-ġnien imdawwar b'ħitan li għandu jinħasad filgħodu",
+        "L-art tal-palazz mera żbaljata għall-ilma",
+        "L-arka tal-injam mibnija taħt istruzzjoni divina",
+        "Il-ħajt tal-ħadid mibni bejn żewġ muntanji"
+      ],
+      "answer": "Il-ġnien imdawwar b'ħitan li għandu jinħasad filgħodu"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Ittradna f’xadini talli ksirna s-Sabat",
+        "Irqadna f'għar għal tliet mija u disa' snin",
+        "Inbelgħuna mill-art bit-teżori għall-kburija",
+        "Il-ġnien tagħna nqered matul il-lejl u tħalla mċajpar bħal-lejl",
+        "Għerqna fil-baħar waqt li konna qed niġru wara dawk li jemmnu"
+      ],
+      "answer": "Il-ġnien tagħna nqered matul il-lejl u tħalla mċajpar bħal-lejl"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

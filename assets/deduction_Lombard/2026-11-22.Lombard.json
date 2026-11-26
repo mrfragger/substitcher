@@ -1,0 +1,61 @@
+{
+  "title": "I nœuf secul de chiamada",
+  "intro": "Pensa che te stà da sul cuntra una marea de burla per pusè temp che i imperi cresen e caden, ciamand nott e dì mentre i orecc sunt cupert e i vestì sunt strent. Davant g’he un bastiment costruì sü terra secca e sü aqua diferent de qual-sa-vöör bastiment vist prima. Pœdet sentir la pazienza derè a chesta maratona de invito?",
+  "clues": [
+    "Ho invità el me popul de nott e de dì, en segret e apert, a venerà Allah sultant.",
+    "El me popul g’ha mettü i dit in di orecc e g’ha s’ciopà i vestì per s’involgià de mi.",
+    "Son restà intra el me popul per nœufcentcinquant’an ciamand-i a la guida.",
+    "Ho costruì un vas sotta i œucc e la rivelaziun de Allah menter la me gent la me ciapava in gir sü la terra secca.",
+    "Me l’è stait comandad de portar a bord coppie de ogni tip e i credent quand qe l’è rivad el comand e el forn l’è trabocad.",
+    "Ho vardad i onde che se levavan sü cuma di muntagn quand che l’alluvio affogava quei che refudavan, mentre Allah salvava quei che l’eran in del Arca."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "El prufeta Zul-Kifl",
+        "Profeta Al-Yasa (Eliseo)",
+        "Profeta Nuh (Noè)",
+        "Profeta Lut (Lot)",
+        "Profeta Maometo"
+      ],
+      "answer": "Profeta Nuh (Noè)"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Difendì la mia mam parland de piscinin",
+        "Interpretà el sogn del suvran menter l’era en presòn",
+        "Ciamà el me popul de nott e de dì per 950 an",
+        "L’è stà ciapà viv e levà sü a una staziun volta",
+        "L’è stada inglutida da un grand pess in del mar"
+      ],
+      "answer": "Ciamà el me popul de nott e de dì per 950 an"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "El vitell d’or del deserto",
+        "El fœg el faseva frècc e sicür",
+        "El palazz cunt un paviment de veder",
+        "L'Arca (Al-Fulk)",
+        "El bastun che l’è diventà un serpent"
+      ],
+      "answer": "L'Arca (Al-Fulk)"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "El me popul l’è stà distrutt de un vent gelà per set nott",
+        "I refudadur sun affogà in del Grand Diluvio e i credent sun stà salvà",
+        "El me popul l’è stà distrutt de un grand esplusiun en una matina",
+        "El me popul l’è stà trasfurmà en simi per trasgresiun",
+        "El me popul l’è stà inglutì de la terra per arroganza"
+      ],
+      "answer": "I refudadur sun affogà in del Grand Diluvio e i credent sun stà salvà"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

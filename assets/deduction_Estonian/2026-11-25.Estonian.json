@@ -1,0 +1,61 @@
+{
+  "title": "Kaalud, mis kaldusid hävingu poole",
+  "intro": "Lopsakas ja jõukas piirkonnas lasi õitsev kogukond ahnusel turgu rikkuda. Kaubandusoskuste ja ümbritsevate aedade külluse poolest tuntud rühm seisis silmitsi õigluse ja usu kutsetega. Kuid uhkus rikkuse üle viis vastuseisuni ja silmapiirile kogunes tume vari.",
+  "clues": [
+    "Me olime jõukas kaubanduskogukond, mis elas aedade ja metsasalude keskel.",
+    "Me petsime inimesi mõõtude ja kaaludega, levitades maal korruptsiooni.",
+    "Meie sõnumitooja hoiatas meid, et peaksime kummardama üksnes Allahi ja andma täie mõõdu.",
+    "Me pilkasime oma sõnumitoojat ja nõudsime karistust, kui ta oleks tõene.",
+    "Meid tabas Varjupäeva karistus, kui pilv meid varjutas.",
+    "Mind tuntakse Metsa Seltslastena, rahvana, kelle juurde Shu'ayb saadeti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Thamudi rahvas",
+        "Metsa kaaslased",
+        "Kaeviku kaaslased",
+        "Elevandi rahvas",
+        "Koopa kaaslased"
+      ],
+      "answer": "Metsa kaaslased"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Lühidalt öeldes ja meie sõnumitoojale vastu astudes",
+        "Nõutakse, et saaks Siinai mäel otse Allahi näha",
+        "Taevasse jõudmiseks torni ehitamine",
+        "Usu salaja palees peitmine",
+        "Kuldvasika kummardamine Musa äraolekul"
+      ],
+      "answer": "Lühidalt öeldes ja meie sõnumitoojale vastu astudes"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Tuwa püha org",
+        "Tuli, mis tehti jahedaks ja ohutuks",
+        "Al-Aykah' metsane salu",
+        "Koobas, mille sissepääsu juures on magaja koer",
+        "Peegeldatud klaasist palee"
+      ],
+      "answer": "Al-Aykah' metsane salu"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Uppus jagatud meres",
+        "Maa alla neelatud aaretega",
+        "Muutusid ahvideks hingamispäeva rikkumise eest",
+        "Päästetud laevas üleujutusvete kohal",
+        "Varjupäeva karistuse poolt hävitatud"
+      ],
+      "answer": "Varjupäeva karistuse poolt hävitatud"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

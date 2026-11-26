@@ -1,0 +1,61 @@
+{
+  "title": "Los nueve siglos de vocación",
+  "intro": "Imagínate estar solo contra una marea de burlas durante más tiempo del que los imperios se alzan y caen, llamando día y noche mientras los oídos están tapados y las vestiduras ajustadas. Delante se encuentra una embarcación construida en tierra firme y aguas como nunca antes se han visto. ¿Puedes percibir la paciencia detrás de esta maratón de invitaciones?",
+  "clues": [
+    "Invité a mi pueblo día y noche, en secreto y abiertamente, a adorar solo a Alá.",
+    "Mi gente se tapó los oídos con los dedos y se envolvió en sus vestiduras para alejarse de mí.",
+    "Permanecí entre mi pueblo durante novecientos cincuenta años, llamándolos a la guía espiritual.",
+    "Construí una embarcación bajo la mirada y la revelación de Alá, mientras mi pueblo se burlaba de mí en tierra firme.",
+    "Se me ordenó llevar a bordo parejas de toda clase y a los creyentes cuando llegara la orden y el horno rebosara.",
+    "Observé cómo las olas se alzaban como montañas mientras la inundación ahogaba a los que se negaban, y Alá salvaba a los que estaban en el Arca."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Dhul-Kifl",
+        "Profeta Al-Yasa (Elisha)",
+        "Profeta Nuh (Noé)",
+        "Profeta Lut (Lot)",
+        "El profeta Mahoma"
+      ],
+      "answer": "Profeta Nuh (Noé)"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Defendí a mi madre hablando en mi infancia.",
+        "Interpretó el sueño del gobernante mientras estaba en prisión.",
+        "Llamé a mi gente día y noche durante 950 años.",
+        "Fue capturado con vida y elevado a un puesto de alto rango.",
+        "Fue tragado por un gran pez en el mar."
+      ],
+      "answer": "Llamé a mi gente día y noche durante 950 años."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El becerro dorado del desierto",
+        "El fuego lo hizo fresco y seguro.",
+        "El palacio con suelo de cristal",
+        "El Arca (Al-Fulk)",
+        "El bastón que se convirtió en serpiente"
+      ],
+      "answer": "El Arca (Al-Fulk)"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Mi pueblo fue diezmado por un viento helado durante siete noches.",
+        "Los que rechazaron la fe se ahogaron en el Gran Diluvio y los creyentes se salvaron.",
+        "Mi pueblo fue destruido por una poderosa explosión una mañana.",
+        "Mi pueblo fue convertido en monos por transgresión.",
+        "Mi pueblo fue engullido por la tierra por su arrogancia."
+      ],
+      "answer": "Los que rechazaron la fe se ahogaron en el Gran Diluvio y los creyentes se salvaron."
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

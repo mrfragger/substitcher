@@ -1,0 +1,61 @@
+{
+  "title": "Vzvišeni stebri vetrovnih sipin",
+  "intro": "Predstavljajte si cvetočo civilizacijo, obdarjeno z izjemno močjo in neprekosljivo gradbeno spretnostjo. Usedena med prostranimi, ukrivljenimi sipinami, je ta skupnost postavila veličastne spomenike, ki so segali do obzorja. Vendar se je ukoreninil ponos in poziv k vrnitvi k čaščenju samo Alaha je bil sprejet z odporom. Kar je sledilo, ostaja opozorilo, ki ga je nosil sam veter.",
+  "clues": [
+    "Bili smo mogočen narod, ki je prišel za Nuhovim ljudstvom, blagoslovljen z veliko postavo in močjo.",
+    "Na vsakem vzvišenem mestu smo zgradili vzvišene stolpe in spomenike zgolj za zabavo in ponos.",
+    "Hvalili smo se, češ da je močnejši od nas, in ravnali smo tiransko in brez usmiljenja.",
+    "Zavrnili smo našega poslanca Huda, ko nas je pozival k čaščenju samo Alaha, in ga imenovali šibkega in lažnivca.",
+    "Posmehovali smo se opozorilu in ga izzvali, naj nam prinese kazen, s katero nam je grozil, če bo govoril resnico.",
+    "Sedem noči in osem dni nas je uničeval besen, neploden veter, podrti kakor votla debla palm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Ljudje iz 'Ad",
+        "Banu Nadir",
+        "Lutovo ljudstvo",
+        "Ljudje iz Madyana",
+        "Ljudje iz Thamuda"
+      ],
+      "answer": "Ljudje iz 'Ad"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Zavrnil je preroka Huda in se hvalil z izjemno močjo",
+        "Iz ljubosumja je načrtoval umor preroka Jusufa",
+        "Posmehoval se je Nuhu, medtem ko je gradil Ark",
+        "Zahteval je kamelo kot znak, nato pa ji je prerezal žile",
+        "V Musovi odsotnosti je častil zlato tele"
+      ],
+      "answer": "Zavrnil je preroka Huda in se hvalil z izjemno močjo"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Al-Ahqaf - vetrovno ukrivljene peščene sipine",
+        "Vodnjak Thamuda, vklesan v kamen",
+        "Gora Sinaj, kjer je bila sprejeta Tora",
+        "Reka Nil v faraonovem kraljestvu",
+        "Sveta dolina Tuwa"
+      ],
+      "answer": "Al-Ahqaf - vetrovno ukrivljene peščene sipine"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Utopljen v veliki poplavi, ki je preplavila zemljo",
+        "Zaradi arogance pogoltnjen s Qarun v zemljo",
+        "Deževalo je z žganimi glinenimi kamni",
+        "Uničil jih je močan potres, ki jih je zajel v njihovih domovih",
+        "Sedem noči in osem dni uničen zaradi močnega ledenega vetra"
+      ],
+      "answer": "Sedem noči in osem dni uničen zaradi močnega ledenega vetra"
+    }
+  },
+  "verseRef": "46:22",
+  "arabic": "قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "They said, \"Have you come to delude us away from our gods? Then bring us what you promise us, if you should be of the truthful.\" (46:22)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Vznešené pilíře větrem ošlehaných dun",
+  "intro": "Představte si prosperující civilizaci obdařenou ohromnou silou a bezkonkurenční stavební dovedností. Tato komunita, usazená mezi rozlehlými, zakřivenými dunami, vztyčila velkolepé památky, které se dotýkaly obzoru. Přesto se zde zakořenila hrdost a volání po návratu k uctívání samotného Alláha se setkalo s odporem. To, co následovalo, zůstává varováním neseným samotným větrem.",
+  "clues": [
+    "Byli jsme mocný národ, který přišel po lidu Nuhově, požehnaný velkou postavou a silou.",
+    "Postavili jsme vznešené věže a památníky na každém vyvýšeném místě jen pro zábavu a hrdost.",
+    "Chlubili jsme se, říkali jsme si, kdo je mocnější než my, a jednali jsme tyransky a bez milosti.",
+    "Odmítli jsme našeho posla Huda, když nás vyzýval k uctívání jedině Alláha, a nazvali ho slabým a lhářem.",
+    "Vysmáli jsme se varování a vyzvali ho, aby na nás uvalil trest, kterým nám hrozil, pokud bude pravdomluvný.",
+    "Sedm nocí a osm dní nás ničil zuřivý, neúrodný vítr, popadali jsme na zem jako duté kmeny palem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Lidé z 'Ad",
+        "Banu Nadir",
+        "Lutův lid",
+        "Lidé z Madyanu",
+        "Lidé z Thamudu"
+      ],
+      "answer": "Lidé z 'Ad"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Odmítl proroka Huda a chlubil se nadřazenou silou",
+        "Ze žárlivosti plánoval zabít proroka Jusufa",
+        "Posmíval se Nuhovi, když stavěl Archu",
+        "Požadoval velbloudici jako znamení a pak jí podřízl šlachy",
+        "Uctíval zlaté tele v Músově nepřítomnosti"
+      ],
+      "answer": "Odmítl proroka Huda a chlubil se nadřazenou silou"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Al-Ahqaf - větrem zakřivené písečné duny",
+        "Studna Thamudu vytesaná do kamene",
+        "Hora Sinaj, kde byla přijata Tóra",
+        "Řeka Nil v faraonovu království",
+        "Posvátné údolí Tuwa"
+      ],
+      "answer": "Al-Ahqaf - větrem zakřivené písečné duny"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Utopeni ve velké potopě, která pokryla zemi",
+        "Spolknut s Qarúnem do země pro aroganci",
+        "Zasypané kameny z vypálené hlíny",
+        "Zničeno silným zemětřesením, které je zasáhlo v jejich domovech",
+        "Zničen prudkým mrazivým větrem po sedm nocí a osm dní"
+      ],
+      "answer": "Zničen prudkým mrazivým větrem po sedm nocí a osm dní"
+    }
+  },
+  "verseRef": "46:22",
+  "arabic": "قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "They said, \"Have you come to delude us away from our gods? Then bring us what you promise us, if you should be of the truthful.\" (46:22)"
+}

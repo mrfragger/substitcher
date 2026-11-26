@@ -1,0 +1,61 @@
+{
+  "title": "La balance qui a basculé vers la ruine",
+  "intro": "Dans une région luxuriante et prospère, une communauté florissante laissa la cupidité corrompre le marché. Réputée pour son savoir-faire commercial et l'abondance de ses jardins environnants, cette communauté fut appelée à la justice et à la foi. Pourtant, l'orgueil engendré par la richesse mena à la rébellion, et une ombre menaçante se profila à l'horizon.",
+  "clues": [
+    "Nous étions une communauté commerçante prospère, vivant au milieu de jardins et de bosquets.",
+    "Nous avons trompé les gens sur les mesures et les poids, répandant ainsi la corruption dans le pays.",
+    "Notre messager nous a avertis de n'adorer qu'Allah et de lui accorder la pleine mesure.",
+    "Nous nous sommes moqués de notre messager et avons exigé qu'il soit puni s'il disait vrai.",
+    "Nous fûmes saisis par le châtiment du Jour de l'Ombre lorsqu'un nuage nous enveloppa.",
+    "Je suis connu comme le peuple des Compagnons du Bois, celui à qui Shu'ayb fut envoyé."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le peuple de Thamud",
+        "Les Compagnons du Bois",
+        "Les Compagnons de la Tranchée",
+        "Le peuple de l'éléphant",
+        "Les Compagnons de la Caverne"
+      ],
+      "answer": "Les Compagnons du Bois"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Faire preuve de cynisme et défier notre messager",
+        "Exiger de voir Allah directement au mont Sinaï",
+        "Construire une tour pour atteindre les cieux",
+        "Cacher secrètement sa foi à l'intérieur d'un palais",
+        "Adorer un veau d'or en l'absence de Moïse"
+      ],
+      "answer": "Faire preuve de cynisme et défier notre messager"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "La vallée sacrée de Tuwa",
+        "Le feu qui avait été refroidi et rendu sûr",
+        "Le bosquet d'Al-Aykah",
+        "La grotte avec le chien d'un dormeur à son entrée",
+        "Le palais de verre aux reflets de miroirs"
+      ],
+      "answer": "Le bosquet d'Al-Aykah"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Noyé dans la mer divisée",
+        "Engloutis avec leurs trésors dans la terre",
+        "Transformés en singes pour avoir enfreint le sabbat",
+        "Sauvés dans une arche au-dessus des eaux du déluge",
+        "Détruit par le châtiment du Jour de l'Ombre"
+      ],
+      "answer": "Détruit par le châtiment du Jour de l'Ombre"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

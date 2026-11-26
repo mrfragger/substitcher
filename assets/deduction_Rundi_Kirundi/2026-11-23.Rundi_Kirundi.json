@@ -1,0 +1,61 @@
+{
+  "title": "Itangazo ry'abarohamye",
+  "intro": "Iyumvire umutware w’inkomezi akikujwe n’ubwiza, ibimenyetso be n’ingabo zigamburuka itegeko rimwe gusa. Uwo muntu yivugira ko ari we afise ubukuru burengeye ubundi bwose, akarekura ibimenyetso vy’Imana nk’aho ari ukwihenda, kandi akategeka ko abantu bakurikirana ata co baciye bashika ku kiyaga. Kurikiza inzira iva ku mategeko y’ubwibone gushika ku mazi atandukanye, aho ukwatura kwa nyuma gushika gucerewe cane kugira ngo umuntu akize.",
+  "clues": [
+    "Nari mfise ububasha bwose kandi nkora abaja Abana ba Isirayeli bari munsi y’ubutegetsi bwanje.",
+    "Narimenyesheje ko ndi umukama asumba abandi bose kandi nanse kwemera imana iyo ari yo yose iri hejuru yanje.",
+    "Nategetse Hamani kunyubakira umunara muremure kugira ngo mbone Imana ya Musa.",
+    "Narahanganye na Musa na Haruni igihe bazana ibimenyetso bitomoye, ibitangaro vyabo navyita ubupfumu.",
+    "Nakurikiye Musa n’abizera n’ingabo zanje mw’ijoro gushika dushitse ku kiyaga.",
+    "Namenyesheje ukwemera igihe nariko ndarohama mu kiyaga, ariko vyari vyaracerewe cane, umubiri wanje urazigama nk’ikimenyetso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Jewe ndi nde?",
+      "options": [
+        "Namurudi",
+        "Jaluti (Goliyati)",
+        "Abu Yahli",
+        "Farawoni (Firawuni)",
+        "Hamani"
+      ],
+      "answer": "Farawoni (Firawuni)"
+    },
+    "trial": {
+      "label": "Igerageza/Ivyabaye",
+      "options": [
+        "Yajugunywe mu muriro warakonje kandi utekanye .",
+        "Yarubatse ubwato kugira ngo barokoke umwuzure mwinshi .",
+        "Yararyamye mu mwobo n'abagenzi imyaka myinshi",
+        "Yamizwe n'ifi nini mu mazi maremare",
+        "Yarohamye igihe yariko akurikirana Musa n’Abisirayeli mu kiyaga cacitsemwo ibice ."
+      ],
+      "answer": "Yarohamye igihe yariko akurikirana Musa n’Abisirayeli mu kiyaga cacitsemwo ibice ."
+    },
+    "location": {
+      "label": "Ikintu nyamukuru",
+      "options": [
+        "Inda y'ifi nini .",
+        "Umusigiti mweranda wo muri Makka",
+        "Ikiyaga cacitsemwo ibice",
+        "Isenga rya Hira",
+        "Ubusitani bufise inzuzi zitemba"
+      ],
+      "answer": "Ikiyaga cacitsemwo ibice"
+    },
+    "outcome": {
+      "label": "Ingaruka",
+      "options": [
+        "Kuzurwa ari muzima aja mw'ijuru .",
+        "Yahinduwe kubera guca ku Isabato .",
+        "Bababariwe kandi bahabwa ubutegetsi buramba bw'amahoro .",
+        "Bamizwe n'isi n'ubutunzi .",
+        "Yarohamye mu kutizera kandi umubiri uzigamye nk’ikimenyetso ku bazokurikira ."
+      ],
+      "answer": "Yarohamye mu kutizera kandi umubiri uzigamye nk’ikimenyetso ku bazokurikira ."
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

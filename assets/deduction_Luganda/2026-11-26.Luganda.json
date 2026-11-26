@@ -1,0 +1,61 @@
+{
+  "title": "Olusuku lwalayira ku makya",
+  "intro": "Mu ssaawa ezisirifu ng’enjuba tennavaayo, enteekateeka yakolebwa mu nkukutu. Obusika obwali bukulaakulana bwayimirira nga bwetegefu okukungula, naye ne wabaawo okumalirira okukuuma buli kibala nga tekiva ku abo abali mu bwetaavu. We bwakeeredde, buli kimu kyandibadde kirabika nga tekimanyiddwa, era essomo lyandibadde liwandiikiddwa mu matabi agaddugala eri bonna abafumiitiriza.",
+  "clues": [
+    "Twasikira olusuku olwali lukulaakulana era ne tuwera okwekungula ebibala byaalwo byonna.",
+    "Twalayira okufuluma nga bukyali ng’abaavu abaasaba omugabo gwabwe bakyasula.",
+    "Twaggyako okujjako kwonna mu kirayiro kyaffe era ne tuziyiza eddembe ly’abali mu bwetaavu nga tetugambye oba Allah ayagadde.",
+    "Twafuluma nga buli omu ayombagana obutakkiriza muntu yenna mwavu kuyingira mu lusuku lwaffe ku lunaku olwo.",
+    "Twakuba ekifaananyi nga tusobola mu bujjuvu okukung’aanya buli kimu n’okulemesa omulonda yenna okutwala ekitundu.",
+    "Twazuukuka ne tusanga olusuku lwaffe nga lwonoonese ekiro, nga luddugala nga lulinga olukungula, ne tugamba nti twaggyibwako era twenenyezza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Ba Swahaaba b’Omukutu",
+        "Ba Swahaaba b’Olusuku",
+        "Ababaka b’Ekibuga mu Surah Ya-Sin",
+        "Abantu b'Enjovu",
+        "Abakuumi b’omuliro gwa Geyeena"
+      ],
+      "answer": "Ba Swahaaba b’Olusuku"
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Okusaddaaka ente okugonjoola enkaayana z’obutemu",
+        "Okusomooza nnabbi okukka amayinja okuva mu bbanga",
+        "Okukola olukwe lw’okukungula ku makya ate nga beegaana abaavu omugabo gwabwe",
+        "Okumenya Ssabbiiti ng’oteeka obutimba bw’envuba",
+        "Okuzimba ebbibiro okufuga amazzi g’amataba okusobola okusuubula"
+      ],
+      "answer": "Okukola olukwe lw’okukungula ku makya ate nga beegaana abaavu omugabo gwabwe"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Ekiwonvu ekitukuvu ekya Tuwa awaalabiddwa omuliro",
+        "Olusuku lw’ebibala oluliko bbugwe olugenda okukungulwa ku makya",
+        "Wansi w’olubiri nga mulimu endabirwamu nga bakyamuddwa nti amazzi",
+        "Essanduuko ey’embaawo eyazimbibwa wansi w’obulagirizi bwa Katonda",
+        "Bbugwe ow’ekyuma eyazimbibwa wakati w’ensozi bbiri"
+      ],
+      "answer": "Olusuku lw’ebibala oluliko bbugwe olugenda okukungulwa ku makya"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Twafuulibwa enkima olw’okumenya Ssabbiiti",
+        "Twasula mu mpuku okumala emyaka ebikumi bisatu mu mwenda",
+        "Twamira ensi n’eby’obugagga olw’amalala",
+        "Olusuku lwaffe lwasaanawo mu kiro kimu ne lulekebwa nga luddugavu ng’ekiro",
+        "Twabbira mu nnyanja nga tugoberera abakkiriza"
+      ],
+      "answer": "Olusuku lwaffe lwasaanawo mu kiro kimu ne lulekebwa nga luddugavu ng’ekiro"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

@@ -296,6 +296,12 @@ class AdhanClockService {
       return;
     }
 
+    // Muted: skip scheduled adhans (test playback with force still works)
+    if (!force && _settings!.muteAdhan) {
+      print('Adhan muted, not playing $prayerName');
+      return;
+    }
+
     String? adhanFile;
     switch (prayerName) {
       case 'Fajr': adhanFile = _settings!.fajrAdhan; break;

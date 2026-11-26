@@ -1,0 +1,61 @@
+{
+  "title": "Doqquz Əsr Çağırışı",
+  "intro": "Təsəvvür edin ki, imperiyaların yüksəlib süqutundan daha uzun müddət istehza dalğasına qarşı təkbaşına dayanıb, qulaqları bağlı, paltarları isə dartılmış halda gecə-gündüz səslənir. Qarşıda əvvəllər görünməmiş quru və su üzərində tikilmiş bir gəmi dayanır. Bu dəvət marafonunun arxasındakı səbri hiss edə bilərsinizmi?",
+  "clues": [
+    "Mən qövmü gecə-gündüz, gizli və aşkar şəkildə tək Allaha ibadət etməyə dəvət etdim.",
+    "Xalqım Məndən üz döndərmək üçün barmaqlarını qulaqlarına soxdu, paltarlarını ətrafına doladı.",
+    "Mən qövmümün arasında doqquz yüz əlli il qaldım və onları doğru yola çağırdım.",
+    "Qövmüm quruda məni lağa qoyarkən, Allahın nəzəri və vəhyi altında bir gəmi düzəltdim.",
+    "Mənə əmr gəldi və təndir daşıb daşdıqda, hər cürdən cüt-cüt möminləri və möminləri gəmiyə mindirmək əmr olundu.",
+    "Mən dalğaların dağlar kimi qalxdığını, selin inkar edənləri boğduğunu, Allah isə gəmidəkiləri xilas etdiyini gördüm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Peyğəmbər Zül-Kifl",
+        "Peyğəmbər Əl-Yəsa (Elişa)",
+        "Nuh peyğəmbər (ə)",
+        "Lut peyğəmbər (ə)",
+        "Məhəmməd peyğəmbər"
+      ],
+      "answer": "Nuh peyğəmbər (ə)"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Körpəlikdə danışaraq anamı müdafiə etdim",
+        "Həbsxanada olarkən hökmdarın yuxusunu yozdu",
+        "950 ildir ki, xalqımı gecə-gündüz çağırdım",
+        "Diri-diri götürüldü və yüksək bir stansiyaya qaldırıldı",
+        "Dənizdə böyük bir balıq tərəfindən uduldu"
+      ],
+      "answer": "950 ildir ki, xalqımı gecə-gündüz çağırdım"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Səhranın qızıl buzovu",
+        "Yanğın sərin və təhlükəsiz hala gəldi",
+        "Şüşə döşəməli saray",
+        "Əl-Fulk (Gəmi)",
+        "İlana çevrilən əsa"
+      ],
+      "answer": "Əl-Fulk (Gəmi)"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Xalqım yeddi gecə şaxtalı küləklə məhv edildi",
+        "İnkar edənlər Böyük Tufanda boğuldular və möminlər xilas oldular",
+        "Xalqım bir səhər güclü bir partlayışla məhv edildi",
+        "Mənim qövmüm günah işlətmək üçün meymuna çevrildi",
+        "Xalqım təkəbbür üzündən yer üzünə uduldu,"
+      ],
+      "answer": "İnkar edənlər Böyük Tufanda boğuldular və möminlər xilas oldular"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

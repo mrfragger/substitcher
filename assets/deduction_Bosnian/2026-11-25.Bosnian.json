@@ -1,0 +1,61 @@
+{
+  "title": "Vaga koja je prevagnula prema propasti",
+  "intro": "U bujnom i prosperitetnom regionu, napredna zajednica je dozvolila da pohlepa iskvari tržište. Poznata po vještini u trgovini i obilju iz okolnih vrtova, ova grupa se suočila s pozivom na pravednost i vjeru. Ipak, ponos zbog bogatstva doveo je do prkosa, a tamna sjena se skupljala na horizontu.",
+  "clues": [
+    "Bili smo prosperitetna trgovačka zajednica koja je živjela među vrtovima i šumarcima.",
+    "Varali smo ljude u mjerama i tegovima, šireći korupciju u zemlji.",
+    "Naš Poslanik nas je upozorio da obožavamo samo Allaha i da dajemo punu mjeru.",
+    "Ismijavali smo našeg poslanika i zahtijevali kaznu koja će doći ako bude govorio istinu.",
+    "Shvatila nas je kazna Dana sjene kada nas je prekrio oblak.",
+    "Poznat sam kao Drugovi Šume, ljudi kojima je Šu'ajb poslan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Narod Semuda",
+        "Šumski pratioci",
+        "Pratitelji rova",
+        "Narod slona",
+        "Pratitelji pećine"
+      ],
+      "answer": "Šumski pratioci"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Davanje oskudice i prkos našem glasniku",
+        "Zahtjev da vide Alaha direktno na gori Sinaj",
+        "Gradnja tornja da dosegne nebesa",
+        "Tajno skrivanje vjere unutar palače",
+        "Obožavanje zlatnog teleta u odsustvu Muse"
+      ],
+      "answer": "Davanje oskudice i prkos našem glasniku"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Sveta dolina Tuwa",
+        "Vatra koja je ohlađena i sigurna",
+        "Šumovita šumarka Al-Aykah",
+        "Pećina sa psom spavača na ulazu",
+        "Staklena palata od ogledala"
+      ],
+      "answer": "Šumovita šumarka Al-Aykah"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Utopljen u podijeljenom moru",
+        "Progutano s blagom u zemlju",
+        "Pretvoreni u majmune zbog kršenja Sabata",
+        "Spašen u arci iznad potopnih voda",
+        "Uništen kaznom Dana sjene"
+      ],
+      "answer": "Uništen kaznom Dana sjene"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

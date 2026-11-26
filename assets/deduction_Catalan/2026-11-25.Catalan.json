@@ -1,0 +1,61 @@
+{
+  "title": "La balança que es va inclinar cap a la ruïna",
+  "intro": "En una regió exuberant i pròspera, una comunitat pròspera va deixar que la cobdícia corrompés el mercat. Conegut per la seva habilitat en el comerç i l'abundància dels jardins circumdants, aquest grup va haver de fer front a una crida a la justícia i la fe. Tanmateix, l'orgull per la riquesa el va portar al desafiament, i una ombra fosca es va formar a l'horitzó.",
+  "clues": [
+    "Érem una comunitat comercial pròspera que vivia entre jardins i arbredes.",
+    "Vam enganyar la gent en mesures i pesos, estenent la corrupció al país.",
+    "El nostre missatger ens va advertir que adoréssim només Al·là i que donéssim tota la mesura.",
+    "Ens vam burlar del nostre missatger i vam exigir el càstig que havia de venir si era sincer.",
+    "Ens va atrapar el càstig del Dia de l'Ombra quan un núvol ens va cobrir amb la seva ombra.",
+    "Sóc conegut com els Companys del Bosc, la gent a qui va ser enviat Shu'ayb."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "La gent de Thamud",
+        "Els Companys del Bosc",
+        "Els companys de la trinxera",
+        "La gent de l'elefant",
+        "Els companys de la cova"
+      ],
+      "answer": "Els Companys del Bosc"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Donant poca mesura i desafiant el nostre missatger",
+        "Exigint veure Al·là directament al Mont Sinaí",
+        "Construint una torre per arribar al cel",
+        "Amagant la fe en secret dins d'un palau",
+        "Adoració d'un vedell d'or en absència de Musa"
+      ],
+      "answer": "Donant poca mesura i desafiant el nostre missatger"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La vall sagrada de Tuwa",
+        "El foc que es va fer fresc i segur",
+        "El bosc d'Al-Aykah",
+        "La cova amb un gos de dormidor a l'entrada",
+        "El palau de vidre amb miralls"
+      ],
+      "answer": "El bosc d'Al-Aykah"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ofegat al mar dividit",
+        "Engolit amb tresors a la terra",
+        "Transformats en simis per trencar el Sàbat",
+        "Salvat en una arca per sobre de les aigües del diluvi",
+        "Destruït pel càstig del Dia de l'Ombra"
+      ],
+      "answer": "Destruït pel càstig del Dia de l'Ombra"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

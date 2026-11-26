@@ -1,0 +1,61 @@
+{
+  "title": "Vogarskálarnar sem halluðu til glötunar",
+  "intro": "Í gróskumiklu og blómlegu svæði lét blómlegt samfélag græðgi spilla markaðnum. Þekktur fyrir viðskiptahæfileika og gnægð frá nærliggjandi görðum, stóð þessi hópur frammi fyrir kalli til sanngirni og trúar. En stolt af auðæfum leiddi til óhlýðni og dimmur skuggi safnaðist saman við sjóndeildarhringinn.",
+  "clues": [
+    "Við vorum blómlegt verslunarsamfélag sem bjó umkringd görðum og skógi vaxandi lundum.",
+    "Við svikum fólk í málum og vog og breiddum spillingu út í landið.",
+    "Sendiboði okkar varaði okkur við að tilbiðja Allah einan og gefa fullt mæli.",
+    "Við hæddumst að sendiboða okkar og kröfðumst refsingar ef hann væri sannur.",
+    "Við vorum gripin af refsingu skuggadagsins þegar ský huldi okkur.",
+    "Ég er þekktur sem Félagar Skógarins, fólkið sem Shu'ayb var sendur til."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Fólkið í Thamud",
+        "Félagar skógarins",
+        "Félagar skotgrafarinnar",
+        "Fólkið í Fílnum",
+        "Félagar hellisins"
+      ],
+      "answer": "Félagar skógarins"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Að gefa stutta mælingu og ögra sendiboða okkar",
+        "Krefjast þess að hitta Allah beint á Sínaífjalli",
+        "Að byggja turn til að ná til himins",
+        "Að fela trú í leyni inni í höll",
+        "Að tilbiðja gullkálf í fjarveru Músa"
+      ],
+      "answer": "Að gefa stutta mælingu og ögra sendiboða okkar"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Hinn helgi dalur Tuwa",
+        "Eldurinn sem var gerður svalur og öruggur",
+        "Skógi vaxinn lundur Al-Aykah",
+        "Hellinn með hundi sofanda við innganginn",
+        "Speglaða höllin úr gleri"
+      ],
+      "answer": "Skógi vaxinn lundur Al-Aykah"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Drukknaði í klofnu hafi",
+        "Gleypt með fjársjóðum í jörðina",
+        "Breytt í apa fyrir að brjóta hvíldardaginn",
+        "Bjargað í örk yfir flóðvatninu",
+        "Eyðilagður af refsingu skuggadagsins"
+      ],
+      "answer": "Eyðilagður af refsingu skuggadagsins"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "O Jardim Prometido ao Amanhecer",
+  "intro": "Nas horas silenciosas antes do amanhecer, um plano foi tramado em segredo. Uma herança próspera estava pronta para a colheita, mas uma resolução se formou para manter cada fruto longe daqueles que precisavam. Pela manhã, tudo pareceria estranho, e uma lição estaria gravada nos galhos enegrecidos para todos que refletissem.",
+  "clues": [
+    "Herdamos um jardim exuberante e prometemos colher todos os seus frutos para nós mesmos.",
+    "Juramos sair bem cedo, ao amanhecer, enquanto os pobres que pediam sua parte ainda estivessem dormindo.",
+    "Excluímos qualquer exceção ao nosso juramento e negamos o direito dos necessitados sem dizer se Alá o quisesse.",
+    "Saímos sussurrando uns para os outros para não deixar nenhum pobre entrar em nosso jardim naquele dia.",
+    "Nós nos imaginávamos plenamente capazes de recolher tudo e impedir que qualquer respigador levasse uma parte.",
+    "Acordamos e encontramos nosso jardim arruinado durante a noite, enegrecido como se tivesse sido colhido, e dissemos que estávamos privados de algo e arrependidos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Os Companheiros da Trincheira",
+        "Os Companheiros do Jardim",
+        "Os Mensageiros da Cidade na Surata Ya-Sin",
+        "O Povo do Elefante",
+        "Os Guardiões do Fogo Infernal"
+      ],
+      "answer": "Os Companheiros do Jardim"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Sacrificar uma vaca para resolver uma disputa de assassinato.",
+        "Desafiar um profeta a fazer descer pedras do céu",
+        "Planejando colher ao amanhecer enquanto negam aos pobres a sua parte.",
+        "Quebrar o sábado armando redes de pesca",
+        "Construção de uma barragem para controlar as cheias para fins comerciais"
+      ],
+      "answer": "Planejando colher ao amanhecer enquanto negam aos pobres a sua parte."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "O vale sagrado de Tuwa, onde se viu fogo.",
+        "O pomar do jardim murado será colhido pela manhã.",
+        "O chão espelhado do palácio foi confundido com água.",
+        "A arca de madeira construída sob instruções divinas",
+        "A muralha de ferro construída entre duas montanhas"
+      ],
+      "answer": "O pomar do jardim murado será colhido pela manhã."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Fomos transformados em macacos por transgredir o sábado.",
+        "Dormimos em uma caverna por trezentos e nove anos.",
+        "Fomos engolidos pela terra, com tesouros que nos orgulhavam.",
+        "Nosso jardim foi destruído da noite para o dia e ficou enegrecido como a noite.",
+        "Fomos afogados no mar enquanto perseguíamos os crentes."
+      ],
+      "answer": "Nosso jardim foi destruído da noite para o dia e ficou enegrecido como a noite."
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

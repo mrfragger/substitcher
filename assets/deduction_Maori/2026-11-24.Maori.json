@@ -1,0 +1,61 @@
+{
+  "title": "Ngā Pou Teitei o ngā Onepū e Pupuhihia ana e te Hau",
+  "intro": "Whakaarohia tētahi iwi tupu nui, he kaha whakaharahara, he pūkenga hanga whare kāore e taea te whakataurite. I roto i ngā onepū whānui, piko, i whakatūria e tēnei hapori ngā tohu whenua nunui i pā ki te pae tawhiti. Heoi, ka pū te whakapehapeha, ā, ka tūtaki ki te karanga kia hoki ki te karakia ki a Allah anake. Ko te mea i whai ake ko te whakatūpato e mau tonu ana i runga i te hau.",
+  "clues": [
+    "He iwi kaha tātou i muri i te iwi o Noa, i manaakitia ki te nui me te kaha.",
+    "I hanga e mātou ngā pourewa tiketike me ngā whakamaharatanga ki ngā wāhi teitei katoa hei takaro noa iho, hei whakapehapeha hoki.",
+    "I whakapehapeha mātou, i mea ko wai te mea kaha ake i a mātou, ā, i mahi tukino mātou, kahore he tohu tangata.",
+    "I whakakahoretia e tātou tā tātou karere, a Hūta, i tana karangatanga mai kia karakia ki a Allah anake, me tana kī he ngoikore ia, he tangata teka.",
+    "I tawai mātou ki te whakatūpato, ā, i wero i a ia kia whiua mātou e ia mēnā he pono tana kōrero.",
+    "I whakangaromia mātou e te hau nui, pakoko, mō ngā pō e whitu me ngā rā e waru, i mahue iho kia hinga, me te mea he pūtake nikau takoto kau."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te Iwi o 'Ad",
+        "Pāni Nadir",
+        "Te Iwi o Ruta",
+        "Te Iwi o Madyan",
+        "Te Iwi o Thamud"
+      ],
+      "answer": "Te Iwi o 'Ad"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I whakakahoretia te Poropiti a Huta, ā, i whakamanamana ki tōna kaha nui",
+        "I whakatakoto mahere kia patua te Poropiti a Hohepa i te hae",
+        "I tawai ki a Noa i a ia e hanga ana i te Āraka",
+        "I tono i tētahi kamera uha hei tohu, kātahi ka whakamomori i a ia",
+        "I karakia ki te kuao kau koura i te ngaro o Mohi"
+      ],
+      "answer": "I whakakahoretia te Poropiti a Huta, ā, i whakamanamana ki tōna kaha nui"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Al-Ahqaf - ngā onepū piko e te hau",
+        "Te puna o te Thamud i whakairohia ki te kōhatu",
+        "Maunga Hinai te wāhi i riro mai ai te Torah",
+        "Te awa o te Naera o te kingitanga o Parao",
+        "Te Raorao Tapu o Tūwa"
+      ],
+      "answer": "Al-Ahqaf - ngā onepū piko e te hau"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I toremi i roto i te waipuke nui i taupokina te whenua",
+        "I horomia tahitia me Qarun ki te whenua mō te whakapehapeha",
+        "I uaina ki runga i ngā kōhatu paru tunutunu",
+        "I whakangaromia rātou e te rū nui i pā ki ō rātou kāinga",
+        "I whakangaromia e te hau makariri nui mō ngā pō e whitu me ngā rā e waru"
+      ],
+      "answer": "I whakangaromia e te hau makariri nui mō ngā pō e whitu me ngā rā e waru"
+    }
+  },
+  "verseRef": "46:22",
+  "arabic": "قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "They said, \"Have you come to delude us away from our gods? Then bring us what you promise us, if you should be of the truthful.\" (46:22)"
+}

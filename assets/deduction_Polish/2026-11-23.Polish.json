@@ -1,0 +1,61 @@
+{
+  "title": "Utopiona Deklaracja",
+  "intro": "Wyobraź sobie potężnego władcę otoczonego przepychem, pomnikami i armiami posłusznymi jednemu rozkazowi. Postać ta rościła sobie prawo do najwyższej władzy, odrzucała boskie znaki jako iluzję i nakazywała nieustanny pościg w stronę morza. Podążaj szlakiem od aroganckich dekretów do rozstąpionych wód, gdzie ostateczne wyznanie przychodzi za późno, by ocalić.",
+  "clues": [
+    "Sprawowałem władzę absolutną i zniewoliłem Dzieci Izraela pod moimi rządami.",
+    "Ogłosiłem się najwyższym panem i odmówiłem uznania jakiegokolwiek boga wyższego ode mnie.",
+    "Rozkazałem Hamanowi, aby zbudował mi wysoką wieżę, abym mógł patrzeć na Boga Mojżesza.",
+    "Zmierzyłem się z Musą i Harunem, gdy przynieśli wyraźne znaki, a ich cuda nazwałem czarami.",
+    "Ścigałem Musę i wiernych ze swoimi wojskami nocą, aż dotarliśmy do morza.",
+    "Wyznałem wiarę, gdy tonąłem w morzu, ale było za późno i moje ciało zostało zachowane jako znak."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Namrud",
+        "Dżalut (Goliat)",
+        "Abu Dżahl",
+        "Faraon (Firaun)",
+        "Haman"
+      ],
+      "answer": "Faraon (Firaun)"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Został wrzucony do ognia, który stał się chłodny i bezpieczny",
+        "Zbudował arkę, aby przetrwać wielką powódź",
+        "Przez wiele lat spałem w jaskini z towarzyszami",
+        "Zostałem połknięty przez wielką rybę w głębinach",
+        "Utonął podczas pościgu za Musą i Izraelitami przez rozstępujące się morze"
+      ],
+      "answer": "Utonął podczas pościgu za Musą i Izraelitami przez rozstępujące się morze"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Brzuch wielkiej ryby",
+        "Święty Meczet w Mekce",
+        "Rozdzielone morze",
+        "Jaskinia Hira",
+        "Ogród z płynącymi rzekami"
+      ],
+      "answer": "Rozdzielone morze"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Podniesiony żywy do niebios",
+        "Przemieniony za łamanie szabatu",
+        "Wybaczono i obdarzono długim, pokojowym panowaniem",
+        "Pochłonięty przez ziemię wraz ze skarbami",
+        "Utonął w niedowierzaniu, a ciało zachowało się jako znak dla tych, którzy po nim nastąpią"
+      ],
+      "answer": "Utonął w niedowierzaniu, a ciało zachowało się jako znak dla tych, którzy po nim nastąpią"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

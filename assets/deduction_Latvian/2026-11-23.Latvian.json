@@ -1,0 +1,61 @@
+{
+  "title": "Noslīkušā deklarācija",
+  "intro": "Iztēlojieties varenu valdnieku, ko ieskauj krāšņums, pieminekļi un armijas, kas paklausa vienai pavēlei. Šī persona pretendēja uz augstāko varu, noraidīja dievišķās zīmes kā ilūziju un pavēlēja neatlaidīgi vajāt jūras virzienā. Sekojiet pēdām no augstprātīgiem spriedumiem līdz pašķirtiem ūdeņiem, kur pēdējā atzīšanās pienāk pārāk vēlu, lai glābtu.",
+  "clues": [
+    "Es turēju absolūtu varu un paverdzināju Izraēla bērnus savā varā.",
+    "Es pasludināju sevi par visaugstāko kungu un atteicos atzīt jebkuru dievu, kas ir augstāks par mani.",
+    "Es pavēlēju Hamanam uzcelt man augstu torni, lai es varētu skatīt Musas Dievu.",
+    "Es konfrontēju Musu un Harunu, kad viņi atnesa skaidras zīmes, un nosaucu viņu brīnumus par burvestībām.",
+    "Es naktī ar saviem karaspēkiem vajāju Mūsu un ticīgos, līdz sasniedzām jūru.",
+    "Slīkstot jūrā, es apliecināju savu ticību, bet bija jau par vēlu, un mans ķermenis tika saglabāts kā zīme."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Namrud",
+        "Džaluts (Goliāts)",
+        "Abu Džahls",
+        "Faraons (Fir'aun)",
+        "Hamans"
+      ],
+      "answer": "Faraons (Fir'aun)"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Tika iemests ugunī, kas kļuva vēsa un droša",
+        "Uzbūvēja šķirstu, lai pārdzīvotu lielus plūdus",
+        "Daudzus gadus gulēja alā ar biedriem",
+        "Viņu dziļumos norīja liela zivs",
+        "Noslīka, dzenoties pakaļ Musam un izraēliešiem cauri pašķīrušajai jūrai"
+      ],
+      "answer": "Noslīka, dzenoties pakaļ Musam un izraēliešiem cauri pašķīrušajai jūrai"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Lielās zivs vēders",
+        "Svētā mošeja Mekā",
+        "Šķīrusī jūra",
+        "Hiras ala",
+        "Dārzs ar plūstošām upēm"
+      ],
+      "answer": "Šķīrusī jūra"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Augšupcelts dzīvs debesīs",
+        "Pārveidots par sabata pārkāpšanu",
+        "Piedots un piešķirta ilga mierīga valdīšana",
+        "Zeme aprijusi dārgumus",
+        "Noslīcis neticībā un ķermenis saglabāts kā zīme tiem, kas nāks"
+      ],
+      "answer": "Noslīcis neticībā un ķermenis saglabāts kā zīme tiem, kas nāks"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

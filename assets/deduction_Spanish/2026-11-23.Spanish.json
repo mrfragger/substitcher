@@ -1,0 +1,61 @@
+{
+  "title": "La Declaración de Ahogamiento",
+  "intro": "Imagínese a un poderoso gobernante rodeado de esplendor, monumentos y ejércitos obedientes a una sola orden. Esta figura se atribuyó la autoridad suprema, desestimó las señales divinas como ilusiones y ordenó una implacable persecución hacia el mar. Siga el rastro desde decretos arrogantes hasta aguas que se abren, donde una confesión final llega demasiado tarde para salvarlo.",
+  "clues": [
+    "Yo ejercía el poder absoluto y esclavizaba a los Hijos de Israel bajo mi dominio.",
+    "Me declaré señor supremo y me negué a reconocer a ningún dios superior a mí.",
+    "Le ordené a Hamán que me construyera una torre alta para poder contemplar al dios Musa.",
+    "Me enfrenté a Musa y Harun cuando me mostraron señales claras, y llamé a sus milagros brujería.",
+    "Perseguí a Musa y a los creyentes con mis ejércitos durante la noche hasta que llegamos al mar.",
+    "Proclamé mi fe mientras me ahogaba en el mar, pero ya era demasiado tarde, y mi cuerpo se conservó como señal."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Namrud",
+        "Jalut (Goliat)",
+        "Abu Jahl",
+        "Faraón (Fir'aun)",
+        "Hamán"
+      ],
+      "answer": "Faraón (Fir'aun)"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Fue arrojado a un fuego que se enfrió y se volvió seguro.",
+        "Construyeron un arca para sobrevivir a un gran diluvio.",
+        "Dormí en una cueva con compañeros durante muchos años.",
+        "Fue engullido por un gran pez en las profundidades.",
+        "Se ahogó mientras perseguía a Musa y a los israelitas a través del mar abierto."
+      ],
+      "answer": "Se ahogó mientras perseguía a Musa y a los israelitas a través del mar abierto."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El vientre del gran pez",
+        "La Mezquita Sagrada de La Meca",
+        "El mar se separó",
+        "La cueva de Hira",
+        "El jardín con ríos que fluyen"
+      ],
+      "answer": "El mar se separó"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Elevado vivo a los cielos",
+        "Transformado por quebrantar el sábado",
+        "Perdonado y concedido un largo y pacífico reinado.",
+        "Engullidos por la tierra con tesoros",
+        "Ahogado en la incredulidad y el cuerpo preservado como señal para aquellos que vengan después."
+      ],
+      "answer": "Ahogado en la incredulidad y el cuerpo preservado como señal para aquellos que vengan después."
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Nguzo za Juu za Matuta ya Mchanga Yanayopeperushwa na Upepo",
+  "intro": "Hebu fikiria ustaarabu unaostawi uliojaa nguvu kubwa na ujuzi usio na kifani katika ujenzi. Ukiwa umetulia kati ya matuta makubwa yenye kupinda, jumuiya hii ilijenga alama kuu zilizogusa upeo wa macho. Lakini kiburi kiliota mizizi, na wito wa kurudi kumwabudu Mwenyezi Mungu pekee ulikabiliwa na dharau. Kilichofuata kinabaki kuwa onyo lililotolewa dhidi ya upepo wenyewe.",
+  "clues": [
+    "Tulikuwa taifa lenye nguvu lililokuja baada ya watu wa Nuhu, tukiwa tumebarikiwa kwa kimo na nguvu nyingi.",
+    "Tulijenga minara mirefu na makaburi juu ya kila mahali pa juu kwa ajili ya mchezo na fahari tu.",
+    "Tulijisifu, tukisema ni nani aliye na nguvu kuliko sisi kwa nguvu, nasi tukatenda kwa ubabe bila huruma.",
+    "Tulimkataa mjumbe wetu Hud alipotuita tumuabudu Mwenyezi Mungu pekee, tukimwita dhaifu na mwongo.",
+    "Tulidhihaki onyo hilo na tukampa changamoto ya kutuletea adhabu aliyotishia ikiwa alikuwa mkweli.",
+    "Tuliangamizwa na upepo mkali na tasa kwa usiku saba na siku nane, tukiwa tumeanguka kama mashina ya mitende yenye mashimo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Watu wa 'Ad",
+        "Banu Nadir",
+        "Watu wa Lut",
+        "Watu wa Madyan",
+        "Watu wa Thamud"
+      ],
+      "answer": "Watu wa 'Ad"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Alimkataa Nabii Hud na kujisifu kwa nguvu zake kuu",
+        "Alipanga kumuua Nabii Yusufu kwa wivu",
+        "Alimdhihaki Nuh alipokuwa akijenga Safina",
+        "Alidai ngamia jike kama ishara kisha akamkata mshipa wa mguu",
+        "Aliabudu ndama wa dhahabu Musa asipokuwepo"
+      ],
+      "answer": "Alimkataa Nabii Hud na kujisifu kwa nguvu zake kuu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Al-Ahqaf - matuta ya mchanga yenye upepo",
+        "Kisima cha Thamud kilichochongwa kwa jiwe",
+        "Mlima Sinai ambapo Torati ilipokelewa",
+        "Mto Nile wa ufalme wa Farao",
+        "Bonde Takatifu la Tuwa"
+      ],
+      "answer": "Al-Ahqaf - matuta ya mchanga yenye upepo"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Kuzama katika gharika kubwa iliyofunika dunia",
+        "Alimezwa na Qarun ardhini kwa kiburi",
+        "Ilinyesha kwa mawe ya udongo uliookwa",
+        "Waliangamizwa na tetemeko kubwa la ardhi lililowakumba majumbani mwao",
+        "Imeharibiwa na upepo mkali wa baridi kwa usiku saba na siku nane"
+      ],
+      "answer": "Imeharibiwa na upepo mkali wa baridi kwa usiku saba na siku nane"
+    }
+  },
+  "verseRef": "46:22",
+  "arabic": "قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "They said, \"Have you come to delude us away from our gods? Then bring us what you promise us, if you should be of the truthful.\" (46:22)"
+}

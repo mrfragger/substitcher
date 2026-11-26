@@ -1,0 +1,61 @@
+{
+  "title": "Những yếu tố dẫn đến sự sụp đổ",
+  "intro": "Tại một vùng đất tươi tốt và trù phú, một cộng đồng thịnh vượng đã để lòng tham làm tha hóa thị trường. Nổi tiếng về kỹ năng buôn bán và sự sung túc từ các khu vườn xung quanh, nhóm người này phải đối mặt với lời kêu gọi về sự công bằng và lòng tin. Tuy nhiên, lòng kiêu hãnh về sự giàu có đã dẫn đến sự bất tuân, và một bóng tối u ám đang dần hiện ra ở phía chân trời.",
+  "clues": [
+    "Chúng tôi từng là một cộng đồng thương mại thịnh vượng sống giữa những khu vườn và lùm cây.",
+    "Chúng ta đã gian lận trong việc đo lường và cân nặng, gieo rắc tham nhũng khắp đất nước.",
+    "Sứ giả của chúng ta đã cảnh báo chúng ta chỉ nên thờ phụng Allah duy nhất và phải dâng hiến đầy đủ.",
+    "Chúng tôi chế giễu người đưa tin và đòi hỏi hình phạt thích đáng nếu anh ta nói thật.",
+    "Chúng ta đã bị trừng phạt trong Ngày Bóng Tối khi một đám mây bao phủ chúng ta.",
+    "Tôi được biết đến với tên gọi là Những Người Bạn Của Rừng, những người mà Shu'ayb được phái đến."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Người dân Thamud",
+        "Những Người Bạn Đồng Hành của Rừng",
+        "Những người bạn đồng hành của chiến hào",
+        "Người dân của Voi",
+        "Những người bạn đồng hành của hang động"
+      ],
+      "answer": "Những Người Bạn Đồng Hành của Rừng"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Đánh giá thấp và bất chấp sứ giả của chúng ta",
+        "Yêu cầu được trực tiếp nhìn thấy Allah tại núi Sinai",
+        "Xây dựng một tòa tháp vươn tới trời cao",
+        "Giấu kín đức tin bên trong cung điện.",
+        "Thờ cúng con bê vàng khi Musa vắng mặt"
+      ],
+      "answer": "Đánh giá thấp và bất chấp sứ giả của chúng ta"
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Thung lũng thiêng Tuwa",
+        "Ngọn lửa đã được dập tắt và an toàn.",
+        "Khu rừng rậm rạp Al-Aykah",
+        "Hang động với một con chó đang ngủ ở lối vào.",
+        "Cung điện tráng lệ bằng kính"
+      ],
+      "answer": "Khu rừng rậm rạp Al-Aykah"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Chìm đắm trong biển chia cắt",
+        "Nuốt chửng cùng kho báu vào lòng đất",
+        "Bị biến thành vượn vì vi phạm ngày Sa-bát",
+        "Được cứu sống trong một chiếc thuyền trên mặt nước lũ.",
+        "Bị hủy diệt bởi sự trừng phạt của Ngày Bóng Tối"
+      ],
+      "answer": "Bị hủy diệt bởi sự trừng phạt của Ngày Bóng Tối"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La Declaracion dels Afogats",
+  "intro": "Imaginatz un poderós sobeiran enrodat d'esplendor, de monuments, e d'armadas obedientas a un sol comandament. Aquesta figura revendiquèt l'autoritat suprèma, refusèt los signes divins coma illusion, e ordonèt una persecucion incessanta cap a la mar. Seguissètz lo camin de decrèts arrogants fins a las aigas separadas, ont una confession finala arriba tròp tard per salvar.",
+  "clues": [
+    "Teniái lo poder absolut e esclavizèri los Filhs d'Israèl jos mon règne.",
+    "Me declarèri lo mai naut senhor e refusèri de reconéisser quin dieu que siá al dessús de ieu.",
+    "Comandèri a Aman de me bastir una torre nauta per que poguèssi agachar lo Dieu de Musa.",
+    "Confrontèri Musa e Harun quand portèron de signes clars, e apelèri lors miracles de bruèissa.",
+    "Perseguiguèri Musa e los cresents amb mas armadas de nuèch fins qu'arribèrem a la mar.",
+    "Declarèri cresença del temps que m'afogavi dins la mar, mas èra tròp tard, e mon còrs foguèt conservat coma un signe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Namrud",
+        "Jalut (Goliath)",
+        "Abu Jahl",
+        "Faraon (Fir'aun)",
+        "Aman"
+      ],
+      "answer": "Faraon (Fir'aun)"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Foguèt getat dins un fuòc que venguèt fresc e segur",
+        "Bastiguèt una arca per subreviure a una granda inondacion",
+        "Dormiguèt dins una cauna amb de companhs pendent fòrça ans",
+        "Foguèt engolit per un grand peis dins las prigondors",
+        "Afogat del temps que perseguissiá Musa e los Israelitas a travèrs la mar separada"
+      ],
+      "answer": "Afogat del temps que perseguissiá Musa e los Israelitas a travèrs la mar separada"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Lo ventre del grand peis",
+        "La Mosquèa Sagrada a Meca",
+        "La mar despartida",
+        "La Cauna d'Hira",
+        "L'òrt amb de rius que rajan"
+      ],
+      "answer": "La mar despartida"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Levat viu als cèls",
+        "Transformat per trencar lo sabbat",
+        "Perdonat e concedit un long règne pacific",
+        "Engolit per la tèrra amb de tresaurs",
+        "Afogat dins l'incredulitat e lo còrs conservat coma un signe per aqueles après"
+      ],
+      "answer": "Afogat dins l'incredulitat e lo còrs conservat coma un signe per aqueles après"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

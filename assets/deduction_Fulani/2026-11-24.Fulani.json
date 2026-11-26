@@ -1,0 +1,61 @@
+{
+  "title": "Pilaaruuji toowɗi ɗi henndu ɓuuɓndu",
+  "intro": "Miijo-ɗee siwil en ƴellitiiɓe, dokkaaɓe semmbe toowɗo e karallaagal mahngo ngal alaa ko nanndi e mum. Koɗnooɗo hakkunde duuɗe jaajɗe, ɓutte, ndee renndo umminii maandeeji mawɗi memi asamaan. Kono mawnikinaare ƴettii ƴiiƴam, noddaango ngam hootde e dewal Alla tan hawri e ƴattooje. Ko rewi heen ko heddii ko jeertinaango jolngo e henndu nduu e hoore mum.",
+  "clues": [
+    "En ngonnoo leñol doolewol garngol caggal leñol Nuuhu, barkinngol darnde e doole mawɗe.",
+    "Min mahii cuuɗi toowɗi e monimaaji e kala nokku toowɗo ngam fijirde tan e mawnikinaare.",
+    "Min manti, min mbiyi hol ɓurɗo min semmbe, min mbaɗi ko tiiɗnaare tawa min yurmaaki.",
+    "En caliima nulaaɗo men Huudu nde o noddi en ndewen Alla tan, o noddi mbo losɗo, penoowo.",
+    "En njaltinii jeertinaango ngoo, en ndartinii mo yo o addan en jukkungo ngo o hulɓini so tawii ko goonga.",
+    "Min mbonnaama e henndu tikkere, ɓuuɓndu, jammaaji jeeɗiɗi e balɗe jeetati, min keddii ina njippii no ɓuuɓri leɗɗe palɗe nii."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hol ko ngonmi?",
+      "options": [
+        "Yimɓe 'Aad",
+        "Banu Nadir",
+        "Yimɓe Luut",
+        "Yimɓe Madyanaaɓe",
+        "Yimɓe Samuuda"
+      ],
+      "answer": "Yimɓe 'Aad"
+    },
+    "trial": {
+      "label": "Ñaawoore/Kewu",
+      "options": [
+        "Jaɓaani Annabi Huudu, o manti semmbe ɓurɗo toowde",
+        "Feere ngam warde Annabi Yuusuf ngam kaaɗdi",
+        "Mocked Nuh nde o mahi Laana",
+        "Ɗaɓɓi gelooɗi debbo ko maande ndeen hamstrung mo",
+        "Rewi nagge kaŋŋe nde Muusaa alaa"
+      ],
+      "answer": "Jaɓaani Annabi Huud, o manti semmbe ɓurɗo toowde"
+    },
+    "location": {
+      "label": "Elemen keyɗo",
+      "options": [
+        "Al-Ahqaf - ko ɓuuɓri henndu",
+        "Ɓunndu Samud ina seŋaa e kaaƴe",
+        "Tufnde Sinay ɗo Tawreeta heɓtinaa ɗoo",
+        "Maayo Niil laamu Firaawna",
+        "Falnde Tuwa Ceniinde"
+      ],
+      "answer": "Al-Ahqaf - ko ɓuuɓri henndu"
+    },
+    "outcome": {
+      "label": "Keeɓal",
+      "options": [
+        "Njokkii e ilam mawɗam ɓuuɓɗam leydi",
+        "Muuɗi e Qarun e nder leydi ngam mawnikinaare",
+        "Toɓo dow e kaaƴe loopal ɓuuɓngal",
+        "Halkii e yerɓo leydi mawngo, nanngi ɓe e nder galleeji maɓɓe",
+        "Halki ɗum ko henndu ɓuuɓndu, jammaaji jeeɗiɗi e balɗe jeetati"
+      ],
+      "answer": "Halki ɗum ko henndu ɓuuɓndu, jammaaji jeeɗiɗi e balɗe jeetati"
+    }
+  },
+  "verseRef": "46:22",
+  "arabic": "قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "They said, \"Have you come to delude us away from our gods? Then bring us what you promise us, if you should be of the truthful.\" (46:22)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Yıkıma Doğru Devrilen Terazi",
+  "intro": "Bereketli ve müreffeh bir bölgede, gelişen bir topluluk, açgözlülüğün piyasayı yozlaştırmasına izin verdi. Ticaretteki becerileri ve çevredeki bahçelerden gelen bollukla tanınan bu grup, adalet ve inanç çağrısıyla karşı karşıya kaldı. Ancak zenginlik gururu isyankarlığa yol açtı ve ufukta karanlık bir gölge belirdi.",
+  "clues": [
+    "Bahçeler ve ağaçlık alanlar arasında yaşayan, müreffeh bir ticaret topluluğuyduk.",
+    "Ölçü ve tartı konusunda insanları aldattık, ülkede yolsuzluğu yaydık.",
+    "Peygamberimiz bize yalnızca Allah'a ibadet etmemiz ve tam ölçüyle vermemiz konusunda uyarıda bulundu.",
+    "Biz elçimizle alay ettik ve eğer doğru söylüyorsa, gelecek olan cezayı talep ettik.",
+    "Gölge Günü'nün cezasıyla karşı karşıya kaldık, üzerimize bir bulut çöktü.",
+    "Ben, Şuayb'ın gönderildiği halk olan Orman Yoldaşları olarak bilinirim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Thamud Halkı",
+        "Ormanın Yoldaşları",
+        "Siper Yoldaşları",
+        "Fil Halkı",
+        "Mağara Yoldaşları"
+      ],
+      "answer": "Ormanın Yoldaşları"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Kısa ölçülü davranmak ve elçimize karşı gelmek",
+        "Sina Dağı'nda Allah'ı doğrudan görmek istemek",
+        "Gökyüzüne ulaşmak için bir kule inşa etmek",
+        "İnancı gizlice bir sarayın içine saklamak",
+        "Musa'nın yokluğunda altın buzağıya tapınma"
+      ],
+      "answer": "Kısa ölçülü davranmak ve elçimize karşı gelmek"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Tuwa'nın kutsal vadisi",
+        "Soğutulup güvenli hale getirilen ateş",
+        "Al-Aykah'ın ağaçlık korusu",
+        "Girişinde uyuyan bir köpek bulunan mağara",
+        "Aynalı cam saray"
+      ],
+      "answer": "Al-Aykah'ın ağaçlık korusu"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Bölünmüş denizde boğuldu",
+        "Hazinelerle birlikte toprağa gömüldü",
+        "Şabat gününü ihlal ettikleri için maymuna dönüştürüldüler.",
+        "Sel sularının üzerindeki bir gemide kurtarıldılar.",
+        "Gölge Günü'nün cezasıyla yok edildi."
+      ],
+      "answer": "Gölge Günü'nün cezasıyla yok edildi."
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

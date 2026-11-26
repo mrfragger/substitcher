@@ -1,0 +1,61 @@
+{
+  "title": "Il-Miżien Li Nqaleb Lejn ir-Rovina",
+  "intro": "F’reġjun lush u prosperu, komunità li kienet qed tiffjorixxi ħalliet ir-regħba tikkorrompi s-suq. Magħrufa għall-ħila fil-kummerċ u l-abbundanza mill-ġonna tal-madwar, dan il-grupp iffaċċja sejħa għall-ġustizzja u l-fidi. Madankollu l-kburija fl-għana wasslet għall-isfida, u dell skur inġabar fuq l-orizzont.",
+  "clues": [
+    "Konna komunità kummerċjali prospera li ngħixu fost ġonna u boskijiet.",
+    "Qarraqna bin-nies fil-kejl u l-piżijiet, u xerridna l-korruzzjoni fl-art.",
+    "Il-messaġġier tagħna wissa li naduraw lil Alla biss u nagħtu kejl sħiħ.",
+    "Aħna żebilħna lill-messaġġier tagħna u tlabna l-kastig li kellu jiġi jekk kien onest.",
+    "Inħatfuna l-kastig ta’ Jum id-Dell meta sħaba għattietna.",
+    "Jiena magħruf bħala l-Kumpanji tal-Bosk, in-nies li lilhom intbagħat Shu'ayb."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-Poplu ta’ Thamud",
+        "Il-Kumpanji tal-Injam",
+        "Il-Kumpanji tat-Trinka",
+        "In-Nies tal-Iljunfant",
+        "Il-Kumpanji tal-Għar"
+      ],
+      "answer": "Il-Kumpanji tal-Injam"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Nagħtu kejl qasir u nisfidaw il-messaġġier tagħna",
+        "Jitolbu li jaraw lil Alla direttament fuq il-Muntanja Sinaj",
+        "Nibnu torri biex nilħqu s-smewwiet",
+        "Jaħbi l-fidi bil-moħbi ġewwa palazz",
+        "Jaduraw għoġol tad-deheb fin-nuqqas ta’ Mosè"
+      ],
+      "answer": "Nagħtu kejl qasir u nisfidaw il-messaġġier tagħna"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Il-wied sagru ta’ Tuwa",
+        "In-nar li sar frisk u sigur",
+        "Il-bosk bis-siġar ta' Al-Aykah",
+        "L-għar bil-kelb ta’ min jorqod fid-daħla tiegħu",
+        "Il-palazz tal-ħġieġ mera"
+      ],
+      "answer": "Il-bosk bis-siġar ta' Al-Aykah"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Għerqet fil-baħar maqsum",
+        "Mibela’ bit-teżori fl-art",
+        "Trasformati f’xadini talli kisru s-Sabat",
+        "Salvat f'arka 'l fuq mill-ilmijiet tad-dilluvju",
+        "Meqrud bil-kastig ta’ Jum id-Dell"
+      ],
+      "answer": "Meqrud bil-kastig ta’ Jum id-Dell"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

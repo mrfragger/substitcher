@@ -1,0 +1,698 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَزْوَاجٌ مُتَقَابِلَةٌ",
+        "nameEn": "Opposite pairs in creation",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "اللَّيْلِ",
+            "en": "in the night",
+            "ref": "21:42",
+            "verse": "قُلْ مَن يَكْلَؤُكُم بِٱلَّيْلِ وَٱلنَّهَارِ مِنَ ٱلرَّحْمَـٰنِ ۗ بَلْ هُمْ عَن ذِكْرِ رَبِّهِم مُّعْرِضُونَ",
+            "verseEn": "Say, \"Who can protect you at night or by day from the Most Merciful?\" But they are, from the remembrance of their Lord, turning away."
+          },
+          {
+            "ar": "النَّهَارِ",
+            "en": "the day",
+            "ref": "10:45",
+            "verse": "وَيَوْمَ يَحْشُرُهُمْ كَأَن لَّمْ يَلْبَثُوٓا۟ إِلَّا سَاعَةًۭ مِّنَ ٱلنَّهَارِ يَتَعَارَفُونَ بَيْنَهُمْ ۚ قَدْ خَسِرَ ٱلَّذِينَ كَذَّبُوا۟ بِلِقَآءِ ٱللَّهِ وَمَا كَانُوا۟ مُهْتَدِينَ",
+            "verseEn": "And on the Day when He will gather them, [it will be] as if they had not remained [in the world] but an hour of the day, [and] they will know each other. Those will have lost who denied the meeting with Allāh and were not guided."
+          },
+          {
+            "ar": "السَّمَاءِ",
+            "en": "the heaven",
+            "ref": "29:22",
+            "verse": "وَمَآ أَنتُم بِمُعْجِزِينَ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ ۖ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِىٍّۢ وَلَا نَصِيرٍۢ",
+            "verseEn": "And you will not cause failure [to Allāh] upon the earth or in the heaven. And you have not other than Allāh any protector or any helper."
+          },
+          {
+            "ar": "الْأَرْضِ",
+            "en": "the earth",
+            "ref": "10:14",
+            "verse": "ثُمَّ جَعَلْنَـٰكُمْ خَلَـٰٓئِفَ فِى ٱلْأَرْضِ مِنۢ بَعْدِهِمْ لِنَنظُرَ كَيْفَ تَعْمَلُونَ",
+            "verseEn": "Then We made you successors in the land after them so that We may observe how you will do."
+          }
+        ]
+      },
+      {
+        "name": "أَفْعَالُ الْقَوْلِ وَالنِّدَاءِ",
+        "nameEn": "Verbs of speaking, calling and arguing",
+        "color": "green",
+        "items": [
+          {
+            "ar": "قَالَ",
+            "en": "He said",
+            "ref": "26:29",
+            "verse": "قَالَ لَئِنِ ٱتَّخَذْتَ إِلَـٰهًا غَيْرِى لَأَجْعَلَنَّكَ مِنَ ٱلْمَسْجُونِينَ",
+            "verseEn": "[Pharaoh] said, \"If you take a god other than me, I will surely place you among those imprisoned.\""
+          },
+          {
+            "ar": "يُتْلَىٰ",
+            "en": "it is recited",
+            "ref": "28:53",
+            "verse": "وَإِذَا يُتْلَىٰ عَلَيْهِمْ قَالُوٓا۟ ءَامَنَّا بِهِۦٓ إِنَّهُ ٱلْحَقُّ مِن رَّبِّنَآ إِنَّا كُنَّا مِن قَبْلِهِۦ مُسْلِمِينَ",
+            "verseEn": "And when it is recited to them, they say, \"We have believed in it; indeed, it is the truth from our Lord. Indeed we were, [even] before it, Muslims [i.e., submitting to Allāh].\""
+          },
+          {
+            "ar": "أَدْعُو",
+            "en": "I call upon",
+            "ref": "72:20",
+            "verse": "قُلْ إِنَّمَآ أَدْعُوا۟ رَبِّى وَلَآ أُشْرِكُ بِهِۦٓ أَحَدًۭا",
+            "verseEn": "Say, [O Muḥammad], \"I only invoke my Lord and do not associate with Him anyone.\""
+          },
+          {
+            "ar": "جَادَلُوكَ",
+            "en": "they argue (with) you",
+            "ref": "22:68",
+            "verse": "وَإِن جَـٰدَلُوكَ فَقُلِ ٱللَّهُ أَعْلَمُ بِمَا تَعْمَلُونَ",
+            "verseEn": "And if they dispute with you, then say, \"Allāh is most knowing of what you do."
+          }
+        ]
+      },
+      {
+        "name": "مُصْطَلَحَاتُ الْعِلْمِ وَالشَّكِّ وَالْغَيْبِ",
+        "nameEn": "Terms for knowledge, conjecture, doubt and the unseen",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "شَكٍّ",
+            "en": "doubt",
+            "ref": "10:94",
+            "verse": "فَإِن كُنتَ فِى شَكٍّۢ مِّمَّآ أَنزَلْنَآ إِلَيْكَ فَسْـَٔلِ ٱلَّذِينَ يَقْرَءُونَ ٱلْكِتَـٰبَ مِن قَبْلِكَ ۚ لَقَدْ جَآءَكَ ٱلْحَقُّ مِن رَّبِّكَ فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ",
+            "verseEn": "So if you are in doubt, [O Muḥammad], about that which We have revealed to you, then ask those who have been reading the Scripture before you. The truth has certainly come to you from your Lord, so never be among the doubters."
+          },
+          {
+            "ar": "الظَّنَّ",
+            "en": "assumption",
+            "ref": "53:28",
+            "verse": "وَمَا لَهُم بِهِۦ مِنْ عِلْمٍ ۖ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ ۖ وَإِنَّ ٱلظَّنَّ لَا يُغْنِى مِنَ ٱلْحَقِّ شَيْـًۭٔا",
+            "verseEn": "And they have thereof no knowledge. They follow not except assumption, and indeed, assumption avails not against the truth at all."
+          },
+          {
+            "ar": "يَعْقِلُهَا",
+            "en": "will understand them",
+            "ref": "29:43",
+            "verse": "وَتِلْكَ ٱلْأَمْثَـٰلُ نَضْرِبُهَا لِلنَّاسِ ۖ وَمَا يَعْقِلُهَآ إِلَّا ٱلْعَـٰلِمُونَ",
+            "verseEn": "And these examples We present to the people, but none will understand them except those of knowledge."
+          },
+          {
+            "ar": "الْغَيْبُ",
+            "en": "the unseen",
+            "ref": "68:47",
+            "verse": "أَمْ عِندَهُمُ ٱلْغَيْبُ فَهُمْ يَكْتُبُونَ",
+            "verseEn": "Or have they [knowledge of] the unseen, so they write [it] down?"
+          }
+        ]
+      },
+      {
+        "name": "أَقَارِبُ وَمُرَافِقُونَ",
+        "nameEn": "People defined by their relationship to others",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "بَنَاتِي",
+            "en": "(are) my daughters",
+            "ref": "15:71",
+            "verse": "قَالَ هَـٰٓؤُلَآءِ بَنَاتِىٓ إِن كُنتُمْ فَـٰعِلِينَ",
+            "verseEn": "[Lot] said, \"These are my daughters - if you would be doers [of lawful marriage].\""
+          },
+          {
+            "ar": "قَرِينٌ",
+            "en": "a companion",
+            "ref": "37:51",
+            "verse": "قَالَ قَآئِلٌۭ مِّنْهُمْ إِنِّى كَانَ لِى قَرِينٌۭ",
+            "verseEn": "A speaker among them will say, \"Indeed, I had a companion [on earth]."
+          },
+          {
+            "ar": "أَصْحَابُ",
+            "en": "(the) companions",
+            "ref": "26:61",
+            "verse": "فَلَمَّا تَرَٰٓءَا ٱلْجَمْعَانِ قَالَ أَصْحَـٰبُ مُوسَىٰٓ إِنَّا لَمُدْرَكُونَ",
+            "verseEn": "And when the two companies saw one another, the companions of Moses said, \"Indeed, we are to be overtaken!\""
+          },
+          {
+            "ar": "شُرَكَاءُ",
+            "en": "partners",
+            "ref": "39:29",
+            "verse": "ضَرَبَ ٱللَّهُ مَثَلًۭا رَّجُلًۭا فِيهِ شُرَكَآءُ مُتَشَـٰكِسُونَ وَرَجُلًۭا سَلَمًۭا لِّرَجُلٍ هَلْ يَسْتَوِيَانِ مَثَلًا ۚ ٱلْحَمْدُ لِلَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ",
+            "verseEn": "Allāh presents an example: a man [i.e., slave] owned by quarreling partners and another belonging exclusively to one man - are they equal in comparison? Praise be to Allāh! But most of them do not know."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "يتامى",
+    "display": "يَتَامَىٰ",
+    "hint": "Helpless minors left without fathers, needing fair treatment",
+    "verseRef": "4:3",
+    "arabicVerse": "وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا۟ فِى ٱلْيَتَـٰمَىٰ فَٱنكِحُوا۟ مَا طَابَ لَكُم مِّنَ ٱلنِّسَآءِ مَثْنَىٰ وَثُلَـٰثَ وَرُبَـٰعَ ۖ فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا۟ فَوَٰحِدَةً أَوْ مَا مَلَكَتْ أَيْمَـٰنُكُمْ ۚ ذَٰلِكَ أَدْنَىٰٓ أَلَّا تَعُولُوا۟",
+    "verse": "4:3 - And if you fear that you will not deal justly with the orphan girls, then marry those that please you of [other] women, two or three or four. But if you fear that you will not be just, then [marry only] one or those your right hands possess [i.e., slaves]. That is more suitable that you may not incline [to injustice]."
+  },
+  "scramble": {
+    "verseRef": "4:86",
+    "reference": "Surah An-Nisa (4:86)",
+    "segments": [
+      "وَإِذَا حُيِّيتُم بِتَحِيَّةٍ",
+      "فَحَيُّوا بِأَحْسَنَ مِنْهَا",
+      "أَوْ رُدُّوهَا",
+      "إِنَّ اللَّهَ كَانَ",
+      "عَلَى كُلِّ شَيْءٍ",
+      "حَسِيبًا"
+    ],
+    "translations": [
+      "And when you are greeted with a greeting",
+      "then greet with better than it",
+      "or return it Indeed",
+      "Allah is",
+      "of every",
+      "thing an Accountant"
+    ],
+    "hint": "The etiquette of returning greetings with something better",
+    "arabic": "وَإِذَا حُيِّيتُم بِتَحِيَّةٍۢ فَحَيُّوا۟ بِأَحْسَنَ مِنْهَآ أَوْ رُدُّوهَآ ۗ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍ حَسِيبًا",
+    "words": [
+      "وَإِذَا حُيِّيتُم بِتَحِيَّةٍۢ",
+      "فَحَيُّوا۟ بِأَحْسَنَ مِنْهَآ",
+      "أَوْ رُدُّوهَآ ۗ إِنَّ",
+      "ٱللَّهَ كَانَ",
+      "عَلَىٰ كُلِّ",
+      "شَىْءٍ حَسِيبًا"
+    ],
+    "verseEn": "And when you are greeted with a greeting, greet [in return] with one better than it or [at least] return it [in a like manner]. Indeed Allāh is ever, over all things, an Accountant."
+  },
+  "roothive": {
+    "center": "ح",
+    "outer": [
+      "م",
+      "ر",
+      "و",
+      "س",
+      "ا",
+      "ت"
+    ],
+    "root": {
+      "letters": "سحر",
+      "display": "س ح ر",
+      "translit": "s-ḥ-r",
+      "meaning": "The core idea is turning things from reality through illusion and hidden influence. It gives words for magic and magicians, being bewitched, and the time before dawn when light is still veiled.",
+      "occurrences": 63,
+      "lemmaCount": 7
+    },
+    "words": [
+      {
+        "w": "احس",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَحَسَّ",
+            "gloss": "perceived",
+            "type": "verb",
+            "root": "حسس",
+            "count": 3,
+            "ref": "3:52",
+            "pos": 2,
+            "alt": [
+              "perceive"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "تحت",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "تَحْت",
+            "gloss": "under",
+            "type": "noun",
+            "root": "تحت",
+            "count": 51,
+            "ref": "5:66",
+            "pos": 15,
+            "alt": [
+              "beneath",
+              "below"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "حرم",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "حَرَّمَ",
+            "gloss": "allah has made unlawful",
+            "type": "verb",
+            "root": "حرم",
+            "count": 39,
+            "ref": "2:173",
+            "pos": 2,
+            "alt": [
+              "forbidden",
+              "has forbidden"
+            ],
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "حما",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "حَمَإ",
+            "gloss": "black mud",
+            "type": "noun",
+            "root": "حمأ",
+            "count": 3,
+            "ref": "15:26",
+            "pos": 7
+          }
+        ]
+      },
+      {
+        "w": "حوت",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "حُوت",
+            "gloss": "fish",
+            "type": "noun",
+            "root": "حوت",
+            "count": 5,
+            "ref": "7:163",
+            "pos": 14
+          }
+        ]
+      },
+      {
+        "w": "حور",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "حُور",
+            "gloss": "fair ones",
+            "type": "noun",
+            "root": "حور",
+            "count": 4,
+            "ref": "55:72",
+            "pos": 1
+          }
+        ]
+      },
+      {
+        "w": "رحم",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "رَحِمَ",
+            "gloss": "has mercy",
+            "type": "verb",
+            "root": "رحم",
+            "count": 28,
+            "ref": "11:43",
+            "pos": 17,
+            "alt": [
+              "lord has bestowed mercy",
+              "bestows mercy"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "روح",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "رُوح",
+            "gloss": "holy spirit",
+            "type": "noun",
+            "root": "روح",
+            "count": 21,
+            "ref": "16:102",
+            "pos": 3,
+            "alt": [
+              "inspiration"
+            ]
+          },
+          {
+            "lemma": "رَوْح",
+            "gloss": "mercy of allah",
+            "type": "noun",
+            "root": "روح",
+            "count": 3,
+            "ref": "12:87",
+            "pos": 10
+          }
+        ]
+      },
+      {
+        "w": "سحت",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "سُحْت",
+            "gloss": "forbidden",
+            "type": "noun",
+            "root": "سحت",
+            "count": 3,
+            "ref": "5:42",
+            "pos": 4
+          }
+        ]
+      },
+      {
+        "w": "سحر",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "سِحْر",
+            "gloss": "magic",
+            "type": "noun",
+            "root": "سحر",
+            "count": 28,
+            "ref": "5:110",
+            "pos": 62,
+            "alt": [
+              "two magic"
+            ]
+          },
+          {
+            "lemma": "سَحَر",
+            "gloss": "before dawn",
+            "type": "noun",
+            "root": "سحر",
+            "count": 3,
+            "ref": "3:17",
+            "pos": 6,
+            "alt": [
+              "hours before dawn",
+              "dawn"
+            ]
+          },
+          {
+            "lemma": "سَحَرُ",
+            "gloss": "bewitched",
+            "type": "verb",
+            "root": "سحر",
+            "count": 3,
+            "ref": "7:116",
+            "pos": 5,
+            "alt": [
+              "bewitch",
+              "are you deluded"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "سرح",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "سَرِّحُ",
+            "gloss": "release",
+            "type": "verb",
+            "root": "سرح",
+            "count": 3,
+            "ref": "2:231",
+            "pos": 9,
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "محو",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَحَوْ",
+            "gloss": "eliminated",
+            "type": "verb",
+            "root": "محو",
+            "count": 3,
+            "ref": "13:39",
+            "pos": 1,
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "مرح",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَرَح",
+            "gloss": "insolence",
+            "type": "noun",
+            "root": "مرح",
+            "count": 2,
+            "ref": "17:37",
+            "pos": 5,
+            "alt": [
+              "exultantly"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ارحم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَرْحَم",
+            "gloss": "most merciful",
+            "type": "noun",
+            "root": "رحم",
+            "count": 4,
+            "ref": "7:151",
+            "pos": 10
+          }
+        ]
+      },
+      {
+        "w": "امسح",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "امْسَحُ",
+            "gloss": "wipe",
+            "type": "verb",
+            "root": "مسح",
+            "count": 3,
+            "ref": "4:43",
+            "pos": 41,
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "حرام",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "حَرام",
+            "gloss": "ihram",
+            "type": "adjective",
+            "root": "حرم",
+            "count": 33,
+            "ref": "5:1",
+            "pos": 18,
+            "alt": [
+              "sanctuary",
+              "sacred"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "حمار",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "حِمار",
+            "gloss": "donkeys",
+            "type": "noun",
+            "root": "حمر",
+            "count": 5,
+            "ref": "74:50",
+            "pos": 2
+          }
+        ]
+      },
+      {
+        "w": "راحم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "راحِم",
+            "gloss": "show mercy",
+            "type": "active participle",
+            "root": "رحم",
+            "count": 6,
+            "ref": "7:151",
+            "pos": 11,
+            "alt": [
+              "merciful"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ساحر",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "ساحِر",
+            "gloss": "magician",
+            "type": "active participle",
+            "root": "سحر",
+            "count": 22,
+            "ref": "7:112",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "سحار",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "سَحّار",
+            "gloss": "magician",
+            "type": "noun",
+            "root": "سحر",
+            "count": 1,
+            "ref": "26:37",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "سراح",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "سَراح",
+            "gloss": "release",
+            "type": "noun",
+            "root": "سرح",
+            "count": 2,
+            "ref": "33:28",
+            "pos": 14
+          }
+        ]
+      },
+      {
+        "w": "محرم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مُحَرَّم",
+            "gloss": "forbidden",
+            "type": "passive participle",
+            "root": "حرم",
+            "count": 4,
+            "ref": "2:85",
+            "pos": 20
+          }
+        ]
+      },
+      {
+        "w": "مسحر",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "مُسَحَّر",
+            "gloss": "bewitched",
+            "type": "passive participle",
+            "root": "سحر",
+            "count": 2,
+            "ref": "26:153",
+            "pos": 5
+          }
+        ]
+      },
+      {
+        "w": "ارحام",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "أَرْحام",
+            "gloss": "wombs",
+            "type": "noun",
+            "root": "رحم",
+            "count": 12,
+            "ref": "6:143",
+            "pos": 17
+          }
+        ]
+      },
+      {
+        "w": "محروم",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مَحْرُوم",
+            "gloss": "deprived",
+            "type": "passive participle",
+            "root": "حرم",
+            "count": 4,
+            "ref": "56:67",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "مسحور",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "مَسْحُور",
+            "gloss": "bewitched",
+            "type": "passive participle",
+            "root": "سحر",
+            "count": 4,
+            "ref": "15:15",
+            "pos": 8
+          }
+        ]
+      }
+    ],
+    "otherFamily": [],
+    "maxScore": 52,
+    "featuredRoot": "سحر"
+  }
+}

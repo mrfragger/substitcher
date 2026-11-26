@@ -1,0 +1,61 @@
+{
+  "title": "Id-Disa’ Sekli tas-Sejħa",
+  "intro": "Immaġina lilek innifsek waħdek kontra mewġa ta’ tmaqdir għal aktar żmien milli l-imperi jogħlew u jaqgħu, issejjaħ lejl u nhar waqt li widnejk ikunu mgħottija u l-ħwejjeġ ikunu ssikkati. Quddiemek hemm bastiment mibni fuq art niexfa u ilmijiet li ma jidhrux bħal qatt qabel. Tista’ tħoss il-paċenzja wara din il-maratona ta’ stediniet?",
+  "clues": [
+    "Stieden lin-nies tiegħi lejl u nhar, fis-sigriet u fil-beraħ, biex iqimu lil Alla biss.",
+    "In-nies tiegħi daħħlu subgħajhom f’widnejhom u keffnu l-ħwejjeġ madwarhom biex iduru 'l bogħod minni.",
+    "Jiena bqajt fost il-poplu tiegħi għal disa' mija u ħamsin sena nsejjaħhom għall-gwida.",
+    "Bnejt bastiment taħt għajnejn Alla u r-rivelazzjoni tiegħu waqt li n-nies tiegħi kienu jiddieħku bija fuq art niexfa.",
+    "Ġejt ordnat inġorr abbord pari ta’ kull tip u lill-fidili meta wasal il-kmand u l-forn ikun faqqiegħ.",
+    "Rajt il-mewġ jitla’ bħal muntanji hekk kif id-dilluvju għarraq lil dawk li ċaħdu, waqt li Alla salva lil dawk fl-Arka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-Profeta Dhul-Kifl",
+        "Il-Profeta Al-Yasa (Eliżew)",
+        "Profeta Nuh (Noè)",
+        "Il-Profeta Lut (Lot)",
+        "il-Profeta Muhammad"
+      ],
+      "answer": "Profeta Nuh (Noè)"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Iddefendejt lil ommi billi tkellimt fit-tfulija",
+        "Interpreta l-ħolma tal-ħakkiem waqt li kien fil-ħabs",
+        "Sejjaħt lill-poplu tiegħi lejl u nhar għal 950 sena",
+        "Ttieħed ħaj u ttella’ għal post għoli",
+        "Inbela’ minn ħuta kbira fil-baħar"
+      ],
+      "answer": "Sejjaħt lill-poplu tiegħi lejl u nhar għal 950 sena"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "L-għoġol tad-deheb tad-deżert",
+        "In-nar sar frisk u sigur",
+        "Il-palazz b'art tal-ħġieġ",
+        "L-Arka (Al-Fulk)",
+        "Il-bastun li sar serp"
+      ],
+      "answer": "L-Arka (Al-Fulk)"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Il-poplu tiegħi nqered minn riħ kiesaħ għal sebat iljieli",
+        "Dawk li ċaħdu għerqu fid-Dilluvju l-Kbir u dawk li jemmnu ġew salvati",
+        "Il-poplu tiegħi nqered minn splużjoni qawwija f'għodwa waħda",
+        "Il-poplu tiegħi nbidel f’xadini minħabba n-nuqqas ta’ rispett",
+        "Il-poplu tiegħi nbela’ mill-art minħabba l-arroganza"
+      ],
+      "answer": "Dawk li ċaħdu għerqu fid-Dilluvju l-Kbir u dawk li jemmnu ġew salvati"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

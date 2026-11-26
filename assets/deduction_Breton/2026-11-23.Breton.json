@@ -1,0 +1,61 @@
+{
+  "title": "Disklêriadur ar re beuzet",
+  "intro": "Skeudenniñ ur rener galloudus kelc'hiet gant splannder, monumantoù hag armeoù o sentiñ ouzh ur gourc'hemenn hepken. An den-se a c'houlenne bezañ galloud uhelañ, a nac'he ar sinoù doueel evel un touell, hag a c'hourc'hemenne mont war-zu ar mor hep ehan. Heuliañ an hent eus dekredoù lorc'hus betek an dourioù dispartiet, ma teu un gofes diwezhañ re ziwezhat evit saveteiñ.",
+  "clues": [
+    "Dalc'het em boa ar galloud penn-da-benn ha sklavezet em eus bugale Israel dindan ma ren.",
+    "Disklêriet em eus e oan an aotrou uhelañ ha nac'het em eus anavezout doue ebet a-us din.",
+    "Gourc’hemennet em eus da Haman sevel din un tour uhel evit ma c’hellfen sellet ouzh Doue Musa.",
+    "En em gavet em eus ouzh Musa ha Harun pa zegasjont sinoù sklaer, hag anvet em eus o burzhudoù strobinelloù.",
+    "Mont a ris war-lerc'h Musa hag ar feizidi gant va armeoù e-pad an noz betek ma'z omp erruet er mor.",
+    "Disklêriet em eus kredenn en ur beuziñ er mor, met re ziwezhat e oa, ha miret e voe va c'horf evel ur sin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Namrud",
+        "Jalut (Goliath)",
+        "Abu Jahl",
+        "Faraon (Fir'aun)",
+        "Haman"
+      ],
+      "answer": "Faraon (Fir'aun)"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Taolet e oa bet en un tan hag a oa deuet da vezañ fresk ha sur",
+        "Savet un arc'h evit chom bev diouzh ul liñvadenn vras",
+        "Kousket en ur c'hev gant mignoned e-pad meur a vloaz",
+        "Lonket e oa bet gant ur pesk bras en donderioù",
+        "Beuzet e-pad ma oa o redek war-lerc'h Musa hag an Israelited dre ar mor rannet"
+      ],
+      "answer": "Beuzet e-pad ma oa o redek war-lerc'h Musa hag an Israelited dre ar mor rannet"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Kof ar pesk bras",
+        "Moskeenn sakr Makkah",
+        "Ar mor dispartiet",
+        "Kev Hira",
+        "Al liorzh gant stêrioù o redek"
+      ],
+      "answer": "Ar mor dispartiet"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Savet bev betek an neñvoù",
+        "Treuzfurmet evit torriñ ar sabad",
+        "Pardonet ha roet dezhañ ur ren hir ha peoc'hus",
+        "Lonket gant an douar gant teñzorioù",
+        "Beuzet en dic'hredenn ha korf miret evel sin evit ar re war-lerc'h"
+      ],
+      "answer": "Beuzet en dic'hredenn ha korf miret evel sin evit ar re war-lerc'h"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

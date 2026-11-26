@@ -1,0 +1,61 @@
+{
+  "title": "Ireo Mizana Izay Nianjera ho Amin'ny Faharavana",
+  "intro": "Tao amin'ny faritra maitso mavana sy miroborobo, nisy vondrom-piarahamonina miroborobo namela ny fitsiriritana hanimba ny tsena. Fantatra amin'ny fahaiza-manao ara-barotra sy ny habetsahana avy amin'ny zaridaina manodidina, ity vondrona ity dia niatrika antso ho amin'ny rariny sy ny finoana. Na izany aza, ny avonavona amin'ny harena dia nitarika ho amin'ny fanoherana, ary nisy aloka maizina niangona teny amin'ny faravodilanitra.",
+  "clues": [
+    "Fiarahamonina mpivarotra niroborobo izahay, nipetraka teny an-tsaha sy ala kelikely.",
+    "Nanambaka olona tamin'ny fandrefesana sy ny lanja izahay, ka nampiely kolikoly teto amin'ny tany.",
+    "Nampitandreman'ny iraka anay izahay mba hivavaka amin'i Allah irery ihany ary hanome fatra feno.",
+    "Naneso ny irakay izahay ary nangataka ny sazy raha toa ka marina izy.",
+    "Nosamborin'ny sazin'ny Andron'ny Aloka izahay rehefa nisy rahona nanarona anay.",
+    "Fantatra amin'ny anarana hoe mpiara-dia any an'ala aho, ireo olona nanirahana an'i Shu'ayb."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Ny vahoakan'ny Thamoud",
+        "Ireo mpiara-dia amin'ny ala",
+        "Ireo mpiara-dia amin'ny hady",
+        "Ny Vahoakan'ny Elefanta",
+        "Ireo mpiara-dia amin'ny lava-bato"
+      ],
+      "answer": "Ireo mpiara-dia amin'ny ala"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Manafoana ny fatrany ary manohitra ny iraka ataontsika",
+        "Mangataka hahita mivantana an'i Allah eo amin'ny Tendrombohitra Sinay",
+        "Manangana tilikambo mba hahatratra ny lanitra",
+        "Manafina finoana mangingina ao an-dapa",
+        "Fivavahana tamin'ny zanak'omby volamena raha tsy teo i Mosesy"
+      ],
+      "answer": "Manafoana ny fatrany ary manohitra ny iraka ataontsika"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny lohasaha masin'i Tuwa",
+        "Ny afo izay natao mangatsiaka sy azo antoka",
+        "Ny ala mikitroka ao Al-Aykah",
+        "Ilay lava-bato misy alika matory eo am-pidirany",
+        "Ny lapa fitaratra misy fitaratra"
+      ],
+      "answer": "Ny ala mikitroka ao Al-Aykah"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Rendrika tao anaty ranomasina nizara roa",
+        "Voatelina tamin'ny harena an-tany",
+        "Niova ho rajako noho ny fandikana ny Sabata",
+        "Voavonjy tao anaty sambo fiara teo ambonin'ny ranon'ny safodrano",
+        "Rava noho ny sazin'ny Andron'ny Aloka"
+      ],
+      "answer": "Rava noho ny sazin'ny Andron'ny Aloka"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

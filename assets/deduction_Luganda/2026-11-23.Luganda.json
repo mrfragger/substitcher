@@ -1,0 +1,61 @@
+{
+  "title": "Ekirangiriro ky'okubbira mu mazzi",
+  "intro": "Kuba akafaananyi ng’omufuzi ow’amaanyi eyeetooloddwa ekitiibwa, ebijjukizo, n’amagye agagondera ekiragiro kimu. Omuntu ono yeeyita nti ye yalina obuyinza obw’oku ntikko, n’agoba obubonero obw’obwakatonda ng’obulimba, era n’alagira okuyigga obutasalako nga boolekedde ennyanja. Goberera ekkubo okuva ku biragiro by’amalala okutuuka ku mazzi agaawuddwamu, ng’okwatula okusembayo kutuuka kikeerezi nnyo okutaasa.",
+  "clues": [
+    "Nakwata obuyinza obujjuvu era ne nfuula Abaana ba Isirayiri abaddu wansi w’obufuzi bwange.",
+    "Nalangirira nti ndi mukama asinga waggulu era ne ηηaana okukkiriza katonda yenna asinga nze.",
+    "Nalagira Kamani okunzimbira omunaala omugulumivu nsobole okutunuulira Katonda wa Musa.",
+    "Nayolekagana ne Musa ne Harun bwe baaleeta obubonero obw’olwatu, era ebyamagero byabwe ne mbiyita obulogo.",
+    "Nagoberera Musa n’abakkiriza n’amagye gange ekiro okutuusa lwe twatuuka ku nnyanja.",
+    "Nalangirira okukkiriza nga nbbira mu nnyanja, naye obudde bwali buyise nnyo, era omubiri gwange ne gukuumibwa ng’akabonero."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nze Ani?",
+      "options": [
+        "Namrud",
+        "Jaluti (Goliyaasi) .",
+        "Abu Jahl",
+        "Falaawo (Fir'aun) .",
+        "Kamani"
+      ],
+      "answer": "Falaawo (Fir'aun) ."
+    },
+    "trial": {
+      "label": "Okugezesebwa/Ekibaddewo",
+      "options": [
+        "Yasuulibwa mu muliro ogwafuuka omunnyogovu era nga tegulina bulabe",
+        "Yazimba eryato okusobola okuwona amataba amangi",
+        "Yasula mu mpuku ne banne okumala emyaka mingi",
+        "Yamira ekyennyanja ekinene mu buziba",
+        "Yabbira mu mazzi ng’agoba Musa n’Abaisiraeri nga bayita mu nnyanja eyawuddwamu"
+      ],
+      "answer": "Yabbira mu mazzi ng’agoba Musa n’Abaisiraeri nga bayita mu nnyanja eyawuddwamu"
+    },
+    "location": {
+      "label": "Ekintu Ekikulu",
+      "options": [
+        "Olubuto lw’ebyennyanja ebinene",
+        "Omuzikiti Omutukuvu e Makkah",
+        "Ennyanja eyawuddwamu",
+        "Empuku ya Hira",
+        "Olusuku olulimu emigga egikulukuta"
+      ],
+      "answer": "Ennyanja eyawuddwamu"
+    },
+    "outcome": {
+      "label": "Ebivudemu",
+      "options": [
+        "Yazuukizibwa nga mulamu okutuuka mu ggulu",
+        "Yakyusibwa olw’okumenya Ssabbiiti",
+        "Yasonyiyibwa era n’aweebwa obufuzi obw’emirembe obuwanvu",
+        "Emira ensi n’eby’obugagga",
+        "Yabbira mu butakkiriza era omubiri ne gukuumibwa ng’akabonero eri abo oluvannyuma"
+      ],
+      "answer": "Yabbira mu butakkiriza era omubiri ne gukuumibwa ng’akabonero eri abo oluvannyuma"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Zviyero Zvakaenda Kukuparadzwa",
+  "intro": "Munzvimbo ine hupfumi hwakawanda uye yakabudirira, nharaunda yakabudirira yakabvumira makaro kusvibisa musika. Vachizivikanwa nehunyanzvi mukutengeserana uye kuwanda kwezviyo zvakavapoteredza, boka iri rakatarisana nekudanwa kweruramisiro nekutenda. Asi kudada nepfuma kwakaita kuti vasateerere, uye rima rakaungana pakatarisana.",
+  "clues": [
+    "Taiva nharaunda yekutengeserana yakabudirira yaigara pakati peminda nemiti ine miti.",
+    "Takabiridzira vanhu muzviyero nezviyero, tichiparadzira huori munyika.",
+    "Takayambirwa nemutumwa wedu kuti tinamate Allah chete uye tipe chiyero chakazara.",
+    "Takaseka nhume yedu tikati tipiwe chirango kana akataura chokwadi.",
+    "Takabatwa nechirango cheZuva reMvuri apo gore rakatifukidza.",
+    "Ndinozivikanwa seVafambidzani veMasango, vanhu vakatumwa kwaShu'ayb."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndini ani?",
+      "options": [
+        "Vanhu veThamud",
+        "Shamwari dzeMasango",
+        "Shamwari dzeMugero",
+        "Vanhu veNzou",
+        "Shamwari dzeBako"
+      ],
+      "answer": "Shamwari dzeMasango"
+    },
+    "trial": {
+      "label": "Kutongwa/Chiitiko",
+      "options": [
+        "Kupa chiyero chipfupi uye kuramba mutumwa wedu",
+        "Kuda kuona Allah zvakananga paGomo reSinai",
+        "Kuvaka shongwe yekusvika kudenga",
+        "Kuvanza kutenda muchivande mukati meimba yamambo",
+        "Kunamata mhuru yegoridhe Musa asipo"
+      ],
+      "answer": "Kupa chiyero chipfupi uye kuramba mutumwa wedu"
+    },
+    "location": {
+      "label": "Chinhu Chinokosha",
+      "options": [
+        "Mupata mutsvene weTuwa",
+        "Moto wakaitwa kuti utonhore uye wakachengeteka",
+        "Gomba remasango reAl-Aykah",
+        "Bako rine imbwa yemunhu anorara pamusuwo waro",
+        "Imba yegirazi ine girazi"
+      ],
+      "answer": "Gomba remasango reAl-Aykah"
+    },
+    "outcome": {
+      "label": "Mhedzisiro",
+      "options": [
+        "Kunyura mugungwa rakakamurwa",
+        "Yakamedzwa nepfuma pasi",
+        "Akachinjwa kuita tsoko nekuda kwekutyora Sabata",
+        "Akaponeswa muareka pamusoro pemvura yemafashamo",
+        "Kuparadzwa nechirango cheZuva reMvuri"
+      ],
+      "answer": "Kuparadzwa nechirango cheZuva reMvuri"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

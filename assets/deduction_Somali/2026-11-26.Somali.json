@@ -1,0 +1,61 @@
+{
+  "title": "Beerta oo ku dhaaratay Waaberiga",
+  "intro": "Saacadihii aamusnaa ee ka horreeyay qorrax soo baxa, qorshe qarsoodi ah ayaa la sameeyay. Dhaxal barwaaqo ah ayaa diyaar u ahaa goosashada, haddana go'aan ayaa la gaaray si midho kasta looga fogeeyo kuwa baahan. Subaxdii, wax walba waxay u ekaan doonaan kuwo aan la aqoon, cashar ayaana lagu qori doonaa laamo madow oo loogu talagalay dhammaan kuwa fekera.",
+  "clues": [
+    "Waxaan dhaxalnay beer barwaaqo ah, waxaana ku dhaarannay inaan midhaheeda oo dhan u guranno annaga.",
+    "Waxaan ku dhaarannay inaan baxno aroortii hore iyadoo masaakiinta weydiisatay qaybtooda ay weli hurdaan.",
+    "Waxaan ka reebnay wax kasta oo ka reeban dhaarteenna, waxaana ka reebnay xuquuqda dadka baahan annagoo aan dhihin haddii Alle idmo.",
+    "Waxaan baxnay annagoo hoos u dhaadhacsan si aan u oggolaan in qof sabool ah uusan soo gelin beertayada maalintaas.",
+    "Waxaan is-moodnay inaan si buuxda u awoodno inaan wax walba ururinno oo aan ka hortagno in qof kasta oo wax soo gura uu qayb qaato.",
+    "Waxaan soo toosnay markii aan aragnay beerteennii oo habeennimo burburtay, oo madoobaatay sidii iyadoo la goostay, waxaanan nidhi waa naga maqan yihiin oo waan toobad keenaynaa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kumaan ahay?",
+      "options": [
+        "Asxaabta Godka",
+        "Asxaabta Beerta",
+        "Rasuulladii Magaalada ee ku jira Suurada Ya-Sin",
+        "Dadka Maroodiga",
+        "Ilaaliyayaasha Naarta Jahannamo"
+      ],
+      "answer": "Asxaabta Beerta"
+    },
+    "trial": {
+      "label": "Tijaabo/Dhacdo",
+      "options": [
+        "Sac allabaryo si loo xalliyo muran dil ah",
+        "Nebi ku dhiiraday inuu dhagaxyo cirka ka soo dejiyo",
+        "Qorshe lagu goosanayo waaberiga iyadoo la diidayo dadka saboolka ah qaybtooda",
+        "Jebinta Sabtida iyadoo la dhigayo shabaqyada kalluumeysiga",
+        "Dhisidda biyo-xireen si loo xakameeyo biyaha daadadka ee ganacsiga"
+      ],
+      "answer": "Qorshe lagu goosanayo waaberiga iyadoo la diidayo dadka saboolka ah qaybtooda"
+    },
+    "location": {
+      "label": "Qaybta Muhiimka ah",
+      "options": [
+        "Dooxada barakeysan ee Tuwa halkaas oo dab lagu arkay",
+        "Beerta beerta ee derbiyada leh ayaa la goosan doonaa subaxdii",
+        "Dabaqa qasriga ee muraayadda leh ayaa lagu qalday biyo",
+        "Sanduuq alwaax ah oo lagu dhisay amar rabbaani ah",
+        "Derbiga birta ah ee laga dhisay laba buurood dhexdooda"
+      ],
+      "answer": "Beerta beerta ee derbiyada leh ayaa la goosan doonaa subaxdii"
+    },
+    "outcome": {
+      "label": "Natiijo",
+      "options": [
+        "Waxaa naloo rogay daanyeerro markii aan ku xadgudubnay Sabtida.",
+        "Waxaan god ku seexanay saddex boqol iyo sagaal sano",
+        "Dhulku wuxuu na liqay khasnado kibir awgeed",
+        "Beertayadii habeenimo ayaa la burburiyay waxaana loo daayay sidii habeenimo oo kale iyadoo madoobaatay",
+        "Waxaa naloo qarqiyay badda annagoo raacdayna mu'miniinta"
+      ],
+      "answer": "Beertayadii habeenimo ayaa la burburiyay waxaana loo daayay sidii habeenimo oo kale iyadoo madoobaatay"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

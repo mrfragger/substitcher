@@ -1,0 +1,61 @@
+{
+  "title": "Sodo įžadai auštant",
+  "intro": "Tyliomis valandomis prieš saulėtekį slapta buvo kuriamas planas. Klestintis palikimas laukė derliaus nuėmimui, tačiau buvo nuspręsta kiekvieną vaisių laikyti atokiau nuo tų, kuriems jo reikia. Rytą viskas atrodydavo nepažįstama, o pamoka būdavo išgraviruota pajuodusiose šakose visiems, kurie apie tai susimąstydavo.",
+  "clues": [
+    "Paveldėjome klestintį sodą ir prisiekėme nuimti visus jo vaisius sau.",
+    "Prisiekėme išeiti anksti auštant, kol vargšai, prašę savo dalies, dar miegojo.",
+    "Mes atmetėme bet kokias išimtis iš savo priesaikos ir netenkinome vargšų teisių, nesakydami, ar Alachas to norės.",
+    "Išėjome šnabždėdami vienas kitam, kad tą dieną joks vargšas neįleistų į mūsų sodą.",
+    "Įsivaizdavome, kad galime viską surinkti ir neleisti nė vienam rinkėjui pasiimti dalies.",
+    "Pabudome ir radome naktį nuniokotą savo sodą, pajuodusį, tarsi nuimtą derlių, ir pasakėme, kad esame nuskriausti ir atgailaujame."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Tranšėjos palydovai",
+        "Sodo palydovai",
+        "Miesto pasiuntiniai Suroje „Ja-Sinas“",
+        "Dramblio žmonės",
+        "Pragaro ugnies sergėtojai"
+      ],
+      "answer": "Sodo palydovai"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Karvės paaukojimas, siekiant išspręsti ginčą dėl žmogžudystės",
+        "Iššūkis pranašui, kad šis numestų akmenis iš dangaus",
+        "Planuoja nuimti derlių auštant, tuo pačiu atimdamas iš vargšų jų dalį",
+        "Šabo laužymas statant žvejybos tinklus",
+        "Užtvankos statyba potvynių vandeniui kontroliuoti prekybai"
+      ],
+      "answer": "Planuoja nuimti derlių auštant, tuo pačiu atimdamas iš vargšų jų dalį"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Šventasis Tuwa slėnis, kuriame buvo matoma ugnis",
+        "Aptvertas sodas, iš kurio ryte bus pjaunama derlius",
+        "Veidrodinės rūmų grindys supainiotos su vandeniu",
+        "Medinis arkas, pastatytas pagal Dievo nurodymus",
+        "Geležinė siena, pastatyta tarp dviejų kalnų"
+      ],
+      "answer": "Aptvertas sodas, iš kurio ryte bus pjaunama derlius"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Mes buvome paversti beždžionėmis už tai, kad pažeidėme šabą",
+        "Mes miegojome oloje tris šimtus devynerius metus",
+        "Mus prarijo žemė su lobiais pasididžiavimui",
+        "Mūsų sodas buvo sunaikintas per naktį ir pajuodęs kaip naktis",
+        "Mes nuskendome jūroje, persekiodami tikinčiuosius"
+      ],
+      "answer": "Mūsų sodas buvo sunaikintas per naktį ir pajuodęs kaip naktis"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A megfulladt nyilatkozat",
+  "intro": "Képzelj el egy hatalmas uralkodót, akit pompa, emlékművek és egyetlen parancsnak engedelmeskedő seregek vesznek körül. Ez a személy legfőbb hatalmat követelt, az isteni jeleket illúziónak bélyegezte, és kérlelhetetlen üldözést rendelt el a tenger felé. Kövesd az ösvényt az arrogáns rendeletektől a kettévált vizekig, ahol a végső vallomás túl későn érkezik a megmentéshez.",
+  "clues": [
+    "Abszolút hatalmam volt, és rabszolgasorba taszítottam Izrael gyermekeit.",
+    "A legfelsőbb úrnak kiáltottam ki magam, és nem voltam hajlandó elismerni semmilyen felettem álló istent.",
+    "Megparancsoltam Hámánnak, hogy építsen nekem egy magas tornyot, hogy láthassam Mózes Istenét.",
+    "Szembeszálltam Mózessel és Hárunnal, amikor egyértelmű jeleket hoztak, és csodáikat varázslatnak neveztem.",
+    "Éjszaka seregeimmel üldöztem Mózest és a hívőket, amíg el nem értük a tengert.",
+    "Kijelentettem a hitemet, miközben a tengerben fuldokoltam, de már túl késő volt, és a testem jelként megmaradt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Namrud",
+        "Jalut (Góliát)",
+        "Abu Dzsahl",
+        "Fáraó (Fir'aun)",
+        "Hámán"
+      ],
+      "answer": "Fáraó (Fir'aun)"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Tűzbe dobták, ami hűvössé és biztonságossá vált",
+        "Bárkát építettek, hogy túléljenek egy nagy özönvizet",
+        "Sok éven át társaival aludt egy barlangban",
+        "Egy hatalmas hal nyelte el a mélyben",
+        "Megfulladt, miközben Mózest és az izraelitákat üldözte a kettévált tengeren keresztül"
+      ],
+      "answer": "Megfulladt, miközben Mózest és az izraelitákat üldözte a kettévált tengeren keresztül"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A nagy hal hasa",
+        "A Szent Mecset Mekkában",
+        "A kettévált tenger",
+        "A Hira-barlang",
+        "A kert folyókkal"
+      ],
+      "answer": "A kettévált tenger"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Élve felemelték a mennyekbe",
+        "Átalakulva a szombat megszegéséért",
+        "Megbocsátva és hosszú, békés uralkodást kapva",
+        "A föld kincsekkel nyelte el",
+        "Hitetlenkedésbe fulladva, testét jelként őrizve meg az utánuk jövők számára"
+      ],
+      "answer": "Hitetlenkedésbe fulladva, testét jelként őrizve meg az utánuk jövők számára"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

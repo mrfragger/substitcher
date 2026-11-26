@@ -1,0 +1,61 @@
+{
+  "title": "Déi héich Säile vun den duerch Wand gedriwwenen Dünen",
+  "intro": "Stellt Iech eng bléiend Zivilisatioun vir, déi mat aussergewéinlecher Kraaft a mat ongeëwenem Geschéck am Bau begabt ass. Dës Communautéit, déi tëscht risegen, gebéiten Dünen geleeën ass, huet grouss Landmarken ervirgehuewen, déi den Horizont beréiert hunn. Awer de Stolz huet sech verankert, an en Opruff, nëmmen Allah ze veréieren, gouf mat Trotz begéint. Wat duerno koum, bleift eng Warnung, déi vum Wand selwer gedroe gëtt.",
+  "clues": [
+    "Mir waren eng mächteg Natioun, déi dem Vollek vun Nuh nogefollegt ass, geseent mat grousser Statur a Kraaft.",
+    "Mir hunn op all héijer Plaz héich Tierm a Monumenter gebaut, nëmme fir Sport a Stolz.",
+    "Mir hunn eis gebrëscht a gesot, wie méi staark ass wéi mir, a mir hunn eis tyrannesch ouni Barmhäerzegkeet verhalen.",
+    "Mir hunn eise Gesandte Hud verworf, wéi hien eis opgeruff huet, Allah eleng ze ubidden, andeems hien hien schwaach an e Léigner genannt huet.",
+    "Mir hunn d'Warnung verspott an hien erausgefuerdert, eis déi Strof ze bréngen, mat där hie gedreet huet, wann hie wouer wier.",
+    "Mir goufe siwen Nuechten an aacht Deeg laang vun engem rosen, onfruchtbare Wand zerstéiert, fale gelooss wéi huel Palmenstämm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "D'Leit vun 'Ad",
+        "Banu Nadir",
+        "D'Leit vu Lut",
+        "D'Leit vu Madyan",
+        "D'Leit vun Thamud"
+      ],
+      "answer": "D'Leit vun 'Ad"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Huet de Prophet Hud verworf a mat iwwerleeëner Kraaft gebrëscht",
+        "Aus Jalousie huet et geplangt, de Prophet Yusuf ëmzebréngen",
+        "Huet den Nuh verspott, wéi hien d'Ark gebaut huet",
+        "Huet e Kamel als Zeeche gefuerdert an huet se dann am Schanken gezunn",
+        "Huet dat gëllent Kalb an der Absenz vum Musa ugebiet"
+      ],
+      "answer": "Huet de Prophet Hud verworf a mat iwwerleeëner Kraaft gebrëscht"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Al-Ahqaf - déi vum Wand gebéite Sanddünen",
+        "De Buer vum Thamud, aus Steen gemeesselt",
+        "Bierg Sinai, wou d'Tora empfaange gouf",
+        "Den Nil vum Kinnekräich vum Pharao",
+        "Dat Hellegt Dall vun Tuwa"
+      ],
+      "answer": "Al-Ahqaf - déi vum Wand gebéite Sanddünen"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Erdronk an der grousser Iwwerschwemmung, déi d'Äerd bedeckt huet",
+        "Mat Qarun an d'Äerd verschléckt fir Arroganz",
+        "Mat Steng aus gebakenem Leem gereent",
+        "Zerstéiert vun engem staarken Äerdbiewen, deen se an hiren Haiser erfaasst huet",
+        "Zerstéiert vun engem gewaltege Fraschtwand fir siwen Nuechten an aacht Deeg"
+      ],
+      "answer": "Zerstéiert vun engem gewaltege Fraschtwand fir siwen Nuechten an aacht Deeg"
+    }
+  },
+  "verseRef": "46:22",
+  "arabic": "قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "They said, \"Have you come to delude us away from our gods? Then bring us what you promise us, if you should be of the truthful.\" (46:22)"
+}

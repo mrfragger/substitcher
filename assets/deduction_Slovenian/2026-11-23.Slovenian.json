@@ -1,0 +1,61 @@
+{
+  "title": "Utopljena deklaracija",
+  "intro": "Predstavljajte si mogočnega vladarja, obdanega s sijajem, spomeniki in vojskami, poslušnimi enemu samemu ukazu. Ta lik je zahteval vrhovno oblast, božanska znamenja je zavrnil kot iluzijo in ukazal neusmiljeno zasledovanje proti morju. Sledite poti od arogantnih odlokov do razdvojenih voda, kjer končno priznanje prispe prepozno, da bi rešilo.",
+  "clues": [
+    "Imel sem absolutno oblast in zasužnjil otroke Izraela pod svojo oblast.",
+    "Razglasil sem se za najvišjega gospodarja in nisem hotel priznati nobenega boga nad seboj.",
+    "Hamanu sem ukazal, naj mi zgradi visok stolp, da bi lahko gledal Musajevega Boga.",
+    "Soočil sem se z Muso in Harunom, ko sta prinesla jasne znake, in njune čudeže sem imenoval čarovništvo.",
+    "Ponoči sem s svojimi vojskami zasledoval Musaja in vernike, dokler nismo dosegli morja.",
+    "Medtem ko sem se utapljal v morju, sem izrekel vero, a je bilo prepozno in moje telo so ohranili kot znamenje."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Namrud",
+        "Džalut (Goljat)",
+        "Abu Džahl",
+        "Faraon (Firaun)",
+        "Haman"
+      ],
+      "answer": "Faraon (Firaun)"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Bil je vržen v ogenj, ki je postal hladen in varen",
+        "Zgradil je barko, da bi preživel veliko poplavo",
+        "Dolga leta je spal v jami s tovariši",
+        "V globinah ga je pogoltnila velika riba",
+        "Utopil se je med zasledovanjem Musa in Izraelcev skozi razdeljeno morje"
+      ],
+      "answer": "Utopil se je med zasledovanjem Musa in Izraelcev skozi razdeljeno morje"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Trebuh velike ribe",
+        "Sveta mošeja v Meki",
+        "Razdvojeno morje",
+        "Jama Hira",
+        "Vrt s tekočimi rekami"
+      ],
+      "answer": "Razdvojeno morje"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Živ dvignjen v nebesa",
+        "Preobraženi zaradi kršenja sobote",
+        "Odpuščeno in podeljeno dolgo mirno vladanje",
+        "Požrta od zemlje z zakladi",
+        "Utopljen v neverici in telo ohranjeno kot znamenje za tiste, ki bodo potem"
+      ],
+      "answer": "Utopljen v neverici in telo ohranjeno kot znamenje za tiste, ki bodo potem"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

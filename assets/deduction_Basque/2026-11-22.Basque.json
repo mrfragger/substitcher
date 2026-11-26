@@ -1,0 +1,61 @@
+{
+  "title": "Deialdiaren bederatzi mendeak",
+  "intro": "Imajinatu inperioak sortu eta erori baino denbora gehiagoz iseka-olatu baten aurrean bakarrik zaudela, gau eta egun deika, belarriak estalita eta jantziak estututa dituzula. Aurrean, lehorrean eta uretan eraikitako ontzi bat dago, inoiz ikusi gabekoa. Gonbidapen maratoi honen atzean dagoen pazientzia sumatzen al duzu?",
+  "clues": [
+    "Nire jendea gau eta egun, isilpean eta agerian, Ala bakarrik gurtzera gonbidatu nuen.",
+    "Nire herriak belarrietan hatzak sartu eta jantziak inguratu zituen niregandik aldentzeko.",
+    "Bederatziehun eta berrogeita hamar urtez egon nintzen nire herriaren artean, gidaritzara deituz.",
+    "Ontzi bat eraiki nuen Allahren begien eta errebelazioaren aurrean, nire herriak lehorrean iseka egiten zidan bitartean.",
+    "Agindua iritsi eta labea gainezka egiten zuenean, mota guztietako bikoteak eta sinestunak eramateko agindu zidaten.",
+    "Mendiak bezala altxatzen ikusi nituen olatuak, uholdeak arkatzen zutenak itotzen zituen bitartean, Alak Arkan zeudenak salbatu zituen bitartean."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Dhul-Kifl profeta",
+        "Al-Yasa (Eliseo) profeta",
+        "Nuh (Noe) profeta",
+        "Lut (Lot) profeta",
+        "Mahoma profeta"
+      ],
+      "answer": "Nuh (Noe) profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Haurtzaroan hitz eginez defendatu nuen ama",
+        "Kartzelan zegoen bitartean agintariaren ametsa interpretatu zuen",
+        "950 urtez deitu nion nire herriari gau eta egun",
+        "Bizirik hartu eta goi mailako kargu batera igo zuten",
+        "Itsasoko arrain handi batek irentsi zuen"
+      ],
+      "answer": "950 urtez deitu nion nire herriari gau eta egun"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Basamortuko urrezko txahala",
+        "Sua fresko eta seguru bihurtu zen",
+        "Kristalezko zorua duen jauregia",
+        "Arka (Al-Fulk)",
+        "Suge bihurtu zen makila"
+      ],
+      "answer": "Arka (Al-Fulk)"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Nire herria zazpi gauz haize izoztu batek suntsitu zuen",
+        "Uholde Handian ito ziren baztertzaileak eta sinestunak salbatu ziren",
+        "Nire herria goiz batean leherketa handi batek suntsitu zuen",
+        "Nire herria tximino bihurtu zen transgresioagatik",
+        "Nire herria lurrak irentsi zuen harrokeriagatik"
+      ],
+      "answer": "Uholde Handian ito ziren baztertzaileak eta sinestunak salbatu ziren"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

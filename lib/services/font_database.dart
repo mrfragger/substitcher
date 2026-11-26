@@ -36,6 +36,7 @@ class FontDatabase {
      'Mengshen-Handwritten Chinese': FontMetadata(fontName: 'Mengshen-Handwritten Chinese', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'MiSans Khmer': FontMetadata(fontName: 'MiSans Khmer', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'MiSans Thai': FontMetadata(fontName: 'MiSans Thai', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
+     'Noto Serif Georgian': FontMetadata(fontName: 'Noto Serif Georgian', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'SourceHanSansTW Chinese (Traditional)': FontMetadata(fontName: 'SourceHanSansTW Chinese (Traditional)', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
 
   // ==================== free/arabic ====================
@@ -44,6 +45,8 @@ class FontDatabase {
       'Markazi Text': FontMetadata(fontName: 'Markazi Text', mainCategory: FontCategory.free, subCategories: [FontCategory.arabic], studio: null),
       'Scheherazade New Bold': FontMetadata(fontName: 'Scheherazade New Bold', mainCategory: FontCategory.free, subCategories: [FontCategory.arabic], studio: null),
       'Scheherazade New': FontMetadata(fontName: 'Scheherazade New', mainCategory: FontCategory.free, subCategories: [FontCategory.arabic], studio: null),
+      'Scheherazade New Kurd': FontMetadata(fontName: 'Scheherazade New Kurd', mainCategory: FontCategory.free, subCategories: [FontCategory.arabic], studio: null),
+
 
  // ==================== free/foreign/Baloo2 ====================
       'Baloo2 Devanagari': FontMetadata(fontName: 'Baloo2 Devanagari', mainCategory: FontCategory.free, subCategories: [FontCategory.baloo], studio: null),

@@ -1,0 +1,61 @@
+{
+  "title": "Nuskendusio asmens deklaracija",
+  "intro": "Įsivaizduokite galingą valdovą, apsuptą didybės, paminklų ir armijų, paklusnių vienam įsakymui. Ši figūra skelbė aukščiausią valdžią, dieviškus ženklus atmetė kaip iliuziją ir įsakė negailestingai persekioti link jūros. Sekite pėdsakais nuo arogantiškų nutarimų iki išsiskyrusių vandenų, kur galutinis prisipažinimas ateina per vėlai, kad išgelbėtų.",
+  "clues": [
+    "Aš turėjau absoliučią valdžią ir pavergiau Izraelio vaikus savo valdžiai.",
+    "Pasiskelbiau aukščiausiuoju valdovu ir atsisakiau pripažinti bet kokį dievą, esantį aukščiau už mane.",
+    "Įsakiau Hamanui pastatyti man aukštą bokštą, kad galėčiau žvelgti į Mozės Dievą.",
+    "Aš susidūriau su Musa ir Harunu, kai jie atnešė aiškius ženklus, ir jų stebuklus pavadinau burtininkavimu.",
+    "Naktį su savo armijomis persekiojau Mozę ir tikinčiuosius, kol pasiekėme jūrą.",
+    "Skęsdamas jūroje paskelbiau tikėjimą, bet buvo per vėlu, ir mano kūnas buvo išsaugotas kaip ženklas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Namrudas",
+        "Džalutas (Galijotas)",
+        "Abu Džahlas",
+        "Faraonas (Fir'aun)",
+        "Hamanas"
+      ],
+      "answer": "Faraonas (Fir'aun)"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Buvo įmestas į ugnį, kuri tapo vėsi ir saugi",
+        "Pastatė arką, kad išgyventų didelį tvaną",
+        "Daugelį metų miegojo oloje su draugais",
+        "Jį prarijo didelė žuvis gelmėse",
+        "Nuskendo vydamasis Mozę ir izraelitus per prasiskyrusią jūrą"
+      ],
+      "answer": "Nuskendo vydamasis Mozę ir izraelitus per prasiskyrusią jūrą"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Didžiosios žuvies pilvas",
+        "Šventoji mečetė Mekoje",
+        "Persiskyrusi jūra",
+        "Hiros urvas",
+        "Sodas su tekančiomis upėmis"
+      ],
+      "answer": "Persiskyrusi jūra"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Gyvai prikeltas į dangų",
+        "Pasikeitė už šabo laužymą",
+        "Atleista ir suteiktas ilgas, taikus valdymas",
+        "Praryta žemės lobių",
+        "Paskendus netikėjime, o kūnas išsaugotas kaip ženklas tiems, kurie bus po jo"
+      ],
+      "answer": "Paskendus netikėjime, o kūnas išsaugotas kaip ženklas tiems, kurie bus po jo"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

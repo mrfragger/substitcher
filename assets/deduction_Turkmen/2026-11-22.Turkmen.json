@@ -1,0 +1,61 @@
+{
+  "title": "Dokuz asyrlyk çagyryş",
+  "intro": "Imperiýalaryň ösüp-ýok bolmagyndan has uzak wagtlap gülkünç tolkunlara garşy ýeke özüňiz durup, gulaklary ýapyk, eşikleri berk daňylyp, gije-gündiz çagyryp durkaňyz, sizi göz öňüne getiriň. Öňde öň görlüp-eşidilmedik derejede gury ýerde we suwlarda gurlan gämi dur. Bu çakylyk marafonynyň arkasyndaky sabyrlylygy duýup bilersiňizmi?",
+  "clues": [
+    "Men halkymy gije-gündiz, gizlin we açyk ýagdaýda ýalňyz Alla ybadat etmäge çagyrdym.",
+    "Meniň halkym Menden ýüz öwürmek üçin barmaklaryny gulaklaryna sokup, özlerine geýim örtdüler.",
+    "Men kowumymyň arasynda dokuz ýüz elli ýyllap olary hidaýata çagyryp ýaşadym.",
+    "Men kowumym meni gury ýerde masgara edýän mahaly, Allanyň nazary we wahyýy bilen bir gämi ýasadym.",
+    "Buýruk gelip, peç daşyp gidende, maňa her görnüşli jübütleri we möminleri gämide götermek tabşyryldy.",
+    "Men tolkunlaryň daglar ýaly galýandygyny gördüm, sil bolsa ret edenleri suwa gark etdi, Alla bolsa gämidäkileri halas etdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Zul-Kifl pygamber",
+        "Pygamber Al-Ýasa (Elişa)",
+        "Nuh pygamber (Nuh)",
+        "Lut pygamber (Lut)",
+        "Muhammet pygamber"
+      ],
+      "answer": "Nuh pygamber (Nuh)"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Çagalyk döwrümde gürleşip, ejemi goradym",
+        "Türmede hökümdaryň düýşüni ýorupdyr",
+        "950 ýyllap halkymy gije-gündiz çagyrdym",
+        "Diri göterilip, ýokary derejä göterildi",
+        "Deňizde uly balyk tarapyndan ýuwudyldy"
+      ],
+      "answer": "950 ýyllap halkymy gije-gündiz çagyrdym"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Çölüň altyn gölesi",
+        "Ot sowuk we howpsuz boldy",
+        "Aýnadan ýasalan polly köşk",
+        "Gämi (Al-Fulk)",
+        "Ýylana öwrülen taýak"
+      ],
+      "answer": "Gämi (Al-Fulk)"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Meniň halkym ýedi gije doňduryjy ýel bilen ýok edildi",
+        "Ret edenler Beýik Tufanda gark boldular we imanlylar halas boldular",
+        "Meniň halkym bir irden güýçli partlama bilen ýok edildi",
+        "Meniň halkym günä üçin maýmynlara öwrüldi",
+        "Meniň halkym tekepbirlik üçin ýer tarapyndan ýuwutyldy"
+      ],
+      "answer": "Ret edenler Beýik Tufanda gark boldular we imanlylar halas boldular"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

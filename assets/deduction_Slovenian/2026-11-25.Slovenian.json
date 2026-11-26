@@ -1,0 +1,61 @@
+{
+  "title": "Tehtnica, ki se je nagnila k propadu",
+  "intro": "V bujni in uspešni regiji je uspešna skupnost dovolila, da je pohlep pokvaril trg. Ta skupina, znana po spretnosti v trgovanju in obilju iz okoliških vrtov, se je soočila s klicem k pravičnosti in veri. Vendar je ponos na bogastvo vodil do kljubovanja in na obzorju se je zbrala temna senca.",
+  "clues": [
+    "Bili smo uspešna trgovska skupnost, ki je živela med vrtovi in ​​gozdnatimi nasadi.",
+    "Ljudem smo goljufali pri merah in utežeh ter širili korupcijo v deželi.",
+    "Naš poslanec nas je opozoril, naj častimo samo Alaha in dajemo polno mero.",
+    "Posmehovali smo se našemu poslancu in zahtevali kazen, če je bil resnicoljuben.",
+    "Zadela nas je kazen dneva sence, ko nas je zasenčil oblak.",
+    "Znan sem kot Gozdni tovariši, ljudstvo, h kateremu je bil poslan Šuajb."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Ljudje iz Thamuda",
+        "Gozdni tovariši",
+        "Spremljevalci jarka",
+        "Ljudje slona",
+        "Spremljevalci jame"
+      ],
+      "answer": "Gozdni tovariši"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Dajemo kratko mero in kljubujemo našemu poslancu",
+        "Zahteva, da bi videl Alaha neposredno na gori Sinaj",
+        "Gradnja stolpa, da doseže nebesa",
+        "Skrivaj skriva vero v palači",
+        "Čaščenje zlatega teleta v odsotnosti Muse"
+      ],
+      "answer": "Dajemo kratko mero in kljubujemo našemu poslancu"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Sveta dolina Tuwa",
+        "Ogenj, ki je bil ohlajen in varen",
+        "Gozdnati gaj Al-Aykah",
+        "Jama s spečim psom na vhodu",
+        "Zrcalna palača iz stekla"
+      ],
+      "answer": "Gozdnati gaj Al-Aykah"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Utopljen v razdeljenem morju",
+        "Požrt z zakladi v zemljo",
+        "Zaradi kršenja sobote so se spremenili v opice",
+        "Rešen v barki nad potopnimi vodami",
+        "Uničen s kaznijo dneva sence"
+      ],
+      "answer": "Uničen s kaznijo dneva sence"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

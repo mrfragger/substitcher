@@ -1,0 +1,61 @@
+{
+  "title": "Szala, która przechyliła się w stronę ruiny",
+  "intro": "W bujnym i zamożnym regionie, kwitnąca społeczność pozwoliła, by chciwość zepsuła rynek. Znana z umiejętności handlowych i obfitości dóbr z okolicznych ogrodów, grupa ta stanęła przed wezwaniem do sprawiedliwości i wiary. Jednak duma z bogactwa doprowadziła do buntu, a na horyzoncie zebrał się mroczny cień.",
+  "clues": [
+    "Byliśmy zamożną społecznością handlową, żyjącą wśród ogrodów i zalesionych gajów.",
+    "Oszukiwaliśmy ludzi w kwestiach miar i wag, szerząc korupcję w kraju.",
+    "Nasz posłaniec ostrzegł nas, że mamy czcić tylko Allaha i dawać pełną miarę.",
+    "Wyśmiewaliśmy naszego posłańca i domagaliśmy się kary, jeśli będzie mówił prawdę.",
+    "Zostaliśmy dotknięci karą Dnia Cienia, gdy chmura nas osłoniła.",
+    "Jestem znany jako Towarzysze Lasu, ludzie, do których został posłany Szu’ajb."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Ludzie z Thamud",
+        "Towarzysze Lasu",
+        "Towarzysze Okopu",
+        "Ludzie Słonia",
+        "Towarzysze jaskini"
+      ],
+      "answer": "Towarzysze Lasu"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Dając krótkie środki i przeciwstawiając się naszemu posłańcowi",
+        "Żądanie bezpośredniego spotkania z Allahem na Górze Synaj",
+        "Zbudowanie wieży, aby sięgnąć nieba",
+        "Ukrywanie wiary w ukryciu w pałacu",
+        "Oddawanie czci złotemu cielcowi w czasie nieobecności Mojżesza"
+      ],
+      "answer": "Dając krótkie środki i przeciwstawiając się naszemu posłańcowi"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Święta dolina Tuwa",
+        "Ogień, który został schłodzony i bezpieczny",
+        "Zalesiony gaj Al-Aykah",
+        "Jaskinia z psem śpiącego przy wejściu",
+        "Pałac ze szkła lustrzanego"
+      ],
+      "answer": "Zalesiony gaj Al-Aykah"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Utonął w podzielonym morzu",
+        "Pochłonięty wraz ze skarbami przez ziemię",
+        "Zamienieni w małpy za łamanie szabatu",
+        "Ocaleni w arce nad wodami potopu",
+        "Zniszczony przez karę Dnia Cienia"
+      ],
+      "answer": "Zniszczony przez karę Dnia Cienia"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

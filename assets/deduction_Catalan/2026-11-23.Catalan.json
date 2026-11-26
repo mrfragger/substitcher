@@ -1,0 +1,61 @@
+{
+  "title": "La Declaració Ofegada",
+  "intro": "Imagineu-vos un poderós governant envoltat d'esplendor, monuments i exèrcits obedients a una sola ordre. Aquesta figura va reclamar l'autoritat suprema, va desestimar els signes divins com a il·lusions i va ordenar una persecució implacable cap al mar. Seguiu el rastre des dels decrets arrogants fins a les aigües dividides, on una confessió final arriba massa tard per salvar-nos.",
+  "clues": [
+    "Vaig tenir el poder absolut i vaig esclavitzar els fills d'Israel sota el meu govern.",
+    "Em vaig declarar el senyor més alt i em vaig negar a reconèixer cap déu per sobre meu.",
+    "Vaig manar a Aman que em construís una torre elevada perquè pogués contemplar el Déu de Moisès.",
+    "Vaig confrontar Musa i Harun quan van portar signes clars, i vaig anomenar bruixeria els seus miracles.",
+    "Vaig perseguir Musa i els creients amb els meus exèrcits de nit fins que vam arribar al mar.",
+    "Vaig declarar la meva fe mentre m'ofegava al mar, però ja era massa tard, i el meu cos va ser preservat com a senyal."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Namrud",
+        "Jalut (Goliat)",
+        "Abu Jahl",
+        "Faraó (Fir'aun)",
+        "Aman"
+      ],
+      "answer": "Faraó (Fir'aun)"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Va ser llançat a un foc que es va tornar fresc i segur",
+        "Va construir una arca per sobreviure a una gran inundació",
+        "Va dormir en una cova amb companys durant molts anys",
+        "Va ser engolit per un gran peix a les profunditats",
+        "Es va ofegar mentre perseguia Musa i els israelites pel mar obert"
+      ],
+      "answer": "Es va ofegar mentre perseguia Musa i els israelites pel mar obert"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "El ventre del gran peix",
+        "La Mesquita Sagrada de la Meca",
+        "El mar dividit",
+        "La cova d'Hira",
+        "El jardí amb rius que flueixen"
+      ],
+      "answer": "El mar dividit"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Elevat viu als cels",
+        "Transformats per trencar el Sàbat",
+        "Perdonat i concedit un llarg regnat pacífic",
+        "Engolit per la terra amb tresors",
+        "Ofegat en la incredulitat i el cos preservat com a senyal per a aquells que el van seguir"
+      ],
+      "answer": "Ofegat en la incredulitat i el cos preservat com a senyal per a aquells que el van seguir"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

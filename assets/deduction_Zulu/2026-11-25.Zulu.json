@@ -1,0 +1,61 @@
+{
+  "title": "Izikali Ezawela Encithakalweni",
+  "intro": "Esifundeni esinothile nesichumayo, umphakathi ochumayo wavumela ukuhaha ukuba konakalise imakethe. Laziwa ngamakhono okuhweba kanye nobuningi obuvela ezingadini ezizungezile, leli qembu labhekana nobizo lokulunga nokholo. Kodwa ukuziqhenya ngengcebo kwaholela ekungalalelini, futhi ithunzi elimnyama lahlangana ekugcineni.",
+  "clues": [
+    "Sasiwumphakathi ochumayo wezohwebo ohlala phakathi kwezingadi nezihlahla ezinamahlathi.",
+    "Sakhohlisa abantu ngezilinganiso nangezilinganiso, sasakaza inkohlakalo ezweni.",
+    "Saxwayiswa yisithunywa sethu ukuba sikhonze u-Allah kuphela futhi sinikeze isilinganiso esigcwele.",
+    "Sahleka usulu isithunywa sethu futhi safuna isijeziso uma sikhuluma iqiniso.",
+    "Sabanjwa yisijeziso soSuku lwethunzi lapho ifu lisibekela.",
+    "Ngaziwa ngokuthi ngabangane basehlathini, abantu okwathunyelwa kubo uShu'ayb."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Abantu baseThamud",
+        "Abangane Behlathi",
+        "Abangane Bomsele",
+        "Abantu Bendlovu",
+        "Abangane Bomhume"
+      ],
+      "answer": "Abangane Behlathi"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukunikeza isilinganiso esifushane nokweyisa isithunywa sethu",
+        "Ukufuna ukubona u-Allah ngqo eNtabeni iSinayi",
+        "Ukwakha umbhoshongo ukuze ufinyelele ezulwini",
+        "Ukufihla ukholo ngasese esigodlweni",
+        "Ukukhulekela ithole legolide uMose engekho"
+      ],
+      "answer": "Ukunikeza isilinganiso esifushane nokweyisa isithunywa sethu"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Isigodi esingcwele saseTuwa",
+        "Umlilo owenziwe waba pholile futhi waphephile",
+        "Ihlathi elinokhuni lase-Al-Aykah",
+        "Umhume onenja yomuntu olele emnyango wawo",
+        "Isigodlo sengilazi esibukwayo"
+      ],
+      "answer": "Ihlathi elinokhuni lase-Al-Aykah"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Ngicwile olwandle oluhlukene",
+        "Kugwinywe ingcebo emhlabeni",
+        "Waguqulwa waba yizinkawu ngenxa yokwephula iSabatha",
+        "Wasindiswa emkhunjini ngaphezu kwamanzi kazamcolo",
+        "Ukubhujiswa yisijeziso soSuku lweMthunzi"
+      ],
+      "answer": "Ukubhujiswa yisijeziso soSuku lweMthunzi"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

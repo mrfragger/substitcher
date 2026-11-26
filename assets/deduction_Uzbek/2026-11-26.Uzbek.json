@@ -1,0 +1,61 @@
+{
+  "title": "Bog' tongda qasamyod qildi",
+  "intro": "Quyosh chiqishidan oldingi sokin soatlarda yashirincha reja tuzildi. Gullab-yashnayotgan meros hosilga tayyor edi, ammo har bir mevani muhtojlardan uzoqroq tutishga qaror qilindi. Ertalab hamma narsa notanish bo'lib ko'rinardi va mulohaza yuritadigan har bir kishi uchun qoraygan shoxlarga saboq o'yib yozilardi.",
+  "clues": [
+    "Biz gullab-yashnayotgan bog'ni meros qilib oldik va uning barcha mevalarini o'zimiz uchun yig'ib olishga qasam ichdik.",
+    "Biz o'z ulushini so'ragan kambag'allar hali uxlab yotgan paytda tong otganda chiqib ketishga qasam ichdik.",
+    "Biz qasamyodimizdan istisnolarni chiqarib tashladik va agar Alloh xohlasa, demasdan muhtojlarning haqqini to'xtatdik.",
+    "O'sha kuni bog'imizga hech bir kambag'al kirmasin, deb bir-birimiz bilan pichirlashib chiqdik.",
+    "Biz hamma narsani yig'ib olishga va biron bir teruvchining bir qismini olishiga yo'l qo'ymaslikka qodir ekanligimizni tasavvur qildik.",
+    "Uyg'onib, bog'imizni tunda vayron bo'lganini, go'yo hosil yig'ib olingandek qorayib ketganini ko'rdik va biz mahrum bo'lganimizni va tavba qilganimizni aytdik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Xandaqdagi sahobalar",
+        "Jannat egalari",
+        "Yasin surasidagi shahar elchilari",
+        "Fil xalqi",
+        "Do'zax qo'riqchilari"
+      ],
+      "answer": "Jannat egalari"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Qotillik nizosini hal qilish uchun sigirni qurbon qilish",
+        "Payg'ambarni osmondan toshlar tushirishga chaqirish",
+        "Kambag'allarga o'z ulushlarini bermay, tong otganda hosil yig'ib olishni rejalashtirish",
+        "Baliq ovlash to'rlarini qo'yish orqali shanbani buzish",
+        "Savdo uchun suv toshqinlarini nazorat qilish uchun to'g'on qurish"
+      ],
+      "answer": "Kambag'allarga o'z ulushlarini bermay, tong otganda hosil yig'ib olishni rejalashtirish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Olov ko'rilgan muqaddas Tuva vodiysi",
+        "Devor bilan o'ralgan bog' ertalab o'rib olinadi",
+        "Ko'zguli saroy poli suv bilan adashtirildi",
+        "Ilohiy ko'rsatma asosida qurilgan yog'och kema",
+        "Ikki togʻ orasida qurilgan temir devor"
+      ],
+      "answer": "Devor bilan o'ralgan bog' ertalab o'rib olinadi"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Shabbatni buzganimiz uchun biz maymunlarga aylandik",
+        "Biz g'orda uch yuz to'qqiz yil uxladik",
+        "Bizni yer mag'rurlik xazinalari bilan yutib yubordi",
+        "Bog'imiz bir kechada vayron bo'ldi va tun kabi qorong'i bo'lib qoldi",
+        "Biz mo'minlarni ta'qib qilayotganimizda dengizda g'arq bo'ldik."
+      ],
+      "answer": "Bog'imiz bir kechada vayron bo'ldi va tun kabi qorong'i bo'lib qoldi"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

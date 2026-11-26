@@ -1,0 +1,61 @@
+{
+  "title": "Keseimbangan yang Berpihak pada Kehancuran",
+  "intro": "Di wilayah yang subur dan makmur, sebuah komunitas yang berkembang membiarkan keserakahan merusak pasar. Dikenal karena keahlian dalam perdagangan dan kelimpahan dari kebun-kebun di sekitarnya, kelompok ini menghadapi seruan untuk keadilan dan iman. Namun, kesombongan akan kekayaan menyebabkan pembangkangan, dan bayangan gelap berkumpul di cakrawala.",
+  "clues": [
+    "Kami adalah komunitas perdagangan yang makmur yang tinggal di antara kebun dan pepohonan.",
+    "Kami menipu orang dalam hal ukuran dan timbangan, menyebarkan korupsi di negeri ini.",
+    "Rasulullah telah memperingatkan kita untuk menyembah Allah semata dan memberikan sedekah secara penuh.",
+    "Kami mengejek utusan kami dan menuntut agar hukuman datang jika dia benar.",
+    "Kami ditimpa hukuman pada Hari Kegelapan ketika awan menutupi kami.",
+    "Aku dikenal sebagai Sahabat Hutan, orang-orang kepada siapa Shu'ayb diutus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Kaum Thamud",
+        "Para Sahabat Hutan",
+        "Para Sahabat Parit",
+        "Orang-orang Gajah",
+        "Para Sahabat Gua"
+      ],
+      "answer": "Para Sahabat Hutan"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Memberikan ukuran yang kurang dan menentang utusan kita",
+        "Menuntut untuk melihat Allah secara langsung di Gunung Sinai",
+        "Membangun menara untuk mencapai langit",
+        "Menyembunyikan iman secara diam-diam di dalam istana",
+        "Menyembah patung anak lembu emas saat Musa tidak ada di sana."
+      ],
+      "answer": "Memberikan ukuran yang kurang dan menentang utusan kita"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Lembah suci Tuwa",
+        "Api yang telah diredupkan dan dibuat aman.",
+        "Hutan rindang Al-Aykah",
+        "Gua dengan anjing tidur di pintu masuknya",
+        "Istana kaca bercermin"
+      ],
+      "answer": "Hutan rindang Al-Aykah"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Tenggelam di lautan yang terbelah",
+        "Tertelan bersama harta karun ke dalam bumi",
+        "Diubah menjadi kera karena melanggar hari Sabat",
+        "Diselamatkan dalam bahtera di atas air bah",
+        "Hancur oleh hukuman Hari Kegelapan"
+      ],
+      "answer": "Hancur oleh hukuman Hari Kegelapan"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

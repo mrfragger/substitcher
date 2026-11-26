@@ -1,0 +1,61 @@
+{
+  "title": "Isimemezelo Sokucwila",
+  "intro": "Cabanga ngombusi onamandla ozungezwe ubukhazikhazi, izikhumbuzo, namabutho alalela umyalo owodwa. Lesi sibalo sathi sinegunya eliphakeme, salahla izibonakaliso zaphezulu njengeziyinkohliso, futhi sayala ukuba kulandelwe olwandle ngokungapheli. Landela umkhondo kusukela ezinqumweni zokuzikhukhumeza kuya emanzini ahlukene, lapho ukuvuma kokugcina kufika sekwephuzile kakhulu ukuba kusindiswe.",
+  "clues": [
+    "Nganginamandla aphelele futhi ngabagqilaza abantwana bakwa-Israyeli ngaphansi kokubusa kwami.",
+    "Ngazibiza ngokuthi ngiyiNkosi ephakeme kakhulu futhi ngenqaba ukuvuma noma yimuphi unkulunkulu ongaphezu kwami.",
+    "Ngayala uHamani ukuba angakhele umbhoshongo ophakeme ukuze ngibheke uNkulunkulu kaMose.",
+    "Ngabhekana noMusa noHarun lapho beletha izimpawu ezicacile, futhi ngabiza izimangaliso zabo ngokuthi ubuthakathi.",
+    "Ngamlandela uMose namakholwa kanye namabutho ami ebusuku saze safika olwandle.",
+    "Ngamemezela ukholo ngesikhathi ngiminza olwandle, kodwa kwase kwephuze kakhulu, futhi isidumbu sami sagcinwa njengesibonakaliso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "I-Namrud",
+        "UJalut (uGoliyati)",
+        "U-Abu Jahl",
+        "UFaro (uFir'aun)",
+        "UHamani"
+      ],
+      "answer": "UFaro (uFir'aun)"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Waphonswa emlilweni owaba pholile futhi waphephile",
+        "Wakha umkhumbi ukuze asinde kuzamcolo omkhulu",
+        "Ngalala emhumeni nabangane iminyaka eminingi",
+        "Wagwinywa yinhlanzi enkulu ekujuleni",
+        "Wacwila ngenkathi elandela uMose nama-Israyeli olwandle oluhlukene"
+      ],
+      "answer": "Wacwila ngenkathi elandela uMose nama-Israyeli olwandle oluhlukene"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Isisu senhlanzi enkulu",
+        "I-Mosque Engcwele eMakkah",
+        "Ulwandle oluhlukanisiwe",
+        "Umhume waseHira",
+        "Ingadi enemifula egelezayo"
+      ],
+      "answer": "Ulwandle oluhlukanisiwe"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Wavuselwa ezulwini ephila",
+        "Uguqulwe ngenxa yokwephula iSabatha",
+        "Uthethelelwe futhi wanikezwa ukubusa okunokuthula isikhathi eside",
+        "Kugwinywe umhlaba ngengcebo",
+        "Ukuminza ngenxa yokungakholwa kanye nomzimba ogciniwe njengesibonakaliso salabo abazolandela"
+      ],
+      "answer": "Ukuminza ngenxa yokungakholwa kanye nomzimba ogciniwe njengesibonakaliso salabo abazolandela"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Novem Saecula Vocationis",
+  "intro": "Finge te solum stare contra undam ludibrii diutius quam imperia oriuntur et cadunt, clamantem nocte dieque dum aures teguntur et vestes adstringuntur. Ante te iacet navis in terra arida et aquis constructa, dissimilis nulli ante viso. Potesne sentire patientiam post hoc marathonem invitationum?",
+  "clues": [
+    "Populum meum nocte ac die, clam et palam, ad solum Allah colendum invitavi.",
+    "Populus meus digitos in aures impegit et vestimenta circum se praecinxit ut averterent se a me.",
+    "Inter populum meum per nongentos quinquaginta annos mansi, eos ad ducatum vocans.",
+    "Vas sub oculis et revelatione Allah aedificavi, dum populus meus me in sicca terra deridebat.",
+    "Iussum mihi est ut bina omnis generis et fideles in navem portarem cum mandatum advenisset et clibanus redundaret.",
+    "Fluctus velut montes attollere vidi, dum diluvium eos qui recusaverunt submergebat, dum Allah eos qui in Arca erant salvabat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Dhul-Kifl",
+        "Propheta Al-Yasa (Eliseus)",
+        "Propheta Nuh (Noah)",
+        "Propheta Lut (Lot)",
+        "Propheta Muhammadus"
+      ],
+      "answer": "Propheta Nuh (Noah)"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Matrem meam loquendo in infantia defendi",
+        "Somnium principis in carcere interpretatus est",
+        "Populum meum nocte ac die vocavi per annos nongentos quinquaginta",
+        "Vivus sublatus et ad altum gradum evectus est",
+        "Ab magno pisce in mari deglutitus est"
+      ],
+      "answer": "Populum meum nocte ac die vocavi per annos nongentos quinquaginta"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Vitulus aureus deserti",
+        "Ignis refrigeratus et tutus factus est",
+        "Palatium cum pavimento vitreo",
+        "Arca (Al-Fulk)",
+        "Baculus qui in serpentem factus est"
+      ],
+      "answer": "Arca (Al-Fulk)"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Populus meus vento glaciali septem noctes deletus est",
+        "Reiectores Magno Diluvio submersi sunt et fideles salvati sunt",
+        "Populus meus ingenti flatu quodam mane deleta est",
+        "Populus meus in simias conversus est propter transgressionem",
+        "Populus meus a terra absorptus est propter superbiam"
+      ],
+      "answer": "Reiectores Magno Diluvio submersi sunt et fideles salvati sunt"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

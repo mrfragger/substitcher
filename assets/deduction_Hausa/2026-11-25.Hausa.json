@@ -1,0 +1,61 @@
+{
+  "title": "Sikelin da Suka Faɗi Zuwa Rushewa",
+  "intro": "A cikin yanki mai wadata da wadata, al'umma mai bunƙasa ta bar kwadayi ya lalata kasuwa. An san wannan rukunin da ƙwarewa a fannin kasuwanci da wadata daga lambunan da ke kewaye, kuma ya fuskanci kira ga adalci da imani. Duk da haka, alfahari da dukiya ya haifar da rashin amincewa, kuma duhun inuwa ya taru a sararin sama.",
+  "clues": [
+    "Mun kasance al'umma mai wadata ta kasuwanci da ke zaune a tsakanin lambuna da bishiyoyi masu dazuzzuka.",
+    "Mun yi wa mutane zamba a ma'auni da nauyi, muna yaɗa fasadi a cikin ƙasa.",
+    "Manzonmu ya gargaɗe mu da mu bauta wa Allah shi kaɗai kuma mu cika ma'auni.",
+    "Mun yi wa manzonmu ba'a kuma muka nemi hukuncin ya zo idan yana da gaskiya.",
+    "An kama mu da azabar Ranar Inuwar lokacin da gajimare ya rufe mu.",
+    "An san ni da Sahabban Daji, mutanen da aka aiko Shu'aibu zuwa gare su."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Mutanen Samudawa",
+        "Sahabban Itace",
+        "Sahabban Madatsar Ruwa",
+        "Mutanen Giwa",
+        "Ma'abota Kogo"
+      ],
+      "answer": "Sahabban Itace"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Ba da ɗan gajeren ma'auni da kuma ƙin manzonmu",
+        "Neman ganin Allah kai tsaye a Dutsen Sinai",
+        "Gina hasumiya don isa ga sammai",
+        "Boye imani a ɓoye a cikin fada",
+        "Bauta wa maraƙin zinare a lokacin da Musa bai"
+      ],
+      "answer": "Ba da ɗan gajeren ma'auni da kuma ƙin manzonmu"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Kwarin Tuwa mai tsarki",
+        "Wutar da aka sanya ta yi sanyi kuma lafiya",
+        "Dajin Al-Aykah mai dausayi",
+        "Kogon da ke da karen mai barci a ƙofarsa",
+        "Fadar gilashi mai madubi"
+      ],
+      "answer": "Dajin Al-Aykah mai dausayi"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An nutsar da shi cikin teku da aka raba",
+        "An haɗiye shi da taskoki a cikin ƙasa",
+        "An canza shi zuwa birai saboda karya Asabar",
+        "An cece shi a cikin jirgi a saman ruwan ambaliya",
+        "An halaka shi da azabar Ranar Inuwa"
+      ],
+      "answer": "An halaka shi da azabar Ranar Inuwa"
+    }
+  },
+  "verseRef": "26:176",
+  "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "verse": "The companions of the thicket [i.e., the people of Madyan] denied the messengers (26:176)"
+}

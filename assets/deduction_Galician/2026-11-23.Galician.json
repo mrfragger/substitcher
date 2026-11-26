@@ -1,0 +1,61 @@
+{
+  "title": "A Declaración Afogada",
+  "intro": "Imaxina un poderoso gobernante rodeado de esplendor, monumentos e exércitos obedientes a unha única orde. Esta figura reclamaba a autoridade suprema, desestimaba os signos divinos como ilusións e ordenaba unha persecución implacable cara ao mar. Segue o rastro desde decretos arrogantes ata augas divididas, onde unha confesión final chega demasiado tarde para salvar.",
+  "clues": [
+    "Tiña o poder absoluto e escravizei os fillos de Israel baixo o meu goberno.",
+    "Declareime o señor máis alto e negueime a recoñecer ningún deus por riba de min.",
+    "Mandeille a Hamán que me construíse unha torre alta para poder contemplar o Deus de Moisés.",
+    "Enfronteime a Musa e a Harún cando trouxeron sinais claros, e chamei aos seus milagres bruxería.",
+    "Perseguín a Musa e aos crentes cos meus exércitos pola noite ata que chegamos ao mar.",
+    "Declarei a miña crenza mentres afogaba no mar, pero xa era demasiado tarde, e o meu corpo foi preservado como sinal."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Namrud",
+        "Jalut (Goliat)",
+        "Abu Jahl",
+        "Faraón (Fir'aun)",
+        "Amán"
+      ],
+      "answer": "Faraón (Fir'aun)"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Foi lanzado a un lume que se volveu frío e seguro",
+        "Construíu unha arca para sobrevivir a unha gran inundación",
+        "Durmiu nunha cova con compañeiros durante moitos anos",
+        "Foi tragado por un gran peixe nas profundidades",
+        "Afogouse mentres perseguía a Moisés e aos israelitas polo mar dividido"
+      ],
+      "answer": "Afogouse mentres perseguía a Moisés e aos israelitas polo mar dividido"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "A barriga do gran peixe",
+        "A Mesquita Sagrada da Meca",
+        "O mar dividido",
+        "A cova de Hira",
+        "O xardín cos ríos que flúen"
+      ],
+      "answer": "O mar dividido"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Elevado vivo aos ceos",
+        "Transformados por quebrantar o sábado",
+        "Perdoado e concedido un longo reinado pacífico",
+        "Tragado pola terra con tesouros",
+        "Afogado na incredulidade e o corpo preservado como sinal para os que o seguiron"
+      ],
+      "answer": "Afogado na incredulidade e o corpo preservado como sinal para os que o seguiron"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

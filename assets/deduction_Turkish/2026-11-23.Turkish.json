@@ -1,0 +1,61 @@
+{
+  "title": "Boğulmuşlar Bildirisi",
+  "intro": "Görkemli bir hükümdarı, ihtişam, anıtlar ve tek bir emre itaat eden ordularla çevrili olarak hayal edin. Bu figür, mutlak otorite iddiasında bulundu, ilahi işaretleri yanılsama olarak reddetti ve denize doğru amansız bir takip emri verdi. Kibirli fermanlardan, ayrılan sulara kadar uzanan izi takip edin; burada son itiraf, kurtarmak için çok geç kalmış bir şekilde geliyor.",
+  "clues": [
+    "Mutlak güce sahiptim ve İsrailoğullarını egemenliğim altına almıştım.",
+    "Kendimi en yüce efendi ilan ettim ve benden üstün herhangi bir tanrıyı tanımayı reddettim.",
+    "Haman'a, Musa'nın Tanrısı'na bakabilmek için bana yüksek bir kule inşa etmesini emrettim.",
+    "Musa ve Harun açık deliller getirdiklerinde onlarla yüzleştim ve mucizelerini büyücülük olarak nitelendirdim.",
+    "Musa'yı ve müminleri ordularımla geceleyin takip ederek denize ulaştık.",
+    "Denizde boğulurken inancımı ilan ettim, ama artık çok geçti ve bedenim bir işaret olarak korundu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Namrud",
+        "Jalut (Goliath)",
+        "Ebu Cehl",
+        "Firavun (Fir'aun)",
+        "Haman"
+      ],
+      "answer": "Firavun (Fir'aun)"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Soğuyup güvenli hale gelen bir ateşe atıldı.",
+        "Büyük bir tufandan kurtulmak için bir gemi inşa edildi.",
+        "Uzun yıllar boyunca arkadaşlarıyla birlikte bir mağarada uyudu.",
+        "Derinliklerde büyük bir balık tarafından yutuldu.",
+        "Musa ve İsrailoğullarını yarılmış denizde kovalarken boğuldu."
+      ],
+      "answer": "Musa ve İsrailoğullarını yarılmış denizde kovalarken boğuldu."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Büyük balığın karnı",
+        "Mekke'deki Kutsal Cami",
+        "Yarılmış deniz",
+        "Hira Mağarası",
+        "Akan nehirlerin bulunduğu bahçe"
+      ],
+      "answer": "Yarılmış deniz"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Göklere diri diri yükseltildiler",
+        "Şabat gününü ihlal ettiği için dönüştürüldü.",
+        "Affedildiler ve uzun, huzurlu bir saltanat bahşedildiler.",
+        "Hazinelerle dolu toprak tarafından yutuldu",
+        "İnanılmaz bir şok içinde boğuldu ve bedeni, kendisinden sonra gelenler için bir ibret olsun diye muhafaza edildi."
+      ],
+      "answer": "İnanılmaz bir şok içinde boğuldu ve bedeni, kendisinden sonra gelenler için bir ibret olsun diye muhafaza edildi."
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}

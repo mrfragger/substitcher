@@ -1,0 +1,61 @@
+{
+  "title": "Hukkuneen julistus",
+  "intro": "Kuvittele mahtava hallitsija, jota ympäröivät loisto, monumentit ja armeijat, jotka tottelevat yhtä käskyä. Tämä hahmo vaati itselleen korkeimman vallan, hylkäsi jumalalliset merkit illuusioina ja määräsi armottoman takaa-ajon kohti merta. Seuraa polkua ylimielisistä säädöksistä eronneille vesille, joissa lopullinen tunnustus saapuu liian myöhään pelastaakseen.",
+  "clues": [
+    "Minulla oli absoluuttinen valta ja orjuutin Israelin lapset valtani alle.",
+    "Julistin itseni korkeimmaksi herraksi ja kieltäydyin tunnustamasta ketään itseni yläpuolella olevaa jumalaa.",
+    "Minä käskin Hamanin rakentaa minulle korkean tornin, jotta voisin katsella Mooseksen Jumalaa.",
+    "Kohtasin Musan ja Harunin, kun he toivat selkeitä merkkejä, ja kutsuin heidän ihmeitään noituudeksi.",
+    "Ajatin armeijoillani takaa Moosesta ja uskovia yöllä, kunnes saavutimme meren.",
+    "Julistin uskovani hukkuessani mereen, mutta se oli liian myöhäistä, ja ruumiini säilyi merkkinä."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Namrud",
+        "Jalut (Goljat)",
+        "Abu Jahl",
+        "Faarao (Fir'aun)",
+        "Haman"
+      ],
+      "answer": "Faarao (Fir'aun)"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Heitettiin tuleen, josta tuli viileä ja turvallinen",
+        "Rakensi arkin selviytyäkseen suuresta tulvasta",
+        "Nukkui luolassa kavereiden kanssa monta vuotta",
+        "Suuri kala nielaisi hänet syvyyksissä",
+        "Hukkui ajaessaan takaa Musaa ja israelilaisia ​​jakautuneen meren läpi"
+      ],
+      "answer": "Hukkui ajaessaan takaa Musaa ja israelilaisia ​​jakautuneen meren läpi"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Suuren kalan vatsa",
+        "Pyhä moskeija Mekassa",
+        "Eronnut meri",
+        "Hiran luola",
+        "Puutarha virtaavine jokineen"
+      ],
+      "answer": "Eronnut meri"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Herätetty elävältä taivaisiin",
+        "Muuttunut sapatin rikkomisesta",
+        "Anteeksiannettu ja pitkä rauhallinen hallituskausi",
+        "Maan nielaisema aarteineen",
+        "Epäuskoon hukkuen ja ruumis säilytettynä merkkinä tuleville"
+      ],
+      "answer": "Epäuskoon hukkuen ja ruumis säilytettynä merkkinä tuleville"
+    }
+  },
+  "verseRef": "10:91",
+  "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "verse": "Now? And you had disobeyed [Him] before and were of the corrupters? (10:91)"
+}
